@@ -1,0 +1,56 @@
+name: Ci
+
+on:
+    push:
+        branches: [main]
+
+jobs:
+    convert-to-json:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v1
+
+            - name: cache-dependence
+              uses: actions/cache@v2
+              id: cache-dependence
+              with:
+                  path: node_modules
+                  key: ${{ hashFiles('package-lock.json') }}
+
+            - name: install dependence
+              if: steps.cache-dependence.outputs.cache-hit != 'true'
+              run: npm install
+
+            - name: convert markdown files to json
+              run: npm run convert
+
+            # - name: push changes
+            #   uses: devops-infra/action-commit-push@master
+            #   with:
+            #       github_token: "${{ secrets.GITHUB_TOKEN }}"
+            #       commit_message: ${{ github.event.head_commit.message }}
+            #       target_branch: json
+
+            - name: change to json branch
+              uses: actions/checkout@v2
+              with:
+                  ref: json
+                  clean: false
+
+            - name: Commit changes
+              uses: EndBug/add-and-commit@v7
+              with:
+                  message: ${{ github.event.head_commit.message }} ${{ github.sha }}
+                  add: "./catalog/**/*.json"
+                  branch: json
+
+            # - name: Deploy
+            #   uses: peaceiris/actions-gh-pages@v3
+            #   with:
+            #       github_token: ${{ secrets.GITHUB_TOKEN }}
+            #       publish_branch: json
+            #       publish_dir: ./catalog
+            #       destination_dir: ./catalog
+            #       keep_files: true
+            #       commit_message: ${{ github.event.head_commit.message }}
