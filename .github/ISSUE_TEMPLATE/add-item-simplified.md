@@ -3,7 +3,7 @@ name: add-item-simplified
 about: This template is used to ask to add a new item to the project
 title: "[add-item] "
 labels: ''
-assignees: ''
+assignees: zzhenryquezz
 
 ---
 
