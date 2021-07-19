@@ -1,14 +1,15 @@
 # Contributing Guide
 
-Hi friend first of all thanks for the interest in help the project, in this page you will see how to help the project with some tutoriais, but also fell free to use the discussions page of the project if you have any doubts.
+Hi friend first of all thanks for the interest in help the project, in this page you will see how you to help the project to be better.
 
-Theses are the things that you can do to help the project:
+And theses are the things that you can do to help us:
 
 -   Tell us about some anime/manga that you want us to add to the project
 -   Tell us about some wrong information of an item
--   Pull request to add a new item to the project
--   Pull request to fix wrong information in the files
--   Pull request with translation of an item
+-   Add to catalog an anime, manga, ova, movie, etc...
+-   Translate a file in the catalog
+
+> **tip:** Fell free to use the discussions page of the project if you have any doubts.
 
 ## Requirements
 
@@ -18,15 +19,18 @@ A github account to create issues, forks and pull requests.
 
 You can use the [issues page](https://github.com/htron-dev/baka-db/issues) for that, when you create the issue will have some templates that you can use to elaborate your issue.
 
-## How to add a new item
+## How add/edit an item
 
-To add a new item you need create a new folder with the name of the item in the animes or manga folder
+You can make a pull request adding a new file to the catalog
 
-Create the default files that are `index.json`, `metas.json` and `sinopse.md`.
+We have some rules in naming the files and the content format, but they are ve very simple rules
+and we need to follow they to make sure that will not have any problems with the API and filesystem in the future:
 
-And make pull request to the item be added in the project.
+**helper links:**
 
-The folder name must follow this rules to make sure that will not have any problems with the API and filesystem:
+-   [editing-files-in-github](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository)
+
+### Folder naming rules:
 
 -   Use the original japanese name
 -   No kanji
@@ -49,97 +53,91 @@ Examples:
 + the-idolmaster # right
 ```
 
-### `index.json`
+### File naming rules:
 
-This file contain information that do not need to be translated to others languages like release date, number of episodes/chapters, studios, etc...
+-   Must have prefix with the code language of the file
+-   The name must tell what media it is
+-   No special characters
+-   Need to be a markdown file `.md`
 
-Example file:
+Examples:
 
-```json
-{
-    "episodes": 112, // in mangas will be chapters
-    "originalName": "幽☆遊☆白書",
-    "release": {
-        "start": "1992-08-10",
-        "end": "1995-07-01"
-    },
-    "studios": [
-        {
-            "name": "Pierrot",
-            "link": "https://en.pierrot.jp/"
-        }
-    ],
-    "sites": [
-        {
-            "name": "My anime list",
-            "link": "https://myanimelist.net/anime/392/Yuu%E2%98%86Yuu%E2%98%86Hakusho"
-        },
-        {
-            "name": "Anime db",
-            "link": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=312"
-        },
-        {
-            "name": "Wikipedia",
-            "link": "https://wikipedia.org/wiki/YuYu_Hakusho"
-        }
-    ]
-}
+```diff
+- tv-serie.md # wrong
++ en-US_tv-serie.md # right
+
+- en-US_anime-1.md # wrong
++ en-US-tv-serie.md # right
+
+- en-US_ov@.md # wrong
++ en-US-ova.md # right
+
+- en-US_tv-serie.txt # wrong
++ en-US-tv-serie.md # right
+
 ```
 
-### `metas.json`
+Sometimes you will have more items of same media in theses case you can just add a number in the end of filename like in the examples bellow:
 
-This file contain some metadata about the item that can be translated to other languages like local name of anime, genders, etc
+```
+en-US_tv-serie.md
+en-US_tv-serie-2.md
+en-US_tv-serie-3.md
 
-Example file:
+en-US_movie.md
+en-US_movie-2.md
 
-```json
-{
-    "name": "Yu Yu Hakusho",
-    "alternativeNames": [
-        "Yu Yu Hakusho: Ghost Files",
-        "Ghost Fighter",
-        "Poltergeist Report",
-        "YuYu Hakusho"
-    ],
-    "Genres": [
-        "shonen",
-        "action",
-        "comedy",
-        "demons",
-        "supernatural",
-        "martial-arts"
-    ]
-}
+en-US_ova.md
+en-US_ova-2.md
 ```
 
-### `sinopse.md`
+### This is the content template to create the item:
 
-This file will simple contain the sinopse of the item and can be translated too.
+```md
+# Name of item
 
-## Translation
+Some optional short description...
 
-The metas.json and sinopse.md are the files of an item that can be translated to other languages.
+## Information
 
-The index.json file is an exception because it will contain information that do not change between languages like release date and studio.
+-   **type**: tv-serie | manga | light-novel | ova
+-   **episodes**:
+-   **original-name**:
+-   **start-date**: 1992-08-10
+-   **end-date**: 1995-07-01
 
-### How translate a item
+## Alternative names
 
-Each item will have some default files that are `metas.json` and `sinopse.md` and they are in en-US, you can use they as a base for your translation.
+-   item-1
+-   item-2
+-   item-3
 
-So Let's take a example to translate a metas.json.
+## Studios
 
--   **Step 1**: Choose an item and go to it's folder
+-   item-1
+-   item-2
+-   item-3
 
--   **Step 2**: Click in add a new file, and the name will be also metas.json but with a prefix telling what language the file is it.  
-    Ex: `pt-BR_metas.json`
+## Genres
 
--   **Step 3**: Now in the new file you can copy the content of the original metas.json and replace the texts in the file for translated ones
+-   item-1
+-   item-2
+-   item-3
 
--   **Step 4**: When finished your translation you can commit and send a pull request to the main repository to be reviewed and latter be merged in the main project.
+## Links
+
+link-1
+link-2
+
+## Sinopse
+
+The sinopse of item...
+```
 
 ## Commit Specification
 
 Commit messages should follow the [commit message convention](https://www.conventionalcommits.org).
+
 Examples:
 
 -   add a new anime:
