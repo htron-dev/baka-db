@@ -6,5 +6,12 @@
         "Poltergeist Report",
         "YuYu Hakusho"
     ],
-    "Genres": ["shonen", "action", "comedy", "demons", "supernatural", "martial-arts"]
+    "genres": [
+        "shonen",
+        "action",
+        "comedy",
+        "demons",
+        "supernatural",
+        "martial-arts"
+    ]
 }
