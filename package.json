@@ -1,0 +1,25 @@
+{
+    "name": "baka-db",
+    "version": "1.0.0",
+    "description": "Public anime database with anime sinopse, information, genres, etc",
+    "main": "index.js",
+    "scripts": {
+        "prepare": "husky install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/htron-dev/baka-db.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/htron-dev/baka-db/issues"
+    },
+    "homepage": "https://github.com/htron-dev/baka-db#readme",
+    "devDependencies": {
+        "@commitlint/cli": "^12.1.4",
+        "@commitlint/config-conventional": "^12.1.4",
+        "husky": "^7.0.1"
+    }
+}
