@@ -1,0 +1,33 @@
+{
+  "title": ".hack//G.U. Returner",
+  "description": ".hack//G.U. Returner is a single-episode OVA offered to Japanese fans who completed all three .hack//G.U. Games, featuring characters from the .hack//G.U. Games and .hack//Roots. It can be thought of as the Unison of .hack Conglomerate.",
+  "information": {
+    "type": "ova",
+    "episodes": "1",
+    "start_date": "2007-01-18",
+    "end_date": "2007-01-18"
+  },
+  "studios": [
+    {
+      "text": "Bee train",
+      "link": "http://www.beetrain.co.jp/"
+    }
+  ],
+  "genres": [
+    "action",
+    "adventure",
+    "fantasy",
+    "sci-fi",
+    "drama"
+  ],
+  "links": [
+    {
+      "text": "My anime list",
+      "link": "https://myanimelist.net/anime/2928/hack__GU_Returner"
+    },
+    {
+      "text": "Anime db",
+      "link": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5391"
+    }
+  ]
+}

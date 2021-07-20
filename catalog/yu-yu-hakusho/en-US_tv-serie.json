@@ -1,0 +1,45 @@
+{
+  "title": "Yu yu hakusho",
+  "description": "Yu Yu Hakusho is a Japanese manga series written and illustrated by Yoshihiro Togashi. The series tells the story of Yusuke Urameshi, a teenage delinquent who is struck and killed by a car while attempting to save a child's life.\n\nAfter a number of tests presented to him by Koenma, the son of the ruler of the afterlife Underworld, Yusuke is revived and appointed the title of \"Underworld Detective\", with which he must investigate various cases involving demons and apparitions in the human world.\n\nThe manga becomes more focused on martial arts battles and tournaments as it progresses. Togashi began creating YuYu Hakusho around November 1990, basing the series on his interests in the occult and horror films and an influence of Buddhist mythology.",
+  "information": {
+    "type": "tv-serie",
+    "episodes": "112",
+    "original_name": "幽 ☆ 遊 ☆ 白書",
+    "start_date": "1992-08-10",
+    "end_date": "1995-07-01"
+  },
+  "alternative_names": [
+    "yu-yu-hakusho-ghost-files",
+    "ghost-fighter",
+    "poltergeist-report",
+    "yu-yu-hakusho"
+  ],
+  "studios": [
+    {
+      "text": "Pierrot",
+      "link": "https://en.pierrot.jp/"
+    }
+  ],
+  "genres": [
+    "shonen",
+    "action",
+    "comedy",
+    "demons",
+    "supernatural",
+    "martial-arts"
+  ],
+  "links": [
+    {
+      "text": "My animelist",
+      "link": "https://myanimelist.net/anime/392/Yuu%E2%98%86Yuu%E2%98%86Hakusho"
+    },
+    {
+      "text": "AnimeDB",
+      "link": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=312"
+    },
+    {
+      "text": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/YuYu_Hakusho"
+    }
+  ]
+}
