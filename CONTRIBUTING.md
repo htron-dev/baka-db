@@ -91,49 +91,9 @@ en-US_ova.md
 en-US_ova-2.md
 ```
 
-### This is the content template to create the item:
+### Template
 
-```md
-# Name of item
-
-Some optional short description...
-
-## Information
-
--   **type**: tv-serie | manga | light-novel | ova
--   **episodes**:
--   **original-name**:
--   **start-date**: 1992-08-10
--   **end-date**: 1995-07-01
-
-## Alternative names
-
--   item-1
--   item-2
--   item-3
-
-## Studios
-
--   [item-1](url)
--   [item-2](url)
--   [item-3](url)
-
-## Genres
-
--   item-1
--   item-2
--   item-3
-
-## Links
-
--   [link-1](url)
--   [link-2](url)
--   [link-3](url)
-
-## Sinopse
-
-The sinopse of item...
-```
+Use the [template.md](./template.md) file to know the basic information that item needs
 
 ## Commit Specification
 
