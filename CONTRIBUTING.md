@@ -56,39 +56,31 @@ Examples:
 ### File naming rules:
 
 -   Must have prefix with the code language of the file
--   The name must tell what media it is
 -   No special characters
 -   Need to be a markdown file `.md`
 
 Examples:
 
 ```diff
-- tv-serie.md # wrong
-+ en-US_tv-serie.md # right
+- yu-yu-hakusho.md # wrong
++ en-US_yu-yu-hakusho.md # right
 
-- en-US_anime-1.md # wrong
-+ en-US-tv-serie.md # right
+- en-US_.hack//sign.md # wrong
++ en-US_hack-sign.md # right
 
-- en-US_ov@.md # wrong
-+ en-US-ova.md # right
-
-- en-US_tv-serie.txt # wrong
-+ en-US-tv-serie.md # right
+- en-US_yu-yu-hakusho.txt # wrong
++ en-US-yu-yu-hakusho.md # right
 
 ```
 
-Sometimes you will have more items of same media in theses case you can just add a number in the end of filename like in the examples bellow:
+Sometimes you could have items with same names, in these case you can add the media type in the name or a number:
 
 ```
-en-US_tv-serie.md
-en-US_tv-serie-2.md
-en-US_tv-serie-3.md
+en-US-yu-yu-hakusho-tv-serie.md
+en-US-yu-yu-hakusho-manga.md
 
-en-US_movie.md
-en-US_movie-2.md
-
-en-US_ova.md
-en-US_ova-2.md
+en-US-yu-yu-hakusho-ova.md
+en-US-yu-yu-hakusho-ova-2.md
 ```
 
 ### Template
