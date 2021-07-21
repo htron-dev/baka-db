@@ -1,4 +1,4 @@
-name: Ci
+name: Conversor
 
 on:
     push:
@@ -25,13 +25,6 @@ jobs:
             - name: convert markdown files to json
               run: npm run convert
 
-            # - name: push changes
-            #   uses: devops-infra/action-commit-push@master
-            #   with:
-            #       github_token: "${{ secrets.GITHUB_TOKEN }}"
-            #       commit_message: ${{ github.event.head_commit.message }}
-            #       target_branch: json
-
             - name: change to json branch
               uses: actions/checkout@v2
               with:
@@ -44,13 +37,3 @@ jobs:
                   message: ${{ github.event.head_commit.message }} ${{ github.sha }}
                   add: "./catalog/**/*.json"
                   branch: json
-
-            # - name: Deploy
-            #   uses: peaceiris/actions-gh-pages@v3
-            #   with:
-            #       github_token: ${{ secrets.GITHUB_TOKEN }}
-            #       publish_branch: json
-            #       publish_dir: ./catalog
-            #       destination_dir: ./catalog
-            #       keep_files: true
-            #       commit_message: ${{ github.event.head_commit.message }}

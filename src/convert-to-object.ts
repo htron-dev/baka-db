@@ -1,11 +1,12 @@
 import fs from "fs";
-import path from "path";
 import { promisify } from "util";
 import lodash from "lodash";
 
-const objects = ["information"];
+const textBlocks = ["sinopse"];
 
-const lists = ["studios", "links", "genres", "alternative_names"];
+const objectsBlocks = ["information"];
+
+const listBlocks = ["studios", "links", "genres", "alternative_names"];
 
 function getText(content: string[]) {
     return content.join("\n").replace(/^\s+|\s+$/g, "");
@@ -36,7 +37,7 @@ function getList(content: string[]) {
                 };
             }
 
-            return lodash.kebabCase(item.replace(/- +/, ""));
+            return item.replace(/- +/, "");
         });
 }
 
@@ -69,12 +70,16 @@ export async function convertFileToObject(path: string) {
             value.description = getText(content);
         }
 
-        if (lists.includes(key)) {
+        if (listBlocks.includes(key)) {
             value[key] = getList(content);
         }
 
-        if (objects.includes(key)) {
+        if (objectsBlocks.includes(key)) {
             value[key] = getObject(content);
+        }
+
+        if (textBlocks.includes(key)) {
+            value[key] = getText(content);
         }
 
         return {
