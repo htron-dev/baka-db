@@ -76,11 +76,11 @@ Examples:
 Sometimes you could have items with same names, in these case you can add the media type in the name or a number:
 
 ```
-en-US-yu-yu-hakusho-tv-serie.md
-en-US-yu-yu-hakusho-manga.md
+en-US-yu-yu-hakusho.tv-serie.md
+en-US-yu-yu-hakusho.manga.md
 
-en-US-yu-yu-hakusho-ova.md
-en-US-yu-yu-hakusho-ova-2.md
+en-US-yu-yu-hakusho.ova.md
+en-US-yu-yu-hakusho.ova-2.md
 ```
 
 ### Template
