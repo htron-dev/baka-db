@@ -4,7 +4,7 @@ Some optional short description...
 
 ## Information
 
--   **type**: tv-serie | manga | light-novel | ova
+-   **type**: tv-serie | manga | light-novel | ova | special
 -   **episodes**:
 -   **original-name**:
 -   **start-date**: 1992-08-10

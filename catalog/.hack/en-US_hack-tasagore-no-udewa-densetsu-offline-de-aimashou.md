@@ -15,7 +15,7 @@
 
 ## Studios
 
--   [My anime list](https://myanimelist.net/anime/298/hack__Tasogare_no_Udewa_Densetsu)
+-   [Bee train](http://www.beetrain.co.jp/)
 
 ## Genres
 
