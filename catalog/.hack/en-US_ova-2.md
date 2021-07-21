@@ -12,6 +12,8 @@
 
 ## Studios
 
+-   [Bee train](http://www.beetrain.co.jp/)
+
 ## Genres
 
 -   comedy
