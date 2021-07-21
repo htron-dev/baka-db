@@ -114,9 +114,9 @@ Some optional short description...
 
 ## Studios
 
--   item-1
--   item-2
--   item-3
+-   [item-1](url)
+-   [item-2](url)
+-   [item-3](url)
 
 ## Genres
 
@@ -126,8 +126,9 @@ Some optional short description...
 
 ## Links
 
-link-1
-link-2
+-   [link-1](url)
+-   [link-2](url)
+-   [link-3](url)
 
 ## Sinopse
 
