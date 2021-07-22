@@ -22,18 +22,21 @@ jobs:
               if: steps.cache-dependence.outputs.cache-hit != 'true'
               run: npm install
 
-            - name: convert markdown files to json
-              run: npm run convert
+            # - name: get changed files
+            #   id: files
+            #   uses: jitterbit/get-changed-files@v1
+            #   continue-on-error: true
 
-            - name: change to json branch
-              uses: actions/checkout@v2
-              with:
-                  ref: json
-                  clean: false
+            - name: convert markdown files to json
+              run: npm run conversor:json
+
+            - name: post-run of json conversor
+              run: npm run conversor:json:post-run
 
             - name: Commit changes
               uses: EndBug/add-and-commit@v7
               with:
                   message: ${{ github.event.head_commit.message }} ${{ github.sha }}
-                  add: "./catalog/**/*.json"
+                  add: .
+                  remove: '["./catalog/**/*.md"]'
                   branch: json

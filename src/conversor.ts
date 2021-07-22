@@ -18,7 +18,7 @@ async function convertItemFilesToObjects(name: string) {
                 const content = await convertFileToObject(`${folder}/${file}`);
 
                 await promisify(fs.writeFile)(
-                    jsonPath,
+                    `${jsonPath}.new`,
                     JSON.stringify(content, null, 2)
                 );
             })
@@ -31,4 +31,7 @@ async function main() {
     await Promise.all(folders.map(convertItemFilesToObjects));
 }
 
-main();
+main().catch((err) => {
+    console.error(err);
+    process.exit(0);
+});

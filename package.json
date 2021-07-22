@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "prepare": "husky install",
-        "convert": "ts-node src/index.ts"
+        "conversor:json": "ts-node src/conversor.ts",
+        "conversor:json:post-run": "ts-node src/post-run-conversor.ts"
     },
     "repository": {
         "type": "git",
