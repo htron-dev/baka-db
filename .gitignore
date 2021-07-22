@@ -1,2 +1,3 @@
 node_modules
 catalog/**/*.json
+catalog/**/*.new

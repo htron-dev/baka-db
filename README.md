@@ -4,6 +4,11 @@ Public anime/manga database with information about animes and mangas
 
 Current under development
 
+## Formats
+
+-   [markdown](https://github.com/htron-dev/baka-db/tree/main/catalog)
+-   [json](https://github.com/htron-dev/baka-db/tree/json/catalog)
+
 ## Objectives
 
 -   Be a very good source of data

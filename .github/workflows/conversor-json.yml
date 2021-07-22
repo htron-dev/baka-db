@@ -1,4 +1,4 @@
-name: Conversor
+name: conversor-json
 
 on:
     push:
@@ -10,6 +10,8 @@ jobs:
         steps:
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v1
+              with:
+                  node-version: "14"
 
             - name: cache-dependence
               uses: actions/cache@v2
@@ -22,8 +24,13 @@ jobs:
               if: steps.cache-dependence.outputs.cache-hit != 'true'
               run: npm install
 
+            # - name: get changed files
+            #   id: files
+            #   uses: jitterbit/get-changed-files@v1
+            #   continue-on-error: true
+
             - name: convert markdown files to json
-              run: npm run convert
+              run: npm run conversor:json
 
             - name: change to json branch
               uses: actions/checkout@v2
@@ -31,9 +38,13 @@ jobs:
                   ref: json
                   clean: false
 
-            - name: Commit changes
+            - name: post-run of json conversor
+              run: npm run conversor:json:post-run
+
+            - name: Commit changes to json branch
               uses: EndBug/add-and-commit@v7
               with:
                   message: ${{ github.event.head_commit.message }} ${{ github.sha }}
-                  add: "./catalog/**/*.json"
+                  add: .
+                  remove: '["./catalog/**/*.md"]'
                   branch: json
