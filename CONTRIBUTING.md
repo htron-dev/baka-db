@@ -96,23 +96,23 @@ Examples:
 -   add a new anime:
 
 ```
-feat(anime): add yu yu hakusho
+feat(catalog): add yu yu hakusho
 ```
 
 -   add a new manga:
 
 ```
-feat(manga): add yu yu hakusho
+feat(catalog): add yu yu hakusho
 ```
 
 -   fix some a wrong data:
 
 ```
-fix(anime): fix yu yu hakusho wrong original name kanji
+fix(catalog): fix yu yu hakusho wrong original name kanji
 ```
 
 -   update or improve something:
 
 ```
-refactor(anime): improve yu yu hakusho pt-BR sinopse
+refactor(catalog): improve yu yu hakusho pt-BR sinopse
 ```
