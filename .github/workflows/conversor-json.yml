@@ -12,7 +12,7 @@ on:
                 description: "Project names to be converted, separated by space"
 
 jobs:
-    convert-to-json:
+    conversor:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
@@ -31,12 +31,7 @@ jobs:
               if: steps.cache-dependence.outputs.cache-hit != 'true'
               run: npm install
 
-            # - name: get changed files
-            #   id: files
-            #   uses: jitterbit/get-changed-files@v1
-            #   continue-on-error: true
-
-            - name: convert markdown files to json
+            - name: run conversor json
               run: npm run conversor:json ${{ github.event.inputs.projects }}
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
@@ -46,16 +41,18 @@ jobs:
               with:
                   ref: json
                   clean: false
+                  path: ./catalog
 
-            - name: post-run of json conversor
-              run: npm run conversor:json:post-run ${{ github.event.inputs.projects }}
-              env:
-                  LOG_LEVEL: ${{ github.event.inputs.logLevel }}
+            # - name: run conversor json post-run
+            #   run: npm run conversor:json:post-run ${{ github.event.inputs.projects }}
+            #   env:
+            #       LOG_LEVEL: ${{ github.event.inputs.logLevel }}
 
-            # - name: Commit changes to json branch
+            - run: ls ./catalog/.hack
+
+            # - name: add changes to json branch
             #   uses: EndBug/add-and-commit@v7
             #   with:
-            #       message: ${{ github.event.head_commit.message }} ${{ github.sha }}
+            #       message: conversor-json action ${{ github.sha }}
             #       add: .
-            #       remove: '["./catalog/**/*.md"]'
             #       branch: json

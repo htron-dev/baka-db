@@ -6,7 +6,7 @@
     "scripts": {
         "prepare": "husky install",
         "conversor:json": "ts-node src/run-conversor-json.ts",
-        "conversor:json:post-run": "ts-node src/run-post-conversor-json.ts"
+        "conversor:json:post-run": "ts-node src/run-conversor-json-post-run.ts"
     },
     "repository": {
         "type": "git",
