@@ -1,8 +1,15 @@
 name: conversor-json
 
 on:
-    push:
-        branches: [main]
+    workflow_dispatch:
+        inputs:
+            logLevel:
+                description: "Log level"
+                required: true
+                default: "info"
+            projects:
+                required: true
+                description: "Project names to be converted, separated by space"
 
 jobs:
     convert-to-json:
@@ -30,7 +37,9 @@ jobs:
             #   continue-on-error: true
 
             - name: convert markdown files to json
-              run: npm run conversor:json
+              run: npm run conversor:json ${{ github.event.inputs.projects }}
+              env:
+                  LOG_LEVEL: ${{ github.event.inputs.logLevel }}
 
             - name: change to json branch
               uses: actions/checkout@v2
@@ -39,12 +48,14 @@ jobs:
                   clean: false
 
             - name: post-run of json conversor
-              run: npm run conversor:json:post-run
+              run: npm run conversor:json:post-run ${{ github.event.inputs.projects }}
+              env:
+                  LOG_LEVEL: ${{ github.event.inputs.logLevel }}
 
-            - name: Commit changes to json branch
-              uses: EndBug/add-and-commit@v7
-              with:
-                  message: ${{ github.event.head_commit.message }} ${{ github.sha }}
-                  add: .
-                  remove: '["./catalog/**/*.md"]'
-                  branch: json
+            # - name: Commit changes to json branch
+            #   uses: EndBug/add-and-commit@v7
+            #   with:
+            #       message: ${{ github.event.head_commit.message }} ${{ github.sha }}
+            #       add: .
+            #       remove: '["./catalog/**/*.md"]'
+            #       branch: json
