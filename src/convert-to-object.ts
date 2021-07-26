@@ -4,9 +4,9 @@ import lodash from "lodash";
 
 const textBlocks = ["sinopse"];
 
-const objectsBlocks = ["information"];
+const objectsBlocks: string[] = [];
 
-const listBlocks = ["studios", "links", "genres", "alternative_names"];
+const listBlocks = ["studios", "links", "tags", "alternative_names", "authors"];
 
 function getText(content: string[]) {
     return content.join("\n").replace(/^\s+|\s+$/g, "");
@@ -67,7 +67,7 @@ export async function convertFileToObject(path: string) {
 
         if (index === 0) {
             value.title = name;
-            value.description = getText(content);
+            Object.assign(value, getObject(content));
         }
 
         if (listBlocks.includes(key)) {

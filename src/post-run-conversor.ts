@@ -17,24 +17,20 @@ async function updateFolderFiles(name: string) {
             .map(async (file) => {
                 const basename = path.extname(file);
 
+                console.log(file, basename);
+
                 if (basename === ".json") {
-                    await promisify(fs.rm)(getCatalogPath(name, file));
+                    return await promisify(fs.unlink)(
+                        getCatalogPath(name, file)
+                    );
                 }
 
                 if (basename === ".new") {
-                    await promisify(fs.rename)(
+                    return await promisify(fs.rename)(
                         getCatalogPath(name, file),
                         getCatalogPath(name, file.replace(".json.new", ".json"))
                     );
                 }
-                // const jsonPath = `${folder}/${file.replace(/.md/, ".json")}`;
-
-                // const content = await convertFileToObject(`${folder}/${file}`);
-
-                // await promisify(fs.writeFile)(
-                //     `${jsonPath}.new`,
-                //     JSON.stringify(content, null, 2)
-                // );
             })
     );
 }
