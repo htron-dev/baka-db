@@ -5,35 +5,47 @@ import { convertFileToObject } from "./convert-to-object";
 import Logger from "./logger";
 
 async function convertProjectFilesToJson(project: string) {
-    const folder = path.resolve(__dirname, "..", "catalog", project);
-    const exist = await promisify(fs.exists)(folder);
+    const projectFolder = path.resolve(__dirname, "..", "catalog", project);
+
+    await promisify(fs.mkdir)(
+        path.resolve(__dirname, "..", "dist", "catalog", project),
+        {
+            recursive: true,
+        }
+    );
+
+    const exist = await promisify(fs.exists)(projectFolder);
 
     if (!exist) {
         Logger.error("project not found: %s", project);
         return;
     }
 
-    const files = await promisify(fs.readdir)(folder);
+    const files = await promisify(fs.readdir)(projectFolder);
 
     await Promise.all(
         files
             .filter((file) => path.extname(file) === ".md")
             .map(async (file) => {
                 const jsonPath = path.resolve(
-                    folder,
+                    path.resolve(__dirname, "..", "dist", "catalog", project),
                     file.replace(/.md/, ".json")
                 );
 
                 const content = await convertFileToObject(
-                    path.resolve(folder, file)
+                    path.resolve(projectFolder, file)
                 );
 
+                await promisify(fs.mkdir)(path.dirname(jsonPath), {
+                    recursive: true,
+                });
+
                 await promisify(fs.writeFile)(
-                    `${jsonPath}.new`,
+                    jsonPath,
                     JSON.stringify(content, null, 4)
                 );
 
-                Logger.debug("file converted: %s", file);
+                Logger.debug("conversor-json: file converted %s", file);
             })
     );
 }

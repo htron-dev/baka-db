@@ -41,18 +41,22 @@ jobs:
               with:
                   ref: json
                   clean: false
-                  path: ./catalog
 
-            # - name: run conversor json post-run
-            #   run: npm run conversor:json:post-run ${{ github.event.inputs.projects }}
-            #   env:
-            #       LOG_LEVEL: ${{ github.event.inputs.logLevel }}
+            - name: remove old files
+              run: |
+                  for project in ${{ github.event.inputs.projects }}; do
+                    rm -rf "./catalog/${project}"
+                  done
 
-            - run: ls ./catalog/.hack
+            - name: add new files
+              run: |
+                  for project in ${{ github.event.inputs.projects }}; do
+                    cp -r "./dist/catalog/${project}" "./catalog/${project}"
+                  done
 
-            # - name: add changes to json branch
-            #   uses: EndBug/add-and-commit@v7
-            #   with:
-            #       message: conversor-json action ${{ github.sha }}
-            #       add: .
-            #       branch: json
+            - name: add changes to json branch
+              uses: EndBug/add-and-commit@v7
+              with:
+                  message: conversor-json action ${{ github.sha }}
+                  add: ./catalog
+                  branch: json
