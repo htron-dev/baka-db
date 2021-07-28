@@ -1,7 +1,7 @@
 import test from "japa";
 import moment from "moment";
 
-import { createCatalogManger } from "../src/catalog-manager";
+import { createCatalogManger } from "../catalog-manager";
 
 import validTypes from "../valid-types.json";
 import validTags from "../valid-tags.json";
@@ -20,7 +20,7 @@ test.group("test markdown files", (group) => {
             assert.equal(
                 item.title && item.title !== "",
                 true,
-                `Title is required`
+                "Title is required"
             );
         });
     });

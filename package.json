@@ -6,8 +6,8 @@
     "scripts": {
         "prepare": "husky install",
         "test": "ts-node japaFile.ts",
-        "conversor:json": "ts-node src/run-conversor-json.ts",
-        "conversor:json:post-run": "ts-node src/run-conversor-json-post-run.ts"
+        "lint": "eslint . --ext .ts,.json",
+        "conversor:json": "ts-node src/run-conversor-json.ts"
     },
     "repository": {
         "type": "git",
@@ -26,6 +26,15 @@
         "@types/lodash": "^4.14.171",
         "@types/node": "^16.3.3",
         "@types/pino": "^6.3.10",
+        "@typescript-eslint/eslint-plugin": "^4.28.5",
+        "@typescript-eslint/parser": "^4.28.5",
+        "eslint": "^7.31.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-config-standard": "^16.0.3",
+        "eslint-plugin-import": "^2.23.4",
+        "eslint-plugin-json": "^3.0.0",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^5.1.0",
         "husky": "^7.0.1",
         "japa": "^3.1.1",
         "pino-pretty": "^5.1.2",

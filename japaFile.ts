@@ -4,5 +4,5 @@ import { configure } from "japa";
 moment.suppressDeprecationWarnings = true;
 
 configure({
-    files: ["tests/*.test.ts"],
+    files: ["src/tests/*.test.ts"],
 });
