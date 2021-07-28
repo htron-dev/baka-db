@@ -22,7 +22,7 @@ Some optional short description...
 -   [item-2](url)
 -   [item-3](url)
 
-## Genres
+## Tags
 
 -   item-1
 -   item-2
