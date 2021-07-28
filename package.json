@@ -6,7 +6,7 @@
     "scripts": {
         "prepare": "husky install",
         "test": "ts-node japaFile.ts",
-        "lint": "eslint . --ext .ts,.json",
+        "lint": "eslint . --ext .ts",
         "conversor:json": "ts-node src/run-conversor-json.ts"
     },
     "repository": {
