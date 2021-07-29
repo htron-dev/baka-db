@@ -2,6 +2,8 @@ name: conversor
 
 on:
     push:
+        branches: [main]
+
     workflow_dispatch:
         inputs:
             logLevel:
@@ -13,7 +15,7 @@ on:
                 description: 'Project names to be converted, separated by space'
 
 jobs:
-    json:
+    build:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2

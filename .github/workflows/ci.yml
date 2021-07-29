@@ -1,9 +1,14 @@
 name: ci
 
-on: [push, pull_request]
+on:
+    push:
+        branches: [main]
+
+    pull_request:
+        branches: [main]
 
 jobs:
-    ci:
+    build:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
@@ -26,6 +31,7 @@ jobs:
             - name: get changed files
               id: files
               uses: jitterbit/get-changed-files@v1
+              continue-on-error: true
 
             - name: tests
               run: npm run test ${{ steps.files.outputs.all }}
