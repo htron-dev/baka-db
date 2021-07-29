@@ -7,13 +7,6 @@ import Logger from './logger'
 async function convertProjectFilesToJson(project: string) {
     const projectFolder = path.resolve(__dirname, '..', 'catalog', project)
 
-    await promisify(fs.mkdir)(
-        path.resolve(__dirname, '..', 'dist', 'catalog', project),
-        {
-            recursive: true
-        }
-    )
-
     let exist = true
 
     await promisify(fs.access)(projectFolder).catch(() => (exist = false))
@@ -54,6 +47,11 @@ async function convertProjectFilesToJson(project: string) {
 
 async function main() {
     const projects = process.argv.slice(2)
+
+    await promisify(fs.mkdir)(
+        path.resolve(__dirname, '..', 'dist', 'catalog'),
+        { recursive: true }
+    )
 
     await Promise.all(projects.map(convertProjectFilesToJson))
 }

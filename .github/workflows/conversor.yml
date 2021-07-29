@@ -1,6 +1,7 @@
-name: conversor-json
+name: conversor
 
 on:
+    push:
     workflow_dispatch:
         inputs:
             logLevel:
@@ -31,8 +32,22 @@ jobs:
               if: steps.cache-dependence.outputs.cache-hit != 'true'
               run: npm install
 
+            - name: set-current-changed-files
+              if: github.event.inputs.projects == ''
+              id: changed-files
+              uses: jitterbit/get-changed-files@v1
+              continue-on-error: true
+
+            - name: set-files-for-automatic-run
+              if: github.event.inputs.projects == ''
+              run: echo "files=${{ steps.changed-files.outputs.all }}" >> $GITHUB_ENV
+
+            - name: set-files-for-manual-action
+              if: github.event.inputs.projects != ''
+              run: echo "files=${{ github.event.inputs.projects }}" >> $GITHUB_ENV
+
             - name: run conversor json
-              run: npm run conversor:json ${{ github.event.inputs.projects }}
+              run: npm run conversor:json ${{ env.files }}
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
 
@@ -49,14 +64,14 @@ jobs:
                   done
 
             - name: add new files
-              run: |
-                  for project in ${{ github.event.inputs.projects }}; do
-                    cp -r "./dist/catalog/${project}" "./catalog/${project}"
-                  done
+              run: cp -RT ./dist/catalog/ ./catalog/
+
+            - name: set-current-date
+              run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
             - name: add changes to json branch
               uses: EndBug/add-and-commit@v7
               with:
-                  message: conversor-json action ${{ github.sha }}
+                  message: ${{ env.date }} ${{ github.sha }}
                   add: ./catalog
                   branch: json
