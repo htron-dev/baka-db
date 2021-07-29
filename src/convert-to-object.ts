@@ -61,6 +61,13 @@ export async function convertFileToObject(path: string) {
             return
         }
 
+        if (!blocs[currentIndex]) {
+            blocs[currentIndex] = {
+                name: '',
+                content: []
+            }
+        }
+
         blocs[currentIndex].content.push(line)
     })
 

@@ -1,0 +1,34 @@
+name: ci
+
+on: [push, pull_request]
+
+jobs:
+    ci:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+
+            - uses: actions/setup-node@v1
+              with:
+                  node-version: '14'
+
+            - name: cache
+              id: cache-dependence
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ hashFiles('package-lock.json') }}
+
+            - name: install dependence
+              if: steps.cache-dependence.outputs.cache-hit != 'true'
+              run: npm install
+
+            - name: get changed files
+              id: files
+              uses: jitterbit/get-changed-files@v1
+
+            - name: tests
+              run: npm run test ${{ steps.files.outputs.all }}
+
+            - name: lint
+              run: npm run lint ${{ steps.files.outputs.all }}

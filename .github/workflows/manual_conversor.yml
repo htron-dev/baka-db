@@ -4,21 +4,21 @@ on:
     workflow_dispatch:
         inputs:
             logLevel:
-                description: "Log level"
+                description: 'Log level'
                 required: true
-                default: "info"
+                default: 'info'
             projects:
                 required: true
-                description: "Project names to be converted, separated by space"
+                description: 'Project names to be converted, separated by space'
 
 jobs:
-    conversor:
+    json:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v1
               with:
-                  node-version: "14"
+                  node-version: '14'
 
             - name: cache-dependence
               uses: actions/cache@v2
