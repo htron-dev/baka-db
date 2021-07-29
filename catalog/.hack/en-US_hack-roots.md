@@ -19,7 +19,7 @@
 
 ## Sinopse
 
-After the termination of the incredibly popular virtual reality MMORPG "The World," a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World. 
+After the termination of the incredibly popular virtual reality MMORPG "The World," a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World.
 
 Alongside Ovan and his cleric friend Shino, Haseo enjoys a wonderful first year in the game. But this peaceful life is shattered when Shino's character is killed by a familiar figure notoriously known as Tri-Edge, whose victims have all fallen into comas in the real world. In a fit of rage, Haseo vows to find the elusive Tri-Edge and kill him.
 

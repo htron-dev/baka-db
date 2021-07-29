@@ -2,7 +2,7 @@
 
 -   **type**: ona
 -   **episodes**: 1
--   **original-name**: だいたい3分でわかる.hackヒストリー
+-   **original-name**: だいたい 3 分でわかる.hack ヒストリー
 -   **start-date**: 2017-10-20
 -   **rating**: G - All Ages
 

@@ -1,8 +1,8 @@
-import moment from 'moment';
-import { configure } from 'japa';
+import moment from 'moment'
+import { configure } from 'japa'
 
-moment.suppressDeprecationWarnings = true;
+moment.suppressDeprecationWarnings = true
 
 configure({
-    files: ['src/tests/*.test.ts'],
-});
+    files: ['src/tests/*.test.ts']
+})

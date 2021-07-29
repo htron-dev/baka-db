@@ -16,7 +16,7 @@
 
 ## Sinopse
 
-A special bonus Parody Mode added to the extras of the .hack//G.U. Trilogy 
+A special bonus Parody Mode added to the extras of the .hack//G.U. Trilogy
 
 (Source: AniDB)
 

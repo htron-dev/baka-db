@@ -18,7 +18,7 @@
 
 ## Sinopse
 
-Tobias, Mary, and Sakuya challenge the impregnable "The One Sin", but they lose their way in the maze and unintentionally trap other guild members. A mysterious cat is watching their blunder. Is it another player character or NPC? 
+Tobias, Mary, and Sakuya challenge the impregnable "The One Sin", but they lose their way in the maze and unintentionally trap other guild members. A mysterious cat is watching their blunder. Is it another player character or NPC?
 
 ## Links
 

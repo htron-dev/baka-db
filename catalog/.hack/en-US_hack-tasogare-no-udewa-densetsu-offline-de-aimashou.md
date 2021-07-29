@@ -16,7 +16,7 @@
 
 ## Sinopse
 
-It's a short story about the characters from .hack// Legend of the Twilight meeting offline. It's more to hear than to see. It shows only backgrounds from the real world with the heads of the charater-game-avatars; but it reveals some interesting real life informations about the characters. 
+It's a short story about the characters from .hack// Legend of the Twilight meeting offline. It's more to hear than to see. It shows only backgrounds from the real world with the heads of the charater-game-avatars; but it reveals some interesting real life informations about the characters.
 
 ## Links
 
