@@ -1,10 +1,7 @@
-name: ci
+name: lint
 
 on:
     push:
-        branches: [main]
-
-    pull_request:
         branches: [main]
 
 jobs:
@@ -32,5 +29,15 @@ jobs:
               uses: jitterbit/get-changed-files@v1
               continue-on-error: true
 
-            - name: npm run test
-              run: npm run test ${{ steps.files.outputs.all }}
+            - name: eslint
+              run: npm run eslint -- --fix ${{ steps.files.outputs.all }}
+
+            - name: prettier
+              run: npm run prettier -- -w ${{ steps.files.outputs.all }}
+
+            - run: git status --porcelain
+
+            - name: commit-changes
+              uses: EndBug/add-and-commit@v7
+              with:
+                  message: "style: auto-fix code style issues ${{ github.sha }}"

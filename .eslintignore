@@ -1,6 +1,7 @@
 node_modules
 dist
 .vscode
+.github
 
 package.json
 package-lock.json
