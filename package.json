@@ -8,7 +8,7 @@
         "test": "ts-node japaFile.ts",
         "lint": "npm run eslint . && npm run prettier .",
         "eslint": "eslint --ext .ts",
-        "prettier": "prettier -c .",
+        "prettier": "prettier -c",
         "conversor:json": "ts-node src/run-conversor-json.ts"
     },
     "repository": {
