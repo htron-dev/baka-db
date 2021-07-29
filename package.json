@@ -6,7 +6,7 @@
     "scripts": {
         "prepare": "husky install",
         "test": "ts-node japaFile.ts",
-        "lint": "eslint . --ext .ts",
+        "lint": "eslint --ext .ts .",
         "conversor:json": "ts-node src/run-conversor-json.ts"
     },
     "repository": {
@@ -32,7 +32,6 @@
         "eslint-config-prettier": "^8.3.0",
         "eslint-config-standard": "^16.0.3",
         "eslint-plugin-import": "^2.23.4",
-        "eslint-plugin-json": "^3.0.0",
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-promise": "^5.1.0",
         "husky": "^7.0.1",

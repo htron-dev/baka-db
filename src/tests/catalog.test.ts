@@ -34,7 +34,7 @@ test.group('Markdown en-US files content', (group) => {
             assert.equal(
                 item.title && item.title !== '',
                 true,
-                `Title is required`
+                'Title is required'
             )
         })
     })

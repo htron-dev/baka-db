@@ -1,90 +1,93 @@
-import fs from "fs";
-import { promisify } from "util";
-import lodash from "lodash";
+import fs from 'fs'
+import { promisify } from 'util'
+import lodash from 'lodash'
+import Logger from './logger'
 
-const textBlocks = ["sinopse"];
+const textBlocks = ['sinopse']
 
-const objectsBlocks: string[] = [];
+const objectsBlocks: string[] = []
 
-const listBlocks = ["studios", "links", "tags", "alternative_names", "authors"];
+const listBlocks = ['studios', 'links', 'tags', 'alternative_names', 'authors']
 
 function getText(content: string[]) {
-    return content.join("\n").replace(/^\s+|\s+$/g, "");
+    return content.join('\n').replace(/^\s+|\s+$/g, '')
 }
 
 function getObject(content: string[]) {
     return content
-        .filter((c) => c !== "")
+        .filter((c) => c !== '')
         .reduce((all, item) => {
-            const [key, value] = item.split(":");
+            const [key, value] = item.split(':')
 
             return {
                 ...all,
-                [lodash.snakeCase(key)]: getText([value]),
-            };
-        }, {});
+                [lodash.snakeCase(key)]: getText([value])
+            }
+        }, {})
 }
 
 function getList(content: string[]) {
     return content
-        .filter((c) => c !== "")
+        .filter((c) => c !== '')
         .map((item) => {
             // check if is a markdown link
             if (/\(.*?\)/.test(item) && /\[.*?\]/.test(item)) {
                 return {
-                    text: lodash.get(item.match(/\[(.*?)\]/), "[1]", null),
-                    link: lodash.get(item.match(/\((.*?)\)/), "[1]", null),
-                };
+                    text: lodash.get(item.match(/\[(.*?)\]/), '[1]', null),
+                    link: lodash.get(item.match(/\((.*?)\)/), '[1]', null)
+                }
             }
 
-            return item.replace(/- +/, "");
-        });
+            return item.replace(/- +/, '')
+        })
 }
 
 export async function convertFileToObject(path: string) {
-    const file = await promisify(fs.readFile)(path, "utf-8");
+    Logger.debug('converting file to object: %s', path)
 
-    const blocs: any[] = [];
+    const file = await promisify(fs.readFile)(path, 'utf-8')
 
-    let currentIndex = -1;
+    const blocs: any[] = []
 
-    file.split("\n").forEach((line) => {
-        if (line.charAt(0) === "#") {
-            currentIndex++;
+    let currentIndex = -1
+
+    file.split('\n').forEach((line) => {
+        if (line.charAt(0) === '#') {
+            currentIndex++
             blocs[currentIndex] = {
-                name: line.replace(/#+ /g, ""),
-                content: [],
-            };
-            return;
+                name: line.replace(/#+ /g, ''),
+                content: []
+            }
+            return
         }
 
-        blocs[currentIndex].content.push(line);
-    });
+        blocs[currentIndex].content.push(line)
+    })
 
     return blocs.reduce((result, { name, content }, index) => {
-        const value: any = {};
-        const key = lodash.snakeCase(name);
+        const value: any = {}
+        const key = lodash.snakeCase(name)
 
         if (index === 0) {
-            value.title = name;
-            Object.assign(value, getObject(content));
+            value.title = name
+            Object.assign(value, getObject(content))
         }
 
         if (listBlocks.includes(key)) {
-            value[key] = getList(content);
+            value[key] = getList(content)
         }
 
         if (objectsBlocks.includes(key)) {
-            value[key] = getObject(content);
+            value[key] = getObject(content)
         }
 
         if (textBlocks.includes(key)) {
-            value[key] = getText(content);
+            value[key] = getText(content)
         }
 
         return {
             ...result,
-            ...value,
-        };
-    }, {});
+            ...value
+        }
+    }, {})
 }

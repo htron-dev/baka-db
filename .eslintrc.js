@@ -3,7 +3,7 @@ module.exports = {
         es2021: true,
         node: true
     },
-    extends: ['standard', 'plugin:json/recommended', 'prettier'],
+    extends: ['standard', 'prettier'],
     parser: '@typescript-eslint/parser',
     parserOptions: {
         ecmaVersion: 12,
@@ -11,6 +11,7 @@ module.exports = {
     },
     plugins: ['@typescript-eslint'],
     rules: {
-        indent: ['error', 4]
+        indent: ['error', 4],
+        quotes: ['error', 'single']
     }
 }
