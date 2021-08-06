@@ -1,8 +1,15 @@
 # Baka-DB
 
-Public anime/manga database with information about animes and mangas
+<div align='center'>
+
+  ![logo-128](https://user-images.githubusercontent.com/43827016/128577846-fb2d59a9-4aae-4591-8b67-83c9bb95b53b.png)
+
+  Public anime/manga database
 
 Current under development
+  
+</div>
+
 
 ## Formats
 
@@ -12,9 +19,8 @@ Current under development
 ## Objectives
 
 -   Be a very good source of data
--   Have a good and easy way to view in github site
+-   Have a good and easy way to view the data
 -   Easy to anyone contributing
--   Have a good way to use as an api
 
 ## Project principles
 
@@ -23,16 +29,21 @@ Current under development
 
 ## About the catalog
 
-All the items are in the catalogs folder, and we have one folder for any material related to the item.
-So if the item have a tv-serie, tv-serie second season, ova, movie, manga, visual novel, etc.. all this will be in the same folder.
+All the content of database are in the catalogs folder, each folder represents a project that contents the medias that this project may have.
 
-You will notice that all files have a prefix like en-US or pt-BR this tell what the language is the file and is how the project handle the translations.
+So for example if we have an anime called "Naruto" and a manga called "Naruto" both of they will go in project folder "naruto", and also if exist another season, ova, movie, special, or anything that is related to the project "naruto" it will also be is this folder.
 
-## Item
 
-For the name of an item in catalog we use the first name know of the item like the name of original source for example.
 
-And if you looking for a translated version check the prefix of the file Ex: `[lang]_tv-series.md`.
+## Translations
+You will notice that all files in the database have a prefix like `en-US` or `pt-BR`, this tell what is the language that the content is written.
+
+With that we can have the data in multiple languages in the database.
+
+Ex:
+
+- `en-US_naruto-tv-series.md`
+- `pt-BR_naruto-tv-series.md`
 
 # Contributing
 
