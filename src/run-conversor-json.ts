@@ -56,36 +56,43 @@ async function main() {
         { recursive: true }
     )
 
-    return new Promise((resolve) => {
-        const host = process.env.REDIS_HOST || '127.0.0.1'
-        const port = process.env.REDIS_PORT || '6379'
+    return new Promise((resolve, reject) => {
+        try {
+            const host = process.env.REDIS_HOST || '127.0.0.1'
+            const port = process.env.REDIS_PORT || 6379
 
-        const queue = new Queue('conversor', `redis://${host}:${port}`)
+            const queue = new Queue('conversor', `redis://${host}:${port}`)
 
-        process.argv
-            .slice(2)
-            .map((f) => {
-                if (!f.includes('catalog/')) {
-                    return f
-                }
+            queue.empty()
+            queue.clean(0)
 
-                const [, project] = f.split('/')
-                return project
+            process.argv
+                .slice(2)
+                .map((f) => {
+                    if (!f.includes('catalog/')) {
+                        return f
+                    }
+
+                    const [, project] = f.split('/')
+                    return project
+                })
+                .filter((p, index, array) => array.indexOf(p) === index)
+                .forEach((project) => queue.add({ project }))
+
+            queue.process(async (job, done) => {
+                const { project } = job.data
+
+                await convertProjectFilesToJson(project)
+
+                Logger.info('conversor: %s project converted', project)
+
+                done()
             })
-            .filter((p, index, array) => array.indexOf(p) === index)
-            .forEach((project) => queue.add({ project }))
 
-        queue.process(async (job, done) => {
-            const { project } = job.data
-
-            await convertProjectFilesToJson(project)
-
-            Logger.info('conversor: %s project converted', project)
-
-            done()
-        })
-
-        queue.on('drained', resolve)
+            queue.on('drained', resolve)
+        } catch (error) {
+            reject(error)
+        }
     })
 }
 
