@@ -66,8 +66,8 @@ jobs:
               run: npm run conversor:json ${{ env.files }}
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
-                  REDIS_HOST: redis
-                  REDIS_PORT: ${{ job.services.redis.ports[6379] }}
+                  REDIS_HOST: localhost
+                  REDIS_PORT: 6379
 
             - name: change to json branch
               uses: actions/checkout@v2
