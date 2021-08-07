@@ -17,10 +17,7 @@
 
 ## Sinopse
 
-1-3. ½
-4. ½ After Story
-5. Watashi wo Suki tte Hontou desu ka?
-6. Kimi no Koe wo Kiiteiru
+1-3. ½ 4. ½ After Story 5. Watashi wo Suki tte Hontou desu ka? 6. Kimi no Koe wo Kiiteiru
 
 ## Links
 
