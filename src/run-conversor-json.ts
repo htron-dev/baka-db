@@ -1,6 +1,9 @@
 import fs from 'fs'
 import path from 'path'
 import { promisify } from 'util'
+
+import Queue from 'bull'
+
 import { convertFileToObject } from './convert-to-object'
 import Logger from './logger'
 
@@ -41,23 +44,51 @@ async function convertProjectFilesToJson(project: string) {
                 )
 
                 Logger.debug('conversor-json: file converted %s', file)
+
+                await new Promise((resolve) => setTimeout(resolve, 1000))
             })
     )
 }
 
 async function main() {
-    const projects = process.argv.slice(2)
-
     await promisify(fs.mkdir)(
         path.resolve(__dirname, '..', 'dist', 'catalog'),
         { recursive: true }
     )
 
-    await Promise.all(projects.map(convertProjectFilesToJson))
+    return new Promise((resolve) => {
+        const queue = new Queue('conversor')
+
+        process.argv
+            .slice(2)
+            .map((f) => {
+                if (!f.includes('catalog/')) {
+                    return f
+                }
+
+                const [, project] = f.split('/')
+                return project
+            })
+            .filter((p, index, array) => array.indexOf(p) === index)
+            .forEach((project) => queue.add({ project }))
+
+        queue.process(async (job, done) => {
+            const { project } = job.data
+
+            await convertProjectFilesToJson(project)
+
+            done()
+        })
+
+        queue.on('drained', resolve)
+    })
 }
 
 main()
-    .then(() => Logger.info('conversor-json: conversion finished'))
+    .then(() => {
+        Logger.info('conversor-json: conversion finished')
+        process.exit(0)
+    })
     .catch((err) => {
         Logger.error(err)
         process.exit(1)

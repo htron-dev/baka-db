@@ -48,7 +48,7 @@ test.group('Markdown en-US files content', (group) => {
             assert.equal(
                 moment(item.start_date).isValid(),
                 true,
-                `Invalid date "${item.start_date}"`
+                `Invalid date "${item.start_date}" for "${item.title}"`
             )
         })
     })
@@ -62,7 +62,7 @@ test.group('Markdown en-US files content', (group) => {
             assert.equal(
                 moment(item.end_date).isValid(),
                 true,
-                `Invalid date "${item.end_date}"`
+                `Invalid date "${item.end_date}" for "${item.title}"`
             )
         })
     })
