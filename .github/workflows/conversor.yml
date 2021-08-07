@@ -17,6 +17,11 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
+        
+        services:
+          redis:
+            image: redis
+
         steps:
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v1
@@ -46,12 +51,15 @@ jobs:
 
             - name: set-files-for-manual-action
               if: github.event.inputs.projects != ''
-              run: echo "files=${{ github.event.inputs.projects }}" >> $GITHUB_ENV
+              # run: echo "files=${{ github.event.inputs.projects }}" >> $GITHUB_ENV
+              run: find catalog -type d -regex ".*/${{ github.event.inputs.projects }}[^/]*" | xargs echo "files=$1" >> $GITHUB_ENV
 
             - name: run conversor json
               run: npm run conversor:json ${{ env.files }}
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
+                  REDIS_HOST: redis
+                  REDIS_PORT: 6379
 
             - name: change to json branch
               uses: actions/checkout@v2

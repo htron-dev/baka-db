@@ -57,7 +57,10 @@ async function main() {
     )
 
     return new Promise((resolve) => {
-        const queue = new Queue('conversor')
+        const host = process.env.REDIS_HOST || '127.0.0.1'
+        const port = process.env.REDIS_PORT || '6379'
+
+        const queue = new Queue('conversor', `redis://${host}:${port}`)
 
         process.argv
             .slice(2)
