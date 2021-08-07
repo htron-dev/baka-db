@@ -1,0 +1,35 @@
+{
+    "title": "Captain Tsubasa",
+    "type": "tv-serie",
+    "episodes": "128",
+    "original_name": "キャプテン翼",
+    "start_date": "1983-10-13",
+    "end_date": "1983-10-13",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "action",
+        "shounen",
+        "sports"
+    ],
+    "sinopse": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing soccer at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession.\n\nIn order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.\n\nHe encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2116/Captain_Tsubasa"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=505"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=916"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Captain_Tsubasa"
+        }
+    ]
+}

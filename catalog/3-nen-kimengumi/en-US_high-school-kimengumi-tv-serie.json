@@ -1,0 +1,37 @@
+{
+    "title": "High School! Kimengumi",
+    "type": "tv-serie",
+    "episodes": "86",
+    "original_name": "ハイスクール！奇面組",
+    "start_date": "1985-10-20",
+    "end_date": "1985-10-20",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "None",
+    "tags": [
+        "comedy",
+        "parody",
+        "romance",
+        "school",
+        "shounen"
+    ],
+    "sinopse": "A group of 5 male high school students that call themselves the funny-face group cause trouble at school with their crazy antics.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/714/High_School_Kimengumi"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1356"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1414"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/High_School!_Kimengumi"
+        }
+    ]
+}
