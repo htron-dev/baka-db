@@ -77,6 +77,8 @@ async function main() {
 
             await convertProjectFilesToJson(project)
 
+            Logger.info('conversor: %s project converted', project)
+
             done()
         })
 
