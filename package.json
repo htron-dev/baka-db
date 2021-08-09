@@ -9,7 +9,8 @@
         "lint": "npm run eslint . && npm run prettier .",
         "eslint": "eslint --ext .ts",
         "prettier": "prettier -c",
-        "conversor:json": "ts-node src/run-conversor-json.ts"
+        "conversor:json": "ts-node src/run-conversor-json.ts",
+        "project:status": "ts-node src/run-status.ts"
     },
     "repository": {
         "type": "git",
@@ -26,6 +27,7 @@
         "@commitlint/cli": "^12.1.4",
         "@commitlint/config-conventional": "^12.1.4",
         "@types/bull": "^3.15.3",
+        "@types/glob": "^7.1.4",
         "@types/lodash": "^4.14.171",
         "@types/node": "^16.3.3",
         "@types/pino": "^6.3.10",
@@ -46,6 +48,7 @@
     },
     "dependencies": {
         "bull": "^3.28.1",
+        "glob": "^7.1.7",
         "lodash": "^4.17.21",
         "moment": "^2.29.1",
         "pino": "^6.13.0"

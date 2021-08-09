@@ -35,12 +35,17 @@ export function createCatalogManger() {
         return projectPaths.reduce((all, p) => all.concat(p), [])
     }
 
+    async function getItem(filename: string) {
+        return convertFileToObject(filename)
+    }
+
     async function getItems(filesPaths: string[]) {
         return await Promise.all(filesPaths.map(convertFileToObject))
     }
 
     return {
         getFilePaths,
+        getItem,
         getItems
     }
 }

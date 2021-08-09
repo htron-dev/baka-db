@@ -1,92 +1,82 @@
 import test from 'japa'
 import moment from 'moment'
-import path from 'path'
+import glob from 'glob'
 
 import { createCatalogManger } from '../catalog-manager'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
 
-test.group('Markdown en-US files content', (group) => {
-    let items: any[] = []
+const args = process.argv.slice(2)
 
-    group.before(async () => {
-        const manager = createCatalogManger()
+let filenames: string[] = []
+const manager = createCatalogManger()
 
-        let changedFiles = process.argv.slice(2)
+if (args[0] === '--regex') {
+    filenames = glob.sync(args[1])
+} else {
+    filenames = args
+}
 
-        if (!changedFiles.length) {
-            changedFiles = await manager.getFilePaths({
-                lang: 'en-US'
+filenames.forEach((filename, index, array) => {
+    test.group(
+        `test content(${index + 1}/${array.length}): ${filename}`,
+        (group) => {
+            let item: any
+
+            group.before(async () => {
+                item = await manager.getItem(filename)
             })
-        }
 
-        const filePaths = changedFiles.filter((filename) => {
-            const [lang] = path.basename(filename).split('_')
-            return lang === 'en-US'
-        })
-
-        items = await manager.getItems(filePaths)
-    })
-
-    test('should items have title', (assert) => {
-        items.forEach((item) => {
-            assert.equal(
-                item.title && item.title !== '',
-                true,
-                'Title is required'
-            )
-        })
-    })
-
-    test('should items start-date be valid if have one', (assert) => {
-        items.forEach((item) => {
-            if (!item.start_date) {
-                return
-            }
-
-            assert.equal(
-                moment(item.start_date).isValid(),
-                true,
-                `Invalid date "${item.start_date}" for "${item.title}"`
-            )
-        })
-    })
-
-    test('should items end-date be valid if have one', (assert) => {
-        items.forEach((item) => {
-            if (!item.end_date) {
-                return
-            }
-
-            assert.equal(
-                moment(item.end_date).isValid(),
-                true,
-                `Invalid date "${item.end_date}" for "${item.title}"`
-            )
-        })
-    })
-
-    test('should items type be valid', (assert) => {
-        items.forEach((item) => {
-            assert.equal(
-                validTypes.includes(item.type),
-                true,
-                `Invalid type "${item.type}"`
-            )
-        })
-    })
-
-    test('should items tags be valid', (assert) => {
-        items
-            .map((item) => item.tags || [])
-            .reduce((all, tags) => all.concat(tags), [])
-            .forEach((tag: string) => {
+            test('should items have title', (assert) => {
                 assert.equal(
-                    validTags.includes(tag),
+                    item.title && item.title !== '',
                     true,
-                    `Invalid tag "${tag}"`
+                    'Title is required'
                 )
             })
-    })
+
+            test('should items start-date be valid if have one', (assert) => {
+                if (!item.start_date) {
+                    return
+                }
+
+                assert.equal(
+                    moment(item.start_date).isValid(),
+                    true,
+                    `Invalid date "${item.start_date}"`
+                )
+            })
+
+            test('should items end-date be valid if have one', (assert) => {
+                if (!item.end_date) {
+                    return
+                }
+
+                assert.equal(
+                    moment(item.end_date).isValid(),
+                    true,
+                    `Invalid date "${item.end_date}"`
+                )
+            })
+
+            test('should items type be valid', (assert) => {
+                assert.equal(
+                    validTypes.includes(item.type),
+                    true,
+                    `Invalid type "${item.type}"`
+                )
+            })
+
+            test('should items tags be valid', (assert) => {
+                item.tags.forEach((tag: string) => {
+                    assert.equal(
+                        validTags.includes(tag),
+                        true,
+                        `Invalid tag "${tag}"`
+                    )
+                })
+            })
+        }
+    )
 })
