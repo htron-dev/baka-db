@@ -19,8 +19,7 @@
 ## Sinopse
 
 1-3. Kakurenbo Honey
-4-6. Abarenbo Honey
-7. 7-nengo Honey
+4-6. Abarenbo Honey 7. 7-nengo Honey
 
 ## Links
 

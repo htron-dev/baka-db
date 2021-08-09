@@ -17,7 +17,7 @@
 
 ## Sinopse
 
-Daiki was bought by the Sasaki Group's Wakagashira Tatsumi, who then left Daiki in charge of his bar, Moderate, in order to discharge the remainder of a large debt from his parents. Daiki wants to protect the one place Tatsumi can find peace and is determined to be Tatsumi's shield if need be, but... A love story about two people who need each other more than anyone else even though neither man realizes their feelings for the other. 
+Daiki was bought by the Sasaki Group's Wakagashira Tatsumi, who then left Daiki in charge of his bar, Moderate, in order to discharge the remainder of a large debt from his parents. Daiki wants to protect the one place Tatsumi can find peace and is determined to be Tatsumi's shield if need be, but... A love story about two people who need each other more than anyone else even though neither man realizes their feelings for the other.
 
 (Source: Dangerous Pleasure)
 
