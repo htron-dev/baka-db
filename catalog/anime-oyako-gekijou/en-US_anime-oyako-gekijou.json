@@ -1,0 +1,40 @@
+{
+    "title": "Anime Oyako Gekijou",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "アニメ 親子劇場",
+    "start_date": "1981-10-09",
+    "end_date": "1981-10-09",
+    "opening_song": "\"Time Book no Uta (タイムブックの歌)\" by Ryou Miyauchi (宮内良)",
+    "ending_song": "\"Yukai na Nakama-tachi (ゆかいな仲間たち)\" by Fusako Fujimoto",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "fantasy",
+        "historical",
+        "sci-fi"
+    ],
+    "sinopse": "The series beings at the home of a young boy named Sho Azuka discovers the magical Bible \"Superbook\" that speaks and sends him, his friend Azusa Yamato, and his toy robot Zenmaijikake back in time to the early events of the Old Testament.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2882/Anime_Oyako_Gekijou"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tatsunoko.co.jp/works/archive/oyako_gekijyo.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3081"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1111"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Superbook"
+        }
+    ]
+}

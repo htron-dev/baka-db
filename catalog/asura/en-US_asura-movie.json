@@ -1,0 +1,32 @@
+{
+    "title": "Asura",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "アシュラ",
+    "start_date": "2012-09-29",
+    "ending_song": "#1",
+    "rating": "R+ - Mild Nudity",
+    "tags": [
+        "drama",
+        "historical"
+    ],
+    "sinopse": "Asura is an unrelentingly dark drama that follows the struggles of a young boy who did whatever it took to survive during a time of war and famine in medieval Japan.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8475/Asura"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/movie/2012_asura_movie/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8937"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13987"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Aterui",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "アテルイ",
+    "start_date": "2002-12-02",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "action",
+        "fantasy",
+        "historical"
+    ],
+    "sinopse": "A pseudo-historical movie that follows a modern day elementary schooler as he's tossed back into time to observe Aterui--a real leader of the Emishi who fought against the Imperial Yamato Court.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/23523/Aterui"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.cinema-tohoku.co.jp/movie/aterui/index.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8509"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "<http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%AB%E3%82%A4_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB"
+        }
+    ]
+}

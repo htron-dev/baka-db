@@ -1,0 +1,37 @@
+{
+    "title": "Animal 1",
+    "type": "tv-serie",
+    "episodes": "27",
+    "original_name": "アニマル１",
+    "start_date": "1968-04-01",
+    "end_date": "1968-04-01",
+    "opening_song": "''Animal 1 no Uta (アニマル 1 のうた)'' by Eiko Shuri",
+    "ending_song": "\"Nanako no Uta (ナナ子のうた)\" by Etsuko Hamura",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "sports"
+    ],
+    "sinopse": "Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/17671/Animal_1"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.mushi-pro.co.jp/2010/08/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%EF%BC%91/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3080"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1080"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB1#.E3.82.A2.E3.83.8B.E3.83.A1.E7.89.88"
+        }
+    ]
+}

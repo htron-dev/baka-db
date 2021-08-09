@@ -1,0 +1,39 @@
+{
+    "title": "Apache Yakyuugun",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "アパッチ野球軍",
+    "start_date": "1971-10-06",
+    "end_date": "1971-10-06",
+    "opening_song": "\"Apache Yakyuugun (アパッチ野球軍)\" by Eiko Hayashi (林恵々子)",
+    "ending_song": "\"Minna Minna (みんな みんな)\" by Shinpei Sakamoto",
+    "rating": "G - All Ages",
+    "tags": [
+        "action",
+        "sports",
+        "school"
+    ],
+    "sinopse": "A former baseball star who suffered a career crippling injury takes over as coach of a team of misfits in a poor village high school.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3844/Apache_Yakyuugun"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/apach/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1902"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1180"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%91%E3%83%83%E3%83%81%E9%87%8E%E7%90%83%E8%BB%8D"
+        }
+    ]
+}

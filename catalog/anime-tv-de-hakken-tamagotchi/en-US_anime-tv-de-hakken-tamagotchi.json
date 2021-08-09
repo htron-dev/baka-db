@@ -1,0 +1,29 @@
+{
+    "title": "Anime TV de Hakken! Tamagotchi",
+    "type": "tv-serie",
+    "episodes": "27",
+    "original_name": "アニメ　ＴＶで発見！！　たまごっち",
+    "start_date": "1997-07-07",
+    "end_date": "1997-07-07",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "fantasy",
+        "slice-of-life"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6520/Anime_TV_de_Hakken_Tamagotchi"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3083"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1130"
+        }
+    ]
+}

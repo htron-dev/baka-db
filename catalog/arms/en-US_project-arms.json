@@ -1,0 +1,39 @@
+{
+    "title": "Project ARMS",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "プロジェクトアームズ",
+    "start_date": "2001-04-07",
+    "end_date": "2001-04-07",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "R - 17+ (violence & profanity)",
+    "tags": [
+        "action",
+        "martial-arts",
+        "super-power"
+    ],
+    "sinopse": "A boy gets involved in an accident when in kindergarten, horribly damaging his arm, but the doctors somehow manage to save it. Now, several years later, his arm seems to be becoming the focus of strange events as it turns out to be more than a normal arm. Meanwhile, a secret organizations is out to get hold of him and the power he possess.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/1492/Project_ARMS"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tms-e.com/library/on_air_back/arms/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=550"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1014"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Project_ARMS"
+        }
+    ]
+}

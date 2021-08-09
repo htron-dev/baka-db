@@ -1,0 +1,33 @@
+{
+    "title": "Andersen Monogatari (TV)",
+    "type": "tv-serie",
+    "episodes": "52",
+    "original_name": "アンデルセン物語",
+    "start_date": "1971-01-03",
+    "end_date": "1971-01-03",
+    "opening_song": "\"Mister Andersen (ミスター・アンデルセン)\" by Taeko Sakurai, Young Fresh",
+    "rating": "PG - Children",
+    "tags": [
+        "fantasy",
+        "drama"
+    ],
+    "sinopse": "Adaptations of numerous stories written by Hans Christian Andersen.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/7779/Andersen_Monogatari_TV"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2314"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=434"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Andersen_Monogatari"
+        }
+    ]
+}

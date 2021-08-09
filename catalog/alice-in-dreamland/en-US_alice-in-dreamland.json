@@ -1,0 +1,28 @@
+{
+    "title": "Alice in Dreamland",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "アリス・イン・ドリームランド",
+    "start_date": "2015-12-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "dementia",
+        "fantasy"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/31941/Alice_in_Dreamland"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://aliceindreamland-movie.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11733"
+        }
+    ]
+}

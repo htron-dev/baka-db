@@ -1,0 +1,23 @@
+{
+    "title": "Ari-chan",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "アリチャン",
+    "start_date": "2041-01-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "music",
+        "comedy"
+    ],
+    "sinopse": "Ari-chan, an ant child, finds a violin in a sand pit and steals it to play with it.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/28245/Ari-chan"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11412"
+        }
+    ]
+}
