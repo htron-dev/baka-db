@@ -1,0 +1,20 @@
+# B5 Hime
+
+-   **type**: manga
+-   **chapters**: 12
+-   **original-name**: B5 姫
+-   **start-date**: 2016-12-16
+-   **end-date**: 2016-12-16
+
+## Tags
+
+-   comedy
+-   romance
+
+## Authors
+
+-   Natsuto (Story & Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/102994/B5_Hime)
