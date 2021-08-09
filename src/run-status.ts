@@ -71,7 +71,7 @@ async function main() {
         return
     }
 
-    console.table(projects, ['name', 'items'])
+    console.table(filteredResults, ['name', 'items'])
 }
 
 main().catch(Logger.error)
