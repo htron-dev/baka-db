@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import { promisify } from 'util'
+import glob from 'glob'
 
 import Queue from 'bull'
 
@@ -68,25 +69,38 @@ async function main() {
             queue.empty()
             queue.clean(0)
 
-            process.argv
-                .slice(2)
-                .map((f) => {
-                    if (!f.includes('catalog/')) {
-                        return f
-                    }
+            const args = process.argv.slice(2)
 
-                    const [, project] = f.split('/')
-                    return project
-                })
-                .filter((p, index, array) => array.indexOf(p) === index)
-                .forEach((project) => queue.add({ project }))
+            let filenames = []
+
+            if (args[0] === '--regex') {
+                filenames = glob.sync(args[1])
+            } else {
+                filenames = args
+            }
+
+            filenames
+                .filter((f) => f.includes('catalog'))
+                .map((f) =>
+                    f.includes('.md')
+                        ? path.basename(path.dirname(f))
+                        : path.basename(f)
+                )
+                .forEach((project, index, array) =>
+                    queue.add({ project, index, total: array.length })
+                )
 
             queue.process(async (job, done) => {
-                const { project } = job.data
+                const { project, index, total } = job.data
 
                 await convertProjectFilesToJson(project)
 
-                Logger.info('conversor: %s project converted', project)
+                Logger.info(
+                    'conversor(%i/%i): %s project converted',
+                    index,
+                    total,
+                    project
+                )
 
                 done()
             })

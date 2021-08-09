@@ -53,17 +53,17 @@ jobs:
               uses: jitterbit/get-changed-files@v1
               continue-on-error: true
 
-            - name: set-files-for-automatic-run
+            - name: conversor
               if: github.event.inputs.projects == ''
-              run: echo "files=${{ steps.changed-files.outputs.all }}" >> $GITHUB_ENV
+              run: npm run conversor:json ${{ steps.changed-files.outputs.all }}
+              env:
+                  LOG_LEVEL: ${{ github.event.inputs.logLevel }}
+                  REDIS_HOST: localhost
+                  REDIS_PORT: 6379
 
-            - name: set-files-for-manual-action
+            - name: conversor
               if: github.event.inputs.projects != ''
-              # run: echo "files=${{ github.event.inputs.projects }}" >> $GITHUB_ENV
-              run: find catalog -type d -regex ".*/${{ github.event.inputs.projects }}[^/]*" | xargs echo "files=$1" >> $GITHUB_ENV
-
-            - name: run conversor json
-              run: npm run conversor:json ${{ env.files }}
+              run: npm run conversor:json -- --regex "${{ github.event.inputs.projects }}"
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
                   REDIS_HOST: localhost
