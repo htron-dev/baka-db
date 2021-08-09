@@ -1,12 +1,12 @@
 import Logger from './logger'
-import fs from 'fs'
-import { promisify } from 'util'
+import lodash from 'lodash'
 import path from 'path'
+import glob from 'glob'
 
 async function main() {
     const args = process.argv.slice(2)
 
-    const regex = new RegExp(args[0])
+    const patter = args[0]
     const basePath = path.resolve(__dirname, '..', 'catalog')
 
     const filters: any = args.slice(1).reduce((result, arg) => {
@@ -17,37 +17,62 @@ async function main() {
         }
     }, {})
 
-    const catalog = await promisify(fs.readdir)(basePath)
+    const projectPatter = args.reduce((result, arg, index) => {
+        if (arg === '--project-patter') {
+            return args[index + 1]
+        }
+        return result
+    }, '*')
 
-    const results = await Promise.all(
-        catalog
-            .filter((f) => regex.test(f))
-            .map(async (project) => {
-                const files = await promisify(fs.readdir)(
-                    path.resolve(basePath, project)
-                )
+    const filePatter = args.reduce((result, arg, index) => {
+        if (arg === '--file-patter') {
+            return args[index + 1]
+        }
+        return result
+    }, '*')
 
-                return {
-                    name: project,
-                    path: path.resolve(basePath, project),
-                    filesCount: files.length
-                }
-            })
+    const globPatter = `${basePath}/${projectPatter}/en-US_${filePatter}.md`
+
+    const catalog = glob.sync(globPatter)
+
+    const allItems = catalog.map((f) => ({
+        file: f,
+        project: path.basename(path.dirname(f))
+    }))
+
+    const projects = Object.entries(lodash.groupBy(allItems, 'project')).map(
+        ([key, value]) => ({
+            name: key,
+            files: value,
+            items: value.length
+        })
     )
 
-    const filteredResults = results.filter((p) => {
-        if (filters.minFiles && Number(filters.minFiles) > p.filesCount) {
+    const filteredResults = projects.filter((p) => {
+        if (filters.minFiles && Number(filters.minFiles) > p.items) {
             return false
         }
         return true
     })
 
-    filteredResults.sort((a, b) => a.filesCount - b.filesCount)
+    if (!filters.list) {
+        console.table([
+            {
+                patter: globPatter,
+                quantity: filteredResults.length
+            }
+        ])
+        return
+    }
 
-    console.table(
-        filteredResults,
-        filters.columns ? filters.columns.split(',') : undefined
-    )
+    filteredResults.sort((a, b) => a.items - b.items)
+
+    if (filters.list === 'details') {
+        console.table(allItems)
+        return
+    }
+
+    console.table(projects, ['name', 'items'])
 }
 
 main().catch(Logger.error)

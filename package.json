@@ -10,7 +10,7 @@
         "eslint": "eslint --ext .ts",
         "prettier": "prettier -c",
         "conversor:json": "ts-node src/run-conversor-json.ts",
-        "project:status": "ts-node src/run-status.ts"
+        "status": "ts-node src/run-status.ts"
     },
     "repository": {
         "type": "git",

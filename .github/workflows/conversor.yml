@@ -12,7 +12,7 @@ on:
                 default: 'info'
             projects:
                 required: true
-                description: 'Project name or regex'
+                description: 'Project name or patter'
 
 jobs:
     build:
