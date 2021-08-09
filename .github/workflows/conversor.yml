@@ -63,7 +63,7 @@ jobs:
 
             - name: conversor
               if: github.event.inputs.projects != ''
-              run: npm run conversor:json -- --regex "${{ github.event.inputs.projects }}"
+              run: npm run conversor:json -- --patter "${{ github.event.inputs.projects }}"
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
                   REDIS_HOST: localhost

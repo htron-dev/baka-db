@@ -12,8 +12,8 @@ const args = process.argv.slice(2)
 let filenames: string[] = []
 const manager = createCatalogManger()
 
-if (args[0] === '--regex') {
-    filenames = glob.sync(args[1])
+if (args[0] === '--patter') {
+    filenames = glob.sync(`catalog/${args[1]}/*.md`)
 } else {
     filenames = args
 }

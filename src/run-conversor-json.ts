@@ -57,7 +57,7 @@ async function main() {
         { recursive: true }
     )
 
-    return new Promise((resolve, reject) => {
+    return new Promise<number>((resolve, reject) => {
         try {
             const host = process.env.REDIS_HOST || '127.0.0.1'
             const port = Number(process.env.REDIS_PORT) || 6379
@@ -73,39 +73,42 @@ async function main() {
 
             let filenames = []
 
-            if (args[0] === '--regex') {
-                filenames = glob.sync(args[1])
+            if (args[0] === '--patter') {
+                filenames = glob.sync(`catalog/${args[1]}`)
             } else {
                 filenames = args
             }
 
-            filenames
+            const projects = filenames
                 .filter((f) => f.includes('catalog'))
                 .map((f) =>
                     f.includes('.md')
                         ? path.basename(path.dirname(f))
                         : path.basename(f)
                 )
-                .forEach((project, index, array) =>
-                    queue.add({ project, index, total: array.length })
-                )
+
+            projects.forEach((project, index) => queue.add({ project, index }))
 
             queue.process(async (job, done) => {
-                const { project, index, total } = job.data
+                const { project, index } = job.data
 
                 await convertProjectFilesToJson(project)
 
                 Logger.info(
                     'conversor(%i/%i): %s project converted',
-                    index,
-                    total,
+                    index + 1,
+                    projects.length,
                     project
                 )
 
                 done()
             })
 
-            queue.on('drained', resolve)
+            if (!projects.length) {
+                resolve(projects.length)
+            }
+
+            queue.on('drained', () => resolve(projects.length))
         } catch (error) {
             reject(error)
         }
@@ -113,8 +116,8 @@ async function main() {
 }
 
 main()
-    .then(() => {
-        Logger.info('conversor-json: conversion finished')
+    .then((length) => {
+        Logger.info('conversor-json: conversion finished for %i', length)
         process.exit(0)
     })
     .catch((err) => {
