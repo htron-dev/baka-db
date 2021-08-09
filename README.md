@@ -47,4 +47,4 @@ Ex:
 
 # Contributing
 
-Check [contributing-page](CONTRIBUTING.md) page to know the details.
+:warning: For now, we are setting up the initial database, so contributions are still not open
