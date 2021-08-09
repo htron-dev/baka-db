@@ -1,0 +1,23 @@
+{
+    "title": "Boo Boo Boy",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "ブーブーボーイ",
+    "start_date": "2015-07-04",
+    "end_date": "2015-07-04",
+    "rating": "G - All Ages",
+    "tags": [
+        "cars"
+    ],
+    "sinopse": "A young boy has adventures with his transforming car.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30892/Boo_Boo_Boy"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.boobooboy.com/"
+        }
+    ]
+}

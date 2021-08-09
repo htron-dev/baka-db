@@ -1,0 +1,30 @@
+{
+    "title": "Bonobono",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ぼのぼの",
+    "start_date": "1993-11-13",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "The first theatrical Bonobono movie.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8416/Bonobono"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.bonobono.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7523"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Bonobono#1993_film"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Bikkuriman",
+    "type": "tv-serie",
+    "episodes": "75",
+    "original_name": "ビックリマン",
+    "start_date": "1987-10-11",
+    "end_date": "1987-10-11",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3909/Bikkuriman"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/bikkuri_man/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2074"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=477"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "<http://ja.wikipedia.org/wiki/ビックリマン_(アニメ"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Biriken",
+    "type": "tv-serie",
+    "episodes": "32",
+    "original_name": "ビリ犬",
+    "start_date": "1988-07-11",
+    "end_date": "1988-07-11",
+    "opening_song": "\"Biribiri Biriken (ビリビリ ビリ犬)\" by Eiko Yamada, Masako Nozawa, Koorogi '73 (Chorus)",
+    "ending_song": "\"Boku ga Tondeta... (ぼくが飛んでた...)\" by Mitsuko Horie, Koorogi '73 (Chorus)",
+    "rating": "PG - Children",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "Based on Fujiko Fujio A's manga of the same name.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8520/Biriken"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3517"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1221"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/ビリ犬"
+        }
+    ]
+}

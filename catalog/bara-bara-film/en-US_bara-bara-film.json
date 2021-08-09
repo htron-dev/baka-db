@@ -1,0 +1,22 @@
+{
+    "title": "Bara Bara Film",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "バラバラフィルム",
+    "start_date": "2011-01-20",
+    "rating": "G - All Ages",
+    "tags": [
+        "dementia"
+    ],
+    "sinopse": "Furukawa Taku film.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30480/Bara_Bara_Film"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11420"
+        }
+    ]
+}

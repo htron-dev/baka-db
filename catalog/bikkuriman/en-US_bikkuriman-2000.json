@@ -1,0 +1,33 @@
+{
+    "title": "Bikkuriman 2000",
+    "type": "tv-serie",
+    "episodes": "68",
+    "original_name": "ビックリマン 2000",
+    "start_date": "1999-11-01",
+    "end_date": "1999-11-01",
+    "opening_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "fantasy"
+    ],
+    "sinopse": "More adventures of Bikkuriman.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5478/Bikkuriman_2000"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4685"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=478"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Bikkuriman_2000"
+        }
+    ]
+}

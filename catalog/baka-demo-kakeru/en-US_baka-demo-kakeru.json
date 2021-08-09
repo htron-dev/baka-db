@@ -1,0 +1,20 @@
+{
+    "title": "Baka Demo Kakeru",
+    "type": "manga",
+    "volumes": "1",
+    "tags": [
+        "comedy",
+        "shoujo"
+    ],
+    "authors": [
+        "Shinjou",
+        "Mayu (Story & Art)"
+    ],
+    "sinopse": "This is not a usual manga. It's some kind of \"how-is-mayu-shinjo-drawing-her-stories\"",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/manga/8843/Baka_Demo_Kakeru"
+        }
+    ]
+}

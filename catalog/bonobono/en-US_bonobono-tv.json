@@ -1,0 +1,36 @@
+{
+    "title": "Bonobono (TV)",
+    "type": "tv-serie",
+    "episodes": "48",
+    "original_name": "ぼのぼの",
+    "start_date": "1995-04-20",
+    "end_date": "1995-04-20",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "A sea otter and his friends, a raccoon and squirrel, live and play together in the forest.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/4286/Bonobono_TV"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.bonobono.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3548"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1424"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Bonobono"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Baby Felix",
+    "type": "tv-serie",
+    "episodes": "65",
+    "original_name": "ベイビーフィリックス",
+    "start_date": "2000-10-08",
+    "end_date": "2000-10-08",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "A young Felix the Cat and his baby pals find fun and mischief along their travels.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8220/Baby_Felix"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.babyfelix.ne.jp"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7082"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1197"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Baby_Felix"
+        }
+    ]
+}
