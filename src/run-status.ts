@@ -6,7 +6,6 @@ import glob from 'glob'
 async function main() {
     const args = process.argv.slice(2)
 
-    const patter = args[0]
     const basePath = path.resolve(__dirname, '..', 'catalog')
 
     const filters: any = args.slice(1).reduce((result, arg) => {
