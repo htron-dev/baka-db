@@ -1,0 +1,21 @@
+# Aishite Sou♡Rou
+
+-   **type**: manga
+-   **volumes**: 2
+-   **original-name**: 愛してソウ ♡ ロウ
+-   **start-date**: 1994-01-19
+
+## Tags
+
+-   josei
+
+## Authors
+
+-   Azuki
+-   Yuu (Story & Art)
+
+## Sinopse
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/75895/Aishite_Sou%E2%99%A1Rou)
