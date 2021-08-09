@@ -12,7 +12,7 @@ on:
                 default: 'info'
             projects:
                 required: true
-                description: 'Project names to be converted, separated by space'
+                description: 'Project name or regex'
 
 jobs:
     build:

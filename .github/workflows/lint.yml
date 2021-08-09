@@ -30,7 +30,7 @@ jobs:
               continue-on-error: true
 
             - name: eslint
-              run: npm run eslint -- --fix ${{ steps.files.outputs.all }}
+              run: npm run eslint . -- --fix
 
             - name: prettier
               run: npm run prettier -- -w ${{ steps.files.outputs.all }}
