@@ -1,0 +1,39 @@
+{
+    "title": "Fractale",
+    "type": "tv-serie",
+    "episodes": "11",
+    "original_name": "フラクタル",
+    "start_date": "2011-01-14",
+    "end_date": "2011-01-14",
+    "opening_song": "\"Harinezumi (ハリネズミ)\" by Azuma Hitomi",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "fantasy",
+        "sci-fi"
+    ],
+    "sinopse": "The story takes place on an island, where a \"Fractale System\" is beginning to collapse. One day, Clain finds an injured girl called Phryne under a cliff. She disappears leaving a pendant. Clain sets out for a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret of the Fractale System.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/9314/Fractale"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://fractale.noitamina.tv/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7873"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11796"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Fractale"
+        }
+    ]
+}

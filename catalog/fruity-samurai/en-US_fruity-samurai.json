@@ -1,0 +1,25 @@
+{
+    "title": "Fruity Samurai",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "フルーティー侍",
+    "start_date": "2013-01-20",
+    "rating": "PG - Children",
+    "tags": [
+        "action",
+        "comedy",
+        "samurai",
+        "historical"
+    ],
+    "sinopse": "Short anime about fruity samurai.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30173/Fruity_Samurai"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.fruitysamurai.happyproject.jp/"
+        }
+    ]
+}
