@@ -1,0 +1,37 @@
+{
+    "title": "Chinpui",
+    "type": "tv-serie",
+    "episodes": "56",
+    "original_name": "チンプイ",
+    "start_date": "1989-02-11",
+    "end_date": "1989-02-11",
+    "opening_song": "\"Onegai Chinpui (お願いチンプイ)\" by Junko Uchida",
+    "ending_song": "\"Cinderella Nanka ni Naritakunai (シンデレラなんかになりたくない)\" by Kenji Yamamoto",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "TV anime show based on the manga by F. Fujio Fujiko.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5908/Chinpui"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.shin-ei-animation.jp/chinpui/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5227"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1259"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B3%E3%83%97%E3%82%A4"
+        }
+    ]
+}

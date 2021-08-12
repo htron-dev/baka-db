@@ -1,0 +1,31 @@
+{
+    "title": "Cinnamon the Movie",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "シナモン the Movie",
+    "start_date": "2007-12-22",
+    "ending_song": "\"Together\" by DBSK",
+    "rating": "G - All Ages",
+    "tags": [
+        "fantasy"
+    ],
+    "sinopse": "Mocha, Chiffon, Cappuccino, Espresso, and Milk go with Cinnamoroll in this adventure of a lifetime. Join them in their quest, meeting new friends like Anna (the girl who found Cinnamoroll/Cinnamon) and discovering new places like the Forest of Pastries and Bread and the Coffee Waterfalls.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5848/Cinnamon_the_Movie"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://sanriomovie.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5097"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7896"
+        }
+    ]
+}

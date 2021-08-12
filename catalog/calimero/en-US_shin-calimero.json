@@ -1,0 +1,35 @@
+{
+    "title": "Shin Calimero",
+    "type": "tv-serie",
+    "episodes": "52",
+    "original_name": "新 カリメロ",
+    "start_date": "1992-10-15",
+    "end_date": "1992-10-15",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "The series tells about many adventures of the small fledgling Calimero and his friends, who uncover many secrets, sometimes getting into trouble along the way.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/7004/Shin_Calimero"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.charapit.com/calimero/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1908"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1235"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Calimero"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "title": "ClassicaLoid 2nd Season",
+    "type": "tv-serie",
+    "episodes": "25",
+    "original_name": "クラシカロイド 第 2 シリーズ",
+    "start_date": "2017-10-07",
+    "end_date": "2017-10-07",
+    "opening_song": "\"ClassicaLoid",
+    "ending_song": "#01",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "music",
+        "comedy"
+    ],
+    "sinopse": "Second season of ClassicaLoid.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/35334/ClassicaLoid_2nd_Season"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.classicaloid.net/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13069"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19801"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Classicaloid"
+        }
+    ]
+}

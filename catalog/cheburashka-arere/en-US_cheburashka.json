@@ -1,0 +1,26 @@
+{
+    "title": "Cheburashka",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "チェブラーシカ",
+    "start_date": "2010-12-18",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "The stop-motion animated film based on Russia's Cheburashka character.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/9340/Cheburashka"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.cheb-kuma.com/index.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7885"
+        }
+    ]
+}

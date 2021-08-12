@@ -1,0 +1,24 @@
+{
+    "title": "Hello WeGo!",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ハローウィーゴ!",
+    "start_date": "2019-03-09",
+    "rating": "None",
+    "tags": [],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/38011/Hello_WeGo"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://animetamago.jp/title.php?id=1"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14178"
+        }
+    ]
+}

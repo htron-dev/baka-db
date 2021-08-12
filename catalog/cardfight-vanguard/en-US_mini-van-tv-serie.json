@@ -1,0 +1,35 @@
+{
+    "title": "Mini Van",
+    "type": "tv-serie",
+    "episodes": "37",
+    "original_name": "みにヴぁん",
+    "start_date": "2013-04-06",
+    "end_date": "2013-04-06",
+    "ending_song": "\"Mirai Sketch!\" (未来 SKETCH!) by Ultra Rare (Suzuko Mimori, Aimi Terakawa, Yoshino Nanjo)",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "game",
+        "slice-of-life",
+        "comedy",
+        "parody"
+    ],
+    "sinopse": "An animated flash series of the manga Mini Vanguard.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/18391/Mini_Van"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/vangua-road/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10090"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Cardfight!!_Vanguard"
+        }
+    ]
+}
