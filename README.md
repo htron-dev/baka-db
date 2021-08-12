@@ -11,11 +11,13 @@ Current under development
 </div>
 
 ## Introduction
+
 Baka-DB is a archive that contains data and information about animes, mangas, ova, movies, and other media related to otaku culture.
 
 It was created to be a big and good source of data that anyone can use for any purpuse.
 
 ## Catalog
+
 All the content of database are in `catalog` folder, each folder represents a project that contents the medias that the project may have.
 
 So for example if we have an anime called "Naruto" and a manga called "Naruto" both of they will go in project folder "naruto", and also if exist another season, ova, movie, special, or anything that is related to the project "naruto" it will also be is this folder.
@@ -27,11 +29,10 @@ Ex:
 -   `en-US_naruto-tv-series.md`
 -   `pt-BR_naruto-tv-series.md`
 
-
-| Format | Description |
-| ---- | ----------- |
-| [Markdown](https://github.com/htron-dev/baka-db/tree/main/catalog) | Catalog files in markdown format, this is the default format |
-| [JSON](https://github.com/htron-dev/baka-db/tree/json/catalog) | Catalog files in .json format, it uses the markdown files as base to be created |
+| Format                                                             | Description                                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [Markdown](https://github.com/htron-dev/baka-db/tree/main/catalog) | Catalog files in markdown format, this is the default format                    |
+| [JSON](https://github.com/htron-dev/baka-db/tree/json/catalog)     | Catalog files in .json format, it uses the markdown files as base to be created |
 
 # Contributing
 
