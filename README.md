@@ -12,7 +12,7 @@ Current under development
 
 ## Introduction
 
-Baka-DB is a archive that contains data and information about animes, mangas, ova, movies, and other media related to otaku culture.
+Baka-db is an archive that contains data and information about animes, mangas, ova, movies, and other media related to otaku culture.
 
 It was created to be a big and good source of data that anyone can use for any purpuse.
 
