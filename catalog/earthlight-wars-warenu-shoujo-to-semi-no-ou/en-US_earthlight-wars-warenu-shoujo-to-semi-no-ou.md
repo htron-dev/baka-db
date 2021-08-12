@@ -1,0 +1,22 @@
+# Earthlight Wars: Warenu Shoujo to Semi no Ou
+
+-   **type**: light-novel
+-   **volumes**: 1
+-   **original-name**: アースライト・ウォーズ 割れぬ少女と蝉の王
+-   **start-date**: 2010-12-20
+
+## Tags
+
+-   action
+-   fantasy
+-   supernatural
+
+## Authors
+
+-   Mutsuzuka
+-   Akira (Story)
+-   Zinno (Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/76787/Earthlight_Wars__Warenu_Shoujo_to_Semi_no_Ou)
