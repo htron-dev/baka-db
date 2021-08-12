@@ -4,7 +4,6 @@
 -   **volumes**: 2
 -   **chapters**: 10
 -   **original-name**: .hack//XXXX
--   **end-date**: Invalid date
 
 ## Tags
 

@@ -11,7 +11,7 @@
 
 ## Tags
 
--   slice of life
+-   slice-of-life
 
 ## Sinopse
 

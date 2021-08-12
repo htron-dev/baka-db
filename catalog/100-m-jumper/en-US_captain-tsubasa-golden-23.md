@@ -4,7 +4,6 @@
 -   **volumes**: 12
 -   **chapters**: 113
 -   **original-name**: キャプテン翼 GOLDEN－23
--   **end-date**: Invalid date
 
 ## Tags
 

@@ -4,7 +4,6 @@
 -   **volumes**: 5
 -   **chapters**: 26
 -   **original-name**: .hack//G.U.+
--   **end-date**: Invalid date
 
 ## Tags
 

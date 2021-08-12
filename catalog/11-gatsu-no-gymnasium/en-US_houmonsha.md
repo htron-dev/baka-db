@@ -4,7 +4,6 @@
 -   **volumes**: 1
 -   **chapters**: 4
 -   **original-name**: 訪問者 萩尾望都作品集
--   **end-date**: Invalid date
 
 ## Tags
 

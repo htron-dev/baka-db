@@ -12,7 +12,7 @@
 -   dementia
 -   drama
 -   horror
--   martial arts
+-   martial-arts
 -   psychological
 -   seinen
 

@@ -9,8 +9,6 @@
 
 ## Tags
 
--   kids
-
 ## Sinopse
 
 Second season of Dayan the Cat.

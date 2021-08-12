@@ -7,7 +7,7 @@
 
 ## Tags
 
--   shounen ai
+-   shounen-ai
 
 ## Authors
 

@@ -4,7 +4,6 @@
 -   **volumes**: 2
 -   **chapters**: 13
 -   **original-name**: 学園特警デュカリオン
--   **end-date**: Invalid date
 
 ## Tags
 

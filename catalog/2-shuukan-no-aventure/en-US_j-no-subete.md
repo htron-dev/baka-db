@@ -4,14 +4,13 @@
 -   **volumes**: 3
 -   **chapters**: 16
 -   **original-name**: J の総て
--   **end-date**: Invalid date
 
 ## Tags
 
 -   drama
 -   romance
 -   yaoi
--   gender bender
+-   gender-bender
 
 ## Authors
 

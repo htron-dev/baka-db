@@ -11,8 +11,8 @@
 
 -   drama
 -   school
--   shounen ai
--   slice of life
+-   shounen-ai
+-   slice-of-life
 
 ## Authors
 

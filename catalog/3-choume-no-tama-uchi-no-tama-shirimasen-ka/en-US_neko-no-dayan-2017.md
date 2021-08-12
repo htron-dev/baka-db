@@ -9,8 +9,6 @@
 
 ## Tags
 
--   kids
-
 ## Sinopse
 
 Fourth season of Dayan the Cat.

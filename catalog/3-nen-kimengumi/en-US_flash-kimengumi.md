@@ -12,7 +12,7 @@
 -   comedy
 -   school
 -   shounen
--   slice of life
+-   slice-of-life
 
 ## Authors
 

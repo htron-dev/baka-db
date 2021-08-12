@@ -9,7 +9,7 @@
 ## Tags
 
 -   adventure
--   kids
+
 -   magic
 
 ## Sinopse

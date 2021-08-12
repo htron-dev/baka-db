@@ -12,7 +12,7 @@
 -   drama
 -   historical
 -   shoujo
--   shounen ai
+-   shounen-ai
 -   psychological
 
 ## Authors

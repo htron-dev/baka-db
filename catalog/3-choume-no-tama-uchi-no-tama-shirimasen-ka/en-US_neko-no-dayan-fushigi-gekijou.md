@@ -9,8 +9,6 @@
 
 ## Tags
 
--   kids
-
 ## Sinopse
 
 Third season of Dayan the Cat. The shorts will be "theatrical-style," with a curtain opening on the everyday adventures of Dayan and his friends.

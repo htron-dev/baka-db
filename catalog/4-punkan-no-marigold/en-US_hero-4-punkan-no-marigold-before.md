@@ -9,7 +9,7 @@
 
 ## Tags
 
--   slice of life
+-   slice-of-life
 -   seinen
 
 ## Authors

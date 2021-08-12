@@ -8,8 +8,6 @@
 
 ## Tags
 
--   kids
-
 ## Sinopse
 
 A hybrid live-action and 3D animation short. Toys become alive in a bedroom when humans are gone but freeze when a little girl appears.

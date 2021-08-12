@@ -10,7 +10,6 @@
 
 ## Tags
 
--   kids
 -   magic
 
 ## Sinopse

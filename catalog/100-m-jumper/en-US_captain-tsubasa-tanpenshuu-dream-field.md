@@ -4,7 +4,6 @@
 -   **volumes**: 2
 -   **chapters**: 6
 -   **original-name**: キャプテン翼短編集 DREAM FIELD
--   **end-date**: Invalid date
 
 ## Tags
 
