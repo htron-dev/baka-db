@@ -6,14 +6,19 @@ import { createCatalogManger } from '../catalog-manager'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
+import Logger from '../logger'
 
 const args = process.argv.slice(2)
 
 let filenames: string[] = []
 const manager = createCatalogManger()
 
-if (args[0] === '--patter') {
-    filenames = glob.sync(`catalog/${args[1]}/*.md`)
+if (args[0] === '--pattern') {
+    const patter = `catalog/${args[1]}/*.md`
+
+    Logger.info('use patter %s', patter)
+
+    filenames = glob.sync(patter)
 } else {
     filenames = args
 }
