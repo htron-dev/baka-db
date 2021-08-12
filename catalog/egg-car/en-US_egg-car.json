@@ -1,0 +1,34 @@
+{
+    "title": "Egg Car",
+    "type": "tv-serie",
+    "episodes": "52",
+    "original_name": "EGG CAR エッグカー",
+    "start_date": "2019-10-03",
+    "end_date": "2019-10-03",
+    "ending_song": "\"What's Your Identity?\" by Sae Otsuka",
+    "rating": "PG - Children",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/40368/Egg_Car"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://www.tv-tokyo.co.jp/anime/eggcar/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15076"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%83%E3%82%B0%E3%82%AB%E3%83%BC"
+        }
+    ]
+}

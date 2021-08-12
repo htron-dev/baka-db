@@ -1,0 +1,33 @@
+{
+    "title": "Eagle Sam",
+    "type": "tv-serie",
+    "episodes": "51",
+    "original_name": "イーグルサム",
+    "start_date": "1983-04-07",
+    "end_date": "1983-04-07",
+    "opening_song": "#1 \"Eagle Sam no March\" by Eagles",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "sports"
+    ],
+    "sinopse": "An anime made in the runup to the 1984 Olympics in Los Angeles, featuring Olympic mascot Sam the Olympic Eagle.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8179/Eagle_Sam"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7338"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2187"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/イーグルサム"
+        }
+    ]
+}
