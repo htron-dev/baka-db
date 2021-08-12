@@ -1,0 +1,38 @@
+{
+    "title": "Danchi Tomoo",
+    "type": "tv-serie",
+    "episodes": "78",
+    "original_name": "団地ともお",
+    "start_date": "2013-04-06",
+    "end_date": "2013-04-06",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "seinen"
+    ],
+    "sinopse": "It's a heartwarming and sometimes nonsense comedy about an elementary school boy Tomoo Kinoshita.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/17703/Danchi_Tomoo"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www9.nhk.or.jp/anime/tomoo/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9625"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15053"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E5%9B%A3%E5%9C%B0%E3%81%A8%E3%82%82%E3%81%8A"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Donkikko",
+    "type": "tv-serie",
+    "episodes": "21",
+    "original_name": "ドンキッコ",
+    "start_date": "1967-09-07",
+    "end_date": "1967-09-07",
+    "opening_song": "\"Donkikko (ドンキッコ)\" by Kiyoko Yamamoto, Hiromi Yamagishi",
+    "rating": "None",
+    "tags": [
+        "comedy",
+        "shounen"
+    ],
+    "sinopse": "A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/19901/Donkikko"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5094"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%82%AD%E3%83%83%E3%82%B3"
+        }
+    ]
+}

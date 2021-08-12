@@ -1,0 +1,26 @@
+{
+    "title": "Domo TV",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "どーもくん",
+    "start_date": "2008-01-20",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "A co-production between Nickelodeon and NHK featuring the stop-motion character Domo-kun, aired both in the US and Japan.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8815/Domo_TV"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.domomode.com/"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "<http://en.wikipedia.org/wiki/Domo-kun_(TV_series"
+        }
+    ]
+}
