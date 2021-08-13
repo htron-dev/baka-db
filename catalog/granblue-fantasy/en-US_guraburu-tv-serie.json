@@ -1,0 +1,36 @@
+{
+    "title": "Guraburu!",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "ぐらぶるっ！",
+    "start_date": "2020-10-08",
+    "end_date": "2020-10-08",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "fantasy"
+    ],
+    "sinopse": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/41574/Guraburu"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://guraburu.granbluefantasy.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15483"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23704"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Granblue_Fantasy#Animation"
+        }
+    ]
+}

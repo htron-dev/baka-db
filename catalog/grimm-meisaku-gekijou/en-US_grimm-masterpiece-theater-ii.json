@@ -1,0 +1,38 @@
+{
+    "title": "Grimm Masterpiece Theater II",
+    "type": "tv-serie",
+    "episodes": "23",
+    "original_name": "新グリム名作劇場",
+    "start_date": "1988-10-02",
+    "end_date": "1988-10-02",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy",
+        "magic"
+    ],
+    "sinopse": "Every episode is a stand-alone retelling of a different fairy or folk tale. Not all of them are based on the fairy tales collected by the Brothers Grimm.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/4061/Grimm_Masterpiece_Theater_II"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.nipponanimation.com/catalogue/057/index.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1751"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2242"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Grimm's_Fairy_Tale_Classics"
+        }
+    ]
+}

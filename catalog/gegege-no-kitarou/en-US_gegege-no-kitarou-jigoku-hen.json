@@ -1,0 +1,35 @@
+{
+    "title": "Gegege no Kitarou: Jigoku-hen",
+    "type": "tv-serie",
+    "episodes": "7",
+    "original_name": "ゲゲゲの鬼太郎　地獄編",
+    "start_date": "1988-02-08",
+    "end_date": "1988-02-08",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "supernatural",
+        "horror"
+    ],
+    "sinopse": "The origins of Kitarou.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8158/Gegege_no_Kitarou__Jigoku-hen"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1454"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2215"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro"
+        }
+    ]
+}

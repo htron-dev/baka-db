@@ -1,0 +1,33 @@
+{
+    "title": "Maroko",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "MAROKO 麿子",
+    "start_date": "1990-03-19",
+    "rating": "None",
+    "tags": [
+        "sci-fi",
+        "comedy",
+        "psychological",
+        "drama"
+    ],
+    "sinopse": "Summary for the Gosenzosama Banbanzai! OVA.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/4640/Maroko"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://pierrot.jp/archives/mov_list_20th/mov_011.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1866"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9478"
+        }
+    ]
+}

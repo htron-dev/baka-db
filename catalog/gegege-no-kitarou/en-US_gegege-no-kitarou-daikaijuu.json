@@ -1,0 +1,34 @@
+{
+    "title": "Gegege no Kitarou: Daikaijuu",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ゲゲゲの鬼太郎 大海獣",
+    "start_date": "1996-07-06",
+    "rating": "G - All Ages",
+    "tags": [
+        "action",
+        "fantasy",
+        "horror",
+        "shounen",
+        "supernatural"
+    ],
+    "sinopse": "Movie based on the 1996 TV anime with an original plot.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8146/Gegege_no_Kitarou__Daikaijuu"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7356"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3698"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Gegege no Kitarou (1985 Movie)",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ゲゲゲの鬼太郎",
+    "start_date": "1985-12-21",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy",
+        "horror",
+        "supernatural"
+    ],
+    "sinopse": "Movie based on the 1985 TV anime with an original plot.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8152/Gegege_no_Kitarou_1985_Movie"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2307"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3666"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+        }
+    ]
+}
