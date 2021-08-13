@@ -1,0 +1,23 @@
+{
+    "title": "Heya",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "部屋",
+    "start_date": "2067-01-19",
+    "rating": "R+ - Mild Nudity",
+    "tags": [
+        "comedy",
+        "dementia"
+    ],
+    "sinopse": "Short experimental film from 1967 from animator Yoji Kuri.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/7024/Heya"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7937"
+        }
+    ]
+}

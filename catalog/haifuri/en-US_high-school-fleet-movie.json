@@ -1,0 +1,37 @@
+{
+    "title": "High School Fleet Movie",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "劇場版 ハイスクール・フリート",
+    "start_date": "2020-01-18",
+    "ending_song": "\"Free Turn\" by TrySail",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "military",
+        "school"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/37704/High_School_Fleet_Movie"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.hai-furi.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14017"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22556"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/High_School_Fleet"
+        }
+    ]
+}

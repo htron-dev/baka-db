@@ -1,0 +1,34 @@
+{
+    "title": "Hazedon",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "ハゼドン",
+    "start_date": "1972-10-05",
+    "end_date": "1972-10-05",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG - Children",
+    "tags": [
+        "adventure",
+        "comedy"
+    ],
+    "sinopse": "The series focused on a goby fish: Hazedon, who was the offspring of a mermaid and a blowfish. His goal was to travel the world on an adventure with his best friend, Puyang.\n\n(Source: GoBoiano)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/23015/Hazedon"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2194"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2250"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%BC%E3%83%89%E3%83%B3"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Hanitarou Desu.",
+    "type": "tv-serie",
+    "episodes": "70",
+    "original_name": "ハニ太郎です.",
+    "start_date": "1997-10-06",
+    "end_date": "1997-10-06",
+    "opening_song": "\"Dakishimetai (抱きしめたい)\" by Maki Mochida",
+    "rating": "G - All Ages",
+    "tags": [
+        "slice-of-life",
+        "comedy"
+    ],
+    "sinopse": "Shown daily during the Super J Channel news programme.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/34831/Hanitarou_Desu"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/hanitaro/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2105"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1868"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E5%A4%AA%E9%83%8E%E3%81%A7%E3%81%99%E3%80%82"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Hello! Sandybell",
+    "type": "tv-serie",
+    "episodes": "47",
+    "original_name": "ハロー！サンディベル",
+    "start_date": "1981-03-06",
+    "end_date": "1981-03-06",
+    "opening_song": "\"Hello! Sandybell (ハロー!サンディベル)\" by Mitsuko Horie, The Chirps",
+    "ending_song": "\"Shiroi Suisen (白い水仙)\" by Mitsuko Horie, Koorogi '73",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "romance",
+        "shoujo"
+    ],
+    "sinopse": "Sandybell is a playful girl from Scotland. She is happy even if her mum died when she was little. Past secrets begin to reveal after Sandybell gets a white lily from a rich lady. After a tragic act Sandybell moves to London where she is trying to find clues to her past.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2799/Hello_Sandybell"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/sandybell/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1924"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1436"
+        }
+    ]
+}

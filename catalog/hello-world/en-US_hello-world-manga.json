@@ -1,0 +1,31 @@
+{
+    "title": "Hello World",
+    "type": "manga",
+    "volumes": "2",
+    "chapters": "10",
+    "original_name": "HELLO WORLD",
+    "start_date": "2019-07-19",
+    "end_date": "2019-07-19",
+    "tags": [
+        "drama",
+        "romance",
+        "sci-fi",
+        "supernatural",
+        "seinen"
+    ],
+    "authors": [
+        "Suzuki",
+        "Manatsu (Art)",
+        "Sono",
+        "Yoshihiro (Art)",
+        "Nozaki",
+        "Mado (Story)"
+    ],
+    "sinopse": "A man travels in time from the year 2027 to relive his school years and to correct a bad decision.\n\n(Source: IMDb)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/manga/121294/Hello_World"
+        }
+    ]
+}

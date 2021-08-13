@@ -1,0 +1,29 @@
+{
+    "title": "Hinomaru!",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "ヒノマル!",
+    "start_date": "2017-07-05",
+    "end_date": "2017-07-05",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/36231/Hinomaru"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.hinomaru-project.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13415"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Hello Kitty no Cinderella",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ハローキティのシンデレラ",
+    "start_date": "1989-07-22",
+    "rating": "PG - Children",
+    "tags": [
+        "fantasy"
+    ],
+    "sinopse": "Hello Kitty version of Cinderella.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/9291/Hello_Kitty_no_Cinderella"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7782"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9156"
+        }
+    ]
+}

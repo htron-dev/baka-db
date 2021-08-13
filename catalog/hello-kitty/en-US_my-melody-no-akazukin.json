@@ -1,0 +1,26 @@
+{
+    "title": "My Melody no Akazukin",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "マイメロディの赤ずきん",
+    "start_date": "1989-07-22",
+    "rating": "G - All Ages",
+    "tags": [
+        "fantasy"
+    ],
+    "sinopse": "My Melody stars in the re-created story of Little Red Riding Hood.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/14253/My_Melody_no_Akazukin"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5796"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9240"
+        }
+    ]
+}

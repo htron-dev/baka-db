@@ -1,0 +1,30 @@
+{
+    "title": "Hyakka Zukan",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ひゃっかずかん",
+    "start_date": "1989-01-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "A short film by Koji Yamamura.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/7244/Hyakka_Zukan"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.yamamura-animation.jp/ef02hyak.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5156"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7860"
+        }
+    ]
+}

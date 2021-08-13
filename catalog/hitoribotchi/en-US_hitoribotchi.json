@@ -1,0 +1,26 @@
+{
+    "title": "Hitoribotchi",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ひとりぼっち",
+    "start_date": "1969-03-18",
+    "rating": "G - All Ages",
+    "tags": [
+        "drama"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/27375/Hitoribotchi"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7635"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Happy Happy Clover",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "はぴはぴクローバー",
+    "start_date": "2007-07-06",
+    "end_date": "2007-07-06",
+    "opening_song": "\"Shiawase no Kakera (ｼｱﾜｾのｶｹﾗ)\" by Marimomi",
+    "ending_song": "\"Aiiro no Sora no Shita de (藍色の空の下で)\" by Mikuni Shimokawa",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "fantasy",
+        "shoujo"
+    ],
+    "sinopse": "Happy Happy Clover recounts the everyday life of a bunny named Chima and the other animals in the Crescent Moon Forest.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5276/Happy_Happy_Clover"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.hapiclo.tv/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5279"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8045"
+        }
+    ]
+}

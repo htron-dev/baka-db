@@ -1,0 +1,36 @@
+{
+    "title": "Mini Hama: Minimum Hamatora",
+    "type": "tv-serie",
+    "episodes": "8",
+    "original_name": "ミニはま -MINIMUM HAMATORA-",
+    "start_date": "2015-11-01",
+    "end_date": "2015-11-01",
+    "ending_song": "\"Little Crazy\" by Hamatora",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "comedy",
+        "mystery",
+        "school",
+        "shounen",
+        "super-power"
+    ],
+    "sinopse": "Super deformed Hamatora.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30291/Mini_Hama__Minimum_Hamatora"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://hamatorapj.com/minihama/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11728"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hamatora"
+        }
+    ]
+}

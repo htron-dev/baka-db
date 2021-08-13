@@ -1,0 +1,25 @@
+{
+    "title": "Hello, World",
+    "type": "light-novel",
+    "volumes": "2",
+    "chapters": "15",
+    "original_name": "ハローワールド",
+    "start_date": "2005-03-31",
+    "end_date": "2005-03-31",
+    "tags": [
+        "sci-fi"
+    ],
+    "authors": [
+        "Nitroplus (Story)",
+        "Suzukaze",
+        "Ryou (Story)",
+        "Kinrikimantou (Art)"
+    ],
+    "sinopse": "Based on the original visual novel by Nitro+.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/manga/89393/Hello_World"
+        }
+    ]
+}

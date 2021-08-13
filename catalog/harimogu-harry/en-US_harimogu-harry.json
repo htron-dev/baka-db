@@ -1,0 +1,31 @@
+{
+    "title": "Harimogu Harry",
+    "type": "tv-serie",
+    "episodes": "140",
+    "original_name": "はりもぐハーリー",
+    "start_date": "1996-08-05",
+    "end_date": "1996-08-05",
+    "opening_song": "\"Go ahead\" by CRIPTON",
+    "ending_song": "\"Dahlia (ダリア)\" by CRIPTON",
+    "rating": "G - All Ages",
+    "tags": [],
+    "sinopse": "Story of Harry and his animal friends going to a school.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/9807/Harimogu_Harry"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2241"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2247"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/はりもぐハーリー"
+        }
+    ]
+}

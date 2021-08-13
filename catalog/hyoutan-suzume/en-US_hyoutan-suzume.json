@@ -1,0 +1,30 @@
+{
+    "title": "Hyoutan Suzume",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ひょうたんすずめ",
+    "start_date": "1959-02-10",
+    "rating": "G - All Ages",
+    "tags": [
+        "fantasy"
+    ],
+    "sinopse": "One of the famous Asian animated films from the late 1950s.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/16007/Hyoutan_Suzume"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4933"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1788"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/ひょうたんすずめ"
+        }
+    ]
+}
