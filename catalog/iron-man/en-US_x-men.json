@@ -1,0 +1,39 @@
+{
+    "title": "X-Men",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "エックスメン",
+    "start_date": "2011-04-01",
+    "end_date": "2011-04-01",
+    "opening_song": "\"Reassembly\" by Takahashi Tetsuya",
+    "ending_song": "\"Fighting for Peace, Fighting for All\" by Takahashi Tetsuya",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "drama",
+        "super-power"
+    ],
+    "sinopse": "The X-Men are reunited following the death of a teammate, and are summoned by Charles Xavier to Japan following the abduction of Hisako Ichiki (Armor). There, they confront the U-Men, a lunatic cult that steals and transplants mutant organs to further strengthen their own army, and the battle for justice is on.\n\n(Source: Marvel)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6919/X-Men"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.animax.co.jp/marvelanime/x-men/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8058"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12366"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Marvel_Anime#X-Men"
+        }
+    ]
+}

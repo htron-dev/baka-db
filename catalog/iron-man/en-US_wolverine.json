@@ -1,0 +1,39 @@
+{
+    "title": "Wolverine",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "ウルヴァリン",
+    "start_date": "2011-01-07",
+    "end_date": "2011-01-07",
+    "opening_song": "\"Feel my Claws\" by Takahashi Tetsuya",
+    "ending_song": "\"Another Day of Battles\" by Takahashi Tetsuya",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "martial-arts",
+        "super-power"
+    ],
+    "sinopse": "Logan learns that his girlfriend, Mariko Yashida, who disappeared a year ago, has been taken to Tokyo by her father Shingen, who is the head of a Japanese crime syndicate and a supplier of AIM. He then decides to head to Japan to find her and take her back, no matter what.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6918/Wolverine"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.animax.co.jp/marvelanime/wolverine"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7384"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12083"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Marvel_Anime#Wolverine"
+        }
+    ]
+}

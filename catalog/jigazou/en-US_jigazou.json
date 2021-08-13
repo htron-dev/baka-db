@@ -1,0 +1,34 @@
+{
+    "title": "Jigazou",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "自画像",
+    "start_date": "1988-06-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "This extremely brief film was Osamu Tezuka's answer to a challenge presented to the leaders of the international animation community to create animated self-portraits.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/4966/Jigazou"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://tezukaosamu.net/jp/anime/77.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7260"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3444"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Osamu_Tezuka"
+        }
+    ]
+}
