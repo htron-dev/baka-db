@@ -1,0 +1,27 @@
+# gdMen
+
+-   **type**: tv-serie
+-   **episodes**: 12
+-   **original-name**: gd メン
+-   **start-date**: 2018-01-09
+-   **end-date**: 2018-01-09
+-   **opening-song**: "Mousou Teikoku Chikuouki (妄想帝国蓄音機)" by Eri Kitamura
+-   **ending-song**: "Duality" by BB-voice
+-   **rating**: PG - Children
+
+## Tags
+
+-   comedy
+-   fantasy
+
+## Sinopse
+
+In the series, Light and Yomi are spending their daily lives happily playing video games. One night when everyone else is asleep, Light receives an invitation from Alpha, a messenger for someone named King. Light and Yomi are then sucked into another world, where they must undertake a quest to rescue Princess Melody from the demon lord. Light thinks this must be his destiny, while Yomi thinks it's kind of annoying. They form a party with Alpha to start their quest. Alpha as it turns out is an AI robot, and he has a program that allows them to raise their levels while slowly continuing their adventure.
+
+(Source: ANN)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/anime/36797/gdMen)
+-   [Official Site](http://gdmen.net/)
+-   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13582)
