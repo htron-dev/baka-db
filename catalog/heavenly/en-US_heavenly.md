@@ -1,0 +1,20 @@
+# Heavenly
+
+-   **type**: manga
+-   **volumes**: 1
+-   **original-name**: ヘヴンリィ heavenly
+-   **start-date**: 2006-03-27
+
+## Tags
+
+-   ecchi
+-   seinen
+
+## Authors
+
+-   Yuuki
+-   Ryo (Story & Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/20679/Heavenly)

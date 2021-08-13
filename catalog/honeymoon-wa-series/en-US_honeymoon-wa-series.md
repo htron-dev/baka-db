@@ -1,0 +1,24 @@
+# Honeymoon wa Series
+
+-   **type**: manga
+-   **volumes**: 3
+-   **chapters**: 12
+-   **original-name**: ハネムーンはシリーズ
+
+## Tags
+
+-   romance
+-   josei
+
+## Authors
+
+-   Momono
+-   Miku (Story & Art)
+
+## Sinopse
+
+To pay my debt, I get married with my teacher...
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/94262/Honeymoon_wa_Series)
