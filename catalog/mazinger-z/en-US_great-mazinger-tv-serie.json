@@ -1,0 +1,40 @@
+{
+    "title": "Great Mazinger",
+    "type": "tv-serie",
+    "episodes": "56",
+    "original_name": "グレートマジンガー",
+    "start_date": "1974-09-08",
+    "end_date": "1974-09-08",
+    "opening_song": "\"Ore wa Great Mazinger (おれはグレートマジンガー)\" by Ichirou Mizuki, Columbia Yurikago Kai",
+    "ending_song": "\"Yuusha wa Mazinger (勇者はマジンガー)\" by Ichirou Mizuki, Columbia Yurikago Kai",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "mecha",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "A manga comic book and anime television series by manga artist Go Nagai, made as a direct continuation of the successful Mazinger Z series. It was aired on Japan in 1974, immediately following the end of the first Mazinger series.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5658/Great_Mazinger"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/great_mazin/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=956"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1997"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Great_Mazinger"
+        }
+    ]
+}

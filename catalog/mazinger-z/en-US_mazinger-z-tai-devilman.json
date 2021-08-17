@@ -1,0 +1,31 @@
+{
+    "title": "Mazinger Z tai Devilman",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "マジンガーＺ対デビルマン",
+    "start_date": "1973-07-18",
+    "ending_song": "\"Sora Tobu Mazinger Z\" by Ichiro Mizuki Ichirou and Columbia Yurikago-Kai",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "demons",
+        "mecha",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "The heroes of the series Mazinger Z and Devilman fighting against the evil Demon Clan.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3898/Mazinger_Z_tai_Devilman"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=951"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3556"
+        }
+    ]
+}

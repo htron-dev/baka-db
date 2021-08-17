@@ -1,0 +1,43 @@
+{
+    "title": "Macross Δ",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "マクロス Δ（デルタ）",
+    "start_date": "2016-04-03",
+    "end_date": "2016-04-03",
+    "opening_song": "#1",
+    "ending_song": "#01",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "military",
+        "sci-fi",
+        "music",
+        "space",
+        "romance",
+        "mecha"
+    ],
+    "sinopse": "Eight years after the events of Macross F, a mysterious phenomenon known as the Var Syndrome is gradually consuming the galaxy. It's up to a new generation of highly capable Valkyrie pilots to deal with this universal menace. And if they didn't have enough on their plate already, the Aerial Knights Valkyrie fighter team from the Kingdom of Wind have come to challenge the Delta Squadron.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/28013/Macross_Δ"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://macross.jp/delta/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10569"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17762"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Macross_Delta"
+        }
+    ]
+}

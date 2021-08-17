@@ -1,0 +1,36 @@
+{
+    "title": "Mikan Enikki",
+    "type": "tv-serie",
+    "episodes": "30",
+    "original_name": "みかん絵日記",
+    "start_date": "1992-10-16",
+    "end_date": "1992-10-16",
+    "opening_song": "\"Naisho! no Bairin Cat (ないしょ!のバイリン・キャット)\" by Chisa Yokoyama",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "slice-of-life",
+        "comedy",
+        "romance",
+        "shoujo"
+    ],
+    "sinopse": "A kitten, abandoned and left for dead along with his siblings, is taken in by Tomu Kusanagi, who nurtures him and discovers that the tangerine cat he so adores is actually a genius who can talk, walk, read, and has even acquired a taste for liquor!",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3345/Mikan_Enikki"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4599"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1946"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%8B%E3%82%93%E7%B5%B5%E6%97%A5%E8%A8%98"
+        }
+    ]
+}

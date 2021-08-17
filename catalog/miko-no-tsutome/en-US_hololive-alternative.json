@@ -1,0 +1,26 @@
+{
+    "title": "Hololive Alternative",
+    "type": "ona",
+    "episodes": "1",
+    "original_name": "ホロライブ・オルタナティブ",
+    "start_date": "2021-05-21",
+    "rating": "G - All Ages",
+    "tags": [
+        "music"
+    ],
+    "sinopse": "Promotional video for Hololive Alternative multimedia project.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/47904/Hololive_Alternative"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://alt.hololive.tv/"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hololive_Production"
+        }
+    ]
+}

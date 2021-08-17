@@ -1,0 +1,27 @@
+{
+    "title": "Metroid",
+    "type": "manga",
+    "volumes": "2",
+    "chapters": "16",
+    "original_name": "メトロイド",
+    "start_date": "2002-11-26",
+    "end_date": "2002-11-26",
+    "tags": [
+        "action",
+        "sci-fi",
+        "seinen"
+    ],
+    "authors": [
+        "Tazawa",
+        "Kouji (Story)",
+        "Ishikawa",
+        "Kenji (Art)"
+    ],
+    "sinopse": "The story is about Samus Aran's early life as a bounty hunter.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/manga/6642/Metroid"
+        }
+    ]
+}

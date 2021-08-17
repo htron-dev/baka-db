@@ -1,0 +1,45 @@
+{
+    "title": "Mai-HiME",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "舞-HiME",
+    "start_date": "2004-09-30",
+    "end_date": "2004-09-30",
+    "opening_song": "\"Shining Days\" by Minami Kuribayashi",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "comedy",
+        "drama",
+        "fantasy",
+        "magic",
+        "mecha",
+        "romance",
+        "school",
+        "shoujo-ai"
+    ],
+    "sinopse": "Thirteen girls, each with the ability to materialize \"Elements\" and summon metallic guardians called \"Childs\" have been brought to Fuuka Academy to battle mysterious creatures called Orphans. Each with a different personality and background, they must decide who they truly care about and why they fight.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/98/Mai-HiME"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.sunrise-inc.co.jp/my-hime/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1554"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4155"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Mai_hime"
+        }
+    ]
+}

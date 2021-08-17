@@ -1,0 +1,24 @@
+{
+    "title": "Engimon",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "えんぎもん",
+    "start_date": "2018-03-10",
+    "rating": "G - All Ages",
+    "tags": [],
+    "sinopse": "Part of Anime Tamago 2018.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/35681/Engimon"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://animetamago.jp/index.php"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13212"
+        }
+    ]
+}

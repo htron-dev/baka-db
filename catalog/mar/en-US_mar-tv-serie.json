@@ -1,0 +1,41 @@
+{
+    "title": "MÄR",
+    "type": "tv-serie",
+    "episodes": "102",
+    "original_name": "メル",
+    "start_date": "2005-04-03",
+    "end_date": "2005-04-03",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "shounen"
+    ],
+    "sinopse": "Dreaming of a magical world every night, the young Toramizu Ginta yearns to be able to go there. With only his friend Koyuki believing in his dreams, Ginta remains positive despite the slander he receives from others over his dreams. But his wishes are answered, as one day a large door appears in front of Ginta, summoning him to the land of MAR Heaven. In this land, the weapons known as ARMS exist. While initially Ginta greatly enjoyed the discovery of this magical world, he soon learns of the terrible wars that have once plagued MAR Heaven and the upcoming war that may soon appear.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/738/MÄR"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://marheaven.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2855"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4882"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/M%C3%84R"
+        }
+    ]
+}

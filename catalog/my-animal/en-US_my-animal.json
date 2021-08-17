@@ -1,0 +1,25 @@
+{
+    "title": "My Animal",
+    "type": "manga",
+    "volumes": "4",
+    "chapters": "36",
+    "original_name": "マイアニマル",
+    "start_date": "2014-09-22",
+    "end_date": "2014-09-22",
+    "tags": [
+        "action",
+        "school",
+        "shounen",
+        "supernatural"
+    ],
+    "authors": [
+        "Tsuchida",
+        "Kenta (Story & Art)"
+    ],
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/manga/80179/My_Animal"
+        }
+    ]
+}

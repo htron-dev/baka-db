@@ -1,0 +1,34 @@
+{
+    "title": "Manga Hajimete Monogatari",
+    "type": "tv-serie",
+    "episodes": "305",
+    "original_name": "まんがはじめて物語",
+    "start_date": "1978-05-06",
+    "end_date": "1978-05-06",
+    "opening_song": "#01",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "comedy",
+        "historical"
+    ],
+    "sinopse": "An educational program for children featuring various historical events, showing both animation and live action footage. A reoccurring \"older sister\" and the pink mole Mogutan, will take you on a journey through time.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/10135/Manga_Hajimete_Monogatari"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tbs.co.jp/tbs-ch/item/a0023/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6300"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=798"
+        }
+    ]
+}

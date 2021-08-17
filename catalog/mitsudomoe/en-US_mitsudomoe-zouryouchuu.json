@@ -1,0 +1,39 @@
+{
+    "title": "Mitsudomoe Zouryouchuu!",
+    "type": "tv-serie",
+    "episodes": "8",
+    "original_name": "みつどもえ増量中！",
+    "start_date": "2011-01-09",
+    "end_date": "2011-01-09",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "slice-of-life",
+        "comedy",
+        "school"
+    ],
+    "sinopse": "Second season of Mitsudomoe.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/9510/Mitsudomoe_Zouryouchuu"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.mitsudomoe-anime.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7948"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11879"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Mitsudomoe_%28manga%29"
+        }
+    ]
+}

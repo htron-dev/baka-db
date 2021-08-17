@@ -1,0 +1,33 @@
+{
+    "title": "Minarai Diva",
+    "type": "tv-serie",
+    "episodes": "10",
+    "original_name": "みならいディーバ",
+    "start_date": "2014-07-14",
+    "end_date": "2014-07-14",
+    "opening_song": "\"Run Diva Run\" by Minarai Diva",
+    "ending_song": "#01",
+    "rating": "G - All Ages",
+    "tags": [
+        "music"
+    ],
+    "sinopse": "The story follows two aspiring divas who hope to become famous through a unique brand of music.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/23375/Minarai_Diva"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10555"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16099"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/みならいディーバ"
+        }
+    ]
+}
