@@ -1,0 +1,37 @@
+{
+    "title": "Kimoshiba 2",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "きもしば２",
+    "start_date": "2017-04-02",
+    "end_date": "2017-04-02",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "horror",
+        "supernatural"
+    ],
+    "sinopse": "The second season of Kimoshiba.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/36003/Kimoshiba_2"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/kinder/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12468"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18785"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%82%E3%81%97%E3%81%B0"
+        }
+    ]
+}

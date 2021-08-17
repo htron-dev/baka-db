@@ -1,0 +1,35 @@
+{
+    "title": "Kinnikuman (Movie)",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "キン肉マン (キン肉マン 奪われたチャンピオンベルト)",
+    "start_date": "1984-07-14",
+    "opening_song": "\"Kinnikuman Go Fight! (キン肉マン Go Fight!)\" by Shinichi Ishihara",
+    "ending_song": "\"Kiseki no Gyakuten Fighter (Kinnikuman no Theme) (奇蹟の逆転ファイター(キン肉マンのテーマ))\" by Akira Kamiya",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "comedy",
+        "sports",
+        "shounen"
+    ],
+    "sinopse": "Mari and Kinnikuman's Championship Belt are stolen by the Octopus Dragon and his minions. Now Kinnikuman and the other Justice Choujins must travel to Planet Metro and compete in a tournament in order to win them back.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3273/Kinnikuman_Movie"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2133"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3640"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Kinnikuman_%28film%29"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Kikou Senki Dragonar",
+    "type": "tv-serie",
+    "episodes": "48",
+    "original_name": "機甲戦記ドラグナー",
+    "start_date": "1987-02-07",
+    "end_date": "1987-02-07",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "sci-fi",
+        "adventure",
+        "space",
+        "mecha"
+    ],
+    "sinopse": "A.D. 2087 - the United Lunar Empire Giganos wages war on the Earth Federation Military to take control of the planet and establish a \"rebirth\" of the human race. During an invasion of a colony by Giganos' forces, three civilian men stumble upon a trio of top-secret Metal Armor units called \"Dragonars\" and pilot them to combat the enemy forces.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.dragonar.net/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1112"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2185"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+        }
+    ]
+}

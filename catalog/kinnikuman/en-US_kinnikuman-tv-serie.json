@@ -1,0 +1,40 @@
+{
+    "title": "Kinnikuman",
+    "type": "tv-serie",
+    "episodes": "137",
+    "original_name": "キン肉マン",
+    "start_date": "1983-04-03",
+    "end_date": "1983-04-03",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "comedy",
+        "sports",
+        "shounen"
+    ],
+    "sinopse": "Kinnikuman is a superhero... a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3272/Kinnikuman"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/kinniku/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1930"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1513"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Kinnikuman"
+        }
+    ]
+}

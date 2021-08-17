@@ -1,0 +1,34 @@
+{
+    "title": "Keroro",
+    "type": "tv-serie",
+    "episodes": "23",
+    "original_name": "ケロロ",
+    "start_date": "2014-03-22",
+    "end_date": "2014-03-22",
+    "opening_song": "\"Keroro☆Popstar\" by Mayumi Gojo",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "comedy",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "Second TV (flash animated) series of Keroro Gunsou.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/21671/Keroro"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://keroro.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10306"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15768"
+        }
+    ]
+}

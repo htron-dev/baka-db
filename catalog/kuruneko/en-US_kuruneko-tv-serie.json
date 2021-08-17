@@ -1,0 +1,37 @@
+{
+    "title": "Kuruneko",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "くるねこ",
+    "start_date": "2009-07-05",
+    "end_date": "2009-07-05",
+    "opening_song": "\"Beautiful Day\" by Vivian Hsu",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "slice-of-life"
+    ],
+    "sinopse": "Based on a manga about cats and their sake loving owner.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6604/Kuruneko"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://kuruneko-komichi.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6619"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10914"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Kuruneko"
+        }
+    ]
+}

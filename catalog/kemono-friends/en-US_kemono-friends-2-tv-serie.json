@@ -1,0 +1,38 @@
+{
+    "title": "Kemono Friends 2",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "けものフレンズ 2",
+    "start_date": "2019-01-15",
+    "end_date": "2019-01-15",
+    "opening_song": "\"Notteke! Japari Beat (乗ってけ！ジャパリビート)\" by Doubutsu Biscuits [Common Raccoon (Saki Ono), Serval (Yuka Ozaki), Fennec (Kana Monomiya)] x",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "comedy"
+    ],
+    "sinopse": "Second season of Kemono Friends.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/35313/Kemono_Friends_2"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://kemono-friends.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13055"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21589"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Kemono_Friends"
+        }
+    ]
+}
