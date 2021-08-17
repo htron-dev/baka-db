@@ -1,0 +1,21 @@
+# Mahou to Yoru no Wanted!
+
+-   **type**: light-novel
+-   **volumes**: 1
+-   **original-name**: 魔法と夜のウォンテッド！
+-   **start-date**: 2016-09-10
+
+## Tags
+
+-   magic
+-   vampire
+
+## Authors
+
+-   nyoro (Art)
+-   Takagi
+-   Rin (Story)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/101124/Mahou_to_Yoru_no_Wanted)

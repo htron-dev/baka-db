@@ -1,0 +1,26 @@
+# Makeruna! Makendou
+
+-   **type**: ova
+-   **episodes**: 1
+-   **original-name**: 負けるな！魔剣道
+-   **start-date**: 1995-03-25
+-   **opening-song**: "Kokoro ni Anata ga Irukara (心にあなたがいるから)" by Mika Kanai
+-   **ending-song**: "Sayonara ja Nai (サヨナラじゃない; Not a Farewell)" by Kotono Mitsuishi
+-   **rating**: R+ - Mild Nudity
+
+## Tags
+
+-   magic
+-   comedy
+-   shounen
+
+## Sinopse
+
+Makenko used to be a normal boy—until he was kidnapped by the brain monster Dr. Mud and transformed into a cyborg capable of destroying both the monster and human worlds! On his quest for vengeance, he is inadvertently joined by Makendo, a fellow monster hunter who would prefer not to be, and her little sister Hikari who would like nothing better! Dastardly demons and wacky monsters abound as the trio fight the bad guys to kick some monster butt, and get Makenko's body back!
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/anime/2081/Makeruna_Makendou)
+-   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2719)
+-   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7148)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E8%B2%A0%E3%81%91%E3%82%8B%E3%81%AA!%E9%AD%94%E5%89%A3%E9%81%93)
