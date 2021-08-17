@@ -1,0 +1,32 @@
+{
+    "title": "Little Charo",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "リトル・チャロ",
+    "start_date": "2008-04-02",
+    "end_date": "2008-04-02",
+    "opening_song": "\"MORNING - EVENING\" by MONKEY MAJIK",
+    "rating": "G - All Ages",
+    "tags": [
+        "slice-of-life"
+    ],
+    "sinopse": "NHK's English education program featured the adventures of a puppy named Charo in New York.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/13177/Little_Charo"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://gogakuru.com/english/on_air/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%81%E3%83%A3%E3%83%AD.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8025"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%81%E3%83%A3%E3%83%AD"
+        }
+    ]
+}

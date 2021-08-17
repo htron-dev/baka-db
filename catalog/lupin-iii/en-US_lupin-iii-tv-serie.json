@@ -1,0 +1,41 @@
+{
+    "title": "Lupin III",
+    "type": "tv-serie",
+    "episodes": "23",
+    "original_name": "ルパン三世",
+    "start_date": "1971-10-24",
+    "end_date": "1971-10-24",
+    "opening_song": "#1",
+    "ending_song": "\"Lupin Sansei Sono 2\" by Charlie Kosei",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "mystery",
+        "comedy",
+        "seinen"
+    ],
+    "sinopse": "Arsène Lupin III is the grandson of world-famous thief Arsène Lupin, and he's living up to his grandfather's memory as a high-profile thief himself. Due to his infamy, Lupin III attracts the attention of the persistent Inspector Zenigata of the ICPO, as well as rival criminals. Lupin III's criminal lifestyle even seeps into his love life. The main woman in Lupin III's world is femme fatale Fujiko Mine, who Lupin III can never tell is working with or against him. Follow Lupin and his gunman partner Daisuke Jigen on their quest to own the world－or at least the valuable bits!",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/1412/Lupin_III"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tms-e.com/library/old/tv/data/t_lupin.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=421"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=886"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Lupin_III"
+        }
+    ]
+}
