@@ -1,0 +1,27 @@
+# Kanojo no Koi ga Hanashite Kurenai!
+
+-   **type**: light-novel
+-   **volumes**: 3
+-   **chapters**: 29
+-   **original-name**: 彼女の恋が放してくれない！
+-   **start-date**: 2012-05-15
+-   **end-date**: 2012-05-15
+
+## Tags
+
+-   comedy
+-   ecchi
+-   romance
+-   school
+-   harem
+
+## Authors
+
+-   Misora
+-   Riku (Story)
+-   Arikawa
+-   Satoru (Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/57203/Kanojo_no_Koi_ga_Hanashite_Kurenai)

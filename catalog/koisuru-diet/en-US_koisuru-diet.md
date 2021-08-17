@@ -1,0 +1,21 @@
+# Koisuru Diet
+
+-   **type**: light-novel
+-   **volumes**: 1
+-   **original-name**: 恋するダイエット
+-   **start-date**: 2014-01-25
+
+## Tags
+
+-   romance
+
+## Authors
+
+-   Sugahara
+-   Ryuu (Art)
+-   Yuhi
+-   Maki (Story)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/87777/Koisuru_Diet)

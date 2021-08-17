@@ -1,0 +1,23 @@
+# Kanaete! Yuri Yousei
+
+-   **type**: manga
+-   **volumes**: 1
+-   **chapters**: 15
+-   **original-name**: かなえて！ゆりようせい
+-   **start-date**: 2014-11-18
+-   **end-date**: 2014-11-18
+
+## Tags
+
+-   comedy
+-   shoujo-ai
+-   supernatural
+
+## Authors
+
+-   Minamoto
+-   Hisanari (Story & Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/88633/Kanaete_Yuri_Yousei)

@@ -1,0 +1,26 @@
+# Koharu Haru!
+
+-   **type**: manga
+-   **original-name**: こはる はる!
+-   **start-date**: 2020-04-20
+
+## Tags
+
+-   comedy
+-   school
+-   sports
+-   slice-of-life
+-   seinen
+
+## Authors
+
+-   Arai
+-   Harumaki (Story & Art)
+
+## Sinopse
+
+A geta-sandals wearing girl from Kumamoto at a high school cheerleading club.
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/127556/Koharu_Haru)

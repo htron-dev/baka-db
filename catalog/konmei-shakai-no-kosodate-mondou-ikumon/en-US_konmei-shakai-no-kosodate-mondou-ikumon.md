@@ -1,0 +1,21 @@
+# Konmei Shakai no Kosodate Mondou: Ikumon!
+
+-   **type**: manga
+-   **volumes**: 1
+-   **chapters**: 54
+-   **original-name**: 混迷社会の子育て問答 いくもん！
+-   **start-date**: 2013-04-16
+-   **end-date**: 2013-04-16
+
+## Tags
+
+-   slice-of-life
+
+## Authors
+
+-   Nakamura
+-   Ching (Story & Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/94299/Konmei_Shakai_no_Kosodate_Mondou__Ikumon)
