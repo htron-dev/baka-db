@@ -1,0 +1,20 @@
+# Onigakure Yama no Soba no Hana
+
+-   **type**: movie
+-   **episodes**: 1
+-   **original-name**: 鬼がくれ山のソバの花
+-   **start-date**: 1979-01-19
+-   **rating**: G - All Ages
+
+## Tags
+
+-   demons
+-   historical
+
+## Sinopse
+
+A short film by Okamoto Tadanari.
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/anime/29795/Onigakure_Yama_no_Soba_no_Hana)

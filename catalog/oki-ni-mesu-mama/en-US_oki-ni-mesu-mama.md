@@ -1,0 +1,23 @@
+# Oki ni Mesu Mama
+
+-   **type**: manga
+-   **volumes**: 1
+-   **chapters**: 6
+
+## Tags
+
+-   yaoi
+
+## Authors
+
+-   Ajimine
+-   Sakufu (Story & Art)
+
+## Sinopse
+
+Prince Ashide decides to agree on a wife, but too bad for him a lone deserter of the country of Ishugal shows up instead to claim the title of Princess.
+(from B-U)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/2554/Oki_ni_Mesu_Mama)
