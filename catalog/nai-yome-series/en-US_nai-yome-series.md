@@ -1,0 +1,23 @@
+# Nai Yome Series
+
+-   **type**: manga
+-   **volumes**: 5
+-   **chapters**: 29
+-   **original-name**: ない嫁シリーズ
+-   **start-date**: 2014-05-09
+-   **end-date**: 2014-05-09
+
+## Tags
+
+-   comedy
+-   drama
+-   romance
+
+## Authors
+
+-   Fukami
+-   Sakana (Story & Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/94706/Nai_Yome_Series)
