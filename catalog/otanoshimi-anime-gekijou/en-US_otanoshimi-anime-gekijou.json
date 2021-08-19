@@ -1,0 +1,31 @@
+{
+    "title": "Otanoshimi Anime Gekijou",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "おたのしみアニメ劇場",
+    "start_date": "1970-04-05",
+    "end_date": "1970-04-05",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "Based on the original story by Studio Zero.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/20023/Otanoshimi_Anime_Gekijou"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6972"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2378"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%81%AE%E3%81%97%E3%81%BF%E3%82%A2%E3%83%8B%E3%83%A1%E5%8A%87%E5%A0%B4"
+        }
+    ]
+}

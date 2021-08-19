@@ -1,0 +1,27 @@
+{
+    "title": "Hello Cocomong",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "헬로 코코몽",
+    "start_date": "2010-02-26",
+    "end_date": "2010-02-26",
+    "rating": "G - All Ages",
+    "tags": [
+        "music"
+    ],
+    "sinopse": "I can dance! I can sing! So, I can speak English! Hello Cocomong is a series of musical episodes teaching kids through song and dance. A large amount of episodes are aimed to teach English to Korean speaking children, though the intention is lost with the official English dub of the show.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/37942/Hello_Cocomong"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://home.ebs.co.kr/cocomong/replay/29/list?courseId=10014008&stepId=10014978"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ko.wikipedia.org/wiki/%EB%83%89%EC%9E%A5%EA%B3%A0_%EB%82%98%EB%9D%BC_%EC%BD%94%EC%BD%94%EB%AA%BD"
+        }
+    ]
+}

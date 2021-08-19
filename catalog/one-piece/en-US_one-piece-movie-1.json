@@ -1,0 +1,37 @@
+{
+    "title": "One Piece Movie 1",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ONE PIECE",
+    "start_date": "2000-03-04",
+    "opening_song": "\"We Are!\" by Hiroshi Kitadani",
+    "ending_song": "\"Memories\" by Maki Otsuki",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "super-power",
+        "fantasy",
+        "shounen"
+    ],
+    "sinopse": "Woonan is the legendary Great Gold Pirate, earning the nickname after accumulating about 1/3 of the gold available in the world. Even after his disappearance, the tales of his gold being stashed away in a remote island continue to persist, a juicy target that other pirates lust for.\n\nOne of the pirates going to great lengths to attain the treasure is El Drago. He and his crew have hunted down Woonan's former crew members one by one, and along the way, they find the map that will take them to the hidden island.\n\nThe map is not all they come across; they also manage to come into contact with the straw hat pirates. After a short battle, Luffy and company are robbed and separated from one another. Now they must find a way to make it to the island before El Drago does and take the legendary treasure for themselves.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/459/One_Piece_Movie_1"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=411"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3708"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/One_Piece:_The_Movie"
+        }
+    ]
+}

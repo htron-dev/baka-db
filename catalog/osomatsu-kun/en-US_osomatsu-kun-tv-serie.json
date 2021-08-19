@@ -1,0 +1,32 @@
+{
+    "title": "Osomatsu-kun",
+    "type": "tv-serie",
+    "episodes": "56",
+    "original_name": "おそ松くん",
+    "start_date": "1966-02-05",
+    "end_date": "1966-02-05",
+    "opening_song": "#1",
+    "rating": "PG - Children",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "A wacky comedy about identical sextuplets causing wild pranks. Each episode features 2 stories.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/9884/Osomatsu-kun"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5487"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1508"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9D%E6%9D%BE%E3%81%8F%E3%82%93"
+        }
+    ]
+}

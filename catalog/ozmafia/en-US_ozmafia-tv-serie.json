@@ -1,0 +1,40 @@
+{
+    "title": "Ozmafia!!",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "オズマフィア",
+    "start_date": "2016-07-07",
+    "end_date": "2016-07-07",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "harem",
+        "historical",
+        "romance",
+        "fantasy",
+        "shoujo"
+    ],
+    "sinopse": "The anime will feature an original story from the game on which it is based.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/32697/Ozmafia"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://anime.ozmafia.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11925"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18331"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/OZMAFIA!!"
+        }
+    ]
+}

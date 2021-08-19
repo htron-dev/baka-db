@@ -1,0 +1,39 @@
+{
+    "title": "Onegai My Melody",
+    "type": "tv-serie",
+    "episodes": "52",
+    "original_name": "おねがいマイメロディ",
+    "start_date": "2005-04-03",
+    "end_date": "2005-04-03",
+    "opening_song": "\"Oto MELODY\" by Mikako Takahashi",
+    "ending_song": "#1",
+    "rating": "PG - Children",
+    "tags": [
+        "comedy",
+        "magic",
+        "fantasy"
+    ],
+    "sinopse": "My Melody arrives on Earth much to the surprise of her rival Kuromi. Together with one of the junior high school students, Yumeno Uta, they decide to protect the dreams of the people with the help of magic.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2489/Onegai_My_Melody"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.sanrio.co.jp/characters/mymelody/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2966"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5103"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Onegai_My_Melody"
+        }
+    ]
+}

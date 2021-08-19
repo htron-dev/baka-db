@@ -1,0 +1,31 @@
+{
+    "title": "Nippon Tanjou",
+    "type": "tv-serie",
+    "episodes": "5",
+    "original_name": "日本誕生",
+    "start_date": "1970-06-10",
+    "end_date": "1970-06-10",
+    "rating": "G - All Ages",
+    "tags": [
+        "historical"
+    ],
+    "sinopse": "A history of Japan with the main characters as animals.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/22999/Nippon_Tanjou"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3509"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1702"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "<http://ja.wikipedia.org/wiki/日本誕生_(テレビアニメ"
+        }
+    ]
+}

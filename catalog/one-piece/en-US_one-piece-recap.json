@@ -1,0 +1,35 @@
+{
+    "title": "One Piece Recap",
+    "type": "ova",
+    "episodes": "1",
+    "original_name": "ワンピース",
+    "start_date": "2010-03-17",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "shounen",
+        "super-power"
+    ],
+    "sinopse": "A recap OVA summarizing the ten-year TV series up to the Impel Down arc.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/8171/One_Piece_Recap"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/tv/onep/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/One_Piece"
+        }
+    ]
+}

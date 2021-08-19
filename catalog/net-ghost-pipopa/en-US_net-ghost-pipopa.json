@@ -1,0 +1,41 @@
+{
+    "title": "Net Ghost Pipopa",
+    "type": "tv-serie",
+    "episodes": "51",
+    "original_name": "ネットゴースト PIPOPA",
+    "start_date": "2008-04-06",
+    "end_date": "2008-04-06",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "About a young boy named Akigawa Yuta who gets sucked into a virtual world through his cell phone. He meets three strange creatures that travel with him on Yuta's adventure in this strange new world.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/4051/Net_Ghost_Pipopa"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/pipopa/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5773"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9461"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Net_Ghost_PiPoPa"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Ojamanga Yamada-kun",
+    "type": "tv-serie",
+    "episodes": "103",
+    "original_name": "おじゃまんが山田くん",
+    "start_date": "1980-09-28",
+    "end_date": "1980-09-28",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "None",
+    "tags": [
+        "comedy",
+        "slice-of-life"
+    ],
+    "sinopse": "TV anime adaptation of Hisaichi Ishii's comedy manga \"Ojamanga Yamada-kun\".",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/16530/Ojamanga_Yamada-kun"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6578"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1845"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Ojamanga_Yamada-kun"
+        }
+    ]
+}

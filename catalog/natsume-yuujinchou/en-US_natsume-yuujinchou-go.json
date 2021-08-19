@@ -1,0 +1,41 @@
+{
+    "title": "Natsume Yuujinchou Go",
+    "type": "tv-serie",
+    "episodes": "11",
+    "original_name": "夏目友人帳 伍",
+    "start_date": "2016-10-05",
+    "end_date": "2016-10-05",
+    "opening_song": "\"Takarabako (タカラバコ)\" by Sasanomaly (ササノマリイ)",
+    "ending_song": "\"Akane Sasu (茜さす)\" by Aimer",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "slice-of-life",
+        "demons",
+        "supernatural",
+        "drama",
+        "shoujo"
+    ],
+    "sinopse": "Season 5 of Natsume Yuujinchou.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.natsume-anime.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12009"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18168"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Natsume%27s_Book_of_Friends"
+        }
+    ]
+}
