@@ -1,0 +1,43 @@
+{
+    "title": "Rockman.EXE Stream",
+    "type": "tv-serie",
+    "episodes": "51",
+    "original_name": "ロックマンエクゼ Stream",
+    "start_date": "2004-10-02",
+    "end_date": "2004-10-02",
+    "opening_song": "\"Be Somewhere\" by Buzy",
+    "ending_song": "\"Doobee DooWap Communication\" by Babamania",
+    "rating": "PG - Children",
+    "tags": [
+        "action",
+        "adventure",
+        "game",
+        "mecha",
+        "school",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "A comet burns in the sky, its brilliant light shining down upon the people of Earth. At that time, a giant army of viruses invade the real world, crushing everything in their path. Netto and Enzan use cross fusion to intervene, but are whisked away to an unknown location, only to be confronted by the one responsible for the attack - Duo!\n\n(Source: Official Site)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2109/RockmanEXE_Stream"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/rockmanexe_st/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2664"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4397"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+        }
+    ]
+}

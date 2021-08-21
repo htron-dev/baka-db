@@ -1,0 +1,31 @@
+{
+    "title": "RoboMasters the Animated Series",
+    "type": "tv-serie",
+    "episodes": "6",
+    "original_name": "ROBOMASTERS THE ANIMATED SERIES",
+    "start_date": "2017-10-13",
+    "end_date": "2017-10-13",
+    "opening_song": "\"super nova\" by un",
+    "ending_song": "\"Higher Maker\" by Saori Fukuyama",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "mecha",
+        "school"
+    ],
+    "sinopse": "The series will depict college students as they prepare and participate in a RoboMasters tournament.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/34903/RoboMasters_the_Animated_Series"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://anime.robomasters.com/jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12815"
+        }
+    ]
+}

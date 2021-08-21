@@ -1,0 +1,43 @@
+{
+    "title": "Rockman.EXE",
+    "type": "tv-serie",
+    "episodes": "56",
+    "original_name": "ロックマン エグゼ",
+    "start_date": "2002-03-04",
+    "end_date": "2002-03-04",
+    "opening_song": "#01",
+    "ending_song": "#01",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "game",
+        "sci-fi",
+        "adventure",
+        "comedy",
+        "mecha",
+        "shounen"
+    ],
+    "sinopse": "In the year of 20XX, a young boy by the name of Netto Hikari receives a very special gift as he enters the 5th grade. His very own customized net navi, Rockman! Despite Rockman's small size and far more responsible personality, the two boys quickly become the best of friends. A net navi is designed to guide his operator from the inside of his or her PErsonal Terminal, or simply PET for short. Children and adults alike enjoy friendly \"Net Battles\", where they spar their navis against each other to prove their worth.\n\n(Source: Official Site)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/1710/RockmanEXE"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/rockmanexe/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=146"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2259"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+        }
+    ]
+}

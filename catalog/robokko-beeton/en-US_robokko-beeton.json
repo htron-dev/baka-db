@@ -1,0 +1,35 @@
+{
+    "title": "Robokko Beeton",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "ろぼっ子ビートン",
+    "start_date": "1976-10-12",
+    "end_date": "1976-10-12",
+    "opening_song": "\"Watashi no Beeton (わたしのビートン)\" by Oowada Ritsuko",
+    "ending_song": "\"Naze? Naze? Beeton (なぜ?なぜ?ビートン)\" by 劇団こまどり, Oowada Ritsuko",
+    "rating": "PG - Children",
+    "tags": [
+        "adventure",
+        "comedy",
+        "slice-of-life"
+    ],
+    "sinopse": "When a boy's uncle sends him confusing plans for a robot from America, the boy makes a mistake in the assembly which leads to unexpected results.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/20147/Robokko_Beeton"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2345"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2611"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%82%8D%E3%81%BC%E3%81%A3%E5%AD%90%E3%83%93%E3%83%BC%E3%83%88%E3%83%B3"
+        }
+    ]
+}

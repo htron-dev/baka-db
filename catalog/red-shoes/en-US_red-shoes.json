@@ -1,0 +1,27 @@
+{
+    "title": "Red Shoes",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "레드슈즈",
+    "start_date": "2019-07-25",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "romance"
+    ],
+    "sinopse": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy. A parody with a twist.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/48305/Red_Shoes"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15564"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Red_Shoes_and_the_Seven_Dwarfs"
+        }
+    ]
+}
