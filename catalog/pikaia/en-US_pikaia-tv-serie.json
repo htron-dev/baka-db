@@ -1,0 +1,30 @@
+{
+    "title": "Pikaia!!",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "ピカイア!!",
+    "start_date": "2017-02-26",
+    "end_date": "2017-02-26",
+    "opening_song": "\"Kokoro Tsunagaru (ココロツナガル)\" by Himekyun Fruit Kan",
+    "ending_song": "\"Nie²Bye²\" by Himekyun Fruit Kan",
+    "rating": "G - All Ages",
+    "tags": [
+        "slice-of-life",
+        "drama"
+    ],
+    "sinopse": "Second season of Pikaia!.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/34852/Pikaia"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://www.nhk.or.jp/seimei/pikaia2.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12789"
+        }
+    ]
+}

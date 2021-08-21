@@ -1,0 +1,40 @@
+{
+    "title": "Pokemon",
+    "type": "tv-serie",
+    "episodes": "276",
+    "original_name": "ポケットモンスター",
+    "start_date": "1997-04-01",
+    "end_date": "1997-04-01",
+    "opening_song": "#1",
+    "ending_song": "#01",
+    "rating": "PG - Children",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "Pokemon are peculiar creatures with a vast array of different abilities and appearances; many people, known as Pokemon trainers, capture and train them, often with the intent of battling others. Young Satoshi has not only dreamed of becoming a Pokemon trainer but also a \"Pokemon Master,\" and on the arrival of his 10th birthday, he finally has a chance to make that dream a reality. Unfortunately for him, all three Pokemon available to beginning trainers have already been claimed and only Pikachu, a rebellious Electric type Pokemon, remains. However, this chance encounter would mark the start of a lifelong friendship and an epic adventure!\n\nSetting off on a journey to become the very best, Satoshi and Pikachu travel across beautiful, sprawling regions with their friends Kasumi, a Water type trainer, and Takeshi, a Rock type trainer. But danger lurks around every corner. The infamous Team Rocket is always nearby, seeking to steal powerful Pokemon through nefarious schemes. It'll be up to Satoshi and his friends to thwart their efforts as he also strives to earn the eight Pokemon Gym Badges he'll need to challenge the Pokemon League, and eventually claim the title of Pokemon Master.\n\n[Source My Anime List]",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/527/Pokemon"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.pokemon.co.jp/anime/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=230"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=270"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29"
+        }
+    ]
+}

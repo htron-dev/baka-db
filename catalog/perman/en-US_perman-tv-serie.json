@@ -1,0 +1,37 @@
+{
+    "title": "Perman",
+    "type": "tv-serie",
+    "episodes": "54",
+    "original_name": "パーマン",
+    "start_date": "1967-04-02",
+    "end_date": "1967-04-02",
+    "opening_song": "\"Bokura no Perman (ぼくらのパーマン)\" by Ishikawa Susumu, Katsue Miwa",
+    "rating": "PG - Children",
+    "tags": [
+        "adventure",
+        "comedy"
+    ],
+    "sinopse": "After Mitsuo receives a mask from a retiring superhero, he becomes Paaman.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6303/Perman"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tms-e.com/library/old/tv/data/t_pa_man.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3205"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1438"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Perman"
+        }
+    ]
+}

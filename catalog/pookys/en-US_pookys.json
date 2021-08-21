@@ -1,0 +1,31 @@
+{
+    "title": "Pooky's",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "Pooky's",
+    "start_date": "2007-09-11",
+    "rating": "PG - Children",
+    "tags": [
+        "comedy",
+        "supernatural"
+    ],
+    "sinopse": "Charming but Surreal. Scary but Adorable. Pooky's is a \"Cool and Stylish\" animation comedy full of cute & unique ghost characters. Designers'unit \"Spooky graphic\" presents a great 3DCG animation piece to all the kids in the world.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/48884/Pookys"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8006"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15451"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/Spooky_graphic"
+        }
+    ]
+}

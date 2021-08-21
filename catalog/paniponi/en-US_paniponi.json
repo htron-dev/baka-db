@@ -1,0 +1,23 @@
+{
+    "title": "Paniponi",
+    "type": "tv-serie",
+    "episodes": "48",
+    "original_name": "パニポニ",
+    "start_date": "1998-05-07",
+    "end_date": "1998-05-07",
+    "rating": "PG - Children",
+    "tags": [
+        "slice-of-life"
+    ],
+    "sinopse": "A slice of life anime about a bunch of animals living in Paniponi village.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/29487/Paniponi"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%81%E3%83%97%E3%83%81%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Puu-Neko",
+    "type": "tv-serie",
+    "episodes": "11",
+    "original_name": "プ～ねこ",
+    "start_date": "2011-04-13",
+    "end_date": "2011-04-13",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "Based on a four-panel manga, Puu-Neko is about \"jobless (puu)\" cats and Momoyama Momoko, who can talk with them. According to the author, 98% of cats are jobless.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/10459/Puu-Neko"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.ntv.co.jp/yuruani/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8328"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12559"
+        }
+    ]
+}

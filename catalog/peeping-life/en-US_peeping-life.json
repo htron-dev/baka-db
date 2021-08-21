@@ -1,0 +1,38 @@
+{
+    "title": "Peeping Life",
+    "type": "tv-serie",
+    "episodes": "10",
+    "original_name": "ピーピング・ライフ",
+    "start_date": "2009-05-14",
+    "end_date": "2009-05-14",
+    "opening_song": "\"HOTEL Alien\" by Bradio",
+    "ending_song": "\"Satori no Sho (さとりのしょ)\" by detune.",
+    "rating": "G - All Ages",
+    "tags": [
+        "slice-of-life",
+        "comedy"
+    ],
+    "sinopse": "Slice of life comedy about pitfalls of Japanese society.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6525/Peeping_Life"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.cwfilms.jp/peeping/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7302"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13500"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/Peeping_Life"
+        }
+    ]
+}
