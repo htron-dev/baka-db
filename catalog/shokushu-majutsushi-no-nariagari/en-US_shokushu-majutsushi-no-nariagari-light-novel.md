@@ -1,0 +1,25 @@
+# Shokushu Majutsushi no Nariagari
+
+-   **type**: light-novel
+-   **original-name**: 触手魔術師の成り上がり
+-   **start-date**: 2019-06-14
+
+## Tags
+
+-   comedy
+-   ecchi
+-   fantasy
+-   magic
+-   school
+-   shounen
+
+## Authors
+
+-   Shimesaba
+-   Kohada (Art)
+-   Iida
+-   Eisei (Story)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/133435/Shokushu_Majutsushi_no_Nariagari)

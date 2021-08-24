@@ -1,0 +1,18 @@
+# Super Comic Gekijou: Fire Emblem
+
+-   **type**: manga
+-   **volumes**: 1
+-   **original-name**: スーパーコミック劇場 ファイアーエムブレム
+-   **start-date**: 1996-10-26
+
+## Tags
+
+-   fantasy
+
+## Authors
+
+-   None
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/87239/Super_Comic_Gekijou__Fire_Emblem)

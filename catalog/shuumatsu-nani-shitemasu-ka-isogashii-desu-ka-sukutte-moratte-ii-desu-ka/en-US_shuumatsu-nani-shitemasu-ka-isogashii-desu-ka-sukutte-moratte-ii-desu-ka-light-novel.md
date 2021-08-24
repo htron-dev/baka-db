@@ -1,0 +1,33 @@
+# Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
+
+-   **type**: light-novel
+-   **volumes**: 5
+-   **chapters**: 25
+-   **original-name**: 終末なにしてますか？忙しいですか？救ってもらっていいですか？
+-   **start-date**: 2014-11-01
+-   **end-date**: 2014-11-01
+
+## Tags
+
+-   drama
+-   fantasy
+-   romance
+-   sci-fi
+
+## Authors
+
+-   Kareno
+-   Akira (Story)
+-   ue (Art)
+
+## Sinopse
+
+Five hundred years have passed since the humans went extinct at the hands of the fearsome and mysterious 'Beasts.' The surviving races now make their homes up on floating islands in the sky, out of reach of all but the most mobile of Beasts. However, this new safe haven Regul Aire has a dark secret behind it.
+
+Only a small group of young girls, the Leprechauns, can wield the ancient weapons needed to fend off invasions from these creatures. Into the girls' unstable and fleeting lives, where a call to certain death could come at any moment, enters an unlikely character: a young man who lost everything in his final battle five hundred years ago, the last living human awakened from a long, icy slumber.
+
+Unable to fight any longer, Willem becomes the father that the girls never had, caring for and nurturing them even as he struggles to come to terms with his new life, in which he feels the pain of helplessly waiting for his loved ones to return home from battle that his 'Daughter' once felt for him so long ago. Together, through their everyday interactions in the 'orphanage,' Willem and the girls gradually come to understand what family means and what is truly worth protecting.
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/81211/Shuumatsu_Nani_Shitemasu_ka_Isogashii_desu_ka_Sukutte_Moratte_Ii_desu_ka)

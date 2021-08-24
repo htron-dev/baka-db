@@ -1,0 +1,27 @@
+# Starry☆Sky: Comic Anthology - After Season
+
+-   **type**: manga
+-   **volumes**: 2
+-   **original-name**: Starry☆Sky コミックアンソロジー~After Season~
+-   **start-date**: 2010-07-24
+-   **end-date**: 2010-07-24
+
+## Tags
+
+-   romance
+-   school
+-   harem
+
+## Authors
+
+-   honeybee (Story)
+-   Chidori
+-   Peko (Art)
+
+## Sinopse
+
+Manga featuring characters from the otome game Starry☆Sky.
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/21029/Starry%E2%98%86Sky__Comic_Anthology_-_After_Season)
