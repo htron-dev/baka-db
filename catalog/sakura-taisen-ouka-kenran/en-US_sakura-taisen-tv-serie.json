@@ -1,0 +1,40 @@
+{
+    "title": "Sakura Taisen",
+    "type": "tv-serie",
+    "episodes": "25",
+    "original_name": "サクラ大戦",
+    "start_date": "2000-04-08",
+    "end_date": "2000-04-08",
+    "opening_song": "\"Geki Teikoku Kagekidan\" by Chisa Yokoyama & The Teikoku Kagekidan",
+    "ending_song": "#01",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "mecha",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "Sakura travels to the capital with aspirations of defending the city from the demonic forces of the Black Sanctum Council like her father before her. However, things are not as she imagined as in addition to using her great spiritual energy to pilot a mech called a Kobu, she must also perform on stage as an actor as The Imperial Flower Division's cover is an art theater. Making a fool of herself and ruining a production gets her on everyone's bad side and somehow she must learn to work with them as well as prevent the enemy from destroying several shrines which protect the city.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/561/Sakura_Taisen"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.sakura-taisen.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=400"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=582"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Sakura_Wars"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Gozonji! Gekkou Kamen-kun",
+    "type": "tv-serie",
+    "episodes": "25",
+    "original_name": "ごぞんじ！月光仮面くん",
+    "start_date": "1999-10-03",
+    "end_date": "1999-10-03",
+    "opening_song": "\"Gekkou Kamen wa Dare Deshou (月光仮面は誰でしょう)\" by COA",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "parody",
+        "comedy",
+        "sci-fi"
+    ],
+    "sinopse": "Gekkou Kamen is retired on the moon, so his trusty motorbike returns to Earth to find a new hero to take over the job of defending the Earth from alien invaders.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5477/Gozonji_Gekkou_Kamen-kun"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tms-e.com/library/old/tv/data/t_gozonji_gekko.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1577"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2237"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Moonlight_Mask"
+        }
+    ]
+}

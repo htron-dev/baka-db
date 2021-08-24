@@ -1,0 +1,40 @@
+{
+    "title": "Saint Seiya",
+    "type": "tv-serie",
+    "episodes": "114",
+    "original_name": "聖闘士星矢(セイントセイヤ)",
+    "start_date": "1986-10-11",
+    "end_date": "1986-10-11",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "fantasy",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "In ancient times, a group of young men devoted their lives to protecting Athena, the Goddess of Wisdom and War. These men were capable of fighting without weapons—a swing of their fist alone was powerful enough to rip the very sky apart and shatter the earth beneath them. These brave heroes became known as Saints, as they could summon up the power of the Cosmos from within themselves.\n\nNow, in present day, a new generation of Saints is about to come forth. The young and spirited Seiya is fighting a tough battle for the Sacred Armor of Pegasus, and he isn't about to let anyone get in the way of him and his prize. Six years of hard work and training pay off with his victory and new title as one of Athena's Saints.\n\nBut Seiya's endeavor doesn't end there. In fact, plenty of perils and dangerous enemies face him and the rest of the Saints throughout the series. What new quests await the heroes of the epic Saint Seiya saga?",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/1254/Saint_Seiya"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/lineup/tv/seiya/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=826"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=429"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Saint_Seiya#Anime"
+        }
+    ]
+}

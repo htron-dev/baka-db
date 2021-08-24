@@ -1,0 +1,26 @@
+{
+    "title": "Sakura",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "桜（春の幻想）",
+    "start_date": "2046-01-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "fantasy"
+    ],
+    "sinopse": "A visually artistic animation with no real story. It follows a pair of butterflies as they drift past various beautiful depictions of people and animals.\n\n(Source: AniDB)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/15455/Sakura"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6892"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5359"
+        }
+    ]
+}

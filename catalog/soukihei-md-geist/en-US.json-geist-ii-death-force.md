@@ -1,0 +1,31 @@
+{
+    "title": "MD Geist II: Death Force",
+    "type": "ova",
+    "episodes": "1",
+    "original_name": "装鬼兵 MD ガイスト 2",
+    "start_date": "1996-03-01",
+    "opening_song": "\"Tsuki ga Naiteru (月が泣いている; The Moon is Crying)\" by Yoshiaki Oouchi",
+    "ending_song": "\"Yokubou no Hate",
+    "rating": "R+ - Mild Nudity",
+    "tags": [
+        "action",
+        "military",
+        "sci-fi",
+        "mecha"
+    ],
+    "sinopse": "After unleashing the Death Force machines all over the planet Jerra, Geist has kept himself busy by dismantling them one by one. But now he faces a formidable opponent in the form of Krauser, another M.D.S. (Most Dangerous Soldier) who has aligned himself as the only savior of mankind.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/1286/MD_Geist_II__Death_Force"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1488"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=957"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Slam Dunk Movie",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "SLAM DUNK",
+    "rating": "None",
+    "tags": [
+        "comedy",
+        "sports",
+        "drama",
+        "school",
+        "shounen"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/1764/Slam_Dunk_Movie"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=695"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1141"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Slam_Dunk_%28manga%29"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Hoshi no Kirby",
+    "type": "tv-serie",
+    "episodes": "100",
+    "original_name": "星のカービィ",
+    "start_date": "2001-10-06",
+    "end_date": "2001-10-06",
+    "opening_song": "#01 \"Kirby March\" by Shanchii (eps 1-71)",
+    "ending_song": "#01 \"Kihon wa Maru\" by Shanchii (eps 1-71)",
+    "rating": "PG - Children",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "parody",
+        "fantasy"
+    ],
+    "sinopse": "A diminutive pink creature orbiting in space called \"Kirby\" crash lands into Dream Land. Once getting acquainted with the citizens who live there in Cappy Town, he begins to defend the town from the monsters that King Dedede, the self-proclaimed ruler of Cappy Town, orders from the evil Nightmare Enterprises.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2390/Hoshi_no_Kirby"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://hicbc.com/tv/kirby/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2448"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1394"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Kirby:_Right_Back_at_Ya!"
+        }
+    ]
+}

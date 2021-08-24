@@ -1,0 +1,33 @@
+{
+    "title": "Super Lovers OVA",
+    "type": "ova",
+    "episodes": "2",
+    "original_name": "SUPER LOVERS（スーパーラヴァーズ）",
+    "start_date": "2017-01-01",
+    "end_date": "2017-01-01",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "slice-of-life",
+        "comedy",
+        "drama",
+        "romance",
+        "shounen-ai"
+    ],
+    "sinopse": "Bundled with manga's tenth and eleventh volume.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/33013/Super_Lovers_OVA"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://superlovers-anime.com/news/?news=premium-comic10"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12022"
+        }
+    ]
+}
