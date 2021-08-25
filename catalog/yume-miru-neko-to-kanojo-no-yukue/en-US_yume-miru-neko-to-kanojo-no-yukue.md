@@ -1,0 +1,22 @@
+# Yume Miru Neko to Kanojo no Yukue
+
+-   **type**: light-novel
+-   **volumes**: 1
+-   **original-name**: ユメ視る猫とカノジョの行方
+-   **start-date**: 2006-01-10
+
+## Tags
+
+-   romance
+-   supernatural
+
+## Authors
+
+-   Suou
+-   Tsukasa (Story)
+-   Morikura
+-   En (Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/88939/Yume_Miru_Neko_to_Kanojo_no_Yukue)

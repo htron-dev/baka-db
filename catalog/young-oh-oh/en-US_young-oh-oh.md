@@ -1,0 +1,17 @@
+# Young Oh! Oh!
+
+-   **type**: manga
+-   **volumes**: 2
+
+## Tags
+
+-   yaoi
+
+## Authors
+
+-   Sugimoto
+-   Farina (Story & Art)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/18876/Young_Oh_Oh)

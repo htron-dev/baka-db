@@ -1,0 +1,23 @@
+# Yuuwaku Animal
+
+-   **type**: manga
+-   **volumes**: 1
+-   **chapters**: 5
+-   **original-name**: 誘惑アニマル
+
+## Tags
+
+-   shoujo
+
+## Authors
+
+-   Momono
+-   Miku (Story & Art)
+
+## Sinopse
+
+N/A
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/23795/Yuuwaku_Animal)
