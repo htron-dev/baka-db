@@ -1,0 +1,28 @@
+# Tensei shitara Ken deshita
+
+-   **type**: light-novel
+-   **original-name**: 転生したら剣でした
+-   **start-date**: 2016-07-30
+
+## Tags
+
+-   action
+-   fantasy
+
+## Authors
+
+-   LLO (Art)
+-   Tanaka
+-   Yuu (Story)
+
+## Sinopse
+
+The hero of Tensei shitara Ken deshita differs from your standard otherworldly protagonist in that he is reincarnated as a sword! Beginning his quest by spawning in the middle of a beast-ridden forest, he encounters an injured girl frantically fleeing for her life. Saving her from her assailants, the pair acquaint themselves, and the girl introduces herself as Fran. She bears a heavy past, having endured the enslavement and maltreatment of her tribe, the Black Cats.
+
+As the hero is unable to remember the name from his past life, the young and tenacious Fran bestows him the name "Shishou" and becomes his wielder. Thereafter, Shishou and Fran become a formidable team, embarking on quests to liberate the oppressed and exact justice!
+
+[Source My Anime List]
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/99891/Tensei_shitara_Ken_deshita)
