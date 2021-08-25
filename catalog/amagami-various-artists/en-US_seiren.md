@@ -6,7 +6,7 @@
 -   **start-date**: 2017-01-06
 -   **end-date**: 2017-01-06
 -   **opening-song**: "Kimi no Hana (キミの花)" by Hanako Oku
--   **ending-song**: #1: "Shunkan Happening (瞬間Happening)" by Hikari Tsuneki (Ayane Sakura) (eps 1-3)
+-   **ending-song**: #1: "Shunkan Happening (瞬間 Happening)" by Hikari Tsuneki (Ayane Sakura) (eps 1-3)
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags
@@ -28,4 +28,4 @@ At this point in his teenage years, Shouichi finds three girls he could see hims
 -   [Official Site](http://www.tbs.co.jp/anime/seiren/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12327)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18865)
--   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1))
+-   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)>)

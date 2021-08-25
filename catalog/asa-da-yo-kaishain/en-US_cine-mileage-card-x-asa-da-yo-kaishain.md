@@ -2,7 +2,7 @@
 
 -   **type**: special
 -   **episodes**: 1
--   **original-name**: シネマイレージカード×朝だよ！貝社員
+-   **original-name**: シネマイレージカード × 朝だよ！貝社員
 -   **start-date**: 2017-02-10
 -   **rating**: G - All Ages
 

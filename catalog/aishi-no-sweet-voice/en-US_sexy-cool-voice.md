@@ -16,7 +16,7 @@
 
 ## Sinopse
 
-College student Taku has just joined Drama Club and is teased about his slight figure and girlish voice. But everyone is very friendly, except Kurata Satoshi, the one person Taku really wants to be close to. They've been lovers for two years, but not friends and though Taku keeps trying to connect with Satoshi he finds himself being shut out. Is Taku just a sex friend? 
+College student Taku has just joined Drama Club and is teased about his slight figure and girlish voice. But everyone is very friendly, except Kurata Satoshi, the one person Taku really wants to be close to. They've been lovers for two years, but not friends and though Taku keeps trying to connect with Satoshi he finds himself being shut out. Is Taku just a sex friend?
 
 ## Links
 

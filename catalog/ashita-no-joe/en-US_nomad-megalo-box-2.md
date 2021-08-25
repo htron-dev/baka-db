@@ -2,7 +2,7 @@
 
 -   **type**: tv-serie
 -   **episodes**: 13
--   **original-name**: NOMAD メガロボクス2
+-   **original-name**: NOMAD メガロボクス 2
 -   **start-date**: 2021-04-04
 -   **end-date**: 2021-04-04
 -   **opening-song**: "The theme of the NOMAD" by mabanua

@@ -22,10 +22,9 @@
 
 ## Sinopse
 
-A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. 
+A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help.
 
 (Source: ANN)
-
 
 ## Links
 

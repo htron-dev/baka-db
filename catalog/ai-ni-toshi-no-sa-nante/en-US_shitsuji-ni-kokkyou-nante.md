@@ -15,7 +15,7 @@
 
 ## Sinopse
 
-Munns has come from afar to Japan to train to be a butler.  Awaiting him is the legendary butler Yagi, who loves his charge just a little too much, a mansion full of mysteries and traps, and more… Follow his harrowing journey to become a great butler--a journey he never even consented to!
+Munns has come from afar to Japan to train to be a butler. Awaiting him is the legendary butler Yagi, who loves his charge just a little too much, a mansion full of mysteries and traps, and more… Follow his harrowing journey to become a great butler--a journey he never even consented to!
 
 (Source: the manga habit)
 

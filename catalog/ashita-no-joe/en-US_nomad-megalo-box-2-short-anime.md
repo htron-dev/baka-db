@@ -1,7 +1,7 @@
 # Nomad: Megalo Box 2 Short Anime
 
 -   **type**: special
--   **original-name**: NOMAD メガロボクス2 新作ショートアニメ
+-   **original-name**: NOMAD メガロボクス 2 新作ショートアニメ
 -   **start-date**: 2021-07-28
 -   **rating**: None
 

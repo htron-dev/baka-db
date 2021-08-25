@@ -2,7 +2,7 @@
 
 -   **type**: manga
 -   **volumes**: 10
--   **original-name**: Myダーリン・ライオン
+-   **original-name**: My ダーリン・ライオン
 
 ## Tags
 

@@ -22,7 +22,7 @@
 
 ## Sinopse
 
-A young girl named Ange is summoned to a Sacred Land and is chosen as the Legendary Etoile, whose mission is to save the newly-born Cosmos of the Holy Beast, which has recently fallen under a crisis. With the support of nine Guardians (who have the power of nine elements), she embarks on a journey to save the dying land of the Holy Beast and to discover her true self. 
+A young girl named Ange is summoned to a Sacred Land and is chosen as the Legendary Etoile, whose mission is to save the newly-born Cosmos of the Holy Beast, which has recently fallen under a crisis. With the support of nine Guardians (who have the power of nine elements), she embarks on a journey to save the dying land of the Holy Beast and to discover her true self.
 
 (Source: ANN)
 

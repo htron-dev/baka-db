@@ -16,7 +16,7 @@
 
 ## Sinopse
 
-The man is troubled by he and his partner's difference in social status. 
+The man is troubled by he and his partner's difference in social status.
 
 ## Links
 

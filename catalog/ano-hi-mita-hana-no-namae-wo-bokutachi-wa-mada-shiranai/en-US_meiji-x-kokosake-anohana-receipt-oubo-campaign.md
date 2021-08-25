@@ -2,7 +2,7 @@
 
 -   **type**: special
 -   **episodes**: 2
--   **original-name**: 明治×「ここさけ」＆「あの花」レシート応募キャンペーン
+-   **original-name**: 明治 ×「ここさけ」＆「あの花」レシート応募キャンペーン
 -   **start-date**: 2015-06-02
 -   **end-date**: 2015-06-02
 -   **rating**: G - All Ages

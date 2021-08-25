@@ -21,8 +21,8 @@
 1. Aikagi wa Kare ni Yume wo Miru
 2. Norokebanashi ni Akutai wa Oyakusoku
 3. Kanojo wa Akutai ni Hirumanai
-4-6. Sasayaki wa Akutai to Netsu wo Haramu
-7. Sasayaki wa Akutai to Netsu wo Haramu Sonogo
+   4-6. Sasayaki wa Akutai to Netsu wo Haramu
+4. Sasayaki wa Akutai to Netsu wo Haramu Sonogo
 
 ## Links
 

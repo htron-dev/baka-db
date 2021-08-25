@@ -16,7 +16,7 @@
 
 ## Sinopse
 
-Shorts included with the Blu-ray releases. 
+Shorts included with the Blu-ray releases.
 
 ## Links
 

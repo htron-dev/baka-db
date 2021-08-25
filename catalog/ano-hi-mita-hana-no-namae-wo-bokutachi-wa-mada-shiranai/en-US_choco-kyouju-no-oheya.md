@@ -12,7 +12,7 @@
 
 ## Sinopse
 
-A Meiji commissioned commercial teaching viewers the health benefits of chocolate such as alleviating high blood pressure. 
+A Meiji commissioned commercial teaching viewers the health benefits of chocolate such as alleviating high blood pressure.
 
 ## Links
 

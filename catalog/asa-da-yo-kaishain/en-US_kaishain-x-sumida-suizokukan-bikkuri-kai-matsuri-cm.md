@@ -2,7 +2,7 @@
 
 -   **type**: ona
 -   **episodes**: 2
--   **original-name**: 貝社員×すみだ水族館　ビックリ！貝まつりCM
+-   **original-name**: 貝社員 × すみだ水族館　ビックリ！貝まつり CM
 -   **start-date**: 2017-03-15
 -   **end-date**: 2017-03-15
 -   **rating**: G - All Ages

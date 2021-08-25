@@ -28,7 +28,6 @@ Meanwhile, the members of the newspaper club of the academy Lillia attends begin
 
 Join the characters of the Allison series as they take their final bow in this two-volume adventure and school life story combined into one!
 
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/74325/Hitotsu_no_Tairiku_no_Monogatari__Allison_to_Will_to_Lillia_to_Treize_to_Meg_to_Seron_to_Sono_Hoka)

@@ -2,7 +2,7 @@
 
 -   **type**: tv-serie
 -   **episodes**: 52
--   **original-name**: 続・アタッカーYOU 金メダルへの道
+-   **original-name**: 続・アタッカー YOU 金メダルへの道
 -   **start-date**: 2008-01-20
 -   **rating**: G - All Ages
 

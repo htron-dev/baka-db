@@ -2,7 +2,7 @@
 
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: センコロール3
+-   **original-name**: センコロール 3
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

@@ -17,7 +17,7 @@
 
 ## Sinopse
 
-The continuing adventures of Hinata and Seshir. 
+The continuing adventures of Hinata and Seshir.
 
 ## Links
 

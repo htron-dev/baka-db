@@ -12,7 +12,7 @@
 
 ## Sinopse
 
-A collaboration between Asa da yo! Kaishain and Japan Consumer Credit Association (JCA), promoting safe credit card security behavior. 
+A collaboration between Asa da yo! Kaishain and Japan Consumer Credit Association (JCA), promoting safe credit card security behavior.
 
 ## Links
 

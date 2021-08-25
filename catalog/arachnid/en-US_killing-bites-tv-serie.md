@@ -24,7 +24,6 @@ Waking up hours later hoping the whole event was only a nightmare, Yuuya realize
 
 [Source My Anime List]
 
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/34964/Killing_Bites)

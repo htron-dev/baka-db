@@ -28,7 +28,6 @@ Momiji is an average girl until the day she finds she is the descendant of the g
 
 (Source: ANN)
 
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/998/Blue_Seed)

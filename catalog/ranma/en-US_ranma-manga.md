@@ -35,4 +35,3 @@ Ranma has been training in China with his father until an unfortunate accident c
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/23/Ranma_½)
-    BD)

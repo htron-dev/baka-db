@@ -18,7 +18,7 @@
 
 ## Sinopse
 
-After his mother passed away, Kyousuke decided to live alone and transfer to another school. There he met a rather peculiar classmate named Kaname who’s unable to talk. Although Kaname cannot speak, he was able to somehow convey his feelings clearly through writing and facial expressions that made Kyousuke more drawn to him. However, Kaname’s cousin, Satoshi noticed the intimacy developing between the two which he could not approve… A sweet ardent, story of pure love unfolds… 
+After his mother passed away, Kyousuke decided to live alone and transfer to another school. There he met a rather peculiar classmate named Kaname who’s unable to talk. Although Kaname cannot speak, he was able to somehow convey his feelings clearly through writing and facial expressions that made Kyousuke more drawn to him. However, Kaname’s cousin, Satoshi noticed the intimacy developing between the two which he could not approve… A sweet ardent, story of pure love unfolds…
 
 (Source: Fantasyshrine)
 

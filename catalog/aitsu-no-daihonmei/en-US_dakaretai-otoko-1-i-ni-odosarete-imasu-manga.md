@@ -1,7 +1,7 @@
 # Dakaretai Otoko 1-i ni Odosarete Imasu.
 
 -   **type**: manga
--   **original-name**: 抱かれたい男1位に脅されています。
+-   **original-name**: 抱かれたい男 1 位に脅されています。
 -   **start-date**: 2014-07-31
 
 ## Tags
