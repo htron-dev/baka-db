@@ -1,0 +1,42 @@
+{
+    "title": "Astro Boy: Tetsuwan Atom",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "アストロボーイ・鉄腕アトム",
+    "start_date": "2003-04-06",
+    "end_date": "2003-04-06",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "action",
+        "sci-fi",
+        "adventure",
+        "super-power",
+        "mecha",
+        "shounen"
+    ],
+    "sinopse": "Astro is a robotic boy that posses super human powers and an artificial intelligence system that is unparalleled to any robot. His creator, Dr. Tenma, created him to replace his late son, Tovio. Dr. Tenma soon destroys his laboratory, after the creation of Astro, and shuts down Astro. Soon after, Dr. O'Shay, the head of the Ministry of Science revives Astro, and tries to give him a normal life as a 6th grade student that helps the police agency keep renegade robots and bigot humans from causing harm. Astro faces extreme racism for being a robot, and he must discover the truth about his creator Dr. Tenma.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/971/Astro_Boy__Tetsuwan_Atom"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.fujitv.co.jp/b_hp/atom/index.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=807"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1962"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Astro_boy"
+        }
+    ]
+}

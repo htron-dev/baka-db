@@ -1,0 +1,32 @@
+{
+    "title": "Meitantei Rascal",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "めいたんてい ラスカル",
+    "start_date": "2014-01-09",
+    "end_date": "2014-01-09",
+    "rating": "PG - Children",
+    "tags": [
+        "adventure",
+        "mystery"
+    ],
+    "sinopse": "Assistant Detective Rascal travels around the world with Uncle Po to check various mysteries.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/21447/Meitantei_Rascal"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.araiguma-rascal.com/meitantei/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10294"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15806"
+        }
+    ]
+}

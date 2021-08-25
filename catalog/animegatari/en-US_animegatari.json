@@ -1,0 +1,27 @@
+{
+    "title": "Animegatari",
+    "type": "movie",
+    "episodes": "8",
+    "original_name": "アニメガタリ",
+    "start_date": "2015-04-17",
+    "end_date": "2015-04-17",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "Short animations screened during intermission at TOHO Cinemas Shinjuku. Eight episodes were shown in theaters, but only six were included on the DVD release.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30617/Animegatari"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://www.tohotheater.jp/animegatari/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11195"
+        }
+    ]
+}
