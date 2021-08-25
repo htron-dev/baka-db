@@ -1,0 +1,39 @@
+{
+    "title": "Yuyushiki",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "ゆゆ式",
+    "start_date": "2013-04-10",
+    "end_date": "2013-04-10",
+    "opening_song": "\"Se-no! (せーのっ!)\" by Jouhoushori-bu (Rumi Ookubo, Risa Taneda, Minami Tsuda)",
+    "ending_song": "\"Affection\" by Mayumi Morinaga (eps 1-11)",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "slice-of-life",
+        "comedy",
+        "school"
+    ],
+    "sinopse": "The story follows the school life of the three girls, Yuzuko, Yukari, and Yui, who join their high school's Data Processing Club. The odd friendship between the three make for wacky humor in even the most mundane of events.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/15911/Yuyushiki"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.yuyushiki.net/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9366"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14576"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/ゆゆ式"
+        }
+    ]
+}

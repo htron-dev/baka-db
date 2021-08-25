@@ -1,0 +1,39 @@
+{
+    "title": "Chargeman Ken!",
+    "type": "tv-serie",
+    "episodes": "65",
+    "original_name": "チャージマン研！",
+    "start_date": "1974-04-01",
+    "end_date": "1974-04-01",
+    "opening_song": "\"Chargeman Ken! (チャージマン研！)\" by Hibari Children Chorus (ひばり児童合唱団)",
+    "rating": "PG - Children",
+    "tags": [
+        "action",
+        "adventure",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "Ken Izumi is a kid who can charge his powers from surrounding light sources and use them through a laser type gun.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6383/Chargeman_Ken"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://cha-ken.github.io/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3111"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1242"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Chargeman_Ken!"
+        }
+    ]
+}

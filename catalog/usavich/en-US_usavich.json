@@ -1,0 +1,34 @@
+{
+    "title": "Usavich",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "ウサビッチ",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "adventure",
+        "comedy"
+    ],
+    "sinopse": "Collection of animated shorts from MTV Japan and produced by Studio Kanaban that follows the misadventures of Kirenenko and Putin, two rabbits stuck in a Russian prison.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3737/Usavich"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.usavich.tv/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5917"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11360"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Usavich"
+        }
+    ]
+}

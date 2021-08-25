@@ -1,0 +1,38 @@
+{
+    "title": "Umayon",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "うまよん",
+    "start_date": "2020-07-07",
+    "end_date": "2020-07-07",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "slice-of-life",
+        "comedy",
+        "sports"
+    ],
+    "sinopse": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/38835/Umayon"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://umamusume.jp/umayon/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14537"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23494"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Uma_Musume"
+        }
+    ]
+}

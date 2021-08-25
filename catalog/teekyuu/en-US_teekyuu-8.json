@@ -1,0 +1,38 @@
+{
+    "title": "Teekyuu 8",
+    "type": "tv-serie",
+    "episodes": "12",
+    "original_name": "てーきゅう 8 期",
+    "start_date": "2016-10-05",
+    "end_date": "2016-10-05",
+    "opening_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "comedy",
+        "sports",
+        "shounen"
+    ],
+    "sinopse": "Eighth season of the Teekyuu anime series.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/33811/Teekyuu_8"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://te-kyu.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12321"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18687"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Teekyu"
+        }
+    ]
+}

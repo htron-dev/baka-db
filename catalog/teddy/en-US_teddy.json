@@ -1,0 +1,22 @@
+{
+    "title": "Teddy",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "テディ",
+    "start_date": "2005-01-20",
+    "rating": "G - All Ages",
+    "tags": [
+        "slice-of-life"
+    ],
+    "sinopse": "A short animation by Taku Furukawa.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30394/Teddy"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://takufurukawa.jp/blog/2008/06/teddy-2.html"
+        }
+    ]
+}

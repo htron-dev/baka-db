@@ -1,0 +1,32 @@
+{
+    "title": "Katsugeki/Touken Ranbu Movie",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "劇場版 活撃/刀剣乱舞",
+    "start_date": "2021-01-20",
+    "rating": "None",
+    "tags": [
+        "action",
+        "samurai",
+        "fantasy"
+    ],
+    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/36419/Katsugeki_Touken_Ranbu_Movie"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://katsugeki-touken.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13479"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Ai Tenchi Muyou!",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "愛・天地無用!",
+    "start_date": "2014-10-06",
+    "end_date": "2014-10-06",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "comedy",
+        "sci-fi",
+        "shounen"
+    ],
+    "sinopse": "The franchise is celebrating its 20th anniversary with this new project.\n\nNote: The recap episodes are not included in the main episode count, and are now included here.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/24699/Ai_Tenchi_Muyou"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.ai-tenchi.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10727"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16109"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Tenchi_Muyo!"
+        }
+    ]
+}

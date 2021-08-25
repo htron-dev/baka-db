@@ -1,0 +1,27 @@
+{
+    "title": "Tiger Mask (Movie)",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "タイガーマスク",
+    "start_date": "1970-03-17",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "sports",
+        "shounen"
+    ],
+    "sinopse": "Re-edit of Episode 9&10.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/18061/Tiger_Mask_Movie"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7647"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Tiger_Mask"
+        }
+    ]
+}

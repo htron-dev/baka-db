@@ -1,0 +1,35 @@
+{
+    "title": "Yatterman",
+    "type": "tv-serie",
+    "episodes": "60",
+    "original_name": "ヤッターマン",
+    "start_date": "2008-01-14",
+    "end_date": "2008-01-14",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "comedy",
+        "parody"
+    ],
+    "sinopse": "Remake of the Yatterman series.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3295/Yatterman"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tatsunoko.co.jp/yatterman/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5522"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8783"
+        }
+    ]
+}

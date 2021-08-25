@@ -1,0 +1,34 @@
+{
+    "title": "GO-GO Tamagotchi!",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "GO-GO たまごっち！",
+    "start_date": "2014-04-03",
+    "end_date": "2014-04-03",
+    "opening_song": "\"GO-GO Tamagotchi! (GO-GO たまごっち！)\" by hitomi",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "New series of Tamagotchi!.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/23107/GO-GO_Tamagotchi"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/tamagotchi2014/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10574"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16860"
+        }
+    ]
+}

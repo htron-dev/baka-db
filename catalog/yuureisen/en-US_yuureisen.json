@@ -1,0 +1,26 @@
+{
+    "title": "Yuureisen",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "幽霊船",
+    "start_date": "2056-04-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "supernatural"
+    ],
+    "sinopse": "Film about a ghost ship. There is no dialogue, just music and a choir.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/11447/Yuureisen"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6949"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/幽霊船"
+        }
+    ]
+}

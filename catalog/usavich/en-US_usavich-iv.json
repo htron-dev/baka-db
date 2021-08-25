@@ -1,0 +1,35 @@
+{
+    "title": "Usavich IV",
+    "type": "tv-serie",
+    "episodes": "13",
+    "original_name": "ウサビッチ IV",
+    "start_date": "2011-04-23",
+    "end_date": "2011-04-23",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "The fourth season of Usavich.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/10513/Usavich_IV"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.usavich.tv/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5917"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11360"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Usavich"
+        }
+    ]
+}

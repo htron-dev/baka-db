@@ -1,0 +1,37 @@
+{
+    "title": "Virtua Fighter",
+    "type": "tv-serie",
+    "episodes": "35",
+    "original_name": "バーチャファイター",
+    "start_date": "1995-10-09",
+    "end_date": "1995-10-09",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "martial-arts",
+        "comedy",
+        "shounen"
+    ],
+    "sinopse": "Akira Yuki has spent years honing his Bajiquan skills under the guidance of his grandfather. He yearns to see the constellation of the eight stars of heaven, which are only revealed to those with real strength. This burning desire urges him to embark on travels, so as to learn more about how to see the stars.\n\nMeanwhile, a nefarious robotics scientist, Eva Durix, desires to create the perfect soldier. Eva's group, Judgment 6, tracks down and kidnaps Sarah Bryant, a college student and close acquaintance of Akira who is investigating a mysterious accident concerning her brother. Akira must now fight his way to Sarah to save her from the clutches of Judgement 6, a perilous path sure to be paved with countless challenges.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/961/Virtua_Fighter"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1647"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=496"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Virtua_Fighter_%28anime%29"
+        }
+    ]
+}

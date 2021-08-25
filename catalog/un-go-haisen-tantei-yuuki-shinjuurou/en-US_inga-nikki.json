@@ -1,0 +1,31 @@
+{
+    "title": "Inga Nikki",
+    "type": "ona",
+    "episodes": "10",
+    "original_name": "因果日記",
+    "start_date": "2011-10-05",
+    "end_date": "2011-10-05",
+    "rating": "G - All Ages",
+    "tags": [
+        "parody"
+    ],
+    "sinopse": "Parody web specials.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/12411/Inga_Nikki"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.un-go.com/10inganikki/index.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8485"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/UN-GO"
+        }
+    ]
+}

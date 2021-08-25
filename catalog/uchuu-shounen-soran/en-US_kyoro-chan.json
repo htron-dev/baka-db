@@ -1,0 +1,39 @@
+{
+    "title": "Kyoro-chan",
+    "type": "tv-serie",
+    "episodes": "91",
+    "original_name": "キョロちゃん",
+    "start_date": "1999-07-01",
+    "end_date": "1999-07-01",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG - Children",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "While exploring ruins on Angel Island, a doctor finds a myserious newborn bird called Kyoro-chan. Together they form a bond and decide to travel the world together. Three years later when the Doctor and Kyoro-chan try to return to Angel Island they become shipwrecked from a storm. Kyoro-chan was able to make it safely to the island but the Doctor was nowhere to be found. Kyoro-chan prays for his safety and hope he returns as he now starts his new life on Angel Island.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/4375/Kyoro-chan"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.pbrand.ne.jp/kyorochan/index.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4654"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1739"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Kyorochan"
+        }
+    ]
+}

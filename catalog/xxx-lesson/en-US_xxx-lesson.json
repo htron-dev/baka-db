@@ -1,0 +1,23 @@
+{
+    "title": "XXX Lesson",
+    "type": "manga",
+    "volumes": "1",
+    "chapters": "6",
+    "start_date": "2007-01-20",
+    "tags": [
+        "drama",
+        "romance",
+        "shoujo"
+    ],
+    "authors": [
+        "Hanyuu",
+        "Shion (Story & Art)"
+    ],
+    "sinopse": "A series of oneshots.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/manga/11841/XXX_Lesson"
+        }
+    ]
+}

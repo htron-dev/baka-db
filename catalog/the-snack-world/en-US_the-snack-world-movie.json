@@ -1,0 +1,28 @@
+{
+    "title": "The Snack World",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "スナックワールド",
+    "start_date": "2015-12-19",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "The Snack World follows a ragtag group of friends who embark on an adventure together. They live in a land similar to traditional fantasy settings but with certain modern twists like cell phones and convenience stores.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/32593/The_Snack_World"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.eiga-yokai.jp/topics/snackworld/index.php"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11181"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Musashino!",
+    "type": "tv-serie",
+    "original_name": "むさしの！",
+    "rating": "PG - Children",
+    "tags": [
+        "comedy",
+        "school",
+        "slice-of-life"
+    ],
+    "sinopse": "Sequel series to Urawa no Usagi-chan.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/35335/Musashino"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://www.musasi-no.com/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13070"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19852"
+        }
+    ]
+}

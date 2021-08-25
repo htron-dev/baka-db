@@ -1,0 +1,35 @@
+{
+    "title": "Tokyo Vice",
+    "type": "ova",
+    "episodes": "1",
+    "original_name": "トウキョウ・バイス",
+    "start_date": "1988-06-25",
+    "opening_song": "\"Kaori ga Kieta Yoru (香りが消えた夜)\" by Kyoumoto Masaki",
+    "ending_song": "\"Kaze no Sailor (風のセーラ)\" by Kyoumoto Masaki",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "sci-fi",
+        "mystery",
+        "mecha"
+    ],
+    "sinopse": "One night at a rock concert, a mysterious man dies while leaving a floppy disc with a member of the Rutz Detective Agency. Soon they realize the disk contains information about a deadly new weapon under development. The heroes become involved in a game of political subterfuge and military espionage, hot on the trail of the killer!",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2003/Tokyo_Vice"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2795"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=331"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%90%E3%82%A4%E3%82%B9"
+        }
+    ]
+}

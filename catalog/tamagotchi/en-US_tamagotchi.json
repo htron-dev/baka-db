@@ -1,0 +1,37 @@
+{
+    "title": "Tamagotchi!",
+    "type": "tv-serie",
+    "episodes": "143",
+    "original_name": "たまごっち!",
+    "start_date": "2009-10-12",
+    "end_date": "2009-10-12",
+    "opening_song": "#01",
+    "ending_song": "#1",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "The stories will follow the daily lives of the Tamagotchi and feature new characters and settings.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/6900/Tamagotchi"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.bandai.co.jp/character/tamagotch.html"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7078"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10958"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://ja.wikipedia.org/wiki/たまごっち"
+        }
+    ]
+}
