@@ -1,0 +1,22 @@
+# Usotsuki no Minerva: Ouji-sama wa Choukoku ni Koishiteru
+
+-   **type**: light-novel
+-   **volumes**: 1
+-   **chapters**: 10
+-   **original-name**: 嘘つきなミネルヴァ ~王子様は彫刻に恋してる~
+-   **start-date**: 2015-12-11
+
+## Tags
+
+-   romance
+-   josei
+
+## Authors
+
+-   Yueko (Art)
+-   Yoshida
+-   Tamaki (Story)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/manga/94915/Usotsuki_no_Minerva__Ouji-sama_wa_Choukoku_ni_Koishiteru)

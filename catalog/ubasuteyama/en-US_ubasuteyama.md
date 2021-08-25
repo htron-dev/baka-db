@@ -1,0 +1,22 @@
+# Ubasuteyama
+
+-   **type**: movie
+-   **episodes**: 1
+-   **original-name**: 姥捨山
+-   **start-date**: 2025-01-19
+-   **rating**: G - All Ages
+
+## Tags
+
+-   drama
+
+## Sinopse
+
+Once upon a time, there was a lord in Shinano Province who hated old men. In accordance with the rules of the province, a person was exiled to an island when they turned 60 years old. On the night of August 15th, there was one such farmer woman, but her son loved her, and took her to a mountain to leave her there instead of turning her over to the cruel officers. However, he felt sorry about what he was doing and hid her under the earthen floor of a barn. One day, a messenger of the lord of the neighboring province was sent to the lord of Shinano Province making an unreasonable demand that a silk thread be threaded through a winding hole in a crystal ball and threatened that force would be used unless the task was done. The devoted son consulted with his mother, and she taught him a method in which you put honey around the end of one hole and let an ant tied with a thread go through it from the other end. The lord rewarded the son. However, a messenger was sent from the neighboring province again demanding that they identify which of two identical mares is the parent and which is the child. The son asked his mother again and then told the solution to the lord. When told by the lord that he would grant the son’s wish, he pleaded for his mother’s life. Since then, old men and women have been treated with respect and are no longer exiled.
+
+(Source: Japanese Animated Film Classics)
+
+## Links
+
+-   [My Anime list](https://myanimelist.net/anime/27573/Ubasuteyama)
+-   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6830)
