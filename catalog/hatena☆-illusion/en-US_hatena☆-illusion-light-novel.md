@@ -32,4 +32,3 @@ This series is on hiatus.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/80851/Hatena☆Illusion)
-    sion)

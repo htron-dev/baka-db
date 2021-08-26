@@ -27,4 +27,3 @@ Fifth grader Edojou Honmaru is one of the most trodden upon losers in his class,
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/10724/Magical☆Taruruuto-kun)
-    -kun)

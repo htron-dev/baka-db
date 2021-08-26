@@ -31,4 +31,3 @@ Chitose shares his house with five ladies. One might think the continued attenti
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=598)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=835)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Happy_Lesson)
-    sson)

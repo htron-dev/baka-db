@@ -31,4 +31,3 @@ Yura Yamato has just arrived at the high school division of Stella Women's Acade
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/49243/Tokurei_Sochi_Dantai_Stella_Jogakuin_Koutou-ka_C³-bu)
-    bu)

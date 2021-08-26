@@ -18,4 +18,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/92938/N★Y_Bird)
-    Bird)

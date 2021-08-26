@@ -29,4 +29,3 @@ Included one-shot: Beauty★Mania
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/9839/Lovely♥Lesson)
-    sson)

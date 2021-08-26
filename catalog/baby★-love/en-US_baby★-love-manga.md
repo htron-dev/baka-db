@@ -28,4 +28,3 @@ As a little girl, Seara fell in love with Shuuhei, an older boy, but he looked d
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/833/Baby★Love)
-    Love)

@@ -26,6 +26,5 @@ Bundled with the 21st volume of the Nisekoi manga.
 -   [My Anime list](https://myanimelist.net/anime/32553/Nisekoi__OVA)
 -   [Official Site](http://www.nisekoi.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11551)
-    nimedb.pl?show=anime&aid=10638)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16607)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Nisekoi)

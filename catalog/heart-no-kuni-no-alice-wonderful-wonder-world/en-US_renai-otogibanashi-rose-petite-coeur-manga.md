@@ -24,4 +24,3 @@ A collection of stories featuring different characters from Quinrose's otome gam
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/20044/Renai_Otogibanashi__Rose_Petite_Cœur)
-    ur)

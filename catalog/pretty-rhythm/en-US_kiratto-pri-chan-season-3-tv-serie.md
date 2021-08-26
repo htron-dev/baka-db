@@ -27,4 +27,3 @@ Third season of Kiratto Pri☆chan.
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/prichan/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13752)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Kiratto_Pri_Chan#Anime)
-    nime)

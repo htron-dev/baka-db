@@ -26,4 +26,3 @@ No synopsis information has been added to this title. Help improve our database 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12688)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20471)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Uta_no_Prince-sama#Film)
-    -sama#Film)

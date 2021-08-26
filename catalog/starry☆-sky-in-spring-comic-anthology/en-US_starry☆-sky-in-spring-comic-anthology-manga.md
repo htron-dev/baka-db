@@ -24,4 +24,3 @@ Comic anthology featuring the characters from the otome game Starry☆Sky: In Sp
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/17373/Starry☆Sky__In_Spring_-_Comic_Anthology)
-    logy)

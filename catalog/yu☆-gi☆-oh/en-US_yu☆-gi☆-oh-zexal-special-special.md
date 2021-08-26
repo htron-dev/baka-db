@@ -24,4 +24,3 @@ Kotori takes Yuma to the gymnastics club at their school to cheer on her friend.
 -   [My Anime list](https://myanimelist.net/anime/16574/Yu☆Gi☆Oh_Zexal_Special)
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/yugioh-zexal/index2.html)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!_Zexal)
-    -Oh!\_Zexal)

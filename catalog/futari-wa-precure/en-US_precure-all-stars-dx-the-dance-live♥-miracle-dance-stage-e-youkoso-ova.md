@@ -26,4 +26,3 @@ The production lasts for 10 minutes, and is done entirely in stereoscopic 3D, fe
 -   [My Anime list](https://myanimelist.net/anime/11569/Precure_All_Stars_DX_the_Dance_Live♥__Miracle_Dance_Stage_e_Youkoso)
 -   [Official Site](http://www.tc-ent.co.jp/sp/precure/)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Pretty_Cure)
-    Cure)

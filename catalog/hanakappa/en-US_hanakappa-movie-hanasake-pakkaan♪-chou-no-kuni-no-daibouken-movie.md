@@ -23,5 +23,3 @@ How annoying moms can be with all their lectures, but what happens if they are g
 -   [Official Site](http://eiga-hanakappa.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9527)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15026)
-
-5026.

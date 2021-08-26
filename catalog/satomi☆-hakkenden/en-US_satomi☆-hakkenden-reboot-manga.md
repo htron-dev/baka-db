@@ -23,4 +23,3 @@ A remake of the original Satomi☆Hakkenden series.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/93874/Satomi☆Hakkenden_Reboot)
-    boot)

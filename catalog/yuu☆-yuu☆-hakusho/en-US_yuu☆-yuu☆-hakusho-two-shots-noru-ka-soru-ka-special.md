@@ -30,4 +30,3 @@ The special will cover the "Two Shot" bonus chapter from the manga's seventh vol
 -   [My Anime list](https://myanimelist.net/anime/36951/Yuu☆Yuu☆Hakusho__Two_Shots_Noru_ka_Soru_ka)
 -   [Official Site](http://pierrot.jp/yuhaku25/)
 -   [Wikipedia](http://en.wikipedia.org/wiki/YuYu_Hakusho)
-    Yu_Hakusho)

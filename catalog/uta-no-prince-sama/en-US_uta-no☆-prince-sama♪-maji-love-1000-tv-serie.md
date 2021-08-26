@@ -33,4 +33,3 @@ Upon her arrival, Haruka soon learns that everyone on staff, including the headm
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8259)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12509)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Uta_no_Prince-sama#Anime)
-    sama#Anime)

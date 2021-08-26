@@ -26,4 +26,3 @@ Reincarnated as a character in the legendary erotic game, “Magical Explorer,�
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/137259/Magical★Explorer__Eroge_no_Yuujin_Kyara_ni_Tensei_shita_kedo_Game_Chishiki_Tsukatte_Jiyuu_ni_Ikiru)
-    kiru)

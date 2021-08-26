@@ -23,4 +23,3 @@ Extra episode bundled with the limited edition of the 6th manga volume.
 -   [Official Site](http://www.puchimas.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9895)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99!_-PETIT_IDOLM@STER-)
-    DOLM@STER-)

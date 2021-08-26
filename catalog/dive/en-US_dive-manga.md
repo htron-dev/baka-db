@@ -29,4 +29,3 @@ Tomoki Sakai is a member of the MDC. The "Mizuki Diving Club" is not doing very 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/30829/Dive)
-    )

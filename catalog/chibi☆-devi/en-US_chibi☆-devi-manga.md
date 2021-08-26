@@ -27,4 +27,3 @@ Sawada Honoka is a 14-year-old girl who is very timid. She easily gets bullied b
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/9131/Chibi☆Devi)
-    Devi)

@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/85631/Meijite_Fukujuu_Fräulein)
-    in)

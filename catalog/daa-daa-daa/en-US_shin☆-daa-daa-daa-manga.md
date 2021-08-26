@@ -27,4 +27,3 @@ After Daa! Daa! Daa!, Ruu is now a cheerful youth living in his home, Planet Ott
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/3664/Shin☆Daa_Daa_Daa)
-    \_Daa)

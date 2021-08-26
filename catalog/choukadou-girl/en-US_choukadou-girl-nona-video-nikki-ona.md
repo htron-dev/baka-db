@@ -19,4 +19,3 @@ No synopsis information has been added to this title. Help improve our database 
 
 -   [My Anime list](https://myanimelist.net/anime/40009/Choukadou_Girl_⅙__Nona_Video_Nikki)
 -   [Official Site](http://choukadou-anime.com/diary/)
-    ary/)

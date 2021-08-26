@@ -27,5 +27,3 @@ In the Legends of Jewel Land, the Jewelpets were born from the love and caring o
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/jp-kiradeco/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8960)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14061)
-
-4061.

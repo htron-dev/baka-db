@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/95435/Mahoutsukai_Yousei_Senmon_Magic✡Star_Gakuin)
-    kuin)

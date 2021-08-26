@@ -21,4 +21,3 @@ Final chapter of Disney's Fireball series.
 -   [My Anime list](https://myanimelist.net/anime/43350/Gebäude_Bäude)
 -   [Official Site](https://www.disney.co.jp/tv/sp/fireball/gb.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15775)
-    =15775)

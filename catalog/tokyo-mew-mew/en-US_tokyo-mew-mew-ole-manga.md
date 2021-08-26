@@ -23,4 +23,3 @@ A spin-off of Tokyo Mew Mew with an all male team of Mew Mews.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/124643/Tokyo_Mew_Mew_Olé​)
-    E2%80%8B)

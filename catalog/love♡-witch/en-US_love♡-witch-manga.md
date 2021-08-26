@@ -27,4 +27,3 @@ Ai is from a family is a long history of witches. However, only females in the f
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/641/Love♡Witch)
-    itch)

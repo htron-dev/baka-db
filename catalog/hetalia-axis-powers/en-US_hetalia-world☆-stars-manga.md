@@ -22,4 +22,3 @@ An offshoot of the original Hetalia Axis Powers. Hetalia follows the strange per
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/80245/Hetalia_World☆Stars)
-    tars)

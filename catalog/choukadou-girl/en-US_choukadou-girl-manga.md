@@ -26,4 +26,3 @@ Bouida Haruto, a hardcore otaku with no interest in 3D (real) women, once apprec
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/115246/Choukadou_Girl_⅙)
-    5%99)

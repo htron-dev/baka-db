@@ -28,4 +28,3 @@ Recruited by Professor Rowan, Hareta decides to become a Pokémon Trainer. Along
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/7857/Pokémon_DP__Pocket_Monsters_Diamond_Pearl_Monogatari)
-    ri)

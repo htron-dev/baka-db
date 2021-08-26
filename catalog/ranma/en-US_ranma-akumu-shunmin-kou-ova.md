@@ -25,5 +25,3 @@ Twelve years after the final OVA was shown, and the end of the manga, a new piec
 -   [My Anime list](https://myanimelist.net/anime/5493/Ranma_½__Akumu_Shunmin_Kou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6141)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14869)
-
-69.

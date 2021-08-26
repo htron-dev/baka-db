@@ -30,4 +30,3 @@ The anime's story will start where the third season left off, at the competition
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11332)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18173)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Uta_no_Prince-sama#Anime)
-    sama#Anime)

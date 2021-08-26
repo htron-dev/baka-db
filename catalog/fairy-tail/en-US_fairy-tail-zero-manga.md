@@ -29,4 +29,3 @@ For many years, Mavis and Zera live alone, taking care of each other. But this a
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/69903/Fairy_Tail_Zerø)
-    B8)

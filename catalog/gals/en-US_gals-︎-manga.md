@@ -18,4 +18,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/129427/Gals‼︎)
-    C%EF%B8%8E)

@@ -44,4 +44,3 @@ In the Kemono series:
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11245/Happy_Yarou_Wedding♡)
-    9%A1)

@@ -30,4 +30,3 @@ The manga adapts the anime film that revolves around Kurisu Makise as she tries 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/62951/Gekijouban_Steins_Gate__Fuka_Ryouiki_no_Déjà_vu)
-    %A0_vu)

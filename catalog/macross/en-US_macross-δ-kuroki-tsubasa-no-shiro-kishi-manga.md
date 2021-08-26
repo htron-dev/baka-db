@@ -26,4 +26,3 @@ A prequel of the anime series Macross Δ. Takes place 9 years prior to the event
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/99557/Macross_Δ__Kuroki_Tsubasa_no_Shiro_Kishi)
-    hi)

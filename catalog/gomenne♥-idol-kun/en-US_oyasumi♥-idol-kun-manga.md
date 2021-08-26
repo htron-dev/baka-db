@@ -19,4 +19,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/129628/Oyasumi♥Idol-kun)
-    -kun)

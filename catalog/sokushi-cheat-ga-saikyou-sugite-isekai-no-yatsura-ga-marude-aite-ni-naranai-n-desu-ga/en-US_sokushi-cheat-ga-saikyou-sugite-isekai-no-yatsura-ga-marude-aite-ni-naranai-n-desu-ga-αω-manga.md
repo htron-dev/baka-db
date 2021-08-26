@@ -28,4 +28,3 @@ High school senior Yogiri Takatou was on a school field trip when he woke up to 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/114925/Sokushi_Cheat_ga_Saikyou_sugite_Isekai_no_Yatsura_ga_Marude_Aite_ni_Naranai_n_desu_ga_ΑΩ)
-    %CE%A9)

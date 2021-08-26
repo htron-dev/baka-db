@@ -19,4 +19,3 @@ Short anime special for Katekyo Hitman Reborn! and ēlDLIVE that exhibited at Ak
 
 -   [My Anime list](https://myanimelist.net/anime/33740/Katekyo_Hitman_Reborn_x_ēlDLIVE_Special)
 -   [Official Site](http://pixiv-zingaro.jp/exhibition/amanoakira)
-    ra)

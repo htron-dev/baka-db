@@ -27,4 +27,3 @@ When Rin demands that he fixes the damage caused, Char discovers that his magic 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/17216/Mitsu-iro✡Devil)
-    evil)

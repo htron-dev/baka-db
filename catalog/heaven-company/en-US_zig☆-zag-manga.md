@@ -33,4 +33,3 @@ Volume 4: Heaven Company
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/193/Zig☆Zag)
-    6Zag)

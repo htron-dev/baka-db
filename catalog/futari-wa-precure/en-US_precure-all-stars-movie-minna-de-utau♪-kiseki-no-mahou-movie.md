@@ -28,4 +28,3 @@ Mirai and Rico come to the human world to play, but are separated when the witch
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11797)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17996)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Pretty_Cure_All_Stars)
-    tars)

@@ -26,4 +26,3 @@ Love, Miki and Inori are on their way to a dance contest, but get lost on their 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6433)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10689)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Pretty_Cure)
-    Cure)

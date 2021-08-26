@@ -22,5 +22,3 @@ Episode 13 included with the Blu-ray release.
 
 -   [My Anime list](https://myanimelist.net/anime/23427/Oneechan_ga_Kita__Hajimete_no…_Kitaa)
 -   [Official Site](http://www.takeshobo.co.jp/book_d/shohin/A515701)
-
-5701.

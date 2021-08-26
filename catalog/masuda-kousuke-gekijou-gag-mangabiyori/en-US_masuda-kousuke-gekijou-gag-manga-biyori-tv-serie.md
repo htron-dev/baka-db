@@ -23,7 +23,6 @@ Based on a shounen gag manga by Masuda Kousuke serialised in Monthly Shounen Jum
 -   [Official Site](http://jumpsq.shueisha.co.jp/contents/gag10th/anime.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7242)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11194)
-    6/Masuda_Kousuke_Gekijou_Gag_Manga_Biyori)
 -   [Official Site](http://www.kids-station.com/minisite/gyagumanga/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2827)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6164)

@@ -28,4 +28,3 @@ Five sexy teachers, and a boy with lots to learn! Susumu Arisaka has just turned
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/1785/Happy★Lesson__Mama_Sensei_wa_Saikou)
-    ikou)

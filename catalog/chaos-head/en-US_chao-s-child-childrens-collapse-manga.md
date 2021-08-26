@@ -25,4 +25,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/105722/ChäoS_Child__Childrens_Collapse)
-    se)

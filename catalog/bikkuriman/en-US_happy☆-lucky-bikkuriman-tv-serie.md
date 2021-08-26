@@ -28,4 +28,3 @@ Genki Seihikari and his friends join the adventure in order to save seven gods o
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4774)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7895)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Happy_Lucky_Bikkuriman)
-    iman)

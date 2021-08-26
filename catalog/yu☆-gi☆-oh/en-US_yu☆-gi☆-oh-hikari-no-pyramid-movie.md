@@ -26,4 +26,3 @@ Anubis, an ancient Egyptian evil that was defeated by Yugi's alter ego centuries
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2761)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2761)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!)
-    /Yu-Gi-Oh!)

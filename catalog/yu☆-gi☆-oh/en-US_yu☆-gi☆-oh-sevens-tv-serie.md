@@ -31,4 +31,3 @@ While Yuuga aims to implement Rush Duels as the new dueling standard and overthr
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15017)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23031)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Sevens)
-    Oh!\_Sevens)

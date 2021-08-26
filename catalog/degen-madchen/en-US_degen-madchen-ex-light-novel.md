@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/90791/Degen_Mädchen_EX)
-    EX)

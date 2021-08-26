@@ -23,5 +23,3 @@ Mini anime series featuring the girls from Girls Band Party!
 -   [Official Site](https://anime.bang-dream.com/pico/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14077)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21290)
-
-1290.

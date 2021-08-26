@@ -21,4 +21,3 @@ Included with the limited edition BD of Fate/kaleid liner Prisma☆Illya Movie: 
 -   [Official Site](http://anime.prisma-illya.jp/movie/sekka/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12420)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya)
-    llya)

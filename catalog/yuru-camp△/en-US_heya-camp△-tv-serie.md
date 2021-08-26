@@ -29,4 +29,3 @@ Follow the Outdoor Activities Club as they travel around the Yamanashi prefectur
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14439)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22482)
 -   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3)
-    6%B3)

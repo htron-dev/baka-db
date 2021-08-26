@@ -26,4 +26,3 @@ No synopsis information has been added to this title. Help improve our database 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13006)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19883)
 -   [Wikipedia](https://en.wikipedia.org/wiki/KiraKira_PreCure_%C3%A0_la_Mode:_Crisply!_The_Memory_of_Mille-feuille!)
-    lle!)

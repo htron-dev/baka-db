@@ -24,4 +24,3 @@ Also includes a new scene from King of Prism: Shiny Seven Stars.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15155)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22936)
 -   [Wikipedia](https://en.wikipedia.org/wiki/King_of_Prism#Film)
-    Film)

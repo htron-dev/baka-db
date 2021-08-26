@@ -27,4 +27,3 @@ There are strange people in this world. If it is short, it will disappear for se
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15804)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23864)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Hetalia:_Axis_Powers#Anime)
-    nime)

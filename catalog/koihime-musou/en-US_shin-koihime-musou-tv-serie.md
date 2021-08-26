@@ -29,4 +29,3 @@ Kanuu and Chouhi's group rescue a mysterious girl, who is actually the real Ryuu
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6400)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10655)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Koihime_Mus%C5%8D)
-    5%8D)

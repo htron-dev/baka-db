@@ -24,4 +24,3 @@ Two weeks have passed since the dilemma between Maiku, Karen and Miina was resol
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=751)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3812)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Please_Twins!)
-    ins!)

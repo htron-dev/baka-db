@@ -28,4 +28,3 @@ Daizaburo Edi-Ban, a Japanese-American, joins New York City's toughest precinct,
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/4167/Mad★Bull_34)
-    l_34)

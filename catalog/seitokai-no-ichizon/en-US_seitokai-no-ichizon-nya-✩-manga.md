@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/52335/Seitokai_no_Ichizon_Nya✩)
-    C%A9)

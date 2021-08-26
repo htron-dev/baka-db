@@ -25,4 +25,3 @@ Anime adaptation of the Saiki Kusuo no Ψ-nan manga by Asou Shuichi, telling the
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9974)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15545)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E6%96%89%E6%9C%A8%E6%A5%A0%E9%9B%84%E3%81%AE%CE%A8%E9%9B%A3)
-    A3)

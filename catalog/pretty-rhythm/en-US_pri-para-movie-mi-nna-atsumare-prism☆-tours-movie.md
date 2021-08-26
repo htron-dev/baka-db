@@ -24,4 +24,3 @@ PriPara the Movie: Everyone, Assemble! Prism ☆ Tours is the film based on and 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10783)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16617)
 -   [Wikipedia](http://en.wikipedia.org/wiki/PriPara)
-    Para)

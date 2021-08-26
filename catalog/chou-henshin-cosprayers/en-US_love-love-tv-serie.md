@@ -29,4 +29,3 @@ Naoto Ooizumi is the writer of the CosPrayers TV show, although this is a secret
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1762)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3798)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Love_Love%3F)
-    e%3F)

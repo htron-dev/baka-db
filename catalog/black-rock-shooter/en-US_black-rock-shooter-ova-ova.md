@@ -31,4 +31,3 @@ Elsewhere, Black★Rock Shooter is on a quest to vanquish the Dead Master. These
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6820)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11318)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Black_Rock_Shooter)
-    oter)

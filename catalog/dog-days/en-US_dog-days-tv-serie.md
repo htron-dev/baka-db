@@ -31,7 +31,6 @@ As with the first season though, with so many secrets to be uncovered and myster
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8882)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13636)
 -   [Wikipedia](<http://en.wikipedia.org/wiki/Dog_Days_(anime)>)
-    https://myanimelist.net/anime/16385/Dog_Days)
 -   [Official Site](http://www.dogdays.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9517)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16193)

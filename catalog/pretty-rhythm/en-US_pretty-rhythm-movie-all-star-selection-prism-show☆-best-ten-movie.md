@@ -28,4 +28,3 @@ Residents of the Prism World Momo and Penguin-sensei work together to introduce 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10353)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15887)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Pretty_Rhythm)
-    ythm)

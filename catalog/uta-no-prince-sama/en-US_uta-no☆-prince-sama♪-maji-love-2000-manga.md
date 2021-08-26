@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/89246/Uta_no☆Prince-sama♪_Maji_Love_2000)
-    \_Love_2000)

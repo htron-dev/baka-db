@@ -28,5 +28,3 @@ The Gintama crew gets together to present a preview for the upcoming arc, the bi
 -   [My Anime list](https://myanimelist.net/anime/32122/Gintama°__Umai-mono_wa_Atomawashi_ni_Suru_to_Yokodorisareru_kara_Yappari_Saki_ni_Kue)
 -   [Official Site](http://www.jumpfesta.com/anime/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10993)
-
-93.

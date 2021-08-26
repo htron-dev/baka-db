@@ -32,4 +32,3 @@ Exploring the shock of the incident and its aftermath from his friends and rival
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/83145/Shigatsu_wa_Kimi_no_Uso__6-nin_no_Études)
-    es)

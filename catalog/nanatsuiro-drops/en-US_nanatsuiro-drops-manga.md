@@ -26,4 +26,3 @@ Tsuwabaki, a normal school boy, accidentally switches his drink with that of a m
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/10825/Nanatsuiro★Drops)
-    rops)

@@ -22,4 +22,3 @@ Adaptation of a manga collaboration with the Yamaha Motor Company. Included as a
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14439)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22482)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Laid-Back_Camp)
-    Camp)

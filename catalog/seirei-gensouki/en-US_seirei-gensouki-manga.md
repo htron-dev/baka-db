@@ -32,4 +32,3 @@ After saving the princesses, Rio is given a scholarship to the Royal Academy, a 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/108306/Seirei_Gensouki)
-    //myanimelist.net/manga/103647/Seirei_Gensouki)

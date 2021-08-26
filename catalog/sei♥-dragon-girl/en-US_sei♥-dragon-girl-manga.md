@@ -28,4 +28,3 @@ Momoka Sendou (nicknamed "Dragon Girl") and Ryuga Kou are childhood friends. Mom
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/507/Sei♥Dragon_Girl)
-    Girl)

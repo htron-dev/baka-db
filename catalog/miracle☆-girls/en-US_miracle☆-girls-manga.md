@@ -31,4 +31,3 @@ Volume 1: Sukoshi dake Mystery
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/449/Miracle☆Girls)
-    irls)

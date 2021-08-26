@@ -29,4 +29,3 @@ Wakaba Asahina is a shy and slightly awkward girl. She is coerced by her classma
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/132986/Asahina_Wakaba_to_○○_na_Kareshi)
-    na_Kareshi)

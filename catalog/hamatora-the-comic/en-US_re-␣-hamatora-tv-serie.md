@@ -29,4 +29,3 @@ It has been three months since the incident at Yokohama. Things have been settli
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10620)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16085)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Hamatora)
-    tora)

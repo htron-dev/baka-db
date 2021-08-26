@@ -28,4 +28,3 @@ Kei and Mizuho are having some marital difficulties, and Mizuho's family decides
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2046)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Please_Teacher!)
-    her!)

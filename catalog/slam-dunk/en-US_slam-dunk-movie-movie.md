@@ -23,7 +23,6 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](https://slamdunk-movie.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15974)
 -   [Wikipedia](<https://en.wikipedia.org/wiki/Slam_Dunk_(manga)#Films>)
-    : ANN)
 
 ## Links
 

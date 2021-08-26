@@ -29,4 +29,3 @@ Hitotose Chitose was always alone and untrusting of people but when 5 female tea
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=33)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=834)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Happy_Lesson)
-    sson)

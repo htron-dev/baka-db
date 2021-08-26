@@ -35,4 +35,3 @@ With the aide of his closest allies, Yusuke sets off for Magma Valley, to save t
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1084)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=607)
 -   [Wikipedia](<https://ja.wikipedia.org/wiki/%E5%B9%BD%E2%98%86%E9%81%8A%E2%98%86%E7%99%BD%E6%9B%B8_(%E6%98%A0%E7%94%BB)>)
-    %E7%94%BB))

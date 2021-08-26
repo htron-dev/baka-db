@@ -24,4 +24,3 @@ You see Jesus and Buddha experiencing Asakusa, public baths, theme parks, and th
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/8947/Saint☆Oniisan)
-    isan)

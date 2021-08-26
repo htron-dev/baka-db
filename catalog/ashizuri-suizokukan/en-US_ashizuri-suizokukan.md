@@ -29,7 +29,7 @@ Contents:
 -   Sputnik
 -   Machine Jidai Doubutsu-tachi
 -   Kimi no Sakana
-    (and other stories)
+-   (and other stories)
 
 ## Links
 

@@ -23,4 +23,3 @@ An hour long OVA summarizing the plot of the original Onegai Teacher series. Als
 -   [Official Site](http://www.please-please.jp/one/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Please_Teacher!)
-    her!)

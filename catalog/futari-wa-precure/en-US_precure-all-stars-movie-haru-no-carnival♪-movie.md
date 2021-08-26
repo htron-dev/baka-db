@@ -26,5 +26,3 @@ New Precure All Stars movie.
 -   [Official Site](http://www.precure-allstars.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10941)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16727)
-
-6727.

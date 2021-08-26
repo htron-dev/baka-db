@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/89290/Sayonara_Träumerei)
-    ei)

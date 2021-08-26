@@ -26,4 +26,3 @@ It's now winter in Kamakura. When Satsuki tells her friends that she'd seen Mana
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2481)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5013)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Uta_Kata#OVA)
-    #OVA)

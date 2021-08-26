@@ -34,4 +34,3 @@ Five years later, high school student Yuusaku Fujiki encounters a strange artifi
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12659)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19180)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_VRAINS)
-    Oh!\_VRAINS)

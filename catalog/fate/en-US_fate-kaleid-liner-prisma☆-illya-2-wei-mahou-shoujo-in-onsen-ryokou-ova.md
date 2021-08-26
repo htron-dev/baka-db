@@ -29,4 +29,3 @@ Note: Bundled with the limited edition of the sixth Fate/Kaleid Liner Prisma Ill
 -   [Official Site](http://store.kadokawa.co.jp/preorder/888800000015/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10804)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya)
-    llya)

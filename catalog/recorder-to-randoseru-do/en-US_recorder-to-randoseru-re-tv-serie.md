@@ -25,4 +25,3 @@ Second season.
 -   [Official Site](http://www.takeshobo.co.jp/sp/tv_rikoran/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9034)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Recorder_to_Randoseru)
-    seru)

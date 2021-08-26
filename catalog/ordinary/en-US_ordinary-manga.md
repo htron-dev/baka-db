@@ -31,4 +31,3 @@ Two assassins met - Imari Matoba, Yayoi Kawaguchi one lost his master and they p
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/10579/Ordinary±)
-    B1)

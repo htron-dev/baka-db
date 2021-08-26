@@ -27,4 +27,3 @@ The manga's story begins with Rikka waking up one day with her family's junk sho
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/130491/SSSSGridman__Shinseiki_Chuugakusei_no_Shitsuji_Café)
-    A9)

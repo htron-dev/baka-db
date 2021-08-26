@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/84775/Cross_Ange__Tenshi_to_Ryuu_no_École)
-    le)

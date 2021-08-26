@@ -28,4 +28,3 @@ Follows the adventures of the group sent from the martian colony to the Earth fo
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11971/Kidou_Senshi_Gundam_SEED_CE73__Δ_Astray)
-    ay)

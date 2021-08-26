@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/98832/Shimoneta_to_Iu_Gainen_ga_Sonzai_Shinai_Taikutsu_na_Sekai__○EX)
-    8BEX)

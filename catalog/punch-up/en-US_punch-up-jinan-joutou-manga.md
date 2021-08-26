@@ -24,4 +24,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/80459/Punch↑_Jinan_Joutou)
-    utou)

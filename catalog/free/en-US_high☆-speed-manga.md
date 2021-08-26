@@ -28,4 +28,3 @@ Nanase Haruka is a sixth-grade elementary school student who loves connecting wi
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/87678/High☆Speed)
-    peed)

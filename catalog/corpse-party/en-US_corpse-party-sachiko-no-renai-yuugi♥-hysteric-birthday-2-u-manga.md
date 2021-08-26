@@ -30,4 +30,3 @@ The series takes place during Sachiko Shinozaki's birthday and she wants to play
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/43937/Corpse_Party__Sachiko_no_Renai_Yuugi♥_-_Hysteric_Birthday_2U)
-    y_2U)

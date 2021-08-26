@@ -25,4 +25,3 @@ Magical☆Star Kanon 100% is a mini-series spin-off of Kami nomi zo Shiru Sekai,
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/49127/Magical☆Star_Kanon_100)
-    \_100)

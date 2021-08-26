@@ -24,5 +24,3 @@ Ranma and the gang are invited to a boating trip with Kuno. Unfortunately, a sto
 -   [My Anime list](https://myanimelist.net/anime/792/Ranma_½__Kessen_Tougenkyou_Hanayome_wo_Torimodose)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=368)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1533)
-
-33.

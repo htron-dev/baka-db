@@ -29,4 +29,3 @@ When young Hazel develops a crush on Almond, a Pokémon trainer, she goes to Gra
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/1591/Pocket_Monsters__PiPiPi★Adventure)
-    ture)

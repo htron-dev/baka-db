@@ -30,4 +30,3 @@ Years after Yuugi's legendary battles, the game is so popular that special insti
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/3041/Yu☆Gi☆Oh_GX)
-    98%86Oh_GX)

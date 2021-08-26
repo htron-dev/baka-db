@@ -26,4 +26,3 @@ Sumito Sasabe is an omega with a complicated past which made him hate betas. He 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/108895/Kurui_Naku_no_wa_Boku_no_Ban__β)
-    B2)

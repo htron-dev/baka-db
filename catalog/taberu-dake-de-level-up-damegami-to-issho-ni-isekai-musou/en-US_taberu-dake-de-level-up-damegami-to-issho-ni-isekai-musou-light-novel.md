@@ -29,4 +29,3 @@ Gaining a cheat skill that lets him absorb the abilities of what he eats, Kehma 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/119815/Taberu_dake_de_Level_Up__Damegami_to_Issho_ni_Isekai_Musou)
-    sekai_Musou)

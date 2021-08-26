@@ -26,4 +26,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/118319/Kingdom_Hearts_χ__Kimi_to_Keyblade_no_Monogatari)
-    ri)

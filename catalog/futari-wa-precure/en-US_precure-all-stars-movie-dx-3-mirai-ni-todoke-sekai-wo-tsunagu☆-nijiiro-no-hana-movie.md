@@ -26,4 +26,3 @@ Precure 10th Anniversary Movie and 3rd Precure All Stars DX. Enemies are from al
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8074)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12127)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB_%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BADX3_%E6%9C%AA%E6%9D%A5%E3%81%AB%E5%B1%8A%E3%81%91!%E4%B8%96%E7%95%8C%E3%82%92%E3%81%A4%E3%81%AA%E3%)
-    %E3%)

@@ -33,4 +33,3 @@ Jin calls the girl by the name "Raetsel". It seems they know each other. However
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9446)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15547)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Phi_Brain:_Kami_no_Puzzle)
-    le)

@@ -42,4 +42,3 @@ An anthology comic of Anne Happy♪ by various mangaka.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/101486/Anne_Happy♪_Anthology_Comic__Kichi)
-    ichi)

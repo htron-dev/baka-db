@@ -24,4 +24,3 @@ The story of the nine stage girls from Seisho Music Academy and their daily live
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/114610/Shoujo☆Kageki_Revue_Starlight__Overture)
-    ture)

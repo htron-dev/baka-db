@@ -25,5 +25,3 @@ A vengeful teru teru bozu-like monster called Miden is stealing all of the Cures
 -   [My Anime list](https://myanimelist.net/anime/37501/Hug_tto_Precure♡Futari_wa_Precure_Movie__All_Stars_Memories)
 -   [Official Site](http://www.precure-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13926)
-
-3926.

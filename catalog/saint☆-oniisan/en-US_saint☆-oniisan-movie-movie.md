@@ -26,4 +26,3 @@ After thousands of years of hard work, Jesus Christ and Gautama Buddha decide th
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9454)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14826)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Saint_Young_Men)
-    \_Men)

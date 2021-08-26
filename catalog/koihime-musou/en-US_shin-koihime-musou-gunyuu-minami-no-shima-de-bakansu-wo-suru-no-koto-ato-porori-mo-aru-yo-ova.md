@@ -24,4 +24,3 @@ The story takes place at St. Francesca Academy. After the battle between the stu
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6400)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11229)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Shin_Koihime_Musou)
-    usou)

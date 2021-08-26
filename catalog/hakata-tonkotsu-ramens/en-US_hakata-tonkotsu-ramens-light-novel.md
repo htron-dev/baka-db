@@ -20,4 +20,3 @@ In Fukuoka, crime reaches new heights in the seedy underworld. In the Hakata war
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/127787/Hakata_Tonkotsu_Ramens)
-    [My Anime list](https://myanimelist.net/manga/130762/Hakata_Tonkotsu_Ramens)

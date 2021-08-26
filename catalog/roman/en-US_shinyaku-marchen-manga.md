@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/88707/Shinyaku_Märchen)
-    en)

@@ -21,4 +21,3 @@ A recap of ChäoS;HEAd that aired along with episode 1 of ChäoS;Child as part o
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/34753/ChäoS_Child_Episode_0)
-    \_0)

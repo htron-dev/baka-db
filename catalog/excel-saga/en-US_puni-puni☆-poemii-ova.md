@@ -29,4 +29,3 @@ Poemi Watanabe (a.k.a. Kobayashi) is a 10-year-old girl with aspirations of bein
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=65)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=865)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Puni_Puni_Poemi)
-    oemi)

@@ -31,4 +31,3 @@ The Demon King, Char, from a parallel world called Avalon, fell in love with the
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/24767/Koi-iro✡Devil)
-    evil)

@@ -25,4 +25,3 @@ A collection of stories featuring different characters from Quinrose's otome gam
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/18558/Renai_Otogibanashi__Chocolate_Dragée)
-    9e)

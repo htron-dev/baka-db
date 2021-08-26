@@ -24,4 +24,3 @@ An adaptation of the Faris route of the Steins;Gate: Hiyoku Renri no Darling vis
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/106311/Steins_Gate__Hiyoku_Renri_no__Nyan²_Crisis☆)
-    E2%98%86)

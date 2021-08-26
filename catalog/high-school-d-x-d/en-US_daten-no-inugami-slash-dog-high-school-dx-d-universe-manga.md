@@ -27,4 +27,3 @@ Set in the same universe as High School DxD, but years before the events of that
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/128837/Daten_no_Inugami__Slash_Døg_-_High_School_DxD_Universe)
-    se)

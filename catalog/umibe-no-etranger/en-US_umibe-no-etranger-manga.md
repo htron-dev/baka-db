@@ -29,4 +29,3 @@ As Mio boards the ferry, he promises to call and asks only one thing of Shun: to
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/77601/Umibe_no_Étranger)
-    er)

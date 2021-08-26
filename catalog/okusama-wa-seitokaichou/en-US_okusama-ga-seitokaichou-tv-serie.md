@@ -30,5 +30,4 @@ The story begins with Izumi Hayato running to be student council president. But 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11901)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18672)
 -   [Wikipedia](http://en.wikipedia.org/wiki/My_Wife_is_the_Student_Council_President)
-    p://www.animenewsnetwork.com/encyclopedia/anime.php?id=16812)
 -   [Wikipedia](http://en.wikipedia.org/wiki/My_Wife_is_the_Student_Council_President)

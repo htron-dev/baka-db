@@ -21,4 +21,3 @@ Continuation of Igano Kabamaru from the final scene of the original series.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/96428/Igano_Kabamaru★Sorikara)
-    kara)

@@ -22,4 +22,3 @@ Depicts Brother Odo's life as a law enforcement officer in Cologne before he bec
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/118615/Köln_Shikei_Odo)
-    do)

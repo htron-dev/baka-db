@@ -28,4 +28,3 @@ Hitotose Chitose is now living together with his 5 teachers as his mothers when 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=835)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2903)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Happy_Lesson_Advance)
-    ance)

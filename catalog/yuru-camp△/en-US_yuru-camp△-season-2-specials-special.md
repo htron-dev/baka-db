@@ -21,5 +21,3 @@ Included with the second and third volumes of the Blu-ray/DVD volumes.
 -   [My Anime list](https://myanimelist.net/anime/49026/Yuru_Camp△_Season_2_Specials)
 -   [Official Site](https://yurucamp.jp/second/bddvd/vol2.php)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14437)
-
-4437.

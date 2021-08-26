@@ -32,4 +32,3 @@ The story is set in year 2030 where an incident occur in a giant research facili
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/49761/Root_Double__Before_CrimeAfter_Days_-_√After)
-    fter)

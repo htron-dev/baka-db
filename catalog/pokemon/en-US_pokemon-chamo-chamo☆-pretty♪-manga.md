@@ -30,4 +30,3 @@ The series is a comedy-styled manga which follows the continuing adventures of P
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22574/Pokémon_Chamo-Chamo☆Pretty♪)
-    retty%E2%99%AA)

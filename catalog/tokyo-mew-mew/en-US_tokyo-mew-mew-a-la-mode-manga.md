@@ -33,4 +33,3 @@ Volume 2: Usagi no Furasu Hoshi
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/555/Tokyo_Mew_Mew_à_La_Mode)
-    de)

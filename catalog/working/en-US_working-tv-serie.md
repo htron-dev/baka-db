@@ -29,4 +29,3 @@ As the stories of those connected to Wagnaria come to a close, only one thing is
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10995)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16648)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Working!!)
-    p://en.wikipedia.org/wiki/Working!!)

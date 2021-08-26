@@ -19,4 +19,3 @@ Short specials included with the Blu-rays and DVDs.
 
 -   [My Anime list](https://myanimelist.net/anime/30499/Rolling☆Girls__Chibi☆Rolling☆Girls_Korokoro_Gekijou)
 -   [Official Site](http://rollinggirls.com/dvd.html)
-    rls.com/dvd.html)

@@ -31,4 +31,3 @@ Kyuno, who's aiming to become a Sister, just became a Sister-in-training, and st
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/42327/Holy☆Hearts)
-    arts)

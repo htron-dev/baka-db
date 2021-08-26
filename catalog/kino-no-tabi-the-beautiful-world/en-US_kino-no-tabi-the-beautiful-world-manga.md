@@ -30,4 +30,3 @@ Destination is a state of mind. A tale of one girl and her bike and the road ahe
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/105916/Kino_no_Tabi__The_Beautiful_World)
-    75/Kino_no_Tabi\_\_The_Beautiful_World)

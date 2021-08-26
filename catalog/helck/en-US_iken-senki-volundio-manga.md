@@ -23,4 +23,3 @@ Cleo is a mercenary looking to live a self-sufficient life, but the job that wou
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/130357/Iken_Senki_Völundio)
-    io)

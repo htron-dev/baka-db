@@ -23,5 +23,3 @@ The story centers around Hinami, a bookish, eyeglasses-wearing girl, and her two
 -   [My Anime list](https://myanimelist.net/anime/15211/Nazotoki-hime_wa_Meitantei♥)
 -   [Official Site](http://www.ciao.shogakukan.co.jp/jigou/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9352)
-
-9352.

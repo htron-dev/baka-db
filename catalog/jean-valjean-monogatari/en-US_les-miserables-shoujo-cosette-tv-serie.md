@@ -33,4 +33,3 @@ Under Jean's guidance, Cosette promises to help others with her newfound freedom
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4781)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6912)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Les_Mis%C3%A9rables:_Sh%C5%8Djo_Cosette)
-    te)

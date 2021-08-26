@@ -62,4 +62,3 @@ The Zero-Sum Original Anthology Series features themed oneshots from various man
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/23291/Arcana_-_Zoku_・_Kaitou)
-    itou)

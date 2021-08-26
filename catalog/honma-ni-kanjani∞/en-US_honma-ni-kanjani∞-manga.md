@@ -23,4 +23,3 @@ About Kanjani Eight, who are a Johnny's Entertainment idol group.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/18377/Honma_ni_Kanjani∞)
-    8%9E)

@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/91020/Classroom☆Crisis__Another_Crisis)
-    isis)

@@ -23,4 +23,3 @@ A novice actress, Miku have been appointed the leading role in a play written by
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/93367/Bad∞End∞Night)
-    88%9ENight)

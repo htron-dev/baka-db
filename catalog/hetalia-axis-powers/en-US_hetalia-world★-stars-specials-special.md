@@ -20,4 +20,3 @@ Episodes 13-15 of Hetalia World★Stars included in the Blu-ray BOX.
 
 -   [My Anime list](https://myanimelist.net/anime/48627/Hetalia_World★Stars_Specials)
 -   [Official Site](https://hetalia-ws.com/bluray/)
-    ray/)

@@ -24,4 +24,3 @@ Who's the most popular of all the Tenchi girls? That's an easy question to answe
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/253/Tenchi_Muyou_Sasami-chan_À_la_Carte)
-    te)

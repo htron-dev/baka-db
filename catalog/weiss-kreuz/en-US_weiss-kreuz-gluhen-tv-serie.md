@@ -30,4 +30,3 @@ Fujimiya Aya is sent to infiltrate this school carrying out criminal investigati
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=226)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1822)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz)
-    \_Kreuz)

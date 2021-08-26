@@ -22,4 +22,3 @@ A manga adaption of Kenji Miyazawa's classic Night on the Galactic Railroad.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/41211/Ginga_Tetsudou_no_Yoru)
-    a_Tetsudou_no_Yoru)

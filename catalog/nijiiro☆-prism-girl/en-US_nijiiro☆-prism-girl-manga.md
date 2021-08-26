@@ -31,4 +31,3 @@ Volume 4: Momoiro Shounen♡Kiss
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/31283/Nijiiro☆Prism_Girl)
-    Girl)

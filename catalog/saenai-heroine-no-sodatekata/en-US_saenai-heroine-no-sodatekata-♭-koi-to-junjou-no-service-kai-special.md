@@ -30,4 +30,3 @@ The team has come to the pool of a luxury hotel to do research for a swimsuit ev
 -   [Official Site](http://www.saenai.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11221)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Saekano:_How_to_Raise_a_Boring_Girlfriend)
-    iend)

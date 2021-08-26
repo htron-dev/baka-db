@@ -27,4 +27,3 @@ A collection of short stories which are canon to the main story line. Each chapt
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/67531/Shokugeki_no_Souma__à_la_Carte)
-    te)

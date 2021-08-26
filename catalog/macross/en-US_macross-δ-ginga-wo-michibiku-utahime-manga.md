@@ -28,4 +28,3 @@ Eight years after the events of Macross F, a mysterious phenomenon known as the 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/99412/Macross_Δ__Ginga_wo_Michibiku_Utahime)
-    me)

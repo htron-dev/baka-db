@@ -27,6 +27,5 @@ Himawari is back in all her comical ninja mischief. The sequel to Himawari conti
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4572)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7052)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Himawari%21#Story)
-    anime&aid=4176)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6160)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Himawari%21)

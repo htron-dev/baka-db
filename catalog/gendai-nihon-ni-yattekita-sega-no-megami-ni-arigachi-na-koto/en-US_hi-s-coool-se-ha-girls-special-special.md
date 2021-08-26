@@ -24,4 +24,3 @@ The special episode was bundled with the complete series DVD set and focuses on 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10592)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16122)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Sega_Hard_Girls)
-    irls)

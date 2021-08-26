@@ -19,4 +19,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/108117/Fate_Grand_Order__Turas_Réalta)
-    ta)

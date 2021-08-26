@@ -36,4 +36,3 @@ A girl wakes up to find her room a mess. She realizes that she has partially los
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11416/Chousekitan_Maze☆Bakunetsu_Jikuu)
-    ikuu)

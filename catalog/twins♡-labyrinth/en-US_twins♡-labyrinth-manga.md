@@ -23,4 +23,3 @@ Ayamu Okusawa lost his job and apartment in a coinsidence. He doesn't know how t
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/5396/Twins♡Labyrinth)
-    inth)

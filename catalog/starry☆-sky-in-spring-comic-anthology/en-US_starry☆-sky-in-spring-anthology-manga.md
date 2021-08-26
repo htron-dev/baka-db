@@ -22,4 +22,3 @@ Collection of short stories featuring characters from the otome game Starry☆Sk
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21519/Starry☆Sky__In_Spring_-_Anthology)
-    logy)

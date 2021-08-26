@@ -27,4 +27,3 @@ Twin sisters, Yukino and Kanade Sakurai, room together in the dorms at their hig
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5574)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9001)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Candy_Boy)
-    \_Boy)

@@ -20,5 +20,3 @@ Tanabata is approaching but Kyousuke, being his usual indecisive self, is unable
 
 -   [My Anime list](https://myanimelist.net/anime/14059/Kimagure_Orange☆Road__Tanabata_Special)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7590)
-
-7590.

@@ -26,4 +26,3 @@ Shinokawa Shioriko, a young owner of a bookstore in Kamakura, loves old books. S
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/55821/Biblia_Koshodou_no_Jiken_Techou)
-    st](https://myanimelist.net/manga/37977/Biblia_Koshodou_no_Jiken_Techou)

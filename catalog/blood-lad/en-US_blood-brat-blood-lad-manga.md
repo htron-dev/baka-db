@@ -32,4 +32,3 @@ In this collection of short stories and four-panel comics, Blood Lad creator Yuk
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/80401/Blood_Brat★Blood_Lad)
-    \_Lad)

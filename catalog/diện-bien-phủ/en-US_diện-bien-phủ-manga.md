@@ -29,4 +29,3 @@ After witnessing serious crimes being committed, he is almost killed when a myst
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/20264/Điện_Biên_Phủ)
-    C3%AAn_Ph%E1%BB%A7)

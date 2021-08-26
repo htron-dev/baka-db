@@ -30,4 +30,3 @@ A schoolgirl gains self-confidence, new friends, and a cache of chic outfits whe
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/18411/Corrector_Yui)
-    or_Yui)

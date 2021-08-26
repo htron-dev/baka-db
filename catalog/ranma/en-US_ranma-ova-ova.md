@@ -29,4 +29,3 @@ Ranma Saotome continues his search for a way to become a normal teenage boy agai
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=405)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=200)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Ranma_%C2%BD)
-    BD)

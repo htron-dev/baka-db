@@ -36,4 +36,3 @@ Message in Rouge - after the episode 48
 -   [My Anime list](https://myanimelist.net/anime/2458/Kimagure_Orange☆Road_OVA)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=283)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=492)
-    =492)

@@ -26,4 +26,3 @@ Sequel to the original anthology.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/49287/Dai_Ni_Ji_Super_Otoko_no_Ko_Time_Hajimaru_yo★)
-    8%85)

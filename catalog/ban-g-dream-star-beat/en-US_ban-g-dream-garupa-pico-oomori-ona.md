@@ -24,4 +24,3 @@ The second season of the mini series starring the girls of BanG Dream!
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15307)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23257)
 -   [Wikipedia](https://en.wikipedia.org/wiki/BanG_Dream!)
-    eam!)

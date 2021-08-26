@@ -20,4 +20,3 @@ Recap aired between episodes 58 and 59.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/21595/Yu☆Gi☆Oh_Zexal_Second__Iza_Saishuu_Kessen_e_Special)
-    \_e_Special)

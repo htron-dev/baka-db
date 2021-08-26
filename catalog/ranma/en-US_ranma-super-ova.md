@@ -34,4 +34,3 @@ Super OVA 3: This is a story from vol. 31. Ranma disturbs a doll that takes reve
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2996)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=200)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Ranma_%C2%BD)
-    BD)

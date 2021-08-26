@@ -31,4 +31,3 @@ Young Kai has been passionately idolizing Ginta ever since his heroic battle in 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/135/MÄR_Omega)
-    ga)

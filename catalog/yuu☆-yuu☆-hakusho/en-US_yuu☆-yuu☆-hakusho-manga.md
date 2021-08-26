@@ -33,4 +33,3 @@ Koenma hires Yuusuke as a "Spirit Detective" and tasks him with solving a series
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/53/Yuu☆Yuu☆Hakusho)
-    %86Hakusho)

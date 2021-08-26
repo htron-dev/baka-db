@@ -29,7 +29,8 @@ Summary vol.02: The truth is, I think that I might already be caught in his trap
 Summary vol.03: Yuuki's a snob, but he's also earnest and passionate. He's been courting me, and I've slowly fallen for him. He's my boyfriend now. My brothers have gotten attached to him too, and he jokes that he wants to marry me and join my family. But Kazushi-sempai doesn't like the thought of Yuuki being happy. He told Yuuki's older brother, who's living in America, about our relationship. His brother came back to Japan and told the two of us to break things off. Now Yuuki's rebelled against him and ran away from home...?
 
 -   Contains a oneshot called Pleasure Point in vol. 1:
-    Kubota is the only child of a massage parlour and hopes to enter that profession later in life. Using that as an excuse, Kubota insists on practicing his perverted massage techniques on his classmate Haigara. But when the massages start to become effective, Haigara's not sure what to think. And what's this about the pressure point connected to the heart? (from p-s)
+
+Kubota is the only child of a massage parlour and hopes to enter that profession later in life. Using that as an excuse, Kubota insists on practicing his perverted massage techniques on his classmate Haigara. But when the massages start to become effective, Haigara's not sure what to think. And what's this about the pressure point connected to the heart? (from p-s)
 
 (Source: Manga Fox)
 

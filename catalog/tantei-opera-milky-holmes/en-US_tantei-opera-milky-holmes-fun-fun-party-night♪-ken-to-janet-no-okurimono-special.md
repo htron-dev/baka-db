@@ -21,5 +21,3 @@ No synopsis information has been added to this title. Help improve our database 
 
 -   [My Anime list](https://myanimelist.net/anime/33308/Tantei_Opera_Milky_Holmes__Fun_Fun_Party_Night♪_-_Ken_to_Janet_no_Okurimono)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12130)
-
-2130.

@@ -20,4 +20,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/41413/Fushigi_no_Kuni_de_Koishiyou♥)
-    9%A5)

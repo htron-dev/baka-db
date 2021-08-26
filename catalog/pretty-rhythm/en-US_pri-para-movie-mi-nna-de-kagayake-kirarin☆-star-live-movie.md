@@ -24,5 +24,3 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](http://pp-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12510)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19018)
-
-9018.

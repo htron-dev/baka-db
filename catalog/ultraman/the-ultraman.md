@@ -26,4 +26,3 @@ The first animated Ultraman series.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2347)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3900)
 -   [Wikipedia](http://en.wikipedia.org/wiki/The_Ultraman)
-    aman)

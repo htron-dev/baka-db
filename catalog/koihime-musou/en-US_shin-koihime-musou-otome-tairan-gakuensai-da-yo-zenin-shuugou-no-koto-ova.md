@@ -22,4 +22,3 @@ Shin Koihime†Musou: Otome Tairan OVA.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7277)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15899)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Koihime_Musō)
-    usō)

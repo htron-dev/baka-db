@@ -28,4 +28,3 @@ Volume 6: Fuyuutou Zabadak no Hihou, Pii-chan Shijou Shugi
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/34195/Satomi☆Hakkenden)
-    nden)

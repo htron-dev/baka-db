@@ -26,4 +26,3 @@ Long time ago, there was peace until the giants decide to wake up after years an
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3374)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7403)
 -   [Wikipedia](<http://en.wikipedia.org/wiki/Maze_(anime)>)
-    ime))

@@ -31,4 +31,3 @@ Long ago, a great war raged between the royal military of Lugunica and the demi-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/120412/Kenki_Renka__Re_Zero_kara_Hajimeru_Isekai_Seikatsu†Shinmeitan)
-    itan)

@@ -24,4 +24,3 @@ A two-part prologue special to the movie Yu☆Gi☆Oh!: The Dark Side of Dimensi
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/98225/Yu☆Gi☆Oh__Transcend_Game)
-    scend_Game)

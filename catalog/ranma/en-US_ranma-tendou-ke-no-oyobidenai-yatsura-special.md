@@ -24,4 +24,3 @@ This features a Nabiki narrated review of the series where she discusses various
 
 -   [My Anime list](https://myanimelist.net/anime/10819/Ranma_½__Tendou-ke_no_Oyobidenai_Yatsura)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/らんま1/2#.E3.82.AA.E3.83.AA.E3.82.B8.E3.83.8A.E3.83.AB.E3.83.93.E3.83.87.E3.82.AA.E3.82.A2.E3.83.8B.E3.83.A1)
-    A1)

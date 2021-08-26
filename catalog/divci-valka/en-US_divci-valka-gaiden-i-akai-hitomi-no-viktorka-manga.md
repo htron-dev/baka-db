@@ -25,4 +25,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/124748/Dívčí_Válka_Gaiden_I__Akai_Hitomi_no_Viktorka)
-    mi_no_Viktorka)

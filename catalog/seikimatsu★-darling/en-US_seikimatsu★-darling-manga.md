@@ -25,4 +25,3 @@ Meet Ogata Kohsaku, your average hot-and-cocky het boy, who falls head over heel
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/3695/Seikimatsu★Darling)
-    ling)

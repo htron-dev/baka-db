@@ -65,4 +65,3 @@ The Zero-Sum Original Anthology Series features themed oneshots from various man
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/24479/Arcana_-_Henka☆Gijinka)
-    inka)

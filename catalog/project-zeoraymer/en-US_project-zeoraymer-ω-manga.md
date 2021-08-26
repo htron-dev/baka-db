@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/94792/Project_Zeoraymer_Ω)
-    A9)

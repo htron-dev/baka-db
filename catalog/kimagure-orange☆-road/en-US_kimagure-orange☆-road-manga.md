@@ -31,4 +31,3 @@ Madoka Ayukawa, enigmatic and feared by the students, often switches her persona
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/1407/Kimagure_Orange☆Road)
-    Road)

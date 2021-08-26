@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/110146/Điện_Biên_Phủ__True_End)
-    E1%BB%A7\_\_True_End)

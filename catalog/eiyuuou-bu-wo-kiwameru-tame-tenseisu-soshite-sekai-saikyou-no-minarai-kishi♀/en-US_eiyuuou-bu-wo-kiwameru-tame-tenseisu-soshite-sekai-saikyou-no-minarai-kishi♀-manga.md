@@ -25,4 +25,3 @@ King Inglis, who lived for his country and people, strongly hopes that in his ne
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/125039/Eiyuuou_Bu_wo_Kiwameru_Tame_Tenseisu__Soshite_Sekai_Saikyou_no_Minarai_Kishi♀)
-    9%80)

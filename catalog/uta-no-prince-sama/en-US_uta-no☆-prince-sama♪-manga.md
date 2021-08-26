@@ -30,4 +30,3 @@ The school randomly pairs up a singer to a song writer but as fate would have it
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/18096/Uta_no☆Prince-sama♪)
-    a%E2%99%AA)

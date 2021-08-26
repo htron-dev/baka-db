@@ -20,4 +20,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/23229/Dream_Club__Dear♥Girls)
-    irls)

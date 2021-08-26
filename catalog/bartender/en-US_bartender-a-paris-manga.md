@@ -26,4 +26,3 @@ Follows a new character, Ren Sajima, who travels to Paris in hopes of becoming a
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/118340/Bartender_à_Paris)
-    is)

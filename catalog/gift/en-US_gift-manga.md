@@ -25,4 +25,3 @@ Let's see where this bloody journey and Tamaki Suzuhara's moral dilemma will lea
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/91769/Gift±)
-    B1)

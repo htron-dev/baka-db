@@ -24,4 +24,3 @@ Aine never wanted to be a writer; she just created some erotic song lyrics for t
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/678/Kaikan♥Phrase)
-    rase)

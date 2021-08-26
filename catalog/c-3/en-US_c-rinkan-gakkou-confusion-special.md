@@ -26,4 +26,3 @@ Unaired episode included with the fifth volume of the Blu-ray. The gang goes on 
 -   [Official Site](http://www.starchild.co.jp/special/c3/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8376)
 -   [Wikipedia](http://en.wikipedia.org/wiki/C%C2%B3)
-    B3)

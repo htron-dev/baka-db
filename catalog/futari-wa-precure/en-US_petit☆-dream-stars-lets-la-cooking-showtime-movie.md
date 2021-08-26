@@ -20,5 +20,3 @@ A 3DCG short screened alongside Kirakira☆Precure A La Mode Movie: Paritto! Omo
 
 -   [My Anime list](https://myanimelist.net/anime/37051/Petit☆Dream_Stars_Lets_La_Cooking_Showtime)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13715)
-
-3715.

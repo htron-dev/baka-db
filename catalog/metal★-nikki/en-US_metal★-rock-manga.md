@@ -19,4 +19,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/105155/Metal★Rock)
-    Rock)

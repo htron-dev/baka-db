@@ -31,4 +31,3 @@ This vigorous routine is interrupted when the academy's cultural exchange progra
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/122838/Butai_Shoujo☆Kageki_Revue_Starlight__The_Live_2_-_Transition)
-    tion)

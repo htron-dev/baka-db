@@ -26,4 +26,3 @@ After graduating from their constant fighting, some magical girls were unable to
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/88592/Mei☆Company)
-    pany)

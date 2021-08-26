@@ -26,4 +26,3 @@ Someone out there is determined to see the fall of Weiss Kreuz, and it looks lik
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=582)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2859)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz)
-    uz)

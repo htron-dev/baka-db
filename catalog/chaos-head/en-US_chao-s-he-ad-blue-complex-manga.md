@@ -33,4 +33,3 @@ Takumi Nishijo suffers from intense delusions as a result of his apparent schizo
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21593/ChäoS_HEAd__Blue_Complex)
-    ex)

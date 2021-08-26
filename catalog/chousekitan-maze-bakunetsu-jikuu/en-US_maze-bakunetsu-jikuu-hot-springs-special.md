@@ -23,4 +23,3 @@ This is the missing Hot Springs episode included in the unrated boxset of Maze: 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=459)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=44)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Maze_%28anime%29)
-    e%29)

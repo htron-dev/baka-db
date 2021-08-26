@@ -24,4 +24,3 @@ Recap of first 6 episodes of Hatena☆Illusion.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13037)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22390)
 -   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%A6%E3%81%AA%E2%98%86%E3%82%A4%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3!)
-    %B3!)

@@ -24,5 +24,3 @@ Silent Sky is a combination of the additional episodes 13 and 14. It consists of
 -   [Official Site](http://chaoschildanime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13057)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22096)
-
-96.

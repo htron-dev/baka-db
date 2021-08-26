@@ -39,4 +39,3 @@ Can I succeed, or will my best high school life ...!!
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/128538/Watashi_ga_Koibito_ni_Nareru_Wake_Nai_jan_Muri_Muri_※Muri_ja_Nakatta)
-    atta)

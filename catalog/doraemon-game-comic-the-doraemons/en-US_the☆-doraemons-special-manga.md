@@ -27,4 +27,3 @@ Another journey of The Doraemons. This series have a very major difference with 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/76175/The☆Doraemons_Special)
-    cial)

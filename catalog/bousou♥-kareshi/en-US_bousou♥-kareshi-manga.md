@@ -27,4 +27,3 @@ Bousou Kareshi features many other stories. Included is Keitachi's meeting with 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/18111/Bousou♥Kareshi)
-    eshi)

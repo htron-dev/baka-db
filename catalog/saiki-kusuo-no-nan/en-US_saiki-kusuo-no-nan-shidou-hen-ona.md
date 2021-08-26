@@ -26,4 +26,3 @@ Kusuo Saiki is a high school student who possesses a wide range of psychic abili
 -   [Official Site](https://www.saikikusuo.com/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14797)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22601)
-    =22601)

@@ -31,4 +31,3 @@ Along with the Student Council and the odd family member, they strive to enjoy t
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8844)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14317)
 -   [Wikipedia](http://en.wikipedia.org/wiki/YuruYuri)
-    i/YuruYuri)

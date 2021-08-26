@@ -27,4 +27,3 @@ Falulu is far away in the heart of the PriPara world in Puransu. The sparkle is 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11729)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18074)
 -   [Wikipedia](http://en.wikipedia.org/wiki/PriPara)
-    ki/PriPara)

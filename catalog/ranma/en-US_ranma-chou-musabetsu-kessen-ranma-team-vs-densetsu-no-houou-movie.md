@@ -29,4 +29,3 @@ Kuno purchases a strange egg, believing that the mysterious powers of the legend
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2850)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3261)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Ranma_%C2%BD)
-    BD)

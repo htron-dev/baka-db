@@ -28,4 +28,3 @@ After meeting with his father who has been apart from him ever since he was an i
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/24444/≠)
-    9%A0)

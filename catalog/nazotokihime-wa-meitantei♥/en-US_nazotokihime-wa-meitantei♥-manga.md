@@ -23,4 +23,3 @@ The story centers around Hinami, a bookish, eyeglasses-wearing girl, and her two
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/43369/Nazotokihime_wa_Meitantei♥)
-    9%A5)

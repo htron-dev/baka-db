@@ -22,4 +22,3 @@ Manga based on Pokémon Mystery Dungeon: Explorers of Time and Explorers of Dark
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/24234/Pokémon_Fushigi_no_Dungeon__Honoo_no_Tankentai)
-    ai)

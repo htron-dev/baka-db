@@ -37,4 +37,3 @@ Mirumo, it seems, is prince of the muglox world. Horrified at the prospect of ha
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1063)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=935)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Mirmo_Zibang%21)
-    g%21)

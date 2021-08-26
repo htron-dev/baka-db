@@ -29,4 +29,3 @@ Hikari and Karen watched "Starlight" when they were young, and promised to stand
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/115887/Butai_Shoujo☆Kageki_Revue_Starlight__The_Live_-_Show_Must_Go_On)
-    o_On)

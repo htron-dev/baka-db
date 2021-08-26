@@ -24,4 +24,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/9840/Lovely♥Lesson__Hair_Make-hen)
-    -hen)

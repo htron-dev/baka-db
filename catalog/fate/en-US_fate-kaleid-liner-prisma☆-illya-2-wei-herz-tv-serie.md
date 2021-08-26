@@ -28,4 +28,3 @@ Based on the Fate/Kaleid Liner Prisma☆Illya 2wei! manga by Hiroshi Hiroyama, w
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10833)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16275)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya)
-    llya)

@@ -3,7 +3,7 @@
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6
--   **original-name**: 俺 スペース☆ダンディ
+-   **original-name**: 俺 スペース ☆ ダンディ
 -   **start-date**: 2014-06-22
 -   **end-date**: 2014-06-22
 
@@ -28,4 +28,3 @@ Space Dandy is an easygoing and forgetful alien hunter always on the lookout for
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/93551/Ore_Space☆Dandy)
-andy)

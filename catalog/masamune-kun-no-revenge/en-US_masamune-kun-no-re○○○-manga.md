@@ -21,4 +21,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/135602/Masamune-kun_no_Re○○○)
-    2%97%8B%E2%97%8B)

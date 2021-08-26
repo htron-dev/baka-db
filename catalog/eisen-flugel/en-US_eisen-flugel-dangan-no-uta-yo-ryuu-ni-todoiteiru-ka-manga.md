@@ -27,4 +27,3 @@ In a world where dragons rule the skies, mankind still dreams of flight, of some
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/92956/Eisen_Flügel__Dangan_no_Uta_yo_Ryuu_ni_Todoiteiru_ka)
-    ka)

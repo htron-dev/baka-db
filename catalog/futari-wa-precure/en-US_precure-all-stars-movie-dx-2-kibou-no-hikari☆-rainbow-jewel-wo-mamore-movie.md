@@ -26,4 +26,3 @@ Tsubomi Hanasaki is woken by her best friend Erika Kurumi only to find out that 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7290)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11203)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Pretty_Cure)
-    Cure)

@@ -24,4 +24,3 @@ The first installment of the new Uta no☆Prince-sama♪ original film series.
 -   [Official Site](http://utapri-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16173)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Uta_no_Prince-sama#Films)
-    rince-sama#Films)

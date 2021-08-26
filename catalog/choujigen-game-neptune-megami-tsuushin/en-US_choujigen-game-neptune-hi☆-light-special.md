@@ -25,4 +25,3 @@ Compilation of Choujigen Game Neptune The Animation.
 -   [Official Site](http://nep-anime.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15000)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Hyperdimension_Neptunia)
-    unia)

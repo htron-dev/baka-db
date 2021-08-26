@@ -24,4 +24,3 @@ The problem is how to get Hiei to do the same.
 
 -   [My Anime list](https://myanimelist.net/anime/6964/Yuu☆Yuu☆Hakusho_Picture_Drama)
 -   [Wikipedia](http://en.wikipedia.org/wiki/YuYu_Hakusho)
-    Yu_Hakusho)

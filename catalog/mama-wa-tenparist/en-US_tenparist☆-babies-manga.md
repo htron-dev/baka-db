@@ -19,4 +19,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/94678/Tenparist☆Babies)
-    bies)

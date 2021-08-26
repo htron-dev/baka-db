@@ -24,4 +24,3 @@ Specials bundled with each of all five Blu-ray/DVD volumes.
 -   [Official Site](http://prisma-illya.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9042)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya)
-    llya)

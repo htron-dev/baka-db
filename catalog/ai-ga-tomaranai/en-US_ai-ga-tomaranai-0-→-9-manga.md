@@ -33,4 +33,3 @@ These are in full-color, with two being fairy tale stories, and one is a six-pag
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11247/AI_ga_Tomaranai_0→9)
-    %929)

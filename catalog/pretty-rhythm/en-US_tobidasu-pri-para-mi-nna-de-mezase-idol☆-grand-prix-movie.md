@@ -23,4 +23,3 @@ The 2nd PriPara film, unlike the first this shown in stereoscopic 3D.
 -   [Official Site](http://www.pp-movie.com/02/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11294)
 -   [Wikipedia](http://en.wikipedia.org/wiki/PriPara)
-    Para)

@@ -25,5 +25,3 @@ Unaired episodes included with the Blu-ray volumes.
 -   [My Anime list](https://myanimelist.net/anime/37866/Uchuu_Senkan_Tiramisù_Specials)
 -   [Official Site](http://www.tiramisu-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13426)
-
-26.

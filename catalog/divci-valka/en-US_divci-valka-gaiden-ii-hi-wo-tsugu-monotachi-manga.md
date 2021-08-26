@@ -24,4 +24,3 @@ It is the 1440s and the Kingdom of Hungary is on the brink of civil war followin
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/127762/Dívčí_Válka_Gaiden_II__Hi_wo_Tsugu_Monotachi)
-    sugu_Monotachi)

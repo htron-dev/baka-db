@@ -21,4 +21,3 @@ Kaichou wa Maid-sama! special that was included on a DVD released with the LaLa 
 -   [My Anime list](https://myanimelist.net/anime/10298/Kaichou_wa_Maid-sama__Goshujinsama_to_Asonjao♥)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7008)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Maid-sama!)
-    ama!)

@@ -21,4 +21,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/115612/Skyhigh__Hévәn)
-    D3%99n)

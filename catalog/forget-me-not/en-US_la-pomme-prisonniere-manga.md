@@ -25,4 +25,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/45495/La_Pomme_Prisonnière)
-    re)

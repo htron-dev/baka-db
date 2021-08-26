@@ -28,4 +28,3 @@ Yuusei and Jaden agree to pursue Paradox, which leads them to the past and cause
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7036)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11395)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!_3D:_Bonds_Beyond_Time)
-    eyond_Time)

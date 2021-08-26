@@ -25,4 +25,3 @@ High-school freshman Komari needs to find a dorm to stay in and ends up living a
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11187/Gokujou♥Drops)
-    rops)

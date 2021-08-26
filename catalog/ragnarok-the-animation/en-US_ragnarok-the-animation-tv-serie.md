@@ -30,4 +30,3 @@ Monsters are afoot and the way rife with danger and magic, the path forward may 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1523)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3563)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Ragnarok_the_Animation)
-    on)

@@ -25,4 +25,3 @@ Kurokawa Lisa is an ordinary office worker, who has practiced lots of cooking wh
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/83259/Isekai_de_Café_wo_Kaiten_shimashita)
-    ta)

@@ -21,4 +21,3 @@ MILPOM★ will be stop motion shorts that feature dolls in a surreal world for g
 
 -   [My Anime list](https://myanimelist.net/anime/30438/MILPOM★_Pilot)
 -   [Official Site](http://milpom.com)
-    .com)

@@ -4,13 +4,12 @@
 -   **volumes**: 2
 -   **chapters**: 9
 -   **original-name**: あいつと俺。
--   **end-date**: Invalid date
 
 ## Tags
 
 -   drama
 -   school
--   shounen ai
+-   shounen-ai
 
 ## Authors
 

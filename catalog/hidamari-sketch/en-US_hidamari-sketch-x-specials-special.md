@@ -27,4 +27,3 @@ No synopsis information has been added to this title. Help improve our database 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7128)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11047)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Hidamari_Sketch)
-    /Hidamari_Sketch)

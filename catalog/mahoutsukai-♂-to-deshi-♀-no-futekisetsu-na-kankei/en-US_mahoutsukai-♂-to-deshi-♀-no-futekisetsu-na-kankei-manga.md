@@ -32,4 +32,3 @@ Hard working, level 1 magician Konoha is apprenticed to lazy Knight Protector Sa
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/13922/Mahoutsukai_♂_to_Deshi_♀_no_Futekisetsu_na_Kankei)
-    \_na_Kankei)

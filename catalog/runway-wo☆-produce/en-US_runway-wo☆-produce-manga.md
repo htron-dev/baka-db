@@ -23,4 +23,3 @@ The story of the success of an event producer.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/25558/Runway_wo☆Produce)
-    duce)

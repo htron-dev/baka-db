@@ -29,4 +29,3 @@ The OVA includes a popular chapter that was not adapted in the TV series.
 -   [Official Site](http://betsuma.shueisha.co.jp/content/ookami_oad.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10919)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Wolf_Girl_and_Black_Prince)
-    ince)

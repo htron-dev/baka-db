@@ -22,4 +22,3 @@ Ukkari Penelope is about a young koala's daily adventures. The narrator is Mamik
 -   [Official Site](http://www.penelope.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7035)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10913)
-    =10913)

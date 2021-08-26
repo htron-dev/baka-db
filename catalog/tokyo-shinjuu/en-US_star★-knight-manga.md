@@ -16,4 +16,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/70759/Star★Knight)
-    ight)

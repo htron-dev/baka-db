@@ -18,4 +18,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/95847/Clover_Trèfle)
-    le)

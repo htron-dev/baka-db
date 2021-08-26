@@ -28,4 +28,3 @@
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1608)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2760)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!)
-    /Yu-Gi-Oh!)

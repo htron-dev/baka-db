@@ -19,4 +19,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/121650/Ookini_Kanjani∞)
-    8%9E)

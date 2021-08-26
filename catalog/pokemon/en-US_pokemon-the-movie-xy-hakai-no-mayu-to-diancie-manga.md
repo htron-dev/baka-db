@@ -26,4 +26,3 @@ In the underground Diamond Domain, where many Carbink live, the Mythical Pokémo
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/86412/Pokémon_the_Movie_XY__Hakai_no_Mayu_to_Diancie)
-    ie)

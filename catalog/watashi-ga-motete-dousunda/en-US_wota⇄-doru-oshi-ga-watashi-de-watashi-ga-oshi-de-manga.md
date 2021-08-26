@@ -27,4 +27,3 @@ High-school girl Azusa Asahina has an attractive figure, top grades, and is reco
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/121712/Wota⇄Doru__Oshi_ga_Watashi_de_Watashi_ga_Oshi_de)
-    i_de)

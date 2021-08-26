@@ -24,4 +24,3 @@ On their way to a singing contest, Mai and Saki meet a mysterious man looking fo
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4844)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6437)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/映画_ふたりはプリキュア_Splash_Star_チクタク危機一髪!)
-    髪!)

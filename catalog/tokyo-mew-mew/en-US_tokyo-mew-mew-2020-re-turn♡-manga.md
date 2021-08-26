@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/124642/Tokyo_Mew_Mew__2020_Re-Turn♡)
-    9%A1)

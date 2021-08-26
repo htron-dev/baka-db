@@ -28,4 +28,3 @@ Second season of Isekai Maou to Shoukan Shoujo no Dorei Majutsu.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15493)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23505)
 -   [Wikipedia](https://en.wikipedia.org/wiki/How_Not_to_Summon_a_Demon_Lord#Anime)
-    me)

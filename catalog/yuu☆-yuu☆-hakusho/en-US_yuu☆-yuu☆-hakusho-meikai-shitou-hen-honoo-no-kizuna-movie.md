@@ -30,4 +30,3 @@ Millennia ago, a war was fought between the Netherworld and the Spirit World. Ul
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=753)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=713)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/幽☆遊☆白書_冥界死闘篇_炎の絆)
-    \_炎の絆)

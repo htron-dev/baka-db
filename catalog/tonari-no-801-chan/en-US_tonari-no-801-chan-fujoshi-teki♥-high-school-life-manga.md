@@ -28,4 +28,3 @@ Junior high school student Rei Hoshino, a fujoshi who does not especially have a
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/9113/Tonari_no_801-chan__Fujoshi-teki♥High_School_Life)
-    Life)

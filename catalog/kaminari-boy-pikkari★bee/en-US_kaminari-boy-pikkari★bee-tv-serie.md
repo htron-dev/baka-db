@@ -28,4 +28,3 @@ Based on a manga by Murotani Tsunezou.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5090)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=182)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BF%E3%81%AA%E3%82%8A%E5%9D%8A%E3%82%84%E3%83%94%E3%83%83%E3%82%AB%E3%83%AA%E3%83%BB%E3%83%93%E3%83%BC)
-    3%BC)

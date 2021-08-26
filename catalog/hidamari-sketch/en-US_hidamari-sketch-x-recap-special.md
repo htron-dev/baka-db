@@ -19,4 +19,3 @@ Recap of Hidamari Sketch x ☆☆☆ series included on the limited edition Blu-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/28915/Hidamari_Sketch_x_☆☆☆_Recap)
-    6%E2%98%86_Recap)

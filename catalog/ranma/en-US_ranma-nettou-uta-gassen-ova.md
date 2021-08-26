@@ -23,5 +23,3 @@ A two-part music OVA series never released outside of Japan featuring the main R
 
 -   [My Anime list](https://myanimelist.net/anime/6713/Ranma_½__Nettou_Uta_Gassen)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6393)
-
-93.

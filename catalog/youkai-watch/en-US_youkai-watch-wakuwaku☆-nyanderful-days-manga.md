@@ -22,4 +22,3 @@ A young girl is browsing an antique shop when she comes across some youkai. At f
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/92749/Youkai_Watch__Wakuwaku☆Nyanderful_Days)
-    Days)

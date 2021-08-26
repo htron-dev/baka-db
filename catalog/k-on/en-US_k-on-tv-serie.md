@@ -33,5 +33,4 @@ K-On!! revolves around the members of the Light Music Club as they experience th
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7307)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11262)
 -   [Wikipedia](http://en.wikipedia.org/wiki/K-On!#Anime)
-    dia/anime.php?id=10562)
 -   [Wikipedia](http://en.wikipedia.org/wiki/K-On!)

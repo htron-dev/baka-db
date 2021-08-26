@@ -28,4 +28,3 @@ New disasters for ESPer Saiki Kusuo… Nendou starts talking about Nietzsche, Ka
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/107295/Saiki_Kusuo_no_Ψ-nan__Extra_Story_of_Psychics)
-    cs)

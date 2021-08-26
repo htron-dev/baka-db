@@ -35,4 +35,3 @@ Set in 2100 A.D., where video games feel 99% like real life. Follow Feng Lan in 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/14064/½_Prince)
-    ce)

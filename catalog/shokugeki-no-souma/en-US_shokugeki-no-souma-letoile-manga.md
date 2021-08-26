@@ -29,4 +29,3 @@ Shokugeki no Souma: L'étoile focuses on Kojirou's self-reinvention following th
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/86757/Shokugeki_no_Souma__Létoile)
-    le)

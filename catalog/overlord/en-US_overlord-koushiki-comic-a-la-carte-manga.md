@@ -47,4 +47,3 @@ An anthology comic of Overlord by various mangaka.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/117956/Overlord__Koushiki_Comic_à_la_Carte)
-    te)

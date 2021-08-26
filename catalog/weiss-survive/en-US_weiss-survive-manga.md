@@ -22,4 +22,3 @@ The story follows the main characters Takeshi and Michi as they get lost in the 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/13784/Weiß_Survive)
-    ve)

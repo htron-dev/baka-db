@@ -32,4 +32,3 @@ But Barasuishou is a mystery even to her sisters, none of whom have ever laid ey
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3169)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5087)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Rozen_Maiden_Tra%C3%BCmend)
-    nd)

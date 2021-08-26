@@ -26,4 +26,3 @@ Volume 19: Lingerie Kyousokyoku (3 parts)
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/90123/Minna_Agechau♥)
-    9%A5)

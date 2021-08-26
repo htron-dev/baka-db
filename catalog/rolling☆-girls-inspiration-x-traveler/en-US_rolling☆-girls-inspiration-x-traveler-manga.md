@@ -27,4 +27,3 @@ Ten years after the Great Tokyo War, each prefecture in Japan has split up into 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/81425/Rolling☆Girls__Inspiration_x_Traveler)
-    eler)

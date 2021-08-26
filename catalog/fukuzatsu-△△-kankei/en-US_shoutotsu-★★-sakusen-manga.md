@@ -26,4 +26,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/112023/Shoutotsu_★★_Sakusen)
-    85_Sakusen)

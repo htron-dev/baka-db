@@ -27,4 +27,3 @@ Miami Guns is an action/parody manga about Sakurakouji Yao and Amano Lu, two tee
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/15088/Miami☆Guns)
-    Guns)

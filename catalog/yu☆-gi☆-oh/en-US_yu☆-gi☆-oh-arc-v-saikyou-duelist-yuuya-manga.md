@@ -26,4 +26,3 @@ A spin-off of Yu☆Gi☆Oh! Arc-V aimed at a younger audience with an original s
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/126238/Yu☆Gi☆Oh_Arc-V__Saikyou_Duelist_Yuuya)
-    list_Yuuya)

@@ -25,4 +25,3 @@ During the day, Hiori works at the bread shop Sun-Sun. His co-worker, Nazuna, is
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/10746/Kaitou_Pokémon_7)
-    \_7)

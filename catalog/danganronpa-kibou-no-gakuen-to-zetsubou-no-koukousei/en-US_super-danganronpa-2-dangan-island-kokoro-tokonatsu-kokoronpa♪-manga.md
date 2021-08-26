@@ -24,4 +24,3 @@ What Danganronpa 2 would have been like if Monokuma didn't defeat Usami.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/51575/Super_Danganronpa_2__Dangan_Island_Kokoro_Tokonatsu_Kokoronpa♪)
-    9%AA)

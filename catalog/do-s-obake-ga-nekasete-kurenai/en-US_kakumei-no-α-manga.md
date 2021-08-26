@@ -31,4 +31,3 @@ Note: Gunpuku no Order was collected in Choukyou Kakusei BL.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/136118/Kakumei_no_α)
-    B1)

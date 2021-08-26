@@ -27,4 +27,3 @@ A spin-off centering on Lu Bu Fengxiang.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/125764/Shuumatsu_no_Walküre__Lu_Bu_Housen_Hishouden)
-    en)

@@ -28,4 +28,3 @@ Second Season of Kiratto Pri☆chan, adding one more idol.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13752)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21793)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Kiratto_Pri_Chan#Anime)
-    nime)

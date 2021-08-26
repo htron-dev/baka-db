@@ -31,5 +31,4 @@ Of course, limiting the fun to a four-way might get a little stale; although the
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10197)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15694)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Seitokai_Yakuindomo)
-    k.com/encyclopedia/anime.php?id=11476)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Seitokai_Yakuindomo)

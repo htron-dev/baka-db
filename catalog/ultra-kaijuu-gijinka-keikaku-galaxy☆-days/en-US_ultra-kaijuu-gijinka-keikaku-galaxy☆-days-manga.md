@@ -20,4 +20,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/115037/Ultra_Kaijuu_Gijinka_Keikaku__Galaxy☆Days)
-    Days)

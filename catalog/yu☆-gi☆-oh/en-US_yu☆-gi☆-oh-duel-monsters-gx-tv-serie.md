@@ -34,4 +34,3 @@ Yu☆Gi☆Oh!: Duel Monsters GX follows the story of Juudai as he strives to ful
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2766)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4481)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!)
-    /Yu-Gi-Oh!)

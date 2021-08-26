@@ -29,4 +29,3 @@ Then one day, Tomoe Yoh arrived, transferring from France. From awkward beginnin
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/55141/Starry☆Sky__In_Spring)
-    ring)

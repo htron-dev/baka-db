@@ -24,4 +24,3 @@ A special made before the rest of the KOR anime to test the possibility of makin
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7589)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7163)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Kimagure_Orange_Road)
-    Road)

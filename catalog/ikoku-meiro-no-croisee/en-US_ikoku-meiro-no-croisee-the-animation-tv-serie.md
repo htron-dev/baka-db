@@ -26,4 +26,3 @@ The story takes place in the second half of the 19th century, as Japanese cultur
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8180)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12222)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Crois%C3%A9e_in_a_Foreign_Labyrinth)
-    th)

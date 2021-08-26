@@ -27,4 +27,3 @@ The OVA features six separate stories revolving around the cast, some of which b
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5932)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9842)
 -   [Wikipedia](<http://en.wikipedia.org/wiki/Lucky_Star_(manga)>)
-    nga))

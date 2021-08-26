@@ -29,4 +29,3 @@ The main character finds himself on an almost impossible mission, and discovers 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/4143/Pokémon_Ranger__the_Comic)
-    ic)

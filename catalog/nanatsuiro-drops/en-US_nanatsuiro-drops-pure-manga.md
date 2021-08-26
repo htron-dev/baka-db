@@ -24,4 +24,3 @@ Based on the PS2 version.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/18884/Nanatsuiro★Drops_Pure)
-    Pure)

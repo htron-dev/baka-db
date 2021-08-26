@@ -28,4 +28,3 @@ Collection of short stories featuring characters from the otome game Starry☆Sk
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/35233/Starry☆Sky__Four_Seasons_-_Anthology)
-    logy)

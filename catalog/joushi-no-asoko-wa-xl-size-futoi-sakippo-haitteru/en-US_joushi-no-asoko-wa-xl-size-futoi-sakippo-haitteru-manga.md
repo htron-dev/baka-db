@@ -23,4 +23,3 @@ Running short of money, office lady Saki Watase is introduced to a part-time job
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/121391/Joushi_no_Asoko_wa_XL_Size_Futoi_Sakippo…_Haitteru)
-    teru)

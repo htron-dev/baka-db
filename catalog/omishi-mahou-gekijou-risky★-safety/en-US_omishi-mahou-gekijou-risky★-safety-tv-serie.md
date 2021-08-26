@@ -26,4 +26,3 @@ An apprentice shinigami (Japanese Death God), Risky, is determined to take Moe's
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=971)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1168)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Omishi_Magical_Theater:_Risky_Safety)
-    fety)

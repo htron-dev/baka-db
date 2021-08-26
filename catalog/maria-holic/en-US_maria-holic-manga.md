@@ -27,4 +27,3 @@ The story centers on a sophomore named Kanako who enrolls in all-girls school be
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/7342/Maria†Holic)
-    olic)

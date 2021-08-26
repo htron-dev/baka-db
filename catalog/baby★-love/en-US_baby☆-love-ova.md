@@ -22,4 +22,3 @@ Seara loved Shuhei ever since she was a little girl. Although, Shuhei was three 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2005)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4757)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%93%E3%82%A3%E2%98%85LOVE)
-    LOVE)

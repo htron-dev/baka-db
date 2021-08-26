@@ -27,4 +27,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21439/Starry☆Sky__In_Summer_-_4-koma_Anthology)
-    logy)

@@ -28,4 +28,3 @@ What sort of ruckus will these five cause today?
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/31299/Café_Kichijouji_de_-_Niban_Senji)
-    ji)

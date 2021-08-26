@@ -31,4 +31,3 @@ A card that surpasses the Three Mythic Gods!? Kaiba has obtained a mysterious ca
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/12849/Yu☆Gi☆Oh_Duel_Monsters__Hikari_no_Pyramid)
-    no_Pyramid)

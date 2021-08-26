@@ -25,4 +25,3 @@ Screened simultaneously with Doraemon Movie 25: Nobita no Wan Nyan Jikuudeni and
 -   [My Anime list](https://myanimelist.net/anime/29611/Pa-Pa-Pa_the_★_Movie__Perman_-_Tako_de_Pon_Ashi_wa_Pon)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9027)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Perman_%28manga%29)
-    a%29)

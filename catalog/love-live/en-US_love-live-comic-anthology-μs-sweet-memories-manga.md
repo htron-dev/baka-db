@@ -33,4 +33,3 @@ An anthology of stories centered around the idol band μ's by various mangakas.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/130408/Love_Live_Comic_Anthology_μs_Sweet__Memories)
-    es)

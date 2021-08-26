@@ -29,4 +29,3 @@ Haruka is busy working at the agency so she can't help the idols with the prepar
 -   [Official Site](http://archive2000.utapri.tv/sales-news/dvd.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8921)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Uta_no_Prince-sama#Anime)
-    sama#Anime)

@@ -27,4 +27,3 @@ Hitori Bocchi suffers from extreme social anxiety, she's not good at talking to 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/89467/Hitoribocchi_no_○○_Seikatsu)
-    B_Seikatsu)

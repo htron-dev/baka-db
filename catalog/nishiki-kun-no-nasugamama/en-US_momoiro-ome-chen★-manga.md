@@ -31,4 +31,3 @@ Volume 2: Kagakushitsu no Himegoto
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/96405/Momoiro_Ome-Chen★)
-    8%85)

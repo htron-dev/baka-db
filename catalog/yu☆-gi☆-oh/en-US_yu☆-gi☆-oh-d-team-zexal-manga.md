@@ -29,4 +29,3 @@ In this story, Yuma Tsukumo, Tori Meadows, Caswell Todoroki, and Bronk Stone for
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/48517/Yu☆Gi☆Oh__D_Team_Zexal)
-    Team_Zexal)

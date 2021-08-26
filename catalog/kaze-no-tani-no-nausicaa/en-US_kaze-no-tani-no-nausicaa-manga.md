@@ -32,4 +32,3 @@ Set against the backdrop of a devastated world, Kaze no Tani no Nausicaä depict
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/651/Kaze_no_Tani_no_Nausicaä)
-    A4)

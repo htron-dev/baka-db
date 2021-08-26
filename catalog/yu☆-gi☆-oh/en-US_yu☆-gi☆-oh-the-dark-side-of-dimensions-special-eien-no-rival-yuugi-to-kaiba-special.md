@@ -23,4 +23,3 @@ A summary special hosted by Jounouchi and Mokuba discussing the rivalry between 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10963)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16671)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Yu-Gi-Oh!:_The_Dark_Side_of_Dimensions)
-    Dimensions)

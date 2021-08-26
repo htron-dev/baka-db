@@ -27,4 +27,3 @@ Kirari Tsukishima is a beautiful yet gluttonous 14-year-old girl. While those ar
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/3474/Kirarin☆Revolution)
-    tion)

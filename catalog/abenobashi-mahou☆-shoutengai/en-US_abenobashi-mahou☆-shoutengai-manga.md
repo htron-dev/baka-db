@@ -33,4 +33,3 @@ However, this little neighborhood has some surprises under its concrete—it's a
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/72/Abenobashi_Mahou☆Shoutengai)
-    ngai)

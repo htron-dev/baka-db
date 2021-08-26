@@ -34,4 +34,3 @@ An epic fantasy on the grandest of scales!
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/101579/Übel_Blatt_0)
-    \_0)

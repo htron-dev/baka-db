@@ -24,4 +24,3 @@ Episodes 11 and 12 of Märchen Mädchen, included on the sixth Blu-ray/DVD volum
 -   [Official Site](http://maerchen-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13309)
 -   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%89%E3%83%98%E3%83%B3)
-    %83%B3)

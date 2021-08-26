@@ -24,4 +24,3 @@ No synopsis information has been added to this title. Help improve our database 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15565)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23852)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Fate/Kaleid_Liner_Prisma_Illya)
-    llya)

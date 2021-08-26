@@ -28,4 +28,3 @@ Second season of Uchuu Senkan Tiramisù.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14187)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21136)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Space_Battleship_Tiramisu)
-    su)

@@ -24,4 +24,3 @@ Shouma, a new kid who moved to Tokyo with his sister, learns how to make friends
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/120721/Yu☆Gi☆Oh__OCG_Structures)
-    Structures)

@@ -29,4 +29,3 @@ A spin-off of the anime series Macross Δ. Takes place 5 years prior to the even
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/99411/Macross_Δ_Gaiden__Macross_E)
-    \_E)

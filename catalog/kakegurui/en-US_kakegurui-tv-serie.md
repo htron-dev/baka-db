@@ -33,5 +33,4 @@ Upon receiving news of this development, the Momobami branch families spring int
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13718)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21292)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Kakegurui_%E2%80%93_Compulsive_Gambler)
-    ime.php?id=19102)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Kakegurui_%E2%80%93_Compulsive_Gambler)

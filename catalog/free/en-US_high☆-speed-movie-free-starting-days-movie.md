@@ -32,4 +32,3 @@ As determination and talent run high, witness Haruka and Makoto—along with the
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11155)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16898)
 -   [Wikipedia](<http://en.wikipedia.org/wiki/Free!_(anime)>)
-    ime))

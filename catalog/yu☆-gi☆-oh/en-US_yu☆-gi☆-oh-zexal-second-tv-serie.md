@@ -33,4 +33,3 @@ Yu☆Gi☆Oh! Zexal Second unveils the mysteries and unpleasant surprises that l
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9400)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14736)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!_Zexal)
-    -Oh!\_Zexal)

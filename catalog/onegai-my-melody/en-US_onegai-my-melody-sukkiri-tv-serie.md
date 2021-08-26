@@ -26,4 +26,3 @@ The third series of Onegai My Melody.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5158)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7866)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Onegai_My_Melody)
-    lody)

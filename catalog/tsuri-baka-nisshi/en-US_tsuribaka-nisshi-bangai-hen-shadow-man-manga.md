@@ -19,4 +19,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/133739/Tsuribaka_Nisshi​_Bangai-hen__Shadow_Man)
-    \_Man)

@@ -25,4 +25,3 @@ The sequel to Gorgeous Carat and Gorgeous Carat Galaxy.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/10498/Gorgeous_Carat__La_Esperanza_–_Kibou_no_Seibo)
-    eibo)

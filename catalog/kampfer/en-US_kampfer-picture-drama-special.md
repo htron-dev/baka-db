@@ -20,4 +20,3 @@ A very special episode included with the Blu-ray release. The Entrails Animals a
 -   [Official Site](http://www.starchild.co.jp/special/kenpu/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6685)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Kenpufer)
-    er)

@@ -30,4 +30,3 @@ Comic anthology featuring the characters from the otome game Starry☆Sky: In Su
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/17532/Starry☆Sky__In_Summer_-_Comic_Anthology)
-    logy)

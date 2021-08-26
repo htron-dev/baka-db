@@ -34,9 +34,5 @@ Hitching a ride on Sakamoto's space ship, the Yorozuya and Katsura set out for R
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12419)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18901)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Gin_Tama)
-    imenewsnetwork.com/encyclopedia/anime.php?id=12835)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Gin_Tama)
-
-4.
-
 -   [Wikipedia](http://en.wikipedia.org/wiki/Gin_Tama)

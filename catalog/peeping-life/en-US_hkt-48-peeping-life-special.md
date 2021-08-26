@@ -21,4 +21,3 @@ A dream collaboration with the Fukuoka-originated popular CG animation "Peeping 
 -   [My Anime list](https://myanimelist.net/anime/48919/HKT48_×_Peeping_Life)
 -   [Official Site](https://youtu.be/23ratWagJWI)
 -   [Wikipedia](https://ja.wikipedia.org/wiki/Peeping_Life#)
-    e#)

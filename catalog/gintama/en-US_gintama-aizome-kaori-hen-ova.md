@@ -28,5 +28,3 @@ Of those affected is the cold-hearted Hyakka captain, Tsukuyo, and the first per
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/gintama/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11850)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_%28%E3%82%A2%E3%83%8B%E3%83%A1%29)
-
-29.

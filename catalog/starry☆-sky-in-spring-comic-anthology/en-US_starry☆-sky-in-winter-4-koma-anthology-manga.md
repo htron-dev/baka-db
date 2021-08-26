@@ -25,4 +25,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21508/Starry☆Sky__In_Winter_-_4-koma_Anthology)
-    logy)

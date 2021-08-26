@@ -31,4 +31,3 @@ Remake of original manga. Set two years after the end of Cat's Eye, the story fo
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/58217/Cats♥Eye)
-    5Eye)

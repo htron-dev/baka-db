@@ -26,4 +26,3 @@ Having finished his training in Paris, Ren Sajima returns to Japan to work as a 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/118341/Bartender_à_Tokyo)
-    yo)

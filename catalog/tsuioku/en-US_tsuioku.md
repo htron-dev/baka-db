@@ -25,7 +25,8 @@ A collection of oneshots:
 
 -   Start Line (4 chapters)
     Kei has drifted apart from his childhood friend, Hayato. When Hayato began to surpass Kei instead of following behind him, Kei started seeing his old friend in a new light. Feeling the wind, love is on the track team!
-    (Source: Blissful Sin)
+
+(Source: Blissful Sin)
 
 ## Links
 

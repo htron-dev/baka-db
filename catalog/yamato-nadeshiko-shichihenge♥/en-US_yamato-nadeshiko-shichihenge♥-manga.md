@@ -30,4 +30,3 @@ Enter Sunako Nakahara, the agoraphobic, horror-movie-loving, pockmark-faced, fri
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/422/Yamato_Nadeshiko_Shichihenge♥)
-    9%A5)

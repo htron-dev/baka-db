@@ -28,4 +28,3 @@ The Astronomy Club of the protagonist Sou Akiyama is filled with the big names o
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/82339/Ushinawareta_Mirai_wo_Motomete)
-    nga/83643/Ushinawareta_Mirai_wo_Motomete)

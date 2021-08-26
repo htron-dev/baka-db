@@ -19,4 +19,3 @@ Mini anime of Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω airing on the of
 
 -   [My Anime list](https://myanimelist.net/anime/48615/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Ω_Mini_Anime)
 -   [Official Site](https://isekaimaou-anime.com/)
-    m/)

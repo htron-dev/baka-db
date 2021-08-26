@@ -26,4 +26,3 @@ High school girl Eri has a strong and pure heart. One day, she is suddenly summo
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/129425/Shuumatsu_no_Harem__Britannia_Lumiére)
-    re)

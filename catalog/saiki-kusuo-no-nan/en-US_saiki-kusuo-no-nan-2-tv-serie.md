@@ -30,4 +30,3 @@ The disastrous life of the gifted psychic Kusuo Saiki continues, despite his utm
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12691)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20177)
 -   [Wikipedia](https://en.wikipedia.org/wiki/The_Disastrous_Life_of_Saiki_K.)
-    K.)

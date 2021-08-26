@@ -28,4 +28,3 @@ Novel adaption of the manga series. According to Rika Tanaka in an author's note
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/17789/Kilala☆Princess)
-    cess)

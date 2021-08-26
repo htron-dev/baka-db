@@ -29,4 +29,3 @@ Hiroyuki becomes obsessed with the concept of world domination, and begins to st
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/23805/Bokura_no☆Hikari_Club)
-    Club)

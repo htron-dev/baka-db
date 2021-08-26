@@ -31,4 +31,3 @@ And then Kyosuke has to take action to finally decide on the girl he loves... th
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=576)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=493)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Kimagure_Orange_Road)
-    Road)

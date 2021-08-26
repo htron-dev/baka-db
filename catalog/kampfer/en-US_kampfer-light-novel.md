@@ -30,4 +30,3 @@ Kämpfer - One who exists to fight. Anyone chosen as a Kämpfer will be forced t
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11607/Kämpfer)
-    er)

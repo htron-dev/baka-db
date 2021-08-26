@@ -20,4 +20,3 @@ Special episode of Yumeiro Pâtissière shown at the Ribon event along with Hiyo
 -   [My Anime list](https://myanimelist.net/anime/8894/Yume-iro_Pâtissière__Mune_Kyun_Tropical_Island)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6966)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yumeiro_Patissiere)
-    ssiere)

@@ -27,4 +27,3 @@ Aya, Youji, Ken, and Omi are the four young men who comprise Weiss Kreuz (WK), a
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=583)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=254)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz)
-    uz)

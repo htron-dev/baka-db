@@ -26,4 +26,3 @@
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2995)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=200)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Ranma_%C2%BD)
-    BD)

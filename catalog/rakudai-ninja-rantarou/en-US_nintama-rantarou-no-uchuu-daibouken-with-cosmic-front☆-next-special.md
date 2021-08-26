@@ -20,5 +20,3 @@ A series of educational collaboration specials between Nintama Rantarou and the 
 -   [My Anime list](https://myanimelist.net/anime/32773/Nintama_Rantarou_no_Uchuu_Daibouken_with_Cosmic_Front☆Next)
 -   [Official Site](http://www9.nhk.or.jp/anime/nintama/nintama-cosmic/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13220)
-
-3220.

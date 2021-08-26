@@ -22,4 +22,3 @@ Special bundled with the DVDs. Please note that this entry doesn't include any o
 -   [My Anime list](https://myanimelist.net/anime/7474/Onegai☆Teacher__Marie_Ai_no_Gekijou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Please_Teacher!)
-    her!)

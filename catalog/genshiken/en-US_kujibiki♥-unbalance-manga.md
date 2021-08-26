@@ -31,4 +31,3 @@ Chihiro has been cursed with bad luck all his life. But all that changes when he
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/4156/Kujibiki♥Unbalance)
-    ance)

@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/110197/Coffee-ten_Talleyrand_no_Jikenbo__Kanojo_wa_Café_au_Lait_no_Yume_wo_Miru)
-    ru)

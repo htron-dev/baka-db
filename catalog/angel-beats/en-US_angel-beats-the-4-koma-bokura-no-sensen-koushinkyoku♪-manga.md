@@ -21,4 +21,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/19672/Angel_Beats_The_4-koma__Bokura_no_Sensen_Koushinkyoku♪)
-    9%AA)

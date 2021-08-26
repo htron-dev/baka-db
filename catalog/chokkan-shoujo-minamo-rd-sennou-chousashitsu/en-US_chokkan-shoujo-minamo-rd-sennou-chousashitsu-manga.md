@@ -21,4 +21,3 @@ A spin-off of RD Sennou Chousashitsu centering around Minamo's adventures.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/25068/Chokkan_Shoujo☆Minamo__RD_Sennou_Chousashitsu)
-    itsu)

@@ -28,4 +28,3 @@ Takes place after the events of ChäoS;Child.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/110300/ChäoS_Child__Childrens_Revive)
-    ve)

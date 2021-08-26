@@ -25,4 +25,3 @@ Kanna strikes back with her plan to capture Chitose, this time getting rid off a
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=33)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=834)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Happy_Lesson)
-    ppy_Lesson)

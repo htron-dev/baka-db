@@ -23,5 +23,3 @@ ONA Special episode #11.5.
 -   [Official Site](http://pen-musu.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5800)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9598)
-
-9598.

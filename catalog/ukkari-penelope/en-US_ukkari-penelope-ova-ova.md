@@ -20,4 +20,3 @@ A Christmas OVA based on the European Pénélope picture books from Georg Hallen
 -   [Official Site](http://penelope.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7957)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8948)
-    d=8948)

@@ -25,4 +25,3 @@ Specials included in the anime's BD/DVD releases. The first disc release feature
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12743)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20010)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Laid-Back_Camp)
-    Camp)

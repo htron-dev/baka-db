@@ -21,4 +21,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/114390/Henkei_Shoujo__School☆Days)
-    Days)

@@ -29,4 +29,3 @@ Black Rock Shooter (in the game a "living weapon" designated with the name BRS),
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/42339/Black★Rock_Shooter__The_Game)
-    Game)

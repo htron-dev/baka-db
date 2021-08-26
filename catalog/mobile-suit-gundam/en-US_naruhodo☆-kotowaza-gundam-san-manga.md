@@ -24,4 +24,3 @@ Char Aznable and Lalah Sune demonstrate the meanings of various proverbs.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/16666/Naruhodo☆Kotowaza_Gundam-san)
-    -san)

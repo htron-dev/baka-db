@@ -24,4 +24,3 @@ According to HMV, the DVD & Blu-ray volume 7 of Ookiku Furikabutte ~Natsu no Tai
 -   [Official Site](http://www.oofuri.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7291)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Ookiku_Furikabutte#Anime)
-    nime)

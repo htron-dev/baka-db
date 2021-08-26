@@ -22,4 +22,3 @@ The adventures of two brothers interested in shakotan, or extremely lowered stre
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/24426/Shakotan★Boogie)
-    ogie)

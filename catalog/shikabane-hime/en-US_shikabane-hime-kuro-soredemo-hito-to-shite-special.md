@@ -27,4 +27,3 @@ This special follows the story of how Isaki Shuuji and Ruo Minai became Contract
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6227)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10417)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Shikabane_hime#Anime)
-    nime)

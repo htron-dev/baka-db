@@ -21,4 +21,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/60025/Lucky☆Star__Yuruyuru_Days)
-    Days)

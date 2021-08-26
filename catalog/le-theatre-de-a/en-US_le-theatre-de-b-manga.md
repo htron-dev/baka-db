@@ -38,4 +38,3 @@ A collection of Nakamura Asumiko's works previously published in Gothic & Lolita
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/20063/Le_Théâtre_de_B)
-    e_de_B)

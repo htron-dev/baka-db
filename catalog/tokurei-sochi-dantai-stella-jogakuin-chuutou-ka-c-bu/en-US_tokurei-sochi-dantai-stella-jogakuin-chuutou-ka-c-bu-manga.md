@@ -24,4 +24,3 @@ Students in the "C³" club at the middle school division of Stella Women's Acade
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/49245/Tokurei_Sochi_Dantai_Stella_Jogakuin_Chuutou-ka_C³-bu)
-    bu)

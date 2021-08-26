@@ -28,4 +28,3 @@ Shirou is now pressed with the choice to continue being a hero of justice—or b
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12420)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19029)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya)
-    llya)

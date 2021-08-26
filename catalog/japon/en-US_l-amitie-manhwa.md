@@ -25,4 +25,3 @@ The sequel to the critically-acclaimed Japan: As Viewed by 17 Creators takes the
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/13309/LAmitié)
-    A9)

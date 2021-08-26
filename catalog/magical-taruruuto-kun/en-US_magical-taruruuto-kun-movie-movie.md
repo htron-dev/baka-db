@@ -27,4 +27,3 @@ First movie of Magical Taruruuto-kun
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2085)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3675)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Magical_Tarurūto-kun)
-    -kun)

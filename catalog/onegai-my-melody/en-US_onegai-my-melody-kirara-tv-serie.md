@@ -26,4 +26,3 @@ Sequel to Onegai My Melody Sukkiri.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5852)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9600)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Onegai_My_Melody)
-    \_My_Melody)

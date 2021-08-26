@@ -18,4 +18,3 @@ Specials released with the Macross Δ Movie: Gekijou no Walküre Blu-ray.
 
 -   [My Anime list](https://myanimelist.net/anime/38676/Macross_Δ_Movie__Gekijou_no_Walküre_Specials)
 -   [Official Site](http://macross.jp/delta/bluraydvd/)
-    aydvd/)

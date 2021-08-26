@@ -22,5 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/117989/Yami_Kariudo_Δ)
-
-94.

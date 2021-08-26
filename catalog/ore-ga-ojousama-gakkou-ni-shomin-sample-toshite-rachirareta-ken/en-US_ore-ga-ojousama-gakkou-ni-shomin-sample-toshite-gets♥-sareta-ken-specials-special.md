@@ -25,4 +25,3 @@ Kujou-san no Do-S Soudanshitsu Anime-ban short anime specials bundled with the B
 -   [Official Site](http://syominsample-anime.jp/goods/bd.php)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10729)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%8C%E3%81%8A%E5%AC%A2%E6%A7%98%E5%AD%A6%E6%A0%A1%E3%81%AB%E3%80%8C%E5%BA%B6%E6%B0%91%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%80%8D%E3%81%A8%E3%81%97%E3%81%A6%E6%8B%89%E8%87%B4%E3%82%89%E3%82%8C%E3%81%9F%E4%BB%B6)
-    B%B6)

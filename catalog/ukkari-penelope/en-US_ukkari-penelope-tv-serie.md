@@ -24,4 +24,3 @@ Meet Penelope, the absent-minded young koala. Rarely seen without Deudeu – her
 -   [Official Site](http://www.penelope.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7027)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8947)
-    d=8947)

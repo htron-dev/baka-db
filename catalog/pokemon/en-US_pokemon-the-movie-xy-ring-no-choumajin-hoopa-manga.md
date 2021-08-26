@@ -20,4 +20,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/93549/Pokémon_the_Movie_XY__Ring_no_Choumajin_Hoopa)
-    pa)

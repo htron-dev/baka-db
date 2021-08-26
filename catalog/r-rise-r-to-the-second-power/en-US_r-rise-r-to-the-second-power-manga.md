@@ -28,4 +28,3 @@ This series is on hiatus.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/2110/R²__Rise_R_to_the_Second_Power)
-    er)

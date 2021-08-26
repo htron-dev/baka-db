@@ -24,4 +24,3 @@ Naoto Shimada is a yes man, a person who never says no to anything, who just got
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/111307/Momichupa_Oppub♂Time)
-    Time)

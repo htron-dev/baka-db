@@ -26,4 +26,3 @@ In a world where witches are shunned and have been forced onto the brink of anni
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/54763/Ochitekita_Nāga_to_Horobiyuku_Majo_no_Kuni)
-    ni)

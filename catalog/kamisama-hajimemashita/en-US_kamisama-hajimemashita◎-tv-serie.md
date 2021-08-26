@@ -35,4 +35,3 @@ As a fledgling god becoming more accustomed to divinity, Nanami finds herself de
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10763)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16255)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Kamisama_Kiss)
-    Kiss)

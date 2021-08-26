@@ -32,4 +32,3 @@ Volume 1: Pilot film of Murciélago
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/65705/Murciélago)
-    go)

@@ -22,4 +22,3 @@ Screened simultaneously with Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai.
 -   [My Anime list](https://myanimelist.net/anime/20185/Pa-Pa-Pa_the_★_Movie__Perman)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9026)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Perman)
-    rman)

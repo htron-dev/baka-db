@@ -25,4 +25,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/9838/Lovely♥Lesson__Chuukyuu-hen)
-    -hen)

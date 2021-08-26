@@ -27,4 +27,3 @@ Sumire is a 17 year old high school girl who wants nothing more than to make fri
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11942/Sumire♡17-sai)
-    -sai)

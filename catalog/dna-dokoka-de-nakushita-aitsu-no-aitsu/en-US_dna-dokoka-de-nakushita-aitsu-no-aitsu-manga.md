@@ -30,4 +30,3 @@ Meet Karin Aoi, a "DNA Operator." Karin is sent back to the past with a mission:
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/683/DNA²__Dokoka_de_Nakushita_Aitsu_no_Aitsu)
-    su)

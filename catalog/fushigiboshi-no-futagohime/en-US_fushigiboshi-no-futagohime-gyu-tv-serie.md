@@ -28,4 +28,3 @@ Fine and Rein are sent to the Royal Wonder Academy on the Royal Wonder Planet in
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4278)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6216)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/ふしぎ星の☆ふたご姫_Gyu!)
-    Gyu!)

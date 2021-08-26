@@ -26,4 +26,3 @@ Adachi's looking for a quiet place to sit around while she's skipping class and 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/120071/Adachi_to_Shimamura)
-    tps://myanimelist.net/manga/98753/Adachi_to_Shimamura)

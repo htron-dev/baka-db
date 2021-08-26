@@ -32,4 +32,3 @@ Wishing to unravel the mystery behind this strange spirit, Yuugi and his compani
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2061)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5074)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!)
-    /Yu-Gi-Oh!)

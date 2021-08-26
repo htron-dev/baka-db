@@ -26,4 +26,3 @@ A manga adaptation of Pokémon Colosseum's plot, starring Wes (Leo) and Rui figh
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22421/Pokémon_Colosseum__Snatcher_Leo)
-    eo)

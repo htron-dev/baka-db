@@ -25,4 +25,3 @@ The story takes place in the second half of the 19th century, as Japanese cultur
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/6979/Ikoku_Meiro_no_Croisée)
-    9e)

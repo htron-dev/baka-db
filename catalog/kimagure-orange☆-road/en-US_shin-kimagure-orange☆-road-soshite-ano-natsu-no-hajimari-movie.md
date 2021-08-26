@@ -30,4 +30,3 @@ It's been several years and Kyosuke Kasuga is now 19. A mysterious phone call wa
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=284)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=34)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Kimagure_Orange_Road)
-    Road)

@@ -24,4 +24,3 @@ Maiku Kamishiro has a problem. Actually, make that two problems. He has two youn
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/741/Onegai☆Twins)
-    wins)

@@ -32,4 +32,3 @@ Rock is a soldier in the Black Shooter army and her partner is the serpentine, s
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/26292/Black★Rock_Shooter__Innocent_Soul)
-    Soul)

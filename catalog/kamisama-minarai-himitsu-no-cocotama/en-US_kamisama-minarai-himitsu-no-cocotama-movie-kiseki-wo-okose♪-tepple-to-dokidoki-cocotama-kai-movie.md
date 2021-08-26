@@ -23,4 +23,3 @@ Tepple uses the acorn to take a Happy Star but inadvertently causes a rift of da
 -   [Official Site](http://www.eiga-coco-tama.com)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12456)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE%E3%81%BF%E3%81%AA%E3%82%89%E3%81%84_%E3%83%92%E3%83%9F%E3%83%84%E3%81%AE%E3%81%93%E3%81%93%E3%81%9F%E3%81%BE)
-    1%BE)

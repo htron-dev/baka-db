@@ -24,4 +24,3 @@ The story is about Haré, a 10-year-old boy who lives with his mother Weda in a 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/2777/Jungle_wa_Itsumo_Haré_Nochi_Guu)
-    uu)

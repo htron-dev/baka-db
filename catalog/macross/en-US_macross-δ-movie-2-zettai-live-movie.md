@@ -28,4 +28,3 @@ Walküre and Delta Flight used music to save people from the Vár Syndrome, a pr
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14408)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22253)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Macross_Delta)
-    ta)

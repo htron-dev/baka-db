@@ -24,7 +24,6 @@ No synopsis information has been added to this title. Help improve our database 
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16009)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23962)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Duel_Masters)
-    /)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15471)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23162)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Duel_Masters#Anime)

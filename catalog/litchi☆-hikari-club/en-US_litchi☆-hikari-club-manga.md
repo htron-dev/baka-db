@@ -30,4 +30,3 @@ However, when the robot—named "Litchi"—finally brings back a girl, the Hikar
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/5709/Litchi☆Hikari_Club)
-    Club)

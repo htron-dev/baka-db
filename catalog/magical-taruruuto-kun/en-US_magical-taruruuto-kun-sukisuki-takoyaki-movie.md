@@ -28,4 +28,3 @@ The third movie of Magical Taruruuto-kun
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2087)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3673)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%98%E3%81%8B%E3%82%8B%E2%98%86%E3%82%BF%E3%83%AB%E3%82%8B%E3%83%BC%E3%83%88%E3%81%8F%E3%82%93_%E3%81%99%E3%81%8D%E3%83%BB%E3%81%99%E3%81%8D_%E3%82%BF%E3%82%B3%E7%84%BC%E3%81%8D%E3%81%A3!)
-    %A3!)

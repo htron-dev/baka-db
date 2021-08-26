@@ -28,4 +28,3 @@ The world is threatened by Mephisto, the King of Minor Land, who tries to spread
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/25710/Suite_Precure♪)
-    9%AA)

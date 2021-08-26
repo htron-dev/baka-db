@@ -21,4 +21,3 @@ Kouichi Asakura is a young designer working at an ad agency. He works hard every
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/111317/Hidarikiki_no_Eren)
-    09894/Hidarikiki_no_Eren)

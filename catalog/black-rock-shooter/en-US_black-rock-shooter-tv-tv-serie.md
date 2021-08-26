@@ -31,4 +31,3 @@ In an alternate universe, the young girls exist as parallel beings, Mato as Blac
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8584)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13310)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Black_Rock_Shooter)
-    oter)

@@ -26,4 +26,3 @@ Third season of Recorder to Randoseru.
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9802)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15242)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Recorder_and_Randsell)
-    sell)

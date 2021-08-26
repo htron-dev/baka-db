@@ -27,4 +27,3 @@ The first volume contained "Roar," in which Eren first achieves a titan form. Th
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10944)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16681)
 -   [Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan)
-    an)

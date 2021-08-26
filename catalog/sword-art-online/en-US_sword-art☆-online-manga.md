@@ -28,4 +28,3 @@ A series of 4-panel comic strips that touch on the days of Aincrad in a comedic 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/40053/Sword_Art☆Online)
-    line)

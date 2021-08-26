@@ -31,4 +31,3 @@ Maria†Holic Alive continues the story of Kanako as she deals with being Mariya
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8041)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12090)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Maria_Holic)
-    olic)

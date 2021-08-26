@@ -26,4 +26,3 @@ Wondering where it all went wrong, Takemichi suddenly finds himself traveling th
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/104565/Tokyo卍Revengers)
-    gers)

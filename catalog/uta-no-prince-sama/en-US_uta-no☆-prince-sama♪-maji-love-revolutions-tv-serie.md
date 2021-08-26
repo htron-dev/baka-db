@@ -31,4 +31,3 @@ Starish are given new assignments in newly divided teams, and they do their best
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10292)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16143)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Uta_no_Prince-sama#Anime)
-    sama#Anime)

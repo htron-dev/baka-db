@@ -24,4 +24,3 @@ This was a collection of the opening and ending OAV themes performed by DoCo, th
 -   [My Anime list](https://myanimelist.net/anime/10824/Ranma_½__DoCo_Music_Video)
 -   [Official Site](http://www.furinkan.com/ranma/anime/specials.html)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/らんま1/2#.E3.82.AA.E3.83.AA.E3.82.B8.E3.83.8A.E3.83.AB.E3.83.93.E3.83.87.E3.82.AA.E3.82.A2.E3.83.8B.E3.83.A1)
-    A1)

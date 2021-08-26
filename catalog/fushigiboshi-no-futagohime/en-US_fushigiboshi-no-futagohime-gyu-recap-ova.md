@@ -23,4 +23,3 @@ Rein and Fine receive a care package from their mother and father which contains
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4278)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6216)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E6%98%9F%E3%81%AE%E2%98%86%E3%81%B5%E3%81%9F%E3%81%94%E5%A7%AB_Gyu!)
-    Gyu!)

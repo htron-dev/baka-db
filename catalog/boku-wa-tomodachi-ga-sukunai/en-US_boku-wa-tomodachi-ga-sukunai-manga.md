@@ -32,4 +32,3 @@ This is a tweak from the original premise, on which Kodaka catches Yozora speaki
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/25883/Boku_wa_Tomodachi_ga_Sukunai_)
-    )

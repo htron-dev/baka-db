@@ -29,4 +29,3 @@ An anthology of the mobile idol game I★Chuu by various mangaka.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/96855/I★Chuu_Comic_Anthology__Happy_Time)
-    Time)

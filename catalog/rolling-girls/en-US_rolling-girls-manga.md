@@ -30,4 +30,3 @@ Ten years after the Great Tokyo War, each prefecture in Japan has split up into 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/81423/Rolling☆Girls)
-    irls)

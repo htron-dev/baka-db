@@ -26,4 +26,3 @@ In a world filled with talking Pokemon, Red and Green compete with each other in
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/7570/Pokémon_Pocket_Monsters)
-    rs)

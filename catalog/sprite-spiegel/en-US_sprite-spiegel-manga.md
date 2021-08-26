@@ -23,4 +23,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/88604/Sprite_Spiegel)
-    gel)

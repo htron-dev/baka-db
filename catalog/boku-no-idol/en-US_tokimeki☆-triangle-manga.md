@@ -20,4 +20,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22323/Tokimeki☆Triangle)
-    ngle)

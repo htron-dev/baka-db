@@ -20,4 +20,3 @@ A special included in the DVD of Shin Koihime†Musou OVA and the BD-BOX of Shin
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/15095/Shin_Koihime†Musou_OVA_Omake)
-    make)

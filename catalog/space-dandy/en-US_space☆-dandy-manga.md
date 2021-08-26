@@ -3,7 +3,7 @@
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16
--   **original-name**: スペース☆ダンディ
+-   **original-name**: スペース ☆ ダンディ
 -   **start-date**: 2013-12-20
 -   **end-date**: 2013-12-20
 
@@ -31,4 +31,3 @@ Space Dandy is a dandy guy, in space! This dreamy adventurer with a to-die-for p
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/64217/Space☆Dandy)
-andy)

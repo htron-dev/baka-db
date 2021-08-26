@@ -25,4 +25,3 @@ Volume 1: Sweet♥Train
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/2319/Punch↑)
-    6%91)

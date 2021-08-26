@@ -30,4 +30,3 @@ Included one-shot: Honey Going
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/39419/Lovely★Complex_Two)
-    \_Two)

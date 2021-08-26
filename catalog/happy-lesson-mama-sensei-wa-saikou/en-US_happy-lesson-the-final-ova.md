@@ -28,4 +28,3 @@ When Mitsuki learns that the highschool is going to destroy the old school build
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2118)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4159)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Happy_Lesson)
-    sson)

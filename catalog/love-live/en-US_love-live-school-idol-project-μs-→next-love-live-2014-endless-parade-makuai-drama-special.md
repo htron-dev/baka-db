@@ -19,4 +19,3 @@ Bonus included in a Blu-ray/DVD disc of μ's live concert that took place in Sai
 -   [My Anime list](https://myanimelist.net/anime/25897/Love_Live_School_Idol_Project__μs_→NEXT_LoveLive_2014_-_Endless_Parade_Makuai_Drama)
 -   [Official Site](http://www.lovelive-anime.jp/)
 -   [Wikipedia](http://ja.wikipedia.org/wiki/ラブライブ!)
-    � イブ!)

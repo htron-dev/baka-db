@@ -22,4 +22,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/89291/Sayonara_Träumerei__Novellette)
-    te)

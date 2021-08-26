@@ -28,4 +28,3 @@ In the aftermath of a devastating world war, Deunan Knute and Briareos are scrap
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/85818/Appleseed_α)
-    B1)

@@ -25,4 +25,3 @@ The adopted son of Pegasus J. Crawford, Yakou Tenma, decides to avenge his senpa
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/6132/Yu☆Gi☆Oh_R)
-    %98%86Oh_R)

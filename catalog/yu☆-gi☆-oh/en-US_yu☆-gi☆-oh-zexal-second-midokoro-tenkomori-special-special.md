@@ -23,4 +23,3 @@ Recap of first 8 episodes of the second season, narrated by Yuma and Astral.
 -   [My Anime list](https://myanimelist.net/anime/16576/Yu☆Gi☆Oh_Zexal_Second__Midokoro_Tenkomori_Special)
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/yugioh-zexal/index2.html)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!_Zexal)
-    -Oh!\_Zexal)

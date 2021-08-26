@@ -25,4 +25,3 @@ A novice actress, Miku have been appointed the leading role in a play written by
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/91147/Bad∞End∞Night__Insane_Party)
-    sane_Party)

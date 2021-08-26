@@ -28,4 +28,3 @@ When the Ice Queen's familiars appear, they use the "Ice Mirror" to trick the gi
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12158)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18463)
 -   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%3F%E3%81%AA%E3%82%8A%E3%81%82%E2%98%86%E3%81%8C%E3%83%BC%E3%82%8B%E3%81%9A)
-    1%9A)

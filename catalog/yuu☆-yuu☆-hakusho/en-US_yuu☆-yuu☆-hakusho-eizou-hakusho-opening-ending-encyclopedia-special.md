@@ -17,4 +17,3 @@ A special that acts as an epilogue to Yu Yu Hakusho, with the opening and ending
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/42880/Yuu☆Yuu☆Hakusho__Eizou_Hakusho_-_Opening_Ending_Encyclopedia)
-    cyclopedia)

@@ -25,4 +25,3 @@
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21440/Starry☆Sky__In_Autumn_-_4-koma_Anthology)
-    logy)

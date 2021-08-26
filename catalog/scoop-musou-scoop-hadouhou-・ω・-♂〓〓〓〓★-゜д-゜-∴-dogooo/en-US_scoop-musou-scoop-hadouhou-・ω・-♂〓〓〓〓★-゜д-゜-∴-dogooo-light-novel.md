@@ -27,4 +27,3 @@ Alan is the strongest miner in the world, able to reduce mountains to rubble wit
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/122618/Scoop_Musou__Scoop_Hadouhou__`・ω・´♂〓〓〓〓★゜Д_゜_____∴_Dogooo)
-    80%93%E3%80%93%E3%80%93%E2%98%85%E3%82%9C%D0%94\_%E3%82%9C**\_**%E2%88%B4_Dogooo)

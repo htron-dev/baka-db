@@ -24,4 +24,3 @@ A non-canon Yu☆Gi☆Oh! 5D's special from the 2008 Super Jump Anime Tour. Yuus
 -   [My Anime list](https://myanimelist.net/anime/5298/Yu☆Gi☆Oh_5Ds__Shinkasuru_Kettou_Stardust_vs_Red_Demons)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5739)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Yu-Gi-Oh!_5D%27s)
-    Oh!\_5D%27s)

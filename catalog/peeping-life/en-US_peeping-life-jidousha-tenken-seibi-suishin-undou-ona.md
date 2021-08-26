@@ -19,4 +19,3 @@ No synopsis information has been added to this title. Help improve our database 
 -   [My Anime list](https://myanimelist.net/anime/48918/Peeping_Life_×_Jidousha_Tenken_Seibi_Suishin_Undou)
 -   [Official Site](https://youtu.be/0ROivbLS5PU)
 -   [Wikipedia](https://ja.wikipedia.org/wiki/Peeping_Life#)
-    e#)

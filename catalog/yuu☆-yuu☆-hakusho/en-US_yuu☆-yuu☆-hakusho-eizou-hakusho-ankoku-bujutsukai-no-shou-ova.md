@@ -32,4 +32,3 @@ Eizou Hakusho Series: Ankoku Bujutsukai no Shou - Joukan
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=312)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3350)
 -   [Wikipedia](http://en.wikipedia.org/wiki/YuYu_Hakusho)
-    Yu_Hakusho)
