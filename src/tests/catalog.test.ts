@@ -1,22 +1,17 @@
 import test from 'japa'
 import moment from 'moment'
 import glob from 'glob'
-
-import { createCatalogManger } from '../catalog-manager'
+import { createMarkdown } from '@baka-db/cli'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
-import Logger from '../logger'
 
 const args = process.argv.slice(2)
 
 let filenames: string[] = []
-const manager = createCatalogManger()
 
 if (args[0] === '--pattern') {
     const patter = `catalog/${args[1]}/*.md`
-
-    Logger.info('use patter %s', patter)
 
     filenames = glob.sync(patter)
 } else {
@@ -28,12 +23,9 @@ filenames
     .forEach((filename, index, array) => {
         test.group(
             `test content(${index + 1}/${array.length}): ${filename}`,
-            (group) => {
-                let item: any
-
-                group.before(async () => {
-                    item = await manager.getItem(filename)
-                })
+            () => {
+                const markdown = createMarkdown()
+                const item = markdown.fileToObject(filename)
 
                 test('should items have title', (assert) => {
                     assert.equal(

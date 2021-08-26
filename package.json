@@ -6,11 +6,11 @@
     "scripts": {
         "prepare": "husky install",
         "test": "ts-node japaFile.ts",
+        "conversor:json": "baka conversor json '*' -y ",
+        "status": "baka status",
         "lint": "npm run eslint . && npm run prettier .",
         "eslint": "eslint --ext .ts",
-        "prettier": "prettier -c",
-        "conversor:json": "ts-node src/run-conversor-json.ts",
-        "status": "ts-node src/run-status.ts"
+        "prettier": "prettier -c"
     },
     "repository": {
         "type": "git",
@@ -47,6 +47,7 @@
         "typescript": "^4.3.5"
     },
     "dependencies": {
+        "@baka-db/cli": "0.0.2",
         "bull": "^3.28.1",
         "glob": "^7.1.7",
         "lodash": "^4.17.21",
