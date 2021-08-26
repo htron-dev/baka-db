@@ -84,6 +84,16 @@ filenames
                         )
                     })
                 })
+
+                test('should items links be valid', (assert) => {
+                    item.links.forEach((link: string) => {
+                        assert.equal(
+                            typeof link === 'object',
+                            true,
+                            `Invalid link "${link}"`
+                        )
+                    })
+                })
             }
         )
     })

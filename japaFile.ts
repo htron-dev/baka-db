@@ -5,5 +5,5 @@ moment.suppressDeprecationWarnings = true
 
 configure({
     files: ['src/tests/*.test.ts'],
-    bail: true
+    bail: !!process.env.BAIL || false
 })
