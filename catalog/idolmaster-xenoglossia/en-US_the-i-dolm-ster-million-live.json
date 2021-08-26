@@ -1,24 +1,23 @@
 {
     "title": "The iDOLM@STER Million Live!",
-    "type": "tv-serie",
-    "original_name": "THE iDOLM@STER MILLION LIVE!",
-    "rating": "PG-13 - Teens 13 or older",
+    "type": "manga",
+    "volumes": "5",
+    "chapters": "26",
+    "original_name": "アイドルマスター ミリオンライブ！",
+    "start_date": "2014-07-11",
+    "end_date": "2014-07-11",
     "tags": [
-        "music"
+        "music",
+        "shounen"
     ],
-    "sinopse": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
+    "authors": [
+        "Monji",
+        "Yuki (Story & Art)"
+    ],
     "links": [
         {
             "text": "My Anime list",
-            "link": "https://myanimelist.net/anime/42385/The_iDOLMSTER_Million_Live"
-        },
-        {
-            "text": "AnimeDB",
-            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15625"
-        },
-        {
-            "text": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/The_Idolmaster_Million_Live!#TV_Anime"
+            "link": "https://myanimelist.net/manga/78135/The_iDOLMSTER_Million_Live"
         }
     ]
 }

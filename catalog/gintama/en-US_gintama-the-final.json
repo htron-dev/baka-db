@@ -1,0 +1,38 @@
+{
+    "title": "Gintama: The Final",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "銀魂 THE FINAL",
+    "start_date": "2021-01-08",
+    "ending_song": "\"Wadachi (轍～ Wadachi ～)\" by SPYAIR",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "sci-fi",
+        "comedy",
+        "historical",
+        "parody",
+        "drama",
+        "samurai",
+        "shounen"
+    ],
+    "sinopse": "New Gintama movie.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/39486/Gintama__The_Final"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-tokyo.co.jp/anime/gintama/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14719"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Gin_Tama#Animation"
+        }
+    ]
+}
