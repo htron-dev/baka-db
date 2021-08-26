@@ -36,7 +36,7 @@ Ex:
 
 # Contributing
 
-:warning: For now, we are setting up the initial database, so contributions are still not open
+Check [CONTRIBUTING.md](./CONTRIBUTING.md) to know the details
 
 # License
 
