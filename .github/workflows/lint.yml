@@ -30,10 +30,10 @@ jobs:
               continue-on-error: true
 
             - name: eslint
-              run: npm run eslint . -- --fix
+              run: npm run eslint . --  --fix --no-error-on-unmatched-pattern
 
             - name: prettier
-              run: npm run prettier -- -w ${{ steps.files.outputs.all }}
+              run: npm run prettier -- -w --no-error-on-unmatched-pattern ${{ steps.files.outputs.all }}
 
             - run: git status --porcelain
 

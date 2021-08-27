@@ -1,6 +1,7 @@
 import test from 'japa'
 import moment from 'moment'
 import glob from 'glob'
+import path from 'path'
 import { createMarkdown } from '@baka-db/cli'
 
 import validTypes from '../valid-types.json'
@@ -19,7 +20,7 @@ if (args[0] === '--pattern') {
 }
 
 filenames
-    .filter((f) => f.includes('catalog'))
+    .filter((f) => path.dirname(path.dirname(f)) === 'catalog')
     .forEach((filename, index, array) => {
         test.group(
             `test content(${index + 1}/${array.length}): ${filename}`,
