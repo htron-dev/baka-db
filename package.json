@@ -5,8 +5,7 @@
     "main": "index.js",
     "scripts": {
         "prepare": "husky install",
-        "conversor:json": "ts-node src/conversor.ts",
-        "conversor:json:post-run": "ts-node src/post-run-conversor.ts"
+        "generate:summary": "baka generate:index"
     },
     "repository": {
         "type": "git",
@@ -29,6 +28,7 @@
         "typescript": "^4.3.5"
     },
     "dependencies": {
+        "@baka-db/cli": "0.0.2",
         "lodash": "^4.17.21"
     }
 }
