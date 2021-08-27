@@ -1,0 +1,33 @@
+{
+    "title": "Gudetama",
+    "type": "tv-serie",
+    "original_name": "ぐでたま",
+    "start_date": "2014-03-31",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy"
+    ],
+    "sinopse": "Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.\n\n(Source: ANN)",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/23539/Gudetama"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.sanrio.co.jp/character/gudetama/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10577"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16760"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Gudetama#TV_series"
+        }
+    ]
+}

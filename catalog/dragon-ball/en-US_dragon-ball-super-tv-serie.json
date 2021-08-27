@@ -1,0 +1,43 @@
+{
+    "title": "Dragon Ball Super",
+    "type": "tv-serie",
+    "episodes": "131",
+    "original_name": "ドラゴンボール超（スーパー）",
+    "start_date": "2015-07-05",
+    "end_date": "2015-07-05",
+    "opening_song": "#1",
+    "ending_song": "#01",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "super-power",
+        "martial-arts",
+        "fantasy",
+        "shounen"
+    ],
+    "sinopse": "Seven years after the events of Dragon Ball Z, Earth is at peace, and its people live free from any dangers lurking in the universe. However, this peace is short-lived; a sleeping evil awakens in the dark reaches of the galaxy: Beerus, the ruthless God of Destruction.\n\nDisturbed by a prophecy that he will be defeated by a \"Super Saiyan God,\" Beerus and his angelic attendant Whis start searching the universe for this mysterious being. Before long, they reach Earth where they encounter Gokuu Son, one of the planet's mightiest warriors, and his similarly powerful friends.\n\n[Source My Anime List]",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.toei-anim.co.jp/tv/dragon_s/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11210"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17006"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Dragon_Ball_Super"
+        }
+    ]
+}

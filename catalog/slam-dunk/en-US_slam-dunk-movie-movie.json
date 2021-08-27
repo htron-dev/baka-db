@@ -15,6 +15,23 @@
     "links": [
         {
             "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/45649/Slam_Dunk_Movie"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://slamdunk-movie.jp/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15974"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "<https://en.wikipedia.org/wiki/Slam_Dunk_(manga"
+        },
+        "## Links",
+        {
+            "text": "My Anime list",
             "link": "https://myanimelist.net/anime/1764/Slam_Dunk_Movie"
         },
         {

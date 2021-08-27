@@ -1737,7 +1737,6 @@
 -   [buriki-no-artist](./../catalog/buriki-no-artist)
 -   [buriki-no-kanzume](./../catalog/buriki-no-kanzume)
 -   [burlesque-night](./../catalog/burlesque-night)
--   [burn-the-witch](./../catalog/burn-the-witch)
 -   [burn-up](./../catalog/burn-up)
 -   [burning-hell-kami-no-kuni](./../catalog/burning-hell-kami-no-kuni)
 -   [burning-village](./../catalog/burning-village)

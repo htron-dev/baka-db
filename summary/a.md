@@ -1473,7 +1473,6 @@
 -   [angel-x-contract](./../catalog/angel-x-contract)
 -   [angel♥-time](./../catalog/angel♥-time)
 -   [angela-countess](./../catalog/angela-countess)
--   [angelic-conversation](./../catalog/angelic-conversation)
 -   [angelic-house](./../catalog/angelic-house)
 -   [angelic-layer](./../catalog/angelic-layer)
 -   [angelic-runes](./../catalog/angelic-runes)

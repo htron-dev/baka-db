@@ -1,0 +1,31 @@
+{
+    "title": "Hello Kitty no Oyayubi-hime",
+    "type": "movie",
+    "episodes": "1",
+    "original_name": "ハローキティのおやゆびひめ",
+    "start_date": "1990-07-21",
+    "rating": "G - All Ages",
+    "tags": [
+        "adventure",
+        "fantasy"
+    ],
+    "sinopse": "A Hello Kitty theatrical version of Thumbelina.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/32622/Hello_Kitty_no_Oyayubi-hime"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7780"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8240"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
+        }
+    ]
+}

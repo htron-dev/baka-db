@@ -1,0 +1,31 @@
+{
+    "title": "Daisuki! Hello Kitty",
+    "type": "tv-serie",
+    "episodes": "26",
+    "original_name": "大好き！ハローキティ",
+    "start_date": "1993-10-05",
+    "end_date": "1993-10-05",
+    "rating": "G - All Ages",
+    "tags": [
+        "fantasy"
+    ],
+    "sinopse": "The adventures of a young kitten named Kitty with her twin sister Mimi. It's a variety of adventures, including Kitty in some fairy tales as well.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/3202/Daisuki_Hello_Kitty"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5874"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=800"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Hello_Kitty"
+        }
+    ]
+}

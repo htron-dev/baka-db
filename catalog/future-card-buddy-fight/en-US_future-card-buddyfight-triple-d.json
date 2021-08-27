@@ -1,0 +1,37 @@
+{
+    "title": "Future Card Buddyfight Triple D",
+    "type": "tv-serie",
+    "episodes": "51",
+    "original_name": "フューチャーカード バディファイト DDD",
+    "start_date": "2016-04-02",
+    "end_date": "2016-04-02",
+    "opening_song": "#1",
+    "ending_song": "#1",
+    "rating": "PG - Children",
+    "tags": [
+        "game"
+    ],
+    "sinopse": "Third season of Future Card Buddyfight.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/32785/Future_Card_Buddyfight_Triple_D"
+        },
+        {
+            "text": "Official Site",
+            "link": "http://www.tv-aichi.co.jp/fc-buddyfight/"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11960"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18111"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Future_Card_Buddyfight"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Hakushon Daimaou",
+    "type": "tv-serie",
+    "episodes": "52",
+    "original_name": "ハクション大魔王",
+    "start_date": "1969-10-05",
+    "end_date": "1969-10-05",
+    "opening_song": "#01",
+    "ending_song": "#01",
+    "rating": "G - All Ages",
+    "tags": [
+        "comedy",
+        "fantasy"
+    ],
+    "sinopse": "One day Kan-chan finds a magic bottle in the attic. Whenever someone sneezes, a genie named Hakushon Daimaou is brought out and must grant any wish of whoever sneezed until he or she sneezes again. Sometimes, however, he accidentally fails and only causes trouble instead of granting any wishes.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/2892/Hakushon_Daimaou"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2740"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1755"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/The_Genie_Family"
+        }
+    ]
+}

@@ -13,6 +13,19 @@
     "links": [
         {
             "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/48126/Xiong_Chumo__Kuang_Ye_Dalu"
+        },
+        {
+            "text": "Official Site",
+            "link": "https://movie.douban.com/subject/34825886/"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "https://bkso.baidu.com/item/%E7%86%8A%E5%87%BA%E6%B2%A1%C2%B7%E7%8B%82%E9%87%8E%E5%A4%A7%E9%99%86"
+        },
+        "## Links",
+        {
+            "text": "My Anime list",
             "link": "https://myanimelist.net/anime/44139/Xiong_Chumo·Kuang_Ye_Dalu"
         }
     ]

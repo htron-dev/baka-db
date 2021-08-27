@@ -1,0 +1,36 @@
+{
+    "title": "Getter Robo Go",
+    "type": "tv-serie",
+    "episodes": "50",
+    "original_name": "ゲッターロボ號",
+    "start_date": "1991-02-11",
+    "end_date": "1991-02-11",
+    "opening_song": "#1",
+    "rating": "PG-13 - Teens 13 or older",
+    "tags": [
+        "action",
+        "adventure",
+        "mecha",
+        "military",
+        "shounen"
+    ],
+    "sinopse": "A new Getter robot is piloted by three youth as they combat the evil terrors that plague the world.",
+    "links": [
+        {
+            "text": "My Anime list",
+            "link": "https://myanimelist.net/anime/5292/Getter_Robo_Go"
+        },
+        {
+            "text": "AnimeDB",
+            "link": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1910"
+        },
+        {
+            "text": "AnimeNewsNetwork",
+            "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1994"
+        },
+        {
+            "text": "Wikipedia",
+            "link": "http://en.wikipedia.org/wiki/Getter_Robo_Go"
+        }
+    ]
+}
