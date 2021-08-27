@@ -1,18 +1,9 @@
 name: conversor
 
 on:
+    workflow_dispatch:
     push:
         branches: [main]
-
-    workflow_dispatch:
-        inputs:
-            logLevel:
-                description: 'Log level'
-                required: true
-                default: 'info'
-            projects:
-                required: true
-                description: 'Project name or patter'
 
 jobs:
     build:
@@ -36,60 +27,48 @@ jobs:
               with:
                   node-version: '14'
 
-            - name: cache-dependence
+            - name: cache
               uses: actions/cache@v2
-              id: cache-dependence
+              id: cache
               with:
                   path: node_modules
                   key: ${{ hashFiles('package-lock.json') }}
 
+            - name: set-current-date
+              run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
             - name: install dependence
-              if: steps.cache-dependence.outputs.cache-hit != 'true'
+              if: steps.cache.outputs.cache-hit != 'true'
               run: npm install
 
-            - name: set-current-changed-files
-              if: github.event.inputs.projects == ''
-              id: changed-files
-              uses: jitterbit/get-changed-files@v1
-              continue-on-error: true
-
             - name: conversor
-              if: github.event.inputs.projects == ''
-              run: npm run conversor:json ${{ steps.changed-files.outputs.all }}
+              run: npm run conversor:json
               env:
                   LOG_LEVEL: ${{ github.event.inputs.logLevel }}
                   REDIS_HOST: localhost
                   REDIS_PORT: 6379
 
-            - name: conversor
-              if: github.event.inputs.projects != ''
-              run: npm run conversor:json -- --patter "${{ github.event.inputs.projects }}"
-              env:
-                  LOG_LEVEL: ${{ github.event.inputs.logLevel }}
-                  REDIS_HOST: localhost
-                  REDIS_PORT: 6379
-
-            - name: change to json branch
+            - name: checkout-json-branch
               uses: actions/checkout@v2
               with:
                   ref: json
                   clean: false
 
-            - name: remove old files
-              run: |
-                  for project in ${{ github.event.inputs.projects }}; do
-                    rm -rf "./catalog/${project}"
-                  done
+            - name: remove-old-catalog
+              run: rm -rf ./catalog
 
-            - name: add new files
-              run: cp -RT ./dist/catalog/ ./catalog/
+            - name: add-new-catalog
+              run: cp -r ./.baka/* ./catalog
 
-            - name: set-current-date
-              run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+            - name: generate-summary
+              run: npm run generate:summary
 
-            - name: add changes to json branch
+            - name: commit-changes-to-json-branch
               uses: EndBug/add-and-commit@v7
               with:
                   message: ${{ env.date }} ${{ github.sha }}
-                  add: ./catalog
+                  add:
+                    ./catalog
+                    ./summary
+
                   branch: json
