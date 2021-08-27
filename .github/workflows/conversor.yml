@@ -55,7 +55,7 @@ jobs:
                   clean: false
 
             - name: remove-old-catalog
-              run: rm -rf ./catalog
+              run: rm -rf ./catalog/*
 
             - name: add-new-catalog
               run: cp -r ./.baka/* ./catalog
