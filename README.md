@@ -6,7 +6,7 @@
 
 Public anime/manga database
 
-Current under development
+[summary](./summary/0.md)
 
 </div>
 
