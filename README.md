@@ -1,6 +1,6 @@
-# Baka-DB
-
 <div align='center'>
+
+# Baka-db
 
 ![logo-128](https://user-images.githubusercontent.com/43827016/128577846-fb2d59a9-4aae-4591-8b67-83c9bb95b53b.png)
 
@@ -15,6 +15,10 @@ Public anime/manga database
 Baka-db is an archive that contains data and information about animes, mangas, ova, movies, and other media related to otaku culture.
 
 It was created to be a big and good source of data that anyone can use for any purpuse.
+
+## Social medias
+
+- [twitter](https://twitter.com/baka_db)
 
 ## Catalog
 
