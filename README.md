@@ -18,7 +18,7 @@ It was created to be a big and good source of data that anyone can use for any p
 
 ## Social medias
 
-- [twitter](https://twitter.com/baka_db)
+-   [twitter](https://twitter.com/baka_db)
 
 ## Catalog
 
