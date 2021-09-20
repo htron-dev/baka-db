@@ -5,9 +5,15 @@ interface Link {
     link: string
 }
 
+interface Thumbnail {
+    src: string
+    alt: string
+}
+
 declare module '@baka-db/cli' {
     export interface CatalogItem {
         title: string
+        thumbnail?: Thumbnail
         type: string
         links: Link[]
     }

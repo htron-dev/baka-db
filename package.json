@@ -9,7 +9,7 @@
     "scripts": {
         "prepare": "husky install",
         "test": "ts-node japaFile.ts",
-        "conversor:json": "baka conversor json '*' -y ",
+        "conversor:json": "baka conversor json '**' -y ",
         "generate:summary": "baka generate:index",
         "status": "baka status",
         "lint": "npm run eslint . && npm run prettier .",
@@ -48,9 +48,10 @@
         "typescript": "^4.4.2"
     },
     "dependencies": {
-        "@baka-db/cli": "^1.0.0",
+        "@baka-db/cli": "^1.1.0",
         "axios": "^0.21.1",
         "cheerio": "^1.0.0-rc.10",
+        "fastq": "^1.13.0",
         "lodash": "^4.17.21",
         "moment": "^2.29.1"
     }

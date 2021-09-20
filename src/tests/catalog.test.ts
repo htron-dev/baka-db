@@ -1,7 +1,7 @@
 import test from 'japa'
 import moment from 'moment'
 import path from 'path'
-import { createMarkdown, createCatalog } from '@baka-db/cli'
+import { createMarkdown, createCatalog, CatalogItem } from '@baka-db/cli'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
@@ -36,14 +36,30 @@ filenames
     .forEach((filename, index, array) => {
         test.group(
             `test content(${index + 1}/${array.length}): ${filename}`,
-            () => {
-                const item = markdown.fileToObject(filename)
+            (group) => {
+                let item: CatalogItem
+
+                group.before(async () => {
+                    item = await markdown.mountItem(filename)
+                })
 
                 test('should items have title', (assert) => {
                     assert.equal(
                         item.title && item.title !== '',
                         true,
                         'Title is required'
+                    )
+                })
+
+                test('should items thumbnail be a url', (assert) => {
+                    if (!item.thumbnail) {
+                        return
+                    }
+
+                    assert.equal(
+                        isValidHttpUrl(item.thumbnail.src),
+                        true,
+                        'Thumbnail src must be a url'
                     )
                 })
 
