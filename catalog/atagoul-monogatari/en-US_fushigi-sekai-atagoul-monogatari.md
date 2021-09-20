@@ -1,5 +1,7 @@
 # Fushigi Sekai Atagoul Monogatari
 
+![fushigi-sekai-atagoul-monogatari](https://cdn.myanimelist.net/images/anime/12/37565.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 不思議世界 アタゴオル物語

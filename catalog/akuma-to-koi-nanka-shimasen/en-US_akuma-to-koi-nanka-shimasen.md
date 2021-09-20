@@ -1,5 +1,7 @@
 # Akuma to Koi nanka Shimasen!
 
+![akuma-to-koi-nanka-shimasen](https://cdn.myanimelist.net/images/manga/3/165533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

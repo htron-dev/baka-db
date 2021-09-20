@@ -1,5 +1,7 @@
 # Ayanashi
 
+![ayanashi](https://cdn.myanimelist.net/images/manga/3/190874.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

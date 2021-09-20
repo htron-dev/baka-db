@@ -1,5 +1,7 @@
 # Aku no Quartet
 
+![aku-no-quartet](https://cdn.myanimelist.net/images/manga/3/194181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪ノ四重奏〈カルテット〉

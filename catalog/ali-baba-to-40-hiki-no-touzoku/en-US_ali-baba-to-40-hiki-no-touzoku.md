@@ -1,5 +1,7 @@
 # Ali Baba to 40-hiki no Touzoku
 
+![ali-baba-to-40-hiki-no-touzoku](https://cdn.myanimelist.net/images/anime/3/6861.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アリババと４０匹の盗賊

@@ -1,5 +1,7 @@
 # Aura: Maryuuin Kouga Saigo no Tatakai
 
+![aura-maryuuin-kouga-saigo-no-tatakai](https://cdn.myanimelist.net/images/manga/1/156902.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

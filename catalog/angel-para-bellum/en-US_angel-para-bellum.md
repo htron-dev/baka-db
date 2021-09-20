@@ -1,5 +1,7 @@
 # Angel Para Bellum
 
+![angel-para-bellum](https://cdn.myanimelist.net/images/manga/3/57489.jpg)
+
 -   **type**: manga
 -   **original-name**: エンジェルパラベラム
 -   **start-date**: 2010-08-24

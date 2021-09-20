@@ -1,5 +1,7 @@
 # Ark/Blood
 
+![ark-blood](https://cdn.myanimelist.net/images/manga/1/122377.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アーク・ブラッド

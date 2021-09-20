@@ -1,5 +1,7 @@
 # Asatte no Kawazanyou
 
+![asatte-no-kawazanyou](https://cdn.myanimelist.net/images/manga/1/219921.jpg)
+
 -   **type**: manga
 -   **original-name**: あさっての皮算用
 -   **start-date**: 2019-07-08

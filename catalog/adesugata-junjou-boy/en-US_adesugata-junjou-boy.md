@@ -1,5 +1,7 @@
 # Adesugata Junjou Boy
 
+![adesugata-junjou-boy](https://cdn.myanimelist.net/images/manga/2/121347.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

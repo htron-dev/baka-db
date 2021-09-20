@@ -1,5 +1,7 @@
 # Asa kara Pika Pika
 
+![asa-kara-pika-pika](https://cdn.myanimelist.net/images/manga/3/26269.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 朝からピカ ☆ ピカ

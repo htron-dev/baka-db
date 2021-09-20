@@ -1,5 +1,7 @@
 # Akkun to Kanojo
 
+![akkun-to-kanojo](https://cdn.myanimelist.net/images/anime/1404/90601.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: あっくんとカノジョ

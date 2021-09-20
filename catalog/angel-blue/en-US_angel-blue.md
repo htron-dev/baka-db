@@ -1,5 +1,7 @@
 # Angel Blue
 
+![angel-blue](https://cdn.myanimelist.net/images/manga/2/44819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エンジェルブルー

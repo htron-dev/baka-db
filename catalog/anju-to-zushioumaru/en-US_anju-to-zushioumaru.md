@@ -1,5 +1,7 @@
 # Anju to Zushioumaru
 
+![anju-to-zushioumaru](https://cdn.myanimelist.net/images/anime/1066/100513.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 安寿と厨子王丸

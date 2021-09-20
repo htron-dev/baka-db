@@ -1,5 +1,7 @@
 # Aitte Yatsu wo Utatte Miyouka
 
+![aitte-yatsu-wo-utatte-miyouka](https://cdn.myanimelist.net/images/manga/2/13845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

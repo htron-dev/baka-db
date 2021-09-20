@@ -1,5 +1,7 @@
 # Animal X: Genshi Sairai
 
+![animal-x-genshi-sairai](https://cdn.myanimelist.net/images/manga/2/834.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: Animal X―原始再来

@@ -1,5 +1,7 @@
 # Annyeong Totobi
 
+![annyeong-totobi](https://cdn.myanimelist.net/images/anime/8/89594.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 안녕 토토비

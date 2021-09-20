@@ -1,5 +1,7 @@
 # Ano Ko to Issho
 
+![ano-ko-to-issho](https://cdn.myanimelist.net/images/manga/3/7611.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 56

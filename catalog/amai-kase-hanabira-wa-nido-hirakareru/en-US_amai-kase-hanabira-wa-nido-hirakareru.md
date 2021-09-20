@@ -1,5 +1,7 @@
 # Amai Kase: Hanabira wa Nido Hirakareru
 
+![amai-kase-hanabira-wa-nido-hirakareru](https://cdn.myanimelist.net/images/manga/3/193397.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

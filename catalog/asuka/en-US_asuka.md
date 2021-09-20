@@ -1,5 +1,7 @@
 # Asuka²
 
+![asuka](https://cdn.myanimelist.net/images/manga/1/13802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アスカ ²

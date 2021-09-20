@@ -1,5 +1,7 @@
 # Aikatsu Planet!
 
+![aikatsu-planet](https://cdn.myanimelist.net/images/anime/1319/111189.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: アイカツプラネット！

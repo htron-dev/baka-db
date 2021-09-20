@@ -1,5 +1,7 @@
 # Akkera Kanjinchou
 
+![akkera-kanjinchou](https://cdn.myanimelist.net/images/manga/2/178083.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

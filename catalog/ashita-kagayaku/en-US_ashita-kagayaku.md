@@ -1,5 +1,7 @@
 # Ashita Kagayaku
 
+![ashita-kagayaku](https://cdn.myanimelist.net/images/manga/2/13650.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: あした輝く

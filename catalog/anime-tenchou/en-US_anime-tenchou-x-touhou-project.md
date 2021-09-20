@@ -1,5 +1,7 @@
 # Anime Tenchou x Touhou Project
 
+![anime-tenchou-x-touhou-project](https://cdn.myanimelist.net/images/anime/7/27303.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アニメ店長 x 東方 Project

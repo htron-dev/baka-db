@@ -1,5 +1,7 @@
 # Azumi (2008)
 
+![azumi-2008](https://cdn.myanimelist.net/images/manga/2/116249.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 125

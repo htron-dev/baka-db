@@ -1,5 +1,7 @@
 # Aerover: Seupeiseu Drone Gwihwan
 
+![aerover-seupeiseu-drone-gwihwan](https://cdn.myanimelist.net/images/anime/1985/113580.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 에어로버: 스페이스 드론의 귀환

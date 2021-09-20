@@ -1,5 +1,7 @@
 # Akikan!
 
+![akikan](https://cdn.myanimelist.net/images/manga/1/18131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

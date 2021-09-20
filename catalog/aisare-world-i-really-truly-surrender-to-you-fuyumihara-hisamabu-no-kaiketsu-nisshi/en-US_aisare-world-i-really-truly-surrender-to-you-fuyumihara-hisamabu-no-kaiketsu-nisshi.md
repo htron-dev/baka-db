@@ -1,5 +1,7 @@
 # Aisare World: I really, truly surrender to you. - Fuyumihara Hisamabu no Kaiketsu Nisshi
 
+![aisare-world-i-really-truly-surrender-to-you-fuyumihara-hisamabu-no-kaiketsu-nisshi](https://cdn.myanimelist.net/images/manga/3/162514.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

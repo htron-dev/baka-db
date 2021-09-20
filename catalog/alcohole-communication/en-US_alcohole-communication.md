@@ -1,5 +1,7 @@
 # Alcohole Communication
 
+![alcohole-communication](https://cdn.myanimelist.net/images/manga/2/228343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

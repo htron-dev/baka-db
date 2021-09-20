@@ -1,5 +1,7 @@
 # Aimai Synchronicity
 
+![aimai-synchronicity](https://cdn.myanimelist.net/images/manga/3/232153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

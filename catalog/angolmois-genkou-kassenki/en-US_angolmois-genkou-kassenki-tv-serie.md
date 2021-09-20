@@ -1,5 +1,7 @@
 # Angolmois: Genkou Kassenki
 
+![angolmois-genkou-kassenki](https://cdn.myanimelist.net/images/anime/1469/95052.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アンゴルモア 元寇合戦記

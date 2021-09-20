@@ -1,5 +1,7 @@
 # A New Journey
 
+![a-new-journey](https://cdn.myanimelist.net/images/anime/1549/98385.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: A New Journey

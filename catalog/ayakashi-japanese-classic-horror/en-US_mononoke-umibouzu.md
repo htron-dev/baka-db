@@ -1,5 +1,7 @@
 # Mononoke: Umibouzu
 
+![mononoke-umibouzu](https://cdn.myanimelist.net/images/manga/3/155676.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Akkanbee Ikkyu
 
+![akkanbee-ikkyu](https://cdn.myanimelist.net/images/manga/1/189096.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

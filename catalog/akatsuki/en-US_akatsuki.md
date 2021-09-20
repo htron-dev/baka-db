@@ -1,5 +1,7 @@
 # Akatsuki
 
+![akatsuki](https://cdn.myanimelist.net/images/manga/5/71809.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

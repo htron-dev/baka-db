@@ -1,5 +1,7 @@
 # Akage no Anne: Green Gables e no Michi
 
+![akage-no-anne-green-gables-e-no-michi](https://cdn.myanimelist.net/images/anime/1624/114184.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 赤毛のアン グリーンゲーブルズへの道

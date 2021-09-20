@@ -1,5 +1,7 @@
 # Arc the Lad II: Honoo no Elk
 
+![arc-the-lad-ii-honoo-no-elk](https://cdn.myanimelist.net/images/manga/1/62843.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

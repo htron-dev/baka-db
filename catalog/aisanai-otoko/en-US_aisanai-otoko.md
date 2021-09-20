@@ -1,5 +1,7 @@
 # Aisanai Otoko
 
+![aisanai-otoko](https://cdn.myanimelist.net/images/manga/2/81898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

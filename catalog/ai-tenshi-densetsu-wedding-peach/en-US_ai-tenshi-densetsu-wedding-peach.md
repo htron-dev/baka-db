@@ -1,5 +1,7 @@
 # Ai Tenshi Densetsu Wedding Peach
 
+![ai-tenshi-densetsu-wedding-peach](https://cdn.myanimelist.net/images/anime/7/20446.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 愛天使伝説 ウェディングピーチ

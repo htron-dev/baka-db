@@ -1,5 +1,7 @@
 # Arcana Famiglia: Capriccio - stile Arcana Famiglia
 
+![arcana-famiglia-capriccio-stile-arcana-famiglia](https://cdn.myanimelist.net/images/anime/10/41819.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アルカナ・ファミリア Capriccio – stile Arcana Famiglia 奇想曲～アルカナ・ファミリア風

@@ -1,5 +1,7 @@
 # American Pie
 
+![american-pie](https://cdn.myanimelist.net/images/manga/2/207263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

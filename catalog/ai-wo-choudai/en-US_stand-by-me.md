@@ -1,5 +1,7 @@
 # Stand By Me
 
+![stand-by-me](https://cdn.myanimelist.net/images/manga/2/147075.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

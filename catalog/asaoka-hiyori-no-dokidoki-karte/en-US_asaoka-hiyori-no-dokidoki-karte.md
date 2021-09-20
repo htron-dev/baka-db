@@ -1,5 +1,7 @@
 # Asaoka Hiyori no Dokidoki Karte
 
+![asaoka-hiyori-no-dokidoki-karte](https://cdn.myanimelist.net/images/manga/1/192056.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 朝岡ひよりのドキドキカルテ

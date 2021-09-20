@@ -1,5 +1,7 @@
 # Amai Sokubaku: Gunjin Koushaku no Ingi
 
+![amai-sokubaku-gunjin-koushaku-no-ingi](https://cdn.myanimelist.net/images/manga/2/181450.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

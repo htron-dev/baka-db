@@ -1,5 +1,7 @@
 # Adakurabe Ukiyo no Hana
 
+![adakurabe-ukiyo-no-hana](https://cdn.myanimelist.net/images/manga/2/79677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

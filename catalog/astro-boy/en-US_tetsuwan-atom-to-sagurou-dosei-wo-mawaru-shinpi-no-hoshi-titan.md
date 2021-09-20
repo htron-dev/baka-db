@@ -1,5 +1,7 @@
 # Tetsuwan Atom to Sagurou! Dosei wo Mawaru Shinpi no Hoshi Titan
 
+![tetsuwan-atom-to-sagurou-dosei-wo-mawaru-shinpi-no-hoshi-titan](https://cdn.myanimelist.net/images/anime/1219/99381.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄腕アトムと探ろう! 土星をまわる神秘の星タイタン

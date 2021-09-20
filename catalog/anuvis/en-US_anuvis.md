@@ -1,5 +1,7 @@
 # Anuvis!
 
+![anuvis](https://cdn.myanimelist.net/images/manga/2/126143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アヌヴィス！

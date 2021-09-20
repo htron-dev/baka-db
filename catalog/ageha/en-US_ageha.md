@@ -1,5 +1,7 @@
 # Ageha
 
+![ageha](https://cdn.myanimelist.net/images/manga/3/95371.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

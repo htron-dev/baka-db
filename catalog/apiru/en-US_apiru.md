@@ -1,5 +1,7 @@
 # Apiru
 
+![apiru](https://cdn.myanimelist.net/images/manga/3/214044.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 赤い鳩〈アピル〉

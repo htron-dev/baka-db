@@ -1,5 +1,7 @@
 # Lillia to Treize
 
+![lillia-to-treize](https://cdn.myanimelist.net/images/manga/4/64127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 38

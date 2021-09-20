@@ -1,5 +1,7 @@
 # Atsui Fukushuu
 
+![atsui-fukushuu](https://cdn.myanimelist.net/images/manga/1/62091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

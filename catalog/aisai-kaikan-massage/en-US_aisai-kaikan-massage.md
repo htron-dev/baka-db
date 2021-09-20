@@ -1,5 +1,7 @@
 # Aisai: Kaikan Massage
 
+![aisai-kaikan-massage](https://cdn.myanimelist.net/images/manga/2/196641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛妻　快感マッサージ

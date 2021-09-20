@@ -1,5 +1,7 @@
 # Ayakashi Hime Kurenai
 
+![ayakashi-hime-kurenai](https://cdn.myanimelist.net/images/manga/3/180932.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

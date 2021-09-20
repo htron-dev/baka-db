@@ -1,5 +1,7 @@
 # Akatsuki no Vampiress: Zensoukyoku
 
+![akatsuki-no-vampiress-zensoukyoku](https://cdn.myanimelist.net/images/manga/1/149509.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 暁のヴァンピレス 前奏曲

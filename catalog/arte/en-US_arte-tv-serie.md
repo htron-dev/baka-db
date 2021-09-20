@@ -1,5 +1,7 @@
 # Arte
 
+![arte](https://cdn.myanimelist.net/images/anime/1284/106945.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アルテ

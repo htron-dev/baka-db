@@ -1,5 +1,7 @@
 # Akiba's Trip The Animation
 
+![akibas-trip-the-animation](https://cdn.myanimelist.net/images/anime/9/83185.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: AKIBA'S TRIP THE ANIMATION

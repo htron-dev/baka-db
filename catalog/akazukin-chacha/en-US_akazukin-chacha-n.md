@@ -1,5 +1,7 @@
 # Akazukin Chacha N
 
+![akazukin-chacha-n](https://cdn.myanimelist.net/images/manga/3/108303.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤ずきんチャチャ N
 -   **start-date**: 2011-03-26

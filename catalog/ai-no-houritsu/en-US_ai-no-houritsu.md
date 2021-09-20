@@ -1,5 +1,7 @@
 # Ai no Houritsu
 
+![ai-no-houritsu](https://cdn.myanimelist.net/images/manga/2/247187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛の法律

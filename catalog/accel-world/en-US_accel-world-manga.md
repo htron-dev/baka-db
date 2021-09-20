@@ -1,5 +1,7 @@
 # Accel World
 
+![accel-world](https://cdn.myanimelist.net/images/manga/2/188839.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

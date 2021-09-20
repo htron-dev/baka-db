@@ -1,5 +1,7 @@
 # Akizuki-san wa Otona ni Narenai
 
+![akizuki-san-wa-otona-ni-narenai](https://cdn.myanimelist.net/images/manga/2/209045.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

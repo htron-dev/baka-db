@@ -1,5 +1,7 @@
 # Amai Kyousei wa Ikoku no Shirabe
 
+![amai-kyousei-wa-ikoku-no-shirabe](https://cdn.myanimelist.net/images/manga/1/194408.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Ai no Shintairiku
 
+![ai-no-shintairiku](https://cdn.myanimelist.net/images/manga/2/184819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

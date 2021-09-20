@@ -1,5 +1,7 @@
 # Aoi Kizu to Doku no Ringo to
 
+![aoi-kizu-to-doku-no-ringo-to](https://cdn.myanimelist.net/images/manga/3/90293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

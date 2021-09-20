@@ -1,5 +1,7 @@
 # Azel Seimaden
 
+![azel-seimaden](https://cdn.myanimelist.net/images/manga/3/34315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アゼル聖魔伝

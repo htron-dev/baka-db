@@ -1,5 +1,7 @@
 # Arina no Tane
 
+![arina-no-tane](https://cdn.myanimelist.net/images/manga/2/91313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 42

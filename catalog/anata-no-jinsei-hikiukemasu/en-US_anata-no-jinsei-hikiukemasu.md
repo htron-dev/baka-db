@@ -1,5 +1,7 @@
 # Anata no Jinsei Hikiukemasu!
 
+![anata-no-jinsei-hikiukemasu](https://cdn.myanimelist.net/images/manga/3/24517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

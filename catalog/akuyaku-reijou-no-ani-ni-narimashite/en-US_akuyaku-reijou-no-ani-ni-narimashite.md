@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Ani ni Narimashite
 
+![akuyaku-reijou-no-ani-ni-narimashite](https://cdn.myanimelist.net/images/manga/2/239036.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

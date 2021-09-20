@@ -1,5 +1,7 @@
 # Akahori Gedou Hour Rabuge
 
+![akahori-gedou-hour-rabuge](https://cdn.myanimelist.net/images/anime/4/75541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: あかほり外道アワーらぶげ

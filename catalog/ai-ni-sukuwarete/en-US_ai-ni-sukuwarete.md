@@ -1,5 +1,7 @@
 # Ai ni Sukuwarete
 
+![ai-ni-sukuwarete](https://cdn.myanimelist.net/images/manga/1/227177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛に救われて

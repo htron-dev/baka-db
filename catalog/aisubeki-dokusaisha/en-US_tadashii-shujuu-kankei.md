@@ -1,5 +1,7 @@
 # Tadashii Shujuu Kankei
 
+![tadashii-shujuu-kankei](https://cdn.myanimelist.net/images/manga/3/2547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

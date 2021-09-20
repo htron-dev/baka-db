@@ -1,5 +1,7 @@
 # Angelique
 
+![angelique](https://cdn.myanimelist.net/images/anime/1479/94792.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: オリジナルビデオアニメーション アンジェリーク

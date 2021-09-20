@@ -1,5 +1,7 @@
 # Abenobashi Mahou☆Shoutengai
 
+![abenobashi-mahou☆-shoutengai](https://cdn.myanimelist.net/images/manga/2/169584.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

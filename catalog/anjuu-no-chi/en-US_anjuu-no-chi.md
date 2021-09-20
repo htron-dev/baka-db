@@ -1,5 +1,7 @@
 # Anjuu no Chi
 
+![anjuu-no-chi](https://cdn.myanimelist.net/images/manga/3/14650.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

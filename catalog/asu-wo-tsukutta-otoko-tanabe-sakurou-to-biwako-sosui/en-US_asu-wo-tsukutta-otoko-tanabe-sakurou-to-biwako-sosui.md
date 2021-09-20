@@ -1,5 +1,7 @@
 # Asu wo Tsukutta Otoko: Tanabe Sakurou to Biwako Sosui
 
+![asu-wo-tsukutta-otoko-tanabe-sakurou-to-biwako-sosui](https://cdn.myanimelist.net/images/anime/6/67983.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 明日をつくった男 ~田辺朔郎と琵琶湖疏水~

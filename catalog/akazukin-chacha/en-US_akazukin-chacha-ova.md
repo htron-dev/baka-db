@@ -1,5 +1,7 @@
 # Akazukin Chacha OVA
 
+![akazukin-chacha-ova](https://cdn.myanimelist.net/images/anime/1404/95392.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 赤ずきんチャチャ (1995)

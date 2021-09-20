@@ -1,5 +1,7 @@
 # Aquadom
 
+![aquadom](https://cdn.myanimelist.net/images/manga/4/129987.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

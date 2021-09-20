@@ -1,5 +1,7 @@
 # Andou Natsu: Edo Wagashi Shokunin Monogatari
 
+![andou-natsu-edo-wagashi-shokunin-monogatari](https://cdn.myanimelist.net/images/manga/3/134605.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 176

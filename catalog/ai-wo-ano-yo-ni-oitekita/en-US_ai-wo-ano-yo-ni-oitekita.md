@@ -1,5 +1,7 @@
 # Ai wo Ano Yo ni Oitekita
 
+![ai-wo-ano-yo-ni-oitekita](https://cdn.myanimelist.net/images/manga/2/140019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Akaneiro Show Time
 
+![akaneiro-show-time](https://cdn.myanimelist.net/images/manga/1/159482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

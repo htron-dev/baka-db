@@ -1,5 +1,7 @@
 # Ashinaga Ojisama
 
+![ashinaga-ojisama](https://cdn.myanimelist.net/images/manga/3/16067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

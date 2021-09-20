@@ -1,5 +1,7 @@
 # Ame-iro Cocoa
 
+![ame-iro-cocoa](https://cdn.myanimelist.net/images/anime/1957/111714.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 雨色ココア

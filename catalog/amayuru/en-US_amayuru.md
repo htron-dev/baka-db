@@ -1,5 +1,7 @@
 # Amayuru.
 
+![amayuru](https://cdn.myanimelist.net/images/manga/2/130095.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

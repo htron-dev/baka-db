@@ -1,5 +1,7 @@
 # Blue Seed 2
 
+![blue-seed-2](https://cdn.myanimelist.net/images/anime/7/2871.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ブルーシード 2

@@ -1,5 +1,7 @@
 # Arms Rally
 
+![arms-rally](https://cdn.myanimelist.net/images/anime/1888/105574.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: アームズラリー

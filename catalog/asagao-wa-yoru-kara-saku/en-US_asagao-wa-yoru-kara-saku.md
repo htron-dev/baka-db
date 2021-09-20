@@ -1,5 +1,7 @@
 # Asagao wa Yoru kara Saku
 
+![asagao-wa-yoru-kara-saku](https://cdn.myanimelist.net/images/manga/3/246385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

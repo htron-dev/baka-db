@@ -1,5 +1,7 @@
 # Ai-sensei wa Wakaranai
 
+![ai-sensei-wa-wakaranai](https://cdn.myanimelist.net/images/manga/2/175775.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

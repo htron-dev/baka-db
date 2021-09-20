@@ -1,5 +1,7 @@
 # Ao ni, Fureru.
 
+![ao-ni-fureru](https://cdn.myanimelist.net/images/manga/3/221732.jpg)
+
 -   **type**: manga
 -   **original-name**: 青に、ふれる。
 -   **start-date**: 2018-12-25

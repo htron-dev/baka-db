@@ -1,5 +1,7 @@
 # Akaneko no Akuma
 
+![akaneko-no-akuma](https://cdn.myanimelist.net/images/manga/3/150472.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: あかねこの悪魔

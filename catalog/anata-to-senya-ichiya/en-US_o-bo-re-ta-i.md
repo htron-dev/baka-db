@@ -1,5 +1,7 @@
 # O-bo-re-ta-i
 
+![o-bo-re-ta-i](https://cdn.myanimelist.net/images/manga/1/183117.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

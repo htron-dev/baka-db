@@ -1,5 +1,7 @@
 # Andersen Monogatari (TV)
 
+![andersen-monogatari-tv](https://cdn.myanimelist.net/images/anime/7/69035.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: アンデルセン物語

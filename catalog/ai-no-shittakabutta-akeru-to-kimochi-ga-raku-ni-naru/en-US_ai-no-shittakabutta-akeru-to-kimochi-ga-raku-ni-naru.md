@@ -1,5 +1,7 @@
 # Ai no Shittakabutta: Akeru to Kimochi ga Raku ni Naru
 
+![ai-no-shittakabutta-akeru-to-kimochi-ga-raku-ni-naru](https://cdn.myanimelist.net/images/manga/3/109443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

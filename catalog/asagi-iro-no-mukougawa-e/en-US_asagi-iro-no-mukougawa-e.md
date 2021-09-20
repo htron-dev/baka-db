@@ -1,5 +1,7 @@
 # Asagi-iro no Mukougawa e
 
+![asagi-iro-no-mukougawa-e](https://cdn.myanimelist.net/images/manga/1/199036.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あさぎ色の向こう側へ

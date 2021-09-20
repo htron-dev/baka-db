@@ -1,5 +1,7 @@
 # Ani no Hanashi
 
+![ani-no-hanashi](https://cdn.myanimelist.net/images/manga/1/213975.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 兄の話

@@ -1,5 +1,7 @@
 # Aoi Hane Mitsuketa! Sagashite Miyou Mijika na Tori-tachi
 
+![aoi-hane-mitsuketa-sagashite-miyou-mijika-na-tori-tachi](https://cdn.myanimelist.net/images/anime/1988/113557.jpg)
+
 -   **type**: ona
 -   **original-name**: 青い羽みつけた! -さがしてみよう 身近な鳥たち-
 -   **start-date**: 2021-04-26

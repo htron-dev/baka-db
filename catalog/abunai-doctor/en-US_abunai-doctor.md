@@ -1,5 +1,7 @@
 # Abunai Doctor
 
+![abunai-doctor](https://cdn.myanimelist.net/images/manga/1/31014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あぶないドクター

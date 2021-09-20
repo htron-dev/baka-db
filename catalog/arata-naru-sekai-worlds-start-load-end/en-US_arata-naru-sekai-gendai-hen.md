@@ -1,5 +1,7 @@
 # Arata naru Sekai: Gendai-hen
 
+![arata-naru-sekai-gendai-hen](https://cdn.myanimelist.net/images/manga/2/78635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Anime Roukyoku Kikou Shimizu no Jirochouden
 
+![anime-roukyoku-kikou-shimizu-no-jirochouden](https://cdn.myanimelist.net/images/anime/4/64125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: アニメ浪曲紀行 清水次郎長伝

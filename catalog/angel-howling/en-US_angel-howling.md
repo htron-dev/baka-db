@@ -1,5 +1,7 @@
 # Angel Howling
 
+![angel-howling](https://cdn.myanimelist.net/images/manga/2/162677.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 91

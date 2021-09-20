@@ -1,5 +1,7 @@
 # Aikagi
 
+![aikagi](https://cdn.myanimelist.net/images/manga/3/178655.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

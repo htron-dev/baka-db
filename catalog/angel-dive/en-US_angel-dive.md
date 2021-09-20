@@ -1,5 +1,7 @@
 # Angel+Dive
 
+![angel-dive](https://cdn.myanimelist.net/images/manga/1/135501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ANGEL+DIVE

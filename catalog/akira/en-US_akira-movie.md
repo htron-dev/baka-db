@@ -1,5 +1,7 @@
 # Akira
 
+![akira](https://cdn.myanimelist.net/images/anime/2/82596.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: AKIRA（アキラ）

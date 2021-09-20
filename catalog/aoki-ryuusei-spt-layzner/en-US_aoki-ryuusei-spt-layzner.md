@@ -1,5 +1,7 @@
 # Aoki Ryuusei SPT Layzner
 
+![aoki-ryuusei-spt-layzner](https://cdn.myanimelist.net/images/anime/1106/91083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 蒼き流星 SPT レイズナー

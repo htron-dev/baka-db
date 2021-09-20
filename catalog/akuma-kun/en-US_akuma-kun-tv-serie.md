@@ -1,5 +1,7 @@
 # Akuma-kun
 
+![akuma-kun](https://cdn.myanimelist.net/images/anime/8/61467.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 悪魔くん

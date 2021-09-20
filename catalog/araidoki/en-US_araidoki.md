@@ -1,5 +1,7 @@
 # Araidoki.
 
+![araidoki](https://cdn.myanimelist.net/images/manga/3/128607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

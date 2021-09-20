@@ -1,5 +1,7 @@
 # Amakute Zurui Wana no Naka
 
+![amakute-zurui-wana-no-naka](https://cdn.myanimelist.net/images/manga/2/169396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

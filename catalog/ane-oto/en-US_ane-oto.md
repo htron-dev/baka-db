@@ -1,5 +1,7 @@
 # Ane Oto
 
+![ane-oto](https://cdn.myanimelist.net/images/manga/2/132643.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

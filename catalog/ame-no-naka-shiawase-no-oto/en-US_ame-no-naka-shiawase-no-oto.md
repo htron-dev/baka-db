@@ -1,5 +1,7 @@
 # Ame no Naka, Shiawase no Oto
 
+![ame-no-naka-shiawase-no-oto](https://cdn.myanimelist.net/images/manga/2/57627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

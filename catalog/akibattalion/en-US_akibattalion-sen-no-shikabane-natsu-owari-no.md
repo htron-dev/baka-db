@@ -1,5 +1,7 @@
 # Akibattalion: Sen no Shikabane, Natsu, Owari no#
 
+![akibattalion-sen-no-shikabane-natsu-owari-no](https://cdn.myanimelist.net/images/manga/1/182293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

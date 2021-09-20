@@ -1,5 +1,7 @@
 # Angel Voice
 
+![angel-voice](https://cdn.myanimelist.net/images/manga/1/138559.jpg)
+
 -   **type**: manga
 -   **volumes**: 40
 -   **chapters**: 357

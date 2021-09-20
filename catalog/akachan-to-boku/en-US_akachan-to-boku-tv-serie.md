@@ -1,5 +1,7 @@
 # Akachan to Boku
 
+![akachan-to-boku](https://cdn.myanimelist.net/images/anime/2/49693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 赤ちゃんと僕

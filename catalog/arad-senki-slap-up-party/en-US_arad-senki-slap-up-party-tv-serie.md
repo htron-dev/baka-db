@@ -1,5 +1,7 @@
 # Arad Senki: Slap Up Party
 
+![arad-senki-slap-up-party](https://cdn.myanimelist.net/images/anime/9/20760.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アラド戦記 ～スラップアップパーティー～

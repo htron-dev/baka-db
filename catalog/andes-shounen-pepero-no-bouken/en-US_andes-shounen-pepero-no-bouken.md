@@ -1,5 +1,7 @@
 # Andes Shounen Pepero no Bouken
 
+![andes-shounen-pepero-no-bouken](https://cdn.myanimelist.net/images/anime/3/60839.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アンデス少年ペペロの冒険

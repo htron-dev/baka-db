@@ -1,5 +1,7 @@
 # Aijin Keiyaku
 
+![aijin-keiyaku](https://cdn.myanimelist.net/images/manga/2/197010.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛人契約

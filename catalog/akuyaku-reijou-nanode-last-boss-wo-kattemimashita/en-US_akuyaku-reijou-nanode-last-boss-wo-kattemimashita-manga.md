@@ -1,5 +1,7 @@
 # Akuyaku Reijou nanode Last Boss wo Kattemimashita
 
+![akuyaku-reijou-nanode-last-boss-wo-kattemimashita](https://cdn.myanimelist.net/images/manga/3/220256.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

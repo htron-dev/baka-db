@@ -1,5 +1,7 @@
 # Ano Hito to Nitenai Kuchibiru
 
+![ano-hito-to-nitenai-kuchibiru](https://cdn.myanimelist.net/images/manga/3/30928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

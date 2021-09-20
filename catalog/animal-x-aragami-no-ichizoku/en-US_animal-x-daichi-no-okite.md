@@ -1,5 +1,7 @@
 # Animal X: Daichi no Okite
 
+![animal-x-daichi-no-okite](https://cdn.myanimelist.net/images/manga/3/27859.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

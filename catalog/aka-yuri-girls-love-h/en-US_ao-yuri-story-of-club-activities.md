@@ -1,5 +1,7 @@
 # Ao Yuri: Story of Club Activities
 
+![ao-yuri-story-of-club-activities](https://cdn.myanimelist.net/images/manga/2/169864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

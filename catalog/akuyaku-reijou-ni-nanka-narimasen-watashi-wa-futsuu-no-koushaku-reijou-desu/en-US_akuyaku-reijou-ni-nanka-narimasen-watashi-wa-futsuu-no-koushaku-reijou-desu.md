@@ -1,5 +1,7 @@
 # Akuyaku Reijou ni nanka Narimasen. Watashi wa "Futsuu" no Koushaku Reijou desu!
 
+![akuyaku-reijou-ni-nanka-narimasen-watashi-wa-futsuu-no-koushaku-reijou-desu](https://cdn.myanimelist.net/images/manga/2/238944.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢になんかなりません。私は『普通』の公爵令嬢です!
 -   **start-date**: 2020-01-05

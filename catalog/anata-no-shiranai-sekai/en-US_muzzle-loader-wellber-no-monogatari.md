@@ -1,5 +1,7 @@
 # MUZZLE-LOADER Wellber no Monogatari
 
+![muzzle-loader-wellber-no-monogatari](https://cdn.myanimelist.net/images/manga/3/244715.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: MUZZLE-LOADER -ウエルベールの物語-

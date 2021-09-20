@@ -1,5 +1,7 @@
 # Arslan Senki (TV): Tsuioku no Shou - Dakkan no Yaiba
 
+![arslan-senki-tv-tsuioku-no-shou-dakkan-no-yaiba](https://cdn.myanimelist.net/images/anime/11/74848.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アルスラーン戦記　総集編「追憶の章　奪還の刃」

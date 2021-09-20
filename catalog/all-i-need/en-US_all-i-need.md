@@ -1,5 +1,7 @@
 # All I Need
 
+![all-i-need](https://cdn.myanimelist.net/images/manga/1/110403.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Animal Dance
 
+![animal-dance](https://cdn.myanimelist.net/images/anime/10/28668.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アニマルダンス

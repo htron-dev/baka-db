@@ -1,5 +1,7 @@
 # Akihabara Dennou-gumi: 2011-nen no Natsuyasumi
 
+![akihabara-dennou-gumi-2011-nen-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/1731/96495.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 アキハバラ電脳組 2011 年の夏休み

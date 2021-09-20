@@ -1,5 +1,7 @@
 # Akuma Kari
 
+![akuma-kari](https://cdn.myanimelist.net/images/manga/3/10976.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 悪魔狩り

@@ -1,5 +1,7 @@
 # Ainaki Fugou to Kodoku na Kaseifu
 
+![ainaki-fugou-to-kodoku-na-kaseifu](https://cdn.myanimelist.net/images/manga/2/232176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛なき富豪と孤独な家政婦

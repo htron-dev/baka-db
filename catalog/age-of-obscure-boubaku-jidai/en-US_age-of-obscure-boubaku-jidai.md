@@ -1,5 +1,7 @@
 # Age of Obscure: Boubaku Jidai
 
+![age-of-obscure-boubaku-jidai](https://cdn.myanimelist.net/images/anime/1526/90848.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: AGE OF OBSCURE 茫漠時代

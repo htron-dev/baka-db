@@ -1,5 +1,7 @@
 # Akiyama-kun
 
+![akiyama-kun](https://cdn.myanimelist.net/images/manga/1/63705.jpg)
+
 -   **type**: manga
 -   **original-name**: 秋山くん
 -   **start-date**: 2009-09-24

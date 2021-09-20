@@ -1,5 +1,7 @@
 # Aku no Taizai: Enbizaka no Shitateya
 
+![aku-no-taizai-enbizaka-no-shitateya](https://cdn.myanimelist.net/images/manga/2/194118.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

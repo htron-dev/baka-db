@@ -1,5 +1,7 @@
 # Aruiwa Genzai Shinkoukei no Kuro Rekishi
 
+![aruiwa-genzai-shinkoukei-no-kuro-rekishi](https://cdn.myanimelist.net/images/manga/2/163487.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 70

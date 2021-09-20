@@ -1,5 +1,7 @@
 # Amai Kimi ga Suki
 
+![amai-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/19553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

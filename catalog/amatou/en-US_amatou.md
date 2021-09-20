@@ -1,5 +1,7 @@
 # Amatou!
 
+![amatou](https://cdn.myanimelist.net/images/manga/3/163208.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

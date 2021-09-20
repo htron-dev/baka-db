@@ -1,5 +1,7 @@
 # Acute
 
+![acute](https://cdn.myanimelist.net/images/manga/2/166481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

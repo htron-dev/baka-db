@@ -1,5 +1,7 @@
 # ASB: Fuuma Kyuuseiden
 
+![asb-fuuma-kyuuseiden](https://cdn.myanimelist.net/images/manga/3/152952.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ASB―封魔九星伝―

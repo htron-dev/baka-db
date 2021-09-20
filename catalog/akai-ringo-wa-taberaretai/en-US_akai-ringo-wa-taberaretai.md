@@ -1,5 +1,7 @@
 # Akai Ringo wa Taberaretai
 
+![akai-ringo-wa-taberaretai](https://cdn.myanimelist.net/images/manga/1/243723.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤い林檎は食べられたい
 -   **start-date**: 2015-12-04

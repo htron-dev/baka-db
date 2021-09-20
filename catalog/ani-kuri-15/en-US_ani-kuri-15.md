@@ -1,5 +1,7 @@
 # Ani\*Kuri15
 
+![ani-kuri-15](https://cdn.myanimelist.net/images/anime/13/62923.jpg)
+
 -   **type**: special
 -   **episodes**: 15
 -   **original-name**: アニ＊クリ 15

@@ -1,5 +1,7 @@
 # Aishitagari no Maison
 
+![aishitagari-no-maison](https://cdn.myanimelist.net/images/manga/1/236747.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

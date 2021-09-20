@@ -1,5 +1,7 @@
 # Amagami SS+ Plus: Extra Episode+ Plus
 
+![amagami-ss-plus-extra-episode-plus](https://cdn.myanimelist.net/images/anime/12/56023.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: アマガミ SS+ plus エクストラ・エピソード+ plus

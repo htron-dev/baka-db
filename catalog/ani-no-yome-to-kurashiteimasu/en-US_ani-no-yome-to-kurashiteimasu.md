@@ -1,5 +1,7 @@
 # Ani no Yome to Kurashiteimasu.
 
+![ani-no-yome-to-kurashiteimasu](https://cdn.myanimelist.net/images/manga/1/181118.jpg)
+
 -   **type**: manga
 -   **original-name**: 兄の嫁と暮らしています。
 -   **start-date**: 2015-12-04

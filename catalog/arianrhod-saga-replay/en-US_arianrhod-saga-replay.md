@@ -1,5 +1,7 @@
 # Arianrhod Saga Replay
 
+![arianrhod-saga-replay](https://cdn.myanimelist.net/images/manga/1/157079.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 65

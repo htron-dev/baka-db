@@ -1,5 +1,7 @@
 # Ade-iro Yuugi
 
+![ade-iro-yuugi](https://cdn.myanimelist.net/images/manga/1/40738.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

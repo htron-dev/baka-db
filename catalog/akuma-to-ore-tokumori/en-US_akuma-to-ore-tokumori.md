@@ -1,5 +1,7 @@
 # Akuma to Ore: Tokumori
 
+![akuma-to-ore-tokumori](https://cdn.myanimelist.net/images/manga/2/178219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

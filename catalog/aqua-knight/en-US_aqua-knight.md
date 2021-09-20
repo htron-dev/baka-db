@@ -1,5 +1,7 @@
 # Aqua Knight
 
+![aqua-knight](https://cdn.myanimelist.net/images/manga/5/606.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

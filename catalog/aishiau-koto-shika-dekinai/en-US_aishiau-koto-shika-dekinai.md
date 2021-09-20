@@ -1,5 +1,7 @@
 # Aishiau Koto Shika Dekinai
 
+![aishiau-koto-shika-dekinai](https://cdn.myanimelist.net/images/manga/3/114675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

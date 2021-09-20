@@ -1,5 +1,7 @@
 # Anmitsu Hime
 
+![anmitsu-hime](https://cdn.myanimelist.net/images/anime/2/81386.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: あんみつ姫

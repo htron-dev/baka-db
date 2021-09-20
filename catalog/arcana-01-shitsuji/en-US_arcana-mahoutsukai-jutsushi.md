@@ -1,5 +1,7 @@
 # Arcana - Mahoutsukai / Jutsushi
 
+![arcana-mahoutsukai-jutsushi](https://cdn.myanimelist.net/images/manga/2/37796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

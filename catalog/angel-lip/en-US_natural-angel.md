@@ -1,5 +1,7 @@
 # Natural Angel
 
+![natural-angel](https://cdn.myanimelist.net/images/manga/1/11065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

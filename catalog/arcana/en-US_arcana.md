@@ -1,5 +1,7 @@
 # Arcana
 
+![arcana](https://cdn.myanimelist.net/images/manga/3/65647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

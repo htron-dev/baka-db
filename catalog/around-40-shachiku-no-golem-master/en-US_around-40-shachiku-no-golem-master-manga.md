@@ -1,5 +1,7 @@
 # Around 40 Shachiku no Golem Master
 
+![around-40-shachiku-no-golem-master](https://cdn.myanimelist.net/images/manga/1/232833.jpg)
+
 -   **type**: manga
 -   **original-name**: アラフォー社畜のゴーレムマスター
 -   **start-date**: 2018-02-23

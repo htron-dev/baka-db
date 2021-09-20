@@ -1,5 +1,7 @@
 # AIKa R-16: Virgin Mission
 
+![ai-ka-r-16-virgin-mission](https://cdn.myanimelist.net/images/anime/3/9069.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: AIKa R-16:VIRGIN MISSION

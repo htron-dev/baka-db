@@ -1,5 +1,7 @@
 # Akuma Hakushaku no Hanayome: Shiroki Otome to Akai Kajitsu
 
+![akuma-hakushaku-no-hanayome-shiroki-otome-to-akai-kajitsu](https://cdn.myanimelist.net/images/manga/2/158358.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 悪魔伯爵の花嫁 白き乙女と赤い果実

@@ -1,5 +1,7 @@
 # Atagoal wa Neko no Mori
 
+![atagoal-wa-neko-no-mori](https://cdn.myanimelist.net/images/anime/5/14175.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アタゴオルは猫の森

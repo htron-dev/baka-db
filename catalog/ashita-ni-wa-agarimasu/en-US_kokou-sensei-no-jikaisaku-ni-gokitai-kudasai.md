@@ -1,5 +1,7 @@
 # Kokou-sensei no Jikaisaku ni Gokitai Kudasai.
 
+![kokou-sensei-no-jikaisaku-ni-gokitai-kudasai](https://cdn.myanimelist.net/images/manga/3/235663.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 41

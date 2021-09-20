@@ -1,5 +1,7 @@
 # Awajima Hyakkei
 
+![awajima-hyakkei](https://cdn.myanimelist.net/images/manga/1/154640.jpg)
+
 -   **type**: manga
 -   **original-name**: 淡島百景
 -   **start-date**: 2011-06-07

@@ -1,5 +1,7 @@
 # Atashi Tenshi Anata Akuma
 
+![atashi-tenshi-anata-akuma](https://cdn.myanimelist.net/images/anime/7/86237.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: あたし天使あなた悪魔

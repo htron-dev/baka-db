@@ -1,5 +1,7 @@
 # Air Gear
 
+![air-gear](https://cdn.myanimelist.net/images/anime/11/18227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: エア・ギア

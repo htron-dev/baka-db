@@ -1,5 +1,7 @@
 # Ahiru no Otegara
 
+![ahiru-no-otegara](https://cdn.myanimelist.net/images/anime/8/15856.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アヒルのお手柄

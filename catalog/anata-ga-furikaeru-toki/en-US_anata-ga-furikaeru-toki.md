@@ -1,5 +1,7 @@
 # Anata ga Furikaeru Toki
 
+![anata-ga-furikaeru-toki](https://cdn.myanimelist.net/images/anime/9/53127.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あなたが振り返るとき

@@ -1,5 +1,7 @@
 # Apollo ni Sayonara: Let's Go Home!
 
+![apollo-ni-sayonara-lets-go-home](https://cdn.myanimelist.net/images/manga/2/155640.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

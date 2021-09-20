@@ -1,5 +1,7 @@
 # Akumetsu
 
+![akumetsu](https://cdn.myanimelist.net/images/manga/2/183734.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 162

@@ -1,5 +1,7 @@
 # Amagami SS+ Plus Picture Drama
 
+![amagami-ss-plus-picture-drama](https://cdn.myanimelist.net/images/anime/8/55899.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: アマガミ SS+ plus 新作ピクチャードラマ～バレンタイン・フォー・ユー～

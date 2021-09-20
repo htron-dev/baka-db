@@ -1,5 +1,7 @@
 # Ayashi no Kimi no Koiwazurai
 
+![ayashi-no-kimi-no-koiwazurai](https://cdn.myanimelist.net/images/manga/1/30143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

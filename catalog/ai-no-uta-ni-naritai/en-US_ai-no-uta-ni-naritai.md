@@ -1,5 +1,7 @@
 # Ai no Uta ni Naritai
 
+![ai-no-uta-ni-naritai](https://cdn.myanimelist.net/images/manga/2/133641.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 愛の歌になりたい

@@ -1,5 +1,7 @@
 # Asoko Araiya no Shigoto: Kataomoi Chū no Aitsu to Onnayu de
 
+![asoko-araiya-no-shigoto-kataomoi-chu-no-aitsu-to-onnayu-de](https://cdn.myanimelist.net/images/manga/3/248667.jpg)
+
 -   **type**: manga
 -   **original-name**: アソコ洗い屋のお仕事～片思い中のアイツと女湯で～
 

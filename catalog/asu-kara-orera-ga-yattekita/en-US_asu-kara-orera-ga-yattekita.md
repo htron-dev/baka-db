@@ -1,5 +1,7 @@
 # Asu kara Orera ga Yattekita
 
+![asu-kara-orera-ga-yattekita](https://cdn.myanimelist.net/images/manga/3/165590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 明日から俺らがやってきた

@@ -1,5 +1,7 @@
 # Ashigei Shoujo Komura-san
 
+![ashigei-shoujo-komura-san](https://cdn.myanimelist.net/images/manga/2/219493.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 57

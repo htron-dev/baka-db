@@ -1,5 +1,7 @@
 # A.O.N
 
+![a-o-n](https://cdn.myanimelist.net/images/manga/1/29164.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

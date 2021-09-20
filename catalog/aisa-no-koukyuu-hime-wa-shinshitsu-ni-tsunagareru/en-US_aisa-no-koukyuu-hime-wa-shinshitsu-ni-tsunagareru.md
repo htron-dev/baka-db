@@ -1,5 +1,7 @@
 # Aisa no Koukyuu: Hime wa Shinshitsu ni Tsunagareru
 
+![aisa-no-koukyuu-hime-wa-shinshitsu-ni-tsunagareru](https://cdn.myanimelist.net/images/manga/1/183599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

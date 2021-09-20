@@ -1,5 +1,7 @@
 # Against
 
+![against](https://cdn.myanimelist.net/images/anime/10/84182.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: AGAINST

@@ -1,5 +1,7 @@
 # Arion
 
+![arion](https://cdn.myanimelist.net/images/anime/1661/112654.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ネオ・ヒロイック・ファンタジア　アリオン

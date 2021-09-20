@@ -1,5 +1,7 @@
 # Alive: Saishuu Shinkateki Shounen
 
+![alive-saishuu-shinkateki-shounen](https://cdn.myanimelist.net/images/manga/1/185482.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 83

@@ -1,5 +1,7 @@
 # Akatsuki no Hanayome
 
+![akatsuki-no-hanayome](https://cdn.myanimelist.net/images/manga/3/240435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 暁の花嫁

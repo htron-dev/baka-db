@@ -1,5 +1,7 @@
 # Aku no Joou no Kiseki
 
+![aku-no-joou-no-kiseki](https://cdn.myanimelist.net/images/manga/3/221836.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 悪の女王の軌跡

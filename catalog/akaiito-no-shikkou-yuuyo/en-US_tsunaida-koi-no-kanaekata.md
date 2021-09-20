@@ -1,5 +1,7 @@
 # Tsunaida Koi no Kanaekata
 
+![tsunaida-koi-no-kanaekata](https://cdn.myanimelist.net/images/manga/1/227728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

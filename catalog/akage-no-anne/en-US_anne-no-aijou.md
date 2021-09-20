@@ -1,5 +1,7 @@
 # Anne no Aijou
 
+![anne-no-aijou](https://cdn.myanimelist.net/images/manga/4/29998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

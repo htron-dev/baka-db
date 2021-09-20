@@ -1,5 +1,7 @@
 # Aisopos
 
+![aisopos](https://cdn.myanimelist.net/images/manga/3/182690.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 130
 -   **original-name**: 아이소포스

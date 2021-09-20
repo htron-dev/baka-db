@@ -1,5 +1,7 @@
 # Ari to Kirigirisu
 
+![ari-to-kirigirisu](https://cdn.myanimelist.net/images/anime/13/80260.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ありときりぎりす

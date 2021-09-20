@@ -1,5 +1,7 @@
 # Akai Kutsu! Onnanoko!
 
+![akai-kutsu-onnanoko](https://cdn.myanimelist.net/images/anime/2/72929.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 赤い靴！女の子！

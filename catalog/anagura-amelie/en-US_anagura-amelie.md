@@ -1,5 +1,7 @@
 # Anagura Amélie
 
+![anagura-amelie](https://cdn.myanimelist.net/images/manga/3/179109.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

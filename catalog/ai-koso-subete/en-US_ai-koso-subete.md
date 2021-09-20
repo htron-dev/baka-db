@@ -1,5 +1,7 @@
 # Ai Koso Subete
 
+![ai-koso-subete](https://cdn.myanimelist.net/images/manga/2/67171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

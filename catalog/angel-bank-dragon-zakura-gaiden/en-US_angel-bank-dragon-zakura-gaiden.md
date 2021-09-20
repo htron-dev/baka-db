@@ -1,5 +1,7 @@
 # Angel Bank: Dragon Zakura Gaiden
 
+![angel-bank-dragon-zakura-gaiden](https://cdn.myanimelist.net/images/manga/4/76367.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 125

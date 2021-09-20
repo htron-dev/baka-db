@@ -1,5 +1,7 @@
 # Ijimekko no Okada-kun
 
+![ijimekko-no-okada-kun](https://cdn.myanimelist.net/images/manga/3/64181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

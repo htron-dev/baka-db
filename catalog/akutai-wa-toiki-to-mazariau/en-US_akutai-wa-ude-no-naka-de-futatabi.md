@@ -1,5 +1,7 @@
 # Akutai wa Ude no Naka de Futatabi
 
+![akutai-wa-ude-no-naka-de-futatabi](https://cdn.myanimelist.net/images/manga/1/162563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

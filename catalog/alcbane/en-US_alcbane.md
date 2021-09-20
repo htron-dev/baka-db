@@ -1,5 +1,7 @@
 # Alcbane
 
+![alcbane](https://cdn.myanimelist.net/images/manga/1/167916.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

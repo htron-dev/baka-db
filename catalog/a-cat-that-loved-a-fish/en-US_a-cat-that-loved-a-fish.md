@@ -1,5 +1,7 @@
 # A Cat That Loved a Fish
 
+![a-cat-that-loved-a-fish](https://cdn.myanimelist.net/images/manga/1/22621.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 고양이를 사랑한 물고기

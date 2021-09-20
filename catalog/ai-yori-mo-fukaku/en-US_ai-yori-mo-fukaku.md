@@ -1,5 +1,7 @@
 # Ai yori mo Fukaku
 
+![ai-yori-mo-fukaku](https://cdn.myanimelist.net/images/manga/3/182598.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛よりも深く

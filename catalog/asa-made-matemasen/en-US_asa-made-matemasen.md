@@ -1,5 +1,7 @@
 # Asa made Matemasen!
 
+![asa-made-matemasen](https://cdn.myanimelist.net/images/manga/3/168422.jpg)
+
 -   **type**: manga
 -   **original-name**: 朝まで待てません
 -   **start-date**: 2013-09-05

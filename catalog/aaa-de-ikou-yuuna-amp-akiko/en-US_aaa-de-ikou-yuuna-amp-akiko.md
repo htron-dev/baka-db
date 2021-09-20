@@ -1,5 +1,7 @@
 # AAA de Ikou!!: Yuuna &amp; Akiko
 
+![aaa-de-ikou-yuuna-amp-akiko](https://cdn.myanimelist.net/images/anime/5/71512.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: AAA で行こう!!~Yuuna&Akiko~

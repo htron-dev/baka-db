@@ -1,5 +1,7 @@
 # Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou
 
+![tetsuwan-atom-ivan-no-wakusei-robot-to-ningen-no-yuujou](https://cdn.myanimelist.net/images/anime/4/49765.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ASTRO BOY 鉄腕アトム特別編 イワンの惑星~ロボットと人間の友情~

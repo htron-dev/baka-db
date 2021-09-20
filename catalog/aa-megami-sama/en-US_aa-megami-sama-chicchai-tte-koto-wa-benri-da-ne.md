@@ -1,5 +1,7 @@
 # Aa! Megami-sama!: Chicchai tte Koto wa Benri da ne
 
+![aa-megami-sama-chicchai-tte-koto-wa-benri-da-ne](https://cdn.myanimelist.net/images/manga/3/174058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 73

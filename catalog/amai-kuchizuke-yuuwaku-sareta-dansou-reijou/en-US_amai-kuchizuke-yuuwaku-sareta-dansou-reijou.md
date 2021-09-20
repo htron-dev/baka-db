@@ -1,5 +1,7 @@
 # Amai Kuchizuke: Yuuwaku sareta Dansou Reijou
 
+![amai-kuchizuke-yuuwaku-sareta-dansou-reijou](https://cdn.myanimelist.net/images/manga/2/184069.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

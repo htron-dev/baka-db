@@ -1,5 +1,7 @@
 # Aku no Joou no Kiseki
 
+![aku-no-joou-no-kiseki](https://cdn.myanimelist.net/images/manga/3/221837.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

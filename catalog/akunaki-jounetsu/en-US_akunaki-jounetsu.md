@@ -1,5 +1,7 @@
 # Akunaki Jounetsu
 
+![akunaki-jounetsu](https://cdn.myanimelist.net/images/manga/2/39521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 飽くなき情熱

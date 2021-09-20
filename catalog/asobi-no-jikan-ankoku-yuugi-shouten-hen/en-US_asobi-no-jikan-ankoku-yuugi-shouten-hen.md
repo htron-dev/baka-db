@@ -1,5 +1,7 @@
 # Asobi no Jikan: Ankoku Yuugi Shouten-hen
 
+![asobi-no-jikan-ankoku-yuugi-shouten-hen](https://cdn.myanimelist.net/images/manga/2/119231.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あそびの時間―暗黒遊戯昇天編

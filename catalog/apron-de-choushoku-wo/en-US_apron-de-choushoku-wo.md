@@ -1,5 +1,7 @@
 # Apron de Choushoku wo
 
+![apron-de-choushoku-wo](https://cdn.myanimelist.net/images/manga/1/32686.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

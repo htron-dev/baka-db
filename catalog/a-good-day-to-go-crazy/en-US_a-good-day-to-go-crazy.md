@@ -1,5 +1,7 @@
 # A Good Day to Go Crazy
 
+![a-good-day-to-go-crazy](https://cdn.myanimelist.net/images/manga/2/235912.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 미치기 좋은 날

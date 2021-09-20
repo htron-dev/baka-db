@@ -1,5 +1,7 @@
 # Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!
 
+![amanchu-upyopyo-dive-tsukkome-umi-no-sekai](https://cdn.myanimelist.net/images/anime/1907/100565.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: あまんちゅ！うぴょぴょ ダ～イブツッコめ！海の世界！

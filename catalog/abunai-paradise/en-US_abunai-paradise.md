@@ -1,5 +1,7 @@
 # Abunai Paradise
 
+![abunai-paradise](https://cdn.myanimelist.net/images/manga/2/34881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あぶない・パラダイス

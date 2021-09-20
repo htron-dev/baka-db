@@ -1,5 +1,7 @@
 # Ao no Hako
 
+![ao-no-hako](https://cdn.myanimelist.net/images/manga/2/248748.jpg)
+
 -   **type**: manga
 -   **original-name**: アオのハコ
 -   **start-date**: 2021-04-12

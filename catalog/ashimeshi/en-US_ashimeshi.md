@@ -1,5 +1,7 @@
 # Ashimeshi
 
+![ashimeshi](https://cdn.myanimelist.net/images/manga/2/82528.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: あしめし

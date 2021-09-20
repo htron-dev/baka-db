@@ -1,5 +1,7 @@
 # A.LI.CE
 
+![a-li-ce](https://cdn.myanimelist.net/images/manga/3/228757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

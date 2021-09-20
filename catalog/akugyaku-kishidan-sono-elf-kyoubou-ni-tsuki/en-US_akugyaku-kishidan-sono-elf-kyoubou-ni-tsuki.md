@@ -1,5 +1,7 @@
 # Akugyaku Kishidan: Sono Elf, Kyoubou ni Tsuki
 
+![akugyaku-kishidan-sono-elf-kyoubou-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/195593.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪逆騎士団 そのエルフ、凶暴につき
 -   **start-date**: 2016-12-10

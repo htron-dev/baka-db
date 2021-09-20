@@ -1,5 +1,7 @@
 # Akuyaku Reijou Route ga Nai nante, Dare ga Itta no?
 
+![akuyaku-reijou-route-ga-nai-nante-dare-ga-itta-no](https://cdn.myanimelist.net/images/manga/1/248504.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢ルートがないなんて、誰が言ったの？
 -   **start-date**: 2021-01-05

@@ -1,5 +1,7 @@
 # Assault Lily: Bouquet
 
+![assault-lily-bouquet](https://cdn.myanimelist.net/images/anime/1024/108413.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アサルトリリィ Bouquet

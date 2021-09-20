@@ -1,5 +1,7 @@
 # Arad Senki: Slap Up Party
 
+![arad-senki-slap-up-party](https://cdn.myanimelist.net/images/manga/1/201122.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Arcana Famiglia
 
+![arcana-famiglia](https://cdn.myanimelist.net/images/anime/9/39495.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アルカナ・ファミリア －La storia della Arcana Famiglia－

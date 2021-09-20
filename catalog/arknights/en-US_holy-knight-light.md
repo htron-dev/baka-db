@@ -1,5 +1,7 @@
 # Holy Knight Light
 
+![holy-knight-light](https://cdn.myanimelist.net/images/anime/1829/110959.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Holy Knight Light

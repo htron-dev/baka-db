@@ -1,5 +1,7 @@
 # Akai Hana
 
+![akai-hana](https://cdn.myanimelist.net/images/manga/2/171225.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

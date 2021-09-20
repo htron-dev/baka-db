@@ -1,5 +1,7 @@
 # Anitore! XX: Hitotsu Yane no Shita de
 
+![anitore-xx-hitotsu-yane-no-shita-de](https://cdn.myanimelist.net/images/anime/10/82252.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あにトレ! XX~ひとつ屋根の下で~

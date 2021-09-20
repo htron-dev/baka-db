@@ -1,5 +1,7 @@
 # Akarui Kazokuhou Keikaku!
 
+![akarui-kazokuhou-keikaku](https://cdn.myanimelist.net/images/manga/2/131699.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 43

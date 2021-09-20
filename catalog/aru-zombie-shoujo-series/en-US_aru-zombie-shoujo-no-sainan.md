@@ -1,5 +1,7 @@
 # Aru Zombie Shoujo no Sainan
 
+![aru-zombie-shoujo-no-sainan](https://cdn.myanimelist.net/images/anime/13/74565.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あるゾンビ少女の災難

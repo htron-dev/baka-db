@@ -1,5 +1,7 @@
 # AWOL Compression Re-MIX
 
+![awol-compression-re-mix](https://cdn.myanimelist.net/images/anime/1292/106696.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: エイウォール COMPRESSION RE-MIX

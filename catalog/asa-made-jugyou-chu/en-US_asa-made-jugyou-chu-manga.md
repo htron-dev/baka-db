@@ -1,5 +1,7 @@
 # Asa Made Jugyou Chu!
 
+![asa-made-jugyou-chu](https://cdn.myanimelist.net/images/manga/2/188815.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 49

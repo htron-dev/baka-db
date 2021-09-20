@@ -1,5 +1,7 @@
 # Ashita-naki Futari demo
 
+![ashita-naki-futari-demo](https://cdn.myanimelist.net/images/manga/3/247200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 明日なき二人でも

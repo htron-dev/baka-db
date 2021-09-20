@@ -1,5 +1,7 @@
 # Megaton-kyuu Musashi
 
+![megaton-kyuu-musashi](https://cdn.myanimelist.net/images/anime/1317/116693.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: メガトン級ムサシ
 -   **start-date**: 2021-10-01

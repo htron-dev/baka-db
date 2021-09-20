@@ -1,5 +1,7 @@
 # Assassin's Creed: China
 
+![assassins-creed-china](https://cdn.myanimelist.net/images/manga/1/244137.jpg)
+
 -   **type**: manga
 -   **original-name**: アサシン クリード チャイナ
 -   **start-date**: 2019-10-19

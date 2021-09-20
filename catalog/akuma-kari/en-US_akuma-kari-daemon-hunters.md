@@ -1,5 +1,7 @@
 # Akuma Kari - Daemon Hunters
 
+![akuma-kari-daemon-hunters](https://cdn.myanimelist.net/images/manga/1/10977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪魔狩り Daemon Hunters

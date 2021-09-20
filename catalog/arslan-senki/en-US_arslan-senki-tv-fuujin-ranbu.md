@@ -1,5 +1,7 @@
 # Arslan Senki (TV): Fuujin Ranbu
 
+![arslan-senki-tv-fuujin-ranbu](https://cdn.myanimelist.net/images/anime/12/80681.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: アルスラーン戦記 風塵乱舞

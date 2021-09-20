@@ -1,5 +1,7 @@
 # Ao ni Koubou
 
+![ao-ni-koubou](https://cdn.myanimelist.net/images/manga/2/151908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

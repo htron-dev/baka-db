@@ -1,5 +1,7 @@
 # Aigan Ouji to Himesama
 
+![aigan-ouji-to-himesama](https://cdn.myanimelist.net/images/manga/2/185849.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Aozora Shoujotai Gaiden
 
+![aozora-shoujotai-gaiden](https://cdn.myanimelist.net/images/manga/3/32261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

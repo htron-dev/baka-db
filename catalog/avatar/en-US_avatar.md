@@ -1,5 +1,7 @@
 # Avatar
 
+![avatar](https://cdn.myanimelist.net/images/manga/1/61171.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 外星阿凡達
 

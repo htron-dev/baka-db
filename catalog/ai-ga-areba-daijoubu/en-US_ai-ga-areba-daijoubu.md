@@ -1,5 +1,7 @@
 # Ai ga Areba Daijoubu
 
+![ai-ga-areba-daijoubu](https://cdn.myanimelist.net/images/manga/3/80095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

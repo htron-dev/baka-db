@@ -1,5 +1,7 @@
 # Ayakashi Koi Kitan: Kokuryuu to Datenshi
 
+![ayakashi-koi-kitan-kokuryuu-to-datenshi](https://cdn.myanimelist.net/images/manga/1/182569.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

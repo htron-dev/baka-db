@@ -1,5 +1,7 @@
 # Asia Burai: Senjou no Toppamono
 
+![asia-burai-senjou-no-toppamono](https://cdn.myanimelist.net/images/manga/3/166845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

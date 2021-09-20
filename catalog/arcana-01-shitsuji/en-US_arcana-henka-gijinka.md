@@ -1,5 +1,7 @@
 # Arcana - Henka☆Gijinka
 
+![arcana-henka☆-gijinka](https://cdn.myanimelist.net/images/manga/1/39449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

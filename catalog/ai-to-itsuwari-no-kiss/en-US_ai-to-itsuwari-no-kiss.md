@@ -1,5 +1,7 @@
 # Ai to Itsuwari no Kiss
 
+![ai-to-itsuwari-no-kiss](https://cdn.myanimelist.net/images/manga/1/142289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

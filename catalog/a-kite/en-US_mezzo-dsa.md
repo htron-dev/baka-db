@@ -1,5 +1,7 @@
 # Mezzo DSA
 
+![mezzo-dsa](https://cdn.myanimelist.net/images/anime/9/3235.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: メゾ

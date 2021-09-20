@@ -1,5 +1,7 @@
 # Akuma Otome ni Ijiwaru Tenshi
 
+![akuma-otome-ni-ijiwaru-tenshi](https://cdn.myanimelist.net/images/manga/2/181988.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

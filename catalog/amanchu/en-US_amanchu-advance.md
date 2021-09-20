@@ -1,5 +1,7 @@
 # Amanchu! Advance
 
+![amanchu-advance](https://cdn.myanimelist.net/images/anime/1095/95063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あまんちゅ！～あどばんす～

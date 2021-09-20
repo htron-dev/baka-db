@@ -1,5 +1,7 @@
 # Aejuma-sama no Gakkou
 
+![aejuma-sama-no-gakkou](https://cdn.myanimelist.net/images/manga/2/204367.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

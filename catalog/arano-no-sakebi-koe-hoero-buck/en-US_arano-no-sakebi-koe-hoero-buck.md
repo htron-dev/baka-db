@@ -1,5 +1,7 @@
 # Arano no Sakebi Koe: Hoero, Buck
 
+![arano-no-sakebi-koe-hoero-buck](https://cdn.myanimelist.net/images/anime/6/56765.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 荒野の呼び声 吠えろバック

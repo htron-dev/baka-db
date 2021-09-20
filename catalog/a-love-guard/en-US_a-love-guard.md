@@ -1,5 +1,7 @@
 # A Love Guard
 
+![a-love-guard](https://cdn.myanimelist.net/images/manga/3/25274.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 사랑지기

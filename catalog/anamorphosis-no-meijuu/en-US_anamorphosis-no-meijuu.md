@@ -1,5 +1,7 @@
 # Anamorphosis no Meijuu
 
+![anamorphosis-no-meijuu](https://cdn.myanimelist.net/images/manga/2/67061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

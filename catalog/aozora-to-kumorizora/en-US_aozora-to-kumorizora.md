@@ -1,5 +1,7 @@
 # Aozora to Kumorizora
 
+![aozora-to-kumorizora](https://cdn.myanimelist.net/images/manga/2/211196.jpg)
+
 -   **type**: manga
 -   **original-name**: あおぞらとくもりぞら
 -   **start-date**: 2016-08-12

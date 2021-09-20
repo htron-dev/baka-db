@@ -1,5 +1,7 @@
 # Koisuru Tenshi Angelique: Chibi Character Adventure 2
 
+![koisuru-tenshi-angelique-chibi-character-adventure-2](https://cdn.myanimelist.net/images/anime/9/20749.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 恋する天使アンジェリーク ちびキャラ Adventure 2

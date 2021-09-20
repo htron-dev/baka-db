@@ -1,5 +1,7 @@
 # Apothecarius Argentum
 
+![apothecarius-argentum](https://cdn.myanimelist.net/images/manga/3/5234.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

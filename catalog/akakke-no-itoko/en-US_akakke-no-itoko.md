@@ -1,5 +1,7 @@
 # Akakke no Itoko
 
+![akakke-no-itoko](https://cdn.myanimelist.net/images/manga/4/37719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤ッ毛のいとこ

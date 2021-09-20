@@ -1,5 +1,7 @@
 # Ano Yoru kara Kimi ni Koishiteta
 
+![ano-yoru-kara-kimi-ni-koishiteta](https://cdn.myanimelist.net/images/manga/1/244249.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

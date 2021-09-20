@@ -1,5 +1,7 @@
 # Akarui Sekai Keikaku
 
+![akarui-sekai-keikaku](https://cdn.myanimelist.net/images/manga/3/188911.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

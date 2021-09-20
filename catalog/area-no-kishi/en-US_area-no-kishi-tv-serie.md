@@ -1,5 +1,7 @@
 # Area no Kishi
 
+![area-no-kishi](https://cdn.myanimelist.net/images/anime/6/73987.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: エリアの騎士

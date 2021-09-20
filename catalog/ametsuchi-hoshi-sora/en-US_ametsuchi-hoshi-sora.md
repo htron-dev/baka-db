@@ -1,5 +1,7 @@
 # Ametsuchi Hoshi Sora
 
+![ametsuchi-hoshi-sora](https://cdn.myanimelist.net/images/manga/3/172944.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: あめつちほしそら

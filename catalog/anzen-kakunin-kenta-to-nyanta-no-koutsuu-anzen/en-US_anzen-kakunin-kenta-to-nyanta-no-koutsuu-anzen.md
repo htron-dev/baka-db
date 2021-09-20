@@ -1,5 +1,7 @@
 # Anzen Kakunin: Kenta to Nyanta no Koutsuu Anzen
 
+![anzen-kakunin-kenta-to-nyanta-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/11/84776.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あんぜんかくにん ケンタとニャンタのこうつうあんぜん

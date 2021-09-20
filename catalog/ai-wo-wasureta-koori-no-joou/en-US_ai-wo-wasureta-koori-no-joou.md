@@ -1,5 +1,7 @@
 # Ai wo Wasureta Koori no Joou
 
+![ai-wo-wasureta-koori-no-joou](https://cdn.myanimelist.net/images/manga/2/127103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛を忘れた氷の女王

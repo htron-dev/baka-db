@@ -1,5 +1,7 @@
 # Aikatsu!: Nerawareta Mahou no Aikatsu! Card
 
+![aikatsu-nerawareta-mahou-no-aikatsu-card](https://cdn.myanimelist.net/images/anime/12/78662.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アイカツ！〜ねらわれた魔法のアイカツ！カード〜

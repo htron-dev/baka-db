@@ -1,5 +1,7 @@
 # Ouritsu Uchuugun: Honneamise no Tsubasa
 
+![ouritsu-uchuugun-honneamise-no-tsubasa](https://cdn.myanimelist.net/images/anime/1811/112663.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 王立宇宙軍 オネアミスの翼

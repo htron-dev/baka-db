@@ -1,5 +1,7 @@
 # Amakunai Karera no Nichijou wa.
 
+![amakunai-karera-no-nichijou-wa](https://cdn.myanimelist.net/images/manga/2/221103.jpg)
+
 -   **type**: manga
 -   **original-name**: 甘くない彼らの日常は。
 -   **start-date**: 2019-01-24

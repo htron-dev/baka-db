@@ -1,5 +1,7 @@
 # Aishite Kudasai, Sensei
 
+![aishite-kudasai-sensei](https://cdn.myanimelist.net/images/manga/1/33538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

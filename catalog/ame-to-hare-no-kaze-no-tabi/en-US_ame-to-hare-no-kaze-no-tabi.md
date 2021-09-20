@@ -1,5 +1,7 @@
 # Ame to Hare no Kaze no Tabi
 
+![ame-to-hare-no-kaze-no-tabi](https://cdn.myanimelist.net/images/manga/1/182520.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

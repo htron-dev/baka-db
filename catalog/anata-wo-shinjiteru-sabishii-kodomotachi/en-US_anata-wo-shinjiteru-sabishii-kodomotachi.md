@@ -1,5 +1,7 @@
 # Anata wo Shinjiteru: Sabishii Kodomotachi
 
+![anata-wo-shinjiteru-sabishii-kodomotachi](https://cdn.myanimelist.net/images/manga/2/127319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

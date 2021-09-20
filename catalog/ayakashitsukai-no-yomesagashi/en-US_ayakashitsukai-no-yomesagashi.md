@@ -1,5 +1,7 @@
 # Ayakashitsukai no Yomesagashi
 
+![ayakashitsukai-no-yomesagashi](https://cdn.myanimelist.net/images/manga/3/221972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

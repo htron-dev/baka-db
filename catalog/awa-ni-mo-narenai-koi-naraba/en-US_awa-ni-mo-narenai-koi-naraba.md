@@ -1,5 +1,7 @@
 # Awa ni mo Narenai Koi naraba
 
+![awa-ni-mo-narenai-koi-naraba](https://cdn.myanimelist.net/images/manga/1/222387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

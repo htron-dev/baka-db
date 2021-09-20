@@ -1,5 +1,7 @@
 # Anime Rakugo Kan
 
+![anime-rakugo-kan](https://cdn.myanimelist.net/images/anime/12/24102.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: アニメ落語館

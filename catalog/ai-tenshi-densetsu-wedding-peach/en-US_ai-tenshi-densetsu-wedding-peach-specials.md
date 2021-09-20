@@ -1,5 +1,7 @@
 # Ai Tenshi Densetsu Wedding Peach Specials
 
+![ai-tenshi-densetsu-wedding-peach-specials](https://cdn.myanimelist.net/images/anime/10/66119.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 愛天使伝説 ウェディングピーチ

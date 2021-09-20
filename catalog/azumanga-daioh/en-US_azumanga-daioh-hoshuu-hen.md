@@ -1,5 +1,7 @@
 # Azumanga Daioh: Hoshuu-hen
 
+![azumanga-daioh-hoshuu-hen](https://cdn.myanimelist.net/images/manga/3/19903.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: あずまんが大王 補習編

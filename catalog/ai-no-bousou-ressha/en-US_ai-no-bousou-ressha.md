@@ -1,5 +1,7 @@
 # Ai no Bousou Ressha
 
+![ai-no-bousou-ressha](https://cdn.myanimelist.net/images/manga/1/153448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

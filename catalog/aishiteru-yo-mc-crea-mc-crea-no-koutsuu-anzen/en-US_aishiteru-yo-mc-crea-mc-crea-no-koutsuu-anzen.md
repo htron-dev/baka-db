@@ -1,5 +1,7 @@
 # Aishiteru yo McCrea: McCrea no Koutsuu Anzen
 
+![aishiteru-yo-mc-crea-mc-crea-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1251/99453.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あいしてるよマクリー マクリーの交通安全

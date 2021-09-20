@@ -1,5 +1,7 @@
 # Actor Dance
 
+![actor-dance](https://cdn.myanimelist.net/images/manga/1/233400.jpg)
+
 -   **type**: manga
 -   **original-name**: アクターダンス
 -   **start-date**: 2019-12-28

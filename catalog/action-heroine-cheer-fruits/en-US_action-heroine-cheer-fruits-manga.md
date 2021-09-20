@@ -1,5 +1,7 @@
 # Action Heroine Cheer Fruits
 
+![action-heroine-cheer-fruits](https://cdn.myanimelist.net/images/manga/3/203489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

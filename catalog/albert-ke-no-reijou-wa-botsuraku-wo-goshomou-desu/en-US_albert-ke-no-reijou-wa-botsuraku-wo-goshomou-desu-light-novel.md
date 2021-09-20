@@ -1,5 +1,7 @@
 # Albert-ke no Reijou wa Botsuraku wo Goshomou desu
 
+![albert-ke-no-reijou-wa-botsuraku-wo-goshomou-desu](https://cdn.myanimelist.net/images/manga/3/193239.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アルバート家の令嬢は没落をご所望です
 -   **start-date**: 2014-07-30

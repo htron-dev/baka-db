@@ -1,5 +1,7 @@
 # Ano Ko ga Kare wo Suki na Riyuu
 
+![ano-ko-ga-kare-wo-suki-na-riyuu](https://cdn.myanimelist.net/images/manga/3/39852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

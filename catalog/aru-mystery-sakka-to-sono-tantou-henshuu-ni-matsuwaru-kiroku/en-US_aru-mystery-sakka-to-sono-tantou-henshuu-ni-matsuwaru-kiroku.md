@@ -1,5 +1,7 @@
 # Aru Mystery Sakka to Sono Tantou Henshuu ni Matsuwaru Kiroku
 
+![aru-mystery-sakka-to-sono-tantou-henshuu-ni-matsuwaru-kiroku](https://cdn.myanimelist.net/images/manga/1/84631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

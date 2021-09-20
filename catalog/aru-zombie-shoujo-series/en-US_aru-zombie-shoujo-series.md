@@ -1,5 +1,7 @@
 # Aru Zombie Shoujo Series
 
+![aru-zombie-shoujo-series](https://cdn.myanimelist.net/images/manga/2/111909.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あるゾンビ少女シリーズ
 -   **start-date**: 2012-06-30

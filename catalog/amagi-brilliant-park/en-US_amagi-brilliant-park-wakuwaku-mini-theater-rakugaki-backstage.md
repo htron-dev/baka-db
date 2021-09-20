@@ -1,5 +1,7 @@
 # Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage
 
+![amagi-brilliant-park-wakuwaku-mini-theater-rakugaki-backstage](https://cdn.myanimelist.net/images/anime/4/72011.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 甘城ブリリアントパーク 「わくわくミニシアター らくがきバックステージ」

@@ -1,5 +1,7 @@
 # Caterpillar
 
+![caterpillar](https://cdn.myanimelist.net/images/manga/2/137585.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 98

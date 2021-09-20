@@ -1,5 +1,7 @@
 # Aa! Seishun no Koushien
 
+![aa-seishun-no-koushien](https://cdn.myanimelist.net/images/manga/1/115499.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 38

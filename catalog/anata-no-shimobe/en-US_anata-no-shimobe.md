@@ -1,5 +1,7 @@
 # Anata no Shimobe
 
+![anata-no-shimobe](https://cdn.myanimelist.net/images/manga/3/95827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

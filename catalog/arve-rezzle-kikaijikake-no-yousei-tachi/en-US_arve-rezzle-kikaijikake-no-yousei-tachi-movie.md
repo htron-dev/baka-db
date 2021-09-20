@@ -1,5 +1,7 @@
 # Arve Rezzle: Kikaijikake no Yousei-tachi
 
+![arve-rezzle-kikaijikake-no-yousei-tachi](https://cdn.myanimelist.net/images/anime/4/43343.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アルヴ・レズル -機械仕掛けの妖精たち-

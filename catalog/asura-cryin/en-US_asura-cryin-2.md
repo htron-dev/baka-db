@@ -1,5 +1,7 @@
 # Asura Cryin' 2
 
+![asura-cryin-2](https://cdn.myanimelist.net/images/anime/9/50897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アスラクライン 2

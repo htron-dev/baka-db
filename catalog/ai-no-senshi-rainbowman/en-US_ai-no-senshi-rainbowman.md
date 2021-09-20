@@ -1,5 +1,7 @@
 # Ai no Senshi Rainbowman
 
+![ai-no-senshi-rainbowman](https://cdn.myanimelist.net/images/anime/5/21465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 愛の戦士レインボーマン

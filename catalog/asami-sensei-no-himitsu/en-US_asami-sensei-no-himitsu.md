@@ -1,5 +1,7 @@
 # Asami-sensei no Himitsu
 
+![asami-sensei-no-himitsu](https://cdn.myanimelist.net/images/manga/3/156108.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

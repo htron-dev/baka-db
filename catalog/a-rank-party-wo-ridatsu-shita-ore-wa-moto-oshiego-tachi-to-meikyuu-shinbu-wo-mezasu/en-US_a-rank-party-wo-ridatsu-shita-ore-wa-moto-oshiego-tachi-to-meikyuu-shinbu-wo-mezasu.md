@@ -1,5 +1,7 @@
 # A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
 
+![a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu](https://cdn.myanimelist.net/images/manga/2/247649.jpg)
+
 -   **type**: manga
 -   **original-name**: A ランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。
 -   **start-date**: 2021-06-25

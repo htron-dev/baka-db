@@ -1,5 +1,7 @@
 # Akuma no Kairozu
 
+![akuma-no-kairozu](https://cdn.myanimelist.net/images/anime/7/75688.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 悪魔の回路図

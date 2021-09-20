@@ -1,5 +1,7 @@
 # Alice in Gothicland
 
+![alice-in-gothicland](https://cdn.myanimelist.net/images/manga/3/122763.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

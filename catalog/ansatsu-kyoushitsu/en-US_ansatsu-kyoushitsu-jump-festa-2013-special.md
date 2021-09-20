@@ -1,5 +1,7 @@
 # Ansatsu Kyoushitsu: Jump Festa 2013 Special
 
+![ansatsu-kyoushitsu-jump-festa-2013-special](https://cdn.myanimelist.net/images/anime/8/52773.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 暗殺教室

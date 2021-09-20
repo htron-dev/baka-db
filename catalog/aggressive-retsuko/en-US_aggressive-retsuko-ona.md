@@ -1,5 +1,7 @@
 # Aggressive Retsuko (ONA)
 
+![aggressive-retsuko-ona](https://cdn.myanimelist.net/images/anime/12/89288.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: アグレッシブ烈子

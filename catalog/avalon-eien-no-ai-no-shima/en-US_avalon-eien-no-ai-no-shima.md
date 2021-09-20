@@ -1,5 +1,7 @@
 # Avalon - Eien no Ai no Shima
 
+![avalon-eien-no-ai-no-shima](https://cdn.myanimelist.net/images/manga/3/22401.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: AVALON 永遠の愛の島

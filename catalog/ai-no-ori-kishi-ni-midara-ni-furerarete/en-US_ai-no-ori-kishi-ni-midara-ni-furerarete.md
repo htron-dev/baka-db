@@ -1,5 +1,7 @@
 # Ai no Ori: Kishi ni Midara ni Furerarete
 
+![ai-no-ori-kishi-ni-midara-ni-furerarete](https://cdn.myanimelist.net/images/manga/3/182041.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

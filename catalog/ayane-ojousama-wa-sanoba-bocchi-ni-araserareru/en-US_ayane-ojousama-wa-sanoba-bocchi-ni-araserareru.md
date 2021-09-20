@@ -1,5 +1,7 @@
 # Ayane Ojousama wa Sanoba Bocchi ni Araserareru
 
+![ayane-ojousama-wa-sanoba-bocchi-ni-araserareru](https://cdn.myanimelist.net/images/manga/1/192458.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

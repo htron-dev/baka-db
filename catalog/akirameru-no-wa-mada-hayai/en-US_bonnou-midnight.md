@@ -1,5 +1,7 @@
 # Bonnou Midnight
 
+![bonnou-midnight](https://cdn.myanimelist.net/images/manga/3/176012.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

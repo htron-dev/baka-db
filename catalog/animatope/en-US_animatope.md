@@ -1,5 +1,7 @@
 # Animatope
 
+![animatope](https://cdn.myanimelist.net/images/anime/1335/101673.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Animatope

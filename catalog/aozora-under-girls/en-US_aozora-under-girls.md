@@ -1,5 +1,7 @@
 # Aozora Under Girls!
 
+![aozora-under-girls](https://cdn.myanimelist.net/images/anime/8/85986.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 青空アンダーガールズ！

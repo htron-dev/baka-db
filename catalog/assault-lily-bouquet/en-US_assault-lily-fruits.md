@@ -1,5 +1,7 @@
 # Assault Lily: Fruits
 
+![assault-lily-fruits](https://cdn.myanimelist.net/images/anime/1444/116888.jpg)
+
 -   **type**: ona
 -   **original-name**: アサルトリリィ ふるーつ
 -   **start-date**: 2021-07-20

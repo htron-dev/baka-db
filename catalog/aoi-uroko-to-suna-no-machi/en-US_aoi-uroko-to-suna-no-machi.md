@@ -1,5 +1,7 @@
 # Aoi Uroko to Suna no Machi
 
+![aoi-uroko-to-suna-no-machi](https://cdn.myanimelist.net/images/manga/3/115853.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

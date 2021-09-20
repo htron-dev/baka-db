@@ -1,5 +1,7 @@
 # Asatte no Houkou.
 
+![asatte-no-houkou](https://cdn.myanimelist.net/images/manga/4/33018.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

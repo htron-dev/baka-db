@@ -1,5 +1,7 @@
 # Ai to Iu Na no Moto ni
 
+![ai-to-iu-na-no-moto-ni](https://cdn.myanimelist.net/images/manga/3/225649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛という名のもとに

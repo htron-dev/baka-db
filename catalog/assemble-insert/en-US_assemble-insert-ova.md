@@ -1,5 +1,7 @@
 # Assemble Insert
 
+![assemble-insert](https://cdn.myanimelist.net/images/anime/4/61291.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: アッセンブル・インサート

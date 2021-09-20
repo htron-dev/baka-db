@@ -1,5 +1,7 @@
 # Kaishain x Sumida Suizokukan Bikkuri! Kai Matsuri CM
 
+![kaishain-x-sumida-suizokukan-bikkuri-kai-matsuri-cm](https://cdn.myanimelist.net/images/anime/11/84734.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 貝社員 × すみだ水族館　ビックリ！貝まつり CM

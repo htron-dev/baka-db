@@ -1,5 +1,7 @@
 # Aru Hi, Bokura ga Koi ni Ochitara
 
+![aru-hi-bokura-ga-koi-ni-ochitara](https://cdn.myanimelist.net/images/manga/3/214863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

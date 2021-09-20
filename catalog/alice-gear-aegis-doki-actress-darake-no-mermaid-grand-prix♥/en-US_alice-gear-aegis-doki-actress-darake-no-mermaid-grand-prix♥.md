@@ -1,5 +1,7 @@
 # Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix♥
 
+![alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix♥](https://cdn.myanimelist.net/images/anime/1039/116828.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アリス・ギア・アイギス ～ドキッ！アクトレスだらけのマーメイドグランプリ ♥ ～

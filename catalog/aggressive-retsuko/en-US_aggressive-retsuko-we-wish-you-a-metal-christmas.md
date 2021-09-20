@@ -1,5 +1,7 @@
 # Aggressive Retsuko: We Wish You a Metal Christmas
 
+![aggressive-retsuko-we-wish-you-a-metal-christmas](https://cdn.myanimelist.net/images/anime/1435/97291.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アグレッシブ烈子: We Wish You a Metal Christmas

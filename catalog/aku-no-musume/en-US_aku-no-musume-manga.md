@@ -1,5 +1,7 @@
 # Aku no Musume
 
+![aku-no-musume](https://cdn.myanimelist.net/images/manga/3/161454.jpg)
+
 -   **type**: manga
 -   **original-name**: COMIC 悪ノ娘
 -   **start-date**: 2014-02-15

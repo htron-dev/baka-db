@@ -1,5 +1,7 @@
 # Arima-kun wa Genjitsu wo Minai.
 
+![arima-kun-wa-genjitsu-wo-minai](https://cdn.myanimelist.net/images/manga/1/182436.jpg)
+
 -   **type**: manga
 -   **original-name**: 蟻馬くんは現実を見ない。
 -   **start-date**: 2016-07-28

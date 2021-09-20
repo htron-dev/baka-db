@@ -1,5 +1,7 @@
 # Ashley: Mahou wa Yoiko ni Natte kara
 
+![ashley-mahou-wa-yoiko-ni-natte-kara](https://cdn.myanimelist.net/images/manga/3/200240.jpg)
+
 -   **type**: manga
 -   **original-name**: アシュリー～魔法はよい子になってから～
 -   **start-date**: 2017-08-17

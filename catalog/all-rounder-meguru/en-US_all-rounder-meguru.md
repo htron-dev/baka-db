@@ -1,5 +1,7 @@
 # All Rounder Meguru
 
+![all-rounder-meguru](https://cdn.myanimelist.net/images/manga/3/63135.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 178

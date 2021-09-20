@@ -1,5 +1,7 @@
 # Angula Blue
 
+![angula-blue](https://cdn.myanimelist.net/images/manga/1/239384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

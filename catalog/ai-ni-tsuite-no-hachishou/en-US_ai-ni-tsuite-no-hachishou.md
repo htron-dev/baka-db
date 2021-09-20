@@ -1,5 +1,7 @@
 # Ai ni Tsuite no Hachishou
 
+![ai-ni-tsuite-no-hachishou](https://cdn.myanimelist.net/images/manga/2/227545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛についての八章

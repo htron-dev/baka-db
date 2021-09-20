@@ -1,5 +1,7 @@
 # Cencoroll 3
 
+![cencoroll-3](https://cdn.myanimelist.net/images/anime/1981/101698.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: センコロール 3

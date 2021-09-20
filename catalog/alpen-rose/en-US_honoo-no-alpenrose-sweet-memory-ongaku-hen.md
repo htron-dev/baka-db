@@ -1,5 +1,7 @@
 # Honoo no Alpenrose: Sweet Memory Ongaku-hen
 
+![honoo-no-alpenrose-sweet-memory-ongaku-hen](https://cdn.myanimelist.net/images/anime/9/85887.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 「炎のアルペンローゼ」 スウィートメモリー音楽編

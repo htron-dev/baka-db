@@ -1,5 +1,7 @@
 # Ashura-chan to Shurabatta
 
+![ashura-chan-to-shurabatta](https://cdn.myanimelist.net/images/manga/3/203752.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

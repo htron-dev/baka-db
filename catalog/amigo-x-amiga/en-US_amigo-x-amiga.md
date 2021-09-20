@@ -1,5 +1,7 @@
 # Amigo x Amiga
 
+![amigo-x-amiga](https://cdn.myanimelist.net/images/manga/2/9945.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あみーご × あみーが

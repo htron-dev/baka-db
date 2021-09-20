@@ -1,5 +1,7 @@
 # Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
 
+![ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga](https://cdn.myanimelist.net/images/manga/3/215177.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが
 -   **start-date**: 2017-11-25

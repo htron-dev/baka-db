@@ -1,5 +1,7 @@
 # Aitata Bocchi
 
+![aitata-bocchi](https://cdn.myanimelist.net/images/anime/9/83551.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あいたたぼっち

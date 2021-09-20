@@ -1,5 +1,7 @@
 # Akuyaku, Hajimemashita
 
+![akuyaku-hajimemashita](https://cdn.myanimelist.net/images/manga/3/175990.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

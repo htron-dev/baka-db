@@ -1,5 +1,7 @@
 # Asobi ni Iku yo!
 
+![asobi-ni-iku-yo](https://cdn.myanimelist.net/images/anime/7/75583.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あそびにいくヨ!

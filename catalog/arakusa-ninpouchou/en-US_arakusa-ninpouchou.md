@@ -1,5 +1,7 @@
 # Arakusa Ninpouchou
 
+![arakusa-ninpouchou](https://cdn.myanimelist.net/images/manga/2/236543.jpg)
+
 -   **type**: manga
 -   **original-name**: あらくさ忍法帖
 -   **start-date**: 2018-11-29

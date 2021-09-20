@@ -1,5 +1,7 @@
 # Aono-kun ni Sawaritai kara Shinitai
 
+![aono-kun-ni-sawaritai-kara-shinitai](https://cdn.myanimelist.net/images/manga/1/197568.jpg)
+
 -   **type**: manga
 -   **original-name**: 青野くんに触りたいから死にたい
 -   **start-date**: 2016-12-24

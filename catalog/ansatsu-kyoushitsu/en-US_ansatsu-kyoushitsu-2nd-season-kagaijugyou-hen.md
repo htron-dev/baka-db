@@ -1,5 +1,7 @@
 # Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen
 
+![ansatsu-kyoushitsu-2nd-season-kagaijugyou-hen](https://cdn.myanimelist.net/images/anime/1807/96939.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 暗殺教室　第２期　課外授業編

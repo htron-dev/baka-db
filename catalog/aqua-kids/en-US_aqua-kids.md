@@ -1,5 +1,7 @@
 # Aqua Kids
 
+![aqua-kids](https://cdn.myanimelist.net/images/anime/4/82405.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 아쿠아 키즈

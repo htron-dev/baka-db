@@ -1,5 +1,7 @@
 # Ai wa Chikyuu wo Sukuu
 
+![ai-wa-chikyuu-wo-sukuu](https://cdn.myanimelist.net/images/manga/2/175798.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 愛は地球を救う

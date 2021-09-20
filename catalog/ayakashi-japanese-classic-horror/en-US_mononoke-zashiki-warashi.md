@@ -1,5 +1,7 @@
 # Mononoke: Zashiki Warashi
 
+![mononoke-zashiki-warashi](https://cdn.myanimelist.net/images/manga/3/167934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

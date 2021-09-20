@@ -1,5 +1,7 @@
 # Akiba Zaijuu
 
+![akiba-zaijuu](https://cdn.myanimelist.net/images/manga/1/4639.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: アキバザイジュウ

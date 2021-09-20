@@ -1,5 +1,7 @@
 # Konnichiwa Anne: Before Green Gables
 
+![konnichiwa-anne-before-green-gables](https://cdn.myanimelist.net/images/anime/13/54069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: こんにちは アン ～ Before Green Gables

@@ -1,5 +1,7 @@
 # Ao no Exorcist Movie Special
 
+![ao-no-exorcist-movie-special](https://cdn.myanimelist.net/images/anime/12/61139.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版「青の祓魔師」特別映像

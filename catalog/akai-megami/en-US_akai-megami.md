@@ -1,5 +1,7 @@
 # Akai Megami
 
+![akai-megami](https://cdn.myanimelist.net/images/manga/1/26271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤い女神

@@ -1,5 +1,7 @@
 # Ato Hitoiki de Ai
 
+![ato-hitoiki-de-ai](https://cdn.myanimelist.net/images/manga/1/100623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

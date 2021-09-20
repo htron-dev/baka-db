@@ -1,5 +1,7 @@
 # Aku Yori Aku
 
+![aku-yori-aku](https://cdn.myanimelist.net/images/manga/2/199974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ai ja Tarinai?
 
+![ai-ja-tarinai](https://cdn.myanimelist.net/images/manga/2/18186.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

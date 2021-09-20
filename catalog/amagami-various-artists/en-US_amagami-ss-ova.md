@@ -1,5 +1,7 @@
 # Amagami SS OVA
 
+![amagami-ss-ova](https://cdn.myanimelist.net/images/anime/8/29939.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: アマガミ SS

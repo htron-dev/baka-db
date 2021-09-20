@@ -1,5 +1,7 @@
 # Akogare no Anoko ga Totsuzen Sematte Kurunda ga, Doushitara Ii?
 
+![akogare-no-anoko-ga-totsuzen-sematte-kurunda-ga-doushitara-ii](https://cdn.myanimelist.net/images/manga/1/97435.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

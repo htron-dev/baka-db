@@ -1,5 +1,7 @@
 # Ai♥Heya
 
+![ai♥-heya](https://cdn.myanimelist.net/images/manga/1/57977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

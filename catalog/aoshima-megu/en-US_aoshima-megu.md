@@ -1,5 +1,7 @@
 # Aoshima Megu
 
+![aoshima-megu](https://cdn.myanimelist.net/images/anime/10/86844.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 碧志摩メグ

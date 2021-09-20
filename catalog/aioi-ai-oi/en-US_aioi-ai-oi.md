@@ -1,5 +1,7 @@
 # Aioi Ai oi
 
+![aioi-ai-oi](https://cdn.myanimelist.net/images/anime/1284/92752.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: あいおい会い追い

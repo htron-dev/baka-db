@@ -1,5 +1,7 @@
 # Astroganger
 
+![astroganger](https://cdn.myanimelist.net/images/anime/5/57971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アストロガンガー

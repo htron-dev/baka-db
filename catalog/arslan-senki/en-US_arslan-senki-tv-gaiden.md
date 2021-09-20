@@ -1,5 +1,7 @@
 # Arslan Senki (TV) Gaiden
 
+![arslan-senki-tv-gaiden](https://cdn.myanimelist.net/images/anime/1219/96314.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: アルスラーン戦記 外伝

@@ -1,5 +1,7 @@
 # Akane Shoten no Kaji Tenchou
 
+![akane-shoten-no-kaji-tenchou](https://cdn.myanimelist.net/images/manga/3/208020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ahiru no Ouji-sama
 
+![ahiru-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/224390.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

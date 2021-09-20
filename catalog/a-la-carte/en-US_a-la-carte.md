@@ -1,5 +1,7 @@
 # A la Carte
 
+![a-la-carte](https://cdn.myanimelist.net/images/manga/1/30011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

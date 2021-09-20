@@ -1,5 +1,7 @@
 # Tetsuwan Atom
 
+![tetsuwan-atom](https://cdn.myanimelist.net/images/anime/10/79582.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 193
 -   **original-name**: 鉄腕アトム

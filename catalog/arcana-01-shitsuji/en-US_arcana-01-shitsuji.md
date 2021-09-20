@@ -1,5 +1,7 @@
 # Arcana 01: Shitsuji
 
+![arcana-01-shitsuji](https://cdn.myanimelist.net/images/manga/1/37652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

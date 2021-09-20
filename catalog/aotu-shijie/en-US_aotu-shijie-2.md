@@ -1,5 +1,7 @@
 # AOTU Shijie 2
 
+![aotu-shijie-2](https://cdn.myanimelist.net/images/anime/7/87766.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 凹凸世界 2

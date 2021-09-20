@@ -1,5 +1,7 @@
 # Amai Himitsu, Amai Shigeki
 
+![amai-himitsu-amai-shigeki](https://cdn.myanimelist.net/images/manga/2/9236.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あまい秘密あまい刺激

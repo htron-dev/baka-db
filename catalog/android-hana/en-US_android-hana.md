@@ -1,5 +1,7 @@
 # Android HANA
 
+![android-hana](https://cdn.myanimelist.net/images/manga/2/37045.jpg)
+
 -   **type**: manga
 
 ## Tags

@@ -1,5 +1,7 @@
 # Amano-ke Yotsugo wa Ketsuekigata ga Zenin Chigau.
 
+![amano-ke-yotsugo-wa-ketsuekigata-ga-zenin-chigau](https://cdn.myanimelist.net/images/manga/3/174431.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

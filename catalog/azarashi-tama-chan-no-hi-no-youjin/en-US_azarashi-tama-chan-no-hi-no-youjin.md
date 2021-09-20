@@ -1,5 +1,7 @@
 # Azarashi Tama-chan no Hi no Youjin
 
+![azarashi-tama-chan-no-hi-no-youjin](https://cdn.myanimelist.net/images/anime/13/68947.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アザラシ・タマちゃんの火の用心

@@ -1,5 +1,7 @@
 # Au Toki wa Tanin no Kao de
 
+![au-toki-wa-tanin-no-kao-de](https://cdn.myanimelist.net/images/manga/1/236202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 会うときは他人の顔で

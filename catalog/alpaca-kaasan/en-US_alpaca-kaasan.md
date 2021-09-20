@@ -1,5 +1,7 @@
 # Alpaca Kaasan
 
+![alpaca-kaasan](https://cdn.myanimelist.net/images/manga/2/149636.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 44

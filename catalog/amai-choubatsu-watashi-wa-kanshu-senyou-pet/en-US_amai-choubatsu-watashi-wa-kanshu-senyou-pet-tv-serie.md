@@ -1,5 +1,7 @@
 # Amai Choubatsu: Watashi wa Kanshu Senyou Pet
 
+![amai-choubatsu-watashi-wa-kanshu-senyou-pet](https://cdn.myanimelist.net/images/anime/1464/108630.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 甘い懲罰~私は看守専用ペット

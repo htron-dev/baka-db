@@ -1,5 +1,7 @@
 # Appleseed Alpha
 
+![appleseed-alpha](https://cdn.myanimelist.net/images/anime/11/64775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Appleseed Alpha

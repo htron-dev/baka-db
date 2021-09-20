@@ -1,5 +1,7 @@
 # Animentary: Ketsudan
 
+![animentary-ketsudan](https://cdn.myanimelist.net/images/anime/6/22270.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: アニメンタリー 決断

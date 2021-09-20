@@ -1,5 +1,7 @@
 # Akatsuki no Tyrant
 
+![akatsuki-no-tyrant](https://cdn.myanimelist.net/images/manga/3/173866.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 46

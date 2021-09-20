@@ -1,5 +1,7 @@
 # Aozameta Uma: Meitantei Eikubo Kamon no Suiri Techou
 
+![aozameta-uma-meitantei-eikubo-kamon-no-suiri-techou](https://cdn.myanimelist.net/images/manga/2/202192.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

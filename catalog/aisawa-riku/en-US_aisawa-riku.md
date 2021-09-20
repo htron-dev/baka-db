@@ -1,5 +1,7 @@
 # Aisawa Riku
 
+![aisawa-riku](https://cdn.myanimelist.net/images/manga/3/153539.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 逢沢りく

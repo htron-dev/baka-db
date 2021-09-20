@@ -1,5 +1,7 @@
 # Ashita, Watashi wa Dareka no Kanojo
 
+![ashita-watashi-wa-dareka-no-kanojo](https://cdn.myanimelist.net/images/manga/2/235865.jpg)
+
 -   **type**: manga
 -   **original-name**: 明日、私は誰かのカノジョ
 -   **start-date**: 2019-05-03

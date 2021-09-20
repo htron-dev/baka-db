@@ -1,5 +1,7 @@
 # Annie's Pantser
 
+![annies-pantser](https://cdn.myanimelist.net/images/manga/2/245688.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

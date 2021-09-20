@@ -1,5 +1,7 @@
 # Anata no Tame nara Onna ni demo
 
+![anata-no-tame-nara-onna-ni-demo](https://cdn.myanimelist.net/images/manga/2/234722.jpg)
+
 -   **type**: manga
 -   **original-name**: あなたのためなら女にでも
 -   **start-date**: 2019-06-14

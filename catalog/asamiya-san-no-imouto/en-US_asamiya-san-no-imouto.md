@@ -1,5 +1,7 @@
 # Asamiya-san no Imouto
 
+![asamiya-san-no-imouto](https://cdn.myanimelist.net/images/manga/3/110971.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Akatsuki no Battlogica
 
+![akatsuki-no-battlogica](https://cdn.myanimelist.net/images/manga/3/160563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 暁の戦闘論者〈バトロジカ〉

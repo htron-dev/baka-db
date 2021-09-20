@@ -1,5 +1,7 @@
 # Ai da Koi da wo Torishimaru Ore ni, Haru ga Yattekita node Chaos
 
+![ai-da-koi-da-wo-torishimaru-ore-ni-haru-ga-yattekita-node-chaos](https://cdn.myanimelist.net/images/manga/2/175708.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Alabaster
 
+![alabaster](https://cdn.myanimelist.net/images/manga/1/36119.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

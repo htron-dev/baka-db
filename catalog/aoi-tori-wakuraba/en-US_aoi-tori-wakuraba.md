@@ -1,5 +1,7 @@
 # Aoi Tori: Wakuraba
 
+![aoi-tori-wakuraba](https://cdn.myanimelist.net/images/manga/2/169586.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

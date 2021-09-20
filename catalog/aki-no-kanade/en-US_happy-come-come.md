@@ -1,5 +1,7 @@
 # Happy ComeCome
 
+![happy-come-come](https://cdn.myanimelist.net/images/anime/10/72482.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハッピーカムカム

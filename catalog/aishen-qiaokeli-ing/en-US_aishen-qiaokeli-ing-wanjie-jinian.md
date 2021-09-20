@@ -1,5 +1,7 @@
 # Aishen Qiaokeli-ing: Wanjie Jinian
 
+![aishen-qiaokeli-ing-wanjie-jinian](https://cdn.myanimelist.net/images/anime/1083/104669.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 爱神巧克力 完结纪念

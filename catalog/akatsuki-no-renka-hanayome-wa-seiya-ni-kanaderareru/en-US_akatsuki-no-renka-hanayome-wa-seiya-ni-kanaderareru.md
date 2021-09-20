@@ -1,5 +1,7 @@
 # Akatsuki no Renka: Hanayome wa Seiya ni Kanaderareru
 
+![akatsuki-no-renka-hanayome-wa-seiya-ni-kanaderareru](https://cdn.myanimelist.net/images/manga/2/191842.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

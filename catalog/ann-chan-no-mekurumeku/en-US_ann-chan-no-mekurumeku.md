@@ -1,5 +1,7 @@
 # Ann-chan no Mekurumeku
 
+![ann-chan-no-mekurumeku](https://cdn.myanimelist.net/images/manga/1/10595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 杏ちゃんのめくるめく日々

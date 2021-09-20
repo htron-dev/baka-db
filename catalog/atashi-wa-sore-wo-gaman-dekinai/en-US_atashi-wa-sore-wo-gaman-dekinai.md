@@ -1,5 +1,7 @@
 # Atashi wa Sore wo Gaman Dekinai
 
+![atashi-wa-sore-wo-gaman-dekinai](https://cdn.myanimelist.net/images/manga/1/77769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

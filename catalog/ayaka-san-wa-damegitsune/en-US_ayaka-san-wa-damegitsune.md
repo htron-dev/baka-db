@@ -1,5 +1,7 @@
 # Ayaka-san wa Damegitsune
 
+![ayaka-san-wa-damegitsune](https://cdn.myanimelist.net/images/manga/3/211284.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

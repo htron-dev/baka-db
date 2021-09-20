@@ -1,5 +1,7 @@
 # Akai Kizuna Blood
 
+![akai-kizuna-blood](https://cdn.myanimelist.net/images/manga/3/32790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤い絆 Blood

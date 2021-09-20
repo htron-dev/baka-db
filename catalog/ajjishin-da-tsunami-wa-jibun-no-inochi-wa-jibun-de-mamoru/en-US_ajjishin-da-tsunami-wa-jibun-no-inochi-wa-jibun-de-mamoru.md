@@ -1,5 +1,7 @@
 # Ajjishin da Tsunami wa? Jibun no Inochi wa Jibun de Mamoru
 
+![ajjishin-da-tsunami-wa-jibun-no-inochi-wa-jibun-de-mamoru](https://cdn.myanimelist.net/images/anime/10/68965.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あっ地震だ 津波は？じぶんの命はじぶんでまもる

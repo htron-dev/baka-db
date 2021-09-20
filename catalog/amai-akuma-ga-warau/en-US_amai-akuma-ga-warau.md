@@ -1,5 +1,7 @@
 # Amai Akuma ga Warau
 
+![amai-akuma-ga-warau](https://cdn.myanimelist.net/images/manga/2/73653.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

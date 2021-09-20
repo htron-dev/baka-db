@@ -1,5 +1,7 @@
 # Amai, Amai Kodou
 
+![amai-amai-kodou](https://cdn.myanimelist.net/images/manga/2/80585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 甘い甘い鼓動

@@ -1,5 +1,7 @@
 # Ahiru no Pekkle no Aladdin to Mahou no Lamp
 
+![ahiru-no-pekkle-no-aladdin-to-mahou-no-lamp](https://cdn.myanimelist.net/images/anime/5/58951.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アヒルのペックルのアラジンと魔法のランプ

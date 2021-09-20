@@ -1,5 +1,7 @@
 # Pops.
 
+![pops](https://cdn.myanimelist.net/images/manga/2/9908.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: pops.

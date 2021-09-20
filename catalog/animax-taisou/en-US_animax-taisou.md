@@ -1,5 +1,7 @@
 # Animax Taisou
 
+![animax-taisou](https://cdn.myanimelist.net/images/anime/6/74386.jpg)
+
 -   **type**: special
 -   **episodes**: 30
 -   **original-name**: アニマックス体操

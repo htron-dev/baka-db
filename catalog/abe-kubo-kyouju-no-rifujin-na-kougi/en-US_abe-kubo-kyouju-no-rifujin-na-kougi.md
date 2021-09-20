@@ -1,5 +1,7 @@
 # Abe Kubo Kyouju no Rifujin na Kougi
 
+![abe-kubo-kyouju-no-rifujin-na-kougi](https://cdn.myanimelist.net/images/manga/1/183849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

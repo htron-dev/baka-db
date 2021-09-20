@@ -1,5 +1,7 @@
 # Aikagi-kun to Shiawase Gohan
 
+![aikagi-kun-to-shiawase-gohan](https://cdn.myanimelist.net/images/manga/2/239513.jpg)
+
 -   **type**: manga
 -   **original-name**: 合鍵くんと幸せごはん
 -   **start-date**: 2020-04-28

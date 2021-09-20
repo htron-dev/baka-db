@@ -1,5 +1,7 @@
 # Ano Natsu de Matteru
 
+![ano-natsu-de-matteru](https://cdn.myanimelist.net/images/anime/12/59405.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あの夏で待ってる

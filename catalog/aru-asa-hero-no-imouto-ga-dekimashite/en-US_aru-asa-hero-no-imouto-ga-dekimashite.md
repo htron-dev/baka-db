@@ -1,5 +1,7 @@
 # Aru Asa, Hero no Imouto ga Dekimashite.
 
+![aru-asa-hero-no-imouto-ga-dekimashite](https://cdn.myanimelist.net/images/manga/2/157064.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

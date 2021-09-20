@@ -1,5 +1,7 @@
 # Ar nosurge: Umareizuru Hoshi e Inoru Uta
 
+![ar-nosurge-umareizuru-hoshi-e-inoru-uta](https://cdn.myanimelist.net/images/manga/1/139931.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

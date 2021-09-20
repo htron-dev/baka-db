@@ -1,5 +1,7 @@
 # Ad Lib Anime Kenkyuujo
 
+![ad-lib-anime-kenkyuujo](https://cdn.myanimelist.net/images/anime/7/33869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: アドリブアニメ研究所

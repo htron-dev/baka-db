@@ -1,5 +1,7 @@
 # Aijin: Itai hodo Aishite
 
+![aijin-itai-hodo-aishite](https://cdn.myanimelist.net/images/manga/3/95843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

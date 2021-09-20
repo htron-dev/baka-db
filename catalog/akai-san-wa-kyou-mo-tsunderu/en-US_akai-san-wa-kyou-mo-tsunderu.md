@@ -1,5 +1,7 @@
 # Akai-san wa Kyou mo Tsunderu.
 
+![akai-san-wa-kyou-mo-tsunderu](https://cdn.myanimelist.net/images/manga/2/183736.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

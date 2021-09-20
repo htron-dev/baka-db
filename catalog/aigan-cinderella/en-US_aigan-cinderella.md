@@ -1,5 +1,7 @@
 # Aigan Cinderella
 
+![aigan-cinderella](https://cdn.myanimelist.net/images/manga/1/157374.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

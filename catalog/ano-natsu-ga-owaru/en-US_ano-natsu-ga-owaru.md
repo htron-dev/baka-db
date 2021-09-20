@@ -1,5 +1,7 @@
 # Ano Natsu ga Owaru
 
+![ano-natsu-ga-owaru](https://cdn.myanimelist.net/images/manga/3/17698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

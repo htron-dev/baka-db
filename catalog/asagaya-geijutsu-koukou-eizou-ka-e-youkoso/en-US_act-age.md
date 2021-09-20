@@ -1,5 +1,7 @@
 # Act-age
 
+![act-age](https://cdn.myanimelist.net/images/manga/2/209753.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 123

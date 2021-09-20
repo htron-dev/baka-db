@@ -1,5 +1,7 @@
 # A-kun (17) no Sensou: I, the Tycoon?
 
+![a-kun-17-no-sensou-i-the-tycoon](https://cdn.myanimelist.net/images/manga/2/120741.jpg)
+
 -   **type**: manga
 -   **original-name**: A 君(17)の戦争 I, THE TYCOON?
 -   **start-date**: 2007-10-09

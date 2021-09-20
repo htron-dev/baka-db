@@ -1,5 +1,7 @@
 # Aozora Pop
 
+![aozora-pop](https://cdn.myanimelist.net/images/manga/1/172887.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

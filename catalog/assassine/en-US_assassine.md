@@ -1,5 +1,7 @@
 # Assassine
 
+![assassine](https://cdn.myanimelist.net/images/manga/5/121909.jpg)
+
 -   **type**: manga
 -   **original-name**: アサシネ
 -   **start-date**: 2010-10-27

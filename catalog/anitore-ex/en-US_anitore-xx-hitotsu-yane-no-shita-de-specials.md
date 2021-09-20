@@ -1,5 +1,7 @@
 # Anitore! XX: Hitotsu Yane no Shita de Specials
 
+![anitore-xx-hitotsu-yane-no-shita-de-specials](https://cdn.myanimelist.net/images/anime/1966/93463.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: あにトレ!!XX ~ひとつ屋根の下で~

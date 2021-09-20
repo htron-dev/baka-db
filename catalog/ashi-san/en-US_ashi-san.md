@@ -1,5 +1,7 @@
 # Ashi-san
 
+![ashi-san](https://cdn.myanimelist.net/images/manga/2/86419.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Arigoke
 
+![arigoke](https://cdn.myanimelist.net/images/manga/2/192536.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

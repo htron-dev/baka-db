@@ -1,5 +1,7 @@
 # Asaki Yumemishi: Genji Monogatari
 
+![asaki-yumemishi-genji-monogatari](https://cdn.myanimelist.net/images/manga/2/242885.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: あさきゆめみし 源氏物語

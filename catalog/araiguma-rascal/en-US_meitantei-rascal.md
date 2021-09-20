@@ -1,5 +1,7 @@
 # Meitantei Rascal
 
+![meitantei-rascal](https://cdn.myanimelist.net/images/anime/5/56615.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: めいたんてい ラスカル

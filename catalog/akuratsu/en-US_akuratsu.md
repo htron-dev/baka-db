@@ -1,5 +1,7 @@
 # Akuratsu
 
+![akuratsu](https://cdn.myanimelist.net/images/manga/2/206406.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 悪辣 アクラツ

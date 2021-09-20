@@ -1,5 +1,7 @@
 # Atashi, Hitori.
 
+![atashi-hitori](https://cdn.myanimelist.net/images/manga/3/122367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

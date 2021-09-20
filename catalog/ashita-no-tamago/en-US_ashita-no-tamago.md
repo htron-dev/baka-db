@@ -1,5 +1,7 @@
 # Ashita no Tamago
 
+![ashita-no-tamago](https://cdn.myanimelist.net/images/manga/1/5756.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あしたのタマゴ

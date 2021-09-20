@@ -1,5 +1,7 @@
 # Aries II: Yomigaeru Seizakyuu
 
+![aries-ii-yomigaeru-seizakyuu](https://cdn.myanimelist.net/images/manga/3/197252.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 33

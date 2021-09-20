@@ -1,5 +1,7 @@
 # Around 30 dakedo, Hatsukoi desu.
 
+![around-30-dakedo-hatsukoi-desu](https://cdn.myanimelist.net/images/manga/3/219872.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

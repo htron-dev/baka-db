@@ -1,5 +1,7 @@
 # Arayuru Shudan wo Tsukushite Top Player ni Naritai, Tanin no Kane de. Souda, Touzoku Shiyou.
 
+![arayuru-shudan-wo-tsukushite-top-player-ni-naritai-tanin-no-kane-de-souda-touzoku-shiyou](https://cdn.myanimelist.net/images/manga/1/198779.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あらゆる手段を尽くしてトッププレイヤーになりたい、他人のカネで。そうだ、盗賊しよう。
 -   **start-date**: 2017-08-25

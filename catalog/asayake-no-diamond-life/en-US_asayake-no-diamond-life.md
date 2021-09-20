@@ -1,5 +1,7 @@
 # Asayake no Diamond Life
 
+![asayake-no-diamond-life](https://cdn.myanimelist.net/images/manga/2/65143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

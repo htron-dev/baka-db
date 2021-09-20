@@ -1,5 +1,7 @@
 # Arcadia Garden
 
+![arcadia-garden](https://cdn.myanimelist.net/images/manga/1/185320.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

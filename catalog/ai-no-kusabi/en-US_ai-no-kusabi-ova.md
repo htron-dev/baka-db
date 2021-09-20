@@ -1,5 +1,7 @@
 # Ai no Kusabi
 
+![ai-no-kusabi](https://cdn.myanimelist.net/images/anime/8/6531.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 間の楔

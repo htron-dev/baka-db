@@ -1,5 +1,7 @@
 # A Cat and a Bird
 
+![a-cat-and-a-bird](https://cdn.myanimelist.net/images/manga/4/28858.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 10

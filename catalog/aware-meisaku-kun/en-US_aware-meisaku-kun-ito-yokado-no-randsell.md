@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: Ito-Yokado no Randsell
 
+![aware-meisaku-kun-ito-yokado-no-randsell](https://cdn.myanimelist.net/images/anime/1000/95977.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あはれ！名作くん 「イトーヨーカドーのランドセル」CM

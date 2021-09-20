@@ -1,5 +1,7 @@
 # Ayumu no Koma
 
+![ayumu-no-koma](https://cdn.myanimelist.net/images/manga/2/236710.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Ai wa Sekai wo Sukuu no ka!?
 
+![ai-wa-sekai-wo-sukuu-no-ka](https://cdn.myanimelist.net/images/manga/3/166779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

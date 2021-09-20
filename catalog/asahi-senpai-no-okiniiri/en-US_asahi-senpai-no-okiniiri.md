@@ -1,5 +1,7 @@
 # Asahi-senpai no Okiniiri
 
+![asahi-senpai-no-okiniiri](https://cdn.myanimelist.net/images/manga/1/202317.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

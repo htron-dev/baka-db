@@ -1,5 +1,7 @@
 # Arachnid
 
+![arachnid](https://cdn.myanimelist.net/images/manga/3/173766.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 73

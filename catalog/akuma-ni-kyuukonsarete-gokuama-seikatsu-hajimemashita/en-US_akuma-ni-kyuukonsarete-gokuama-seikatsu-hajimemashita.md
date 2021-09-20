@@ -1,5 +1,7 @@
 # Akuma ni Kyuukonsarete Gokuama Seikatsu Hajimemashita.
 
+![akuma-ni-kyuukonsarete-gokuama-seikatsu-hajimemashita](https://cdn.myanimelist.net/images/manga/1/217214.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

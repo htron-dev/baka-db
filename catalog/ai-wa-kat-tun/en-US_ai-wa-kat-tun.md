@@ -1,5 +1,7 @@
 # Ai wa KAT-TUN
 
+![ai-wa-kat-tun](https://cdn.myanimelist.net/images/anime/5/36083.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 愛は KAT-TUN

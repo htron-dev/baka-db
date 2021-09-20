@@ -1,5 +1,7 @@
 # Ano Tsuki ni Mukatte Ute!
 
+![ano-tsuki-ni-mukatte-ute](https://cdn.myanimelist.net/images/manga/1/239900.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 52

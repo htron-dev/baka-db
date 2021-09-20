@@ -1,5 +1,7 @@
 # Aho Girl
 
+![aho-girl](https://cdn.myanimelist.net/images/anime/7/86665.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アホガール

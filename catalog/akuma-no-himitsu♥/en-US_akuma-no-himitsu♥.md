@@ -1,5 +1,7 @@
 # Akuma no Himitsu♥
 
+![akuma-no-himitsu♥](https://cdn.myanimelist.net/images/manga/2/2323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

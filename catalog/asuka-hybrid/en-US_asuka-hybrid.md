@@ -1,5 +1,7 @@
 # Asuka Hybrid
 
+![asuka-hybrid](https://cdn.myanimelist.net/images/manga/1/134129.jpg)
+
 -   **type**: manga
 -   **chapters**: 24
 -   **original-name**: アスカはいぶりっど

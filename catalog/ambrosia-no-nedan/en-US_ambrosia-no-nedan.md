@@ -1,5 +1,7 @@
 # Ambrosia no Nedan
 
+![ambrosia-no-nedan](https://cdn.myanimelist.net/images/manga/2/187134.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

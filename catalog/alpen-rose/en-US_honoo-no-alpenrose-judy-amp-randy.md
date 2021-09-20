@@ -1,5 +1,7 @@
 # Honoo no Alpenrose: Judy &amp; Randy
 
+![honoo-no-alpenrose-judy-amp-randy](https://cdn.myanimelist.net/images/anime/2/6776.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 炎のアルペンローゼ・ジュディ＆ランディ

@@ -1,5 +1,7 @@
 # Anti Romance
 
+![anti-romance](https://cdn.myanimelist.net/images/manga/2/169559.jpg)
+
 -   **type**: manga
 -   **original-name**: アンチロマンス
 -   **start-date**: 2015-11-21

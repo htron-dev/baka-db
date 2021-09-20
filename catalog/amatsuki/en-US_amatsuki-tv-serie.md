@@ -1,5 +1,7 @@
 # Amatsuki
 
+![amatsuki](https://cdn.myanimelist.net/images/anime/12/75555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: あまつき

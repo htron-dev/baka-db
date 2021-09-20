@@ -1,5 +1,7 @@
 # Achira Kochira de Aimashou
 
+![achira-kochira-de-aimashou](https://cdn.myanimelist.net/images/manga/2/227471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

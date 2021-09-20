@@ -1,5 +1,7 @@
 # Atelier Ayesha: Aru Renkinjutsushi no Tabi no Nikki yori
 
+![atelier-ayesha-aru-renkinjutsushi-no-tabi-no-nikki-yori](https://cdn.myanimelist.net/images/manga/2/131649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 小説 アーシャのアトリエ ～ある錬金術士の旅の日記より～

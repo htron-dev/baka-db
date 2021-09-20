@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou
 
+![arifureta-shokugyou-de-sekai-saikyou](https://cdn.myanimelist.net/images/anime/1776/97682.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ありふれた職業で世界最強

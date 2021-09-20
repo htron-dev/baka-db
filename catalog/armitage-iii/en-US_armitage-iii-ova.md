@@ -1,5 +1,7 @@
 # Armitage III
 
+![armitage-iii](https://cdn.myanimelist.net/images/anime/1398/94072.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: アミテージ・ザ・サード

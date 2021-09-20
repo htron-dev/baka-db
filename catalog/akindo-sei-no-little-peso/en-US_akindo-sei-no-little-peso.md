@@ -1,5 +1,7 @@
 # Akindo Sei no Little Peso
 
+![akindo-sei-no-little-peso](https://cdn.myanimelist.net/images/anime/7/84307.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アキンド星のリトル・ペソ

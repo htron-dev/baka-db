@@ -1,5 +1,7 @@
 # Akuma na Ouji nanoni Pocchari-hime ni Meromero desu ka?
 
+![akuma-na-ouji-nanoni-pocchari-hime-ni-meromero-desu-ka](https://cdn.myanimelist.net/images/manga/1/183753.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

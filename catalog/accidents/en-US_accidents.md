@@ -1,5 +1,7 @@
 # Accidents
 
+![accidents](https://cdn.myanimelist.net/images/manga/2/89491.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: アクシデンツ,

@@ -1,5 +1,7 @@
 # Attakai, Fuyu Canada
 
+![attakai-fuyu-canada](https://cdn.myanimelist.net/images/anime/2/87832.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あったかい、冬カナダ

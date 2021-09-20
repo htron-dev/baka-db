@@ -1,5 +1,7 @@
 # Africa no Salaryman (TV)
 
+![africa-no-salaryman-tv](https://cdn.myanimelist.net/images/anime/1937/102309.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アフリカのサラリーマン (TV)

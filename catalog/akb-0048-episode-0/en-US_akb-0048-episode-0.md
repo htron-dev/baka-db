@@ -1,5 +1,7 @@
 # AKB0048: Episode 0
 
+![akb-0048-episode-0](https://cdn.myanimelist.net/images/manga/2/135049.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

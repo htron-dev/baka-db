@@ -1,5 +1,7 @@
 # Akai Tsuki
 
+![akai-tsuki](https://cdn.myanimelist.net/images/manga/1/124367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤い月

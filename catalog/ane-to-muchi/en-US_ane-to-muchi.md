@@ -1,5 +1,7 @@
 # Ane to Muchi
 
+![ane-to-muchi](https://cdn.myanimelist.net/images/manga/1/102415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

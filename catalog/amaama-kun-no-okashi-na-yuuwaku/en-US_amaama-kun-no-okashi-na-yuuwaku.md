@@ -1,5 +1,7 @@
 # Amaama-kun no Okashi na Yuuwaku
 
+![amaama-kun-no-okashi-na-yuuwaku](https://cdn.myanimelist.net/images/manga/2/200553.jpg)
+
 -   **type**: manga
 -   **chapters**: 14
 -   **original-name**: あまあまくんのおかしな誘惑

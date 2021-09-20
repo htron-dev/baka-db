@@ -1,5 +1,7 @@
 # Aisareru Hodo, Hentai ni
 
+![aisareru-hodo-hentai-ni](https://cdn.myanimelist.net/images/manga/3/197077.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛されるほど、変態に

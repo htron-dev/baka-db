@@ -1,5 +1,7 @@
 # Angel Beats! The 4-koma: Osora no Shinda Sekai kara
 
+![angel-beats-the-4-koma-osora-no-shinda-sekai-kara](https://cdn.myanimelist.net/images/manga/1/176835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Angel Beats! The4 コマ お空の死んだ世界から

@@ -1,5 +1,7 @@
 # Aoba-kun to Uchuujin
 
+![aoba-kun-to-uchuujin](https://cdn.myanimelist.net/images/manga/3/163287.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

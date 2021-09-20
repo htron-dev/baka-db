@@ -1,5 +1,7 @@
 # Ai no Koe
 
+![ai-no-koe](https://cdn.myanimelist.net/images/manga/4/3958.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

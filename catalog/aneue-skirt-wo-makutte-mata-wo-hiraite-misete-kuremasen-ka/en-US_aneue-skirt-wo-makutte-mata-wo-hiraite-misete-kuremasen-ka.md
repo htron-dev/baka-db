@@ -1,5 +1,7 @@
 # Aneue. Skirt wo Makutte Mata wo Hiraite Misete Kuremasen ka?
 
+![aneue-skirt-wo-makutte-mata-wo-hiraite-misete-kuremasen-ka](https://cdn.myanimelist.net/images/manga/1/243676.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Aniki no Ichiban Oishii Tokoro
 
+![aniki-no-ichiban-oishii-tokoro](https://cdn.myanimelist.net/images/manga/2/239332.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

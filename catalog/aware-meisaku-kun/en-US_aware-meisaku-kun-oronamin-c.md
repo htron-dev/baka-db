@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: Oronamin C
 
+![aware-meisaku-kun-oronamin-c](https://cdn.myanimelist.net/images/anime/2/89215.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あはれ！名作くん 「オロナミンＣ」ＣＭ

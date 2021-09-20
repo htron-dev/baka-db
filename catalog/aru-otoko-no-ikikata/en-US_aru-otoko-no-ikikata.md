@@ -1,5 +1,7 @@
 # Aru Otoko no Ikikata
 
+![aru-otoko-no-ikikata](https://cdn.myanimelist.net/images/anime/1990/98312.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ある男の生き方

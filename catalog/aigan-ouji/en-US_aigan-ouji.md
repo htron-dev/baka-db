@@ -1,5 +1,7 @@
 # Aigan Ouji
 
+![aigan-ouji](https://cdn.myanimelist.net/images/manga/3/58121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛玩王子

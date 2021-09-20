@@ -1,5 +1,7 @@
 # Aru Hi Inu no Kuni kara Tegami ga Kite
 
+![aru-hi-inu-no-kuni-kara-tegami-ga-kite](https://cdn.myanimelist.net/images/manga/2/238350.jpg)
+
 -   **type**: manga
 -   **original-name**: ある日 犬の国から手紙が来て
 -   **start-date**: 2012-01-20

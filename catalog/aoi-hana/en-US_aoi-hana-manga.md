@@ -1,5 +1,7 @@
 # Aoi Hana
 
+![aoi-hana](https://cdn.myanimelist.net/images/manga/1/182493.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 55

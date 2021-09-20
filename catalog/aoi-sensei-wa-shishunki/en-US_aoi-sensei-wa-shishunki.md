@@ -1,5 +1,7 @@
 # Aoi-sensei wa Shishunki
 
+![aoi-sensei-wa-shishunki](https://cdn.myanimelist.net/images/manga/1/196951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

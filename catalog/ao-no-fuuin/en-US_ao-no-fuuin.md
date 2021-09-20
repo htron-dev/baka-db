@@ -1,5 +1,7 @@
 # Ao no Fuuin
 
+![ao-no-fuuin](https://cdn.myanimelist.net/images/manga/5/28173.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 53

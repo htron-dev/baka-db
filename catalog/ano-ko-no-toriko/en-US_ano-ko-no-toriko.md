@@ -1,5 +1,7 @@
 # Ano Ko no, Toriko.
 
+![ano-ko-no-toriko](https://cdn.myanimelist.net/images/manga/2/156296.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

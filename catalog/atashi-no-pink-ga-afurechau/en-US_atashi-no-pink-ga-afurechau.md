@@ -1,5 +1,7 @@
 # Atashi no Pink ga Afurechau
 
+![atashi-no-pink-ga-afurechau](https://cdn.myanimelist.net/images/manga/1/217312.jpg)
+
 -   **type**: manga
 -   **original-name**: あたしのピンクがあふれちゃう
 -   **start-date**: 2017-03-01

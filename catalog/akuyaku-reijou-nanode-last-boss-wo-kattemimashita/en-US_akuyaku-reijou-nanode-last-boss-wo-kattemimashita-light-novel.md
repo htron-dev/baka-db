@@ -1,5 +1,7 @@
 # Akuyaku Reijou nanode Last Boss wo Kattemimashita
 
+![akuyaku-reijou-nanode-last-boss-wo-kattemimashita](https://cdn.myanimelist.net/images/manga/3/235164.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪役令嬢なのでラスボスを飼ってみました
 -   **start-date**: 2017-09-01

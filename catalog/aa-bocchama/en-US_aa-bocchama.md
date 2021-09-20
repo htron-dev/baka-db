@@ -1,5 +1,7 @@
 # Aa! Bocchama...!
 
+![aa-bocchama](https://cdn.myanimelist.net/images/manga/2/220431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

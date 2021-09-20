@@ -1,5 +1,7 @@
 # Ai no Kiseki: Doctor Norman Monogatari
 
+![ai-no-kiseki-doctor-norman-monogatari](https://cdn.myanimelist.net/images/anime/5/62049.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 愛の奇跡ドクターノーマン物語

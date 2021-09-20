@@ -1,5 +1,7 @@
 # Aria the Origination: Sono Choppiri Himitsu no Basho ni...
 
+![aria-the-origination-sono-choppiri-himitsu-no-basho-ni](https://cdn.myanimelist.net/images/anime/11/15053.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: その ちょっぴり秘密の場所に…

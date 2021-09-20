@@ -1,5 +1,7 @@
 # Angelique
 
+![angelique](https://cdn.myanimelist.net/images/manga/3/202730.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 59

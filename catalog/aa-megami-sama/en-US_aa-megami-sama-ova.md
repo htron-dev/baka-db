@@ -1,5 +1,7 @@
 # Aa! Megami-sama!
 
+![aa-megami-sama](https://cdn.myanimelist.net/images/anime/11/71215.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ああっ女神さまっ

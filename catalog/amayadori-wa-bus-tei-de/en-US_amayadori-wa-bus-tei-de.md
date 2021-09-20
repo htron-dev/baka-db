@@ -1,5 +1,7 @@
 # Amayadori wa Bus Tei de
 
+![amayadori-wa-bus-tei-de](https://cdn.myanimelist.net/images/manga/2/155932.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

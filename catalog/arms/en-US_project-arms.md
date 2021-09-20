@@ -1,5 +1,7 @@
 # Project ARMS
 
+![project-arms](https://cdn.myanimelist.net/images/anime/1197/92994.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: プロジェクトアームズ

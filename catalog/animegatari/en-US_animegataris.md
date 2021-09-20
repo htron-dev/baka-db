@@ -1,5 +1,7 @@
 # Animegataris
 
+![animegataris](https://cdn.myanimelist.net/images/anime/12/89686.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アニメガタリズ

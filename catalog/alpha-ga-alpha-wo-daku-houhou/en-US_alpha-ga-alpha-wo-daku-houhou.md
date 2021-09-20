@@ -1,5 +1,7 @@
 # α ga α wo Daku Houhou
 
+![α-ga-α-wo-daku-houhou](https://cdn.myanimelist.net/images/manga/2/236254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

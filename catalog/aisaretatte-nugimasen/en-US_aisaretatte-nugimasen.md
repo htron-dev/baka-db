@@ -1,5 +1,7 @@
 # Aisaretatte Nugimasen.
 
+![aisaretatte-nugimasen](https://cdn.myanimelist.net/images/manga/1/208307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

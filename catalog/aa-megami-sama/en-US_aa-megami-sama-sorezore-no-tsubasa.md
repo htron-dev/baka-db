@@ -1,5 +1,7 @@
 # Aa! Megami-sama!: Sorezore no Tsubasa
 
+![aa-megami-sama-sorezore-no-tsubasa](https://cdn.myanimelist.net/images/anime/4/78931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ああっ女神さまっ　それぞれの翼

@@ -1,5 +1,7 @@
 # Aoi Tori Tsukamaete
 
+![aoi-tori-tsukamaete](https://cdn.myanimelist.net/images/manga/2/194548.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 青い鳥つかまえて

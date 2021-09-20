@@ -1,5 +1,7 @@
 # Aka to Ao no Ehrenberg
 
+![aka-to-ao-no-ehrenberg](https://cdn.myanimelist.net/images/manga/3/146513.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤と蒼のエーレンベルク
 -   **start-date**: 2014-12-26

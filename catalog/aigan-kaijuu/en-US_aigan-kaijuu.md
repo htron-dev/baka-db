@@ -1,5 +1,7 @@
 # Aigan Kaijuu
 
+![aigan-kaijuu](https://cdn.myanimelist.net/images/anime/1557/95194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 愛玩怪獣

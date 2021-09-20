@@ -1,5 +1,7 @@
 # Acchi Kocchi
 
+![acchi-kocchi](https://cdn.myanimelist.net/images/manga/2/188838.jpg)
+
 -   **type**: manga
 -   **original-name**: あっちこっち
 -   **start-date**: 2006-09-09

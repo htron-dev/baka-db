@@ -1,5 +1,7 @@
 # Ao no 6-gou
 
+![ao-no-6-gou](https://cdn.myanimelist.net/images/anime/3/20750.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 青の 6 号

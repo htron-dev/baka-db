@@ -1,5 +1,7 @@
 # Aki no Shika wa Fue ni Yoru
 
+![aki-no-shika-wa-fue-ni-yoru](https://cdn.myanimelist.net/images/manga/3/237036.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

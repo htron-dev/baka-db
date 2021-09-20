@@ -1,5 +1,7 @@
 # Ano Hi, Seifuku de
 
+![ano-hi-seifuku-de](https://cdn.myanimelist.net/images/manga/2/176115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

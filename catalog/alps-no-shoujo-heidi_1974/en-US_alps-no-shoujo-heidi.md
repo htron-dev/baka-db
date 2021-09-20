@@ -1,5 +1,7 @@
 # Alps no Shoujo Heidi
 
+![alps-no-shoujo-heidi](https://cdn.myanimelist.net/images/anime/1338/110897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: アルプスの少女ハイジ

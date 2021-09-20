@@ -1,5 +1,7 @@
 # A Thousand Year Love Of Acacia
 
+![a-thousand-year-love-of-acacia](https://cdn.myanimelist.net/images/manga/1/31858.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 

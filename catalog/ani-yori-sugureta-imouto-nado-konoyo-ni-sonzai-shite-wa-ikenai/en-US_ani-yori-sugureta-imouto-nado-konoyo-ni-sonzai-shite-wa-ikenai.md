@@ -1,5 +1,7 @@
 # Ani yori Sugureta Imouto nado Konoyo ni Sonzai shite wa Ikenai
 
+![ani-yori-sugureta-imouto-nado-konoyo-ni-sonzai-shite-wa-ikenai](https://cdn.myanimelist.net/images/manga/3/168634.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

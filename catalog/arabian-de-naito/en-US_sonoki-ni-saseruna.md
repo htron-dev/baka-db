@@ -1,5 +1,7 @@
 # Sonoki ni Saseruna!
 
+![sonoki-ni-saseruna](https://cdn.myanimelist.net/images/manga/2/16786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

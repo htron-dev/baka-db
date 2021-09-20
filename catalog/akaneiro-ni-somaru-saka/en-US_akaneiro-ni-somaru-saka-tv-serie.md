@@ -1,5 +1,7 @@
 # Akaneiro ni Somaru Saka
 
+![akaneiro-ni-somaru-saka](https://cdn.myanimelist.net/images/anime/9/21525.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あかね色に染まる坂

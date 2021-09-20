@@ -1,5 +1,7 @@
 # At Home Romance
 
+![at-home-romance](https://cdn.myanimelist.net/images/manga/2/84075.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アットホーム・ロマンス

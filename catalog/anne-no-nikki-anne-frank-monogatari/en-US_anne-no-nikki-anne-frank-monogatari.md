@@ -1,5 +1,7 @@
 # Anne no Nikki: Anne Frank Monogatari
 
+![anne-no-nikki-anne-frank-monogatari](https://cdn.myanimelist.net/images/anime/10/33885.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アンネの日記　アンネ・フランク物語

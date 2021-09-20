@@ -1,5 +1,7 @@
 # Ai no Satsujinsha: Kawaki no Sei
 
+![ai-no-satsujinsha-kawaki-no-sei](https://cdn.myanimelist.net/images/manga/3/28151.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛の殺人者 渇きのセイ

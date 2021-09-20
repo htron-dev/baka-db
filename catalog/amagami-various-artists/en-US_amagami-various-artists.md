@@ -1,5 +1,7 @@
 # Amagami: Various Artists
 
+![amagami-various-artists](https://cdn.myanimelist.net/images/manga/5/61435.jpg)
+
 -   **type**: manga
 -   **original-name**: アマガミ - Various Artists -
 -   **start-date**: 2009-08-26

@@ -1,5 +1,7 @@
 # Antique Romance
 
+![antique-romance](https://cdn.myanimelist.net/images/manga/5/30177.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 27

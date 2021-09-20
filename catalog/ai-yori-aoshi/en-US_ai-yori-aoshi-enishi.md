@@ -1,5 +1,7 @@
 # Ai Yori Aoshi: Enishi
 
+![ai-yori-aoshi-enishi](https://cdn.myanimelist.net/images/anime/10/71425.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 藍より青し～縁～

@@ -1,5 +1,7 @@
 # Alice or Alice Recap
 
+![alice-or-alice-recap](https://cdn.myanimelist.net/images/anime/1460/107044.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ありす第 13 話総集編

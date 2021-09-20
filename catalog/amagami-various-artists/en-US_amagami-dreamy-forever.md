@@ -1,5 +1,7 @@
 # Amagami: Dreamy Forever
 
+![amagami-dreamy-forever](https://cdn.myanimelist.net/images/manga/3/89629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

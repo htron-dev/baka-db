@@ -1,5 +1,7 @@
 # Amasawa-kun to Kamuna-chan
 
+![amasawa-kun-to-kamuna-chan](https://cdn.myanimelist.net/images/manga/3/227400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

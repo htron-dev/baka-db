@@ -1,5 +1,7 @@
 # Aragane no Ko
 
+![aragane-no-ko](https://cdn.myanimelist.net/images/manga/2/241846.jpg)
+
 -   **type**: manga
 -   **original-name**: アラガネの子
 -   **start-date**: 2020-11-25

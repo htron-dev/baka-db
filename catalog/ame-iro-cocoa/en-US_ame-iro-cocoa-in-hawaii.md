@@ -1,5 +1,7 @@
 # Ame-iro Cocoa in Hawaii
 
+![ame-iro-cocoa-in-hawaii](https://cdn.myanimelist.net/images/anime/1727/111715.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 雨色ココア in Hawaii

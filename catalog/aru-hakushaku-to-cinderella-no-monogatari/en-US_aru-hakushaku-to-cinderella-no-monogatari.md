@@ -1,5 +1,7 @@
 # Aru Hakushaku to Cinderella no Monogatari
 
+![aru-hakushaku-to-cinderella-no-monogatari](https://cdn.myanimelist.net/images/manga/1/246963.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ある伯爵とシンデレラの物語

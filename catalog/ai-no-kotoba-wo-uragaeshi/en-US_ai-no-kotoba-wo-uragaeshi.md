@@ -1,5 +1,7 @@
 # Ai no Kotoba wo Uragaeshi
 
+![ai-no-kotoba-wo-uragaeshi](https://cdn.myanimelist.net/images/manga/2/19990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

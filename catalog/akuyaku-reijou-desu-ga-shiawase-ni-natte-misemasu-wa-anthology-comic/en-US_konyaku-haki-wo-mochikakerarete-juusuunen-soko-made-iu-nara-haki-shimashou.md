@@ -1,5 +1,7 @@
 # Konyaku Haki wo Mochikakerarete Juusuunen, Soko made Iu nara Haki shimashou!
 
+![konyaku-haki-wo-mochikakerarete-juusuunen-soko-made-iu-nara-haki-shimashou](https://cdn.myanimelist.net/images/manga/3/242730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

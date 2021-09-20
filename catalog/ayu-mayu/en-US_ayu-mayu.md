@@ -1,5 +1,7 @@
 # Ayu Mayu
 
+![ayu-mayu](https://cdn.myanimelist.net/images/manga/2/157775.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Amayakashite Ageru: Fukushachou to Naisho no Doukyo Seikatsu!?
 
+![amayakashite-ageru-fukushachou-to-naisho-no-doukyo-seikatsu](https://cdn.myanimelist.net/images/manga/3/192089.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

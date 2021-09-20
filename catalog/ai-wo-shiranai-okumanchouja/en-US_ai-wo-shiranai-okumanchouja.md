@@ -1,5 +1,7 @@
 # Ai wo Shiranai Okumanchouja
 
+![ai-wo-shiranai-okumanchouja](https://cdn.myanimelist.net/images/manga/1/63577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

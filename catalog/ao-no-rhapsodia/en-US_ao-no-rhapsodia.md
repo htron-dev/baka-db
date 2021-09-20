@@ -1,5 +1,7 @@
 # Ao no Rhapsodia
 
+![ao-no-rhapsodia](https://cdn.myanimelist.net/images/manga/2/63351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

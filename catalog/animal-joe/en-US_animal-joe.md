@@ -1,5 +1,7 @@
 # Animal Joe
 
+![animal-joe](https://cdn.myanimelist.net/images/manga/2/164968.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

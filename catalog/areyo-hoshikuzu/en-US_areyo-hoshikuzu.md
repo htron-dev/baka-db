@@ -1,5 +1,7 @@
 # Areyo Hoshikuzu
 
+![areyo-hoshikuzu](https://cdn.myanimelist.net/images/manga/1/168723.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 50

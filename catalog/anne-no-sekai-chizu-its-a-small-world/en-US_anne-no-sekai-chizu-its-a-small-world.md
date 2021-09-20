@@ -1,5 +1,7 @@
 # Anne no Sekai Chizu: It's a small world
 
+![anne-no-sekai-chizu-its-a-small-world](https://cdn.myanimelist.net/images/manga/1/240662.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

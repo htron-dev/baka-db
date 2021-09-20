@@ -1,5 +1,7 @@
 # Asebi to Sora Sekai no Boukensha
 
+![asebi-to-sora-sekai-no-boukensha](https://cdn.myanimelist.net/images/manga/3/138489.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

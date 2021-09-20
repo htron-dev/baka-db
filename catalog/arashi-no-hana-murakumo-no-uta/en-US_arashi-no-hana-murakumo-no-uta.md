@@ -1,5 +1,7 @@
 # Arashi no Hana Murakumo no Uta
 
+![arashi-no-hana-murakumo-no-uta](https://cdn.myanimelist.net/images/manga/1/164359.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 嵐ノ花 叢ノ歌

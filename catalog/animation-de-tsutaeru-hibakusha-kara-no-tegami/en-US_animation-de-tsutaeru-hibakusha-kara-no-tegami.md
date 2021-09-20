@@ -1,5 +1,7 @@
 # Animation de Tsutaeru: Hibakusha kara no Tegami
 
+![animation-de-tsutaeru-hibakusha-kara-no-tegami](https://cdn.myanimelist.net/images/anime/1864/113845.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: アニメーションで伝える“ヒバクシャからの手紙”

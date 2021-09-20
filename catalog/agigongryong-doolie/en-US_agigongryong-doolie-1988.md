@@ -1,5 +1,7 @@
 # Agigongryong Doolie (1988)
 
+![agigongryong-doolie-1988](https://cdn.myanimelist.net/images/anime/8/45787.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 7
 -   **original-name**: 아기공룡 둘리

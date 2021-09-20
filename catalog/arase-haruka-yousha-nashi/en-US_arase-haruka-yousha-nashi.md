@@ -1,5 +1,7 @@
 # Arase Haruka, Yousha Nashi!
 
+![arase-haruka-yousha-nashi](https://cdn.myanimelist.net/images/manga/2/163283.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

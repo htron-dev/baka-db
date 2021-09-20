@@ -1,5 +1,7 @@
 # Ari to Hato (1959)
 
+![ari-to-hato-1959](https://cdn.myanimelist.net/images/anime/7/77372.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ありとはと

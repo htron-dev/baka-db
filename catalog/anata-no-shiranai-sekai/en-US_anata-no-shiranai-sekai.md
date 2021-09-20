@@ -1,5 +1,7 @@
 # Anata no Shiranai Sekai
 
+![anata-no-shiranai-sekai](https://cdn.myanimelist.net/images/manga/2/20736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

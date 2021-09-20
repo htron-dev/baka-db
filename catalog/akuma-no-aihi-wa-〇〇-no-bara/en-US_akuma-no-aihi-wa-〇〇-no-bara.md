@@ -1,5 +1,7 @@
 # Akuma no Aihi wa, 〇〇 no Bara
 
+![akuma-no-aihi-wa-〇〇-no-bara](https://cdn.myanimelist.net/images/manga/3/194554.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 悪魔の愛妃は、〇〇の薔薇

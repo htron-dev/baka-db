@@ -1,5 +1,7 @@
 # Aoki Tsushin
 
+![aoki-tsushin](https://cdn.myanimelist.net/images/manga/2/151654.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 青木通信

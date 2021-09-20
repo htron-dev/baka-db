@@ -1,5 +1,7 @@
 # Aishiteiru no yo Kyohei-san!
 
+![aishiteiru-no-yo-kyohei-san](https://cdn.myanimelist.net/images/manga/2/12923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

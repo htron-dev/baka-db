@@ -1,5 +1,7 @@
 # Arisa
 
+![arisa](https://cdn.myanimelist.net/images/manga/1/111997.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ア・リ・サ

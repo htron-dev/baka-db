@@ -1,5 +1,7 @@
 # Anata ga Naku made Fumu no wo Yamenai!
 
+![anata-ga-naku-made-fumu-no-wo-yamenai](https://cdn.myanimelist.net/images/manga/3/164341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Atarashii Joushi wa Do Tennen
 
+![atarashii-joushi-wa-do-tennen](https://cdn.myanimelist.net/images/manga/2/226345.jpg)
+
 -   **type**: manga
 -   **original-name**: 新しい上司はど天然
 -   **start-date**: 2019-02-05

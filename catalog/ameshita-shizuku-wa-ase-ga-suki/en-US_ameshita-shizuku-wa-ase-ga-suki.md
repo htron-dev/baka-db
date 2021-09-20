@@ -1,5 +1,7 @@
 # Ameshita Shizuku wa Ase ga Suki
 
+![ameshita-shizuku-wa-ase-ga-suki](https://cdn.myanimelist.net/images/manga/2/208941.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

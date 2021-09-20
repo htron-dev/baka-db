@@ -1,5 +1,7 @@
 # Ashita Tenki ni Naare
 
+![ashita-tenki-ni-naare](https://cdn.myanimelist.net/images/manga/2/196956.jpg)
+
 -   **type**: manga
 -   **volumes**: 58
 -   **original-name**: あした天気になあれ

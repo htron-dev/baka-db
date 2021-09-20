@@ -1,5 +1,7 @@
 # Atedomonaku
 
+![atedomonaku](https://cdn.myanimelist.net/images/manga/2/46879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

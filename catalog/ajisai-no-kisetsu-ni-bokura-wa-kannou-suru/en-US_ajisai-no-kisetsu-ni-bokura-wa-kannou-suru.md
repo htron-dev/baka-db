@@ -1,5 +1,7 @@
 # Ajisai no Kisetsu ni Bokura wa Kannou suru
 
+![ajisai-no-kisetsu-ni-bokura-wa-kannou-suru](https://cdn.myanimelist.net/images/manga/3/162213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

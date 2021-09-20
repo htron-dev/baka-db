@@ -1,5 +1,7 @@
 # Atashin'chi
 
+![atashinchi](https://cdn.myanimelist.net/images/manga/2/37413.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 760

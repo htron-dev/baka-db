@@ -1,5 +1,7 @@
 # AR∀GO: London Shikei Tokushu Hanzai Sousakan
 
+![ar∀go-london-shikei-tokushu-hanzai-sousakan](https://cdn.myanimelist.net/images/manga/2/177656.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 85

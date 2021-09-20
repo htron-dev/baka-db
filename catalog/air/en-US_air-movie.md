@@ -1,5 +1,7 @@
 # Air Movie
 
+![air-movie](https://cdn.myanimelist.net/images/anime/10/26507.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 AIR

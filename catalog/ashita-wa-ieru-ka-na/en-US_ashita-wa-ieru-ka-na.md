@@ -1,5 +1,7 @@
 # Ashita wa Ieru ka na
 
+![ashita-wa-ieru-ka-na](https://cdn.myanimelist.net/images/manga/2/220319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

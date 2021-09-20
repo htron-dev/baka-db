@@ -1,5 +1,7 @@
 # Aflame Inferno
 
+![aflame-inferno](https://cdn.myanimelist.net/images/manga/1/55009.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 50

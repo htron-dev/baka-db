@@ -1,5 +1,7 @@
 # Akatsuki no Yona OVA
 
+![akatsuki-no-yona-ova](https://cdn.myanimelist.net/images/anime/8/75974.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 暁のヨナ

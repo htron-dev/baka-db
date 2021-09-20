@@ -1,5 +1,7 @@
 # Arma
 
+![arma](https://cdn.myanimelist.net/images/manga/2/237322.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아르마
 -   **start-date**: 2018-05-09

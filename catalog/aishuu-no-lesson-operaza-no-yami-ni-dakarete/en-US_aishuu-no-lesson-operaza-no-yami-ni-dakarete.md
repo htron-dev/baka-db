@@ -1,5 +1,7 @@
 # Aishuu no Lesson: Operaza no Yami ni Dakarete
 
+![aishuu-no-lesson-operaza-no-yami-ni-dakarete](https://cdn.myanimelist.net/images/manga/2/181505.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

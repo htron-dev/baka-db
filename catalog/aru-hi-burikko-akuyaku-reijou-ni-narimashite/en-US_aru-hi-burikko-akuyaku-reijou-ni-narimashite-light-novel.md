@@ -1,5 +1,7 @@
 # Aru Hi, Burikko Akuyaku Reijou ni Narimashite.
 
+![aru-hi-burikko-akuyaku-reijou-ni-narimashite](https://cdn.myanimelist.net/images/manga/2/233513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ある日、ぶりっ子悪役令嬢になりまして。

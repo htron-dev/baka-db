@@ -1,5 +1,7 @@
 # Akuma de Koibito.
 
+![akuma-de-koibito](https://cdn.myanimelist.net/images/manga/2/24607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

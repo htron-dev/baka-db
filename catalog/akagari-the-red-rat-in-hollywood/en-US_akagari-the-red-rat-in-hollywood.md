@@ -1,5 +1,7 @@
 # Akagari: The Red Rat in Hollywood
 
+![akagari-the-red-rat-in-hollywood](https://cdn.myanimelist.net/images/manga/1/205944.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

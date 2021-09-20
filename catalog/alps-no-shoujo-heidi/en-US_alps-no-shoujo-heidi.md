@@ -1,5 +1,7 @@
 # Alps no Shoujo Heidi
 
+![alps-no-shoujo-heidi](https://cdn.myanimelist.net/images/manga/2/155651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アルプスの少女ハイジ

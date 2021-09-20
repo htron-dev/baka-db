@@ -1,5 +1,7 @@
 # Abunai Strawberry Boy
 
+![abunai-strawberry-boy](https://cdn.myanimelist.net/images/manga/1/155091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

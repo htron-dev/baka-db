@@ -1,5 +1,7 @@
 # Asobi ja Nai no
 
+![asobi-ja-nai-no](https://cdn.myanimelist.net/images/manga/2/11253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

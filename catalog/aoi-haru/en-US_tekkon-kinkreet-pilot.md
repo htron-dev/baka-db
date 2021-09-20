@@ -1,5 +1,7 @@
 # Tekkon Kinkreet Pilot
 
+![tekkon-kinkreet-pilot](https://cdn.myanimelist.net/images/anime/10/77423.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鉄コン筋クリート

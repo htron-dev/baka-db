@@ -1,5 +1,7 @@
 # Anitore! EX
 
+![anitore-ex](https://cdn.myanimelist.net/images/anime/3/77048.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あにトレ！ＥＸ

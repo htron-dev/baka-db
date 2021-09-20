@@ -1,5 +1,7 @@
 # Ano Hi no Kimi wo Dakishimeta nara
 
+![ano-hi-no-kimi-wo-dakishimeta-nara](https://cdn.myanimelist.net/images/manga/5/130107.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

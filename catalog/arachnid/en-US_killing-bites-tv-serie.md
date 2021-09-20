@@ -1,5 +1,7 @@
 # Killing Bites
 
+![killing-bites](https://cdn.myanimelist.net/images/anime/13/90087.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: キリングバイツ

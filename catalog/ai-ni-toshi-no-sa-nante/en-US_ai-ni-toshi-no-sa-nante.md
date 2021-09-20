@@ -1,5 +1,7 @@
 # Ai ni Toshi no Sa Nante
 
+![ai-ni-toshi-no-sa-nante](https://cdn.myanimelist.net/images/manga/1/23597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

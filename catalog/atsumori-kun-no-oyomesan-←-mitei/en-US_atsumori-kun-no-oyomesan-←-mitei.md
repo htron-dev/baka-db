@@ -1,5 +1,7 @@
 # Atsumori-kun no Oyomesan (←Mitei)
 
+![atsumori-kun-no-oyomesan-←-mitei](https://cdn.myanimelist.net/images/manga/3/219873.jpg)
+
 -   **type**: manga
 -   **original-name**: あつもりくんのお嫁さん（← 未定）
 -   **start-date**: 2018-05-24

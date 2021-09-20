@@ -1,5 +1,7 @@
 # Akari-senpai to Hyouga no Taihen na Seikatsu
 
+![akari-senpai-to-hyouga-no-taihen-na-seikatsu](https://cdn.myanimelist.net/images/manga/1/81191.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

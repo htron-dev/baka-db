@@ -1,5 +1,7 @@
 # Appaga Piryohae
 
+![appaga-piryohae](https://cdn.myanimelist.net/images/anime/7/72704.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 아빠가 필요해

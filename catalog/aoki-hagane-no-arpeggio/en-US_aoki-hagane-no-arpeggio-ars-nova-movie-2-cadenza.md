@@ -1,5 +1,7 @@
 # Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza
 
+![aoki-hagane-no-arpeggio-ars-nova-movie-2-cadenza](https://cdn.myanimelist.net/images/anime/2/74665.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐ Cadenza

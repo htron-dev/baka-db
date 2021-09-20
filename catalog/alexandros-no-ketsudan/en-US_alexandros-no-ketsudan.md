@@ -1,5 +1,7 @@
 # Alexandros no Ketsudan
 
+![alexandros-no-ketsudan](https://cdn.myanimelist.net/images/anime/1946/112681.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アレクサンドロスの決断

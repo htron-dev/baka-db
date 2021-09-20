@@ -1,5 +1,7 @@
 # Aishite Knight
 
+![aishite-knight](https://cdn.myanimelist.net/images/anime/7/30629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 愛してナイト

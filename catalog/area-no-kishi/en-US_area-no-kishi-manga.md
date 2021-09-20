@@ -1,5 +1,7 @@
 # Area no Kishi
 
+![area-no-kishi](https://cdn.myanimelist.net/images/manga/2/193643.jpg)
+
 -   **type**: manga
 -   **volumes**: 57
 -   **chapters**: 503

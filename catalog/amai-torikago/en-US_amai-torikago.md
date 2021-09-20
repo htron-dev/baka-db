@@ -1,5 +1,7 @@
 # Amai Torikago
 
+![amai-torikago](https://cdn.myanimelist.net/images/manga/1/192093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

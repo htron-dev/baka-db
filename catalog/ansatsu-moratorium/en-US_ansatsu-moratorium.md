@@ -1,5 +1,7 @@
 # Ansatsu Moratorium
 
+![ansatsu-moratorium](https://cdn.myanimelist.net/images/manga/1/246758.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 暗殺モラトリアム

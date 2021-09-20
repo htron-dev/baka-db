@@ -1,5 +1,7 @@
 # Aka-Pen Seirei no Shinken Seminar de Class Saikyou no Mahou Kenshi ni Naremashita
 
+![aka-pen-seirei-no-shinken-seminar-de-class-saikyou-no-mahou-kenshi-ni-naremashita](https://cdn.myanimelist.net/images/manga/1/190131.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 赤ペン精霊の神剣ゼミでクラス最強の魔法剣士になれました

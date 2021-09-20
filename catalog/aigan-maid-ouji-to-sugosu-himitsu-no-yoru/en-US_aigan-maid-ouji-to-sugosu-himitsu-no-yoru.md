@@ -1,5 +1,7 @@
 # Aigan Maid: Ouji to Sugosu Himitsu no Yoru
 
+![aigan-maid-ouji-to-sugosu-himitsu-no-yoru](https://cdn.myanimelist.net/images/manga/2/184802.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

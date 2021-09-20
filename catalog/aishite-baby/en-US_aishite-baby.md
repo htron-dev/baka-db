@@ -1,5 +1,7 @@
 # Aishite Baby
 
+![aishite-baby](https://cdn.myanimelist.net/images/manga/2/81694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

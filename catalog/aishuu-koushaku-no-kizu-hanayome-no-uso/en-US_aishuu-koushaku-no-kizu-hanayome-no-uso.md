@@ -1,5 +1,7 @@
 # Aishuu: Koushaku no Kizu, Hanayome no Uso
 
+![aishuu-koushaku-no-kizu-hanayome-no-uso](https://cdn.myanimelist.net/images/manga/3/192060.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

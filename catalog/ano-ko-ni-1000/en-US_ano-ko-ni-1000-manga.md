@@ -1,5 +1,7 @@
 # Ano Ko ni 1000%
 
+![ano-ko-ni-1000](https://cdn.myanimelist.net/images/manga/3/198396.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: あのこに 1000%

@@ -1,5 +1,7 @@
 # Ao no Kanata no Four Rhythm
 
+![ao-no-kanata-no-four-rhythm](https://cdn.myanimelist.net/images/anime/9/77839.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 蒼の彼方のフォーリズム

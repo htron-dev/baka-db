@@ -1,5 +1,7 @@
 # Atashinchi no Danshi
 
+![atashinchi-no-danshi](https://cdn.myanimelist.net/images/manga/1/20425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アタシんちの男子

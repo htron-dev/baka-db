@@ -1,5 +1,7 @@
 # Ai wa Noroi no Nihon Ningyou
 
+![ai-wa-noroi-no-nihon-ningyou](https://cdn.myanimelist.net/images/manga/1/23173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

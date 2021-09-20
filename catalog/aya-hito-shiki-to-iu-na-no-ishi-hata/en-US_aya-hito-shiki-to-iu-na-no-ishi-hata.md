@@ -1,5 +1,7 @@
 # Aya Hito Shiki to Iu na no Ishi Hata
 
+![aya-hito-shiki-to-iu-na-no-ishi-hata](https://cdn.myanimelist.net/images/anime/11/71876.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 彩人四季という名の意思畑

@@ -1,5 +1,7 @@
 # Asklepios
 
+![asklepios](https://cdn.myanimelist.net/images/manga/1/178909.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

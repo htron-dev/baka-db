@@ -1,5 +1,7 @@
 # All Around Type-Moon
 
+![all-around-type-moon](https://cdn.myanimelist.net/images/manga/3/44057.jpg)
+
 -   **type**: manga
 -   **original-name**: ALL AROUND TYPE-MOON
 -   **start-date**: 2008-04-12

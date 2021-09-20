@@ -1,5 +1,7 @@
 # Akachan to Boku
 
+![akachan-to-boku](https://cdn.myanimelist.net/images/manga/3/179184.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 108

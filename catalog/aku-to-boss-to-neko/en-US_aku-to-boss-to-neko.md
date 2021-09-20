@@ -1,5 +1,7 @@
 # Aku to Boss to Neko
 
+![aku-to-boss-to-neko](https://cdn.myanimelist.net/images/manga/1/205008.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪のボスと猫
 -   **start-date**: 2016-07-05

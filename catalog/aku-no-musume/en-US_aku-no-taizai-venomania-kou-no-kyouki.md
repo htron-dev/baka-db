@@ -1,5 +1,7 @@
 # Aku no Taizai: Venomania-kou no Kyouki
 
+![aku-no-taizai-venomania-kou-no-kyouki](https://cdn.myanimelist.net/images/manga/2/106531.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Aiso Tsukashi
 
+![aiso-tsukashi](https://cdn.myanimelist.net/images/manga/2/38593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

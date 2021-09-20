@@ -1,5 +1,7 @@
 # Watashi no Ashinaga Ojisan
 
+![watashi-no-ashinaga-ojisan](https://cdn.myanimelist.net/images/anime/12/17851.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 私のあしながおじさん

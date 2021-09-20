@@ -1,5 +1,7 @@
 # Ansatsu Kyoushitsu: 365-nichi no Jikan
 
+![ansatsu-kyoushitsu-365-nichi-no-jikan](https://cdn.myanimelist.net/images/anime/4/84834.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 暗殺教室 365 日の時間

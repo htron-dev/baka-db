@@ -1,5 +1,7 @@
 # Actors: Songs Connection
 
+![actors-songs-connection](https://cdn.myanimelist.net/images/anime/1383/103339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ACTORS -Songs Connection-

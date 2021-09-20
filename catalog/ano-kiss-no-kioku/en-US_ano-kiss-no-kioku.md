@@ -1,5 +1,7 @@
 # Ano Kiss no Kioku
 
+![ano-kiss-no-kioku](https://cdn.myanimelist.net/images/manga/2/247070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あのキスの記憶

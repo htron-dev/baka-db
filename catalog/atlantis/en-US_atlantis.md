@@ -1,5 +1,7 @@
 # Atlantis
 
+![atlantis](https://cdn.myanimelist.net/images/manga/1/13157.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アトランティス

@@ -1,5 +1,7 @@
 # Ayakashi no Hana
 
+![ayakashi-no-hana](https://cdn.myanimelist.net/images/manga/1/197348.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Astar-eul Hyanghae Chaguchagu
 
+![astar-eul-hyanghae-chaguchagu](https://cdn.myanimelist.net/images/anime/2/85801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 아스타를 향해 차구차구

@@ -1,5 +1,7 @@
 # Ashita, Naisho no Kiss Shiyou
 
+![ashita-naisho-no-kiss-shiyou](https://cdn.myanimelist.net/images/manga/3/224496.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Amai Shokutaku
 
+![amai-shokutaku](https://cdn.myanimelist.net/images/manga/5/55521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

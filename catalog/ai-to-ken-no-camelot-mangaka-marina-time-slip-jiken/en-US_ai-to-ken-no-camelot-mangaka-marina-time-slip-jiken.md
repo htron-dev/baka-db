@@ -1,5 +1,7 @@
 # Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken
 
+![ai-to-ken-no-camelot-mangaka-marina-time-slip-jiken](https://cdn.myanimelist.net/images/anime/9/57437.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 愛と剣のキャメロット まんが家マリナ タイムスリップ事件

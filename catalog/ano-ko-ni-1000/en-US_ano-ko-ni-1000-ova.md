@@ -1,5 +1,7 @@
 # Ano Ko ni 1000%
 
+![ano-ko-ni-1000](https://cdn.myanimelist.net/images/anime/8/64357.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あの子に 1000％

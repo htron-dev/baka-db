@@ -1,5 +1,7 @@
 # Akai Kiba: Blue Sonnet
 
+![akai-kiba-blue-sonnet](https://cdn.myanimelist.net/images/anime/7/41071.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 紅い牙 ブルー・ソネット

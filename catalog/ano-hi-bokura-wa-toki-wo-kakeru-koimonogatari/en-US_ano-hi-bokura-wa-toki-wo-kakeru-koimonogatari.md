@@ -1,5 +1,7 @@
 # Ano Hi, Bokura wa...: Toki wo Kakeru Koimonogatari
 
+![ano-hi-bokura-wa-toki-wo-kakeru-koimonogatari](https://cdn.myanimelist.net/images/manga/1/143517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

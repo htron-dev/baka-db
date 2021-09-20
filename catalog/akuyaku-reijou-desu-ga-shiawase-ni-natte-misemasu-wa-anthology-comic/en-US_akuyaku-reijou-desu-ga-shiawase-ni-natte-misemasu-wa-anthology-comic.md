@@ -1,5 +1,7 @@
 # Akuyaku Reijou desu ga, Shiawase ni Natte Misemasu wa!: Anthology Comic
 
+![akuyaku-reijou-desu-ga-shiawase-ni-natte-misemasu-wa-anthology-comic](https://cdn.myanimelist.net/images/manga/3/228420.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢ですが、幸せになってみせますわ! アンソロジーコミック
 -   **start-date**: 2019-09-25

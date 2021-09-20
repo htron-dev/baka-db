@@ -1,5 +1,7 @@
 # Amagi Brilliant Park
 
+![amagi-brilliant-park](https://cdn.myanimelist.net/images/anime/5/85435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 甘城ブリリアントパーク

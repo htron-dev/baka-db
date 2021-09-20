@@ -1,5 +1,7 @@
 # Asshou
 
+![asshou](https://cdn.myanimelist.net/images/manga/2/192134.jpg)
+
 -   **type**: manga
 -   **original-name**: 圧勝
 -   **start-date**: 2016-08-13

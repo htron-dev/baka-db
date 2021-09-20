@@ -1,5 +1,7 @@
 # Akebi-chan no Sailor-fuku
 
+![akebi-chan-no-sailor-fuku](https://cdn.myanimelist.net/images/manga/2/250312.jpg)
+
 -   **type**: manga
 -   **original-name**: 明日ちゃんのセーラー服
 -   **start-date**: 2016-08-02

@@ -1,5 +1,7 @@
 # Angel Magic
 
+![angel-magic](https://cdn.myanimelist.net/images/manga/2/28287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: えんじぇる・まじっく

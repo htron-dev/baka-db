@@ -1,5 +1,7 @@
 # Automaton
 
+![automaton](https://cdn.myanimelist.net/images/manga/3/236064.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Appleseed XIII
 
+![appleseed-xiii](https://cdn.myanimelist.net/images/anime/5/28796.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: アップルシード XIII

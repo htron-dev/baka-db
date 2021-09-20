@@ -1,5 +1,7 @@
 # Ai no Tane
 
+![ai-no-tane](https://cdn.myanimelist.net/images/manga/3/181451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Ajisai no Uta
 
+![ajisai-no-uta](https://cdn.myanimelist.net/images/anime/5/66759.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: あじさいの唄

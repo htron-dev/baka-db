@@ -1,5 +1,7 @@
 # Ai ga Love shite You Nano sa
 
+![ai-ga-love-shite-you-nano-sa](https://cdn.myanimelist.net/images/manga/2/34462.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

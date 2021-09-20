@@ -1,5 +1,7 @@
 # Akuei to Gacchinpo: Tenkomori - Maboroshi no Omake Episode
 
+![akuei-to-gacchinpo-tenkomori-maboroshi-no-omake-episode](https://cdn.myanimelist.net/images/anime/2/71748.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アークエとガッチンポー てんこもり 幻のおまけエピソード

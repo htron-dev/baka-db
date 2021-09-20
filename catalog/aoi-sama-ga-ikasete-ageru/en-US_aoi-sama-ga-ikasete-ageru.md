@@ -1,5 +1,7 @@
 # Aoi-sama ga Ikasete Ageru
 
+![aoi-sama-ga-ikasete-ageru](https://cdn.myanimelist.net/images/manga/2/162301.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Ao Haru Ride
 
+![ao-haru-ride](https://cdn.myanimelist.net/images/anime/8/64813.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アオハライド

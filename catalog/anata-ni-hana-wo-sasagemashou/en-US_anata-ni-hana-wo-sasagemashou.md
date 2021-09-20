@@ -1,5 +1,7 @@
 # Anata ni Hana wo Sasagemashou
 
+![anata-ni-hana-wo-sasagemashou](https://cdn.myanimelist.net/images/manga/3/34457.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

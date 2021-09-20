@@ -1,5 +1,7 @@
 # Aitte Nani?
 
+![aitte-nani](https://cdn.myanimelist.net/images/manga/2/5754.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛ってなぁに?

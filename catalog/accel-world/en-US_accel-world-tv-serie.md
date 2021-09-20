@@ -1,5 +1,7 @@
 # Accel World
 
+![accel-world](https://cdn.myanimelist.net/images/anime/8/38155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: アクセル・ワールド

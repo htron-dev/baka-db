@@ -1,5 +1,7 @@
 # Accel World
 
+![accel-world](https://cdn.myanimelist.net/images/manga/2/156321.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アクセル・ワールド
 -   **start-date**: 2009-02-10

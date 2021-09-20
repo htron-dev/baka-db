@@ -1,5 +1,7 @@
 # Avarth
 
+![avarth](https://cdn.myanimelist.net/images/manga/1/177209.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

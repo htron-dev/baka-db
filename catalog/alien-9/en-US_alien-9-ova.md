@@ -1,5 +1,7 @@
 # Alien 9
 
+![alien-9](https://cdn.myanimelist.net/images/anime/7/2607.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: エイリアン 9

@@ -1,5 +1,7 @@
 # Alice in Cyberland
 
+![alice-in-cyberland](https://cdn.myanimelist.net/images/anime/12/10746.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ありす ALICE in Cyberland

@@ -1,5 +1,7 @@
 # Akane no Hane
 
+![akane-no-hane](https://cdn.myanimelist.net/images/manga/3/194900.jpg)
+
 -   **type**: manga
 -   **original-name**: あかねのハネ
 -   **start-date**: 2016-06-07

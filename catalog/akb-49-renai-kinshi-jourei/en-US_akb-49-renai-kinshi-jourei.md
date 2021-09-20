@@ -1,5 +1,7 @@
 # AKB49: Renai Kinshi Jourei
 
+![akb-49-renai-kinshi-jourei](https://cdn.myanimelist.net/images/manga/2/167252.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 263

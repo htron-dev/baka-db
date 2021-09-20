@@ -1,5 +1,7 @@
 # Atom: The Beginning
 
+![atom-the-beginning](https://cdn.myanimelist.net/images/manga/3/157917.jpg)
+
 -   **type**: manga
 -   **original-name**: アトム ザ・ビギニング
 -   **start-date**: 2014-12-01

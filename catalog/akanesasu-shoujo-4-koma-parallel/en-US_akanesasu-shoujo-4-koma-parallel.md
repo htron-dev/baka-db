@@ -1,5 +1,7 @@
 # Akanesasu Shoujo: 4-koma Parallel
 
+![akanesasu-shoujo-4-koma-parallel](https://cdn.myanimelist.net/images/manga/2/234542.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あかねさす少女 4 コマぱられる

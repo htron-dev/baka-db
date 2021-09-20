@@ -1,5 +1,7 @@
 # Angel Arm
 
+![angel-arm](https://cdn.myanimelist.net/images/manga/2/42335.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 26

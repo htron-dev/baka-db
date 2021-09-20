@@ -1,5 +1,7 @@
 # Aa / ii
 
+![aa-ii](https://cdn.myanimelist.net/images/anime/1578/96394.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ああ／良い

@@ -1,5 +1,7 @@
 # Akutai wa Toiki to Mazariau
 
+![akutai-wa-toiki-to-mazariau](https://cdn.myanimelist.net/images/manga/1/5936.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Adashino-san wa Sude ni Shinderu.
 
+![adashino-san-wa-sude-ni-shinderu](https://cdn.myanimelist.net/images/manga/1/187982.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

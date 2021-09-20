@@ -1,5 +1,7 @@
 # Ashonde yo: Uchi no Inu Log
 
+![ashonde-yo-uchi-no-inu-log](https://cdn.myanimelist.net/images/manga/2/157549.jpg)
+
 -   **type**: manga
 -   **original-name**: あしょんでよッ ～うちの犬ログ～
 -   **start-date**: 2014-10-27

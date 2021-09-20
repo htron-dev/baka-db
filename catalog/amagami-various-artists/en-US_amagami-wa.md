@@ -1,5 +1,7 @@
 # Amagami Wa!
 
+![amagami-wa](https://cdn.myanimelist.net/images/manga/2/160637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Aku no Himitsu no Kessha Consultant
 
+![aku-no-himitsu-no-kessha-consultant](https://cdn.myanimelist.net/images/manga/2/202392.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪の秘密結社コンサルタント
 -   **start-date**: 2017-11-14

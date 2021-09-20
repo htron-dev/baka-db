@@ -1,5 +1,7 @@
 # Aldnoah.Zero
 
+![aldnoah-zero](https://cdn.myanimelist.net/images/anime/7/60263.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アルドノア・ゼロ

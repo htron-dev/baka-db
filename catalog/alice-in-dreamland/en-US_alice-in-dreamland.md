@@ -1,5 +1,7 @@
 # Alice in Dreamland
 
+![alice-in-dreamland](https://cdn.myanimelist.net/images/anime/8/77671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アリス・イン・ドリームランド

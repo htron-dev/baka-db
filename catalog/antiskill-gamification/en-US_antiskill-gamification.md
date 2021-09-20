@@ -1,5 +1,7 @@
 # Antiskill Gamification
 
+![antiskill-gamification](https://cdn.myanimelist.net/images/manga/1/185410.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アンチスキル・ゲーミフィケーション
 -   **start-date**: 2016-11-25

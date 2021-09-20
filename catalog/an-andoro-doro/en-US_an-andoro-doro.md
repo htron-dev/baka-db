@@ -1,5 +1,7 @@
 # An-Andoro-Doro
 
+![an-andoro-doro](https://cdn.myanimelist.net/images/manga/2/227459.jpg)
+
 -   **type**: manga
 -   **original-name**: あんアンドロどろ
 -   **start-date**: 2016-10-19

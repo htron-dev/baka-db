@@ -1,5 +1,7 @@
 # Blue Seed 1.5
 
+![blue-seed-1-5](https://cdn.myanimelist.net/images/anime/10/26709.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ブルーシード 1.5

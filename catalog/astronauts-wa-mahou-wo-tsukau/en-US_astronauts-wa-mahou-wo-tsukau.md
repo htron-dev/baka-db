@@ -1,5 +1,7 @@
 # Astronauts wa Mahou wo Tsukau
 
+![astronauts-wa-mahou-wo-tsukau](https://cdn.myanimelist.net/images/manga/3/198106.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アストロノーツは魔法を使う

@@ -1,5 +1,7 @@
 # Aozora Orion
 
+![aozora-orion](https://cdn.myanimelist.net/images/manga/2/238597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

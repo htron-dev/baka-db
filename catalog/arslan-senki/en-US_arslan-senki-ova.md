@@ -1,5 +1,7 @@
 # Arslan Senki
 
+![arslan-senki](https://cdn.myanimelist.net/images/anime/10/22254.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: アルスラーン戦記

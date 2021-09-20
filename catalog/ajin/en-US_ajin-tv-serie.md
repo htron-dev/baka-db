@@ -1,5 +1,7 @@
 # Ajin
 
+![ajin](https://cdn.myanimelist.net/images/anime/13/77968.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 亜人

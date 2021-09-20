@@ -1,5 +1,7 @@
 # Ai to Yokubou wa Gakuen de
 
+![ai-to-yokubou-wa-gakuen-de](https://cdn.myanimelist.net/images/manga/3/1223.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

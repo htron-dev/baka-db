@@ -1,5 +1,7 @@
 # Azumanga Web Daioh
 
+![azumanga-web-daioh](https://cdn.myanimelist.net/images/anime/3/59967.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あずまんが WEB 大王

@@ -1,5 +1,7 @@
 # All Out!!
 
+![all-out](https://cdn.myanimelist.net/images/anime/4/78649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: オールアウト!!

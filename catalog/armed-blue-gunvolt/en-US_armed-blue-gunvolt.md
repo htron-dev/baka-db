@@ -1,5 +1,7 @@
 # Armed Blue Gunvolt
 
+![armed-blue-gunvolt](https://cdn.myanimelist.net/images/anime/11/85631.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 蒼き雷霆〈アームドブルー〉 ガンヴォルト

@@ -1,5 +1,7 @@
 # Amaenaide yo!! MS
 
+![amaenaide-yo-ms](https://cdn.myanimelist.net/images/manga/4/151129.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

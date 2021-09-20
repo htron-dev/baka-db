@@ -1,5 +1,7 @@
 # Ameya Tanuki
 
+![ameya-tanuki](https://cdn.myanimelist.net/images/anime/8/85238.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あめやたぬき

@@ -1,5 +1,7 @@
 # AKB48 Satsujin Jiken
 
+![akb-48-satsujin-jiken](https://cdn.myanimelist.net/images/manga/3/129451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # A-Channel
 
+![a-channel](https://cdn.myanimelist.net/images/anime/1333/110595.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: A チャンネル

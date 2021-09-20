@@ -1,5 +1,7 @@
 # Aishiterutte Itte mo Ii yo
 
+![aishiterutte-itte-mo-ii-yo](https://cdn.myanimelist.net/images/manga/1/40000.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

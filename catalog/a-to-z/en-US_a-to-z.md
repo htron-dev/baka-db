@@ -1,5 +1,7 @@
 # A to Z
 
+![a-to-z](https://cdn.myanimelist.net/images/manga/2/17254.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **start-date**: 2002-08-20

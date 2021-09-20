@@ -1,5 +1,7 @@
 # Air Gear
 
+![air-gear](https://cdn.myanimelist.net/images/manga/1/167489.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 358

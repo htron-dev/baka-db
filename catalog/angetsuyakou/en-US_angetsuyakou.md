@@ -1,5 +1,7 @@
 # Angetsuyakou
 
+![angetsuyakou](https://cdn.myanimelist.net/images/manga/2/20601.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 闇月夜行

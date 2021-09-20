@@ -1,5 +1,7 @@
 # Angel Densetsu
 
+![angel-densetsu](https://cdn.myanimelist.net/images/anime/4/27104.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: エンジェル伝説

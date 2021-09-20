@@ -1,5 +1,7 @@
 # Pluto
 
+![pluto](https://cdn.myanimelist.net/images/manga/2/56177.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 65

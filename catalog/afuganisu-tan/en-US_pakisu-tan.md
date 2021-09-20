@@ -1,5 +1,7 @@
 # Pakisu-tan
 
+![pakisu-tan](https://cdn.myanimelist.net/images/manga/2/105521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぱきすタン

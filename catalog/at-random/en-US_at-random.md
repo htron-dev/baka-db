@@ -1,5 +1,7 @@
 # At Random
 
+![at-random](https://cdn.myanimelist.net/images/manga/3/10890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夕希はづみ傑作選

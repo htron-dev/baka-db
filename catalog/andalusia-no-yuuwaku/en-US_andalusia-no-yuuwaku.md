@@ -1,5 +1,7 @@
 # Andalusia no Yuuwaku
 
+![andalusia-no-yuuwaku](https://cdn.myanimelist.net/images/manga/1/47053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

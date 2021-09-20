@@ -1,5 +1,7 @@
 # Ane wa Soba ni Imashi, Yo wa Nabete Koto mo Nashi
 
+![ane-wa-soba-ni-imashi-yo-wa-nabete-koto-mo-nashi](https://cdn.myanimelist.net/images/manga/1/73589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 姉は傍にいまし、世はなべてこともなし

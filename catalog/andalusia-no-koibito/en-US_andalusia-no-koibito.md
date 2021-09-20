@@ -1,5 +1,7 @@
 # Andalusia no Koibito
 
+![andalusia-no-koibito](https://cdn.myanimelist.net/images/manga/3/137917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

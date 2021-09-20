@@ -1,5 +1,7 @@
 # Akutoku Reijou 5000-chouen Musou
 
+![akutoku-reijou-5000-chouen-musou](https://cdn.myanimelist.net/images/manga/3/234860.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Amaete, Amayakashite. Tappuri to
 
+![amaete-amayakashite-tappuri-to](https://cdn.myanimelist.net/images/manga/1/195064.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 甘えて、甘やかして。たっぷりと

@@ -1,5 +1,7 @@
 # Tetsuwan Atom: Uchuu no Yuusha
 
+![tetsuwan-atom-uchuu-no-yuusha](https://cdn.myanimelist.net/images/anime/8/79711.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄腕アトム 宇宙の勇者

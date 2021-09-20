@@ -1,5 +1,7 @@
 # Aizawa-san Zoushoku
 
+![aizawa-san-zoushoku](https://cdn.myanimelist.net/images/manga/1/188837.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

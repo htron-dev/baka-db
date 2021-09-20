@@ -1,5 +1,7 @@
 # Arabesque Dai 1-bu
 
+![arabesque-dai-1-bu](https://cdn.myanimelist.net/images/manga/3/174218.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アラベスク 第一部

@@ -1,5 +1,7 @@
 # Aa! Shuukatsu no Megami-sama!
 
+![aa-shuukatsu-no-megami-sama](https://cdn.myanimelist.net/images/manga/3/223009.jpg)
+
 -   **type**: manga
 -   **original-name**: ああっ就活の女神さまっ
 -   **start-date**: 2019-01-25

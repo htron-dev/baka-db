@@ -1,5 +1,7 @@
 # Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto
 
+![amanchu-yakusoku-no-natsu-to-atarashii-omoide-no-koto](https://cdn.myanimelist.net/images/anime/10/87338.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あまんちゅ！約束の夏と新しい思い出のコト

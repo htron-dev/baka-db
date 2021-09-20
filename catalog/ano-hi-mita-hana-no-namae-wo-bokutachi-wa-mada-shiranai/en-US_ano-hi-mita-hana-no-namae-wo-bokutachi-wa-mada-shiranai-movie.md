@@ -1,5 +1,7 @@
 # Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie
 
+![ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-movie](https://cdn.myanimelist.net/images/anime/5/49993.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 あの日見た花の名前を僕達はまだ知らない。

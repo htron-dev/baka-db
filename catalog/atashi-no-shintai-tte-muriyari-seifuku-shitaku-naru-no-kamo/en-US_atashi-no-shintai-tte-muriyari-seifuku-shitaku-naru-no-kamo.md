@@ -1,5 +1,7 @@
 # Atashi no Shintai tte... Muriyari, Seifuku Shitaku naru no Kamo...
 
+![atashi-no-shintai-tte-muriyari-seifuku-shitaku-naru-no-kamo](https://cdn.myanimelist.net/images/manga/3/193789.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

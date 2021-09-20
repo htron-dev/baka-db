@@ -1,5 +1,7 @@
 # Aimite no: Rakka no Shitone
 
+![aimite-no-rakka-no-shitone](https://cdn.myanimelist.net/images/manga/2/192743.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

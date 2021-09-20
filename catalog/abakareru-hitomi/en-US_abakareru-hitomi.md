@@ -1,5 +1,7 @@
 # Abakareru Hitomi
 
+![abakareru-hitomi](https://cdn.myanimelist.net/images/manga/2/16649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

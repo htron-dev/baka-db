@@ -1,5 +1,7 @@
 # Ageku no Hate no Kanon
 
+![ageku-no-hate-no-kanon](https://cdn.myanimelist.net/images/manga/2/207330.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

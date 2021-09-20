@@ -1,5 +1,7 @@
 # Amai, Nigai
 
+![amai-nigai](https://cdn.myanimelist.net/images/manga/2/246303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あまい、にがい

@@ -1,5 +1,7 @@
 # Ashita no Joe
 
+![ashita-no-joe](https://cdn.myanimelist.net/images/anime/5/64671.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 79
 -   **original-name**: あしたのジョー

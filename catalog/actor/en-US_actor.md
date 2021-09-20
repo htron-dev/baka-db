@@ -1,5 +1,7 @@
 # Actor
 
+![actor](https://cdn.myanimelist.net/images/manga/3/132749.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: アクター

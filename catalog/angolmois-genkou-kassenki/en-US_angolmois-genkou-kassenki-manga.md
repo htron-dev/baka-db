@@ -1,5 +1,7 @@
 # Angolmois: Genkou Kassenki
 
+![angolmois-genkou-kassenki](https://cdn.myanimelist.net/images/manga/3/172186.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Afuganisu-tan
 
+![afuganisu-tan](https://cdn.myanimelist.net/images/manga/2/28670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 28

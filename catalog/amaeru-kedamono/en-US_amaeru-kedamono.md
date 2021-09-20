@@ -1,5 +1,7 @@
 # Amaeru Kedamono
 
+![amaeru-kedamono](https://cdn.myanimelist.net/images/manga/3/245907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

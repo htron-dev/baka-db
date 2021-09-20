@@ -1,5 +1,7 @@
 # Asa Chun!
 
+![asa-chun](https://cdn.myanimelist.net/images/manga/3/142815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

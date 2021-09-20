@@ -1,5 +1,7 @@
 # Almost Paradise
 
+![almost-paradise](https://cdn.myanimelist.net/images/manga/1/174694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

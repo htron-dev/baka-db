@@ -1,5 +1,7 @@
 # Angel Beats!: Another Epilogue
 
+![angel-beats-another-epilogue](https://cdn.myanimelist.net/images/anime/4/65355.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: エンジェルビーツ! アナザーエピローグ

@@ -1,5 +1,7 @@
 # Asper Kanojo
 
+![asper-kanojo](https://cdn.myanimelist.net/images/manga/2/216787.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 100

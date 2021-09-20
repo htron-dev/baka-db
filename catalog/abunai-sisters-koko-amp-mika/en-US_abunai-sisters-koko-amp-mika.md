@@ -1,5 +1,7 @@
 # Abunai Sisters: Koko &amp; Mika
 
+![abunai-sisters-koko-amp-mika](https://cdn.myanimelist.net/images/anime/4/57069.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: ABUNAI SISTERS -KOKO & MIKA-

@@ -1,5 +1,7 @@
 # Acid Town
 
+![acid-town](https://cdn.myanimelist.net/images/manga/1/26516.jpg)
+
 -   **type**: manga
 -   **original-name**: ACID TOWN
 -   **start-date**: 2008-03-22

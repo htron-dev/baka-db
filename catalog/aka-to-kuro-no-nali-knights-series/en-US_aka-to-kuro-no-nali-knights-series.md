@@ -1,5 +1,7 @@
 # Aka to Kuro no Nali Knights Series
 
+![aka-to-kuro-no-nali-knights-series](https://cdn.myanimelist.net/images/manga/3/167630.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 赤と黒の針騎士〈ナーリ・ナイツ〉シリーズ
 -   **start-date**: 2015-05-01

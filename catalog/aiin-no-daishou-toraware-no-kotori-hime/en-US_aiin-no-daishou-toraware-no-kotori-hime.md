@@ -1,5 +1,7 @@
 # Aiin no Daishou: Toraware no Kotori-hime
 
+![aiin-no-daishou-toraware-no-kotori-hime](https://cdn.myanimelist.net/images/manga/1/181366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

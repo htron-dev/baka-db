@@ -1,5 +1,7 @@
 # Adauchi Gakuen
 
+![adauchi-gakuen](https://cdn.myanimelist.net/images/manga/1/127147.jpg)
+
 -   **type**: manga
 -   **original-name**: 仇討学園
 -   **start-date**: 2014-05-30

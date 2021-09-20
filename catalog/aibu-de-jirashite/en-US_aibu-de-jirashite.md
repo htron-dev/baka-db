@@ -1,5 +1,7 @@
 # Aibu de Jirashite
 
+![aibu-de-jirashite](https://cdn.myanimelist.net/images/manga/1/149455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

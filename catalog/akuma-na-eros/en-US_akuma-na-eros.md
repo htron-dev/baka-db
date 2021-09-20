@@ -1,5 +1,7 @@
 # Akuma na Eros
 
+![akuma-na-eros](https://cdn.myanimelist.net/images/manga/1/78909.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

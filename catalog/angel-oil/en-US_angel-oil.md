@@ -1,5 +1,7 @@
 # Angel Oil
 
+![angel-oil](https://cdn.myanimelist.net/images/manga/1/155212.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: ANGEL OIL

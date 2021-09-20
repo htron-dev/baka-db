@@ -1,5 +1,7 @@
 # Ari Jigoku
 
+![ari-jigoku](https://cdn.myanimelist.net/images/manga/1/203683.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

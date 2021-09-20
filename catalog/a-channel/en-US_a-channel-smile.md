@@ -1,5 +1,7 @@
 # A-Channel+smile
 
+![a-channel-smile](https://cdn.myanimelist.net/images/anime/12/35321.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: A チャンネル+smile（プラス スマイル）

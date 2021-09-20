@@ -1,5 +1,7 @@
 # Aku no Taizai: Gobanme no Piero
 
+![aku-no-taizai-gobanme-no-piero](https://cdn.myanimelist.net/images/manga/2/232169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

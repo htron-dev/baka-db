@@ -1,5 +1,7 @@
 # Ai Hime: Ai to Himegoto
 
+![ai-hime-ai-to-himegoto](https://cdn.myanimelist.net/images/manga/3/153228.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

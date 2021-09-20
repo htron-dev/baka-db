@@ -1,5 +1,7 @@
 # Adidas Manga Fever
 
+![adidas-manga-fever](https://cdn.myanimelist.net/images/manga/2/126553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

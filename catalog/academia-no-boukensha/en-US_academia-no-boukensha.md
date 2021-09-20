@@ -1,5 +1,7 @@
 # Academia no Boukensha
 
+![academia-no-boukensha](https://cdn.myanimelist.net/images/manga/1/28379.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アカデメイアの冒険者

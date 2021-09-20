@@ -1,5 +1,7 @@
 # Neo Angelique Abyss: Second Age
 
+![neo-angelique-abyss-second-age](https://cdn.myanimelist.net/images/anime/8/27592.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ネオアンジェリーク Abyss -Second Age-

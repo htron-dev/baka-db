@@ -1,5 +1,7 @@
 # Akihabara Dennou-gumi Patapi!
 
+![akihabara-dennou-gumi-patapi](https://cdn.myanimelist.net/images/manga/1/44015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

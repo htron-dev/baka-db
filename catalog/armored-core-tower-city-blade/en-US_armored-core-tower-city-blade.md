@@ -1,5 +1,7 @@
 # Armored Core: Tower City Blade
 
+![armored-core-tower-city-blade](https://cdn.myanimelist.net/images/manga/2/145557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

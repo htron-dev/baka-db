@@ -1,5 +1,7 @@
 # Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou
 
+![atashinchi-3-d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou](https://cdn.myanimelist.net/images/anime/7/27154.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 3D あたしンち 情熱のちょ～超能力 ♪ 母大暴走!

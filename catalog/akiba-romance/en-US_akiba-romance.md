@@ -1,5 +1,7 @@
 # Akiba Romance!
 
+![akiba-romance](https://cdn.myanimelist.net/images/manga/1/155398.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: あきば浪漫ス!

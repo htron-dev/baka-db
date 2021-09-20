@@ -1,5 +1,7 @@
 # Ao no Honoo
 
+![ao-no-honoo](https://cdn.myanimelist.net/images/manga/1/129113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

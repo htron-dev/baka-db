@@ -1,5 +1,7 @@
 # Aji Ichi Monme
 
+![aji-ichi-monme](https://cdn.myanimelist.net/images/manga/3/173953.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 314

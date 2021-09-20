@@ -1,5 +1,7 @@
 # Astro Boy: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA
 
+![astro-boy-tetsuwan-atom-10-man-kounen-no-raihousha-igza](https://cdn.myanimelist.net/images/anime/1401/99387.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ASTRO BOY 鉄腕アトム 10 万光年の来訪者・IGZA

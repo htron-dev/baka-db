@@ -1,5 +1,7 @@
 # Aiki-S
 
+![aiki-s](https://cdn.myanimelist.net/images/manga/1/205666.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 61

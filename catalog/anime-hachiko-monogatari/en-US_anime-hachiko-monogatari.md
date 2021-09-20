@@ -1,5 +1,7 @@
 # Anime Hachiko Monogatari
 
+![anime-hachiko-monogatari](https://cdn.myanimelist.net/images/anime/13/82216.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アニメ ハチ公物語

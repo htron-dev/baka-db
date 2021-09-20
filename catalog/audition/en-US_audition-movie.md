@@ -1,5 +1,7 @@
 # Audition
 
+![audition](https://cdn.myanimelist.net/images/anime/4/76441.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 오디션

@@ -1,5 +1,7 @@
 # Argento Soma
 
+![argento-soma](https://cdn.myanimelist.net/images/manga/1/104181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

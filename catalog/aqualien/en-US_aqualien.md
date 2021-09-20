@@ -1,5 +1,7 @@
 # Aqualien
 
+![aqualien](https://cdn.myanimelist.net/images/manga/2/16772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Azur Lane: Queen's Orders
 
+![azur-lane-queens-orders](https://cdn.myanimelist.net/images/manga/1/220961.jpg)
+
 -   **type**: manga
 -   **original-name**: アズールレーン Queen's Orders
 -   **start-date**: 2018-10-26

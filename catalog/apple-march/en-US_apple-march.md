@@ -1,5 +1,7 @@
 # Apple March
 
+![apple-march](https://cdn.myanimelist.net/images/manga/2/131641.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アップルマーチ

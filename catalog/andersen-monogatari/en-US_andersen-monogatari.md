@@ -1,5 +1,7 @@
 # Andersen Monogatari
 
+![andersen-monogatari](https://cdn.myanimelist.net/images/anime/1051/100526.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アンデルセン物語

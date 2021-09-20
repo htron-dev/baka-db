@@ -1,5 +1,7 @@
 # A-Channel: +A-Channel
 
+![a-channel-a-channel](https://cdn.myanimelist.net/images/anime/9/29573.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: A チャンネル

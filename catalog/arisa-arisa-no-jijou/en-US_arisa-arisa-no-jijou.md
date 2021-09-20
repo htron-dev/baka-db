@@ -1,5 +1,7 @@
 # Arisa²: Arisa no Jijou
 
+![arisa-arisa-no-jijou](https://cdn.myanimelist.net/images/manga/3/147303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

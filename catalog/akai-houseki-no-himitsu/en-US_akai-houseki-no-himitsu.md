@@ -1,5 +1,7 @@
 # Akai Houseki no Himitsu
 
+![akai-houseki-no-himitsu](https://cdn.myanimelist.net/images/manga/1/65219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤い宝石の秘密

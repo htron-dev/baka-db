@@ -1,5 +1,7 @@
 # Aikatsu!
 
+![aikatsu](https://cdn.myanimelist.net/images/anime/6/74783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 178
 -   **original-name**: アイカツ！アイドルカツドウ！

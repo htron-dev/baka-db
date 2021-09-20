@@ -1,5 +1,7 @@
 # Aru Tabibito no Nikki Specials
 
+![aru-tabibito-no-nikki-specials](https://cdn.myanimelist.net/images/anime/11/5526.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 或る旅人の日記

@@ -1,5 +1,7 @@
 # Afureko
 
+![afureko](https://cdn.myanimelist.net/images/manga/1/35373.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アフレコ

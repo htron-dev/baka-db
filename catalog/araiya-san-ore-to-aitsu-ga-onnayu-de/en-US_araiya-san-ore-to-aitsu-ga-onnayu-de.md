@@ -1,5 +1,7 @@
 # Araiya-san!: Ore to Aitsu ga Onnayu de!?
 
+![araiya-san-ore-to-aitsu-ga-onnayu-de](https://cdn.myanimelist.net/images/anime/1804/109216.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 洗い屋さん! ~俺とアイツが女湯で!?~

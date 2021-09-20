@@ -1,5 +1,7 @@
 # Ano Hi no Kokoro wo Toraete
 
+![ano-hi-no-kokoro-wo-toraete](https://cdn.myanimelist.net/images/anime/1820/106104.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あの日の心をとらえて

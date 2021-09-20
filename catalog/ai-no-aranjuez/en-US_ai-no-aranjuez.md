@@ -1,5 +1,7 @@
 # Ai no Aranjuez
 
+![ai-no-aranjuez](https://cdn.myanimelist.net/images/manga/2/32531.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 愛のアランフェス

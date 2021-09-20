@@ -1,5 +1,7 @@
 # Aoba-kun ni Kikitai Koto
 
+![aoba-kun-ni-kikitai-koto](https://cdn.myanimelist.net/images/manga/2/177744.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

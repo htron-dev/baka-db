@@ -1,5 +1,7 @@
 # Akai Koudan Zillion: Utahime Yakyoku
 
+![akai-koudan-zillion-utahime-yakyoku](https://cdn.myanimelist.net/images/anime/1632/100395.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 赤い光弾ジリオン 歌姫夜曲

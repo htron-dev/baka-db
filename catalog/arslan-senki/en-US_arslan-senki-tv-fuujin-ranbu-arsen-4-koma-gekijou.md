@@ -1,5 +1,7 @@
 # Arslan Senki (TV): Fuujin Ranbu - Arsen 4-koma Gekijou
 
+![arslan-senki-tv-fuujin-ranbu-arsen-4-koma-gekijou](https://cdn.myanimelist.net/images/anime/7/88122.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: アルスラーン戦記 風塵乱舞 アル戦 4 コマ劇場

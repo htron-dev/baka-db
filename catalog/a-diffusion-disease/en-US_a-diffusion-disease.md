@@ -1,5 +1,7 @@
 # A Diffusion Disease
 
+![a-diffusion-disease](https://cdn.myanimelist.net/images/manga/1/13074.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 拡散

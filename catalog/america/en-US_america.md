@@ -1,5 +1,7 @@
 # America
 
+![america](https://cdn.myanimelist.net/images/manga/1/191306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

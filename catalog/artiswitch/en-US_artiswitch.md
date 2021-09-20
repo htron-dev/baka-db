@@ -1,5 +1,7 @@
 # Artiswitch
 
+![artiswitch](https://cdn.myanimelist.net/images/anime/1805/115216.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: Artiswitch（アーティスウィッチ）

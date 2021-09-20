@@ -1,5 +1,7 @@
 # Amaku Tokokete Daite.
 
+![amaku-tokokete-daite](https://cdn.myanimelist.net/images/manga/2/10939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

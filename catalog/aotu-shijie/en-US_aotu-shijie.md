@@ -1,5 +1,7 @@
 # AOTU Shijie
 
+![aotu-shijie](https://cdn.myanimelist.net/images/anime/5/81494.jpg)
+
 -   **type**: ona
 -   **episodes**: 32
 -   **original-name**: 凹凸世界

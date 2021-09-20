@@ -1,5 +1,7 @@
 # Arabian Porno
 
+![arabian-porno](https://cdn.myanimelist.net/images/manga/2/240046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

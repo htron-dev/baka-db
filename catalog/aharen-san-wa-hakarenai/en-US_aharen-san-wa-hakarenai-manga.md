@@ -1,5 +1,7 @@
 # Aharen-san wa Hakarenai
 
+![aharen-san-wa-hakarenai](https://cdn.myanimelist.net/images/manga/3/198938.jpg)
+
 -   **type**: manga
 -   **original-name**: 阿波連さんははかれない
 -   **start-date**: 2017-01-29

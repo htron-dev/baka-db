@@ -1,5 +1,7 @@
 # Akogaretai Yume
 
+![akogaretai-yume](https://cdn.myanimelist.net/images/manga/1/28429.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: あこがれたい夢

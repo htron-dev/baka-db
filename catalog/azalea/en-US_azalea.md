@@ -1,5 +1,7 @@
 # Azalea
 
+![azalea](https://cdn.myanimelist.net/images/manga/3/243776.jpg)
+
 -   **type**: manga
 -   **original-name**: Azalea
 -   **start-date**: 2019-08-01

@@ -1,5 +1,7 @@
 # Almond wo Nanatsubu
 
+![almond-wo-nanatsubu](https://cdn.myanimelist.net/images/manga/3/225743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

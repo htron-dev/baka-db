@@ -1,5 +1,7 @@
 # Asylum Session
 
+![asylum-session](https://cdn.myanimelist.net/images/anime/1796/112242.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アジール・セッション

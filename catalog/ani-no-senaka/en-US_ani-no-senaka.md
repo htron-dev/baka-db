@@ -1,5 +1,7 @@
 # Ani no Senaka
 
+![ani-no-senaka](https://cdn.myanimelist.net/images/manga/4/151451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

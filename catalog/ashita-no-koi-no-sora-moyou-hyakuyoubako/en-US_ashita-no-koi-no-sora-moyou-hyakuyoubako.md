@@ -1,5 +1,7 @@
 # Ashita no Koi no Sora Moyou: Hyakuyoubako
 
+![ashita-no-koi-no-sora-moyou-hyakuyoubako](https://cdn.myanimelist.net/images/manga/2/232932.jpg)
+
 -   **type**: manga
 -   **original-name**: あしたの恋の空もよう 百葉箱
 -   **start-date**: 2006-08-25

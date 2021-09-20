@@ -1,5 +1,7 @@
 # Aakuma Detekuuru: Chikashitsu no Akuma
 
+![aakuma-detekuuru-chikashitsu-no-akuma](https://cdn.myanimelist.net/images/manga/2/140881.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アークマ・デテクール 地下室の悪魔

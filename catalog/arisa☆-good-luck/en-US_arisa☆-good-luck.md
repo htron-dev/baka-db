@@ -1,5 +1,7 @@
 # Arisa☆Good Luck
 
+![arisa☆-good-luck](https://cdn.myanimelist.net/images/anime/7/43751.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ありさ ☆Good Luck

@@ -1,5 +1,7 @@
 # A Girls
 
+![a-girls](https://cdn.myanimelist.net/images/manga/1/34978.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

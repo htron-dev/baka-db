@@ -1,5 +1,7 @@
 # Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends
 
+![choboraunyopomi-gekijou-dai-san-maku-ai-mai-mii-surgical-friends](https://cdn.myanimelist.net/images/anime/11/83846.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ちょぼらうにょぽみ劇場第三幕『あいまいみー～ Surgical Friends ～』

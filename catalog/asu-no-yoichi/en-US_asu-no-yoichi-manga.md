@@ -1,5 +1,7 @@
 # Asu no Yoichi!
 
+![asu-no-yoichi](https://cdn.myanimelist.net/images/manga/1/51603.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 65

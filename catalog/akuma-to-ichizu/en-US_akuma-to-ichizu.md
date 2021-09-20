@@ -1,5 +1,7 @@
 # Akuma to Ichizu
 
+![akuma-to-ichizu](https://cdn.myanimelist.net/images/manga/3/226773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

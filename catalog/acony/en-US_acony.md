@@ -1,5 +1,7 @@
 # Acony
 
+![acony](https://cdn.myanimelist.net/images/manga/1/21804.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Akuyaku Reijou wa Kiraware Kizoku ni Koi wo Suru
 
+![akuyaku-reijou-wa-kiraware-kizoku-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/236352.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢は嫌われ貴族に恋をする
 -   **start-date**: 2020-04-29

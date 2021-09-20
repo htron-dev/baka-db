@@ -1,5 +1,7 @@
 # Armitage III: Poly-Matrix
 
+![armitage-iii-poly-matrix](https://cdn.myanimelist.net/images/anime/9/2859.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アミテージ・ザ・サード POLY-MATRIX

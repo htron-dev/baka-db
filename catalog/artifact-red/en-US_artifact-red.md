@@ -1,5 +1,7 @@
 # Artifact;Red
 
+![artifact-red](https://cdn.myanimelist.net/images/manga/2/27753.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アーティファクト・レッド

@@ -1,5 +1,7 @@
 # Akazukin-chan wa Ookami-san wo Nakasetai!
 
+![akazukin-chan-wa-ookami-san-wo-nakasetai](https://cdn.myanimelist.net/images/manga/2/198118.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

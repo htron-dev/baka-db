@@ -1,5 +1,7 @@
 # AIKa Zero Picture Drama
 
+![ai-ka-zero-picture-drama](https://cdn.myanimelist.net/images/anime/10/17813.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: AIKa ZERO

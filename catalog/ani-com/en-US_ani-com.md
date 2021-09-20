@@ -1,5 +1,7 @@
 # Ani-Com
 
+![ani-com](https://cdn.myanimelist.net/images/manga/4/91223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

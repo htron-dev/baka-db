@@ -1,5 +1,7 @@
 # Anison no Kamisama
 
+![anison-no-kamisama](https://cdn.myanimelist.net/images/manga/3/122417.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アニソンの神様

@@ -1,5 +1,7 @@
 # Akudama Drive
 
+![akudama-drive](https://cdn.myanimelist.net/images/anime/1468/109172.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アクダマドライブ

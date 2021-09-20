@@ -1,5 +1,7 @@
 # Ashita Genki ni Nare!: Hanbun no Satsumaimo
 
+![ashita-genki-ni-nare-hanbun-no-satsumaimo](https://cdn.myanimelist.net/images/anime/8/46947.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あした元気にな～れ!～半分のさつまいも～

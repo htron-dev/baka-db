@@ -1,5 +1,7 @@
 # Ansoku no Basho
 
+![ansoku-no-basho](https://cdn.myanimelist.net/images/anime/1163/112583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 安息の場所

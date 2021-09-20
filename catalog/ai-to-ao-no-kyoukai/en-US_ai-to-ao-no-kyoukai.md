@@ -1,5 +1,7 @@
 # Ai to Ao no Kyoukai
 
+![ai-to-ao-no-kyoukai](https://cdn.myanimelist.net/images/manga/2/225901.jpg)
+
 -   **type**: manga
 -   **original-name**: アイとアオの境界
 -   **start-date**: 2015-08-29

@@ -1,5 +1,7 @@
 # Akage no Nyanko to Mori no Banken
 
+![akage-no-nyanko-to-mori-no-banken](https://cdn.myanimelist.net/images/manga/1/242939.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

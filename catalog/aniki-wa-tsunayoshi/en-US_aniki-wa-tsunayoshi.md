@@ -1,5 +1,7 @@
 # Aniki wa Tsunayoshi!
 
+![aniki-wa-tsunayoshi](https://cdn.myanimelist.net/images/manga/1/13542.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

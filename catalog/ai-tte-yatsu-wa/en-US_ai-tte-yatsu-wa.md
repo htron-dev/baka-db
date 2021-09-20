@@ -1,5 +1,7 @@
 # Ai tte Yatsu wa
 
+![ai-tte-yatsu-wa](https://cdn.myanimelist.net/images/manga/3/171781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

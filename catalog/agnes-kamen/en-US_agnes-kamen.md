@@ -1,5 +1,7 @@
 # Agnes Kamen
 
+![agnes-kamen](https://cdn.myanimelist.net/images/manga/2/131389.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 86

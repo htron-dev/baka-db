@@ -1,5 +1,7 @@
 # Ashita ga Aru sa: Sweet Time Express
 
+![ashita-ga-aru-sa-sweet-time-express](https://cdn.myanimelist.net/images/manga/3/90855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

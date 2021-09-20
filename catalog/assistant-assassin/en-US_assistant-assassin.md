@@ -1,5 +1,7 @@
 # Assistant Assassin
 
+![assistant-assassin](https://cdn.myanimelist.net/images/manga/1/220463.jpg)
+
 -   **type**: manga
 -   **original-name**: アシスタントアサシン
 -   **start-date**: 2018-08-05

@@ -1,5 +1,7 @@
 # Aoki Hagane no Arpeggio
 
+![aoki-hagane-no-arpeggio](https://cdn.myanimelist.net/images/manga/3/243931.jpg)
+
 -   **type**: manga
 -   **original-name**: 蒼き鋼のアルペジオ
 -   **start-date**: 2009-09-30

@@ -1,5 +1,7 @@
 # Andromeda Stories
 
+![andromeda-stories](https://cdn.myanimelist.net/images/anime/8/75156.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アンドロメダ・ストーリーズ

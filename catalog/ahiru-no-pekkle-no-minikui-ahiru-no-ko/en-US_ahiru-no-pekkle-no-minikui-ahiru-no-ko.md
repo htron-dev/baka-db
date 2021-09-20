@@ -1,5 +1,7 @@
 # Ahiru no Pekkle no Minikui Ahiru no Ko
 
+![ahiru-no-pekkle-no-minikui-ahiru-no-ko](https://cdn.myanimelist.net/images/anime/11/58891.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アヒルのペックルのみにくいあひるの子

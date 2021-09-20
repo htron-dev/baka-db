@@ -1,5 +1,7 @@
 # Aitsu no Heart ni Hi wo Tsukero!
 
+![aitsu-no-heart-ni-hi-wo-tsukero](https://cdn.myanimelist.net/images/manga/1/2545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

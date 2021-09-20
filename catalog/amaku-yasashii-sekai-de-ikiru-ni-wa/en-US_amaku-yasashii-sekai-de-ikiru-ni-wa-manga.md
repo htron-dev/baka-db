@@ -1,5 +1,7 @@
 # Amaku Yasashii Sekai de Ikiru ni wa
 
+![amaku-yasashii-sekai-de-ikiru-ni-wa](https://cdn.myanimelist.net/images/manga/3/203909.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

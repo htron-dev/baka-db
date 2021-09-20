@@ -1,5 +1,7 @@
 # Aka ya Akashi ya Ayakashi no
 
+![aka-ya-akashi-ya-ayakashi-no](https://cdn.myanimelist.net/images/manga/1/71163.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 55

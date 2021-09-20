@@ -1,5 +1,7 @@
 # Akebono Socks
 
+![akebono-socks](https://cdn.myanimelist.net/images/manga/1/188256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

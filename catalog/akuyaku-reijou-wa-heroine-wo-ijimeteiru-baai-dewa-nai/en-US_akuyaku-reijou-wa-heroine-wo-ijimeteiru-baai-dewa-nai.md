@@ -1,5 +1,7 @@
 # Akuyaku Reijou wa Heroine wo Ijimeteiru Baai dewa Nai
 
+![akuyaku-reijou-wa-heroine-wo-ijimeteiru-baai-dewa-nai](https://cdn.myanimelist.net/images/manga/2/242355.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢はヒロインを虐めている場合ではない
 -   **start-date**: 2020-12-25

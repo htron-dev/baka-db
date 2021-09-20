@@ -1,5 +1,7 @@
 # Ai no Hana, Gin no Koi
 
+![ai-no-hana-gin-no-koi](https://cdn.myanimelist.net/images/manga/3/25258.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Aquarium
 
+![aquarium](https://cdn.myanimelist.net/images/manga/2/58889.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アクアリウム

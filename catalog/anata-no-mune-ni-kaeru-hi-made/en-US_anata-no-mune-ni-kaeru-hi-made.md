@@ -1,5 +1,7 @@
 # Anata no Mune ni Kaeru Hi made
 
+![anata-no-mune-ni-kaeru-hi-made](https://cdn.myanimelist.net/images/manga/2/69847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

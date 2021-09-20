@@ -1,5 +1,7 @@
 # Akiba Senki
 
+![akiba-senki](https://cdn.myanimelist.net/images/manga/1/177342.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アキバ戦記
 -   **start-date**: 2016-06-01

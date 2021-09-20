@@ -1,5 +1,7 @@
 # AI no Idenshi: Red Queen
 
+![ai-no-idenshi-red-queen](https://cdn.myanimelist.net/images/manga/3/222644.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

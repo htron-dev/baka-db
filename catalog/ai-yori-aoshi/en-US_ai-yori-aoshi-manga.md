@@ -1,5 +1,7 @@
 # Ai yori Aoshi
 
+![ai-yori-aoshi](https://cdn.myanimelist.net/images/manga/3/184631.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 153

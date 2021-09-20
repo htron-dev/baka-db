@@ -1,5 +1,7 @@
 # Aiganken Inu wa Mate ga Dekinai
 
+![aiganken-inu-wa-mate-ga-dekinai](https://cdn.myanimelist.net/images/manga/1/89181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

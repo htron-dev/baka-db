@@ -1,5 +1,7 @@
 # Ai no Wakakusa Yama Monogatari
 
+![ai-no-wakakusa-yama-monogatari](https://cdn.myanimelist.net/images/anime/9/13279.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 愛の若草山物語

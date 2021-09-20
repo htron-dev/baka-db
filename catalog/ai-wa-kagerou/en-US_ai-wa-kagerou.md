@@ -1,5 +1,7 @@
 # Ai wa Kagerou
 
+![ai-wa-kagerou](https://cdn.myanimelist.net/images/manga/5/73985.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

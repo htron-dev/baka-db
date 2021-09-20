@@ -1,5 +1,7 @@
 # Angel Game: Sayonara to Mirai no Kakera
 
+![angel-game-sayonara-to-mirai-no-kakera](https://cdn.myanimelist.net/images/manga/3/139405.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

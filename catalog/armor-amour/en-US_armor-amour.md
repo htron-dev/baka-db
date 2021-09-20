@@ -1,5 +1,7 @@
 # Armor Amour
 
+![armor-amour](https://cdn.myanimelist.net/images/manga/2/149375.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

@@ -1,5 +1,7 @@
 # Aigan Danshi
 
+![aigan-danshi](https://cdn.myanimelist.net/images/manga/2/208563.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

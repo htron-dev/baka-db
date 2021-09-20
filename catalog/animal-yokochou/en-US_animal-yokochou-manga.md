@@ -1,5 +1,7 @@
 # Animal Yokochou
 
+![animal-yokochou](https://cdn.myanimelist.net/images/manga/1/176195.jpg)
+
 -   **type**: manga
 -   **original-name**: アニマル横町
 

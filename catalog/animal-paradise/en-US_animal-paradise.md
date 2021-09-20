@@ -1,5 +1,7 @@
 # Animal Paradise
 
+![animal-paradise](https://cdn.myanimelist.net/images/manga/2/10164.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 애니멀 파라다이스

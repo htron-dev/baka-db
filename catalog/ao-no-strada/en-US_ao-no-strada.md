@@ -1,5 +1,7 @@
 # Ao no Strada
 
+![ao-no-strada](https://cdn.myanimelist.net/images/anime/10/84500.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 青のストラーダ

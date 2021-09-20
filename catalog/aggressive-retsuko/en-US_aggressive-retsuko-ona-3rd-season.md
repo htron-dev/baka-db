@@ -1,5 +1,7 @@
 # Aggressive Retsuko (ONA) 3rd Season
 
+![aggressive-retsuko-ona-3rd-season](https://cdn.myanimelist.net/images/anime/1049/108692.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: アグレッシブ烈子第 3 期

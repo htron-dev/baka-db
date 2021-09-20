@@ -1,5 +1,7 @@
 # Ariel Deluxe
 
+![ariel-deluxe](https://cdn.myanimelist.net/images/anime/1004/94070.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: DELUXE ARIEL (エリアル)

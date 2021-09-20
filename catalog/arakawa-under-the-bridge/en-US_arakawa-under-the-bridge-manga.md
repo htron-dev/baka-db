@@ -1,5 +1,7 @@
 # Arakawa Under the Bridge
 
+![arakawa-under-the-bridge](https://cdn.myanimelist.net/images/manga/1/59489.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 410

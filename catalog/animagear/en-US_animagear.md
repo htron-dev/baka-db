@@ -1,5 +1,7 @@
 # Animagear
 
+![animagear](https://cdn.myanimelist.net/images/anime/1480/101749.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アニマギア

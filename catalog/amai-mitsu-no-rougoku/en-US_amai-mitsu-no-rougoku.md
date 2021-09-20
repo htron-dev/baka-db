@@ -1,5 +1,7 @@
 # Amai Mitsu no Rougoku
 
+![amai-mitsu-no-rougoku](https://cdn.myanimelist.net/images/manga/1/181503.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

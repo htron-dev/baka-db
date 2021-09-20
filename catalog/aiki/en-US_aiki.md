@@ -1,5 +1,7 @@
 # Aiki
 
+![aiki](https://cdn.myanimelist.net/images/manga/3/52449.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 98

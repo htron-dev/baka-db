@@ -1,5 +1,7 @@
 # Aoi Futari
 
+![aoi-futari](https://cdn.myanimelist.net/images/manga/1/6143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青いふたり

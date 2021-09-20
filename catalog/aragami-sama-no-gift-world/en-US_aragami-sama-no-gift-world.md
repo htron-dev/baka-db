@@ -1,5 +1,7 @@
 # Aragami-sama no Gift World
 
+![aragami-sama-no-gift-world](https://cdn.myanimelist.net/images/manga/3/217654.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

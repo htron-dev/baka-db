@@ -1,5 +1,7 @@
 # A.I.C.O.: Incarnation
 
+![a-i-c-o-incarnation](https://cdn.myanimelist.net/images/manga/3/207632.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

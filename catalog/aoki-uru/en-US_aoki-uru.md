@@ -1,5 +1,7 @@
 # Aoki Uru
 
+![aoki-uru](https://cdn.myanimelist.net/images/anime/13/71915.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蒼きウル

@@ -1,5 +1,7 @@
 # Akumazelma
 
+![akumazelma](https://cdn.myanimelist.net/images/manga/1/146539.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

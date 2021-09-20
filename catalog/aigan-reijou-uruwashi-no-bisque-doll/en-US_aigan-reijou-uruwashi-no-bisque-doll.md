@@ -1,5 +1,7 @@
 # Aigan Reijou: Uruwashi no Bisque Doll
 
+![aigan-reijou-uruwashi-no-bisque-doll](https://cdn.myanimelist.net/images/manga/3/153334.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

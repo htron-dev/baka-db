@@ -1,5 +1,7 @@
 # Alice SOS
 
+![alice-sos](https://cdn.myanimelist.net/images/anime/7/24323.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 28
 -   **original-name**: アリスＳＯＳ

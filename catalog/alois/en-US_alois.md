@@ -1,5 +1,7 @@
 # Alois
 
+![alois](https://cdn.myanimelist.net/images/manga/3/57279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

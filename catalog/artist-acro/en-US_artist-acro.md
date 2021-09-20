@@ -1,5 +1,7 @@
 # Artist Acro
 
+![artist-acro](https://cdn.myanimelist.net/images/manga/3/84569.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 81

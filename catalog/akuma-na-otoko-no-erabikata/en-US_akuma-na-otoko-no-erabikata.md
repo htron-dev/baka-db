@@ -1,5 +1,7 @@
 # Akuma na Otoko no Erabikata
 
+![akuma-na-otoko-no-erabikata](https://cdn.myanimelist.net/images/manga/2/33809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪魔な男の選び方

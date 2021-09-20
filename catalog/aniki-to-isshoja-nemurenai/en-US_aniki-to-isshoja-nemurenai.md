@@ -1,5 +1,7 @@
 # Aniki to Isshoja Nemurenai
 
+![aniki-to-isshoja-nemurenai](https://cdn.myanimelist.net/images/manga/2/213202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

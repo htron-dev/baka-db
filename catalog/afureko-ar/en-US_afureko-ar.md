@@ -1,5 +1,7 @@
 # Afureko! AR
 
+![afureko-ar](https://cdn.myanimelist.net/images/anime/5/86133.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: あふれこ! AR

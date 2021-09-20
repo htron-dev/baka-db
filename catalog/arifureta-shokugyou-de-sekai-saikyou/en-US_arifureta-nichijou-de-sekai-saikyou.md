@@ -1,5 +1,7 @@
 # Arifureta Nichijou de Sekai Saikyou
 
+![arifureta-nichijou-de-sekai-saikyou](https://cdn.myanimelist.net/images/manga/3/209378.jpg)
+
 -   **type**: manga
 -   **original-name**: ありふれた日常で世界最強
 -   **start-date**: 2017-07-10

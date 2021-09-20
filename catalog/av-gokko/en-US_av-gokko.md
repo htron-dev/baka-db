@@ -1,5 +1,7 @@
 # AV Gokko
 
+![av-gokko](https://cdn.myanimelist.net/images/manga/1/100591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Aladdin to Mahou no Lamp no Koutsuu Anzen
 
+![aladdin-to-mahou-no-lamp-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/9/74433.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アラジンと魔法のランプの交通安全

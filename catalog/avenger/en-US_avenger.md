@@ -1,5 +1,7 @@
 # Avenger
 
+![avenger](https://cdn.myanimelist.net/images/anime/13/19921.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アヴェンジャー

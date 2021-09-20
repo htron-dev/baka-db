@@ -1,5 +1,7 @@
 # Asonde! Manga no Oniisan
 
+![asonde-manga-no-oniisan](https://cdn.myanimelist.net/images/manga/3/239725.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Akihabara Dungeon Bouken Kitan
 
+![akihabara-dungeon-bouken-kitan](https://cdn.myanimelist.net/images/manga/1/120751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

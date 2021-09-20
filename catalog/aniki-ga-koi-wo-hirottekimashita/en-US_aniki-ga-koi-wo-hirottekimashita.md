@@ -1,5 +1,7 @@
 # Aniki ga Koi wo Hirottekimashita
 
+![aniki-ga-koi-wo-hirottekimashita](https://cdn.myanimelist.net/images/manga/1/225536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Akujo Seisho
 
+![akujo-seisho](https://cdn.myanimelist.net/images/manga/2/17566.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: 悪女聖書

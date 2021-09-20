@@ -1,5 +1,7 @@
 # Alice
 
+![alice](https://cdn.myanimelist.net/images/manga/3/30499.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 앨리스

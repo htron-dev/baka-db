@@ -1,5 +1,7 @@
 # Aijin Ichimanyen
 
+![aijin-ichimanyen](https://cdn.myanimelist.net/images/manga/2/5740.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛人いちまんえん

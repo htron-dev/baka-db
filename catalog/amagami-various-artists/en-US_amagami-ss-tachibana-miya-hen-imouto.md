@@ -1,5 +1,7 @@
 # Amagami SS: Tachibana Miya-hen - Imouto
 
+![amagami-ss-tachibana-miya-hen-imouto](https://cdn.myanimelist.net/images/anime/5/27464.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アマガミ SS 橘美也編 イモウト

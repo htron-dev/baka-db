@@ -1,5 +1,7 @@
 # Aoi Spice
 
+![aoi-spice](https://cdn.myanimelist.net/images/manga/2/1758.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

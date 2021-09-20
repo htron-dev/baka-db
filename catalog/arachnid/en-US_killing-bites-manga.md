@@ -1,5 +1,7 @@
 # Killing Bites
 
+![killing-bites](https://cdn.myanimelist.net/images/manga/1/188971.jpg)
+
 -   **type**: manga
 -   **original-name**: キリングバイツ
 -   **start-date**: 2013-11-30

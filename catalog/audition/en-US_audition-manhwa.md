@@ -1,5 +1,7 @@
 # Audition
 
+![audition](https://cdn.myanimelist.net/images/manga/1/6348.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 오디션

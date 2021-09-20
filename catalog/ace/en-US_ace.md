@@ -1,5 +1,7 @@
 # Ace!
 
+![ace](https://cdn.myanimelist.net/images/manga/3/32332.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: エース！

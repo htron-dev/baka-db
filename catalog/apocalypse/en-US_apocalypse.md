@@ -1,5 +1,7 @@
 # Apocalypse
 
+![apocalypse](https://cdn.myanimelist.net/images/manga/2/153019.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: apocalypse

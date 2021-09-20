@@ -1,5 +1,7 @@
 # Ano Hi, Bokura wa Senjou de: Shounenhei no Kokuhaku
 
+![ano-hi-bokura-wa-senjou-de-shounenhei-no-kokuhaku](https://cdn.myanimelist.net/images/anime/9/76101.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あの日, 僕らは戦場で ~少年兵の告白~

@@ -1,5 +1,7 @@
 # Chizuka-san ni Tsutaete
 
+![chizuka-san-ni-tsutaete](https://cdn.myanimelist.net/images/manga/2/226091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Auto Focus
 
+![auto-focus](https://cdn.myanimelist.net/images/manga/1/25880.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 18

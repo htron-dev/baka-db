@@ -1,5 +1,7 @@
 # Arigatou tte Itte: Nikaidou Kou Tanpenshuu
 
+![arigatou-tte-itte-nikaidou-kou-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/239723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

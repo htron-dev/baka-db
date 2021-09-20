@@ -1,5 +1,7 @@
 # Ame to Shoujo to Watashi no Tegami
 
+![ame-to-shoujo-to-watashi-no-tegami](https://cdn.myanimelist.net/images/anime/8/23180.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 雨と少女と私の手紙

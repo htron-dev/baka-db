@@ -1,5 +1,7 @@
 # Ashita no Joe Pilots
 
+![ashita-no-joe-pilots](https://cdn.myanimelist.net/images/anime/11/53387.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: あしたのジョー パイロットフィルム

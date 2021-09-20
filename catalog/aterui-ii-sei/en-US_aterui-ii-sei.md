@@ -1,5 +1,7 @@
 # Aterui II-sei
 
+![aterui-ii-sei](https://cdn.myanimelist.net/images/manga/1/150446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

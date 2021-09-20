@@ -1,5 +1,7 @@
 # A-ko-san no Koibito
 
+![a-ko-san-no-koibito](https://cdn.myanimelist.net/images/manga/1/202828.jpg)
+
 -   **type**: manga
 -   **original-name**: A 子さんの恋人
 -   **start-date**: 2014-04-14

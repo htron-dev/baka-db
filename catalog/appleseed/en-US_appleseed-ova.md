@@ -1,5 +1,7 @@
 # Appleseed
 
+![appleseed](https://cdn.myanimelist.net/images/anime/6/27979.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アップル・シード

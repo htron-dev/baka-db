@@ -1,5 +1,7 @@
 # Asako
 
+![asako](https://cdn.myanimelist.net/images/manga/1/234165.jpg)
+
 -   **type**: manga
 -   **original-name**: あさこ
 -   **start-date**: 2019-11-26

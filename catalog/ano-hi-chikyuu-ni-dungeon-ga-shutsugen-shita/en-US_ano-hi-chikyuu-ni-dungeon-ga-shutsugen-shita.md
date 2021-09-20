@@ -1,5 +1,7 @@
 # Ano Hi Chikyuu ni Dungeon ga Shutsugen shita
 
+![ano-hi-chikyuu-ni-dungeon-ga-shutsugen-shita](https://cdn.myanimelist.net/images/manga/1/246381.jpg)
+
 -   **type**: manga
 -   **original-name**: あの日地球にダンジョンが出現した
 -   **start-date**: 2020-08-25

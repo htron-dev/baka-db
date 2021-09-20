@@ -1,5 +1,7 @@
 # Afureru Namida wo Nomikonda nara
 
+![afureru-namida-wo-nomikonda-nara](https://cdn.myanimelist.net/images/manga/2/224986.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

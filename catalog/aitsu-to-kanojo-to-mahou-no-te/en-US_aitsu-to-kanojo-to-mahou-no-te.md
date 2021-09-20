@@ -1,5 +1,7 @@
 # Aitsu to Kanojo to Mahou no Te
 
+![aitsu-to-kanojo-to-mahou-no-te](https://cdn.myanimelist.net/images/manga/1/160770.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

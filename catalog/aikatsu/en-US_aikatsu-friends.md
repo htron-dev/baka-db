@@ -1,5 +1,7 @@
 # Aikatsu Friends!
 
+![aikatsu-friends](https://cdn.myanimelist.net/images/anime/1198/90430.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: アイカツフレンズ！

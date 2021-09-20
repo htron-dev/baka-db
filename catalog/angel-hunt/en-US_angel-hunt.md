@@ -1,5 +1,7 @@
 # Angel Hunt
 
+![angel-hunt](https://cdn.myanimelist.net/images/manga/2/4563.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: エンジェル・ハント

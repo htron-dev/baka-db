@@ -1,5 +1,7 @@
 # Ai no Tetsujin
 
+![ai-no-tetsujin](https://cdn.myanimelist.net/images/manga/3/19644.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

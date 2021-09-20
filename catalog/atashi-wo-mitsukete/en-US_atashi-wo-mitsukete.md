@@ -1,5 +1,7 @@
 # Atashi wo Mitsukete
 
+![atashi-wo-mitsukete](https://cdn.myanimelist.net/images/manga/2/46211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あたしをみつけて

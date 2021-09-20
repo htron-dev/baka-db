@@ -1,5 +1,7 @@
 # Asatte Dance
 
+![asatte-dance](https://cdn.myanimelist.net/images/manga/5/202582.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 89

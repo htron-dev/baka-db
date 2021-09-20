@@ -1,5 +1,7 @@
 # Ashita wa Joutenki
 
+![ashita-wa-joutenki](https://cdn.myanimelist.net/images/manga/2/2197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

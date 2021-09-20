@@ -1,5 +1,7 @@
 # Ai Kora
 
+![ai-kora](https://cdn.myanimelist.net/images/manga/2/60629.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 120

@@ -1,5 +1,7 @@
 # Aishikata no Rule
 
+![aishikata-no-rule](https://cdn.myanimelist.net/images/manga/2/113597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

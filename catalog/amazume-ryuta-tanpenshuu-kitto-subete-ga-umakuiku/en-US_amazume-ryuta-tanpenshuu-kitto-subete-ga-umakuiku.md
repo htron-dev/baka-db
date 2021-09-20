@@ -1,5 +1,7 @@
 # Amazume Ryuta Tanpenshuu Kitto Subete ga Umakuiku
 
+![amazume-ryuta-tanpenshuu-kitto-subete-ga-umakuiku](https://cdn.myanimelist.net/images/manga/2/49461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

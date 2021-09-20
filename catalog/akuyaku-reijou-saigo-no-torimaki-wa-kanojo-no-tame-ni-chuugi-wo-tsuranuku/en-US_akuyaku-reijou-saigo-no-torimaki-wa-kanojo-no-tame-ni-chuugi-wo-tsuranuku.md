@@ -1,5 +1,7 @@
 # Akuyaku Reijou Saigo no Torimaki wa, Kanojo no Tame ni Chuugi wo Tsuranuku!
 
+![akuyaku-reijou-saigo-no-torimaki-wa-kanojo-no-tame-ni-chuugi-wo-tsuranuku](https://cdn.myanimelist.net/images/manga/3/246645.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 悪役令嬢最後の取り巻きは、彼女の為に忠義を貫く！

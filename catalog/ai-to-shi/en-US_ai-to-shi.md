@@ -1,5 +1,7 @@
 # Ai to Shi
 
+![ai-to-shi](https://cdn.myanimelist.net/images/anime/8/77241.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 愛と死

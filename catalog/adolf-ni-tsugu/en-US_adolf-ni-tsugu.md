@@ -1,5 +1,7 @@
 # Adolf ni Tsugu
 
+![adolf-ni-tsugu](https://cdn.myanimelist.net/images/manga/2/1788.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

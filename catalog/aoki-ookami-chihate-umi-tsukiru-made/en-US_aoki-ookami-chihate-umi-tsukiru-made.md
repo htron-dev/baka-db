@@ -1,5 +1,7 @@
 # Aoki Ookami: Chihate Umi Tsukiru Made
 
+![aoki-ookami-chihate-umi-tsukiru-made](https://cdn.myanimelist.net/images/manga/1/16180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

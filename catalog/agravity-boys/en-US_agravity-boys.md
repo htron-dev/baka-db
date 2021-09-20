@@ -1,5 +1,7 @@
 # Agravity Boys
 
+![agravity-boys](https://cdn.myanimelist.net/images/manga/2/228642.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 59

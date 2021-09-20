@@ -1,5 +1,7 @@
 # Akuma Kari: Jakumetsu no Seishoukahen
 
+![akuma-kari-jakumetsu-no-seishoukahen](https://cdn.myanimelist.net/images/manga/2/201718.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 悪魔狩り-寂滅の聖頌歌篇-

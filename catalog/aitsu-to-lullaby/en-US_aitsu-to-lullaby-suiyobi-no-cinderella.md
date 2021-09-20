@@ -1,5 +1,7 @@
 # Aitsu to Lullaby: Suiyobi no Cinderella
 
+![aitsu-to-lullaby-suiyobi-no-cinderella](https://cdn.myanimelist.net/images/anime/5/69915.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あいつとララバイ　水曜日のシンデレラ

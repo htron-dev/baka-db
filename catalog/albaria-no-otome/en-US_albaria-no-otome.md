@@ -1,5 +1,7 @@
 # Albaria no Otome
 
+![albaria-no-otome](https://cdn.myanimelist.net/images/manga/1/13130.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

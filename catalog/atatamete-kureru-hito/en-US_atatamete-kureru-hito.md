@@ -1,5 +1,7 @@
 # Atatamete Kureru Hito.
 
+![atatamete-kureru-hito](https://cdn.myanimelist.net/images/manga/2/222234.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

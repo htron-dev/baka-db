@@ -1,5 +1,7 @@
 # Agharta Fiesta!
 
+![agharta-fiesta](https://cdn.myanimelist.net/images/manga/3/97327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: アガルタ・フィエスタ!

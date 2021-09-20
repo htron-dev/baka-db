@@ -1,5 +1,7 @@
 # Aruite Ippo!!
 
+![aruite-ippo](https://cdn.myanimelist.net/images/manga/3/62135.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

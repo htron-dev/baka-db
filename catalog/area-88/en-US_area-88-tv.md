@@ -1,5 +1,7 @@
 # Area 88 (TV)
 
+![area-88-tv](https://cdn.myanimelist.net/images/anime/9/75571.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: エリア８８

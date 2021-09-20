@@ -1,5 +1,7 @@
 # Ai Shoujo Pollyanna Story
 
+![ai-shoujo-pollyanna-story](https://cdn.myanimelist.net/images/anime/13/71674.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 愛少女ポリアンナ物語

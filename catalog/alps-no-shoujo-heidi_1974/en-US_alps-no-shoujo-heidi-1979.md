@@ -1,5 +1,7 @@
 # Alps no Shoujo Heidi (1979)
 
+![alps-no-shoujo-heidi-1979](https://cdn.myanimelist.net/images/anime/6/26447.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アルプスの少女ハイジ (1979)

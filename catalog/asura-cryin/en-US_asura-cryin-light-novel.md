@@ -1,5 +1,7 @@
 # Asura Cryin'
 
+![asura-cryin](https://cdn.myanimelist.net/images/manga/3/148515.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **original-name**: アスラクライン

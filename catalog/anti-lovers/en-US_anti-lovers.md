@@ -1,5 +1,7 @@
 # Anti-lovers
 
+![anti-lovers](https://cdn.myanimelist.net/images/manga/2/159490.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: アンチラバーズ

@@ -1,5 +1,7 @@
 # Animation Seisaku Shinkou Kuromi-chan 2
 
+![animation-seisaku-shinkou-kuromi-chan-2](https://cdn.myanimelist.net/images/anime/1/1798.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アニメーション制作進行くろみちゃん 2

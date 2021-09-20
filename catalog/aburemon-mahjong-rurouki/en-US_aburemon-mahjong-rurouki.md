@@ -1,5 +1,7 @@
 # Aburemon Mahjong Rurouki
 
+![aburemon-mahjong-rurouki](https://cdn.myanimelist.net/images/manga/2/17802.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

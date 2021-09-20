@@ -1,5 +1,7 @@
 # A-Channel
 
+![a-channel](https://cdn.myanimelist.net/images/manga/3/57067.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: A チャンネル

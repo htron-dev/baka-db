@@ -1,5 +1,7 @@
 # Akuma-kun: Youkoso Akuma Land e!!
 
+![akuma-kun-youkoso-akuma-land-e](https://cdn.myanimelist.net/images/anime/12/21277.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 悪魔くん ようこそ悪魔ランドへ!!

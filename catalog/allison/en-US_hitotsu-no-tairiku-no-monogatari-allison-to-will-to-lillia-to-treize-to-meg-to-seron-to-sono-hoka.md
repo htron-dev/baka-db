@@ -1,5 +1,7 @@
 # Hitotsu no Tairiku no Monogatari: Allison to Will to Lillia to Treize to Meg to Seron to Sono Hoka
 
+![hitotsu-no-tairiku-no-monogatari-allison-to-will-to-lillia-to-treize-to-meg-to-seron-to-sono-hoka](https://cdn.myanimelist.net/images/manga/2/128887.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

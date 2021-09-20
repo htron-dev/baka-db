@@ -1,5 +1,7 @@
 # Amaama to Inazuma
 
+![amaama-to-inazuma](https://cdn.myanimelist.net/images/anime/6/80546.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 甘々と稲妻

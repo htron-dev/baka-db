@@ -1,5 +1,7 @@
 # Avenir wo Sagashite
 
+![avenir-wo-sagashite](https://cdn.myanimelist.net/images/manga/1/89355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: アベニールをさがして

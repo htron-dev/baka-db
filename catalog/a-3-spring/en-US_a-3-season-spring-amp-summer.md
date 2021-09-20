@@ -1,5 +1,7 @@
 # A3! Season Spring &amp; Summer
 
+![a-3-season-spring-amp-summer](https://cdn.myanimelist.net/images/anime/1421/105605.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: A3! SEASON SPRING & SUMMER

@@ -1,5 +1,7 @@
 # Acchi Kocchi (TV)
 
+![acchi-kocchi-tv](https://cdn.myanimelist.net/images/anime/5/46489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あっちこっち

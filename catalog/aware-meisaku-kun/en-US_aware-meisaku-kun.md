@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun
 
+![aware-meisaku-kun](https://cdn.myanimelist.net/images/anime/13/79069.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: あはれ! 名作くん
 -   **start-date**: 2016-04-08

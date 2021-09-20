@@ -1,5 +1,7 @@
 # Asunaro Hakusho
 
+![asunaro-hakusho](https://cdn.myanimelist.net/images/manga/3/201031.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

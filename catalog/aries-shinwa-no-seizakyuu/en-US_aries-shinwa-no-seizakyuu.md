@@ -1,5 +1,7 @@
 # Aries: Shinwa no Seizakyuu
 
+![aries-shinwa-no-seizakyuu](https://cdn.myanimelist.net/images/anime/3/58363.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アリーズ -神話の星座宮-

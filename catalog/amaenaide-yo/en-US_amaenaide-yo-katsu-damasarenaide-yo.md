@@ -1,5 +1,7 @@
 # Amaenaide yo!! Katsu!!: Damasarenaide yo!!
 
+![amaenaide-yo-katsu-damasarenaide-yo](https://cdn.myanimelist.net/images/anime/8/75971.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あまえないでよっ!!喝!! ダマされないでよっ!!

@@ -1,5 +1,7 @@
 # Aika-chan no Chikyuu
 
+![aika-chan-no-chikyuu](https://cdn.myanimelist.net/images/anime/1775/93501.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 愛華ちゃんの地球

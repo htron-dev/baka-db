@@ -1,5 +1,7 @@
 # Aoi Haru no Subete
 
+![aoi-haru-no-subete](https://cdn.myanimelist.net/images/manga/3/137693.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 36

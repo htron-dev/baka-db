@@ -1,5 +1,7 @@
 # Manga de Wakaru Shinryounaika
 
+![manga-de-wakaru-shinryounaika](https://cdn.myanimelist.net/images/manga/3/149819.jpg)
+
 -   **type**: manga
 -   **original-name**: マンガで分かる心療内科
 

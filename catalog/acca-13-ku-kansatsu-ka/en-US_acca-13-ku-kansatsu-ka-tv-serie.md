@@ -1,5 +1,7 @@
 # ACCA: 13-ku Kansatsu-ka
 
+![acca-13-ku-kansatsu-ka](https://cdn.myanimelist.net/images/anime/3/83776.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ACCA 13 区監察課

@@ -1,5 +1,7 @@
 # Akuma wo Munyumunyu Suru Riyuu
 
+![akuma-wo-munyumunyu-suru-riyuu](https://cdn.myanimelist.net/images/manga/3/161859.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

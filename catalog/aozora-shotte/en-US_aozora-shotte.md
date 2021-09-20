@@ -1,5 +1,7 @@
 # Aozora Shotte
 
+![aozora-shotte](https://cdn.myanimelist.net/images/manga/2/228037.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 225

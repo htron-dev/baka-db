@@ -1,5 +1,7 @@
 # ARP Backstage Pass
 
+![arp-backstage-pass](https://cdn.myanimelist.net/images/anime/1559/110721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ARP Backstage Pass

@@ -1,5 +1,7 @@
 # Arslan Senki
 
+![arslan-senki](https://cdn.myanimelist.net/images/manga/2/149815.jpg)
+
 -   **type**: manga
 -   **original-name**: アルスラーン戦記
 -   **start-date**: 2013-07-09

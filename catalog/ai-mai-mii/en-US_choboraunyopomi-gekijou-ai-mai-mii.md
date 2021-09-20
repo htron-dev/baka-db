@@ -1,5 +1,7 @@
 # Choboraunyopomi Gekijou Ai Mai Mii
 
+![choboraunyopomi-gekijou-ai-mai-mii](https://cdn.myanimelist.net/images/anime/7/45306.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ちょぼらうにょぽみ劇場 あいまいみー

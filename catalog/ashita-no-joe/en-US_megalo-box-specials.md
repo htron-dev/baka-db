@@ -1,5 +1,7 @@
 # Megalo Box Specials
 
+![megalo-box-specials](https://cdn.myanimelist.net/images/anime/1726/92315.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: メガロボクス

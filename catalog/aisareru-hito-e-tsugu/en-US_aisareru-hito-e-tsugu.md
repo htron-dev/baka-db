@@ -1,5 +1,7 @@
 # Aisareru Hito e Tsugu
 
+![aisareru-hito-e-tsugu](https://cdn.myanimelist.net/images/manga/1/3326.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

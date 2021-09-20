@@ -1,5 +1,7 @@
 # Ashita mo Kotokoto
 
+![ashita-mo-kotokoto](https://cdn.myanimelist.net/images/manga/3/178753.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

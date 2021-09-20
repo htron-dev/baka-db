@@ -1,5 +1,7 @@
 # Alpen Rose
 
+![alpen-rose](https://cdn.myanimelist.net/images/manga/5/175785.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 56

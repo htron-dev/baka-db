@@ -1,5 +1,7 @@
 # Aka no Grimoire
 
+![aka-no-grimoire](https://cdn.myanimelist.net/images/manga/1/220861.jpg)
+
 -   **type**: manga
 -   **original-name**: 赫のグリモア
 -   **start-date**: 2018-09-07

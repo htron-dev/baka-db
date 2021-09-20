@@ -1,5 +1,7 @@
 # Akoya Tsutae
 
+![akoya-tsutae](https://cdn.myanimelist.net/images/manga/2/142745.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 42

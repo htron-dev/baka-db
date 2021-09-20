@@ -1,5 +1,7 @@
 # Aido
 
+![aido](https://cdn.myanimelist.net/images/manga/2/28331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

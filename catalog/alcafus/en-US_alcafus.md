@@ -1,5 +1,7 @@
 # Alcafus
 
+![alcafus](https://cdn.myanimelist.net/images/manga/1/215985.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

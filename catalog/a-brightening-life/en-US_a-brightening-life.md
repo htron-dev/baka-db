@@ -1,5 +1,7 @@
 # A Brightening Life
 
+![a-brightening-life](https://cdn.myanimelist.net/images/anime/1565/103711.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: A brightening life

@@ -1,5 +1,7 @@
 # Astro Kyuudan
 
+![astro-kyuudan](https://cdn.myanimelist.net/images/manga/2/187138.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 183

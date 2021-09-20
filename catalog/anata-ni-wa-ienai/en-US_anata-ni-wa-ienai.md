@@ -1,5 +1,7 @@
 # Anata ni wa Ienai
 
+![anata-ni-wa-ienai](https://cdn.myanimelist.net/images/manga/1/247194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたには言えない

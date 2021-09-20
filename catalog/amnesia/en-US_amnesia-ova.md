@@ -1,5 +1,7 @@
 # Amnesia OVA
 
+![amnesia-ova](https://cdn.myanimelist.net/images/anime/9/54853.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: AMNESIA

@@ -1,5 +1,7 @@
 # Akai Mi Hajiketa
 
+![akai-mi-hajiketa](https://cdn.myanimelist.net/images/manga/1/140857.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

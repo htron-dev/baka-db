@@ -1,5 +1,7 @@
 # Aisareru Karada
 
+![aisareru-karada](https://cdn.myanimelist.net/images/manga/3/33241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛されるカラダ

@@ -1,5 +1,7 @@
 # Akatsuki no Yume Tsukai-tachi
 
+![akatsuki-no-yume-tsukai-tachi](https://cdn.myanimelist.net/images/manga/1/164028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

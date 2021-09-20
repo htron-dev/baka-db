@@ -1,5 +1,7 @@
 # Arion
 
+![arion](https://cdn.myanimelist.net/images/manga/1/75003.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

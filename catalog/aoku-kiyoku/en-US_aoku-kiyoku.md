@@ -1,5 +1,7 @@
 # Aoku Kiyoku
 
+![aoku-kiyoku](https://cdn.myanimelist.net/images/manga/3/194357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # All You Need Is Kill
 
+![all-you-need-is-kill](https://cdn.myanimelist.net/images/manga/3/28368.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ace wo Nerae! (1979)
 
+![ace-wo-nerae-1979](https://cdn.myanimelist.net/images/anime/1306/100442.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エースをねらえ！

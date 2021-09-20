@@ -1,5 +1,7 @@
 # Aru Hi Totsuzen Bishoujo no Yuurei ni Toritsukarete Shimatta Wake da ga
 
+![aru-hi-totsuzen-bishoujo-no-yuurei-ni-toritsukarete-shimatta-wake-da-ga](https://cdn.myanimelist.net/images/manga/1/162453.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

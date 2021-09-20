@@ -1,5 +1,7 @@
 # Arashi no Yoru ni: Himitsu no Tomodachi
 
+![arashi-no-yoru-ni-himitsu-no-tomodachi](https://cdn.myanimelist.net/images/anime/4/36603.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: あらしのよるに ひみつのともだち

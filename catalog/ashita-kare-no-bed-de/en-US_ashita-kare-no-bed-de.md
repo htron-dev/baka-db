@@ -1,5 +1,7 @@
 # Ashita, Kare no Bed de.
 
+![ashita-kare-no-bed-de](https://cdn.myanimelist.net/images/manga/4/195479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

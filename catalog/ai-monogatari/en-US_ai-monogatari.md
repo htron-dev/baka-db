@@ -1,5 +1,7 @@
 # Ai Monogatari
 
+![ai-monogatari](https://cdn.myanimelist.net/images/manga/1/131871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛物語

@@ -1,5 +1,7 @@
 # Anime Yasei no Sakebi
 
+![anime-yasei-no-sakebi](https://cdn.myanimelist.net/images/anime/4/56735.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: アニメ野性のさけび

@@ -1,5 +1,7 @@
 # Ai to Yuuki no Pig Girl Tonde Buurin
 
+![ai-to-yuuki-no-pig-girl-tonde-buurin](https://cdn.myanimelist.net/images/manga/3/17560.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

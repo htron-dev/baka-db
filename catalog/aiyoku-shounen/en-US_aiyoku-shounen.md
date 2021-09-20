@@ -1,5 +1,7 @@
 # Aiyoku Shounen
 
+![aiyoku-shounen](https://cdn.myanimelist.net/images/manga/2/170082.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

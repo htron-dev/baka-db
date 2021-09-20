@@ -1,5 +1,7 @@
 # Anata Ni Oitsukenai
 
+![anata-ni-oitsukenai](https://cdn.myanimelist.net/images/manga/5/130465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

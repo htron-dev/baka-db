@@ -1,5 +1,7 @@
 # Anata wa Iyarashii Hito
 
+![anata-wa-iyarashii-hito](https://cdn.myanimelist.net/images/manga/3/223876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

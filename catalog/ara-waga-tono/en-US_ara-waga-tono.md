@@ -1,5 +1,7 @@
 # Ara Waga Tono!
 
+![ara-waga-tono](https://cdn.myanimelist.net/images/manga/3/18031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あーらわが殿！

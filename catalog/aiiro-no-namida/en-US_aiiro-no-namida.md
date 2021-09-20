@@ -1,5 +1,7 @@
 # Aiiro no Namida
 
+![aiiro-no-namida](https://cdn.myanimelist.net/images/manga/3/89821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

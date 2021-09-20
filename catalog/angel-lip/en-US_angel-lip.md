@@ -1,5 +1,7 @@
 # Angel Lip
 
+![angel-lip](https://cdn.myanimelist.net/images/manga/4/11530.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: エンジェルリップ

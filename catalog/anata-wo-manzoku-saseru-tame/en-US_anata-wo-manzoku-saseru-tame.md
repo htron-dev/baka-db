@@ -1,5 +1,7 @@
 # Anata wo Manzoku Saseru Tame
 
+![anata-wo-manzoku-saseru-tame](https://cdn.myanimelist.net/images/manga/2/85611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

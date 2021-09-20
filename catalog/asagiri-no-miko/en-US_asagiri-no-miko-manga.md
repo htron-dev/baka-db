@@ -1,5 +1,7 @@
 # Asagiri no Miko
 
+![asagiri-no-miko](https://cdn.myanimelist.net/images/manga/1/121975.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 85

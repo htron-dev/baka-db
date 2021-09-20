@@ -1,5 +1,7 @@
 # Amanchu!
 
+![amanchu](https://cdn.myanimelist.net/images/anime/6/80810.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あまんちゅ！

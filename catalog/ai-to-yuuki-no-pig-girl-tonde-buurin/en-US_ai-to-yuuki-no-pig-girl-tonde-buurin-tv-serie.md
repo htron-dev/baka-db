@@ -1,5 +1,7 @@
 # Ai to Yuuki no Pig Girl Tonde Buurin
 
+![ai-to-yuuki-no-pig-girl-tonde-buurin](https://cdn.myanimelist.net/images/anime/7/51421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 愛と勇気のピッグガール　とんでぶーりん

@@ -1,5 +1,7 @@
 # Azrael
 
+![azrael](https://cdn.myanimelist.net/images/manga/1/60561.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아즈라엘
 

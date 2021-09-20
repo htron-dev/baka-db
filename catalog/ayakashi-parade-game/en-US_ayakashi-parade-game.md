@@ -1,5 +1,7 @@
 # Ayakashi Parade Game
 
+![ayakashi-parade-game](https://cdn.myanimelist.net/images/manga/2/209062.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

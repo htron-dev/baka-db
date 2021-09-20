@@ -1,5 +1,7 @@
 # OTMGirls no Yokiyoki Channeru
 
+![otm-girls-no-yokiyoki-channeru](https://cdn.myanimelist.net/images/anime/1202/110102.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: OTMGirls のよきよきチャンネル

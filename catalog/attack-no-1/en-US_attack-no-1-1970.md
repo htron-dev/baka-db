@@ -1,5 +1,7 @@
 # Attack No.1 (1970)
 
+![attack-no-1-1970](https://cdn.myanimelist.net/images/anime/4/25375.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アタック No.1 (1970)

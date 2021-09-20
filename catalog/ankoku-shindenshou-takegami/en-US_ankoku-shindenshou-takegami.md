@@ -1,5 +1,7 @@
 # Ankoku Shindenshou Takegami
 
+![ankoku-shindenshou-takegami](https://cdn.myanimelist.net/images/anime/1837/97239.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 暗黒神伝承 武神 (Takegami)

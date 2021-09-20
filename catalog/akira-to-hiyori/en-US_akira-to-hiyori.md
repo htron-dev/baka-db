@@ -1,5 +1,7 @@
 # Akira to Hiyori
 
+![akira-to-hiyori](https://cdn.myanimelist.net/images/manga/1/166341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

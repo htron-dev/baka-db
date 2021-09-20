@@ -1,5 +1,7 @@
 # Ashita mo Tanin
 
+![ashita-mo-tanin](https://cdn.myanimelist.net/images/manga/2/179743.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

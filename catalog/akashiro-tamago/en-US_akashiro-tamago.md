@@ -1,5 +1,7 @@
 # Akashiro Tamago
 
+![akashiro-tamago](https://cdn.myanimelist.net/images/manga/2/201988.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 49

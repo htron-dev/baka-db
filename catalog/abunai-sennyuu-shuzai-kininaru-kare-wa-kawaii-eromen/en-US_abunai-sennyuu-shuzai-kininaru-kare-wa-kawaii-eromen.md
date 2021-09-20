@@ -1,5 +1,7 @@
 # Abunai Sennyuu Shuzai: Kininaru Kare wa Kawaii Eromen
 
+![abunai-sennyuu-shuzai-kininaru-kare-wa-kawaii-eromen](https://cdn.myanimelist.net/images/manga/3/193787.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

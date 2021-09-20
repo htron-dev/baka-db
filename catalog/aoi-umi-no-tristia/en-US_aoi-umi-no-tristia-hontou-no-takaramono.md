@@ -1,5 +1,7 @@
 # Aoi Umi no Tristia: Hontou no Takaramono
 
+![aoi-umi-no-tristia-hontou-no-takaramono](https://cdn.myanimelist.net/images/manga/1/178450.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

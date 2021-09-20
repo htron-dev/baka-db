@@ -1,5 +1,7 @@
 # Akai Koudan Zillion Recaps
 
+![akai-koudan-zillion-recaps](https://cdn.myanimelist.net/images/anime/9/45843.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 赤い光弾ジリオン 特典映像

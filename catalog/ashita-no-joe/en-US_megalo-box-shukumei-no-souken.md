@@ -1,5 +1,7 @@
 # Megalo Box: Shukumei no Souken
 
+![megalo-box-shukumei-no-souken](https://cdn.myanimelist.net/images/manga/1/209179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

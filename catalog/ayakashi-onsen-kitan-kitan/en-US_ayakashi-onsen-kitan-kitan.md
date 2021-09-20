@@ -1,5 +1,7 @@
 # Ayakashi Onsen Kitan Kitan
 
+![ayakashi-onsen-kitan-kitan](https://cdn.myanimelist.net/images/manga/1/242755.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

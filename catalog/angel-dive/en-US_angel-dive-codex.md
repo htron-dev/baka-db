@@ -1,5 +1,7 @@
 # Angel+Dive: Codex
 
+![angel-dive-codex](https://cdn.myanimelist.net/images/manga/3/135511.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ANGEL+DIVE CODEX

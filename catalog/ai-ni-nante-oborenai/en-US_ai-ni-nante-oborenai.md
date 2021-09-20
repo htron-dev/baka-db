@@ -1,5 +1,7 @@
 # Ai ni nante Oborenai
 
+![ai-ni-nante-oborenai](https://cdn.myanimelist.net/images/manga/2/232357.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

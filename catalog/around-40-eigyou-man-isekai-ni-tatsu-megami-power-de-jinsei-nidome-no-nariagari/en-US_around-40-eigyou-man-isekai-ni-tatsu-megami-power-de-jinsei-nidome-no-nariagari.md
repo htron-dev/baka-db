@@ -1,5 +1,7 @@
 # Around 40 Eigyou-man, Isekai ni Tatsu!: Megami Power de Jinsei Nidome no Nariagari
 
+![around-40-eigyou-man-isekai-ni-tatsu-megami-power-de-jinsei-nidome-no-nariagari](https://cdn.myanimelist.net/images/manga/2/200167.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

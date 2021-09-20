@@ -1,5 +1,7 @@
 # Ai wo Suteta Sheikh
 
+![ai-wo-suteta-sheikh](https://cdn.myanimelist.net/images/manga/2/40071.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛を捨てたシーク

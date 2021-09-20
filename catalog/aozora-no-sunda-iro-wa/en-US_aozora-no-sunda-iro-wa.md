@@ -1,5 +1,7 @@
 # Aozora no Sunda Iro wa
 
+![aozora-no-sunda-iro-wa](https://cdn.myanimelist.net/images/manga/1/18365.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

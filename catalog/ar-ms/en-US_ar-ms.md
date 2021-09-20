@@ -1,5 +1,7 @@
 # AR/MS!!
 
+![ar-ms](https://cdn.myanimelist.net/images/manga/2/215346.jpg)
+
 -   **type**: manga
 -   **original-name**: AR/MS!!(エーアール・マルチプルサヴァイヴ)
 -   **start-date**: 2018-06-15

@@ -1,5 +1,7 @@
 # Aku no Taizai: Nemesis no Jūko
 
+![aku-no-taizai-nemesis-no-juko](https://cdn.myanimelist.net/images/manga/3/194120.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

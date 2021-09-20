@@ -1,5 +1,7 @@
 # Amagami dake dewa Sumasanai!
 
+![amagami-dake-dewa-sumasanai](https://cdn.myanimelist.net/images/manga/1/245480.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

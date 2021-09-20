@@ -1,5 +1,7 @@
 # Aldnoah.Zero Anthology Comic
 
+![aldnoah-zero-anthology-comic](https://cdn.myanimelist.net/images/manga/1/141221.jpg)
+
 -   **type**: manga
 -   **original-name**: ALDNOAH.ZERO アンソロジーコミック
 -   **start-date**: 2014-10-11

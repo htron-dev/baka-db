@@ -1,5 +1,7 @@
 # AkaKill! Gekijou
 
+![aka-kill-gekijou](https://cdn.myanimelist.net/images/anime/6/64537.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: アカ斬る! 劇場

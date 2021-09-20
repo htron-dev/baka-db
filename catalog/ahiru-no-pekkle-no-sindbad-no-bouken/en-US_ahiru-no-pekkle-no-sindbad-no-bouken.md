@@ -1,5 +1,7 @@
 # Ahiru no Pekkle no Sindbad no Bouken
 
+![ahiru-no-pekkle-no-sindbad-no-bouken](https://cdn.myanimelist.net/images/anime/13/58943.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アヒルのペックルのシンドバッドの冒険

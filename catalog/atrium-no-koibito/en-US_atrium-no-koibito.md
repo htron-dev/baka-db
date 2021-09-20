@@ -1,5 +1,7 @@
 # Atrium no Koibito
 
+![atrium-no-koibito](https://cdn.myanimelist.net/images/manga/1/164316.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Akai Ito Kudasai
 
+![akai-ito-kudasai](https://cdn.myanimelist.net/images/manga/2/192206.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

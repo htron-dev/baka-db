@@ -1,5 +1,7 @@
 # Akanesasu Zakuro no Miyako
 
+![akanesasu-zakuro-no-miyako](https://cdn.myanimelist.net/images/manga/2/242560.jpg)
+
 -   **type**: manga
 -   **original-name**: あかねさす柘榴の都
 -   **start-date**: 2021-03-15

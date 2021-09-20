@@ -1,5 +1,7 @@
 # Nanatsu no Tsumi to Batsu
 
+![nanatsu-no-tsumi-to-batsu](https://cdn.myanimelist.net/images/manga/5/199972.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

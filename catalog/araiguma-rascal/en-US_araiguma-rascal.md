@@ -1,5 +1,7 @@
 # Araiguma Rascal
 
+![araiguma-rascal](https://cdn.myanimelist.net/images/anime/7/3363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: あらいぐまラスカル

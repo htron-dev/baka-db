@@ -1,5 +1,7 @@
 # Aisaka Suteki na Shoukougun
 
+![aisaka-suteki-na-shoukougun](https://cdn.myanimelist.net/images/manga/3/164245.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

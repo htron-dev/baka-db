@@ -1,5 +1,7 @@
 # Asobot Senki Gokuu
 
+![asobot-senki-gokuu](https://cdn.myanimelist.net/images/anime/3/5030.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: アソボット戦記五九

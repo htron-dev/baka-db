@@ -1,5 +1,7 @@
 # Ayame-kun no Nonbiri Nikushoku Nisshi
 
+![ayame-kun-no-nonbiri-nikushoku-nisshi](https://cdn.myanimelist.net/images/manga/3/189168.jpg)
+
 -   **type**: manga
 -   **original-name**: アヤメくんののんびり肉食日誌
 -   **start-date**: 2012-10-06

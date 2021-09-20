@@ -1,5 +1,7 @@
 # Akuu Daisakusen Srungle
 
+![akuu-daisakusen-srungle](https://cdn.myanimelist.net/images/anime/3/14674.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 亜空大作戦　スラングル

@@ -1,5 +1,7 @@
 # Ameku Takao no Suiri Karte
 
+![ameku-takao-no-suiri-karte](https://cdn.myanimelist.net/images/manga/3/193602.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

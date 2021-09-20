@@ -1,5 +1,7 @@
 # Avalon no Meikyuu: Junsui Muku na Himemiko wo Ore no Shokushu ○○○ no Dorei ni Suru
 
+![avalon-no-meikyuu-junsui-muku-na-himemiko-wo-ore-no-shokushu-○○○-no-dorei-ni-suru](https://cdn.myanimelist.net/images/manga/1/219253.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 29

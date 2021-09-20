@@ -1,5 +1,7 @@
 # Ark IX
 
+![ark-ix](https://cdn.myanimelist.net/images/manga/3/197051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 23

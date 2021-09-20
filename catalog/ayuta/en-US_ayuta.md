@@ -1,5 +1,7 @@
 # Ayuta
 
+![ayuta](https://cdn.myanimelist.net/images/manga/3/164184.jpg)
+
 -   **type**: manga
 -   **original-name**: 亞由多
 -   **start-date**: 2014-03-28

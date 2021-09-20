@@ -1,5 +1,7 @@
 # Aoiro Kazoku
 
+![aoiro-kazoku](https://cdn.myanimelist.net/images/manga/1/35684.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Atashi no Bambi
 
+![atashi-no-bambi](https://cdn.myanimelist.net/images/manga/3/66817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

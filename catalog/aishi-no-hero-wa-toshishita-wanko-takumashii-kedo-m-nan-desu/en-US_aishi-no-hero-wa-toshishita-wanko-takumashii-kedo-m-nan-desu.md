@@ -1,5 +1,7 @@
 # Aishi no Hero wa Toshishita Wanko: Takumashii kedo M nan desu.
 
+![aishi-no-hero-wa-toshishita-wanko-takumashii-kedo-m-nan-desu](https://cdn.myanimelist.net/images/manga/3/195621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

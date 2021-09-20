@@ -1,5 +1,7 @@
 # Atsumare! Gakuen Tengoku
 
+![atsumare-gakuen-tengoku](https://cdn.myanimelist.net/images/manga/1/173163.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

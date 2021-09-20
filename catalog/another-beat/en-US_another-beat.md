@@ -1,5 +1,7 @@
 # Another Beat
 
+![another-beat](https://cdn.myanimelist.net/images/manga/1/159888.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アナザー・ビート

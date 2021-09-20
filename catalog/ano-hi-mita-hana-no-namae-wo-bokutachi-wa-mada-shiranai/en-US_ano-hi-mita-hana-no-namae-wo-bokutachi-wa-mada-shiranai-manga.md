@@ -1,5 +1,7 @@
 # Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 
+![ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai](https://cdn.myanimelist.net/images/manga/2/208751.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

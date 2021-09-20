@@ -1,5 +1,7 @@
 # Ao no Exorcist: Ura Ex
 
+![ao-no-exorcist-ura-ex](https://cdn.myanimelist.net/images/anime/11/38149.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: 青の祓魔師(エクソシスト) 裏エク

@@ -1,5 +1,7 @@
 # Akai Kami wa Yuuwaku no Shirushi
 
+![akai-kami-wa-yuuwaku-no-shirushi](https://cdn.myanimelist.net/images/manga/1/59275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤い髪は誘惑のしるし

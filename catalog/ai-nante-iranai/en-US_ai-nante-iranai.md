@@ -1,5 +1,7 @@
 # Ai Nante Iranai
 
+![ai-nante-iranai](https://cdn.myanimelist.net/images/manga/2/84263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

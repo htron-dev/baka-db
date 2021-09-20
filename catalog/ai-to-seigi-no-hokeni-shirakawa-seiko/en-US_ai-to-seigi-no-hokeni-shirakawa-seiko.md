@@ -1,5 +1,7 @@
 # Ai to Seigi no Hokeni Shirakawa Seiko
 
+![ai-to-seigi-no-hokeni-shirakawa-seiko](https://cdn.myanimelist.net/images/manga/2/170539.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

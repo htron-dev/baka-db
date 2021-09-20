@@ -1,5 +1,7 @@
 # Anime Oyako Gekijou
 
+![anime-oyako-gekijou](https://cdn.myanimelist.net/images/anime/10/53881.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アニメ 親子劇場

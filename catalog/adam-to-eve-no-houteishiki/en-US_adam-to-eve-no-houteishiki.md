@@ -1,5 +1,7 @@
 # Adam to Eve no Houteishiki
 
+![adam-to-eve-no-houteishiki](https://cdn.myanimelist.net/images/manga/1/78359.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ♂(あだむ)と ♀(いぶ)の方程式

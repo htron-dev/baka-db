@@ -1,5 +1,7 @@
 # Ayakashi Maniacs!
 
+![ayakashi-maniacs](https://cdn.myanimelist.net/images/manga/3/163417.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 46

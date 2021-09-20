@@ -1,5 +1,7 @@
 # Ari &amp; Kirigirisu: Assortment
 
+![ari-amp-kirigirisu-assortment](https://cdn.myanimelist.net/images/manga/1/42274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

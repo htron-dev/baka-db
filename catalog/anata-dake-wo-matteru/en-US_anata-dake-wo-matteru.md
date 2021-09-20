@@ -1,5 +1,7 @@
 # Anata dake wo Matteru
 
+![anata-dake-wo-matteru](https://cdn.myanimelist.net/images/manga/2/2195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

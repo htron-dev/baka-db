@@ -1,5 +1,7 @@
 # Aldnoah.Zero 2nd Season
 
+![aldnoah-zero-2nd-season](https://cdn.myanimelist.net/images/anime/10/71297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アルドノア・ゼロ 2nd シーズン

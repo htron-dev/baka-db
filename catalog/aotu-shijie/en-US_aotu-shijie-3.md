@@ -1,5 +1,7 @@
 # AOTU Shijie 3
 
+![aotu-shijie-3](https://cdn.myanimelist.net/images/anime/1306/102590.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 凹凸世界 3

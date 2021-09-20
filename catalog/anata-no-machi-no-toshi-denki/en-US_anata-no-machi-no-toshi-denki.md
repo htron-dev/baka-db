@@ -1,5 +1,7 @@
 # Anata no Machi no Toshi Denki!
 
+![anata-no-machi-no-toshi-denki](https://cdn.myanimelist.net/images/manga/3/164310.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

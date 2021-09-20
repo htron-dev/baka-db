@@ -1,5 +1,7 @@
 # Aterui
 
+![aterui](https://cdn.myanimelist.net/images/anime/5/60695.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アテルイ

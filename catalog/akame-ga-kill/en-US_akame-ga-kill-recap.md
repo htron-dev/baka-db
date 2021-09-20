@@ -1,5 +1,7 @@
 # Akame ga Kill! Recap
 
+![akame-ga-kill-recap](https://cdn.myanimelist.net/images/anime/1567/102409.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 『アカメが斬る！』第一話～第八話ダイジェスト映像

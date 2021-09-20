@@ -1,5 +1,7 @@
 # Ai no Joou: Butai Joyuu Satsujin Jiken
 
+![ai-no-joou-butai-joyuu-satsujin-jiken](https://cdn.myanimelist.net/images/manga/1/3699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

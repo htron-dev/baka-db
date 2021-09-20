@@ -1,5 +1,7 @@
 # Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari
 
+![active-raid-kidou-kyoushuushitsu-dai-hachi-gakari](https://cdn.myanimelist.net/images/anime/3/77977.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アクティヴレイド　－機動強襲室第八係－

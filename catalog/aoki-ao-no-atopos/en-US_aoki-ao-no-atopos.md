@@ -1,5 +1,7 @@
 # Aoki Ao no Atopos
 
+![aoki-ao-no-atopos](https://cdn.myanimelist.net/images/manga/3/146739.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

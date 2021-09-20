@@ -1,5 +1,7 @@
 # Arrow Emblem Grand Prix no Taka
 
+![arrow-emblem-grand-prix-no-taka](https://cdn.myanimelist.net/images/anime/1718/99949.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: アローエンブレム　グランプリの鷹

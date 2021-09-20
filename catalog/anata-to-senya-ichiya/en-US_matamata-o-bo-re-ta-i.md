@@ -1,5 +1,7 @@
 # Matamata O-bo-re-ta-i
 
+![matamata-o-bo-re-ta-i](https://cdn.myanimelist.net/images/manga/3/183116.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

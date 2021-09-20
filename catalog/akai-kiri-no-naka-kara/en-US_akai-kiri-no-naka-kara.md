@@ -1,5 +1,7 @@
 # Akai Kiri no Naka kara
 
+![akai-kiri-no-naka-kara](https://cdn.myanimelist.net/images/manga/1/235991.jpg)
+
 -   **type**: manga
 -   **original-name**: 紅い霧の中から
 -   **start-date**: 2020-05-18

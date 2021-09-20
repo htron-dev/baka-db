@@ -1,5 +1,7 @@
 # Agukaru: Play with Ibaraki-hen
 
+![agukaru-play-with-ibaraki-hen](https://cdn.myanimelist.net/images/anime/13/64027.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: あぐかる PLAY WITH IBARAKI 編

@@ -1,5 +1,7 @@
 # Ayuhara Yorunami wa Yoku Nureru
 
+![ayuhara-yorunami-wa-yoku-nureru](https://cdn.myanimelist.net/images/manga/2/179786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

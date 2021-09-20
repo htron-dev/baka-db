@@ -1,5 +1,7 @@
 # A Tender Heart: The Story of How I Became a Duke's Maid
 
+![a-tender-heart-the-story-of-how-i-became-a-dukes-maid](https://cdn.myanimelist.net/images/manga/2/237317.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 날것 : 공작가의 하녀로 빙의했습니다
 -   **start-date**: 2019-08-07

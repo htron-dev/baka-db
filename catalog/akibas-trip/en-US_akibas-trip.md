@@ -1,5 +1,7 @@
 # Akiba's Trip
 
+![akibas-trip](https://cdn.myanimelist.net/images/manga/2/116805.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

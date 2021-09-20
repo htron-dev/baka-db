@@ -1,5 +1,7 @@
 # Asanaga Ryuutarou no Midara na Nichijou
 
+![asanaga-ryuutarou-no-midara-na-nichijou](https://cdn.myanimelist.net/images/manga/2/154945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

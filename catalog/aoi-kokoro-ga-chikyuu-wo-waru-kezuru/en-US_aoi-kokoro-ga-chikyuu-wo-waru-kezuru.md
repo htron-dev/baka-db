@@ -1,5 +1,7 @@
 # Aoi Kokoro ga Chikyuu wo Waru (Kezuru)
 
+![aoi-kokoro-ga-chikyuu-wo-waru-kezuru](https://cdn.myanimelist.net/images/manga/2/241198.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

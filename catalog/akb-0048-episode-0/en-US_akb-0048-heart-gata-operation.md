@@ -1,5 +1,7 @@
 # AKB0048 Heart-Gata Operation
 
+![akb-0048-heart-gata-operation](https://cdn.myanimelist.net/images/manga/3/82332.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: AKB0048 ハート型オペレーション

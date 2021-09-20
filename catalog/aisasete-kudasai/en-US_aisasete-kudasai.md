@@ -1,5 +1,7 @@
 # Aisasete Kudasai
 
+![aisasete-kudasai](https://cdn.myanimelist.net/images/manga/1/170960.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

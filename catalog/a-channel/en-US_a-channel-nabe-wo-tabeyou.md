@@ -1,5 +1,7 @@
 # A-Channel: Nabe wo Tabeyou
 
+![a-channel-nabe-wo-tabeyou](https://cdn.myanimelist.net/images/anime/9/84989.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: A チャンネル 鍋を食べよう

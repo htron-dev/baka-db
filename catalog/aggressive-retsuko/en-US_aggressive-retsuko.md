@@ -1,5 +1,7 @@
 # Aggressive Retsuko
 
+![aggressive-retsuko](https://cdn.myanimelist.net/images/anime/2/84193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: アグレッシブ烈子

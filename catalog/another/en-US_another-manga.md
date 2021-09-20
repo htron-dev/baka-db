@@ -1,5 +1,7 @@
 # Another
 
+![another](https://cdn.myanimelist.net/images/manga/2/159693.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Aihime Megohime
 
+![aihime-megohime](https://cdn.myanimelist.net/images/anime/1370/102722.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 愛姫 MEGOHIME

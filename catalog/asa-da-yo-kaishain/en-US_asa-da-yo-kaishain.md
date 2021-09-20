@@ -1,5 +1,7 @@
 # Asa Da yo! Kaishain
 
+![asa-da-yo-kaishain](https://cdn.myanimelist.net/images/anime/13/79277.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 744
 -   **original-name**: 朝だよ！貝社員

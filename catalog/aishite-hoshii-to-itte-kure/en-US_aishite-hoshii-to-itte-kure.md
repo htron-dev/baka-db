@@ -1,5 +1,7 @@
 # Aishite Hoshii to Itte Kure
 
+![aishite-hoshii-to-itte-kure](https://cdn.myanimelist.net/images/manga/1/239137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

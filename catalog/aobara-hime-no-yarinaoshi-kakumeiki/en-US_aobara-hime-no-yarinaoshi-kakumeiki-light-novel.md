@@ -1,5 +1,7 @@
 # Aobara-hime no Yarinaoshi Kakumeiki
 
+![aobara-hime-no-yarinaoshi-kakumeiki](https://cdn.myanimelist.net/images/manga/3/225984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

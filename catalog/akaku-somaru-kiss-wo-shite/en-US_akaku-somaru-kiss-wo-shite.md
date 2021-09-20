@@ -1,5 +1,7 @@
 # Akaku Somaru Kiss wo Shite
 
+![akaku-somaru-kiss-wo-shite](https://cdn.myanimelist.net/images/manga/1/190132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

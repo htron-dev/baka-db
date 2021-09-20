@@ -1,5 +1,7 @@
 # Asu no Yoichi!
 
+![asu-no-yoichi](https://cdn.myanimelist.net/images/anime/6/20621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 明日のよいち！

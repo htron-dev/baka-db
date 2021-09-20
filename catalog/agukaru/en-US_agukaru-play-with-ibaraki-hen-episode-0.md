@@ -1,5 +1,7 @@
 # Agukaru: Play with Ibaraki-hen Episode 0
 
+![agukaru-play-with-ibaraki-hen-episode-0](https://cdn.myanimelist.net/images/anime/3/73822.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あぐかる PLAY WITH IBARAKI 編 第 0 話

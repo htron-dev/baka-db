@@ -1,5 +1,7 @@
 # Assassin's Creed 4: Black Flag - Kakusei
 
+![assassins-creed-4-black-flag-kakusei](https://cdn.myanimelist.net/images/manga/1/131471.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

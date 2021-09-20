@@ -1,5 +1,7 @@
 # Amagami SS+ Plus
 
+![amagami-ss-plus](https://cdn.myanimelist.net/images/anime/13/33359.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アマガミ SS+ plus

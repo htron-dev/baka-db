@@ -1,5 +1,7 @@
 # Argento Soma
 
+![argento-soma](https://cdn.myanimelist.net/images/anime/8/9440.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: アルジェント ソーマ

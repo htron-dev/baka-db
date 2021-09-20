@@ -1,5 +1,7 @@
 # Anya
 
+![anya](https://cdn.myanimelist.net/images/manga/1/129991.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 暗夜

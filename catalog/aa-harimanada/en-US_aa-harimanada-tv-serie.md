@@ -1,5 +1,7 @@
 # Aa Harimanada
 
+![aa-harimanada](https://cdn.myanimelist.net/images/anime/10/21286.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ああ播磨灘

@@ -1,5 +1,7 @@
 # AI no Idenshi
 
+![ai-no-idenshi](https://cdn.myanimelist.net/images/manga/1/194488.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 87

@@ -1,5 +1,7 @@
 # Ana no Aku hodo
 
+![ana-no-aku-hodo](https://cdn.myanimelist.net/images/manga/2/246732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Alice de Hajimaru Oratorio
 
+![alice-de-hajimaru-oratorio](https://cdn.myanimelist.net/images/manga/3/138351.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: アリアではじまる聖譚曲〈オラトリオ〉

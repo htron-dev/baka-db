@@ -1,5 +1,7 @@
 # Akichi Asobi: Playground
 
+![akichi-asobi-playground](https://cdn.myanimelist.net/images/anime/12/86131.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あきちあそび Playground

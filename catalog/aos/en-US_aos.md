@@ -1,5 +1,7 @@
 # Aos
 
+![aos](https://cdn.myanimelist.net/images/anime/13/69011.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アオス

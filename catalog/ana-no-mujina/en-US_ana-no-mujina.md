@@ -1,5 +1,7 @@
 # Ana no Mujina
 
+![ana-no-mujina](https://cdn.myanimelist.net/images/manga/2/154545.jpg)
+
 -   **type**: manga
 -   **original-name**: アナノムジナ
 -   **start-date**: 2013-08-12

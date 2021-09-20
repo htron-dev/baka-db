@@ -1,5 +1,7 @@
 # Saviors Garden
 
+![saviors-garden](https://cdn.myanimelist.net/images/manga/3/185319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

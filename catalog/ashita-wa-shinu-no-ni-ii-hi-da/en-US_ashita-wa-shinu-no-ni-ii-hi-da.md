@@ -1,5 +1,7 @@
 # Ashita wa Shinu no ni Ii Hi Da
 
+![ashita-wa-shinu-no-ni-ii-hi-da](https://cdn.myanimelist.net/images/manga/3/87229.jpg)
+
 -   **type**: manga
 -   **original-name**: 明日は死ぬのにいい日だ
 

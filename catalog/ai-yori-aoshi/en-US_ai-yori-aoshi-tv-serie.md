@@ -1,5 +1,7 @@
 # Ai Yori Aoshi
 
+![ai-yori-aoshi](https://cdn.myanimelist.net/images/anime/7/10172.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 藍より青し

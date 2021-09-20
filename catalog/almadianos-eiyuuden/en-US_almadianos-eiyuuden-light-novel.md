@@ -1,5 +1,7 @@
 # Almadianos Eiyuuden
 
+![almadianos-eiyuuden](https://cdn.myanimelist.net/images/manga/2/199281.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 16

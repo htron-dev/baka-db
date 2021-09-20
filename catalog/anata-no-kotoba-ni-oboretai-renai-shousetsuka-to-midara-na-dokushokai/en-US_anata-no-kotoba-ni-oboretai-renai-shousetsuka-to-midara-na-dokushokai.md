@@ -1,5 +1,7 @@
 # Anata no Kotoba ni Oboretai: Renai Shousetsuka to Midara na Dokushokai
 
+![anata-no-kotoba-ni-oboretai-renai-shousetsuka-to-midara-na-dokushokai](https://cdn.myanimelist.net/images/manga/3/192711.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

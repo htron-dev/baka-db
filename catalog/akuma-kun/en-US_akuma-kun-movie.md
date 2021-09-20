@@ -1,5 +1,7 @@
 # Akuma-kun (Movie)
 
+![akuma-kun-movie](https://cdn.myanimelist.net/images/anime/9/21276.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 悪魔くん

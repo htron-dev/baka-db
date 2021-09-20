@@ -1,5 +1,7 @@
 # Anata no Ai ni Yararetai
 
+![anata-no-ai-ni-yararetai](https://cdn.myanimelist.net/images/manga/3/45083.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

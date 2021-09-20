@@ -1,5 +1,7 @@
 # Ame to Kiss
 
+![ame-to-kiss](https://cdn.myanimelist.net/images/manga/3/182338.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

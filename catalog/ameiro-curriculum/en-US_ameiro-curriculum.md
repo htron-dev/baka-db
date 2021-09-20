@@ -1,5 +1,7 @@
 # Ameiro Curriculum
 
+![ameiro-curriculum](https://cdn.myanimelist.net/images/manga/3/237155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

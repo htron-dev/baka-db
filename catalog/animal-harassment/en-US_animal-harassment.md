@@ -1,5 +1,7 @@
 # Animal Harassment
 
+![animal-harassment](https://cdn.myanimelist.net/images/manga/3/211759.jpg)
+
 -   **type**: manga
 -   **original-name**: アニマルハラスメント
 -   **start-date**: 2017-09-06

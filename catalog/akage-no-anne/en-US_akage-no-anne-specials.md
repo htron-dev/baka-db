@@ -1,5 +1,7 @@
 # Akage no Anne Specials
 
+![akage-no-anne-specials](https://cdn.myanimelist.net/images/anime/3/60943.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 赤毛のアン

@@ -1,5 +1,7 @@
 # Anitore! EX: Jigoku no Training
 
+![anitore-ex-jigoku-no-training](https://cdn.myanimelist.net/images/anime/5/78856.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: あにトレ！ＥＸ「地獄のトレーニング」

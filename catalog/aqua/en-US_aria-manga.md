@@ -1,5 +1,7 @@
 # Aria
 
+![aria](https://cdn.myanimelist.net/images/manga/2/202644.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 67

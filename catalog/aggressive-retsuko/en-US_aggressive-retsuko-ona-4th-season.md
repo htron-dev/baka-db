@@ -1,5 +1,7 @@
 # Aggressive Retsuko (ONA) 4th Season
 
+![aggressive-retsuko-ona-4th-season](https://cdn.myanimelist.net/images/anime/1440/110886.jpg)
+
 -   **type**: ona
 -   **original-name**: アグレッシブ烈子第 4 期
 -   **rating**: PG-13 - Teens 13 or older

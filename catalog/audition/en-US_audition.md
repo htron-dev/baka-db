@@ -1,5 +1,7 @@
 # Audition!
 
+![audition](https://cdn.myanimelist.net/images/manga/2/134871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 王ディション！

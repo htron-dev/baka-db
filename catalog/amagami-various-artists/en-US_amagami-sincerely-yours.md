@@ -1,5 +1,7 @@
 # Amagami: Sincerely Yours
 
+![amagami-sincerely-yours](https://cdn.myanimelist.net/images/manga/2/32083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

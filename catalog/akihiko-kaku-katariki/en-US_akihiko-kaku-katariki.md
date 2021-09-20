@@ -1,5 +1,7 @@
 # Akihiko Kaku Katariki
 
+![akihiko-kaku-katariki](https://cdn.myanimelist.net/images/manga/3/190992.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

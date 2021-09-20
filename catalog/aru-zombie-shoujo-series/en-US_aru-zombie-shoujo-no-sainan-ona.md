@@ -1,5 +1,7 @@
 # Aru Zombie Shoujo no Sainan (ONA)
 
+![aru-zombie-shoujo-no-sainan-ona](https://cdn.myanimelist.net/images/anime/1159/93477.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あるゾンビ少女の災難

@@ -1,5 +1,7 @@
 # Aku no Meshitsukai
 
+![aku-no-meshitsukai](https://cdn.myanimelist.net/images/manga/2/69961.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪ノ召使
 -   **start-date**: 2010-09-25

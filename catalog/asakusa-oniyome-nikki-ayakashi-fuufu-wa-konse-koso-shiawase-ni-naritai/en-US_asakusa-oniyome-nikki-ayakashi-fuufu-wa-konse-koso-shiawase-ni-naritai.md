@@ -1,5 +1,7 @@
 # Asakusa Oniyome Nikki: Ayakashi Fuufu wa Konse koso Shiawase ni Naritai.
 
+![asakusa-oniyome-nikki-ayakashi-fuufu-wa-konse-koso-shiawase-ni-naritai](https://cdn.myanimelist.net/images/manga/3/223926.jpg)
+
 -   **type**: manga
 -   **original-name**: 浅草鬼嫁日記 あやかし夫婦は今世こそ幸せになりたい。
 -   **start-date**: 2018-03-14

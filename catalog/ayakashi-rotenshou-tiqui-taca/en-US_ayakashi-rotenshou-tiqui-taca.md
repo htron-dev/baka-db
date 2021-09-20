@@ -1,5 +1,7 @@
 # Ayakashi Rotenshou Tiqui-taca
 
+![ayakashi-rotenshou-tiqui-taca](https://cdn.myanimelist.net/images/manga/1/173754.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あやかし露天商ティキタカ
 -   **start-date**: 2015-11-15

@@ -1,5 +1,7 @@
 # Arbos Anima
 
+![arbos-anima](https://cdn.myanimelist.net/images/manga/2/161400.jpg)
+
 -   **type**: manga
 -   **original-name**: アルボスアニマ
 -   **start-date**: 2015-01-19

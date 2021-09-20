@@ -1,5 +1,7 @@
 # Afghanistan Paghman-mura no Monogatari: Sekaiichi Utsukushii Boku no Mura
 
+![afghanistan-paghman-mura-no-monogatari-sekaiichi-utsukushii-boku-no-mura](https://cdn.myanimelist.net/images/anime/4/66025.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アフガニスタン・パグマン村の物語 せかいいち　うつくしい　ぼくの村

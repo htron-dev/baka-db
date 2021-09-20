@@ -1,5 +1,7 @@
 # Ad Astra Per Aspera
 
+![ad-astra-per-aspera](https://cdn.myanimelist.net/images/manga/1/172690.jpg)
+
 -   **type**: manga
 -   **original-name**: アド アストラ ペル アスペラ
 -   **start-date**: 2015-09-02

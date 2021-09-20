@@ -1,5 +1,7 @@
 # A or ABC
 
+![a-or-abc](https://cdn.myanimelist.net/images/manga/3/30095.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

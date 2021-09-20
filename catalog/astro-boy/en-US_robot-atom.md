@@ -1,5 +1,7 @@
 # Robot Atom
 
+![robot-atom](https://cdn.myanimelist.net/images/anime/1521/102920.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: ろぼっとアトム

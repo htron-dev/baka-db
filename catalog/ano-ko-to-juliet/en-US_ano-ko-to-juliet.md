@@ -1,5 +1,7 @@
 # Ano Ko to Juliet
 
+![ano-ko-to-juliet](https://cdn.myanimelist.net/images/manga/1/133601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # AR: Wasurerareta Natsu
 
+![ar-wasurerareta-natsu](https://cdn.myanimelist.net/images/manga/1/10191.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: AR ～忘れられた夏～

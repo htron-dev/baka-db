@@ -1,5 +1,7 @@
 # Ano Oni Kyoushi ga Boku no Ane ni Naru n desu ka?
 
+![ano-oni-kyoushi-ga-boku-no-ane-ni-naru-n-desu-ka](https://cdn.myanimelist.net/images/manga/3/242088.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あの鬼教師が僕の姉になるんですか？
 -   **start-date**: 2020-01-06

@@ -1,5 +1,7 @@
 # A Guide to Proper Dating
 
+![a-guide-to-proper-dating](https://cdn.myanimelist.net/images/manga/3/238367.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 바른연애 길잡이
 -   **start-date**: 2018-03-12

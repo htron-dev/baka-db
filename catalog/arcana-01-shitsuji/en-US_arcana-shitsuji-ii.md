@@ -1,5 +1,7 @@
 # Arcana - Shitsuji II
 
+![arcana-shitsuji-ii](https://cdn.myanimelist.net/images/manga/1/39447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

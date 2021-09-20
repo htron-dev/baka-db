@@ -1,5 +1,7 @@
 # Apfelland Monogatari
 
+![apfelland-monogatari](https://cdn.myanimelist.net/images/anime/7/11782.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アップフェルラント物語

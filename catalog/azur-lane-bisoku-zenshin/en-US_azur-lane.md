@@ -1,5 +1,7 @@
 # Azur Lane
 
+![azur-lane](https://cdn.myanimelist.net/images/anime/1106/111620.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アズールレーン

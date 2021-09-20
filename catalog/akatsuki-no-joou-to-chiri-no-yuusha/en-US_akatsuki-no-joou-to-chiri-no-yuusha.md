@@ -1,5 +1,7 @@
 # Akatsuki no Joou to Chiri no Yuusha
 
+![akatsuki-no-joou-to-chiri-no-yuusha](https://cdn.myanimelist.net/images/manga/2/163625.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 暁の女王と塵の勇者
 -   **start-date**: 2015-10-02

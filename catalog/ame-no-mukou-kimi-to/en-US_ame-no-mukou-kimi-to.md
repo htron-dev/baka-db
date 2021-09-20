@@ -1,5 +1,7 @@
 # Ame no Mukou, Kimi to
 
+![ame-no-mukou-kimi-to](https://cdn.myanimelist.net/images/manga/2/96171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

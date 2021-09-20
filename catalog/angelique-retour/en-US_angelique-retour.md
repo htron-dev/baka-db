@@ -1,5 +1,7 @@
 # Angelique Retour
 
+![angelique-retour](https://cdn.myanimelist.net/images/manga/1/168981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

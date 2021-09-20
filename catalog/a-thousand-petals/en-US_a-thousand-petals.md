@@ -1,5 +1,7 @@
 # A Thousand Petals
 
+![a-thousand-petals](https://cdn.myanimelist.net/images/manga/1/164635.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 90

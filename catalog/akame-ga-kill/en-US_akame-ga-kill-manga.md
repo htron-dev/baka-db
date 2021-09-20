@@ -1,5 +1,7 @@
 # Akame ga Kill!
 
+![akame-ga-kill](https://cdn.myanimelist.net/images/manga/1/187665.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 80

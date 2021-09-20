@@ -1,5 +1,7 @@
 # Aisaresugi Confusion
 
+![aisaresugi-confusion](https://cdn.myanimelist.net/images/manga/3/186207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

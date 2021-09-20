@@ -1,5 +1,7 @@
 # Aiiro Shinwa
 
+![aiiro-shinwa](https://cdn.myanimelist.net/images/manga/2/25232.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

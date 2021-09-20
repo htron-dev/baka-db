@@ -1,5 +1,7 @@
 # Ato de Shimaimasu.
 
+![ato-de-shimaimasu](https://cdn.myanimelist.net/images/manga/2/223292.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

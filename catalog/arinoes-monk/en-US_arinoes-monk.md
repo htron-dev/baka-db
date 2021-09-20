@@ -1,5 +1,7 @@
 # Arinoe's Monk
 
+![arinoes-monk](https://cdn.myanimelist.net/images/manga/2/44967.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 아르노의 수도사

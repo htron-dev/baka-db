@@ -1,5 +1,7 @@
 # Afumi no Umi: Minamo ga Yureru Toki
 
+![afumi-no-umi-minamo-ga-yureru-toki](https://cdn.myanimelist.net/images/manga/1/235826.jpg)
+
 -   **type**: manga
 -   **original-name**: 淡海乃海 水面が揺れる時
 -   **start-date**: 2018-12-10

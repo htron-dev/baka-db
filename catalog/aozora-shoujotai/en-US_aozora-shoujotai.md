@@ -1,5 +1,7 @@
 # Aozora Shoujotai
 
+![aozora-shoujotai](https://cdn.myanimelist.net/images/manga/2/39424.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

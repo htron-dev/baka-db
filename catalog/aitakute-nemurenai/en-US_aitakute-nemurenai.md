@@ -1,5 +1,7 @@
 # Aitakute Nemurenai
 
+![aitakute-nemurenai](https://cdn.myanimelist.net/images/manga/1/227557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 会いたくて眠れない

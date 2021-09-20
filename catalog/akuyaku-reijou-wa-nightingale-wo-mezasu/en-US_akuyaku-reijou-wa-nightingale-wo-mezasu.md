@@ -1,5 +1,7 @@
 # Akuyaku Reijou wa Nightingale wo Mezasu
 
+![akuyaku-reijou-wa-nightingale-wo-mezasu](https://cdn.myanimelist.net/images/manga/2/244934.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢は夜告鳥〈ナイチンゲール〉をめざす
 -   **start-date**: 2021-01-22

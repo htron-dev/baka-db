@@ -1,5 +1,7 @@
 # Ane no Kekkon
 
+![ane-no-kekkon](https://cdn.myanimelist.net/images/manga/2/41661.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Ai no Kotodama
 
+![ai-no-kotodama](https://cdn.myanimelist.net/images/manga/3/152302.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

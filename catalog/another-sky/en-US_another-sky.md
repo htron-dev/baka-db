@@ -1,5 +1,7 @@
 # Another Sky
 
+![another-sky](https://cdn.myanimelist.net/images/manga/2/67391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

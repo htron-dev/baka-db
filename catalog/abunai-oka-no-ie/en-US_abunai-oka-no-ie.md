@@ -1,5 +1,7 @@
 # Abunai Oka no Ie
 
+![abunai-oka-no-ie](https://cdn.myanimelist.net/images/manga/2/18034.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: あぶない丘の家

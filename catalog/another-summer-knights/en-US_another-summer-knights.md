@@ -1,5 +1,7 @@
 # Another Summer Knights
 
+![another-summer-knights](https://cdn.myanimelist.net/images/manga/2/16599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

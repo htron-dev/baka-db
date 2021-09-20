@@ -1,5 +1,7 @@
 # Alfheim no Kishi
 
+![alfheim-no-kishi](https://cdn.myanimelist.net/images/manga/3/78933.jpg)
+
 -   **type**: manga
 -   **volumes**: 54
 -   **original-name**: 妖精国の騎士

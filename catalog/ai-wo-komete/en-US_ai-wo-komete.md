@@ -1,5 +1,7 @@
 # Ai wo Komete
 
+![ai-wo-komete](https://cdn.myanimelist.net/images/anime/1394/110101.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 愛をこめて

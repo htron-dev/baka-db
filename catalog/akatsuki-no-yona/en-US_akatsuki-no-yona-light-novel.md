@@ -1,5 +1,7 @@
 # Akatsuki no Yona
 
+![akatsuki-no-yona](https://cdn.myanimelist.net/images/manga/2/153038.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 暁のヨナ
 -   **start-date**: 2015-03-20

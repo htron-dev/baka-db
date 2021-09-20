@@ -1,5 +1,7 @@
 # A Fairytale for the Demon Lord
 
+![a-fairytale-for-the-demon-lord](https://cdn.myanimelist.net/images/manga/2/126409.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 59
 -   **original-name**: 마왕을위한 동화 -Der Erlkönig und der Ritter-

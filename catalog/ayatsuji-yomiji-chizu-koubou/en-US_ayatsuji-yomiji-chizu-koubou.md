@@ -1,5 +1,7 @@
 # Ayatsuji Yomiji Chizu Koubou
 
+![ayatsuji-yomiji-chizu-koubou](https://cdn.myanimelist.net/images/manga/2/203920.jpg)
+
 -   **type**: manga
 -   **original-name**: 綾辻黄泉路地図工房
 -   **start-date**: 2016-10-28

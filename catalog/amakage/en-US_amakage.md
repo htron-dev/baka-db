@@ -1,5 +1,7 @@
 # Amakage
 
+![amakage](https://cdn.myanimelist.net/images/anime/1158/91249.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 雨影

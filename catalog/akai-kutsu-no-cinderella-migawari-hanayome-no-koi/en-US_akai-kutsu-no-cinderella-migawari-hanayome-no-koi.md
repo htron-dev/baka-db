@@ -1,5 +1,7 @@
 # Akai Kutsu no Cinderella: Migawari Hanayome no Koi
 
+![akai-kutsu-no-cinderella-migawari-hanayome-no-koi](https://cdn.myanimelist.net/images/manga/3/184501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

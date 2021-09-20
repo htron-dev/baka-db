@@ -1,5 +1,7 @@
 # Amagi Brilliant Park: Maple Summoner
 
+![amagi-brilliant-park-maple-summoner](https://cdn.myanimelist.net/images/manga/3/141173.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Akaaka to Shita Chi no Monogatari
 
+![akaaka-to-shita-chi-no-monogatari](https://cdn.myanimelist.net/images/manga/2/188836.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 103

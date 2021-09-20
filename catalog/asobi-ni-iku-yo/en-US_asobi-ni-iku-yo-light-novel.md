@@ -1,5 +1,7 @@
 # Asobi ni Iku yo!
 
+![asobi-ni-iku-yo](https://cdn.myanimelist.net/images/manga/3/159870.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 20
 -   **original-name**: あそびにいくヨ！

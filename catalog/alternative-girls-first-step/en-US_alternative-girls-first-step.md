@@ -1,5 +1,7 @@
 # Alternative Girls: First Step!
 
+![alternative-girls-first-step](https://cdn.myanimelist.net/images/manga/2/224440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

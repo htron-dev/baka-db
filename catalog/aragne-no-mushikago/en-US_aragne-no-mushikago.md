@@ -1,5 +1,7 @@
 # Aragne no Mushikago
 
+![aragne-no-mushikago](https://cdn.myanimelist.net/images/anime/1477/96023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アラーニェの虫籠

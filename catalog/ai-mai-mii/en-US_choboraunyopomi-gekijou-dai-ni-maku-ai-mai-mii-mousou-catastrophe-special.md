@@ -1,5 +1,7 @@
 # Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe Special
 
+![choboraunyopomi-gekijou-dai-ni-maku-ai-mai-mii-mousou-catastrophe-special](https://cdn.myanimelist.net/images/anime/11/64843.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あいまいみー～妄想カタストロフ～

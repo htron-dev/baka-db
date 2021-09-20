@@ -1,5 +1,7 @@
 # Ai no Gakkou Cuore Monogatari
 
+![ai-no-gakkou-cuore-monogatari](https://cdn.myanimelist.net/images/anime/1792/110187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 愛の学校 クオレ物語

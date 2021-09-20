@@ -1,5 +1,7 @@
 # Aioimusubi
 
+![aioimusubi](https://cdn.myanimelist.net/images/manga/1/155668.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

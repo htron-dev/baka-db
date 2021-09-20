@@ -1,5 +1,7 @@
 # Ashi-Girl
 
+![ashi-girl](https://cdn.myanimelist.net/images/manga/3/149258.jpg)
+
 -   **type**: manga
 -   **original-name**: アシガール
 -   **start-date**: 2011-11-28

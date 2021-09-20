@@ -1,5 +1,7 @@
 # Ashita no Kimi wa Koko ni Inai
 
+![ashita-no-kimi-wa-koko-ni-inai](https://cdn.myanimelist.net/images/manga/2/130123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

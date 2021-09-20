@@ -1,5 +1,7 @@
 # Aladdin to Mahou no Kyuusu
 
+![aladdin-to-mahou-no-kyuusu](https://cdn.myanimelist.net/images/manga/3/3644.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

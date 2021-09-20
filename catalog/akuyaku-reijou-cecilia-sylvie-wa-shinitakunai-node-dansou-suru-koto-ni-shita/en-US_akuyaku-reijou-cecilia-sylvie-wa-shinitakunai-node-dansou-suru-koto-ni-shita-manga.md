@@ -1,5 +1,7 @@
 # Akuyaku Reijou, Cecilia Sylvie wa Shinitakunai node Dansou suru Koto ni Shita.
 
+![akuyaku-reijou-cecilia-sylvie-wa-shinitakunai-node-dansou-suru-koto-ni-shita](https://cdn.myanimelist.net/images/manga/1/235970.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢、セシリア・シルビィは死にたくないので男装することにした。
 -   **start-date**: 2020-05-22

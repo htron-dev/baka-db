@@ -1,5 +1,7 @@
 # Adamas no Majo-tachi
 
+![adamas-no-majo-tachi](https://cdn.myanimelist.net/images/manga/1/217355.jpg)
+
 -   **type**: manga
 -   **original-name**: アダマスの魔女たち
 -   **start-date**: 2018-07-20

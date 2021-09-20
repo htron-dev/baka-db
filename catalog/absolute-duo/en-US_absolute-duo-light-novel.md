@@ -1,5 +1,7 @@
 # Absolute Duo
 
+![absolute-duo](https://cdn.myanimelist.net/images/manga/3/175374.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アブソリュート・デュオ
 -   **start-date**: 2012-08-23

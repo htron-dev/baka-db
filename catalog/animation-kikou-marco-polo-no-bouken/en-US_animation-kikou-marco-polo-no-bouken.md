@@ -1,5 +1,7 @@
 # Animation Kikou: Marco Polo no Bouken
 
+![animation-kikou-marco-polo-no-bouken](https://cdn.myanimelist.net/images/anime/13/12829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: アニメーション紀行 マルコ・ポーロの冒険

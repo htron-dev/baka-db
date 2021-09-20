@@ -1,5 +1,7 @@
 # Akudama Drive
 
+![akudama-drive](https://cdn.myanimelist.net/images/manga/3/240528.jpg)
+
 -   **type**: manga
 
 ## Tags

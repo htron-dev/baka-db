@@ -1,5 +1,7 @@
 # Anjin-san
 
+![anjin-san](https://cdn.myanimelist.net/images/manga/2/239812.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

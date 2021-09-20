@@ -1,5 +1,7 @@
 # Hatsujou Virus
 
+![hatsujou-virus](https://cdn.myanimelist.net/images/manga/2/166780.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

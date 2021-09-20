@@ -1,5 +1,7 @@
 # Achilleus: Argos no Gunshin
 
+![achilleus-argos-no-gunshin](https://cdn.myanimelist.net/images/manga/2/205871.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

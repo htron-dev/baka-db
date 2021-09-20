@@ -1,5 +1,7 @@
 # Arms
 
+![arms](https://cdn.myanimelist.net/images/manga/2/147805.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 241

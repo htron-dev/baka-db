@@ -1,5 +1,7 @@
 # About Death
 
+![about-death](https://cdn.myanimelist.net/images/manga/2/89293.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 27

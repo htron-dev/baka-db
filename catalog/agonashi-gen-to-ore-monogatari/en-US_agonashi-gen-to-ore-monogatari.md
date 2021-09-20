@@ -1,5 +1,7 @@
 # Agonashi Gen to Ore Monogatari
 
+![agonashi-gen-to-ore-monogatari](https://cdn.myanimelist.net/images/manga/3/160696.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 471

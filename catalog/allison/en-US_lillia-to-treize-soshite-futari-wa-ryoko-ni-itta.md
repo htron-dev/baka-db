@@ -1,5 +1,7 @@
 # Lillia to Treize: Soshite Futari wa Ryoko ni Itta
 
+![lillia-to-treize-soshite-futari-wa-ryoko-ni-itta](https://cdn.myanimelist.net/images/manga/1/100453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

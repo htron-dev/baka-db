@@ -1,5 +1,7 @@
 # Aoki Uru: Overture
 
+![aoki-uru-overture](https://cdn.myanimelist.net/images/anime/10/72140.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蒼きウル Overture

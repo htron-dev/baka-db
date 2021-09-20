@@ -1,5 +1,7 @@
 # Akage no Anne
 
+![akage-no-anne](https://cdn.myanimelist.net/images/anime/1428/97069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 赤毛のアン

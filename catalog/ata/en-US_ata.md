@@ -1,5 +1,7 @@
 # Ata
 
+![ata](https://cdn.myanimelist.net/images/manga/3/62665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

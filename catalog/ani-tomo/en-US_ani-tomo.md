@@ -1,5 +1,7 @@
 # Ani Tomo
 
+![ani-tomo](https://cdn.myanimelist.net/images/manga/1/176165.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

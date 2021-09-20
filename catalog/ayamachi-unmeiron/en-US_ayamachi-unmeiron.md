@@ -1,5 +1,7 @@
 # Ayamachi Unmeiron
 
+![ayamachi-unmeiron](https://cdn.myanimelist.net/images/manga/1/181625.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

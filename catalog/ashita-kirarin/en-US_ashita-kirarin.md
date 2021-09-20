@@ -1,5 +1,7 @@
 # Ashita Kirarin
 
+![ashita-kirarin](https://cdn.myanimelist.net/images/anime/9/77432.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あした・きらりん

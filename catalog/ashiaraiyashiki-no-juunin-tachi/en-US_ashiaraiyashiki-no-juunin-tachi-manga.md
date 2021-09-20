@@ -1,5 +1,7 @@
 # Ashiaraiyashiki no Juunin-tachi.
 
+![ashiaraiyashiki-no-juunin-tachi](https://cdn.myanimelist.net/images/manga/3/156897.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 57

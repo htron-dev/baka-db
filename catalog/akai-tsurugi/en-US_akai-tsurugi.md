@@ -1,5 +1,7 @@
 # Akai Tsurugi
 
+![akai-tsurugi](https://cdn.myanimelist.net/images/manga/1/229831.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 緋色〈あか〉い剣

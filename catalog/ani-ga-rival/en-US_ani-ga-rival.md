@@ -1,5 +1,7 @@
 # Ani ga Rival!
 
+![ani-ga-rival](https://cdn.myanimelist.net/images/manga/3/137787.jpg)
+
 -   **type**: manga
 -   **original-name**: 兄がライバル!
 

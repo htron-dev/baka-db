@@ -1,5 +1,7 @@
 # Akazukin to Kenkou
 
+![akazukin-to-kenkou](https://cdn.myanimelist.net/images/anime/6/72846.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 赤ずきんと健康

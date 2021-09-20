@@ -1,5 +1,7 @@
 # Adagio of Parrots
 
+![adagio-of-parrots](https://cdn.myanimelist.net/images/manga/1/25275.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 앵무새의 아다지오

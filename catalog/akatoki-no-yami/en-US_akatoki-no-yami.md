@@ -1,5 +1,7 @@
 # Akatoki no Yami
 
+![akatoki-no-yami](https://cdn.myanimelist.net/images/manga/1/37297.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Aa Tantei Jimusho
 
+![aa-tantei-jimusho](https://cdn.myanimelist.net/images/manga/2/232328.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 121

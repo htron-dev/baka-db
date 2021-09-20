@@ -1,5 +1,7 @@
 # Animegatari x Koukaku Kidoutai Collab Eizou
 
+![animegatari-x-koukaku-kidoutai-collab-eizou](https://cdn.myanimelist.net/images/anime/9/80627.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「アニメガタリ」×「攻殻機動隊 新劇場版」コラボ映像

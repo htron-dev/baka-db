@@ -1,5 +1,7 @@
 # Aoi Haru
 
+![aoi-haru](https://cdn.myanimelist.net/images/manga/1/45815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

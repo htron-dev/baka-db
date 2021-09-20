@@ -1,5 +1,7 @@
 # Coneco!!
 
+![coneco](https://cdn.myanimelist.net/images/manga/3/76199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

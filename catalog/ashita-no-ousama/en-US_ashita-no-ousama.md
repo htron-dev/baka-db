@@ -1,5 +1,7 @@
 # Ashita no Ousama
 
+![ashita-no-ousama](https://cdn.myanimelist.net/images/manga/2/173875.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

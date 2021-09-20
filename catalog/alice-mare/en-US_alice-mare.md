@@ -1,5 +1,7 @@
 # Alice mare
 
+![alice-mare](https://cdn.myanimelist.net/images/manga/1/208567.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

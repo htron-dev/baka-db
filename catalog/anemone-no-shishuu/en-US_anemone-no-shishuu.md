@@ -1,5 +1,7 @@
 # Anemone no Shishuu
 
+![anemone-no-shishuu](https://cdn.myanimelist.net/images/manga/3/222934.jpg)
+
 -   **type**: manga
 -   **original-name**: アネモネの刺繍
 -   **start-date**: 2017-06-30

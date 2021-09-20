@@ -1,5 +1,7 @@
 # Angel Trumpet
 
+![angel-trumpet](https://cdn.myanimelist.net/images/manga/1/116381.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 65

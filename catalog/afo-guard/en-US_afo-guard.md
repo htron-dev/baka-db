@@ -1,5 +1,7 @@
 # AFO-Guard
 
+![afo-guard](https://cdn.myanimelist.net/images/manga/3/125889.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

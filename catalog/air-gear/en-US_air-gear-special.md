@@ -1,5 +1,7 @@
 # Air Gear Special
 
+![air-gear-special](https://cdn.myanimelist.net/images/anime/1902/97393.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: エア・ギア

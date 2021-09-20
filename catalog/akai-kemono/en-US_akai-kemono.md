@@ -1,5 +1,7 @@
 # Akai Kemono
 
+![akai-kemono](https://cdn.myanimelist.net/images/manga/1/231305.jpg)
+
 -   **type**: manga
 -   **original-name**: アカイケモノ
 -   **start-date**: 2014-04-17

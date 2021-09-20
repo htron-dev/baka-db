@@ -1,5 +1,7 @@
 # Aa! Megami-sama!: Sorezore no Tsubasa Specials
 
+![aa-megami-sama-sorezore-no-tsubasa-specials](https://cdn.myanimelist.net/images/anime/2/13530.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ああっ女神さまっ　それぞれの翼

@@ -1,5 +1,7 @@
 # Arpeggio of Blue Steel novelize
 
+![arpeggio-of-blue-steel-novelize](https://cdn.myanimelist.net/images/manga/1/210620.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 蒼き鋼のアルペジオノベライズ

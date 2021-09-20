@@ -1,5 +1,7 @@
 # Agape
 
+![agape](https://cdn.myanimelist.net/images/manga/2/28916.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

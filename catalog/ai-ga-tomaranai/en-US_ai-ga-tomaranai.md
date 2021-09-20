@@ -1,5 +1,7 @@
 # AI ga Tomaranai!
 
+![ai-ga-tomaranai](https://cdn.myanimelist.net/images/manga/3/54753.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 55

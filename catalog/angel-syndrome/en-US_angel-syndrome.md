@@ -1,5 +1,7 @@
 # Angel Syndrome
 
+![angel-syndrome](https://cdn.myanimelist.net/images/manga/4/38724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エンジェル・シンドローム

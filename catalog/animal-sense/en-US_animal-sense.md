@@ -1,5 +1,7 @@
 # Animal Sense
 
+![animal-sense](https://cdn.myanimelist.net/images/manga/2/34043.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

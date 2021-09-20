@@ -1,5 +1,7 @@
 # Amaku Midara na Honeymoon
 
+![amaku-midara-na-honeymoon](https://cdn.myanimelist.net/images/manga/1/191924.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

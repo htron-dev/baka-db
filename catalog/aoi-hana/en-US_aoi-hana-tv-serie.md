@@ -1,5 +1,7 @@
 # Aoi Hana
 
+![aoi-hana](https://cdn.myanimelist.net/images/anime/3/80255.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 青い花

@@ -1,5 +1,7 @@
 # A.-D.O.G.S.
 
+![a-d-o-g-s](https://cdn.myanimelist.net/images/manga/3/117111.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: A.-D.O.G.S.

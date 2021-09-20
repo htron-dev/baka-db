@@ -1,5 +1,7 @@
 # Hoshigari Sugi desho!? Inaba-san
 
+![hoshigari-sugi-desho-inaba-san](https://cdn.myanimelist.net/images/manga/3/233582.jpg)
+
 -   **type**: manga
 -   **original-name**: ほしがりすぎでしょ!? 稲葉さん
 -   **start-date**: 2020-08-21

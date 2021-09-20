@@ -1,5 +1,7 @@
 # Avabel Online
 
+![avabel-online](https://cdn.myanimelist.net/images/manga/3/169897.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アヴァベルオンライン
 -   **start-date**: 2015-10-10

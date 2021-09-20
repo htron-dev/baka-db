@@ -1,5 +1,7 @@
 # Arienai Futari
 
+![arienai-futari](https://cdn.myanimelist.net/images/manga/1/33039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

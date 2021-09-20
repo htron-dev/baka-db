@@ -1,5 +1,7 @@
 # Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!
 
+![amagi-brilliant-park-nonbirishiteiru-hima-ga-nai](https://cdn.myanimelist.net/images/anime/11/74772.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 甘城ブリリアントパーク 「のんびりしている暇がない!」

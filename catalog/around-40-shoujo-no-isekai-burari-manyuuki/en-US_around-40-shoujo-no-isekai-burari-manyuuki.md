@@ -1,5 +1,7 @@
 # Around 40 Shoujo no Isekai Burari Manyuuki
 
+![around-40-shoujo-no-isekai-burari-manyuuki](https://cdn.myanimelist.net/images/manga/3/235907.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アラフォー少女の異世界ぶらり漫遊記

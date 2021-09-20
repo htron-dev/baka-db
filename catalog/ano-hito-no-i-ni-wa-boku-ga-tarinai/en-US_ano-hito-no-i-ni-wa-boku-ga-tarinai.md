@@ -1,5 +1,7 @@
 # Ano Hito no I ni wa Boku ga Tarinai
 
+![ano-hito-no-i-ni-wa-boku-ga-tarinai](https://cdn.myanimelist.net/images/manga/1/216043.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

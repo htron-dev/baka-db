@@ -1,5 +1,7 @@
 # Apo Apo World: Giant Baba 90-bun 1-hon Shoubu
 
+![apo-apo-world-giant-baba-90-bun-1-hon-shoubu](https://cdn.myanimelist.net/images/anime/9/59583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: APO APO ワールド ジャイアント馬場 90 分 1 本勝負

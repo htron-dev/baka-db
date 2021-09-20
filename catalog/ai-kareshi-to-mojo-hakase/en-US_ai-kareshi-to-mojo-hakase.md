@@ -1,5 +1,7 @@
 # AI Kareshi to Mojo Hakase
 
+![ai-kareshi-to-mojo-hakase](https://cdn.myanimelist.net/images/manga/1/239162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

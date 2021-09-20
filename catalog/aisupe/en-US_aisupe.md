@@ -1,5 +1,7 @@
 # Aisupe@
 
+![aisupe](https://cdn.myanimelist.net/images/manga/1/153983.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あいすぺ@

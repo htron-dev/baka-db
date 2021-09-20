@@ -1,5 +1,7 @@
 # Akanai Tobira
 
+![akanai-tobira](https://cdn.myanimelist.net/images/manga/1/81906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

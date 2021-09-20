@@ -1,5 +1,7 @@
 # Akaneiro Confiture
 
+![akaneiro-confiture](https://cdn.myanimelist.net/images/manga/1/151402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

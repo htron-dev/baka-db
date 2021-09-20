@@ -1,5 +1,7 @@
 # Akuma no Youna Anata
 
+![akuma-no-youna-anata](https://cdn.myanimelist.net/images/manga/1/177892.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 悪魔のような花婿〈あなた〉

@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou Zero
 
+![arifureta-shokugyou-de-sekai-saikyou-zero](https://cdn.myanimelist.net/images/manga/3/221478.jpg)
+
 -   **type**: manga
 -   **original-name**: ありふれた職業で世界最強 零
 -   **start-date**: 2018-02-23

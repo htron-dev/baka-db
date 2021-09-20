@@ -1,5 +1,7 @@
 # Ano Ko ni Kiss to Shirayuri wo
 
+![ano-ko-ni-kiss-to-shirayuri-wo](https://cdn.myanimelist.net/images/manga/1/139603.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Aton no Musume
 
+![aton-no-musume](https://cdn.myanimelist.net/images/manga/3/131591.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

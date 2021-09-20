@@ -1,5 +1,7 @@
 # Ai no Fukasa wa Hizakurai
 
+![ai-no-fukasa-wa-hizakurai](https://cdn.myanimelist.net/images/manga/3/139093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

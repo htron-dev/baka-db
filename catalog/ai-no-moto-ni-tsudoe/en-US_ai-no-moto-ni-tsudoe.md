@@ -1,5 +1,7 @@
 # Ai no Moto ni Tsudoe
 
+![ai-no-moto-ni-tsudoe](https://cdn.myanimelist.net/images/manga/3/10916.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 愛のもとに集え

@@ -1,5 +1,7 @@
 # Aoi Kioku: Manmou Kaitaku to Shounen-tachi
 
+![aoi-kioku-manmou-kaitaku-to-shounen-tachi](https://cdn.myanimelist.net/images/anime/3/45755.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蒼い記憶 満蒙開拓と少年たち

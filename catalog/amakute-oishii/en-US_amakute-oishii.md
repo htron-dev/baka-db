@@ -1,5 +1,7 @@
 # Amakute Oishii
 
+![amakute-oishii](https://cdn.myanimelist.net/images/manga/2/235335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

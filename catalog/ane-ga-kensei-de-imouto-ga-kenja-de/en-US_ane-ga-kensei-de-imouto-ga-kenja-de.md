@@ -1,5 +1,7 @@
 # Ane ga Kensei de Imouto ga Kenja de
 
+![ane-ga-kensei-de-imouto-ga-kenja-de](https://cdn.myanimelist.net/images/manga/3/245007.jpg)
+
 -   **type**: manga
 -   **original-name**: 姉が剣聖で妹が賢者で
 -   **start-date**: 2020-08-23

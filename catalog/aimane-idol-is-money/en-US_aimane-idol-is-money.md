@@ -1,5 +1,7 @@
 # Aimane!: Idol Is Money!?
 
+![aimane-idol-is-money](https://cdn.myanimelist.net/images/manga/3/164057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

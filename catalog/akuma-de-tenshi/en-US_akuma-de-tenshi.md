@@ -1,5 +1,7 @@
 # Akuma de Tenshi
 
+![akuma-de-tenshi](https://cdn.myanimelist.net/images/manga/1/36896.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あくまで天使

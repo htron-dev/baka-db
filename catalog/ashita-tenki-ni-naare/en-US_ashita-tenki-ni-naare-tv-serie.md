@@ -1,5 +1,7 @@
 # Ashita Tenki ni Naare
 
+![ashita-tenki-ni-naare](https://cdn.myanimelist.net/images/anime/3/64569.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: あした天気になあれ

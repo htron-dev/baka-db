@@ -1,5 +1,7 @@
 # Aikatsu!: Dai Starmiya Ichigo Matsuri Zenyasai!!
 
+![aikatsu-dai-starmiya-ichigo-matsuri-zenyasai](https://cdn.myanimelist.net/images/anime/7/69345.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版アイカツ！ 大スター宮いちごまつり前夜祭!!

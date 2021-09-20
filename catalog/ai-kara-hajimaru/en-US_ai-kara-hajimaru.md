@@ -1,5 +1,7 @@
 # Ai kara Hajimaru
 
+![ai-kara-hajimaru](https://cdn.myanimelist.net/images/manga/1/125511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

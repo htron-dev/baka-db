@@ -1,5 +1,7 @@
 # Appleseed XIII
 
+![appleseed-xiii](https://cdn.myanimelist.net/images/manga/1/133455.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アップルシード XIII

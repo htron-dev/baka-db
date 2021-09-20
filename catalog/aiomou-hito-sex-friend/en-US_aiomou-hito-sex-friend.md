@@ -1,5 +1,7 @@
 # Aiomou Hito - Sex Friend
 
+![aiomou-hito-sex-friend](https://cdn.myanimelist.net/images/manga/4/44193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

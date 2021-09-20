@@ -1,5 +1,7 @@
 # Alicia-san no Diet Quest
 
+![alicia-san-no-diet-quest](https://cdn.myanimelist.net/images/manga/1/205765.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

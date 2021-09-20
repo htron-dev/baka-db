@@ -1,5 +1,7 @@
 # Aru Mori no wo Hanashi: Rururu no Rule
 
+![aru-mori-no-wo-hanashi-rururu-no-rule](https://cdn.myanimelist.net/images/anime/4/84974.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ある森のおはなし　るるるのるール

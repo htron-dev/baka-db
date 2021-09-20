@@ -1,5 +1,7 @@
 # Alcohol Yuri Anthology: Strong!
 
+![alcohol-yuri-anthology-strong](https://cdn.myanimelist.net/images/manga/1/241920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

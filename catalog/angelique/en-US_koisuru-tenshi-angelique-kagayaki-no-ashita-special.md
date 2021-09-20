@@ -1,5 +1,7 @@
 # Koisuru Tenshi Angelique: Kagayaki no Ashita Special
 
+![koisuru-tenshi-angelique-kagayaki-no-ashita-special](https://cdn.myanimelist.net/images/anime/3/17554.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 恋する天使アンジェリーク ～かがやきの明日～ OVA

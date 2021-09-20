@@ -1,5 +1,7 @@
 # Asience: Kami wa Onna no Inochi
 
+![asience-kami-wa-onna-no-inochi](https://cdn.myanimelist.net/images/anime/5/10308.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ASIENCE 髪は女の命

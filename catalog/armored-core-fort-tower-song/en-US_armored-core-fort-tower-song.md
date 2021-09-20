@@ -1,5 +1,7 @@
 # Armored Core: Fort Tower Song
 
+![armored-core-fort-tower-song](https://cdn.myanimelist.net/images/anime/2/33661.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ARMORED CORE -FORT TOWER SONG-

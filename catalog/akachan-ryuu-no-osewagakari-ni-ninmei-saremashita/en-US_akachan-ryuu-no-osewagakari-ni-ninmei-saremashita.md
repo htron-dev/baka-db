@@ -1,5 +1,7 @@
 # Akachan Ryuu no Osewagakari ni Ninmei saremashita
 
+![akachan-ryuu-no-osewagakari-ni-ninmei-saremashita](https://cdn.myanimelist.net/images/manga/3/227713.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

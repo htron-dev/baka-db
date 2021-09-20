@@ -1,5 +1,7 @@
 # Ayakashihime wa Aisaretai
 
+![ayakashihime-wa-aisaretai](https://cdn.myanimelist.net/images/manga/1/198109.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あやかし姫は愛されたい
 -   **start-date**: 2017-05-25

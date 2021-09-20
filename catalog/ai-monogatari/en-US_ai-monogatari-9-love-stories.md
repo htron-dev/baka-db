@@ -1,5 +1,7 @@
 # Ai Monogatari: 9 Love Stories
 
+![ai-monogatari-9-love-stories](https://cdn.myanimelist.net/images/anime/5/2646.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 愛物語 9 Love Stories

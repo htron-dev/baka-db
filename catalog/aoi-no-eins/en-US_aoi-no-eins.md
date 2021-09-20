@@ -1,5 +1,7 @@
 # Aoi no Eins
 
+![aoi-no-eins](https://cdn.myanimelist.net/images/manga/3/241656.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 46

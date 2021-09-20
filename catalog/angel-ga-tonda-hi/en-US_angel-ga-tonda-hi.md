@@ -1,5 +1,7 @@
 # Angel ga Tonda Hi
 
+![angel-ga-tonda-hi](https://cdn.myanimelist.net/images/anime/11/59567.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エンジェルがとんだ日

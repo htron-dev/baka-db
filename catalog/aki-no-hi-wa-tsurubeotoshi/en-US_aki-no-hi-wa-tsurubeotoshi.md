@@ -1,5 +1,7 @@
 # Aki no Hi wa Tsurubeotoshi
 
+![aki-no-hi-wa-tsurubeotoshi](https://cdn.myanimelist.net/images/manga/2/177250.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

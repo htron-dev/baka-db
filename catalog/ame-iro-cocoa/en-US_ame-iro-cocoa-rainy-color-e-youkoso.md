@@ -1,5 +1,7 @@
 # Ame-iro Cocoa: Rainy Color e Youkoso!
 
+![ame-iro-cocoa-rainy-color-e-youkoso](https://cdn.myanimelist.net/images/anime/1065/111717.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 雨色ココア Rainy color へようこそ！

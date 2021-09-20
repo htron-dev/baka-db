@@ -1,5 +1,7 @@
 # Ai no Monogatari no Ketsumatsu wa?
 
+![ai-no-monogatari-no-ketsumatsu-wa](https://cdn.myanimelist.net/images/manga/3/247199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛の物語の結末は?

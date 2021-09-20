@@ -1,5 +1,7 @@
 # Arslan Senki
 
+![arslan-senki](https://cdn.myanimelist.net/images/manga/1/59967.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **original-name**: アルスラーン戦記

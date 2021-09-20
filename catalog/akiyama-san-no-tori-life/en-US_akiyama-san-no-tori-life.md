@@ -1,5 +1,7 @@
 # Akiyama-san no Tori Life
 
+![akiyama-san-no-tori-life](https://cdn.myanimelist.net/images/manga/2/236973.jpg)
+
 -   **type**: manga
 -   **original-name**: 秋山さんのとりライフ
 -   **start-date**: 2018-04-03

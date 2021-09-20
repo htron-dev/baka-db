@@ -1,5 +1,7 @@
 # Anoko no Ude wa Niji no Tsuzuki
 
+![anoko-no-ude-wa-niji-no-tsuzuki](https://cdn.myanimelist.net/images/manga/1/133639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

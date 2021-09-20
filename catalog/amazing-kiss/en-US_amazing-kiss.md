@@ -1,5 +1,7 @@
 # Amazing Kiss
 
+![amazing-kiss](https://cdn.myanimelist.net/images/manga/3/30345.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 어메이징 키스
 

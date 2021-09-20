@@ -1,5 +1,7 @@
 # Ano Ko ni Koisuru Yamada ni Koishita
 
+![ano-ko-ni-koisuru-yamada-ni-koishita](https://cdn.myanimelist.net/images/manga/2/193542.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

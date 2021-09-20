@@ -1,5 +1,7 @@
 # A Smart Experiment
 
+![a-smart-experiment](https://cdn.myanimelist.net/images/anime/10/72286.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: A smart experiment

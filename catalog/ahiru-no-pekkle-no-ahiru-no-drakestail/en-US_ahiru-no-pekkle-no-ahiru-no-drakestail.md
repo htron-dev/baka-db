@@ -1,5 +1,7 @@
 # Ahiru no Pekkle no Ahiru no Drakestail
 
+![ahiru-no-pekkle-no-ahiru-no-drakestail](https://cdn.myanimelist.net/images/anime/1810/112458.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アヒルのペックルのアヒルのドレイクステール

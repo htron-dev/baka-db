@@ -1,5 +1,7 @@
 # Ai no Babylon
 
+![ai-no-babylon](https://cdn.myanimelist.net/images/manga/2/202878.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

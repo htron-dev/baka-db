@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: DVD Hatsubai Kettei!
 
+![aware-meisaku-kun-dvd-hatsubai-kettei](https://cdn.myanimelist.net/images/anime/2/85783.jpg)
+
 -   **type**: ona
 -   **original-name**: あはれ！名作くん DVD 巻発売決定！
 -   **start-date**: 2017-05-05

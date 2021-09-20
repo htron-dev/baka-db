@@ -1,5 +1,7 @@
 # Aromatic Bitters
 
+![aromatic-bitters](https://cdn.myanimelist.net/images/manga/1/114685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

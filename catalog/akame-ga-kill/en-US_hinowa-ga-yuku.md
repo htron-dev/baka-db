@@ -1,5 +1,7 @@
 # Hinowa ga Yuku!
 
+![hinowa-ga-yuku](https://cdn.myanimelist.net/images/manga/3/204816.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒノワが征く！
 -   **start-date**: 2017-06-24

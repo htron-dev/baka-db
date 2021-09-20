@@ -1,5 +1,7 @@
 # Atomic?
 
+![atomic](https://cdn.myanimelist.net/images/manga/2/232938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

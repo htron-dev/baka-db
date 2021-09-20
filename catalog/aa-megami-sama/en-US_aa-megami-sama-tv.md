@@ -1,5 +1,7 @@
 # Aa! Megami-sama! (TV)
 
+![aa-megami-sama-tv](https://cdn.myanimelist.net/images/anime/2/17841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ああっ女神さまっ

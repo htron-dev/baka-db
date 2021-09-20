@@ -1,5 +1,7 @@
 # Anata e no Tsuki
 
+![anata-e-no-tsuki](https://cdn.myanimelist.net/images/manga/4/169678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

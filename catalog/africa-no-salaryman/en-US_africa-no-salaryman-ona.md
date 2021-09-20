@@ -1,5 +1,7 @@
 # Africa no Salaryman
 
+![africa-no-salaryman](https://cdn.myanimelist.net/images/anime/3/87132.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: アフリカのサラリーマン

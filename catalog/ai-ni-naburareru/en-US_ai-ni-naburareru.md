@@ -1,5 +1,7 @@
 # Ai ni Naburareru
 
+![ai-ni-naburareru](https://cdn.myanimelist.net/images/manga/2/227240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

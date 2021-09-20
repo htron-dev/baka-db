@@ -1,5 +1,7 @@
 # Akage no Anne
 
+![akage-no-anne](https://cdn.myanimelist.net/images/manga/1/30000.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

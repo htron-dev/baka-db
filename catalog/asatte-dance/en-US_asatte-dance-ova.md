@@ -1,5 +1,7 @@
 # Asatte Dance
 
+![asatte-dance](https://cdn.myanimelist.net/images/anime/1548/111843.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: あさって Dance

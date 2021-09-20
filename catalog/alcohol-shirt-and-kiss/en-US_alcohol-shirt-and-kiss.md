@@ -1,5 +1,7 @@
 # Alcohol, Shirt, and Kiss
 
+![alcohol-shirt-and-kiss](https://cdn.myanimelist.net/images/manga/2/5897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

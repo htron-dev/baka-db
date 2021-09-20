@@ -1,5 +1,7 @@
 # Personal Computer Travel Tanteidan
 
+![personal-computer-travel-tanteidan](https://cdn.myanimelist.net/images/anime/7/69747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: パソコントラベル探偵団

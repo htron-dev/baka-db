@@ -1,5 +1,7 @@
 # Akuma no Riddle: Shousha wa Dare? Nukiuchi Test
 
+![akuma-no-riddle-shousha-wa-dare-nukiuchi-test](https://cdn.myanimelist.net/images/anime/11/63653.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 悪魔のリドル　勝者はだれ？（抜き打ちテスト）

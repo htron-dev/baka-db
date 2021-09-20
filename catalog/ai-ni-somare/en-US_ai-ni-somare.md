@@ -1,5 +1,7 @@
 # Ai ni Somare
 
+![ai-ni-somare](https://cdn.myanimelist.net/images/manga/3/24478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

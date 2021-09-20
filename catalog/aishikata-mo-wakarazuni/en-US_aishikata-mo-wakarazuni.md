@@ -1,5 +1,7 @@
 # Aishikata mo Wakarazuni
 
+![aishikata-mo-wakarazuni](https://cdn.myanimelist.net/images/manga/1/12832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

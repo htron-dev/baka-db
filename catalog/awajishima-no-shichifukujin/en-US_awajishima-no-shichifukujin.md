@@ -1,5 +1,7 @@
 # Awajishima no Shichifukujin
 
+![awajishima-no-shichifukujin](https://cdn.myanimelist.net/images/anime/1860/109576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: あわじしまの七福神

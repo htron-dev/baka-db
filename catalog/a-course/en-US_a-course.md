@@ -1,5 +1,7 @@
 # A Course
 
+![a-course](https://cdn.myanimelist.net/images/manga/2/171742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: A コース

@@ -1,5 +1,7 @@
 # Aiura
 
+![aiura](https://cdn.myanimelist.net/images/manga/2/139507.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 109

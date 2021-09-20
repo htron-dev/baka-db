@@ -1,5 +1,7 @@
 # Anne's Secret Diary
 
+![annes-secret-diary](https://cdn.myanimelist.net/images/anime/1774/105966.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: ANNE’s SECRET DIARY

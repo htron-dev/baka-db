@@ -1,5 +1,7 @@
 # All Aboard
 
+![all-aboard](https://cdn.myanimelist.net/images/manga/3/161397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

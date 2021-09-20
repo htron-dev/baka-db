@@ -1,5 +1,7 @@
 # Ajin OVA
 
+![ajin-ova](https://cdn.myanimelist.net/images/anime/12/79906.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 亜人

@@ -1,5 +1,7 @@
 # Attack!!
 
+![attack](https://cdn.myanimelist.net/images/manga/3/194783.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: アタック!!

@@ -1,5 +1,7 @@
 # Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky
 
+![air-gear-kuro-no-hane-to-nemuri-no-mori-break-on-the-sky](https://cdn.myanimelist.net/images/anime/8/74158.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: エア・ギア 黒の羽と眠りの森 -Break on the Sky-

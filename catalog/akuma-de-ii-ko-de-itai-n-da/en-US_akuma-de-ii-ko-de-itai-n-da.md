@@ -1,5 +1,7 @@
 # Akuma de Ii Ko de Itai n da
 
+![akuma-de-ii-ko-de-itai-n-da](https://cdn.myanimelist.net/images/manga/3/228355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

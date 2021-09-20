@@ -1,5 +1,7 @@
 # Annyeong, Jeonwoochi! Dosoolrobotdaegyeoljeon
 
+![annyeong-jeonwoochi-dosoolrobotdaegyeoljeon](https://cdn.myanimelist.net/images/anime/9/87371.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 안녕, 전우치! 도술로봇대결전

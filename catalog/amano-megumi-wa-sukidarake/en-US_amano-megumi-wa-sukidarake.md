@@ -1,5 +1,7 @@
 # Amano Megumi wa Sukidarake!
 
+![amano-megumi-wa-sukidarake](https://cdn.myanimelist.net/images/manga/1/188835.jpg)
+
 -   **type**: manga
 -   **original-name**: 天野めぐみはスキだらけ！
 -   **start-date**: 2015-08-25

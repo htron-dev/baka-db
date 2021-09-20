@@ -1,5 +1,7 @@
 # Aya Yuri
 
+![aya-yuri](https://cdn.myanimelist.net/images/manga/1/137177.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 彩百合

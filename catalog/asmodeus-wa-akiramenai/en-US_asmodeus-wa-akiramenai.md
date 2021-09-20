@@ -1,5 +1,7 @@
 # Asmodeus wa Akiramenai
 
+![asmodeus-wa-akiramenai](https://cdn.myanimelist.net/images/manga/2/206206.jpg)
+
 -   **type**: manga
 -   **original-name**: アスモデウスはあきらめない
 -   **start-date**: 2017-05-26

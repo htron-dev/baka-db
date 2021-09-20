@@ -1,5 +1,7 @@
 # Ani x Para: Anata no Hero wa Dare desu ka
 
+![ani-x-para-anata-no-hero-wa-dare-desu-ka](https://cdn.myanimelist.net/images/anime/1336/102231.jpg)
+
 -   **type**: special
 -   **original-name**: アニ × パラ〜あなたのヒーローは誰ですか〜
 -   **start-date**: 2017-11-10

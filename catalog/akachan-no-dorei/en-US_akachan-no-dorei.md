@@ -1,5 +1,7 @@
 # Akachan no Dorei.
 
+![akachan-no-dorei](https://cdn.myanimelist.net/images/manga/2/4943.jpg)
+
 -   **type**: manga
 -   **original-name**: あかちゃんのドレイ。
 

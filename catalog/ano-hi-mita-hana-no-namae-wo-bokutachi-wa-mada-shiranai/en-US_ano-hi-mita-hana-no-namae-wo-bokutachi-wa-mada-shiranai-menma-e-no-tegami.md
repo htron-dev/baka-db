@@ -1,5 +1,7 @@
 # Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami
 
+![ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami](https://cdn.myanimelist.net/images/anime/1103/98120.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」

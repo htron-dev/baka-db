@@ -1,5 +1,7 @@
 # Anzen no Shiteiseki Child Seat
 
+![anzen-no-shiteiseki-child-seat](https://cdn.myanimelist.net/images/anime/6/84784.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 安全の指定席 チャイルドシート

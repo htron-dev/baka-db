@@ -1,5 +1,7 @@
 # Angel Shop
 
+![angel-shop](https://cdn.myanimelist.net/images/manga/3/4835.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 19

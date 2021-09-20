@@ -1,5 +1,7 @@
 # Ai Zai Xiyuan Qian 2nd Season
 
+![ai-zai-xiyuan-qian-2nd-season](https://cdn.myanimelist.net/images/anime/1773/112028.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 爱在西元前 第二季

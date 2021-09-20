@@ -1,5 +1,7 @@
 # Ai Mai Mii
 
+![ai-mai-mii](https://cdn.myanimelist.net/images/manga/2/123619.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: あいまいみー

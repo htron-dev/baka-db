@@ -1,5 +1,7 @@
 # Arslan Senki (TV)
 
+![arslan-senki-tv](https://cdn.myanimelist.net/images/anime/6/73588.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: アルスラーン戦記

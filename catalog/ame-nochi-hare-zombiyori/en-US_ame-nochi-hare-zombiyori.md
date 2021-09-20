@@ -1,5 +1,7 @@
 # Ame Nochi Hare Zombiyori
 
+![ame-nochi-hare-zombiyori](https://cdn.myanimelist.net/images/manga/3/174533.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

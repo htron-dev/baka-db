@@ -1,5 +1,7 @@
 # Atashi wa Kimi de Mitasareru
 
+![atashi-wa-kimi-de-mitasareru](https://cdn.myanimelist.net/images/manga/3/150248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

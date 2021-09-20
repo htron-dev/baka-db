@@ -1,5 +1,7 @@
 # Aitsu to Lullaby
 
+![aitsu-to-lullaby](https://cdn.myanimelist.net/images/manga/1/183641.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **original-name**: あいつとララバイ

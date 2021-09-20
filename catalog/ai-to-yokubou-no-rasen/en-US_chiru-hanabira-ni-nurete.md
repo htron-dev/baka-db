@@ -1,5 +1,7 @@
 # Chiru Hanabira ni Nurete
 
+![chiru-hanabira-ni-nurete](https://cdn.myanimelist.net/images/manga/1/26820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

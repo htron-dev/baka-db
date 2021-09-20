@@ -1,5 +1,7 @@
 # Attacker You!
 
+![attacker-you](https://cdn.myanimelist.net/images/anime/11/85676.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 58
 -   **original-name**: アタッカーＹＯＵ！

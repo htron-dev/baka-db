@@ -1,5 +1,7 @@
 # Akane-chan
 
+![akane-chan](https://cdn.myanimelist.net/images/anime/12/72149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: あかねちゃん

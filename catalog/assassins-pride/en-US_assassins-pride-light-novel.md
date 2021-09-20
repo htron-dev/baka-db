@@ -1,5 +1,7 @@
 # Assassins Pride
 
+![assassins-pride](https://cdn.myanimelist.net/images/manga/3/190010.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アサシンズプライド
 -   **start-date**: 2016-01-20

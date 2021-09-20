@@ -1,5 +1,7 @@
 # Amakute, Tsumetai
 
+![amakute-tsumetai](https://cdn.myanimelist.net/images/manga/2/167474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

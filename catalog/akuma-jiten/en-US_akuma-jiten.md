@@ -1,5 +1,7 @@
 # Akuma Jiten
 
+![akuma-jiten](https://cdn.myanimelist.net/images/manga/1/69915.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Aishitagari Monomanie
 
+![aishitagari-monomanie](https://cdn.myanimelist.net/images/manga/2/224780.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

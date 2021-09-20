@@ -1,5 +1,7 @@
 # Ashita no Kimi ni Hanabata wo
 
+![ashita-no-kimi-ni-hanabata-wo](https://cdn.myanimelist.net/images/manga/3/149790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

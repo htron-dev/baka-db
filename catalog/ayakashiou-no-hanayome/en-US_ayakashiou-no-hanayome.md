@@ -1,5 +1,7 @@
 # Ayakashiou no Hanayome
 
+![ayakashiou-no-hanayome](https://cdn.myanimelist.net/images/manga/3/201941.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 18

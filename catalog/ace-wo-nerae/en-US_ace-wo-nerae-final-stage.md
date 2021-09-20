@@ -1,5 +1,7 @@
 # Ace wo Nerae!: Final Stage
 
+![ace-wo-nerae-final-stage](https://cdn.myanimelist.net/images/anime/6/71784.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 「エースをねらえ！」 —ファイナル・ステージ—

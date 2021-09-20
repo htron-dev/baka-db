@@ -1,5 +1,7 @@
 # Anata wo Wasuretai
 
+![anata-wo-wasuretai](https://cdn.myanimelist.net/images/manga/3/41072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたを忘れたい

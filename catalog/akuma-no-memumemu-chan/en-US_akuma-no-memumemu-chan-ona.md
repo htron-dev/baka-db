@@ -1,5 +1,7 @@
 # Akuma no Memumemu-chan
 
+![akuma-no-memumemu-chan](https://cdn.myanimelist.net/images/anime/1789/106695.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 悪魔のメムメムちゃん

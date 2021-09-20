@@ -1,5 +1,7 @@
 # Asatir: Mirai no Mukashi Banashi
 
+![asatir-mirai-no-mukashi-banashi](https://cdn.myanimelist.net/images/anime/1365/106794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アサティール 未来の昔ばなし

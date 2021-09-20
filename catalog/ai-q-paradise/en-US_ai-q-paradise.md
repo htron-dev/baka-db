@@ -1,5 +1,7 @@
 # Ai Q Paradise
 
+![ai-q-paradise](https://cdn.myanimelist.net/images/manga/2/222107.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

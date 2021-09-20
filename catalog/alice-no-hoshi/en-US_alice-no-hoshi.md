@@ -1,5 +1,7 @@
 # Alice no Hoshi
 
+![alice-no-hoshi](https://cdn.myanimelist.net/images/manga/2/26275.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アリスの星

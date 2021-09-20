@@ -1,5 +1,7 @@
 # Are ga Ii Kore ga Ii
 
+![are-ga-ii-kore-ga-ii](https://cdn.myanimelist.net/images/manga/1/202104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

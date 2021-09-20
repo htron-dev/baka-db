@@ -1,5 +1,7 @@
 # Aa! Megami-sama!
 
+![aa-megami-sama](https://cdn.myanimelist.net/images/manga/2/58483.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **chapters**: 308

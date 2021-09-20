@@ -1,5 +1,7 @@
 # Atomic Nekokabutsu
 
+![atomic-nekokabutsu](https://cdn.myanimelist.net/images/manga/2/178039.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

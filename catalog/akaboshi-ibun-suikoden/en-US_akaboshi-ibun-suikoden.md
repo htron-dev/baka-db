@@ -1,5 +1,7 @@
 # Akaboshi: Ibun Suikoden
 
+![akaboshi-ibun-suikoden](https://cdn.myanimelist.net/images/manga/3/209671.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

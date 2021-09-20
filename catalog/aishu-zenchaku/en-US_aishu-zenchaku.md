@@ -1,5 +1,7 @@
 # Aishu Zenchaku
 
+![aishu-zenchaku](https://cdn.myanimelist.net/images/manga/2/194583.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛執染着

@@ -1,5 +1,7 @@
 # Akebi-chan no Sailor-fuku
 
+![akebi-chan-no-sailor-fuku](https://cdn.myanimelist.net/images/anime/1662/113689.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 明日ちゃんのセーラー服
 -   **rating**: None

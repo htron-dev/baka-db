@@ -1,5 +1,7 @@
 # Anadorenai ne Kitami-kun
 
+![anadorenai-ne-kitami-kun](https://cdn.myanimelist.net/images/manga/1/200108.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

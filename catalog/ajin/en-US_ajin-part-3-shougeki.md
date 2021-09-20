@@ -1,5 +1,7 @@
 # Ajin Part 3: Shougeki
 
+![ajin-part-3-shougeki](https://cdn.myanimelist.net/images/anime/5/85580.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 亜人 第 3 部「衝戟」

@@ -1,5 +1,7 @@
 # Ashinaga Ojisan
 
+![ashinaga-ojisan](https://cdn.myanimelist.net/images/anime/8/54637.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あしながおじさん

@@ -1,5 +1,7 @@
 # Anata e no Crescendo
 
+![anata-e-no-crescendo](https://cdn.myanimelist.net/images/manga/1/16309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

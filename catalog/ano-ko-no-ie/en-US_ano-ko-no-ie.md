@@ -1,5 +1,7 @@
 # Ano Ko no Ie
 
+![ano-ko-no-ie](https://cdn.myanimelist.net/images/manga/1/132313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

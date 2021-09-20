@@ -1,5 +1,7 @@
 # Air
 
+![air](https://cdn.myanimelist.net/images/manga/3/28956.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

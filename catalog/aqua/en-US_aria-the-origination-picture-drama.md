@@ -1,5 +1,7 @@
 # Aria the Origination Picture Drama
 
+![aria-the-origination-picture-drama](https://cdn.myanimelist.net/images/anime/13/36237.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ARIA The ORIGINATION (アリア ジ・オリジネーション ピクチャードラマ)

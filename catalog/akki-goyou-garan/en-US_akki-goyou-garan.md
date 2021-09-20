@@ -1,5 +1,7 @@
 # Akki Goyou Garan
 
+![akki-goyou-garan](https://cdn.myanimelist.net/images/manga/3/41589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Akuma-kun Series
 
+![akuma-kun-series](https://cdn.myanimelist.net/images/manga/1/19263.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: アクマくんシリーズ

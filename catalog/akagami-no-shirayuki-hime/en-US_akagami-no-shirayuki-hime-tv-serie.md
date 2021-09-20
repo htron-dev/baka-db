@@ -1,5 +1,7 @@
 # Akagami no Shirayuki-hime
 
+![akagami-no-shirayuki-hime](https://cdn.myanimelist.net/images/anime/10/75764.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 赤髪の白雪姫

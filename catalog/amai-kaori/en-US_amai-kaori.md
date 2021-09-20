@@ -1,5 +1,7 @@
 # Amai Kaori
 
+![amai-kaori](https://cdn.myanimelist.net/images/manga/1/36904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あまい香り

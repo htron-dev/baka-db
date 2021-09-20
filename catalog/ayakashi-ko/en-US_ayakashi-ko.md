@@ -1,5 +1,7 @@
 # Ayakashi Ko
 
+![ayakashi-ko](https://cdn.myanimelist.net/images/manga/3/169990.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

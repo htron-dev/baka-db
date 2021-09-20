@@ -1,5 +1,7 @@
 # Ashita no Nadja
 
+![ashita-no-nadja](https://cdn.myanimelist.net/images/manga/5/67987.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

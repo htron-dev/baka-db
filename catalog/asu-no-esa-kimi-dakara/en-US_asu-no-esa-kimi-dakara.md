@@ -1,5 +1,7 @@
 # Asu no Esa Kimi dakara
 
+![asu-no-esa-kimi-dakara](https://cdn.myanimelist.net/images/manga/1/215446.jpg)
+
 -   **type**: manga
 -   **original-name**: 明日のエサ　キミだから
 -   **start-date**: 2018-04-20

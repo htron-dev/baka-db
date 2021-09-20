@@ -1,5 +1,7 @@
 # After School Adventure Valiant
 
+![after-school-adventure-valiant](https://cdn.myanimelist.net/images/manga/2/22163.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 放課後アドベンチャーヴァリアント

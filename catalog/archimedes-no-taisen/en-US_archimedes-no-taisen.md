@@ -1,5 +1,7 @@
 # Archimedes no Taisen
 
+![archimedes-no-taisen](https://cdn.myanimelist.net/images/manga/1/177755.jpg)
+
 -   **type**: manga
 -   **original-name**: アルキメデス大戦
 -   **start-date**: 2015-11-21

@@ -1,5 +1,7 @@
 # Aria the Avvenire
 
+![aria-the-avvenire](https://cdn.myanimelist.net/images/anime/10/74338.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ARIA The AVVENIRE

@@ -1,5 +1,7 @@
 # Alps no Shoujo Heidi Pilot
 
+![alps-no-shoujo-heidi-pilot](https://cdn.myanimelist.net/images/anime/2/29867.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アルプスの少女ハイジ パイロット版

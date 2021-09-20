@@ -1,5 +1,7 @@
 # Anne Freaks
 
+![anne-freaks](https://cdn.myanimelist.net/images/manga/5/26068.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

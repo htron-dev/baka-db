@@ -1,5 +1,7 @@
 # Akuyaku Reijou ni Tensei shita Hazu ga Marie Antoinette deshita
 
+![akuyaku-reijou-ni-tensei-shita-hazu-ga-marie-antoinette-deshita](https://cdn.myanimelist.net/images/manga/1/241459.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢に転生したはずがマリー・アントワネットでした
 -   **start-date**: 2020-08-05

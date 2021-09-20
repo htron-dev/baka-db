@@ -1,5 +1,7 @@
 # Amon Saga: Tsuki no Miko
 
+![amon-saga-tsuki-no-miko](https://cdn.myanimelist.net/images/manga/2/142387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

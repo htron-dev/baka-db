@@ -1,5 +1,7 @@
 # A3! Spring
 
+![a-3-spring](https://cdn.myanimelist.net/images/manga/2/202213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

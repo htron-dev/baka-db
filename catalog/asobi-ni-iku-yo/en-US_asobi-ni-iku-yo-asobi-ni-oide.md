@@ -1,5 +1,7 @@
 # Asobi ni Iku yo!: Asobi ni Oide
 
+![asobi-ni-iku-yo-asobi-ni-oide](https://cdn.myanimelist.net/images/anime/7/26653.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あそびにいくヨ! あそびにおいで

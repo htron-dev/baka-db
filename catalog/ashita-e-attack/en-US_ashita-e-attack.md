@@ -1,5 +1,7 @@
 # Ashita e Attack!
 
+![ashita-e-attack](https://cdn.myanimelist.net/images/anime/5/8206.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: あしたへアタック！

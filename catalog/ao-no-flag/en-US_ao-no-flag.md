@@ -1,5 +1,7 @@
 # Ao no Flag
 
+![ao-no-flag](https://cdn.myanimelist.net/images/manga/3/194070.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 54

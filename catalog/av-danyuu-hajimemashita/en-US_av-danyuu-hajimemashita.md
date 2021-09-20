@@ -1,5 +1,7 @@
 # AV Danyuu Hajimemashita
 
+![av-danyuu-hajimemashita](https://cdn.myanimelist.net/images/manga/2/238505.jpg)
+
 -   **type**: manga
 -   **original-name**: AV 男優はじめました
 -   **start-date**: 2020-01-24

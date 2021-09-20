@@ -1,5 +1,7 @@
 # Aki no Puzzle
 
+![aki-no-puzzle](https://cdn.myanimelist.net/images/anime/10/73763.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 秋のパズル

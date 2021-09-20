@@ -1,5 +1,7 @@
 # Akarui Kioku Soushitsu
 
+![akarui-kioku-soushitsu](https://cdn.myanimelist.net/images/manga/1/190876.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 67

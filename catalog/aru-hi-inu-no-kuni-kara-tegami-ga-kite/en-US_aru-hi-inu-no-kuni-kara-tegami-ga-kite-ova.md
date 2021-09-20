@@ -1,5 +1,7 @@
 # Aru Hi Inu no Kuni kara Tegami ga Kite
 
+![aru-hi-inu-no-kuni-kara-tegami-ga-kite](https://cdn.myanimelist.net/images/anime/1085/92040.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ある日 犬の国から手紙が来て

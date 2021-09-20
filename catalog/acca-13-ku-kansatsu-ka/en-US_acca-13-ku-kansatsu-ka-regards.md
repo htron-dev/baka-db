@@ -1,5 +1,7 @@
 # ACCA: 13-ku Kansatsu-ka - Regards
 
+![acca-13-ku-kansatsu-ka-regards](https://cdn.myanimelist.net/images/anime/1878/101560.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ACCA13 区監察課 Regards

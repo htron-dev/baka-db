@@ -1,5 +1,7 @@
 # Atashin'chi
 
+![atashinchi](https://cdn.myanimelist.net/images/anime/8/50895.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 330
 -   **original-name**: あたしンち

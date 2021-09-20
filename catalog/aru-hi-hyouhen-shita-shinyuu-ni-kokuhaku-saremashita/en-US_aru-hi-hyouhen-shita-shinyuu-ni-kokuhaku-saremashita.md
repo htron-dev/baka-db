@@ -1,5 +1,7 @@
 # Aru Hi, Hyouhen shita Shinyuu ni Kokuhaku Saremashita.
 
+![aru-hi-hyouhen-shita-shinyuu-ni-kokuhaku-saremashita](https://cdn.myanimelist.net/images/manga/2/190602.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

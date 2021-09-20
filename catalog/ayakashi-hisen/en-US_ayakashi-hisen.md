@@ -1,5 +1,7 @@
 # Ayakashi Hisen
 
+![ayakashi-hisen](https://cdn.myanimelist.net/images/manga/2/173467.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 71

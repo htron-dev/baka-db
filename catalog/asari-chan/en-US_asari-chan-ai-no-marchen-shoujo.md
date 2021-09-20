@@ -1,5 +1,7 @@
 # Asari-chan: Ai no Marchen Shoujo
 
+![asari-chan-ai-no-marchen-shoujo](https://cdn.myanimelist.net/images/anime/11/15189.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あさりちゃん 愛のメルヘン少女

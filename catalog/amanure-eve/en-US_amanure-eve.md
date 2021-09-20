@@ -1,5 +1,7 @@
 # Amanure Eve
 
+![amanure-eve](https://cdn.myanimelist.net/images/manga/1/9238.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 甘濡れ ♥Eve

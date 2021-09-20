@@ -1,5 +1,7 @@
 # Anata ni Tsunagaretai
 
+![anata-ni-tsunagaretai](https://cdn.myanimelist.net/images/manga/2/20741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

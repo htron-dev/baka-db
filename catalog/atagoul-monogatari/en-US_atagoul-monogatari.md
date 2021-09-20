@@ -1,5 +1,7 @@
 # Atagoul Monogatari
 
+![atagoul-monogatari](https://cdn.myanimelist.net/images/manga/1/16924.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

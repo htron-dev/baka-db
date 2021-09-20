@@ -1,5 +1,7 @@
 # Animal Yokochou
 
+![animal-yokochou](https://cdn.myanimelist.net/images/anime/5/53409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: アニマル横町

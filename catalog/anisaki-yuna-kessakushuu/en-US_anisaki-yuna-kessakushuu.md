@@ -1,5 +1,7 @@
 # Anisaki Yuna Kessakushuu
 
+![anisaki-yuna-kessakushuu](https://cdn.myanimelist.net/images/manga/3/11161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: HAPPY の RECIPE

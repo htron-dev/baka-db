@@ -1,5 +1,7 @@
 # Azur Lane: Bisoku Zenshin!
 
+![azur-lane-bisoku-zenshin](https://cdn.myanimelist.net/images/anime/1137/113872.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アズールレーン びそくぜんしんっ!

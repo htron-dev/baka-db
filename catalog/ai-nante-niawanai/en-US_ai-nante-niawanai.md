@@ -1,5 +1,7 @@
 # Ai nante Niawanai
 
+![ai-nante-niawanai](https://cdn.myanimelist.net/images/manga/2/195062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛なんて似合わない

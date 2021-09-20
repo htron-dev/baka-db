@@ -1,5 +1,7 @@
 # Ano Yoru no Sasayaki ga.
 
+![ano-yoru-no-sasayaki-ga](https://cdn.myanimelist.net/images/manga/3/239928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Assistant Lady
 
+![assistant-lady](https://cdn.myanimelist.net/images/manga/2/10316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アシスタントレイディ

@@ -1,5 +1,7 @@
 # Amakawa Amane no Hitei Koushiki
 
+![amakawa-amane-no-hitei-koushiki](https://cdn.myanimelist.net/images/manga/3/163285.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

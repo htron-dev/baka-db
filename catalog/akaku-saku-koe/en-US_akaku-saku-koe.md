@@ -1,5 +1,7 @@
 # Akaku Saku Koe
 
+![akaku-saku-koe](https://cdn.myanimelist.net/images/manga/1/21321.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

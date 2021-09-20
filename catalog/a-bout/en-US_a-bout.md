@@ -1,5 +1,7 @@
 # A-bout!
 
+![a-bout](https://cdn.myanimelist.net/images/manga/4/74997.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 165

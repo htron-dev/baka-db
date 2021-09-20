@@ -1,5 +1,7 @@
 # Anyamal Tantei Kiruminzoo
 
+![anyamal-tantei-kiruminzoo](https://cdn.myanimelist.net/images/anime/8/74070.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: あにゃまる探偵 キルミンずぅ

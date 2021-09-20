@@ -1,5 +1,7 @@
 # A Bittersweet Life
 
+![a-bittersweet-life](https://cdn.myanimelist.net/images/manga/3/148197.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 31

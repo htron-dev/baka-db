@@ -1,5 +1,7 @@
 # Anata ga Watashi to Kurashitara
 
+![anata-ga-watashi-to-kurashitara](https://cdn.myanimelist.net/images/manga/1/196305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Anata no Cinderella: Wakashachou no Gouin na Escort
 
+![anata-no-cinderella-wakashachou-no-gouin-na-escort](https://cdn.myanimelist.net/images/manga/2/183293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Ai no Jikken
 
+![ai-no-jikken](https://cdn.myanimelist.net/images/manga/3/212616.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

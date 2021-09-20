@@ -1,5 +1,7 @@
 # Ashita mo Kitto Koishiteru
 
+![ashita-mo-kitto-koishiteru](https://cdn.myanimelist.net/images/manga/1/25878.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

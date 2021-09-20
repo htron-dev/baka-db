@@ -1,5 +1,7 @@
 # Ao to Kuro no Kyoukaisen
 
+![ao-to-kuro-no-kyoukaisen](https://cdn.myanimelist.net/images/manga/2/159893.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 青と黒の境界線

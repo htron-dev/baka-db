@@ -1,5 +1,7 @@
 # Aomiyuku Yuki
 
+![aomiyuku-yuki](https://cdn.myanimelist.net/images/manga/1/101629.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 青みゆく雪

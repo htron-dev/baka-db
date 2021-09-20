@@ -1,5 +1,7 @@
 # Ari Ningen Monogatari
 
+![ari-ningen-monogatari](https://cdn.myanimelist.net/images/anime/4/76327.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蟻人間物語

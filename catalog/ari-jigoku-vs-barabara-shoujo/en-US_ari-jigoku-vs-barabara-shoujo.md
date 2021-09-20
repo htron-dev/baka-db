@@ -1,5 +1,7 @@
 # Ari Jigoku vs Barabara Shoujo
 
+![ari-jigoku-vs-barabara-shoujo](https://cdn.myanimelist.net/images/manga/2/89581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

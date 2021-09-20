@@ -1,5 +1,7 @@
 # Animeta!
 
+![animeta](https://cdn.myanimelist.net/images/manga/1/179107.jpg)
+
 -   **type**: manga
 -   **original-name**: アニメタ！
 -   **start-date**: 2015-06-22

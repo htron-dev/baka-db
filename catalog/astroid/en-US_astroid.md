@@ -1,5 +1,7 @@
 # Astroid
 
+![astroid](https://cdn.myanimelist.net/images/manga/3/195929.jpg)
+
 -   **type**: manga
 -   **chapters**: 19
 -   **original-name**: ASTROID

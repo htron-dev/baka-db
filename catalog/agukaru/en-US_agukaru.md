@@ -1,5 +1,7 @@
 # Agukaru
 
+![agukaru](https://cdn.myanimelist.net/images/anime/8/26860.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: あぐかる

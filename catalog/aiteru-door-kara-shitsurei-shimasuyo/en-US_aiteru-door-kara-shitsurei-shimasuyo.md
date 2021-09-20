@@ -1,5 +1,7 @@
 # Aiteru Door kara Shitsurei Shimasuyo
 
+![aiteru-door-kara-shitsurei-shimasuyo](https://cdn.myanimelist.net/images/manga/2/33046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

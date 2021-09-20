@@ -1,5 +1,7 @@
 # Asakura-ke no Hitobito
 
+![asakura-ke-no-hitobito](https://cdn.myanimelist.net/images/manga/1/1232.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

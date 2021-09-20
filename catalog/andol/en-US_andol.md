@@ -1,5 +1,7 @@
 # Andol
 
+![andol](https://cdn.myanimelist.net/images/manga/2/157946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

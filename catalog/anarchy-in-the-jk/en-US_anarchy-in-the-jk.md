@@ -1,5 +1,7 @@
 # Anarchy in the JK
 
+![anarchy-in-the-jk](https://cdn.myanimelist.net/images/manga/3/157122.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

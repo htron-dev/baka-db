@@ -1,5 +1,7 @@
 # Arcdia
 
+![arcdia](https://cdn.myanimelist.net/images/manga/3/117009.jpg)
+
 -   **type**: manga
 -   **original-name**: Arcdia -アークディア-
 -   **start-date**: 2013-05-25

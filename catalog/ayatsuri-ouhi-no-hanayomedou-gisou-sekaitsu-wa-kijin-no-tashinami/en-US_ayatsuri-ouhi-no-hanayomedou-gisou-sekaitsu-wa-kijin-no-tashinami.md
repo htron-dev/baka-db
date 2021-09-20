@@ -1,5 +1,7 @@
 # Ayatsuri Ouhi no Hanayomedou: Gisou Sekaitsu wa Kijin no Tashinami
 
+![ayatsuri-ouhi-no-hanayomedou-gisou-sekaitsu-wa-kijin-no-tashinami](https://cdn.myanimelist.net/images/manga/1/161856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

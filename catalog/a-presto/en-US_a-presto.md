@@ -1,5 +1,7 @@
 # A-presto
 
+![a-presto](https://cdn.myanimelist.net/images/manga/3/128431.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

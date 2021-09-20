@@ -1,5 +1,7 @@
 # Area no Kishi Gaiden: Enokou Early Days
 
+![area-no-kishi-gaiden-enokou-early-days](https://cdn.myanimelist.net/images/manga/2/137945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

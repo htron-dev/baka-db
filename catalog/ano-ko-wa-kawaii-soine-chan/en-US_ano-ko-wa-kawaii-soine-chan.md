@@ -1,5 +1,7 @@
 # Ano Ko wa Kawaii Soine-chan
 
+![ano-ko-wa-kawaii-soine-chan](https://cdn.myanimelist.net/images/manga/3/235082.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

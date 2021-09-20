@@ -1,5 +1,7 @@
 # Assemble Insert
 
+![assemble-insert](https://cdn.myanimelist.net/images/manga/2/147769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アッセンブル・インサート ゆうきまさみ作品集

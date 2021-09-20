@@ -1,5 +1,7 @@
 # Akumade Maou no Table d'Hote: Gyouretsu no Dekiru Maou Shokudou
 
+![akumade-maou-no-table-d-hote-gyouretsu-no-dekiru-maou-shokudou](https://cdn.myanimelist.net/images/manga/1/180895.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あくまで魔王の究極菜譜〈ターブル・ドット〉 ～行列のできる魔王食堂～

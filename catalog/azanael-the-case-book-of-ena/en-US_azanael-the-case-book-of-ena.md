@@ -1,5 +1,7 @@
 # Azanael: The Case-Book of ENA
 
+![azanael-the-case-book-of-ena](https://cdn.myanimelist.net/images/manga/2/113217.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

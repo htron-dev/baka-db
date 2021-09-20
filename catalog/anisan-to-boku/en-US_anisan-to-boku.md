@@ -1,5 +1,7 @@
 # Anisan to Boku
 
+![anisan-to-boku](https://cdn.myanimelist.net/images/manga/2/46849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

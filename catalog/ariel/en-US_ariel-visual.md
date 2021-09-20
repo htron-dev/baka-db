@@ -1,5 +1,7 @@
 # Ariel Visual
 
+![ariel-visual](https://cdn.myanimelist.net/images/anime/13/56395.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ARIEL (エリアル) VISUAL

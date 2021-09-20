@@ -1,5 +1,7 @@
 # Saishuu Kikouhei Metal Slader Glory: Amia no Omokage
 
+![saishuu-kikouhei-metal-slader-glory-amia-no-omokage](https://cdn.myanimelist.net/images/manga/1/151833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 最終機攻兵メタルスレイダーグローリー エイミアの面影

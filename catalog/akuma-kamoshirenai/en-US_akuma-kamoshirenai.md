@@ -1,5 +1,7 @@
 # Akuma Kamoshirenai
 
+![akuma-kamoshirenai](https://cdn.myanimelist.net/images/manga/2/14284.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 悪魔かもしれない

@@ -1,5 +1,7 @@
 # Asura Cryin'
 
+![asura-cryin](https://cdn.myanimelist.net/images/manga/3/148523.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

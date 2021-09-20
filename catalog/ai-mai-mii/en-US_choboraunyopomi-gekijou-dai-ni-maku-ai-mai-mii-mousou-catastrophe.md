@@ -1,5 +1,7 @@
 # Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe
 
+![choboraunyopomi-gekijou-dai-ni-maku-ai-mai-mii-mousou-catastrophe](https://cdn.myanimelist.net/images/anime/6/65753.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ちょぼらうにょぽみ劇場第二幕 あいまいみー ~妄想カタストロフ~

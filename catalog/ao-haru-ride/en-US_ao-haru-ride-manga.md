@@ -1,5 +1,7 @@
 # Ao Haru Ride
 
+![ao-haru-ride](https://cdn.myanimelist.net/images/manga/1/62369.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Futari no Joe
 
+![futari-no-joe](https://cdn.myanimelist.net/images/anime/8/8086.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ふたりのジョー

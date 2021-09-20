@@ -1,5 +1,7 @@
 # Allison
 
+![allison](https://cdn.myanimelist.net/images/manga/2/64119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # AIUEO Anime Sekai no Douwa: Aesop Monogatari Anime Series
 
+![aiueo-anime-sekai-no-douwa-aesop-monogatari-anime-series](https://cdn.myanimelist.net/images/anime/3/65297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: あいうえお・アニメ世界の童話 イソップ物語アニメシリーズ

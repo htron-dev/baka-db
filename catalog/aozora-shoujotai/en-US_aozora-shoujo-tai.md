@@ -1,5 +1,7 @@
 # Aozora Shoujo-tai
 
+![aozora-shoujo-tai](https://cdn.myanimelist.net/images/anime/1306/100405.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: 青空少女隊

@@ -1,5 +1,7 @@
 # Akuyome
 
+![akuyome](https://cdn.myanimelist.net/images/manga/3/222483.jpg)
+
 -   **type**: manga
 -   **original-name**: あくヨメ
 -   **start-date**: 2016-09-02

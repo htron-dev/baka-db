@@ -1,5 +1,7 @@
 # Americano Exodus
 
+![americano-exodus](https://cdn.myanimelist.net/images/manga/1/228451.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아메리카노 엑소더스
 -   **start-date**: 2014-05-16

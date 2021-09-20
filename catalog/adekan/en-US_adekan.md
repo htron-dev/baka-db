@@ -1,5 +1,7 @@
 # Adekan
 
+![adekan](https://cdn.myanimelist.net/images/manga/3/175521.jpg)
+
 -   **type**: manga
 -   **original-name**: 艶漢
 -   **start-date**: 2007-07-14

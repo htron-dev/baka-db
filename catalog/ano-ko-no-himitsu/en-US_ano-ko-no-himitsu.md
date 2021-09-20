@@ -1,5 +1,7 @@
 # Ano Ko No Himitsu
 
+![ano-ko-no-himitsu](https://cdn.myanimelist.net/images/manga/1/7706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

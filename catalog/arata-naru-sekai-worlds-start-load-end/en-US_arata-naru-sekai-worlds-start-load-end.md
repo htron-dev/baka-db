@@ -1,5 +1,7 @@
 # Arata naru Sekai: World's/Start/Load/End
 
+![arata-naru-sekai-worlds-start-load-end](https://cdn.myanimelist.net/images/anime/6/42075.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アラタなるセカイ WORLD'S/START/LOAD/END

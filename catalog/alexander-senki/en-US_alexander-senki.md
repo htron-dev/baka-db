@@ -1,5 +1,7 @@
 # Alexander Senki
 
+![alexander-senki](https://cdn.myanimelist.net/images/anime/1108/95688.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アレクサンダー戦記

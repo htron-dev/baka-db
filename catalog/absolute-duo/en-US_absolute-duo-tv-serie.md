@@ -1,5 +1,7 @@
 # Absolute Duo
 
+![absolute-duo](https://cdn.myanimelist.net/images/anime/4/68839.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アブソリュート・デュオ

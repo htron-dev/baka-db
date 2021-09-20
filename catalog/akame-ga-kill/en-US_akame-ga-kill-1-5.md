@@ -1,5 +1,7 @@
 # Akame ga Kill! 1.5
 
+![akame-ga-kill-1-5](https://cdn.myanimelist.net/images/manga/1/207679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

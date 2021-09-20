@@ -1,5 +1,7 @@
 # Ao Neko ni Tsuite
 
+![ao-neko-ni-tsuite](https://cdn.myanimelist.net/images/manga/1/187073.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

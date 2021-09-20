@@ -1,5 +1,7 @@
 # A3! Autumn
 
+![a-3-autumn](https://cdn.myanimelist.net/images/manga/3/235796.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

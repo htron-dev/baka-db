@@ -1,5 +1,7 @@
 # Araiguma Rascal Specials
 
+![araiguma-rascal-specials](https://cdn.myanimelist.net/images/anime/5/64149.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 あらいぐまラスカル

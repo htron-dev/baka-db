@@ -1,5 +1,7 @@
 # Aa-chan wa Sobakasukko
 
+![aa-chan-wa-sobakasukko](https://cdn.myanimelist.net/images/manga/2/246612.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

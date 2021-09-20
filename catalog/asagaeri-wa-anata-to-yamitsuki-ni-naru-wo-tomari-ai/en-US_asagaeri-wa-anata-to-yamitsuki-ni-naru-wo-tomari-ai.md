@@ -1,5 +1,7 @@
 # Asagaeri wa Anata to: Yamitsuki ni Naru wo Tomari Ai
 
+![asagaeri-wa-anata-to-yamitsuki-ni-naru-wo-tomari-ai](https://cdn.myanimelist.net/images/manga/1/197945.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 朝帰りはあなたと～やみつきになるお泊まり愛～

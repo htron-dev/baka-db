@@ -1,5 +1,7 @@
 # Advent of Snow White of the Hell
 
+![advent-of-snow-white-of-the-hell](https://cdn.myanimelist.net/images/manga/2/21701.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 백설지옥강림

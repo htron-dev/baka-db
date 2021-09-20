@@ -1,5 +1,7 @@
 # Akuma de Shoujo
 
+![akuma-de-shoujo](https://cdn.myanimelist.net/images/manga/1/58245.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

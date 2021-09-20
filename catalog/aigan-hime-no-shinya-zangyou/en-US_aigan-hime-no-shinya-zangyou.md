@@ -1,5 +1,7 @@
 # Aigan-hime no Shinya Zangyou
 
+![aigan-hime-no-shinya-zangyou](https://cdn.myanimelist.net/images/manga/3/198082.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛玩姫の深夜残業

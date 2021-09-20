@@ -1,5 +1,7 @@
 # Aoi Sora ga Areba Sore De Ii
 
+![aoi-sora-ga-areba-sore-de-ii](https://cdn.myanimelist.net/images/manga/1/22572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

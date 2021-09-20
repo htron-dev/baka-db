@@ -1,5 +1,7 @@
 # Ayakashi Kaitou
 
+![ayakashi-kaitou](https://cdn.myanimelist.net/images/manga/3/44713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あやかし怪盗

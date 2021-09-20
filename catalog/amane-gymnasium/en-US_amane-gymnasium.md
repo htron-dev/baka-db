@@ -1,5 +1,7 @@
 # Amane†Gymnasium
 
+![amane-gymnasium](https://cdn.myanimelist.net/images/manga/3/195067.jpg)
+
 -   **type**: manga
 -   **original-name**: アマネ†ギムナジウム
 -   **start-date**: 2017-01-21

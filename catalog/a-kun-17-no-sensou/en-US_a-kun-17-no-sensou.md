@@ -1,5 +1,7 @@
 # A-kun (17) no Sensou
 
+![a-kun-17-no-sensou](https://cdn.myanimelist.net/images/manga/2/120765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: A 君(17)の戦争

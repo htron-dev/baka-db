@@ -1,5 +1,7 @@
 # Akuma to Love Song: Encore
 
+![akuma-to-love-song-encore](https://cdn.myanimelist.net/images/manga/1/245466.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪魔とラブソング アンコール
 -   **start-date**: 2021-04-20

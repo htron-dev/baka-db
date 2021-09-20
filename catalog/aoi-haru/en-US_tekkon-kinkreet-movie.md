@@ -1,5 +1,7 @@
 # Tekkon Kinkreet
 
+![tekkon-kinkreet](https://cdn.myanimelist.net/images/anime/12/8520.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄コン筋クリート

@@ -1,5 +1,7 @@
 # AI ga Tomaranai! 0→9
 
+![ai-ga-tomaranai-0-→-9](https://cdn.myanimelist.net/images/manga/1/134741.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: A・I が止まらない! 0→9（ゼロナイン）

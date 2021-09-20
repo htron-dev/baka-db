@@ -1,5 +1,7 @@
 # Ashita no Jirou
 
+![ashita-no-jirou](https://cdn.myanimelist.net/images/manga/3/209374.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

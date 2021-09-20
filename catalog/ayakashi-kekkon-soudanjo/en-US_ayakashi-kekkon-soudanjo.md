@@ -1,5 +1,7 @@
 # Ayakashi Kekkon Soudanjo
 
+![ayakashi-kekkon-soudanjo](https://cdn.myanimelist.net/images/manga/2/240289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

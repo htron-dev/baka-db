@@ -1,5 +1,7 @@
 # Zoku Attacker You! Kin Medal e no Michi
 
+![zoku-attacker-you-kin-medal-e-no-michi](https://cdn.myanimelist.net/images/anime/9/33485.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 続・アタッカー YOU 金メダルへの道

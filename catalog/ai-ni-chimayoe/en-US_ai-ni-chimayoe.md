@@ -1,5 +1,7 @@
 # Ai ni Chimayoe!
 
+![ai-ni-chimayoe](https://cdn.myanimelist.net/images/manga/3/192466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Ayako
 
+![ayako](https://cdn.myanimelist.net/images/manga/3/18048.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 妖子

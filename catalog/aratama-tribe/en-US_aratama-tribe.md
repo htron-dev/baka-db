@@ -1,5 +1,7 @@
 # Aratama Tribe
 
+![aratama-tribe](https://cdn.myanimelist.net/images/manga/5/24401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

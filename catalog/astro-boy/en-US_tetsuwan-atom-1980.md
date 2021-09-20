@@ -1,5 +1,7 @@
 # Tetsuwan Atom (1980)
 
+![tetsuwan-atom-1980](https://cdn.myanimelist.net/images/anime/3/57325.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 鉄腕アトム

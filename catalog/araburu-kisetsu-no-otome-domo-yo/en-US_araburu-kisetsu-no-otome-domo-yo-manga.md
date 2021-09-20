@@ -1,5 +1,7 @@
 # Araburu Kisetsu no Otome-domo yo.
 
+![araburu-kisetsu-no-otome-domo-yo](https://cdn.myanimelist.net/images/manga/3/193441.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 34

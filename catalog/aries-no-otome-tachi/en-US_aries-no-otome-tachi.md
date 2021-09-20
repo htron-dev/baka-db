@@ -1,5 +1,7 @@
 # Aries no Otome-tachi
 
+![aries-no-otome-tachi](https://cdn.myanimelist.net/images/manga/2/128529.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: アリエスの乙女たち

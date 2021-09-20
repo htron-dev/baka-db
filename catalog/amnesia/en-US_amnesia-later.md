@@ -1,5 +1,7 @@
 # Amnesia Later
 
+![amnesia-later](https://cdn.myanimelist.net/images/manga/3/95285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

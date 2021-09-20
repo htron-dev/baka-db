@@ -1,5 +1,7 @@
 # Tetsuwan Atom no Koutsuu Anzen
 
+![tetsuwan-atom-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1058/99377.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鉄腕アトムの交通安全

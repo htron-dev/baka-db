@@ -1,5 +1,7 @@
 # Kaitou Lupin Den: Aventurier
 
+![kaitou-lupin-den-aventurier](https://cdn.myanimelist.net/images/manga/1/98641.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

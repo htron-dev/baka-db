@@ -1,5 +1,7 @@
 # Amaama to Inazuma
 
+![amaama-to-inazuma](https://cdn.myanimelist.net/images/manga/3/188833.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 63

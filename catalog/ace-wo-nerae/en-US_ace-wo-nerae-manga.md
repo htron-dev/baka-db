@@ -1,5 +1,7 @@
 # Ace wo Nerae
 
+![ace-wo-nerae](https://cdn.myanimelist.net/images/manga/4/63599.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: エースをねらえ！

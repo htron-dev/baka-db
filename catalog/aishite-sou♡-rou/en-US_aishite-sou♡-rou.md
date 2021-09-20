@@ -1,5 +1,7 @@
 # Aishite Sou♡Rou
 
+![aishite-sou♡-rou](https://cdn.myanimelist.net/images/manga/1/131409.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛してソウ ♡ ロウ

@@ -1,5 +1,7 @@
 # Arete Hime
 
+![arete-hime](https://cdn.myanimelist.net/images/anime/10/4327.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アリーテ姫

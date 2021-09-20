@@ -1,5 +1,7 @@
 # Akita Kenritsu Iburi Gakkou Chuutou-bu
 
+![akita-kenritsu-iburi-gakkou-chuutou-bu](https://cdn.myanimelist.net/images/anime/5/84867.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 秋田県立いぶり学校中等部

@@ -1,5 +1,7 @@
 # Abashiri Ikka
 
+![abashiri-ikka](https://cdn.myanimelist.net/images/anime/1492/94195.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: あばしり一家

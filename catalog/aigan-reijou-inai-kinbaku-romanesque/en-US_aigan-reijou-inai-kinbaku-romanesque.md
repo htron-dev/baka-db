@@ -1,5 +1,7 @@
 # Aigan Reijou: Inai Kinbaku Romanesque
 
+![aigan-reijou-inai-kinbaku-romanesque](https://cdn.myanimelist.net/images/manga/1/197890.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

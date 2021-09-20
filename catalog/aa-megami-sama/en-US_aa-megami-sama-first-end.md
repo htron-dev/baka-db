@@ -1,5 +1,7 @@
 # Aa! Megami-sama!: First End
 
+![aa-megami-sama-first-end](https://cdn.myanimelist.net/images/manga/2/161788.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

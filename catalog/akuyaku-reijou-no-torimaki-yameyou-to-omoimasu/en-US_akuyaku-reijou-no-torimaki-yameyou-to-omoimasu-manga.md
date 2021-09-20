@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Torimaki Yameyou to Omoimasu
 
+![akuyaku-reijou-no-torimaki-yameyou-to-omoimasu](https://cdn.myanimelist.net/images/manga/2/224168.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢の取り巻きやめようと思います
 -   **start-date**: 2018-10-30

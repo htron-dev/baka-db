@@ -1,5 +1,7 @@
 # Ami! Nonstop
 
+![ami-nonstop](https://cdn.myanimelist.net/images/manga/2/5755.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 亜未！ノンストップ

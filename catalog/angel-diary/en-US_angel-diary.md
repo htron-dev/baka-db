@@ -1,5 +1,7 @@
 # Angel Diary
 
+![angel-diary](https://cdn.myanimelist.net/images/manga/3/11126.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **chapters**: 60

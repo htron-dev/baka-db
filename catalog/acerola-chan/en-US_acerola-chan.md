@@ -1,5 +1,7 @@
 # Acerola-chan
 
+![acerola-chan](https://cdn.myanimelist.net/images/anime/4/80597.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: セロラちゃん

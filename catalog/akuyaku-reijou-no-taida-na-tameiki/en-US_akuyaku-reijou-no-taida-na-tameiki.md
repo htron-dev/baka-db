@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Taida na Tameiki
 
+![akuyaku-reijou-no-taida-na-tameiki](https://cdn.myanimelist.net/images/manga/1/244005.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢の怠惰な溜め息
 -   **start-date**: 2020-03-06

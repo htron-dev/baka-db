@@ -1,5 +1,7 @@
 # Aoharu x Kikanjuu
 
+![aoharu-x-kikanjuu](https://cdn.myanimelist.net/images/anime/4/76271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 青春 × 機関銃

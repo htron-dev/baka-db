@@ -1,5 +1,7 @@
 # Aria the OVA: Arietta
 
+![aria-the-ova-arietta](https://cdn.myanimelist.net/images/anime/11/77622.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ARIA The OVA ~ARIETTA~ (アリア ジ オーブイエー ~アリエッタ~)

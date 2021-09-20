@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou: Prologue
 
+![arifureta-shokugyou-de-sekai-saikyou-prologue](https://cdn.myanimelist.net/images/anime/1285/111316.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ありふれた職業で世界最強 プロローグ

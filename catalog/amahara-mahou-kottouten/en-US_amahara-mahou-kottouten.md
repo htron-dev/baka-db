@@ -1,5 +1,7 @@
 # Amahara Mahou Kottouten
 
+![amahara-mahou-kottouten](https://cdn.myanimelist.net/images/manga/2/26995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

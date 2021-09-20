@@ -1,5 +1,7 @@
 # Anime Tengu no Kakuresato
 
+![anime-tengu-no-kakuresato](https://cdn.myanimelist.net/images/anime/6/84579.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アニメ 天狗のかくれ里

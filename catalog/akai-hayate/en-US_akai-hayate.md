@@ -1,5 +1,7 @@
 # Akai Hayate
 
+![akai-hayate](https://cdn.myanimelist.net/images/anime/1926/94933.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 紅いハヤテ

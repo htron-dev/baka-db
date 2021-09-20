@@ -1,5 +1,7 @@
 # Akai Koudan Zillion
 
+![akai-koudan-zillion](https://cdn.myanimelist.net/images/anime/8/41797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: 赤い光弾ジリオン

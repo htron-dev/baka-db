@@ -1,5 +1,7 @@
 # Afro-Ken
 
+![afro-ken](https://cdn.myanimelist.net/images/anime/12/63903.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アフロ犬

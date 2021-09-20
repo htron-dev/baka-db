@@ -1,5 +1,7 @@
 # Aka Tougarashi Monogatari
 
+![aka-tougarashi-monogatari](https://cdn.myanimelist.net/images/manga/2/31655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤とうがらし物語

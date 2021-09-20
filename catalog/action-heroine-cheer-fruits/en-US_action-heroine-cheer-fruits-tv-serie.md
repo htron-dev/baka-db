@@ -1,5 +1,7 @@
 # Action Heroine Cheer Fruits
 
+![action-heroine-cheer-fruits](https://cdn.myanimelist.net/images/anime/12/86741.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アクションヒロイン チアフルーツ

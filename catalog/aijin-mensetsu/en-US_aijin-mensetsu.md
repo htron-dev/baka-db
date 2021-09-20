@@ -1,5 +1,7 @@
 # Aijin Mensetsu
 
+![aijin-mensetsu](https://cdn.myanimelist.net/images/manga/1/145431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

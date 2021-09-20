@@ -1,5 +1,7 @@
 # Tokyo Juliet
 
+![tokyo-juliet](https://cdn.myanimelist.net/images/manga/3/7262.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 74

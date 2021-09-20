@@ -1,5 +1,7 @@
 # Bonnou Puzzle
 
+![bonnou-puzzle](https://cdn.myanimelist.net/images/manga/3/146967.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 煩悩パズル

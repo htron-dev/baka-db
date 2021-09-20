@@ -1,5 +1,7 @@
 # Amagi Yuiko no Tsuno to Ai
 
+![amagi-yuiko-no-tsuno-to-ai](https://cdn.myanimelist.net/images/manga/3/198583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

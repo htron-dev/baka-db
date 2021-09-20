@@ -1,5 +1,7 @@
 # Appuppu
 
+![appuppu](https://cdn.myanimelist.net/images/manga/2/131407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あっぷっぷっ

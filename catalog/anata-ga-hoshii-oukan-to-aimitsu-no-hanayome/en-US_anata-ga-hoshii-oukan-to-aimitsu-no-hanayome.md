@@ -1,5 +1,7 @@
 # Anata ga Hoshii: Oukan to Aimitsu no Hanayome
 
+![anata-ga-hoshii-oukan-to-aimitsu-no-hanayome](https://cdn.myanimelist.net/images/manga/1/192747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

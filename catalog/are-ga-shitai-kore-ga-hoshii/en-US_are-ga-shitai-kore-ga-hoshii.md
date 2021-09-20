@@ -1,5 +1,7 @@
 # Are ga Shitai, Kore ga Hoshii.
 
+![are-ga-shitai-kore-ga-hoshii](https://cdn.myanimelist.net/images/manga/1/236322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

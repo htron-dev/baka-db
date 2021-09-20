@@ -1,5 +1,7 @@
 # Ano ne,
 
+![ano-ne](https://cdn.myanimelist.net/images/manga/3/170599.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

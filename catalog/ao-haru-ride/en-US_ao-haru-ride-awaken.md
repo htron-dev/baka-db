@@ -1,5 +1,7 @@
 # Ao Haru Ride: Awaken
 
+![ao-haru-ride-awaken](https://cdn.myanimelist.net/images/manga/1/166889.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: アオハライド awaken

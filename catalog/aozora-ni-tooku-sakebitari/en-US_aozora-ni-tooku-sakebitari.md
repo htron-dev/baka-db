@@ -1,5 +1,7 @@
 # Aozora ni Tooku Sakebitari
 
+![aozora-ni-tooku-sakebitari](https://cdn.myanimelist.net/images/manga/1/160513.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 青空にとおく酒浸り

@@ -1,5 +1,7 @@
 # Aho Girl
 
+![aho-girl](https://cdn.myanimelist.net/images/manga/3/184551.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 155

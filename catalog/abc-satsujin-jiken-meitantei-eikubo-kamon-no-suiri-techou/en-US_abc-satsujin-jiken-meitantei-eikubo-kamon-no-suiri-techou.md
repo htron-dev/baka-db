@@ -1,5 +1,7 @@
 # ABC Satsujin Jiken: Meitantei Eikubo Kamon no Suiri Techou
 
+![abc-satsujin-jiken-meitantei-eikubo-kamon-no-suiri-techou](https://cdn.myanimelist.net/images/manga/3/168715.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

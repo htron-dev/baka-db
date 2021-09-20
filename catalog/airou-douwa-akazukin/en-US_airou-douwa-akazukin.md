@@ -1,5 +1,7 @@
 # Airou Douwa Akazukin!
 
+![airou-douwa-akazukin](https://cdn.myanimelist.net/images/manga/3/203348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

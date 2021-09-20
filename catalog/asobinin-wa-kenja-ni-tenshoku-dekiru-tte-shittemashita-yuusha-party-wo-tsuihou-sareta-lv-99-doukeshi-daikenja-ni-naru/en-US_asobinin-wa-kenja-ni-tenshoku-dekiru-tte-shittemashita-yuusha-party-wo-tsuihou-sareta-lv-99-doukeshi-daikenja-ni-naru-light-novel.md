@@ -1,5 +1,7 @@
 # Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou sareta Lv99 Doukeshi, "Daikenja" ni Naru
 
+![asobinin-wa-kenja-ni-tenshoku-dekiru-tte-shittemashita-yuusha-party-wo-tsuihou-sareta-lv-99-doukeshi-daikenja-ni-naru](https://cdn.myanimelist.net/images/manga/1/227535.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 遊び人は賢者に転職できるって知ってました？～勇者パーティを追放された Lv99 道化師、【大賢者】になる～
 -   **start-date**: 2018-12-21

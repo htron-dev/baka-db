@@ -1,5 +1,7 @@
 # Araburu Kisetsu no Otome-domo yo.
 
+![araburu-kisetsu-no-otome-domo-yo](https://cdn.myanimelist.net/images/anime/1622/111483.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 荒ぶる季節の乙女どもよ。

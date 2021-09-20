@@ -1,5 +1,7 @@
 # A Ben Mao
 
+![a-ben-mao](https://cdn.myanimelist.net/images/anime/1013/115340.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 阿笨猫

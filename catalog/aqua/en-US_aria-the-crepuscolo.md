@@ -1,5 +1,7 @@
 # Aria the Crepuscolo
 
+![aria-the-crepuscolo](https://cdn.myanimelist.net/images/anime/1934/111002.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ARIA The CREPUSCOLO

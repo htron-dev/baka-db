@@ -1,5 +1,7 @@
 # Ashita e Free Kick
 
+![ashita-e-free-kick](https://cdn.myanimelist.net/images/anime/10/69971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: あしたへフリーキック

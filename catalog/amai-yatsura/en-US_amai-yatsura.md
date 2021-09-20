@@ -1,5 +1,7 @@
 # Amai Yatsura
 
+![amai-yatsura](https://cdn.myanimelist.net/images/manga/3/86109.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 甘いやつら

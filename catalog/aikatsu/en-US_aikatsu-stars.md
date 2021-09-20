@@ -1,5 +1,7 @@
 # Aikatsu Stars!
 
+![aikatsu-stars](https://cdn.myanimelist.net/images/anime/12/78658.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: アイカツスターズ！

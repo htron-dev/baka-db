@@ -1,5 +1,7 @@
 # A-un
 
+![a-un](https://cdn.myanimelist.net/images/manga/3/149249.jpg)
+
 -   **type**: manga
 -   **original-name**: 阿・吽
 -   **start-date**: 2014-05-27

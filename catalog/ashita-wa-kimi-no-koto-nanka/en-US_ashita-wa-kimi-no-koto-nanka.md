@@ -1,5 +1,7 @@
 # Ashita wa Kimi no Koto nanka.
 
+![ashita-wa-kimi-no-koto-nanka](https://cdn.myanimelist.net/images/manga/3/237048.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

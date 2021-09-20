@@ -1,5 +1,7 @@
 # Anata no Juni Oshiete Kudasai!
 
+![anata-no-juni-oshiete-kudasai](https://cdn.myanimelist.net/images/manga/3/210951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

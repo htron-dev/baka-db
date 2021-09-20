@@ -1,5 +1,7 @@
 # Aokushimitama Blue Seed
 
+![aokushimitama-blue-seed](https://cdn.myanimelist.net/images/manga/2/66137.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

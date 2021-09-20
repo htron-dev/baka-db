@@ -1,5 +1,7 @@
 # Aka x Rina Enikki
 
+![aka-x-rina-enikki](https://cdn.myanimelist.net/images/manga/2/208088.jpg)
+
 -   **type**: manga
 -   **original-name**: あか × リナ絵日記
 -   **start-date**: 2018-02-14

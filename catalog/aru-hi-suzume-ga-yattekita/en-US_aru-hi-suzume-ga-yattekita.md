@@ -1,5 +1,7 @@
 # Aru Hi, Suzume ga Yattekita.
 
+![aru-hi-suzume-ga-yattekita](https://cdn.myanimelist.net/images/manga/1/236587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 30

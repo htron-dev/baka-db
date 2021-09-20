@@ -1,5 +1,7 @@
 # Ankoku Shinwa
 
+![ankoku-shinwa](https://cdn.myanimelist.net/images/anime/2/57439.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 暗黒神話

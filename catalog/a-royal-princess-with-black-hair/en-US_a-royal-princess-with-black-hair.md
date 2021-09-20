@@ -1,5 +1,7 @@
 # A Royal Princess with Black Hair
 
+![a-royal-princess-with-black-hair](https://cdn.myanimelist.net/images/manga/1/245710.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 검은머리 황녀님
 -   **start-date**: 2019-11-15

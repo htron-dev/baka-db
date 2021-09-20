@@ -1,5 +1,7 @@
 # Akita Kenritsu Iburi Gakkou Chuutou-bu: Web-ban Omake
 
+![akita-kenritsu-iburi-gakkou-chuutou-bu-web-ban-omake](https://cdn.myanimelist.net/images/anime/13/84868.jpg)
+
 -   **type**: ona
 -   **episodes**: 27
 -   **original-name**: 秋田県立いぶり学校中等部 WEB 版おまけ

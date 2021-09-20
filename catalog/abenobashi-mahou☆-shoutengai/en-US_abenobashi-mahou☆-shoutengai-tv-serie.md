@@ -1,5 +1,7 @@
 # Abenobashi Mahou☆Shoutengai
 
+![abenobashi-mahou☆-shoutengai](https://cdn.myanimelist.net/images/anime/1350/113655.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アベノ橋魔法 ☆ 商店街

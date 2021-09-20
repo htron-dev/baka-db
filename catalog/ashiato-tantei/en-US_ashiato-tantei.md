@@ -1,5 +1,7 @@
 # Ashiato Tantei
 
+![ashiato-tantei](https://cdn.myanimelist.net/images/manga/2/192066.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

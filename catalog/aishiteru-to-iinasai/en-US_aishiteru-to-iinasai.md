@@ -1,5 +1,7 @@
 # Aishiteru to Iinasai
 
+![aishiteru-to-iinasai](https://cdn.myanimelist.net/images/manga/2/237566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

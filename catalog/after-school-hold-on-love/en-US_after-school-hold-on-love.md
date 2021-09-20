@@ -1,5 +1,7 @@
 # After School [Hold on Love]
 
+![after-school-hold-on-love](https://cdn.myanimelist.net/images/manga/1/2541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

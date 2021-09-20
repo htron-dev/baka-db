@@ -1,5 +1,7 @@
 # Aijin to Touhikou
 
+![aijin-to-touhikou](https://cdn.myanimelist.net/images/manga/1/229484.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛人と逃避行

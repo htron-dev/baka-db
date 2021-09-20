@@ -1,5 +1,7 @@
 # Asaoka Koukou Yakyuubu Nisshi: Over Fence
 
+![asaoka-koukou-yakyuubu-nisshi-over-fence](https://cdn.myanimelist.net/images/manga/2/40960.jpg)
+
 -   **type**: manga
 -   **original-name**: ―浅丘高校野球部日誌― オーバーフェンス
 -   **start-date**: 2011-04-20

@@ -1,5 +1,7 @@
 # Aoi Sora no Neosphere
 
+![aoi-sora-no-neosphere](https://cdn.myanimelist.net/images/manga/1/112519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

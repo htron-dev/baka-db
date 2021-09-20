@@ -1,5 +1,7 @@
 # Anne the Lover
 
+![anne-the-lover](https://cdn.myanimelist.net/images/manga/2/6130.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 앤 THE LOVER

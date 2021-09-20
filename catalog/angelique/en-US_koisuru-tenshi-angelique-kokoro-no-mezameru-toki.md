@@ -1,5 +1,7 @@
 # Koisuru Tenshi Angelique: Kokoro no Mezameru Toki
 
+![koisuru-tenshi-angelique-kokoro-no-mezameru-toki](https://cdn.myanimelist.net/images/anime/10/76293.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 恋する天使アンジェリーク　～心のめざめる時～

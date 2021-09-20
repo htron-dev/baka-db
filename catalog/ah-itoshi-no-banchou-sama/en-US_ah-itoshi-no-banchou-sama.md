@@ -1,5 +1,7 @@
 # Ah! Itoshi no Banchou-sama
 
+![ah-itoshi-no-banchou-sama](https://cdn.myanimelist.net/images/manga/2/185976.jpg)
+
 -   **type**: manga
 -   **original-name**: あぁ愛しの番長さま
 -   **start-date**: 2005-10-08

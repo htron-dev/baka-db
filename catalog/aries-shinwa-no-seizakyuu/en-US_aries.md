@@ -1,5 +1,7 @@
 # Aries
 
+![aries](https://cdn.myanimelist.net/images/manga/4/59267.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 136

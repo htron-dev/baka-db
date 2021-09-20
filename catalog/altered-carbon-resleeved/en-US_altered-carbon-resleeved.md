@@ -1,5 +1,7 @@
 # Altered Carbon: Resleeved
 
+![altered-carbon-resleeved](https://cdn.myanimelist.net/images/anime/1879/106531.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: オルタード・カーボン: リスリーブド

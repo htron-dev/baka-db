@@ -1,5 +1,7 @@
 # Aku no Higan
 
+![aku-no-higan](https://cdn.myanimelist.net/images/manga/1/161466.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

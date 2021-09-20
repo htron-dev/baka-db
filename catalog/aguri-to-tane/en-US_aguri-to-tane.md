@@ -1,5 +1,7 @@
 # Aguri to Tane
 
+![aguri-to-tane](https://cdn.myanimelist.net/images/manga/1/237090.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

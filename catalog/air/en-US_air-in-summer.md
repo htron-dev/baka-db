@@ -1,5 +1,7 @@
 # Air in Summer
 
+![air-in-summer](https://cdn.myanimelist.net/images/anime/2/82726.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: AIR イン サマー

@@ -1,5 +1,7 @@
 # Anta Nanka Iranai
 
+![anta-nanka-iranai](https://cdn.myanimelist.net/images/manga/2/2089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

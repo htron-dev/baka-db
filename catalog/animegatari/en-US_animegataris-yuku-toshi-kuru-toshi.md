@@ -1,5 +1,7 @@
 # Animegataris: Yuku Toshi, Kuru Toshi
 
+![animegataris-yuku-toshi-kuru-toshi](https://cdn.myanimelist.net/images/anime/1098/99544.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アニメガタリズ: ユクトシ、クルトシ
