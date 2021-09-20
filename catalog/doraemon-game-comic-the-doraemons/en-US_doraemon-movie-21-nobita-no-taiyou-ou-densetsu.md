@@ -13,7 +13,6 @@
 -   comedy
 -   fantasy
 -   historical
-
 -   shounen
 
 ## Sinopse

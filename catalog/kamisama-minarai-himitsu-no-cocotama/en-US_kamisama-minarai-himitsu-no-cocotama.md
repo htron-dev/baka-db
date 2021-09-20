@@ -12,7 +12,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 -   slice-of-life
 

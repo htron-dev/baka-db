@@ -13,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   slice-of-life
 
 ## Sinopse

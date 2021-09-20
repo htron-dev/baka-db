@@ -30,4 +30,4 @@ This, the 1982–83 Cobra TV anime, adapts the Cobra manga from the beginning, c
 -   [Official Site](http://www.tms-e.com/search/index.php?pdt_no=25)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1091)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=612)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Cobra_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Cobra_%28manga%29)

@@ -22,4 +22,4 @@ A surrealist comedy about a local neighborhood. The 4-koma it's based on is know
 -   [Official Site](http://www.elecking-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9463)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8753)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%B3%E3%82%B0_(%E6%BC%AB%E7%94%BB)#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%B3%E3%82%B0_%28%E6%BC%AB%E7%94%BB%29#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)

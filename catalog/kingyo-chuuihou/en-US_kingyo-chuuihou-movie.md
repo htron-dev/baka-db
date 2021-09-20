@@ -10,7 +10,6 @@
 
 -   action
 -   comedy
-
 -   shoujo
 
 ## Sinopse

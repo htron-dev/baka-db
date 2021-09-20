@@ -9,7 +9,6 @@
 -   action
 -   cars
 -   comedy
-
 -   sports
 
 ## Authors

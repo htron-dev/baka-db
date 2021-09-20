@@ -28,9 +28,4 @@ Realizing the situation he's in, Sanpei somehow manages to convince the Kappa el
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/23256/Kappa_no_Sanpei)
-    t his parents whereabouts, tackle angry Tanuki's, and lastly, win back his bellybutton!
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/22790/Kappa_no_Sanpei)

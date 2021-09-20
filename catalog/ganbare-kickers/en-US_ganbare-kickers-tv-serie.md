@@ -13,7 +13,6 @@
 
 -   comedy
 -   sports
-
 -   drama
 
 ## Sinopse

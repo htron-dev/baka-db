@@ -9,7 +9,6 @@
 ## Tags
 
 -   drama
-
 -   romance
 
 ## Sinopse

@@ -23,4 +23,4 @@ The third Eagle Talon movie.
 -   [Official Site](http://鷹の爪.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6958)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11034)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Eagle_Talon_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29)

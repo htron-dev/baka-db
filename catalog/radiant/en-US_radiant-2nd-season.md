@@ -26,4 +26,4 @@ Second season of Radiant.
 -   [Official Site](http://www.nhk.or.jp/anime/radiant/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14701)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21877)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Radiant_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Radiant_%28TV_series%29)

@@ -32,4 +32,4 @@ Jumping from city to city, Great Pretender follows the endeavors of Makoto along
 -   [Official Site](http://www.greatpretender.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14990)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22317)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Great_Pretender_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Great_Pretender_%28TV_series%29)

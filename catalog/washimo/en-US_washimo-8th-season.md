@@ -12,7 +12,6 @@
 -   sci-fi
 -   slice-of-life
 -   comedy
-
 -   school
 
 ## Sinopse

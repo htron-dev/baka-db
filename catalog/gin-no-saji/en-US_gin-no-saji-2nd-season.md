@@ -28,4 +28,4 @@ As the new semester begins at Ooezo Agricultural High School, Hachiken is now us
 -   [Official Site](http://www.ginsaji-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9968)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15751)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Silver_Spoon_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Silver_Spoon_%28manga%29)

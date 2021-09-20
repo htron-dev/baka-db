@@ -9,7 +9,6 @@
 ## Tags
 
 -   cars
-
 -   fantasy
 
 ## Sinopse

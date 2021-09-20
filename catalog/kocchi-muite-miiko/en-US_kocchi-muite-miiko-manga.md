@@ -6,7 +6,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Authors

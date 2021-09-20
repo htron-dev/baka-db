@@ -22,4 +22,4 @@ Eagle Talon is a secret society based in Kojimachi, Tokyo. With plans for world 
 
 -   [My Anime list](https://myanimelist.net/anime/32892/Himitsukessha_Taka_no_Tsume_GT)
 -   [Official Site](http://xn--u9j429qiq1a.jp/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Eagle_Talon_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29)

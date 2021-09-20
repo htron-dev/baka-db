@@ -24,4 +24,4 @@ Second Overlord recap film.
 -   [My Anime list](https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu)
 -   [Official Site](http://overlord-anime.com/_season1/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12439)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E5%B0%8F%E8%AA%AC)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_%28%E5%B0%8F%E8%AA%AC%29)

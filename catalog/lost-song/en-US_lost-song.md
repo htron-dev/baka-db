@@ -30,4 +30,4 @@ Finis finds herself falling in love with Henry and, knowing that the greedy and 
 -   [Official Site](http://lost-song.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12523)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19988)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Lost_Song_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Lost_Song_%28anime%29)

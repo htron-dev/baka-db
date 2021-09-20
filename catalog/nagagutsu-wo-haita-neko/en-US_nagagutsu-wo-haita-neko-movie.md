@@ -10,7 +10,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse
@@ -27,4 +26,4 @@ When Pero learns that Princess Rose is seeking a husband, he becomes determined 
 -   [Official Site](http://www.toei-anim.co.jp/lineup/movie/movie_nagagutsu/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2210)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3799)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Puss_in_Boots_(1969_film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Puss_in_Boots_%281969_film%29)

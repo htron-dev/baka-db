@@ -26,4 +26,4 @@ According to Kadokawa, an OVA of R-15 will be bundled with the tenth volume of t
 -   [My Anime list](https://myanimelist.net/anime/10933/R-15__R15_Shounen_Hyouryuuki)
 -   [Official Site](http://www.kadokawa.co.jp/shop/sp/shop_sp_177.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8515)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/R-15_(小説)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/R-15_%28小説%29)

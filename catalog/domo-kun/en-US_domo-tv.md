@@ -18,4 +18,4 @@ A co-production between Nickelodeon and NHK featuring the stop-motion character 
 
 -   [My Anime list](https://myanimelist.net/anime/8815/Domo_TV)
 -   [Official Site](http://www.domomode.com/)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Domo-kun_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Domo-kun_%28TV_series%29)

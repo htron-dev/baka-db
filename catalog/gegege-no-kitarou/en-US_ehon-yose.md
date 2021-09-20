@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: えほん寄席
-
 -   **rating**: PG - Children
 
 ## Tags

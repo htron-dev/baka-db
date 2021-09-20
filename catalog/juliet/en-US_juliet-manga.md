@@ -15,8 +15,6 @@
 
 -   U-jin (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/20910/Juliet)

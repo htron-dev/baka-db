@@ -10,7 +10,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   mecha
 -   sci-fi
 

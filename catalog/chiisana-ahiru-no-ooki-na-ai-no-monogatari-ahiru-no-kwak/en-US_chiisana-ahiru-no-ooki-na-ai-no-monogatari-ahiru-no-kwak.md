@@ -13,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

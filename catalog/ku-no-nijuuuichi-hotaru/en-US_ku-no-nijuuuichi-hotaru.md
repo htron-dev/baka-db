@@ -17,8 +17,6 @@
 -   Kobayashi
 -   Takumi (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21830/Ku_no_Nijuuuichi_Hotaru)

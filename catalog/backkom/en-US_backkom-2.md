@@ -18,4 +18,4 @@ The continuation of the previous season with more of a focus on the female pengu
 
 -   [My Anime list](https://myanimelist.net/anime/25965/Backkom_2)
 -   [Official Site](http://brbplay.com/en/shows/bernard)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bernard_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bernard_%28TV_series%29)

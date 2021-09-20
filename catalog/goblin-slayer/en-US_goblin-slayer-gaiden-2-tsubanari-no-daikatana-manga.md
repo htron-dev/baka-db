@@ -24,11 +24,4 @@ Tells the story of Sword Maiden from years ago, when she was an adventurer herse
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/118649/Goblin_Slayer_Gaiden_2__Tsubanari_no_Daikatana)
-    rty of adventurers, six men and women who would one day be called heroes...With this volume, the ashen tale of the legends of Goblin Slayer's world begins!
-
-(Source: Yen Press)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/123970/Goblin_Slayer_Gaiden_2__Tsubanari_no_Daikatana)

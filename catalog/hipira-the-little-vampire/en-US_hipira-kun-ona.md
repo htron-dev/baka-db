@@ -10,7 +10,6 @@
 
 -   comedy
 -   fantasy
-
 -   supernatural
 -   vampire
 

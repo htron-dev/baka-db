@@ -32,4 +32,4 @@ However, having access to the deepest corners of a person's mind comes with a tr
 -   [Official Site](http://www.madhouse.co.jp/works/2007-2006/works_movie_paprika.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4191)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6142)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Paprika_(2006_film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Paprika_%282006_film%29)

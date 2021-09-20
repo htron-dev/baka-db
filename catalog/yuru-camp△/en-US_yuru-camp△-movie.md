@@ -10,8 +10,6 @@
 -   comedy
 -   slice-of-life
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/38475/Yuru_Camp△_Movie)

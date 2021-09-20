@@ -28,4 +28,4 @@ The story of the film is set after the conflict instigated by Toyotomi Hideyoshi
 -   [Official Site](http://www.sengokubasara.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8203)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12387)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29)

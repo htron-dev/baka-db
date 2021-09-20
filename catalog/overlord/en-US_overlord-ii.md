@@ -32,4 +32,4 @@ Overlord II picks up immediately after its prequel, continuing the story of Ainz
 -   [Official Site](http://overlord-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12952)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20397)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Overlord_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Overlord_%28novel_series%29)

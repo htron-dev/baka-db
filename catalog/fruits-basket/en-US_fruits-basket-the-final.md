@@ -32,4 +32,4 @@ Tooru Honda, who has grown attached to the Soumas, is determined to break the ch
 -   [Official Site](https://fruba.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15738)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23980)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Fruits_Basket#Second_series_(2019)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Fruits_Basket#Second_series_%282019%29)

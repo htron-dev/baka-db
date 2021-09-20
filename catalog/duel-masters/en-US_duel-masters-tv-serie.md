@@ -13,7 +13,6 @@
 -   action
 -   game
 -   comedy
-
 -   fantasy
 
 ## Sinopse

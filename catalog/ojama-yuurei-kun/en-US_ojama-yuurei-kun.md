@@ -11,7 +11,6 @@
 
 -   comedy
 -   ecchi
-
 -   gender-bender
 
 ## Authors

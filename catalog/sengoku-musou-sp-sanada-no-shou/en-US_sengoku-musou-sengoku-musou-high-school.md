@@ -21,4 +21,4 @@ Unaired Sengoku Musou High School segments bundled with the third through sixth 
 
 -   [My Anime list](https://myanimelist.net/anime/30390/Sengoku_Musou__Sengoku_Musou_High_School)
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/sengokumusou/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Samurai_Warriors_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Samurai_Warriors_%28anime%29)

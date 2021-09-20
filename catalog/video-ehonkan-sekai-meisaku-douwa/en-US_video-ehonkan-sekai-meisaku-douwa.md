@@ -13,7 +13,6 @@
 -   comedy
 -   fantasy
 -   historical
-
 -   magic
 -   sci-fi
 -   space

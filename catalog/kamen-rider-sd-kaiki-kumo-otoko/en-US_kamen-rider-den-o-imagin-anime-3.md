@@ -11,7 +11,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   super-power
 
 ## Sinopse

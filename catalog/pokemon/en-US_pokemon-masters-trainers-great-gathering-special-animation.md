@@ -10,7 +10,6 @@
 
 -   action
 -   game
-
 -   fantasy
 
 ## Sinopse

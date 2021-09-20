@@ -10,7 +10,6 @@
 
 -   adventure
 -   fantasy
-
 -   shounen
 
 ## Sinopse

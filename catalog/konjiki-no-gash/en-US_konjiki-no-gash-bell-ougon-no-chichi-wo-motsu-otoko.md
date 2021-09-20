@@ -12,7 +12,6 @@
 -   adventure
 -   comedy
 -   ecchi
-
 -   magic
 -   romance
 -   super-power

@@ -30,4 +30,4 @@ Meanwhile, Lieutenant Youji Itami and his merry band of female admirers struggle
 -   [Official Site](http://www.gate-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11602)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17831)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Gate_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Gate_%28novel_series%29)

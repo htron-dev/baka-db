@@ -23,4 +23,4 @@ These episodes focus on ecchi and comedy and don't have anything to do with the 
 -   [Official Site](http://freezing.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7900)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11823)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Freezing_(manhwa)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Freezing_%28manhwa%29)

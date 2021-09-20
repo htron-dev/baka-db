@@ -9,7 +9,6 @@
 ## Tags
 
 -   historical
-
 -   sci-fi
 
 ## Sinopse

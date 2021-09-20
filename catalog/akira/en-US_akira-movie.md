@@ -31,4 +31,4 @@ During one of these battles, Shoutarou's best friend Tetsuo Shima is caught up i
 -   [Official Site](http://www.bandaivisual.co.jp/akira/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=28)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=375)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Akira_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Akira_%28film%29)

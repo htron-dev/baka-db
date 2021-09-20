@@ -28,4 +28,4 @@ On a hot day of summer vacation, Charlotte's plan to spend time alone with Ichik
 -   [My Anime list](https://myanimelist.net/anime/10794/IS__Infinite_Stratos_Encore_-_Koi_ni_Kogareru_Rokujuusou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8586)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13298)
--   [Wikipedia](<http://en.wikipedia.org/wiki/IS_(Infinite_Stratos)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/IS_%28Infinite_Stratos%29)

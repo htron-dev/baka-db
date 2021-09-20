@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 快乐椭魔塔之小镇乐翻天
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -11,7 +11,6 @@
 
 -   adventure
 -   comedy
-
 -   school
 -   sci-fi
 

@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: カプセル侍
-
 -   **rating**: G - All Ages
 
 ## Tags

@@ -9,7 +9,6 @@
 ## Tags
 
 -   adventure
-
 -   space
 
 ## Sinopse

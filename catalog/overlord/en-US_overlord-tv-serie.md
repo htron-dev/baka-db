@@ -32,4 +32,4 @@ Confronted with this abnormal situation, Momonga commands his loyal servants to 
 -   [Official Site](http://overlord-anime.com/_season1/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10816)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16729)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Overlord_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Overlord_%28novel_series%29)

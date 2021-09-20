@@ -16,8 +16,6 @@
 -   Nagano
 -   Akane (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22343/Petit_Link)

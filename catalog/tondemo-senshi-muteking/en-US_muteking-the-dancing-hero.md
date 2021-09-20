@@ -8,7 +8,6 @@
 
 -   action
 -   comedy
-
 -   magic
 -   mecha
 -   sci-fi

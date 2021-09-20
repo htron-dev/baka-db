@@ -29,4 +29,4 @@ Digging deeper into the investigation, Zen begins to uncover a concealed plot be
 -   [Official Site](https://babylon-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13948)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20775)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Babylon_(novel_series)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Babylon_%28novel_series%29#Anime)

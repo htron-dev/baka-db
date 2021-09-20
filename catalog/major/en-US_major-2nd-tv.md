@@ -32,4 +32,4 @@ Unlike Daigo, though, Hikaru immediately picks up the game demonstrating excelle
 -   [Official Site](http://www.shopro.co.jp/tv/major2nd/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13518)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20204)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Major_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Major_%28manga%29#Anime)

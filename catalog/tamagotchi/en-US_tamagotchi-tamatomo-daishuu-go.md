@@ -23,4 +23,4 @@ New Tamagotchi! anime series.
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/tamagotchi/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11145)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16861)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Tamagotchi!_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Tamagotchi!_%28anime%29)

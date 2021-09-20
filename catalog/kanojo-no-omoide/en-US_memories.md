@@ -34,4 +34,4 @@ In a fortress city filled to the brim with cannons, a young boy wishes to surpas
 -   [Official Site](http://www.studio4c.co.jp/works/pages/01.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=262)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=424)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Memories_(1995_film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Memories_%281995_film%29)

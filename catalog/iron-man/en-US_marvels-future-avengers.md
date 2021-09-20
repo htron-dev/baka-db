@@ -7,7 +7,6 @@
 ## Tags
 
 -   action
-
 -   super-power
 
 ## Authors

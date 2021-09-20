@@ -22,4 +22,4 @@ Second part of the Nine TV movies.
 -   [My Anime list](https://myanimelist.net/anime/9243/Nine_2__Koibito_Sengen)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3148)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8961)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Nine_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Nine_%28manga%29)

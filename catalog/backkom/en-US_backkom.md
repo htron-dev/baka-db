@@ -26,4 +26,4 @@ He usually gets knocked unconscious or severely injured at the end of an episode
 
 -   [My Anime list](https://myanimelist.net/anime/12145/Backkom)
 -   [Official Site](http://www.bernardbear.com/)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bernard_(TV_shorts)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bernard_%28TV_shorts%29)

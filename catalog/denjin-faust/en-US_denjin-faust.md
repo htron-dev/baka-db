@@ -9,7 +9,6 @@
 
 -   action
 -   comedy
-
 -   sci-fi
 
 ## Authors

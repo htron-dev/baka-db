@@ -29,4 +29,4 @@ The 24th of December, 2016, will see the birth of idols like no other; on that d
 -   [Official Site](https://227anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13299)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22353)
--   [Wikipedia](<https://en.wikipedia.org/wiki/22/7_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/22/7_%28TV_series%29)

@@ -30,4 +30,4 @@ Thoroughly exhausted from her first day, Yuzu arrives home and discovers a shock
 -   [Official Site](http://citrus-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12545)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19398)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Citrus_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Citrus_%28manga%29)

@@ -11,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   magic
 -   shoujo
 

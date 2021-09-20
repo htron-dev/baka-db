@@ -27,4 +27,4 @@ Karin, a DNA operator from the future, is on a mission to change the course of H
 -   [Official Site](http://www.madhouse.co.jp/works/1994-1993/works_tv_dna.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=81)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=818)
--   [Wikipedia](<http://en.wikipedia.org/wiki/DNA2_(Squared)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/DNA2_%28Squared%29)

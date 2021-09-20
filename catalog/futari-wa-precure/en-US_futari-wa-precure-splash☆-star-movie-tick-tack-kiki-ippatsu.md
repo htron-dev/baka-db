@@ -10,7 +10,6 @@
 
 -   magic
 -   fantasy
-
 -   shoujo
 
 ## Sinopse

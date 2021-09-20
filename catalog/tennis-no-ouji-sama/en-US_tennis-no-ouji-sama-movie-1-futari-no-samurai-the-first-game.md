@@ -30,4 +30,4 @@ Relying only on themselves, the team must put their skills and intellect togethe
 -   [Official Site](https://www.production-ig.co.jp/works/tenipuri-the-first-game/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2380)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4433)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/テニスの王子様_(アニメ)#.E3.83.86.E3.83.8B.E3.82.B9.E3.81.AE.E7.8E.8B.E5.AD.90.E6.A7.98_-.E4.BA.8C.E4.BA.BA.E3.81.AE.E3.82.B5.E3.83.A0.E3.83.A9.E3.82.A4The_First_Game->)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/テニスの王子様_%28アニメ%29#.E3.83.86.E3.83.8B.E3.82.B9.E3.81.AE.E7.8E.8B.E5.AD.90.E6.A7.98_-.E4.BA.8C.E4.BA.BA.E3.81.AE.E3.82.B5.E3.83.A0.E3.83.A9.E3.82.A4The_First_Game-)

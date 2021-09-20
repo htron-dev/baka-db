@@ -25,4 +25,4 @@ Goro briefly returns to Japan after a triumphant campaign in the US. He is headi
 -   [Official Site](http://www.major-movie.jp/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5839)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9077)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Major_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Major_%28manga%29)

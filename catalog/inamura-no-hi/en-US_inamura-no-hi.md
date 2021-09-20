@@ -8,7 +8,6 @@
 ## Tags
 
 -   historical
-
 -   drama
 
 ## Sinopse

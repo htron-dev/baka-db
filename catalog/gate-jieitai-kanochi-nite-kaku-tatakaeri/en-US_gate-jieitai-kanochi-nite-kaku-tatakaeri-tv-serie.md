@@ -30,4 +30,4 @@ Three months after the attack, Youji has been tasked with leading a special reco
 -   [Official Site](http://www.gate-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10982)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16679)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Gate_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Gate_%28novel_series%29)

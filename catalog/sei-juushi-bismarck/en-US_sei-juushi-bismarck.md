@@ -32,4 +32,4 @@ Knowing that an advanced team of specialists were required to operate the Bismar
 -   [My Anime list](https://myanimelist.net/anime/2361/Sei_Juushi_Bismarck)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=162)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2401)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bismark_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bismark_%28anime%29)

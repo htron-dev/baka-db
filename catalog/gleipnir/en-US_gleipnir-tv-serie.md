@@ -33,4 +33,4 @@ As it turns out, Claire has a secret of her own: she has been searching for her 
 -   [Official Site](http://gleipnir-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14721)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21888)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Gleipnir_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Gleipnir_%28manga%29#Anime)

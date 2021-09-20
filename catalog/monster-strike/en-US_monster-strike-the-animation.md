@@ -26,4 +26,4 @@ The Angelic Guard, who call the heavens their home, have been tasked with collec
 -   [Official Site](http://anime.monster-strike.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14183)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22264)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monster_Strike_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monster_Strike_%28anime%29)

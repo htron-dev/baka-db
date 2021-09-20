@@ -8,7 +8,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 -   sci-fi
 -   slice-of-life

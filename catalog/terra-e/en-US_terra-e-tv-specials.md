@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 地球へ...
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

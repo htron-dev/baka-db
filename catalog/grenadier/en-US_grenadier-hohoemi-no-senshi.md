@@ -29,4 +29,4 @@ Rushuna is a blonde and very beautiful Senshi (gun expert) that travels through 
 -   [Official Site](http://www.wowow.co.jp/anime/grenadier/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2326)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4443)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Grenadier_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Grenadier_%28manga%29)

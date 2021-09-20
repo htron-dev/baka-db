@@ -10,7 +10,6 @@
 ## Tags
 
 -   historical
-
 -   school
 
 ## Sinopse

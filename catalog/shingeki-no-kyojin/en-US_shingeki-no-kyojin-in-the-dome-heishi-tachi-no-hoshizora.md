@@ -24,4 +24,4 @@ The film is entirely CG and was done through the game engine Unity.
 -   [Official Site](http://www.dml.co.jp/works/cool/4624/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10944)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16681)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0)

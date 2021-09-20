@@ -8,7 +8,6 @@
 ## Tags
 
 -   fantasy
-
 -   school
 
 ## Sinopse

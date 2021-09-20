@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 横尾忠則 アニメーション集 64-65
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

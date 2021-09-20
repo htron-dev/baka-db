@@ -32,4 +32,4 @@ Determined to win her over, Yamato joins the track team after discovering his hi
 -   [Official Site](http://www.suzuka-tv.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3203)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5113)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Suzuka_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Suzuka_%28manga%29#Anime)

@@ -29,4 +29,4 @@ Quickly realizing what is wrong with him, Yozuru gives him two choices: either a
 -   [Official Site](http://www.monogatari-series.com/tsukimonogatari/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10891)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16342)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monogatari_(series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monogatari_%28series%29)

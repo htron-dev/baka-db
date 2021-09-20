@@ -23,4 +23,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](http://fs.iwatobi-sc.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14415)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24331)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Free!_(TV_series)#Films>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Free!_%28TV_series%29#Films)

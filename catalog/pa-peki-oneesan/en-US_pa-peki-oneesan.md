@@ -15,8 +15,6 @@
 -   Nagano
 -   Akane (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22344/Pa-peki_Oneesan)

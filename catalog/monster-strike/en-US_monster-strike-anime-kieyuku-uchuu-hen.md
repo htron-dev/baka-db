@@ -29,4 +29,4 @@ After many monster battles, Ren and his friends finally set all of the energy po
 -   [My Anime list](https://myanimelist.net/anime/36246/Monster_Strike_Anime__Kieyuku_Uchuu-hen)
 -   [Official Site](http://anime.monster-strike.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13486)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monster_Strike_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monster_Strike_%28anime%29)

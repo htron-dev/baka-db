@@ -10,7 +10,6 @@
 
 -   drama
 -   historical
-
 -   space
 
 ## Sinopse

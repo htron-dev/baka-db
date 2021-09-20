@@ -3,7 +3,6 @@
 -   **type**: movie
 -   **episodes**: 100
 -   **original-name**: 五万匹
-
 -   **rating**: G - All Ages
 
 ## Tags

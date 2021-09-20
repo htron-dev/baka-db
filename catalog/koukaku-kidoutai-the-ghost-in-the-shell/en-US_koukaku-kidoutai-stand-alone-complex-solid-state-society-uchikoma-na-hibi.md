@@ -16,7 +16,7 @@
 
 Uchikomatic Days is a 5 minute short telling the story of the birth of the Uchikomas, the 'ugly duckling' second generation think-tanks that made substandard replacement models for the Tachikomas. The short features a music performance by the A.I. Tough Guy Uchikomas, a group of rising stars that will provide entertainment at the Harima City for Academic Research New Year's Eve Party.
 
-This special feature is available on the Ghost in the Shell: S.A.C. Solid State Society DVD. 
+This special feature is available on the Ghost in the Shell: S.A.C. Solid State Society DVD.
 
 ## Links
 

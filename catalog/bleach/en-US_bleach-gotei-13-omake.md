@@ -19,4 +19,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [My Anime list](https://myanimelist.net/anime/38810/Bleach__Gotei_13_Omake)
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/bleach/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2369)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Bleach_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Bleach_%28TV_series%29)

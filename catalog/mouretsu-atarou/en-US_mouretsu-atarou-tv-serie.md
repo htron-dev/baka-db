@@ -12,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Sinopse

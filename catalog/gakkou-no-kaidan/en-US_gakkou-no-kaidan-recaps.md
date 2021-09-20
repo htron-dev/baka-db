@@ -21,4 +21,4 @@ A new year special where Momoko stars to remember some of the adventures, she ha
 
 -   [My Anime list](https://myanimelist.net/anime/22055/Gakkou_no_Kaidan_Recaps)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=481)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ghost_Stories_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ghost_Stories_%28anime%29)

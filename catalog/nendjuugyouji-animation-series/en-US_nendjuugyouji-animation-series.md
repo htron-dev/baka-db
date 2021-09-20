@@ -12,7 +12,6 @@
 -   demons
 -   fantasy
 -   historical
-
 -   magic
 -   supernatural
 

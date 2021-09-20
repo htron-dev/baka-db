@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 영심이
-
 -   **rating**: G - All Ages
 
 ## Tags

@@ -13,11 +13,8 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 -   school
-
-## Sinopse
 
 ## Links
 

@@ -8,7 +8,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

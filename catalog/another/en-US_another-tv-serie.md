@@ -33,4 +33,4 @@ Another follows Kouichi, Mei, and their classmates as they are pulled into the e
 -   [Official Site](http://www.another-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8556)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13258)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Another_(novel)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Another_%28novel%29)

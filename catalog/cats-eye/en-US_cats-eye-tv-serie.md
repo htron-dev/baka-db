@@ -29,4 +29,4 @@ The three Kisugi sisters—Rui, Hitomi and Ai—during the day run a small cafe 
 -   [Official Site](http://www.tms-e.com/library/old/tv/data/t_cats.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1025)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1239)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Cat's_Eye_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Cat's_Eye_%28manga%29#Anime)

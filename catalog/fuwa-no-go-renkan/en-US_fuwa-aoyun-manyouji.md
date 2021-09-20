@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 福娃奥运漫游记
-
 -   **rating**: PG - Children
 
 ## Tags

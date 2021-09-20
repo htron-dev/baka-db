@@ -20,4 +20,4 @@ DVD bundled with the limited edition of the 10th volume of the manga, previewing
 
 -   [My Anime list](https://myanimelist.net/anime/16033/Karneval)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9334)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/カーニヴァル_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/カーニヴァル_%28漫画%29)

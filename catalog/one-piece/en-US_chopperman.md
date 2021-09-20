@@ -11,7 +11,6 @@
 
 -   comedy
 -   fantasy
-
 -   parody
 -   school
 -   shounen

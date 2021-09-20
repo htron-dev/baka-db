@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: SD 百科
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

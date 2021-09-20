@@ -17,7 +17,7 @@
 
 -   Usui
 -   Tomomi (Art)
--   -104- (Story)
+-   -104(Story)
 
 ## Links
 

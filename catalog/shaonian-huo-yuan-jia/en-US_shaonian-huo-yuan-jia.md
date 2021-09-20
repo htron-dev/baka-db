@@ -10,7 +10,6 @@
 ## Tags
 
 -   historical
-
 -   martial-arts
 
 ## Sinopse

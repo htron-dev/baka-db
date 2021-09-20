@@ -11,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   mystery
 
 ## Sinopse

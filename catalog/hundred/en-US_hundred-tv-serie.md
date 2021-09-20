@@ -33,4 +33,4 @@ Over the course of his intense training for the battle ahead, he immediately att
 -   [Official Site](http://hundred-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11234)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17063)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Hundred_(novel_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Hundred_%28novel_series%29)

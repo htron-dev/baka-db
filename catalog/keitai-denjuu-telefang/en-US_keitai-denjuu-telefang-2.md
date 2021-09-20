@@ -10,7 +10,6 @@
 
 -   action
 -   game
-
 -   shounen
 
 ## Authors

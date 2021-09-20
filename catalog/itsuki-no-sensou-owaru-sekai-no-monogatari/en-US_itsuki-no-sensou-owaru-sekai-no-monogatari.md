@@ -12,7 +12,7 @@
 
 ## Authors
 
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 -   Suzuno
 -   Yuuhei (Story)
 

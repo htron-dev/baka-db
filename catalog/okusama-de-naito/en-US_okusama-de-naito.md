@@ -16,8 +16,6 @@
 -   Kotono
 -   Wakako (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21867/Okusama_de_Naito)

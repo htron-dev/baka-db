@@ -21,4 +21,4 @@ The fifth season of Ze Tian Ji.
 
 -   [My Anime list](https://myanimelist.net/anime/41785/Ze_Tian_Ji_5th_Season)
 -   [Official Site](https://v.qq.com/detail/m/mzc002000he7xqq.html)
--   [Wikipedia](<https://zh.wikipedia.org/wiki/%E6%8B%A9%E5%A4%A9%E8%AE%B0_(%E5%8A%A8%E7%94%BB)>)
+-   [Wikipedia](https://zh.wikipedia.org/wiki/%E6%8B%A9%E5%A4%A9%E8%AE%B0_%28%E5%8A%A8%E7%94%BB%29)

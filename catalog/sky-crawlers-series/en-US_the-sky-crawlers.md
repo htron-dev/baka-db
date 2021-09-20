@@ -26,4 +26,4 @@ The Sky Crawlers exhibits this reality through the eyes of Kannami as he endeavo
 -   [Official Site](http://sky.crawlers.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5310)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8269)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Sky_Crawlers_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Sky_Crawlers_%28film%29)

@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 7
 -   **original-name**: 고구려의 젊은 무사들
-
 -   **rating**: None
 
 ## Tags

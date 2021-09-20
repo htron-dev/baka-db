@@ -18,4 +18,4 @@ An educational film about compassion. The story follows a class trying to break 
 
 -   [My Anime list](https://myanimelist.net/anime/30759/Minna_de_Tonda)
 -   [Official Site](http://www.optical.jp/dvd/welfare.html)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%A3%95_(%E5%A3%B0%E5%84%AA)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%A3%95_%28%E5%A3%B0%E5%84%AA%29)

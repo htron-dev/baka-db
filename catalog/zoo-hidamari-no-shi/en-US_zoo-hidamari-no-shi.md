@@ -18,4 +18,4 @@ A man makes a robot girl and tries to teach her the aspects of daily life. But w
 
 -   [My Anime list](https://myanimelist.net/anime/38078/Zoo__Hidamari_no_Shi)
 -   [Official Site](http://www.toei-video.co.jp/catalog/dstd02443/)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/ZOO_(%E4%B9%99%E4%B8%80)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/ZOO_%28%E4%B9%99%E4%B8%80%29)

@@ -31,4 +31,4 @@ K: Return of Kings tells the struggle of the remaining clans against the Green K
 -   [Official Site](http://k-project-come-back.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10929)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16771)
--   [Wikipedia](<http://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/K_%28anime%29)

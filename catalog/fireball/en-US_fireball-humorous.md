@@ -21,4 +21,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [My Anime list](https://myanimelist.net/anime/36166/Fireball_Humorous)
 -   [Official Site](http://dlife.disney.co.jp/special/5th_fireball.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13398)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Fireball_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Fireball_%28anime%29)

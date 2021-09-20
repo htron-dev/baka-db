@@ -18,8 +18,6 @@
 -   Ikegami
 -   Sakyou (Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/104546/Koushaku-sama_no_Kawaii_Koibito)

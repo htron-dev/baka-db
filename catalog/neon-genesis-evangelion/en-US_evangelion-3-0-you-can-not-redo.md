@@ -29,4 +29,4 @@ A hurt and confused Shinji is rescued from Wille by Rei and returned to Nerv hea
 -   [Official Site](http://www.evangelion.co.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7565)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8422)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Evangelion:_3.0_You_Can_(Not)_Redo>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Evangelion:_3.0_You_Can_%28Not%29_Redo)

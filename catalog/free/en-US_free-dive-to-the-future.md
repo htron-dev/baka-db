@@ -33,4 +33,4 @@ Facing the reality and challenges of encountering higher calibre swimmers, Haruk
 -   [Official Site](http://df.iwatobi-sc.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13548)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20895)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Free!_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Free!_%28anime%29)

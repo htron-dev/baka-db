@@ -14,7 +14,6 @@
 -   ecchi
 -   fantasy
 -   historical
-
 -   magic
 -   music
 -   mystery

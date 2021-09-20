@@ -23,4 +23,4 @@ Maeda Toshiie and Matsu visit Chousokabe Motochika, who governs Shikoku. They te
 -   [My Anime list](https://myanimelist.net/anime/6581/Sengoku_Basara__Setonai_no_Gekitotsu_Hi_wo_Fuku_Umi_no_Daiyousai_-_Fugaku)
 -   [Official Site](http://www.sengokubasara.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6284)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29)

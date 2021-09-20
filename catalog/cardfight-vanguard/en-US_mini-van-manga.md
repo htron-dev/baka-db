@@ -8,7 +8,6 @@
 
 -   comedy
 -   game
-
 -   shounen
 
 ## Authors

@@ -9,7 +9,6 @@
 ## Tags
 
 -   demons
-
 -   supernatural
 
 ## Sinopse

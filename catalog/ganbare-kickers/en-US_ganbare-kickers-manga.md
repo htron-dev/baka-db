@@ -8,7 +8,6 @@
 
 -   comedy
 -   drama
-
 -   sports
 
 ## Authors

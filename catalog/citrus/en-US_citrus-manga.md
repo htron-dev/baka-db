@@ -24,11 +24,4 @@ Mei is coming back home after six months away, and Yuzu couldn't be more excited
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/117083/Citrus_)
-    t and can't stop thinking about it.
-
-[Source My Anime List]
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/50145/Citrus)

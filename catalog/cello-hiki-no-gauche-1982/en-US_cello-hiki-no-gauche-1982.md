@@ -9,7 +9,6 @@
 ## Tags
 
 -   music
-
 -   drama
 -   fantasy
 

@@ -13,7 +13,6 @@
 -   adventure
 -   space
 -   comedy
-
 -   shounen
 
 ## Sinopse

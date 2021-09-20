@@ -12,7 +12,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   shoujo
 
 ## Sinopse

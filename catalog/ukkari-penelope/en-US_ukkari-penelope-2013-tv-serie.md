@@ -19,4 +19,4 @@ The third and final season of Ukkari Pénélope where a big focus is Pénélope'
 
 -   [My Anime list](https://myanimelist.net/anime/34078/Ukkari_Pénélope_2013)
 -   [Official Site](http://www.penelope.tv/tv-animation/story03.html)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/ペネロペ_(絵本)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/ペネロペ_%28絵本%29)

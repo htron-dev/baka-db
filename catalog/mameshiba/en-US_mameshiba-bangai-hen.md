@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 豆しば番外編
-
 -   **rating**: G - All Ages
 
 ## Tags

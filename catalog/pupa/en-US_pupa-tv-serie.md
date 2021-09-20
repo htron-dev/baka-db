@@ -31,4 +31,4 @@ Pupa tells the story of a loving brother's desperate struggles to save his siste
 -   [Official Site](http://www.pupa-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9804)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15248)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/Pupa_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/Pupa_%28%E6%BC%AB%E7%94%BB%29)

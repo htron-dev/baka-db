@@ -32,4 +32,4 @@ However, as Rukia is unable to regain her powers, Ichigo is given the daunting t
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/bleach/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2369)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4240)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bleach_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bleach_%28manga%29)

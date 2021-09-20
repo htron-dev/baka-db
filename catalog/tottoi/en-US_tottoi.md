@@ -11,7 +11,6 @@
 
 -   adventure
 -   slice-of-life
-
 -   drama
 
 ## Sinopse

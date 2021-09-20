@@ -23,9 +23,4 @@ Continuing in the same vein as previous installments, a new collection of "every
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/125752/Fuan_no_Tane)
-    hool, Visitors etc.).
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/8872/Fuan_no_Tane_)

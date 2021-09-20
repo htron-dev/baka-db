@@ -31,4 +31,4 @@ Can this group of rebels, forming a movement known as "Metal-Age," band together
 -   [Official Site](http://www.gonzo.co.jp/works/0904.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6267)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10246)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Shangri-La_(novel)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Shangri-La_%28novel%29)

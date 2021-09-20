@@ -26,4 +26,4 @@ That is until he discovers the joy of drawing. When he sees a painting made by a
 -   [Official Site](https://blue-period.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15993)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23936)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Blue_Period_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Blue_Period_%28manga%29#Anime)

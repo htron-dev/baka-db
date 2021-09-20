@@ -31,4 +31,4 @@ To let her use her powers freely, Nitta asks Hina to help out with a constructio
 -   [Official Site](http://hina-matsuri.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13434)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20335)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Hinamatsuri_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Hinamatsuri_%28manga%29)

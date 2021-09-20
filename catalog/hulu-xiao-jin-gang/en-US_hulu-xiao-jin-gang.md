@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 葫芦小金刚
-
 -   **rating**: PG - Children
 
 ## Tags

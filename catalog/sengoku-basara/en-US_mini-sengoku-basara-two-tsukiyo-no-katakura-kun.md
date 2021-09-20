@@ -21,4 +21,4 @@ Random side-stories focusing on Kojuurou "Right Eye of the Dragon" Katakura in c
 -   [My Anime list](https://myanimelist.net/anime/9630/Mini_Sengoku_Basara_Two__Tsukiyo_no_Katakura-kun)
 -   [Official Site](http://www.sengokubasara.tv/index2.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7490)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29)

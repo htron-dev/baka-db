@@ -22,4 +22,4 @@ The worried owner of a luxury hotel hires high school student Kuroi Misa who has
 -   [Official Site](http://corp.toei-anim.co.jp/english/film/ganime_ekoeko_azarak.php)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4854)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7441)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Eko_Eko_Azarak_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Eko_Eko_Azarak_%28manga%29)

@@ -24,4 +24,4 @@ Daisuke Higashida is a serious first-year student at Higashizaka High School. He
 -   [Official Site](http://www.working-www.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12059)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18412)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/WORKING!!_(WEB%E7%89%88)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/WORKING!!_%28WEB%E7%89%88%29)

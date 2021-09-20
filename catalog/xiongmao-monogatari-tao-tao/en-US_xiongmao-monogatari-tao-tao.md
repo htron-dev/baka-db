@@ -21,4 +21,4 @@ TaoTao is an anime series about the eponymous Taotao, a small panda. In the stor
 
 -   [My Anime list](https://myanimelist.net/anime/24603/Xiongmao_Monogatari_TaoTao)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6562)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Taotao_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Taotao_%28anime%29)

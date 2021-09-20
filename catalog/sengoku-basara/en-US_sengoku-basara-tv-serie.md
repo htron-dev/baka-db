@@ -31,4 +31,4 @@ Nobunaga continues to exert his forces in Sengoku Basara by doubling down on his
 -   [Official Site](http://www.sengokubasara.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6284)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10271)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29)

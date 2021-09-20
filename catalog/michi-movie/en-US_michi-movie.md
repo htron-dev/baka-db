@@ -3,7 +3,6 @@
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 俺の路
-
 -   **rating**: G - All Ages
 
 ## Tags

@@ -10,7 +10,6 @@
 ## Tags
 
 -   fantasy
-
 -   sci-fi
 -   shounen
 

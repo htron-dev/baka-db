@@ -27,4 +27,4 @@ After scaling Mt. Everest, mountain climbing partners Saruwatari Gorou and "Lost
 -   [Official Site](http://www.moonlightmile.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4900)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7383)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Moonlight_Mile_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Moonlight_Mile_%28manga%29#Anime)

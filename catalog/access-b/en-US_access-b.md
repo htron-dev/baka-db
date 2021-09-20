@@ -15,8 +15,6 @@
 -   Matoh
 -   Sanami (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21756/Access-B)

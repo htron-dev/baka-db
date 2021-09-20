@@ -32,4 +32,4 @@ As the demons leave a path of destruction in their wake, the Seven Deadly Sins m
 -   [Official Site](http://www.7-taizai.net/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11646)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19885)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_%28%E6%BC%AB%E7%94%BB%29)

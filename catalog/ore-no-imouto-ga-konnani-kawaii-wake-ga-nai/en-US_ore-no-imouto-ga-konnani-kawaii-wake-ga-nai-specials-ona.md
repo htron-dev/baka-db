@@ -20,13 +20,6 @@ Episodes 14–16 of OreImo 2 which finish adapting the OreImo novels.
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/anime/18857/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials)
--   [Official Site](http://www.oreimo-anime.com/pkg/08.html)
--   [Wikipedia](http://en.wikipedia.org/wiki/Oreimo#Anime)
-    the original story from the light novels.
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/anime/10020/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials)
 -   [Official Site](http://www.oreimo-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7525)

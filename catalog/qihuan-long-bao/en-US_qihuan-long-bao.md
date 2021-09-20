@@ -11,7 +11,6 @@
 -   action
 -   sci-fi
 -   adventure
-
 -   martial-arts
 
 ## Sinopse

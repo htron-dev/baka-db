@@ -24,4 +24,4 @@ Tightrope tells the tale of the reluctant heir of a yakuza family and his childh
 -   [Official Site](http://www.primetime.gs/tightrope/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8919)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13976)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/タイトロープ_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/タイトロープ_%28漫画%29)

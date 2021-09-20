@@ -16,8 +16,6 @@
 -   Sasayama
 -   Plus (Story)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/103692/Bokura_wa_Minna_Abnormal)

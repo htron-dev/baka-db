@@ -32,4 +32,4 @@ From the avant-garde director of Yojouhan Shinwa Taikei, Masaaki Yuasa, Ping Pon
 -   [Official Site](http://www.pingpong-anime.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10400)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15852)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ping_Pong_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ping_Pong_%28manga%29)

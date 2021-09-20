@@ -10,7 +10,6 @@
 
 -   action
 -   mystery
-
 -   sci-fi
 -   super-power
 -   supernatural

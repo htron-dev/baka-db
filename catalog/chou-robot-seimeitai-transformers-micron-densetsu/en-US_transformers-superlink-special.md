@@ -10,7 +10,6 @@
 
 -   sci-fi
 -   adventure
-
 -   mecha
 -   shounen
 

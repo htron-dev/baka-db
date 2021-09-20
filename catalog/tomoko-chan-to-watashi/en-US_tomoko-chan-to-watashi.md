@@ -9,7 +9,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 
 ## Sinopse

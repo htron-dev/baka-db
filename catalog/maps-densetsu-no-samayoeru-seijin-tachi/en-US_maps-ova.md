@@ -30,4 +30,4 @@ While looking for the ledgendary Mapman, the last surviving member of the Nomad 
 -   [Official Site](http://www.tms-e.com/library/old/ova/data/m_maps.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2056)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=694)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Maps_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Maps_%28anime%29)

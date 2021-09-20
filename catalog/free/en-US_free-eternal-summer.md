@@ -33,4 +33,4 @@ Further problems arise when an old friend of Rin's, Sousuke Yamazaki, comes to t
 -   [Official Site](http://www.iwatobi-sc.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10415)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16032)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Free!_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Free!_%28anime%29)

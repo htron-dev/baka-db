@@ -12,7 +12,6 @@
 -   sci-fi
 -   sports
 -   super-power
-
 -   school
 
 ## Sinopse

@@ -25,4 +25,4 @@ It is the beginning of December. Anna Kushina's birthday is coming up, so the bo
 -   [My Anime list](https://myanimelist.net/anime/37306/K__Seven_Stories_Movie_5_-_Memory_of_Red_-_Burn)
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

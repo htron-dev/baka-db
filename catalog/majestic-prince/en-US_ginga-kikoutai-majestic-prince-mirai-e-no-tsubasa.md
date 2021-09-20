@@ -28,4 +28,4 @@ Team Fawn from Gurantseere Academy dreams of one day fighting beside the heroes 
 -   [My Anime list](https://myanimelist.net/anime/33024/Ginga_Kikoutai_Majestic_Prince__Mirai_e_no_Tsubasa)
 -   [Official Site](http://www.mjp-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9452)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Majestic_Prince_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Majestic_Prince_%28manga%29)

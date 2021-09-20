@@ -16,9 +16,4 @@
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/23570/Prism_Ark)
-    the Prism Ark Manga.
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/3394/Prism_Ark)

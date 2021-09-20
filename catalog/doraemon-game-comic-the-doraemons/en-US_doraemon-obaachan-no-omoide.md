@@ -10,7 +10,6 @@
 
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   shounen
 

@@ -11,8 +11,6 @@
 
 -   slice-of-life
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/42717/Kaeru_no_Pickles__Kimochi_no_Iro)

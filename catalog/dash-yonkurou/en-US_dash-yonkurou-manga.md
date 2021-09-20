@@ -10,7 +10,6 @@
 
 -   action
 -   cars
-
 -   sports
 
 ## Authors

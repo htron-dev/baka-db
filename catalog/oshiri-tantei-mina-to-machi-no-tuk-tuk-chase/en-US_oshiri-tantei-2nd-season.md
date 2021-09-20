@@ -11,7 +11,6 @@
 
 -   mystery
 -   comedy
-
 -   fantasy
 
 ## Sinopse

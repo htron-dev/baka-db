@@ -25,4 +25,4 @@ The adventures (and misadventures) of men staring, peeking, glancing, looking, a
 -   [Official Site](http://www.madman.com.au/actions/catalogue.do?releaseId=5584&method=view)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=221)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1032)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Colorful_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Colorful_%28manga%29)

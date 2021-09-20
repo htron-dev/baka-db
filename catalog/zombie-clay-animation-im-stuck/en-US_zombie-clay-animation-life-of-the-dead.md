@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ゾンビクレイアニメ「LIFE OF THE DEAD」
-
 -   **rating**: R - 17+ (violence & profanity)
 
 ## Tags

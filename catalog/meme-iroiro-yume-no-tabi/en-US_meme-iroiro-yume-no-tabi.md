@@ -11,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   sci-fi
 
 ## Sinopse

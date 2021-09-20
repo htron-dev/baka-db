@@ -25,8 +25,4 @@ Although similar in name to the Go Nagai work, this version by Gosaku Ota is vas
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/32899/UFO_Robo_Grendizer)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/8558/UFO_Robo_Grendizer)

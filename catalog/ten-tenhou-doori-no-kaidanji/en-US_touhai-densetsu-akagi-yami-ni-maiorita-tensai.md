@@ -30,4 +30,4 @@ When all hope seems lost, the game parlor is suddenly intruded upon by Shigeru A
 -   [Official Site](http://www.ntv.co.jp/akagi/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3446)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6294)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Akagi_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Akagi_%28manga%29)

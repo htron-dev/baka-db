@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: Animation!
-
 -   **rating**: G - All Ages
 
 ## Tags

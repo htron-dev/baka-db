@@ -26,4 +26,4 @@ These brave players, who throw themselves in this fierce fight, we call them the
 
 -   [My Anime list](https://myanimelist.net/anime/36036/Running_Man)
 -   [Official Site](http://www.runningman-ani.com/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Running_Man_(TV_series)#Animation>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Running_Man_%28TV_series%29#Animation)

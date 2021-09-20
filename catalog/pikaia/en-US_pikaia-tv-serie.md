@@ -12,7 +12,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   drama
 
 ## Sinopse

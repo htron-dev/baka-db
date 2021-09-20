@@ -9,7 +9,6 @@
 ## Tags
 
 -   mystery
-
 -   school
 
 ## Sinopse

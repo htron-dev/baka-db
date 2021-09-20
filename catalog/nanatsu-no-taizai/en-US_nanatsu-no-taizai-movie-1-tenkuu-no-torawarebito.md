@@ -30,4 +30,4 @@ The battle progresses well, until one of the Six Knights awakens an "Indura of R
 -   [Official Site](http://www.7-taizai-movie.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13286)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20834)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29)

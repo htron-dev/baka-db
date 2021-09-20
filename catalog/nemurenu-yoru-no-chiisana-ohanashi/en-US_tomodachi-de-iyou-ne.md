@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ともだちでいようね
-
 -   **rating**: PG - Children
 
 ## Tags

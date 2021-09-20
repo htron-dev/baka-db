@@ -34,4 +34,4 @@ Griffith is a shell of his former charismatic self after a year of continuous, h
 -   [Official Site](http://www.berserkfilm.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7991)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13800)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Berserk_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Berserk_%28manga%29)

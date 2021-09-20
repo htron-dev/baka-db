@@ -11,7 +11,6 @@
 
 -   comedy
 -   fantasy
-
 -   slice-of-life
 
 ## Sinopse

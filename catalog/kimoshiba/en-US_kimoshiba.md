@@ -11,7 +11,6 @@
 
 -   comedy
 -   horror
-
 -   supernatural
 
 ## Sinopse

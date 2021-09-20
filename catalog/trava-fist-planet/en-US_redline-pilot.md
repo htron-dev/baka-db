@@ -20,4 +20,4 @@ Pilot episode for the movie.
 -   [My Anime list](https://myanimelist.net/anime/11483/Redline_Pilot)
 -   [Official Site](http://red-line.jp/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6529)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Redline_(2009_film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Redline_%282009_film%29)

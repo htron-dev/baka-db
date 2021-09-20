@@ -10,7 +10,6 @@
 
 -   comedy
 -   parody
-
 -   school
 
 ## Sinopse

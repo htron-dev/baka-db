@@ -8,7 +8,6 @@
 
 -   comedy
 -   fantasy
-
 -   slice-of-life
 
 ## Authors

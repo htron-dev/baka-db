@@ -8,7 +8,6 @@
 
 -   action
 -   adventure
-
 -   sci-fi
 -   sports
 

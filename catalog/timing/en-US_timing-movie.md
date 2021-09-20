@@ -27,4 +27,4 @@ This film unravels the mystery behind a series of suicides at a high school in S
 -   [Official Site](http://www.jobkorea.co.kr/Recruit/Co_Read/C/hyoinani)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15195)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12044)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Timing_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Timing_%28film%29)

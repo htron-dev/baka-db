@@ -13,7 +13,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -26,4 +25,4 @@ A summary compilation of the Kanto season of Pocket Monsters.
 
 -   [My Anime list](https://myanimelist.net/anime/31750/TV-ban_Pokemon_Special_Masara_Town-hen_Recaps)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9871)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)

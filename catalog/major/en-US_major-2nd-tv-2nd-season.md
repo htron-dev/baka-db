@@ -28,4 +28,4 @@ After recovering from the inner struggles he faced in the past, Daigo Shigeno co
 -   [Official Site](http://www.shopro.co.jp/tv/major2nd/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15133)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22564)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Major_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Major_%28manga%29#Anime)

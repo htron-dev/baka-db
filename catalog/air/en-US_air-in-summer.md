@@ -27,4 +27,4 @@ An extension of the summer-arc in the Air TV-series, showing more of what happen
 -   [Official Site](http://www.bs-i.co.jp/anime/AIR/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2002)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5428)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Air_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Air_%28anime%29)

@@ -12,8 +12,6 @@
 -   Nakajima
 -   Fumio (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22079/Tanabota)

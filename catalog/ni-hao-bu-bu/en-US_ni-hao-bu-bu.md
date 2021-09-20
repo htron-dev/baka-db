@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 你好！卟卟
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -14,7 +14,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -31,4 +30,4 @@ With Gojika's predictions looming above them, Satoshi aims for his final gym bad
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/pokemon_xyz/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11585)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17650)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)

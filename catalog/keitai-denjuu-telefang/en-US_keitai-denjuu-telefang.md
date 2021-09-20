@@ -11,7 +11,6 @@
 
 -   action
 -   game
-
 -   shounen
 
 ## Authors

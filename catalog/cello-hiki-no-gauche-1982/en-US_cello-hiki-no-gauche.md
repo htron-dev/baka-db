@@ -9,7 +9,6 @@
 ## Tags
 
 -   music
-
 -   fantasy
 
 ## Sinopse

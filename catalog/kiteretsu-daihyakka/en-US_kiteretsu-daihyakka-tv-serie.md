@@ -13,7 +13,6 @@
 
 -   comedy
 -   drama
-
 -   slice-of-life
 
 ## Sinopse

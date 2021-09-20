@@ -20,11 +20,4 @@ A Panty and Stocking manga drawn by director Hiroyuki Imaishi. Nearly drawn mate
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/40419/Panty___Stocking_with_Garterbelt)
-    t stand a chance when good is prepared to engage in wrath, sloth, greed, lust, envy, gluttony...and even sometimes a little pride!
-
-(Source: Dark Horse)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/21848/Panty___Stocking_with_Garterbelt)

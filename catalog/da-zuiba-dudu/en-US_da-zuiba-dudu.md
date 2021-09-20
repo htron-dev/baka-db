@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 大嘴巴嘟嘟
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -29,4 +29,4 @@ Ookami-san to Shichinin no Nakama-tachi follows the everyday lives of the Otogi 
 -   [Official Site](http://www.otogi-bank.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7381)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11221)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ōkami-san_(light_novels)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ōkami-san_%28light_novels%29)

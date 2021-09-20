@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 葫芦兄弟
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -25,4 +25,4 @@ Takehito Kumagami's clairvoyance leads his group of friends to another child wit
 -   [My Anime list](https://myanimelist.net/anime/31553/Charlotte__Tsuyoimono-tachi)
 -   [Official Site](http://www.charlotte-anime.jp/bd-dvd/07.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10997)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Charlotte_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Charlotte_%28anime%29)

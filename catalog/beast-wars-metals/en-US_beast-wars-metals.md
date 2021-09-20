@@ -8,7 +8,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 -   sci-fi
 

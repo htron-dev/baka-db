@@ -24,4 +24,4 @@ Recap of first 37 episodes of Dragon Quest: Dai no Daibouken (2020) to look back
 -   [My Anime list](https://myanimelist.net/anime/49228/Dragon_Quest__Dai_no_Daibouken_2020__Bouken_no_Kiseki_Kore_kara_no_Tabiji)
 -   [Official Site](http://www.toei-anim.co.jp/tv/dai/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15321)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_(2020_TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_%282020_TV_series%29)

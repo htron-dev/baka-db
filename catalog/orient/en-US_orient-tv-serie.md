@@ -24,4 +24,4 @@ Fighting against all odds, the duo dives headfirst into the unknown world of bea
 
 -   [My Anime list](https://myanimelist.net/anime/45560/Orient)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15969)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Orient_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Orient_%28manga%29#Anime)

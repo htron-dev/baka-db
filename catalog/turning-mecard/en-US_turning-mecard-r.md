@@ -11,7 +11,6 @@
 
 -   cars
 -   game
-
 -   mecha
 
 ## Sinopse

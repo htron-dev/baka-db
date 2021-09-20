@@ -9,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   martial-arts
 
 ## Sinopse

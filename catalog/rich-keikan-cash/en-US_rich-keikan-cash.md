@@ -7,7 +7,6 @@
 ## Tags
 
 -   comedy
-
 -   police
 
 ## Authors

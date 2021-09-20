@@ -24,4 +24,4 @@ An episode recapping Nanatsu no Taizai with additional scenes, aired before the 
 
 -   [My Anime list](https://myanimelist.net/anime/36923/Nanatsu_no_Taizai__Imashime_no_Fukkatsu_Joshou)
 -   [Official Site](http://www.7-taizai.net/news/?id=45716)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29)

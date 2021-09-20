@@ -25,4 +25,4 @@ The story will depict Joe Shimamura and the other cyborgs' struggle with the Bre
 -   [Official Site](http://www.cyborg009.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12277)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18841)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0009_(%E3%82%A2%E3%83%8B%E3%83%A1)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0009_%28%E3%82%A2%E3%83%8B%E3%83%A1%29)

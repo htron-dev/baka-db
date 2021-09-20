@@ -14,7 +14,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -28,4 +27,4 @@ After participating in the Johto League, Satoshi decides to begin anew in yet an
 -   [My Anime list](https://myanimelist.net/anime/1564/Pokemon_Advanced_Generation)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1041)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1873)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)

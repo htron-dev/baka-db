@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Japan World Cup
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

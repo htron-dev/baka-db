@@ -7,7 +7,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 -   military
 

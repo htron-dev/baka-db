@@ -20,4 +20,4 @@ Mameshiba commercials in a high school setting where Edamame gives life advice t
 
 -   [My Anime list](https://myanimelist.net/anime/33542/Mameshiba_Gakuen)
 -   [Official Site](http://dogatch.jp/feature/mameshiba/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Mameshiba_(character)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Mameshiba_%28character%29)

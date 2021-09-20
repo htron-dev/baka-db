@@ -8,7 +8,6 @@
 
 -   adventure
 -   comedy
-
 -   sci-fi
 -   shounen
 

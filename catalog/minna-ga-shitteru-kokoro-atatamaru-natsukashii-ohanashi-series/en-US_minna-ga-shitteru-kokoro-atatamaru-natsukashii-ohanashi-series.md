@@ -10,7 +10,6 @@
 -   adventure
 -   fantasy
 -   historical
-
 -   magic
 -   romance
 -   supernatural

@@ -8,7 +8,6 @@
 
 -   adventure
 -   fantasy
-
 -   sports
 
 ## Authors

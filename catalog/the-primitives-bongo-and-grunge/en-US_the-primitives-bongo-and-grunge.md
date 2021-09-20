@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 古惑香蕉頭
-
 -   **rating**: G - All Ages
 
 ## Tags

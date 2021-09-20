@@ -11,7 +11,6 @@
 -   drama
 -   fantasy
 -   historical
-
 -   mystery
 
 ## Sinopse

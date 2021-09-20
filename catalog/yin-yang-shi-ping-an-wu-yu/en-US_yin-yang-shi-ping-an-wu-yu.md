@@ -30,4 +30,4 @@ Kochou no Sei: After Kagura-sama falls asleep - that will be the beginning of th
 -   [My Anime list](https://myanimelist.net/anime/37641/Yin_Yang_Shi__Ping_An_Wu_Yu)
 -   [Official Site](http://bangumi.bilibili.com/anime/22189)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14191)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%B8%AB_(%E3%82%B2%E3%83%BC%E3%83%A0)#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%B8%AB_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)

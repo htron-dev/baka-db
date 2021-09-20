@@ -21,4 +21,4 @@ Web-exclusive next episode previews for Slow Start. These contain unique chibi a
 -   [Official Site](http://slow-start.com/news/?id=46022)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13160)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19972)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Slow_Start_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Slow_Start_%28manga%29)

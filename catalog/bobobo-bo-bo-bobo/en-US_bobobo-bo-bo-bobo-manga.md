@@ -27,9 +27,4 @@
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/33617/Bobobo-bo_Bo-bobo)
-    Maruhage Empire's bald henchmen. His name: Bobobo-bo Bo-bobo.
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/1505/Bobobo-bo_Bo-bobo)

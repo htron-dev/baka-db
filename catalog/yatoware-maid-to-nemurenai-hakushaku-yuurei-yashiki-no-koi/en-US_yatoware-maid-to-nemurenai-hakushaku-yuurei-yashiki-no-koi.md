@@ -18,8 +18,6 @@
 -   Yamanobe
 -   Riri (Story)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/105265/Yatoware_Maid_to_Nemurenai_Hakushaku__Yuurei_Yashiki_no_Koi)

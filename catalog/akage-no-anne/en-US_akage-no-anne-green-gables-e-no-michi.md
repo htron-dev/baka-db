@@ -24,4 +24,4 @@ Anne is an orphan full of imagination. When she arrives at her new home she lear
 -   [My Anime list](https://myanimelist.net/anime/8950/Akage_no_Anne__Green_Gables_e_no_Michi)
 -   [Official Site](http://www.ghibli-museum.jp/anne/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7526)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E5%8A%87%E5%A0%B4%E7%89%88>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E5%8A%87%E5%A0%B4%E7%89%88)

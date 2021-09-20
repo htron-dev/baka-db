@@ -28,4 +28,4 @@ Realizing that he is trapped in a virtual world created by μ called Mobius, Rit
 -   [Official Site](http://caligula-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13592)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20392)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Caligula_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Caligula_%28TV_series%29)

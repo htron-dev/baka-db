@@ -14,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   slice-of-life
 
 ## Sinopse
@@ -33,4 +32,4 @@ Transforming back to normal after scaring his friends and family, Moomin and Snu
 -   [Official Site](http://www.hihirecords.com/moomin/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1009)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2006)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Moomin_(1990_TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Moomin_%281990_TV_series%29)

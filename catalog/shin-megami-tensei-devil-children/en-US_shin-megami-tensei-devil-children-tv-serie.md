@@ -16,7 +16,6 @@
 -   demons
 -   fantasy
 -   game
-
 -   magic
 -   sci-fi
 -   supernatural

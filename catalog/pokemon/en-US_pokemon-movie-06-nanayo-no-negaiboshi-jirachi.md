@@ -11,7 +11,6 @@
 
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

@@ -12,7 +12,6 @@
 -   action
 -   adventure
 -   demons
-
 -   magic
 -   fantasy
 

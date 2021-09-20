@@ -17,8 +17,6 @@
 -   Oka
 -   Asaha (Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/88893/Jiichan___Jet)

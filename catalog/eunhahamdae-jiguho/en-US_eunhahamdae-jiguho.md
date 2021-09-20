@@ -9,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   space
 -   sci-fi

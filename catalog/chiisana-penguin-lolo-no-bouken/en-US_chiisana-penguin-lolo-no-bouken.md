@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 小さなペンギンロロの冒険
-
 -   **rating**: G - All Ages
 
 ## Tags
@@ -11,7 +10,6 @@
 -   adventure
 -   drama
 -   fantasy
-
 -   slice-of-life
 
 ## Sinopse

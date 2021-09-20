@@ -21,4 +21,4 @@ Recap of the first nine episodes of Dies Irae from Marie's point of view.
 -   [My Anime list](https://myanimelist.net/anime/37148/Dies_Irae__Maries_Memory_Michi_ni_Tsuuzu_Kiseki)
 -   [Official Site](http://diesirae-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dies_Irae_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dies_Irae_%28anime%29)

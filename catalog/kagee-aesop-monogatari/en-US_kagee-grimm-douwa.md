@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 影絵グリム童話
-
 -   **rating**: G - All Ages
 
 ## Tags

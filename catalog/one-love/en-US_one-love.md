@@ -14,8 +14,6 @@
 -   Yuuki
 -   Ryo (Story)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22738/One_Love)

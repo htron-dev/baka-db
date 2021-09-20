@@ -11,7 +11,6 @@
 
 -   adventure
 -   fantasy
-
 -   shoujo
 -   slice-of-life
 

@@ -22,4 +22,4 @@ Special episode included with the Blu-ray box set of the original Jewelpet Tinkl
 
 -   [My Anime list](https://myanimelist.net/anime/19619/Jewelpet_Twinkle☆__Hohoemi_no_Niji_ni_Dokki☆Doki)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7414)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Jewelpet_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Jewelpet_%28anime%29)

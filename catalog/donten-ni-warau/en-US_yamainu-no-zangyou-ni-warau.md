@@ -18,7 +18,7 @@
 
 ## Sinopse
 
-A new mission has been assigned to the Orochi subjugation unit, the Yamainu. Could this be—a gag-comedy!? 
+A new mission has been assigned to the Orochi subjugation unit, the Yamainu. Could this be—a gag-comedy!?
 
 ## Links
 

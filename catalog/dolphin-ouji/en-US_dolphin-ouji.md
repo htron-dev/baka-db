@@ -11,7 +11,6 @@
 
 -   action
 -   adventure
-
 -   sci-fi
 
 ## Sinopse

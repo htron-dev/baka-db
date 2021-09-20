@@ -30,4 +30,4 @@ Koe no Katachi tells the heartwarming tale of Shouya's reunion with Shouko and h
 -   [Official Site](http://koenokatachi-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10937)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16661)
--   [Wikipedia](<http://en.wikipedia.org/wiki/A_Silent_Voice_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/A_Silent_Voice_%28manga%29)

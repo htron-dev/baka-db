@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: 影絵むかし話
-
 -   **rating**: G - All Ages
 
 ## Tags
@@ -13,7 +12,6 @@
 -   drama
 -   fantasy
 -   historical
-
 -   magic
 -   romance
 -   samurai

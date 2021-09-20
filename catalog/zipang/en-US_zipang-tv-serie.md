@@ -30,4 +30,4 @@ Mirai, an improved Kongou-class Aegis guided missile destroyer, is one of the ne
 -   [Official Site](http://www.tbs.co.jp/anime-zipang/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2535)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4649)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Zipang_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Zipang_%28manga%29#Anime)

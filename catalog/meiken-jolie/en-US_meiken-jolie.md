@@ -25,4 +25,4 @@ After befriending a white Pyrenees dog he names Belle, Sebastian sets out on a j
 -   [My Anime list](https://myanimelist.net/anime/3836/Meiken_Jolie)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3305)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1215)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Belle_and_Sebastian_(Japanese_TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Belle_and_Sebastian_%28Japanese_TV_series%29)

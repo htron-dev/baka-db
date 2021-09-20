@@ -10,7 +10,6 @@
 
 -   comedy
 -   game
-
 -   shounen
 
 ## Authors

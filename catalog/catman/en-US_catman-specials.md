@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: キャットマン
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

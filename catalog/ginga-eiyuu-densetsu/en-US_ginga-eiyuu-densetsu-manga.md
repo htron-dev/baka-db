@@ -29,11 +29,4 @@ Faithful to the novels aside for some changes that may be considered major e.g. 
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/11941/Ginga_Eiyuu_Densetsu)
-    lactic Empire and the Free Planets Alliance.
-
-(Source: Wikipedia)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/93287/Ginga_Eiyuu_Densetsu)

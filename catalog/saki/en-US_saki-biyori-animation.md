@@ -27,4 +27,4 @@ A single episode OVA released with the 14th volume of the Saki manga, consisting
 -   [Official Site](http://www.jp.square-enix.com/magazine/biggangan/introduction/sakibiyori/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10849)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=171029)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Saki_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Saki_%28manga%29)

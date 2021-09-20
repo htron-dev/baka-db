@@ -25,4 +25,4 @@ One night after leaving a club where he was playing trumpet, Ryou Takagi is jump
 -   [My Anime list](https://myanimelist.net/anime/9177/Burning_Blood)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4180)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3284)
--   [Wikipedia](<https://en.wikipedia.org/wiki/B.B._(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/B.B._%28manga%29)

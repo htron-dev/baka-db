@@ -13,7 +13,6 @@
 -   drama
 -   fantasy
 -   historical
-
 -   magic
 -   romance
 -   supernatural

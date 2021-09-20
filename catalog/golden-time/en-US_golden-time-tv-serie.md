@@ -29,4 +29,4 @@ After having a glimpse of college life, Banri learns that he is in a new place a
 -   [Official Site](http://golden-time.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9771)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15548)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Golden_Time_(novel_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Golden_Time_%28novel_series%29)

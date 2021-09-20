@@ -12,7 +12,6 @@
 -   adventure
 -   cars
 -   game
-
 -   mecha
 
 ## Sinopse

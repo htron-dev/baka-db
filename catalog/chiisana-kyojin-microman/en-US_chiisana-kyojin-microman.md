@@ -14,7 +14,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   mecha
 -   sci-fi
 -   shounen

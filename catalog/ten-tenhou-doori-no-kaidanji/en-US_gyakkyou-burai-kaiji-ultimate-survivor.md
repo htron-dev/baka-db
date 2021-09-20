@@ -30,4 +30,4 @@ Based on the first entry of the famous gambling manga series by Nobuyuki Fukumot
 -   [Official Site](http://www.ntv.co.jp/kaiji/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5427)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8550)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Kaiji_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Kaiji_%28manga%29)

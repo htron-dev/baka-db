@@ -23,4 +23,4 @@ The main plot revolves around the Yamata Empire's plan to destroy all the galaxy
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/8955/Senjutsu_Choukoukaku_Orion)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Orion_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Orion_%28manga%29)

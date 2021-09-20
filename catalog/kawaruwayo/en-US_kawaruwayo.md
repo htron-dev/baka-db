@@ -16,8 +16,6 @@
 -   Hatsuki
 -   Kyou (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21804/Kawaruwayo)

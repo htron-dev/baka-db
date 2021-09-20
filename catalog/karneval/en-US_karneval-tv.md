@@ -31,4 +31,4 @@ On the run, Nai and Gareki are found by "Circus," a government defense agency th
 -   [Official Site](http://karneval-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9186)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14855)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/カーニヴァル_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/カーニヴァル_%28漫画%29)

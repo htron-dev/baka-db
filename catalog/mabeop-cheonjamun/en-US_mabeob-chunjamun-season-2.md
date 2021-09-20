@@ -9,7 +9,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 -   martial-arts
 

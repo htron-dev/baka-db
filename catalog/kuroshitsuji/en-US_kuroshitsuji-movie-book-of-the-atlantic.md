@@ -31,4 +31,4 @@ Grim reapers begin to appear on the ship, and it becomes apparent that the ship 
 -   [Official Site](http://www.kuroshitsuji-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11696)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18077)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%BB%92%E5%9F%B7%E4%BA%8B_(%E3%82%A2%E3%83%8B%E3%83%A1)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%BB%92%E5%9F%B7%E4%BA%8B_%28%E3%82%A2%E3%83%8B%E3%83%A1%29)

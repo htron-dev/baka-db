@@ -30,4 +30,4 @@ In the latter half of 21st century, humans leave the Earth and begin to live in 
 -   [Official Site](http://www.mjp-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9452)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14971)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Majestic_Prince_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Majestic_Prince_%28manga%29)

@@ -19,4 +19,4 @@ No synopsis information has been added to this title. Help improve our database 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/49409/Bai_She_2__Qing_She_Jie_Qi)
--   [Wikipedia](<https://en.wikipedia.org/wiki/White_Snake_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/White_Snake_%28film%29)

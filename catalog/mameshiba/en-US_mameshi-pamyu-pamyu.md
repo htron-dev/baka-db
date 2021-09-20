@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 豆しぱみゅぱみゅ
-
 -   **rating**: G - All Ages
 
 ## Tags

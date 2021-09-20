@@ -2,7 +2,6 @@
 
 -   **type**: special
 -   **original-name**: 桃屋のり平アニメ CM
-
 -   **rating**: G - All Ages
 
 ## Tags

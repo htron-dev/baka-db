@@ -13,7 +13,6 @@
 
 -   drama
 -   historical
-
 -   shoujo
 -   slice-of-life
 

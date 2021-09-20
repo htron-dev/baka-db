@@ -25,4 +25,4 @@ Sukuna Gojo is a boy who ran away from his wealthy home after becoming disgusted
 -   [My Anime list](https://myanimelist.net/anime/37304/K__Seven_Stories_Movie_3_-_Side_Green_-_Uwagaki_Sekai)
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

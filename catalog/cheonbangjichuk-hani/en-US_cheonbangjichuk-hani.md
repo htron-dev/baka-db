@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 천방지축 하니
-
 -   **rating**: None
 
 ## Tags

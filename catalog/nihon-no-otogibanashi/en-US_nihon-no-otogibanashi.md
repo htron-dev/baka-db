@@ -11,7 +11,6 @@
 -   demons
 -   fantasy
 -   historical
-
 -   magic
 -   samurai
 -   supernatural

@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 182
 -   **original-name**: 치링치링 시크릿 쥬쥬
-
 -   **rating**: PG - Children
 
 ## Tags

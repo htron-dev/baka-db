@@ -11,7 +11,6 @@
 
 -   sci-fi
 -   comedy
-
 -   school
 
 ## Sinopse

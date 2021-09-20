@@ -25,4 +25,4 @@ Twenty-four-year-old Kirara is on her way to her wedding when she is killed in a
 -   [My Anime list](https://myanimelist.net/anime/2526/Kirara)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4004)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5960)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Kirara_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Kirara_%28manga%29)

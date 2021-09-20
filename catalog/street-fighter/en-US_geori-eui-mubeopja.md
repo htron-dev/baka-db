@@ -20,4 +20,4 @@ In the year 2010, after World War III, the world is devastated and most of the w
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/30042/Geori-eui_Mubeopja)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Street_Fighter_(1992_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_%281992_film%29)

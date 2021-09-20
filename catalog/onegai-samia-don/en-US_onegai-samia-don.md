@@ -13,7 +13,6 @@
 
 -   slice-of-life
 -   comedy
-
 -   magic
 -   fantasy
 

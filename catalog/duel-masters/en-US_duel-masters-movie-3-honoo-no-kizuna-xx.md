@@ -9,7 +9,6 @@
 ## Tags
 
 -   game
-
 -   fantasy
 
 ## Sinopse

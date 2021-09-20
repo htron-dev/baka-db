@@ -9,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 
 ## Sinopse

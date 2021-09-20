@@ -8,7 +8,6 @@
 
 -   action
 -   demons
-
 -   supernatural
 
 ## Authors

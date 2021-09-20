@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: アニメ古典文学館
-
 -   **rating**: G - All Ages
 
 ## Tags

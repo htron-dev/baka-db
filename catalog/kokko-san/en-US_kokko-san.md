@@ -8,7 +8,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 -   seinen
 

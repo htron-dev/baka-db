@@ -32,4 +32,4 @@ After a fierce coup d'état unfolds, Piao returns to Xin, half dead, with a miss
 -   [Official Site](http://www9.nhk.or.jp/anime/kingdom/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8791)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13783)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/キングダム_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/キングダム_%28漫画%29)

@@ -11,8 +11,6 @@
 -   music
 -   drama
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/45731/Argonavis_from_BanG_Dream_Movie)

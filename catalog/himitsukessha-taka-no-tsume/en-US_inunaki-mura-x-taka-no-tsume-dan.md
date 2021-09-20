@@ -20,4 +20,4 @@ A collaboration between the live-action horror film Inunaki-mura slated to be re
 
 -   [My Anime list](https://myanimelist.net/anime/41096/Inunaki-mura_x_Taka_no_Tsume-dan)
 -   [Official Site](https://www.inunaki-movie.jp/)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E7%8A%AC%E9%B3%B4%E6%9D%91_(%E6%98%A0%E7%94%BB)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E7%8A%AC%E9%B3%B4%E6%9D%91_%28%E6%98%A0%E7%94%BB%29)

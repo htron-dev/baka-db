@@ -10,7 +10,6 @@
 ## Tags
 
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

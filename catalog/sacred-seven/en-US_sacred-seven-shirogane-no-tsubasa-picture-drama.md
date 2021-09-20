@@ -23,4 +23,4 @@ Picture Drama included in Sacred Seven: Shirogane no Tsubasa, where Knight and F
 -   [My Anime list](https://myanimelist.net/anime/13927/Sacred_Seven__Shirogane_no_Tsubasa_Picture_Drama)
 -   [Official Site](http://www.sacred7.jp/p_dvdShirogane.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8760)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/セイクリッドセブン_(アニメ)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/セイクリッドセブン_%28アニメ%29)

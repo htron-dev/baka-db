@@ -10,7 +10,6 @@
 ## Tags
 
 -   action
-
 -   sports
 -   comedy
 

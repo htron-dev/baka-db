@@ -12,8 +12,6 @@
 -   Kurumi
 -   Chino (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21927/Kuru-Mix)

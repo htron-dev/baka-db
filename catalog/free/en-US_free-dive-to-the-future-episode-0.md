@@ -24,4 +24,4 @@ Episode 0 of Free!: Dive to the Future was shown at a special Free! event. Episo
 -   [Official Site](http://tym.iwatobi-sc.com/news/?id=172)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13548)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13548)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Free!_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Free!_%28TV_series%29)

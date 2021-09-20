@@ -23,4 +23,4 @@ In the magical underwater world, there is a mysterious and charming place called
 -   [My Anime list](https://myanimelist.net/anime/40249/Balala_Xiaomoxian__Mofa_Hai_Ying_Bao)
 -   [Official Site](https://balala.auldey.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14638)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Balala_the_Fairies_(series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Balala_the_Fairies_%28series%29)

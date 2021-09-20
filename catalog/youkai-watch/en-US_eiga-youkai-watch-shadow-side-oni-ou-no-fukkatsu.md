@@ -10,7 +10,6 @@
 ## Tags
 
 -   demons
-
 -   supernatural
 
 ## Authors

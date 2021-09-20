@@ -30,4 +30,4 @@ Filled with action, Kimi no Na wo Yobu follows Ichigo and Kon as they fight agai
 -   [Official Site](http://www.tv-tokyo.co.jp/bleach/2008/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6041)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10055)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bleach_(manga)#Films>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bleach_%28manga%29#Films)

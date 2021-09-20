@@ -25,4 +25,4 @@ On Rikka's 16th birthday, things are forever changed when a paramilitary group r
 -   [Official Site](http://project-blackfox.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13924)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20802)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Blackfox_(2019_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Blackfox_%282019_film%29)

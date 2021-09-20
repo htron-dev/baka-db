@@ -3,9 +3,9 @@
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30
+-   **original-name**: 聖戦のレギオス
 -   **start-date**: 2011-09-17
 -   **end-date**: 2011-09-17
--   **original-name**: 聖戦のレギオス
 
 ## Tags
 

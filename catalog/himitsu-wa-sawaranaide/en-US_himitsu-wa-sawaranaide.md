@@ -15,8 +15,6 @@
 -   Isaki
 -   Rika (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/50237/Himitsu_wa_Sawaranaide)

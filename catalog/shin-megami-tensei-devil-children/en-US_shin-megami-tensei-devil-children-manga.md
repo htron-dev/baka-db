@@ -12,7 +12,6 @@
 -   adventure
 -   demons
 -   fantasy
-
 -   magic
 -   sci-fi
 -   supernatural

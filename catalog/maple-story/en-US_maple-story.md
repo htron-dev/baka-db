@@ -12,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   fantasy
 -   comedy
 -   romance

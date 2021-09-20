@@ -25,4 +25,4 @@ The second season of Moonlight Mile.
 -   [Official Site](http://www.moonlightmile.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5020)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8236)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Moonlight_Mile_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Moonlight_Mile_%28manga%29#Anime)

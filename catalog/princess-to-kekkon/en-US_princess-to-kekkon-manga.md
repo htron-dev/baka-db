@@ -26,11 +26,4 @@ King Edenbourg's traffic accident turns out to be an abduction. Under orders fro
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/28194/Princess_to_Kekkon)
-    e woman!
-
-(Source: Digital Manga Publishing)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/29287/Princess_to_Kekkon)

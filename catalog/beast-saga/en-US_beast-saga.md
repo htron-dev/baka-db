@@ -13,7 +13,6 @@
 
 -   action
 -   sci-fi
-
 -   shounen
 
 ## Sinopse

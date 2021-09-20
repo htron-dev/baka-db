@@ -17,7 +17,7 @@
 ## Authors
 
 -   Inaba
--   So-he- (Story & Art)
+-   So-he(Story & Art)
 
 ## Sinopse
 

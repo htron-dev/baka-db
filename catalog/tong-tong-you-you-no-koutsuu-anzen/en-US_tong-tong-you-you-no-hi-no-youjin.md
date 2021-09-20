@@ -18,4 +18,4 @@ This educational short was in part made in honor of the 20th anniversary of the 
 
 -   [My Anime list](https://myanimelist.net/anime/39255/Tong_Tong_-_You_You_no_Hi_no_Youjin)
 -   [Official Site](http://www.edu.city.yokohama.jp/av/list/lib/data/01/010192.htm)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%B3_(%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%B3_%28%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80%29)

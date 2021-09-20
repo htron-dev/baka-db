@@ -27,4 +27,4 @@ It is said that every few years, there is what's known as the "Summer of Anu." D
 -   [Official Site](http://mv.avex.jp/druaga1st/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5503)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8746)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Tower_of_Druaga_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Tower_of_Druaga_%28anime%29)

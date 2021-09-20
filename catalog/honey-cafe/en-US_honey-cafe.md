@@ -13,8 +13,6 @@
 
 -   None
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21928/Honey_Cafe)

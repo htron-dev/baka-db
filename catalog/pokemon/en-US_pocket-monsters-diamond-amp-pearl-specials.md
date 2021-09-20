@@ -10,7 +10,6 @@
 
 -   action
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -28,4 +27,4 @@ Nibi Gym - The Greatest Crisis Ever!
 -   [My Anime list](https://myanimelist.net/anime/10302/Pocket_Monsters__Diamond___Pearl_Specials)
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/pokemon_dp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4728)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pokémon:_Diamond_and_Pearl_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pokémon:_Diamond_and_Pearl_%28anime%29)

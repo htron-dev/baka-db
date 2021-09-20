@@ -15,8 +15,6 @@
 -   Uchida
 -   Kazuna (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/10047/Sweetest_Tripper)

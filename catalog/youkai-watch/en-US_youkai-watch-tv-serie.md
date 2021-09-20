@@ -13,7 +13,6 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 
 ## Sinopse

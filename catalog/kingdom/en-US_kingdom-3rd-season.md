@@ -29,4 +29,4 @@ Meanwhile Li Mu—an unparalleled strategist and the newly appointed prime minis
 -   [Official Site](https://kingdom-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15259)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22931)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Kingdom_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_%28manga%29#Anime)

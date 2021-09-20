@@ -10,7 +10,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse
@@ -20,4 +19,4 @@ The story follows as Tochi and Milo travel the world in search of new Kimchi Pon
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/37798/Chaechaepong_Kimchi_Pong)
--   [Wikipedia](<https://ko.wikipedia.org/wiki/채채퐁_김치퐁#각_화_제목(방영_일자)>)
+-   [Wikipedia](https://ko.wikipedia.org/wiki/채채퐁_김치퐁#각_화_제목%28방영_일자%29)

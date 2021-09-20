@@ -31,4 +31,4 @@ Ever since the 10th NOVA clash, the Chevalier had concluded that the NOVA have b
 -   [Official Site](https://web.archive.org/web/20140419024939/freezing.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9789)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15226)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Freezing_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Freezing_%28manga%29)

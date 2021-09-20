@@ -17,4 +17,4 @@ No synopsis information has been added to this title. Help improve our database 
 
 -   [My Anime list](https://myanimelist.net/anime/48304/Yuhuwa_Chingudeul_2)
 -   [Official Site](http://yoohoo.auroraworld.com/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/YooHoo_%26_Friends_(2009_TV_series)#Season_2>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/YooHoo_%26_Friends_%282009_TV_series%29#Season_2)

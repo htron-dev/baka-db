@@ -10,7 +10,6 @@
 ## Tags
 
 -   historical
-
 -   fantasy
 
 ## Sinopse

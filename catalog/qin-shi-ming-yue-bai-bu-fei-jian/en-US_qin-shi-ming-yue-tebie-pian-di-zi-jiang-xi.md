@@ -23,4 +23,4 @@ This special is about a wounded man who finds himself caught up in the lives of 
 
 -   [My Anime list](https://myanimelist.net/anime/33278/Qin_Shi_Ming_Yue_Tebie_Pian__Di_Zi_Jiang_Xi)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13576)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29)

@@ -25,4 +25,4 @@ Click here to update this information.
 -   [My Anime list](https://myanimelist.net/anime/11533/Momotarou_Densetsu)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5788)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2628)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/桃太郎伝説_(アニメ)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/桃太郎伝説_%28アニメ%29)

@@ -11,7 +11,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

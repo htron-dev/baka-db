@@ -12,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   shoujo
 
 ## Sinopse

@@ -31,4 +31,4 @@ Saki ends up joining the club, and after clearing up the misunderstandings betwe
 -   [Official Site](http://www.saki-anime.com/1st/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6246)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10527)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Saki_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime)

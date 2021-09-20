@@ -34,4 +34,4 @@ Now, Guts must fight alongside Griffith and his crew to help Midland defeat the 
 -   [Official Site](http://www.berserkfilm.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7991)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12397)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Berserk_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Berserk_%28manga%29)

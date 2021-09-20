@@ -25,4 +25,4 @@ Black Jack is an "unregistered" doctor with a clouded, mysterious past. He works
 -   [Official Site](http://www.ytv.co.jp/bj/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2389)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4408)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Black_Jack_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Black_Jack_%28manga%29)

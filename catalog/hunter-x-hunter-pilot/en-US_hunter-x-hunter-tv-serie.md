@@ -33,4 +33,4 @@ Hunter x Hunter is a classic shounen that follows the story of four aspiring hun
 -   [Official Site](http://www.nippon-animation.co.jp/na/hunter/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=132)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1134)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Hunter_×_Hunter_(1999_TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Hunter_×_Hunter_%281999_TV_series%29)

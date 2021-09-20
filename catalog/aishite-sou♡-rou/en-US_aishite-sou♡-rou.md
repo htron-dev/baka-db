@@ -14,8 +14,6 @@
 -   Azuki
 -   Yuu (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/75895/Aishite_Sou%E2%99%A1Rou)

@@ -21,4 +21,4 @@ Kao Japan wants owners to be more proactive in checking their cats' health. And 
 
 -   [My Anime list](https://myanimelist.net/anime/37777/Chiisana_Tayori_Ookina_Tayori)
 -   [Official Site](http://www.kao.co.jp/nyantomo/)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29)

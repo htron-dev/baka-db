@@ -9,7 +9,6 @@
 
 -   music
 -   slice-of-life
-
 -   shoujo
 
 ## Sinopse

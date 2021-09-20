@@ -28,4 +28,4 @@ Although their lives and personalities are total opposites, they begin to grow c
 -   [Official Site](http://www.dou-kyu-sei.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11134)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16977)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E5%90%8C%E7%B4%9A%E7%94%9F_(%E4%B8%AD%E6%9D%91%E6%98%8E%E6%97%A5%E7%BE%8E%E5%AD%90%E3%81%AE%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E5%90%8C%E7%B4%9A%E7%94%9F_%28%E4%B8%AD%E6%9D%91%E6%98%8E%E6%97%A5%E7%BE%8E%E5%AD%90%E3%81%AE%E6%BC%AB%E7%94%BB%29)

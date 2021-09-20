@@ -31,4 +31,4 @@ After a few mishaps, they successfully arrive at Nanaki Village only to find it 
 -   [Official Site](http://www.mayoiga.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11863)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18052)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Lost_Village_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Village_%28anime%29)

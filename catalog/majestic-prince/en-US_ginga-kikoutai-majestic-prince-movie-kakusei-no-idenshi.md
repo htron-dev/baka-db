@@ -26,4 +26,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](http://www.mjp-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12033)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18198)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Majestic_Prince_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Majestic_Prince_%28manga%29)

@@ -12,7 +12,6 @@
 -   action
 -   comedy
 -   fantasy
-
 -   sports
 
 ## Authors

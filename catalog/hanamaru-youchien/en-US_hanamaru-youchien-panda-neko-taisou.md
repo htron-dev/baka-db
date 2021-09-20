@@ -10,7 +10,6 @@
 ## Tags
 
 -   comedy
-
 -   music
 
 ## Sinopse

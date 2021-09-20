@@ -11,7 +11,6 @@
 -   action
 -   adventure
 -   fantasy
-
 -   supernatural
 
 ## Sinopse

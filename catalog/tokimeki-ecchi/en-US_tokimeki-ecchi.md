@@ -16,8 +16,6 @@
 -   Tanaka
 -   Yutaka (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21935/Tokimeki_Ecchi)

@@ -10,7 +10,6 @@
 
 -   adventure
 -   fantasy
-
 -   slice-of-life
 
 ## Sinopse

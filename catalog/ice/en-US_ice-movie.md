@@ -20,4 +20,4 @@ Compilation movie of the previously released OVA.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/9053/Ice_Movie)
--   [Wikipedia](<http://en.wikipedia.org/wiki/ICE_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/ICE_%28anime%29)

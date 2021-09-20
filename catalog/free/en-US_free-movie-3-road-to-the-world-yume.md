@@ -26,4 +26,4 @@ Recap of the Free!: Dive to the Future TV series featuring new scenes.
 -   [Official Site](http://df.iwatobi-sc.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14601)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22313)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Free!_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Free!_%28anime%29)

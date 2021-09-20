@@ -25,4 +25,4 @@ This episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hi
 -   [My Anime list](https://myanimelist.net/anime/40924/22_7__8＋3_)
 -   [Official Site](https://227anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13299)
--   [Wikipedia](<https://en.wikipedia.org/wiki/22/7_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/22/7_%28TV_series%29)

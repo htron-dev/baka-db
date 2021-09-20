@@ -12,7 +12,6 @@
 ## Tags
 
 -   historical
-
 -   supernatural
 
 ## Sinopse

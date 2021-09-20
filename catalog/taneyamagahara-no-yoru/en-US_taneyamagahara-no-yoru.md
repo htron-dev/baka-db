@@ -9,7 +9,6 @@
 ## Tags
 
 -   fantasy
-
 -   psychological
 -   slice-of-life
 

@@ -15,8 +15,6 @@
 -   Kitabeppu
 -   Nica (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/30739/Amai_Shokutaku)

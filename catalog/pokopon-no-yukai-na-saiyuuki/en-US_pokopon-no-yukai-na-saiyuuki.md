@@ -10,7 +10,6 @@
 
 -   adventure
 -   fantasy
-
 -   magic
 -   martial-arts
 

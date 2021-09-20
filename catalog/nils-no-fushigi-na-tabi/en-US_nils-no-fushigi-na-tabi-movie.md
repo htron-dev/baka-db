@@ -11,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse
@@ -28,4 +27,4 @@ Note: No theatrical release was actually made and it became available to the gen
 
 -   [My Anime list](https://myanimelist.net/anime/7664/Nils_no_Fushigi_na_Tabi_Movie)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7428)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils_%28anime%29)

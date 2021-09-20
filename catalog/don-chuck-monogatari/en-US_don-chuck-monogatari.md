@@ -11,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   slice-of-life
 
 ## Sinopse

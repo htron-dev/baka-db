@@ -27,4 +27,4 @@ The semifinal round of the Inter-High Mahjong Championship is still in full swin
 -   [Official Site](http://www.saki-anime.com/achiga/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8701)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13661)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Saki_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime)

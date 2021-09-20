@@ -10,7 +10,6 @@
 ## Tags
 
 -   mystery
-
 -   fantasy
 
 ## Sinopse

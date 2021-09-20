@@ -13,7 +13,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   shounen
 
 ## Sinopse
@@ -26,4 +25,4 @@ One day Nobita found a small sapling behind the hill but his mom won't allow him
 -   [Official Site](http://www.doraeiga.com/2008/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6382)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8394)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Green_Giant_Legend_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Green_Giant_Legend_%28film%29)

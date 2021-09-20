@@ -20,4 +20,4 @@ Recap of episodes 1-11 of Tetsujin 28-gou, originally broadcasted between episod
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/27993/Tetsujin_28-gou__Tanjou-hen)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/鉄人28号_(テレビアニメ第1作)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/鉄人28号_%28テレビアニメ第1作%29)

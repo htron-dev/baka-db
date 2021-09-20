@@ -20,4 +20,4 @@ Short specials from the DVDs.
 
 -   [My Anime list](https://myanimelist.net/anime/6251/Sketchbook__Full_Colors_Picture_Drama)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5186)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sketchbook_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sketchbook_%28manga%29)

@@ -33,4 +33,4 @@ What will they find at the end of their long and treacherous journey?
 -   [Official Site](http://saiyuki-rb.jp)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12287)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18999)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Saiyuki_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Saiyuki_%28manga%29)

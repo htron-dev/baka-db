@@ -12,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   sports
 -   comedy

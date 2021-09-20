@@ -22,4 +22,4 @@ A history of Japan with the main characters as animals.
 -   [My Anime list](https://myanimelist.net/anime/22999/Nippon_Tanjou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3509)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1702)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/日本誕生_(テレビアニメ)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/日本誕生_%28テレビアニメ%29)

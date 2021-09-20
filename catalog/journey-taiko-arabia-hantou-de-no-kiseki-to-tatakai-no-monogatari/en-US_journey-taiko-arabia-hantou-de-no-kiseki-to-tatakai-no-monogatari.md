@@ -21,4 +21,4 @@ The Journey is a Japanese–Saudi Arabian animated film co-produced by Toei Anim
 
 -   [My Anime list](https://myanimelist.net/anime/48612/Journey__Taiko_Arabia_Hantou_de_no_Kiseki_to_Tatakai_no_Monogatari)
 -   [Official Site](https://journey.toeiad.co.jp/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Journey_(2021_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Journey_%282021_film%29)

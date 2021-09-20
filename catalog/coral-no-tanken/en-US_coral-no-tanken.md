@@ -10,7 +10,6 @@
 ## Tags
 
 -   adventure
-
 -   music
 
 ## Sinopse

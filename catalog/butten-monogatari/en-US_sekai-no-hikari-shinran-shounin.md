@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 世界の光 親鸞聖人
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

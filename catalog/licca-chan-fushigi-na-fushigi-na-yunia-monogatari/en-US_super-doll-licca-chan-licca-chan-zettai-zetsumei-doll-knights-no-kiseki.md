@@ -13,7 +13,6 @@
 -   action
 -   adventure
 -   super-power
-
 -   magic
 -   fantasy
 -   shoujo

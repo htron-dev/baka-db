@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 幽 ☆ 遊 ☆ 白書 夢夢白書
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

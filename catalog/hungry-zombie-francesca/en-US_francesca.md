@@ -25,4 +25,4 @@ TV anime adaptation based on the undead idol character Francesca to promote Hokk
 -   [Official Site](http://www.heart-bit.com/francesca/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10496)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15955)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%AB_(%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%83%E3%83%88)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%AB_%28%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%83%E3%83%88%29)

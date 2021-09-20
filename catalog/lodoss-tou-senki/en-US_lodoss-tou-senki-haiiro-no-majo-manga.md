@@ -28,9 +28,4 @@ Parn, the strong-headed fighter. Deedlit, the young and haughty elf. Ghim, the g
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/87657/Lodoss-tou_Senki__Haiiro_no_Majo)
-    d in the greatest epic struggle between good and evil since the war of the goddesses.
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/1618/Lodoss-tou_Senki__Haiiro_no_Majo)

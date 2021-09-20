@@ -14,7 +14,7 @@
 
 ## Authors
 
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 -   Miwa
 -   Choushiro (Story)
 

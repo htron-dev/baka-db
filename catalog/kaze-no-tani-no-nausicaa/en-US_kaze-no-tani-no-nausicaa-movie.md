@@ -26,4 +26,4 @@ Away from the jungle exists a peaceful farming kingdom known as the "Valley of t
 -   [My Anime list](https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausicaä)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=275)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=180)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_%28film%29)

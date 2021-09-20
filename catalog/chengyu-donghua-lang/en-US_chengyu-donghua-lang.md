@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 180
 -   **original-name**: 成語動畫廊
-
 -   **rating**: PG - Children
 
 ## Tags

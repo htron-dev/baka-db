@@ -16,8 +16,6 @@
 -   Konohana
 -   Sakura (Story)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/106364/Keiyaku_Fianc%C3%A9e_Ikusei_Keikaku__Oresama_Shachou_ni_Dekiai_Sarete)

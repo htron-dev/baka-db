@@ -27,4 +27,4 @@ Grey is a laconic trooper in a rough, futuristic military system which rewards s
 -   [Official Site](http://ashipro.jp/works/theatrical/w007.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1515)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=673)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Grey_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Grey_%28manga%29)

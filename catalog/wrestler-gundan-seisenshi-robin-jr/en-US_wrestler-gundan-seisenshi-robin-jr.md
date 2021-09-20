@@ -15,7 +15,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   parody
 -   sci-fi
 -   super-power

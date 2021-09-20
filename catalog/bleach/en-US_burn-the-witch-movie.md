@@ -30,4 +30,4 @@ The protagonists of the story are witch duo Noel Niihashi and Ninny Spangcole. T
 -   [Official Site](https://burn-the-witch-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15448)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23124)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Burn_the_Witch_(manga)#Film>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Burn_the_Witch_%28manga%29#Film)

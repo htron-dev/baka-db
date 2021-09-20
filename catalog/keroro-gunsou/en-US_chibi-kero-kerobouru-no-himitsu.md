@@ -20,4 +20,4 @@ A young Keroro tries to impress Pururu by showing off the Kero Ball, a ball borr
 
 -   [My Anime list](https://myanimelist.net/anime/5449/Chibi_Kero__Kerobouru_no_Himitsu)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8037)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9_(%E5%8A%87%E5%A0%B4%E7%89%88)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9_%28%E5%8A%87%E5%A0%B4%E7%89%88%29)

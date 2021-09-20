@@ -28,4 +28,4 @@ In Jewel Land, Jewelpets, creatures who has the natural ability to use magic liv
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/jewelpet2/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7414)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11285)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Jewelpet_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Jewelpet_%28anime%29)

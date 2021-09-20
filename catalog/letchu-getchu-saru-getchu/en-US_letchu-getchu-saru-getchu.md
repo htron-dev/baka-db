@@ -19,4 +19,4 @@ The monkeys are up to no good again, but this time they're on the "heroes" side.
 
 -   [My Anime list](https://myanimelist.net/anime/31054/Letchu_Getchu_Saru_Getchu)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11837)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ape_Escape_(shorts)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ape_Escape_%28shorts%29)

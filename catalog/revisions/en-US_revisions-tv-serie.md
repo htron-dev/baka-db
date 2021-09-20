@@ -27,4 +27,4 @@
 -   [Official Site](https://revisions.jp/anime/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13891)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21122)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Revisions_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Revisions_%28TV_series%29)

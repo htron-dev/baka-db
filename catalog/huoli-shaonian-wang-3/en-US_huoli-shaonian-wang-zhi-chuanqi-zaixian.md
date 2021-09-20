@@ -10,7 +10,6 @@
 ## Tags
 
 -   game
-
 -   magic
 -   fantasy
 

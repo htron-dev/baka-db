@@ -11,7 +11,6 @@
 
 -   action
 -   comedy
-
 -   sci-fi
 
 ## Sinopse

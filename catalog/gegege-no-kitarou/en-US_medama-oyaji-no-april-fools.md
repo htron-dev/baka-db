@@ -21,4 +21,4 @@ An April Fools' Day prank between Gegege no Kitarou (2018) and Fuji TV. It shows
 -   [Official Site](https://www.youtube.com/watch?v=CmJog_3_f4o)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13742)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20562)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_%28%E3%82%A2%E3%83%8B%E3%83%A1%29)

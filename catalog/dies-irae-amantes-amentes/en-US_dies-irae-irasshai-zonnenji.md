@@ -20,4 +20,4 @@ A picture drama parody of Dies Irae, but advertised as a radio-style drama. It p
 
 -   [My Anime list](https://myanimelist.net/anime/36521/Dies_Irae__Irasshai_Zonnenji)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29)

@@ -29,4 +29,4 @@ Thankfully, his life is spared due to the girl's swift action. Bleeding by the s
 -   [Official Site](http://tonikawa.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15421)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23503)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_%28manga%29#Anime)

@@ -22,4 +22,4 @@ Third season of One Room.
 -   [Official Site](http://oneroom-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15411)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23601)
--   [Wikipedia](<https://en.wikipedia.org/wiki/One_Room_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/One_Room_%28anime%29)

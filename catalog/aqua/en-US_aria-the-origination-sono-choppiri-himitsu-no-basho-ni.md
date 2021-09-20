@@ -27,4 +27,4 @@ Akari and President Aria take a walk in the eastern part of Neo-Venezia. The are
 -   [My Anime list](https://myanimelist.net/anime/4772/Aria_the_Origination__Sono_Choppiri_Himitsu_no_Basho_ni)
 -   [Official Site](http://www.ariacompany.net/story.html#sp)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5424)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Aria_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Aria_%28manga%29#Anime)

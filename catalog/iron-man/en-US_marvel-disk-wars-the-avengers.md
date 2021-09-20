@@ -12,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   super-power
 
 ## Sinopse

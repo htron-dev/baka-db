@@ -12,7 +12,6 @@
 
 -   adventure
 -   mystery
-
 -   fantasy
 
 ## Sinopse

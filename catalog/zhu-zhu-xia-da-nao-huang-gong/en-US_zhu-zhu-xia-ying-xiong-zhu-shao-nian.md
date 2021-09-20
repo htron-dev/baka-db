@@ -10,7 +10,6 @@
 
 -   sci-fi
 -   super-power
-
 -   magic
 
 ## Sinopse

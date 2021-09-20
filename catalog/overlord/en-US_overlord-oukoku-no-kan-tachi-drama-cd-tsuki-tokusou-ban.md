@@ -25,4 +25,4 @@ The drama is about the Pleiades gather together for a tea break. Here, they disc
 -   [My Anime list](https://myanimelist.net/anime/37264/Overlord__Oukoku_no_Kan-tachi_-_Drama_CD-tsuki_Tokusou-ban)
 -   [Official Site](http://ebten.jp/eb-store/p/s/7015013112102/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10816)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E5%B0%8F%E8%AA%AC)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_%28%E5%B0%8F%E8%AA%AC%29)

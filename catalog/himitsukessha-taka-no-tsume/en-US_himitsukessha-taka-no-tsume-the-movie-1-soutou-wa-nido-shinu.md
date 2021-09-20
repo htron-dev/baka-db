@@ -22,4 +22,4 @@ The first Eagle Talon movie.
 -   [Official Site](http://www.kaeruotoko.com/movie/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6555)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8038)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Eagle_Talon_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29)

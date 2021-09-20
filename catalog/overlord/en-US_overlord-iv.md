@@ -21,4 +21,4 @@ Fourth season of Overlord.
 -   [My Anime list](https://myanimelist.net/anime/48895/Overlord_IV)
 -   [Official Site](http://overlord-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16296)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Over_Lord_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Over_Lord_%28novel_series%29)

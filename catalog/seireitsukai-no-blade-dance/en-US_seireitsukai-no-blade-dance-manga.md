@@ -30,11 +30,4 @@ Only a pure maiden can have a privilege to contract with spirit. In here, Areish
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/32939/Seireitsukai_no_Blade_Dance)
-    the origin of his power? Now Clair is determined that he's going to have to support her, since she believes that the spirit he now has power over what should rightly be hers.
-
-(Source: MangaHelpers)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/43509/Seireitsukai_no_Blade_Dance)

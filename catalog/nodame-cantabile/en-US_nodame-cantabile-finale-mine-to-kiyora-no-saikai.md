@@ -21,7 +21,6 @@ Violinist Kiyora Miki meets with Shinichi Chiaki, Megumi "Nodame" Noda, and thei
 
 [Source My Anime List]
 
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/8038/Nodame_Cantabile__Finale_-_Mine_to_Kiyora_no_Saikai)

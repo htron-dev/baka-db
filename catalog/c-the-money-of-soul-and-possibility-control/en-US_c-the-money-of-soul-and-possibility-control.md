@@ -30,4 +30,4 @@ Going by the name Masakaki, the visitor petitions Yoga to come to the Eastern Fi
 -   [Official Site](http://www.noitamina-control.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8149)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12400)
--   [Wikipedia](<http://en.wikipedia.org/wiki/C_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/C_%28anime%29)

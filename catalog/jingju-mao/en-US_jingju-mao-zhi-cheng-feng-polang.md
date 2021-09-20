@@ -12,7 +12,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   martial-arts
 -   fantasy
 

@@ -11,7 +11,6 @@
 
 -   slice-of-life
 -   comedy
-
 -   school
 
 ## Sinopse

@@ -10,7 +10,6 @@
 
 -   game
 -   adventure
-
 -   fantasy
 
 ## Sinopse

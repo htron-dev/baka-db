@@ -10,7 +10,6 @@
 ## Tags
 
 -   comedy
-
 -   shoujo
 -   slice-of-life
 

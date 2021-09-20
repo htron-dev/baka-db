@@ -3,7 +3,6 @@
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: PEPSI NEX × 009 RE:CYBORG（サイボーグ 009）
-
 -   **rating**: G - All Ages
 
 ## Tags

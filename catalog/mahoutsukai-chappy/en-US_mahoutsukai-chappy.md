@@ -11,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 
 ## Sinopse

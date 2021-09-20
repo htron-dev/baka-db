@@ -33,4 +33,4 @@ Based on the visual novel by Key and produced by Kyoto Animation, Clannad: After
 -   [Official Site](http://www.tbs.co.jp/clannad/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5841)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9701)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Clannad_(visual_novel)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29)

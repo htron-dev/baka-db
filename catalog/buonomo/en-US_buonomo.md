@@ -3,7 +3,6 @@
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ボーノーモ
-
 -   **rating**: G - All Ages
 
 ## Tags

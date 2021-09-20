@@ -10,7 +10,6 @@
 
 -   sci-fi
 -   adventure
-
 -   fantasy
 
 ## Sinopse

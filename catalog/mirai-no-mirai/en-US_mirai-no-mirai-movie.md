@@ -28,4 +28,4 @@ To help him adapt to this drastic change, Kun is taken on an extraordinary journ
 -   [Official Site](http://www.mirai-no-mirai.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13174)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20425)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Mirai_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Mirai_%28film%29)

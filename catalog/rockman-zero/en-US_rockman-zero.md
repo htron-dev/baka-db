@@ -11,7 +11,6 @@
 
 -   action
 -   comedy
-
 -   mecha
 -   sci-fi
 

@@ -18,8 +18,6 @@
 -   Mikami
 -   Teren (Story)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/110104/Majime_na_Imouto_Moe_Buta_ga_Eiyuu_de_Motete_Kamitaiou_sareru_Fantasia)

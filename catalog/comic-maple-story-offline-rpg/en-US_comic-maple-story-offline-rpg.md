@@ -9,7 +9,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 
 ## Authors

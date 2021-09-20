@@ -9,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 -   sci-fi
 -   shounen

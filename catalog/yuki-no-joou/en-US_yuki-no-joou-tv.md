@@ -32,4 +32,4 @@ One night, the Snow Queen came in her carriage and took Kai back to her ice cast
 -   [Official Site](http://www3.nhk.or.jp/anime/snowqueen/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2828)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5363)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Snow_Queen_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Snow_Queen_%28anime%29)

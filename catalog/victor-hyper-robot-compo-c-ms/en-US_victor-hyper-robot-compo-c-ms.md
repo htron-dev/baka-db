@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ビクター　ロボットコンポ CM
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

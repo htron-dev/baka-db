@@ -8,7 +8,6 @@
 ## Tags
 
 -   historical
-
 -   slice-of-life
 
 ## Sinopse

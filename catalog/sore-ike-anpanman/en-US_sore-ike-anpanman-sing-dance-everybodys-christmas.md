@@ -10,7 +10,6 @@
 
 -   comedy
 -   fantasy
-
 -   super-power
 
 ## Sinopse

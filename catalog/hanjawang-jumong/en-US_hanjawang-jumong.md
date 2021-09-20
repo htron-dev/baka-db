@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 한자왕 주몽
-
 -   **rating**: PG - Children
 
 ## Tags

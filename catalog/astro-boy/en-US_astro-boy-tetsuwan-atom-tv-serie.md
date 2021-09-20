@@ -15,7 +15,6 @@
 -   sci-fi
 -   adventure
 -   super-power
-
 -   mecha
 -   shounen
 

@@ -28,4 +28,4 @@ But this year's Redline may be far more dangerous than usual—it has been annou
 -   [Official Site](http://red-line.jp/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6529)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6456)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Redline_(2009_film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Redline_%282009_film%29)

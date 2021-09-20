@@ -24,4 +24,4 @@ In modern day Tokyo, three university students, Negishi Miyako (Neko-chan), Saik
 -   [My Anime list](https://myanimelist.net/anime/3192/Tobira_wo_Akete)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2251)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2281)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E6%89%89%E3%82%92%E9%96%8B%E3%81%91%E3%81%A6_(%E5%B0%8F%E8%AA%AC)#%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E6%89%89%E3%82%92%E9%96%8B%E3%81%91%E3%81%A6_%28%E5%B0%8F%E8%AA%AC%29#%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB)

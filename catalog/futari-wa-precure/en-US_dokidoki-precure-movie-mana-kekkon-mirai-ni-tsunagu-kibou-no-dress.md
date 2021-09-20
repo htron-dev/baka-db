@@ -11,7 +11,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 -   shoujo
 

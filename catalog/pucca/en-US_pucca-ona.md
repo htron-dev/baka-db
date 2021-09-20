@@ -3,7 +3,6 @@
 -   **type**: ona
 -   **episodes**: 46
 -   **original-name**: プッカ
-
 -   **rating**: G - All Ages
 
 ## Tags

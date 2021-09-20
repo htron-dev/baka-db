@@ -13,7 +13,6 @@
 -   adventure
 -   cars
 -   comedy
-
 -   police
 
 ## Sinopse

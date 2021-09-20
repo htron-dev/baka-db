@@ -26,4 +26,4 @@ The series is set in a near-future world where the boundary between human being 
 -   [Official Site](http://www.project-pandora.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12252)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20354)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Last_Hope_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Last_Hope_%28anime%29)

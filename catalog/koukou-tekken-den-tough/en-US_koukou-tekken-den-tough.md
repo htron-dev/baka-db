@@ -25,4 +25,4 @@ Years ago there was an underground match between Pro Wrestling and Nanshin Shado
 -   [My Anime list](https://myanimelist.net/anime/2797/Koukou_Tekken-den_Tough)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1870)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3969)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Tough_(manga)#OVA>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Tough_%28manga%29#OVA)

@@ -13,7 +13,7 @@
 ## Authors
 
 -   Chihaya (Story)
--   KOMANDO- (Art)
+-   KOMANDO(Art)
 
 ## Links
 

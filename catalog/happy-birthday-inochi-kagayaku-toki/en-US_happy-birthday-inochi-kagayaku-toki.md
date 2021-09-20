@@ -10,7 +10,6 @@
 ## Tags
 
 -   drama
-
 -   slice-of-life
 
 ## Sinopse

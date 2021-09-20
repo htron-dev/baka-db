@@ -13,7 +13,6 @@
 
 -   historical
 -   parody
-
 -   samurai
 
 ## Sinopse

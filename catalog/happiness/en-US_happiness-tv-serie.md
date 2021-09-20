@@ -28,4 +28,4 @@ Kamizaka Haruhi having been rescued when she was young by a mage, longed to be a
 -   [My Anime list](https://myanimelist.net/anime/1570/Happiness)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4594)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6800)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Happiness!_(visual_novel)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Happiness!_%28visual_novel%29#Anime)

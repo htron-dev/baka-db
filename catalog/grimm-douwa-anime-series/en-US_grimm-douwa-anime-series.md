@@ -8,7 +8,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 
 ## Sinopse

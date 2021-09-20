@@ -15,8 +15,6 @@
 -   Yabuuchi
 -   Yuu (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/11358/Ocharakahoi)

@@ -10,7 +10,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 -   romance
 -   school

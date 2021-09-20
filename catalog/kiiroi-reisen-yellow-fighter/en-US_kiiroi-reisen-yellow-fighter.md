@@ -15,8 +15,6 @@
 -   Ozawa
 -   Satoru (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/95566/Kiiroi_Reisen__Yellow_Fighter)

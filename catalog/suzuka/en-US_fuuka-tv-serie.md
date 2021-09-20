@@ -34,4 +34,4 @@ Unlike most people, Fuuka doesn't own a cellphone; she even listens to music usi
 -   [Official Site](http://www.fuuka.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12300)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18879)
--   [Wikipedia](<https://en.wikipedia.org/wiki/F%C5%ABka_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/F%C5%ABka_%28manga%29)

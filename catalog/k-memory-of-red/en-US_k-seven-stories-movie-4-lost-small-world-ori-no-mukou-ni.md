@@ -25,4 +25,4 @@ Misaki Yata is a youth whose reckless and immature attitude has led him to be sh
 -   [My Anime list](https://myanimelist.net/anime/37305/K__Seven_Stories_Movie_4_-_Lost_Small_World_-_Ori_no_Mukou_ni)
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

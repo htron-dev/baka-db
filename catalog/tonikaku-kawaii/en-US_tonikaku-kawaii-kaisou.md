@@ -21,4 +21,4 @@ Recap of all 12 episodes of Tonikaku Kawaii.
 -   [My Anime list](https://myanimelist.net/anime/45598/Tonikaku_Kawaii__Kaisou)
 -   [Official Site](http://tonikawa.com/news/news-41/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15421)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_%28manga%29#Anime)

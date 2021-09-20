@@ -16,8 +16,6 @@
 -   Pon
 -   Takahanada (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22023/Choco-pa)

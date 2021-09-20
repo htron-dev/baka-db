@@ -8,7 +8,6 @@
 
 -   action
 -   adventure
-
 -   martial-arts
 
 ## Authors

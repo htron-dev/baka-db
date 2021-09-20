@@ -12,7 +12,6 @@
 -   sci-fi
 -   adventure
 -   super-power
-
 -   fantasy
 
 ## Sinopse

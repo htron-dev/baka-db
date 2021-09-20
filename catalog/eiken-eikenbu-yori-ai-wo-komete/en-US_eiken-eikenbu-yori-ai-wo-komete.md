@@ -30,4 +30,4 @@ It doesn’t help matters that Chiharu has expressed fondness for Densuke in ret
 -   [Official Site](http://www.jcstaff.co.jp/sho-sai/eiken-shokai/eiken-index.htm)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=887)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2088)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/エイケン_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/エイケン_%28漫画%29)

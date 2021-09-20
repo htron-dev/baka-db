@@ -27,4 +27,4 @@ It is 199X A.D. In Kushiro, Hokkaido, three bodies of Dragonite appear. Possessi
 -   [Official Site](http://www.sunrise-inc.co.jp/datacard/card0065.htm)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4157)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=138)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Jushin_Liger_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Jushin_Liger_%28anime%29)

@@ -17,4 +17,4 @@ Full version of the story featured in the TV series. Released as a special.
 -   [My Anime list](https://myanimelist.net/anime/9002/True_Tears__Raigomaru_to_Jibeta_no_Monogatari)
 -   [Official Site](http://www.truetears.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4325)
--   [Wikipedia](<http://en.wikipedia.org/wiki/True_Tears_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/True_Tears_%28anime%29)

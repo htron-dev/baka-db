@@ -21,4 +21,4 @@ Random side-stories of Chousokabe and Mouri in chibi form.
 -   [My Anime list](https://myanimelist.net/anime/7857/Mini_Sengoku_Basara__Chousokabe-kun_to_Mouri-kun)
 -   [Official Site](http://www.sengokubasara.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6284)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29)

@@ -30,4 +30,4 @@ As the mysteries of his missing memories and Urashima itself unfold, Setsuna mus
 -   [Official Site](http://never-island.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12020)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18175)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/ISLAND_(%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%99%E3%83%AB)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/ISLAND_%28%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%99%E3%83%AB%29)

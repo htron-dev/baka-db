@@ -8,7 +8,6 @@
 ## Tags
 
 -   comedy
-
 -   parody
 -   school
 

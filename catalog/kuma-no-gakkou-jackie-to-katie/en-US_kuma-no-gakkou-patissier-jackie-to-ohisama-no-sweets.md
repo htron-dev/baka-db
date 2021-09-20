@@ -11,8 +11,6 @@
 
 -   comedy
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/34755/Kuma_no_Gakkou__Patissier_Jackie_to_Ohisama_no_Sweets)

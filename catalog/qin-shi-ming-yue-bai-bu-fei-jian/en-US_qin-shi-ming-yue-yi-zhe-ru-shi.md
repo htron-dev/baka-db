@@ -20,4 +20,4 @@ This special focuses on Duanmu Rong. It tells a story happened when she was an a
 -   [My Anime list](https://myanimelist.net/anime/37566/Qin_Shi_Ming_Yue__Yi_Zhe_Ru_Shi)
 -   [Official Site](http://www.qinsmoon.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13962)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29)

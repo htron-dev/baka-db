@@ -2,7 +2,6 @@
 
 -   **type**: movie
 -   **episodes**: 12
-
 -   **rating**: G - All Ages
 
 ## Tags

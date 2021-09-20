@@ -13,7 +13,6 @@
 
 -   adventure
 -   historical
-
 -   romance
 
 ## Sinopse

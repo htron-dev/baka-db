@@ -24,4 +24,4 @@ Second part of Shingeki no Kyojin: The Final Season.
 -   [My Anime list](https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2)
 -   [Official Site](https://shingeki.tv/final/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16177)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Attack_on_Titan_(season_4)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan_%28season_4%29)

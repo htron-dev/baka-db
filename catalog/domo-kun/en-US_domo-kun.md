@@ -22,4 +22,4 @@ As of 2008, there are at least 37 regular TV spot episodes of Domo-kun. These 37
 
 -   [My Anime list](https://myanimelist.net/anime/7643/Domo-kun)
 -   [Official Site](http://www.domomode.com/)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Domo_(NHK)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Domo_%28NHK%29)

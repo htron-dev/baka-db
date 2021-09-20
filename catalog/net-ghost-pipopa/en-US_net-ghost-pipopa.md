@@ -14,7 +14,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   sci-fi
 -   shounen
 

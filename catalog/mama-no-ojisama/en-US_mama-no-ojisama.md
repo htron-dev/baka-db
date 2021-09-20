@@ -15,8 +15,6 @@
 -   Abe
 -   Ritsuko (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22764/Mama_no_Ojisama)

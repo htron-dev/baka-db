@@ -19,5 +19,4 @@ Unaired specials included in the Blu-ray and DVD release.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/32816/Teekyuu_6_Specials)
--   [Official Site](http://てーきゅう　５期　ＴＶ未放送オリジナルエピソードアニメ )
 -   [Wikipedia](https://en.wikipedia.org/wiki/Teekyu)

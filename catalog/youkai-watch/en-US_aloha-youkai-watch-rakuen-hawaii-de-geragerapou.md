@@ -9,7 +9,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   supernatural
 
 ## Sinopse

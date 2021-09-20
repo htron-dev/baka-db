@@ -21,4 +21,4 @@ An exclusive picture drama released with the Blu-Ray Box Set of Seto no Hanayome
 
 -   [My Anime list](https://myanimelist.net/anime/28385/Seto_no_Hanayome_Picture_Drama)
 -   [Official Site](https://ssl.avexnet.or.jp/avexmovie/setonohanayome/)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E3%81%AE%E8%8A%B1%E5%AB%81_(%E6%BC%AB%E7%94%BB)#.E3.83.94.E3.82.AF.E3.83.81.E3.83.A3.E3.83.BC.E3.83.89.E3.83.A9.E3.83.9E>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E3%81%AE%E8%8A%B1%E5%AB%81_%28%E6%BC%AB%E7%94%BB%29#.E3.83.94.E3.82.AF.E3.83.81.E3.83.A3.E3.83.BC.E3.83.89.E3.83.A9.E3.83.9E)

@@ -10,7 +10,6 @@
 
 -   comedy
 -   fantasy
-
 -   magic
 -   romance
 -   school

@@ -11,7 +11,6 @@
 
 -   action
 -   drama
-
 -   mecha
 -   sci-fi
 

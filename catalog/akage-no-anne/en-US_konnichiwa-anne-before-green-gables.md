@@ -13,7 +13,6 @@
 
 -   drama
 -   historical
-
 -   slice-of-life
 
 ## Sinopse

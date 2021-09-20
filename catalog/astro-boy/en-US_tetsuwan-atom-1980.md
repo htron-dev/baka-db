@@ -29,4 +29,4 @@ Set in a future where machines have advanced to the point of autonomy and become
 -   [Official Site](http://en.tezuka.co.jp/anime/sakuhin/ts/ts017.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1446)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=388)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Astro_Boy_(1980_TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Astro_Boy_%281980_TV_series%29)

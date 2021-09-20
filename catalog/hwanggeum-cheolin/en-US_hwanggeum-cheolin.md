@@ -9,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   super-power
 -   demons

@@ -15,8 +15,6 @@
 -   Asada
 -   Okina (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21835/Sailor_Suit_to_Kikanbou)

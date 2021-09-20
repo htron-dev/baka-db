@@ -3,7 +3,6 @@
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 無限のリヴァイアス イリュージョン
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

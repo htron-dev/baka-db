@@ -10,7 +10,6 @@
 ## Tags
 
 -   drama
-
 -   shounen
 
 ## Authors

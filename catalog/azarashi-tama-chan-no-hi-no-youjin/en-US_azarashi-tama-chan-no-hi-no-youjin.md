@@ -9,7 +9,6 @@
 ## Tags
 
 -   drama
-
 -   super-power
 
 ## Sinopse

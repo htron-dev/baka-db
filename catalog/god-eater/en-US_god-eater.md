@@ -30,4 +30,4 @@ Now, as one of Fenrir's greatest weapons, Lenka must master his God Arc if he is
 -   [Official Site](http://anime.godeater.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10842)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16370)
--   [Wikipedia](<https://en.wikipedia.org/wiki/God_Eater_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/God_Eater_%28anime%29)

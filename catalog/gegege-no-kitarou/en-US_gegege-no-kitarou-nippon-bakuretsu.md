@@ -11,7 +11,6 @@
 -   action
 -   fantasy
 -   horror
-
 -   shounen
 -   supernatural
 

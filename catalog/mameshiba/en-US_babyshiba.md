@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ベビしば
-
 -   **rating**: G - All Ages
 
 ## Tags

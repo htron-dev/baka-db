@@ -14,7 +14,6 @@
 -   game
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

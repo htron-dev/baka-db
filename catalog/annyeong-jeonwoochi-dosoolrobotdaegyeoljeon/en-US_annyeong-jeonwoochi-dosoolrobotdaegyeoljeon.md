@@ -9,7 +9,6 @@
 ## Tags
 
 -   sci-fi
-
 -   martial-arts
 
 ## Sinopse

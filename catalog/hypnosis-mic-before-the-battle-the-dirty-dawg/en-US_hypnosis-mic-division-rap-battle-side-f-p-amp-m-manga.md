@@ -29,11 +29,4 @@ When the two teams arrive at the scene, they find old friends and enemies awaiti
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/136042/Hypnosis_Mic__Division_Rap_Battle_-_side_FP___M__)
-    what happened to The Dirty Dawg and the government’s true intentions.
-
-[Source My Anime List]
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/118166/Hypnosis_Mic__Division_Rap_Battle_-_side_FP___M)

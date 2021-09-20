@@ -9,7 +9,6 @@
 ## Tags
 
 -   comedy
-
 -   supernatural
 
 ## Sinopse

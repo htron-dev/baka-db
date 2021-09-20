@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Doudou
-
 -   **rating**: G - All Ages
 
 ## Tags

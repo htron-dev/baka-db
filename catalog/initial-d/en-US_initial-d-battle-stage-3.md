@@ -24,4 +24,4 @@ Initial D: Battle Stage 3 is the eleventh and final installment of the Initial D
 -   [My Anime list](https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16380)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24123)
--   [Wikipedia](<https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_(2021)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_%282021%29)

@@ -13,7 +13,6 @@
 
 -   drama
 -   fantasy
-
 -   romance
 
 ## Sinopse

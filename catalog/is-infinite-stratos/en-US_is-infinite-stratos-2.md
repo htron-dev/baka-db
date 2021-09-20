@@ -28,4 +28,4 @@ Second season of Infinite Stratos.
 -   [Official Site](http://www.tbs.co.jp/anime/is2/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9849)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15285)
--   [Wikipedia](<http://en.wikipedia.org/wiki/IS_(Infinite_Stratos)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/IS_%28Infinite_Stratos%29)

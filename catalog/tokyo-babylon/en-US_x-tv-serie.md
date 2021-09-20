@@ -29,4 +29,4 @@ His destiny has finally arrived as the young Shirou Kamui returns to Tokyo after
 -   [Official Site](http://www.madhouse.co.jp/works/2003-2002/works_tv_x.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=30)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=464)
--   [Wikipedia](<https://en.wikipedia.org/wiki/X_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/X_%28manga%29)

@@ -12,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   romance
 -   fantasy
 

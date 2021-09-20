@@ -26,4 +26,4 @@ Pinon, the boy who flows within his body, the blood of the three races (the Drag
 -   [Official Site](http://www.tms-e.com/library/on_air_back/poporo/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1324)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2957)
--   [Wikipedia](<http://en.wikipedia.org/wiki/PoPoLoCrois_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/PoPoLoCrois_%28anime%29)

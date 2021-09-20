@@ -20,4 +20,4 @@ An episode that was released to celebrate October 1, 2015, China's National Day.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/33258/Qin_Shi_Ming_Yue__Guoqing_Tebie_Pian)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29)

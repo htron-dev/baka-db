@@ -12,7 +12,6 @@
 
 -   adventure
 -   historical
-
 -   magic
 -   samurai
 -   fantasy

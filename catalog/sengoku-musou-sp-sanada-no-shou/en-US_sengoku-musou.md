@@ -27,4 +27,4 @@ Toyotomi Hideyoshi is on the verge of unifying the realm, and all that remains i
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/sengokumusou/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10913)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16428)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Samurai_Warriors_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Samurai_Warriors_%28anime%29)

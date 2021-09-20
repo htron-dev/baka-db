@@ -12,7 +12,6 @@
 -   adventure
 -   fantasy
 -   historical
-
 -   magic
 -   supernatural
 

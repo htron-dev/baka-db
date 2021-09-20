@@ -29,4 +29,4 @@ His worries are soon put to rest after meeting Gou Nagakura. As his fan and fell
 -   [Official Site](http://www.battery-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11996)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18153)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Battery_(novel_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Battery_%28novel_series%29)

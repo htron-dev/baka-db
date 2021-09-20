@@ -30,4 +30,4 @@ Araragi, with the help of his girlfriend Hitagi Senjougahara, maneuvers through 
 -   [Official Site](http://www.monogatari-series.com/owarimonogatari/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13033)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19397)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monogatari_(series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monogatari_%28series%29)

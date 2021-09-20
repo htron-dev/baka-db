@@ -26,4 +26,4 @@ Meanwhile, an unexplained anomaly is occurring all over the world: fish are disa
 -   [Official Site](http://kaijunokodomo.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14221)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21872)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Children_of_the_Sea_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Children_of_the_Sea_%28manga%29)

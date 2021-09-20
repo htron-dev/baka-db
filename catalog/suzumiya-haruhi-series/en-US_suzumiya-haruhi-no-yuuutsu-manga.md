@@ -28,11 +28,4 @@ Kyon is an ordinary freshman high school student who, self-admittedly, has given
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/1253/Suzumiya_Haruhi_no_Yuuutsu)
-    oth futuristic and alien–keeping watch over Haruhi as she is the pinnacle of some major calamity on the horizon…
-
-(Source: Yen Press)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/1345/Suzumiya_Haruhi_no_Yuuutsu)

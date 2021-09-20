@@ -15,8 +15,6 @@
 -   Habara
 -   Yoshikadu (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/26548/Boukun_wa_Dokusenyoku)

@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 交通安全でござる忍者ハットリくん
-
 -   **rating**: G - All Ages
 
 ## Tags

@@ -30,4 +30,4 @@ With the help of their allies, Ryuuichi and Mayoi take this new challenger head-
 -   [Official Site](http://www.ytv.co.jp/animegyakuten/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13918)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21192)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ace_Attorney_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ace_Attorney_%28anime%29)

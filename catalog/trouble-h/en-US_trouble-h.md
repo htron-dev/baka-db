@@ -14,8 +14,6 @@
 -   Mikokuno
 -   Homare (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/21971/Trouble-H)

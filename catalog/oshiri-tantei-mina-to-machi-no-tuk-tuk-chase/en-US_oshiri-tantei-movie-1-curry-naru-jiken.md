@@ -10,7 +10,6 @@
 
 -   mystery
 -   comedy
-
 -   fantasy
 
 ## Sinopse

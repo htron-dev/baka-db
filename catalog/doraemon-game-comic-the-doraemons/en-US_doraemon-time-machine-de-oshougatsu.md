@@ -11,7 +11,6 @@
 -   sci-fi
 -   adventure
 -   comedy
-
 -   shounen
 
 ## Sinopse

@@ -24,4 +24,4 @@ The OVA was released in the day after the 18th episode aired.
 -   [Official Site](http://futagohime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2829)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5085)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E5%B9%BC%E7%A8%9A%E5%9C%92_(%E9%9B%91%E8%AA%8C)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E5%B9%BC%E7%A8%9A%E5%9C%92_%28%E9%9B%91%E8%AA%8C%29)

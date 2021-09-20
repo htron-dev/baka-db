@@ -11,8 +11,6 @@
 
 -   comedy
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/34794/Yukai_na_Animal_Bus)

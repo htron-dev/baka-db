@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: 이야기여행
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -37,4 +37,4 @@ Rimeru sends his various minions to Earth's dimension to retrieve the book. One 
 -   [Official Site](http://www.toei-anim.co.jp/lineup/tv/wingman/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1578)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1709)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Wingman_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Wingman_%28manga%29)

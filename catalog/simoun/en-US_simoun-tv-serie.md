@@ -32,4 +32,4 @@ Aer is recruited to be a Simoun pilot after a terrifying attack by an enemy nati
 -   [Official Site](http://www.simoun.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4239)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6287)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Simoun_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Simoun_%28anime%29)

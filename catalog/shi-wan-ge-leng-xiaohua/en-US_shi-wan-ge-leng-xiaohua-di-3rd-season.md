@@ -20,4 +20,4 @@ Season 3 of One Hundred Thousand Bad Jokes.
 
 -   [My Anime list](https://myanimelist.net/anime/33196/Shi_Wan_Ge_Leng_Xiaohua_Di_3rd_Season)
 -   [Official Site](http://www.u17.com/comic/5553.html)
--   [Wikipedia](<https://en.wikipedia.org/wiki/One_Hundred_Thousand_Bad_Jokes_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/One_Hundred_Thousand_Bad_Jokes_%28film%29)

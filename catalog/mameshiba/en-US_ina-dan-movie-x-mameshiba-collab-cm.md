@@ -9,7 +9,6 @@
 ## Tags
 
 -   comedy
-
 -   sports
 
 ## Sinopse

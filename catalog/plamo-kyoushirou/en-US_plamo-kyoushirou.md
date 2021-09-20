@@ -10,7 +10,6 @@
 
 -   action
 -   comedy
-
 -   mecha
 -   shounen
 

@@ -10,7 +10,6 @@
 
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

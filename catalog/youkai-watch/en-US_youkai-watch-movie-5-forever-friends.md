@@ -11,7 +11,6 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 
 ## Sinopse

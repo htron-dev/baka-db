@@ -16,7 +16,6 @@
 -   adventure
 -   comedy
 -   super-power
-
 -   mecha
 -   shounen
 

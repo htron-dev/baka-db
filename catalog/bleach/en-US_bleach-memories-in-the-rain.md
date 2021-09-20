@@ -24,4 +24,4 @@ Kurosaki Ichigo, the temporary Shinigami(Death God) for Kuchiki Rukia, discovers
 -   [My Anime list](https://myanimelist.net/anime/762/Bleach__Memories_in_the_Rain)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2369)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5440)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bleach_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bleach_%28anime%29)

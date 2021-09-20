@@ -18,7 +18,7 @@
 
 ## Authors
 
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 -   Aoyama
 -   Amara (Story)
 

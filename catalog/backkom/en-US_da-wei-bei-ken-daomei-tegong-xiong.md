@@ -10,7 +10,6 @@
 
 -   action
 -   police
-
 -   drama
 
 ## Sinopse

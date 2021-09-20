@@ -21,4 +21,4 @@ A hard rain is about to fall on a small town in Southern China. In a desperate a
 
 -   [My Anime list](https://myanimelist.net/anime/37177/Da_Shi_Jie)
 -   [Official Site](http://www.ewang.com/m/218003-2.html)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Have_a_Nice_Day_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Have_a_Nice_Day_%28film%29)

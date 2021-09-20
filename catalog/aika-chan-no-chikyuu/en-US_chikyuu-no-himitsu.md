@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 地球の秘密
-
 -   **rating**: G - All Ages
 
 ## Tags

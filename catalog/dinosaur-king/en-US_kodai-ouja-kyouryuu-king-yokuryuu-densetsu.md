@@ -12,7 +12,6 @@
 -   action
 -   adventure
 -   game
-
 -   sci-fi
 
 ## Sinopse

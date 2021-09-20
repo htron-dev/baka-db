@@ -14,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 -   super-power
 

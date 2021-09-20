@@ -29,4 +29,4 @@ Prepared to do whatever it takes to become the best, they head across the globe 
 -   [Official Site](https://beyblade.jp/campaign/5th/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15438)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23168)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Sparking_(2020%E2%80%9321)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Sparking_%282020%E2%80%9321%29)

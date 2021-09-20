@@ -12,7 +12,6 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 -   fantasy
 

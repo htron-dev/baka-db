@@ -11,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   super-power
 
 ## Sinopse

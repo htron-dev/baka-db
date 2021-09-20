@@ -3,7 +3,6 @@
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 빼꼼
-
 -   **rating**: G - All Ages
 
 ## Tags

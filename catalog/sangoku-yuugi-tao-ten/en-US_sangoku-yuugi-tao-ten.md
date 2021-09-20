@@ -16,8 +16,6 @@
 -   Tashiro
 -   Takuya (Story & Art)
 
-## Sinopse
-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/manga/22186/Sangoku_Yuugi_Tao-ten)

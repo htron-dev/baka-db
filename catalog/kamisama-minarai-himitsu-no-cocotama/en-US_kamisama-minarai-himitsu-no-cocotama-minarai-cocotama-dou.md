@@ -10,7 +10,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   magic
 -   fantasy
 

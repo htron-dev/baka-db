@@ -3,7 +3,6 @@
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 少年アシベ 安全教育アニメ
-
 -   **rating**: G - All Ages
 
 ## Tags

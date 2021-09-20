@@ -11,7 +11,6 @@
 ## Tags
 
 -   horror
-
 -   mystery
 -   supernatural
 

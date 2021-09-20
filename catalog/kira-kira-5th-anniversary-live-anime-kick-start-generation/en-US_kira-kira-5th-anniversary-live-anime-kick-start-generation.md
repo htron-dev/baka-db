@@ -24,4 +24,4 @@ The what-if story reunites the Second Literature Club Band members Kirari, Chie,
 -   [Official Site](http://www.kirakira-5th.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9381)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15243)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Kirakira_(visual_novel)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Kirakira_%28visual_novel%29)

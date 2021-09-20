@@ -12,7 +12,6 @@
 
 -   action
 -   adventure
-
 -   drama
 -   fantasy
 

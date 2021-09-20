@@ -12,7 +12,6 @@
 -   sci-fi
 -   space
 -   comedy
-
 -   fantasy
 -   mecha
 

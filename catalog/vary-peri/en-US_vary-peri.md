@@ -11,7 +11,6 @@
 
 -   adventure
 -   comedy
-
 -   magic
 
 ## Sinopse

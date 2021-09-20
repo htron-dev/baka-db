@@ -27,4 +27,4 @@
 -   [Official Site](http://vampire-d.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=204)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=654)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Vampire_Hunter_D_(1985_film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Vampire_Hunter_D_%281985_film%29)

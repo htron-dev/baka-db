@@ -17,5 +17,5 @@ A Tekken short commissioned by Hoken Ichiba, a insurance marketplace company. It
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/40385/Chikai)
--   [Official Site](<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA)>)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA)>)
+-   [Official Site](https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29)

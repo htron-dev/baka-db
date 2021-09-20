@@ -9,7 +9,6 @@
 ## Tags
 
 -   comedy
-
 -   sci-fi
 
 ## Sinopse

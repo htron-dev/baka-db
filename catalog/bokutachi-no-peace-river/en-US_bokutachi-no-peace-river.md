@@ -10,7 +10,6 @@
 
 -   adventure
 -   drama
-
 -   supernatural
 
 ## Sinopse

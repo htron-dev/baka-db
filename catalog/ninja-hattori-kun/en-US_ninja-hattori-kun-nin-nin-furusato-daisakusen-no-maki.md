@@ -10,7 +10,6 @@
 ## Tags
 
 -   comedy
-
 -   martial-arts
 -   slice-of-life
 

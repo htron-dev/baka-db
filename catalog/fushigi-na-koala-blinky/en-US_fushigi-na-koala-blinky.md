@@ -13,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

@@ -14,7 +14,6 @@
 -   game
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -31,4 +30,4 @@ And now Shobu is the world champion. Before Shobu could relax he is being called
 -   [Official Site](http://www.shopro.co.jp/tv/duelmasters_xshock/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7499)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11493)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/デュエル・マスターズ_(漫画)#.E3.83.87.E3.83.A5.E3.82.A8.E3.83.AB.E3.83.BB.E3.83.9E.E3.82.B9.E3.82.BF.E3.83.BC.E3.82.BA_.E3.82.AF.E3.83.AD.E3.82.B9.E3.82.B7.E3.83.A7.E3.83.83.E3.82.AF>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/デュエル・マスターズ_%28漫画%29#.E3.83.87.E3.83.A5.E3.82.A8.E3.83.AB.E3.83.BB.E3.83.9E.E3.82.B9.E3.82.BF.E3.83.BC.E3.82.BA_.E3.82.AF.E3.83.AD.E3.82.B9.E3.82.B7.E3.83.A7.E3.83.83.E3.82.AF)

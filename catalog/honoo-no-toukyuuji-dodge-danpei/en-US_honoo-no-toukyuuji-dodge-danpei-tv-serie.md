@@ -13,7 +13,6 @@
 
 -   comedy
 -   sports
-
 -   school
 
 ## Sinopse

@@ -18,4 +18,4 @@ No synopsis information has been added to this title. Help improve our database 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/42323/Nanjung_Ilgi)
--   [Wikipedia](<https://ko.wikipedia.org/wiki/난중일기_(1997년_영화)>)
+-   [Wikipedia](https://ko.wikipedia.org/wiki/난중일기_%281997년_영화%29)

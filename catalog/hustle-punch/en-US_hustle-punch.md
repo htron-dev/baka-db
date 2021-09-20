@@ -11,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

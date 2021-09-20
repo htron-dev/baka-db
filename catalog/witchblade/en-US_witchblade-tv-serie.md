@@ -27,4 +27,4 @@ Masane Amaha and her daughter Rihoko are on the run from a government child welf
 -   [Official Site](http://www.witchblade.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2511)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4284)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Witchblade_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Witchblade_%28anime%29)

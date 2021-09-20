@@ -9,7 +9,6 @@
 
 -   action
 -   comedy
-
 -   fantasy
 
 ## Sinopse

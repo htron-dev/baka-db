@@ -10,7 +10,6 @@
 
 -   comedy
 -   ecchi
-
 -   parody
 -   shounen
 

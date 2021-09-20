@@ -10,7 +10,6 @@
 
 -   adventure
 -   music
-
 -   fantasy
 
 ## Sinopse

@@ -22,4 +22,4 @@ Tekken stated to Oricon News that it took him 3 months to write the story. The f
 
 -   [My Anime list](https://myanimelist.net/anime/37776/Kirari_Kagayaku)
 -   [Official Site](https://www.youtube.com/watch?v=pJVm4Az2bdo)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29)

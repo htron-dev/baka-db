@@ -26,4 +26,4 @@ Set in an alternate version of the Meiji Era, a boy named Sakamoto Ryunosuke ret
 -   [Official Site](http://www.mmv.co.jp/special/moeyo_ken/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3381)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5465)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Moeyo_Ken_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Moeyo_Ken_%28anime%29)

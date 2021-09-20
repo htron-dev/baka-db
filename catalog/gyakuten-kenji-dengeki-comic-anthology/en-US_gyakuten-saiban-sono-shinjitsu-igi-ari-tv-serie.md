@@ -30,4 +30,4 @@ Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! follows Ryuuichi as he tackles cases
 -   [Official Site](http://www.ytv.co.jp/animegyakuten/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11598)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17948)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ace_Attorney_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ace_Attorney_%28anime%29)

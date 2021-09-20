@@ -26,4 +26,4 @@ Upon the conclusion of the Vanguard High School Koshien, Kouji Ibuki begins to h
 -   [My Anime list](https://myanimelist.net/anime/39244/Cardfight_Vanguard__Zoku_Koukousei-hen)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14681)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21796)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E3%80%8E%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E3%80%8E%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!)

@@ -7,7 +7,6 @@
 ## Tags
 
 -   cars
-
 -   shounen
 
 ## Authors

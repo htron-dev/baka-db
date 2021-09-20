@@ -7,7 +7,6 @@
 ## Tags
 
 -   demons
-
 -   school
 -   supernatural
 

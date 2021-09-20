@@ -9,7 +9,6 @@
 ## Tags
 
 -   historical
-
 -   samurai
 
 ## Sinopse

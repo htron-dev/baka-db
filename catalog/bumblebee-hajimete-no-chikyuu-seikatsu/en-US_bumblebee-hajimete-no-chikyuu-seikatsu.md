@@ -28,4 +28,4 @@ The film premiered in Japanese theaters March 22, 2019.
 
 -   [My Anime list](https://myanimelist.net/anime/39711/Bumblebee_Hajimete_no_Chikyuu_Seikatsu)
 -   [Official Site](http://bumblebeemovie.jp/)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%96%E3%83%AB%E3%83%93%E3%83%BC_(%E6%98%A0%E7%94%BB)#Web%E3%82%A2%E3%83%8B%E3%83%A1>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%96%E3%83%AB%E3%83%93%E3%83%BC_%28%E6%98%A0%E7%94%BB%29#Web%E3%82%A2%E3%83%8B%E3%83%A1)

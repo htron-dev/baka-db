@@ -21,4 +21,3 @@ Mini anime aired within the D4DJ variety program D4DJ Photon Maiden TV.
 -   [Official Site](https://anime.d4dj-pj.com/petit-mix/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15981)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23993)
--   [Wikipedia](http://)

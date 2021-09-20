@@ -13,7 +13,6 @@
 
 -   comedy
 -   fantasy
-
 -   shoujo
 
 ## Sinopse

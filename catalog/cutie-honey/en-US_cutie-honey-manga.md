@@ -24,11 +24,4 @@
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/16941/Cutie_Honey)
-    emental Fixation Device. She then finds out that she is actually an android created by him with the Airbourne Elemental Fixation Device within her. She is now trying to live a life as a normal schoolgirl and seeking revenge against Panther Claw.
-
-(Source: MU)
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/7658/Cutie_Honey)

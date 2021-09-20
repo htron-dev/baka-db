@@ -8,7 +8,6 @@
 
 -   comedy
 -   fantasy
-
 -   school
 -   supernatural
 

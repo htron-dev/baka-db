@@ -21,4 +21,4 @@ The sequel will focus on the islands west of the city.
 
 -   [My Anime list](https://myanimelist.net/anime/27951/Mattsu_to_Yanma_to_Moburi-san_2__Suigun_Otakara_to_Nazotoki_no_Shimajima)
 -   [Official Site](http://www.dandanmatsuyama.jp/en/)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88_(%E4%BC%81%E6%A5%AD)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88_%28%E4%BC%81%E6%A5%AD%29)

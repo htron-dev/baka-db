@@ -30,4 +30,4 @@ However, regaining her departed memories without worrying those around her may b
 -   [Official Site](http://www.anime-amnesia.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9358)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14811)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Amnesia_(2011_video_game)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Amnesia_%282011_video_game%29#Anime)

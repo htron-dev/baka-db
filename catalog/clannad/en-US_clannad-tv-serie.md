@@ -36,4 +36,4 @@ As Tomoya spends more time with the girls, he learns more about them and their p
 -   [Official Site](http://www.tbs.co.jp/clannad/clannad1/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5101)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7809)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Clannad_(visual_novel)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29)

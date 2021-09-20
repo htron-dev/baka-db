@@ -15,9 +15,4 @@
 
 ## Links
 
--   [My Anime list](https://myanimelist.net/manga/24419/The_Best_of_Pokémon_4-Koma)
-    by Takahiro Yamashita.
-
-## Links
-
 -   [My Anime list](https://myanimelist.net/manga/24232/The_Best_of_Pokémon_4Koma)

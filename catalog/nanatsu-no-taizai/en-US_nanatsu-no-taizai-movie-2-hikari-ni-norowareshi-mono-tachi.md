@@ -26,4 +26,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](https://eiga.7-taizai.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15997)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23948)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29#Anime)

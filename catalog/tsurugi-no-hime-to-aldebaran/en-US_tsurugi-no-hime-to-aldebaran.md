@@ -17,7 +17,7 @@
 
 -   Sugihara
 -   Tomonori (Story)
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 
 ## Links
 

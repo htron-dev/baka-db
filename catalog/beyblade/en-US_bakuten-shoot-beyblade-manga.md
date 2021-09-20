@@ -8,7 +8,6 @@
 ## Tags
 
 -   adventure
-
 -   sports
 
 ## Authors

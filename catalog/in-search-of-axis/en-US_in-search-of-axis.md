@@ -3,7 +3,6 @@
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: In Search of Axis
-
 -   **rating**: G - All Ages
 
 ## Tags

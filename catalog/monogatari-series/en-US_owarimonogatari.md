@@ -30,4 +30,4 @@ Unsure if this is the work of an apparition, Araragi and Ougi attempt to unravel
 -   [Official Site](http://www.monogatari-series.com/owarimonogatari/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11350)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17645)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Monogatari_(series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Monogatari_%28series%29)

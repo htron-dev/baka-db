@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: 다람이와 고슴도치
-
 -   **rating**: R - 17+ (violence & profanity)
 
 ## Tags

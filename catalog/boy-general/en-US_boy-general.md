@@ -3,7 +3,6 @@
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 소년장수
-
 -   **rating**: G - All Ages
 
 ## Tags

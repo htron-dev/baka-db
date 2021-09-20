@@ -23,4 +23,4 @@ The Little Prince lives on Asteroid B612, a tiny rock floating in space. He spen
 -   [My Anime list](https://myanimelist.net/anime/3811/Hoshi_no_Oujisama_Petit_Prince)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3647)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1360)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Adventures_of_the_Little_Prince_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Adventures_of_the_Little_Prince_%28TV_series%29)

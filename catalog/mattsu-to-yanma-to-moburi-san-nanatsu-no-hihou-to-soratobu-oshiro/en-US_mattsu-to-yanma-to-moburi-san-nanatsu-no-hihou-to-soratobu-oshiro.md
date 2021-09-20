@@ -27,4 +27,4 @@ Faced with all kinds of trouble, what will they choose for the future of their c
 
 -   [My Anime list](https://myanimelist.net/anime/27949/Mattsu_to_Yanma_to_Moburi-san__Nanatsu_no_Hihou_to_Soratobu_Oshiro)
 -   [Official Site](http://www.dandanmatsuyama.jp/2013/en/)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88_(%E4%BC%81%E6%A5%AD)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88_%28%E4%BC%81%E6%A5%AD%29)
