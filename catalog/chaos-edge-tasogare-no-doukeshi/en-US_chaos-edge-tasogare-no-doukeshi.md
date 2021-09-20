@@ -1,5 +1,7 @@
 # Chaos Edge: Tasogare no Doukeshi
 
+![chaos-edge-tasogare-no-doukeshi](https://cdn.myanimelist.net/images/manga/3/125007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: カオス・エッジ～たそがれの道化師

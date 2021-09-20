@@ -1,5 +1,7 @@
 # Chi to Chocolate
 
+![chi-to-chocolate](https://cdn.myanimelist.net/images/manga/1/168309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Lady Cool
 
+![lady-cool](https://cdn.myanimelist.net/images/manga/1/115799.jpg)
+
 -   **type**: manga
 -   **original-name**: LADY COOL
 -   **start-date**: 2013-08-01

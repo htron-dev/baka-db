@@ -1,5 +1,7 @@
 # √Chuugakusei
 
+![√-chuugakusei](https://cdn.myanimelist.net/images/manga/1/147853.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: √ 中学生

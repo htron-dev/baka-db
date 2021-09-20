@@ -1,5 +1,7 @@
 # Clean a Wound
 
+![clean-a-wound](https://cdn.myanimelist.net/images/manga/3/28923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

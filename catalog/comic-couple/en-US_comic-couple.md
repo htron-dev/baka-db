@@ -1,5 +1,7 @@
 # Comic Couple
 
+![comic-couple](https://cdn.myanimelist.net/images/manga/3/151504.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: コミカプ

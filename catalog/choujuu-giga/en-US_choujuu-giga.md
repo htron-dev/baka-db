@@ -1,5 +1,7 @@
 # Choujuu Giga
 
+![choujuu-giga](https://cdn.myanimelist.net/images/anime/7/81247.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 鳥獣戯画

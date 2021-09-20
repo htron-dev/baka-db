@@ -1,5 +1,7 @@
 # Code:Breaker
 
+![code-breaker](https://cdn.myanimelist.net/images/manga/1/15122.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 230

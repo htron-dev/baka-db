@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 20: Arashi wo Yobu! Ora to Uchuu no Princess
 
+![crayon-shin-chan-movie-20-arashi-wo-yobu-ora-to-uchuu-no-princess](https://cdn.myanimelist.net/images/anime/1474/94869.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん 嵐を呼ぶ!オラと宇宙のプリンセス

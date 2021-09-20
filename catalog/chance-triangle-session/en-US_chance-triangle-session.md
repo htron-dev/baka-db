@@ -1,5 +1,7 @@
 # Chance Triangle Session
 
+![chance-triangle-session](https://cdn.myanimelist.net/images/anime/6/20184.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: チャンス　トライアングルセッション

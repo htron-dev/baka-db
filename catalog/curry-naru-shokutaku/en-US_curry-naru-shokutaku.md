@@ -1,5 +1,7 @@
 # Curry naru Shokutaku
 
+![curry-naru-shokutaku](https://cdn.myanimelist.net/images/manga/4/3374.jpg)
+
 -   **type**: manga
 -   **volumes**: 49
 -   **chapters**: 534

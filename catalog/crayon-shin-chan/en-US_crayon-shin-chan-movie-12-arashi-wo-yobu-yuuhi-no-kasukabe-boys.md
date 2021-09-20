@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 12: Arashi wo Yobu! Yuuhi no Kasukabe Boys
 
+![crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys](https://cdn.myanimelist.net/images/anime/4/22028.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　嵐を呼ぶ！夕陽のカスカベボーイズ

@@ -1,5 +1,7 @@
 # Champagne wa Koi no Biyaku
 
+![champagne-wa-koi-no-biyaku](https://cdn.myanimelist.net/images/manga/1/41581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

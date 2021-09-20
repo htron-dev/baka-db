@@ -1,5 +1,7 @@
 # Cobra: Galaxy Nights
 
+![cobra-galaxy-nights](https://cdn.myanimelist.net/images/manga/2/204418.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

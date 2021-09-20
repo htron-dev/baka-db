@@ -1,5 +1,7 @@
 # Chiisai Oyaji Nikki
 
+![chiisai-oyaji-nikki](https://cdn.myanimelist.net/images/manga/3/77711.jpg)
+
 -   **type**: manga
 -   **original-name**: ちいさいおやじ日記
 

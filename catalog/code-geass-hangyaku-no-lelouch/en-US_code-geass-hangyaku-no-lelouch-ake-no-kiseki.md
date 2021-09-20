@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch - Ake no Kiseki
 
+![code-geass-hangyaku-no-lelouch-ake-no-kiseki](https://cdn.myanimelist.net/images/manga/3/197074.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

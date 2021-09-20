@@ -1,5 +1,7 @@
 # Crisis Girls
 
+![crisis-girls](https://cdn.myanimelist.net/images/manga/2/179089.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

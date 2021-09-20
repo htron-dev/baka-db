@@ -1,5 +1,7 @@
 # Chimney Kan no Himitsu
 
+![chimney-kan-no-himitsu](https://cdn.myanimelist.net/images/manga/2/26779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: チムニーズ館の秘密

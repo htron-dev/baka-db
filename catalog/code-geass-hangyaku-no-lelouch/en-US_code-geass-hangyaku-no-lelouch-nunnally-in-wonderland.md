@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland
 
+![code-geass-hangyaku-no-lelouch-nunnally-in-wonderland](https://cdn.myanimelist.net/images/anime/7/36175.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ ナナリー in ワンダーランド

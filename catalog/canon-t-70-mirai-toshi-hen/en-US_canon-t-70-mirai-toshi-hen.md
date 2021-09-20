@@ -1,5 +1,7 @@
 # Canon T-70: Mirai Toshi-hen
 
+![canon-t-70-mirai-toshi-hen](https://cdn.myanimelist.net/images/anime/1471/115392.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 未来都市篇

@@ -1,5 +1,7 @@
 # Change Sanjou!
 
+![change-sanjou](https://cdn.myanimelist.net/images/manga/3/79397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

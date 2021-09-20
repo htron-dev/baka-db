@@ -1,5 +1,7 @@
 # Chikutaku Bonbon
 
+![chikutaku-bonbon](https://cdn.myanimelist.net/images/manga/1/60369.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Castehate
 
+![castehate](https://cdn.myanimelist.net/images/manga/1/221884.jpg)
+
 -   **type**: manga
 -   **original-name**: カーストヘイト
 -   **start-date**: 2018-02-28

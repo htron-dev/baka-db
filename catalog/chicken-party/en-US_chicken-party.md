@@ -1,5 +1,7 @@
 # Chicken Party
 
+![chicken-party](https://cdn.myanimelist.net/images/manga/3/201586.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

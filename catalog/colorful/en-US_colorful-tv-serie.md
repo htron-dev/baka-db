@@ -1,5 +1,7 @@
 # Colorful
 
+![colorful](https://cdn.myanimelist.net/images/anime/8/19229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: カラフル

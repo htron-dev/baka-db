@@ -1,5 +1,7 @@
 # Mini Van
 
+![mini-van](https://cdn.myanimelist.net/images/anime/8/76472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: みにヴぁん

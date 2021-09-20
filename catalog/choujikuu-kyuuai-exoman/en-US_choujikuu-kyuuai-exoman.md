@@ -1,5 +1,7 @@
 # Choujikuu Kyuuai Exoman
 
+![choujikuu-kyuuai-exoman](https://cdn.myanimelist.net/images/manga/2/210489.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

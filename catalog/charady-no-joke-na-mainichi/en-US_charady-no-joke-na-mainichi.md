@@ -1,5 +1,7 @@
 # Charady no Joke na Mainichi
 
+![charady-no-joke-na-mainichi](https://cdn.myanimelist.net/images/anime/2/13420.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 365
 -   **original-name**: キャラディのジョークな毎日

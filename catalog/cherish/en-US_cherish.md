@@ -1,5 +1,7 @@
 # Cherish!!
 
+![cherish](https://cdn.myanimelist.net/images/manga/3/23131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: チェリッシュ！！

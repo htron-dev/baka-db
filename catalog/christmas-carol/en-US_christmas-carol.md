@@ -1,5 +1,7 @@
 # Christmas Carol
 
+![christmas-carol](https://cdn.myanimelist.net/images/anime/3/84697.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クリスマスキャロル

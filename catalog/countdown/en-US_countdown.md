@@ -1,5 +1,7 @@
 # Countdown!
 
+![countdown](https://cdn.myanimelist.net/images/manga/1/5758.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

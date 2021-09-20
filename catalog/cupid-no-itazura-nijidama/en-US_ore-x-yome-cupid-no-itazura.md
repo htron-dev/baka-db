@@ -1,5 +1,7 @@
 # Ore x Yome - Cupid no Itazura
 
+![ore-x-yome-cupid-no-itazura](https://cdn.myanimelist.net/images/manga/2/59107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

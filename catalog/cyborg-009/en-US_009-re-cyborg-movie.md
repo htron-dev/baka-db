@@ -1,5 +1,7 @@
 # 009 Re:Cyborg
 
+![009-re-cyborg](https://cdn.myanimelist.net/images/anime/9/40189.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 009 RE:CYBORG

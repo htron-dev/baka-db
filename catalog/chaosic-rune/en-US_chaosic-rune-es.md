@@ -1,5 +1,7 @@
 # Chaosic Rune ES
 
+![chaosic-rune-es](https://cdn.myanimelist.net/images/manga/3/161357.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Cigar Holic
 
+![cigar-holic](https://cdn.myanimelist.net/images/manga/1/190696.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

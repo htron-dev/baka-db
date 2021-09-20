@@ -1,5 +1,7 @@
 # Color Cycling
 
+![color-cycling](https://cdn.myanimelist.net/images/anime/1929/98223.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: カラーサイクリング

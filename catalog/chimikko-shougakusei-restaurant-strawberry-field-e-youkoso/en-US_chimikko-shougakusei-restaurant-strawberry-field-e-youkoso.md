@@ -1,5 +1,7 @@
 # Chimikko Shougakusei Restaurant: Strawberry Field e Youkoso!
 
+![chimikko-shougakusei-restaurant-strawberry-field-e-youkoso](https://cdn.myanimelist.net/images/manga/3/159370.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

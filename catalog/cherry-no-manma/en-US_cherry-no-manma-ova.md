@@ -1,5 +1,7 @@
 # Cherry no Manma
 
+![cherry-no-manma](https://cdn.myanimelist.net/images/anime/9/16025.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Cherry のまんま

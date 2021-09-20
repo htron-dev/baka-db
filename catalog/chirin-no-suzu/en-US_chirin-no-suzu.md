@@ -1,5 +1,7 @@
 # Chirin no Suzu
 
+![chirin-no-suzu](https://cdn.myanimelist.net/images/anime/11/80079.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チリンの鈴

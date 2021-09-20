@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome
 
+![crayon-shin-chan-movie-18-chou-jikuu-arashi-wo-yobu-ora-no-hanayome](https://cdn.myanimelist.net/images/anime/11/83770.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁

@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch R2 - Knight of Rounds
 
+![code-geass-hangyaku-no-lelouch-r-2-knight-of-rounds](https://cdn.myanimelist.net/images/manga/2/197075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

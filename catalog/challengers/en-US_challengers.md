@@ -1,5 +1,7 @@
 # Challengers
 
+![challengers](https://cdn.myanimelist.net/images/manga/2/5480.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

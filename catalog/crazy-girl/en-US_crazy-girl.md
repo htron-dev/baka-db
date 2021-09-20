@@ -1,5 +1,7 @@
 # Crazy Girl
 
+![crazy-girl](https://cdn.myanimelist.net/images/manga/3/6368.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

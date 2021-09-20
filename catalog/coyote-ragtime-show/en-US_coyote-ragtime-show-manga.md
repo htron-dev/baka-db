@@ -1,5 +1,7 @@
 # Coyote Ragtime Show
 
+![coyote-ragtime-show](https://cdn.myanimelist.net/images/manga/3/76243.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

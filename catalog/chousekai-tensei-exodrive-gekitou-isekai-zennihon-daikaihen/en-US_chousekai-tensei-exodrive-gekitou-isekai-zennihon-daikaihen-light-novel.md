@@ -1,5 +1,7 @@
 # Chousekai Tensei Exodrive: Gekitou! Isekai Zennihon Daikaihen
 
+![chousekai-tensei-exodrive-gekitou-isekai-zennihon-daikaihen](https://cdn.myanimelist.net/images/manga/2/246856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 31

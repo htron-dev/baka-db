@@ -1,5 +1,7 @@
 # Coffee Ikaga Deshou
 
+![coffee-ikaga-deshou](https://cdn.myanimelist.net/images/manga/1/221707.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

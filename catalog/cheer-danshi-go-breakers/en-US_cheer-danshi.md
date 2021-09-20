@@ -1,5 +1,7 @@
 # Cheer Danshi!!
 
+![cheer-danshi](https://cdn.myanimelist.net/images/anime/7/80360.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: チア男子!!

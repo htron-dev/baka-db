@@ -1,5 +1,7 @@
 # Chocotto Sister
 
+![chocotto-sister](https://cdn.myanimelist.net/images/anime/7/16825.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ちょこッと Sister

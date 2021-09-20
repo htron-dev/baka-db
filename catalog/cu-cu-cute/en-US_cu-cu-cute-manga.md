@@ -1,5 +1,7 @@
 # Cu-Cu-Cute!
 
+![cu-cu-cute](https://cdn.myanimelist.net/images/manga/5/85585.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: きゅーきゅーキュート!

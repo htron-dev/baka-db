@@ -1,5 +1,7 @@
 # Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief
 
+![code-realize-sousei-no-himegimi-set-a-thief-to-catch-a-thief](https://cdn.myanimelist.net/images/anime/1254/92978.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Code:Realize ~創世の姫君~

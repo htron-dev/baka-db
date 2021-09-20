@@ -1,5 +1,7 @@
 # Cold Sleep
 
+![cold-sleep](https://cdn.myanimelist.net/images/manga/3/82102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: COLD SLEEP

@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
 
+![code-geass-hangyaku-no-lelouch-special-edition-black-rebellion](https://cdn.myanimelist.net/images/anime/6/23532.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ SPECIAL EDITION BLACK REBELLION

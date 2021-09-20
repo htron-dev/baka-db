@@ -1,5 +1,7 @@
 # Mini Van
 
+![mini-van](https://cdn.myanimelist.net/images/manga/1/149218.jpg)
+
 -   **type**: manga
 -   **original-name**: みにヴぁん
 -   **start-date**: 2011-06-26

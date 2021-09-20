@@ -1,5 +1,7 @@
 # Chijou de Ichiban Ikenai Chijou
 
+![chijou-de-ichiban-ikenai-chijou](https://cdn.myanimelist.net/images/manga/2/169739.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

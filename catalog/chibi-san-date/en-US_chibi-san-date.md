@@ -1,5 +1,7 @@
 # Chibi-san Date
 
+![chibi-san-date](https://cdn.myanimelist.net/images/manga/2/26023.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

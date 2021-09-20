@@ -1,5 +1,7 @@
 # Colette wa Shinu Koto ni Shita
 
+![colette-wa-shinu-koto-ni-shita](https://cdn.myanimelist.net/images/manga/1/131201.jpg)
+
 -   **type**: manga
 -   **original-name**: コレットは死ぬことにした
 -   **start-date**: 2013-11-05

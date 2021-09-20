@@ -1,5 +1,7 @@
 # Classmate no Tanaka-san wa Sugoku Kowai
 
+![classmate-no-tanaka-san-wa-sugoku-kowai](https://cdn.myanimelist.net/images/manga/2/238034.jpg)
+
 -   **type**: manga
 -   **original-name**: クラスメイトの田中さんはすごく怖い
 -   **start-date**: 2020-01-27

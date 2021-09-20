@@ -1,5 +1,7 @@
 # ColoColo Animal ABC@Kin Tele
 
+![colo-colo-animal-abc-kin-tele](https://cdn.myanimelist.net/images/anime/1242/103593.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: コロコロアニマル ABC@きんてれ

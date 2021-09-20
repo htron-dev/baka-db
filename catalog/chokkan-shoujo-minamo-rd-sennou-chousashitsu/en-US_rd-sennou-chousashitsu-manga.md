@@ -1,5 +1,7 @@
 # RD Sennou Chousashitsu
 
+![rd-sennou-chousashitsu](https://cdn.myanimelist.net/images/manga/3/40351.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: RD 潜脳調査室

@@ -1,5 +1,7 @@
 # Chao Neng Yongshi
 
+![chao-neng-yongshi](https://cdn.myanimelist.net/images/anime/1057/115344.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 超能勇士

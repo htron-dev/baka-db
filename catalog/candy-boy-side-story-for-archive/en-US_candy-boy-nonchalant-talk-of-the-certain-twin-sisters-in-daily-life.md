@@ -1,5 +1,7 @@
 # Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life
 
+![candy-boy-nonchalant-talk-of-the-certain-twin-sisters-in-daily-life](https://cdn.myanimelist.net/images/anime/10/13663.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: Candy boy -Nonchalant talk of the certain twin sisters in daily life-

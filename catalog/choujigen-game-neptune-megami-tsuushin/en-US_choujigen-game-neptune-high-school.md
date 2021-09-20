@@ -1,5 +1,7 @@
 # Choujigen Game Neptune: High School
 
+![choujigen-game-neptune-high-school](https://cdn.myanimelist.net/images/manga/3/74705.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 超次元ゲイムネプテューヌはいすくーる
 -   **start-date**: 2012-02-05

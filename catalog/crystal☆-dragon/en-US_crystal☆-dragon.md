@@ -1,5 +1,7 @@
 # Crystal☆Dragon
 
+![crystal☆-dragon](https://cdn.myanimelist.net/images/manga/4/71087.jpg)
+
 -   **type**: manga
 -   **original-name**: クリスタル ☆ ドラゴン
 -   **start-date**: 1981-02-24

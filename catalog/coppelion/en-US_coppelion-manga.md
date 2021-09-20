@@ -1,5 +1,7 @@
 # Coppelion
 
+![coppelion](https://cdn.myanimelist.net/images/manga/1/167792.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 226

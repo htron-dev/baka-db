@@ -1,5 +1,7 @@
 # Collaboration Mijikashi Tsudoeyo Otome
 
+![collaboration-mijikashi-tsudoeyo-otome](https://cdn.myanimelist.net/images/manga/3/205476.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Chikai no Kiss wa, 16-sai
 
+![chikai-no-kiss-wa-16-sai](https://cdn.myanimelist.net/images/manga/3/135455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

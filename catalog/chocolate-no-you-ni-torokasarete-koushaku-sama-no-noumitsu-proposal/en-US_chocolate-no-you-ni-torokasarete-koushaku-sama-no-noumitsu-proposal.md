@@ -1,5 +1,7 @@
 # Chocolate no You ni Torokasarete: Koushaku-sama no Noumitsu Proposal
 
+![chocolate-no-you-ni-torokasarete-koushaku-sama-no-noumitsu-proposal](https://cdn.myanimelist.net/images/manga/2/182871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

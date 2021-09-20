@@ -1,5 +1,7 @@
 # City
 
+![city](https://cdn.myanimelist.net/images/manga/1/192291.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 187

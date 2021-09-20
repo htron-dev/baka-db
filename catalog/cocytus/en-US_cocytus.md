@@ -1,5 +1,7 @@
 # Cocytus
 
+![cocytus](https://cdn.myanimelist.net/images/manga/3/151730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

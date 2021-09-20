@@ -1,5 +1,7 @@
 # Code Age Archives: Saigo ni Ochitekita Shoujo
 
+![code-age-archives-saigo-ni-ochitekita-shoujo](https://cdn.myanimelist.net/images/manga/2/173417.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: コード・エイジ アーカイヴズ ～最後におちてきた少女～

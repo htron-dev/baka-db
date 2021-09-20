@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch
 
+![code-geass-hangyaku-no-lelouch](https://cdn.myanimelist.net/images/manga/1/197070.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 28

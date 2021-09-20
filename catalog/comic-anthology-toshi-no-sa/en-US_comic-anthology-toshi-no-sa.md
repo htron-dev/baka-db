@@ -1,5 +1,7 @@
 # Comic Anthology Toshi no Sa.
 
+![comic-anthology-toshi-no-sa](https://cdn.myanimelist.net/images/manga/1/22055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: コミックアンソロジー年の差。

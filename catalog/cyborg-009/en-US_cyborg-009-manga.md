@@ -1,5 +1,7 @@
 # Cyborg 009
 
+![cyborg-009](https://cdn.myanimelist.net/images/manga/1/198945.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: サイボーグ 009

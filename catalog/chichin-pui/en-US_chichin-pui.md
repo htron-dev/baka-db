@@ -1,5 +1,7 @@
 # Chichin Pui!
 
+![chichin-pui](https://cdn.myanimelist.net/images/manga/3/190420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

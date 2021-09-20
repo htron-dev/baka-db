@@ -1,5 +1,7 @@
 # Celestial Zone
 
+![celestial-zone](https://cdn.myanimelist.net/images/manga/3/16075.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **original-name**: 天界無限

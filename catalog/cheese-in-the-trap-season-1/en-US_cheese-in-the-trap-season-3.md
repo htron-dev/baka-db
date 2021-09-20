@@ -1,5 +1,7 @@
 # Cheese in the Trap Season 3
 
+![cheese-in-the-trap-season-3](https://cdn.myanimelist.net/images/manga/3/204020.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Charm angel
 
+![charm-angel](https://cdn.myanimelist.net/images/manga/2/3845.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

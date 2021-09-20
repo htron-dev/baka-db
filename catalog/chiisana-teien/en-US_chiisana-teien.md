@@ -1,5 +1,7 @@
 # Chiisana Teien
 
+![chiisana-teien](https://cdn.myanimelist.net/images/anime/3/70079.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小さな庭園

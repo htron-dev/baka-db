@@ -1,5 +1,7 @@
 # Cheonbangjichuk Hani
 
+![cheonbangjichuk-hani](https://cdn.myanimelist.net/images/anime/11/48715.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 천방지축 하니

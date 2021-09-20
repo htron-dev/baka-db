@@ -1,5 +1,7 @@
 # Chiisana Jumbo
 
+![chiisana-jumbo](https://cdn.myanimelist.net/images/anime/3/18865.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小さなジャンボ

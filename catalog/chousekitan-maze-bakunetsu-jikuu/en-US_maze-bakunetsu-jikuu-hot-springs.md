@@ -1,5 +1,7 @@
 # Maze☆Bakunetsu Jikuu: Hot Springs
 
+![maze☆-bakunetsu-jikuu-hot-springs](https://cdn.myanimelist.net/images/anime/7/6943.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: MAZE☆ 爆熱時空

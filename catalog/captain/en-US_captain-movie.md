@@ -1,5 +1,7 @@
 # Captain Movie
 
+![captain-movie](https://cdn.myanimelist.net/images/anime/6/72861.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテン 劇場版

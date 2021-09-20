@@ -1,5 +1,7 @@
 # Cherry na Bokura
 
+![cherry-na-bokura](https://cdn.myanimelist.net/images/manga/3/169564.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

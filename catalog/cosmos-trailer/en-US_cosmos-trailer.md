@@ -1,5 +1,7 @@
 # Cosmos Trailer
 
+![cosmos-trailer](https://cdn.myanimelist.net/images/anime/1854/108243.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「宇宙」予告編アニメ映像

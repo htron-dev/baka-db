@@ -1,5 +1,7 @@
 # Lemon Angel (1988)
 
+![lemon-angel-1988](https://cdn.myanimelist.net/images/anime/2/5164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: レモンエンジェル

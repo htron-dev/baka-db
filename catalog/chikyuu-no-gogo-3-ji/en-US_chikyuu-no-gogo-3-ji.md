@@ -1,5 +1,7 @@
 # Chikyuu no Gogo 3-ji
 
+![chikyuu-no-gogo-3-ji](https://cdn.myanimelist.net/images/manga/1/199685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

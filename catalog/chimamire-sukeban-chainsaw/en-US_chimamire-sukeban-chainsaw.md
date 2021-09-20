@@ -1,5 +1,7 @@
 # Chimamire Sukeban Chainsaw
 
+![chimamire-sukeban-chainsaw](https://cdn.myanimelist.net/images/manga/3/163825.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 89

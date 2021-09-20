@@ -1,5 +1,7 @@
 # Comic
 
+![comic](https://cdn.myanimelist.net/images/manga/2/20256.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 코믹
 

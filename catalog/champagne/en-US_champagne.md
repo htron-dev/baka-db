@@ -1,5 +1,7 @@
 # Champagne
 
+![champagne](https://cdn.myanimelist.net/images/manga/1/226845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

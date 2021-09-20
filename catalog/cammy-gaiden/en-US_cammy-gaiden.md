@@ -1,5 +1,7 @@
 # Cammy Gaiden
 
+![cammy-gaiden](https://cdn.myanimelist.net/images/manga/1/126883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

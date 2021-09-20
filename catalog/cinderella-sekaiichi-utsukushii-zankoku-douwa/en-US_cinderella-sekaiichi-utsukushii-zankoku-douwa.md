@@ -1,5 +1,7 @@
 # Cinderella: Sekaiichi Utsukushii Zankoku Douwa
 
+![cinderella-sekaiichi-utsukushii-zankoku-douwa](https://cdn.myanimelist.net/images/manga/1/8170.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: シンデレラ 世界一美しい残酷童話

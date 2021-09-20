@@ -1,5 +1,7 @@
 # Choukyou Keiyaku: Toshiue Doutei ni Oborete
 
+![choukyou-keiyaku-toshiue-doutei-ni-oborete](https://cdn.myanimelist.net/images/manga/3/196475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

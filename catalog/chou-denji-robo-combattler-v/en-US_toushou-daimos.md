@@ -1,5 +1,7 @@
 # Toushou Daimos
 
+![toushou-daimos](https://cdn.myanimelist.net/images/anime/12/52301.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 闘将ダイモス

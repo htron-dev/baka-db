@@ -1,5 +1,7 @@
 # Chiisai Hitsuji wa Yume wo Miru
 
+![chiisai-hitsuji-wa-yume-wo-miru](https://cdn.myanimelist.net/images/manga/3/39787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

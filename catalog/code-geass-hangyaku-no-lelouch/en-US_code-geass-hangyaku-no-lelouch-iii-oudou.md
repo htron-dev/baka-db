@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch III - Oudou
 
+![code-geass-hangyaku-no-lelouch-iii-oudou](https://cdn.myanimelist.net/images/anime/1126/91344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ Ⅲ 皇道

@@ -1,5 +1,7 @@
 # Choujikuu Robo Meguru
 
+![choujikuu-robo-meguru](https://cdn.myanimelist.net/images/anime/8/68593.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超時空ロボ MEGURU

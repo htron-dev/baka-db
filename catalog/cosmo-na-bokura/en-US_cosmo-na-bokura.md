@@ -1,5 +1,7 @@
 # Cosmo na Bokura
 
+![cosmo-na-bokura](https://cdn.myanimelist.net/images/manga/3/6495.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

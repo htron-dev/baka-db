@@ -1,5 +1,7 @@
 # Chrome Closed Chronicle
 
+![chrome-closed-chronicle](https://cdn.myanimelist.net/images/manga/1/128781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Calm
 
+![calm](https://cdn.myanimelist.net/images/anime/12/71616.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Calm

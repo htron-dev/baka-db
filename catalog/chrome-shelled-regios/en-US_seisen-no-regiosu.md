@@ -1,5 +1,7 @@
 # Seisen no regiosu
 
+![seisen-no-regiosu](https://cdn.myanimelist.net/images/manga/2/244747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

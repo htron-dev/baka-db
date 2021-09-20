@@ -1,5 +1,7 @@
 # Cool Cool Bye
 
+![cool-cool-bye](https://cdn.myanimelist.net/images/anime/2/54531.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クール・クール・バイ

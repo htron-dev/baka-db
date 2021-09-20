@@ -1,5 +1,7 @@
 # Chouchou Jiken
 
+![chouchou-jiken](https://cdn.myanimelist.net/images/manga/1/202302.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

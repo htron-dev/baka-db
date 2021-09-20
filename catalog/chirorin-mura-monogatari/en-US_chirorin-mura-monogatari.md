@@ -1,5 +1,7 @@
 # Chirorin Mura Monogatari
 
+![chirorin-mura-monogatari](https://cdn.myanimelist.net/images/anime/4/25274.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 170
 -   **original-name**: チロリン村物語

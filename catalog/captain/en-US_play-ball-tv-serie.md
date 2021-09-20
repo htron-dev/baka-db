@@ -1,5 +1,7 @@
 # Play Ball
 
+![play-ball](https://cdn.myanimelist.net/images/anime/12/6695.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: プレイボール

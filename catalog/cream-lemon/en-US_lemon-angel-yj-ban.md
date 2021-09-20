@@ -1,5 +1,7 @@
 # Lemon Angel YJ-ban
 
+![lemon-angel-yj-ban](https://cdn.myanimelist.net/images/anime/5/13247.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: レモンエンジェル（ＹＪ版）

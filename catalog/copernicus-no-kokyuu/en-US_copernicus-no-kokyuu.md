@@ -1,5 +1,7 @@
 # Copernicus no Kokyuu
 
+![copernicus-no-kokyuu](https://cdn.myanimelist.net/images/manga/4/37014.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Chiisai Hito: Aoba Jidou Soudanjo Monogatari
 
+![chiisai-hito-aoba-jidou-soudanjo-monogatari](https://cdn.myanimelist.net/images/manga/3/192992.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

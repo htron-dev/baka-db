@@ -1,5 +1,7 @@
 # Cuddlævane Vandeflex
 
+![cuddlaevane-vandeflex](https://cdn.myanimelist.net/images/manga/1/34415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

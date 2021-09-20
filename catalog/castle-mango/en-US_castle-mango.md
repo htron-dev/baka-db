@@ -1,5 +1,7 @@
 # Castle Mango
 
+![castle-mango](https://cdn.myanimelist.net/images/manga/2/42050.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

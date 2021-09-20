@@ -1,5 +1,7 @@
 # Charisma
 
+![charisma](https://cdn.myanimelist.net/images/manga/3/36633.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: カリスマ

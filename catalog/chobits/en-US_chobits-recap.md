@@ -1,5 +1,7 @@
 # Chobits Recap
 
+![chobits-recap](https://cdn.myanimelist.net/images/anime/10/22857.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちょびっツ

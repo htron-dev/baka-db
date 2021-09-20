@@ -1,5 +1,7 @@
 # Crown Princess Project
 
+![crown-princess-project](https://cdn.myanimelist.net/images/manga/2/113537.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 세자빈 프로젝트
 

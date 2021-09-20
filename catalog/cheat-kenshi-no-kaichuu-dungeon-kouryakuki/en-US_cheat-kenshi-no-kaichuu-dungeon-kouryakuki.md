@@ -1,5 +1,7 @@
 # Cheat Kenshi no Kaichuu Dungeon Kouryakuki
 
+![cheat-kenshi-no-kaichuu-dungeon-kouryakuki](https://cdn.myanimelist.net/images/manga/3/159995.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

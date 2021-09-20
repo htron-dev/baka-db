@@ -1,5 +1,7 @@
 # Chime♪: Peach na Seito to Banana na Kyoushi
 
+![chime♪-peach-na-seito-to-banana-na-kyoushi](https://cdn.myanimelist.net/images/manga/1/153973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

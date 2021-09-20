@@ -1,5 +1,7 @@
 # Cigarette Anthology
 
+![cigarette-anthology](https://cdn.myanimelist.net/images/manga/1/121267.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

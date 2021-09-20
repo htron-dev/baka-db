@@ -1,5 +1,7 @@
 # Cluster Edge Specials
 
+![cluster-edge-specials](https://cdn.myanimelist.net/images/anime/12/4414.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: クラスターエッジ ~Secret Episode~

@@ -1,5 +1,7 @@
 # Counter Stop Yuusha no Over Raise
 
+![counter-stop-yuusha-no-over-raise](https://cdn.myanimelist.net/images/manga/2/223193.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 34

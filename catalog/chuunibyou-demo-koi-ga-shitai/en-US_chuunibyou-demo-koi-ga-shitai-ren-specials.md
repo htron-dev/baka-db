@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai! Ren Specials
 
+![chuunibyou-demo-koi-ga-shitai-ren-specials](https://cdn.myanimelist.net/images/anime/13/60351.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 中二病でも恋がしたい！戀 未放送ショートムービー

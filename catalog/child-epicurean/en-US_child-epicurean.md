@@ -1,5 +1,7 @@
 # Child Epicurean
 
+![child-epicurean](https://cdn.myanimelist.net/images/manga/3/30148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

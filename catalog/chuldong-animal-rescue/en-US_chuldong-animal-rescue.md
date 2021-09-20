@@ -1,5 +1,7 @@
 # Chuldong! Animal Rescue
 
+![chuldong-animal-rescue](https://cdn.myanimelist.net/images/anime/1313/114497.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 출동! 애니멀 레스큐

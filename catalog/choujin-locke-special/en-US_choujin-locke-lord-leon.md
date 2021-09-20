@@ -1,5 +1,7 @@
 # Choujin Locke: Lord Leon
 
+![choujin-locke-lord-leon](https://cdn.myanimelist.net/images/anime/10/85453.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 超人ロック ロードレオン

@@ -1,5 +1,7 @@
 # Chuuzumou
 
+![chuuzumou](https://cdn.myanimelist.net/images/anime/6/23788.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちゅうずもう

@@ -1,5 +1,7 @@
 # Cash Girl
 
+![cash-girl](https://cdn.myanimelist.net/images/manga/3/321.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 캐쉬걸

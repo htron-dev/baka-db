@@ -1,5 +1,7 @@
 # Calligraffiti
 
+![calligraffiti](https://cdn.myanimelist.net/images/anime/4/60691.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カリグラフィティー

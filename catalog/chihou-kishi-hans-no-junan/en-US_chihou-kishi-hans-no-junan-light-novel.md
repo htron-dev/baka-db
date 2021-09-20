@@ -1,5 +1,7 @@
 # Chihou Kishi Hans no Junan
 
+![chihou-kishi-hans-no-junan](https://cdn.myanimelist.net/images/manga/3/188211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 地方騎士ハンスの受難

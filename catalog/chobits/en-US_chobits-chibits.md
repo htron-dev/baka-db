@@ -1,5 +1,7 @@
 # Chobits: Chibits
 
+![chobits-chibits](https://cdn.myanimelist.net/images/anime/9/34375.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちょびっツ ちびっツ すもも・琴子　届ける

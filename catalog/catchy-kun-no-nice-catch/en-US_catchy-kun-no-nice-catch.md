@@ -1,5 +1,7 @@
 # Catchy-kun no Nice Catch!
 
+![catchy-kun-no-nice-catch](https://cdn.myanimelist.net/images/anime/3/86803.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: キャッチーくんのナイスキャッチ!

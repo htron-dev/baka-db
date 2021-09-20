@@ -1,5 +1,7 @@
 # City Hunter: Goodbye My Sweetheart
 
+![city-hunter-goodbye-my-sweetheart](https://cdn.myanimelist.net/images/anime/1814/94961.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート

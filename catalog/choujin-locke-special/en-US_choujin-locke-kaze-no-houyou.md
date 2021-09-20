@@ -1,5 +1,7 @@
 # Choujin Locke: Kaze no Houyou
 
+![choujin-locke-kaze-no-houyou](https://cdn.myanimelist.net/images/manga/1/124919.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

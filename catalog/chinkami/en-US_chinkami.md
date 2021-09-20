@@ -1,5 +1,7 @@
 # Chinkami
 
+![chinkami](https://cdn.myanimelist.net/images/manga/2/184711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 珍神

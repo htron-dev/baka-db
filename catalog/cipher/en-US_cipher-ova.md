@@ -1,5 +1,7 @@
 # Cipher
 
+![cipher](https://cdn.myanimelist.net/images/anime/11/33203.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: CIPHER THE VIDEO

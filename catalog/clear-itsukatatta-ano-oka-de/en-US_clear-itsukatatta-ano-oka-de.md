@@ -1,5 +1,7 @@
 # Clear: Itsukatatta Ano Oka de
 
+![clear-itsukatatta-ano-oka-de](https://cdn.myanimelist.net/images/manga/3/32217.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Clear いつか立ったあの丘で

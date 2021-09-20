@@ -1,5 +1,7 @@
 # Cat Shit One JP
 
+![cat-shit-one-jp](https://cdn.myanimelist.net/images/manga/2/131907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Cat Shit One JP

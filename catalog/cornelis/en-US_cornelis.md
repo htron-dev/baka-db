@@ -1,5 +1,7 @@
 # Cornelis
 
+![cornelis](https://cdn.myanimelist.net/images/anime/10/37455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コルネリス

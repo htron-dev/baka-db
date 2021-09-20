@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch - Kiseki no Birthday
 
+![code-geass-hangyaku-no-lelouch-kiseki-no-birthday](https://cdn.myanimelist.net/images/anime/6/24108.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ キセキの誕生日[バースデー]

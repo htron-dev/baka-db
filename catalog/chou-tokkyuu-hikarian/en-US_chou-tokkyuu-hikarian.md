@@ -1,5 +1,7 @@
 # Chou Tokkyuu Hikarian
 
+![chou-tokkyuu-hikarian](https://cdn.myanimelist.net/images/anime/7/74463.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 超特急ヒカリアン

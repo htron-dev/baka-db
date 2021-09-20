@@ -1,5 +1,7 @@
 # NOW
 
+![now](https://cdn.myanimelist.net/images/manga/1/1395.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 25
 -   **original-name**: 나우

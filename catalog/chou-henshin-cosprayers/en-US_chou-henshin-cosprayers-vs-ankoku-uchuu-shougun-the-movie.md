@@ -1,5 +1,7 @@
 # Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie
 
+![chou-henshin-cosprayers-vs-ankoku-uchuu-shougun-the-movie](https://cdn.myanimelist.net/images/anime/9/4490.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「超変身コス ∞ プレイヤー VS 暗黒宇宙将軍」

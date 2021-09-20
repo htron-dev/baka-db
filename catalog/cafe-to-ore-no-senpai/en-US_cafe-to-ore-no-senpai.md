@@ -1,5 +1,7 @@
 # Café to Ore no Senpai
 
+![cafe-to-ore-no-senpai](https://cdn.myanimelist.net/images/manga/3/162954.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 31

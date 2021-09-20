@@ -1,5 +1,7 @@
 # Corocoro Coronya
 
+![corocoro-coronya](https://cdn.myanimelist.net/images/anime/1226/106374.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ころころコロニャ

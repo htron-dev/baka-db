@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai! Movie: Take On Me Mini-Drama - Koukai Chokuzen no... Kaiko Gekijou
 
+![chuunibyou-demo-koi-ga-shitai-movie-take-on-me-mini-drama-koukai-chokuzen-no-kaiko-gekijou](https://cdn.myanimelist.net/images/anime/2/89558.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 「映画 中二病でも恋がしたい！ -Take On Me-」ミニドラマ『公開直前の・・・回顧劇場』

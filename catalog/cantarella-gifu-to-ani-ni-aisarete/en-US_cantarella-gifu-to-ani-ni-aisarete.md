@@ -1,5 +1,7 @@
 # Cantarella: Gifu to Ani ni Aisarete
 
+![cantarella-gifu-to-ani-ni-aisarete](https://cdn.myanimelist.net/images/manga/2/158357.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: カンタレラ 義父と義兄に愛されて

@@ -1,5 +1,7 @@
 # Shin Crayon Shin-chan
 
+![shin-crayon-shin-chan](https://cdn.myanimelist.net/images/manga/1/164291.jpg)
+
 -   **type**: manga
 -   **original-name**: 新クレヨンしんちゃん
 -   **start-date**: 2010-08-05

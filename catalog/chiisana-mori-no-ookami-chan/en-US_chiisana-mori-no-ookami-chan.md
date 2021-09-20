@@ -1,5 +1,7 @@
 # Chiisana Mori no Ookami-chan
 
+![chiisana-mori-no-ookami-chan](https://cdn.myanimelist.net/images/manga/3/226096.jpg)
+
 -   **type**: manga
 -   **original-name**: ちいさな森のオオカミちゃん
 -   **start-date**: 2018-12-27

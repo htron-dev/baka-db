@@ -1,5 +1,7 @@
 # Chou Supercar Gattiger
 
+![chou-supercar-gattiger](https://cdn.myanimelist.net/images/anime/5/27329.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 超スーパーカー ガッタイガー

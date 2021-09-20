@@ -1,5 +1,7 @@
 # Cross Account
 
+![cross-account](https://cdn.myanimelist.net/images/manga/1/201588.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

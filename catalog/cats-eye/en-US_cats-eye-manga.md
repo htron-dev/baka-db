@@ -1,5 +1,7 @@
 # Cat's Eye
 
+![cats-eye](https://cdn.myanimelist.net/images/manga/3/175778.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 135

@@ -1,5 +1,7 @@
 # Cupid ni Rakurai
 
+![cupid-ni-rakurai](https://cdn.myanimelist.net/images/manga/2/236173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Crimsons: Akai Koukaishatachi
 
+![crimsons-akai-koukaishatachi](https://cdn.myanimelist.net/images/manga/3/65581.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Cheat Skill "Shisha Sosei" ga Kakusei shite, Inishie no Maougun wo Fukkatsu Sasete Shimaimashita: Daremo Shinasenai Saikyou Healer
 
+![cheat-skill-shisha-sosei-ga-kakusei-shite-inishie-no-maougun-wo-fukkatsu-sasete-shimaimashita-daremo-shinasenai-saikyou-healer](https://cdn.myanimelist.net/images/manga/2/239721.jpg)
+
 -   **type**: manga
 -   **original-name**: チートスキル『死者蘇生』が覚醒して、いにしえの魔王軍を復活させてしまいました～誰も死なせない最強ヒーラー～
 -   **start-date**: 2020-06-27

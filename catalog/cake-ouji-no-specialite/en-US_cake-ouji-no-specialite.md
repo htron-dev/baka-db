@@ -1,5 +1,7 @@
 # Cake Ouji no Spécialité
 
+![cake-ouji-no-specialite](https://cdn.myanimelist.net/images/manga/3/193545.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

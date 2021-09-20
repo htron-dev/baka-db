@@ -1,5 +1,7 @@
 # Cuticle Tantei Inaba
 
+![cuticle-tantei-inaba](https://cdn.myanimelist.net/images/manga/1/72809.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 127

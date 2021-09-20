@@ -1,5 +1,7 @@
 # Chounai Shinsengumi wo Tasuke-gumi Mezashi-tai no Koutsuu Anzen Rule wo Mamotte Mezase! Doubutsuen!
 
+![chounai-shinsengumi-wo-tasuke-gumi-mezashi-tai-no-koutsuu-anzen-rule-wo-mamotte-mezase-doubutsuen](https://cdn.myanimelist.net/images/anime/10/84761.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 町内新撰組 おたすけ組めざし隊の交通安全 交通ルールを守って めざせ！動物園！

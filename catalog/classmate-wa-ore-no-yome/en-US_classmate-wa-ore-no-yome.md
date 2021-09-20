@@ -1,5 +1,7 @@
 # Classmate wa Ore no Yome!
 
+![classmate-wa-ore-no-yome](https://cdn.myanimelist.net/images/manga/1/116001.jpg)
+
 -   **type**: manga
 -   **original-name**: 同級生〈クラスメート〉は俺の嫁！
 -   **start-date**: 2009-02-28

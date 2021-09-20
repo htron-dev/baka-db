@@ -1,5 +1,7 @@
 # Cheburashka Arere?
 
+![cheburashka-arere](https://cdn.myanimelist.net/images/anime/8/33145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: チェブラーシカ あれれ？

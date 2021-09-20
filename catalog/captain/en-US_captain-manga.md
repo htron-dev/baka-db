@@ -1,5 +1,7 @@
 # Captain
 
+![captain](https://cdn.myanimelist.net/images/manga/3/124931.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **original-name**: キャプテン

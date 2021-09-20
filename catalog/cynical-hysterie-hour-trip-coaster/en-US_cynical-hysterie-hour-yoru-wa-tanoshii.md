@@ -1,5 +1,7 @@
 # Cynical Hysterie Hour: Yoru wa Tanoshii
 
+![cynical-hysterie-hour-yoru-wa-tanoshii](https://cdn.myanimelist.net/images/anime/13/27150.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シニカル・ヒステリー・アワー 夜は楽しい

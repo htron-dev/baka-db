@@ -1,5 +1,7 @@
 # Change Guy
 
+![change-guy](https://cdn.myanimelist.net/images/manga/2/67463.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 31
 -   **chapters**: 338

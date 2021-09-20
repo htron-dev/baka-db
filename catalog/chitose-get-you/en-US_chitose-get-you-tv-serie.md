@@ -1,5 +1,7 @@
 # Chitose Get You!!
 
+![chitose-get-you](https://cdn.myanimelist.net/images/anime/10/50537.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ちとせげっちゅ!!

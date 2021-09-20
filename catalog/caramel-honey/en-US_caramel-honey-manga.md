@@ -1,5 +1,7 @@
 # Caramel Honey
 
+![caramel-honey](https://cdn.myanimelist.net/images/manga/2/203984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

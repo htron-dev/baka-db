@@ -1,5 +1,7 @@
 # Chiisana Tayori, Ookina Tayori.
 
+![chiisana-tayori-ookina-tayori](https://cdn.myanimelist.net/images/anime/1513/92045.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 小さな便り、大きな便り。

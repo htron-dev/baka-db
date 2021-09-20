@@ -1,5 +1,7 @@
 # Cheonnyeon-yeowoo Yeowoobi
 
+![cheonnyeon-yeowoo-yeowoobi](https://cdn.myanimelist.net/images/anime/8/56083.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 천년여우 여우비

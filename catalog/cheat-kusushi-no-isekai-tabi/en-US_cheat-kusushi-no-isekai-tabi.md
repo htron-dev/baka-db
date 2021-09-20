@@ -1,5 +1,7 @@
 # Cheat Kusushi no Isekai Tabi
 
+![cheat-kusushi-no-isekai-tabi](https://cdn.myanimelist.net/images/manga/1/141897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: チート薬師の異世界旅

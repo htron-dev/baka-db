@@ -1,5 +1,7 @@
 # Chou Futsuu Toshi Kashiwa Densetsu: Kashiwa no Gotouji Yuru Anime
 
+![chou-futsuu-toshi-kashiwa-densetsu-kashiwa-no-gotouji-yuru-anime](https://cdn.myanimelist.net/images/anime/1766/109195.jpg)
+
 -   **type**: ona
 -   **original-name**: 【柏のご当地ゆるアニメ】超普通都市カシワ伝説
 -   **start-date**: 2016-06-07

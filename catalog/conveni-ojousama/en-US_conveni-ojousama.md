@@ -1,5 +1,7 @@
 # Conveni Ojousama
 
+![conveni-ojousama](https://cdn.myanimelist.net/images/manga/2/202117.jpg)
+
 -   **type**: manga
 -   **original-name**: コンビニお嬢さま
 -   **start-date**: 2015-11-06

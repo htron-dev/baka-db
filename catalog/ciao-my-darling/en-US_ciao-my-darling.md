@@ -1,5 +1,7 @@
 # Ciao, My Darling
 
+![ciao-my-darling](https://cdn.myanimelist.net/images/manga/2/5042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

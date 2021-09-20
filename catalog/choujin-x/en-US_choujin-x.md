@@ -1,5 +1,7 @@
 # Choujin X
 
+![choujin-x](https://cdn.myanimelist.net/images/manga/1/244523.jpg)
+
 -   **type**: manga
 -   **original-name**: 超人 X
 -   **start-date**: 2021-05-10

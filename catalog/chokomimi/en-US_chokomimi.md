@@ -1,5 +1,7 @@
 # Chokomimi
 
+![chokomimi](https://cdn.myanimelist.net/images/manga/3/89043.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: チョコミミ

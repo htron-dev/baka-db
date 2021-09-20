@@ -1,5 +1,7 @@
 # Caramel☆Boys: Sakazaki Toshiki Tanpenshuu
 
+![caramel☆-boys-sakazaki-toshiki-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/20721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

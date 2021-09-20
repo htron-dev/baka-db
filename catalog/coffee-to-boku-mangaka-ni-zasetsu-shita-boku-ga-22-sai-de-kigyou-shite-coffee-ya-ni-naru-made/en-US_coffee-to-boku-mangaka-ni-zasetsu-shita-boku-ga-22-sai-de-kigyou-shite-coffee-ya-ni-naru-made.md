@@ -1,5 +1,7 @@
 # Coffee to Boku: Mangaka ni Zasetsu shita Boku ga 22-sai de Kigyou shite Coffee-ya ni Naru made
 
+![coffee-to-boku-mangaka-ni-zasetsu-shita-boku-ga-22-sai-de-kigyou-shite-coffee-ya-ni-naru-made](https://cdn.myanimelist.net/images/manga/1/236684.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

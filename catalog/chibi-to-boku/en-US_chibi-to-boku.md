@@ -1,5 +1,7 @@
 # Chibi to Boku
 
+![chibi-to-boku](https://cdn.myanimelist.net/images/manga/1/85681.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ちびとぼく

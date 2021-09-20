@@ -1,5 +1,7 @@
 # Chijou 100 Meter de, Aimashou
 
+![chijou-100-meter-de-aimashou](https://cdn.myanimelist.net/images/manga/1/227946.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

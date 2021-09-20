@@ -1,5 +1,7 @@
 # Chirality
 
+![chirality](https://cdn.myanimelist.net/images/manga/3/186205.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

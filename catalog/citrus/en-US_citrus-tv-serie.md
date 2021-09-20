@@ -1,5 +1,7 @@
 # Citrus
 
+![citrus](https://cdn.myanimelist.net/images/anime/11/89985.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シトラス

@@ -1,5 +1,7 @@
 # God Bird
 
+![god-bird](https://cdn.myanimelist.net/images/manga/1/207672.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

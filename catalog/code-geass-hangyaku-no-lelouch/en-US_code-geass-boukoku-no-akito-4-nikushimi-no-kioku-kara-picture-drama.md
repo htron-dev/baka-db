@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara Picture Drama
 
+![code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara-picture-drama](https://cdn.myanimelist.net/images/anime/12/77400.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス　亡国のアキト 第 4 章: 憎しみの記憶から

@@ -1,5 +1,7 @@
 # Code Geass: Fukkatsu no Lelouch
 
+![code-geass-fukkatsu-no-lelouch](https://cdn.myanimelist.net/images/anime/1274/113436.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 復活のルルーシュ

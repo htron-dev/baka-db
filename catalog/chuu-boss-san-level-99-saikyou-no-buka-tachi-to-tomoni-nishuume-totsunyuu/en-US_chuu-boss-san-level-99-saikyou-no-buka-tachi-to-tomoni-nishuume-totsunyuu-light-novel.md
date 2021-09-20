@@ -1,5 +1,7 @@
 # Chuu-Boss-san Level 99, Saikyou no Buka-tachi to Tomoni Nishuume Totsunyuu!
 
+![chuu-boss-san-level-99-saikyou-no-buka-tachi-to-tomoni-nishuume-totsunyuu](https://cdn.myanimelist.net/images/manga/2/246186.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

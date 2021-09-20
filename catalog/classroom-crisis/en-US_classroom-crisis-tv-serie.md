@@ -1,5 +1,7 @@
 # Classroom☆Crisis
 
+![classroom☆-crisis](https://cdn.myanimelist.net/images/anime/12/74397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: クラスルーム ☆ クライシス

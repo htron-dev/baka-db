@@ -1,5 +1,7 @@
 # Café Velomano
 
+![cafe-velomano](https://cdn.myanimelist.net/images/manga/5/102051.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 카페 벨로마노
 

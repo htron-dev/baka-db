@@ -1,5 +1,7 @@
 # Circlet Princess
 
+![circlet-princess](https://cdn.myanimelist.net/images/anime/1760/97712.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: CIRCLET PRINCESS（サークレット・プリンセス）

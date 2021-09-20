@@ -1,5 +1,7 @@
 # Chikita★Gugu
 
+![chikita★-gugu](https://cdn.myanimelist.net/images/manga/1/244560.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: チキタ ★GUGU

@@ -1,5 +1,7 @@
 # Shooting Star Bebop: Cowboy Bebop
 
+![shooting-star-bebop-cowboy-bebop](https://cdn.myanimelist.net/images/manga/3/176770.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

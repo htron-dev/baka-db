@@ -1,5 +1,7 @@
 # Cheer Danshi!! Specials
 
+![cheer-danshi-specials](https://cdn.myanimelist.net/images/anime/2/83335.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: チア男子!!

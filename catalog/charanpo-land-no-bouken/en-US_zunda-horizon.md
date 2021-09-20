@@ -1,5 +1,7 @@
 # Zunda Horizon
 
+![zunda-horizon](https://cdn.myanimelist.net/images/anime/8/83943.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ずんだホライずん

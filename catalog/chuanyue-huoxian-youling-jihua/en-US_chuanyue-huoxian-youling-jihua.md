@@ -1,5 +1,7 @@
 # Chuanyue Huoxian: Youling Jihua
 
+![chuanyue-huoxian-youling-jihua](https://cdn.myanimelist.net/images/anime/1699/105730.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 穿越火线：幽灵计划

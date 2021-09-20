@@ -1,5 +1,7 @@
 # Choukyou Kareshi
 
+![choukyou-kareshi](https://cdn.myanimelist.net/images/manga/2/115451.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

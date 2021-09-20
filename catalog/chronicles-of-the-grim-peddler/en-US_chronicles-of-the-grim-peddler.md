@@ -1,5 +1,7 @@
 # Chronicles of the Grim Peddler
 
+![chronicles-of-the-grim-peddler](https://cdn.myanimelist.net/images/manga/4/35414.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Coffee &amp; Vanilla
 
+![coffee-amp-vanilla](https://cdn.myanimelist.net/images/manga/3/171393.jpg)
+
 -   **type**: manga
 -   **original-name**: コーヒー＆バニラ
 -   **start-date**: 2015-04-24

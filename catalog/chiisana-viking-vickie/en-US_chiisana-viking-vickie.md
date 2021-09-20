@@ -1,5 +1,7 @@
 # Chiisana Viking Vickie
 
+![chiisana-viking-vickie](https://cdn.myanimelist.net/images/anime/11/3940.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 小さなバイキングビッケ

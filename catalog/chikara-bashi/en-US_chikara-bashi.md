@@ -1,5 +1,7 @@
 # Chikara Bashi
 
+![chikara-bashi](https://cdn.myanimelist.net/images/anime/1114/112168.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちからばし

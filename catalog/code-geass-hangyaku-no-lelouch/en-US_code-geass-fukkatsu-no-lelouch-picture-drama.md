@@ -1,5 +1,7 @@
 # Code Geass: Fukkatsu no Lelouch Picture Drama
 
+![code-geass-fukkatsu-no-lelouch-picture-drama](https://cdn.myanimelist.net/images/anime/1145/104707.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: コードギアス 復活のルルーシュ ピクチャードラマ「Re;f 103.00 　深海のカケラ」

@@ -1,5 +1,7 @@
 # Crovence Senki: Bloody Biscara
 
+![crovence-senki-bloody-biscara](https://cdn.myanimelist.net/images/manga/1/204408.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: クロバンス戦記 ブラッディ・ビスカラ

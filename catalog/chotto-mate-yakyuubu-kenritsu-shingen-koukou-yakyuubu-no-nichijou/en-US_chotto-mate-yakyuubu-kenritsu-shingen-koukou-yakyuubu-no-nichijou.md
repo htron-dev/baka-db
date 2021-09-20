@@ -1,5 +1,7 @@
 # Chotto Mate Yakyuubu!: Kenritsu Shingen Koukou Yakyuubu no Nichijou
 
+![chotto-mate-yakyuubu-kenritsu-shingen-koukou-yakyuubu-no-nichijou](https://cdn.myanimelist.net/images/manga/3/194482.jpg)
+
 -   **type**: manga
 -   **original-name**: ちょっとまて野球部！－県立神弦高校野球部の日常－
 -   **start-date**: 2015-04-09

@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel
 
+![chuunibyou-demo-koi-ga-shitai-kirameki-no-slapstick-noel](https://cdn.myanimelist.net/images/anime/7/45512.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 中二病でも恋がしたい! 煌めきの... 聖爆誕祭（スラップステック・ノエル）

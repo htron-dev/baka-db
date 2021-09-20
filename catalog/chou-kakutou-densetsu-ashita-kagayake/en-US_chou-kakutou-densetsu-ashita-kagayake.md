@@ -1,5 +1,7 @@
 # Chou Kakutou Densetsu Ashita Kagayake!!
 
+![chou-kakutou-densetsu-ashita-kagayake](https://cdn.myanimelist.net/images/manga/2/128397.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 超格闘伝説あした輝け！！

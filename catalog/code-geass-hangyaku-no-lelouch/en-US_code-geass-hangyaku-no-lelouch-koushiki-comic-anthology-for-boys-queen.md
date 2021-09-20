@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Koushiki Comic Anthology For Boys - Queen
 
+![code-geass-hangyaku-no-lelouch-koushiki-comic-anthology-for-boys-queen](https://cdn.myanimelist.net/images/manga/3/140001.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 83

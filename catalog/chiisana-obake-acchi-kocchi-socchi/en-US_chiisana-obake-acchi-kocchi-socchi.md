@@ -1,5 +1,7 @@
 # Chiisana Obake: Acchi, Kocchi, Socchi
 
+![chiisana-obake-acchi-kocchi-socchi](https://cdn.myanimelist.net/images/anime/1893/100728.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 小さなおばけ アッチ・ソッチ・コッチ

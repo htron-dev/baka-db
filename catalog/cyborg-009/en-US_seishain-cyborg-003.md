@@ -1,5 +1,7 @@
 # Seishain Cyborg 003
 
+![seishain-cyborg-003](https://cdn.myanimelist.net/images/anime/10/79655.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 正社員サイボーグ 003

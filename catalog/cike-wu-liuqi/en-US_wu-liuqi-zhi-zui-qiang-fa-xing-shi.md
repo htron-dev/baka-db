@@ -1,5 +1,7 @@
 # Wu Liuqi Zhi Zui Qiang Fa Xing Shi
 
+![wu-liuqi-zhi-zui-qiang-fa-xing-shi](https://cdn.myanimelist.net/images/anime/1756/104551.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 伍六七之最强发型师

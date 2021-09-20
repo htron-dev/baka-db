@@ -1,5 +1,7 @@
 # Chogattai Majutsu Robot Ginguiser Specials
 
+![chogattai-majutsu-robot-ginguiser-specials](https://cdn.myanimelist.net/images/anime/2/43473.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 超合体魔術ロボ\_ギンガイザー

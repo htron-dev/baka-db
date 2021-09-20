@@ -1,5 +1,7 @@
 # Chinpui
 
+![chinpui](https://cdn.myanimelist.net/images/anime/11/74871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: チンプイ

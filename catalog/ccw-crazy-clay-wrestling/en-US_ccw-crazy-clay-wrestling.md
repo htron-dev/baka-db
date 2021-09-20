@@ -1,5 +1,7 @@
 # CCW: Crazy Clay Wrestling
 
+![ccw-crazy-clay-wrestling](https://cdn.myanimelist.net/images/anime/2/33509.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: クレイジー・クレイ・レスリング

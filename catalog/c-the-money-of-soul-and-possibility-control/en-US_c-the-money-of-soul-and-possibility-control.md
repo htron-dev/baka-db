@@ -1,5 +1,7 @@
 # C: The Money of Soul and Possibility Control
 
+![c-the-money-of-soul-and-possibility-control](https://cdn.myanimelist.net/images/anime/5/50551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL

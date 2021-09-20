@@ -1,5 +1,7 @@
 # City Hunter: The Secret Service
 
+![city-hunter-the-secret-service](https://cdn.myanimelist.net/images/anime/1437/94390.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シティーハンタースペシャル ザ・シークレット・サービス

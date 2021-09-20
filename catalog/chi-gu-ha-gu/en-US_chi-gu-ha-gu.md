@@ -1,5 +1,7 @@
 # Chi Gu Ha Gu
 
+![chi-gu-ha-gu](https://cdn.myanimelist.net/images/manga/2/45493.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ちぐはぐ

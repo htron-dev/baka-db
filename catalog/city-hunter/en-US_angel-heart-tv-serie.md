@@ -1,5 +1,7 @@
 # Angel Heart
 
+![angel-heart](https://cdn.myanimelist.net/images/anime/1/282.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: エンジェル・ハート

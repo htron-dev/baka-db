@@ -1,5 +1,7 @@
 # Cool Doji Danshi
 
+![cool-doji-danshi](https://cdn.myanimelist.net/images/manga/1/226258.jpg)
+
 -   **type**: manga
 -   **original-name**: クールドジ男子
 -   **start-date**: 2019-06-22

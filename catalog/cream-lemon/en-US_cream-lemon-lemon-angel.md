@@ -1,5 +1,7 @@
 # Cream Lemon: Lemon Angel
 
+![cream-lemon-lemon-angel](https://cdn.myanimelist.net/images/anime/1190/107227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: くりぃむレモン レモンエンジェル

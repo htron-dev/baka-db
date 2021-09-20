@@ -1,5 +1,7 @@
 # Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!
 
+![choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu](https://cdn.myanimelist.net/images/manga/3/184621.jpg)
+
 -   **type**: manga
 -   **original-name**: 超人高校生たちは異世界でも余裕で生き抜くようです！
 -   **start-date**: 2016-05-06

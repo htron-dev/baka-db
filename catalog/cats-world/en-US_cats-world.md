@@ -1,5 +1,7 @@
 # Cat's World
 
+![cats-world](https://cdn.myanimelist.net/images/manga/2/14323.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

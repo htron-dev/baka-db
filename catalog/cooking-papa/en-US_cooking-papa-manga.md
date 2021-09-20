@@ -1,5 +1,7 @@
 # Cooking Papa
 
+![cooking-papa](https://cdn.myanimelist.net/images/manga/1/75853.jpg)
+
 -   **type**: manga
 -   **original-name**: クッキングパパ
 -   **start-date**: 1984-01-19

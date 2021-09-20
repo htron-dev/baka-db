@@ -1,5 +1,7 @@
 # Chiru, Chiru, Michiru.
 
+![chiru-chiru-michiru](https://cdn.myanimelist.net/images/manga/2/197000.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

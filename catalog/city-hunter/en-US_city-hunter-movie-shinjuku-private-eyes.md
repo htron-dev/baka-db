@@ -1,5 +1,7 @@
 # City Hunter Movie: Shinjuku Private Eyes
 
+![city-hunter-movie-shinjuku-private-eyes](https://cdn.myanimelist.net/images/anime/1416/97388.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版シティーハンター <新宿 PRIVATE EYES>

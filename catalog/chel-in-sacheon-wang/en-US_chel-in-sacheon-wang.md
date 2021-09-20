@@ -1,5 +1,7 @@
 # Chel-in sacheon-wang
 
+![chel-in-sacheon-wang](https://cdn.myanimelist.net/images/anime/9/72620.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 철인 사천왕

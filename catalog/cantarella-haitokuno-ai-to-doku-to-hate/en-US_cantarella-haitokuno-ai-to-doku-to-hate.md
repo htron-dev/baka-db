@@ -1,5 +1,7 @@
 # Cantarella: Haitokuno Ai to Doku to Hate
 
+![cantarella-haitokuno-ai-to-doku-to-hate](https://cdn.myanimelist.net/images/manga/2/64479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

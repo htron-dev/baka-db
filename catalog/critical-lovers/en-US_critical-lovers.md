@@ -1,5 +1,7 @@
 # Critical Lovers
 
+![critical-lovers](https://cdn.myanimelist.net/images/manga/1/22442.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

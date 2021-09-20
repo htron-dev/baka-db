@@ -1,5 +1,7 @@
 # Planetarium Chibi Maruko-chan, Hoshi ni Negai wo
 
+![planetarium-chibi-maruko-chan-hoshi-ni-negai-wo](https://cdn.myanimelist.net/images/anime/5/74141.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プラネタリウム　ちびまる子ちゃん　星にねがいを

@@ -1,5 +1,7 @@
 # Crimson Cross: Shi ga Futari wo Wakatsu made
 
+![crimson-cross-shi-ga-futari-wo-wakatsu-made](https://cdn.myanimelist.net/images/manga/1/4505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

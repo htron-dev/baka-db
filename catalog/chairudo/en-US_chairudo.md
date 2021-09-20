@@ -1,5 +1,7 @@
 # Chairudo
 
+![chairudo](https://cdn.myanimelist.net/images/manga/2/77397.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 小類人ちゃるど

@@ -1,5 +1,7 @@
 # Chippai Kanojo to Bijin Kareshi
 
+![chippai-kanojo-to-bijin-kareshi](https://cdn.myanimelist.net/images/manga/2/226887.jpg)
+
 -   **type**: manga
 -   **original-name**: ちっぱい彼女と美人彼氏
 -   **start-date**: 2017-06-02

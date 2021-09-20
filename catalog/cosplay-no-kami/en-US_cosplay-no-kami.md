@@ -1,5 +1,7 @@
 # Cosplay no Kami!
 
+![cosplay-no-kami](https://cdn.myanimelist.net/images/manga/2/101299.jpg)
+
 -   **type**: manga
 -   **original-name**: コスプレの神!
 -   **start-date**: 2011-09-17

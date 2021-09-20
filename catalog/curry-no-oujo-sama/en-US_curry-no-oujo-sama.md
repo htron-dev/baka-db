@@ -1,5 +1,7 @@
 # Curry no Oujo-sama
 
+![curry-no-oujo-sama](https://cdn.myanimelist.net/images/manga/2/195805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

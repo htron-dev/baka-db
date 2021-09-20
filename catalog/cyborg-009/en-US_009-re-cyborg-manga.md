@@ -1,5 +1,7 @@
 # 009 Re:Cyborg
 
+![009-re-cyborg](https://cdn.myanimelist.net/images/manga/3/163640.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

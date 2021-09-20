@@ -1,5 +1,7 @@
 # Chiisana Itsutsu no Ohanashi
 
+![chiisana-itsutsu-no-ohanashi](https://cdn.myanimelist.net/images/anime/1254/112167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小さな五つのお話

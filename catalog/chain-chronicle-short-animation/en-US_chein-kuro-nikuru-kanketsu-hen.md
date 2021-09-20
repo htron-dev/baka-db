@@ -1,5 +1,7 @@
 # Chein Kuro-Nikuru!! Kanketsu-hen
 
+![chein-kuro-nikuru-kanketsu-hen](https://cdn.myanimelist.net/images/anime/1758/95344.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちぇいん黒にくる!! 完結編

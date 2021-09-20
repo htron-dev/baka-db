@@ -1,5 +1,7 @@
 # Colorless
 
+![colorless](https://cdn.myanimelist.net/images/manga/2/226247.jpg)
+
 -   **type**: manga
 -   **original-name**: カラーレス
 -   **start-date**: 2019-01-11

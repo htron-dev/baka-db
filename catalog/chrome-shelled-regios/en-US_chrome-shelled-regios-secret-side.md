@@ -1,5 +1,7 @@
 # Chrome Shelled Regios: Secret Side
 
+![chrome-shelled-regios-secret-side](https://cdn.myanimelist.net/images/manga/5/151241.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

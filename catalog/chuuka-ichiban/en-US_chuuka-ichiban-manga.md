@@ -1,5 +1,7 @@
 # Chuuka Ichiban!
 
+![chuuka-ichiban](https://cdn.myanimelist.net/images/manga/1/201802.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

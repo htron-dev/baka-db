@@ -1,5 +1,7 @@
 # Chikyuu wa Guruguru Merry-Go-Round
 
+![chikyuu-wa-guruguru-merry-go-round](https://cdn.myanimelist.net/images/anime/12/89028.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地球はぐるぐるメリーゴーランド

@@ -1,5 +1,7 @@
 # Choushin Hime Dangaizer 3
 
+![choushin-hime-dangaizer-3](https://cdn.myanimelist.net/images/anime/2/15185.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 超神姫ダンガイザー 3

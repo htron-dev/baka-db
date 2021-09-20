@@ -1,5 +1,7 @@
 # Choukyoushi
 
+![choukyoushi](https://cdn.myanimelist.net/images/manga/3/36524.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

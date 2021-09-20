@@ -1,5 +1,7 @@
 # Caramel Cinnamon Popcorn
 
+![caramel-cinnamon-popcorn](https://cdn.myanimelist.net/images/manga/1/235755.jpg)
+
 -   **type**: manga
 -   **original-name**: キャラメル シナモン ポップコーン
 -   **start-date**: 2019-10-28

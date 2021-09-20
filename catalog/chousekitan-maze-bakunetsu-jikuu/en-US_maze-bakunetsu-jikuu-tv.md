@@ -1,5 +1,7 @@
 # Maze☆Bakunetsu Jikuu (TV)
 
+![maze☆-bakunetsu-jikuu-tv](https://cdn.myanimelist.net/images/anime/4/20383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: MAZE☆ 爆熱時空

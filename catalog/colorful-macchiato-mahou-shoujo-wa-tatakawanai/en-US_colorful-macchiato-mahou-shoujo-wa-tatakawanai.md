@@ -1,5 +1,7 @@
 # Colorful Macchiato!: Mahou Shoujo wa Tatakawanai.
 
+![colorful-macchiato-mahou-shoujo-wa-tatakawanai](https://cdn.myanimelist.net/images/manga/3/219771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

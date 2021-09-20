@@ -1,5 +1,7 @@
 # Colorful Joker
 
+![colorful-joker](https://cdn.myanimelist.net/images/manga/3/208362.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

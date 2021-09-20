@@ -1,5 +1,7 @@
 # Concierge no Koibito
 
+![concierge-no-koibito](https://cdn.myanimelist.net/images/manga/3/120867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

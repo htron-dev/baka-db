@@ -1,5 +1,7 @@
 # Chijoku no Rakuen
 
+![chijoku-no-rakuen](https://cdn.myanimelist.net/images/manga/1/83374.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

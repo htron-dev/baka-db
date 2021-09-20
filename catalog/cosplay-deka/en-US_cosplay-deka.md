@@ -1,5 +1,7 @@
 # Cosplay Deka
 
+![cosplay-deka](https://cdn.myanimelist.net/images/manga/2/88185.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

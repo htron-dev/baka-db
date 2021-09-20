@@ -1,5 +1,7 @@
 # Chikyuu Hyoukai Jiki
 
+![chikyuu-hyoukai-jiki](https://cdn.myanimelist.net/images/manga/3/192244.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

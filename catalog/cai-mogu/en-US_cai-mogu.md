@@ -1,5 +1,7 @@
 # Cai Mogu
 
+![cai-mogu](https://cdn.myanimelist.net/images/anime/1964/115467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 采蘑菇

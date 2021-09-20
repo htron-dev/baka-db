@@ -1,5 +1,7 @@
 # CEO no Okiniiri: Hisho wa Office de Amaku Midasare
 
+![ceo-no-okiniiri-hisho-wa-office-de-amaku-midasare](https://cdn.myanimelist.net/images/manga/1/192877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

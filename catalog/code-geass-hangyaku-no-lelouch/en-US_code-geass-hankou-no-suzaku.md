@@ -1,5 +1,7 @@
 # Code Geass: Hankou no Suzaku
 
+![code-geass-hankou-no-suzaku](https://cdn.myanimelist.net/images/manga/3/44353.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

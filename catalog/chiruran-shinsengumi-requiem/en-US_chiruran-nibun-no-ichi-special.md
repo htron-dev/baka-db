@@ -1,5 +1,7 @@
 # Chiruran: Nibun no Ichi Special
 
+![chiruran-nibun-no-ichi-special](https://cdn.myanimelist.net/images/anime/6/85023.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちるらん にぶんの壱

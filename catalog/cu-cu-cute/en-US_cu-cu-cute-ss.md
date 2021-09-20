@@ -1,5 +1,7 @@
 # Cu-Cu-Cute! SS
 
+![cu-cu-cute-ss](https://cdn.myanimelist.net/images/manga/1/162327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 11

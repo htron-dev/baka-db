@@ -1,5 +1,7 @@
 # Curve
 
+![curve](https://cdn.myanimelist.net/images/manga/1/79455.jpg)
+
 -   **type**: manga
 -   **original-name**: カーブ
 

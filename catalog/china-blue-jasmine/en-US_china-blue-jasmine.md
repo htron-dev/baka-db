@@ -1,5 +1,7 @@
 # China Blue Jasmine
 
+![china-blue-jasmine](https://cdn.myanimelist.net/images/manga/1/156342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

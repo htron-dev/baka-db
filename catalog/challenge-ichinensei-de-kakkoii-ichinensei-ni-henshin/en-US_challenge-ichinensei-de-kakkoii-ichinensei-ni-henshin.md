@@ -1,5 +1,7 @@
 # Challenge Ichinensei de Kakkoii Ichinensei ni Henshin!
 
+![challenge-ichinensei-de-kakkoii-ichinensei-ni-henshin](https://cdn.myanimelist.net/images/anime/9/18902.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: チャレンジ 1 年生でかっこいい 1 年生にへんしん!DVD

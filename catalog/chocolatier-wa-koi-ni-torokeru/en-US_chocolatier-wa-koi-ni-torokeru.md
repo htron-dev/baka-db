@@ -1,5 +1,7 @@
 # Chocolatier wa Koi ni Torokeru
 
+![chocolatier-wa-koi-ni-torokeru](https://cdn.myanimelist.net/images/manga/3/167593.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ショコラティエは恋に蕩ける

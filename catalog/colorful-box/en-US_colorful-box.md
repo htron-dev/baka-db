@@ -1,5 +1,7 @@
 # Colorful Box
 
+![colorful-box](https://cdn.myanimelist.net/images/manga/2/28217.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: カラフルＢＯＸ

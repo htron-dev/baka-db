@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen
 
+![crayon-shin-chan-movie-06-dengeki-buta-no-hizume-daisakusen](https://cdn.myanimelist.net/images/anime/1422/94856.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　電撃！ブタのヒヅメ大作戦

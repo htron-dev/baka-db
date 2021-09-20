@@ -1,5 +1,7 @@
 # Chikyuu Kanrinin
 
+![chikyuu-kanrinin](https://cdn.myanimelist.net/images/manga/2/10400.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

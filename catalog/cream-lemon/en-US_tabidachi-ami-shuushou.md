@@ -1,5 +1,7 @@
 # Tabidachi: Ami Shuushou
 
+![tabidachi-ami-shuushou](https://cdn.myanimelist.net/images/anime/5/11662.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 旅立ち　-亜美・終章-

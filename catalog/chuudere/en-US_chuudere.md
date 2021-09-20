@@ -1,5 +1,7 @@
 # Chuudere!
 
+![chuudere](https://cdn.myanimelist.net/images/manga/3/240701.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

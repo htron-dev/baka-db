@@ -1,5 +1,7 @@
 # Card Master
 
+![card-master](https://cdn.myanimelist.net/images/manga/1/79395.jpg)
+
 -   **type**: manga
 -   **original-name**: カードマスター
 

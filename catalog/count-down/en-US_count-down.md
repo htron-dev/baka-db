@@ -1,5 +1,7 @@
 # Count Down
 
+![count-down](https://cdn.myanimelist.net/images/anime/6/71852.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カウントダウン

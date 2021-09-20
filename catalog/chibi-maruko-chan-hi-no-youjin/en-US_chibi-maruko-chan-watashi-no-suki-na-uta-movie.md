@@ -1,5 +1,7 @@
 # Chibi Maruko-chan: Watashi no Suki na Uta
 
+![chibi-maruko-chan-watashi-no-suki-na-uta](https://cdn.myanimelist.net/images/anime/1300/97263.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちびまる子ちゃん わたしの好きな歌

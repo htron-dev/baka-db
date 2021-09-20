@@ -1,5 +1,7 @@
 # Chikyuu Misaki
 
+![chikyuu-misaki](https://cdn.myanimelist.net/images/manga/2/5236.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

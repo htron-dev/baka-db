@@ -1,5 +1,7 @@
 # Clear na Ore Fujun na Kokoro de Mitasareteiru
 
+![clear-na-ore-fujun-na-kokoro-de-mitasareteiru](https://cdn.myanimelist.net/images/manga/2/172578.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

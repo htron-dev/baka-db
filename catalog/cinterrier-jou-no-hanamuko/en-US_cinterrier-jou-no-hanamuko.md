@@ -1,5 +1,7 @@
 # Cinterrier-jou no Hanamuko
 
+![cinterrier-jou-no-hanamuko](https://cdn.myanimelist.net/images/anime/1524/95727.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シンテリヤ嬢の花婿

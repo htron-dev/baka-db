@@ -1,5 +1,7 @@
 # Chichi ga Loli na Mono de
 
+![chichi-ga-loli-na-mono-de](https://cdn.myanimelist.net/images/manga/2/122705.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

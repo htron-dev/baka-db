@@ -1,5 +1,7 @@
 # Calling Series
 
+![calling-series](https://cdn.myanimelist.net/images/manga/4/18634.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

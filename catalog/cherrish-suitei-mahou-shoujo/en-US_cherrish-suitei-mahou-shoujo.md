@@ -1,5 +1,7 @@
 # Cherrish: Suitei Mahou Shoujo
 
+![cherrish-suitei-mahou-shoujo](https://cdn.myanimelist.net/images/manga/2/162865.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 4

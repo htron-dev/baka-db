@@ -1,5 +1,7 @@
 # CLAMP Gakuen Kaikigenshou Kenkyuukai Jiken File
 
+![clamp-gakuen-kaikigenshou-kenkyuukai-jiken-file](https://cdn.myanimelist.net/images/manga/2/10135.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 7

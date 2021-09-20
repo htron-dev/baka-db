@@ -1,5 +1,7 @@
 # Chou Futsuu Toshi Kashiwa Densetsu: Ekimae Housou UDC2-hen
 
+![chou-futsuu-toshi-kashiwa-densetsu-ekimae-housou-udc-2-hen](https://cdn.myanimelist.net/images/anime/1165/109194.jpg)
+
 -   **type**: ona
 -   **original-name**: 【駅前放送 UDC2 編】超普通都市カシワ伝説
 -   **start-date**: 2017-05-22

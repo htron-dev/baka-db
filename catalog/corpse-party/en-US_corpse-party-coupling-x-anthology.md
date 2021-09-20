@@ -1,5 +1,7 @@
 # Corpse Party: Coupling x Anthology
 
+![corpse-party-coupling-x-anthology](https://cdn.myanimelist.net/images/manga/3/148637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

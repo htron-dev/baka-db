@@ -1,5 +1,7 @@
 # Canvas ni Kuchizuke wo
 
+![canvas-ni-kuchizuke-wo](https://cdn.myanimelist.net/images/manga/4/24871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

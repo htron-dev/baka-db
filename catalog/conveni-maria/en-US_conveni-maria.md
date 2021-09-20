@@ -1,5 +1,7 @@
 # Conveni Maria
 
+![conveni-maria](https://cdn.myanimelist.net/images/manga/3/207967.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Carole &amp; Tuesday Specials
 
+![carole-amp-tuesday-specials](https://cdn.myanimelist.net/images/anime/1310/102157.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: きゃろる＆ちゅーずでい

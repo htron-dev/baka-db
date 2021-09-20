@@ -1,5 +1,7 @@
 # Chibikuro Sambo no Tora Taiji
 
+![chibikuro-sambo-no-tora-taiji](https://cdn.myanimelist.net/images/anime/6/71845.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちびくろさんぼのとらたいじ

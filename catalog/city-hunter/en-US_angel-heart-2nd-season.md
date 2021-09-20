@@ -1,5 +1,7 @@
 # Angel Heart 2nd Season
 
+![angel-heart-2nd-season](https://cdn.myanimelist.net/images/manga/4/155412.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 80

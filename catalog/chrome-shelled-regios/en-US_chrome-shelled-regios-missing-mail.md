@@ -1,5 +1,7 @@
 # Chrome Shelled Regios: Missing Mail
 
+![chrome-shelled-regios-missing-mail](https://cdn.myanimelist.net/images/manga/2/117221.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 43

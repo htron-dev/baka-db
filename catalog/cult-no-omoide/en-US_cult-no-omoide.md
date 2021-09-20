@@ -1,5 +1,7 @@
 # Cult no Omoide
 
+![cult-no-omoide](https://cdn.myanimelist.net/images/manga/3/167486.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カルトの思い出

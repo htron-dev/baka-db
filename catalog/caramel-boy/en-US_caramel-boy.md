@@ -1,5 +1,7 @@
 # Caramel Boy
 
+![caramel-boy](https://cdn.myanimelist.net/images/manga/4/139397.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

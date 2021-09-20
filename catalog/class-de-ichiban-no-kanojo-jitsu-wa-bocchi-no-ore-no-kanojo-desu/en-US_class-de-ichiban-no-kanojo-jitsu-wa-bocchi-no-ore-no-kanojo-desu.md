@@ -1,5 +1,7 @@
 # Class de Ichiban no Kanojo, Jitsu wa Bocchi no Ore no Kanojo desu
 
+![class-de-ichiban-no-kanojo-jitsu-wa-bocchi-no-ore-no-kanojo-desu](https://cdn.myanimelist.net/images/manga/2/238422.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クラスで一番の彼女、実はボッチの俺の彼女です
 -   **start-date**: 2020-02-01

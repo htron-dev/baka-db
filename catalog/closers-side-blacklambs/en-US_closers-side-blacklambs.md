@@ -1,5 +1,7 @@
 # Closers: Side Blacklambs
 
+![closers-side-blacklambs](https://cdn.myanimelist.net/images/anime/11/78304.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 클로저스 : SIDE BLACKLAMBS

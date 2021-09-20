@@ -1,5 +1,7 @@
 # Chicchai Toki kara Suki dakedo
 
+![chicchai-toki-kara-suki-dakedo](https://cdn.myanimelist.net/images/manga/1/195181.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 48

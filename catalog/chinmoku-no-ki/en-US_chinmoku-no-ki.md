@@ -1,5 +1,7 @@
 # Chinmoku no Ki
 
+![chinmoku-no-ki](https://cdn.myanimelist.net/images/manga/1/71069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 沈黙の樹 陽王とマーの精霊物語

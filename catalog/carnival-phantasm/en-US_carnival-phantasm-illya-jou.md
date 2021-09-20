@@ -1,5 +1,7 @@
 # Carnival Phantasm: Illya-jou
 
+![carnival-phantasm-illya-jou](https://cdn.myanimelist.net/images/anime/10/34509.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カーニバル・ファンタズム: イリヤ城

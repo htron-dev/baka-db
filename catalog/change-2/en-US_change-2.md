@@ -1,5 +1,7 @@
 # Change 2!!
 
+![change-2](https://cdn.myanimelist.net/images/manga/3/10986.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

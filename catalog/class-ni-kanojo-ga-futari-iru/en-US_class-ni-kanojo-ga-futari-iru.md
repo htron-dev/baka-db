@@ -1,5 +1,7 @@
 # Class ni Kanojo ga Futari Iru
 
+![class-ni-kanojo-ga-futari-iru](https://cdn.myanimelist.net/images/manga/2/241434.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

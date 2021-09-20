@@ -1,5 +1,7 @@
 # Camelot!: Mouken Tsukai to Apprentice
 
+![camelot-mouken-tsukai-to-apprentice](https://cdn.myanimelist.net/images/manga/3/164127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: きゃめろっと！—猛剣使いと従剣王女〈アプレンティス〉

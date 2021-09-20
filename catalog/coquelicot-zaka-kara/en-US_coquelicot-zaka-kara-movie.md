@@ -1,5 +1,7 @@
 # Coquelicot-zaka kara
 
+![coquelicot-zaka-kara](https://cdn.myanimelist.net/images/anime/8/32547.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コクリコ坂から

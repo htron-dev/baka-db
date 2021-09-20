@@ -1,5 +1,7 @@
 # Chocolat no Mahou
 
+![chocolat-no-mahou](https://cdn.myanimelist.net/images/anime/6/35601.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: ショコラの魔法

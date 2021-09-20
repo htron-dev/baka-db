@@ -1,5 +1,7 @@
 # Chuusotsu Worker kara Hajimeru Koukou Seikatsu
 
+![chuusotsu-worker-kara-hajimeru-koukou-seikatsu](https://cdn.myanimelist.net/images/anime/1571/108020.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 中卒労働者〈ワーカー〉から始める高校生活

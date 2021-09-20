@@ -1,5 +1,7 @@
 # Chidori-san Chi ni Kagitte
 
+![chidori-san-chi-ni-kagitte](https://cdn.myanimelist.net/images/manga/3/98061.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

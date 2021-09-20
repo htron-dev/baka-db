@@ -1,5 +1,7 @@
 # Cyborg 009: Kaijuu Sensou
 
+![cyborg-009-kaijuu-sensou](https://cdn.myanimelist.net/images/anime/9/76036.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サイボーグ００９ 怪獣戦争

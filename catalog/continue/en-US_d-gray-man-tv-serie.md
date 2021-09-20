@@ -1,5 +1,7 @@
 # D.Gray-man
 
+![d-gray-man](https://cdn.myanimelist.net/images/anime/13/75194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 103
 -   **original-name**: ディー・グレイマン

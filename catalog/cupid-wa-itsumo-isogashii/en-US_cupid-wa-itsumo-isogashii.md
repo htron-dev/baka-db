@@ -1,5 +1,7 @@
 # Cupid wa Itsumo Isogashii
 
+![cupid-wa-itsumo-isogashii](https://cdn.myanimelist.net/images/manga/2/132861.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 天使〈キューピッド〉はいつも忙しい

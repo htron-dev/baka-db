@@ -1,5 +1,7 @@
 # Chirorin Mura Monogatari: Tomkurupii no Jishin Youjin
 
+![chirorin-mura-monogatari-tomkurupii-no-jishin-youjin](https://cdn.myanimelist.net/images/anime/10/84719.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: チロリン村物語 トンクルピーのじしんようじん

@@ -1,5 +1,7 @@
 # Chousou no Babel
 
+![chousou-no-babel](https://cdn.myanimelist.net/images/manga/3/195745.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

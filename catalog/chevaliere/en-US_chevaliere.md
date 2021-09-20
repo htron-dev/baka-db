@@ -1,5 +1,7 @@
 # Chevalière
 
+![chevaliere](https://cdn.myanimelist.net/images/manga/3/149971.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: しゅばりえーる

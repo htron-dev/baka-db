@@ -1,5 +1,7 @@
 # Choujikuu Gankyoushi Moebius Jumper
 
+![choujikuu-gankyoushi-moebius-jumper](https://cdn.myanimelist.net/images/manga/3/37626.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

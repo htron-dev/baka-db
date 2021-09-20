@@ -1,5 +1,7 @@
 # Chrome Shelled Regios
 
+![chrome-shelled-regios](https://cdn.myanimelist.net/images/anime/9/12238.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 鋼殻のレギオス

@@ -1,5 +1,7 @@
 # Chuu-Boss-san Level 99, Saikyou no Buka-tachi to Tomoni Nishuume Totsunyuu!
 
+![chuu-boss-san-level-99-saikyou-no-buka-tachi-to-tomoni-nishuume-totsunyuu](https://cdn.myanimelist.net/images/manga/3/235333.jpg)
+
 -   **type**: manga
 -   **original-name**: 中ボスさんレベル 99、最強の部下たちとともに二周目突入!
 -   **start-date**: 2019-09-27

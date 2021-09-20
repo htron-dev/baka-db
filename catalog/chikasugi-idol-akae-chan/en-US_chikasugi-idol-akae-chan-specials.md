@@ -1,5 +1,7 @@
 # Chikasugi Idol Akae-chan Specials
 
+![chikasugi-idol-akae-chan-specials](https://cdn.myanimelist.net/images/anime/1815/90194.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 地下すぎアイドル あかえちゃん

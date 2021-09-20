@@ -1,5 +1,7 @@
 # Chrome Breaker
 
+![chrome-breaker](https://cdn.myanimelist.net/images/manga/1/7298.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

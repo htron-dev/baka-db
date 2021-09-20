@@ -1,5 +1,7 @@
 # Chihayafuru 3
 
+![chihayafuru-3](https://cdn.myanimelist.net/images/anime/1898/110709.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ちはやふる 3

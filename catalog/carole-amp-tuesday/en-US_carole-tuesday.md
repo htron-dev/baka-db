@@ -1,5 +1,7 @@
 # Carole & Tuesday
 
+![carole-tuesday](https://cdn.myanimelist.net/images/manga/3/222025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

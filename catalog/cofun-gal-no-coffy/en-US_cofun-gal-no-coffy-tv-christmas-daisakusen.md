@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy (TV): Christmas Daisakusen
 
+![cofun-gal-no-coffy-tv-christmas-daisakusen](https://cdn.myanimelist.net/images/anime/6/82760.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 古墳ギャルのコフィー クリスマス大作戦

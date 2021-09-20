@@ -1,5 +1,7 @@
 # Nohara Hiroshi: Hiru Meshi no Ryuugi
 
+![nohara-hiroshi-hiru-meshi-no-ryuugi](https://cdn.myanimelist.net/images/manga/2/215693.jpg)
+
 -   **type**: manga
 -   **original-name**: 野原ひろし 昼メシの流儀
 -   **start-date**: 2015-12-04

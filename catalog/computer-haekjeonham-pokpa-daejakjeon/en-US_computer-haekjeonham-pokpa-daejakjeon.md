@@ -1,5 +1,7 @@
 # Computer Haekjeonham Pokpa Daejakjeon
 
+![computer-haekjeonham-pokpa-daejakjeon](https://cdn.myanimelist.net/images/anime/11/45246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 콤퓨터핵전함 폭파대작전

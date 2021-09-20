@@ -1,5 +1,7 @@
 # Cheat na Maou no Douguya wa, Kyou mo Baito ga Hatarakanai!?
 
+![cheat-na-maou-no-douguya-wa-kyou-mo-baito-ga-hatarakanai](https://cdn.myanimelist.net/images/manga/1/162090.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

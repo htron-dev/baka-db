@@ -1,5 +1,7 @@
 # Chouritsu!! Momonoki Koukou
 
+![chouritsu-momonoki-koukou](https://cdn.myanimelist.net/images/manga/2/207266.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 超立!!桃の木高校

@@ -1,5 +1,7 @@
 # Chiisana Penguin Lolo no Bouken
 
+![chiisana-penguin-lolo-no-bouken](https://cdn.myanimelist.net/images/anime/9/46181.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 小さなペンギンロロの冒険

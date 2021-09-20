@@ -1,5 +1,7 @@
 # Corpse Party
 
+![corpse-party](https://cdn.myanimelist.net/images/manga/2/166018.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

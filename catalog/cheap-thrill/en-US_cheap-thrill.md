@@ -1,5 +1,7 @@
 # Cheap Thrill
 
+![cheap-thrill](https://cdn.myanimelist.net/images/manga/5/79877.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

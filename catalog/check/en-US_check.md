@@ -1,5 +1,7 @@
 # Check
 
+![check](https://cdn.myanimelist.net/images/manga/3/11872.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 8

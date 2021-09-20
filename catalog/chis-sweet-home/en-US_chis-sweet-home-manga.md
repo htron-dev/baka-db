@@ -1,5 +1,7 @@
 # Chi's Sweet Home
 
+![chis-sweet-home](https://cdn.myanimelist.net/images/manga/1/131453.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 219

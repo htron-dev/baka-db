@@ -1,5 +1,7 @@
 # Courtbonny Kyouju
 
+![courtbonny-kyouju](https://cdn.myanimelist.net/images/manga/2/176231.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

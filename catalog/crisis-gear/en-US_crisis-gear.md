@@ -1,5 +1,7 @@
 # Crisis Gear
 
+![crisis-gear](https://cdn.myanimelist.net/images/manga/1/159015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Concrete Revolutio: Choujin Gensou
 
+![concrete-revolutio-choujin-gensou](https://cdn.myanimelist.net/images/anime/3/76143.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: コンクリート・レボルティオ～超人幻想～

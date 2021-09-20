@@ -1,5 +1,7 @@
 # Caramel Honey
 
+![caramel-honey](https://cdn.myanimelist.net/images/anime/1593/93166.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: からめるハニー

@@ -1,5 +1,7 @@
 # Code-E: Harukanaru Sasayaki
 
+![code-e-harukanaru-sasayaki](https://cdn.myanimelist.net/images/manga/1/144143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: CODE-E 遙かなる囁き

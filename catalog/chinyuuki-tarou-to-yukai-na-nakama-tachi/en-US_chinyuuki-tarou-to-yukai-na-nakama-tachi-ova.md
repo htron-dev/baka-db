@@ -1,5 +1,7 @@
 # Chinyuuki: Tarou to Yukai na Nakama-tachi
 
+![chinyuuki-tarou-to-yukai-na-nakama-tachi](https://cdn.myanimelist.net/images/anime/8/15372.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 珍遊記　～太郎とゆかいな仲間たち～

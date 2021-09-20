@@ -1,5 +1,7 @@
 # Cat's Eye
 
+![cats-eye](https://cdn.myanimelist.net/images/anime/1864/96171.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 73
 -   **original-name**: キャッツ・アイ

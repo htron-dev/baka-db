@@ -1,5 +1,7 @@
 # Cinderella Fella
 
+![cinderella-fella](https://cdn.myanimelist.net/images/manga/3/10550.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 20

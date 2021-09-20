@@ -1,5 +1,7 @@
 # Card Wang: Mix Master
 
+![card-wang-mix-master](https://cdn.myanimelist.net/images/anime/12/20195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 카드왕 믹스마스터

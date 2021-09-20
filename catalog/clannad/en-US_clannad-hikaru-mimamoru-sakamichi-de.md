@@ -1,5 +1,7 @@
 # Clannad: Hikaru Mimamoru Sakamichi de
 
+![clannad-hikaru-mimamoru-sakamichi-de](https://cdn.myanimelist.net/images/manga/1/162583.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

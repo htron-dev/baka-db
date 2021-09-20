@@ -1,5 +1,7 @@
 # Chijou ni Orita Tenshi
 
+![chijou-ni-orita-tenshi](https://cdn.myanimelist.net/images/manga/1/229907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 地上に降りた天使

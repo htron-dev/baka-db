@@ -1,5 +1,7 @@
 # Change the World: Kyou kara Satsujinki
 
+![change-the-world-kyou-kara-satsujinki](https://cdn.myanimelist.net/images/manga/2/219770.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

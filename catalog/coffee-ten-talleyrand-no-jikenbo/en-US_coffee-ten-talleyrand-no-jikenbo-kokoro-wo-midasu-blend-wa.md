@@ -1,5 +1,7 @@
 # Coffee-ten Talleyrand no Jikenbo: Kokoro wo Midasu Blend wa
 
+![coffee-ten-talleyrand-no-jikenbo-kokoro-wo-midasu-blend-wa](https://cdn.myanimelist.net/images/manga/2/202004.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Chinmoku no Kantai
 
+![chinmoku-no-kantai](https://cdn.myanimelist.net/images/manga/3/218002.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 351

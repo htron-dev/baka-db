@@ -1,5 +1,7 @@
 # Choco Parfait
 
+![choco-parfait](https://cdn.myanimelist.net/images/manga/1/11419.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ちょこパフェ

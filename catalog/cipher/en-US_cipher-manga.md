@@ -1,5 +1,7 @@
 # Cipher
 
+![cipher](https://cdn.myanimelist.net/images/manga/5/185355.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 65

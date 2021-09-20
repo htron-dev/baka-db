@@ -1,5 +1,7 @@
 # Chimoguri Ringo to Kingyobachi Otoko
 
+![chimoguri-ringo-to-kingyobachi-otoko](https://cdn.myanimelist.net/images/manga/1/193671.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

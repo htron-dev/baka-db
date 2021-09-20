@@ -1,5 +1,7 @@
 # Chouai no Kase
 
+![chouai-no-kase](https://cdn.myanimelist.net/images/manga/2/184856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

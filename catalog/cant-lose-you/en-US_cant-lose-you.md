@@ -1,5 +1,7 @@
 # Can't Lose You
 
+![cant-lose-you](https://cdn.myanimelist.net/images/manga/3/1298.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 35

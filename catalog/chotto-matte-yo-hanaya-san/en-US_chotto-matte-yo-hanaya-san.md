@@ -1,5 +1,7 @@
 # Chotto Matte yo, Hanaya-san
 
+![chotto-matte-yo-hanaya-san](https://cdn.myanimelist.net/images/manga/1/206484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

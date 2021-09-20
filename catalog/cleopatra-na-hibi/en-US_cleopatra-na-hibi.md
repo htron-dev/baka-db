@@ -1,5 +1,7 @@
 # Cleopatra na Hibi
 
+![cleopatra-na-hibi](https://cdn.myanimelist.net/images/manga/3/206412.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

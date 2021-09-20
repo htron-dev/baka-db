@@ -1,5 +1,7 @@
 # Croket!
 
+![croket](https://cdn.myanimelist.net/images/anime/10/88729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: コロッケ！

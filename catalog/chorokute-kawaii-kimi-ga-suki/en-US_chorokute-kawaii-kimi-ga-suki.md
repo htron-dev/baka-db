@@ -1,5 +1,7 @@
 # Chorokute Kawaii Kimi ga Suki
 
+![chorokute-kawaii-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/1/249832.jpg)
+
 -   **type**: manga
 -   **original-name**: ちょろくてかわいい君が好き
 -   **start-date**: 2021-04-24

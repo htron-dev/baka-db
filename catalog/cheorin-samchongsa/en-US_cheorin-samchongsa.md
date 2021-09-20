@@ -1,5 +1,7 @@
 # Cheorin Samchongsa
 
+![cheorin-samchongsa](https://cdn.myanimelist.net/images/anime/2/49021.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 철인 삼총사

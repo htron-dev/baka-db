@@ -1,5 +1,7 @@
 # Choujin Sentai Baratack
 
+![choujin-sentai-baratack](https://cdn.myanimelist.net/images/anime/6/69967.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: 超人戦隊バラタック

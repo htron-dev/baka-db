@@ -1,5 +1,7 @@
 # Cleopatra
 
+![cleopatra](https://cdn.myanimelist.net/images/manga/2/37295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

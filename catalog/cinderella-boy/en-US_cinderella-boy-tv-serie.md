@@ -1,5 +1,7 @@
 # Cinderella Boy
 
+![cinderella-boy](https://cdn.myanimelist.net/images/anime/7/89194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シンデレラボーイ

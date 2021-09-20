@@ -1,5 +1,7 @@
 # Chou Futsuu Toshi Kashiwa Densetsu
 
+![chou-futsuu-toshi-kashiwa-densetsu](https://cdn.myanimelist.net/images/anime/1772/108437.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 超普通都市カシワ伝説

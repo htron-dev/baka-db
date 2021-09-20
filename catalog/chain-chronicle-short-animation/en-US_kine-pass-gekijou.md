@@ -1,5 +1,7 @@
 # Kine-Pass Gekijou
 
+![kine-pass-gekijou](https://cdn.myanimelist.net/images/anime/8/83831.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: キネパス劇場

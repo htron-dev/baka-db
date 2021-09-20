@@ -1,5 +1,7 @@
 # Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou
 
+![chouyaku-hyakuninisshu-uta-koi-sake-to-kikoushi-murasaki-kishikibu-to-kintou](https://cdn.myanimelist.net/images/anime/13/72313.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 超訳百人一首 うた恋い。酒と貴公子～藤式部と公任

@@ -1,5 +1,7 @@
 # Cosmic Fantasy: Ginga Mehyou no Wana
 
+![cosmic-fantasy-ginga-mehyou-no-wana](https://cdn.myanimelist.net/images/anime/11/83228.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コズミック・ファンタジー　銀河女豹の罠

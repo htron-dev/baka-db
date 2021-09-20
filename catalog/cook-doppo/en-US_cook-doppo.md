@@ -1,5 +1,7 @@
 # Cook Doppo
 
+![cook-doppo](https://cdn.myanimelist.net/images/manga/1/163810.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

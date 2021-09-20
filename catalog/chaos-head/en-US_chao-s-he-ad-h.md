@@ -1,5 +1,7 @@
 # ChaoS;HEAd H
 
+![chao-s-he-ad-h](https://cdn.myanimelist.net/images/manga/2/36247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: かおすへっど H

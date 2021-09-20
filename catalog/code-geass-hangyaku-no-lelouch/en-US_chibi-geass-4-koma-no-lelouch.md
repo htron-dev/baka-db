@@ -1,5 +1,7 @@
 # Chibi Geass: 4-koma no Lelouch
 
+![chibi-geass-4-koma-no-lelouch](https://cdn.myanimelist.net/images/manga/5/43727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

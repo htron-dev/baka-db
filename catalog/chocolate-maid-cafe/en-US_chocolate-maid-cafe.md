@@ -1,5 +1,7 @@
 # Chocolate - Maid Cafe
 
+![chocolate-maid-cafe](https://cdn.myanimelist.net/images/manga/3/10982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

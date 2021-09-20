@@ -1,5 +1,7 @@
 # D.Gray-man Hallow
 
+![d-gray-man-hallow](https://cdn.myanimelist.net/images/anime/12/80766.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ディー・グレイマン ハロー

@@ -1,5 +1,7 @@
 # Cutie Honey
 
+![cutie-honey](https://cdn.myanimelist.net/images/manga/5/152793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Cutie ハニー

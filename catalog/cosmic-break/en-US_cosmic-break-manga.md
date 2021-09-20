@@ -1,5 +1,7 @@
 # Cosmic Break
 
+![cosmic-break](https://cdn.myanimelist.net/images/manga/2/38067.jpg)
+
 -   **type**: manga
 -   **original-name**: コズミックブレイク
 

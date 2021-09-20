@@ -1,5 +1,7 @@
 # C-blossom: Case 729
 
+![c-blossom-case-729](https://cdn.myanimelist.net/images/manga/3/62307.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo
 
+![city-hunter-kinkyuu-namachuukei-kyouakuhan-saeba-ryou-no-saigo](https://cdn.myanimelist.net/images/anime/1920/92378.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽リョウの最期

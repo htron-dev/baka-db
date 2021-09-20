@@ -1,5 +1,7 @@
 # Chiruran: Nibun no Ichi
 
+![chiruran-nibun-no-ichi](https://cdn.myanimelist.net/images/anime/6/82948.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ちるらん にぶんの壱

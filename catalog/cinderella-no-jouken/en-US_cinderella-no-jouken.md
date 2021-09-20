@@ -1,5 +1,7 @@
 # Cinderella no Jouken
 
+![cinderella-no-jouken](https://cdn.myanimelist.net/images/manga/5/29764.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

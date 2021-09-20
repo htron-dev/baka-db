@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu Picture Drama
 
+![code-geass-boukoku-no-akito-3-kagayaku-mono-ten-yori-otsu-picture-drama](https://cdn.myanimelist.net/images/anime/11/74820.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第 3 章 輝くもの天より堕つ

@@ -1,5 +1,7 @@
 # Clione no Akari
 
+![clione-no-akari](https://cdn.myanimelist.net/images/anime/3/84706.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クリオネの灯り

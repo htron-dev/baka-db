@@ -1,5 +1,7 @@
 # Re: Cutey Honey
 
+![re-cutey-honey](https://cdn.myanimelist.net/images/anime/6/52103.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Re:キューティーハニー

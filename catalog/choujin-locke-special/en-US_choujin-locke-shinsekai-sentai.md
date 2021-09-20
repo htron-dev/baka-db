@@ -1,5 +1,7 @@
 # Choujin Locke: Shinsekai Sentai
 
+![choujin-locke-shinsekai-sentai](https://cdn.myanimelist.net/images/anime/6/85454.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 超人ロック 新世界戦隊

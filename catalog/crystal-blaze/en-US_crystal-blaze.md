@@ -1,5 +1,7 @@
 # Crystal Blaze
 
+![crystal-blaze](https://cdn.myanimelist.net/images/anime/12/21159.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クリスタル ブレイズ

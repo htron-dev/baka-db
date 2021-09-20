@@ -1,5 +1,7 @@
 # Classroom☆Crisis
 
+![classroom☆-crisis](https://cdn.myanimelist.net/images/manga/2/174451.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

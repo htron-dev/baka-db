@@ -1,5 +1,7 @@
 # Choco to Mint to
 
+![choco-to-mint-to](https://cdn.myanimelist.net/images/manga/3/135555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

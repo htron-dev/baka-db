@@ -1,5 +1,7 @@
 # Captain Commando
 
+![captain-commando](https://cdn.myanimelist.net/images/manga/3/140339.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Coluboccoro
 
+![coluboccoro](https://cdn.myanimelist.net/images/anime/1341/112356.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コルボッコロ

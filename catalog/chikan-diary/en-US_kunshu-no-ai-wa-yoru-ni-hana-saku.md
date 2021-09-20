@@ -1,5 +1,7 @@
 # Kunshu no Ai wa Yoru ni Hana Saku
 
+![kunshu-no-ai-wa-yoru-ni-hana-saku](https://cdn.myanimelist.net/images/manga/2/4200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

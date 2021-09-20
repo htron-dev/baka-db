@@ -1,5 +1,7 @@
 # Choueki 339-nen
 
+![choueki-339-nen](https://cdn.myanimelist.net/images/manga/2/163829.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

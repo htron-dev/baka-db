@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Koushiki Comic Anthology For Girls - Knight
 
+![code-geass-hangyaku-no-lelouch-koushiki-comic-anthology-for-girls-knight](https://cdn.myanimelist.net/images/manga/4/136295.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 103

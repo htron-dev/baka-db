@@ -1,5 +1,7 @@
 # Choboraunyopomi no Totemo Yawarakakute Healthy na Shinbun-bu
 
+![choboraunyopomi-no-totemo-yawarakakute-healthy-na-shinbun-bu](https://cdn.myanimelist.net/images/manga/1/223956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

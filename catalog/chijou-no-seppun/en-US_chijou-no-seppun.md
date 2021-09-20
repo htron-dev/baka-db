@@ -1,5 +1,7 @@
 # Chijou no Seppun
 
+![chijou-no-seppun](https://cdn.myanimelist.net/images/manga/3/246267.jpg)
+
 -   **type**: manga
 -   **original-name**: 痴情の接吻
 -   **start-date**: 2018-12-07

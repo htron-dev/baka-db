@@ -1,5 +1,7 @@
 # Coo no Sekai
 
+![coo-no-sekai](https://cdn.myanimelist.net/images/manga/3/138589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

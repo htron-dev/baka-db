@@ -1,5 +1,7 @@
 # Chicchana Yukitsukai Sugar Specials
 
+![chicchana-yukitsukai-sugar-specials](https://cdn.myanimelist.net/images/anime/12/23190.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ちっちゃな雪使いシュガー特別編

@@ -1,5 +1,7 @@
 # Chrome Shelled Regios
 
+![chrome-shelled-regios](https://cdn.myanimelist.net/images/manga/2/10121.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

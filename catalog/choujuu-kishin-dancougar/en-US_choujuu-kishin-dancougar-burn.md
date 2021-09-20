@@ -1,5 +1,7 @@
 # Choujuu Kishin Dancougar Burn
 
+![choujuu-kishin-dancougar-burn](https://cdn.myanimelist.net/images/manga/2/53585.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

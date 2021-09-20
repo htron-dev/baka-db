@@ -1,5 +1,7 @@
 # Cutie Boy
 
+![cutie-boy](https://cdn.myanimelist.net/images/manga/3/18760.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 39

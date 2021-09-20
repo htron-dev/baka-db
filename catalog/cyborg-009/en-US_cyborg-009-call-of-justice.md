@@ -1,5 +1,7 @@
 # Cyborg 009: Call of Justice
 
+![cyborg-009-call-of-justice](https://cdn.myanimelist.net/images/manga/3/236045.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Chikyuu no Rakuen
 
+![chikyuu-no-rakuen](https://cdn.myanimelist.net/images/manga/2/19076.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Chocchan Monogatari
 
+![chocchan-monogatari](https://cdn.myanimelist.net/images/anime/1696/112292.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チョッちゃん物語

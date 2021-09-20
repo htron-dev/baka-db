@@ -1,5 +1,7 @@
 # Chinkoroheibei Tamatebako
 
+![chinkoroheibei-tamatebako](https://cdn.myanimelist.net/images/anime/3/35953.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちんころ平平玉手箱

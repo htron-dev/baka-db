@@ -1,5 +1,7 @@
 # Chou Kyuukaku Tantei Nez
 
+![chou-kyuukaku-tantei-nez](https://cdn.myanimelist.net/images/manga/2/151080.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

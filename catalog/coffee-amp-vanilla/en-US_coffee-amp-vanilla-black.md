@@ -1,5 +1,7 @@
 # Coffee &amp; Vanilla Black
 
+![coffee-amp-vanilla-black](https://cdn.myanimelist.net/images/manga/2/236848.jpg)
+
 -   **type**: manga
 -   **original-name**: コーヒー&バニラ black
 -   **start-date**: 2018-07-05

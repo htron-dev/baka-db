@@ -1,5 +1,7 @@
 # Chikyuu wo Nomu
 
+![chikyuu-wo-nomu](https://cdn.myanimelist.net/images/manga/5/170231.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

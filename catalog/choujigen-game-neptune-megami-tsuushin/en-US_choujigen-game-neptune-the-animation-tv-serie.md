@@ -1,5 +1,7 @@
 # Choujigen Game Neptune The Animation
 
+![choujigen-game-neptune-the-animation](https://cdn.myanimelist.net/images/anime/6/52141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 超次元ゲイム ネプテューヌ THE ANIMATION

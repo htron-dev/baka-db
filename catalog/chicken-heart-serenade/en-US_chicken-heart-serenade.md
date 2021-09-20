@@ -1,5 +1,7 @@
 # Chicken Heart Serenade
 
+![chicken-heart-serenade](https://cdn.myanimelist.net/images/manga/3/245833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

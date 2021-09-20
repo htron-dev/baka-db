@@ -1,5 +1,7 @@
 # Chocotan!
 
+![chocotan](https://cdn.myanimelist.net/images/manga/3/79863.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 85

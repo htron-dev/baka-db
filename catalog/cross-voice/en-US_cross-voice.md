@@ -1,5 +1,7 @@
 # CrossVoice
 
+![cross-voice](https://cdn.myanimelist.net/images/manga/1/2569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

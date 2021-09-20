@@ -1,5 +1,7 @@
 # Clear Qualia
 
+![clear-qualia](https://cdn.myanimelist.net/images/manga/4/47965.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

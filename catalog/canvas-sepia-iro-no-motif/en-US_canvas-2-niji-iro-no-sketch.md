@@ -1,5 +1,7 @@
 # Canvas 2: Niji-iro no Sketch
 
+![canvas-2-niji-iro-no-sketch](https://cdn.myanimelist.net/images/anime/6/74076.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: Canvas2 ～虹色のスケッチ～

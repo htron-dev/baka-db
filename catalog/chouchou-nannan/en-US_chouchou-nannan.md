@@ -1,5 +1,7 @@
 # Chouchou Nannan
 
+![chouchou-nannan](https://cdn.myanimelist.net/images/manga/2/150306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Chouhatsu Mugendai
 
+![chouhatsu-mugendai](https://cdn.myanimelist.net/images/manga/2/151482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 挑発 MUGENDAI

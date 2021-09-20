@@ -1,5 +1,7 @@
 # ChäoS;Child: Children's Revive
 
+![chao-s-child-childrens-revive](https://cdn.myanimelist.net/images/manga/2/238721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Captain Kid
 
+![captain-kid](https://cdn.myanimelist.net/images/manga/2/29943.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: キャプテンキッド

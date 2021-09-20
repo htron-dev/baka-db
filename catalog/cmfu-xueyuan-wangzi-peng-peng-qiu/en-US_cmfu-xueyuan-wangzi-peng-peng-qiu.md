@@ -1,5 +1,7 @@
 # CMFU Xueyuan: Wangzi Peng Peng Qiu
 
+![cmfu-xueyuan-wangzi-peng-peng-qiu](https://cdn.myanimelist.net/images/anime/1641/91441.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: CMFU 学院：王子碰碰球

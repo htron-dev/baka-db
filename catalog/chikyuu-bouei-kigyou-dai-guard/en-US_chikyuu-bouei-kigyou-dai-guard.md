@@ -1,5 +1,7 @@
 # Chikyuu Bouei Kigyou Dai-Guard
 
+![chikyuu-bouei-kigyou-dai-guard](https://cdn.myanimelist.net/images/anime/1969/94093.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 地球防衛企業ダイ・ガード

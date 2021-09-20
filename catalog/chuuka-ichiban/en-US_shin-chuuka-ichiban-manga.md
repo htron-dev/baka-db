@@ -1,5 +1,7 @@
 # Shin Chuuka Ichiban!
 
+![shin-chuuka-ichiban](https://cdn.myanimelist.net/images/manga/1/202376.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 108

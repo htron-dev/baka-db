@@ -1,5 +1,7 @@
 # Shin-Men
 
+![shin-men](https://cdn.myanimelist.net/images/anime/12/27158.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: SHIN-MEN

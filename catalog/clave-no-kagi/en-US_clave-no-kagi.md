@@ -1,5 +1,7 @@
 # Clave no Kagi
 
+![clave-no-kagi](https://cdn.myanimelist.net/images/manga/1/164406.jpg)
+
 -   **type**: manga
 -   **original-name**: クラーヴェイの鍵
 -   **start-date**: 2013-09-17

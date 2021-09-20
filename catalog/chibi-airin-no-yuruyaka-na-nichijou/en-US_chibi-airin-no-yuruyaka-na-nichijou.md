@@ -1,5 +1,7 @@
 # Chibi Airin no Yuruyaka na Nichijou
 
+![chibi-airin-no-yuruyaka-na-nichijou](https://cdn.myanimelist.net/images/anime/1971/91556.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: ちびあいりんのゆるやかな日常

@@ -1,5 +1,7 @@
 # Space Cobra
 
+![space-cobra](https://cdn.myanimelist.net/images/anime/7/41437.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: スペースコブラ

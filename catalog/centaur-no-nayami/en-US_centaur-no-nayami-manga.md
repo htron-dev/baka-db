@@ -1,5 +1,7 @@
 # Centaur no Nayami
 
+![centaur-no-nayami](https://cdn.myanimelist.net/images/manga/2/76597.jpg)
+
 -   **type**: manga
 -   **original-name**: セントールの悩み
 -   **start-date**: 2010-12-18

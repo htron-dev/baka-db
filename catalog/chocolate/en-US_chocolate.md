@@ -1,5 +1,7 @@
 # Chocolate
 
+![chocolate](https://cdn.myanimelist.net/images/manga/1/202693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

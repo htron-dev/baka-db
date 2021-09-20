@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy Campus Life
 
+![cofun-gal-no-coffy-campus-life](https://cdn.myanimelist.net/images/anime/12/82797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 古墳ギャルのコフィー　キャンパスライフ

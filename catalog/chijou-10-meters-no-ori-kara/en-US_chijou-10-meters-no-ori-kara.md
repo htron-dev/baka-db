@@ -1,5 +1,7 @@
 # Chijou 10 Meters no Ori kara
 
+![chijou-10-meters-no-ori-kara](https://cdn.myanimelist.net/images/manga/1/70915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

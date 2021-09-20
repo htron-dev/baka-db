@@ -1,5 +1,7 @@
 # Cap Kakumei Bottleman
 
+![cap-kakumei-bottleman](https://cdn.myanimelist.net/images/anime/1581/109225.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: キャップ革命ボトルマン

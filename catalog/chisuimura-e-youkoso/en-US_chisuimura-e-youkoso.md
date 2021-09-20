@@ -1,5 +1,7 @@
 # Chisuimura e Youkoso
 
+![chisuimura-e-youkoso](https://cdn.myanimelist.net/images/manga/4/140391.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 血吸村へようこそ

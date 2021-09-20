@@ -1,5 +1,7 @@
 # Chiisakobee
 
+![chiisakobee](https://cdn.myanimelist.net/images/manga/3/133413.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Chaos Rings
 
+![chaos-rings](https://cdn.myanimelist.net/images/manga/3/109163.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: CHAOS RINGS ケイオスリングス

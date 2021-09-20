@@ -1,5 +1,7 @@
 # Class Teni de Ore dake Haburareta node, Doukyuusei Harem Tsukuru Koto ni Shita
 
+![class-teni-de-ore-dake-haburareta-node-doukyuusei-harem-tsukuru-koto-ni-shita](https://cdn.myanimelist.net/images/manga/1/218189.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クラス転移で俺だけハブられたので、同級生ハーレム作ることにした
 -   **start-date**: 2016-12-12

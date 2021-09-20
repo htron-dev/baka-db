@@ -1,5 +1,7 @@
 # Comic Girls
 
+![comic-girls](https://cdn.myanimelist.net/images/manga/1/172062.jpg)
+
 -   **type**: manga
 -   **original-name**: こみっくがーるず
 -   **start-date**: 2014-03-19

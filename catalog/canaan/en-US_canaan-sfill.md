@@ -1,5 +1,7 @@
 # Canaan Sfill
 
+![canaan-sfill](https://cdn.myanimelist.net/images/manga/3/153534.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

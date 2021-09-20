@@ -1,5 +1,7 @@
 # Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron
 
+![candy-boy-episode-ex-02-shiawase-kyouyuu-riron](https://cdn.myanimelist.net/images/anime/4/14762.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Candy boy episode: EX02 「シアワセキョウユウリロン」

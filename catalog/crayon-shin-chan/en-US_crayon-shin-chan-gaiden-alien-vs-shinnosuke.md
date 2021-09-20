@@ -1,5 +1,7 @@
 # Crayon Shin-chan Gaiden: Alien vs. Shinnosuke
 
+![crayon-shin-chan-gaiden-alien-vs-shinnosuke](https://cdn.myanimelist.net/images/anime/4/80926.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: クレヨンしんちゃん外伝 エイリアン vs. しんのすけ

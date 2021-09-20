@@ -1,5 +1,7 @@
 # Columbus no Daibouken
 
+![columbus-no-daibouken](https://cdn.myanimelist.net/images/anime/11/78334.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コロンブスの大冒険

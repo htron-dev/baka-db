@@ -1,5 +1,7 @@
 # Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.
 
+![class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta](https://cdn.myanimelist.net/images/manga/2/245330.jpg)
+
 -   **type**: manga
 -   **original-name**: クラスの大嫌いな女子と結婚することになった。
 -   **start-date**: 2021-05-14

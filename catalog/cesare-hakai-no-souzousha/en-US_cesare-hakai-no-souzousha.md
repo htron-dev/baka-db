@@ -1,5 +1,7 @@
 # Cesare: Hakai no Souzousha
 
+![cesare-hakai-no-souzousha](https://cdn.myanimelist.net/images/manga/2/207459.jpg)
+
 -   **type**: manga
 -   **original-name**: チェーザレ 破壊の創造者
 -   **start-date**: 2005-03-24

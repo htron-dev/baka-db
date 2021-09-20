@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard G: Stride Generation
 
+![cardfight-vanguard-g-stride-generation](https://cdn.myanimelist.net/images/manga/1/227055.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 46

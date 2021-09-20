@@ -1,5 +1,7 @@
 # Captain Bal
 
+![captain-bal](https://cdn.myanimelist.net/images/anime/1474/97420.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテン・バル

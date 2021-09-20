@@ -1,5 +1,7 @@
 # Choum and Pulip School
 
+![choum-and-pulip-school](https://cdn.myanimelist.net/images/anime/1073/114501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 초음이의 풀잎학교

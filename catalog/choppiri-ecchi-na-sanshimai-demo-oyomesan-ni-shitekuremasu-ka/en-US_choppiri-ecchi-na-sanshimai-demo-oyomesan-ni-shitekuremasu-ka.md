@@ -1,5 +1,7 @@
 # Choppiri Ecchi na Sanshimai demo, Oyomesan ni Shitekuremasu ka?
 
+![choppiri-ecchi-na-sanshimai-demo-oyomesan-ni-shitekuremasu-ka](https://cdn.myanimelist.net/images/manga/3/239053.jpg)
+
 -   **type**: manga
 -   **original-name**: ちょっぴりえっちな三姉妹でも、お嫁さんにしてくれますか?
 -   **start-date**: 2019-12-26

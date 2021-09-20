@@ -1,5 +1,7 @@
 # Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou
 
+![corpse-party-tortured-souls-bougyakusareta-tamashii-no-jukyou](https://cdn.myanimelist.net/images/anime/10/78811.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: コープスパーティー Tortured Souls -暴虐された魂の呪叫-

@@ -1,5 +1,7 @@
 # Chiruri
 
+![chiruri](https://cdn.myanimelist.net/images/anime/1787/101133.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: チルリ

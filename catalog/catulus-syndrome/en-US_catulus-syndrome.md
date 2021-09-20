@@ -1,5 +1,7 @@
 # Catulus Syndrome
 
+![catulus-syndrome](https://cdn.myanimelist.net/images/manga/1/198800.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫娘症候群〈かとるすしんどろーむ〉
 -   **start-date**: 2016-10-15

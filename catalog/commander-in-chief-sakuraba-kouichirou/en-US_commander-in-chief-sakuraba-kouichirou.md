@@ -1,5 +1,7 @@
 # Commander in Chief Sakuraba Kouichirou
 
+![commander-in-chief-sakuraba-kouichirou](https://cdn.myanimelist.net/images/manga/3/164070.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

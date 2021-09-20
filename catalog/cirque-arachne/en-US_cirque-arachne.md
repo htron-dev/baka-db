@@ -1,5 +1,7 @@
 # Cirque Arachne
 
+![cirque-arachne](https://cdn.myanimelist.net/images/manga/2/86343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

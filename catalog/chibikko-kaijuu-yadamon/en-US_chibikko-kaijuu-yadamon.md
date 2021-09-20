@@ -1,5 +1,7 @@
 # Chibikko Kaijuu Yadamon
 
+![chibikko-kaijuu-yadamon](https://cdn.myanimelist.net/images/anime/9/22709.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ちびっこ怪獣ヤダモン

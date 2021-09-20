@@ -1,5 +1,7 @@
 # Cyber Arts
 
+![cyber-arts](https://cdn.myanimelist.net/images/manga/1/192280.jpg)
+
 -   **type**: manga
 -   **original-name**: サイバーアーツ
 -   **start-date**: 2017-03-01

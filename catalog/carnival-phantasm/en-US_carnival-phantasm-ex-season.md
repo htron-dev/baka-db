@@ -1,5 +1,7 @@
 # Carnival Phantasm EX Season
 
+![carnival-phantasm-ex-season](https://cdn.myanimelist.net/images/anime/4/64281.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カーニバル・ファンタズム　 EX Season

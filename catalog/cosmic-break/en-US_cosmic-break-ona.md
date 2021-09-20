@@ -1,5 +1,7 @@
 # Cosmic Break
 
+![cosmic-break](https://cdn.myanimelist.net/images/anime/12/46191.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: コズミックブレイク

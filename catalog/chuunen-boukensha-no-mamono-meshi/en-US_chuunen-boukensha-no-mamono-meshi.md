@@ -1,5 +1,7 @@
 # Chuunen Boukensha no Mamono Meshi
 
+![chuunen-boukensha-no-mamono-meshi](https://cdn.myanimelist.net/images/manga/2/198761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 中年冒険者の魔物メシ

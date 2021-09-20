@@ -1,5 +1,7 @@
 # Cyborg 009 (1979)
 
+![cyborg-009-1979](https://cdn.myanimelist.net/images/anime/12/56741.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: サイボーグ 009

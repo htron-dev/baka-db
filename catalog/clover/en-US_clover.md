@@ -1,5 +1,7 @@
 # Clover
 
+![clover](https://cdn.myanimelist.net/images/manga/2/170881.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 106

@@ -1,5 +1,7 @@
 # Koneko no Chi: Ponponra Daibouken
 
+![koneko-no-chi-ponponra-daibouken](https://cdn.myanimelist.net/images/anime/12/82679.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: こねこのチー ポンポンらー大冒険

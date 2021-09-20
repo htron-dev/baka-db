@@ -1,5 +1,7 @@
 # Cosmos Pink Shock
 
+![cosmos-pink-shock](https://cdn.myanimelist.net/images/anime/6/34821.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コスモス　ピンクショック

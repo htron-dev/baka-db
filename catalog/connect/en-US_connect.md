@@ -1,5 +1,7 @@
 # Connect
 
+![connect](https://cdn.myanimelist.net/images/manga/1/213565.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

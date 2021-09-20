@@ -1,5 +1,7 @@
 # Cross Ange: Tenshi to Ryuu no École
 
+![cross-ange-tenshi-to-ryuu-no-ecole](https://cdn.myanimelist.net/images/manga/1/151713.jpg)
+
 -   **type**: manga
 -   **chapters**: 26
 -   **original-name**: クロスアンジュ 天使と竜の学園〈エコール〉

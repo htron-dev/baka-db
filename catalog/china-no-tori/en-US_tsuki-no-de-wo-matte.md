@@ -1,5 +1,7 @@
 # Tsuki no De wo Matte
 
+![tsuki-no-de-wo-matte](https://cdn.myanimelist.net/images/manga/2/38079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

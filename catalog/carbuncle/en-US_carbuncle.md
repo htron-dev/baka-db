@@ -1,5 +1,7 @@
 # Carbuncle
 
+![carbuncle](https://cdn.myanimelist.net/images/manga/3/247065.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: カーバンクル

@@ -1,5 +1,7 @@
 # Cyphers
 
+![cyphers](https://cdn.myanimelist.net/images/anime/5/81758.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 사이퍼즈

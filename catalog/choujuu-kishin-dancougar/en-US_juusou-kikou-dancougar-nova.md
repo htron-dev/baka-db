@@ -1,5 +1,7 @@
 # Juusou Kikou Dancougar Nova
 
+![juusou-kikou-dancougar-nova](https://cdn.myanimelist.net/images/anime/12/21707.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 獣装機攻ダンクーガノヴァ

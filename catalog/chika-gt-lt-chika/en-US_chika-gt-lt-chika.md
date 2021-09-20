@@ -1,5 +1,7 @@
 # Chika&gt;&lt;Chika
 
+![chika-gt-lt-chika](https://cdn.myanimelist.net/images/manga/2/179460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

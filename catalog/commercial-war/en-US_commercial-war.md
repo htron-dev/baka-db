@@ -1,5 +1,7 @@
 # Commercial War
 
+![commercial-war](https://cdn.myanimelist.net/images/anime/11/73824.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Commercial War

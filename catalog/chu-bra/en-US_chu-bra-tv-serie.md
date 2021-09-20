@@ -1,5 +1,7 @@
 # Chu-Bra!!
 
+![chu-bra](https://cdn.myanimelist.net/images/anime/1130/91352.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ちゅーぶら!!

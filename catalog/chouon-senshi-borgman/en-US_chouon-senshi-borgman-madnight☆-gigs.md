@@ -1,5 +1,7 @@
 # Chouon Senshi Borgman: Madnight☆Gigs!
 
+![chouon-senshi-borgman-madnight☆-gigs](https://cdn.myanimelist.net/images/anime/3/73416.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超音戦士ボーグマン　 MADNIGHT☆GIGS!

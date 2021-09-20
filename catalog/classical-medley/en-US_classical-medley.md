@@ -1,5 +1,7 @@
 # Classical Medley
 
+![classical-medley](https://cdn.myanimelist.net/images/manga/3/31395.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

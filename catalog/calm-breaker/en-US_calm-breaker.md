@@ -1,5 +1,7 @@
 # Calm Breaker
 
+![calm-breaker](https://cdn.myanimelist.net/images/manga/4/137615.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 40

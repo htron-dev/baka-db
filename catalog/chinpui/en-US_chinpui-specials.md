@@ -1,5 +1,7 @@
 # Chinpui Specials
 
+![chinpui-specials](https://cdn.myanimelist.net/images/anime/7/27734.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: チンプイ

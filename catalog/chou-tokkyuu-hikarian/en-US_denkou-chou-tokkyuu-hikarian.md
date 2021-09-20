@@ -1,5 +1,7 @@
 # Denkou Chou Tokkyuu Hikarian
 
+![denkou-chou-tokkyuu-hikarian](https://cdn.myanimelist.net/images/anime/11/75836.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 電光超特急ヒカリアン

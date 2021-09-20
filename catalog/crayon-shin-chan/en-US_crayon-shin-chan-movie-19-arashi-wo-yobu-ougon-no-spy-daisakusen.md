@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 19: Arashi wo Yobu Ougon no Spy Daisakusen
 
+![crayon-shin-chan-movie-19-arashi-wo-yobu-ougon-no-spy-daisakusen](https://cdn.myanimelist.net/images/anime/1545/94868.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦

@@ -1,5 +1,7 @@
 # Jikan no Shihaisha
 
+![jikan-no-shihaisha](https://cdn.myanimelist.net/images/anime/3/86753.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 時間の支配者

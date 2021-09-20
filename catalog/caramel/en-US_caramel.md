@@ -1,5 +1,7 @@
 # Caramel
 
+![caramel](https://cdn.myanimelist.net/images/manga/1/65263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

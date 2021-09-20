@@ -1,5 +1,7 @@
 # Choujigen Game Neptune: Megami Tsuushin
 
+![choujigen-game-neptune-megami-tsuushin](https://cdn.myanimelist.net/images/manga/3/120037.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

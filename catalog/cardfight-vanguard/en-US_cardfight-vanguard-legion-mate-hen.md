@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: Legion Mate-hen
 
+![cardfight-vanguard-legion-mate-hen](https://cdn.myanimelist.net/images/anime/5/64773.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: カードファイト!! ヴァンガード レギオンメイト編

@@ -1,5 +1,7 @@
 # Chijou 100-kai: Dasshutsu Kakuritsu 0.0001%
 
+![chijou-100-kai-dasshutsu-kakuritsu-0-0001](https://cdn.myanimelist.net/images/manga/1/236002.jpg)
+
 -   **type**: manga
 -   **original-name**: 地上 100 階～脱出確率 0.0001%～
 -   **start-date**: 2017-08-22

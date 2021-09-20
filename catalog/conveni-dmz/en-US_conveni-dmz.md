@@ -1,5 +1,7 @@
 # Conveni DMZ
 
+![conveni-dmz](https://cdn.myanimelist.net/images/manga/2/160681.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # CO Chuu
 
+![co-chuu](https://cdn.myanimelist.net/images/manga/3/119953.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

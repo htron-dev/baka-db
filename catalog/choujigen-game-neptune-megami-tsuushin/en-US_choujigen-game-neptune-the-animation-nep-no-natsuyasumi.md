@@ -1,5 +1,7 @@
 # Choujigen Game Neptune The Animation: Nep no Natsuyasumi
 
+![choujigen-game-neptune-the-animation-nep-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/1986/101147.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷのなつやすみ~

@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki
 
+![crayon-shin-chan-movie-05-ankoku-tamatama-daitsuiseki](https://cdn.myanimelist.net/images/anime/3/22021.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　暗黒タマタマ大追跡

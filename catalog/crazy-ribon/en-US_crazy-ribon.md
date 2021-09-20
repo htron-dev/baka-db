@@ -1,5 +1,7 @@
 # Crazy Ribon
 
+![crazy-ribon](https://cdn.myanimelist.net/images/manga/5/36531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: CRAZY りぼん

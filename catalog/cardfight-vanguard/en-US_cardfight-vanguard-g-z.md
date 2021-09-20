@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard G: Z
 
+![cardfight-vanguard-g-z](https://cdn.myanimelist.net/images/anime/13/88063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: CARDFIGHT!! ヴァンガード G Z

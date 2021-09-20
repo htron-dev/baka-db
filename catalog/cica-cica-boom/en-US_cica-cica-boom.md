@@ -1,5 +1,7 @@
 # CicaCica Boom
 
+![cica-cica-boom](https://cdn.myanimelist.net/images/manga/3/12441.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: チカ　チカ　ブーン

@@ -1,5 +1,7 @@
 # Charamaru-kun to Dokumaru-kun
 
+![charamaru-kun-to-dokumaru-kun](https://cdn.myanimelist.net/images/anime/5/74491.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キャラ丸くんとドク丸くん

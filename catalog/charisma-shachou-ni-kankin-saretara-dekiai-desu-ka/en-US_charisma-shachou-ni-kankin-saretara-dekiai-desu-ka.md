@@ -1,5 +1,7 @@
 # Charisma Shachou ni Kankin Saretara Dekiai desu ka?
 
+![charisma-shachou-ni-kankin-saretara-dekiai-desu-ka](https://cdn.myanimelist.net/images/manga/3/192575.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

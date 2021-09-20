@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: Shinemon-hen
 
+![cardfight-vanguard-shinemon-hen](https://cdn.myanimelist.net/images/anime/1197/113438.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: カードファイト!! ヴァンガード 新右衛門編

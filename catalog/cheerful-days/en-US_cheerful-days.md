@@ -1,5 +1,7 @@
 # Cheerful Days
 
+![cheerful-days](https://cdn.myanimelist.net/images/manga/2/113435.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

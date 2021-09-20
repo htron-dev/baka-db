@@ -1,5 +1,7 @@
 # Change up!!
 
+![change-up](https://cdn.myanimelist.net/images/manga/3/15183.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

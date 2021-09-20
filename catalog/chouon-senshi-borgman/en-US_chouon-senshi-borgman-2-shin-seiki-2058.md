@@ -1,5 +1,7 @@
 # Chouon Senshi Borgman 2: Shin Seiki 2058
 
+![chouon-senshi-borgman-2-shin-seiki-2058](https://cdn.myanimelist.net/images/anime/6/6672.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 超音戦士ボーグマン 2 [SECOND] -新世紀 2058-

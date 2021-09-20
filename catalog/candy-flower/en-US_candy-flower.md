@@ -1,5 +1,7 @@
 # Candy Flower
 
+![candy-flower](https://cdn.myanimelist.net/images/manga/2/172822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

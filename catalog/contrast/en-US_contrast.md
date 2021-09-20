@@ -1,5 +1,7 @@
 # Contrast
 
+![contrast](https://cdn.myanimelist.net/images/manga/2/212196.jpg)
+
 -   **type**: manga
 -   **original-name**: コントラスト
 -   **start-date**: 2018-08-28

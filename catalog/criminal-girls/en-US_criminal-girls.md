@@ -1,5 +1,7 @@
 # Criminal Girls
 
+![criminal-girls](https://cdn.myanimelist.net/images/manga/1/100331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

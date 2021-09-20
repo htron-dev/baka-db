@@ -1,5 +1,7 @@
 # Chikyuu no Ue ni Asa ga Kuru
 
+![chikyuu-no-ue-ni-asa-ga-kuru](https://cdn.myanimelist.net/images/manga/1/79663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Cyborg 009: The Reopening
 
+![cyborg-009-the-reopening](https://cdn.myanimelist.net/images/anime/5/26666.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サイボーグ 009 The Reopening

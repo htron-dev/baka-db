@@ -1,5 +1,7 @@
 # Chikyuu Monogatari Telepath 2500
 
+![chikyuu-monogatari-telepath-2500](https://cdn.myanimelist.net/images/anime/3/23296.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地球物語 テレパス 2500

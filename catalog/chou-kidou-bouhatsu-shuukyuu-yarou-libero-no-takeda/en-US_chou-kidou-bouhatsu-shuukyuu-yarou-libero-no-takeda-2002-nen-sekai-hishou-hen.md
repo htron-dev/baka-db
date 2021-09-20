@@ -1,5 +1,7 @@
 # Chou Kidou Bouhatsu Shuukyuu Yarou: Libero no Takeda ~ 2002-nen Sekai Hishou-hen
 
+![chou-kidou-bouhatsu-shuukyuu-yarou-libero-no-takeda-2002-nen-sekai-hishou-hen](https://cdn.myanimelist.net/images/manga/1/211594.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 超機動暴発蹴球野郎 リベロの武田 〜2002 年世界飛翔編〜

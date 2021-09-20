@@ -1,5 +1,7 @@
 # Compiler Festa
 
+![compiler-festa](https://cdn.myanimelist.net/images/anime/9/61471.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: COMPILER FESTA

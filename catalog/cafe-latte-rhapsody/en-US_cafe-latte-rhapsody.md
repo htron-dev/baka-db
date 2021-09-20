@@ -1,5 +1,7 @@
 # Café Latte Rhapsody
 
+![cafe-latte-rhapsody](https://cdn.myanimelist.net/images/manga/3/23862.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

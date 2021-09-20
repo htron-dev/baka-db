@@ -1,5 +1,7 @@
 # CEO no Proposal
 
+![ceo-no-proposal](https://cdn.myanimelist.net/images/manga/1/182553.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

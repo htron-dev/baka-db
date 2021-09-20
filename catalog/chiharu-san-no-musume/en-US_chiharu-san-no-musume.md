@@ -1,5 +1,7 @@
 # Chiharu-san no Musume
 
+![chiharu-san-no-musume](https://cdn.myanimelist.net/images/manga/2/58205.jpg)
+
 -   **type**: manga
 -   **original-name**: ちはるさんの娘
 -   **start-date**: 2007-03-20

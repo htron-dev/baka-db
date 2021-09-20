@@ -1,5 +1,7 @@
 # Cherries ni Kanpai!
 
+![cherries-ni-kanpai](https://cdn.myanimelist.net/images/manga/1/26667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: チェリーズに乾杯！

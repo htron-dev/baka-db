@@ -1,5 +1,7 @@
 # Koneko no Chi: Ponponra Dairyokou
 
+![koneko-no-chi-ponponra-dairyokou](https://cdn.myanimelist.net/images/anime/1019/90915.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: こねこのチー ポンポンらー大旅行

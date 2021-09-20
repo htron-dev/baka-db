@@ -1,5 +1,7 @@
 # Chiisako no Niwa
 
+![chiisako-no-niwa](https://cdn.myanimelist.net/images/manga/2/207054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

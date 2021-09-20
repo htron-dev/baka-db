@@ -1,5 +1,7 @@
 # Charlotte: Tsuyoimono-tachi
 
+![charlotte-tsuyoimono-tachi](https://cdn.myanimelist.net/images/anime/1709/98068.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Charlotte（シャーロット）特別篇 強い者たち

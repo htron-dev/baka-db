@@ -1,5 +1,7 @@
 # Comic Anthology Seifuku
 
+![comic-anthology-seifuku](https://cdn.myanimelist.net/images/manga/2/33484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

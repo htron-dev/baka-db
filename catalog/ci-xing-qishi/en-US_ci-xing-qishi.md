@@ -1,5 +1,7 @@
 # Ci Xing Qishi
 
+![ci-xing-qishi](https://cdn.myanimelist.net/images/anime/1397/115502.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 磁星骑士

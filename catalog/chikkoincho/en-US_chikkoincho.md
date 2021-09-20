@@ -1,5 +1,7 @@
 # Chikkoincho
 
+![chikkoincho](https://cdn.myanimelist.net/images/manga/2/243943.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

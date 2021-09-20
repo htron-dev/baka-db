@@ -1,5 +1,7 @@
 # Chitei Shounen Chappie
 
+![chitei-shounen-chappie](https://cdn.myanimelist.net/images/manga/1/236485.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

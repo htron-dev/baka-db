@@ -1,5 +1,7 @@
 # Choukyori Renai no Kodoku
 
+![choukyori-renai-no-kodoku](https://cdn.myanimelist.net/images/manga/2/18420.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

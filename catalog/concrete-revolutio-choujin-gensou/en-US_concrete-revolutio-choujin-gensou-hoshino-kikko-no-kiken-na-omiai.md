@@ -1,5 +1,7 @@
 # Concrete Revolutio: Choujin Gensou - Hoshino Kikko no Kiken na Omiai!
 
+![concrete-revolutio-choujin-gensou-hoshino-kikko-no-kiken-na-omiai](https://cdn.myanimelist.net/images/manga/3/237296.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Choubakumatsu Shounen Seiki Takamaru
 
+![choubakumatsu-shounen-seiki-takamaru](https://cdn.myanimelist.net/images/anime/12/56779.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 超幕末少年世紀タカマル

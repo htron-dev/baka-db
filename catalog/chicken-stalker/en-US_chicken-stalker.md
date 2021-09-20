@@ -1,5 +1,7 @@
 # Chicken Stalker
 
+![chicken-stalker](https://cdn.myanimelist.net/images/manga/3/222172.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

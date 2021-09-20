@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard G: Next
 
+![cardfight-vanguard-g-next](https://cdn.myanimelist.net/images/anime/13/82028.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: CARDFIGHT!! ヴァンガード G NEXT

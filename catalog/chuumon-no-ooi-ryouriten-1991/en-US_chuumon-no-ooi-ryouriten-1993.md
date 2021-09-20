@@ -1,5 +1,7 @@
 # Chuumon no Ooi Ryouriten (1993)
 
+![chuumon-no-ooi-ryouriten-1993](https://cdn.myanimelist.net/images/anime/6/74516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 注文の多い料理店

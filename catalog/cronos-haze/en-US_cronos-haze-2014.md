@@ -1,5 +1,7 @@
 # Cronos Haze (2014)
 
+![cronos-haze-2014](https://cdn.myanimelist.net/images/manga/3/153549.jpg)
+
 -   **type**: manga
 -   **original-name**: クロノスヘイズ
 -   **start-date**: 2014-06-03

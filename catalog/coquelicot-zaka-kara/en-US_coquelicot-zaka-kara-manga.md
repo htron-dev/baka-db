@@ -1,5 +1,7 @@
 # Coquelicot-zaka kara
 
+![coquelicot-zaka-kara](https://cdn.myanimelist.net/images/manga/5/50379.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

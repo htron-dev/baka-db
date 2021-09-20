@@ -1,5 +1,7 @@
 # Crazy Coffee Cat
 
+![crazy-coffee-cat](https://cdn.myanimelist.net/images/manga/1/46289.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 217
 -   **original-name**: 크레이지 커피 캣

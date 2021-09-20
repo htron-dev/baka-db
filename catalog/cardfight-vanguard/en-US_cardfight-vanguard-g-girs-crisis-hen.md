@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard G: GIRS Crisis-hen
 
+![cardfight-vanguard-g-girs-crisis-hen](https://cdn.myanimelist.net/images/anime/3/76231.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カードファイト!! ヴァンガード G 　ギアースクライシス編

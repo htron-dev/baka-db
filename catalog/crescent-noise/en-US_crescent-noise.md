@@ -1,5 +1,7 @@
 # Crescent Noise
 
+![crescent-noise](https://cdn.myanimelist.net/images/manga/4/75621.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

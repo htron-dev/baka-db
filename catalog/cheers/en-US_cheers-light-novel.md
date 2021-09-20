@@ -1,5 +1,7 @@
 # Cheers!
 
+![cheers](https://cdn.myanimelist.net/images/manga/2/216122.jpg)
+
 -   **type**: light-novel
 -   **original-name**: チアーズ!
 -   **start-date**: 2017-09-25

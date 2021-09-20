@@ -1,5 +1,7 @@
 # Clannad: Tomoyo After
 
+![clannad-tomoyo-after](https://cdn.myanimelist.net/images/manga/1/6141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

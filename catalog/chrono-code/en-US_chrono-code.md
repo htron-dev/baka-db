@@ -1,5 +1,7 @@
 # Chrono Code
 
+![chrono-code](https://cdn.myanimelist.net/images/manga/5/753.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 18

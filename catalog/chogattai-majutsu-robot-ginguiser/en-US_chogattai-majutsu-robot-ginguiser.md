@@ -1,5 +1,7 @@
 # Chogattai Majutsu Robot Ginguiser
 
+![chogattai-majutsu-robot-ginguiser](https://cdn.myanimelist.net/images/anime/7/51471.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 超合体魔術ロボ　ギンガイザー

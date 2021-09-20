@@ -1,5 +1,7 @@
 # Clover Trèfle
 
+![clover-trefle](https://cdn.myanimelist.net/images/manga/3/170864.jpg)
+
 -   **type**: manga
 -   **original-name**: クローバー trèfle
 -   **start-date**: 2012-06-28

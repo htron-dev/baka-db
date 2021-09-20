@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard
 
+![cardfight-vanguard](https://cdn.myanimelist.net/images/manga/2/149219.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 75

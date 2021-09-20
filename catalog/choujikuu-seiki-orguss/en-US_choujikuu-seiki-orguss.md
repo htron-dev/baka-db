@@ -1,5 +1,7 @@
 # Choujikuu Seiki Orguss
 
+![choujikuu-seiki-orguss](https://cdn.myanimelist.net/images/anime/13/24517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 超時空世紀オーガス

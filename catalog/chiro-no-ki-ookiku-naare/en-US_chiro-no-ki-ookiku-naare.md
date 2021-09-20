@@ -1,5 +1,7 @@
 # Chiro no Ki Ookiku Naare
 
+![chiro-no-ki-ookiku-naare](https://cdn.myanimelist.net/images/anime/1778/99486.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: チロの木大きくなぁれ

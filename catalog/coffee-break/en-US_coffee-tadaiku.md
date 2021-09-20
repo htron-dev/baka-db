@@ -1,5 +1,7 @@
 # Coffee Tadaiku
 
+![coffee-tadaiku](https://cdn.myanimelist.net/images/anime/10/71437.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コーヒータダイク

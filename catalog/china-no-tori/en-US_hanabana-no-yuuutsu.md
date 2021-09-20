@@ -1,5 +1,7 @@
 # Hanabana no Yuuutsu
 
+![hanabana-no-yuuutsu](https://cdn.myanimelist.net/images/manga/3/38083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花々のゆううつ

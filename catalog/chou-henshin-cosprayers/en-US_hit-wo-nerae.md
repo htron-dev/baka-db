@@ -1,5 +1,7 @@
 # Hit wo Nerae!
 
+![hit-wo-nerae](https://cdn.myanimelist.net/images/anime/10/75237.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ヒットをねらえ!

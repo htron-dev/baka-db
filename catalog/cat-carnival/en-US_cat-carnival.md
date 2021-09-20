@@ -1,5 +1,7 @@
 # Cat Carnival
 
+![cat-carnival](https://cdn.myanimelist.net/images/manga/1/130299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キャット・カーニバル

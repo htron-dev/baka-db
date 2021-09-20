@@ -1,5 +1,7 @@
 # Cold★Blood
 
+![cold★-blood](https://cdn.myanimelist.net/images/manga/1/153071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: COLD★BLOOD

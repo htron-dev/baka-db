@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: Zoku Koukousei-hen
 
+![cardfight-vanguard-zoku-koukousei-hen](https://cdn.myanimelist.net/images/anime/1334/100989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: CARDFIGHT!! Vanguard 続・高校生編

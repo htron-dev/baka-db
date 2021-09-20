@@ -1,5 +1,7 @@
 # Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore
 
+![cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore](https://cdn.myanimelist.net/images/manga/3/219638.jpg)
+
 -   **type**: manga
 -   **original-name**: チート薬師のスローライフ～異世界に作ろうドラッグストア～
 -   **start-date**: 2018-12-25

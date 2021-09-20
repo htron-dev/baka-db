@@ -1,5 +1,7 @@
 # Otousan wa Shinpaishou
 
+![otousan-wa-shinpaishou](https://cdn.myanimelist.net/images/manga/2/231011.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 65

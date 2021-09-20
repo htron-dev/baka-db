@@ -1,5 +1,7 @@
 # Chii-chan no Kageokuri
 
+![chii-chan-no-kageokuri](https://cdn.myanimelist.net/images/anime/5/81450.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちいちゃんのかげおくり

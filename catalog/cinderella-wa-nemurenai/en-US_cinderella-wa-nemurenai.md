@@ -1,5 +1,7 @@
 # Cinderella wa Nemurenai
 
+![cinderella-wa-nemurenai](https://cdn.myanimelist.net/images/manga/1/112403.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: シンデレラは眠れない

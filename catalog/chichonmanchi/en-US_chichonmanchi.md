@@ -1,5 +1,7 @@
 # Chichonmanchi
 
+![chichonmanchi](https://cdn.myanimelist.net/images/manga/3/109983.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 77

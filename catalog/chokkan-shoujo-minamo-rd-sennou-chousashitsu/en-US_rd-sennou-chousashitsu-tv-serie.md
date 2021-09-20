@@ -1,5 +1,7 @@
 # RD Sennou Chousashitsu
 
+![rd-sennou-chousashitsu](https://cdn.myanimelist.net/images/anime/6/18929.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: RD 潜脳調査室

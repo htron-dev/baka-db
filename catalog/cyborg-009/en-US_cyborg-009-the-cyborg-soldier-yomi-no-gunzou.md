@@ -1,5 +1,7 @@
 # Cyborg 009: The Cyborg Soldier - Yomi no Gunzou
 
+![cyborg-009-the-cyborg-soldier-yomi-no-gunzou](https://cdn.myanimelist.net/images/anime/1020/102595.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サイボーグ 009 THE CYBORG SOLDIER 黄泉の群像

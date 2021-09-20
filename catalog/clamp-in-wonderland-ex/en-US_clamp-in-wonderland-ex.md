@@ -1,5 +1,7 @@
 # Clamp in Wonderland EX
 
+![clamp-in-wonderland-ex](https://cdn.myanimelist.net/images/manga/2/12113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

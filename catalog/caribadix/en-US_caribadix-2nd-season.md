@@ -1,5 +1,7 @@
 # Caribadix 2nd Season
 
+![caribadix-2nd-season](https://cdn.myanimelist.net/images/anime/1400/91641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ディッキー&カリーナ 2nd シーズン

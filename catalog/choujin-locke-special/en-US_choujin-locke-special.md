@@ -1,5 +1,7 @@
 # Choujin Locke Special
 
+![choujin-locke-special](https://cdn.myanimelist.net/images/anime/4/45600.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 超人ロック

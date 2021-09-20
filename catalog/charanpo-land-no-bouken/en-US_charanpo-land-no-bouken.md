@@ -1,5 +1,7 @@
 # Charanpo Land no Bouken
 
+![charanpo-land-no-bouken](https://cdn.myanimelist.net/images/anime/2/84199.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちゃらんぽ島（ランド）の冒険

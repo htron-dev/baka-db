@@ -1,5 +1,7 @@
 # Candy Candy
 
+![candy-candy](https://cdn.myanimelist.net/images/manga/2/75631.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

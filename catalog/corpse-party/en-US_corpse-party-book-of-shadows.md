@@ -1,5 +1,7 @@
 # Corpse Party: Book of Shadows
 
+![corpse-party-book-of-shadows](https://cdn.myanimelist.net/images/manga/1/139025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

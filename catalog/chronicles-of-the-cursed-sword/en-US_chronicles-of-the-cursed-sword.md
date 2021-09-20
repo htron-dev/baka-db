@@ -1,5 +1,7 @@
 # Chronicles of the Cursed Sword
 
+![chronicles-of-the-cursed-sword](https://cdn.myanimelist.net/images/manga/2/678.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 37
 -   **chapters**: 163

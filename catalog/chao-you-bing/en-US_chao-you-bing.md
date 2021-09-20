@@ -1,5 +1,7 @@
 # Chao You Bing
 
+![chao-you-bing](https://cdn.myanimelist.net/images/anime/1034/90492.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 超有病

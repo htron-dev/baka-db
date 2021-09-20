@@ -1,5 +1,7 @@
 # Chainsaw Bunny
 
+![chainsaw-bunny](https://cdn.myanimelist.net/images/anime/1817/93467.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: CHAINSAW BUNNY

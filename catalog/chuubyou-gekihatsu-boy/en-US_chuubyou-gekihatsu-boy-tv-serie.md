@@ -1,5 +1,7 @@
 # Chuubyou Gekihatsu Boy
 
+![chuubyou-gekihatsu-boy](https://cdn.myanimelist.net/images/anime/1715/111407.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 厨病激発ボーイ

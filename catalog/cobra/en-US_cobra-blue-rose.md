@@ -1,5 +1,7 @@
 # Cobra: Blue Rose
 
+![cobra-blue-rose](https://cdn.myanimelist.net/images/manga/2/204419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Cerberus
 
+![cerberus](https://cdn.myanimelist.net/images/manga/3/117661.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 87

@@ -1,5 +1,7 @@
 # Can Ci Pin: Fangzhu Xingkong
 
+![can-ci-pin-fangzhu-xingkong](https://cdn.myanimelist.net/images/anime/1650/116012.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 残次品·放逐星空

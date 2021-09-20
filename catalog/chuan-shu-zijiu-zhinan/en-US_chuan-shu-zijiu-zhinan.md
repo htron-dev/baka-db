@@ -1,5 +1,7 @@
 # Chuan Shu Zijiu Zhinan
 
+![chuan-shu-zijiu-zhinan](https://cdn.myanimelist.net/images/anime/1367/109171.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 穿书自救指南

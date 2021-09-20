@@ -1,5 +1,7 @@
 # Call★of★Gal
 
+![call★of★-gal](https://cdn.myanimelist.net/images/manga/1/239177.jpg)
+
 -   **type**: manga
 -   **original-name**: コール ★ オブ ★ ギャル
 -   **start-date**: 2021-01-01

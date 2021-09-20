@@ -1,5 +1,7 @@
 # Chanoyu no Jikan
 
+![chanoyu-no-jikan](https://cdn.myanimelist.net/images/manga/2/228035.jpg)
+
 -   **type**: manga
 -   **chapters**: 31
 -   **original-name**: 茶の湯のじかん

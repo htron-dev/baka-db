@@ -1,5 +1,7 @@
 # Crazy Love Game
 
+![crazy-love-game](https://cdn.myanimelist.net/images/manga/5/31627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

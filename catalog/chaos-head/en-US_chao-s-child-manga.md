@@ -1,5 +1,7 @@
 # ChäoS;Child
 
+![chao-s-child](https://cdn.myanimelist.net/images/manga/3/208063.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

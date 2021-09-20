@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Gaiden - Shiro no Kishi Kurenai no Yasha
 
+![code-geass-hangyaku-no-lelouch-gaiden-shiro-no-kishi-kurenai-no-yasha](https://cdn.myanimelist.net/images/manga/2/227187.jpg)
+
 -   **type**: manga
 -   **original-name**: コードギアス 反逆のルルーシュ外伝 白の騎士 紅の夜叉
 -   **start-date**: 2017-11-25

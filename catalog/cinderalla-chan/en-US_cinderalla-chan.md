@@ -1,5 +1,7 @@
 # Cinderalla-chan
 
+![cinderalla-chan](https://cdn.myanimelist.net/images/manga/1/1167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シンデラーラちゃん

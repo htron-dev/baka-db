@@ -1,5 +1,7 @@
 # Denkou Sekka BOYS
 
+![denkou-sekka-boys](https://cdn.myanimelist.net/images/manga/4/20851.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

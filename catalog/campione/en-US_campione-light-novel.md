@@ -1,5 +1,7 @@
 # Campione!
 
+![campione](https://cdn.myanimelist.net/images/manga/3/152740.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 21
 -   **chapters**: 168

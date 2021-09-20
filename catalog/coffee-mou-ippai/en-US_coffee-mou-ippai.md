@@ -1,5 +1,7 @@
 # Coffee Mou Ippai
 
+![coffee-mou-ippai](https://cdn.myanimelist.net/images/manga/1/203401.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: コーヒーもう一杯

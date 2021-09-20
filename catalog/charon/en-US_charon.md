@@ -1,5 +1,7 @@
 # Charön
 
+![charon](https://cdn.myanimelist.net/images/manga/1/107815.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

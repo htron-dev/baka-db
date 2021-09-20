@@ -1,5 +1,7 @@
 # Choco-pa!
 
+![choco-pa](https://cdn.myanimelist.net/images/manga/3/35708.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ちょこぱッ!

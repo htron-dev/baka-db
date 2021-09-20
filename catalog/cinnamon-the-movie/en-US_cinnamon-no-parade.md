@@ -1,5 +1,7 @@
 # Cinnamon no Parade
 
+![cinnamon-no-parade](https://cdn.myanimelist.net/images/anime/3/39633.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: シナモンのパレード

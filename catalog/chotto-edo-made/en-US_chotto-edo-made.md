@@ -1,5 +1,7 @@
 # Chotto Edo Made
 
+![chotto-edo-made](https://cdn.myanimelist.net/images/manga/2/22255.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ちょっと江戸まで

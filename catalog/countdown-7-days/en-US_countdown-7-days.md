@@ -1,5 +1,7 @@
 # Countdown 7 Days
 
+![countdown-7-days](https://cdn.myanimelist.net/images/manga/2/178111.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Confucius
 
+![confucius](https://cdn.myanimelist.net/images/anime/1519/115315.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 孔子

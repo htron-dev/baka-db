@@ -1,5 +1,7 @@
 # Conception
 
+![conception](https://cdn.myanimelist.net/images/anime/1849/95019.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: CONCEPTION（コンセプション）

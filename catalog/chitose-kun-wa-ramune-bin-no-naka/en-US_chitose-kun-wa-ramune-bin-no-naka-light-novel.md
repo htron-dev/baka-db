@@ -1,5 +1,7 @@
 # Chitose-kun wa Ramune Bin no Naka
 
+![chitose-kun-wa-ramune-bin-no-naka](https://cdn.myanimelist.net/images/manga/3/235707.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 千歳くんはラムネ瓶のなか
 -   **start-date**: 2019-06-18

@@ -1,5 +1,7 @@
 # Choroi desu yo Onigoroshi-san!
 
+![choroi-desu-yo-onigoroshi-san](https://cdn.myanimelist.net/images/manga/1/219701.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Colorful (Movie)
 
+![colorful-movie](https://cdn.myanimelist.net/images/anime/1839/103426.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カラフル

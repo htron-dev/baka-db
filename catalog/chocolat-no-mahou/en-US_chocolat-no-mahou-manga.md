@@ -1,5 +1,7 @@
 # Chocolat no Mahou
 
+![chocolat-no-mahou](https://cdn.myanimelist.net/images/manga/3/59117.jpg)
+
 -   **type**: manga
 -   **original-name**: ショコラの魔法
 

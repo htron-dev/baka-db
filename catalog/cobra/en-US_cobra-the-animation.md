@@ -1,5 +1,7 @@
 # Cobra The Animation
 
+![cobra-the-animation](https://cdn.myanimelist.net/images/anime/13/18900.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: COBRA THE ANIMATION

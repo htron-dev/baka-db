@@ -1,5 +1,7 @@
 # Come on! Clash Baby
 
+![come-on-clash-baby](https://cdn.myanimelist.net/images/manga/2/26528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

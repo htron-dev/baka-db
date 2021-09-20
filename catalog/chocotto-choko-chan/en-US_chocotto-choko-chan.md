@@ -1,5 +1,7 @@
 # Chocotto Choko-chan
 
+![chocotto-choko-chan](https://cdn.myanimelist.net/images/manga/1/146487.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Cinderella Bridal
 
+![cinderella-bridal](https://cdn.myanimelist.net/images/manga/1/182873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

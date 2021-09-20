@@ -1,5 +1,7 @@
 # Shin Chuuka Ichiban!
 
+![shin-chuuka-ichiban](https://cdn.myanimelist.net/images/anime/1195/116871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真・中華一番!

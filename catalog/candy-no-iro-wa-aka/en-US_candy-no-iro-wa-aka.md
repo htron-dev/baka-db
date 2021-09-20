@@ -1,5 +1,7 @@
 # Candy no Iro wa Aka
 
+![candy-no-iro-wa-aka](https://cdn.myanimelist.net/images/manga/2/29841.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

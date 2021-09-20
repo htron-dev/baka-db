@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku
 
+![crayon-shin-chan-movie-17-otakebe-kasukabe-yasei-oukoku](https://cdn.myanimelist.net/images/anime/2/22032.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん オタケベ!カスカベ野生王国

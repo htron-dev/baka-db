@@ -1,5 +1,7 @@
 # Comic Master J
 
+![comic-master-j](https://cdn.myanimelist.net/images/manga/3/75607.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: コミックマスター J

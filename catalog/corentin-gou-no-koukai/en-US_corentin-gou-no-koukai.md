@@ -1,5 +1,7 @@
 # Corentin-gou no Koukai
 
+![corentin-gou-no-koukai](https://cdn.myanimelist.net/images/manga/1/174473.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: コランタン号の航海

@@ -1,5 +1,7 @@
 # Chizu no Nai Bouken
 
+![chizu-no-nai-bouken](https://cdn.myanimelist.net/images/anime/2/85826.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 地図のない冒険

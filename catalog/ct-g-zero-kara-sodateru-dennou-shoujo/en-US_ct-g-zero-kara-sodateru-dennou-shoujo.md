@@ -1,5 +1,7 @@
 # CtG: Zero kara Sodateru Dennou Shoujo
 
+![ct-g-zero-kara-sodateru-dennou-shoujo](https://cdn.myanimelist.net/images/manga/2/176306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

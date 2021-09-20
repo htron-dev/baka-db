@@ -1,5 +1,7 @@
 # Choubakuretsu Ijigen Menko Battle: Gigant Shooter Tsukasa
 
+![choubakuretsu-ijigen-menko-battle-gigant-shooter-tsukasa](https://cdn.myanimelist.net/images/anime/11/60675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: 超爆裂異次元メンコバトル ギガントシューター つかさ

@@ -1,5 +1,7 @@
 # Copihan
 
+![copihan](https://cdn.myanimelist.net/images/anime/10/75584.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: こぴはん

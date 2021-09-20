@@ -1,5 +1,7 @@
 # Cloth Road
 
+![cloth-road](https://cdn.myanimelist.net/images/manga/1/1255.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 83

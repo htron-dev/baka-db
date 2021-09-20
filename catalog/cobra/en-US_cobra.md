@@ -1,5 +1,7 @@
 # Cobra
 
+![cobra](https://cdn.myanimelist.net/images/manga/4/103495.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Canary
 
+![canary](https://cdn.myanimelist.net/images/anime/1511/112367.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カナリア

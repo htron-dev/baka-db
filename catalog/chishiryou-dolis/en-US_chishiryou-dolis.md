@@ -1,5 +1,7 @@
 # Chishiryou Dolis
 
+![chishiryou-dolis](https://cdn.myanimelist.net/images/manga/2/152412.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

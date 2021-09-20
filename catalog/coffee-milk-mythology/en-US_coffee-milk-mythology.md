@@ -1,5 +1,7 @@
 # Coffee Milk Mythology
 
+![coffee-milk-mythology](https://cdn.myanimelist.net/images/manga/3/181950.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 117
 -   **original-name**: 커피우유신화

@@ -1,5 +1,7 @@
 # Chuuko Video-ya no Onna Tenin X
 
+![chuuko-video-ya-no-onna-tenin-x](https://cdn.myanimelist.net/images/anime/1222/107641.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 中古ビデオ屋の女店員 Ｘ

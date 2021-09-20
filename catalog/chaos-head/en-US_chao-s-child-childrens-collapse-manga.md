@@ -1,5 +1,7 @@
 # ChäoS;Child: Children's Collapse
 
+![chao-s-child-childrens-collapse](https://cdn.myanimelist.net/images/manga/2/193691.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

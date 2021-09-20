@@ -1,5 +1,7 @@
 # Cheat Shoujo ga Boukun Seiou ni Dekiai saresou desu ga, Ima wa Mahou ni Muchuu nan desu!!!
 
+![cheat-shoujo-ga-boukun-seiou-ni-dekiai-saresou-desu-ga-ima-wa-mahou-ni-muchuu-nan-desu](https://cdn.myanimelist.net/images/manga/1/234767.jpg)
+
 -   **type**: manga
 -   **original-name**: チート少女が暴君聖王に溺愛されそうですが、今は魔法に夢中なんです!!!
 -   **start-date**: 2019-12-06

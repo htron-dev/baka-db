@@ -1,5 +1,7 @@
 # World End Fairytale
 
+![world-end-fairytale](https://cdn.myanimelist.net/images/manga/2/169489.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

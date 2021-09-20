@@ -1,5 +1,7 @@
 # Candy Boy
 
+![candy-boy](https://cdn.myanimelist.net/images/manga/4/34243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch I - Koudou
 
+![code-geass-hangyaku-no-lelouch-i-koudou](https://cdn.myanimelist.net/images/anime/6/87709.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ Ⅰ 興道

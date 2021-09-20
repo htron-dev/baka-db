@@ -1,5 +1,7 @@
 # Chihayafuru: Chuugakusei-hen
 
+![chihayafuru-chuugakusei-hen](https://cdn.myanimelist.net/images/manga/1/206838.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

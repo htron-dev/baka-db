@@ -1,5 +1,7 @@
 # Chouetsusha to Natta Ossan wa My Pace ni Isekai wo Sansaku suru
 
+![chouetsusha-to-natta-ossan-wa-my-pace-ni-isekai-wo-sansaku-suru](https://cdn.myanimelist.net/images/manga/3/242660.jpg)
+
 -   **type**: manga
 -   **original-name**: 超越者となったおっさんはマイペースに異世界を散策する
 -   **start-date**: 2019-01-09

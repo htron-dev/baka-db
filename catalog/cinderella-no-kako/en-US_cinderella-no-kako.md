@@ -1,5 +1,7 @@
 # Cinderella no Kako
 
+![cinderella-no-kako](https://cdn.myanimelist.net/images/manga/2/230187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シンデレラの過去

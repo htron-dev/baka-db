@@ -1,5 +1,7 @@
 # Chocolate Girl
 
+![chocolate-girl](https://cdn.myanimelist.net/images/manga/2/174825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

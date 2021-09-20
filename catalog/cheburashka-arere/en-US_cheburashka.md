@@ -1,5 +1,7 @@
 # Cheburashka
 
+![cheburashka](https://cdn.myanimelist.net/images/anime/5/25871.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チェブラーシカ

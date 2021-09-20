@@ -1,5 +1,7 @@
 # Chikkun Takkun
 
+![chikkun-takkun](https://cdn.myanimelist.net/images/anime/1486/114050.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: チックン タックン

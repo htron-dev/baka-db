@@ -1,5 +1,7 @@
 # God of Dogs
 
+![god-of-dogs](https://cdn.myanimelist.net/images/manga/2/11039.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 犬の王

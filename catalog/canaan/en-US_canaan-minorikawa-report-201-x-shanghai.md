@@ -1,5 +1,7 @@
 # Canaan: Minorikawa Report 201X Shanghai
 
+![canaan-minorikawa-report-201-x-shanghai](https://cdn.myanimelist.net/images/anime/8/26908.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カナン 御法川レポート 201X 上海

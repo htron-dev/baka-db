@@ -1,5 +1,7 @@
 # Chang
 
+![chang](https://cdn.myanimelist.net/images/anime/1892/112685.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 창

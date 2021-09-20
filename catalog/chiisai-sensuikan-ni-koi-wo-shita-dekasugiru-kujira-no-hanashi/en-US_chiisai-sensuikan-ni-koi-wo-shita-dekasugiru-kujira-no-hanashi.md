@@ -1,5 +1,7 @@
 # Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi
 
+![chiisai-sensuikan-ni-koi-wo-shita-dekasugiru-kujira-no-hanashi](https://cdn.myanimelist.net/images/anime/5/64753.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 小さい潜水艦に恋したでかすぎるクジラの話

@@ -1,5 +1,7 @@
 # Crocotires Traction AAA
 
+![crocotires-traction-aaa](https://cdn.myanimelist.net/images/anime/2/83701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Crocotires Traction AAA

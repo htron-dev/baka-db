@@ -1,5 +1,7 @@
 # Mini Van 2nd Season
 
+![mini-van-2nd-season](https://cdn.myanimelist.net/images/anime/10/75678.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: みにヴぁん

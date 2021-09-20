@@ -1,5 +1,7 @@
 # Hello WeGo!
 
+![hello-we-go](https://cdn.myanimelist.net/images/anime/1974/97417.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハローウィーゴ!

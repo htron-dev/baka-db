@@ -1,5 +1,7 @@
 # Kyou kara City Hunter
 
+![kyou-kara-city-hunter](https://cdn.myanimelist.net/images/manga/3/209193.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日から CITY HUNTER
 -   **start-date**: 2017-07-25

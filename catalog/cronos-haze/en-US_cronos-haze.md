@@ -1,5 +1,7 @@
 # Cronos Haze
 
+![cronos-haze](https://cdn.myanimelist.net/images/manga/3/172248.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Chou Kidou Densetsu DinaGiga
 
+![chou-kidou-densetsu-dina-giga](https://cdn.myanimelist.net/images/anime/12/19534.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 超機動伝説ダイナギガ

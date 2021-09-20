@@ -1,5 +1,7 @@
 # Cheer Danshi!! Recap
 
+![cheer-danshi-recap](https://cdn.myanimelist.net/images/anime/9/81428.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: チア男子!! 第 5.5 話

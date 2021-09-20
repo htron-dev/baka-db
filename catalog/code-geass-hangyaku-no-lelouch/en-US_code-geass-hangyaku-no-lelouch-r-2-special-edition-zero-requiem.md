@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem
 
+![code-geass-hangyaku-no-lelouch-r-2-special-edition-zero-requiem](https://cdn.myanimelist.net/images/anime/7/15968.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ R2 Special Edition Zero Requiem

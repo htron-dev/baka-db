@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan
 
+![crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan](https://cdn.myanimelist.net/images/anime/1744/98535.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん 爆盛！カンフーボーイズ ～拉麺大乱～

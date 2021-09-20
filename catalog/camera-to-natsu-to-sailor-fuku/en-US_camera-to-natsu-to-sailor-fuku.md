@@ -1,5 +1,7 @@
 # Camera to Natsu to Sailor-fuku
 
+![camera-to-natsu-to-sailor-fuku](https://cdn.myanimelist.net/images/manga/3/204118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

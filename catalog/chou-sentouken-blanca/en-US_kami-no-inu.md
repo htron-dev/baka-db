@@ -1,5 +1,7 @@
 # Kami no Inu
 
+![kami-no-inu](https://cdn.myanimelist.net/images/manga/1/177427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

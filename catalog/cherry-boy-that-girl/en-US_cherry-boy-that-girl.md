@@ -1,5 +1,7 @@
 # Cherry Boy, That Girl
 
+![cherry-boy-that-girl](https://cdn.myanimelist.net/images/manga/2/127473.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 110
 -   **original-name**: 체리보이, 그녀

@@ -1,5 +1,7 @@
 # Climber Retsuden
 
+![climber-retsuden](https://cdn.myanimelist.net/images/manga/3/72689.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 岳人(クライマー)列伝

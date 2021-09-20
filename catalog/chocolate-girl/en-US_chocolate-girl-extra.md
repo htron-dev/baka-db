@@ -1,5 +1,7 @@
 # Chocolate Girl Extra
 
+![chocolate-girl-extra](https://cdn.myanimelist.net/images/manga/3/174827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

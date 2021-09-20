@@ -1,5 +1,7 @@
 # Cike Nieyinniang Qianchuan
 
+![cike-nieyinniang-qianchuan](https://cdn.myanimelist.net/images/anime/1869/115336.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 刺客聂隐娘前传

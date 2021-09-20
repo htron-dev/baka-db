@@ -1,5 +1,7 @@
 # Crayon no Hoshi
 
+![crayon-no-hoshi](https://cdn.myanimelist.net/images/anime/7/66165.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クレヨンの星

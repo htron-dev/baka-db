@@ -1,5 +1,7 @@
 # Cyborg 009: Call of Justice 1
 
+![cyborg-009-call-of-justice-1](https://cdn.myanimelist.net/images/anime/11/81018.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: CYBORG009 CALL OF JUSTICE 第 1 章

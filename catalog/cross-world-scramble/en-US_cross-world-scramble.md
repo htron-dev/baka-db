@@ -1,5 +1,7 @@
 # Cross World Scramble
 
+![cross-world-scramble](https://cdn.myanimelist.net/images/manga/2/176237.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

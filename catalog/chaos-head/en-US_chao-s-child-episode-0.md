@@ -1,5 +1,7 @@
 # ChäoS;Child Episode 0
 
+![chao-s-child-episode-0](https://cdn.myanimelist.net/images/anime/9/83904.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CHAOS;CHILD 第 0 話

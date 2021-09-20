@@ -1,5 +1,7 @@
 # Color Chart wo Kimi ni
 
+![color-chart-wo-kimi-ni](https://cdn.myanimelist.net/images/manga/3/233969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

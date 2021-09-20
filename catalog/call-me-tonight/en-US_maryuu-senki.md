@@ -1,5 +1,7 @@
 # Maryuu Senki
 
+![maryuu-senki](https://cdn.myanimelist.net/images/anime/3/13235.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔龍戦紀

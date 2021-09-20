@@ -1,5 +1,7 @@
 # Capricorn
 
+![capricorn](https://cdn.myanimelist.net/images/manga/4/44099.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

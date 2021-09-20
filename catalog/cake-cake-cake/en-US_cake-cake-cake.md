@@ -1,5 +1,7 @@
 # Cake Cake Cake
 
+![cake-cake-cake](https://cdn.myanimelist.net/images/manga/1/18113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ケーキ•ケーキ•ケーキ

@@ -1,5 +1,7 @@
 # Captain (TV)
 
+![captain-tv](https://cdn.myanimelist.net/images/anime/1393/92204.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キャプテン

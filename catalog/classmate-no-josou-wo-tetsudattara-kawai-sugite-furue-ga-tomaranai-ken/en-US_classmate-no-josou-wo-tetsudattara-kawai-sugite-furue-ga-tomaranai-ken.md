@@ -1,5 +1,7 @@
 # Classmate no Josou wo Tetsudattara Kawai sugite Furue ga Tomaranai Ken
 
+![classmate-no-josou-wo-tetsudattara-kawai-sugite-furue-ga-tomaranai-ken](https://cdn.myanimelist.net/images/manga/3/163675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

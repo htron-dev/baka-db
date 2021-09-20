@@ -1,5 +1,7 @@
 # Calamity Lost
 
+![calamity-lost](https://cdn.myanimelist.net/images/manga/1/220228.jpg)
+
 -   **type**: manga
 -   **original-name**: カラミティ・ロスト
 -   **start-date**: 2017-09-25

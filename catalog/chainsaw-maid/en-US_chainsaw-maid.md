@@ -1,5 +1,7 @@
 # Chainsaw Maid
 
+![chainsaw-maid](https://cdn.myanimelist.net/images/anime/6/32575.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: チェーンソー・メイド

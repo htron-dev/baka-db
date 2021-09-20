@@ -1,5 +1,7 @@
 # Clannad: After Story
 
+![clannad-after-story](https://cdn.myanimelist.net/images/anime/1299/110774.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: CLANNAD〜AFTER STORY〜 クラナド アフターストーリー

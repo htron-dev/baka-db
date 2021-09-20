@@ -1,5 +1,7 @@
 # Coupe to BB-dan
 
+![coupe-to-bb-dan](https://cdn.myanimelist.net/images/manga/3/162212.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

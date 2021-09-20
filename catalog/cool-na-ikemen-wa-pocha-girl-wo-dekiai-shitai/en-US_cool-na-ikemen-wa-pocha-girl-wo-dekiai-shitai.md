@@ -1,5 +1,7 @@
 # Cool na Ikemen wa Pocha Girl wo Dekiai Shitai
 
+![cool-na-ikemen-wa-pocha-girl-wo-dekiai-shitai](https://cdn.myanimelist.net/images/manga/1/195639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

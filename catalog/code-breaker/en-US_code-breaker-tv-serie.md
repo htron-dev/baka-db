@@ -1,5 +1,7 @@
 # Code:Breaker
 
+![code-breaker](https://cdn.myanimelist.net/images/anime/13/57251.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: CØDE:BREAKER

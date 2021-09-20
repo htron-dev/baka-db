@@ -1,5 +1,7 @@
 # CB Chara Go Nagai World
 
+![cb-chara-go-nagai-world](https://cdn.myanimelist.net/images/anime/8/34121.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ＣＢキャラ永井豪ワールド

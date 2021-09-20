@@ -1,5 +1,7 @@
 # Crayon Shin-chan Gaiden: Omocha Wars
 
+![crayon-shin-chan-gaiden-omocha-wars](https://cdn.myanimelist.net/images/anime/13/82635.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: クレヨンしんちゃん外伝 おもちゃウォーズ

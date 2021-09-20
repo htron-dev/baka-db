@@ -1,5 +1,7 @@
 # Chou Kuse ni Narisou
 
+![chou-kuse-ni-narisou](https://cdn.myanimelist.net/images/manga/3/44769.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 超　くせになりそう

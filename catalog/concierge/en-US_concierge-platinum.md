@@ -1,5 +1,7 @@
 # Concierge Platinum
 
+![concierge-platinum](https://cdn.myanimelist.net/images/manga/2/186830.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

@@ -1,5 +1,7 @@
 # Conductor
 
+![conductor](https://cdn.myanimelist.net/images/manga/1/37170.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

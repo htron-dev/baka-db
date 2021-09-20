@@ -1,5 +1,7 @@
 # Cider no You ni Kotoba ga Wakiagaru
 
+![cider-no-you-ni-kotoba-ga-wakiagaru](https://cdn.myanimelist.net/images/anime/1952/116031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サイダーのように言葉が湧き上がる

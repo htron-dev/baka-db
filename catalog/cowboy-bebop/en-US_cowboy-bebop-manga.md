@@ -1,5 +1,7 @@
 # Cowboy Bebop
 
+![cowboy-bebop](https://cdn.myanimelist.net/images/manga/5/166652.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Choumiryou Gijinka
 
+![choumiryou-gijinka](https://cdn.myanimelist.net/images/manga/2/165535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 調味料擬人化

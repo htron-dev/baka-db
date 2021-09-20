@@ -1,5 +1,7 @@
 # Canvas 2: Nijiiro no Sketch
 
+![canvas-2-nijiiro-no-sketch](https://cdn.myanimelist.net/images/manga/1/4763.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

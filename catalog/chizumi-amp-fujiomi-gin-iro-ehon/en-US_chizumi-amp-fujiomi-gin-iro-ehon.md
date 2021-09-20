@@ -1,5 +1,7 @@
 # Chizumi &amp; Fujiomi - Gin-iro Ehon
 
+![chizumi-amp-fujiomi-gin-iro-ehon](https://cdn.myanimelist.net/images/manga/3/16815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

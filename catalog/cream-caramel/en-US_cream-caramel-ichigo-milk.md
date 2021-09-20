@@ -1,5 +1,7 @@
 # Cream Caramel Ichigo Milk
 
+![cream-caramel-ichigo-milk](https://cdn.myanimelist.net/images/manga/1/22128.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

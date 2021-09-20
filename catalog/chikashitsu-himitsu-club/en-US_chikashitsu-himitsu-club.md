@@ -1,5 +1,7 @@
 # Chikashitsu Himitsu Club
 
+![chikashitsu-himitsu-club](https://cdn.myanimelist.net/images/manga/3/19976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

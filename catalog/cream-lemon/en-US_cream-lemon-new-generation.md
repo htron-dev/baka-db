@@ -1,5 +1,7 @@
 # Cream Lemon: New Generation
 
+![cream-lemon-new-generation](https://cdn.myanimelist.net/images/anime/8/62727.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: くりぃむレモン ニュージェネレーション

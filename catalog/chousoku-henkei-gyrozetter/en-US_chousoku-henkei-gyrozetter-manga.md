@@ -1,5 +1,7 @@
 # Chousoku Henkei Gyrozetter
 
+![chousoku-henkei-gyrozetter](https://cdn.myanimelist.net/images/manga/1/82508.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 超速変形ジャイロゼッター

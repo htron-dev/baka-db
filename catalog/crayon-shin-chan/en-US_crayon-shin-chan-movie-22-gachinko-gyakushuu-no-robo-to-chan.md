@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan
 
+![crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan](https://cdn.myanimelist.net/images/anime/1696/94870.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん　ガチンコ! 逆襲のロボとーちゃん

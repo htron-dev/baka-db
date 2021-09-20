@@ -1,5 +1,7 @@
 # Code Black: Hayabiki no Lelouch
 
+![code-black-hayabiki-no-lelouch](https://cdn.myanimelist.net/images/manga/5/157459.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

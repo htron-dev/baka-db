@@ -1,5 +1,7 @@
 # Chronos: Jiseidai Hanzai Jouhoushitsu
 
+![chronos-jiseidai-hanzai-jouhoushitsu](https://cdn.myanimelist.net/images/manga/3/157527.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Adekoi Typhoon
 
+![adekoi-typhoon](https://cdn.myanimelist.net/images/manga/2/42033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 艶恋タイフーン

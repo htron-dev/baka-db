@@ -1,5 +1,7 @@
 # Crimson Magi Trunnion
 
+![crimson-magi-trunnion](https://cdn.myanimelist.net/images/manga/2/160018.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 深紅の魔砲耳〈クリムゾン・マギ・トラニオン〉

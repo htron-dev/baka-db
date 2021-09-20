@@ -1,5 +1,7 @@
 # Chinatsu no Uta
 
+![chinatsu-no-uta](https://cdn.myanimelist.net/images/manga/2/175689.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

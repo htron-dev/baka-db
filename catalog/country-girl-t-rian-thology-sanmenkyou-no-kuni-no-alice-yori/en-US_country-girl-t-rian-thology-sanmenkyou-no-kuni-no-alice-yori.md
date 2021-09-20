@@ -1,5 +1,7 @@
 # Country Girl: "TRianThology: Sanmenkyou no Kuni no Alice" yori
 
+![country-girl-t-rian-thology-sanmenkyou-no-kuni-no-alice-yori](https://cdn.myanimelist.net/images/manga/1/181119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

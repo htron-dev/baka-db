@@ -1,5 +1,7 @@
 # Cross Battlers: Cyber Blue the Last Stand
 
+![cross-battlers-cyber-blue-the-last-stand](https://cdn.myanimelist.net/images/manga/1/164325.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Chikan Saresou ni Natteiru S-kyuu Bishoujo wo Tasuketara Tonari no Seki no Osananajimi datta
 
+![chikan-saresou-ni-natteiru-s-kyuu-bishoujo-wo-tasuketara-tonari-no-seki-no-osananajimi-datta](https://cdn.myanimelist.net/images/manga/1/240390.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 痴漢されそうになっているＳ級美少女を助けたら隣の席の幼馴染だった
 -   **start-date**: 2020-02-14

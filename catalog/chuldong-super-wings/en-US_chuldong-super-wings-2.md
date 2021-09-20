@@ -1,5 +1,7 @@
 # Chuldong! Super Wings 2
 
+![chuldong-super-wings-2](https://cdn.myanimelist.net/images/anime/1545/95653.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 출동! 슈퍼윙스2

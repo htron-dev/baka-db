@@ -1,5 +1,7 @@
 # Choukadou Girl ⅙
 
+![choukadou-girl-⅙](https://cdn.myanimelist.net/images/manga/1/219187.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 45

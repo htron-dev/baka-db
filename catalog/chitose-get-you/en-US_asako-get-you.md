@@ -1,5 +1,7 @@
 # Asako Get You!!
 
+![asako-get-you](https://cdn.myanimelist.net/images/anime/5/53435.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: あさこげっちゅ!!

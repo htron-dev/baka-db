@@ -1,5 +1,7 @@
 # Chohatsu BABY
 
+![chohatsu-baby](https://cdn.myanimelist.net/images/manga/1/4558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

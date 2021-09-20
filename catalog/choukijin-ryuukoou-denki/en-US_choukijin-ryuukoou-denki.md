@@ -1,5 +1,7 @@
 # Choukijin Ryuukoou Denki
 
+![choukijin-ryuukoou-denki](https://cdn.myanimelist.net/images/manga/2/57307.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 超機人 龍虎王伝奇

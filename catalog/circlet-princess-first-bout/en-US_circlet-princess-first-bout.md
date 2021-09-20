@@ -1,5 +1,7 @@
 # Circlet Princess: First Bout
 
+![circlet-princess-first-bout](https://cdn.myanimelist.net/images/manga/2/215504.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

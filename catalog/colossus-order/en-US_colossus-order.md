@@ -1,5 +1,7 @@
 # Colossus Order
 
+![colossus-order](https://cdn.myanimelist.net/images/manga/1/137657.jpg)
+
 -   **type**: manga
 -   **original-name**: COLOSSUS ORDER コロッサス・オーダー
 -   **start-date**: 2013-04-20

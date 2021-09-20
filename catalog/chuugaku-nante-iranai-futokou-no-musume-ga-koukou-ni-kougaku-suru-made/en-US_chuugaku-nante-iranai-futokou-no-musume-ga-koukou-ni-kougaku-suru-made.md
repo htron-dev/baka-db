@@ -1,5 +1,7 @@
 # Chuugaku nante Iranai. Futokou no Musume ga Koukou ni Kougaku suru made
 
+![chuugaku-nante-iranai-futokou-no-musume-ga-koukou-ni-kougaku-suru-made](https://cdn.myanimelist.net/images/manga/1/152078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 中学なんていらない。 不登校の娘が高校に合格するまで

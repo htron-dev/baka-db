@@ -1,5 +1,7 @@
 # Choumaru
 
+![choumaru](https://cdn.myanimelist.net/images/manga/1/36500.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

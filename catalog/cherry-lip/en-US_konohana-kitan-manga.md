@@ -1,5 +1,7 @@
 # Konohana Kitan
 
+![konohana-kitan](https://cdn.myanimelist.net/images/manga/2/165035.jpg)
+
 -   **type**: manga
 -   **original-name**: このはな綺譚
 -   **start-date**: 2014-12-29

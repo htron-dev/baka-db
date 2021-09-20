@@ -1,5 +1,7 @@
 # Chninkel
 
+![chninkel](https://cdn.myanimelist.net/images/manga/1/16363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

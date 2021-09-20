@@ -1,5 +1,7 @@
 # Caribadix
 
+![caribadix](https://cdn.myanimelist.net/images/anime/1626/90565.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: Caribadix

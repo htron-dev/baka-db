@@ -1,5 +1,7 @@
 # Calcium!: Joshikousei Ca no Kiken na Houkago
 
+![calcium-joshikousei-ca-no-kiken-na-houkago](https://cdn.myanimelist.net/images/manga/3/154586.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Confeito Darling ♪
 
+![confeito-darling-♪](https://cdn.myanimelist.net/images/manga/3/5997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

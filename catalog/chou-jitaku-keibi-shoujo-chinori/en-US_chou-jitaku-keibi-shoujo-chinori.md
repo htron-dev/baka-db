@@ -1,5 +1,7 @@
 # Chou Jitaku Keibi Shoujo Chinori
 
+![chou-jitaku-keibi-shoujo-chinori](https://cdn.myanimelist.net/images/manga/2/132533.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 超自宅警備少女ちのり

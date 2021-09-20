@@ -1,5 +1,7 @@
 # Come On-a My House!
 
+![come-on-a-my-house](https://cdn.myanimelist.net/images/manga/3/221868.jpg)
+
 -   **type**: manga
 -   **original-name**: カモナ マイハウス！
 -   **start-date**: 2018-08-10

@@ -1,5 +1,7 @@
 # Reikenzan: Eichi e no Shikaku
 
+![reikenzan-eichi-e-no-shikaku](https://cdn.myanimelist.net/images/anime/11/83499.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 霊剣山 叡智への資格

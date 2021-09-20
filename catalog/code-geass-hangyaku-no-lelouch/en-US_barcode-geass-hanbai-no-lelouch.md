@@ -1,5 +1,7 @@
 # Barcode Geass: Hanbai no Lelouch
 
+![barcode-geass-hanbai-no-lelouch](https://cdn.myanimelist.net/images/manga/1/74119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

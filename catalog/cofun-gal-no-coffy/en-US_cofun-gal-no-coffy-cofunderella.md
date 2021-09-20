@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy: Cofunderella
 
+![cofun-gal-no-coffy-cofunderella](https://cdn.myanimelist.net/images/anime/13/37703.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 古墳ギャルのコフィー ～コフンデレラ～

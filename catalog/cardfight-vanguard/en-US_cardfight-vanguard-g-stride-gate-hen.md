@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard G: Stride Gate-hen
 
+![cardfight-vanguard-g-stride-gate-hen](https://cdn.myanimelist.net/images/anime/10/80198.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: カードファイト!! ヴァンガード G ストライドゲート編

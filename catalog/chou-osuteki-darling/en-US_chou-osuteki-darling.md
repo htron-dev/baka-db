@@ -1,5 +1,7 @@
 # Chou Osuteki Darling
 
+![chou-osuteki-darling](https://cdn.myanimelist.net/images/manga/2/5951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 超 ☆ お素敵ダーリン

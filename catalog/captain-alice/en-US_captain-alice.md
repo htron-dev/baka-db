@@ -1,5 +1,7 @@
 # Captain Alice
 
+![captain-alice](https://cdn.myanimelist.net/images/manga/1/120485.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 85

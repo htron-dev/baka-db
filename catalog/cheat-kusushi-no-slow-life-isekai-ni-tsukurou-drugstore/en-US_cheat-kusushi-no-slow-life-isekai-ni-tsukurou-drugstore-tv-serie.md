@@ -1,5 +1,7 @@
 # Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore
 
+![cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore](https://cdn.myanimelist.net/images/anime/1787/115817.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: チート薬師のスローライフ～異世界に作ろうドラッグストア～

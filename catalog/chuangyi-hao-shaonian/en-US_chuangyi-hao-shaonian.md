@@ -1,5 +1,7 @@
 # Chuangyi Hao Shaonian
 
+![chuangyi-hao-shaonian](https://cdn.myanimelist.net/images/anime/1415/115358.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 200
 -   **original-name**: 创意好少年

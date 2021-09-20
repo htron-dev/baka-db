@@ -1,5 +1,7 @@
 # Chisa x Pon
 
+![chisa-x-pon](https://cdn.myanimelist.net/images/manga/3/4767.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

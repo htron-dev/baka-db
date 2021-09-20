@@ -1,5 +1,7 @@
 # Chi no Wadachi
 
+![chi-no-wadachi](https://cdn.myanimelist.net/images/manga/1/200350.jpg)
+
 -   **type**: manga
 -   **original-name**: 血の轍
 -   **start-date**: 2017-02-24

@@ -1,5 +1,7 @@
 # Cobra The Animation: Time Drive
 
+![cobra-the-animation-time-drive](https://cdn.myanimelist.net/images/anime/11/14093.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: COBRA THE ANIMATION タイム・ドライブ

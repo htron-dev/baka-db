@@ -1,5 +1,7 @@
 # Chou Shounen Tanteidan Neo
 
+![chou-shounen-tanteidan-neo](https://cdn.myanimelist.net/images/anime/4/83182.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 超・少年探偵団 NEO

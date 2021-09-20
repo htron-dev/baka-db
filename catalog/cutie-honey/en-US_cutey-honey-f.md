@@ -1,5 +1,7 @@
 # Cutey Honey F
 
+![cutey-honey-f](https://cdn.myanimelist.net/images/anime/12/16802.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: キューティーハニーＦ

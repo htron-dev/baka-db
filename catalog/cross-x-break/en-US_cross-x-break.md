@@ -1,5 +1,7 @@
 # Cross X Break
 
+![cross-x-break](https://cdn.myanimelist.net/images/manga/3/21442.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

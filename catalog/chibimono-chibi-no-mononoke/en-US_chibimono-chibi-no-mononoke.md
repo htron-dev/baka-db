@@ -1,5 +1,7 @@
 # Chibimono - Chibi no Mononoke
 
+![chibimono-chibi-no-mononoke](https://cdn.myanimelist.net/images/manga/1/10162.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

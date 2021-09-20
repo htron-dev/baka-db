@@ -1,5 +1,7 @@
 # Cocolors
 
+![cocolors](https://cdn.myanimelist.net/images/anime/3/86473.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: COCOLORS（コカラス）

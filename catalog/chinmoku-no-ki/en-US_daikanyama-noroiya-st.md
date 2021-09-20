@@ -1,5 +1,7 @@
 # Daikanyama Noroiya St.
 
+![daikanyama-noroiya-st](https://cdn.myanimelist.net/images/manga/3/71671.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 代官山呪い屋 st.

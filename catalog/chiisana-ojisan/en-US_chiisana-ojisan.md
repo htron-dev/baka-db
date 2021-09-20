@@ -1,5 +1,7 @@
 # Chiisana Ojisan
 
+![chiisana-ojisan](https://cdn.myanimelist.net/images/anime/13/42733.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: ちいさなおじさん

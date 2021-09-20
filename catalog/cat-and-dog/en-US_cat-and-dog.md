@@ -1,5 +1,7 @@
 # Cat and Dog
 
+![cat-and-dog](https://cdn.myanimelist.net/images/manga/1/189407.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 81

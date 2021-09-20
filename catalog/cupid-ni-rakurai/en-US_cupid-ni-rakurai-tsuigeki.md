@@ -1,5 +1,7 @@
 # Cupid ni Rakurai: Tsuigeki
 
+![cupid-ni-rakurai-tsuigeki](https://cdn.myanimelist.net/images/manga/1/245896.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

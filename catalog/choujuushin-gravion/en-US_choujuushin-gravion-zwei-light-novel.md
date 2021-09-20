@@ -1,5 +1,7 @@
 # Choujuushin Gravion Zwei
 
+![choujuushin-gravion-zwei](https://cdn.myanimelist.net/images/manga/1/108065.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 超重神グラヴィオンツヴァイ

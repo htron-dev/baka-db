@@ -1,5 +1,7 @@
 # Cyberpunk: Edgerunners
 
+![cyberpunk-edgerunners](https://cdn.myanimelist.net/images/anime/1562/108236.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: CYBERPUNK: EDGERUNNERS

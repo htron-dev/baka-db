@@ -1,5 +1,7 @@
 # Crown Craze
 
+![crown-craze](https://cdn.myanimelist.net/images/manga/1/59029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

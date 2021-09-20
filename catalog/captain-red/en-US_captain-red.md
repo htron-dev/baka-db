@@ -1,5 +1,7 @@
 # Captain Red
 
+![captain-red](https://cdn.myanimelist.net/images/manga/2/11779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Captain Red

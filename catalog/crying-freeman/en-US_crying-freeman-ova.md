@@ -1,5 +1,7 @@
 # Crying Freeman
 
+![crying-freeman](https://cdn.myanimelist.net/images/anime/13/37721.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: Crying フリーマン

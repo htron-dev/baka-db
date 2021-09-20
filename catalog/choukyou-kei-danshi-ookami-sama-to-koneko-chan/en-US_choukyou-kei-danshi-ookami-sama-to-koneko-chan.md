@@ -1,5 +1,7 @@
 # Choukyou-kei Danshi: Ookami-sama to Koneko-chan
 
+![choukyou-kei-danshi-ookami-sama-to-koneko-chan](https://cdn.myanimelist.net/images/manga/1/166047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

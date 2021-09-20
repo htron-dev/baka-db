@@ -1,5 +1,7 @@
 # Char no Nichijou
 
+![char-no-nichijou](https://cdn.myanimelist.net/images/manga/2/120465.jpg)
+
 -   **type**: manga
 -   **original-name**: シャアの日常
 -   **start-date**: 2012-07-26

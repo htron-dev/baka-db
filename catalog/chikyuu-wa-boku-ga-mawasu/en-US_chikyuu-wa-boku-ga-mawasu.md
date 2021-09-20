@@ -1,5 +1,7 @@
 # Chikyuu wa Boku ga Mawasu
 
+![chikyuu-wa-boku-ga-mawasu](https://cdn.myanimelist.net/images/manga/3/178908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

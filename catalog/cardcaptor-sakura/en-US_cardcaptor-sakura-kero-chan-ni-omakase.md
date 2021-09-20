@@ -1,5 +1,7 @@
 # Cardcaptor Sakura: Kero-chan ni Omakase!
 
+![cardcaptor-sakura-kero-chan-ni-omakase](https://cdn.myanimelist.net/images/anime/13/28850.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ケロちゃんにおまかせ！

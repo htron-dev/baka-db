@@ -1,5 +1,7 @@
 # Citrus+
 
+![citrus](https://cdn.myanimelist.net/images/manga/3/185905.jpg)
+
 -   **type**: manga
 -   **original-name**: citrus+
 -   **start-date**: 2018-12-18

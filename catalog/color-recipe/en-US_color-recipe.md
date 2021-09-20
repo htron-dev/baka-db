@@ -1,5 +1,7 @@
 # Color Recipe
 
+![color-recipe](https://cdn.myanimelist.net/images/manga/1/210391.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: カラーレシピ

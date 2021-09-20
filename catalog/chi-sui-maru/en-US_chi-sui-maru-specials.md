@@ -1,5 +1,7 @@
 # Chi-Sui Maru Specials
 
+![chi-sui-maru-specials](https://cdn.myanimelist.net/images/anime/9/32751.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ちーすい丸

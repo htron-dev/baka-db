@@ -1,5 +1,7 @@
 # Captain
 
+![captain](https://cdn.myanimelist.net/images/anime/7/67651.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キャプテン

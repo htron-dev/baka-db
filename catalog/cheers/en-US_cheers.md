@@ -1,5 +1,7 @@
 # Cheers!
 
+![cheers](https://cdn.myanimelist.net/images/manga/5/34587.jpg)
+
 -   **type**: manga
 -   **original-name**: Cheers！
 -   **start-date**: 2003-11-29

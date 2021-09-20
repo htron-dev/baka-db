@@ -1,5 +1,7 @@
 # Collapse Zen
 
+![collapse-zen](https://cdn.myanimelist.net/images/anime/1189/102043.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Collapse Zen

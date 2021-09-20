@@ -1,5 +1,7 @@
 # Caramel Milk Tea
 
+![caramel-milk-tea](https://cdn.myanimelist.net/images/manga/3/183167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

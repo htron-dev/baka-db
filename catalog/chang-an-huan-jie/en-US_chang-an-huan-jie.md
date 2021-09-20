@@ -1,5 +1,7 @@
 # Chang An Huan Jie
 
+![chang-an-huan-jie](https://cdn.myanimelist.net/images/anime/1980/110971.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 长安幻街

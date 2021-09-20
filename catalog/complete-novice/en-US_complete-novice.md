@@ -1,5 +1,7 @@
 # Complete Novice
 
+![complete-novice](https://cdn.myanimelist.net/images/manga/3/159362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 25

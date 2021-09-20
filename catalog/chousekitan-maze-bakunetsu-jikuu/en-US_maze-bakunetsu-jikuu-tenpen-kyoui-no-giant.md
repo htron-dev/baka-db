@@ -1,5 +1,7 @@
 # Maze☆Bakunetsu Jikuu: Tenpen Kyoui no Giant
 
+![maze☆-bakunetsu-jikuu-tenpen-kyoui-no-giant](https://cdn.myanimelist.net/images/anime/6/24234.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: MAZE☆ 爆熱時空 天変脅威の大巨人

@@ -1,5 +1,7 @@
 # Chikai
 
+![chikai](https://cdn.myanimelist.net/images/anime/1857/102987.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 誓い

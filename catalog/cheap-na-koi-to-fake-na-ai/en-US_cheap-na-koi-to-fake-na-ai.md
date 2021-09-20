@@ -1,5 +1,7 @@
 # Cheap na Koi to Fake na Ai
 
+![cheap-na-koi-to-fake-na-ai](https://cdn.myanimelist.net/images/manga/2/85979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

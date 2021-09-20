@@ -1,5 +1,7 @@
 # Crystal-yojeong Z-Squad
 
+![crystal-yojeong-z-squad](https://cdn.myanimelist.net/images/anime/1939/114463.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 크리스탈요정 지스쿼드

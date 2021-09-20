@@ -1,5 +1,7 @@
 # Capsule Boy
 
+![capsule-boy](https://cdn.myanimelist.net/images/anime/10/83625.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 캡슐보이

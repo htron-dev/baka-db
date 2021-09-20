@@ -1,5 +1,7 @@
 # Chu Feng: Yi Dian Zhi Zi
 
+![chu-feng-yi-dian-zhi-zi](https://cdn.myanimelist.net/images/anime/1140/110288.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 雏蜂 伊甸之子

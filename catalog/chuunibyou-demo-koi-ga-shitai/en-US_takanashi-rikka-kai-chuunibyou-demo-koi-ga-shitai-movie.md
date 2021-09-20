@@ -1,5 +1,7 @@
 # Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie
 
+![takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie](https://cdn.myanimelist.net/images/anime/2/56167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小鳥遊六花・改 ～劇場版 中二病でも恋がしたい！～

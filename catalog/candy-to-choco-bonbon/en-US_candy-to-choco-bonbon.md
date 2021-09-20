@@ -1,5 +1,7 @@
 # Candy to Choco Bonbon
 
+![candy-to-choco-bonbon](https://cdn.myanimelist.net/images/manga/1/138199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キャンディとチョコボンボン 大矢ちき傑作集

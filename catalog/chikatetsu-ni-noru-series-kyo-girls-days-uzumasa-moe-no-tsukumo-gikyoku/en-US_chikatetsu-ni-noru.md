@@ -1,5 +1,7 @@
 # Chikatetsu ni Noru
 
+![chikatetsu-ni-noru](https://cdn.myanimelist.net/images/anime/3/89263.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 地下鉄に乗るっ

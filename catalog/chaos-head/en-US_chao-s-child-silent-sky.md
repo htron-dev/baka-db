@@ -1,5 +1,7 @@
 # ChäoS;Child: Silent Sky
 
+![chao-s-child-silent-sky](https://cdn.myanimelist.net/images/anime/9/88031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: CHAOS;CHILD SILENT SKY

@@ -1,5 +1,7 @@
 # Cinderella Concierge
 
+![cinderella-concierge](https://cdn.myanimelist.net/images/manga/3/222336.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

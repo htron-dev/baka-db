@@ -1,5 +1,7 @@
 # Choujuu Kishin Dancougar
 
+![choujuu-kishin-dancougar](https://cdn.myanimelist.net/images/anime/5/30451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 超獣機神ダンクーガ

@@ -1,5 +1,7 @@
 # Clamp Gakuen Tanteidan
 
+![clamp-gakuen-tanteidan](https://cdn.myanimelist.net/images/manga/5/16800.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

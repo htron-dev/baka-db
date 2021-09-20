@@ -1,5 +1,7 @@
 # Chupaca-Love
 
+![chupaca-love](https://cdn.myanimelist.net/images/manga/3/180284.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e
 
+![code-geass-boukoku-no-akito-5-itoshiki-mono-tachi-e](https://cdn.myanimelist.net/images/anime/2/77640.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 最終章 「愛シキモノタチへ」

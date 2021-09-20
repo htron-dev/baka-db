@@ -1,5 +1,7 @@
 # Cosplay Complex: Extra Identification
 
+![cosplay-complex-extra-identification](https://cdn.myanimelist.net/images/anime/11/59969.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: こすぷれ COMPLEX

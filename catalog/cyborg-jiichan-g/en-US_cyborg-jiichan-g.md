@@ -1,5 +1,7 @@
 # Cyborg Jiichan G
 
+![cyborg-jiichan-g](https://cdn.myanimelist.net/images/manga/2/168497.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

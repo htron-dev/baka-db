@@ -1,5 +1,7 @@
 # Crow
 
+![crow](https://cdn.myanimelist.net/images/manga/3/152279.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

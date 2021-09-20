@@ -1,5 +1,7 @@
 # Confession
 
+![confession](https://cdn.myanimelist.net/images/manga/3/13085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

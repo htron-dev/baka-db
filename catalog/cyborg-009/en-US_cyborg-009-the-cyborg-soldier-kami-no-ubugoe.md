@@ -1,5 +1,7 @@
 # Cyborg 009: The Cyborg Soldier - Kami no Ubugoe
 
+![cyborg-009-the-cyborg-soldier-kami-no-ubugoe](https://cdn.myanimelist.net/images/anime/1975/102596.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サイボーグ 009 THE CYBORG SOLDIER 宇宙(かみ)の産声

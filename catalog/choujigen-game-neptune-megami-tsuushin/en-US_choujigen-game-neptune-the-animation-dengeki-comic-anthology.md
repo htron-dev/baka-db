@@ -1,5 +1,7 @@
 # Choujigen Game Neptune: The Animation - Dengeki Comic Anthology
 
+![choujigen-game-neptune-the-animation-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/2/120053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

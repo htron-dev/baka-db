@@ -1,5 +1,7 @@
 # Couverture
 
+![couverture](https://cdn.myanimelist.net/images/manga/1/42003.jpg)
+
 -   **type**: manga
 -   **original-name**: クーベルチュール
 

@@ -1,5 +1,7 @@
 # Chein Kuro-Nikuru!!
 
+![chein-kuro-nikuru](https://cdn.myanimelist.net/images/anime/11/83833.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: ちぇいん黒にくる!!

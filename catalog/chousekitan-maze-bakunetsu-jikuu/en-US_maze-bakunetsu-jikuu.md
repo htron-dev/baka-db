@@ -1,5 +1,7 @@
 # Maze☆Bakunetsu Jikuu
 
+![maze☆-bakunetsu-jikuu](https://cdn.myanimelist.net/images/anime/4/6944.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: MAZE☆ 爆熱時空

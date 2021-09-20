@@ -1,5 +1,7 @@
 # Choujin Locke
 
+![choujin-locke](https://cdn.myanimelist.net/images/manga/1/197689.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **original-name**: 超人ロック

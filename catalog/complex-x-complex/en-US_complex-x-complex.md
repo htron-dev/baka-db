@@ -1,5 +1,7 @@
 # Complex x Complex
 
+![complex-x-complex](https://cdn.myanimelist.net/images/anime/1518/90150.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こんぷれっくす × コンプレックス

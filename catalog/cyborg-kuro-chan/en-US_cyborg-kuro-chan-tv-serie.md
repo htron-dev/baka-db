@@ -1,5 +1,7 @@
 # Cyborg Kuro-chan
 
+![cyborg-kuro-chan](https://cdn.myanimelist.net/images/anime/11/17464.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 66
 -   **original-name**: サイボーグクロちゃん

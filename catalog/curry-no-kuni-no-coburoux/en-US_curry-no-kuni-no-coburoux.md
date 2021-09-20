@@ -1,5 +1,7 @@
 # Curry no Kuni no Coburoux
 
+![curry-no-kuni-no-coburoux](https://cdn.myanimelist.net/images/anime/8/86483.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: カレーの国のコバ～ル

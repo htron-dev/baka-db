@@ -1,5 +1,7 @@
 # Candy Candy: Haru no Yobigoe
 
+![candy-candy-haru-no-yobigoe](https://cdn.myanimelist.net/images/anime/1967/94757.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャンディ・キャンディ 春の呼び声

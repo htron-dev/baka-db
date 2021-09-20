@@ -1,5 +1,7 @@
 # Cinderella Ibun: Ai no Gagaku wa Kiesaranai
 
+![cinderella-ibun-ai-no-gagaku-wa-kiesaranai](https://cdn.myanimelist.net/images/manga/3/191638.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

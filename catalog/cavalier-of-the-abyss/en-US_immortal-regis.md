@@ -1,5 +1,7 @@
 # Immortal Regis
 
+![immortal-regis](https://cdn.myanimelist.net/images/manga/2/18072.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 44

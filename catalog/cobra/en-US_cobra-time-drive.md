@@ -1,5 +1,7 @@
 # Cobra: Time Drive
 
+![cobra-time-drive](https://cdn.myanimelist.net/images/manga/2/204417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

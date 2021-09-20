@@ -1,5 +1,7 @@
 # Chi to Bara no Akuma
 
+![chi-to-bara-no-akuma](https://cdn.myanimelist.net/images/manga/2/22437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 血とばらの悪魔

@@ -1,5 +1,7 @@
 # Counter Attack!
 
+![counter-attack](https://cdn.myanimelist.net/images/manga/2/150109.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

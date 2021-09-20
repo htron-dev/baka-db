@@ -1,5 +1,7 @@
 # Chotto dake Kaette Kita Bakuretsu Hunters
 
+![chotto-dake-kaette-kita-bakuretsu-hunters](https://cdn.myanimelist.net/images/manga/3/96425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ちょっとだけ帰ってきた爆れつハンター

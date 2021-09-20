@@ -1,5 +1,7 @@
 # Chronicle Legion
 
+![chronicle-legion](https://cdn.myanimelist.net/images/manga/3/205377.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 49

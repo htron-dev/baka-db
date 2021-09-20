@@ -1,5 +1,7 @@
 # Candy☆Boy: Side Story For Archive
 
+![candy☆-boy-side-story-for-archive](https://cdn.myanimelist.net/images/anime/3/35473.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Candy☆Boy: Side Story For Archive

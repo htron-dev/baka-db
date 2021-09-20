@@ -1,5 +1,7 @@
 # Cerulean no Sora no Kanata ni: Kuro Hakushaku ni Aisarete
 
+![cerulean-no-sora-no-kanata-ni-kuro-hakushaku-ni-aisarete](https://cdn.myanimelist.net/images/manga/1/182453.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

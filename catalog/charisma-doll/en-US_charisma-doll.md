@@ -1,5 +1,7 @@
 # Charisma Doll
 
+![charisma-doll](https://cdn.myanimelist.net/images/manga/2/10333.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

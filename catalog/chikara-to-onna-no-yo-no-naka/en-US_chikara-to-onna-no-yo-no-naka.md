@@ -1,5 +1,7 @@
 # Chikara to Onna no Yo no Naka
 
+![chikara-to-onna-no-yo-no-naka](https://cdn.myanimelist.net/images/anime/5/17602.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 力と女の世の中

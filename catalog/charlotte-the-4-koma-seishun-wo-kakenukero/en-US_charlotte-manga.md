@@ -1,5 +1,7 @@
 # Charlotte
 
+![charlotte](https://cdn.myanimelist.net/images/manga/1/188823.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 45

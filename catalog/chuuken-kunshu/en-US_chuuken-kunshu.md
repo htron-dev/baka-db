@@ -1,5 +1,7 @@
 # Chuuken Kunshu
 
+![chuuken-kunshu](https://cdn.myanimelist.net/images/manga/3/22216.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

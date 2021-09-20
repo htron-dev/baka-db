@@ -1,5 +1,7 @@
 # Chichikogusa
 
+![chichikogusa](https://cdn.myanimelist.net/images/manga/3/96283.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

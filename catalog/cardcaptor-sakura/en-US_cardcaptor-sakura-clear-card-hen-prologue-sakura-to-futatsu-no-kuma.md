@@ -1,5 +1,7 @@
 # Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma
 
+![cardcaptor-sakura-clear-card-hen-prologue-sakura-to-futatsu-no-kuma](https://cdn.myanimelist.net/images/anime/10/89305.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カードキャプターさくら クリアカード編 プロローグ さくらとふたつのくま

@@ -1,5 +1,7 @@
 # Celeb Na Dorei
 
+![celeb-na-dorei](https://cdn.myanimelist.net/images/manga/1/20654.jpg)
+
 -   **type**: manga
 -   **original-name**: セレブな奴隷
 

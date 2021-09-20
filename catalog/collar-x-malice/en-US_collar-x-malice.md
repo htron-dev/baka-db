@@ -1,5 +1,7 @@
 # Collar x Malice
 
+![collar-x-malice](https://cdn.myanimelist.net/images/anime/1072/103260.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: カラー × マリス
 -   **rating**: None

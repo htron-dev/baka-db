@@ -1,5 +1,7 @@
 # Casual H
 
+![casual-h](https://cdn.myanimelist.net/images/manga/2/157804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

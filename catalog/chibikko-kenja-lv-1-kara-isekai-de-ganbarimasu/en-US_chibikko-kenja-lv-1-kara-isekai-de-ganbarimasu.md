@@ -1,5 +1,7 @@
 # Chibikko Kenja, Lv.1 kara Isekai de Ganbarimasu!
 
+![chibikko-kenja-lv-1-kara-isekai-de-ganbarimasu](https://cdn.myanimelist.net/images/manga/1/221516.jpg)
+
 -   **type**: manga
 -   **original-name**: ちびっこ賢者、Lv.1 から異世界でがんばります!
 -   **start-date**: 2018-12-28

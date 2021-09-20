@@ -1,5 +1,7 @@
 # Cube Arts
 
+![cube-arts](https://cdn.myanimelist.net/images/manga/1/226232.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Chibi Neko Tomu no Daibouken: Chikyuu wo Sukue! Nakama-tachi
 
+![chibi-neko-tomu-no-daibouken-chikyuu-wo-sukue-nakama-tachi](https://cdn.myanimelist.net/images/anime/6/47113.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちびねこトムの大冒険 地球を救え！なかまたち

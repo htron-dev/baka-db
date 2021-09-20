@@ -1,5 +1,7 @@
 # Canimals
 
+![canimals](https://cdn.myanimelist.net/images/anime/1533/114467.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 캐니멀

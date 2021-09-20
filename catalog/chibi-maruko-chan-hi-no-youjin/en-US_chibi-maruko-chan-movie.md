@@ -1,5 +1,7 @@
 # Chibi Maruko-chan Movie
 
+![chibi-maruko-chan-movie](https://cdn.myanimelist.net/images/anime/3/54919.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちびまる子ちゃん (1990)

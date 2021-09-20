@@ -1,5 +1,7 @@
 # Chrno Crusade
 
+![chrno-crusade](https://cdn.myanimelist.net/images/manga/2/178875.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 59

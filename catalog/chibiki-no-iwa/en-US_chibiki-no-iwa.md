@@ -1,5 +1,7 @@
 # Chibiki no Iwa
 
+![chibiki-no-iwa](https://cdn.myanimelist.net/images/manga/1/166325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 血引きの岩

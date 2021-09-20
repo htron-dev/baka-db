@@ -1,5 +1,7 @@
 # Coffee Moon
 
+![coffee-moon](https://cdn.myanimelist.net/images/manga/2/234249.jpg)
+
 -   **type**: manga
 -   **original-name**: コーヒームーン
 -   **start-date**: 2020-01-27

@@ -1,5 +1,7 @@
 # Color Noise
 
+![color-noise](https://cdn.myanimelist.net/images/anime/12/80057.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **start-date**: 2010-06-04

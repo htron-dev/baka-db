@@ -1,5 +1,7 @@
 # Cat Tail Output!
 
+![cat-tail-output](https://cdn.myanimelist.net/images/manga/3/163399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 38

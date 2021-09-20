@@ -1,5 +1,7 @@
 # Transformers Galaxy Force
 
+![transformers-galaxy-force](https://cdn.myanimelist.net/images/anime/6/87406.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: トランスフォーマー ギャラクシーフォース

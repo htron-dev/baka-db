@@ -1,5 +1,7 @@
 # Can't Win With You!
 
+![cant-win-with-you](https://cdn.myanimelist.net/images/manga/4/21392.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

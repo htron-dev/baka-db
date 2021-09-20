@@ -1,5 +1,7 @@
 # Love♥Love?
 
+![love♥-love](https://cdn.myanimelist.net/images/anime/10/75454.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: LOVE♥LOVE?

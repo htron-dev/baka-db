@@ -1,5 +1,7 @@
 # cos-chu♥
 
+![cos-chu♥](https://cdn.myanimelist.net/images/manga/3/136611.jpg)
+
 -   **type**: manga
 -   **original-name**: cos-chu♥
 -   **start-date**: 2012-04-26

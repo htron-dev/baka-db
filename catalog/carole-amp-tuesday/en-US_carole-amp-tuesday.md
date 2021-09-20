@@ -1,5 +1,7 @@
 # Carole &amp; Tuesday
 
+![carole-amp-tuesday](https://cdn.myanimelist.net/images/anime/1611/96157.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: キャロル&チューズデイ

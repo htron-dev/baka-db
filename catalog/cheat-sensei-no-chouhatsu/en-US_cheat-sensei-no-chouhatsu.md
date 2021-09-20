@@ -1,5 +1,7 @@
 # Cheat Sensei no Chouhatsu
 
+![cheat-sensei-no-chouhatsu](https://cdn.myanimelist.net/images/manga/1/160006.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: チート先生の挑発

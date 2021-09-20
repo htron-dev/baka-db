@@ -1,5 +1,7 @@
 # Cross City
 
+![cross-city](https://cdn.myanimelist.net/images/manga/1/123993.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 交錯都市(クロスシティ)

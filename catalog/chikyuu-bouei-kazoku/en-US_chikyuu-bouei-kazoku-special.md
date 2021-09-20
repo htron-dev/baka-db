@@ -1,5 +1,7 @@
 # Chikyuu Bouei Kazoku Special
 
+![chikyuu-bouei-kazoku-special](https://cdn.myanimelist.net/images/anime/11/25229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 地球防衛家族 絶叫!愛の迷宮地獄

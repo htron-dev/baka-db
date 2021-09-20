@@ -1,5 +1,7 @@
 # Choujigen Kakumei Anime: Dimension High School
 
+![choujigen-kakumei-anime-dimension-high-school](https://cdn.myanimelist.net/images/anime/1620/113392.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 超次元革命アニメ Dimension ハイスクール

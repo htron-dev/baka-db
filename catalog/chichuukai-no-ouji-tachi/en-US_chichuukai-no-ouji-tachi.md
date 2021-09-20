@@ -1,5 +1,7 @@
 # Chichuukai no Ouji-tachi
 
+![chichuukai-no-ouji-tachi](https://cdn.myanimelist.net/images/manga/3/230166.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 地中海の王子たち

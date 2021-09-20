@@ -1,5 +1,7 @@
 # Copy Cat
 
+![copy-cat](https://cdn.myanimelist.net/images/manga/1/2685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

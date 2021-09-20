@@ -1,5 +1,7 @@
 # Chihayafuru 3: Ima Hitotabi no
 
+![chihayafuru-3-ima-hitotabi-no](https://cdn.myanimelist.net/images/anime/1014/105666.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちはやふる 3 十五.五首（総集編）

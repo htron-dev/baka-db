@@ -1,5 +1,7 @@
 # Corseltel no Ryuujitsushi
 
+![corseltel-no-ryuujitsushi](https://cdn.myanimelist.net/images/manga/1/21420.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Chijou wa Pocket no Naka no Niwa
 
+![chijou-wa-pocket-no-naka-no-niwa](https://cdn.myanimelist.net/images/manga/2/42950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

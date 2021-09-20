@@ -1,5 +1,7 @@
 # Countach
 
+![countach](https://cdn.myanimelist.net/images/manga/1/170495.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 289

@@ -1,5 +1,7 @@
 # Concrete Revolutio: Choujin Gensou
 
+![concrete-revolutio-choujin-gensou](https://cdn.myanimelist.net/images/manga/2/166270.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen
 
+![crayon-shin-chan-movie-10-arashi-wo-yobu-appare-sengoku-daikassen](https://cdn.myanimelist.net/images/anime/11/22026.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん 嵐を呼ぶ アッパレ! 戦国大合戦

@@ -1,5 +1,7 @@
 # Cyborg 009
 
+![cyborg-009](https://cdn.myanimelist.net/images/anime/3/76035.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サイボーグ 009

@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri
 
+![crayon-shin-chan-movie-25-shin-chan-shuurai-uchuujin-shiriri](https://cdn.myanimelist.net/images/anime/3/84509.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん　襲来!! 宇宙人シリリ

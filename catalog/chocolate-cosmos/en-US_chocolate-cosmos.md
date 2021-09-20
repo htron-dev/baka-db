@@ -1,5 +1,7 @@
 # Chocolate Cosmos
 
+![chocolate-cosmos](https://cdn.myanimelist.net/images/manga/2/180605.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

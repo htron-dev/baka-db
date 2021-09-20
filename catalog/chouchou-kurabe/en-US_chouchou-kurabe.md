@@ -1,5 +1,7 @@
 # Chouchou Kurabe
 
+![chouchou-kurabe](https://cdn.myanimelist.net/images/manga/2/10012.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Custom Maid!
 
+![custom-maid](https://cdn.myanimelist.net/images/manga/3/169569.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: カスタムメイド！

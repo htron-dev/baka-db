@@ -1,5 +1,7 @@
 # Cubistar
 
+![cubistar](https://cdn.myanimelist.net/images/anime/1595/115563.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 큐비스타

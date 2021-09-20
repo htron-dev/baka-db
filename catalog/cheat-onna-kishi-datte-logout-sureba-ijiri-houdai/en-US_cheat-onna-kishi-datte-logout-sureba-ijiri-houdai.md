@@ -1,5 +1,7 @@
 # Cheat Onna Kishi datte Logout Sureba Ijiri Houdai
 
+![cheat-onna-kishi-datte-logout-sureba-ijiri-houdai](https://cdn.myanimelist.net/images/manga/2/158706.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Choujuu Densetsu Gestalt
 
+![choujuu-densetsu-gestalt](https://cdn.myanimelist.net/images/manga/2/160948.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 51

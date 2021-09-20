@@ -1,5 +1,7 @@
 # Chi no Soko no Mahoutsukai
 
+![chi-no-soko-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/227709.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

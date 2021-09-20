@@ -1,5 +1,7 @@
 # Cannon Busters
 
+![cannon-busters](https://cdn.myanimelist.net/images/anime/1452/102628.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: Cannon Busters

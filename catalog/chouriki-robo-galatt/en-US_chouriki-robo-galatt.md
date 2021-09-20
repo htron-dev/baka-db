@@ -1,5 +1,7 @@
 # Chouriki Robo Galatt
 
+![chouriki-robo-galatt](https://cdn.myanimelist.net/images/anime/13/62965.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 超力ロボ ガラット

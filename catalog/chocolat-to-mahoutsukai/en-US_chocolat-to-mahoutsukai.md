@@ -1,5 +1,7 @@
 # Chocolat to Mahoutsukai
 
+![chocolat-to-mahoutsukai](https://cdn.myanimelist.net/images/manga/3/235274.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

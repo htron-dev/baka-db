@@ -1,5 +1,7 @@
 # Charlotte
 
+![charlotte](https://cdn.myanimelist.net/images/anime/12/74683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Charlotte（シャーロット）

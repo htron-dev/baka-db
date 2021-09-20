@@ -1,5 +1,7 @@
 # Catman
 
+![catman](https://cdn.myanimelist.net/images/anime/10/67125.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: キャットマン

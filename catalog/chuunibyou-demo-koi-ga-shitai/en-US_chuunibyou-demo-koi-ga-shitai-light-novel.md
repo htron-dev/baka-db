@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai!
 
+![chuunibyou-demo-koi-ga-shitai](https://cdn.myanimelist.net/images/manga/1/72265.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 中二病でも恋がしたい！

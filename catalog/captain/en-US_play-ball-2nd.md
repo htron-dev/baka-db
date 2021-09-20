@@ -1,5 +1,7 @@
 # Play Ball 2nd
 
+![play-ball-2nd](https://cdn.myanimelist.net/images/anime/8/6696.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: プレイボール 2nd

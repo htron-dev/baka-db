@@ -1,5 +1,7 @@
 # Customer Masquerade!
 
+![customer-masquerade](https://cdn.myanimelist.net/images/manga/3/219783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

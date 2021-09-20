@@ -1,5 +1,7 @@
 # Chi-Sui Maru
 
+![chi-sui-maru](https://cdn.myanimelist.net/images/anime/3/87751.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 41
 -   **original-name**: ちーすい丸

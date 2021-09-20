@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Recaps
 
+![code-geass-hangyaku-no-lelouch-recaps](https://cdn.myanimelist.net/images/anime/7/22569.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: コードギアス 反逆のルルーシュ

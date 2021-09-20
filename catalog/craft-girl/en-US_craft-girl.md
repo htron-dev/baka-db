@@ -1,5 +1,7 @@
 # Craft Girl
 
+![craft-girl](https://cdn.myanimelist.net/images/manga/3/149059.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: クラフトガール

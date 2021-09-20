@@ -1,5 +1,7 @@
 # Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen
 
+![clannad-after-story-mou-hitotsu-no-sekai-kyou-hen](https://cdn.myanimelist.net/images/anime/10/19621.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クラナド　アフターストーリー　もうひとつの世界　杏編

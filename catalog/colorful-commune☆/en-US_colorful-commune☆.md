@@ -1,5 +1,7 @@
 # Colorful Commune☆
 
+![colorful-commune☆](https://cdn.myanimelist.net/images/manga/1/180343.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Code Name wa Baby Face
 
+![code-name-wa-baby-face](https://cdn.myanimelist.net/images/manga/2/228794.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

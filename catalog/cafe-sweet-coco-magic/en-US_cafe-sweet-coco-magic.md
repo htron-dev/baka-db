@@ -1,5 +1,7 @@
 # Cafe Sweet Coco Magic
 
+![cafe-sweet-coco-magic](https://cdn.myanimelist.net/images/manga/2/80065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カフェスイートココマジック

@@ -1,5 +1,7 @@
 # Chironup no Kitsune
 
+![chironup-no-kitsune](https://cdn.myanimelist.net/images/anime/4/47185.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チロヌップのきつね

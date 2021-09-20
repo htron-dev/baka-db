@@ -1,5 +1,7 @@
 # Crown Flint
 
+![crown-flint](https://cdn.myanimelist.net/images/manga/3/175934.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 23

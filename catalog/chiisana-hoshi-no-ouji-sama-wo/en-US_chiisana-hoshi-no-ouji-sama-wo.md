@@ -1,5 +1,7 @@
 # Chiisana Hoshi no Ouji-sama wo
 
+![chiisana-hoshi-no-ouji-sama-wo](https://cdn.myanimelist.net/images/manga/1/60075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

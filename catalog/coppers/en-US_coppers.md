@@ -1,5 +1,7 @@
 # Coppers
 
+![coppers](https://cdn.myanimelist.net/images/manga/1/179788.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

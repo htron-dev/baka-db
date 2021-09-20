@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard Gaiden: Hikari no Kenshi
 
+![cardfight-vanguard-gaiden-hikari-no-kenshi](https://cdn.myanimelist.net/images/manga/1/151358.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: カードファイト!! ヴァンガード外伝 光の剣士

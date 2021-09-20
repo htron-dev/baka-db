@@ -1,5 +1,7 @@
 # Tobira wo Akeru Kaze
 
+![tobira-wo-akeru-kaze](https://cdn.myanimelist.net/images/manga/3/38084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 扉をあける風

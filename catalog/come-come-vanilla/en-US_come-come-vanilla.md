@@ -1,5 +1,7 @@
 # Come Come Vanilla!
 
+![come-come-vanilla](https://cdn.myanimelist.net/images/manga/1/57987.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

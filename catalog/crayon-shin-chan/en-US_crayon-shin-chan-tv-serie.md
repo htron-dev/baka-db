@@ -1,5 +1,7 @@
 # Crayon Shin-chan
 
+![crayon-shin-chan](https://cdn.myanimelist.net/images/anime/10/59897.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: クレヨンしんちゃん
 -   **start-date**: 1992-04-13

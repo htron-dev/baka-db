@@ -1,5 +1,7 @@
 # Kamen Rider Fourze x Crayon Shin-chan
 
+![kamen-rider-fourze-x-crayon-shin-chan](https://cdn.myanimelist.net/images/anime/11/38885.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 仮面ライダーフォーゼ × クレオンしんちゃん

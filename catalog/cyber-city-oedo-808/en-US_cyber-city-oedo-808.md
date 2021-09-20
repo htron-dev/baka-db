@@ -1,5 +1,7 @@
 # Cyber City Oedo 808
 
+![cyber-city-oedo-808](https://cdn.myanimelist.net/images/anime/8/58763.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: CYBER CITY OEDO 808 (サイバーシティ オーエド ハチマルハチ)

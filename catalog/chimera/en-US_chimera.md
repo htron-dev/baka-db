@@ -1,5 +1,7 @@
 # Chimera
 
+![chimera](https://cdn.myanimelist.net/images/anime/1641/90996.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キマイラ

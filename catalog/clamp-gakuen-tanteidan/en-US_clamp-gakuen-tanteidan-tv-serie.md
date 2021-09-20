@@ -1,5 +1,7 @@
 # Clamp Gakuen Tanteidan
 
+![clamp-gakuen-tanteidan](https://cdn.myanimelist.net/images/anime/1709/111109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: CLAMP 学園探偵団

@@ -1,5 +1,7 @@
 # Celestial Clothes
 
+![celestial-clothes](https://cdn.myanimelist.net/images/manga/1/188822.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

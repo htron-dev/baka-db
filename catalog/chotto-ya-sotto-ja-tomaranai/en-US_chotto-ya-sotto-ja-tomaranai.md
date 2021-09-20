@@ -1,5 +1,7 @@
 # Chotto ya Sotto ja Tomaranai
 
+![chotto-ya-sotto-ja-tomaranai](https://cdn.myanimelist.net/images/manga/2/15024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

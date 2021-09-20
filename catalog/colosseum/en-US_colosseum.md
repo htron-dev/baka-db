@@ -1,5 +1,7 @@
 # Colosseum
 
+![colosseum](https://cdn.myanimelist.net/images/manga/2/176220.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: コロシアム

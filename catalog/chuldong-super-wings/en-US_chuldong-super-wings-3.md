@@ -1,5 +1,7 @@
 # Chuldong! Super Wings 3
 
+![chuldong-super-wings-3](https://cdn.myanimelist.net/images/anime/1328/101000.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 출동! 슈퍼윙스3

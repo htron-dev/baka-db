@@ -1,5 +1,7 @@
 # Clamp no Kiseki
 
+![clamp-no-kiseki](https://cdn.myanimelist.net/images/manga/2/11761.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 12

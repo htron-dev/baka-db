@@ -1,5 +1,7 @@
 # Chichi Chichi
 
+![chichi-chichi](https://cdn.myanimelist.net/images/manga/3/159848.jpg)
+
 -   **type**: manga
 -   **original-name**: チチチチ
 -   **start-date**: 2013-10-15

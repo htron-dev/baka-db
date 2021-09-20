@@ -1,5 +1,7 @@
 # Onigiri ni Naritai Cogimyun
 
+![onigiri-ni-naritai-cogimyun](https://cdn.myanimelist.net/images/anime/1755/105960.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: おにぎりになりたい こぎみゅん
 -   **start-date**: 2020-01-31

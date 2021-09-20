@@ -1,5 +1,7 @@
 # Channel Wonder
 
+![channel-wonder](https://cdn.myanimelist.net/images/manga/2/91753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

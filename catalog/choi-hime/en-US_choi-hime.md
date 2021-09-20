@@ -1,5 +1,7 @@
 # Choi Hime
 
+![choi-hime](https://cdn.myanimelist.net/images/manga/2/181807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

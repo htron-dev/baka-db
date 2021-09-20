@@ -1,5 +1,7 @@
 # Cike Wu Liuqi
 
+![cike-wu-liuqi](https://cdn.myanimelist.net/images/anime/1620/94968.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 刺客伍六七

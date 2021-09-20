@@ -1,5 +1,7 @@
 # Cossette no Shouzou
 
+![cossette-no-shouzou](https://cdn.myanimelist.net/images/anime/11/77004.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: コゼットの肖像

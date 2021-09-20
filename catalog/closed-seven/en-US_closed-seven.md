@@ -1,5 +1,7 @@
 # Closed Seven
 
+![closed-seven](https://cdn.myanimelist.net/images/manga/2/175868.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: クローズドセブン

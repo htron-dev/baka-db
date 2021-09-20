@@ -1,5 +1,7 @@
 # Chiyoko Chocolate
 
+![chiyoko-chocolate](https://cdn.myanimelist.net/images/manga/1/174814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

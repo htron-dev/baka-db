@@ -1,5 +1,7 @@
 # Candy Magic
 
+![candy-magic](https://cdn.myanimelist.net/images/manga/3/23291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キャンディ・マジック

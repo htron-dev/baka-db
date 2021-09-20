@@ -1,5 +1,7 @@
 # Cutey Honey Flash: The Movie
 
+![cutey-honey-flash-the-movie](https://cdn.myanimelist.net/images/anime/7/22167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キューティーハニーＦ（ﾌﾗｯｼｭ）

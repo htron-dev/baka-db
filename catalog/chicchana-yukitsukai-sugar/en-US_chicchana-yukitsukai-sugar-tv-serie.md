@@ -1,5 +1,7 @@
 # Chicchana Yukitsukai Sugar
 
+![chicchana-yukitsukai-sugar](https://cdn.myanimelist.net/images/anime/11/17101.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ちっちゃな雪使いシュガー

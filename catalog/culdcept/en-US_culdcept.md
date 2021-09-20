@@ -1,5 +1,7 @@
 # Culdcept
 
+![culdcept](https://cdn.myanimelist.net/images/manga/3/180998.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 64

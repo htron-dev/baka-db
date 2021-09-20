@@ -1,5 +1,7 @@
 # Cao Jingling
 
+![cao-jingling](https://cdn.myanimelist.net/images/anime/1323/115574.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 草精灵

@@ -1,5 +1,7 @@
 # Caterpillar Operetta
 
+![caterpillar-operetta](https://cdn.myanimelist.net/images/manga/1/146601.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

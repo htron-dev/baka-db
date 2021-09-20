@@ -1,5 +1,7 @@
 # Classroom☆Crisis: Another Crisis
 
+![classroom☆-crisis-another-crisis](https://cdn.myanimelist.net/images/manga/1/159757.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

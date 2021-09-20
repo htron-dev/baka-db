@@ -1,5 +1,7 @@
 # Chimamire Sukeban Chainsaw: Reflesh
 
+![chimamire-sukeban-chainsaw-reflesh](https://cdn.myanimelist.net/images/manga/2/220739.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

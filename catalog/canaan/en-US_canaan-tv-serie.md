@@ -1,5 +1,7 @@
 # Canaan
 
+![canaan](https://cdn.myanimelist.net/images/anime/4/75789.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: CANAAN

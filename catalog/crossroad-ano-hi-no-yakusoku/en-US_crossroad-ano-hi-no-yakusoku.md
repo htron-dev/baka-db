@@ -1,5 +1,7 @@
 # Crossroad: Ano Hi no Yakusoku
 
+![crossroad-ano-hi-no-yakusoku](https://cdn.myanimelist.net/images/manga/3/153456.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: クロスロード～あの日の約束

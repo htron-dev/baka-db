@@ -1,5 +1,7 @@
 # Konohana Kitan
 
+![konohana-kitan](https://cdn.myanimelist.net/images/anime/3/88431.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: このはな綺譚

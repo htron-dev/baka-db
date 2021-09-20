@@ -1,5 +1,7 @@
 # Shin Calimero
 
+![shin-calimero](https://cdn.myanimelist.net/images/anime/12/61017.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 新 カリメロ

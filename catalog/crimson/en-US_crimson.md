@@ -1,5 +1,7 @@
 # Crimson
 
+![crimson](https://cdn.myanimelist.net/images/manga/3/2845.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

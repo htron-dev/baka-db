@@ -1,5 +1,7 @@
 # Cutlass - The Times of Boys
 
+![cutlass-the-times-of-boys](https://cdn.myanimelist.net/images/manga/1/18589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

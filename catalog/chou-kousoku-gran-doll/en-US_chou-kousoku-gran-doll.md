@@ -1,5 +1,7 @@
 # Chou Kousoku Gran Doll
 
+![chou-kousoku-gran-doll](https://cdn.myanimelist.net/images/anime/6/51849.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 超光速グランドール

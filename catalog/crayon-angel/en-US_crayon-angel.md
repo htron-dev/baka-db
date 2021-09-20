@@ -1,5 +1,7 @@
 # Crayon Angel
 
+![crayon-angel](https://cdn.myanimelist.net/images/anime/3/71888.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: CRAYON ANGEL

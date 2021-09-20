@@ -1,5 +1,7 @@
 # Chouseiki Alpha
 
+![chouseiki-alpha](https://cdn.myanimelist.net/images/manga/3/212351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 超世紀アルファ

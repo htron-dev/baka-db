@@ -1,5 +1,7 @@
 # Choujin Sensen
 
+![choujin-sensen](https://cdn.myanimelist.net/images/manga/3/165504.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

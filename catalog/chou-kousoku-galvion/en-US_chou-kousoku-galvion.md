@@ -1,5 +1,7 @@
 # Chou Kousoku Galvion
 
+![chou-kousoku-galvion](https://cdn.myanimelist.net/images/anime/2/56453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 超攻速ガルビオン

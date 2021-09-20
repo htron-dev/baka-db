@@ -1,5 +1,7 @@
 # Cherry to Skirt
 
+![cherry-to-skirt](https://cdn.myanimelist.net/images/manga/1/224573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

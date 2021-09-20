@@ -1,5 +1,7 @@
 # Chaechaepong Kimchi Pong
 
+![chaechaepong-kimchi-pong](https://cdn.myanimelist.net/images/anime/1529/92094.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 채채퐁 김치퐁

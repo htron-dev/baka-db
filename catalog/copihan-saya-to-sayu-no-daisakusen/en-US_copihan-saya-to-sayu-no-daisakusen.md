@@ -1,5 +1,7 @@
 # Copihan: Saya to Sayu no Daisakusen
 
+![copihan-saya-to-sayu-no-daisakusen](https://cdn.myanimelist.net/images/manga/1/109043.jpg)
+
 -   **type**: manga
 -   **original-name**: こぴはん -沙弥と沙遊の大作戦-
 -   **start-date**: 2010-12-01

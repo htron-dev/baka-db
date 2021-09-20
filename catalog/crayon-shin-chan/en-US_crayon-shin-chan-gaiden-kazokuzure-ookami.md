@@ -1,5 +1,7 @@
 # Crayon Shin-chan Gaiden: Kazokuzure Ookami
 
+![crayon-shin-chan-gaiden-kazokuzure-ookami](https://cdn.myanimelist.net/images/anime/7/84069.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: クレヨンしんちゃん外伝 家族連れ狼

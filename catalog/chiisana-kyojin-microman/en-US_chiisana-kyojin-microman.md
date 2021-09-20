@@ -1,5 +1,7 @@
 # Chiisana Kyojin Microman
 
+![chiisana-kyojin-microman](https://cdn.myanimelist.net/images/anime/1058/110297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小さな巨人ミクロマン

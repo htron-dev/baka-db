@@ -1,5 +1,7 @@
 # Chicano Kei: Beikoku Gokuaku Keimusho wo Ikinuita Nihonjin
 
+![chicano-kei-beikoku-gokuaku-keimusho-wo-ikinuita-nihonjin](https://cdn.myanimelist.net/images/manga/3/216843.jpg)
+
 -   **type**: manga
 -   **original-name**: チカーノ KEI ～米国極悪刑務所を生き抜いた日本人～
 -   **start-date**: 2016-09-06

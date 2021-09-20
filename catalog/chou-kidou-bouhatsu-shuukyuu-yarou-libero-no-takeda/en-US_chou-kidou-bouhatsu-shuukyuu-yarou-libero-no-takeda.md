@@ -1,5 +1,7 @@
 # Chou Kidou Bouhatsu Shuukyuu Yarou: Libero no Takeda
 
+![chou-kidou-bouhatsu-shuukyuu-yarou-libero-no-takeda](https://cdn.myanimelist.net/images/manga/2/187155.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

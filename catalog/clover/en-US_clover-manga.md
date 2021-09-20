@@ -1,5 +1,7 @@
 # Clover
 
+![clover](https://cdn.myanimelist.net/images/manga/5/9622.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

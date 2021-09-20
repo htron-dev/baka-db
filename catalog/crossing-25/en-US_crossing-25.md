@@ -1,5 +1,7 @@
 # Crossing 25;
 
+![crossing-25](https://cdn.myanimelist.net/images/manga/4/109191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

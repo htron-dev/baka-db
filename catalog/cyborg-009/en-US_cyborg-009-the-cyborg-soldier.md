@@ -1,5 +1,7 @@
 # Cyborg 009: The Cyborg Soldier
 
+![cyborg-009-the-cyborg-soldier](https://cdn.myanimelist.net/images/anime/5/21620.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: サイボーグ 009 THE CYBORG SOLDIER

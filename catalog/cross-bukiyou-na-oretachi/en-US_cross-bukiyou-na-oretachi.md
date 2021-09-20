@@ -1,5 +1,7 @@
 # Cross: Bukiyou na Oretachi
 
+![cross-bukiyou-na-oretachi](https://cdn.myanimelist.net/images/manga/4/154558.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: CROSS―不器用な俺達―

@@ -1,5 +1,7 @@
 # Circle Crash!
 
+![circle-crash](https://cdn.myanimelist.net/images/manga/3/193249.jpg)
+
 -   **type**: manga
 -   **chapters**: 155
 -   **original-name**: サークルクラッシュ！

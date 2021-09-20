@@ -1,5 +1,7 @@
 # Mainichi Seiten!
 
+![mainichi-seiten](https://cdn.myanimelist.net/images/manga/2/7687.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 毎日晴天!

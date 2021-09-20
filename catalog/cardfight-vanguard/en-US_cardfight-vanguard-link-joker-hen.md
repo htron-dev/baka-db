@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: Link Joker-hen
 
+![cardfight-vanguard-link-joker-hen](https://cdn.myanimelist.net/images/anime/3/44566.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 59
 -   **original-name**: カードファイト!! ヴァンガード リンクジョーカー編

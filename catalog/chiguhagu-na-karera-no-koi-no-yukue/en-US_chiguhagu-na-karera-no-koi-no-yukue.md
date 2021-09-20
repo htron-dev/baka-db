@@ -1,5 +1,7 @@
 # Chiguhagu na Karera no Koi no Yukue
 
+![chiguhagu-na-karera-no-koi-no-yukue](https://cdn.myanimelist.net/images/manga/1/236737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

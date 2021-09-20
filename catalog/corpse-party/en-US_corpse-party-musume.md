@@ -1,5 +1,7 @@
 # Corpse Party: Musume
 
+![corpse-party-musume](https://cdn.myanimelist.net/images/manga/3/166019.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

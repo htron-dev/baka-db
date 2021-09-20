@@ -1,5 +1,7 @@
 # Cat Shit One Volume 0
 
+![cat-shit-one-volume-0](https://cdn.myanimelist.net/images/manga/1/142163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

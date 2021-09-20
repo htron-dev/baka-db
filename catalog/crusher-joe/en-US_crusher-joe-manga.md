@@ -1,5 +1,7 @@
 # Crusher Joe
 
+![crusher-joe](https://cdn.myanimelist.net/images/manga/1/73459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

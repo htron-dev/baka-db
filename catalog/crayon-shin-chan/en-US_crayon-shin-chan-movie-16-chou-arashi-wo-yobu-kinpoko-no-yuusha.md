@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 16: Chou Arashi wo Yobu Kinpoko no Yuusha
 
+![crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha](https://cdn.myanimelist.net/images/anime/12/22031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん ちょ～嵐を呼ぶ 金矛の勇者

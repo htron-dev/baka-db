@@ -1,5 +1,7 @@
 # Cutey Honey
 
+![cutey-honey](https://cdn.myanimelist.net/images/anime/13/55427.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: キューティーハニー

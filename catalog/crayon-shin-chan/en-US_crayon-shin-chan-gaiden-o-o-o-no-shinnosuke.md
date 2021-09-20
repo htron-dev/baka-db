@@ -1,5 +1,7 @@
 # Crayon Shin-chan Gaiden: O-o-o no Shinnosuke
 
+![crayon-shin-chan-gaiden-o-o-o-no-shinnosuke](https://cdn.myanimelist.net/images/anime/9/85987.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: クレヨンしんちゃん外伝　お・お・お・のしんのすけ

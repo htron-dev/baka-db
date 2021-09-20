@@ -1,5 +1,7 @@
 # Chaofan Chong Chong Dui
 
+![chaofan-chong-chong-dui](https://cdn.myanimelist.net/images/anime/1377/115234.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 超凡虫虫队

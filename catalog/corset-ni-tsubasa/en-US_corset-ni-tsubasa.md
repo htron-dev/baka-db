@@ -1,5 +1,7 @@
 # Corset ni Tsubasa
 
+![corset-ni-tsubasa](https://cdn.myanimelist.net/images/manga/2/151873.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

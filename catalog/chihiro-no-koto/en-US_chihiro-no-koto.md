@@ -1,5 +1,7 @@
 # Chihiro no Koto
 
+![chihiro-no-koto](https://cdn.myanimelist.net/images/manga/1/154693.jpg)
+
 -   **type**: manga
 -   **original-name**: チヒロのこと
 -   **start-date**: 2014-04-14

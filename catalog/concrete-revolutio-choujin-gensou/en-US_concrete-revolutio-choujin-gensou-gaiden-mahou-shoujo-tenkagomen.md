@@ -1,5 +1,7 @@
 # Concrete Revolutio: Choujin Gensou Gaiden - Mahou Shoujo Tenkagomen!
 
+![concrete-revolutio-choujin-gensou-gaiden-mahou-shoujo-tenkagomen](https://cdn.myanimelist.net/images/manga/1/186665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

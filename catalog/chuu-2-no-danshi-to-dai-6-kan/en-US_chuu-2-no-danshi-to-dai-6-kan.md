@@ -1,5 +1,7 @@
 # Chuu-2 no Danshi to Dai-6-kan
 
+![chuu-2-no-danshi-to-dai-6-kan](https://cdn.myanimelist.net/images/manga/3/223298.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 122

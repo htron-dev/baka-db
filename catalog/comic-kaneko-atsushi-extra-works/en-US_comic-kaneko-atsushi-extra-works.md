@@ -1,5 +1,7 @@
 # Comic?: Kaneko Atsushi Extra Works
 
+![comic-kaneko-atsushi-extra-works](https://cdn.myanimelist.net/images/manga/2/232937.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: Comic? カネコアツシ Extra Works

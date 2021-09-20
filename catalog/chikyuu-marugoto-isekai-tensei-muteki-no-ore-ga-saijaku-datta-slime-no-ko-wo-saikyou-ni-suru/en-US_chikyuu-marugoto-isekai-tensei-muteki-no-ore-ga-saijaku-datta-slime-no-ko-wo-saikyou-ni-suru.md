@@ -1,5 +1,7 @@
 # Chikyuu Marugoto Isekai Tensei: Muteki no Ore ga, Saijaku datta Slime no Ko wo Saikyou ni Suru
 
+![chikyuu-marugoto-isekai-tensei-muteki-no-ore-ga-saijaku-datta-slime-no-ko-wo-saikyou-ni-suru](https://cdn.myanimelist.net/images/manga/1/185295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 55

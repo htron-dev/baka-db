@@ -1,5 +1,7 @@
 # Chobits
 
+![chobits](https://cdn.myanimelist.net/images/anime/4/24648.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ちょびっツ

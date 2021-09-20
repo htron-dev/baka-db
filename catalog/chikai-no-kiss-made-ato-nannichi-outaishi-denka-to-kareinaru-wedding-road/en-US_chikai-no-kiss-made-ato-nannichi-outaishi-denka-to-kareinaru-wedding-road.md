@@ -1,5 +1,7 @@
 # Chikai no Kiss made, Ato Nannichi?: Outaishi Denka to Kareinaru Wedding Road
 
+![chikai-no-kiss-made-ato-nannichi-outaishi-denka-to-kareinaru-wedding-road](https://cdn.myanimelist.net/images/manga/2/172203.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Cha-K-Ra
 
+![cha-k-ra](https://cdn.myanimelist.net/images/manga/2/2590.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 
