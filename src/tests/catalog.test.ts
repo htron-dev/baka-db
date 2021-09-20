@@ -1,31 +1,42 @@
 import test from 'japa'
 import moment from 'moment'
-import glob from 'glob'
 import path from 'path'
-import { createMarkdown } from '@baka-db/cli'
+import { createMarkdown, createCatalog } from '@baka-db/cli'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
+
+const catalog = createCatalog(path.resolve(__dirname, '..', '..', 'catalog'))
+const markdown = createMarkdown()
 
 const args = process.argv.slice(2)
 
 let filenames: string[] = []
 
 if (args[0] === '--pattern') {
-    const patter = `catalog/${args[1]}/*.md`
-
-    filenames = glob.sync(patter)
+    filenames = catalog.findFilenames('*', args[1])
 } else {
     filenames = args
 }
 
+function isValidHttpUrl(string: string) {
+    let url
+
+    try {
+        url = new URL(string)
+    } catch (_) {
+        return false
+    }
+
+    return url.protocol === 'http:' || url.protocol === 'https:'
+}
+
 filenames
-    .filter((f) => path.dirname(path.dirname(f)) === 'catalog')
+    .filter((f) => f.includes('catalog'))
     .forEach((filename, index, array) => {
         test.group(
             `test content(${index + 1}/${array.length}): ${filename}`,
             () => {
-                const markdown = createMarkdown()
                 const item = markdown.fileToObject(filename)
 
                 test('should items have title', (assert) => {
@@ -79,11 +90,17 @@ filenames
                 })
 
                 test('should items links be valid', (assert) => {
-                    item.links.forEach((link: string) => {
+                    item.links.forEach((link: any) => {
                         assert.equal(
                             typeof link === 'object',
                             true,
                             `Invalid link "${link}"`
+                        )
+
+                        assert.equal(
+                            isValidHttpUrl(link.link),
+                            true,
+                            `Invalid link "${link.link}"`
                         )
                     })
                 })
