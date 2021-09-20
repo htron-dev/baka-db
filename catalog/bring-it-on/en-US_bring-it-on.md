@@ -1,5 +1,7 @@
 # Bring it on!
 
+![bring-it-on](https://cdn.myanimelist.net/images/manga/4/30260.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 25

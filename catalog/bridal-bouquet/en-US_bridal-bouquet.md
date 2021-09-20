@@ -1,5 +1,7 @@
 # Bridal Bouquet
 
+![bridal-bouquet](https://cdn.myanimelist.net/images/manga/3/227395.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ブライダルブーケ

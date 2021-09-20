@@ -1,5 +1,7 @@
 # Badass
 
+![badass](https://cdn.myanimelist.net/images/manga/3/230882.jpg)
+
 -   **type**: manga
 -   **original-name**: Badass
 -   **start-date**: 2018-02-28

@@ -1,5 +1,7 @@
 # Black Tiger
 
+![black-tiger](https://cdn.myanimelist.net/images/manga/3/202581.jpg)
+
 -   **type**: manga
 -   **original-name**: BLACK TIGER
 -   **start-date**: 2016-12-21

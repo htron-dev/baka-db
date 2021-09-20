@@ -1,5 +1,7 @@
 # Boku to Kanojo ni Furu Yoru
 
+![boku-to-kanojo-ni-furu-yoru](https://cdn.myanimelist.net/images/manga/1/162473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 52

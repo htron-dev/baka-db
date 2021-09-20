@@ -1,5 +1,7 @@
 # Blend Tea wa Koi no Aji
 
+![blend-tea-wa-koi-no-aji](https://cdn.myanimelist.net/images/manga/2/194133.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブレンドティーは恋の味

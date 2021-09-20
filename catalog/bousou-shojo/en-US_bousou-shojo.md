@@ -1,5 +1,7 @@
 # Bousou Shojo
 
+![bousou-shojo](https://cdn.myanimelist.net/images/manga/3/53505.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 109

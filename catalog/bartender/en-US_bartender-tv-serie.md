@@ -1,5 +1,7 @@
 # Bartender
 
+![bartender](https://cdn.myanimelist.net/images/anime/13/67397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: バーテンダー

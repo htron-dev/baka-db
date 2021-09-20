@@ -1,5 +1,7 @@
 # Barakamon
 
+![barakamon](https://cdn.myanimelist.net/images/anime/1426/111248.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ばらかもん

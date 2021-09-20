@@ -1,5 +1,7 @@
 # Mugen no Juunin: Immortal
 
+![mugen-no-juunin-immortal](https://cdn.myanimelist.net/images/anime/1054/110054.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 無限の住人-IMMORTAL-

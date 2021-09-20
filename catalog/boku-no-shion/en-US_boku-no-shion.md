@@ -1,5 +1,7 @@
 # Boku no Shion
 
+![boku-no-shion](https://cdn.myanimelist.net/images/manga/1/122353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ボクの紫苑

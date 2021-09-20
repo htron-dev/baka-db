@@ -1,5 +1,7 @@
 # Beanuts
 
+![beanuts](https://cdn.myanimelist.net/images/anime/13/70571.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ビーナッツ

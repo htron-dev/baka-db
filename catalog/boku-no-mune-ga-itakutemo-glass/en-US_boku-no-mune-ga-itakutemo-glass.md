@@ -1,5 +1,7 @@
 # Boku no Mune ga Itakutemo - Glass
 
+![boku-no-mune-ga-itakutemo-glass](https://cdn.myanimelist.net/images/manga/3/79507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぼくの胸が痛くても GLASS

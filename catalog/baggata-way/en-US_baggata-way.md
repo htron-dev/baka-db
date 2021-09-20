@@ -1,5 +1,7 @@
 # BaggataWay
 
+![baggata-way](https://cdn.myanimelist.net/images/manga/2/163943.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Bokura no Funka Matsuri
 
+![bokura-no-funka-matsuri](https://cdn.myanimelist.net/images/manga/3/157708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

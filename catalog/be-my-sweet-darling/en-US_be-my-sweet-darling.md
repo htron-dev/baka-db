@@ -1,5 +1,7 @@
 # Be My Sweet Darling
 
+![be-my-sweet-darling](https://cdn.myanimelist.net/images/manga/2/185619.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 18

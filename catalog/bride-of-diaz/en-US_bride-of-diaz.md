@@ -1,5 +1,7 @@
 # Bride of Diaz
 
+![bride-of-diaz](https://cdn.myanimelist.net/images/manga/3/79263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Buddy Go! 2
 
+![buddy-go-2](https://cdn.myanimelist.net/images/anime/13/82610.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: バディゴ!

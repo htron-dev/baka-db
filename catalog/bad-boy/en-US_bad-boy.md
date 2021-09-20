@@ -1,5 +1,7 @@
 # Bad Boy
 
+![bad-boy](https://cdn.myanimelist.net/images/manga/3/247612.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 40

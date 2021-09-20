@@ -1,5 +1,7 @@
 # Black★Rock Shooter (TV)
 
+![black★-rock-shooter-tv](https://cdn.myanimelist.net/images/anime/5/53909.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ブラック ★ ロックシューター

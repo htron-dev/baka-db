@@ -1,5 +1,7 @@
 # Blue Period
 
+![blue-period](https://cdn.myanimelist.net/images/anime/1757/116931.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ブルーピリオド
 -   **start-date**: 2021-10-20

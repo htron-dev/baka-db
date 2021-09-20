@@ -1,5 +1,7 @@
 # Seishun Anime Zenshuu Specials
 
+![seishun-anime-zenshuu-specials](https://cdn.myanimelist.net/images/anime/3/78898.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 青春アニメ全集

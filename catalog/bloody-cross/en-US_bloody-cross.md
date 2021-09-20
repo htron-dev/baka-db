@@ -1,5 +1,7 @@
 # Bloody Cross
 
+![bloody-cross](https://cdn.myanimelist.net/images/manga/2/188979.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

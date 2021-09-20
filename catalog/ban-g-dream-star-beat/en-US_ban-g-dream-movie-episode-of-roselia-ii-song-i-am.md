@@ -1,5 +1,7 @@
 # BanG Dream! Movie: Episode of Roselia - II: Song I Am.
 
+![ban-g-dream-movie-episode-of-roselia-ii-song-i-am](https://cdn.myanimelist.net/images/anime/1246/115689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BanG Dream! Episode of Roselia II:Song I am.

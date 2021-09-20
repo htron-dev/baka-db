@@ -1,5 +1,7 @@
 # Benten Rock You.
 
+![benten-rock-you](https://cdn.myanimelist.net/images/manga/1/153807.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

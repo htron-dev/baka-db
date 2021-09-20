@@ -1,5 +1,7 @@
 # Black Clover Gaiden: Quartet Knights
 
+![black-clover-gaiden-quartet-knights](https://cdn.myanimelist.net/images/manga/2/221185.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Be My Baby
 
+![be-my-baby](https://cdn.myanimelist.net/images/manga/3/238181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

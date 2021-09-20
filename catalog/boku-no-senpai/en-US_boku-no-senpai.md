@@ -1,5 +1,7 @@
 # Boku no Senpai
 
+![boku-no-senpai](https://cdn.myanimelist.net/images/manga/1/160726.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 僕の先輩

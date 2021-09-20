@@ -1,5 +1,7 @@
 # Bokura no Shikisai
 
+![bokura-no-shikisai](https://cdn.myanimelist.net/images/manga/1/236709.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Baka Demo Kakeru
 
+![baka-demo-kakeru](https://cdn.myanimelist.net/images/manga/3/12065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

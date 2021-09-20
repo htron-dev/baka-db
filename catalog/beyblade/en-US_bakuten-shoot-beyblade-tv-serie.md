@@ -1,5 +1,7 @@
 # Bakuten Shoot Beyblade
 
+![bakuten-shoot-beyblade](https://cdn.myanimelist.net/images/anime/11/21118.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 爆転シュート　ベイブレード

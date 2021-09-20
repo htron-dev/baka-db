@@ -1,5 +1,7 @@
 # Blood Honey
 
+![blood-honey](https://cdn.myanimelist.net/images/manga/3/21179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

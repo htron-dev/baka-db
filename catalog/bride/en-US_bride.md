@@ -1,5 +1,7 @@
 # Bride
 
+![bride](https://cdn.myanimelist.net/images/manga/3/97207.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

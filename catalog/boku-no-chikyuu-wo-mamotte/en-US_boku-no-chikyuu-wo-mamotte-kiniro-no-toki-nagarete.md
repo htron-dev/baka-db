@@ -1,5 +1,7 @@
 # Boku no Chikyuu wo Mamotte: Kiniro no Toki Nagarete
 
+![boku-no-chikyuu-wo-mamotte-kiniro-no-toki-nagarete](https://cdn.myanimelist.net/images/anime/4/27726.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぼくの地球を守って ～金色の時 流されて～

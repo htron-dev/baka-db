@@ -1,5 +1,7 @@
 # Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken
 
+![boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken](https://cdn.myanimelist.net/images/manga/3/203030.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の部屋がダンジョンの休憩所になってしまった件
 -   **start-date**: 2017-05-30

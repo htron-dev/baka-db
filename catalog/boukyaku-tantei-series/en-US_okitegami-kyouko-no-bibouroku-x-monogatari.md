@@ -1,5 +1,7 @@
 # Okitegami Kyouko no Bibouroku x Monogatari
 
+![okitegami-kyouko-no-bibouroku-x-monogatari](https://cdn.myanimelist.net/images/anime/7/79325.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『掟上今日子の備忘録』×〈物語〉

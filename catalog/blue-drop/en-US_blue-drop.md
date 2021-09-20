@@ -1,5 +1,7 @@
 # Blue Drop
 
+![blue-drop](https://cdn.myanimelist.net/images/manga/2/1119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

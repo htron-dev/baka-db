@@ -1,5 +1,7 @@
 # Boys on the Run
 
+![boys-on-the-run](https://cdn.myanimelist.net/images/manga/1/74829.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 116

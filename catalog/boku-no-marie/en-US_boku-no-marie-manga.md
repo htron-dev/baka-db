@@ -1,5 +1,7 @@
 # Boku no Marie
 
+![boku-no-marie](https://cdn.myanimelist.net/images/manga/4/13801.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 111

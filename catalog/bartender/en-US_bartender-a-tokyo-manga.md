@@ -1,5 +1,7 @@
 # Bartender à Tokyo
 
+![bartender-a-tokyo](https://cdn.myanimelist.net/images/manga/1/215961.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 55

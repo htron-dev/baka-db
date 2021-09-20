@@ -1,5 +1,7 @@
 # Boogiepop Dual: Makeinu-tachi no Circus
 
+![boogiepop-dual-makeinu-tachi-no-circus](https://cdn.myanimelist.net/images/manga/2/207070.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

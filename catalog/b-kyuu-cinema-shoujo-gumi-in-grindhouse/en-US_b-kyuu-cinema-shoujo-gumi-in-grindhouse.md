@@ -1,5 +1,7 @@
 # B-kyuu Cinema Shoujo-gumi in Grindhouse
 
+![b-kyuu-cinema-shoujo-gumi-in-grindhouse](https://cdn.myanimelist.net/images/manga/3/171408.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: B 級シネマ少女組 in グラインドハウス

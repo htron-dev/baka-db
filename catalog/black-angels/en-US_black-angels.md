@@ -1,5 +1,7 @@
 # Black Angels
 
+![black-angels](https://cdn.myanimelist.net/images/manga/1/187142.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 157

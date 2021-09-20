@@ -1,5 +1,7 @@
 # Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
 
+![bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BLEACH Fade to Black 君の名を呼ぶ

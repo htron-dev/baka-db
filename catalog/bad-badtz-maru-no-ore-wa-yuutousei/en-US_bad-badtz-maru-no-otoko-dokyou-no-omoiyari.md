@@ -1,5 +1,7 @@
 # Bad Badtz-Maru no Otoko Dokyou no Omoiyari
 
+![bad-badtz-maru-no-otoko-dokyou-no-omoiyari](https://cdn.myanimelist.net/images/anime/7/72133.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バッドばつ丸の男度胸の思いやり

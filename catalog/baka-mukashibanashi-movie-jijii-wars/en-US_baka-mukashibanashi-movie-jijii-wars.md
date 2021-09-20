@@ -1,5 +1,7 @@
 # Baka Mukashibanashi Movie: Jijii Wars
 
+![baka-mukashibanashi-movie-jijii-wars](https://cdn.myanimelist.net/images/anime/2/54141.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バカ昔ばなし劇場版～じじいウォーズ～

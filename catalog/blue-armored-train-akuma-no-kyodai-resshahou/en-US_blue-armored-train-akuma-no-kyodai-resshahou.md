@@ -1,5 +1,7 @@
 # Blue Armored Train: Akuma no Kyodai Resshahou
 
+![blue-armored-train-akuma-no-kyodai-resshahou](https://cdn.myanimelist.net/images/manga/2/177233.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 群青旅団[BLUE ARMORED TRAIN]-悪魔の巨大列車砲-

@@ -1,5 +1,7 @@
 # Body Guard
 
+![body-guard](https://cdn.myanimelist.net/images/manga/2/20409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

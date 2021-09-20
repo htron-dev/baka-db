@@ -1,5 +1,7 @@
 # Black Clover SD: Asta-kun Mahou Tei e no Michi
 
+![black-clover-sd-asta-kun-mahou-tei-e-no-michi](https://cdn.myanimelist.net/images/manga/2/221184.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

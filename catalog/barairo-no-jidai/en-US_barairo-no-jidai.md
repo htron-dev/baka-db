@@ -1,5 +1,7 @@
 # Barairo no Jidai
 
+![barairo-no-jidai](https://cdn.myanimelist.net/images/manga/1/220485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

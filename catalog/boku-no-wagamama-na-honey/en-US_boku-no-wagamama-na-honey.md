@@ -1,5 +1,7 @@
 # Boku no Wagamama na Honey
 
+![boku-no-wagamama-na-honey](https://cdn.myanimelist.net/images/manga/3/138281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

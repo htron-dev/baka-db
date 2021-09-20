@@ -1,5 +1,7 @@
 # Bokura no Kawaii Asahi-kun
 
+![bokura-no-kawaii-asahi-kun](https://cdn.myanimelist.net/images/manga/1/242249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

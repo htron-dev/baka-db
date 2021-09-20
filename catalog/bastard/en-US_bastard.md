@@ -1,5 +1,7 @@
 # Bastard
 
+![bastard](https://cdn.myanimelist.net/images/manga/1/205549.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 94

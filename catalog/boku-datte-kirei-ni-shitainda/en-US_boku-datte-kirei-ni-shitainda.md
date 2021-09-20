@@ -1,5 +1,7 @@
 # Boku datte, Kirei ni Shitainda
 
+![boku-datte-kirei-ni-shitainda](https://cdn.myanimelist.net/images/anime/9/61453.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくだって、きれいにしたいんだ

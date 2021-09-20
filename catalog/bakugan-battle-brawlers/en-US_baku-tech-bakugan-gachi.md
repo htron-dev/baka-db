@@ -1,5 +1,7 @@
 # Baku Tech! Bakugan Gachi
 
+![baku-tech-bakugan-gachi](https://cdn.myanimelist.net/images/anime/7/56743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 爆 TECH!爆丸ガチ

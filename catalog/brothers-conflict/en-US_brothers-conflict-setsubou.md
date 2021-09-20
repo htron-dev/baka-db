@@ -1,5 +1,7 @@
 # Brothers Conflict: Setsubou
 
+![brothers-conflict-setsubou](https://cdn.myanimelist.net/images/anime/3/59141.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BROTHERS CONFLICT 第十二・五衝突「切望」

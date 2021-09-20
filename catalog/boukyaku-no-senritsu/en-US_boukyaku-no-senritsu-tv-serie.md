@@ -1,5 +1,7 @@
 # Boukyaku no Senritsu
 
+![boukyaku-no-senritsu](https://cdn.myanimelist.net/images/anime/9/52679.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 忘却の旋律

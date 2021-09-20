@@ -1,5 +1,7 @@
 # Bokura no Polaris
 
+![bokura-no-polaris](https://cdn.myanimelist.net/images/manga/3/82450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

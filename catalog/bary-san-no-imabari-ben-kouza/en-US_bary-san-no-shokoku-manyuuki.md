@@ -1,5 +1,7 @@
 # Bary-san no Shokoku Manyuuki
 
+![bary-san-no-shokoku-manyuuki](https://cdn.myanimelist.net/images/anime/5/88460.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: バリィさんの諸国漫遊記

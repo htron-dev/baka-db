@@ -1,5 +1,7 @@
 # Boku to Kanojo to Kanojo to Kanojo
 
+![boku-to-kanojo-to-kanojo-to-kanojo](https://cdn.myanimelist.net/images/manga/1/159955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

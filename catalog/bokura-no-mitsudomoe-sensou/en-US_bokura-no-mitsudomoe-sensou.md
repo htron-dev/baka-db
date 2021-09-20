@@ -1,5 +1,7 @@
 # Bokura no Mitsudomoe Sensou
 
+![bokura-no-mitsudomoe-sensou](https://cdn.myanimelist.net/images/manga/1/86191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

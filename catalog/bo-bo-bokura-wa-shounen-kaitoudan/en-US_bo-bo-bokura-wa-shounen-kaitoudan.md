@@ -1,5 +1,7 @@
 # Bo Bo Bokura wa Shounen Kaitoudan
 
+![bo-bo-bokura-wa-shounen-kaitoudan](https://cdn.myanimelist.net/images/manga/3/41154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

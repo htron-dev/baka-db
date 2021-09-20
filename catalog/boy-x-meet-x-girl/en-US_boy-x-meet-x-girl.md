@@ -1,5 +1,7 @@
 # Boy x Meet x Girl
 
+![boy-x-meet-x-girl](https://cdn.myanimelist.net/images/manga/1/112797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

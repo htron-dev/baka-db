@@ -1,5 +1,7 @@
 # Bubaga
 
+![bubaga](https://cdn.myanimelist.net/images/anime/6/70827.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ぶーばーがー

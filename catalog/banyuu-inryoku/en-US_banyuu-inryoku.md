@@ -1,5 +1,7 @@
 # Banyuu Inryoku
 
+![banyuu-inryoku](https://cdn.myanimelist.net/images/manga/1/71215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Baoh Raihousha
 
+![baoh-raihousha](https://cdn.myanimelist.net/images/anime/1274/112464.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バオー来訪者

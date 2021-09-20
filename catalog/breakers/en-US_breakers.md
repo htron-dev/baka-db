@@ -1,5 +1,7 @@
 # Breakers
 
+![breakers](https://cdn.myanimelist.net/images/anime/1125/106426.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ブレーカーズ

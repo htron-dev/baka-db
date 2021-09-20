@@ -1,5 +1,7 @@
 # Boku wo Tsutsumu Tsuki no Hikari: BokuTama Jisedai-hen
 
+![boku-wo-tsutsumu-tsuki-no-hikari-boku-tama-jisedai-hen](https://cdn.myanimelist.net/images/manga/1/156170.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 85

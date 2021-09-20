@@ -1,5 +1,7 @@
 # Black★Rock Shooter: The Game
 
+![black★-rock-shooter-the-game](https://cdn.myanimelist.net/images/manga/2/156580.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

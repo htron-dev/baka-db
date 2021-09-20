@@ -1,5 +1,7 @@
 # Tokimeki☆Triangle
 
+![tokimeki☆-triangle](https://cdn.myanimelist.net/images/manga/2/36275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トキメキ ☆ とらいあんぐる

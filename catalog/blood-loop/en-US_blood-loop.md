@@ -1,5 +1,7 @@
 # Blood Loop
 
+![blood-loop](https://cdn.myanimelist.net/images/manga/3/67329.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Binan Koukou Chikyuu Boueibu LOVE!
 
+![binan-koukou-chikyuu-boueibu-love](https://cdn.myanimelist.net/images/anime/10/68451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 美男高校地球防衛部 LOVE!

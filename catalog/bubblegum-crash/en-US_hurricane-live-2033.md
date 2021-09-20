@@ -1,5 +1,7 @@
 # Hurricane Live! 2033
 
+![hurricane-live-2033](https://cdn.myanimelist.net/images/anime/1847/109047.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: バブルガムクライシス Hurricane Live! 2033

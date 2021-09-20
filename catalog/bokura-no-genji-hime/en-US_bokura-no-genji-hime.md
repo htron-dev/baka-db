@@ -1,5 +1,7 @@
 # Bokura no Genji-hime
 
+![bokura-no-genji-hime](https://cdn.myanimelist.net/images/manga/1/154256.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 僕らの源氏姫

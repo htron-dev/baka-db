@@ -1,5 +1,7 @@
 # Bijo ga Yajuu
 
+![bijo-ga-yajuu](https://cdn.myanimelist.net/images/manga/1/201071.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

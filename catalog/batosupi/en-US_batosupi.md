@@ -1,5 +1,7 @@
 # Batosupi!
 
+![batosupi](https://cdn.myanimelist.net/images/manga/2/44345.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

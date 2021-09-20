@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu Spinout!: Sore ga Bokura no Nichijou.
 
+![baka-to-test-to-shoukanjuu-spinout-sore-ga-bokura-no-nichijou](https://cdn.myanimelist.net/images/manga/2/181101.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

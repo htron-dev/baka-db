@@ -1,5 +1,7 @@
 # Bleach: The Sealed Sword Frenzy
 
+![bleach-the-sealed-sword-frenzy](https://cdn.myanimelist.net/images/anime/1/834.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BLEACH The Sealed Sword Frenzy

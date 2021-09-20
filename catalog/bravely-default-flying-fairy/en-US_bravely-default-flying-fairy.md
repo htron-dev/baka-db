@@ -1,5 +1,7 @@
 # Bravely Default: Flying Fairy
 
+![bravely-default-flying-fairy](https://cdn.myanimelist.net/images/manga/3/167811.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

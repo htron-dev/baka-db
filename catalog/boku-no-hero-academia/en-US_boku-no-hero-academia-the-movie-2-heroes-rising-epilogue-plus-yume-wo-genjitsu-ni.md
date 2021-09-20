@@ -1,5 +1,7 @@
 # Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni
 
+![boku-no-hero-academia-the-movie-2-heroes-rising-epilogue-plus-yume-wo-genjitsu-ni](https://cdn.myanimelist.net/images/anime/1447/110165.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》

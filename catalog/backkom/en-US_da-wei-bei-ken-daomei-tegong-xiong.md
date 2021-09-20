@@ -1,5 +1,7 @@
 # Da Wei Bei Ken: Daomei Tegong Xiong
 
+![da-wei-bei-ken-daomei-tegong-xiong](https://cdn.myanimelist.net/images/anime/1950/112644.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大卫贝肯之倒霉特工熊

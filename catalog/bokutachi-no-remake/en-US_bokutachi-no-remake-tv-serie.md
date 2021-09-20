@@ -1,5 +1,7 @@
 # Bokutachi no Remake
 
+![bokutachi-no-remake](https://cdn.myanimelist.net/images/anime/1737/112772.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ぼくたちのリメイク

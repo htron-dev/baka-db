@@ -1,5 +1,7 @@
 # Babylon
 
+![babylon](https://cdn.myanimelist.net/images/manga/3/223688.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

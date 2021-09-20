@@ -1,5 +1,7 @@
 # B-Gata Kareshi wa Setsumei Dekinai
 
+![b-gata-kareshi-wa-setsumei-dekinai](https://cdn.myanimelist.net/images/manga/3/39893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: B 型彼氏は説明できない

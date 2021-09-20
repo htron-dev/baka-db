@@ -1,5 +1,7 @@
 # Back to the Kaasan
 
+![back-to-the-kaasan](https://cdn.myanimelist.net/images/manga/2/204353.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

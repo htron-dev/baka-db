@@ -1,5 +1,7 @@
 # Bousou Paradise
 
+![bousou-paradise](https://cdn.myanimelist.net/images/manga/3/79479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 妄想パラダイス

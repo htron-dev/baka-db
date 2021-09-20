@@ -1,5 +1,7 @@
 # Burlesque Night
 
+![burlesque-night](https://cdn.myanimelist.net/images/manga/1/218032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

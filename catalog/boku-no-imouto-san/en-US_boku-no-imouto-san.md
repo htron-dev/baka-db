@@ -1,5 +1,7 @@
 # Boku no Imouto-san!
 
+![boku-no-imouto-san](https://cdn.myanimelist.net/images/manga/1/40672.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼくの妹さん！
 

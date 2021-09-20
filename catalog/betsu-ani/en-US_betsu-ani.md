@@ -1,5 +1,7 @@
 # Betsu Ani!
 
+![betsu-ani](https://cdn.myanimelist.net/images/manga/3/170238.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

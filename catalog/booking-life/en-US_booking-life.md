@@ -1,5 +1,7 @@
 # Booking Life
 
+![booking-life](https://cdn.myanimelist.net/images/manga/1/55319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

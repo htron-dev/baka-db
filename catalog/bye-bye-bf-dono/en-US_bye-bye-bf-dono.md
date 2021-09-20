@@ -1,5 +1,7 @@
 # Bye-Bye BF-dono!
 
+![bye-bye-bf-dono](https://cdn.myanimelist.net/images/manga/3/125725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

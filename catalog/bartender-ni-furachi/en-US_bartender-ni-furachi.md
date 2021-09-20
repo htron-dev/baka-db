@@ -1,5 +1,7 @@
 # Bartender ni Furachi
 
+![bartender-ni-furachi](https://cdn.myanimelist.net/images/manga/1/72239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

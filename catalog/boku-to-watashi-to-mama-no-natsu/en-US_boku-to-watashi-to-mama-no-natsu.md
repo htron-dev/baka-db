@@ -1,5 +1,7 @@
 # Boku to Watashi to Mama no Natsu
 
+![boku-to-watashi-to-mama-no-natsu](https://cdn.myanimelist.net/images/manga/3/244776.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: ぼくとわたしとママの夏

@@ -1,5 +1,7 @@
 # Binetsu x Hatsunetsu
 
+![binetsu-x-hatsunetsu](https://cdn.myanimelist.net/images/manga/1/124921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 微熱 × 発熱

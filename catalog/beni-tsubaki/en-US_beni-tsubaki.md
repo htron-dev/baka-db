@@ -1,5 +1,7 @@
 # Beni Tsubaki
 
+![beni-tsubaki](https://cdn.myanimelist.net/images/manga/1/235309.jpg)
+
 -   **type**: manga
 -   **original-name**: 紅椿
 -   **start-date**: 2019-05-15

@@ -1,5 +1,7 @@
 # Bokkonrinri
 
+![bokkonrinri](https://cdn.myanimelist.net/images/manga/3/114313.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

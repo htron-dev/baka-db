@@ -1,5 +1,7 @@
 # Benghuai 3: Reburn
 
+![benghuai-3-reburn](https://cdn.myanimelist.net/images/anime/1803/93762.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 崩坏 3 Reburn

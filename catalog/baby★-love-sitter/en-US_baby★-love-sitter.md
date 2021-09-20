@@ -1,5 +1,7 @@
 # Baby★Love Sitter
 
+![baby★-love-sitter](https://cdn.myanimelist.net/images/manga/2/227220.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

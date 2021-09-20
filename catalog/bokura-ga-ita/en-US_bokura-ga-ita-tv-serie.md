@@ -1,5 +1,7 @@
 # Bokura ga Ita
 
+![bokura-ga-ita](https://cdn.myanimelist.net/images/anime/12/25754.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 僕等がいた

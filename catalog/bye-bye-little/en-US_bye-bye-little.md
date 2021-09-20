@@ -1,5 +1,7 @@
 # Bye-Bye, Little.
 
+![bye-bye-little](https://cdn.myanimelist.net/images/manga/1/10060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

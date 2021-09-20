@@ -1,5 +1,7 @@
 # Baka Baka Baka na Sekai
 
+![baka-baka-baka-na-sekai](https://cdn.myanimelist.net/images/anime/9/71551.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 馬鹿馬鹿馬鹿な世界

@@ -1,5 +1,7 @@
 # Boku mo Sekai mo Shinitakunai no ni
 
+![boku-mo-sekai-mo-shinitakunai-no-ni](https://cdn.myanimelist.net/images/manga/3/167074.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

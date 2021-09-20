@@ -1,5 +1,7 @@
 # Beatless Intermission
 
+![beatless-intermission](https://cdn.myanimelist.net/images/anime/1709/90468.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: BEATLESS Intermission

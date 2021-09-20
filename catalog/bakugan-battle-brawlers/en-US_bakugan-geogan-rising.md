@@ -1,5 +1,7 @@
 # Bakugan: Geogan Rising
 
+![bakugan-geogan-rising](https://cdn.myanimelist.net/images/anime/1945/113692.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 爆丸ジオガンライジング

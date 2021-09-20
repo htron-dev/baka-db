@@ -1,5 +1,7 @@
 # Body &amp; Soul
 
+![body-amp-soul](https://cdn.myanimelist.net/images/manga/2/7811.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

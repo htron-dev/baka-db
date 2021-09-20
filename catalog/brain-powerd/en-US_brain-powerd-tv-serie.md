@@ -1,5 +1,7 @@
 # Brain Powerd
 
+![brain-powerd](https://cdn.myanimelist.net/images/anime/1749/91562.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ブレンパワード

@@ -1,5 +1,7 @@
 # Bukiyou na Takumi-chan
 
+![bukiyou-na-takumi-chan](https://cdn.myanimelist.net/images/manga/2/142587.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

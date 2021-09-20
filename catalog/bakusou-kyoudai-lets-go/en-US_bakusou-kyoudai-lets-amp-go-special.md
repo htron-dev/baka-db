@@ -1,5 +1,7 @@
 # Bakusou Kyoudai Let's &amp; Go Special
 
+![bakusou-kyoudai-lets-amp-go-special](https://cdn.myanimelist.net/images/anime/13/27281.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 爆走兄弟レッツ&ゴー!! レッツ&ゴースペシャル ミニ四駆レーサー大集合!!

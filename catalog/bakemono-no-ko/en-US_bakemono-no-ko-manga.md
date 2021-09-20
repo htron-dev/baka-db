@@ -1,5 +1,7 @@
 # Bakemono no Ko
 
+![bakemono-no-ko](https://cdn.myanimelist.net/images/manga/3/186224.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

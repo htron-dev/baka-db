@@ -1,5 +1,7 @@
 # B no Shokutaku
 
+![b-no-shokutaku](https://cdn.myanimelist.net/images/manga/1/177993.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

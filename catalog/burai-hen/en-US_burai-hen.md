@@ -1,5 +1,7 @@
 # Burai-hen
 
+![burai-hen](https://cdn.myanimelist.net/images/manga/1/129609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: かわぐちかいじ自選短編集 無頼編

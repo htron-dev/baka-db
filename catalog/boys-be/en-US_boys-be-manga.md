@@ -1,5 +1,7 @@
 # Boys Be...
 
+![boys-be](https://cdn.myanimelist.net/images/manga/2/183366.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 255

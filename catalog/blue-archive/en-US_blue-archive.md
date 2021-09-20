@@ -1,5 +1,7 @@
 # Blue Archive
 
+![blue-archive](https://cdn.myanimelist.net/images/anime/1521/114598.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ブルーアーカイブ

@@ -1,5 +1,7 @@
 # Beck
 
+![beck](https://cdn.myanimelist.net/images/anime/11/11636.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ベック

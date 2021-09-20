@@ -1,5 +1,7 @@
 # Bud Boy Bangai-hen
 
+![bud-boy-bangai-hen](https://cdn.myanimelist.net/images/manga/1/194171.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Bokura no Koi wa Shi ni Itaru Yamai no You de
 
+![bokura-no-koi-wa-shi-ni-itaru-yamai-no-you-de](https://cdn.myanimelist.net/images/manga/2/148065.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

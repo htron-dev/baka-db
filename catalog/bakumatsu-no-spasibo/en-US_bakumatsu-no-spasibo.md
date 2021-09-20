@@ -1,5 +1,7 @@
 # Bakumatsu no Spasibo
 
+![bakumatsu-no-spasibo](https://cdn.myanimelist.net/images/anime/11/71979.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 幕末のスパシーボ

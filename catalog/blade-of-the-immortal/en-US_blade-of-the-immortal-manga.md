@@ -1,5 +1,7 @@
 # Blade of the Immortal
 
+![blade-of-the-immortal](https://cdn.myanimelist.net/images/manga/1/157919.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 207

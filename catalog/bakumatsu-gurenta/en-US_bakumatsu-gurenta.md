@@ -1,5 +1,7 @@
 # Bakumatsu Gurenta
 
+![bakumatsu-gurenta](https://cdn.myanimelist.net/images/manga/3/124725.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 幕末紅蓮隊

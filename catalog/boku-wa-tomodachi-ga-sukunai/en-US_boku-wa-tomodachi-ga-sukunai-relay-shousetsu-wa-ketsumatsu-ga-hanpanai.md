@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
 
+![boku-wa-tomodachi-ga-sukunai-relay-shousetsu-wa-ketsumatsu-ga-hanpanai](https://cdn.myanimelist.net/images/anime/3/39215.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕は友達が少ない リレー小説は結末が半端ない L(゜ □ ゜)」

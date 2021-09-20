@@ -1,5 +1,7 @@
 # Blood-C: Special Edition
 
+![blood-c-special-edition](https://cdn.myanimelist.net/images/anime/11/39001.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 『BLOOD-C』特別編集 ver

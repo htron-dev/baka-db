@@ -1,5 +1,7 @@
 # Bokura no: Tsuisou
 
+![bokura-no-tsuisou](https://cdn.myanimelist.net/images/anime/8/36163.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぼくらの

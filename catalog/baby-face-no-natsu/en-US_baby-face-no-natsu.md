@@ -1,5 +1,7 @@
 # Baby Face no Natsu
 
+![baby-face-no-natsu](https://cdn.myanimelist.net/images/manga/3/152179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

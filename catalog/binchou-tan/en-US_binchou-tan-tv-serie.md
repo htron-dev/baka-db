@@ -1,5 +1,7 @@
 # Binchou-tan
 
+![binchou-tan](https://cdn.myanimelist.net/images/anime/10/61143.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: びんちょうタン

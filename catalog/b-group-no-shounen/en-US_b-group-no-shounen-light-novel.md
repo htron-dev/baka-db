@@ -1,5 +1,7 @@
 # B Group no Shounen
 
+![b-group-no-shounen](https://cdn.myanimelist.net/images/manga/1/131511.jpg)
+
 -   **type**: light-novel
 -   **original-name**: B グループの少年
 -   **start-date**: 2012-05-25

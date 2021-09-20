@@ -1,5 +1,7 @@
 # Black Magic M-66
 
+![black-magic-m-66](https://cdn.myanimelist.net/images/anime/1645/94523.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ブラックマジックＭ（マリオ）－６６

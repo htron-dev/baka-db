@@ -1,5 +1,7 @@
 # Boku no Utako-san
 
+![boku-no-utako-san](https://cdn.myanimelist.net/images/manga/3/32304.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 僕の歌子さん

@@ -1,5 +1,7 @@
 # B.A.D.
 
+![b-a-d](https://cdn.myanimelist.net/images/manga/3/163977.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Boat Race Marugame Image Talent Mimika
 
+![boat-race-marugame-image-talent-mimika](https://cdn.myanimelist.net/images/anime/1244/90691.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ボートレースまるかめイメージタレント mimika

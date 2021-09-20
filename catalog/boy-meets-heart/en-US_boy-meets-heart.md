@@ -1,5 +1,7 @@
 # Boy Meets Heart!
 
+![boy-meets-heart](https://cdn.myanimelist.net/images/manga/2/126361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ボーイ・ミーツ・ハート！

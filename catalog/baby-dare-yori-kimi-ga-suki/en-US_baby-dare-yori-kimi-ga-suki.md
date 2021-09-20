@@ -1,5 +1,7 @@
 # Baby Dare yori Kimi ga Suki
 
+![baby-dare-yori-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/3/28631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

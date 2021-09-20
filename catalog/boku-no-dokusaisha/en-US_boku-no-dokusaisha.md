@@ -1,5 +1,7 @@
 # Boku no Dokusaisha
 
+![boku-no-dokusaisha](https://cdn.myanimelist.net/images/manga/5/22651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

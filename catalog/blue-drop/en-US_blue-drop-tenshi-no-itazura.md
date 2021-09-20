@@ -1,5 +1,7 @@
 # Blue Drop: Tenshi no Itazura
 
+![blue-drop-tenshi-no-itazura](https://cdn.myanimelist.net/images/manga/2/134411.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ブルードロップ～天使の悪戯～

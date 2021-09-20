@@ -1,5 +1,7 @@
 # Bokutachi LGBT
 
+![bokutachi-lgbt](https://cdn.myanimelist.net/images/manga/1/247268.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

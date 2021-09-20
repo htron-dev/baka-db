@@ -1,5 +1,7 @@
 # Beth to Okuman Chouja
 
+![beth-to-okuman-chouja](https://cdn.myanimelist.net/images/manga/3/227554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベスと億万長者

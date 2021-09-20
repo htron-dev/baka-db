@@ -1,5 +1,7 @@
 # Bi no Kyoujin: X Side
 
+![bi-no-kyoujin-x-side](https://cdn.myanimelist.net/images/manga/2/247958.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

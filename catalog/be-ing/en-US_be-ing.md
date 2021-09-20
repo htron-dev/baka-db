@@ -1,5 +1,7 @@
 # Be-ing
 
+![be-ing](https://cdn.myanimelist.net/images/manga/3/230139.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

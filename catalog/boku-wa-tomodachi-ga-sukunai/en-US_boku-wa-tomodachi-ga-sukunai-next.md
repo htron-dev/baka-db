@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai Next
 
+![boku-wa-tomodachi-ga-sukunai-next](https://cdn.myanimelist.net/images/anime/3/44724.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 僕は友達が少ない NEXT

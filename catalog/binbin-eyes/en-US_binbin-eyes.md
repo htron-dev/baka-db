@@ -1,5 +1,7 @@
 # Binbin eyes
 
+![binbin-eyes](https://cdn.myanimelist.net/images/manga/1/32327.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: びんびん eyes

@@ -1,5 +1,7 @@
 # Boku ga Boku de Aru Tame ni.
 
+![boku-ga-boku-de-aru-tame-ni](https://cdn.myanimelist.net/images/manga/2/176008.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Bukiyou na Tenshi no Toriatsukai Setsumeisho
 
+![bukiyou-na-tenshi-no-toriatsukai-setsumeisho](https://cdn.myanimelist.net/images/manga/2/165730.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

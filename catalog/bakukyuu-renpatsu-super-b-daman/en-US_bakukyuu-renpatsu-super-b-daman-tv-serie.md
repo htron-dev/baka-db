@@ -1,5 +1,7 @@
 # Bakukyuu Renpatsu!! Super B-Daman
 
+![bakukyuu-renpatsu-super-b-daman](https://cdn.myanimelist.net/images/anime/11/19555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: 爆球連発!!スーパービーダマン

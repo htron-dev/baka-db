@@ -1,5 +1,7 @@
 # Butaiura
 
+![butaiura](https://cdn.myanimelist.net/images/manga/2/146719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Battle Royale
 
+![battle-royale](https://cdn.myanimelist.net/images/manga/2/214712.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: バトル・ロワイアル

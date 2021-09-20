@@ -1,5 +1,7 @@
 # Beer Mukashi Mukashi
 
+![beer-mukashi-mukashi](https://cdn.myanimelist.net/images/anime/12/72030.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ビールむかしむかし

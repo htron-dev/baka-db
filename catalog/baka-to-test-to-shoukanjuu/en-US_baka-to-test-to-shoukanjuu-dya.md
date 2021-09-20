@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu Dya
 
+![baka-to-test-to-shoukanjuu-dya](https://cdn.myanimelist.net/images/manga/3/114209.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: バカとテストと召喚獣ぢゃ

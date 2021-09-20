@@ -1,5 +1,7 @@
 # Bokura no Yoake
 
+![bokura-no-yoake](https://cdn.myanimelist.net/images/manga/3/71793.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

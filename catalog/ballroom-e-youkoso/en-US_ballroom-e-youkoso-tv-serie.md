@@ -1,5 +1,7 @@
 # Ballroom e Youkoso
 
+![ballroom-e-youkoso](https://cdn.myanimelist.net/images/anime/5/86739.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ボールルームへようこそ

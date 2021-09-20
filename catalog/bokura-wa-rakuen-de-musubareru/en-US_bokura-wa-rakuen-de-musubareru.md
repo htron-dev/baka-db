@@ -1,5 +1,7 @@
 # Bokura wa Rakuen de Musubareru
 
+![bokura-wa-rakuen-de-musubareru](https://cdn.myanimelist.net/images/manga/2/227475.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

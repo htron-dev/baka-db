@@ -1,5 +1,7 @@
 # Bozu Love!!!
 
+![bozu-love](https://cdn.myanimelist.net/images/manga/5/40973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

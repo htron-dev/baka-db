@@ -1,5 +1,7 @@
 # Bokura no Q
 
+![bokura-no-q](https://cdn.myanimelist.net/images/manga/2/200776.jpg)
+
 -   **type**: manga
 -   **chapters**: 46
 -   **original-name**: ぼくらの Q

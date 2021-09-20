@@ -1,5 +1,7 @@
 # Boku no Hero wa Himitsu ga Ippai
 
+![boku-no-hero-wa-himitsu-ga-ippai](https://cdn.myanimelist.net/images/manga/2/243011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

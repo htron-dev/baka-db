@@ -1,5 +1,7 @@
 # Break Blade
 
+![break-blade](https://cdn.myanimelist.net/images/anime/7/58635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブレイク ブレイド

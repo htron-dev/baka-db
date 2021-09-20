@@ -1,5 +1,7 @@
 # Byousoku 5 Centimeter
 
+![byousoku-5-centimeter](https://cdn.myanimelist.net/images/manga/3/138585.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

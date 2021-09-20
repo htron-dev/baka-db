@@ -1,5 +1,7 @@
 # Bokura no Tsuzuki
 
+![bokura-no-tsuzuki](https://cdn.myanimelist.net/images/manga/1/236583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

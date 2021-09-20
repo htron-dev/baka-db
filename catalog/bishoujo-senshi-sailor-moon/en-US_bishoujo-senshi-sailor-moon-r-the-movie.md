@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon R: The Movie
 
+![bishoujo-senshi-sailor-moon-r-the-movie](https://cdn.myanimelist.net/images/anime/12/18897.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美少女戦士セーラームーンＲ THE MOVIE

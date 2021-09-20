@@ -1,5 +1,7 @@
 # Boku wa Nandodemo, Kimi ni Hajimete no Koi wo Suru.
 
+![boku-wa-nandodemo-kimi-ni-hajimete-no-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/200984.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

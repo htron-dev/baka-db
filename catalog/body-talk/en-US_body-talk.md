@@ -1,5 +1,7 @@
 # Body Talk
 
+![body-talk](https://cdn.myanimelist.net/images/manga/2/2711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

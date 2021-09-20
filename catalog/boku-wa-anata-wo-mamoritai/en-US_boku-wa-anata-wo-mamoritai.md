@@ -1,5 +1,7 @@
 # Boku wa Anata wo Mamoritai
 
+![boku-wa-anata-wo-mamoritai](https://cdn.myanimelist.net/images/manga/3/197126.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 僕はあなたを守りたい

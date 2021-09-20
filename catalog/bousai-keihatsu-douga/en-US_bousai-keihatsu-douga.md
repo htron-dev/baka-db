@@ -1,5 +1,7 @@
 # Bousai Keihatsu Douga
 
+![bousai-keihatsu-douga](https://cdn.myanimelist.net/images/anime/10/89145.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 防災啓発動画

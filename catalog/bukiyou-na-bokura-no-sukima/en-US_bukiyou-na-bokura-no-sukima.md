@@ -1,5 +1,7 @@
 # Bukiyou na Bokura no Sukima
 
+![bukiyou-na-bokura-no-sukima](https://cdn.myanimelist.net/images/manga/2/190078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

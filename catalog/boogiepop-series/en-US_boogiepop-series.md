@@ -1,5 +1,7 @@
 # Boogiepop Series
 
+![boogiepop-series](https://cdn.myanimelist.net/images/manga/2/208765.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブギーポップシリーズ
 -   **start-date**: 1998-02-10

@@ -1,5 +1,7 @@
 # Blood: The Last Vampire - Yami wo Izanau Chi
 
+![blood-the-last-vampire-yami-wo-izanau-chi](https://cdn.myanimelist.net/images/manga/1/14566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Boku no Tonari ni Ankoku Hakaishin ga Imasu.
 
+![boku-no-tonari-ni-ankoku-hakaishin-ga-imasu](https://cdn.myanimelist.net/images/manga/2/105267.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 79

@@ -1,5 +1,7 @@
 # Barairo no Seisen
 
+![barairo-no-seisen](https://cdn.myanimelist.net/images/manga/2/160638.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 100

@@ -1,5 +1,7 @@
 # Banana wa Ane ni Hairimasu ka?
 
+![banana-wa-ane-ni-hairimasu-ka](https://cdn.myanimelist.net/images/manga/3/128428.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

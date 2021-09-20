@@ -1,5 +1,7 @@
 # Metal Fight Beyblade Zero G
 
+![metal-fight-beyblade-zero-g](https://cdn.myanimelist.net/images/anime/5/37159.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: メタルファイト ベイブレード ZEROG

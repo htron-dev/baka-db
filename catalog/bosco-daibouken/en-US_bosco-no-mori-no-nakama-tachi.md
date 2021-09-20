@@ -1,5 +1,7 @@
 # Bosco no Mori no Nakama-tachi
 
+![bosco-no-mori-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/12/34773.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ボスコの森のなかまたち

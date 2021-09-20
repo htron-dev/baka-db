@@ -1,5 +1,7 @@
 # Bizarre Boy and Girl
 
+![bizarre-boy-and-girl](https://cdn.myanimelist.net/images/manga/1/14861.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 22

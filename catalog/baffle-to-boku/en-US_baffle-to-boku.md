@@ -1,5 +1,7 @@
 # Baffle to Boku
 
+![baffle-to-boku](https://cdn.myanimelist.net/images/manga/2/231829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

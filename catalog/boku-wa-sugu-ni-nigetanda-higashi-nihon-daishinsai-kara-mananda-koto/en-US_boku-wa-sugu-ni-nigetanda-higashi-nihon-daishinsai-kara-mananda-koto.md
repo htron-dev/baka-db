@@ -1,5 +1,7 @@
 # Boku wa Sugu ni Nigetanda: Higashi Nihon Daishinsai kara Mananda Koto
 
+![boku-wa-sugu-ni-nigetanda-higashi-nihon-daishinsai-kara-mananda-koto](https://cdn.myanimelist.net/images/anime/5/68931.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ボクはすぐに逃げたんだ 東日本大震災から学んだこと

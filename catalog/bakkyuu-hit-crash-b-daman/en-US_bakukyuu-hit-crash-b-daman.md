@@ -1,5 +1,7 @@
 # Bakukyuu Hit! Crash B-Daman
 
+![bakukyuu-hit-crash-b-daman](https://cdn.myanimelist.net/images/anime/7/18312.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 爆球 HIT! クラッシュビーダマン

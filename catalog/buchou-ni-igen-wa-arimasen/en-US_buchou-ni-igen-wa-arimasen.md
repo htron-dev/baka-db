@@ -1,5 +1,7 @@
 # Buchou ni Igen wa Arimasen
 
+![buchou-ni-igen-wa-arimasen](https://cdn.myanimelist.net/images/manga/2/132963.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

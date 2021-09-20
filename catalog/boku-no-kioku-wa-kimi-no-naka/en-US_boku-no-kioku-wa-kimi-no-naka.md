@@ -1,5 +1,7 @@
 # Boku no Kioku wa Kimi no Naka
 
+![boku-no-kioku-wa-kimi-no-naka](https://cdn.myanimelist.net/images/manga/2/206560.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

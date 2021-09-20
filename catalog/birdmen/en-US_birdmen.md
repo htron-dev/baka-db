@@ -1,5 +1,7 @@
 # Birdmen
 
+![birdmen](https://cdn.myanimelist.net/images/manga/1/105747.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 80

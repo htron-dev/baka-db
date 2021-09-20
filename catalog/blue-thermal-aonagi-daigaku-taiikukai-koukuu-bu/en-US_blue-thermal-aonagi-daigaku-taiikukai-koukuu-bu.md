@@ -1,5 +1,7 @@
 # Blue Thermal: Aonagi Daigaku Taiikukai Koukuu-bu
 
+![blue-thermal-aonagi-daigaku-taiikukai-koukuu-bu](https://cdn.myanimelist.net/images/manga/3/166786.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

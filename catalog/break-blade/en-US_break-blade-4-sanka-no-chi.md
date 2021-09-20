@@ -1,5 +1,7 @@
 # Break Blade 4: Sanka no Chi
 
+![break-blade-4-sanka-no-chi](https://cdn.myanimelist.net/images/anime/11/68085.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイク ブレイド 第四章 惨禍ノ地

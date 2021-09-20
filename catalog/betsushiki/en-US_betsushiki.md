@@ -1,5 +1,7 @@
 # Betsushiki
 
+![betsushiki](https://cdn.myanimelist.net/images/manga/2/187218.jpg)
+
 -   **type**: manga
 -   **original-name**: 別式
 -   **start-date**: 2016-07-22

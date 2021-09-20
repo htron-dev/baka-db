@@ -1,5 +1,7 @@
 # Billy Bat
 
+![billy-bat](https://cdn.myanimelist.net/images/manga/3/181197.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 165

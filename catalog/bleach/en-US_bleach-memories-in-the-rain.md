@@ -1,5 +1,7 @@
 # Bleach: Memories in the Rain
 
+![bleach-memories-in-the-rain](https://cdn.myanimelist.net/images/anime/5/21947.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BLEACH Memories in the Rain

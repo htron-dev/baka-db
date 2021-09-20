@@ -1,5 +1,7 @@
 # Bakemonodarake
 
+![bakemonodarake](https://cdn.myanimelist.net/images/manga/2/202972.jpg)
+
 -   **type**: manga
 -   **chapters**: 27
 -   **original-name**: ばけものだらけ

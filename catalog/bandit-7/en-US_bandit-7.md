@@ -1,5 +1,7 @@
 # Bandit 7
 
+![bandit-7](https://cdn.myanimelist.net/images/manga/1/202678.jpg)
+
 -   **type**: manga
 -   **original-name**: バンディセブン
 -   **start-date**: 2016-10-08

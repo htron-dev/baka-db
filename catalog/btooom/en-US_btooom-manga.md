@@ -1,5 +1,7 @@
 # Btooom!
 
+![btooom](https://cdn.myanimelist.net/images/manga/3/62199.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 125

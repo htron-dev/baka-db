@@ -1,5 +1,7 @@
 # Banoten!
 
+![banoten](https://cdn.myanimelist.net/images/manga/5/71821.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

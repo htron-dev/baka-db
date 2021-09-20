@@ -1,5 +1,7 @@
 # Baby Felix
 
+![baby-felix](https://cdn.myanimelist.net/images/anime/8/88777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: ベイビーフィリックス

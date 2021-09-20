@@ -1,5 +1,7 @@
 # Black Jack Kuroi Ishi
 
+![black-jack-kuroi-ishi](https://cdn.myanimelist.net/images/manga/1/14916.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

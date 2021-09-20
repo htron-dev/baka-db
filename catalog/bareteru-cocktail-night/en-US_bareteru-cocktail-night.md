@@ -1,5 +1,7 @@
 # Bareteru! Cocktail Night
 
+![bareteru-cocktail-night](https://cdn.myanimelist.net/images/manga/1/245084.jpg)
+
 -   **type**: manga
 -   **original-name**: バレてる！ カクテルナイト
 -   **start-date**: 2020-11-07

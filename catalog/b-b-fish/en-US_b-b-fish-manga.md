@@ -1,5 +1,7 @@
 # B.B. Fish
 
+![b-b-fish](https://cdn.myanimelist.net/images/manga/2/45387.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: B.B.フィッシュ

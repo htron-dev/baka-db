@@ -1,5 +1,7 @@
 # Blood Lad
 
+![blood-lad](https://cdn.myanimelist.net/images/anime/11/47677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ブラッドラッド

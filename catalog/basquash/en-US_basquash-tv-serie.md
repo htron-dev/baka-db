@@ -1,5 +1,7 @@
 # Basquash!
 
+![basquash](https://cdn.myanimelist.net/images/anime/9/13680.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: バスカッシュ！

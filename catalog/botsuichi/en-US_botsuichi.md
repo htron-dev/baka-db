@@ -1,5 +1,7 @@
 # Botsuichi
 
+![botsuichi](https://cdn.myanimelist.net/images/manga/3/244984.jpg)
+
 -   **type**: manga
 -   **original-name**: 没イチ
 -   **start-date**: 2020-12-08

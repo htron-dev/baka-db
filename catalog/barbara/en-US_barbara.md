@@ -1,5 +1,7 @@
 # Barbara
 
+![barbara](https://cdn.myanimelist.net/images/manga/3/6815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

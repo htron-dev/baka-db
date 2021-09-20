@@ -1,5 +1,7 @@
 # Break x Trigger
 
+![break-x-trigger](https://cdn.myanimelist.net/images/manga/1/163631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブレイク × トリガー

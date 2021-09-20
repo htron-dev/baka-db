@@ -1,5 +1,7 @@
 # Battle Spirits: Sword Eyes Gekitouden
 
+![battle-spirits-sword-eyes-gekitouden](https://cdn.myanimelist.net/images/anime/7/52985.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: バトルスピリッツ ソードアイズ激闘伝

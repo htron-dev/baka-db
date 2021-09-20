@@ -1,5 +1,7 @@
 # Bero-dashi Chonma
 
+![bero-dashi-chonma](https://cdn.myanimelist.net/images/anime/7/74528.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ベロ出しチョンマ

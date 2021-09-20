@@ -1,5 +1,7 @@
 # Bouzu to Kumo
 
+![bouzu-to-kumo](https://cdn.myanimelist.net/images/manga/1/171390.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

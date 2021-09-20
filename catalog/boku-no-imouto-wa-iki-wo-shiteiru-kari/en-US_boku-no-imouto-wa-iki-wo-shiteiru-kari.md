@@ -1,5 +1,7 @@
 # Boku no Imouto wa Iki wo Shiteiru (Kari)
 
+![boku-no-imouto-wa-iki-wo-shiteiru-kari](https://cdn.myanimelist.net/images/manga/2/246583.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

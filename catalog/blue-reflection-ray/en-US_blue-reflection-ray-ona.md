@@ -1,5 +1,7 @@
 # Blue Reflection Ray!
 
+![blue-reflection-ray](https://cdn.myanimelist.net/images/anime/1680/113838.jpg)
+
 -   **type**: ona
 -   **original-name**: ぶるりふ・れいっ！
 -   **start-date**: 2021-04-14

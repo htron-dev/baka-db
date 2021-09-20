@@ -1,5 +1,7 @@
 # Black Out
 
+![black-out](https://cdn.myanimelist.net/images/manga/2/168063.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

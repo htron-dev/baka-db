@@ -1,5 +1,7 @@
 # Boku no Heroine wa Te ni Oenai
 
+![boku-no-heroine-wa-te-ni-oenai](https://cdn.myanimelist.net/images/manga/1/162854.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

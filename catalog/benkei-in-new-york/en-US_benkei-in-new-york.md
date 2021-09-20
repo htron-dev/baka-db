@@ -1,5 +1,7 @@
 # Benkei in New York
 
+![benkei-in-new-york](https://cdn.myanimelist.net/images/manga/2/143297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

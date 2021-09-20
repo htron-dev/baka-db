@@ -1,5 +1,7 @@
 # Big X
 
+![big-x](https://cdn.myanimelist.net/images/manga/3/36122.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

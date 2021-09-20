@@ -1,5 +1,7 @@
 # Boku wa Konomama Kaeranai
 
+![boku-wa-konomama-kaeranai](https://cdn.myanimelist.net/images/anime/1/1216.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくはこのまま帰らない

@@ -1,5 +1,7 @@
 # Bikkuriman: Moen Zone no Himitsu
 
+![bikkuriman-moen-zone-no-himitsu](https://cdn.myanimelist.net/images/anime/11/28135.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ビックリマン 無縁ゾーンの秘宝

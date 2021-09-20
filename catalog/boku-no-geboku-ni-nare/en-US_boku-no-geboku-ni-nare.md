@@ -1,5 +1,7 @@
 # Boku no Geboku ni Nare!
 
+![boku-no-geboku-ni-nare](https://cdn.myanimelist.net/images/manga/3/171956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

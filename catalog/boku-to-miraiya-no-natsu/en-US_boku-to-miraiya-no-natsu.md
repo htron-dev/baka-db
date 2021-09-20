@@ -1,5 +1,7 @@
 # Boku to Miraiya no Natsu
 
+![boku-to-miraiya-no-natsu](https://cdn.myanimelist.net/images/manga/2/85247.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

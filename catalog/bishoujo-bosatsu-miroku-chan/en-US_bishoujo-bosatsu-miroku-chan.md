@@ -1,5 +1,7 @@
 # Bishoujo Bosatsu Miroku-chan
 
+![bishoujo-bosatsu-miroku-chan](https://cdn.myanimelist.net/images/manga/3/227226.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

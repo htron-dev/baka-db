@@ -1,5 +1,7 @@
 # Bleach: Spirits Are Forever with You
 
+![bleach-spirits-are-forever-with-you](https://cdn.myanimelist.net/images/manga/1/76783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Ball Meets Girl
 
+![ball-meets-girl](https://cdn.myanimelist.net/images/manga/1/171734.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

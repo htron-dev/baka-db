@@ -1,5 +1,7 @@
 # Blue Gender
 
+![blue-gender](https://cdn.myanimelist.net/images/manga/2/112117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブルージェンダー

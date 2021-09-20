@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou
 
+![baka-to-test-to-shoukanjuu-spinout-sore-ga-bokura-no-nichijou](https://cdn.myanimelist.net/images/anime/7/60855.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: バカとテストと召喚獣 SPINOUT! それが僕らの日常。遠征中

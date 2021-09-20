@@ -1,5 +1,7 @@
 # Baito de Wizard
 
+![baito-de-wizard](https://cdn.myanimelist.net/images/manga/3/135221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

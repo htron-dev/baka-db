@@ -1,5 +1,7 @@
 # Bug
 
+![bug](https://cdn.myanimelist.net/images/manga/2/207005.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

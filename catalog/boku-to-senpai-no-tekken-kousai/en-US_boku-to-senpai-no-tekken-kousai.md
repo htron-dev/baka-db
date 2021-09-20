@@ -1,5 +1,7 @@
 # Boku to Senpai no Tekken Kousai
 
+![boku-to-senpai-no-tekken-kousai](https://cdn.myanimelist.net/images/manga/2/150459.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

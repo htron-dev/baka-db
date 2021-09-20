@@ -1,5 +1,7 @@
 # Basilisk: Kouga Ninpouchou
 
+![basilisk-kouga-ninpouchou](https://cdn.myanimelist.net/images/manga/2/177216.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

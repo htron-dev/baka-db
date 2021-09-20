@@ -1,5 +1,7 @@
 # Boku wa Shitteru yo.
 
+![boku-wa-shitteru-yo](https://cdn.myanimelist.net/images/anime/11/88411.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ぼくは知ってるよ。

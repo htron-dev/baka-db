@@ -1,5 +1,7 @@
 # Brave Story
 
+![brave-story](https://cdn.myanimelist.net/images/anime/1333/97262.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイブ・ストーリー

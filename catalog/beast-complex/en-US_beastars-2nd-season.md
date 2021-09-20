@@ -1,5 +1,7 @@
 # Beastars 2nd Season
 
+![beastars-2nd-season](https://cdn.myanimelist.net/images/anime/1097/109646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BEASTARS 2 期

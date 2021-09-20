@@ -1,5 +1,7 @@
 # Barnacle Lou
 
+![barnacle-lou](https://cdn.myanimelist.net/images/anime/5/63887.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 따개비 루

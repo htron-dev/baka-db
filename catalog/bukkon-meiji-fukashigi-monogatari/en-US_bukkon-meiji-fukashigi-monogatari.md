@@ -1,5 +1,7 @@
 # Bukkon: Meiji Fukashigi Monogatari
 
+![bukkon-meiji-fukashigi-monogatari](https://cdn.myanimelist.net/images/manga/2/246230.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

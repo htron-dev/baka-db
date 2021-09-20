@@ -1,5 +1,7 @@
 # Green Dakara x Bakemono no Ko
 
+![green-dakara-x-bakemono-no-ko](https://cdn.myanimelist.net/images/anime/4/74722.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: GREEN DA・KA・RA× バケモノの子

@@ -1,5 +1,7 @@
 # Berserk Recap
 
+![berserk-recap](https://cdn.myanimelist.net/images/anime/9/84535.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ベルセルク 第 1 期ダイジェスト映像

@@ -1,5 +1,7 @@
 # Boku no Goshujinsama☆ - As You Wish
 
+![boku-no-goshujinsama☆-as-you-wish](https://cdn.myanimelist.net/images/manga/3/113393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

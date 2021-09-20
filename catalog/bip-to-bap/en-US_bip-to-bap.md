@@ -1,5 +1,7 @@
 # Bip to Bap
 
+![bip-to-bap](https://cdn.myanimelist.net/images/anime/12/70635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: ビップとバップ

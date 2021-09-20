@@ -1,5 +1,7 @@
 # Black Bullet: Tenchuu＊Girls
 
+![black-bullet-tenchuu＊-girls](https://cdn.myanimelist.net/images/anime/4/72108.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 天誅ガールズ「ミライ＊ガール」

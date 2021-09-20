@@ -1,5 +1,7 @@
 # Bokutachi Otoko no Ko
 
+![bokutachi-otoko-no-ko](https://cdn.myanimelist.net/images/manga/1/95453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

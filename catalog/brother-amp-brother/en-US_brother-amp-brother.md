@@ -1,5 +1,7 @@
 # Brother &amp; Brother
 
+![brother-amp-brother](https://cdn.myanimelist.net/images/manga/2/21451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

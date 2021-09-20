@@ -1,5 +1,7 @@
 # BanG Dream! Garupa☆Pico
 
+![ban-g-dream-garupa☆-pico](https://cdn.myanimelist.net/images/anime/1341/92872.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: BanG Dream! ガルパ ☆ ピコ

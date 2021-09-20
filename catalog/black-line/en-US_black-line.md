@@ -1,5 +1,7 @@
 # Black Line
 
+![black-line](https://cdn.myanimelist.net/images/manga/3/154637.jpg)
+
 -   **type**: manga
 -   **original-name**: Black Line
 -   **start-date**: 2014-05-06

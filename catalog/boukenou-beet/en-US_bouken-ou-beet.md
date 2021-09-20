@@ -1,5 +1,7 @@
 # Bouken Ou Beet
 
+![bouken-ou-beet](https://cdn.myanimelist.net/images/anime/7/21569.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 冒険王ビィト

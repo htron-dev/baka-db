@@ -1,5 +1,7 @@
 # Benkyou Shinasai!
 
+![benkyou-shinasai](https://cdn.myanimelist.net/images/manga/3/16685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

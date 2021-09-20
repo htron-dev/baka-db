@@ -1,5 +1,7 @@
 # Pale Blue Dot: Battle Athletess Daiundoukai ReSTART!
 
+![pale-blue-dot-battle-athletess-daiundoukai-re-start](https://cdn.myanimelist.net/images/manga/1/238833.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

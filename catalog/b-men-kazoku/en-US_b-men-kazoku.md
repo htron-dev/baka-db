@@ -1,5 +1,7 @@
 # B-Men Kazoku
 
+![b-men-kazoku](https://cdn.myanimelist.net/images/manga/2/6829.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

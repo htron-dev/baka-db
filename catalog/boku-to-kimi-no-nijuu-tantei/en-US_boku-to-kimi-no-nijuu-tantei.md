@@ -1,5 +1,7 @@
 # Boku to Kimi no Nijuu Tantei
 
+![boku-to-kimi-no-nijuu-tantei](https://cdn.myanimelist.net/images/manga/2/237375.jpg)
+
 -   **type**: manga
 -   **original-name**: ボクとキミの二重探偵
 -   **start-date**: 2020-03-04

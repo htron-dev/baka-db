@@ -1,5 +1,7 @@
 # BlazBlue
 
+![blaz-blue](https://cdn.myanimelist.net/images/manga/3/113585.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

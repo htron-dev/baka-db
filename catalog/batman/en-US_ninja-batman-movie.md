@@ -1,5 +1,7 @@
 # Ninja Batman
 
+![ninja-batman](https://cdn.myanimelist.net/images/anime/1351/95947.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ニンジャバットマン

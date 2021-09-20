@@ -1,5 +1,7 @@
 # Beyblade Burst Dynamite Battle
 
+![beyblade-burst-dynamite-battle](https://cdn.myanimelist.net/images/anime/1156/113543.jpg)
+
 -   **type**: ona
 -   **original-name**: ベイブレードバーストダイナマイトバトル
 -   **start-date**: 2021-04-02

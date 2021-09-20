@@ -1,5 +1,7 @@
 # Baby☆Love
 
+![baby☆-love](https://cdn.myanimelist.net/images/anime/13/10176.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ベイビィ ☆LOVE

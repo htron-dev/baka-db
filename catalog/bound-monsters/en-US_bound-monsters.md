@@ -1,5 +1,7 @@
 # Bound Monsters
 
+![bound-monsters](https://cdn.myanimelist.net/images/manga/2/150627.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: バウンドモンスターズ

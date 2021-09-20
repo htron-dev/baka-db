@@ -1,5 +1,7 @@
 # Brother Trap
 
+![brother-trap](https://cdn.myanimelist.net/images/manga/3/235499.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラザー・トラップ
 -   **start-date**: 2018-06-21

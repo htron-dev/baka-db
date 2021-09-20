@@ -1,5 +1,7 @@
 # B-Project: Zecchou\*Emotion
 
+![b-project-zecchou-emotion](https://cdn.myanimelist.net/images/anime/1368/111378.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: B-PROJECT ～絶頂＊エモーション～

@@ -1,5 +1,7 @@
 # Bogeul Bogeul Bomulseon
 
+![bogeul-bogeul-bomulseon](https://cdn.myanimelist.net/images/anime/12/71745.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 보글보글 보물선

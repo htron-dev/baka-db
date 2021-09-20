@@ -1,5 +1,7 @@
 # Boku wa Kanojo no 9-banme
 
+![boku-wa-kanojo-no-9-banme](https://cdn.myanimelist.net/images/manga/2/164721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 僕は彼女の 9 番目

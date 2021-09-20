@@ -1,5 +1,7 @@
 # Bunbetsu to Takan
 
+![bunbetsu-to-takan](https://cdn.myanimelist.net/images/manga/3/36783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

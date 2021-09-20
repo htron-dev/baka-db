@@ -1,5 +1,7 @@
 # B.Q The Roach Book
 
+![b-q-the-roach-book](https://cdn.myanimelist.net/images/manga/2/37278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ビー・キューアウトテイク集 THE ROACH BOOK

@@ -1,5 +1,7 @@
 # Baikoku Kikan
 
+![baikoku-kikan](https://cdn.myanimelist.net/images/manga/1/215767.jpg)
+
 -   **type**: manga
 -   **original-name**: 売国機関
 -   **start-date**: 2018-06-29

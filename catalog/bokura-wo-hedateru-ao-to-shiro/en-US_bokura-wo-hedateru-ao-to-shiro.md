@@ -1,5 +1,7 @@
 # Bokura wo Hedateru Ao to Shiro
 
+![bokura-wo-hedateru-ao-to-shiro](https://cdn.myanimelist.net/images/manga/1/224465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

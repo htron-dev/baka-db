@@ -1,5 +1,7 @@
 # Biblio Collect
 
+![biblio-collect](https://cdn.myanimelist.net/images/manga/2/226409.jpg)
+
 -   **type**: manga
 -   **original-name**: ビブリオコレクト
 -   **start-date**: 2018-11-16

@@ -1,5 +1,7 @@
 # Boku dake no Sugar Doll
 
+![boku-dake-no-sugar-doll](https://cdn.myanimelist.net/images/manga/1/176300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

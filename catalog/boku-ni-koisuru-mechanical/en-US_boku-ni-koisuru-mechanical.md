@@ -1,5 +1,7 @@
 # Boku ni Koisuru Mechanical
 
+![boku-ni-koisuru-mechanical](https://cdn.myanimelist.net/images/manga/3/105469.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

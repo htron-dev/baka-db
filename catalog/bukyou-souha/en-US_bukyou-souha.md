@@ -1,5 +1,7 @@
 # Bukyou Souha
 
+![bukyou-souha](https://cdn.myanimelist.net/images/manga/1/230688.jpg)
+
 -   **type**: manga
 -   **original-name**: 武狂争覇
 -   **start-date**: 2018-12-21

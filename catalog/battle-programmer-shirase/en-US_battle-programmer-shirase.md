@@ -1,5 +1,7 @@
 # Battle Programmer Shirase
 
+![battle-programmer-shirase](https://cdn.myanimelist.net/images/anime/12/2867.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: バトルプログラマーシラセ

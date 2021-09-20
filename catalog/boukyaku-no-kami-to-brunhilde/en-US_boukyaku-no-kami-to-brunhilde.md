@@ -1,5 +1,7 @@
 # Boukyaku no Kami to Brunhilde
 
+![boukyaku-no-kami-to-brunhilde](https://cdn.myanimelist.net/images/manga/2/163303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

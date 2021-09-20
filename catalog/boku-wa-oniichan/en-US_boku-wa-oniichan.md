@@ -1,5 +1,7 @@
 # Boku wa Oniichan.
 
+![boku-wa-oniichan](https://cdn.myanimelist.net/images/manga/3/20959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

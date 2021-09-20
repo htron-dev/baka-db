@@ -1,5 +1,7 @@
 # Banana Fish
 
+![banana-fish](https://cdn.myanimelist.net/images/anime/1190/93472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: BANANA FISH

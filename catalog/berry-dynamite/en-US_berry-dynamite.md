@@ -1,5 +1,7 @@
 # Berry Dynamite
 
+![berry-dynamite](https://cdn.myanimelist.net/images/manga/1/168045.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

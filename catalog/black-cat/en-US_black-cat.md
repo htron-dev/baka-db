@@ -1,5 +1,7 @@
 # Black Cat
 
+![black-cat](https://cdn.myanimelist.net/images/manga/1/181972.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ブラック・キャット

@@ -1,5 +1,7 @@
 # Bishoujo to wa, Kiru Koto to Mitsuketari
 
+![bishoujo-to-wa-kiru-koto-to-mitsuketari](https://cdn.myanimelist.net/images/manga/3/176149.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 美少女とは、斬る事と見つけたり

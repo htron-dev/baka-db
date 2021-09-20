@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Beast
 
+![bungou-stray-dogs-beast](https://cdn.myanimelist.net/images/manga/2/234643.jpg)
+
 -   **type**: manga
 -   **original-name**: 文豪ストレイドッグス BEAST
 -   **start-date**: 2019-12-26

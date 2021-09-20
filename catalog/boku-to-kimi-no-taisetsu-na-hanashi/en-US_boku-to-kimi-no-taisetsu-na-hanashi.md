@@ -1,5 +1,7 @@
 # Boku to Kimi no Taisetsu na Hanashi
 
+![boku-to-kimi-no-taisetsu-na-hanashi](https://cdn.myanimelist.net/images/manga/3/174432.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

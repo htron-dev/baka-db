@@ -1,5 +1,7 @@
 # Beautiful Gunbari
 
+![beautiful-gunbari](https://cdn.myanimelist.net/images/manga/1/228271.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 뷰티풀 군바리
 -   **start-date**: 2015-02-23

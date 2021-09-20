@@ -1,5 +1,7 @@
 # Code Name wa Sailor V
 
+![code-name-wa-sailor-v](https://cdn.myanimelist.net/images/manga/3/6602.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

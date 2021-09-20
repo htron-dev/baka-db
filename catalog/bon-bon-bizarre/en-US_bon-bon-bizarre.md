@@ -1,5 +1,7 @@
 # Bon Bon Bizarre
 
+![bon-bon-bizarre](https://cdn.myanimelist.net/images/manga/2/91751.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ボンボンビザール

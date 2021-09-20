@@ -1,5 +1,7 @@
 # Bonobono: Uchuu kara Kita Tomodachi
 
+![bonobono-uchuu-kara-kita-tomodachi](https://cdn.myanimelist.net/images/anime/10/89540.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぼのぼの 宇宙から来たともだち

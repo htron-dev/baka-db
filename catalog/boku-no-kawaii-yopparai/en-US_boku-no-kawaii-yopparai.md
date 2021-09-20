@@ -1,5 +1,7 @@
 # Boku no Kawaii Yopparai
 
+![boku-no-kawaii-yopparai](https://cdn.myanimelist.net/images/manga/3/224672.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

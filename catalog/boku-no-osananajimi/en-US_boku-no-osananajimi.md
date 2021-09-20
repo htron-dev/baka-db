@@ -1,5 +1,7 @@
 # Boku no Osananajimi
 
+![boku-no-osananajimi](https://cdn.myanimelist.net/images/manga/3/4674.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

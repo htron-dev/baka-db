@@ -1,5 +1,7 @@
 # Bite Maker: Ousama no Ω
 
+![bite-maker-ousama-no-ω](https://cdn.myanimelist.net/images/manga/1/229135.jpg)
+
 -   **type**: manga
 -   **original-name**: Bite Maker ～王様の Ω ～
 -   **start-date**: 2018-10-05

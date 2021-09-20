@@ -1,5 +1,7 @@
 # Boys Be...
 
+![boys-be](https://cdn.myanimelist.net/images/anime/1/2223.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ボーイズ・ビー

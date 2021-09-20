@@ -1,5 +1,7 @@
 # Boy &amp; Cool
 
+![boy-amp-cool](https://cdn.myanimelist.net/images/manga/2/40387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

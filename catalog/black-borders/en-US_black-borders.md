@@ -1,5 +1,7 @@
 # Black Borders
 
+![black-borders](https://cdn.myanimelist.net/images/manga/2/24644.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブラックボーダーズ

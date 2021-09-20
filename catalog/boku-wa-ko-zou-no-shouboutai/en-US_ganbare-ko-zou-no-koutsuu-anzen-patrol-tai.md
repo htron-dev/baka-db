@@ -1,5 +1,7 @@
 # Ganbare! Ko Zou no Koutsuu Anzen Patrol-tai
 
+![ganbare-ko-zou-no-koutsuu-anzen-patrol-tai](https://cdn.myanimelist.net/images/anime/1786/99512.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: がんばれ！子象の交通安全パトロール隊

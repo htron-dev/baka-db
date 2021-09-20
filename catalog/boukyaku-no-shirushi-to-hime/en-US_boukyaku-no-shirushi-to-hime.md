@@ -1,5 +1,7 @@
 # Boukyaku no Shirushi to Hime
 
+![boukyaku-no-shirushi-to-hime](https://cdn.myanimelist.net/images/manga/1/85823.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

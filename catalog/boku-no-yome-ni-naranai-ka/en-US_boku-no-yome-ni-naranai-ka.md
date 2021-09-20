@@ -1,5 +1,7 @@
 # Boku no Yome ni Naranai ka!
 
+![boku-no-yome-ni-naranai-ka](https://cdn.myanimelist.net/images/manga/2/151014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

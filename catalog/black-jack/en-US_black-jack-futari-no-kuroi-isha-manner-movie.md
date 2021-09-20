@@ -1,5 +1,7 @@
 # Black Jack: Futari no Kuroi Isha - Manner Movie
 
+![black-jack-futari-no-kuroi-isha-manner-movie](https://cdn.myanimelist.net/images/anime/7/86690.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブラック・ジャック ふたりの黒い医者

@@ -1,5 +1,7 @@
 # Bus Gamer
 
+![bus-gamer](https://cdn.myanimelist.net/images/manga/1/160475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: BUS GAMER

@@ -1,5 +1,7 @@
 # Okitegami Kyouko no Bibouroku
 
+![okitegami-kyouko-no-bibouroku](https://cdn.myanimelist.net/images/manga/1/167490.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

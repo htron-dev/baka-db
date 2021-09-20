@@ -1,5 +1,7 @@
 # Bokura wa Itsumo
 
+![bokura-wa-itsumo](https://cdn.myanimelist.net/images/manga/1/219796.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 71

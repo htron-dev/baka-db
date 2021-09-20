@@ -1,5 +1,7 @@
 # Bokura wa Setsunaku Koi wo Suru
 
+![bokura-wa-setsunaku-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/22845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕らは切なく恋をする

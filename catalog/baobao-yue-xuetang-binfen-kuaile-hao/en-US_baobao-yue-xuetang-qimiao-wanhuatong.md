@@ -1,5 +1,7 @@
 # Baobao Yue Xuetang: Qimiao Wanhuatong
 
+![baobao-yue-xuetang-qimiao-wanhuatong](https://cdn.myanimelist.net/images/anime/1247/115204.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 150
 -   **original-name**: 宝宝乐学堂之奇妙万花筒

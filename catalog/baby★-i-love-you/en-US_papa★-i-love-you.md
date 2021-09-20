@@ -1,5 +1,7 @@
 # Papa★I Love You
 
+![papa★-i-love-you](https://cdn.myanimelist.net/images/manga/2/14643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

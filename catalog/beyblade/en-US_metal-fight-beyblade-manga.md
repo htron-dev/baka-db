@@ -1,5 +1,7 @@
 # Metal Fight Beyblade
 
+![metal-fight-beyblade](https://cdn.myanimelist.net/images/manga/1/175423.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: メタルファイト ベイブレード

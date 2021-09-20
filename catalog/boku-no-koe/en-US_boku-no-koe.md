@@ -1,5 +1,7 @@
 # Boku no Koe
 
+![boku-no-koe](https://cdn.myanimelist.net/images/manga/1/9128.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

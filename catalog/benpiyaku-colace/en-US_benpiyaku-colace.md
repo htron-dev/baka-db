@@ -1,5 +1,7 @@
 # Benpiyaku Colace
 
+![benpiyaku-colace](https://cdn.myanimelist.net/images/anime/11/83688.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 便秘薬　コーラック

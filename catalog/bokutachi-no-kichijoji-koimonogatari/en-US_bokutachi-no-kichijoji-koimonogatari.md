@@ -1,5 +1,7 @@
 # Bokutachi no Kichijoji Koimonogatari
 
+![bokutachi-no-kichijoji-koimonogatari](https://cdn.myanimelist.net/images/manga/1/18456.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Break Blade Picture Drama
 
+![break-blade-picture-drama](https://cdn.myanimelist.net/images/anime/6/23822.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ブレイクブレイド ピクチャードラマ

@@ -1,5 +1,7 @@
 # Beast Wars II: Super Lifeform Transformers
 
+![beast-wars-ii-super-lifeform-transformers](https://cdn.myanimelist.net/images/manga/3/35678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

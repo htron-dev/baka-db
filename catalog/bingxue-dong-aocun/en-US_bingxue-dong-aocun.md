@@ -1,5 +1,7 @@
 # Bingxue Dong Aocun
 
+![bingxue-dong-aocun](https://cdn.myanimelist.net/images/anime/1687/115333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 冰雪冬奥村

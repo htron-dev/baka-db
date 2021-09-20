@@ -1,5 +1,7 @@
 # B.Q. The Fly Book
 
+![b-q-the-fly-book](https://cdn.myanimelist.net/images/manga/1/37275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

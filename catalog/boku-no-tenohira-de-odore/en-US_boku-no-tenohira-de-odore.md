@@ -1,5 +1,7 @@
 # Boku no Tenohira de Odore
 
+![boku-no-tenohira-de-odore](https://cdn.myanimelist.net/images/manga/2/11169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕の手のひらで踊れ

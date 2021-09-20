@@ -1,5 +1,7 @@
 # Blue Dragon Secret Trick
 
+![blue-dragon-secret-trick](https://cdn.myanimelist.net/images/manga/5/105009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブルードラゴン シークレットトリック

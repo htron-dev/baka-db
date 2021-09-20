@@ -1,5 +1,7 @@
 # Bachibachi
 
+![bachibachi](https://cdn.myanimelist.net/images/manga/3/214599.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 141

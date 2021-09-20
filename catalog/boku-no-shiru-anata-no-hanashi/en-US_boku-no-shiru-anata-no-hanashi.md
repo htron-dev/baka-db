@@ -1,5 +1,7 @@
 # Boku no Shiru Anata no Hanashi
 
+![boku-no-shiru-anata-no-hanashi](https://cdn.myanimelist.net/images/manga/2/82068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

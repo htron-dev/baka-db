@@ -1,5 +1,7 @@
 # Bilocators
 
+![bilocators](https://cdn.myanimelist.net/images/manga/1/249236.jpg)
+
 -   **type**: manga
 -   **original-name**: バイロケーターズ
 -   **start-date**: 2021-04-28

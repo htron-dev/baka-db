@@ -1,5 +1,7 @@
 # Hatsujou♥Kareshi
 
+![hatsujou♥-kareshi](https://cdn.myanimelist.net/images/manga/2/65899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

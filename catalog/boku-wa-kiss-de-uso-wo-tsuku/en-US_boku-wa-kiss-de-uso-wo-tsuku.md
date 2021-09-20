@@ -1,5 +1,7 @@
 # Boku wa Kiss de Uso wo Tsuku
 
+![boku-wa-kiss-de-uso-wo-tsuku](https://cdn.myanimelist.net/images/manga/1/177550.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

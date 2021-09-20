@@ -1,5 +1,7 @@
 # Bara no Wana: Toraware no Otome to Gin no Hakushaku
 
+![bara-no-wana-toraware-no-otome-to-gin-no-hakushaku](https://cdn.myanimelist.net/images/manga/2/191818.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki
 
+![black-jack-specials-inochi-wo-meguru-yottsu-no-kiseki](https://cdn.myanimelist.net/images/anime/2/9502.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ブラック・ジャックスペシャル ～命をめぐる 4 つの奇跡～

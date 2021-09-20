@@ -1,5 +1,7 @@
 # Bonobono
 
+![bonobono](https://cdn.myanimelist.net/images/manga/3/171791.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼのぼの
 

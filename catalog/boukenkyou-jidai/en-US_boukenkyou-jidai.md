@@ -1,5 +1,7 @@
 # Boukenkyou Jidai
 
+![boukenkyou-jidai](https://cdn.myanimelist.net/images/manga/3/36126.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

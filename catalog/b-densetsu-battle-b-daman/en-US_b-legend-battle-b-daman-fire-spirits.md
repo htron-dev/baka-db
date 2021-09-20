@@ -1,5 +1,7 @@
 # B-Legend! Battle B-Daman Fire Spirits!
 
+![b-legend-battle-b-daman-fire-spirits](https://cdn.myanimelist.net/images/anime/10/22115.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: B-伝説(ビーレジェンド)! バトルビーダマン 炎魂(ファイヤースピリッツ!)

@@ -1,5 +1,7 @@
 # Black Jack: Aoki Mirai
 
+![black-jack-aoki-mirai](https://cdn.myanimelist.net/images/manga/1/152336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

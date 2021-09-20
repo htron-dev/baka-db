@@ -1,5 +1,7 @@
 # Boku to Furusato Restaurant
 
+![boku-to-furusato-restaurant](https://cdn.myanimelist.net/images/manga/3/164991.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

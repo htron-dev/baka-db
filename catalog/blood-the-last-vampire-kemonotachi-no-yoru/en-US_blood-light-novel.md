@@ -1,5 +1,7 @@
 # Blood+
 
+![blood](https://cdn.myanimelist.net/images/manga/3/38473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 13

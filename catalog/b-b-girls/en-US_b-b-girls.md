@@ -1,5 +1,7 @@
 # B.B. Girls
 
+![b-b-girls](https://cdn.myanimelist.net/images/manga/3/94413.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: B.B.GIRLS

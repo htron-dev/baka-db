@@ -1,5 +1,7 @@
 # Babelheim no Shounin
 
+![babelheim-no-shounin](https://cdn.myanimelist.net/images/manga/2/137309.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

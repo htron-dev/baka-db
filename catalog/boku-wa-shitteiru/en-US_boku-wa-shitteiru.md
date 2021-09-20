@@ -1,5 +1,7 @@
 # Boku wa Shitteiru.
 
+![boku-wa-shitteiru](https://cdn.myanimelist.net/images/manga/1/238946.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

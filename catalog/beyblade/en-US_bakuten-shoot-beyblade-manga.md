@@ -1,5 +1,7 @@
 # Bakuten Shoot Beyblade
 
+![bakuten-shoot-beyblade](https://cdn.myanimelist.net/images/manga/5/627.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 62

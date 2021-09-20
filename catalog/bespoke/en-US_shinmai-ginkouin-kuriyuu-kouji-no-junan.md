@@ -1,5 +1,7 @@
 # Shinmai Ginkouin Kuriyuu Kouji no Junan
 
+![shinmai-ginkouin-kuriyuu-kouji-no-junan](https://cdn.myanimelist.net/images/manga/2/26142.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

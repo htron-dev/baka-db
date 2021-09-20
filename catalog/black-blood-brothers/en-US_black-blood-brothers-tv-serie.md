@@ -1,5 +1,7 @@
 # Black Blood Brothers
 
+![black-blood-brothers](https://cdn.myanimelist.net/images/anime/5/13804.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブラック・ブラッド・ブラザーズ

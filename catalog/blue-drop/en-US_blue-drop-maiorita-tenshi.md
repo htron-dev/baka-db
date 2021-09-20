@@ -1,5 +1,7 @@
 # Blue Drop: Maiorita Tenshi
 
+![blue-drop-maiorita-tenshi](https://cdn.myanimelist.net/images/manga/2/9325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Bemubemu Hunter Kotengu Tenmaru
 
+![bemubemu-hunter-kotengu-tenmaru](https://cdn.myanimelist.net/images/anime/12/47183.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 19
 -   **original-name**: べムべムハンター・こてんぐテン丸

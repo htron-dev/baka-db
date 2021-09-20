@@ -1,5 +1,7 @@
 # Blanche wa Koishiteru
 
+![blanche-wa-koishiteru](https://cdn.myanimelist.net/images/manga/1/153389.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブランジェは恋してる

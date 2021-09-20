@@ -1,5 +1,7 @@
 # Bannou Kanteishi Q no Suirigeki
 
+![bannou-kanteishi-q-no-suirigeki](https://cdn.myanimelist.net/images/manga/1/107617.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 125

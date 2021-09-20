@@ -1,5 +1,7 @@
 # Bukiyou na Silent
 
+![bukiyou-na-silent](https://cdn.myanimelist.net/images/manga/3/183404.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

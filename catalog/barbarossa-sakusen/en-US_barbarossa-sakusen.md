@@ -1,5 +1,7 @@
 # Barbarossa Sakusen
 
+![barbarossa-sakusen](https://cdn.myanimelist.net/images/manga/5/132033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バルバロッサ作戦

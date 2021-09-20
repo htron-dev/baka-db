@@ -1,5 +1,7 @@
 # Black x Black
 
+![black-x-black](https://cdn.myanimelist.net/images/manga/2/82776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

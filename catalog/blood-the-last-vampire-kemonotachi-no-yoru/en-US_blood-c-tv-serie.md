@@ -1,5 +1,7 @@
 # Blood-C
 
+![blood-c](https://cdn.myanimelist.net/images/anime/2/31649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブラッドシー

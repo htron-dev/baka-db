@@ -1,5 +1,7 @@
 # Blow!
 
+![blow](https://cdn.myanimelist.net/images/manga/1/98009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

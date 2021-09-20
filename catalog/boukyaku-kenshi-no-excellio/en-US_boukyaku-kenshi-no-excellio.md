@@ -1,5 +1,7 @@
 # Boukyaku Kenshi no Excellio
 
+![boukyaku-kenshi-no-excellio](https://cdn.myanimelist.net/images/manga/1/159988.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 忘却剣士の聖刃詩篇《エクセリオ》

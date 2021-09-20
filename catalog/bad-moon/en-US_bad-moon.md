@@ -1,5 +1,7 @@
 # Bad Moon
 
+![bad-moon](https://cdn.myanimelist.net/images/manga/2/129983.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: BAD MOON

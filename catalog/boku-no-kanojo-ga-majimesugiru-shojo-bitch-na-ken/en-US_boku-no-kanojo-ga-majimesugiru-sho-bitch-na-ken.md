@@ -1,5 +1,7 @@
 # Boku no Kanojo ga Majimesugiru Sho-bitch na Ken
 
+![boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken](https://cdn.myanimelist.net/images/anime/12/87623.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 僕の彼女がマジメ過ぎるしょびっちな件

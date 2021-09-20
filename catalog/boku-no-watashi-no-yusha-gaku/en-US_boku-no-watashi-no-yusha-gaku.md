@@ -1,5 +1,7 @@
 # Boku no Watashi no Yusha Gaku
 
+![boku-no-watashi-no-yusha-gaku](https://cdn.myanimelist.net/images/manga/2/178864.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

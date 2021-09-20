@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" to Koisuru Episode
 
+![bungaku-shoujo-to-koisuru-episode](https://cdn.myanimelist.net/images/manga/1/115243.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 45

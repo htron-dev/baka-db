@@ -1,5 +1,7 @@
 # Mijikamon Episode 0
 
+![mijikamon-episode-0](https://cdn.myanimelist.net/images/anime/1395/98927.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: みじかもん 第 0 話

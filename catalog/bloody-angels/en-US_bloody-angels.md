@@ -1,5 +1,7 @@
 # Bloody Angels
 
+![bloody-angels](https://cdn.myanimelist.net/images/manga/1/123947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

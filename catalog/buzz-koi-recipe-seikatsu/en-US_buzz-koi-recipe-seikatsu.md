@@ -1,5 +1,7 @@
 # Buzz Koi Recipe Seikatsu
 
+![buzz-koi-recipe-seikatsu](https://cdn.myanimelist.net/images/manga/2/230213.jpg)
+
 -   **type**: manga
 -   **original-name**: バズ恋レシピ生活
 -   **start-date**: 2019-08-16

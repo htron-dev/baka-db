@@ -1,5 +1,7 @@
 # NOiSE
 
+![n-oi-se](https://cdn.myanimelist.net/images/manga/1/177551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

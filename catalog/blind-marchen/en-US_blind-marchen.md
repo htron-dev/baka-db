@@ -1,5 +1,7 @@
 # Blind Märchen
 
+![blind-marchen](https://cdn.myanimelist.net/images/manga/1/66313.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 24

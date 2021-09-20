@@ -1,5 +1,7 @@
 # Bad Prince Honey Party
 
+![bad-prince-honey-party](https://cdn.myanimelist.net/images/manga/2/246505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

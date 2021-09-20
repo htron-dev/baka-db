@@ -1,5 +1,7 @@
 # Boys Be... L co-op
 
+![boys-be-l-co-op](https://cdn.myanimelist.net/images/manga/1/183367.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 45

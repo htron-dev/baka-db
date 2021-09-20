@@ -1,5 +1,7 @@
 # Baroque Knights
 
+![baroque-knights](https://cdn.myanimelist.net/images/manga/2/89819.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: バロック騎士団

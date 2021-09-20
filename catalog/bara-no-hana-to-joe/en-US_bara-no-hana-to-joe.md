@@ -1,5 +1,7 @@
 # Bara no Hana to Joe
 
+![bara-no-hana-to-joe](https://cdn.myanimelist.net/images/anime/1171/112337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バラの花とジョー

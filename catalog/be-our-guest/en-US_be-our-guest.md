@@ -1,5 +1,7 @@
 # Be Our Guest
 
+![be-our-guest](https://cdn.myanimelist.net/images/manga/3/20957.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: be our guest

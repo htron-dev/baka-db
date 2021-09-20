@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi
 
+![baka-to-test-to-shoukanjuu-ni-mahou-hideyoshi-hideyoshi](https://cdn.myanimelist.net/images/anime/8/63597.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: バカとテストと召喚獣にっ！ 『魔法秀吉ひでよし』

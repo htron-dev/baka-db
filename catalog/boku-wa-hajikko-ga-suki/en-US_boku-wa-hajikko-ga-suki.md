@@ -1,5 +1,7 @@
 # Boku wa Hajikko ga Suki
 
+![boku-wa-hajikko-ga-suki](https://cdn.myanimelist.net/images/manga/4/67419.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

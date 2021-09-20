@@ -1,5 +1,7 @@
 # Boku no Hero Academia the Movie: Futari no Hero Specials
 
+![boku-no-hero-academia-the-movie-futari-no-hero-specials](https://cdn.myanimelist.net/images/anime/1420/96793.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 僕のヒーローアカデミア THE MOVIE ～ 2 人の英雄（ヒーロー）～ 特典

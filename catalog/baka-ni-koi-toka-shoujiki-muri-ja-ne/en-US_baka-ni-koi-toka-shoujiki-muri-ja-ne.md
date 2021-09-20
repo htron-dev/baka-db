@@ -1,5 +1,7 @@
 # Baka ni Koi toka Shoujiki Muri ja ne?
 
+![baka-ni-koi-toka-shoujiki-muri-ja-ne](https://cdn.myanimelist.net/images/manga/1/221760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Black Jack (TV): Hizouban Specials
 
+![black-jack-tv-hizouban-specials](https://cdn.myanimelist.net/images/anime/2/7416.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ブラックジャック 秘蔵版スペシャル

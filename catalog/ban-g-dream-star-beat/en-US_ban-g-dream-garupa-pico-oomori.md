@@ -1,5 +1,7 @@
 # BanG Dream! Garupa☆Pico: Oomori
 
+![ban-g-dream-garupa☆-pico-oomori](https://cdn.myanimelist.net/images/anime/1237/111699.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: BanG Dream! ガルパ ☆ ピコ ~大盛り~

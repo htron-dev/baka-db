@@ -1,5 +1,7 @@
 # Bushin
 
+![bushin](https://cdn.myanimelist.net/images/manga/1/75605.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

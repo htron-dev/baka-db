@@ -1,5 +1,7 @@
 # Blue Lock
 
+![blue-lock](https://cdn.myanimelist.net/images/manga/5/213340.jpg)
+
 -   **type**: manga
 -   **original-name**: ブルーロック
 -   **start-date**: 2018-08-01

@@ -1,5 +1,7 @@
 # Boku to Boku
 
+![boku-to-boku](https://cdn.myanimelist.net/images/manga/1/172063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

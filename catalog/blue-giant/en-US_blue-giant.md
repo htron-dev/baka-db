@@ -1,5 +1,7 @@
 # Blue Giant
 
+![blue-giant](https://cdn.myanimelist.net/images/manga/1/148869.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 80

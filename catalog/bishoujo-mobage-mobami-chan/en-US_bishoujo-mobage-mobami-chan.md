@@ -1,5 +1,7 @@
 # Bishoujo Mobage: Mobami-chan
 
+![bishoujo-mobage-mobami-chan](https://cdn.myanimelist.net/images/anime/8/70285.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 美少女 Mobage モバミちゃん

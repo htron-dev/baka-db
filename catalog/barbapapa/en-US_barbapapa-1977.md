@@ -1,5 +1,7 @@
 # Barbapapa (1977)
 
+![barbapapa-1977](https://cdn.myanimelist.net/images/anime/3/53233.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: バーバパパ (1977)

@@ -1,5 +1,7 @@
 # Binetsu no Karte
 
+![binetsu-no-karte](https://cdn.myanimelist.net/images/manga/1/30455.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

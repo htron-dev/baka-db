@@ -1,5 +1,7 @@
 # Bakegyamon
 
+![bakegyamon](https://cdn.myanimelist.net/images/anime/10/21146.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 妖逆門

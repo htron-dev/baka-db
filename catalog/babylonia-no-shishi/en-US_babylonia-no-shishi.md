@@ -1,5 +1,7 @@
 # Babylonia no Shishi
 
+![babylonia-no-shishi](https://cdn.myanimelist.net/images/manga/3/127757.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

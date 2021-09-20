@@ -1,5 +1,7 @@
 # Black Fox
 
+![black-fox](https://cdn.myanimelist.net/images/anime/1217/103378.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BLACKFOX

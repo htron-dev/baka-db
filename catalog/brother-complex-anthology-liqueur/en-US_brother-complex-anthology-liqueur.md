@@ -1,5 +1,7 @@
 # Brother Complex Anthology: Liqueur
 
+![brother-complex-anthology-liqueur](https://cdn.myanimelist.net/images/manga/3/172183.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 40

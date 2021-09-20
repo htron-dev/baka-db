@@ -1,5 +1,7 @@
 # Bungo
 
+![bungo](https://cdn.myanimelist.net/images/manga/3/164285.jpg)
+
 -   **type**: manga
 -   **original-name**: BUNGO
 -   **start-date**: 2014-12-18

@@ -1,5 +1,7 @@
 # Bistro Pas Mal no Jikenbo
 
+![bistro-pas-mal-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/163808.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

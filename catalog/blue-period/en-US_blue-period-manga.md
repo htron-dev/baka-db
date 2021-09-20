@@ -1,5 +1,7 @@
 # Blue Period
 
+![blue-period](https://cdn.myanimelist.net/images/manga/2/204827.jpg)
+
 -   **type**: manga
 -   **original-name**: ブルーピリオド
 -   **start-date**: 2017-06-24

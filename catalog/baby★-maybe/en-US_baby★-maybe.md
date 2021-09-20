@@ -1,5 +1,7 @@
 # Baby★Maybe
 
+![baby★-maybe](https://cdn.myanimelist.net/images/manga/1/12047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベイビー ★ メイビー

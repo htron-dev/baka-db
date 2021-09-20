@@ -1,5 +1,7 @@
 # Boku dake ga Inai Machi Recaps
 
+![boku-dake-ga-inai-machi-recaps](https://cdn.myanimelist.net/images/anime/2/86477.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 僕だけがいない街

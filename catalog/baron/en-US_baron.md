@@ -1,5 +1,7 @@
 # Baron
 
+![baron](https://cdn.myanimelist.net/images/manga/2/205546.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 107

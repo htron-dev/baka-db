@@ -1,5 +1,7 @@
 # Buddy Complex
 
+![buddy-complex](https://cdn.myanimelist.net/images/manga/1/141865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

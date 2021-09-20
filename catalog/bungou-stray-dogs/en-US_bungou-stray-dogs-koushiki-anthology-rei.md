@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Koushiki Anthology: Rei
 
+![bungou-stray-dogs-koushiki-anthology-rei](https://cdn.myanimelist.net/images/manga/2/235330.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

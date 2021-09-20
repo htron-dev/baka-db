@@ -1,5 +1,7 @@
 # Bijin Onna Joushi Takizawa-san
 
+![bijin-onna-joushi-takizawa-san](https://cdn.myanimelist.net/images/manga/2/204811.jpg)
+
 -   **type**: manga
 -   **original-name**: 美人女上司滝沢さん
 -   **start-date**: 2016-08-12

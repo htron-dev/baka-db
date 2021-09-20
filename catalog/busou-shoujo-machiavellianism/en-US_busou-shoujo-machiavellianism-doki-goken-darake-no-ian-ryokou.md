@@ -1,5 +1,7 @@
 # Busou Shoujo Machiavellianism: Doki! "Goken-darake" no Ian Ryokou
 
+![busou-shoujo-machiavellianism-doki-goken-darake-no-ian-ryokou](https://cdn.myanimelist.net/images/anime/6/89687.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 武装少女マキャヴェリズム ドキッ！「五剣だらけ」の慰安旅行

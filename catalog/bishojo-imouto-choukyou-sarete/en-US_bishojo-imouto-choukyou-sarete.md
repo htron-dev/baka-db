@@ -1,5 +1,7 @@
 # Bishojo Imouto: Choukyou Sarete
 
+![bishojo-imouto-choukyou-sarete](https://cdn.myanimelist.net/images/manga/1/195848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 美処女妹　調教されて

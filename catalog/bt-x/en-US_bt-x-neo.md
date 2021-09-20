@@ -1,5 +1,7 @@
 # B'T X Neo
 
+![bt-x-neo](https://cdn.myanimelist.net/images/anime/11/55619.jpg)
+
 -   **type**: ova
 -   **episodes**: 14
 -   **original-name**: Ｂ’Ｔ　Ｘ（ビート・エックス）　ＮＥＯ

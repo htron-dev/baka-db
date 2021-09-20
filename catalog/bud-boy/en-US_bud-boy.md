@@ -1,5 +1,7 @@
 # Bud Boy
 
+![bud-boy](https://cdn.myanimelist.net/images/manga/2/194170.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Bai She Chuan Zhi Bai Suzhen
 
+![bai-she-chuan-zhi-bai-suzhen](https://cdn.myanimelist.net/images/anime/1703/110286.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 白蛇传之白素贞

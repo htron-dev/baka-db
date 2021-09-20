@@ -1,5 +1,7 @@
 # Battle Spirits: Kakumei no Galette
 
+![battle-spirits-kakumei-no-galette](https://cdn.myanimelist.net/images/anime/1999/111804.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: バトルスピリッツ 赫盟のガレット

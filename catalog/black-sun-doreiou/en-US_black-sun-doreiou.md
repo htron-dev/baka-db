@@ -1,5 +1,7 @@
 # Black Sun Doreiou
 
+![black-sun-doreiou](https://cdn.myanimelist.net/images/manga/1/9080.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

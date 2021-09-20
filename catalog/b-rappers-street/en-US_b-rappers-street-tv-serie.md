@@ -1,5 +1,7 @@
 # B Rappers Street
 
+![b-rappers-street](https://cdn.myanimelist.net/images/anime/1126/99095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: B ラッパーズ ストリート

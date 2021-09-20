@@ -1,5 +1,7 @@
 # Bad! Daddy
 
+![bad-daddy](https://cdn.myanimelist.net/images/manga/2/11600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バッド！ダディ

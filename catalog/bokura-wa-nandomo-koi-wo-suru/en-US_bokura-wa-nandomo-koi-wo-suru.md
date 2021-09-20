@@ -1,5 +1,7 @@
 # Bokura wa Nandomo Koi wo Suru
 
+![bokura-wa-nandomo-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/220493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

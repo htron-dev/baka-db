@@ -1,5 +1,7 @@
 # Brave Star☆Romantics
 
+![brave-star☆-romantics](https://cdn.myanimelist.net/images/manga/2/179653.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

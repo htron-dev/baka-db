@@ -1,5 +1,7 @@
 # Blue Gender
 
+![blue-gender](https://cdn.myanimelist.net/images/anime/1/2023.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: BLUE GENDER

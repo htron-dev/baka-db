@@ -1,5 +1,7 @@
 # Buttobi!! CPU
 
+![buttobi-cpu](https://cdn.myanimelist.net/images/anime/4/53479.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ぶっとび!!CPU

@@ -1,5 +1,7 @@
 # Yoake no Boogiepop
 
+![yoake-no-boogiepop](https://cdn.myanimelist.net/images/manga/2/231883.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

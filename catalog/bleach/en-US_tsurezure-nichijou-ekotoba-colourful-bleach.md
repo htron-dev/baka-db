@@ -1,5 +1,7 @@
 # Tsurezure Nichijou Ekotoba Colourful Bleach
 
+![tsurezure-nichijou-ekotoba-colourful-bleach](https://cdn.myanimelist.net/images/manga/3/192813.jpg)
+
 -   **type**: manga
 -   **chapters**: 37
 -   **original-name**: 徒然日常絵詞 カラフル ブリーチ

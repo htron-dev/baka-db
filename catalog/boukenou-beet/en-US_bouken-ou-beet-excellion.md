@@ -1,5 +1,7 @@
 # Bouken Ou Beet Excellion
 
+![bouken-ou-beet-excellion](https://cdn.myanimelist.net/images/anime/4/21570.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 冒険王ビィト エクセリオン

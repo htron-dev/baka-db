@@ -1,5 +1,7 @@
 # I Love Sky
 
+![i-love-sky](https://cdn.myanimelist.net/images/anime/12/65739.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: I Love Sky

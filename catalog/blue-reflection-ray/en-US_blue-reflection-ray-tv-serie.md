@@ -1,5 +1,7 @@
 # Blue Reflection Ray
 
+![blue-reflection-ray](https://cdn.myanimelist.net/images/anime/1634/114551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: BLUE REFLECTION RAY/澪

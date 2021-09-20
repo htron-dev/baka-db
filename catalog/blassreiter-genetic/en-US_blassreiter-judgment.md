@@ -1,5 +1,7 @@
 # Blassreiter Judgment
 
+![blassreiter-judgment](https://cdn.myanimelist.net/images/manga/1/160120.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 24

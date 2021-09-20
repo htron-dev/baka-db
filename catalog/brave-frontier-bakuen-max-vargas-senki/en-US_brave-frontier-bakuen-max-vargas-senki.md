@@ -1,5 +1,7 @@
 # Brave Frontier: Bakuen Max! Vargas Senki
 
+![brave-frontier-bakuen-max-vargas-senki](https://cdn.myanimelist.net/images/manga/3/161470.jpg)
+
 -   **type**: manga
 -   **original-name**: ブレイブ フロンティア 爆炎 MAX! ヴァルガス戦記
 -   **start-date**: 2014-10-21

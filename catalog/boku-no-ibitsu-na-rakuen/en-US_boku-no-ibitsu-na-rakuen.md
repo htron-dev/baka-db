@@ -1,5 +1,7 @@
 # Boku no Ibitsu na Rakuen
 
+![boku-no-ibitsu-na-rakuen](https://cdn.myanimelist.net/images/manga/3/237879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Banya: The Explosive Delivery Man
 
+![banya-the-explosive-delivery-man](https://cdn.myanimelist.net/images/manga/1/1961.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 38

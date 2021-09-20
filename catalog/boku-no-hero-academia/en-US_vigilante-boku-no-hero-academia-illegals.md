@@ -1,5 +1,7 @@
 # Vigilante: Boku no Hero Academia Illegals
 
+![vigilante-boku-no-hero-academia-illegals](https://cdn.myanimelist.net/images/manga/3/195519.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
 -   **start-date**: 2016-08-20

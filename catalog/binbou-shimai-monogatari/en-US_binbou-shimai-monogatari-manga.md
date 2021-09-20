@@ -1,5 +1,7 @@
 # Binbou Shimai Monogatari
 
+![binbou-shimai-monogatari](https://cdn.myanimelist.net/images/manga/2/179810.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # Barairo My Honey
 
+![barairo-my-honey](https://cdn.myanimelist.net/images/manga/2/185979.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

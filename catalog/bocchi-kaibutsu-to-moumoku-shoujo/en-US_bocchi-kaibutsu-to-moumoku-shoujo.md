@@ -1,5 +1,7 @@
 # Bocchi Kaibutsu to Moumoku Shoujo
 
+![bocchi-kaibutsu-to-moumoku-shoujo](https://cdn.myanimelist.net/images/manga/2/215864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

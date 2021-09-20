@@ -1,5 +1,7 @@
 # Basculer
 
+![basculer](https://cdn.myanimelist.net/images/manga/2/200490.jpg)
+
 -   **type**: manga
 -   **original-name**: BASCULER
 -   **start-date**: 2014-01-09

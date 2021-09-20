@@ -1,5 +1,7 @@
 # Burn Up!
 
+![burn-up](https://cdn.myanimelist.net/images/anime/4/2888.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バーンナップ

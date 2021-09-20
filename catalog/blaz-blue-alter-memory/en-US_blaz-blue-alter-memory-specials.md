@@ -1,5 +1,7 @@
 # BlazBlue: Alter Memory Specials
 
+![blaz-blue-alter-memory-specials](https://cdn.myanimelist.net/images/anime/4/78024.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ブレイブルー オルターメモリー

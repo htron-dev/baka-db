@@ -1,5 +1,7 @@
 # Boku Koi Conductor
 
+![boku-koi-conductor](https://cdn.myanimelist.net/images/manga/1/188805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ボク恋コンダクター

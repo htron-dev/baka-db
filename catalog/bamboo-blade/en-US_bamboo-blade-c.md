@@ -1,5 +1,7 @@
 # Bamboo Blade C
 
+![bamboo-blade-c](https://cdn.myanimelist.net/images/manga/3/134511.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

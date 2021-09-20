@@ -1,5 +1,7 @@
 # Boku wa Shitataka-kun
 
+![boku-wa-shitataka-kun](https://cdn.myanimelist.net/images/manga/1/235842.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 70

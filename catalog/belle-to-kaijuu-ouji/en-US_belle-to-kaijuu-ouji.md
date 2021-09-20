@@ -1,5 +1,7 @@
 # Belle to Kaijuu Ouji
 
+![belle-to-kaijuu-ouji](https://cdn.myanimelist.net/images/anime/12/82359.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルとかいじゅう王子

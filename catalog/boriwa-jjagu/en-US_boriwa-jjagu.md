@@ -1,5 +1,7 @@
 # Boriwa Jjagu
 
+![boriwa-jjagu](https://cdn.myanimelist.net/images/anime/1305/115557.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 보리와 짜구

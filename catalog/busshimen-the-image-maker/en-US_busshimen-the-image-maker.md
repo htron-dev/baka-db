@@ -1,5 +1,7 @@
 # Busshimen! The Image Maker
 
+![busshimen-the-image-maker](https://cdn.myanimelist.net/images/manga/3/45300.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

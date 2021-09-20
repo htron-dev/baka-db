@@ -1,5 +1,7 @@
 # Private Opinion: Banana Fish Another Story
 
+![private-opinion-banana-fish-another-story](https://cdn.myanimelist.net/images/manga/2/202641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

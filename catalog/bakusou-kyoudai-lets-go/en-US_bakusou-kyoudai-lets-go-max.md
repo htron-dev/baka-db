@@ -1,5 +1,7 @@
 # Bakusou Kyoudai Let's & Go!! MAX
 
+![bakusou-kyoudai-lets-go-max](https://cdn.myanimelist.net/images/manga/2/28855.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 爆走兄弟レッツ＆ゴー!! ＭＡＸ

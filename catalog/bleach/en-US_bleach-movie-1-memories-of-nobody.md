@@ -1,5 +1,7 @@
 # Bleach Movie 1: Memories of Nobody
 
+![bleach-movie-1-memories-of-nobody](https://cdn.myanimelist.net/images/anime/1/1686.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BLEACH MEMORIES OF NOBODY

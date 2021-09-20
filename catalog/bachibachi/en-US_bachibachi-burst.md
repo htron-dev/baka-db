@@ -1,5 +1,7 @@
 # Bachibachi Burst
 
+![bachibachi-burst](https://cdn.myanimelist.net/images/manga/1/226878.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 109

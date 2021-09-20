@@ -1,5 +1,7 @@
 # Bishounen Tanteidan
 
+![bishounen-tanteidan](https://cdn.myanimelist.net/images/anime/1693/115133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 美少年探偵団

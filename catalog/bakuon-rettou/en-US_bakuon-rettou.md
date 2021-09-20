@@ -1,5 +1,7 @@
 # Bakuon Rettou
 
+![bakuon-rettou](https://cdn.myanimelist.net/images/manga/3/173111.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 105

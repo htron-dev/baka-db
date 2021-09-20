@@ -1,5 +1,7 @@
 # Bokura no Seishun wa Shindenai
 
+![bokura-no-seishun-wa-shindenai](https://cdn.myanimelist.net/images/manga/2/231653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

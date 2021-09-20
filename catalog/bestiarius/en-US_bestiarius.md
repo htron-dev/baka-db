@@ -1,5 +1,7 @@
 # Bestiarius
 
+![bestiarius](https://cdn.myanimelist.net/images/manga/2/141557.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Bokura wa Minna Shindeiru♪
 
+![bokura-wa-minna-shindeiru♪](https://cdn.myanimelist.net/images/manga/3/185994.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 55

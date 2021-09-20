@@ -1,5 +1,7 @@
 # Bermuda Triangle: Karen on Stage♪
 
+![bermuda-triangle-karen-on-stage♪](https://cdn.myanimelist.net/images/manga/1/150628.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: バミューダ △ トライアングル カレン オン ステージ ♪

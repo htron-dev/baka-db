@@ -1,5 +1,7 @@
 # Bakeneko Katatte Sourou
 
+![bakeneko-katatte-sourou](https://cdn.myanimelist.net/images/manga/3/236814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

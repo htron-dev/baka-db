@@ -1,5 +1,7 @@
 # Billion Girl
 
+![billion-girl](https://cdn.myanimelist.net/images/manga/3/191590.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 41

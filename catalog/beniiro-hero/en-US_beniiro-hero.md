@@ -1,5 +1,7 @@
 # Beniiro Hero
 
+![beniiro-hero](https://cdn.myanimelist.net/images/manga/2/165847.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 87

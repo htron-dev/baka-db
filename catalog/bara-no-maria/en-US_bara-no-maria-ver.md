@@ -1,5 +1,7 @@
 # Bara no Maria Ver
 
+![bara-no-maria-ver](https://cdn.myanimelist.net/images/manga/1/138961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 40

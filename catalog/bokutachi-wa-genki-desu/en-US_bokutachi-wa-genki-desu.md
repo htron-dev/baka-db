@@ -1,5 +1,7 @@
 # Bokutachi wa Genki desu
 
+![bokutachi-wa-genki-desu](https://cdn.myanimelist.net/images/manga/2/227449.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

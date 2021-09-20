@@ -1,5 +1,7 @@
 # Beelzebub
 
+![beelzebub](https://cdn.myanimelist.net/images/manga/3/134735.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: べるぜバブ

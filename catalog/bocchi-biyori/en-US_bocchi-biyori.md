@@ -1,5 +1,7 @@
 # Bocchi Biyori..
 
+![bocchi-biyori](https://cdn.myanimelist.net/images/manga/3/83871.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼっち日和。。
 

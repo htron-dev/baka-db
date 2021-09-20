@@ -1,5 +1,7 @@
 # Bunguri Korokoro
 
+![bunguri-korokoro](https://cdn.myanimelist.net/images/manga/2/197194.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

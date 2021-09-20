@@ -1,5 +1,7 @@
 # Boyfriend
 
+![boyfriend](https://cdn.myanimelist.net/images/manga/1/7482.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ボーイフレンド

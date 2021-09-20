@@ -1,5 +1,7 @@
 # Basilisk: Kouga Ninpou Chou
 
+![basilisk-kouga-ninpou-chou](https://cdn.myanimelist.net/images/anime/11/6793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: バジリスク 甲賀忍法帖

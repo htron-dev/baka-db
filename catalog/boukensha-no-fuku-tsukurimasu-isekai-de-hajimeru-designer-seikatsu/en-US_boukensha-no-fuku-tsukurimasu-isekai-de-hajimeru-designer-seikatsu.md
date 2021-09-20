@@ -1,5 +1,7 @@
 # Boukensha no Fuku, Tsukurimasu!: Isekai de Hajimeru Designer Seikatsu
 
+![boukensha-no-fuku-tsukurimasu-isekai-de-hajimeru-designer-seikatsu](https://cdn.myanimelist.net/images/manga/2/247434.jpg)
+
 -   **type**: manga
 -   **original-name**: 冒険者の服、作ります！ ～異世界ではじめるデザイナー生活～
 -   **start-date**: 2021-04-16

@@ -1,5 +1,7 @@
 # Biohazard: Damnation
 
+![biohazard-damnation](https://cdn.myanimelist.net/images/anime/8/42299.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バイオハザード ダムネーション

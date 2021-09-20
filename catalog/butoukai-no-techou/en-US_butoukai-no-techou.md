@@ -1,5 +1,7 @@
 # Butoukai no Techou
 
+![butoukai-no-techou](https://cdn.myanimelist.net/images/manga/2/186290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

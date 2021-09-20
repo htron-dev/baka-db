@@ -1,5 +1,7 @@
 # Batman: Gotham Knight
 
+![batman-gotham-knight](https://cdn.myanimelist.net/images/anime/11/17272.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: バットマン ゴッサムナイト

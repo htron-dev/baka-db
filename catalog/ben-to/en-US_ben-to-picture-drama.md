@@ -1,5 +1,7 @@
 # Ben-To Picture Drama
 
+![ben-to-picture-drama](https://cdn.myanimelist.net/images/anime/13/34953.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ベン・トー

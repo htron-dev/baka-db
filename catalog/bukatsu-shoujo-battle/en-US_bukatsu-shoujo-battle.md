@@ -1,5 +1,7 @@
 # Bukatsu Shoujo Battle
 
+![bukatsu-shoujo-battle](https://cdn.myanimelist.net/images/manga/3/176201.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 部活少女バトル

@@ -1,5 +1,7 @@
 # Boku Girl
 
+![boku-girl](https://cdn.myanimelist.net/images/manga/1/188806.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 107

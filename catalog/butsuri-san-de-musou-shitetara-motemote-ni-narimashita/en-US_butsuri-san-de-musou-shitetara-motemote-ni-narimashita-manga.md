@@ -1,5 +1,7 @@
 # Butsuri-san de Musou shitetara Motemote ni Narimashita
 
+![butsuri-san-de-musou-shitetara-motemote-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/195951.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

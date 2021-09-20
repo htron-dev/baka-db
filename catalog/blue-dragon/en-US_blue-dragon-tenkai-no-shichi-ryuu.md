@@ -1,5 +1,7 @@
 # Blue Dragon: Tenkai no Shichi Ryuu
 
+![blue-dragon-tenkai-no-shichi-ryuu](https://cdn.myanimelist.net/images/anime/2/21147.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: BLUE DRAGON 天界の七竜

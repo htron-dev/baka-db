@@ -1,5 +1,7 @@
 # Bleach Movie 4: Jigoku-hen
 
+![bleach-movie-4-jigoku-hen](https://cdn.myanimelist.net/images/anime/9/26792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BLEACH 地獄篇

@@ -1,5 +1,7 @@
 # BL Mob no Oshigoto
 
+![bl-mob-no-oshigoto](https://cdn.myanimelist.net/images/manga/3/205477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

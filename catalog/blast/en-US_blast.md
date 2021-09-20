@@ -1,5 +1,7 @@
 # Blast
 
+![blast](https://cdn.myanimelist.net/images/manga/2/30980.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 36

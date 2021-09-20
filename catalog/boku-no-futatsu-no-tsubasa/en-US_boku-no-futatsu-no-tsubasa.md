@@ -1,5 +1,7 @@
 # Boku no Futatsu no Tsubasa
 
+![boku-no-futatsu-no-tsubasa](https://cdn.myanimelist.net/images/manga/3/826.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Bloody†Mary
 
+![bloody-mary](https://cdn.myanimelist.net/images/manga/2/130979.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Bulg-eunmae
 
+![bulg-eunmae](https://cdn.myanimelist.net/images/anime/12/11531.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 붉은매

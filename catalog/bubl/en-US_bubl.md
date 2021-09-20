@@ -1,5 +1,7 @@
 # BUBL
 
+![bubl](https://cdn.myanimelist.net/images/manga/3/36869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: BUBL－バブル－

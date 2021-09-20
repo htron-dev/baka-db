@@ -1,5 +1,7 @@
 # Boku no Hero Academia: Deku & Bakugou:Rising
 
+![boku-no-hero-academia-deku-bakugou-rising](https://cdn.myanimelist.net/images/manga/3/227651.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 僕のヒーローアカデミア 出久&爆豪：ライジング

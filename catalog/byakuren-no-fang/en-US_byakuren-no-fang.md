@@ -1,5 +1,7 @@
 # Byakuren no Fang
 
+![byakuren-no-fang](https://cdn.myanimelist.net/images/manga/3/12504.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 白蓮のファング

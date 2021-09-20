@@ -1,5 +1,7 @@
 # Blue Justice Koko ni Ari!
 
+![blue-justice-koko-ni-ari](https://cdn.myanimelist.net/images/manga/2/153414.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブルージャスティスここにあり!
 -   **start-date**: 2014-12-24

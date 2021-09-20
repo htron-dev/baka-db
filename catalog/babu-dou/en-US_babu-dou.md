@@ -1,5 +1,7 @@
 # Babu Dou
 
+![babu-dou](https://cdn.myanimelist.net/images/anime/1407/115503.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 巴布豆

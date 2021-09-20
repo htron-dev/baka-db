@@ -1,5 +1,7 @@
 # Bitou Lollipop
 
+![bitou-lollipop](https://cdn.myanimelist.net/images/manga/1/150444.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

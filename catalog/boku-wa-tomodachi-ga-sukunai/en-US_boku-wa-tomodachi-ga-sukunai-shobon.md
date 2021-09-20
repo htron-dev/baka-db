@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai Shobon!
 
+![boku-wa-tomodachi-ga-sukunai-shobon](https://cdn.myanimelist.net/images/manga/3/75645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

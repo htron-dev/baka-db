@@ -1,5 +1,7 @@
 # Bokura no Koi to Seishun no Subete: Doukyuusei no Bokura
 
+![bokura-no-koi-to-seishun-no-subete-doukyuusei-no-bokura](https://cdn.myanimelist.net/images/manga/1/225999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

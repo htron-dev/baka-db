@@ -1,5 +1,7 @@
 # Bokutachi no Remake
 
+![bokutachi-no-remake](https://cdn.myanimelist.net/images/manga/1/193589.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ぼくたちのリメイク
 -   **start-date**: 2017-03-25

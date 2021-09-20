@@ -1,5 +1,7 @@
 # Boukyaku no Hate: 16-sai no Jibun e no Tegami
 
+![boukyaku-no-hate-16-sai-no-jibun-e-no-tegami](https://cdn.myanimelist.net/images/manga/3/176265.jpg)
+
 -   **type**: manga
 -   **original-name**: 忘却の涯て 16 歳の自分への手紙
 -   **start-date**: 2016-03-11

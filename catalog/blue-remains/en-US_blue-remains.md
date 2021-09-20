@@ -1,5 +1,7 @@
 # Blue Remains
 
+![blue-remains](https://cdn.myanimelist.net/images/anime/1377/112152.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブルーリメイン

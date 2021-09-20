@@ -1,5 +1,7 @@
 # Buttobi Itto
 
+![buttobi-itto](https://cdn.myanimelist.net/images/manga/2/77807.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 103

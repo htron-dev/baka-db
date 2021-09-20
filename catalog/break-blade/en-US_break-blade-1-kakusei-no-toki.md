@@ -1,5 +1,7 @@
 # Break Blade 1: Kakusei no Toki
 
+![break-blade-1-kakusei-no-toki](https://cdn.myanimelist.net/images/anime/10/68079.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイク ブレイド 覚醒ノ刻

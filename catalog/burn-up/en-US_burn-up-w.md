@@ -1,5 +1,7 @@
 # Burn Up! W
 
+![burn-up-w](https://cdn.myanimelist.net/images/anime/1805/96595.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: バーンナップ W

@@ -1,5 +1,7 @@
 # Bokura no Nanokakan Sensou
 
+![bokura-no-nanokakan-sensou](https://cdn.myanimelist.net/images/manga/2/233551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぼくらの七日間戦争

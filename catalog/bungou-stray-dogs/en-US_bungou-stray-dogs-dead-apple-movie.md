@@ -1,5 +1,7 @@
 # Bungou Stray Dogs: Dead Apple
 
+![bungou-stray-dogs-dead-apple](https://cdn.myanimelist.net/images/anime/1127/93981.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 文豪ストレイドッグス DEAD APPLE

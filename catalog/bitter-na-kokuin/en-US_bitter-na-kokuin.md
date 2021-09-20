@@ -1,5 +1,7 @@
 # Bitter na Kokuin
 
+![bitter-na-kokuin](https://cdn.myanimelist.net/images/manga/1/66319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ビターな刻印

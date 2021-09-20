@@ -1,5 +1,7 @@
 # Boku no Ano Ko
 
+![boku-no-ano-ko](https://cdn.myanimelist.net/images/manga/3/169798.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

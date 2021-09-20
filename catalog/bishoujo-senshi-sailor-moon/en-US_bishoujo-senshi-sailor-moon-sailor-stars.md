@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon: Sailor Stars
 
+![bishoujo-senshi-sailor-moon-sailor-stars](https://cdn.myanimelist.net/images/anime/1/996.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: 美少女戦士セーラームーン セーラースターズ

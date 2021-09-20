@@ -1,5 +1,7 @@
 # Barairo Guardian
 
+![barairo-guardian](https://cdn.myanimelist.net/images/manga/3/51957.jpg)
+
 -   **type**: manga
 -   **original-name**: 薔薇色ガーディアン
 -   **start-date**: 2010-09-25

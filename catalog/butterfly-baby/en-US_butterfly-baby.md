@@ -1,5 +1,7 @@
 # Butterfly Baby
 
+![butterfly-baby](https://cdn.myanimelist.net/images/manga/2/20126.jpg)
+
 -   **type**: manga
 -   **original-name**: バタフライベイビー
 

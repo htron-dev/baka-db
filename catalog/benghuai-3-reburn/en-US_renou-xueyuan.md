@@ -1,5 +1,7 @@
 # Renou Xueyuan
 
+![renou-xueyuan](https://cdn.myanimelist.net/images/anime/1506/116008.jpg)
+
 -   **type**: ona
 -   **original-name**: 人偶学园
 -   **start-date**: 2021-07-10

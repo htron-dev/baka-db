@@ -1,5 +1,7 @@
 # Bloomed in Action
 
+![bloomed-in-action](https://cdn.myanimelist.net/images/manga/1/61947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

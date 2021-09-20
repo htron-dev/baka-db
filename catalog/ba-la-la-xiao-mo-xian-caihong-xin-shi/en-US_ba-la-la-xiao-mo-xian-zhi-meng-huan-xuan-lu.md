@@ -1,5 +1,7 @@
 # Ba La La Xiao Mo Xian Zhi: Meng Huan Xuan Lu
 
+![ba-la-la-xiao-mo-xian-zhi-meng-huan-xuan-lu](https://cdn.myanimelist.net/images/anime/10/72188.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 巴啦啦小魔仙之梦幻旋律

@@ -1,5 +1,7 @@
 # Bobobo-bo Bo-bobo?
 
+![bobobo-bo-bo-bobo](https://cdn.myanimelist.net/images/manga/4/126269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

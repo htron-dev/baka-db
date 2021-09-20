@@ -1,5 +1,7 @@
 # Boku no Aozora
 
+![boku-no-aozora](https://cdn.myanimelist.net/images/anime/13/74558.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくの青空

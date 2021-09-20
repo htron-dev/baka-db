@@ -1,5 +1,7 @@
 # Beyblade Burst
 
+![beyblade-burst](https://cdn.myanimelist.net/images/anime/13/78786.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ベイブレードバースト

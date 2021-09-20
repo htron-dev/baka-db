@@ -1,5 +1,7 @@
 # Boku no Kawaii Stalker
 
+![boku-no-kawaii-stalker](https://cdn.myanimelist.net/images/manga/1/224030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

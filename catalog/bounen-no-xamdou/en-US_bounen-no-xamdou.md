@@ -1,5 +1,7 @@
 # Bounen no Xamdou
 
+![bounen-no-xamdou](https://cdn.myanimelist.net/images/anime/2/23189.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 亡念のザムド

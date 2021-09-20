@@ -1,5 +1,7 @@
 # Battle Spirits: Mirage
 
+![battle-spirits-mirage](https://cdn.myanimelist.net/images/anime/1271/114576.jpg)
+
 -   **type**: ona
 -   **original-name**: バトルスピリッツミラージュ
 -   **rating**: PG - Children

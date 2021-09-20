@@ -1,5 +1,7 @@
 # Bakuman. 2nd Season Special
 
+![bakuman-2nd-season-special](https://cdn.myanimelist.net/images/anime/10/60369.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: バクマン。『ラッコ 11 号』

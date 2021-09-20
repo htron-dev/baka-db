@@ -1,5 +1,7 @@
 # Boku dake ga Inai Machi
 
+![boku-dake-ga-inai-machi](https://cdn.myanimelist.net/images/anime/10/77957.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 僕だけがいない街

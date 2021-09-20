@@ -1,5 +1,7 @@
 # B-Eyes
 
+![b-eyes](https://cdn.myanimelist.net/images/manga/4/35821.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

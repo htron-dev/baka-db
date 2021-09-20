@@ -1,5 +1,7 @@
 # Blue Giant Supreme
 
+![blue-giant-supreme](https://cdn.myanimelist.net/images/manga/3/193590.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 88

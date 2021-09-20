@@ -1,5 +1,7 @@
 # Blassreiter
 
+![blassreiter](https://cdn.myanimelist.net/images/anime/11/13199.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ブラスレイター

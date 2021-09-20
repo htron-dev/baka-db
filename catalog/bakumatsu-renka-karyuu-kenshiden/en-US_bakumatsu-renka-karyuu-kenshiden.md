@@ -1,5 +1,7 @@
 # Bakumatsu Renka Karyuu Kenshiden
 
+![bakumatsu-renka-karyuu-kenshiden](https://cdn.myanimelist.net/images/manga/3/26744.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 幕末恋華・花柳剣士伝

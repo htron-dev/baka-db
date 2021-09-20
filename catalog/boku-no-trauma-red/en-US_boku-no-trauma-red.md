@@ -1,5 +1,7 @@
 # Boku no Trauma Red
 
+![boku-no-trauma-red](https://cdn.myanimelist.net/images/manga/3/238693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

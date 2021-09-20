@@ -1,5 +1,7 @@
 # Battle Spirits: Heroes
 
+![battle-spirits-heroes](https://cdn.myanimelist.net/images/anime/3/32193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: バトルスピリッツ 覇王（ヒーローズ）

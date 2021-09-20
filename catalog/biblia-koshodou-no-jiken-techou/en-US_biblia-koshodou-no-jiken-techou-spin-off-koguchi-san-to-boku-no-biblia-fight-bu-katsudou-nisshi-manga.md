@@ -1,5 +1,7 @@
 # Biblia Koshodou no Jiken Techou Spin-off: Koguchi-san to Boku no Biblia Fight-bu Katsudou Nisshi
 
+![biblia-koshodou-no-jiken-techou-spin-off-koguchi-san-to-boku-no-biblia-fight-bu-katsudou-nisshi](https://cdn.myanimelist.net/images/manga/2/225664.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: ビブリア古書堂の事件手帖スピンオフ こぐちさんと僕のビブリアファイト部活動日誌

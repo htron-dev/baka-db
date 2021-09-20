@@ -1,5 +1,7 @@
 # Backstage de Aimashou
 
+![backstage-de-aimashou](https://cdn.myanimelist.net/images/manga/3/238039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

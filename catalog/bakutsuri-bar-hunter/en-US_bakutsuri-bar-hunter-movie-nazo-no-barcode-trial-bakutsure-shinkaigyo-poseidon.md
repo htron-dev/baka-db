@@ -1,5 +1,7 @@
 # Bakutsuri Bar Hunter Movie: Nazo no Barcode Trial! Bakutsure! Shinkaigyo Poseidon
 
+![bakutsuri-bar-hunter-movie-nazo-no-barcode-trial-bakutsure-shinkaigyo-poseidon](https://cdn.myanimelist.net/images/anime/1954/99495.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 爆釣バーハンター 謎のバーコードトライアングル！爆釣れ！神海魚（しんかいぎょ）ポセイドン

@@ -1,5 +1,7 @@
 # Bouningen Weekend
 
+![bouningen-weekend](https://cdn.myanimelist.net/images/anime/3/79962.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: ボーニンゲン weekend

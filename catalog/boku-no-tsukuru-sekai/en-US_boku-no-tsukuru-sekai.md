@@ -1,5 +1,7 @@
 # Boku no Tsukuru Sekai
 
+![boku-no-tsukuru-sekai](https://cdn.myanimelist.net/images/manga/2/249321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

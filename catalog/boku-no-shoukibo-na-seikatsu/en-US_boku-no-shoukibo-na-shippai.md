@@ -1,5 +1,7 @@
 # Boku no Shoukibo na Shippai
 
+![boku-no-shoukibo-na-shippai](https://cdn.myanimelist.net/images/manga/3/64475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕の小規模な失敗

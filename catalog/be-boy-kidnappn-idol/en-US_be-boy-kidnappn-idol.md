@@ -1,5 +1,7 @@
 # Be-Boy Kidnapp'n Idol
 
+![be-boy-kidnappn-idol](https://cdn.myanimelist.net/images/anime/1/2413.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: BE-BOY KIDNAPP'N IDOL

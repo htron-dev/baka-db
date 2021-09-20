@@ -1,5 +1,7 @@
 # Brass of Shellol: Shinsei Kyousou no Himekishi
 
+![brass-of-shellol-shinsei-kyousou-no-himekishi](https://cdn.myanimelist.net/images/manga/2/163887.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Benitokage wa Ai wo Toku
 
+![benitokage-wa-ai-wo-toku](https://cdn.myanimelist.net/images/manga/2/194551.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 紅蜥蜴は愛を説く

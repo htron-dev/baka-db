@@ -1,5 +1,7 @@
 # Busaiku desu kedo Nani ka?
 
+![busaiku-desu-kedo-nani-ka](https://cdn.myanimelist.net/images/manga/1/171890.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブサイクですけど何か?
 -   **start-date**: 2016-01-30

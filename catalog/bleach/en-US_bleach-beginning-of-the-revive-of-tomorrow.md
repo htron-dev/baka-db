@@ -1,5 +1,7 @@
 # Bleach: Beginning of the Revive of Tomorrow
 
+![bleach-beginning-of-the-revive-of-tomorrow](https://cdn.myanimelist.net/images/manga/1/229356.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: BLEACH Beginning of the revive of Tomorrow

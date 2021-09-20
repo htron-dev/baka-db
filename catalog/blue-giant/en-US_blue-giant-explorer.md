@@ -1,5 +1,7 @@
 # Blue Giant Explorer
 
+![blue-giant-explorer](https://cdn.myanimelist.net/images/manga/2/237480.jpg)
+
 -   **type**: manga
 -   **original-name**: BLUE GIANT EXPLORER
 -   **start-date**: 2020-05-25

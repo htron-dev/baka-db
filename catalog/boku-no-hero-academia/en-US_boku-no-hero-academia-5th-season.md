@@ -1,5 +1,7 @@
 # Boku no Hero Academia 5th Season
 
+![boku-no-hero-academia-5th-season](https://cdn.myanimelist.net/images/anime/1911/113611.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 僕のヒーローアカデミア

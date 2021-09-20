@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon Memorial
 
+![bishoujo-senshi-sailor-moon-memorial](https://cdn.myanimelist.net/images/anime/6/46773.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 美少女戦士セーラームーン メモリアル

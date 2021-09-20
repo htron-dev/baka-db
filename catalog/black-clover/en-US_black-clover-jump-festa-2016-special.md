@@ -1,5 +1,7 @@
 # Black Clover: Jump Festa 2016 Special
 
+![black-clover-jump-festa-2016-special](https://cdn.myanimelist.net/images/anime/7/84639.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ブラッククローバー

@@ -1,5 +1,7 @@
 # Bungaku Shoujo Short Stories from DVD
 
+![bungaku-shoujo-short-stories-from-dvd](https://cdn.myanimelist.net/images/manga/3/36719.jpg)
+
 -   **type**: light-novel
 -   **start-date**: 2010-08-27
 -   **end-date**: 2010-08-27

@@ -1,5 +1,7 @@
 # Nu Wushen de Canzhuo Spring Festival Special
 
+![nu-wushen-de-canzhuo-spring-festival-special](https://cdn.myanimelist.net/images/anime/1903/111820.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2021-02-11

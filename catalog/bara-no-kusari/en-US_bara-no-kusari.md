@@ -1,5 +1,7 @@
 # Bara no Kusari
 
+![bara-no-kusari](https://cdn.myanimelist.net/images/manga/3/35995.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 薔薇の鎖

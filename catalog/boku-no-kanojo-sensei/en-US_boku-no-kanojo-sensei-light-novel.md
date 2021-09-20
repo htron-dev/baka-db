@@ -1,5 +1,7 @@
 # Boku no Kanojo-sensei
 
+![boku-no-kanojo-sensei](https://cdn.myanimelist.net/images/manga/1/219625.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 56

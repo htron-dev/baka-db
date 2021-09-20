@@ -1,5 +1,7 @@
 # Baoh Raihousha
 
+![baoh-raihousha](https://cdn.myanimelist.net/images/manga/1/207963.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

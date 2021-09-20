@@ -1,5 +1,7 @@
 # Buta wa Tondemo Tada no Buta?
 
+![buta-wa-tondemo-tada-no-buta](https://cdn.myanimelist.net/images/manga/2/163344.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

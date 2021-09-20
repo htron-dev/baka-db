@@ -1,5 +1,7 @@
 # Baobao Yue Xuetang: Kuaile Tonghua Cheng
 
+![baobao-yue-xuetang-kuaile-tonghua-cheng](https://cdn.myanimelist.net/images/anime/1417/115202.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 250
 -   **original-name**: 宝宝乐学堂之快乐童话城

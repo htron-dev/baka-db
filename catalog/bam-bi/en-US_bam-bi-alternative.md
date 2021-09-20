@@ -1,5 +1,7 @@
 # BAMBi Alternative
 
+![bam-bi-alternative](https://cdn.myanimelist.net/images/manga/2/37276.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: BAMBi 零 alternative

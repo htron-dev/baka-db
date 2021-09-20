@@ -1,5 +1,7 @@
 # Bari Haken
 
+![bari-haken](https://cdn.myanimelist.net/images/manga/2/151819.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

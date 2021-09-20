@@ -1,5 +1,7 @@
 # Biomega
 
+![biomega](https://cdn.myanimelist.net/images/manga/2/211783.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Bokura wa Minna Kawai-sou
 
+![bokura-wa-minna-kawai-sou](https://cdn.myanimelist.net/images/anime/6/64629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 僕らはみんな河合荘

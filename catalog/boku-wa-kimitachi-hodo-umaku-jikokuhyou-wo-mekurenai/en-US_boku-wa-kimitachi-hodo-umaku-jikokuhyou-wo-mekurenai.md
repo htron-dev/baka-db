@@ -1,5 +1,7 @@
 # Boku wa Kimitachi hodo Umaku Jikokuhyou wo Mekurenai
 
+![boku-wa-kimitachi-hodo-umaku-jikokuhyou-wo-mekurenai](https://cdn.myanimelist.net/images/manga/2/171816.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

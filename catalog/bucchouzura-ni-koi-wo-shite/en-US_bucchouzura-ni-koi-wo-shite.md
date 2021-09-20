@@ -1,5 +1,7 @@
 # Bucchouzura ni Koi wo Shite
 
+![bucchouzura-ni-koi-wo-shite](https://cdn.myanimelist.net/images/manga/3/2316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

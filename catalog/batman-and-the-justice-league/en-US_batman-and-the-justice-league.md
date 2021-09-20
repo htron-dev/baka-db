@@ -1,5 +1,7 @@
 # Batman and the Justice League
 
+![batman-and-the-justice-league](https://cdn.myanimelist.net/images/manga/1/247806.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

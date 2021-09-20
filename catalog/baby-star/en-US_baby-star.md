@@ -1,5 +1,7 @@
 # Baby, Star
 
+![baby-star](https://cdn.myanimelist.net/images/manga/2/127501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

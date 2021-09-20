@@ -1,5 +1,7 @@
 # Bandit: Giden Taiheiki
 
+![bandit-giden-taiheiki](https://cdn.myanimelist.net/images/manga/3/195799.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 52

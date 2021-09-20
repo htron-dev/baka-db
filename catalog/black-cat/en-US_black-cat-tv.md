@@ -1,5 +1,7 @@
 # Black Cat (TV)
 
+![black-cat-tv](https://cdn.myanimelist.net/images/anime/1485/110010.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ブラックキャット

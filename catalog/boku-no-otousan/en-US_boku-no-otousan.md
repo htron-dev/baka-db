@@ -1,5 +1,7 @@
 # Boku no Otousan
 
+![boku-no-otousan](https://cdn.myanimelist.net/images/manga/1/79761.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

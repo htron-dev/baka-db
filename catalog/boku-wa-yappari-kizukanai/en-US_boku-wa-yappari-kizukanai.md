@@ -1,5 +1,7 @@
 # Boku wa Yappari Kizukanai
 
+![boku-wa-yappari-kizukanai](https://cdn.myanimelist.net/images/manga/1/163604.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 54

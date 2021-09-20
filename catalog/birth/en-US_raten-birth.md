@@ -1,5 +1,7 @@
 # Raten - Birth
 
+![raten-birth](https://cdn.myanimelist.net/images/manga/1/113505.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 螺天 -BIRTH-

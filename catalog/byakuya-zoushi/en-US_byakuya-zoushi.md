@@ -1,5 +1,7 @@
 # Byakuya Zoushi
 
+![byakuya-zoushi](https://cdn.myanimelist.net/images/manga/4/16314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

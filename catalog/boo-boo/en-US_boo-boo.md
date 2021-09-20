@@ -1,5 +1,7 @@
 # Boo Boo
 
+![boo-boo](https://cdn.myanimelist.net/images/manga/2/192981.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Boo Boo

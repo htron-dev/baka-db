@@ -1,5 +1,7 @@
 # Baraou no Souretsu
 
+![baraou-no-souretsu](https://cdn.myanimelist.net/images/manga/3/120487.jpg)
+
 -   **type**: manga
 -   **original-name**: 薔薇王の葬列
 -   **start-date**: 2013-10-04

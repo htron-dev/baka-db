@@ -1,5 +1,7 @@
 # Broadcast by Bibby
 
+![broadcast-by-bibby](https://cdn.myanimelist.net/images/anime/1770/101722.jpg)
+
 -   **type**: ona
 -   **original-name**: BROADCAST BY BIBBY
 -   **start-date**: 2019-05-31

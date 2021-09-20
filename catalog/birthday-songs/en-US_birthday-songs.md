@@ -1,5 +1,7 @@
 # Birthday Songs
 
+![birthday-songs](https://cdn.myanimelist.net/images/manga/2/82062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

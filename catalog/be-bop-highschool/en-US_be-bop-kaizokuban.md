@@ -1,5 +1,7 @@
 # Be-Bop Kaizokuban
 
+![be-bop-kaizokuban](https://cdn.myanimelist.net/images/anime/3/62799.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Be-Bop 海賊版

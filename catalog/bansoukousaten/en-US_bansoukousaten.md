@@ -1,5 +1,7 @@
 # Bansoukousaten
 
+![bansoukousaten](https://cdn.myanimelist.net/images/anime/1467/98465.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 絆創交差点

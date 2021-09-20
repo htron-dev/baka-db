@@ -1,5 +1,7 @@
 # Bambi no Tegami
 
+![bambi-no-tegami](https://cdn.myanimelist.net/images/manga/2/65649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

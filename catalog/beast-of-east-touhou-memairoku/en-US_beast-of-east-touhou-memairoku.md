@@ -1,5 +1,7 @@
 # Beast of East: Touhou Memairoku
 
+![beast-of-east-touhou-memairoku](https://cdn.myanimelist.net/images/manga/1/172308.jpg)
+
 -   **type**: manga
 -   **original-name**: BEAST of EAST 東方眩暈錄
 -   **start-date**: 1998-07-19

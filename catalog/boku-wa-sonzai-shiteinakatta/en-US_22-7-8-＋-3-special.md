@@ -1,5 +1,7 @@
 # 22/7: 8 ＋ 3=?
 
+![22-7-8-＋-3](https://cdn.myanimelist.net/images/anime/1259/109909.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 22/7: 8 ＋ 3=?

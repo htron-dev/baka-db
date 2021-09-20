@@ -1,5 +1,7 @@
 # Beast Wars Second Chou Seimeitai Transformers
 
+![beast-wars-second-chou-seimeitai-transformers](https://cdn.myanimelist.net/images/anime/1285/94077.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: ビーストウォーズ Ⅱ（セカンド） 超生命体トランスフォーマー

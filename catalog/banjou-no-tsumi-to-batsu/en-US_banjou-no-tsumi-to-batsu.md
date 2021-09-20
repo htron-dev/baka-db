@@ -1,5 +1,7 @@
 # Banjou no Tsumi to Batsu
 
+![banjou-no-tsumi-to-batsu](https://cdn.myanimelist.net/images/manga/1/144469.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

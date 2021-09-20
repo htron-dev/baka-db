@@ -1,5 +1,7 @@
 # Berserk: Ougon Jidai-hen I - Haou no Tamago
 
+![berserk-ougon-jidai-hen-i-haou-no-tamago](https://cdn.myanimelist.net/images/anime/12/62179.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルセルク 黄金時代篇 Ⅰ 覇王の卵

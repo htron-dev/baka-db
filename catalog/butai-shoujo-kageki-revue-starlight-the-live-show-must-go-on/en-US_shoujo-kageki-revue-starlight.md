@@ -1,5 +1,7 @@
 # Shoujo☆Kageki Revue Starlight
 
+![shoujo☆-kageki-revue-starlight](https://cdn.myanimelist.net/images/anime/1165/93552.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 少女 ☆ 歌劇 レヴュースタァライト

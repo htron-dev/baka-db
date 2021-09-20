@@ -1,5 +1,7 @@
 # Bijin Kakumei
 
+![bijin-kakumei](https://cdn.myanimelist.net/images/manga/2/40306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Bakugan: Armored Alliance
 
+![bakugan-armored-alliance](https://cdn.myanimelist.net/images/anime/1234/106364.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 爆丸アーマードアライアンス

@@ -1,5 +1,7 @@
 # Burn Up Excess
 
+![burn-up-excess](https://cdn.myanimelist.net/images/anime/6/75501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: バーンナップ EXCESS

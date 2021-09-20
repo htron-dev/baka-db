@@ -1,5 +1,7 @@
 # BlazBlue: Phase 0
 
+![blaz-blue-phase-0](https://cdn.myanimelist.net/images/manga/1/45899.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

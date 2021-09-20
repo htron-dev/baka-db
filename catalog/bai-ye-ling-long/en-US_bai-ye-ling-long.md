@@ -1,5 +1,7 @@
 # Bai Ye Ling Long
 
+![bai-ye-ling-long](https://cdn.myanimelist.net/images/anime/1269/93787.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: 白夜玲珑

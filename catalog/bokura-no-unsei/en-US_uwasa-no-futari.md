@@ -1,5 +1,7 @@
 # Uwasa no Futari
 
+![uwasa-no-futari](https://cdn.myanimelist.net/images/manga/1/2142.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Bokura wa Minna Kawai-sou: Hajimete no
 
+![bokura-wa-minna-kawai-sou-hajimete-no](https://cdn.myanimelist.net/images/anime/12/71613.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 僕らはみんな河合荘 初めての

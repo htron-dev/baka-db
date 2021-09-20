@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" Kyou no Oyatsu: Hatsukoi
 
+![bungaku-shoujo-kyou-no-oyatsu-hatsukoi](https://cdn.myanimelist.net/images/anime/2/79900.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: “文学少女”今日のおやつ 〜はつ恋〜

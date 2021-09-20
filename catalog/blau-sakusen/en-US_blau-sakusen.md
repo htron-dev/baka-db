@@ -1,5 +1,7 @@
 # Blau Sakusen
 
+![blau-sakusen](https://cdn.myanimelist.net/images/manga/1/131917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブラウ作戦

@@ -1,5 +1,7 @@
 # Beni Tsubaki: Sokubaku Hanayome
 
+![beni-tsubaki-sokubaku-hanayome](https://cdn.myanimelist.net/images/manga/1/182806.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

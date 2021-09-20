@@ -1,5 +1,7 @@
 # Boku to Kanojo to Futari no Korekara
 
+![boku-to-kanojo-to-futari-no-korekara](https://cdn.myanimelist.net/images/manga/2/195833.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 読者〈ぼく〉と主人公〈かのじょ〉と二人のこれから

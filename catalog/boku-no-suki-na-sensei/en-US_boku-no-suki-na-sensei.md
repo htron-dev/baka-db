@@ -1,5 +1,7 @@
 # Boku no Suki na Sensei
 
+![boku-no-suki-na-sensei](https://cdn.myanimelist.net/images/manga/1/137893.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

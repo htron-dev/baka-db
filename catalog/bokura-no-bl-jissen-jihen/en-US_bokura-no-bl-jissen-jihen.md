@@ -1,5 +1,7 @@
 # Bokura no BL Jissen Jihen
 
+![bokura-no-bl-jissen-jihen](https://cdn.myanimelist.net/images/manga/2/237313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

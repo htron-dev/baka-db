@@ -1,5 +1,7 @@
 # Boku no Kanojo ga Majimesugiru Shojo Bitch na Ken
 
+![boku-no-kanojo-ga-majimesugiru-shojo-bitch-na-ken](https://cdn.myanimelist.net/images/manga/1/188803.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 99

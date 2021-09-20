@@ -1,5 +1,7 @@
 # Bannou Kanteishi Q no Nazotoki
 
+![bannou-kanteishi-q-no-nazotoki](https://cdn.myanimelist.net/images/manga/3/127965.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 29

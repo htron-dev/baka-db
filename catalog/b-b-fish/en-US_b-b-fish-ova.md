@@ -1,5 +1,7 @@
 # B.B. Fish
 
+![b-b-fish](https://cdn.myanimelist.net/images/anime/11/39325.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: B.B. フィッシュ

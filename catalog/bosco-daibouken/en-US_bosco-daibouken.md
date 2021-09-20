@@ -1,5 +1,7 @@
 # Bosco Daibouken
 
+![bosco-daibouken](https://cdn.myanimelist.net/images/anime/2/28561.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ボスコアドベンチャー

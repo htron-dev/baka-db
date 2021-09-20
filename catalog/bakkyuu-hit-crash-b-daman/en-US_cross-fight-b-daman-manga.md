@@ -1,5 +1,7 @@
 # Cross Fight B-Daman
 
+![cross-fight-b-daman](https://cdn.myanimelist.net/images/manga/2/205573.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: クロスファイト ビーダマン

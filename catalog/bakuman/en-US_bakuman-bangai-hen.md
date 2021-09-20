@@ -1,5 +1,7 @@
 # Bakuman. Bangai-hen
 
+![bakuman-bangai-hen](https://cdn.myanimelist.net/images/manga/2/164254.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: バクマン。 番外編

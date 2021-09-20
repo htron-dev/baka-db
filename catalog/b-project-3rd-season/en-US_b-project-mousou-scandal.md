@@ -1,5 +1,7 @@
 # B-Project: Mousou\*Scandal
 
+![b-project-mousou-scandal](https://cdn.myanimelist.net/images/manga/3/175895.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: B-PROJECT 妄想＊スキャンダル

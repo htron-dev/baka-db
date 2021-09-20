@@ -1,5 +1,7 @@
 # Boukoku no Siegfried
 
+![boukoku-no-siegfried](https://cdn.myanimelist.net/images/manga/3/162288.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

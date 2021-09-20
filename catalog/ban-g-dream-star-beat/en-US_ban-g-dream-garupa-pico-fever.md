@@ -1,5 +1,7 @@
 # BanG Dream! Garupa☆Pico Fever!
 
+![ban-g-dream-garupa☆-pico-fever](https://cdn.myanimelist.net/images/anime/1066/116819.jpg)
+
 -   **type**: ona
 -   **original-name**: BanG Dream! ガルパ ☆ ピコ ふぃーばー！
 -   **rating**: PG-13 - Teens 13 or older

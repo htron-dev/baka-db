@@ -1,5 +1,7 @@
 # Bitter x Sweet
 
+![bitter-x-sweet](https://cdn.myanimelist.net/images/manga/5/155794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

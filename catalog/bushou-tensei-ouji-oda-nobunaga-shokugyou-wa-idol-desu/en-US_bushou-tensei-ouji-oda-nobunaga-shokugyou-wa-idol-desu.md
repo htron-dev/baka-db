@@ -1,5 +1,7 @@
 # Bushou Tensei Ouji!: Oda Nobunaga, Shokugyou wa Idol desu!?
 
+![bushou-tensei-ouji-oda-nobunaga-shokugyou-wa-idol-desu](https://cdn.myanimelist.net/images/manga/2/239941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

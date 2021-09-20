@@ -1,5 +1,7 @@
 # Binbougami ga!
 
+![binbougami-ga](https://cdn.myanimelist.net/images/manga/5/81306.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 81

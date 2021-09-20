@@ -1,5 +1,7 @@
 # Belle Epoque
 
+![belle-epoque](https://cdn.myanimelist.net/images/manga/3/26276.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ベル・エポック

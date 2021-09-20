@@ -1,5 +1,7 @@
 # Bitter: Nakechau Koi Monogatari
 
+![bitter-nakechau-koi-monogatari](https://cdn.myanimelist.net/images/manga/3/17069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

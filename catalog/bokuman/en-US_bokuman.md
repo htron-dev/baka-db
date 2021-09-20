@@ -1,5 +1,7 @@
 # Bokuman
 
+![bokuman](https://cdn.myanimelist.net/images/manga/1/39561.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ボクマン

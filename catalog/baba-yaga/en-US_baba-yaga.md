@@ -1,5 +1,7 @@
 # Baba Yaga
 
+![baba-yaga](https://cdn.myanimelist.net/images/manga/3/196854.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

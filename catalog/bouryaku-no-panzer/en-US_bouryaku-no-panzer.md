@@ -1,5 +1,7 @@
 # Bouryaku no Panzer
 
+![bouryaku-no-panzer](https://cdn.myanimelist.net/images/manga/1/219610.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

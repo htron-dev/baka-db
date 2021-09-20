@@ -1,5 +1,7 @@
 # Bob and his Funky Crew
 
+![bob-and-his-funky-crew](https://cdn.myanimelist.net/images/manga/2/25597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボブとゆかいな仲間たち

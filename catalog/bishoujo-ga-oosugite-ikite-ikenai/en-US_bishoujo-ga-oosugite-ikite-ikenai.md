@@ -1,5 +1,7 @@
 # Bishoujo ga Oosugite Ikite Ikenai
 
+![bishoujo-ga-oosugite-ikite-ikenai](https://cdn.myanimelist.net/images/manga/3/164612.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 美少女が多すぎて生きていけない

@@ -1,5 +1,7 @@
 # Breakin' Girls!
 
+![breakin-girls](https://cdn.myanimelist.net/images/manga/2/211070.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Betabore no Konyakusha ga Akuyaku Reijou ni Saresou nanode.
 
+![betabore-no-konyakusha-ga-akuyaku-reijou-ni-saresou-nanode](https://cdn.myanimelist.net/images/manga/1/245727.jpg)
+
 -   **type**: manga
 -   **original-name**: ベタ惚れの婚約者が悪役令嬢にされそうなので。
 -   **start-date**: 2021-01-15

@@ -1,5 +1,7 @@
 # Bokutachi ga Yarimashita
 
+![bokutachi-ga-yarimashita](https://cdn.myanimelist.net/images/manga/3/168953.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 87

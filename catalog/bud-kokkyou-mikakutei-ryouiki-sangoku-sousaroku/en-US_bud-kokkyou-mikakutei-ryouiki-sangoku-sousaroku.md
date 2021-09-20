@@ -1,5 +1,7 @@
 # BUD: Kokkyou Mikakutei Ryouiki Sangoku Sousaroku
 
+![bud-kokkyou-mikakutei-ryouiki-sangoku-sousaroku](https://cdn.myanimelist.net/images/manga/2/186435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

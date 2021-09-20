@@ -1,5 +1,7 @@
 # Big Hits! (Yoriko Mizushiri)
 
+![big-hits-yoriko-mizushiri](https://cdn.myanimelist.net/images/anime/1278/106461.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BIG HITS! Program ID

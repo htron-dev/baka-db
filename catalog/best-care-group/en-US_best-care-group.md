@@ -1,5 +1,7 @@
 # Best Care Group
 
+![best-care-group](https://cdn.myanimelist.net/images/anime/3/81650.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ベストケアグループ

@@ -1,5 +1,7 @@
 # Boku no Tsuma wa Kanjou ga Nai
 
+![boku-no-tsuma-wa-kanjou-ga-nai](https://cdn.myanimelist.net/images/manga/3/235672.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の妻は感情がない
 -   **start-date**: 2019-08-05

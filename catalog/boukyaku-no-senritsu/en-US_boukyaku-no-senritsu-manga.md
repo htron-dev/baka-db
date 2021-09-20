@@ -1,5 +1,7 @@
 # Boukyaku no Senritsu
 
+![boukyaku-no-senritsu](https://cdn.myanimelist.net/images/manga/1/166946.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

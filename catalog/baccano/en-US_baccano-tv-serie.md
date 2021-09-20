@@ -1,5 +1,7 @@
 # Baccano!
 
+![baccano](https://cdn.myanimelist.net/images/anime/3/14547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: バッカーノ！

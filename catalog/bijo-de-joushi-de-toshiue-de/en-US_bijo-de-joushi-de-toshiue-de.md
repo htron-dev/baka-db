@@ -1,5 +1,7 @@
 # Bijo de Joushi de Toshiue de...
 
+![bijo-de-joushi-de-toshiue-de](https://cdn.myanimelist.net/images/manga/2/32355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 美女で上司で年上で…

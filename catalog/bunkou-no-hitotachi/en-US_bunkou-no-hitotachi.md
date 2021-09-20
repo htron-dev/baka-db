@@ -1,5 +1,7 @@
 # Bunkou no Hitotachi
 
+![bunkou-no-hitotachi](https://cdn.myanimelist.net/images/manga/3/229683.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

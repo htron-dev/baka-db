@@ -1,5 +1,7 @@
 # Baby Face Monster 卍
 
+![baby-face-monster-卍](https://cdn.myanimelist.net/images/manga/3/238141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

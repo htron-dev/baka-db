@@ -1,5 +1,7 @@
 # Kimi wa, Ore ga Suki da tte Ittara Donna Kao suru darou.
 
+![kimi-wa-ore-ga-suki-da-tte-ittara-donna-kao-suru-darou](https://cdn.myanimelist.net/images/manga/2/185053.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

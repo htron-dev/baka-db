@@ -1,5 +1,7 @@
 # Bakutsuri Bar Hunter
 
+![bakutsuri-bar-hunter](https://cdn.myanimelist.net/images/anime/1043/94347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 爆釣バーハンター

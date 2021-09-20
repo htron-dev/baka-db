@@ -1,5 +1,7 @@
 # Blaze
 
+![blaze](https://cdn.myanimelist.net/images/manga/1/198156.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

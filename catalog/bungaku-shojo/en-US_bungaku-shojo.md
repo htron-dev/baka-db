@@ -1,5 +1,7 @@
 # Bungaku Shojo
 
+![bungaku-shojo](https://cdn.myanimelist.net/images/manga/1/228387.jpg)
+
 -   **type**: manga
 -   **original-name**: 文学処女
 -   **start-date**: 2016-07-27

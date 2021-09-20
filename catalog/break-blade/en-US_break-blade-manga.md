@@ -1,5 +1,7 @@
 # Break Blade
 
+![break-blade](https://cdn.myanimelist.net/images/manga/3/160213.jpg)
+
 -   **type**: manga
 -   **original-name**: ブレイクブレイド
 -   **start-date**: 2006-09-12

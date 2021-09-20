@@ -1,5 +1,7 @@
 # Build King
 
+![build-king](https://cdn.myanimelist.net/images/manga/1/242920.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: BUILD KING

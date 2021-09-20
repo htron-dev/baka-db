@@ -1,5 +1,7 @@
 # Binkan! Vivit-san.
 
+![binkan-vivit-san](https://cdn.myanimelist.net/images/manga/2/241191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 敏感! ビビットさん。

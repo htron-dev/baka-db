@@ -1,5 +1,7 @@
 # Bakuon!! no Kobeya
 
+![bakuon-no-kobeya](https://cdn.myanimelist.net/images/anime/9/83535.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ばくおん!!の小部屋

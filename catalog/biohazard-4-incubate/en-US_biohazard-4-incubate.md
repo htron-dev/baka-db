@@ -1,5 +1,7 @@
 # Biohazard 4: Incubate
 
+![biohazard-4-incubate](https://cdn.myanimelist.net/images/anime/1615/106745.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バイオハザード 4 Incubate

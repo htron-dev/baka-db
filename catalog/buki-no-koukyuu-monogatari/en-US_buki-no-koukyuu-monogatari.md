@@ -1,5 +1,7 @@
 # Buki no Koukyuu Monogatari
 
+![buki-no-koukyuu-monogatari](https://cdn.myanimelist.net/images/manga/3/180780.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 武姫の後宮物語
 -   **start-date**: 2016-08-10

@@ -1,5 +1,7 @@
 # Baritone Voice no Yuuwaku: Utahime wa Sasayaki ni Nureru
 
+![baritone-voice-no-yuuwaku-utahime-wa-sasayaki-ni-nureru](https://cdn.myanimelist.net/images/manga/3/196688.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: バリトンボイスの誘惑　歌姫はささやきに濡れる

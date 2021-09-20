@@ -1,5 +1,7 @@
 # Black Theater: Obaachan ga Shitai Kusai yo
 
+![black-theater-obaachan-ga-shitai-kusai-yo](https://cdn.myanimelist.net/images/manga/3/89583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

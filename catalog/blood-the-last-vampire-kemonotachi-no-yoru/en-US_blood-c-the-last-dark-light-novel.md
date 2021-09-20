@@ -1,5 +1,7 @@
 # Blood-C: The Last Dark
 
+![blood-c-the-last-dark](https://cdn.myanimelist.net/images/manga/3/67363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブラッド・シー　ザ・ラストダーク

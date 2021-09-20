@@ -1,5 +1,7 @@
 # Bananya: Fushigi na Nakama-tachi
 
+![bananya-fushigi-na-nakama-tachi](https://cdn.myanimelist.net/images/anime/1449/102481.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ばなにゃ ふしぎななかまたち

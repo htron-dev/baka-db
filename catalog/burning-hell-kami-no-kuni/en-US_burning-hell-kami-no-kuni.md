@@ -1,5 +1,7 @@
 # Burning Hell: Kami no Kuni
 
+![burning-hell-kami-no-kuni](https://cdn.myanimelist.net/images/manga/2/176678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

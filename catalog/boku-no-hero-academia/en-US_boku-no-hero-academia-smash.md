@@ -1,5 +1,7 @@
 # Boku no Hero Academia Smash!
 
+![boku-no-hero-academia-smash](https://cdn.myanimelist.net/images/manga/1/175313.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 104

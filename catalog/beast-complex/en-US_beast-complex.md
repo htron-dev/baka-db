@@ -1,5 +1,7 @@
 # Beast Complex
 
+![beast-complex](https://cdn.myanimelist.net/images/manga/2/220754.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

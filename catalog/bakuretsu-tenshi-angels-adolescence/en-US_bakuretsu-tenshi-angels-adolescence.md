@@ -1,5 +1,7 @@
 # Bakuretsu Tenshi: Angel's Adolescence
 
+![bakuretsu-tenshi-angels-adolescence](https://cdn.myanimelist.net/images/manga/4/111649.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

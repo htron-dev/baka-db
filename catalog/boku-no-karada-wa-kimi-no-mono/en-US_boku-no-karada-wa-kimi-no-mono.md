@@ -1,5 +1,7 @@
 # Boku no Karada wa Kimi no Mono
 
+![boku-no-karada-wa-kimi-no-mono](https://cdn.myanimelist.net/images/manga/1/25269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

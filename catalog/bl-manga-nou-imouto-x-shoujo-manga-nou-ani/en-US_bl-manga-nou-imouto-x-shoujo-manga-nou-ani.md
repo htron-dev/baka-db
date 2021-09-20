@@ -1,5 +1,7 @@
 # BL Manga Nou Imouto x Shoujo Manga Nou Ani
 
+![bl-manga-nou-imouto-x-shoujo-manga-nou-ani](https://cdn.myanimelist.net/images/manga/1/239278.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

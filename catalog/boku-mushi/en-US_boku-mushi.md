@@ -1,5 +1,7 @@
 # Boku Mushi
 
+![boku-mushi](https://cdn.myanimelist.net/images/manga/3/168915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

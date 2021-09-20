@@ -1,5 +1,7 @@
 # Bradherley no Basha
 
+![bradherley-no-basha](https://cdn.myanimelist.net/images/manga/2/56597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Super Bikkuriman
 
+![super-bikkuriman](https://cdn.myanimelist.net/images/anime/6/15072.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: スーパービックリマン

@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon Crystal Season III
 
+![bishoujo-senshi-sailor-moon-crystal-season-iii](https://cdn.myanimelist.net/images/anime/3/78859.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 美少女戦士セーラームーン Crystal 　第３期＜デス・バスターズ編＞

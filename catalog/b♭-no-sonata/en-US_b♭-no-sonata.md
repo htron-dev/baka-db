@@ -1,5 +1,7 @@
 # B♭ no Sonata
 
+![b♭-no-sonata](https://cdn.myanimelist.net/images/manga/2/142921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

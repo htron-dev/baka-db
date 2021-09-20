@@ -1,5 +1,7 @@
 # Bouken Shounen
 
+![bouken-shounen](https://cdn.myanimelist.net/images/manga/2/21734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

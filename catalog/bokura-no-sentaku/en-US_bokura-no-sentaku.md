@@ -1,5 +1,7 @@
 # Bokura no Sentaku
 
+![bokura-no-sentaku](https://cdn.myanimelist.net/images/manga/3/204602.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

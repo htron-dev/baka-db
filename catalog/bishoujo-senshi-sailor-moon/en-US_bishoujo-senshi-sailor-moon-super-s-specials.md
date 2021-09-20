@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon SuperS Specials
 
+![bishoujo-senshi-sailor-moon-super-s-specials](https://cdn.myanimelist.net/images/anime/9/4619.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 美少女戦士セーラームーン SuperS スペシャル

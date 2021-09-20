@@ -1,5 +1,7 @@
 # Bashing Renai
 
+![bashing-renai](https://cdn.myanimelist.net/images/manga/1/202508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Bloody Geass
 
+![bloody-geass](https://cdn.myanimelist.net/images/manga/2/173840.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブラッディ・ギアス
 -   **start-date**: 2016-04-01

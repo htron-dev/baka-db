@@ -1,5 +1,7 @@
 # Beautiful Soul
 
+![beautiful-soul](https://cdn.myanimelist.net/images/manga/3/198309.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ビューティフル・ソウル
 -   **start-date**: 2017-08-02

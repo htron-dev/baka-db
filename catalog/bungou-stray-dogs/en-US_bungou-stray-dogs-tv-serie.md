@@ -1,5 +1,7 @@
 # Bungou Stray Dogs
 
+![bungou-stray-dogs](https://cdn.myanimelist.net/images/anime/3/79409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 文豪ストレイドッグス

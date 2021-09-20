@@ -1,5 +1,7 @@
 # Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e
 
+![boku-no-chikyuu-wo-mamotte-alice-kara-rin-kun-e](https://cdn.myanimelist.net/images/anime/9/17794.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぼくの地球を守って～亜梨子から、輪くんへ～

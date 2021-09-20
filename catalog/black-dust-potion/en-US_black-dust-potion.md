@@ -1,5 +1,7 @@
 # Black Dust Potion
 
+![black-dust-potion](https://cdn.myanimelist.net/images/manga/3/156618.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

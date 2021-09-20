@@ -1,5 +1,7 @@
 # Boku to Kanojo ga Ichaicha Ichaicha
 
+![boku-to-kanojo-ga-ichaicha-ichaicha](https://cdn.myanimelist.net/images/manga/2/163294.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 僕と彼女がいちゃいちゃいちゃいちゃ

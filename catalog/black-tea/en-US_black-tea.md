@@ -1,5 +1,7 @@
 # Black Tea
 
+![black-tea](https://cdn.myanimelist.net/images/manga/2/165019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブラック・ティー

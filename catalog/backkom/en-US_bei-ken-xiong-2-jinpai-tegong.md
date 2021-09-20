@@ -1,5 +1,7 @@
 # Bei Ken Xiong 2: Jinpai Tegong
 
+![bei-ken-xiong-2-jinpai-tegong](https://cdn.myanimelist.net/images/anime/1746/115516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 贝肯熊 2:金牌特工

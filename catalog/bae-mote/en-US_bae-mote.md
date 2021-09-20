@@ -1,5 +1,7 @@
 # Bae Mote
 
+![bae-mote](https://cdn.myanimelist.net/images/manga/1/226590.jpg)
+
 -   **type**: manga
 -   **original-name**: バエモテ
 -   **start-date**: 2019-08-10

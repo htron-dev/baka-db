@@ -1,5 +1,7 @@
 # Boku no Ω yo Samenaide
 
+![boku-no-ω-yo-samenaide](https://cdn.myanimelist.net/images/manga/1/238316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Beelzebub Maou Gaiden
 
+![beelzebub-maou-gaiden](https://cdn.myanimelist.net/images/manga/1/66289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Bad Friends
 
+![bad-friends](https://cdn.myanimelist.net/images/manga/1/225327.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 나쁜 친구

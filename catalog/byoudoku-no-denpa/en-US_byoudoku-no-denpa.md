@@ -1,5 +1,7 @@
 # Byoudoku no Denpa
 
+![byoudoku-no-denpa](https://cdn.myanimelist.net/images/anime/1929/92232.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 病毒の伝播

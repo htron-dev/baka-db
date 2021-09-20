@@ -1,5 +1,7 @@
 # Bleach: Gotei 13 Omake
 
+![bleach-gotei-13-omake](https://cdn.myanimelist.net/images/anime/1260/97246.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2005-06-12

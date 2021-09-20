@@ -1,5 +1,7 @@
 # Bonnou☆Saiyuuki
 
+![bonnou☆-saiyuuki](https://cdn.myanimelist.net/images/manga/2/240190.jpg)
+
 -   **type**: manga
 -   **original-name**: 煩悩 ☆ 西遊記
 -   **start-date**: 2020-02-19

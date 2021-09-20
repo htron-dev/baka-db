@@ -1,5 +1,7 @@
 # Banrai no Hekatoncheir
 
+![banrai-no-hekatoncheir](https://cdn.myanimelist.net/images/manga/2/227869.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

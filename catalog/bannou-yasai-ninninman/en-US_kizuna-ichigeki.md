@@ -1,5 +1,7 @@
 # Kizuna Ichigeki
 
+![kizuna-ichigeki](https://cdn.myanimelist.net/images/anime/11/29055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キズナ 一撃

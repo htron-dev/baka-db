@@ -1,5 +1,7 @@
 # Babel Nisei
 
+![babel-nisei](https://cdn.myanimelist.net/images/anime/5/64319.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: バビル２世

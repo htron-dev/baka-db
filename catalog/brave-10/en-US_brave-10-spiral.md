@@ -1,5 +1,7 @@
 # Brave 10 Spiral
 
+![brave-10-spiral](https://cdn.myanimelist.net/images/manga/3/161252.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Hurricane Live! 2032
 
+![hurricane-live-2032](https://cdn.myanimelist.net/images/anime/13/9846.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: バブルガムクライシス Hurricane Live! 2032

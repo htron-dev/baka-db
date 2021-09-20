@@ -1,5 +1,7 @@
 # Bakumatsu Ignition
 
+![bakumatsu-ignition](https://cdn.myanimelist.net/images/manga/1/234425.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Bikkuriman: Daiichiji Seima Taisen
 
+![bikkuriman-daiichiji-seima-taisen](https://cdn.myanimelist.net/images/anime/8/28139.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ビックリマン 第一次聖魔大戦

@@ -1,5 +1,7 @@
 # Bokutachi no Koi ni Happy End nante Iranai
 
+![bokutachi-no-koi-ni-happy-end-nante-iranai](https://cdn.myanimelist.net/images/manga/2/222658.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Bokutachi wa Gaman ga Dekinai!
 
+![bokutachi-wa-gaman-ga-dekinai](https://cdn.myanimelist.net/images/manga/2/138761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

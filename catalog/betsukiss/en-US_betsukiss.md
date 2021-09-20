@@ -1,5 +1,7 @@
 # Betsukiss
 
+![betsukiss](https://cdn.myanimelist.net/images/manga/2/72131.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

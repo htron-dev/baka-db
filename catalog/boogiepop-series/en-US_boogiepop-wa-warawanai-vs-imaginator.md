@@ -1,5 +1,7 @@
 # Boogiepop wa Warawanai: VS Imaginator
 
+![boogiepop-wa-warawanai-vs-imaginator](https://cdn.myanimelist.net/images/manga/1/215575.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

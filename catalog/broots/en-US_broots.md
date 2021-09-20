@@ -1,5 +1,7 @@
 # Broots
 
+![broots](https://cdn.myanimelist.net/images/anime/10/68425.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BROOTS

@@ -1,5 +1,7 @@
 # Bai Yao Pu 2nd Season
 
+![bai-yao-pu-2nd-season](https://cdn.myanimelist.net/images/anime/1898/115957.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 百妖谱 第二季

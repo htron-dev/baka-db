@@ -1,5 +1,7 @@
 # Binbin Fukufuku Nazuna-sama!
 
+![binbin-fukufuku-nazuna-sama](https://cdn.myanimelist.net/images/manga/1/235155.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 71

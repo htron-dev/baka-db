@@ -1,5 +1,7 @@
 # Binkan Idol to Kaikan Ghost
 
+![binkan-idol-to-kaikan-ghost](https://cdn.myanimelist.net/images/manga/2/194256.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

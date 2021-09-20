@@ -1,5 +1,7 @@
 # Baby Baachan
 
+![baby-baachan](https://cdn.myanimelist.net/images/anime/11/77074.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: ベイベーばあちゃん

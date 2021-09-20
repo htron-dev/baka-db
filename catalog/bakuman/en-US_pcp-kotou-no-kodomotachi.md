@@ -1,5 +1,7 @@
 # PCP: Kotou no Kodomotachi
 
+![pcp-kotou-no-kodomotachi](https://cdn.myanimelist.net/images/manga/3/164984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: PCP-完全犯罪党- 孤島の子供たち

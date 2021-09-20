@@ -1,5 +1,7 @@
 # Bogle
 
+![bogle](https://cdn.myanimelist.net/images/manga/1/32008.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ボーグル

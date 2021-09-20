@@ -1,5 +1,7 @@
 # Boku to Gaku: Ano Natsu no Monogatari
 
+![boku-to-gaku-ano-natsu-no-monogatari](https://cdn.myanimelist.net/images/anime/5/65993.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ボクとガク ～あの夏のものがたり～

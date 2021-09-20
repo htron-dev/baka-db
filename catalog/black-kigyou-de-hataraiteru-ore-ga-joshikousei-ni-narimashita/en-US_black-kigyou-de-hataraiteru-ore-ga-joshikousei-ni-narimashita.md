@@ -1,5 +1,7 @@
 # Black Kigyou de Hataraiteru Ore ga Joshikousei ni Narimashita.
 
+![black-kigyou-de-hataraiteru-ore-ga-joshikousei-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/243012.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラック企業で働いてる俺が女子高生になりました。
 -   **start-date**: 2020-04-24

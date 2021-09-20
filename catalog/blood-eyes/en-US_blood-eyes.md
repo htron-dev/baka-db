@@ -1,5 +1,7 @@
 # Blood Eyes
 
+![blood-eyes](https://cdn.myanimelist.net/images/manga/3/172467.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブラッドアイズ
 -   **start-date**: 2016-02-10

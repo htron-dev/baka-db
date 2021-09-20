@@ -1,5 +1,7 @@
 # Blue Gralia
 
+![blue-gralia](https://cdn.myanimelist.net/images/manga/1/164319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

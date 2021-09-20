@@ -1,5 +1,7 @@
 # Battery
 
+![battery](https://cdn.myanimelist.net/images/anime/6/79158.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: バッテリー

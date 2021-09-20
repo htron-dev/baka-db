@@ -1,5 +1,7 @@
 # Black Lagoon
 
+![black-lagoon](https://cdn.myanimelist.net/images/manga/2/53365.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブラック・ラグーン
 -   **start-date**: 2008-07-19

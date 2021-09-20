@@ -1,5 +1,7 @@
 # Boku no Sensei wa, Houkago Kawaii Konyakusha
 
+![boku-no-sensei-wa-houkago-kawaii-konyakusha](https://cdn.myanimelist.net/images/manga/3/245807.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 僕の先生は、放課後かわいい婚約者
 -   **start-date**: 2019-11-20

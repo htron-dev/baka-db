@@ -1,5 +1,7 @@
 # Bokura ga Ita
 
+![bokura-ga-ita](https://cdn.myanimelist.net/images/manga/3/24452.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Bingo!
 
+![bingo](https://cdn.myanimelist.net/images/manga/2/16619.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 62

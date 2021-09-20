@@ -1,5 +1,7 @@
 # Bokutachi no Shinsekai
 
+![bokutachi-no-shinsekai](https://cdn.myanimelist.net/images/manga/3/204998.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Blue Peter
 
+![blue-peter](https://cdn.myanimelist.net/images/manga/1/214905.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 77

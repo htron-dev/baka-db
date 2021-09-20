@@ -1,5 +1,7 @@
 # Burn the Witch
 
+![burn-the-witch](https://cdn.myanimelist.net/images/anime/1993/108967.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: BURN THE WITCH

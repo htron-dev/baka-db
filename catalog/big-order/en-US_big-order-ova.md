@@ -1,5 +1,7 @@
 # Big Order
 
+![big-order](https://cdn.myanimelist.net/images/anime/12/78945.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ビッグオーダー

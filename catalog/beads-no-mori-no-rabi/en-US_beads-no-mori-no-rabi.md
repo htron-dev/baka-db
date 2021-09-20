@@ -1,5 +1,7 @@
 # Beads no Mori no Rabi
 
+![beads-no-mori-no-rabi](https://cdn.myanimelist.net/images/anime/6/86113.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ビーズの森のらびぃ
 -   **start-date**: 2015-03-20

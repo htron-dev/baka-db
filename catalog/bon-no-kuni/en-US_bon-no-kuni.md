@@ -1,5 +1,7 @@
 # Bon no Kuni
 
+![bon-no-kuni](https://cdn.myanimelist.net/images/manga/3/231254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

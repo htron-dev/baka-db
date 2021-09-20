@@ -1,5 +1,7 @@
 # Boku no Boukuugou
 
+![boku-no-boukuugou](https://cdn.myanimelist.net/images/anime/11/53783.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぼくの防空壕

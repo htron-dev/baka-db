@@ -1,5 +1,7 @@
 # Byulbyul Iyagi 2
 
+![byulbyul-iyagi-2](https://cdn.myanimelist.net/images/anime/13/26149.jpg)
+
 -   **type**: movie
 -   **episodes**: 6
 -   **original-name**: 별별이야기 2: 여섯 빛깔 무지개

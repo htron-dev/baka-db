@@ -1,5 +1,7 @@
 # Black★Rock Shooter: Innocent Soul
 
+![black★-rock-shooter-innocent-soul](https://cdn.myanimelist.net/images/manga/2/61771.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

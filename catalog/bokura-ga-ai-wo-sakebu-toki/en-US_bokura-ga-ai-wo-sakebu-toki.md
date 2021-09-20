@@ -1,5 +1,7 @@
 # Bokura ga Ai wo Sakebu Toki
 
+![bokura-ga-ai-wo-sakebu-toki](https://cdn.myanimelist.net/images/manga/2/224538.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Bokura Living
 
+![bokura-living](https://cdn.myanimelist.net/images/manga/2/158210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕等 Living

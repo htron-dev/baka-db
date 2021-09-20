@@ -1,5 +1,7 @@
 # Beast and Harrian
 
+![beast-and-harrian](https://cdn.myanimelist.net/images/manga/3/28738.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 야수와 헤르헨

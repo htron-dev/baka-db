@@ -1,5 +1,7 @@
 # Beotkkotnamu Kokkiri Sup
 
+![beotkkotnamu-kokkiri-sup](https://cdn.myanimelist.net/images/anime/1487/103167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 벚꽃나무 코끼리 숲

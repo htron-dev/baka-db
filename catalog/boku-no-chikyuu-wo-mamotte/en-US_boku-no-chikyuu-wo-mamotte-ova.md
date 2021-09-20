@@ -1,5 +1,7 @@
 # Boku no Chikyuu wo Mamotte
 
+![boku-no-chikyuu-wo-mamotte](https://cdn.myanimelist.net/images/anime/5/25035.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ぼくの地球を守って

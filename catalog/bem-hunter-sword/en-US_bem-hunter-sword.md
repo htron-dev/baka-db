@@ -1,5 +1,7 @@
 # Bem Hunter Sword
 
+![bem-hunter-sword](https://cdn.myanimelist.net/images/manga/3/63483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベムハンター・ソード

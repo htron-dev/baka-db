@@ -1,5 +1,7 @@
 # Metal Fight Beyblade: Baku
 
+![metal-fight-beyblade-baku](https://cdn.myanimelist.net/images/anime/12/26363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: メタルファイト ベイブレード～爆～

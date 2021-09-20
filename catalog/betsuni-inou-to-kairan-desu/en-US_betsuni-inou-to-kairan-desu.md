@@ -1,5 +1,7 @@
 # Betsuni Inou to Kairan desu
 
+![betsuni-inou-to-kairan-desu](https://cdn.myanimelist.net/images/manga/3/149939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: べつに異能とかいらんです

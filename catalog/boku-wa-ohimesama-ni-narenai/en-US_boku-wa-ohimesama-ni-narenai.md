@@ -1,5 +1,7 @@
 # Boku wa Ohimesama ni Narenai
 
+![boku-wa-ohimesama-ni-narenai](https://cdn.myanimelist.net/images/manga/1/188820.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

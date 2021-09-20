@@ -1,5 +1,7 @@
 # Boku to Kanojo no XXX: Bangai-hen
 
+![boku-to-kanojo-no-xxx-bangai-hen](https://cdn.myanimelist.net/images/manga/1/99109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

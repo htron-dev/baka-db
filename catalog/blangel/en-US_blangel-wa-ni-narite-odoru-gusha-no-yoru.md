@@ -1,5 +1,7 @@
 # Blangel: Wa ni Narite Odoru Gusha no Yoru
 
+![blangel-wa-ni-narite-odoru-gusha-no-yoru](https://cdn.myanimelist.net/images/manga/3/168637.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

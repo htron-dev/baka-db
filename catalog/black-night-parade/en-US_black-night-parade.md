@@ -1,5 +1,7 @@
 # Black Night Parade
 
+![black-night-parade](https://cdn.myanimelist.net/images/manga/2/187215.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラックナイトパレード
 -   **start-date**: 2016-11-02

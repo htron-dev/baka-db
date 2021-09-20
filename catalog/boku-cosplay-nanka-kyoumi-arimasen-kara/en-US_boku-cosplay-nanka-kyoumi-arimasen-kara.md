@@ -1,5 +1,7 @@
 # Boku Cosplay nanka Kyoumi Arimasen kara!!
 
+![boku-cosplay-nanka-kyoumi-arimasen-kara](https://cdn.myanimelist.net/images/manga/3/148535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

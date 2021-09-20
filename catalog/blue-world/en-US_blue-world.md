@@ -1,5 +1,7 @@
 # Blue World
 
+![blue-world](https://cdn.myanimelist.net/images/manga/1/118193.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

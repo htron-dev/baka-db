@@ -1,5 +1,7 @@
 # Bleach: We Do Knot Always Love You
 
+![bleach-we-do-knot-always-love-you](https://cdn.myanimelist.net/images/manga/2/189156.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

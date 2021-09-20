@@ -1,5 +1,7 @@
 # Baka to Boing
 
+![baka-to-boing](https://cdn.myanimelist.net/images/manga/2/53723.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 54

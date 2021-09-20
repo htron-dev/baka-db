@@ -1,5 +1,7 @@
 # Bakuretsu Hunters
 
+![bakuretsu-hunters](https://cdn.myanimelist.net/images/manga/2/157573.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 72

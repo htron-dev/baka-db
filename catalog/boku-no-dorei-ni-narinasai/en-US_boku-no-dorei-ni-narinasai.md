@@ -1,5 +1,7 @@
 # Boku no Dorei ni Narinasai
 
+![boku-no-dorei-ni-narinasai](https://cdn.myanimelist.net/images/manga/3/168271.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

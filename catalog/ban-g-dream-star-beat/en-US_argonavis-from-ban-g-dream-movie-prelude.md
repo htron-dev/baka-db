@@ -1,5 +1,7 @@
 # Argonavis from BanG Dream! Movie Prelude
 
+![argonavis-from-ban-g-dream-movie-prelude](https://cdn.myanimelist.net/images/anime/1293/116823.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「アルゴナビス from BanG Dream!」Prelude

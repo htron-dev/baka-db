@@ -1,5 +1,7 @@
 # Byeolnala Samchongsa
 
+![byeolnala-samchongsa](https://cdn.myanimelist.net/images/anime/7/61655.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 별나라 삼총사

@@ -1,5 +1,7 @@
 # Boku no Animal Life
 
+![boku-no-animal-life](https://cdn.myanimelist.net/images/manga/3/27317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

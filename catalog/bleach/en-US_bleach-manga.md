@@ -1,5 +1,7 @@
 # Bleach
 
+![bleach](https://cdn.myanimelist.net/images/manga/2/180089.jpg)
+
 -   **type**: manga
 -   **volumes**: 74
 -   **chapters**: 705

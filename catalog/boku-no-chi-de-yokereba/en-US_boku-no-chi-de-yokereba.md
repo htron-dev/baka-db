@@ -1,5 +1,7 @@
 # Boku no Chi de Yokereba
 
+![boku-no-chi-de-yokereba](https://cdn.myanimelist.net/images/manga/3/143657.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

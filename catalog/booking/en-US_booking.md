@@ -1,5 +1,7 @@
 # Booking!!
 
+![booking](https://cdn.myanimelist.net/images/manga/2/207949.jpg)
+
 -   **type**: manga
 -   **original-name**: ぶっきんぐ!!
 -   **start-date**: 2017-08-13

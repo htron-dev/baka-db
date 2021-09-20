@@ -1,5 +1,7 @@
 # Buster Dress
 
+![buster-dress](https://cdn.myanimelist.net/images/manga/1/181999.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Boku no Kirai na Shitsuji!
 
+![boku-no-kirai-na-shitsuji](https://cdn.myanimelist.net/images/manga/3/143809.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ぼくのキライな執事ッ!

@@ -1,5 +1,7 @@
 # Bayonetta: Bloody Fate
 
+![bayonetta-bloody-fate](https://cdn.myanimelist.net/images/manga/2/108831.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ベヨネッタ ブラッディフェイト

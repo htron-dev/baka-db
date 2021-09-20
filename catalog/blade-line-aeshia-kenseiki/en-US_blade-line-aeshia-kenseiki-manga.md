@@ -1,5 +1,7 @@
 # Blade Line: Aeshia Kenseiki
 
+![blade-line-aeshia-kenseiki](https://cdn.myanimelist.net/images/manga/2/123665.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

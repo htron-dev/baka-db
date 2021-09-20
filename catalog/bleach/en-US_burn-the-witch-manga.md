@@ -1,5 +1,7 @@
 # Burn the Witch
 
+![burn-the-witch](https://cdn.myanimelist.net/images/manga/3/238094.jpg)
+
 -   **type**: manga
 -   **original-name**: BURN THE WITCH
 -   **start-date**: 2020-08-24

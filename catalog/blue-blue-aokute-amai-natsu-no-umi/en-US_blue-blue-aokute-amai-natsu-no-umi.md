@@ -1,5 +1,7 @@
 # Blue Blue - Aokute Amai Natsu no Umi
 
+![blue-blue-aokute-amai-natsu-no-umi](https://cdn.myanimelist.net/images/manga/1/28796.jpg)
+
 -   **type**: manga
 -   **original-name**: Ｂｌｕｅ　Ｂｌｕｅ　青くて甘い夏の海
 

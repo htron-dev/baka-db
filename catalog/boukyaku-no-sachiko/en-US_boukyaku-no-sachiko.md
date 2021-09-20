@@ -1,5 +1,7 @@
 # Boukyaku no Sachiko
 
+![boukyaku-no-sachiko](https://cdn.myanimelist.net/images/manga/2/168423.jpg)
+
 -   **type**: manga
 -   **original-name**: 忘却のサチコ
 -   **start-date**: 2014-08-11

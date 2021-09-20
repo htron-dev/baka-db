@@ -1,5 +1,7 @@
 # Bronze no Tenshi Gaiden
 
+![bronze-no-tenshi-gaiden](https://cdn.myanimelist.net/images/manga/1/151360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

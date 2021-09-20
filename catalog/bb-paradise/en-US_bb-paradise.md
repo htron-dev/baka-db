@@ -1,5 +1,7 @@
 # BB Paradise
 
+![bb-paradise](https://cdn.myanimelist.net/images/manga/2/34838.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Ｂ．Ｂ．天国（パラダイス）

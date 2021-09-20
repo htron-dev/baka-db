@@ -1,5 +1,7 @@
 # Bono-chan
 
+![bono-chan](https://cdn.myanimelist.net/images/manga/2/202569.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼのちゃん
 -   **start-date**: 2015-07-10

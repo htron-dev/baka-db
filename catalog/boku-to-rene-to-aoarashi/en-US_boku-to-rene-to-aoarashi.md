@@ -1,5 +1,7 @@
 # Boku to René to Aoarashi
 
+![boku-to-rene-to-aoarashi](https://cdn.myanimelist.net/images/manga/2/180212.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

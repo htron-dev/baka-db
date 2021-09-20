@@ -1,5 +1,7 @@
 # Spicy &amp; Sugary
 
+![spicy-amp-sugary](https://cdn.myanimelist.net/images/manga/1/166009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

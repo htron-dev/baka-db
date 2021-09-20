@@ -1,5 +1,7 @@
 # Baker Baker Paradox
 
+![baker-baker-paradox](https://cdn.myanimelist.net/images/manga/3/238252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

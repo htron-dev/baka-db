@@ -1,5 +1,7 @@
 # Batain Lai!! Minami no Shima no Mizu Monogatari
 
+![batain-lai-minami-no-shima-no-mizu-monogatari](https://cdn.myanimelist.net/images/anime/6/15373.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パッテンライ!!　～南の島の水ものがたり～

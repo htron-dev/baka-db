@@ -1,5 +1,7 @@
 # Shoujo☆Kageki Revue Starlight Specials
 
+![shoujo☆-kageki-revue-starlight-specials](https://cdn.myanimelist.net/images/anime/1349/93309.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 少女 ☆ 歌劇 レヴュー・スタァライト未放送エピソード

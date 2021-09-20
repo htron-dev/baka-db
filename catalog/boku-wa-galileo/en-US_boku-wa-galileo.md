@@ -1,5 +1,7 @@
 # Boku wa Galileo
 
+![boku-wa-galileo](https://cdn.myanimelist.net/images/manga/2/26284.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 45

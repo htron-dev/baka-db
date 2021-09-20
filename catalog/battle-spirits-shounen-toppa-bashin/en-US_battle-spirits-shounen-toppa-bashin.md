@@ -1,5 +1,7 @@
 # Battle Spirits: Shounen Toppa Bashin
 
+![battle-spirits-shounen-toppa-bashin](https://cdn.myanimelist.net/images/anime/7/21150.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: バトルスピリッツ 少年突破バシン

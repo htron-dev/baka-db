@@ -1,5 +1,7 @@
 # Bungou Stray Dogs: Dead Apple
 
+![bungou-stray-dogs-dead-apple](https://cdn.myanimelist.net/images/manga/1/208101.jpg)
+
 -   **type**: manga
 -   **original-name**: 文豪ストレイドッグス DEAD APPLE
 -   **start-date**: 2018-03-09

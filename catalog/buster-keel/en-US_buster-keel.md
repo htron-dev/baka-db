@@ -1,5 +1,7 @@
 # Buster Keel!
 
+![buster-keel](https://cdn.myanimelist.net/images/manga/1/166312.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 47

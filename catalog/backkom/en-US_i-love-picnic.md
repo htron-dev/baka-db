@@ -1,5 +1,7 @@
 # I Love Picnic
 
+![i-love-picnic](https://cdn.myanimelist.net/images/anime/11/65737.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: I Love Picnic

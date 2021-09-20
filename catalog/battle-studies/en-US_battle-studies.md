@@ -1,5 +1,7 @@
 # Battle Studies
 
+![battle-studies](https://cdn.myanimelist.net/images/manga/1/160199.jpg)
+
 -   **type**: manga
 -   **original-name**: バトルスタディーズ
 -   **start-date**: 2015-01-08

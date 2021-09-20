@@ -1,5 +1,7 @@
 # Black Knight Bat
 
+![black-knight-bat](https://cdn.myanimelist.net/images/manga/1/103503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

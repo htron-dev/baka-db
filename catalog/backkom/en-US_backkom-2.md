@@ -1,5 +1,7 @@
 # Backkom 2
 
+![backkom-2](https://cdn.myanimelist.net/images/anime/2/65729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 빼꼼 2

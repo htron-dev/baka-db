@@ -1,5 +1,7 @@
 # Brat★Blood Lad
 
+![brat★-blood-lad](https://cdn.myanimelist.net/images/manga/2/96373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

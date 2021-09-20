@@ -1,5 +1,7 @@
 # Brave 10
 
+![brave-10](https://cdn.myanimelist.net/images/manga/2/161251.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Bakeru-kun
 
+![bakeru-kun](https://cdn.myanimelist.net/images/manga/2/72227.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

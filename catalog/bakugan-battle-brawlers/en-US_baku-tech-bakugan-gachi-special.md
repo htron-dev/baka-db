@@ -1,5 +1,7 @@
 # Baku Tech! Bakugan Gachi Special
 
+![baku-tech-bakugan-gachi-special](https://cdn.myanimelist.net/images/anime/9/81066.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 爆テク爆丸ガチ　特別編

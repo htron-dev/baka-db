@@ -1,5 +1,7 @@
 # Business Fish
 
+![business-fish](https://cdn.myanimelist.net/images/anime/1834/112939.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: ビジネスフィッシュ

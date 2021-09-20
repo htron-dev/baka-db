@@ -1,5 +1,7 @@
 # Boku no Koi no Hanashi Himegoto
 
+![boku-no-koi-no-hanashi-himegoto](https://cdn.myanimelist.net/images/manga/2/7392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

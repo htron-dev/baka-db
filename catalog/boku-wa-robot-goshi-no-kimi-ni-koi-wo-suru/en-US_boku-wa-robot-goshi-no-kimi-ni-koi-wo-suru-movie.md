@@ -1,5 +1,7 @@
 # Boku wa Robot-goshi no Kimi ni Koi wo Suru Movie
 
+![boku-wa-robot-goshi-no-kimi-ni-koi-wo-suru-movie](https://cdn.myanimelist.net/images/anime/1007/92881.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 僕はロボットごしの君に恋をする

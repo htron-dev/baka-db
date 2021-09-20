@@ -1,5 +1,7 @@
 # Battle Over Hokkaido
 
+![battle-over-hokkaido](https://cdn.myanimelist.net/images/manga/3/131929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バトルオーバー北海道

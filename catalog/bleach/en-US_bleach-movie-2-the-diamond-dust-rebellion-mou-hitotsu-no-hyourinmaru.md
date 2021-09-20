@@ -1,5 +1,7 @@
 # Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru
 
+![bleach-movie-2-the-diamond-dust-rebellion-mou-hitotsu-no-hyourinmaru](https://cdn.myanimelist.net/images/anime/12/7499.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸

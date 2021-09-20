@@ -1,5 +1,7 @@
 # Butazuka
 
+![butazuka](https://cdn.myanimelist.net/images/anime/13/71509.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ブタヅカ

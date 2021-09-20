@@ -1,5 +1,7 @@
 # Brain Damage
 
+![brain-damage](https://cdn.myanimelist.net/images/manga/3/203906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

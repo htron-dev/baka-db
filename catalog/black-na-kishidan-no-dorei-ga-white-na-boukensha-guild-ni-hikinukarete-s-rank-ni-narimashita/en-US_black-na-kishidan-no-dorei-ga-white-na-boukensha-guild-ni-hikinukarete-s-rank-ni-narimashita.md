@@ -1,5 +1,7 @@
 # Black na Kishidan no Dorei ga White na Boukensha Guild ni Hikinukarete S-Rank ni Narimashita
 
+![black-na-kishidan-no-dorei-ga-white-na-boukensha-guild-ni-hikinukarete-s-rank-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/241607.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラックな騎士団の奴隷がホワイトな冒険者ギルドに引き抜かれて S ランクになりました
 -   **start-date**: 2020-09-25

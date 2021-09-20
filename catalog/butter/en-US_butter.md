@@ -1,5 +1,7 @@
 # Butter!!!
 
+![butter](https://cdn.myanimelist.net/images/manga/1/159980.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Brave Blade
 
+![brave-blade](https://cdn.myanimelist.net/images/manga/2/124169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ブレイブレイド

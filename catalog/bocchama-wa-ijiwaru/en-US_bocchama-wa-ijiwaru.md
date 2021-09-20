@@ -1,5 +1,7 @@
 # Bocchama wa Ijiwaru
 
+![bocchama-wa-ijiwaru](https://cdn.myanimelist.net/images/manga/1/111987.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

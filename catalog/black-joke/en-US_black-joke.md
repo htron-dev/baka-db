@@ -1,5 +1,7 @@
 # Black Joke
 
+![black-joke](https://cdn.myanimelist.net/images/manga/1/165898.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラック・ジョーク
 -   **start-date**: 2008-02-12

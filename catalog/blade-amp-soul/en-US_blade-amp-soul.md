@@ -1,5 +1,7 @@
 # Blade &amp; Soul
 
+![blade-amp-soul](https://cdn.myanimelist.net/images/anime/11/61885.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ブレイドアンドソウル

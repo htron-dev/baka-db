@@ -1,5 +1,7 @@
 # Bousou suru Yokubou: Nerawareru Onna-tachi
 
+![bousou-suru-yokubou-nerawareru-onna-tachi](https://cdn.myanimelist.net/images/manga/3/196724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 暴走する欲望　狙われる女たち

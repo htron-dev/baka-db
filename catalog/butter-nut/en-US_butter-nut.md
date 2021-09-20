@@ -1,5 +1,7 @@
 # Butter Nut!
 
+![butter-nut](https://cdn.myanimelist.net/images/manga/2/178585.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

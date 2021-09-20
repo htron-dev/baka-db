@@ -1,5 +1,7 @@
 # Busou Chuugakusei: Basket Army
 
+![busou-chuugakusei-basket-army](https://cdn.myanimelist.net/images/anime/10/48839.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 武装中学生 バスケットアーミー

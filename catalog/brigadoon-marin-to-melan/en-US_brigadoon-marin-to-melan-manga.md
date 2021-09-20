@@ -1,5 +1,7 @@
 # Brigadoon: Marin to Melan
 
+![brigadoon-marin-to-melan](https://cdn.myanimelist.net/images/manga/1/200076.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

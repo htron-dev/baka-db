@@ -1,5 +1,7 @@
 # Busou Shoujo Machiavellianism
 
+![busou-shoujo-machiavellianism](https://cdn.myanimelist.net/images/manga/2/188821.jpg)
+
 -   **type**: manga
 -   **original-name**: 武装少女マキャヴェリズム
 -   **start-date**: 2014-03-25

@@ -1,5 +1,7 @@
 # Bukiyou ni Koishite: Toshishita Danshi to Himitsu no Doukyo
 
+![bukiyou-ni-koishite-toshishita-danshi-to-himitsu-no-doukyo](https://cdn.myanimelist.net/images/manga/3/235759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

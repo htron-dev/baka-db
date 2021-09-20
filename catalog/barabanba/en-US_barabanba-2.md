@@ -1,5 +1,7 @@
 # Barabanba 2
 
+![barabanba-2](https://cdn.myanimelist.net/images/manga/1/25218.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: バラバンバ 2

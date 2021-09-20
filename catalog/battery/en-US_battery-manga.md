@@ -1,5 +1,7 @@
 # Battery
 
+![battery](https://cdn.myanimelist.net/images/manga/1/179346.jpg)
+
 -   **type**: manga
 -   **original-name**: バッテリー
 -   **start-date**: 2016-06-11

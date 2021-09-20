@@ -1,5 +1,7 @@
 # Baito-saki wa "Aku no Soshiki"!?
 
+![baito-saki-wa-aku-no-soshiki](https://cdn.myanimelist.net/images/manga/3/151893.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

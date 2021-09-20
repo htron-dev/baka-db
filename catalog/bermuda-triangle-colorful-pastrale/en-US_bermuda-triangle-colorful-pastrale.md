@@ -1,5 +1,7 @@
 # Bermuda Triangle: Colorful Pastrale
 
+![bermuda-triangle-colorful-pastrale](https://cdn.myanimelist.net/images/anime/1449/93947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バミューダトライアングル ～カラフル・パストラーレ～

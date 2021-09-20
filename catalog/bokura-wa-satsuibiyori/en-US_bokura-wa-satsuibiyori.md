@@ -1,5 +1,7 @@
 # Bokura wa Satsuibiyori
 
+![bokura-wa-satsuibiyori](https://cdn.myanimelist.net/images/manga/2/158789.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 12
 -   **original-name**: ぼくらは殺意日和

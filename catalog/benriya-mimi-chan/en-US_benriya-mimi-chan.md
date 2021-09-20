@@ -1,5 +1,7 @@
 # Benriya Mimi-chan
 
+![benriya-mimi-chan](https://cdn.myanimelist.net/images/manga/3/173421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 45

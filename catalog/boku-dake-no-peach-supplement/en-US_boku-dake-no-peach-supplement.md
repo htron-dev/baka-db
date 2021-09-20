@@ -1,5 +1,7 @@
 # Boku dake no Peach Supplement
 
+![boku-dake-no-peach-supplement](https://cdn.myanimelist.net/images/manga/3/2712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

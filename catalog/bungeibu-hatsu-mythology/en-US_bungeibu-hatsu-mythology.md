@@ -1,5 +1,7 @@
 # Bungeibu Hatsu Mythology
 
+![bungeibu-hatsu-mythology](https://cdn.myanimelist.net/images/manga/3/129057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 文芸部発マイソロジー

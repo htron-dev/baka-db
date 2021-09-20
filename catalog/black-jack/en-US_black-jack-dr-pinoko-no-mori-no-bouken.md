@@ -1,5 +1,7 @@
 # Black Jack: Dr. Pinoko no Mori no Bouken
 
+![black-jack-dr-pinoko-no-mori-no-bouken](https://cdn.myanimelist.net/images/anime/9/7415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブラック・ジャック Dr. ピノコの森の冒険

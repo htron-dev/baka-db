@@ -1,5 +1,7 @@
 # Beauty!!
 
+![beauty](https://cdn.myanimelist.net/images/manga/2/191405.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

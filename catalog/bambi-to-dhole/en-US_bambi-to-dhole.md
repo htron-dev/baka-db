@@ -1,5 +1,7 @@
 # Bambi to Dhole
 
+![bambi-to-dhole](https://cdn.myanimelist.net/images/manga/1/159376.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Berserk: Ougon Jidai-hen III - Kourin
 
+![berserk-ougon-jidai-hen-iii-kourin](https://cdn.myanimelist.net/images/anime/12/41305.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルセルク 黄金時代篇 Ⅲ 降臨

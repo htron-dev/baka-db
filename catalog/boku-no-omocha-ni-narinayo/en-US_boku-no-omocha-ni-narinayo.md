@@ -1,5 +1,7 @@
 # Boku no Omocha ni Narinayo
 
+![boku-no-omocha-ni-narinayo](https://cdn.myanimelist.net/images/manga/2/14391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

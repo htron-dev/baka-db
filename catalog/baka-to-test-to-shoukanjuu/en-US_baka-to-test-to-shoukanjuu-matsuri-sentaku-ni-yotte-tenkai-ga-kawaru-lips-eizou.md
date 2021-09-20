@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu: Matsuri - Sentaku ni Yotte Tenkai ga Kawaru "LIPS Eizou"
 
+![baka-to-test-to-shoukanjuu-matsuri-sentaku-ni-yotte-tenkai-ga-kawaru-lips-eizou](https://cdn.myanimelist.net/images/anime/12/29181.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バカとテストと召喚獣 ～祭～ 選択によって展開が変わる「LIPS 映像」

@@ -1,5 +1,7 @@
 # Battle Royale II: Blitz Royale
 
+![battle-royale-ii-blitz-royale](https://cdn.myanimelist.net/images/manga/1/200210.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

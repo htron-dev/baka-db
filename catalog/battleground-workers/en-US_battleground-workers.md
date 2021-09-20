@@ -1,5 +1,7 @@
 # Battleground Workers
 
+![battleground-workers](https://cdn.myanimelist.net/images/manga/1/232395.jpg)
+
 -   **type**: manga
 -   **original-name**: バトルグラウンドワーカーズ
 -   **start-date**: 2019-04-22

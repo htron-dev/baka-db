@@ -1,5 +1,7 @@
 # Bacouple
 
+![bacouple](https://cdn.myanimelist.net/images/manga/1/240211.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: バカップル

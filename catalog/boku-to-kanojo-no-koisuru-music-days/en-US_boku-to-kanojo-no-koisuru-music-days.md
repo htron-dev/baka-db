@@ -1,5 +1,7 @@
 # Boku to Kanojo no Koisuru Music Days
 
+![boku-to-kanojo-no-koisuru-music-days](https://cdn.myanimelist.net/images/manga/3/178274.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Birth
 
+![birth](https://cdn.myanimelist.net/images/manga/2/201290.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 17

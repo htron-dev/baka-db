@@ -1,5 +1,7 @@
 # Bonten no Moribito
 
+![bonten-no-moribito](https://cdn.myanimelist.net/images/manga/1/42717.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 梵天の守人

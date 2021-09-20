@@ -1,5 +1,7 @@
 # Bronze no Tenshi
 
+![bronze-no-tenshi](https://cdn.myanimelist.net/images/manga/2/28443.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

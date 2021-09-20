@@ -1,5 +1,7 @@
 # Boukun to no Suteki na Kekkon Seikatsu
 
+![boukun-to-no-suteki-na-kekkon-seikatsu](https://cdn.myanimelist.net/images/manga/2/155695.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

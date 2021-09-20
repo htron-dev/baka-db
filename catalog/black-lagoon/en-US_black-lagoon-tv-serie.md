@@ -1,5 +1,7 @@
 # Black Lagoon
 
+![black-lagoon](https://cdn.myanimelist.net/images/anime/4/25596.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BLACK LAGOON

@@ -1,5 +1,7 @@
 # Bokura no Fushidara
 
+![bokura-no-fushidara](https://cdn.myanimelist.net/images/manga/2/169703.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

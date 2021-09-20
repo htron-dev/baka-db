@@ -1,5 +1,7 @@
 # Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie
 
+![beast-wars-second-chou-seimeitai-transformers-lio-convoy-kiki-ippatsu-movie](https://cdn.myanimelist.net/images/anime/1082/94076.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ビーストウォーズ II[セカンド]超生命体トランスフォーマー ライオコンボイ危機一髪!

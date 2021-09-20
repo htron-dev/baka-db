@@ -1,5 +1,7 @@
 # Black Gakkou ni Tsutometeshimatta Sensei
 
+![black-gakkou-ni-tsutometeshimatta-sensei](https://cdn.myanimelist.net/images/manga/3/212584.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラック学校に勤めてしまった先生
 -   **start-date**: 2017-08-09

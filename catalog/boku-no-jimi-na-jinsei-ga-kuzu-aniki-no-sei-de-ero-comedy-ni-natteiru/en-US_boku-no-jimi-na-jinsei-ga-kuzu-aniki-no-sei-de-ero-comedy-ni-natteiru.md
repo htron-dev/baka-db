@@ -1,5 +1,7 @@
 # Boku no Jimi na Jinsei ga Kuzu Aniki no Sei de Ero Comedy ni Natteiru.
 
+![boku-no-jimi-na-jinsei-ga-kuzu-aniki-no-sei-de-ero-comedy-ni-natteiru](https://cdn.myanimelist.net/images/manga/1/184270.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 僕の地味な人生がクズ兄貴のせいでエロコメディになっている。
 -   **start-date**: 2016-10-18

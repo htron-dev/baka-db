@@ -1,5 +1,7 @@
 # Binchou-tan
 
+![binchou-tan](https://cdn.myanimelist.net/images/manga/2/11000.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: びんちょうタン

@@ -1,5 +1,7 @@
 # Boku wa Beatles
 
+![boku-wa-beatles](https://cdn.myanimelist.net/images/manga/1/39786.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 93

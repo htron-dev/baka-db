@@ -1,5 +1,7 @@
 # Boku wa Boku yori Tomodachi ga Ooi Boku no Kanojo ga Shinpai!
 
+![boku-wa-boku-yori-tomodachi-ga-ooi-boku-no-kanojo-ga-shinpai](https://cdn.myanimelist.net/images/manga/3/165132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

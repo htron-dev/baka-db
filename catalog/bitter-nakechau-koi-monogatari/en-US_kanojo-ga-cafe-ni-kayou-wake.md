@@ -1,5 +1,7 @@
 # Kanojo ga Cafe ni Kayou Wake
 
+![kanojo-ga-cafe-ni-kayou-wake](https://cdn.myanimelist.net/images/manga/3/15573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

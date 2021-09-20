@@ -1,5 +1,7 @@
 # Bokurano: Alternative
 
+![bokurano-alternative](https://cdn.myanimelist.net/images/manga/1/112097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 18

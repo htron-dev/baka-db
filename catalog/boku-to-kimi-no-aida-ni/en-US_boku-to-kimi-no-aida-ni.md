@@ -1,5 +1,7 @@
 # Boku to Kimi no Aida ni
 
+![boku-to-kimi-no-aida-ni](https://cdn.myanimelist.net/images/manga/2/202976.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

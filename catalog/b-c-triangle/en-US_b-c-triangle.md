@@ -1,5 +1,7 @@
 # B.C. Triangle
 
+![b-c-triangle](https://cdn.myanimelist.net/images/manga/1/32162.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: B.C.トライアングル

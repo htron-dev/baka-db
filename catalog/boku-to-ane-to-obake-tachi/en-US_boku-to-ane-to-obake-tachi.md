@@ -1,5 +1,7 @@
 # Boku to Ane to Obake-tachi
 
+![boku-to-ane-to-obake-tachi](https://cdn.myanimelist.net/images/manga/5/144521.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ぼくと姉とオバケたち

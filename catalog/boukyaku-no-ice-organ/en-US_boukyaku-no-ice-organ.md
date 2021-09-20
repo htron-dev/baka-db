@@ -1,5 +1,7 @@
 # Boukyaku no Ice Organ
 
+![boukyaku-no-ice-organ](https://cdn.myanimelist.net/images/manga/1/200328.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 忘却のアイズオルガン
 -   **start-date**: 2017-08-18

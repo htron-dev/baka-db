@@ -1,5 +1,7 @@
 # Breath of Fire - Tsubasa no Oujo
 
+![breath-of-fire-tsubasa-no-oujo](https://cdn.myanimelist.net/images/manga/1/13124.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

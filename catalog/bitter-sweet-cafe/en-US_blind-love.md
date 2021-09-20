@@ -1,5 +1,7 @@
 # Blind Love
 
+![blind-love](https://cdn.myanimelist.net/images/manga/1/22602.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

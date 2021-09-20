@@ -1,5 +1,7 @@
 # Bijo wa Tensai ga Osuki
 
+![bijo-wa-tensai-ga-osuki](https://cdn.myanimelist.net/images/manga/2/247025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 美女は天才がお好き

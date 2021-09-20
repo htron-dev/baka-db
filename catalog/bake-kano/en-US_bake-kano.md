@@ -1,5 +1,7 @@
 # Bake Kano
 
+![bake-kano](https://cdn.myanimelist.net/images/manga/2/188818.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

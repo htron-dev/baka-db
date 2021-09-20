@@ -1,5 +1,7 @@
 # Boku ga Aishite Ageru
 
+![boku-ga-aishite-ageru](https://cdn.myanimelist.net/images/manga/2/73529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

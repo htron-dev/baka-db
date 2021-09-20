@@ -1,5 +1,7 @@
 # Bakuten Shoot Beyblade G Revolution
 
+![bakuten-shoot-beyblade-g-revolution](https://cdn.myanimelist.net/images/anime/7/55863.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 爆転シュート　ベイブレードＧレボリューション

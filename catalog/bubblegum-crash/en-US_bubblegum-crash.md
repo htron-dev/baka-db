@@ -1,5 +1,7 @@
 # Bubblegum Crash
 
+![bubblegum-crash](https://cdn.myanimelist.net/images/anime/11/2845.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: バブルガムクラッシュ

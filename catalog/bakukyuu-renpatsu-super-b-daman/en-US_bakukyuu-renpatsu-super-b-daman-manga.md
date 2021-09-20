@@ -1,5 +1,7 @@
 # Bakukyuu Renpatsu!! Super B-Daman
 
+![bakukyuu-renpatsu-super-b-daman](https://cdn.myanimelist.net/images/manga/2/35102.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 82

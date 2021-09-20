@@ -1,5 +1,7 @@
 # Burning Blood
 
+![burning-blood](https://cdn.myanimelist.net/images/anime/13/42743.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Ｂ・Ｂ BURNING BLOOD

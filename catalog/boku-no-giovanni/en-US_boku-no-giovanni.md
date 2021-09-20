@@ -1,5 +1,7 @@
 # Boku no Giovanni
 
+![boku-no-giovanni](https://cdn.myanimelist.net/images/manga/2/191546.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のジョバンニ
 -   **start-date**: 2016-05-28

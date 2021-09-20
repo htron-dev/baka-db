@@ -1,5 +1,7 @@
 # Break Shot
 
+![break-shot](https://cdn.myanimelist.net/images/manga/3/75485.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 152

@@ -1,5 +1,7 @@
 # Biyaku Cafe
 
+![biyaku-cafe](https://cdn.myanimelist.net/images/manga/2/162405.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

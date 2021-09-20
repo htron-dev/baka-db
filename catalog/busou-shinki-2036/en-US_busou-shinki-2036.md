@@ -1,5 +1,7 @@
 # Busou Shinki 2036
 
+![busou-shinki-2036](https://cdn.myanimelist.net/images/manga/1/147383.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 武装神姫 2036

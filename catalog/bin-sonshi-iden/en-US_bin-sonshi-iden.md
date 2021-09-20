@@ -1,5 +1,7 @@
 # Bin: Sonshi Iden
 
+![bin-sonshi-iden](https://cdn.myanimelist.net/images/manga/3/185873.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 148

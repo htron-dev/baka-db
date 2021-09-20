@@ -1,5 +1,7 @@
 # Black Bird
 
+![black-bird](https://cdn.myanimelist.net/images/manga/3/15666.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 84

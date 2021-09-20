@@ -1,5 +1,7 @@
 # BanG Dream! Star Beat
 
+![ban-g-dream-star-beat](https://cdn.myanimelist.net/images/manga/2/208258.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

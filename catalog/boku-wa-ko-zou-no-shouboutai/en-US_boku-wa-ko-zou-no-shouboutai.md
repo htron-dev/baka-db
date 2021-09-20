@@ -1,5 +1,7 @@
 # Boku wa Ko Zou no Shouboutai
 
+![boku-wa-ko-zou-no-shouboutai](https://cdn.myanimelist.net/images/anime/5/84756.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくは子象の消防隊

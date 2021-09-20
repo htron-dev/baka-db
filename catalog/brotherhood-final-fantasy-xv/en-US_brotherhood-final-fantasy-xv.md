@@ -1,5 +1,7 @@
 # Brotherhood: Final Fantasy XV
 
+![brotherhood-final-fantasy-xv](https://cdn.myanimelist.net/images/anime/13/79397.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: BROTHERHOOD FINAL FANTASY XV

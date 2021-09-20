@@ -1,5 +1,7 @@
 # King of Idol: Baraou Gakuen
 
+![king-of-idol-baraou-gakuen](https://cdn.myanimelist.net/images/manga/2/246131.jpg)
+
 -   **type**: manga
 -   **original-name**: キング・オブ・アイドル薔薇王の学園
 -   **start-date**: 2021-01-06

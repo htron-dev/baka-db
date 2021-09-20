@@ -1,5 +1,7 @@
 # Balala Xiaomoxian: Mofa Hai Ying Bao
 
+![balala-xiaomoxian-mofa-hai-ying-bao](https://cdn.myanimelist.net/images/anime/1463/102588.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 巴啦啦小魔仙之: 魔法海萤堡

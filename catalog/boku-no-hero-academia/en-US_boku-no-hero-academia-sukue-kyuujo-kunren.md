@@ -1,5 +1,7 @@
 # Boku no Hero Academia: Sukue! Kyuujo Kunren!
 
+![boku-no-hero-academia-sukue-kyuujo-kunren](https://cdn.myanimelist.net/images/anime/1812/111684.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕のヒーローアカデミア救え!救助訓練!

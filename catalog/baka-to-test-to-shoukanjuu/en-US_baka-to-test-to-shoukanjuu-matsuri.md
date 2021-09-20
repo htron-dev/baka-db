@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu: Matsuri
 
+![baka-to-test-to-shoukanjuu-matsuri](https://cdn.myanimelist.net/images/anime/3/67303.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: バカとテストと召喚獣 ～祭～

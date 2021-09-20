@@ -1,5 +1,7 @@
 # Blood+
 
+![blood](https://cdn.myanimelist.net/images/anime/10/10183.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ブラッドプラス

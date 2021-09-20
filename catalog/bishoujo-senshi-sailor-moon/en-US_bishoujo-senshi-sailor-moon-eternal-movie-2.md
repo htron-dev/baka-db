@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon Eternal Movie 2
 
+![bishoujo-senshi-sailor-moon-eternal-movie-2](https://cdn.myanimelist.net/images/anime/1710/111094.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 美少女戦士セーラームーン Eternal

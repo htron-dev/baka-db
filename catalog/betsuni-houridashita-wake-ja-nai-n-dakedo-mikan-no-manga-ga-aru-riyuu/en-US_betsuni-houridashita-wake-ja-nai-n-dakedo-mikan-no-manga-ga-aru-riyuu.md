@@ -1,5 +1,7 @@
 # Betsuni Houridashita Wake ja Nai n dakedo....: Mikan no Manga ga Aru Riyuu
 
+![betsuni-houridashita-wake-ja-nai-n-dakedo-mikan-no-manga-ga-aru-riyuu](https://cdn.myanimelist.net/images/manga/2/171538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

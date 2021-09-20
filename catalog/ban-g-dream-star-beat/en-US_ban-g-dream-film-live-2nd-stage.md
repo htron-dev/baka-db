@@ -1,5 +1,7 @@
 # BanG Dream! Film Live 2nd Stage
 
+![ban-g-dream-film-live-2nd-stage](https://cdn.myanimelist.net/images/anime/1229/117735.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BanG Dream! FILM LIVE 2nd Stage

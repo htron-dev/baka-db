@@ -1,5 +1,7 @@
 # Baku-chan
 
+![baku-chan](https://cdn.myanimelist.net/images/manga/1/240666.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

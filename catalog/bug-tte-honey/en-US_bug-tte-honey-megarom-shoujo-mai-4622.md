@@ -1,5 +1,7 @@
 # Bug tte Honey: Megarom Shoujo Mai 4622
 
+![bug-tte-honey-megarom-shoujo-mai-4622](https://cdn.myanimelist.net/images/anime/12/76739.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Bug ってハニー メガロム少女舞 4622

@@ -1,5 +1,7 @@
 # Beast Heaven
 
+![beast-heaven](https://cdn.myanimelist.net/images/manga/2/167522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

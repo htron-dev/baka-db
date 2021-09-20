@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki
 
+![bishoujo-senshi-sailor-moon-super-s-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki](https://cdn.myanimelist.net/images/anime/1952/117493.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美少女戦士 セーラームーン SuperS セーラー 9 戦士集結! ブラック・ドリーム・ホールの奇跡

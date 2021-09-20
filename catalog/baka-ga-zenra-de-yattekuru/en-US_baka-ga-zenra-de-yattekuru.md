@@ -1,5 +1,7 @@
 # Baka ga Zenra de Yattekuru
 
+![baka-ga-zenra-de-yattekuru](https://cdn.myanimelist.net/images/manga/4/112005.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

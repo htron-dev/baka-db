@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi
 
+![bishoujo-senshi-sailor-moon-super-s-gaiden-ami-chan-no-hatsukoi](https://cdn.myanimelist.net/images/anime/10/68371.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 美少女戦士セーラームーン SuperS 外伝 亜美ちゃんの初恋

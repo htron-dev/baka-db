@@ -1,5 +1,7 @@
 # Blood: The Last Vampire: Shanhai Aibyo
 
+![blood-the-last-vampire-shanhai-aibyo](https://cdn.myanimelist.net/images/manga/2/14567.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

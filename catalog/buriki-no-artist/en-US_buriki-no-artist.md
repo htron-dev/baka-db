@@ -1,5 +1,7 @@
 # Buriki no Artist
 
+![buriki-no-artist](https://cdn.myanimelist.net/images/manga/3/151975.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 125

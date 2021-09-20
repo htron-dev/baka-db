@@ -1,5 +1,7 @@
 # Boutei to Yobareta Ossan no Hatsukoi wa, Kanari Toshi no Hanareta Ohimesama deshita.
 
+![boutei-to-yobareta-ossan-no-hatsukoi-wa-kanari-toshi-no-hanareta-ohimesama-deshita](https://cdn.myanimelist.net/images/manga/1/200719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 謀帝と呼ばれたおっさんの初恋は、かなり年の離れたお姫様でした。

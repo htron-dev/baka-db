@@ -1,5 +1,7 @@
 # Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku
 
+![tezuka-osamu-no-buddha-akai-sabaku-yo-utsukushiku](https://cdn.myanimelist.net/images/anime/4/39437.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 手塚治虫のブッダ－赤い砂漠よ！美しく－

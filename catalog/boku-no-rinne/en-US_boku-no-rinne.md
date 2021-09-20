@@ -1,5 +1,7 @@
 # Boku no Rinne
 
+![boku-no-rinne](https://cdn.myanimelist.net/images/manga/3/187553.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼくの輪廻
 -   **start-date**: 2016-02-24

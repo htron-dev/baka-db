@@ -1,5 +1,7 @@
 # Babysitter Gin!
 
+![babysitter-gin](https://cdn.myanimelist.net/images/manga/3/113097.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

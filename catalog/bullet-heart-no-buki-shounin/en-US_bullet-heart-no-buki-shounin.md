@@ -1,5 +1,7 @@
 # Bullet Heart no Buki Shounin
 
+![bullet-heart-no-buki-shounin](https://cdn.myanimelist.net/images/manga/3/178560.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

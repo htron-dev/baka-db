@@ -1,5 +1,7 @@
 # Bara no Hanabira
 
+![bara-no-hanabira](https://cdn.myanimelist.net/images/manga/1/81057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

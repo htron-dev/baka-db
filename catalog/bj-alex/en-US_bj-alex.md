@@ -1,5 +1,7 @@
 # BJ Alex
 
+![bj-alex](https://cdn.myanimelist.net/images/manga/3/242314.jpg)
+
 -   **type**: manhwa
 -   **original-name**: BJ 알렉스
 -   **start-date**: 2017-11-25

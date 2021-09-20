@@ -1,5 +1,7 @@
 # Bat x Dragon
 
+![bat-x-dragon](https://cdn.myanimelist.net/images/manga/3/164415.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

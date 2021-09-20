@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon R
 
+![bishoujo-senshi-sailor-moon-r](https://cdn.myanimelist.net/images/anime/1/740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 美少女戦士セーラームーン R

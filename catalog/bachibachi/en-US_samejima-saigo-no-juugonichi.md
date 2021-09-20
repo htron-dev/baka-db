@@ -1,5 +1,7 @@
 # Samejima, Saigo no Juugonichi
 
+![samejima-saigo-no-juugonichi](https://cdn.myanimelist.net/images/manga/1/214601.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 176

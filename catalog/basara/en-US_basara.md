@@ -1,5 +1,7 @@
 # Basara
 
+![basara](https://cdn.myanimelist.net/images/manga/1/185359.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 112

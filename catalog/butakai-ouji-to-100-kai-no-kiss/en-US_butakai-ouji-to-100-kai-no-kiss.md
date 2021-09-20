@@ -1,5 +1,7 @@
 # Butakai Ouji to 100-kai no Kiss
 
+![butakai-ouji-to-100-kai-no-kiss](https://cdn.myanimelist.net/images/manga/3/111571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

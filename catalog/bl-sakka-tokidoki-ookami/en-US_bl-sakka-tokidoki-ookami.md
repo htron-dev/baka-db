@@ -1,5 +1,7 @@
 # BL Sakka, Tokidoki Ookami.
 
+![bl-sakka-tokidoki-ookami](https://cdn.myanimelist.net/images/manga/1/238253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

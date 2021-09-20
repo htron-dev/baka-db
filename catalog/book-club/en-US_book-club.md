@@ -1,5 +1,7 @@
 # Book Club
 
+![book-club](https://cdn.myanimelist.net/images/manga/2/3541.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Bai Niao Gu
 
+![bai-niao-gu](https://cdn.myanimelist.net/images/anime/1588/102442.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 白鸟谷

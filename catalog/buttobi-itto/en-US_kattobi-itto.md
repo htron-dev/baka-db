@@ -1,5 +1,7 @@
 # Kattobi Itto
 
+![kattobi-itto](https://cdn.myanimelist.net/images/manga/2/77805.jpg)
+
 -   **type**: manga
 -   **volumes**: 46
 -   **chapters**: 165

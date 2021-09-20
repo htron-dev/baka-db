@@ -1,5 +1,7 @@
 # Busu ni Hanataba wo.
 
+![busu-ni-hanataba-wo](https://cdn.myanimelist.net/images/manga/1/200089.jpg)
+
 -   **type**: manga
 -   **original-name**: ブスに花束を。
 -   **start-date**: 2016-04-04

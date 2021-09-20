@@ -1,5 +1,7 @@
 # Boku no Sekai Kimi no Real
 
+![boku-no-sekai-kimi-no-real](https://cdn.myanimelist.net/images/manga/3/125503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

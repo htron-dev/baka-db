@@ -1,5 +1,7 @@
 # BAMBi
 
+![bam-bi](https://cdn.myanimelist.net/images/manga/3/184035.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

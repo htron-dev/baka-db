@@ -1,5 +1,7 @@
 # Bungou to Alchemist: Shinpan no Haguruma
 
+![bungou-to-alchemist-shinpan-no-haguruma](https://cdn.myanimelist.net/images/anime/1223/114346.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 文豪とアルケミスト 〜審判ノ歯車〜

@@ -1,5 +1,7 @@
 # Boku no Yuusha
 
+![boku-no-yuusha](https://cdn.myanimelist.net/images/manga/1/176157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 84

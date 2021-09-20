@@ -1,5 +1,7 @@
 # Boku no Hero Academia 3rd Season
 
+![boku-no-hero-academia-3rd-season](https://cdn.myanimelist.net/images/anime/1319/92084.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 僕のヒーローアカデミア

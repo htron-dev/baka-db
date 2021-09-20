@@ -1,5 +1,7 @@
 # Boku to Bodyguard no Kuroi Ito
 
+![boku-to-bodyguard-no-kuroi-ito](https://cdn.myanimelist.net/images/manga/1/205359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

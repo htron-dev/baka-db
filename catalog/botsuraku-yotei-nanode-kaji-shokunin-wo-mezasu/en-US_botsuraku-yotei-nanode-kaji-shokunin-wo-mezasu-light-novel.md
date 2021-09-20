@@ -1,5 +1,7 @@
 # Botsuraku Yotei nanode, Kaji Shokunin wo Mezasu
 
+![botsuraku-yotei-nanode-kaji-shokunin-wo-mezasu](https://cdn.myanimelist.net/images/manga/3/174417.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 没落予定なので、鍛治職人を目指す
 -   **start-date**: 2016-04-09

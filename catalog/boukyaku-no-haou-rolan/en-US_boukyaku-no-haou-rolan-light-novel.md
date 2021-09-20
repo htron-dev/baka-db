@@ -1,5 +1,7 @@
 # Boukyaku no Haou Rolan
 
+![boukyaku-no-haou-rolan](https://cdn.myanimelist.net/images/manga/1/34648.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 忘却の覇王 ロラン

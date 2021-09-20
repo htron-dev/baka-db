@@ -1,5 +1,7 @@
 # Boku no Adelia
 
+![boku-no-adelia](https://cdn.myanimelist.net/images/manga/1/245192.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼくのアデリア
 -   **start-date**: 2021-04-26

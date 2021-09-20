@@ -1,5 +1,7 @@
 # Bunna yo Ki kara Orite Koi
 
+![bunna-yo-ki-kara-orite-koi](https://cdn.myanimelist.net/images/anime/5/61155.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブンナよ木からおりてこい

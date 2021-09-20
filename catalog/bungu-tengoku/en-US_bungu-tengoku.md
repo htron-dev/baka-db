@@ -1,5 +1,7 @@
 # Bungu Tengoku
 
+![bungu-tengoku](https://cdn.myanimelist.net/images/manga/2/10995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 文具天国

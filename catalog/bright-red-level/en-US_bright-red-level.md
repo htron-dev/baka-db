@@ -1,5 +1,7 @@
 # Bright Red Level
 
+![bright-red-level](https://cdn.myanimelist.net/images/manga/3/146339.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ブライトレッド・レベル

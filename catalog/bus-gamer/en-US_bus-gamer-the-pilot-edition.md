@@ -1,5 +1,7 @@
 # Bus Gamer: The Pilot Edition
 
+![bus-gamer-the-pilot-edition](https://cdn.myanimelist.net/images/manga/1/160474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Battle Royale
 
+![battle-royale](https://cdn.myanimelist.net/images/manga/1/53387.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 119

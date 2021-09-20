@@ -1,5 +1,7 @@
 # Boku wa Heroine wo Kouryaku Dekinai.
 
+![boku-wa-heroine-wo-kouryaku-dekinai](https://cdn.myanimelist.net/images/manga/2/184271.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 僕は彼女〈ヒロイン〉を攻略できない。
 -   **start-date**: 2016-10-25

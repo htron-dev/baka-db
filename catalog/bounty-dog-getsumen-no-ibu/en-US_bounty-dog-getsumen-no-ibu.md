@@ -1,5 +1,7 @@
 # Bounty Dog: Getsumen no Ibu
 
+![bounty-dog-getsumen-no-ibu](https://cdn.myanimelist.net/images/anime/1064/96383.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: バウンティドッグ~月面のイブ~

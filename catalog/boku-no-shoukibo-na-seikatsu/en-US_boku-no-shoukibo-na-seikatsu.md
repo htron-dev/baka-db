@@ -1,5 +1,7 @@
 # Boku no Shoukibo na Seikatsu
 
+![boku-no-shoukibo-na-seikatsu](https://cdn.myanimelist.net/images/manga/3/63097.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の小規模な生活
 

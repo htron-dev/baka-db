@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon
 
+![bishoujo-senshi-sailor-moon](https://cdn.myanimelist.net/images/anime/1440/92258.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 美少女戦士セーラームーン

@@ -1,5 +1,7 @@
 # Boku wa Mini ni Koishiteru
 
+![boku-wa-mini-ni-koishiteru](https://cdn.myanimelist.net/images/manga/3/180808.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

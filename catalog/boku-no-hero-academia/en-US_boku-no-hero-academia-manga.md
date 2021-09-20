@@ -1,5 +1,7 @@
 # Boku no Hero Academia
 
+![boku-no-hero-academia](https://cdn.myanimelist.net/images/manga/1/209370.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のヒーローアカデミア
 -   **start-date**: 2014-07-07

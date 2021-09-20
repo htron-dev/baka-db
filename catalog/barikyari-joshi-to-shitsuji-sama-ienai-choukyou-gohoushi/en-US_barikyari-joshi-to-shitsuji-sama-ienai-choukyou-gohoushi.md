@@ -1,5 +1,7 @@
 # Barikyari Joshi to Shitsuji-sama: ......Ienai Choukyou Gohoushi
 
+![barikyari-joshi-to-shitsuji-sama-ienai-choukyou-gohoushi](https://cdn.myanimelist.net/images/manga/2/195843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

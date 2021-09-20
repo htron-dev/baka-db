@@ -1,5 +1,7 @@
 # Boku Girl: Boku no Arbeit
 
+![boku-girl-boku-no-arbeit](https://cdn.myanimelist.net/images/manga/2/164142.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

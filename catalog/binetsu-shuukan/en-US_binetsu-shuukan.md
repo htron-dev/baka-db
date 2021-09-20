@@ -1,5 +1,7 @@
 # Binetsu Shuukan
 
+![binetsu-shuukan](https://cdn.myanimelist.net/images/manga/3/85187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

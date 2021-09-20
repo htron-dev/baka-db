@@ -1,5 +1,7 @@
 # Bernard-jou Iwaku.
 
+![bernard-jou-iwaku](https://cdn.myanimelist.net/images/manga/1/182407.jpg)
+
 -   **type**: manga
 -   **original-name**: バーナード嬢曰く。
 -   **start-date**: 2011-12-22

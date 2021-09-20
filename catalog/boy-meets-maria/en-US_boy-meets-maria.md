@@ -1,5 +1,7 @@
 # Boy Meets Maria
 
+![boy-meets-maria](https://cdn.myanimelist.net/images/manga/1/225981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

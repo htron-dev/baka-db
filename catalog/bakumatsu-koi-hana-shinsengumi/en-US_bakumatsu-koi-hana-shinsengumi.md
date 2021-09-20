@@ -1,5 +1,7 @@
 # Bakumatsu Koi Hana Shinsengumi
 
+![bakumatsu-koi-hana-shinsengumi](https://cdn.myanimelist.net/images/manga/3/82446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

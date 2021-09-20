@@ -1,5 +1,7 @@
 # Blue Moon, Blue: Between the Sheets
 
+![blue-moon-blue-between-the-sheets](https://cdn.myanimelist.net/images/manga/1/223609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

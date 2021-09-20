@@ -1,5 +1,7 @@
 # Bomberman B-Daman Bakugaiden
 
+![bomberman-b-daman-bakugaiden](https://cdn.myanimelist.net/images/anime/10/86375.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: B[ボンバーマン]ビーダマン爆外伝

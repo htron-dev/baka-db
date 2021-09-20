@@ -1,5 +1,7 @@
 # Bakuten!! Movie
 
+![bakuten-movie](https://cdn.myanimelist.net/images/anime/1573/116027.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 バクテン!!

@@ -1,5 +1,7 @@
 # By Spring
 
+![by-spring](https://cdn.myanimelist.net/images/manga/1/234164.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

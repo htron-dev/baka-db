@@ -1,5 +1,7 @@
 # Boku no Gakkou no Ansatsu-bu
 
+![boku-no-gakkou-no-ansatsu-bu](https://cdn.myanimelist.net/images/manga/1/163868.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 僕の学校の暗殺部

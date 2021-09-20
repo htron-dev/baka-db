@@ -1,5 +1,7 @@
 # Boku no Hero Academia the Movie 1: Futari no Hero
 
+![boku-no-hero-academia-the-movie-1-futari-no-hero](https://cdn.myanimelist.net/images/anime/1736/93138.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 僕のヒーローアカデミア THE MOVIE ～ 2 人の英雄（ヒーロー）～

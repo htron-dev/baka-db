@@ -1,5 +1,7 @@
 # Boku no Marie
 
+![boku-no-marie](https://cdn.myanimelist.net/images/anime/8/72904.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ぼくのマリー

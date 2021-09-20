@@ -1,5 +1,7 @@
 # Byousoku 5 Centimeter
 
+![byousoku-5-centimeter](https://cdn.myanimelist.net/images/anime/1410/112994.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: 秒速５センチメートル

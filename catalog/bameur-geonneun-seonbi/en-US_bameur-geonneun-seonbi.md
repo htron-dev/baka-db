@@ -1,5 +1,7 @@
 # Bameur Geonneun Seonbi
 
+![bameur-geonneun-seonbi](https://cdn.myanimelist.net/images/manga/3/142073.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 20
 -   **chapters**: 113

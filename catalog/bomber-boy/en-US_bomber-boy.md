@@ -1,5 +1,7 @@
 # Bomber Boy
 
+![bomber-boy](https://cdn.myanimelist.net/images/manga/2/248441.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

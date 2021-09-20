@@ -1,5 +1,7 @@
 # Bukiyou de Gomen
 
+![bukiyou-de-gomen](https://cdn.myanimelist.net/images/manga/3/3597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

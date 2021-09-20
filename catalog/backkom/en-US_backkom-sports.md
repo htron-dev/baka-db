@@ -1,5 +1,7 @@
 # Backkom Sports
 
+![backkom-sports](https://cdn.myanimelist.net/images/anime/12/65731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 빼꼼 Sports

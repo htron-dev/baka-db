@@ -1,5 +1,7 @@
 # BanG Dream! Movie: Episode of Roselia - I: Yakusoku
 
+![ban-g-dream-movie-episode-of-roselia-i-yakusoku](https://cdn.myanimelist.net/images/anime/1159/111064.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BanG Dream! Episode of Roselia I:約束

@@ -1,5 +1,7 @@
 # Bakusou Kyoudai Let's & Go!!: Return Racers!!
 
+![bakusou-kyoudai-lets-go-return-racers](https://cdn.myanimelist.net/images/manga/3/174330.jpg)
+
 -   **type**: manga
 -   **original-name**: 爆走兄弟レッツ＆ゴー!! Return Racers!!
 -   **start-date**: 2014-10-15

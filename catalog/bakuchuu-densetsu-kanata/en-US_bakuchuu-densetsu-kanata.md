@@ -1,5 +1,7 @@
 # Bakuchuu Densetsu Kanata
 
+![bakuchuu-densetsu-kanata](https://cdn.myanimelist.net/images/manga/2/76453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 爆釣伝説 KANATA

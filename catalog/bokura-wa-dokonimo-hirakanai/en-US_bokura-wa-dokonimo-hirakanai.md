@@ -1,5 +1,7 @@
 # Bokura wa Dokonimo Hirakanai
 
+![bokura-wa-dokonimo-hirakanai](https://cdn.myanimelist.net/images/manga/2/158495.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

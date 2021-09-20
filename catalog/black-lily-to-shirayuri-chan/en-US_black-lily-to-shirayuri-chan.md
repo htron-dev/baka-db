@@ -1,5 +1,7 @@
 # Black Lily to Shirayuri-chan
 
+![black-lily-to-shirayuri-chan](https://cdn.myanimelist.net/images/manga/3/198117.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

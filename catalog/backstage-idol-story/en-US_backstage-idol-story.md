@@ -1,5 +1,7 @@
 # Backstage Idol Story
 
+![backstage-idol-story](https://cdn.myanimelist.net/images/anime/9/42817.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: バックステージ・アイドル・ストーリー

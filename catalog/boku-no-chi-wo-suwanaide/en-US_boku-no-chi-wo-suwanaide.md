@@ -1,5 +1,7 @@
 # Boku no Chi wo Suwanaide
 
+![boku-no-chi-wo-suwanaide](https://cdn.myanimelist.net/images/manga/2/140191.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 僕の血を吸わないで

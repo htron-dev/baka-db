@@ -1,5 +1,7 @@
 # Bon Bon Garou 2
 
+![bon-bon-garou-2](https://cdn.myanimelist.net/images/manga/1/38928.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ボンボン餓狼 2

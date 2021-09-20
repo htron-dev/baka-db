@@ -1,5 +1,7 @@
 # Bara to Ookamihime: Versailles Romance
 
+![bara-to-ookamihime-versailles-romance](https://cdn.myanimelist.net/images/manga/2/181778.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

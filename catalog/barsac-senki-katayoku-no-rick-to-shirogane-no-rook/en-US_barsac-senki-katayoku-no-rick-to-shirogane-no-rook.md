@@ -1,5 +1,7 @@
 # Barsac Senki: Katayoku no Rick to Shirogane no Rook
 
+![barsac-senki-katayoku-no-rick-to-shirogane-no-rook](https://cdn.myanimelist.net/images/manga/1/174921.jpg)
+
 -   **type**: light-novel
 -   **original-name**: バルサック戦記―片翼のリクと白銀のルーク―
 -   **start-date**: 2016-03-23

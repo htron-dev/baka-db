@@ -1,5 +1,7 @@
 # Black Mind
 
+![black-mind](https://cdn.myanimelist.net/images/manga/1/82658.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: BLACK MIND

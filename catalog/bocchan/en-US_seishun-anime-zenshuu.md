@@ -1,5 +1,7 @@
 # Seishun Anime Zenshuu
 
+![seishun-anime-zenshuu](https://cdn.myanimelist.net/images/anime/2/9105.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: 青春アニメ全集

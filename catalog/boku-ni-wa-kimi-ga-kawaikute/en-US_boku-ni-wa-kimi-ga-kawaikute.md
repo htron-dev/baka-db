@@ -1,5 +1,7 @@
 # Boku ni wa Kimi ga Kawaikute
 
+![boku-ni-wa-kimi-ga-kawaikute](https://cdn.myanimelist.net/images/manga/3/36321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕には君が可愛くて

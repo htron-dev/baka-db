@@ -1,5 +1,7 @@
 # Bokura wa Bara no Ko
 
+![bokura-wa-bara-no-ko](https://cdn.myanimelist.net/images/manga/3/173764.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Billionaire Girl
 
+![billionaire-girl](https://cdn.myanimelist.net/images/manga/3/188809.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

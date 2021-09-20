@@ -1,5 +1,7 @@
 # Boku no Kawaii Serena
 
+![boku-no-kawaii-serena](https://cdn.myanimelist.net/images/manga/3/185002.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

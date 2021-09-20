@@ -1,5 +1,7 @@
 # Break Blade 6: Doukoku no Toride
 
+![break-blade-6-doukoku-no-toride](https://cdn.myanimelist.net/images/anime/4/68089.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイク ブレイド 第六章 慟哭ノ砦

@@ -1,5 +1,7 @@
 # Bikini Warriors
 
+![bikini-warriors](https://cdn.myanimelist.net/images/manga/2/240674.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

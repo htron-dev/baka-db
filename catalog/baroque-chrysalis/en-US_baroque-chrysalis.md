@@ -1,5 +1,7 @@
 # Baroque Chrysalis
 
+![baroque-chrysalis](https://cdn.myanimelist.net/images/manga/3/140791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # BNA
 
+![bna](https://cdn.myanimelist.net/images/anime/1139/106986.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BNA ビー・エヌ・エー

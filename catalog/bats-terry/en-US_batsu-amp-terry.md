@@ -1,5 +1,7 @@
 # Batsu &amp; Terry
 
+![batsu-amp-terry](https://cdn.myanimelist.net/images/anime/11/44732.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バツ＆テリー

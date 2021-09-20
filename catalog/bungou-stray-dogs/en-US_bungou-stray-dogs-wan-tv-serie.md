@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Wan!
 
+![bungou-stray-dogs-wan](https://cdn.myanimelist.net/images/anime/1293/111430.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 文豪ストレイドッグス わん！

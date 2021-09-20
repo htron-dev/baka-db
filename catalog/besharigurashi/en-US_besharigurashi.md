@@ -1,5 +1,7 @@
 # Besharigurashi
 
+![besharigurashi](https://cdn.myanimelist.net/images/manga/1/222503.jpg)
+
 -   **type**: manga
 -   **original-name**: べしゃり暮らし
 -   **start-date**: 2005-10-03

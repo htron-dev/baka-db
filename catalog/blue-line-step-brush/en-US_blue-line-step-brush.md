@@ -1,5 +1,7 @@
 # Blue: Line Step Brush
 
+![blue-line-step-brush](https://cdn.myanimelist.net/images/anime/1469/108739.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: BLUE - l i n e・s t e p・b r u s h -

@@ -1,5 +1,7 @@
 # Blood-C: The Last Dark
 
+![blood-c-the-last-dark](https://cdn.myanimelist.net/images/anime/1159/94216.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ブラッドシー ザ ラスト ダーク

@@ -1,5 +1,7 @@
 # Baby Steps 2nd Season
 
+![baby-steps-2nd-season](https://cdn.myanimelist.net/images/anime/9/73683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ベイビーステップ 第 2 シリーズ

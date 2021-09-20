@@ -1,5 +1,7 @@
 # Butai ni Sake!
 
+![butai-ni-sake](https://cdn.myanimelist.net/images/manga/3/237490.jpg)
+
 -   **type**: manga
 -   **original-name**: 舞台に咲け!
 -   **start-date**: 2020-04-28

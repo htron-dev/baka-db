@@ -1,5 +1,7 @@
 # Bakujuu Gasshin Ziguru Hazeru
 
+![bakujuu-gasshin-ziguru-hazeru](https://cdn.myanimelist.net/images/anime/5/51759.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 爆獣合神ジグルハゼル

@@ -1,5 +1,7 @@
 # Beast Harem
 
+![beast-harem](https://cdn.myanimelist.net/images/manga/3/173968.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

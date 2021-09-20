@@ -1,5 +1,7 @@
 # Boku wa Chikyuu to Utau: BokuTama Jisedai-hen II
 
+![boku-wa-chikyuu-to-utau-boku-tama-jisedai-hen-ii](https://cdn.myanimelist.net/images/manga/2/172978.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼくは地球と歌う ―ぼく地球 次世代編 II―
 -   **start-date**: 2015-03-26

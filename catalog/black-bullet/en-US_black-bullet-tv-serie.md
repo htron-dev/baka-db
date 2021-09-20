@@ -1,5 +1,7 @@
 # Black Bullet
 
+![black-bullet](https://cdn.myanimelist.net/images/anime/1292/94693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ブラック・ブレット　 BLACK BULLET 　［黒の銃弾］

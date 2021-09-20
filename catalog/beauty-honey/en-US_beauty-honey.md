@@ -1,5 +1,7 @@
 # Beauty Honey
 
+![beauty-honey](https://cdn.myanimelist.net/images/manga/2/40967.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

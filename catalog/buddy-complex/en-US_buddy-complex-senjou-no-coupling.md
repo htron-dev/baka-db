@@ -1,5 +1,7 @@
 # Buddy Complex: Senjou no Coupling
 
+![buddy-complex-senjou-no-coupling](https://cdn.myanimelist.net/images/manga/2/141867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バディ・コンプレックス 戦場のカップリング

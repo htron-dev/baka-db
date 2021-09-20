@@ -1,5 +1,7 @@
 # Baku
 
+![baku](https://cdn.myanimelist.net/images/manga/2/156670.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

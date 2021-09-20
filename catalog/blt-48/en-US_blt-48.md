@@ -1,5 +1,7 @@
 # BLT48
 
+![blt-48](https://cdn.myanimelist.net/images/manga/3/85379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

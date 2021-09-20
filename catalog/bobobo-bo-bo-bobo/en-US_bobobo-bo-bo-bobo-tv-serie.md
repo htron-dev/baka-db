@@ -1,5 +1,7 @@
 # Bobobo-bo Bo-bobo
 
+![bobobo-bo-bo-bobo](https://cdn.myanimelist.net/images/anime/6/44540.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 76
 -   **original-name**: ボボボーボ・ボーボボ

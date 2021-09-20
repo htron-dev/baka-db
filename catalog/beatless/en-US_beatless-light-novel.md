@@ -1,5 +1,7 @@
 # Beatless
 
+![beatless](https://cdn.myanimelist.net/images/manga/3/112469.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

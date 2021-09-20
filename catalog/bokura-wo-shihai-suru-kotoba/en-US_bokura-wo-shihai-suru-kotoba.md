@@ -1,5 +1,7 @@
 # Bokura wo Shihai suru Kotoba
 
+![bokura-wo-shihai-suru-kotoba](https://cdn.myanimelist.net/images/manga/1/150821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

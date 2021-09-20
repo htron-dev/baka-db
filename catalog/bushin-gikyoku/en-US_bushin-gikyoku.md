@@ -1,5 +1,7 @@
 # Bushin Gikyoku
 
+![bushin-gikyoku](https://cdn.myanimelist.net/images/manga/1/9367.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

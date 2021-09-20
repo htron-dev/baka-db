@@ -1,5 +1,7 @@
 # Battle Athletes Daiundoukai
 
+![battle-athletes-daiundoukai](https://cdn.myanimelist.net/images/manga/3/72969.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

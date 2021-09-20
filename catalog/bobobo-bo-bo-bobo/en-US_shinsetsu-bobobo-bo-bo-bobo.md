@@ -1,5 +1,7 @@
 # Shinsetsu Bobobo-bo Bo-bobo
 
+![shinsetsu-bobobo-bo-bo-bobo](https://cdn.myanimelist.net/images/manga/1/126305.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 74

@@ -1,5 +1,7 @@
 # Breakdown
 
+![breakdown](https://cdn.myanimelist.net/images/manga/2/230791.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 18

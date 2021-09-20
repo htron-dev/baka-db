@@ -1,5 +1,7 @@
 # Beyblade Burst
 
+![beyblade-burst](https://cdn.myanimelist.net/images/manga/2/172319.jpg)
+
 -   **type**: manga
 -   **original-name**: ベイブレードバースト
 -   **start-date**: 2015-07-15

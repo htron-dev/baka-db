@@ -1,5 +1,7 @@
 # Ba La La Xiao Mo Xian: Caihong Xin Shi
 
+![ba-la-la-xiao-mo-xian-caihong-xin-shi](https://cdn.myanimelist.net/images/anime/3/73195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 巴啦啦小魔仙之彩虹心石

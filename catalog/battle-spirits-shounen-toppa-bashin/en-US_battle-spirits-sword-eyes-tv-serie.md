@@ -1,5 +1,7 @@
 # Battle Spirits: Sword Eyes
 
+![battle-spirits-sword-eyes](https://cdn.myanimelist.net/images/anime/11/49195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: バトルスピリッツ ソードアイズ

@@ -1,5 +1,7 @@
 # Batman: Death Mask
 
+![batman-death-mask](https://cdn.myanimelist.net/images/manga/3/25321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

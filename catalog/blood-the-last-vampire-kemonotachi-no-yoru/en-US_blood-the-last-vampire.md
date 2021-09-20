@@ -1,5 +1,7 @@
 # Blood: The Last Vampire
 
+![blood-the-last-vampire](https://cdn.myanimelist.net/images/anime/9/18913.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BLOOD THE LAST VAMPIRE (ブラッド ザ ラスト ヴァンパイア)

@@ -1,5 +1,7 @@
 # Bastard!!: Ankoku no Hakaishin
 
+![bastard-ankoku-no-hakaishin](https://cdn.myanimelist.net/images/manga/2/149261.jpg)
+
 -   **type**: manga
 -   **original-name**: BASTARD!! －暗黒の破壊神－
 -   **start-date**: 1987-10-20

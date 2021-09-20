@@ -1,5 +1,7 @@
 # Bokura no Chronicle: Inga Mahou Taisen
 
+![bokura-no-chronicle-inga-mahou-taisen](https://cdn.myanimelist.net/images/manga/3/159957.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

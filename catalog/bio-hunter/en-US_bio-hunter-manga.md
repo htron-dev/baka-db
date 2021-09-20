@@ -1,5 +1,7 @@
 # Bio Hunter
 
+![bio-hunter](https://cdn.myanimelist.net/images/manga/1/74523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バイオ・ハンター

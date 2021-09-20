@@ -1,5 +1,7 @@
 # Brother★Shuffle!
 
+![brother★-shuffle](https://cdn.myanimelist.net/images/manga/3/172231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Blade Girl: Kataashi no Runner
 
+![blade-girl-kataashi-no-runner](https://cdn.myanimelist.net/images/manga/3/230947.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

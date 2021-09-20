@@ -1,5 +1,7 @@
 # Bari Bari Densetsu
 
+![bari-bari-densetsu](https://cdn.myanimelist.net/images/anime/4/58873.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: バリバリ伝説

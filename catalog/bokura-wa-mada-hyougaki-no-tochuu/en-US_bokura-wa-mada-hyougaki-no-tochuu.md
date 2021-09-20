@@ -1,5 +1,7 @@
 # Bokura wa Mada Hyougaki no Tochuu
 
+![bokura-wa-mada-hyougaki-no-tochuu](https://cdn.myanimelist.net/images/manga/1/238449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

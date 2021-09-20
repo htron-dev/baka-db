@@ -1,5 +1,7 @@
 # Berserk: Ougon Jidai-hen II - Doldrey Kouryaku
 
+![berserk-ougon-jidai-hen-ii-doldrey-kouryaku](https://cdn.myanimelist.net/images/anime/12/37193.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルセルク 黄金時代篇 Ⅱ ドルドレイ攻略

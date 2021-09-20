@@ -1,5 +1,7 @@
 # Big X Episode 0
 
+![big-x-episode-0](https://cdn.myanimelist.net/images/anime/12/74214.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ビッグ X 00

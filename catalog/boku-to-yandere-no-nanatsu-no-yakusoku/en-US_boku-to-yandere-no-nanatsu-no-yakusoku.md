@@ -1,5 +1,7 @@
 # Boku to Yandere no Nanatsu no Yakusoku
 
+![boku-to-yandere-no-nanatsu-no-yakusoku](https://cdn.myanimelist.net/images/manga/1/131001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 僕とヤンデレの 7 つの約束

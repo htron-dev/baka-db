@@ -1,5 +1,7 @@
 # Body Talk ~Junai Yuugi~
 
+![body-talk-junai-yuugi](https://cdn.myanimelist.net/images/manga/2/20453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

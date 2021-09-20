@@ -1,5 +1,7 @@
 # Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken
 
+![tezuka-osamu-ga-kieta-20-seiki-saigo-no-kaijiken](https://cdn.myanimelist.net/images/anime/9/9503.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 手塚治虫が消えた?! 20 世紀最後の怪事件

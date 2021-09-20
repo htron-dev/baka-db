@@ -1,5 +1,7 @@
 # Bbasha Mecard S
 
+![bbasha-mecard-s](https://cdn.myanimelist.net/images/anime/1145/114451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 빠샤메카드 S

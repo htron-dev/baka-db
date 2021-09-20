@@ -1,5 +1,7 @@
 # Black Jack no Yuuwaku
 
+![black-jack-no-yuuwaku](https://cdn.myanimelist.net/images/manga/1/102049.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

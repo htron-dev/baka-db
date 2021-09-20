@@ -1,5 +1,7 @@
 # Bitansan Ekisu
 
+![bitansan-ekisu](https://cdn.myanimelist.net/images/manga/2/12940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

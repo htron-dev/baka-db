@@ -1,5 +1,7 @@
 # Boku no Hero Academia 2nd Season
 
+![boku-no-hero-academia-2nd-season](https://cdn.myanimelist.net/images/anime/12/85221.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 僕のヒーローアカデミア

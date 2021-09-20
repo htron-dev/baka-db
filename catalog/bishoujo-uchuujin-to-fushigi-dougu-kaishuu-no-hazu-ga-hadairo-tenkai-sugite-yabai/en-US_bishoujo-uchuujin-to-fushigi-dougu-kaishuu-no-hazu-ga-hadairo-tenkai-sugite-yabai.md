@@ -1,5 +1,7 @@
 # Bishoujo Uchuujin to Fushigi Dougu Kaishuu no Hazu ga Hadairo Tenkai Sugite Yabai
 
+![bishoujo-uchuujin-to-fushigi-dougu-kaishuu-no-hazu-ga-hadairo-tenkai-sugite-yabai](https://cdn.myanimelist.net/images/manga/1/159953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

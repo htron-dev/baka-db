@@ -1,5 +1,7 @@
 # Because You Are Mine
 
+![because-you-are-mine](https://cdn.myanimelist.net/images/manga/3/70771.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 넌 내꺼니까

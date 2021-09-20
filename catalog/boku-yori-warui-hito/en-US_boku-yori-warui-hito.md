@@ -1,5 +1,7 @@
 # Boku yori Warui Hito
 
+![boku-yori-warui-hito](https://cdn.myanimelist.net/images/manga/3/247561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

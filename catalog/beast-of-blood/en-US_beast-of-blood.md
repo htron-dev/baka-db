@@ -1,5 +1,7 @@
 # Beast of Blood
 
+![beast-of-blood](https://cdn.myanimelist.net/images/manga/2/238072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

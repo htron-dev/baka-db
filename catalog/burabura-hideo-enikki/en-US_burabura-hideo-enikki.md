@@ -1,5 +1,7 @@
 # Burabura Hideo Enikki
 
+![burabura-hideo-enikki](https://cdn.myanimelist.net/images/manga/3/178183.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぶらぶらひでお絵日記

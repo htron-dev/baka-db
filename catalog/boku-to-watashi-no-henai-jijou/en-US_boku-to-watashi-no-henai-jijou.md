@@ -1,5 +1,7 @@
 # Boku to Watashi no Henai Jijou
 
+![boku-to-watashi-no-henai-jijou](https://cdn.myanimelist.net/images/manga/3/28208.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

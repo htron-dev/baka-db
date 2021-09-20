@@ -1,5 +1,7 @@
 # Buppu na Mainichi
 
+![buppu-na-mainichi](https://cdn.myanimelist.net/images/anime/3/84189.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: ぶっぷな毎日

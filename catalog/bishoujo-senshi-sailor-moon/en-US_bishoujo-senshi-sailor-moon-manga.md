@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon
 
+![bishoujo-senshi-sailor-moon](https://cdn.myanimelist.net/images/manga/1/126449.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 61

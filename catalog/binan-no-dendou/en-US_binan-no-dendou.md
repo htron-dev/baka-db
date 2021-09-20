@@ -1,5 +1,7 @@
 # Binan no Dendou
 
+![binan-no-dendou](https://cdn.myanimelist.net/images/manga/2/149041.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

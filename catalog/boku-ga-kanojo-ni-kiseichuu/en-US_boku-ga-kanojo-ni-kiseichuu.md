@@ -1,5 +1,7 @@
 # Boku ga Kanojo ni Kiseichuu
 
+![boku-ga-kanojo-ni-kiseichuu](https://cdn.myanimelist.net/images/manga/2/129855.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 僕が彼女に寄生中

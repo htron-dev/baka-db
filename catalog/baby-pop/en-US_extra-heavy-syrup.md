@@ -1,5 +1,7 @@
 # Extra Heavy Syrup
 
+![extra-heavy-syrup](https://cdn.myanimelist.net/images/manga/3/5043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

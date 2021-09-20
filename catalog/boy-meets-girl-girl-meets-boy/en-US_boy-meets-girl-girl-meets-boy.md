@@ -1,5 +1,7 @@
 # Boy Meets Girl Girl Meets Boy
 
+![boy-meets-girl-girl-meets-boy](https://cdn.myanimelist.net/images/manga/1/168429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

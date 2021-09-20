@@ -1,5 +1,7 @@
 # Biohazard Umbrella Chronicles: Houkai e no Jokyoku
 
+![biohazard-umbrella-chronicles-houkai-e-no-jokyoku](https://cdn.myanimelist.net/images/manga/3/4789.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: バイオハザード アンブレラ・クロニクルズ -崩壊への序曲

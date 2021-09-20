@@ -1,5 +1,7 @@
 # B-kyuu Gourmet Club
 
+![b-kyuu-gourmet-club](https://cdn.myanimelist.net/images/manga/2/13422.jpg)
+
 -   **type**: manga
 -   **original-name**: B 級グルメ倶楽部
 

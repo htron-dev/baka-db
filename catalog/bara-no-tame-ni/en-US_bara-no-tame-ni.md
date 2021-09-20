@@ -1,5 +1,7 @@
 # Bara no Tame ni
 
+![bara-no-tame-ni](https://cdn.myanimelist.net/images/manga/3/40300.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 64

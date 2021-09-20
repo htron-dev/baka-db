@@ -1,5 +1,7 @@
 # Brand "Peace"
 
+![brand-peace](https://cdn.myanimelist.net/images/manga/4/19226.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

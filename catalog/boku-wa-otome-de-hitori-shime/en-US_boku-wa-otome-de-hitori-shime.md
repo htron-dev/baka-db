@@ -1,5 +1,7 @@
 # Boku wa Otome de Hitori Shime!
 
+![boku-wa-otome-de-hitori-shime](https://cdn.myanimelist.net/images/manga/1/159956.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

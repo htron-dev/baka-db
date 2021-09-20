@@ -1,5 +1,7 @@
 # Bonobono: Kumomo no Ki no Koto
 
+![bonobono-kumomo-no-ki-no-koto](https://cdn.myanimelist.net/images/anime/11/22155.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぼのぼの クモモの木のこと

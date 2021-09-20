@@ -1,5 +1,7 @@
 # Nu Wushen de Canzhuo
 
+![nu-wushen-de-canzhuo](https://cdn.myanimelist.net/images/anime/1441/102035.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 女武神的餐桌

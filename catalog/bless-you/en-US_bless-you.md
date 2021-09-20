@@ -1,5 +1,7 @@
 # Bless You!
 
+![bless-you](https://cdn.myanimelist.net/images/manga/4/36742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 聖使徒学院喫茶部活動日誌 キュンコミックス,ブランド

@@ -1,5 +1,7 @@
 # Boku no Sex Star
 
+![boku-no-sex-star](https://cdn.myanimelist.net/images/manga/2/223887.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Back Street Girls: Gokudolls
 
+![back-street-girls-gokudolls](https://cdn.myanimelist.net/images/anime/1484/93140.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: Back Street Girls -ゴクドルズ

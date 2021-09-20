@@ -1,5 +1,7 @@
 # Bikkuri Suru hodo Doji na Koi
 
+![bikkuri-suru-hodo-doji-na-koi](https://cdn.myanimelist.net/images/manga/1/84501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

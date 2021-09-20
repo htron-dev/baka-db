@@ -1,5 +1,7 @@
 # Boku wa Konyaku Haki nante Shimasen kara ne
 
+![boku-wa-konyaku-haki-nante-shimasen-kara-ne](https://cdn.myanimelist.net/images/manga/1/242687.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕は婚約破棄なんてしませんからね
 -   **start-date**: 2020-09-18

@@ -1,5 +1,7 @@
 # Bushido Sixteen
 
+![bushido-sixteen](https://cdn.myanimelist.net/images/manga/3/45897.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 武士道シックスティーン

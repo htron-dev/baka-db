@@ -1,5 +1,7 @@
 # Bakudan Heaven
 
+![bakudan-heaven](https://cdn.myanimelist.net/images/manga/1/170274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Babel
 
+![babel](https://cdn.myanimelist.net/images/manga/1/226975.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

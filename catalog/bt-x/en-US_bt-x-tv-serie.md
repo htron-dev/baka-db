@@ -1,5 +1,7 @@
 # B'T X
 
+![bt-x](https://cdn.myanimelist.net/images/anime/1771/100394.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: B`T X 　ビート・エックス

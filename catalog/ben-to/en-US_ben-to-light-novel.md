@@ -1,5 +1,7 @@
 # Ben-To
 
+![ben-to](https://cdn.myanimelist.net/images/manga/1/121803.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **original-name**: ベン・トー

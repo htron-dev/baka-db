@@ -1,5 +1,7 @@
 # Baron Gong Battle
 
+![baron-gong-battle](https://cdn.myanimelist.net/images/manga/3/161782.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 78

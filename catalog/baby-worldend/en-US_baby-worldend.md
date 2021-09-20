@@ -1,5 +1,7 @@
 # Baby Worldend
 
+![baby-worldend](https://cdn.myanimelist.net/images/manga/2/108789.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

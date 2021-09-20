@@ -1,5 +1,7 @@
 # Bitch na Neko wa Koukishin ni Katenai
 
+![bitch-na-neko-wa-koukishin-ni-katenai](https://cdn.myanimelist.net/images/manga/3/161647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

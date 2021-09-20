@@ -1,5 +1,7 @@
 # Bomberman: Yuuki wo Arigatou - Watashi ga Mimi ni Naru
 
+![bomberman-yuuki-wo-arigatou-watashi-ga-mimi-ni-naru](https://cdn.myanimelist.net/images/anime/1809/102768.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ボンバーマン 勇気をありがとう 私が耳になる

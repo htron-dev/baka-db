@@ -1,5 +1,7 @@
 # B.A.D.: Chocolate Days
 
+![b-a-d-chocolate-days](https://cdn.myanimelist.net/images/manga/2/121063.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 17

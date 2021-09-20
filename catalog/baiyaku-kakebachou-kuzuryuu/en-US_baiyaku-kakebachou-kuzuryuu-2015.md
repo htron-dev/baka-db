@@ -1,5 +1,7 @@
 # Baiyaku Kakebachou Kuzuryuu (2015)
 
+![baiyaku-kakebachou-kuzuryuu-2015](https://cdn.myanimelist.net/images/manga/3/171061.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

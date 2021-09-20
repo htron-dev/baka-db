@@ -1,5 +1,7 @@
 # Blood Sucker
 
+![blood-sucker](https://cdn.myanimelist.net/images/manga/4/4488.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

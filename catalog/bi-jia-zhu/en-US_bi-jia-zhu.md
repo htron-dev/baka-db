@@ -1,5 +1,7 @@
 # Bi Jia Zhu
 
+![bi-jia-zhu](https://cdn.myanimelist.net/images/anime/1342/115198.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 毕加猪

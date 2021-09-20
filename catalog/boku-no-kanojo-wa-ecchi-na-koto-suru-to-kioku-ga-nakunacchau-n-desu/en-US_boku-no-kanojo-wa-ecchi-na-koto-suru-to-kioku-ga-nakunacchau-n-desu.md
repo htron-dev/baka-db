@@ -1,5 +1,7 @@
 # Boku no Kanojo wa Ecchi na Koto suru to, Kioku ga Nakunacchau n desu.
 
+![boku-no-kanojo-wa-ecchi-na-koto-suru-to-kioku-ga-nakunacchau-n-desu](https://cdn.myanimelist.net/images/manga/1/193522.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Blank Space
 
+![blank-space](https://cdn.myanimelist.net/images/manga/2/243076.jpg)
+
 -   **type**: manga
 -   **original-name**: ブランクスペース
 -   **start-date**: 2020-08-07

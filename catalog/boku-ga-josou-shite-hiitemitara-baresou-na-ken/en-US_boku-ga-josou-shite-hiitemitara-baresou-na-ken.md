@@ -1,5 +1,7 @@
 # Boku ga Josou shite Hiitemitara Baresou na Ken
 
+![boku-ga-josou-shite-hiitemitara-baresou-na-ken](https://cdn.myanimelist.net/images/manga/2/172068.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

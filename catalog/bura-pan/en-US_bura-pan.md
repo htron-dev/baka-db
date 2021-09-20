@@ -1,5 +1,7 @@
 # Bura-Pan!
 
+![bura-pan](https://cdn.myanimelist.net/images/manga/1/163411.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ブラパン！

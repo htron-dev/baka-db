@@ -1,5 +1,7 @@
 # Bokutachi wa Shitte Shimatta
 
+![bokutachi-wa-shitte-shimatta](https://cdn.myanimelist.net/images/manga/3/6266.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 60

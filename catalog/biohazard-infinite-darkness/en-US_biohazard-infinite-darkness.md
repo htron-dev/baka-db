@@ -1,5 +1,7 @@
 # Biohazard: Infinite Darkness
 
+![biohazard-infinite-darkness](https://cdn.myanimelist.net/images/anime/1662/116785.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: BIOHAZARD INFINITE DARKNESS

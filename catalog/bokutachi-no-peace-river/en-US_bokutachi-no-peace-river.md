@@ -1,5 +1,7 @@
 # Bokutachi no Peace River
 
+![bokutachi-no-peace-river](https://cdn.myanimelist.net/images/anime/6/50041.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくたちのピース・リバー

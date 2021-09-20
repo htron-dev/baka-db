@@ -1,5 +1,7 @@
 # Ba La La Xiao Mo Xian: Qiji Wubu
 
+![ba-la-la-xiao-mo-xian-qiji-wubu](https://cdn.myanimelist.net/images/anime/6/76897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 巴啦啦小魔仙之奇迹舞步

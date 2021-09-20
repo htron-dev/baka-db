@@ -1,5 +1,7 @@
 # Heian Sento
 
+![heian-sento](https://cdn.myanimelist.net/images/anime/1728/108396.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 平安遷都

@@ -1,5 +1,7 @@
 # Boy Meets Boy
 
+![boy-meets-boy](https://cdn.myanimelist.net/images/manga/3/158682.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 97

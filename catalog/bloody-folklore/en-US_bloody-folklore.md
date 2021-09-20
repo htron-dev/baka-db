@@ -1,5 +1,7 @@
 # Bloody Folklore
 
+![bloody-folklore](https://cdn.myanimelist.net/images/manga/2/110195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

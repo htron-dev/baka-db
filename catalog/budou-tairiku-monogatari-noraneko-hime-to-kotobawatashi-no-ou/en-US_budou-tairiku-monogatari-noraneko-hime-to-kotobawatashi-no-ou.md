@@ -1,5 +1,7 @@
 # Budou Tairiku Monogatari: Noraneko Hime to Kotobawatashi no Ou
 
+![budou-tairiku-monogatari-noraneko-hime-to-kotobawatashi-no-ou](https://cdn.myanimelist.net/images/manga/3/235375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

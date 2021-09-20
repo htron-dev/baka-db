@@ -1,5 +1,7 @@
 # Asa to Mitya
 
+![asa-to-mitya](https://cdn.myanimelist.net/images/manga/1/180684.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

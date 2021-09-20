@@ -1,5 +1,7 @@
 # Blue Bird
 
+![blue-bird](https://cdn.myanimelist.net/images/manga/2/122397.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 블루버드 blue Bird

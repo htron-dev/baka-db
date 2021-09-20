@@ -1,5 +1,7 @@
 # Bandoe Sareoriratda
 
+![bandoe-sareoriratda](https://cdn.myanimelist.net/images/anime/1559/92186.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 반도에 살어리랏다

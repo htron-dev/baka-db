@@ -1,5 +1,7 @@
 # Brothers Conflict
 
+![brothers-conflict](https://cdn.myanimelist.net/images/anime/5/51409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BROTHERS CONFLICT

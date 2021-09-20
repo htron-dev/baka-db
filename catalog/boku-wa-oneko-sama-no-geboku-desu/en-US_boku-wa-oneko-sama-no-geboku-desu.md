@@ -1,5 +1,7 @@
 # Boku wa Oneko-sama no Geboku desu.
 
+![boku-wa-oneko-sama-no-geboku-desu](https://cdn.myanimelist.net/images/manga/2/241159.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

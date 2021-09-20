@@ -1,5 +1,7 @@
 # Boku ga Utau to Kimi wa Warau kara
 
+![boku-ga-utau-to-kimi-wa-warau-kara](https://cdn.myanimelist.net/images/manga/2/169945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

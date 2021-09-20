@@ -1,5 +1,7 @@
 # BioPlanet WoO
 
+![bio-planet-wo-o](https://cdn.myanimelist.net/images/manga/2/9703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

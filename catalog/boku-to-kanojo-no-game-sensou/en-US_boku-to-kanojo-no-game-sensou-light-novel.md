@@ -1,5 +1,7 @@
 # Boku to Kanojo no Game Sensou
 
+![boku-to-kanojo-no-game-sensou](https://cdn.myanimelist.net/images/manga/1/186872.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 68

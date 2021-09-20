@@ -1,5 +1,7 @@
 # Boukyaku Tantei Series
 
+![boukyaku-tantei-series](https://cdn.myanimelist.net/images/manga/1/170721.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 忘却探偵シリーズ
 -   **start-date**: 2014-10-15

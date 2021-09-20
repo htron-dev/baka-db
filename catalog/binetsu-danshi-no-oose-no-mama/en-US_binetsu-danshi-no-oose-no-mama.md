@@ -1,5 +1,7 @@
 # Binetsu Danshi no Oose no mama
 
+![binetsu-danshi-no-oose-no-mama](https://cdn.myanimelist.net/images/manga/1/225701.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

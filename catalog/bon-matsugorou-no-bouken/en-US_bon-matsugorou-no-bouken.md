@@ -1,5 +1,7 @@
 # Bon Matsugorou no Bouken
 
+![bon-matsugorou-no-bouken](https://cdn.myanimelist.net/images/manga/1/30503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボン松五郎の冒険

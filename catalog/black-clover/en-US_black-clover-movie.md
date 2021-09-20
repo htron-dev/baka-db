@@ -1,5 +1,7 @@
 # Black Clover Movie
 
+![black-clover-movie](https://cdn.myanimelist.net/images/anime/1833/113800.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **rating**: PG-13 - Teens 13 or older

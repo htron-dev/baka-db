@@ -1,5 +1,7 @@
 # Boku wa Kuromitsu-san no Fukkin ga Kowai
 
+![boku-wa-kuromitsu-san-no-fukkin-ga-kowai](https://cdn.myanimelist.net/images/manga/2/236001.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

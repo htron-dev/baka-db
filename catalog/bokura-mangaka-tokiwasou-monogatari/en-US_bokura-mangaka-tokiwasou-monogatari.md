@@ -1,5 +1,7 @@
 # Bokura Mangaka: Tokiwasou Monogatari
 
+![bokura-mangaka-tokiwasou-monogatari](https://cdn.myanimelist.net/images/anime/2/53593.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぼくらマンガ家 トキワ荘物語

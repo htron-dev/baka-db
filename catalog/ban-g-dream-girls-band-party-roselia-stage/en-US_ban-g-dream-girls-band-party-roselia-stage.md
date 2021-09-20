@@ -1,5 +1,7 @@
 # BanG Dream!: Girls Band Party! - Roselia Stage
 
+![ban-g-dream-girls-band-party-roselia-stage](https://cdn.myanimelist.net/images/manga/3/198862.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

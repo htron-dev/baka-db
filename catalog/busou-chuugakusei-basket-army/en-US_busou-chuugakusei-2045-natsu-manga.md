@@ -1,5 +1,7 @@
 # Busou Chuugakusei 2045: Natsu
 
+![busou-chuugakusei-2045-natsu](https://cdn.myanimelist.net/images/manga/2/117017.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 武装中学生 2045 ―夏―

@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Koushiki Anthology: Hana
 
+![bungou-stray-dogs-koushiki-anthology-hana](https://cdn.myanimelist.net/images/manga/2/235429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

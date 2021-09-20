@@ -1,5 +1,7 @@
 # Boku wa Doko kara
 
+![boku-wa-doko-kara](https://cdn.myanimelist.net/images/manga/2/222813.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

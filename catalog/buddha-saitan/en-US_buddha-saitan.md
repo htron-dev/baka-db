@@ -1,5 +1,7 @@
 # Buddha Saitan
 
+![buddha-saitan](https://cdn.myanimelist.net/images/anime/6/16302.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 仏陀再誕

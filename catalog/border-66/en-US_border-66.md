@@ -1,5 +1,7 @@
 # Border 66
 
+![border-66](https://cdn.myanimelist.net/images/manga/1/218995.jpg)
+
 -   **type**: manga
 -   **original-name**: BORDER66
 -   **start-date**: 2019-05-22

@@ -1,5 +1,7 @@
 # Brafman Over Boost
 
+![brafman-over-boost](https://cdn.myanimelist.net/images/manga/1/38487.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ブラフマン OVER BOOST

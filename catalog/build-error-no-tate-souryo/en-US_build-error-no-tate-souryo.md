@@ -1,5 +1,7 @@
 # Build Error no Tate Souryo
 
+![build-error-no-tate-souryo](https://cdn.myanimelist.net/images/manga/3/183723.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ビルドエラーの盾僧侶
 -   **start-date**: 2014-12-26

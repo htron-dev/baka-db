@@ -1,5 +1,7 @@
 # Bakumatsu Seishun Hanafubuki
 
+![bakumatsu-seishun-hanafubuki](https://cdn.myanimelist.net/images/manga/3/784.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Beni Complex
 
+![beni-complex](https://cdn.myanimelist.net/images/manga/3/123629.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ベニ・コンプレックス

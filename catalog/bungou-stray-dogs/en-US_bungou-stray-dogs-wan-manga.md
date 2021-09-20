@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Wan!
 
+![bungou-stray-dogs-wan](https://cdn.myanimelist.net/images/manga/2/184355.jpg)
+
 -   **type**: manga
 -   **original-name**: 文豪ストレイドッグス わん！
 -   **start-date**: 2015-12-22

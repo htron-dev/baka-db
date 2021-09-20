@@ -1,5 +1,7 @@
 # Buster-Do!
 
+![buster-do](https://cdn.myanimelist.net/images/manga/3/159994.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: バスタード!

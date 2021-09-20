@@ -1,5 +1,7 @@
 # Black Jack Girl
 
+![black-jack-girl](https://cdn.myanimelist.net/images/manga/3/239000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

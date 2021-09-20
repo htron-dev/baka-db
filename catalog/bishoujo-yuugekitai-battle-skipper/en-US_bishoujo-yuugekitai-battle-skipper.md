@@ -1,5 +1,7 @@
 # Bishoujo Yuugekitai Battle Skipper
 
+![bishoujo-yuugekitai-battle-skipper](https://cdn.myanimelist.net/images/anime/1851/96471.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 美少女遊撃隊バトルスキッパー

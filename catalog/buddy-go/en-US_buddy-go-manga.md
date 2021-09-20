@@ -1,5 +1,7 @@
 # Buddy Go!
 
+![buddy-go](https://cdn.myanimelist.net/images/manga/3/156140.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Bonobono (TV 2016)
 
+![bonobono-tv-2016](https://cdn.myanimelist.net/images/anime/13/77617.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ぼのぼの
 -   **start-date**: 2016-04-02

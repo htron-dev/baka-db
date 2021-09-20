@@ -1,5 +1,7 @@
 # Buchikire Yuusha no Sekai Seifuku
 
+![buchikire-yuusha-no-sekai-seifuku](https://cdn.myanimelist.net/images/manga/2/210102.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Bakeneko OL Tamami-san: Omoi Tsuzukete Nanadaime
 
+![bakeneko-ol-tamami-san-omoi-tsuzukete-nanadaime](https://cdn.myanimelist.net/images/manga/2/148697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

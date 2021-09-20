@@ -1,5 +1,7 @@
 # Binkan Ryouiki
 
+![binkan-ryouiki](https://cdn.myanimelist.net/images/manga/3/16826.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # B5 Hime
 
+![b-5-hime](https://cdn.myanimelist.net/images/manga/1/198722.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: B5 姫

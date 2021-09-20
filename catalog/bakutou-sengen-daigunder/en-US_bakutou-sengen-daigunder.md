@@ -1,5 +1,7 @@
 # Bakutou Sengen Daigunder
 
+![bakutou-sengen-daigunder](https://cdn.myanimelist.net/images/anime/1418/103211.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 爆闘宣言ダイガンダー

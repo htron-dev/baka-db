@@ -1,5 +1,7 @@
 # Beyblade Burst Chouzetsu
 
+![beyblade-burst-chouzetsu](https://cdn.myanimelist.net/images/anime/1086/91130.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ベイブレードバースト 超ゼツ

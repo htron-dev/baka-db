@@ -1,5 +1,7 @@
 # Baby Universe
 
+![baby-universe](https://cdn.myanimelist.net/images/manga/2/7020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

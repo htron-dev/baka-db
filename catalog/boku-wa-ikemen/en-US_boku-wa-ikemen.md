@@ -1,5 +1,7 @@
 # Boku wa Ikemen
 
+![boku-wa-ikemen](https://cdn.myanimelist.net/images/manga/3/205074.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

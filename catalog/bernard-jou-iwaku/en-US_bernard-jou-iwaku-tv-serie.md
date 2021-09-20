@@ -1,5 +1,7 @@
 # Bernard-jou Iwaku.
 
+![bernard-jou-iwaku](https://cdn.myanimelist.net/images/anime/11/81589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バーナード嬢曰く。

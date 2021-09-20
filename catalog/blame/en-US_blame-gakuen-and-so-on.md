@@ -1,5 +1,7 @@
 # Blame Gakuen! And So On
 
+![blame-gakuen-and-so-on](https://cdn.myanimelist.net/images/manga/3/129687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

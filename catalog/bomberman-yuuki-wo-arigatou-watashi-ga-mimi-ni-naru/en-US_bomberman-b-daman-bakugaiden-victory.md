@@ -1,5 +1,7 @@
 # Bomberman B-Daman Bakugaiden Victory
 
+![bomberman-b-daman-bakugaiden-victory](https://cdn.myanimelist.net/images/anime/2/88833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: B[ボンバーマン]ビーダマン爆外伝 V[ビクトリー]

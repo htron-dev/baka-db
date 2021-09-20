@@ -1,5 +1,7 @@
 # Burst Beast Aizouban
 
+![burst-beast-aizouban](https://cdn.myanimelist.net/images/manga/2/57259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Beast 9
 
+![beast-9](https://cdn.myanimelist.net/images/manga/1/94797.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # B-Shock
 
+![b-shock](https://cdn.myanimelist.net/images/manga/3/11408.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

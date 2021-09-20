@@ -1,5 +1,7 @@
 # The!! Beach Stars
 
+![the-beach-stars](https://cdn.myanimelist.net/images/manga/1/37005.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

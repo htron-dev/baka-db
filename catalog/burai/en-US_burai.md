@@ -1,5 +1,7 @@
 # Burai
 
+![burai](https://cdn.myanimelist.net/images/manga/3/18920.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

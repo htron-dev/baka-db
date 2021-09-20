@@ -1,5 +1,7 @@
 # Black Jack: Karte NG Extras
 
+![black-jack-karte-ng-extras](https://cdn.myanimelist.net/images/anime/8/49873.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ブラックジャック Karte NG 集

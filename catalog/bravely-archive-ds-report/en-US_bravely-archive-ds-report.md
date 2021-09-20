@@ -1,5 +1,7 @@
 # Bravely Archive: D's Report
 
+![bravely-archive-ds-report](https://cdn.myanimelist.net/images/manga/1/175841.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブレイブリーアーカイブ ディーズレポート
 -   **start-date**: 2015-11-05

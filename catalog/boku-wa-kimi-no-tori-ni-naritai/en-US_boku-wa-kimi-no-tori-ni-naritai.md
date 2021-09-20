@@ -1,5 +1,7 @@
 # Boku wa Kimi no Tori ni Naritai.
 
+![boku-wa-kimi-no-tori-ni-naritai](https://cdn.myanimelist.net/images/manga/1/180997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

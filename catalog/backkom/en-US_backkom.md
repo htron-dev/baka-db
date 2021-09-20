@@ -1,5 +1,7 @@
 # Backkom
 
+![backkom](https://cdn.myanimelist.net/images/anime/7/65879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 빼꼼

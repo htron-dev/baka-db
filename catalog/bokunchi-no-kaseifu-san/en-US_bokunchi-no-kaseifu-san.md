@@ -1,5 +1,7 @@
 # Bokunchi no Kaseifu-san
 
+![bokunchi-no-kaseifu-san](https://cdn.myanimelist.net/images/manga/1/219535.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

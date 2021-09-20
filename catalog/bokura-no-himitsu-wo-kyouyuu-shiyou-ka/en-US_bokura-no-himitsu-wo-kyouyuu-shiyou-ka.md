@@ -1,5 +1,7 @@
 # Bokura no Himitsu wo Kyouyuu Shiyou ka
 
+![bokura-no-himitsu-wo-kyouyuu-shiyou-ka](https://cdn.myanimelist.net/images/manga/3/147737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Barairo no Kenkyuu to Hana Kurau Kimi
 
+![barairo-no-kenkyuu-to-hana-kurau-kimi](https://cdn.myanimelist.net/images/manga/3/223819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

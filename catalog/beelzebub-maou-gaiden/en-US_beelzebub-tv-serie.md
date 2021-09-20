@@ -1,5 +1,7 @@
 # Beelzebub
 
+![beelzebub](https://cdn.myanimelist.net/images/anime/3/28013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: べるぜバブ

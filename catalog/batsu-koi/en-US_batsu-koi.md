@@ -1,5 +1,7 @@
 # Batsu Koi
 
+![batsu-koi](https://cdn.myanimelist.net/images/manga/3/163663.jpg)
+
 -   **type**: manga
 -   **original-name**: バツコイ
 -   **start-date**: 2014-12-13

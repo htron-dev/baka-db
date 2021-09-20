@@ -1,5 +1,7 @@
 # Boku wa Coffee ga Nomenai
 
+![boku-wa-coffee-ga-nomenai](https://cdn.myanimelist.net/images/manga/1/138259.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

@@ -1,5 +1,7 @@
 # Black Lagoon: The Second Barrage
 
+![black-lagoon-the-second-barrage](https://cdn.myanimelist.net/images/anime/3/83748.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BLACK LAGOON The Second Barrage

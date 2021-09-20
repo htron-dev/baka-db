@@ -1,5 +1,7 @@
 # Bokutachi no Shippai
 
+![bokutachi-no-shippai](https://cdn.myanimelist.net/images/manga/1/222455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

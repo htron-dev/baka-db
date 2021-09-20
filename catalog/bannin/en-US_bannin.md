@@ -1,5 +1,7 @@
 # Bannin
 
+![bannin](https://cdn.myanimelist.net/images/manga/2/186871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

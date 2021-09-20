@@ -1,5 +1,7 @@
 # Babel no Toshokan
 
+![babel-no-toshokan](https://cdn.myanimelist.net/images/manga/2/193975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

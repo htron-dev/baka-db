@@ -1,5 +1,7 @@
 # B-gata H-kei
 
+![b-gata-h-kei](https://cdn.myanimelist.net/images/anime/4/75227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: B 型 H 系

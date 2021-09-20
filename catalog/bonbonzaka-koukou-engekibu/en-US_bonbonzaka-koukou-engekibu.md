@@ -1,5 +1,7 @@
 # Bonbonzaka Koukou Engekibu
 
+![bonbonzaka-koukou-engekibu](https://cdn.myanimelist.net/images/manga/3/187158.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 142

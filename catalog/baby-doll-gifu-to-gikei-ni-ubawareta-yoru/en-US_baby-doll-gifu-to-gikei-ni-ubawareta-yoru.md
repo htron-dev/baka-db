@@ -1,5 +1,7 @@
 # Baby Doll: Gifu to Gikei ni Ubawareta Yoru
 
+![baby-doll-gifu-to-gikei-ni-ubawareta-yoru](https://cdn.myanimelist.net/images/manga/3/181106.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

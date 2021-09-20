@@ -1,5 +1,7 @@
 # Bijutsubunai Media Kei Otarabu!
 
+![bijutsubunai-media-kei-otarabu](https://cdn.myanimelist.net/images/manga/3/28002.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

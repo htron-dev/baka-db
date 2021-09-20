@@ -1,5 +1,7 @@
 # Bad Police
 
+![bad-police](https://cdn.myanimelist.net/images/manga/1/30502.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

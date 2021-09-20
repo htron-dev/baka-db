@@ -1,5 +1,7 @@
 # Be-Bop-Highschool
 
+![be-bop-highschool](https://cdn.myanimelist.net/images/manga/1/75521.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **chapters**: 308

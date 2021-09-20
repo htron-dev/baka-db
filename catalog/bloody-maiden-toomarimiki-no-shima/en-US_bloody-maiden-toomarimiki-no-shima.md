@@ -1,5 +1,7 @@
 # Bloody Maiden: Toomarimiki no Shima
 
+![bloody-maiden-toomarimiki-no-shima](https://cdn.myanimelist.net/images/manga/3/57871.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

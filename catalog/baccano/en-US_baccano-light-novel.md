@@ -1,5 +1,7 @@
 # Baccano!
 
+![baccano](https://cdn.myanimelist.net/images/manga/2/172736.jpg)
+
 -   **type**: light-novel
 -   **original-name**: バッカーノ!
 -   **start-date**: 2003-02-10

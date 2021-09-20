@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai+
 
+![boku-wa-tomodachi-ga-sukunai](https://cdn.myanimelist.net/images/manga/3/64267.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

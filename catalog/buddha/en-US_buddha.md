@@ -1,5 +1,7 @@
 # Buddha
 
+![buddha](https://cdn.myanimelist.net/images/manga/4/941.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 66

@@ -1,5 +1,7 @@
 # Boys Run the Riot
 
+![boys-run-the-riot](https://cdn.myanimelist.net/images/manga/3/236715.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

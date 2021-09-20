@@ -1,5 +1,7 @@
 # Bird: Black Market
 
+![bird-black-market](https://cdn.myanimelist.net/images/manga/2/231389.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 69

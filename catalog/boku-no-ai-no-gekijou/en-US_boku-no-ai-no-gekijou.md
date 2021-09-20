@@ -1,5 +1,7 @@
 # Boku no Ai no Gekijou
 
+![boku-no-ai-no-gekijou](https://cdn.myanimelist.net/images/manga/3/54045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

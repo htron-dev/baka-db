@@ -1,5 +1,7 @@
 # Brocon Oniisan, Kocchi Muite
 
+![brocon-oniisan-kocchi-muite](https://cdn.myanimelist.net/images/manga/1/236539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

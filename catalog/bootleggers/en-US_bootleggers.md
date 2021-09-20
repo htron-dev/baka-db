@@ -1,5 +1,7 @@
 # Bootleggers
 
+![bootleggers](https://cdn.myanimelist.net/images/manga/1/120433.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブートレガーズ BOOTLEGGERS

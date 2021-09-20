@@ -1,5 +1,7 @@
 # Bousou Honnou Melancholia
 
+![bousou-honnou-melancholia](https://cdn.myanimelist.net/images/manga/1/212353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 暴走本能メランコリア

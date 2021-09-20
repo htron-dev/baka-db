@@ -1,5 +1,7 @@
 # Bumblebee Hajimete no Chikyuu Seikatsu
 
+![bumblebee-hajimete-no-chikyuu-seikatsu](https://cdn.myanimelist.net/images/anime/1426/100569.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: バンブルビー初めての地球生活

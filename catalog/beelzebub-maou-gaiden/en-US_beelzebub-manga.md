@@ -1,5 +1,7 @@
 # Beelzebub
 
+![beelzebub](https://cdn.myanimelist.net/images/manga/3/188942.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 250

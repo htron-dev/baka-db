@@ -1,5 +1,7 @@
 # Bound Beauty
 
+![bound-beauty](https://cdn.myanimelist.net/images/manga/1/31428.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 31

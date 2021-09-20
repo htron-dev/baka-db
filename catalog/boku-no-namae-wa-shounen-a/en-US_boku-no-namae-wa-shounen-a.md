@@ -1,5 +1,7 @@
 # Boku no Namae wa "Shounen A"
 
+![boku-no-namae-wa-shounen-a](https://cdn.myanimelist.net/images/manga/2/207953.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

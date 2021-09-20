@@ -1,5 +1,7 @@
 # Bishounen Moraimashita
 
+![bishounen-moraimashita](https://cdn.myanimelist.net/images/manga/2/12442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

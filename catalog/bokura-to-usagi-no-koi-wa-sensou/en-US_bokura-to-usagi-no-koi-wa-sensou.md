@@ -1,5 +1,7 @@
 # Bokura to Usagi no Koi wa Sensou
 
+![bokura-to-usagi-no-koi-wa-sensou](https://cdn.myanimelist.net/images/manga/1/190884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

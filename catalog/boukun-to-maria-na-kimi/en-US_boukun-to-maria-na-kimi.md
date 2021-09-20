@@ -1,5 +1,7 @@
 # Boukun to Maria na Kimi
 
+![boukun-to-maria-na-kimi](https://cdn.myanimelist.net/images/manga/1/46405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 暴君とマリアなキミ

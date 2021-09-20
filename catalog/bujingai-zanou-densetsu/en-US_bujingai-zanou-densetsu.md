@@ -1,5 +1,7 @@
 # Bujingai: Zanou Densetsu
 
+![bujingai-zanou-densetsu](https://cdn.myanimelist.net/images/manga/1/9957.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 武刃街-斬皇伝説-

@@ -1,5 +1,7 @@
 # Boku no Hatsukoi wo Kimi ni Sasagu
 
+![boku-no-hatsukoi-wo-kimi-ni-sasagu](https://cdn.myanimelist.net/images/manga/1/202476.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 71

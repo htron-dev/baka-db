@@ -1,5 +1,7 @@
 # Busamen Gachi Fighter
 
+![busamen-gachi-fighter](https://cdn.myanimelist.net/images/manga/3/224918.jpg)
+
 -   **type**: manga
 -   **original-name**: ブサメンガチファイター
 -   **start-date**: 2017-11-25

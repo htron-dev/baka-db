@@ -1,5 +1,7 @@
 # B's-LOVEY Anthology: BL of the Dead
 
+![bs-lovey-anthology-bl-of-the-dead](https://cdn.myanimelist.net/images/manga/2/220435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

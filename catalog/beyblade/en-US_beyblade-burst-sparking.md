@@ -1,5 +1,7 @@
 # Beyblade Burst Sparking
 
+![beyblade-burst-sparking](https://cdn.myanimelist.net/images/anime/1332/106530.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: ベイブレードバースト スパーキング

@@ -1,5 +1,7 @@
 # Boukun Tyrano-san
 
+![boukun-tyrano-san](https://cdn.myanimelist.net/images/manga/1/105915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 暴君ティラノさん

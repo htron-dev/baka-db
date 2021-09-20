@@ -1,5 +1,7 @@
 # Boku wo Warui Ko ni Shite
 
+![boku-wo-warui-ko-ni-shite](https://cdn.myanimelist.net/images/manga/1/206373.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕を悪い子にして
 -   **start-date**: 2017-05-30

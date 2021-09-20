@@ -1,5 +1,7 @@
 # Buzzer Beater 2nd Season
 
+![buzzer-beater-2nd-season](https://cdn.myanimelist.net/images/anime/3/57419.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BUZZER BEATER 第 2 期

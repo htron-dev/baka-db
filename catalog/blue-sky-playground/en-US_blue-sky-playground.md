@@ -1,5 +1,7 @@
 # Blue Sky Playground
 
+![blue-sky-playground](https://cdn.myanimelist.net/images/manga/3/4529.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

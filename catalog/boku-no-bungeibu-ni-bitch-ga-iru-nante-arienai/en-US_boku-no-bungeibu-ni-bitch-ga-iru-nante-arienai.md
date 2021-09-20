@@ -1,5 +1,7 @@
 # Boku no Bungeibu ni Bitch ga Iru nante Arienai.
 
+![boku-no-bungeibu-ni-bitch-ga-iru-nante-arienai](https://cdn.myanimelist.net/images/manga/2/206258.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 66

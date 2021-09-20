@@ -1,5 +1,7 @@
 # Big Wars: Kami Utsu Akaki Kouya ni
 
+![big-wars-kami-utsu-akaki-kouya-ni](https://cdn.myanimelist.net/images/anime/3/72814.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ビッグ・ウォーズ 神撃つ朱き荒野に

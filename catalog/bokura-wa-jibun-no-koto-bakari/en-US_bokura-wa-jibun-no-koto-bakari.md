@@ -1,5 +1,7 @@
 # Bokura wa Jibun no Koto bakari
 
+![bokura-wa-jibun-no-koto-bakari](https://cdn.myanimelist.net/images/manga/3/185975.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

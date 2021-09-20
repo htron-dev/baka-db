@@ -1,5 +1,7 @@
 # Balgwanghaneun Hyeondaesa
 
+![balgwanghaneun-hyeondaesa](https://cdn.myanimelist.net/images/anime/1173/112333.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 발광하는 현대사

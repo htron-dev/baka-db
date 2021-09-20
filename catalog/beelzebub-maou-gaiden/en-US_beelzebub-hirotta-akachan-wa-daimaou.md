@@ -1,5 +1,7 @@
 # Beelzebub: Hirotta Akachan wa Daimaou!?
 
+![beelzebub-hirotta-akachan-wa-daimaou](https://cdn.myanimelist.net/images/anime/7/26349.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: べるぜバブ 拾った赤ちゃんは大魔王!?

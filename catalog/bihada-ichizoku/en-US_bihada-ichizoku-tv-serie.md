@@ -1,5 +1,7 @@
 # Bihada Ichizoku
 
+![bihada-ichizoku](https://cdn.myanimelist.net/images/anime/3/19268.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 美肌一族

@@ -1,5 +1,7 @@
 # Boku no Tonari ni Ankoku Hakaishin ga Imasu.
 
+![boku-no-tonari-ni-ankoku-hakaishin-ga-imasu](https://cdn.myanimelist.net/images/anime/1848/103547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ぼくのとなりに暗黒破壊神がいます。

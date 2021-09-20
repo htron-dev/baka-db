@@ -1,5 +1,7 @@
 # Bakemono Club
 
+![bakemono-club](https://cdn.myanimelist.net/images/manga/3/149480.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

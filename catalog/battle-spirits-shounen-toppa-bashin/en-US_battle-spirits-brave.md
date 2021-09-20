@@ -1,5 +1,7 @@
 # Battle Spirits: Brave
 
+![battle-spirits-brave](https://cdn.myanimelist.net/images/anime/7/72210.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: バトルスピリッツ ブレイヴ

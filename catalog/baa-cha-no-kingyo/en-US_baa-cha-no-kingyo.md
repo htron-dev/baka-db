@@ -1,5 +1,7 @@
 # Baa-cha no Kingyo
 
+![baa-cha-no-kingyo](https://cdn.myanimelist.net/images/anime/1820/93031.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 婆ちゃの金魚

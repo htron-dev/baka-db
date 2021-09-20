@@ -1,5 +1,7 @@
 # Boy's Time
 
+![boys-time](https://cdn.myanimelist.net/images/manga/3/157045.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Boy's たいむ

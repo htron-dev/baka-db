@@ -1,5 +1,7 @@
 # Brandoll
 
+![brandoll](https://cdn.myanimelist.net/images/manga/2/31439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

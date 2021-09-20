@@ -1,5 +1,7 @@
 # Bakuten Shoot Beyblade: Rising
 
+![bakuten-shoot-beyblade-rising](https://cdn.myanimelist.net/images/manga/1/204412.jpg)
+
 -   **type**: manga
 -   **original-name**: 爆転シュート ベイブレード ライジング
 -   **start-date**: 2016-07-15

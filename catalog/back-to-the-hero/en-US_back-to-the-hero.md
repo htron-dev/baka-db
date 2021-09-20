@@ -1,5 +1,7 @@
 # Back to the Hero
 
+![back-to-the-hero](https://cdn.myanimelist.net/images/manga/3/151640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

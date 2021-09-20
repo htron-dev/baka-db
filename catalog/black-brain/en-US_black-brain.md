@@ -1,5 +1,7 @@
 # Black Brain
 
+![black-brain](https://cdn.myanimelist.net/images/manga/3/232848.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 137

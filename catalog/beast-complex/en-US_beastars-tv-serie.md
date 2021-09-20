@@ -1,5 +1,7 @@
 # Beastars
 
+![beastars](https://cdn.myanimelist.net/images/anime/1234/102008.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BEASTARS

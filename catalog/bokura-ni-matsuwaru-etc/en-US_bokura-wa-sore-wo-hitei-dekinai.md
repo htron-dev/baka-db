@@ -1,5 +1,7 @@
 # Bokura wa Sore wo Hitei Dekinai
 
+![bokura-wa-sore-wo-hitei-dekinai](https://cdn.myanimelist.net/images/manga/1/88619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

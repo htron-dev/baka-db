@@ -1,5 +1,7 @@
 # Betabeta Neechan to Nurunuru Shinasai!
 
+![betabeta-neechan-to-nurunuru-shinasai](https://cdn.myanimelist.net/images/manga/1/219239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Bedroom ni Meshiagare
 
+![bedroom-ni-meshiagare](https://cdn.myanimelist.net/images/manga/3/164568.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ベッドルームで召し上がれ

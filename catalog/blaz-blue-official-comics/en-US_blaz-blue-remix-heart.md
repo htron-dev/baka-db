@@ -1,5 +1,7 @@
 # BlazBlue: Remix Heart
 
+![blaz-blue-remix-heart](https://cdn.myanimelist.net/images/manga/1/128681.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

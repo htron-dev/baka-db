@@ -1,5 +1,7 @@
 # Bokura wa Minna Kawai-sou
 
+![bokura-wa-minna-kawai-sou](https://cdn.myanimelist.net/images/manga/1/204982.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 93

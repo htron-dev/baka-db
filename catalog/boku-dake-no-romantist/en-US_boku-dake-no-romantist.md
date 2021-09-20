@@ -1,5 +1,7 @@
 # Boku dake no Romantist
 
+![boku-dake-no-romantist](https://cdn.myanimelist.net/images/manga/3/239309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

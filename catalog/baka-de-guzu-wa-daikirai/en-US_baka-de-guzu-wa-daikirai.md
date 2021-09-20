@@ -1,5 +1,7 @@
 # Baka de Guzu wa Daikirai
 
+![baka-de-guzu-wa-daikirai](https://cdn.myanimelist.net/images/manga/2/168426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

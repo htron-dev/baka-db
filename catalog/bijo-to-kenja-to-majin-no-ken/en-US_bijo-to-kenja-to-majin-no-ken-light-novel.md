@@ -1,5 +1,7 @@
 # Bijo to Kenja to Majin no Ken
 
+![bijo-to-kenja-to-majin-no-ken](https://cdn.myanimelist.net/images/manga/1/202186.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 美女と賢者と魔人の剣
 -   **start-date**: 2016-04-03

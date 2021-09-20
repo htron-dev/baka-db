@@ -1,5 +1,7 @@
 # Bucket no Naka no Kaka
 
+![bucket-no-naka-no-kaka](https://cdn.myanimelist.net/images/anime/1828/91248.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バケツの中の かか

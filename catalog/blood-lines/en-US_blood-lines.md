@@ -1,5 +1,7 @@
 # Blood Lines
 
+![blood-lines](https://cdn.myanimelist.net/images/manga/3/41293.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ブラッドラインズ

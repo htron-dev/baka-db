@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi
 
+![bishoujo-senshi-sailor-moon-r-make-up-sailor-senshi](https://cdn.myanimelist.net/images/anime/12/64547.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メイクアップ！ セーラー戦士

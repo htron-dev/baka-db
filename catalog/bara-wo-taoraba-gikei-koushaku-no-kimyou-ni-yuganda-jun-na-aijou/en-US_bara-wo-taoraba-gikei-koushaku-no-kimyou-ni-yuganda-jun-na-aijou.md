@@ -1,5 +1,7 @@
 # Bara wo Taoraba: Gikei Koushaku no Kimyou ni Yuganda Jun na Aijou
 
+![bara-wo-taoraba-gikei-koushaku-no-kimyou-ni-yuganda-jun-na-aijou](https://cdn.myanimelist.net/images/manga/3/183331.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

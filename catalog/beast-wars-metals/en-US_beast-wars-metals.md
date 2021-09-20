@@ -1,5 +1,7 @@
 # Beast Wars Metals
 
+![beast-wars-metals](https://cdn.myanimelist.net/images/manga/3/35696.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **start-date**: 1999-11-19

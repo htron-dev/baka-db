@@ -1,5 +1,7 @@
 # Book x Mark!
 
+![book-x-mark](https://cdn.myanimelist.net/images/manga/1/179140.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

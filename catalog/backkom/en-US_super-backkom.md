@@ -1,5 +1,7 @@
 # Super Backkom
 
+![super-backkom](https://cdn.myanimelist.net/images/anime/4/65799.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 슈퍼빼꼼

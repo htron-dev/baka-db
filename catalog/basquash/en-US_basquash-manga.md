@@ -1,5 +1,7 @@
 # Basquash!
 
+![basquash](https://cdn.myanimelist.net/images/manga/1/189510.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Bougyoryoku Zero no Yome
 
+![bougyoryoku-zero-no-yome](https://cdn.myanimelist.net/images/manga/3/225336.jpg)
+
 -   **type**: manga
 -   **original-name**: 防御力ゼロの嫁
 -   **start-date**: 2019-04-26

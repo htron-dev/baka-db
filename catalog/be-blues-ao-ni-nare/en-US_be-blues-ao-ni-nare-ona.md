@@ -1,5 +1,7 @@
 # Be Blues! Ao ni Nare
 
+![be-blues-ao-ni-nare](https://cdn.myanimelist.net/images/anime/4/60171.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: BE BLUES!~青になれ~

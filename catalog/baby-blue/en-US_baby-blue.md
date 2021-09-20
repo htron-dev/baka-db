@@ -1,5 +1,7 @@
 # Baby Blue
 
+![baby-blue](https://cdn.myanimelist.net/images/manga/1/34405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

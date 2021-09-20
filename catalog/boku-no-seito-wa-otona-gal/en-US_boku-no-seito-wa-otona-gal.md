@@ -1,5 +1,7 @@
 # Boku no Seito wa Otona Gal
 
+![boku-no-seito-wa-otona-gal](https://cdn.myanimelist.net/images/manga/1/250326.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の生徒はオトナギャル
 -   **start-date**: 2021-02-23

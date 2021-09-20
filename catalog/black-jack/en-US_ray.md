@@ -1,5 +1,7 @@
 # Ray
 
+![ray](https://cdn.myanimelist.net/images/manga/1/3127.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Bubblegum Crisis Tokyo 2040
 
+![bubblegum-crisis-tokyo-2040](https://cdn.myanimelist.net/images/anime/1699/92414.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: バブルガムクライシス TOKYO2040

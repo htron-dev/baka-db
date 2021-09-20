@@ -1,5 +1,7 @@
 # Brothers Conflict feat.Yusuke&Futo
 
+![brothers-conflict-feat-yusuke-futo](https://cdn.myanimelist.net/images/manga/1/113787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

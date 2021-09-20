@@ -1,5 +1,7 @@
 # Bakuretsu Tenshi: Infinity Special
 
+![bakuretsu-tenshi-infinity-special](https://cdn.myanimelist.net/images/anime/2/4071.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 爆裂天使 -Infinity-

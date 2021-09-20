@@ -1,5 +1,7 @@
 # Bara to Yaban
 
+![bara-to-yaban](https://cdn.myanimelist.net/images/manga/1/82050.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

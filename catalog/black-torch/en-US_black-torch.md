@@ -1,5 +1,7 @@
 # Black Torch
 
+![black-torch](https://cdn.myanimelist.net/images/manga/3/194791.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

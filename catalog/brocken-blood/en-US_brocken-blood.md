@@ -1,5 +1,7 @@
 # Brocken Blood
 
+![brocken-blood](https://cdn.myanimelist.net/images/manga/1/174084.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 62

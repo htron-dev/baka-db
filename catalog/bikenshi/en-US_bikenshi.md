@@ -1,5 +1,7 @@
 # Bikenshi
 
+![bikenshi](https://cdn.myanimelist.net/images/manga/1/30382.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 美剣士

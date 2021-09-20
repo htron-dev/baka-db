@@ -1,5 +1,7 @@
 # Beautiful Fascination is Better Than Love
 
+![beautiful-fascination-is-better-than-love](https://cdn.myanimelist.net/images/manga/5/26330.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 15

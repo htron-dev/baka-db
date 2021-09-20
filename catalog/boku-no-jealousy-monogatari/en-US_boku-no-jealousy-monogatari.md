@@ -1,5 +1,7 @@
 # Boku no Jealousy Monogatari.
 
+![boku-no-jealousy-monogatari](https://cdn.myanimelist.net/images/manga/2/204962.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

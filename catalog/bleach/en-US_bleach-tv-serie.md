@@ -1,5 +1,7 @@
 # Bleach
 
+![bleach](https://cdn.myanimelist.net/images/anime/3/40451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 366
 -   **original-name**: BLEACH - ブリーチ -
