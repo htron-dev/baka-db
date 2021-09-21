@@ -1,5 +1,7 @@
 # Nononono
 
+![nononono](https://cdn.myanimelist.net/images/manga/2/52295.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 142

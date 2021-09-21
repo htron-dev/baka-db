@@ -1,5 +1,7 @@
 # Nendo no Tatakai 2
 
+![nendo-no-tatakai-2](https://cdn.myanimelist.net/images/anime/2/33245.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ねんどのたたかい２

@@ -1,5 +1,7 @@
 # Daini Button Kudasai
 
+![daini-button-kudasai](https://cdn.myanimelist.net/images/manga/2/32732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen
 
+![naniwa-yuukyouden-nekketsu-bakushou-mankai-hen](https://cdn.myanimelist.net/images/anime/2/52747.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: なにわ遊侠伝: 熱血!!爆笑マン開篇

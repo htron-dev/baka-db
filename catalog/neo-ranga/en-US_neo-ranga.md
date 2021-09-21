@@ -1,5 +1,7 @@
 # Neo Ranga
 
+![neo-ranga](https://cdn.myanimelist.net/images/anime/1473/92555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 南海奇皇ネオランガ

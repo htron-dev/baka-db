@@ -1,5 +1,7 @@
 # Netoge no Yome wa Onnanoko ja Nai to Omotta?
 
+![netoge-no-yome-wa-onnanoko-ja-nai-to-omotta](https://cdn.myanimelist.net/images/manga/3/157551.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

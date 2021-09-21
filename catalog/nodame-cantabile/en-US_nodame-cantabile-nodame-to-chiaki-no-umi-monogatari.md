@@ -1,5 +1,7 @@
 # Nodame Cantabile: Nodame to Chiaki no Umi Monogatari
 
+![nodame-cantabile-nodame-to-chiaki-no-umi-monogatari](https://cdn.myanimelist.net/images/anime/3/11970.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: のだめカンタービレ「のだめと千秋の海物語」

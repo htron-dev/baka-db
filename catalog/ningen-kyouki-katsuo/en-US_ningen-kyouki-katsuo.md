@@ -1,5 +1,7 @@
 # Ningen Kyouki Katsuo!
 
+![ningen-kyouki-katsuo](https://cdn.myanimelist.net/images/manga/2/36023.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 77

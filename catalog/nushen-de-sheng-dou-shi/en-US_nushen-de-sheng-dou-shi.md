@@ -1,5 +1,7 @@
 # Nushen De Sheng Dou Shi
 
+![nushen-de-sheng-dou-shi](https://cdn.myanimelist.net/images/anime/1854/115319.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 女神的圣逗士

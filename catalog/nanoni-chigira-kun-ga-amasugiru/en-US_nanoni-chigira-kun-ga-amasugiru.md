@@ -1,5 +1,7 @@
 # Nanoni, Chigira-kun ga Amasugiru.
 
+![nanoni-chigira-kun-ga-amasugiru](https://cdn.myanimelist.net/images/manga/2/210149.jpg)
+
 -   **type**: manga
 -   **original-name**: なのに、千輝くんが甘すぎる。
 -   **start-date**: 2017-05-24

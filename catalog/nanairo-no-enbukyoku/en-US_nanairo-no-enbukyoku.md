@@ -1,5 +1,7 @@
 # Nanairo no Enbukyoku
 
+![nanairo-no-enbukyoku](https://cdn.myanimelist.net/images/manga/2/81968.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

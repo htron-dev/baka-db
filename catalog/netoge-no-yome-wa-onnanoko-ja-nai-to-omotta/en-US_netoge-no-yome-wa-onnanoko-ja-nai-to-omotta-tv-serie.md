@@ -1,5 +1,7 @@
 # Netoge no Yome wa Onnanoko ja Nai to Omotta?
 
+![netoge-no-yome-wa-onnanoko-ja-nai-to-omotta](https://cdn.myanimelist.net/images/anime/3/79414.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ネトゲの嫁は女の子じゃないと思った？

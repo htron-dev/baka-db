@@ -1,5 +1,7 @@
 # Neko Kaburi no Ouji-sama
 
+![neko-kaburi-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/153400.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ネコかぶりの王子様

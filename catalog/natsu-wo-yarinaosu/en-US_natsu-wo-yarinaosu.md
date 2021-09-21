@@ -1,5 +1,7 @@
 # Natsu wo Yarinaosu
 
+![natsu-wo-yarinaosu](https://cdn.myanimelist.net/images/anime/1873/93246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夏をやりなおす

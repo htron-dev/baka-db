@@ -1,5 +1,7 @@
 # Natsu-iro no Sunadokei
 
+![natsu-iro-no-sunadokei](https://cdn.myanimelist.net/images/anime/12/75239.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 夏色の砂時計

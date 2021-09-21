@@ -1,5 +1,7 @@
 # Nanatsuya: Shinobu no Housekibako
 
+![nanatsuya-shinobu-no-housekibako](https://cdn.myanimelist.net/images/manga/3/143299.jpg)
+
 -   **type**: manga
 -   **original-name**: 七つ屋 志のぶの宝石匣
 -   **start-date**: 2013-11-25

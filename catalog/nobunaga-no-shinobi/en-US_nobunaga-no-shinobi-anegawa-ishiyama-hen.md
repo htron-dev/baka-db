@@ -1,5 +1,7 @@
 # Nobunaga no Shinobi: Anegawa Ishiyama-hen
 
+![nobunaga-no-shinobi-anegawa-ishiyama-hen](https://cdn.myanimelist.net/images/anime/1651/91110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 信長の忍び~姉川・石山篇~

@@ -1,5 +1,7 @@
 # Nozomu Nozomi
 
+![nozomu-nozomi](https://cdn.myanimelist.net/images/manga/1/164500.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

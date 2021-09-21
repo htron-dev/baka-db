@@ -1,5 +1,7 @@
 # Nanatose Miiku to Kyokou no Ou
 
+![nanatose-miiku-to-kyokou-no-ou](https://cdn.myanimelist.net/images/manga/2/191429.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

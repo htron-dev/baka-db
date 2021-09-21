@@ -1,5 +1,7 @@
 # Nyani ga Nyandaa Nyandaa Kamen no Yuukai Boushi: Miiko-chan Chanto Check!!
 
+![nyani-ga-nyandaa-nyandaa-kamen-no-yuukai-boushi-miiko-chan-chanto-check](https://cdn.myanimelist.net/images/anime/7/87612.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ニャニがニャンだー ニャンダーかめんの誘拐防止 ミーコちゃん ちゃんとチェック!!

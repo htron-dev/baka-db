@@ -1,5 +1,7 @@
 # Nar Doma Manner Movie
 
+![nar-doma-manner-movie](https://cdn.myanimelist.net/images/anime/13/77480.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ナルどマ マナームービー

@@ -1,5 +1,7 @@
 # Nihon Chinbotsu
 
+![nihon-chinbotsu](https://cdn.myanimelist.net/images/manga/1/44945.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 10

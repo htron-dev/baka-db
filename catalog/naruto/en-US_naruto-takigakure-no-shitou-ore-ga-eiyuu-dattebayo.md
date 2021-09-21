@@ -1,5 +1,7 @@
 # Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!
 
+![naruto-takigakure-no-shitou-ore-ga-eiyuu-dattebayo](https://cdn.myanimelist.net/images/anime/11/20921.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 滝隠れの死闘　オレが英雄だってばよ!

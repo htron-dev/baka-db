@@ -1,5 +1,7 @@
 # Neko-kan: Neko ni Koisuru Otoko no Monogatari
 
+![neko-kan-neko-ni-koisuru-otoko-no-monogatari](https://cdn.myanimelist.net/images/manga/3/193800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

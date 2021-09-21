@@ -1,5 +1,7 @@
 # 4-koma Koushiki Anthology: Nagi no Asu kara
 
+![4-koma-koushiki-anthology-nagi-no-asu-kara](https://cdn.myanimelist.net/images/manga/2/125961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 4 コマ公式アンソロジー 凪のあすから

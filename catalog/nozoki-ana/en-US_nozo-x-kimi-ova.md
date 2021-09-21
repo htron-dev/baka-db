@@ -1,5 +1,7 @@
 # Nozo x Kimi
 
+![nozo-x-kimi](https://cdn.myanimelist.net/images/anime/10/67123.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ノゾ × キミ

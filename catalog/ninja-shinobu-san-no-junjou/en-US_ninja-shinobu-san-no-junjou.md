@@ -1,5 +1,7 @@
 # Ninja Shinobu-san no Junjou
 
+![ninja-shinobu-san-no-junjou](https://cdn.myanimelist.net/images/manga/1/192532.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

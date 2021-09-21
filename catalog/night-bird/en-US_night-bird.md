@@ -1,5 +1,7 @@
 # Night Bird
 
+![night-bird](https://cdn.myanimelist.net/images/manga/2/38795.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ないとバード

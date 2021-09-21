@@ -1,5 +1,7 @@
 # VS Knight Lamune &amp; 40 Fresh
 
+![vs-knight-lamune-amp-40-fresh](https://cdn.myanimelist.net/images/anime/1628/94357.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: VS 騎士ラムネ＆40FRESH

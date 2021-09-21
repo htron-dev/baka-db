@@ -1,5 +1,7 @@
 # Nasubi Joou
 
+![nasubi-joou](https://cdn.myanimelist.net/images/manga/5/175754.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ナスビ女王

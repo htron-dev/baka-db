@@ -1,5 +1,7 @@
 # Nanocore 2nd Season
 
+![nanocore-2nd-season](https://cdn.myanimelist.net/images/anime/4/79961.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 纳米核心 - 第二季 - 第一集

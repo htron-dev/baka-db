@@ -1,5 +1,7 @@
 # Not So Bad
 
+![not-so-bad](https://cdn.myanimelist.net/images/manga/5/30127.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 14

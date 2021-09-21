@@ -1,5 +1,7 @@
 # Nanbaka
 
+![nanbaka](https://cdn.myanimelist.net/images/manga/2/166984.jpg)
+
 -   **type**: manga
 -   **original-name**: ナンバカ
 -   **start-date**: 2013-10-13

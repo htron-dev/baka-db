@@ -1,5 +1,7 @@
 # Nami yo Kiitekure
 
+![nami-yo-kiitekure](https://cdn.myanimelist.net/images/anime/1913/112190.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 波よ聞いてくれ

@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Kamigami no Gekirin
 
+![nanatsu-no-taizai-kamigami-no-gekirin](https://cdn.myanimelist.net/images/anime/1546/103418.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 七つの大罪 神々の逆鱗

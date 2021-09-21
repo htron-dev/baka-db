@@ -1,5 +1,7 @@
 # Gekidan Nanatsu no Taizai
 
+![gekidan-nanatsu-no-taizai](https://cdn.myanimelist.net/images/anime/1633/111052.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 劇団七つの大罪

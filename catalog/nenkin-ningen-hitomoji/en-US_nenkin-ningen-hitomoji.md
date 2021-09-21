@@ -1,5 +1,7 @@
 # Nenkin Ningen Hitomoji
 
+![nenkin-ningen-hitomoji](https://cdn.myanimelist.net/images/manga/3/245714.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

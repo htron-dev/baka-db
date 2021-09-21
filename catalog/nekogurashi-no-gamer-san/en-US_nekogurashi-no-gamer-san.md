@@ -1,5 +1,7 @@
 # Nekogurashi no Gamer-san
 
+![nekogurashi-no-gamer-san](https://cdn.myanimelist.net/images/manga/2/222202.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫暮らしのゲーマーさん
 -   **start-date**: 2018-11-24

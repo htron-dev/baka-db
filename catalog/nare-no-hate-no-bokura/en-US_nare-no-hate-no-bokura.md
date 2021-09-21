@@ -1,5 +1,7 @@
 # Nare no Hate no Bokura
 
+![nare-no-hate-no-bokura](https://cdn.myanimelist.net/images/manga/2/231154.jpg)
+
 -   **type**: manga
 -   **original-name**: なれの果ての僕ら
 -   **start-date**: 2020-01-15

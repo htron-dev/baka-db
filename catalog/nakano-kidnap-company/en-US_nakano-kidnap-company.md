@@ -1,5 +1,7 @@
 # Nakano Kidnap Company
 
+![nakano-kidnap-company](https://cdn.myanimelist.net/images/manga/1/163463.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

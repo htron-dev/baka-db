@@ -1,5 +1,7 @@
 # Nariagari Eiyuutan: Kuzuboshi Ouji no Senshi
 
+![nariagari-eiyuutan-kuzuboshi-ouji-no-senshi](https://cdn.myanimelist.net/images/manga/2/197984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

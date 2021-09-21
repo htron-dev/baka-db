@@ -1,5 +1,7 @@
 # Naruto: The Cross Roads
 
+![naruto-the-cross-roads](https://cdn.myanimelist.net/images/anime/11/27050.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナルト サ・クロスローズ

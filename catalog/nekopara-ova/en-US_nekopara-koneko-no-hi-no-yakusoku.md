@@ -1,5 +1,7 @@
 # Nekopara: Koneko no Hi no Yakusoku
 
+![nekopara-koneko-no-hi-no-yakusoku](https://cdn.myanimelist.net/images/anime/1102/103268.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ネコぱら 仔ネコの日の約束

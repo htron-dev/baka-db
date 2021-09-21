@@ -1,5 +1,7 @@
 # Nijiiro Days
 
+![nijiiro-days](https://cdn.myanimelist.net/images/anime/8/76691.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 虹色デイズ

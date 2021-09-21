@@ -1,5 +1,7 @@
 # Name of the Rose
 
+![name-of-the-rose](https://cdn.myanimelist.net/images/manga/2/18645.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

@@ -1,5 +1,7 @@
 # Nikkan Tachibana
 
+![nikkan-tachibana](https://cdn.myanimelist.net/images/manga/1/181068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

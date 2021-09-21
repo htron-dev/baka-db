@@ -1,5 +1,7 @@
 # Nanami-chan 2nd Series
 
+![nanami-chan-2nd-series](https://cdn.myanimelist.net/images/anime/2/64209.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ななみちゃん 第 2 シリーズ

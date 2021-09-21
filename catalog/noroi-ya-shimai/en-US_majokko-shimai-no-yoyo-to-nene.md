@@ -1,5 +1,7 @@
 # Majokko Shimai no Yoyo to Nene
 
+![majokko-shimai-no-yoyo-to-nene](https://cdn.myanimelist.net/images/anime/1598/94444.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔女っこ姉妹のヨヨとネネ

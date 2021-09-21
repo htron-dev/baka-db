@@ -1,5 +1,7 @@
 # Netorare Minoru
 
+![netorare-minoru](https://cdn.myanimelist.net/images/manga/3/179103.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

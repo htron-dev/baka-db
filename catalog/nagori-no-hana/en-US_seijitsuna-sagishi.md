@@ -1,5 +1,7 @@
 # Seijitsuna Sagishi
 
+![seijitsuna-sagishi](https://cdn.myanimelist.net/images/manga/3/18730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Neta Character Tensei toka Anmari da! The Comic
 
+![neta-character-tensei-toka-anmari-da-the-comic](https://cdn.myanimelist.net/images/manga/1/238383.jpg)
+
 -   **type**: manga
 -   **original-name**: ネタキャラ転生とかあんまりだ! THE COMIC
 -   **start-date**: 2020-04-20

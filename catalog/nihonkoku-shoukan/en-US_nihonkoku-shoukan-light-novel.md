@@ -1,5 +1,7 @@
 # Nihonkoku Shoukan
 
+![nihonkoku-shoukan](https://cdn.myanimelist.net/images/manga/1/219366.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 日本国召喚
 -   **start-date**: 2017-03-17

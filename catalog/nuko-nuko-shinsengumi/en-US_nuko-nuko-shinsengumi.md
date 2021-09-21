@@ -1,5 +1,7 @@
 # Nuko Nuko Shinsengumi
 
+![nuko-nuko-shinsengumi](https://cdn.myanimelist.net/images/manga/3/202114.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

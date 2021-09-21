@@ -1,5 +1,7 @@
 # Namakemono to Haru
 
+![namakemono-to-haru](https://cdn.myanimelist.net/images/manga/2/95455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ナマケモノと春

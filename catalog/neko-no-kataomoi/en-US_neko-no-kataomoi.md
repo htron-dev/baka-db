@@ -1,5 +1,7 @@
 # Neko no Kataomoi
 
+![neko-no-kataomoi](https://cdn.myanimelist.net/images/manga/2/241558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Naeil-eun Pyeongbeomhae Jilgeoya
 
+![naeil-eun-pyeongbeomhae-jilgeoya](https://cdn.myanimelist.net/images/anime/11/86989.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 내일은 평범해질거야

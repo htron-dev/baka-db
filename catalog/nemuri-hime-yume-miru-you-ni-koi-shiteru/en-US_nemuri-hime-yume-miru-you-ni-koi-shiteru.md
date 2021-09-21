@@ -1,5 +1,7 @@
 # Nemuri Hime: Yume Miru You ni Koi Shiteru
 
+![nemuri-hime-yume-miru-you-ni-koi-shiteru](https://cdn.myanimelist.net/images/manga/1/38274.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

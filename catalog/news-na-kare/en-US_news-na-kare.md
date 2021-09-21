@@ -1,5 +1,7 @@
 # News na Kare!
 
+![news-na-kare](https://cdn.myanimelist.net/images/manga/1/205069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

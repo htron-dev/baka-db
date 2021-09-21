@@ -1,5 +1,7 @@
 # Night Head Genesis
 
+![night-head-genesis](https://cdn.myanimelist.net/images/manga/1/11687.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

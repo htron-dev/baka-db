@@ -1,5 +1,7 @@
 # NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta
 
+![neet-dakedo-hello-work-ni-ittara-isekai-ni-tsuretekareta](https://cdn.myanimelist.net/images/manga/1/213411.jpg)
+
 -   **type**: manga
 -   **original-name**: ニートだけどハロワにいったら異世界につれてかれた
 -   **start-date**: 2017-12-01

@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Fundo no Shinpan
 
+![nanatsu-no-taizai-fundo-no-shinpan](https://cdn.myanimelist.net/images/anime/1011/111551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 七つの大罪 憤怒の審判

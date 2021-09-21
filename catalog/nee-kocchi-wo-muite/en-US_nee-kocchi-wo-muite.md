@@ -1,5 +1,7 @@
 # Nee, Kocchi wo Muite?
 
+![nee-kocchi-wo-muite](https://cdn.myanimelist.net/images/manga/1/158415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

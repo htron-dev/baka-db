@@ -1,5 +1,7 @@
 # NEET-kei Sentai Lovely Little Drops
 
+![neet-kei-sentai-lovely-little-drops](https://cdn.myanimelist.net/images/manga/3/164669.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ニート系戦隊らぶりぃー・りとる・どろっぷす

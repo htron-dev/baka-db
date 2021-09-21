@@ -1,5 +1,7 @@
 # Evangelion: 2.0 You Can (Not) Advance
 
+![evangelion-2-0-you-can-not-advance](https://cdn.myanimelist.net/images/anime/5/74983.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヱヴァンゲリヲン新劇場版:破

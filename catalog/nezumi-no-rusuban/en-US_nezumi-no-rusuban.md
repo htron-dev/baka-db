@@ -1,5 +1,7 @@
 # Nezumi no Rusuban
 
+![nezumi-no-rusuban](https://cdn.myanimelist.net/images/anime/6/82050.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鼠の留守番

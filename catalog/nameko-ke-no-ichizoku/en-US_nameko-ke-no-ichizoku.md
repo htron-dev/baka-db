@@ -1,5 +1,7 @@
 # Nameko-ke no Ichizoku
 
+![nameko-ke-no-ichizoku](https://cdn.myanimelist.net/images/anime/12/55085.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: なめこ家の一族

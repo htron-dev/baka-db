@@ -1,5 +1,7 @@
 # Nicoichi
 
+![nicoichi](https://cdn.myanimelist.net/images/manga/4/76705.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 120

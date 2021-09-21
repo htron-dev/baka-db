@@ -1,5 +1,7 @@
 # Nanase
 
+![nanase](https://cdn.myanimelist.net/images/manga/1/152337.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

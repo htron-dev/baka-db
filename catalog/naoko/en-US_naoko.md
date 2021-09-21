@@ -1,5 +1,7 @@
 # Naoko
 
+![naoko](https://cdn.myanimelist.net/images/manga/1/22742.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **original-name**: 奈緒子

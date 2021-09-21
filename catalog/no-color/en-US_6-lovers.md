@@ -1,5 +1,7 @@
 # 6 Lovers
 
+![6-lovers](https://cdn.myanimelist.net/images/anime/1104/113475.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 6 LOVERS

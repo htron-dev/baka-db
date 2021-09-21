@@ -1,5 +1,7 @@
 # Namaikizakari.
 
+![namaikizakari](https://cdn.myanimelist.net/images/manga/1/128825.jpg)
+
 -   **type**: manga
 -   **original-name**: なまいきざかり。
 -   **start-date**: 2013-10-19

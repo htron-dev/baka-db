@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion: Campus Apocalypse
 
+![neon-genesis-evangelion-campus-apocalypse](https://cdn.myanimelist.net/images/manga/4/30773.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

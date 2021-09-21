@@ -1,5 +1,7 @@
 # Nakai-kun-tachi no Himegoto
 
+![nakai-kun-tachi-no-himegoto](https://cdn.myanimelist.net/images/manga/3/247595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

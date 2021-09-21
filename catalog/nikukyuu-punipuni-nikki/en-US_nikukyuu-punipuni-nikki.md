@@ -1,5 +1,7 @@
 # Nikukyuu Punipuni Nikki
 
+![nikukyuu-punipuni-nikki](https://cdn.myanimelist.net/images/manga/2/30422.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 100

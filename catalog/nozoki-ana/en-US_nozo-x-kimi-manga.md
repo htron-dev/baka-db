@@ -1,5 +1,7 @@
 # Nozo x Kimi
 
+![nozo-x-kimi](https://cdn.myanimelist.net/images/manga/2/78073.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

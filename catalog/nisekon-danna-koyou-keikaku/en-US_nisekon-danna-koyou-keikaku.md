@@ -1,5 +1,7 @@
 # Nisekon: Danna Koyou Keikaku
 
+![nisekon-danna-koyou-keikaku](https://cdn.myanimelist.net/images/manga/3/174009.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ニセ婚 ～ダンナ雇用計画～

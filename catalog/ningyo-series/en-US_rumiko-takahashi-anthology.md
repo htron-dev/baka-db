@@ -1,5 +1,7 @@
 # Rumiko Takahashi Anthology
 
+![rumiko-takahashi-anthology](https://cdn.myanimelist.net/images/anime/2/19614.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 高橋留美子劇場

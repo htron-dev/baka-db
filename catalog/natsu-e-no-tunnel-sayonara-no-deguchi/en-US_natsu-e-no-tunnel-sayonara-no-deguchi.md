@@ -1,5 +1,7 @@
 # Natsu e no Tunnel, Sayonara no Deguchi
 
+![natsu-e-no-tunnel-sayonara-no-deguchi](https://cdn.myanimelist.net/images/manga/1/247761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Neko Yasha
 
+![neko-yasha](https://cdn.myanimelist.net/images/manga/1/40034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 猫夜叉

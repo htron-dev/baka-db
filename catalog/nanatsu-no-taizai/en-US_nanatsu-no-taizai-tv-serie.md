@@ -1,5 +1,7 @@
 # Nanatsu no Taizai
 
+![nanatsu-no-taizai](https://cdn.myanimelist.net/images/anime/8/65409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 七つの大罪

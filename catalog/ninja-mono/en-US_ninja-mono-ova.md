@@ -1,5 +1,7 @@
 # Ninja Mono
 
+![ninja-mono](https://cdn.myanimelist.net/images/anime/8/62465.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Ｎｉｎｊａ者

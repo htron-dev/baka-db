@@ -1,5 +1,7 @@
 # No.99: Ningen Omocha
 
+![no-99-ningen-omocha](https://cdn.myanimelist.net/images/manga/5/20448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

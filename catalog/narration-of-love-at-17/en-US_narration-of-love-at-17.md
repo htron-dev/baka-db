@@ -1,5 +1,7 @@
 # Narration of Love at 17
 
+![narration-of-love-at-17](https://cdn.myanimelist.net/images/manga/1/6850.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 9

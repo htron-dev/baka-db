@@ -1,5 +1,7 @@
 # Nishi no Yoki Majo: Astraea Testament
 
+![nishi-no-yoki-majo-astraea-testament](https://cdn.myanimelist.net/images/anime/9/75549.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 西の善き魔女 Astraea Testament

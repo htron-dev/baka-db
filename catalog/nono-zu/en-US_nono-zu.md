@@ -1,5 +1,7 @@
 # Nono Zu
 
+![nono-zu](https://cdn.myanimelist.net/images/anime/1556/115515.jpg)
+
 -   **type**: ona
 -   **episodes**: 380
 -   **original-name**: 喏喏族

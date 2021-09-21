@@ -1,5 +1,7 @@
 # Naked Color
 
+![naked-color](https://cdn.myanimelist.net/images/manga/2/249652.jpg)
+
 -   **type**: manga
 -   **original-name**: ネイキッドカラー
 -   **start-date**: 2020-07-31

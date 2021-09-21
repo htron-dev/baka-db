@@ -1,5 +1,7 @@
 # Noblelige!
 
+![noblelige](https://cdn.myanimelist.net/images/manga/2/124781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ノーブルリージュ!

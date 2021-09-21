@@ -1,5 +1,7 @@
 # Neko to Watashi no Kinyoubi
 
+![neko-to-watashi-no-kinyoubi](https://cdn.myanimelist.net/images/manga/1/163559.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

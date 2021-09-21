@@ -1,5 +1,7 @@
 # Neko Ane.
 
+![neko-ane](https://cdn.myanimelist.net/images/manga/2/188954.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

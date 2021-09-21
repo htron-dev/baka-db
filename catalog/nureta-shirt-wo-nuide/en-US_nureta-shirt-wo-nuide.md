@@ -1,5 +1,7 @@
 # Nureta Shirt wo Nuide
 
+![nureta-shirt-wo-nuide](https://cdn.myanimelist.net/images/manga/3/71959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

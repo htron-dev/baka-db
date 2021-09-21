@@ -1,5 +1,7 @@
 # Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha
 
+![natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha](https://cdn.myanimelist.net/images/anime/1992/111560.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夏目友人帳 石起こしと怪しき来訪者

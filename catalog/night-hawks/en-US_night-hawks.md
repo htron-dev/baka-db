@@ -1,5 +1,7 @@
 # Night=Hawks!
 
+![night-hawks](https://cdn.myanimelist.net/images/manga/3/146109.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: NIGHT=HAWKS!

@@ -1,5 +1,7 @@
 # Bamford Koushakuke no Shitsuji
 
+![bamford-koushakuke-no-shitsuji](https://cdn.myanimelist.net/images/manga/3/80727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

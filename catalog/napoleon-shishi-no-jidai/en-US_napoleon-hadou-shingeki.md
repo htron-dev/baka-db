@@ -1,5 +1,7 @@
 # Napoleon: Hadou Shingeki
 
+![napoleon-hadou-shingeki](https://cdn.myanimelist.net/images/manga/3/92335.jpg)
+
 -   **type**: manga
 -   **original-name**: ナポレオン -覇道進撃-
 -   **start-date**: 2011-01-29

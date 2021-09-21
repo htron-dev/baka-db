@@ -1,5 +1,7 @@
 # Neko to Mata
 
+![neko-to-mata](https://cdn.myanimelist.net/images/anime/10/85474.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 67
 -   **original-name**: ね子とま太

@@ -1,5 +1,7 @@
 # Human Lost: Ningen Shikkaku
 
+![human-lost-ningen-shikkaku](https://cdn.myanimelist.net/images/anime/1815/104501.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: HUMAN LOST 人間失格

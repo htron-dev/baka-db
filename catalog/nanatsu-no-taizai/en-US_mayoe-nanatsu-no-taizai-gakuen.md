@@ -1,5 +1,7 @@
 # Mayoe! Nanatsu no Taizai Gakuen!
 
+![mayoe-nanatsu-no-taizai-gakuen](https://cdn.myanimelist.net/images/manga/1/184553.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 47

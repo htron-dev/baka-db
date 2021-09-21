@@ -1,5 +1,7 @@
 # Nogsaegjeoncha Hamos
 
+![nogsaegjeoncha-hamos](https://cdn.myanimelist.net/images/anime/3/86978.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 녹색전차 해모수

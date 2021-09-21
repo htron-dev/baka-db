@@ -1,5 +1,7 @@
 # Niji no Tani no Anne
 
+![niji-no-tani-no-anne](https://cdn.myanimelist.net/images/manga/2/183078.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 虹の谷のアン

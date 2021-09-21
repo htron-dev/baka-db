@@ -1,5 +1,7 @@
 # Nora to Zassou
 
+![nora-to-zassou](https://cdn.myanimelist.net/images/manga/3/213119.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Netrun-mon the Movie
 
+![netrun-mon-the-movie](https://cdn.myanimelist.net/images/anime/9/27246.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ねとらん者 THE MOVIE

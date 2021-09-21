@@ -1,5 +1,7 @@
 # Naka made Yasashiku Hotte
 
+![naka-made-yasashiku-hotte](https://cdn.myanimelist.net/images/manga/3/184709.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 中まで優しく掘って

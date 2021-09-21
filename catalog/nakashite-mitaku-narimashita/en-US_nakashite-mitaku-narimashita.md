@@ -1,5 +1,7 @@
 # Nakashite Mitaku Narimashita
 
+![nakashite-mitaku-narimashita](https://cdn.myanimelist.net/images/manga/3/195557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 泣かしてみたくなりました

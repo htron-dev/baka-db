@@ -1,5 +1,7 @@
 # Neko to Kurasu
 
+![neko-to-kurasu](https://cdn.myanimelist.net/images/manga/2/157119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

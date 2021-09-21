@@ -1,5 +1,7 @@
 # YoRHa Shinjuwan Kouka Sakusen Kiroku
 
+![yo-r-ha-shinjuwan-kouka-sakusen-kiroku](https://cdn.myanimelist.net/images/manga/1/243769.jpg)
+
 -   **type**: manga
 -   **original-name**: ヨルハ 真珠湾降下作戦記録
 -   **start-date**: 2020-12-26

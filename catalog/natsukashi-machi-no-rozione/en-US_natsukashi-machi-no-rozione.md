@@ -1,5 +1,7 @@
 # Natsukashi Machi no Rozione
 
+![natsukashi-machi-no-rozione](https://cdn.myanimelist.net/images/manga/2/32610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

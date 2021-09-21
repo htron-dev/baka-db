@@ -1,5 +1,7 @@
 # Norman
 
+![norman](https://cdn.myanimelist.net/images/manga/3/155665.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

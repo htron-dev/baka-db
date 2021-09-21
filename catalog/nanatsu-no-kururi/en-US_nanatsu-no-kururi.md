@@ -1,5 +1,7 @@
 # Nanatsu no Kururi
 
+![nanatsu-no-kururi](https://cdn.myanimelist.net/images/manga/3/207067.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Nantokashite Alguard
 
+![nantokashite-alguard](https://cdn.myanimelist.net/images/anime/5/37869.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: なんとかして アルガード

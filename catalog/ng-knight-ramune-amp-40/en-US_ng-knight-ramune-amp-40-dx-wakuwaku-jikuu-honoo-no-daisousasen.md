@@ -1,5 +1,7 @@
 # NG Knight Ramune &amp; 40 DX: Wakuwaku Jikuu - Honoo no Daisousasen
 
+![ng-knight-ramune-amp-40-dx-wakuwaku-jikuu-honoo-no-daisousasen](https://cdn.myanimelist.net/images/anime/8/21575.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: NG 騎士ラムネ&40DX ワクワク時空 炎の大捜査戦

@@ -1,5 +1,7 @@
 # Nagai Yakusoku
 
+![nagai-yakusoku](https://cdn.myanimelist.net/images/manga/3/176283.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 永い約束

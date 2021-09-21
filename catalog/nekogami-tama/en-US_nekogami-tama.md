@@ -1,5 +1,7 @@
 # Nekogami Tama
 
+![nekogami-tama](https://cdn.myanimelist.net/images/manga/2/35157.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫神たま
 

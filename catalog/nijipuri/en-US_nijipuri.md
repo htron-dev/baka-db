@@ -1,5 +1,7 @@
 # Nijipuri
 
+![nijipuri](https://cdn.myanimelist.net/images/manga/1/24699.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Nanocore 3rd Season
 
+![nanocore-3rd-season](https://cdn.myanimelist.net/images/anime/13/88390.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 纳米核心 黄昏篇

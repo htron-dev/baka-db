@@ -1,5 +1,7 @@
 # Nettai Déraciné Houshokuten
 
+![nettai-deracine-houshokuten](https://cdn.myanimelist.net/images/manga/1/192181.jpg)
+
 -   **type**: manga
 -   **original-name**: 熱帯デラシネ宝飾店
 -   **start-date**: 2016-04-28

@@ -1,5 +1,7 @@
 # Navia Dratp
 
+![navia-dratp](https://cdn.myanimelist.net/images/anime/3/11572.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: NAVIA DRATP

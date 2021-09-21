@@ -1,5 +1,7 @@
 # Nekketsu Tantei Jimusho
 
+![nekketsu-tantei-jimusho](https://cdn.myanimelist.net/images/anime/10/54617.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 熱血探偵事務所

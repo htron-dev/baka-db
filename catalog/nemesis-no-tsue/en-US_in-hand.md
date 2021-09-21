@@ -1,5 +1,7 @@
 # In Hand
 
+![in-hand](https://cdn.myanimelist.net/images/manga/2/217080.jpg)
+
 -   **type**: manga
 -   **original-name**: インハンド
 -   **start-date**: 2018-10-23

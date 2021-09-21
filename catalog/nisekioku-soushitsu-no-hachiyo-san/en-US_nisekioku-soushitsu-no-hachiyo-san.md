@@ -1,5 +1,7 @@
 # Nisekioku Soushitsu no Hachiyo-san
 
+![nisekioku-soushitsu-no-hachiyo-san](https://cdn.myanimelist.net/images/manga/3/218333.jpg)
+
 -   **type**: manga
 -   **original-name**: ニセ記憶喪失の蜂夜さん
 -   **start-date**: 2018-09-27

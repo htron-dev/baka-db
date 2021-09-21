@@ -1,5 +1,7 @@
 # Nyancos: Hello! Our Brilliant Future Digest
 
+![nyancos-hello-our-brilliant-future-digest](https://cdn.myanimelist.net/images/anime/3/80347.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ニャンコス Hello! Our Brilliant Future Digest

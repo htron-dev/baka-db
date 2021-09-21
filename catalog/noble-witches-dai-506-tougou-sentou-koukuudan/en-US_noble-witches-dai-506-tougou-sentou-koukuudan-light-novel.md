@@ -1,5 +1,7 @@
 # Noble Witches: Dai-506 Tougou Sentou Koukuudan
 
+![noble-witches-dai-506-tougou-sentou-koukuudan](https://cdn.myanimelist.net/images/manga/1/163952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Nande Neteru Ore no Chinko Nameta no?
 
+![nande-neteru-ore-no-chinko-nameta-no](https://cdn.myanimelist.net/images/manga/1/245730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

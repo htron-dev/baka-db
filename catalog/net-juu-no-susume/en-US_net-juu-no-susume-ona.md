@@ -1,5 +1,7 @@
 # Net-juu no Susume
 
+![net-juu-no-susume](https://cdn.myanimelist.net/images/anime/3/87463.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ネト充のススメ

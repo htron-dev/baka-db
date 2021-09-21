@@ -1,5 +1,7 @@
 # Nishikida Keibu wa Dorobou ga Osuki
 
+![nishikida-keibu-wa-dorobou-ga-osuki](https://cdn.myanimelist.net/images/manga/2/233869.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

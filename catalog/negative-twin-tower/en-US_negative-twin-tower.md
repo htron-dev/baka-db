@@ -1,5 +1,7 @@
 # Negative Twin-Tower!
 
+![negative-twin-tower](https://cdn.myanimelist.net/images/manga/3/25837.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ネガティブ・ツインタワー！

@@ -1,5 +1,7 @@
 # Nobunaga wo Koroshita Otoko: Honnouji no Hen 431-nenme no Shinjitsu
 
+![nobunaga-wo-koroshita-otoko-honnouji-no-hen-431-nenme-no-shinjitsu](https://cdn.myanimelist.net/images/manga/3/196372.jpg)
+
 -   **type**: manga
 -   **original-name**: 信長を殺した男～本能寺の変 431 年目の真実～
 -   **start-date**: 2016-08-02

@@ -1,5 +1,7 @@
 # Nejimage Factor
 
+![nejimage-factor](https://cdn.myanimelist.net/images/manga/2/155743.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Nibiki no Neko to Genkina Kazoku
 
+![nibiki-no-neko-to-genkina-kazoku](https://cdn.myanimelist.net/images/anime/10/74557.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 二匹の猫と元気な家族

@@ -1,5 +1,7 @@
 # Nogizaka Haruka no Himitsu
 
+![nogizaka-haruka-no-himitsu](https://cdn.myanimelist.net/images/anime/11/56965.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 乃木坂春香の秘密

@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Imashime no Fukkatsu
 
+![nanatsu-no-taizai-imashime-no-fukkatsu](https://cdn.myanimelist.net/images/anime/11/90089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 七つの大罪 戒めの復活

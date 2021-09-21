@@ -1,5 +1,7 @@
 # Nisemono Koushu no Koukyuu Jijou
 
+![nisemono-koushu-no-koukyuu-jijou](https://cdn.myanimelist.net/images/manga/3/153318.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: にせもの公主の後宮事情

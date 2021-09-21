@@ -1,5 +1,7 @@
 # Nemuri Ouji Series
 
+![nemuri-ouji-series](https://cdn.myanimelist.net/images/manga/1/156945.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # New Sexy Simpleton
 
+![new-sexy-simpleton](https://cdn.myanimelist.net/images/manga/2/9343.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 45

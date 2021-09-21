@@ -1,5 +1,7 @@
 # Nekomi no Kurashi
 
+![nekomi-no-kurashi](https://cdn.myanimelist.net/images/manga/1/230484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

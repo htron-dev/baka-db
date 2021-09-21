@@ -1,5 +1,7 @@
 # Ore wa Busamen: Nekotsuzuri
 
+![ore-wa-busamen-nekotsuzuri](https://cdn.myanimelist.net/images/manga/1/182212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

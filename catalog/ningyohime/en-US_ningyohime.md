@@ -1,5 +1,7 @@
 # Ningyohime
 
+![ningyohime](https://cdn.myanimelist.net/images/anime/12/84020.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: にんぎょひめ

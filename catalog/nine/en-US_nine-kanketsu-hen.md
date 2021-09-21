@@ -1,5 +1,7 @@
 # Nine: Kanketsu-hen
 
+![nine-kanketsu-hen](https://cdn.myanimelist.net/images/anime/5/25617.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナイン 完結編

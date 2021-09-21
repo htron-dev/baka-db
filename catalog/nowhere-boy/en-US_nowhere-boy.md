@@ -1,5 +1,7 @@
 # Nowhere Boy
 
+![nowhere-boy](https://cdn.myanimelist.net/images/manga/2/73319.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 31

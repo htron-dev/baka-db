@@ -1,5 +1,7 @@
 # Nanashi wa Ittai Dare deshou?
 
+![nanashi-wa-ittai-dare-deshou](https://cdn.myanimelist.net/images/manga/3/107513.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

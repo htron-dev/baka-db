@@ -1,5 +1,7 @@
 # Nomiya Keibuho wa Yurusanai
 
+![nomiya-keibuho-wa-yurusanai](https://cdn.myanimelist.net/images/manga/2/223312.jpg)
+
 -   **type**: manga
 -   **original-name**: 野宮警部補は許さない
 -   **start-date**: 2018-10-08

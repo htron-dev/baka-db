@@ -1,5 +1,7 @@
 # Niraikanai: Harukanaru Ne no Kuni
 
+![niraikanai-harukanaru-ne-no-kuni](https://cdn.myanimelist.net/images/manga/1/141041.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 67

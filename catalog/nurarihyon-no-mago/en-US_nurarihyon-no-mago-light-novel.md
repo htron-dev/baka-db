@@ -1,5 +1,7 @@
 # Nurarihyon no Mago
 
+![nurarihyon-no-mago](https://cdn.myanimelist.net/images/manga/1/35898.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 13

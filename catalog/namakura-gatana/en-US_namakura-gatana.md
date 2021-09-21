@@ -1,5 +1,7 @@
 # Namakura Gatana
 
+![namakura-gatana](https://cdn.myanimelist.net/images/anime/4/15280.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: なまくら刀（塙凹内名刀之巻）

@@ -1,5 +1,7 @@
 # Taku Boda
 
+![taku-boda](https://cdn.myanimelist.net/images/anime/4/72787.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タクボーダ

@@ -1,5 +1,7 @@
 # Nigesokone
 
+![nigesokone](https://cdn.myanimelist.net/images/manga/3/185112.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

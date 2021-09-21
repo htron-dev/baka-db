@@ -1,5 +1,7 @@
 # Naomi damon: After 16
 
+![naomi-damon-after-16](https://cdn.myanimelist.net/images/manga/1/229503.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ナオミだもん After16

@@ -1,5 +1,7 @@
 # Netsujou Innocence
 
+![netsujou-innocence](https://cdn.myanimelist.net/images/manga/1/113939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

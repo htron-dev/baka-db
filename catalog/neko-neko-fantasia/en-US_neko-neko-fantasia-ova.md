@@ -1,5 +1,7 @@
 # Neko Neko Fantasia
 
+![neko-neko-fantasia](https://cdn.myanimelist.net/images/anime/7/22666.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ねこ・ねこ・幻想曲

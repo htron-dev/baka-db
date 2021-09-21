@@ -1,5 +1,7 @@
 # Neko de Ningyo wo Tsuru Hanashi
 
+![neko-de-ningyo-wo-tsuru-hanashi](https://cdn.myanimelist.net/images/manga/2/215634.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

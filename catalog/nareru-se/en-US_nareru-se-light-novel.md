@@ -1,5 +1,7 @@
 # Nareru! SE
 
+![nareru-se](https://cdn.myanimelist.net/images/manga/3/164692.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **original-name**: なれる！SE

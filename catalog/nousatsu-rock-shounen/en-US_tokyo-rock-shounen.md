@@ -1,5 +1,7 @@
 # Tokyo Rock Shounen
 
+![tokyo-rock-shounen](https://cdn.myanimelist.net/images/manga/1/83168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

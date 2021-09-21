@@ -1,5 +1,7 @@
 # Nishiki-kun no Nasugamama
 
+![nishiki-kun-no-nasugamama](https://cdn.myanimelist.net/images/manga/1/103573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

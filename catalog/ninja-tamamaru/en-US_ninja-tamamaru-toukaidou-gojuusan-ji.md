@@ -1,5 +1,7 @@
 # Ninja Tamamaru: Toukaidou Gojuusan-ji
 
+![ninja-tamamaru-toukaidou-gojuusan-ji](https://cdn.myanimelist.net/images/anime/7/84701.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 忍者玉丸 東海道五十三次

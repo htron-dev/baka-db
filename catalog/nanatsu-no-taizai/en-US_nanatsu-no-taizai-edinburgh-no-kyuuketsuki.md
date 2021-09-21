@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Edinburgh no Kyuuketsuki
 
+![nanatsu-no-taizai-edinburgh-no-kyuuketsuki](https://cdn.myanimelist.net/images/manga/1/153032.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 七つの大罪 エジンバラの吸血鬼

@@ -1,5 +1,7 @@
 # Nagata-sensei wa Oyobigoshi
 
+![nagata-sensei-wa-oyobigoshi](https://cdn.myanimelist.net/images/manga/1/142089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

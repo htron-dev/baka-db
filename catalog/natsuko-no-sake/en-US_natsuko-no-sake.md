@@ -1,5 +1,7 @@
 # Natsuko no Sake
 
+![natsuko-no-sake](https://cdn.myanimelist.net/images/manga/3/6642.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 131

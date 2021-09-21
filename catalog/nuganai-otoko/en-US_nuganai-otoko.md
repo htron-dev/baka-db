@@ -1,5 +1,7 @@
 # Nuganai Otoko
 
+![nuganai-otoko](https://cdn.myanimelist.net/images/manga/5/50801.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 39

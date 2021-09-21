@@ -1,5 +1,7 @@
 # Ninin ga Shinobuden
 
+![ninin-ga-shinobuden](https://cdn.myanimelist.net/images/manga/3/143955.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 68

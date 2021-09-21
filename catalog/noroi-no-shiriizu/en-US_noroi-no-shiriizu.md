@@ -1,5 +1,7 @@
 # Noroi no Shiriizu
 
+![noroi-no-shiriizu](https://cdn.myanimelist.net/images/manga/3/19170.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 呪いのシリーズ

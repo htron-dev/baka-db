@@ -1,5 +1,7 @@
 # Nanako Kaitai Shinsho
 
+![nanako-kaitai-shinsho](https://cdn.myanimelist.net/images/manga/3/81251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 菜々子解体診書

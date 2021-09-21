@@ -1,5 +1,7 @@
 # Nanohanabatake de Tsukamaete
 
+![nanohanabatake-de-tsukamaete](https://cdn.myanimelist.net/images/manga/3/246149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

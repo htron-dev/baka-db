@@ -1,5 +1,7 @@
 # Negibouzu no Asatarou
 
+![negibouzu-no-asatarou](https://cdn.myanimelist.net/images/anime/8/29843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: ねぎぼうずのあさたろう

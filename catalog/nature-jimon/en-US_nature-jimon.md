@@ -1,5 +1,7 @@
 # Nature Jimon
 
+![nature-jimon](https://cdn.myanimelist.net/images/manga/1/46353.jpg)
+
 -   **type**: manga
 -   **original-name**: ネイチャージモン
 

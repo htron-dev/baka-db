@@ -1,5 +1,7 @@
 # News x It
 
+![news-x-it](https://cdn.myanimelist.net/images/manga/1/165909.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

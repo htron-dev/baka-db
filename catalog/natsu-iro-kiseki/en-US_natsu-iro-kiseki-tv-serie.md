@@ -1,5 +1,7 @@
 # Natsu-iro Kiseki
 
+![natsu-iro-kiseki](https://cdn.myanimelist.net/images/anime/5/53913.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 夏色キセキ

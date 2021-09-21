@@ -1,5 +1,7 @@
 # Gekijouban Naruto: Dai Gekitotsu! Maboroshi no Chitei Iseki Datteba yo
 
+![gekijouban-naruto-dai-gekitotsu-maboroshi-no-chitei-iseki-datteba-yo](https://cdn.myanimelist.net/images/manga/2/228874.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 NARUTO 大激突!幻の地底遺跡だってばよ

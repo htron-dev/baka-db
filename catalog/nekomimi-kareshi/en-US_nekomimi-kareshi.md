@@ -1,5 +1,7 @@
 # Nekomimi×Kareshi
 
+![nekomimi-kareshi](https://cdn.myanimelist.net/images/manga/1/46893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ネコ耳 × 彼氏

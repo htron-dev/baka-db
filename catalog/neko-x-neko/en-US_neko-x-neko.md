@@ -1,5 +1,7 @@
 # Neko x Neko
 
+![neko-x-neko](https://cdn.myanimelist.net/images/manga/3/223501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

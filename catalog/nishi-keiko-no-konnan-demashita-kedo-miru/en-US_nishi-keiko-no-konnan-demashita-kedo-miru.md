@@ -1,5 +1,7 @@
 # Nishi Keiko no Konnan Demashita kedo, Miru?
 
+![nishi-keiko-no-konnan-demashita-kedo-miru](https://cdn.myanimelist.net/images/manga/1/149385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

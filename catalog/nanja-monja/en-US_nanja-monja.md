@@ -1,5 +1,7 @@
 # Nanja Monja
 
+![nanja-monja](https://cdn.myanimelist.net/images/manga/3/39860.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

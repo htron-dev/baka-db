@@ -1,5 +1,7 @@
 # Nanami-chan 6th Series
 
+![nanami-chan-6th-series](https://cdn.myanimelist.net/images/anime/1129/103066.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ななみちゃん 第 6 シリーズ

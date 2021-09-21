@@ -1,5 +1,7 @@
 # Nobelu
 
+![nobelu](https://cdn.myanimelist.net/images/manga/1/195926.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 76

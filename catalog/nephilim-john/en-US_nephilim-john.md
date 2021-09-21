@@ -1,5 +1,7 @@
 # Nephilim John
 
+![nephilim-john](https://cdn.myanimelist.net/images/manga/4/39184.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 42

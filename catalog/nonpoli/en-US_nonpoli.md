@@ -1,5 +1,7 @@
 # Nonpoli
 
+![nonpoli](https://cdn.myanimelist.net/images/manga/3/239013.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

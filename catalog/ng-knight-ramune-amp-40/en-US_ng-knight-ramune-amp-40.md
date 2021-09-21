@@ -1,5 +1,7 @@
 # NG Knight Ramune &amp; 40
 
+![ng-knight-ramune-amp-40](https://cdn.myanimelist.net/images/anime/2/46723.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: NG 騎士ラムネ＆４０

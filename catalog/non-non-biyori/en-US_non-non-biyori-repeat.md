@@ -1,5 +1,7 @@
 # Non Non Biyori Repeat
 
+![non-non-biyori-repeat](https://cdn.myanimelist.net/images/anime/9/75105.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: のんのんびより りぴーと

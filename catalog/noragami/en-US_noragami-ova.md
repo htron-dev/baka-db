@@ -1,5 +1,7 @@
 # Noragami OVA
 
+![noragami-ova](https://cdn.myanimelist.net/images/anime/7/77177.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ノラガミ OAD

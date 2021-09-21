@@ -1,5 +1,7 @@
 # Nori Tama
 
+![nori-tama](https://cdn.myanimelist.net/images/manga/3/41998.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: のりタマ

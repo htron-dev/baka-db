@@ -1,5 +1,7 @@
 # Nekome Yobanashi
 
+![nekome-yobanashi](https://cdn.myanimelist.net/images/manga/2/153385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 猫眼夜話

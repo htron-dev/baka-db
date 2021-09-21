@@ -1,5 +1,7 @@
 # Ninshin 17-kagetsu!: 40-dai de Haha ni Naru!
 
+![ninshin-17-kagetsu-40-dai-de-haha-ni-naru](https://cdn.myanimelist.net/images/manga/3/149501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

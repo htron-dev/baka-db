@@ -1,5 +1,7 @@
 # 22XX
 
+![22-xx](https://cdn.myanimelist.net/images/manga/2/20384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

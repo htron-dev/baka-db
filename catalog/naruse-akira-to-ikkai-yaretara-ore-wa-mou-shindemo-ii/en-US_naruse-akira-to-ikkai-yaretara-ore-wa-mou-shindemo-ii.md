@@ -1,5 +1,7 @@
 # Naruse Akira to Ikkai Yaretara Ore wa Mou Shindemo Ii
 
+![naruse-akira-to-ikkai-yaretara-ore-wa-mou-shindemo-ii](https://cdn.myanimelist.net/images/manga/1/225468.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

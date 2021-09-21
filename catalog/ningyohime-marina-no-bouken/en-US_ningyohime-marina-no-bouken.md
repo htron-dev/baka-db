@@ -1,5 +1,7 @@
 # Ningyohime Marina no Bouken
 
+![ningyohime-marina-no-bouken](https://cdn.myanimelist.net/images/anime/6/69743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 人魚姫 マリーナの冒険

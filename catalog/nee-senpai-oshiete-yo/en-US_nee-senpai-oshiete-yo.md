@@ -1,5 +1,7 @@
 # Nee Senpai, Oshiete yo
 
+![nee-senpai-oshiete-yo](https://cdn.myanimelist.net/images/manga/3/107733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

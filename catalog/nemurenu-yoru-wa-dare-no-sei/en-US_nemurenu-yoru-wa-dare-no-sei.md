@@ -1,5 +1,7 @@
 # Nemurenu Yoru wa Dare no Sei
 
+![nemurenu-yoru-wa-dare-no-sei](https://cdn.myanimelist.net/images/manga/1/22474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

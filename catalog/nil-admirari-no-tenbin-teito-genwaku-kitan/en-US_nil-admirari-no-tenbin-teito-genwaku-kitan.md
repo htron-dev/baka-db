@@ -1,5 +1,7 @@
 # Nil Admirari no Tenbin: Teito Genwaku Kitan
 
+![nil-admirari-no-tenbin-teito-genwaku-kitan](https://cdn.myanimelist.net/images/manga/2/210494.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Cocomong 3
 
+![cocomong-3](https://cdn.myanimelist.net/images/anime/1137/93099.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 코코몽3

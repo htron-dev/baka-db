@@ -1,5 +1,7 @@
 # Nekoronde ID
 
+![nekoronde-id](https://cdn.myanimelist.net/images/anime/2/81497.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ねころんで ID

@@ -1,5 +1,7 @@
 # Ninja Hattori-kun
 
+![ninja-hattori-kun](https://cdn.myanimelist.net/images/manga/1/203373.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: 忍者ハットリくん

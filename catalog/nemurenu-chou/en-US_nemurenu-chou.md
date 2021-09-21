@@ -1,5 +1,7 @@
 # Nemurenu Chou
 
+![nemurenu-chou](https://cdn.myanimelist.net/images/manga/1/6271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

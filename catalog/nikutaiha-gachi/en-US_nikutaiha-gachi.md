@@ -1,5 +1,7 @@
 # Nikutaiha Gachi!
 
+![nikutaiha-gachi](https://cdn.myanimelist.net/images/manga/2/145079.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

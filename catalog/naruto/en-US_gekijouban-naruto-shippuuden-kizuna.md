@@ -1,5 +1,7 @@
 # Gekijouban Naruto: Shippuuden - Kizuna
 
+![gekijouban-naruto-shippuuden-kizuna](https://cdn.myanimelist.net/images/manga/1/228882.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 NARUTO 疾風伝 絆

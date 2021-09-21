@@ -1,5 +1,7 @@
 # Narutaru: Mukuro Naru Hoshi Tama Taru Ko
 
+![narutaru-mukuro-naru-hoshi-tama-taru-ko](https://cdn.myanimelist.net/images/anime/10/12023.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: なるたる ～骸なる星・珠たる子～

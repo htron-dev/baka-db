@@ -1,5 +1,7 @@
 # Natsunokumo
 
+![natsunokumo](https://cdn.myanimelist.net/images/manga/2/27627.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ナツノクモ

@@ -1,5 +1,7 @@
 # Nessa no Umi ni Manekarete
 
+![nessa-no-umi-ni-manekarete](https://cdn.myanimelist.net/images/manga/3/18655.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 熱砂の海に抱かれて

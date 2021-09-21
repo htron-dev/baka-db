@@ -1,5 +1,7 @@
 # Neko to Gohan to Souteika
 
+![neko-to-gohan-to-souteika](https://cdn.myanimelist.net/images/manga/2/190326.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫とごはんと装丁家
 -   **start-date**: 2015-04-28

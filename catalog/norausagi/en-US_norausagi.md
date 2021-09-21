@@ -1,5 +1,7 @@
 # Norausagi
 
+![norausagi](https://cdn.myanimelist.net/images/manga/2/152052.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 46

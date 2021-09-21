@@ -1,5 +1,7 @@
 # Mermaid Forest OVA
 
+![mermaid-forest-ova](https://cdn.myanimelist.net/images/anime/12/55075.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 人魚の森

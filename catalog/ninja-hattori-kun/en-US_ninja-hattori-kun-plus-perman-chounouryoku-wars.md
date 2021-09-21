@@ -1,5 +1,7 @@
 # Ninja Hattori-kun Plus Perman: Chounouryoku Wars
 
+![ninja-hattori-kun-plus-perman-chounouryoku-wars](https://cdn.myanimelist.net/images/anime/3/70411.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍者ハットリくん＋パーマン 超能力ウォーズ

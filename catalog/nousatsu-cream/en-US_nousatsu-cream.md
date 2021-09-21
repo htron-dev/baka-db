@@ -1,5 +1,7 @@
 # Nousatsu Cream
 
+![nousatsu-cream](https://cdn.myanimelist.net/images/manga/4/3103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Nogiku no Haka
 
+![nogiku-no-haka](https://cdn.myanimelist.net/images/anime/7/66203.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 野菊の墓

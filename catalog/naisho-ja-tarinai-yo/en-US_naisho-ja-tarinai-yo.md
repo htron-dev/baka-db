@@ -1,5 +1,7 @@
 # Naisho ja Tarinai yo
 
+![naisho-ja-tarinai-yo](https://cdn.myanimelist.net/images/manga/3/127427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Nanako-san-teki na Nichijou Dash!!
 
+![nanako-san-teki-na-nichijou-dash](https://cdn.myanimelist.net/images/manga/2/172693.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

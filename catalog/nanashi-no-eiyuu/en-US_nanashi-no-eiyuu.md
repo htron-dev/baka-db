@@ -1,5 +1,7 @@
 # Nanashi no Eiyuu
 
+![nanashi-no-eiyuu](https://cdn.myanimelist.net/images/manga/2/201626.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 名無しの英雄
 -   **start-date**: 2017-10-16

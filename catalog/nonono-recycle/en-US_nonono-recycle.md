@@ -1,5 +1,7 @@
 # Nonono Recycle
 
+![nonono-recycle](https://cdn.myanimelist.net/images/manga/3/14178.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: のののリサイクル

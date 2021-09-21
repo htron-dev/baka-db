@@ -1,5 +1,7 @@
 # Nakigoe Kikasete? Kanade-san
 
+![nakigoe-kikasete-kanade-san](https://cdn.myanimelist.net/images/manga/1/245881.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: なきごえ聞かせて? かなでさん

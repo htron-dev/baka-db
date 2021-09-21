@@ -1,5 +1,7 @@
 # Namae wa Mada Nai
 
+![namae-wa-mada-nai](https://cdn.myanimelist.net/images/manga/2/99391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

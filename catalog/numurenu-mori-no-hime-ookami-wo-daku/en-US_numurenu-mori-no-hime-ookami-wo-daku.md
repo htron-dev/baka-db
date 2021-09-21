@@ -1,5 +1,7 @@
 # Numurenu Mori no Hime, Ookami wo Daku
 
+![numurenu-mori-no-hime-ookami-wo-daku](https://cdn.myanimelist.net/images/manga/3/39358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

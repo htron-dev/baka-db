@@ -1,5 +1,7 @@
 # Ninja Tensei Shinobi Kill
 
+![ninja-tensei-shinobi-kill](https://cdn.myanimelist.net/images/manga/2/223650.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

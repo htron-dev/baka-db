@@ -1,5 +1,7 @@
 # number24 Recap
 
+![number-24-recap](https://cdn.myanimelist.net/images/anime/1220/106820.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナンバー・トゥーフォー 総集編

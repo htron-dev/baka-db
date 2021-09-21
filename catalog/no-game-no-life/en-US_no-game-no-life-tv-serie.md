@@ -1,5 +1,7 @@
 # No Game No Life
 
+![no-game-no-life](https://cdn.myanimelist.net/images/anime/1074/111944.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ノーゲーム・ノーライフ

@@ -1,5 +1,7 @@
 # Nobara (OVA)
 
+![nobara-ova](https://cdn.myanimelist.net/images/anime/5/84590.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 野ばら

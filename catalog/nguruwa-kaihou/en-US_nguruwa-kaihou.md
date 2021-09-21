@@ -1,5 +1,7 @@
 # Nguruwa Kaihou
 
+![nguruwa-kaihou](https://cdn.myanimelist.net/images/manga/3/65043.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

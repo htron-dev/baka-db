@@ -1,5 +1,7 @@
 # Nagareboshi Paradise
 
+![nagareboshi-paradise](https://cdn.myanimelist.net/images/manga/2/106229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

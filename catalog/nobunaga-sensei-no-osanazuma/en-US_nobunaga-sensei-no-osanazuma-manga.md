@@ -1,5 +1,7 @@
 # Nobunaga-sensei no Osanazuma
 
+![nobunaga-sensei-no-osanazuma](https://cdn.myanimelist.net/images/manga/1/203234.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

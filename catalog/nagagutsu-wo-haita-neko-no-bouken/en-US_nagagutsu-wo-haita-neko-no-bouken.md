@@ -1,5 +1,7 @@
 # Nagagutsu wo Haita Neko no Bouken
 
+![nagagutsu-wo-haita-neko-no-bouken](https://cdn.myanimelist.net/images/anime/2/69723.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 長靴をはいた猫の冒険

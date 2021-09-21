@@ -1,5 +1,7 @@
 # Naze Ikiru: Rennyo Shounin to Yoshizaki Enjou
 
+![naze-ikiru-rennyo-shounin-to-yoshizaki-enjou](https://cdn.myanimelist.net/images/anime/12/79603.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: なぜ生きる ─ 蓮如上人と吉崎炎上 ─

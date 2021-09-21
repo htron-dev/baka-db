@@ -1,5 +1,7 @@
 # New York Trip
 
+![new-york-trip](https://cdn.myanimelist.net/images/anime/10/72722.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ニューヨーク・トリップ

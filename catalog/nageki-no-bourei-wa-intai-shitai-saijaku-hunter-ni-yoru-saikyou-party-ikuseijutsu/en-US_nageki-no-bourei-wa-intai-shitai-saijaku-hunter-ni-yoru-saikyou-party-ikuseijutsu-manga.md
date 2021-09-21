@@ -1,5 +1,7 @@
 # Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu
 
+![nageki-no-bourei-wa-intai-shitai-saijaku-hunter-ni-yoru-saikyou-party-ikuseijutsu](https://cdn.myanimelist.net/images/manga/3/233330.jpg)
+
 -   **type**: manga
 -   **original-name**: 嘆きの亡霊は引退したい ～最弱ハンターによる最強パーティ育成術～
 -   **start-date**: 2019-04-27

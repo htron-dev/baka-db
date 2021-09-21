@@ -1,5 +1,7 @@
 # Nyuuin Bokki Monogatari: Odaijini!
 
+![nyuuin-bokki-monogatari-odaijini](https://cdn.myanimelist.net/images/anime/12/45444.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 入院ボッキ物語 おだいじに!

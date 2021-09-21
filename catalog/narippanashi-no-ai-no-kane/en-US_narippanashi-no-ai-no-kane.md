@@ -1,5 +1,7 @@
 # Narippanashi no Ai no Kane
 
+![narippanashi-no-ai-no-kane](https://cdn.myanimelist.net/images/manga/2/100317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ni no Hime no Monogatari
 
+![ni-no-hime-no-monogatari](https://cdn.myanimelist.net/images/manga/1/19697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

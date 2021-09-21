@@ -1,5 +1,7 @@
 # Aoba Jitensha-ten to Ikou yo!
 
+![aoba-jitensha-ten-to-ikou-yo](https://cdn.myanimelist.net/images/manga/2/215801.jpg)
+
 -   **type**: manga
 -   **original-name**: アオバ自転車店といこうよ!
 -   **start-date**: 2017-05-30

@@ -1,5 +1,7 @@
 # Nihonjin no Shiranai Nihongo
 
+![nihonjin-no-shiranai-nihongo](https://cdn.myanimelist.net/images/manga/2/212001.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

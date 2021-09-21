@@ -1,5 +1,7 @@
 # Natsu-iro Asagao Residence
 
+![natsu-iro-asagao-residence](https://cdn.myanimelist.net/images/manga/3/128783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

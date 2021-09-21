@@ -1,5 +1,7 @@
 # Nidaime wa Cosplayer
 
+![nidaime-wa-cosplayer](https://cdn.myanimelist.net/images/manga/1/38030.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

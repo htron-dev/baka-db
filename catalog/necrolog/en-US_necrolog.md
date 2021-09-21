@@ -1,5 +1,7 @@
 # Necrolog
 
+![necrolog](https://cdn.myanimelist.net/images/manga/1/121497.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

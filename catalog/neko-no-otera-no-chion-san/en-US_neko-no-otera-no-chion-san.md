@@ -1,5 +1,7 @@
 # Neko no Otera no Chion-san
 
+![neko-no-otera-no-chion-san](https://cdn.myanimelist.net/images/manga/2/187071.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 79

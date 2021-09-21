@@ -1,5 +1,7 @@
 # Namida ni Nureta Koi
 
+![namida-ni-nureta-koi](https://cdn.myanimelist.net/images/manga/3/45027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

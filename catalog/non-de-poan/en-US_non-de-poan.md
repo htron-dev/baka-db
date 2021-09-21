@@ -1,5 +1,7 @@
 # Non de Poan
 
+![non-de-poan](https://cdn.myanimelist.net/images/manga/2/161213.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

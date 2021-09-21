@@ -1,5 +1,7 @@
 # Napoleon: Shishi no Jidai
 
+![napoleon-shishi-no-jidai](https://cdn.myanimelist.net/images/manga/1/70327.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: ナポレオン ─ 獅子の時代 ─

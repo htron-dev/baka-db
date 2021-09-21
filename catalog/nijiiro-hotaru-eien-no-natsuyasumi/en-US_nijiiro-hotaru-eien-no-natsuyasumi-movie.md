@@ -1,5 +1,7 @@
 # Nijiiro Hotaru: Eien no Natsuyasumi
 
+![nijiiro-hotaru-eien-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/13/37541.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 虹色ほたる~永遠の夏休み~

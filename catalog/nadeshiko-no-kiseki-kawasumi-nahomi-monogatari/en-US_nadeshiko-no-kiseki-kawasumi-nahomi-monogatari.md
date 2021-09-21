@@ -1,5 +1,7 @@
 # Nadeshiko no Kiseki - Kawasumi Nahomi Monogatari
 
+![nadeshiko-no-kiseki-kawasumi-nahomi-monogatari](https://cdn.myanimelist.net/images/manga/3/82386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: なでしこのキセキ 川澄奈穂美物語

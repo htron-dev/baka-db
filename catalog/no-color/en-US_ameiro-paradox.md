@@ -1,5 +1,7 @@
 # Ameiro Paradox
 
+![ameiro-paradox](https://cdn.myanimelist.net/images/manga/5/64901.jpg)
+
 -   **type**: manga
 -   **original-name**: 飴色パラドックス
 -   **start-date**: 2009-12-14

@@ -1,5 +1,7 @@
 # Necro;Chronicle
 
+![necro-chronicle](https://cdn.myanimelist.net/images/manga/2/158558.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

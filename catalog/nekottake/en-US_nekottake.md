@@ -1,5 +1,7 @@
 # Nekottake!
 
+![nekottake](https://cdn.myanimelist.net/images/manga/3/220839.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

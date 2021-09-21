@@ -1,5 +1,7 @@
 # Ni no Kuni
 
+![ni-no-kuni](https://cdn.myanimelist.net/images/anime/1203/101637.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二ノ国

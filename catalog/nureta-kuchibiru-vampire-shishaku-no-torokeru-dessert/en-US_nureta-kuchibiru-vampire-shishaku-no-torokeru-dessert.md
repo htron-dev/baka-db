@@ -1,5 +1,7 @@
 # Nureta Kuchibiru: Vampire Shishaku no Torokeru Dessert
 
+![nureta-kuchibiru-vampire-shishaku-no-torokeru-dessert](https://cdn.myanimelist.net/images/manga/1/195065.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Nihon Chinbotsu 2020
 
+![nihon-chinbotsu-2020](https://cdn.myanimelist.net/images/anime/1989/107335.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 日本沈没 2020

@@ -1,5 +1,7 @@
 # Nasu: Andalusia no Natsu
 
+![nasu-andalusia-no-natsu](https://cdn.myanimelist.net/images/anime/3/4049.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 茄子 アンダルシアの夏

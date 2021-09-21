@@ -1,5 +1,7 @@
 # Kuroneko Kareshi no Amaekata
 
+![kuroneko-kareshi-no-amaekata](https://cdn.myanimelist.net/images/manga/2/100763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

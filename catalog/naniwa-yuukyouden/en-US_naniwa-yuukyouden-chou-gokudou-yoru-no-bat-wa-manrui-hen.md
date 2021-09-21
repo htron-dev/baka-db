@@ -1,5 +1,7 @@
 # Naniwa Yuukyouden: Chou Gokudou! Yoru no Bat wa Manrui-hen
 
+![naniwa-yuukyouden-chou-gokudou-yoru-no-bat-wa-manrui-hen](https://cdn.myanimelist.net/images/anime/13/52761.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: なにわ遊侠伝: 超極道!夜のバットはマン塁篇

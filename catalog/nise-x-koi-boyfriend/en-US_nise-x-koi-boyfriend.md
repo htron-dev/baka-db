@@ -1,5 +1,7 @@
 # Nise x Koi Boyfriend
 
+![nise-x-koi-boyfriend](https://cdn.myanimelist.net/images/manga/1/142981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

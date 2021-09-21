@@ -1,5 +1,7 @@
 # Neji to Lantern
 
+![neji-to-lantern](https://cdn.myanimelist.net/images/manga/2/36022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

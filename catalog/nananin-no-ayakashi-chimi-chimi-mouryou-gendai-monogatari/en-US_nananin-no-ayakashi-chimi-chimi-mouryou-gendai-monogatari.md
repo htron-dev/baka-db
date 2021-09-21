@@ -1,5 +1,7 @@
 # Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari
 
+![nananin-no-ayakashi-chimi-chimi-mouryou-gendai-monogatari](https://cdn.myanimelist.net/images/anime/8/82618.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ななにんのあやかし-ちみちみ魍魎!! 現代物語-

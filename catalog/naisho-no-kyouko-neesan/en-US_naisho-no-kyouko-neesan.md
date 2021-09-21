@@ -1,5 +1,7 @@
 # Naisho no Kyouko-neesan
 
+![naisho-no-kyouko-neesan](https://cdn.myanimelist.net/images/manga/1/233373.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

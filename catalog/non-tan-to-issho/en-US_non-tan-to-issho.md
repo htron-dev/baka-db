@@ -1,5 +1,7 @@
 # Non-tan to Issho
 
+![non-tan-to-issho](https://cdn.myanimelist.net/images/anime/8/47021.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 263
 -   **original-name**: ノンタンといっしょ

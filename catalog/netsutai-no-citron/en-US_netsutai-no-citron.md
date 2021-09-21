@@ -1,5 +1,7 @@
 # Netsutai no Citron
 
+![netsutai-no-citron](https://cdn.myanimelist.net/images/manga/5/22594.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Nanaokuen wo Te ni Ireta Boku ni Arigachi na Koto.
 
+![nanaokuen-wo-te-ni-ireta-boku-ni-arigachi-na-koto](https://cdn.myanimelist.net/images/manga/2/220995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

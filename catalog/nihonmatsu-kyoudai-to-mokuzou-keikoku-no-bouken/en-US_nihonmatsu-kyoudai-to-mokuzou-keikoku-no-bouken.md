@@ -1,5 +1,7 @@
 # Nihonmatsu Kyoudai to Mokuzou Keikoku no Bouken
 
+![nihonmatsu-kyoudai-to-mokuzou-keikoku-no-bouken](https://cdn.myanimelist.net/images/manga/3/205444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

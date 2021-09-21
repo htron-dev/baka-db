@@ -1,5 +1,7 @@
 # Navagraha: DefenD 9 Triggers
 
+![navagraha-defen-d-9-triggers](https://cdn.myanimelist.net/images/manga/3/172437.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

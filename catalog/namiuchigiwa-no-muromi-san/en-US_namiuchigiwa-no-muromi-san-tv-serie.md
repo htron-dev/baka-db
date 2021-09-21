@@ -1,5 +1,7 @@
 # Namiuchigiwa no Muromi-san
 
+![namiuchigiwa-no-muromi-san](https://cdn.myanimelist.net/images/anime/2/74998.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 波打際のむろみさん

@@ -1,5 +1,7 @@
 # Nounai Kakutou Akiba Shoot
 
+![nounai-kakutou-akiba-shoot](https://cdn.myanimelist.net/images/manga/2/39624.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 脳内格闘アキバシュート

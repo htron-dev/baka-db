@@ -1,5 +1,7 @@
 # Neko ga Kureta Marui Shiawase
 
+![neko-ga-kureta-marui-shiawase](https://cdn.myanimelist.net/images/anime/10/85878.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 猫がくれたまぁるいしあわせ

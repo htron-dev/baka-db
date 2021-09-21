@@ -1,5 +1,7 @@
 # Nerawareta Gakuen
 
+![nerawareta-gakuen](https://cdn.myanimelist.net/images/anime/2/43807.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ねらわれた学園

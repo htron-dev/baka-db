@@ -1,5 +1,7 @@
 # Nekomimi Days
 
+![nekomimi-days](https://cdn.myanimelist.net/images/manga/2/34724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ネコミミデイズ

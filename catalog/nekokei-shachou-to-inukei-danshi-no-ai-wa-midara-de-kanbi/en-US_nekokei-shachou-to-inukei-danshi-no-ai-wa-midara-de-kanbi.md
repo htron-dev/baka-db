@@ -1,5 +1,7 @@
 # Nekokei Shachou to Inukei Danshi no Ai wa, Midara de Kanbi
 
+![nekokei-shachou-to-inukei-danshi-no-ai-wa-midara-de-kanbi](https://cdn.myanimelist.net/images/manga/1/195270.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 猫系社長と犬系男子の愛は、淫らで甘美

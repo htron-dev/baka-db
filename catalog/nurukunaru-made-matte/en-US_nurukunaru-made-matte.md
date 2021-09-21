@@ -1,5 +1,7 @@
 # Nurukunaru made Matte
 
+![nurukunaru-made-matte](https://cdn.myanimelist.net/images/manga/2/91807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

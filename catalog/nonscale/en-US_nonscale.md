@@ -1,5 +1,7 @@
 # Nonscale
 
+![nonscale](https://cdn.myanimelist.net/images/manga/2/128453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

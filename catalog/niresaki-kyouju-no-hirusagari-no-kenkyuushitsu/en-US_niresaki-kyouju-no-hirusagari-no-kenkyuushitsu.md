@@ -1,5 +1,7 @@
 # Niresaki Kyouju no Hirusagari no Kenkyuushitsu
 
+![niresaki-kyouju-no-hirusagari-no-kenkyuushitsu](https://cdn.myanimelist.net/images/manga/2/152410.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

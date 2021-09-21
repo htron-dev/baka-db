@@ -1,5 +1,7 @@
 # Namida Usagi: Seifuku no Kataomoi
 
+![namida-usagi-seifuku-no-kataomoi](https://cdn.myanimelist.net/images/manga/1/81328.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 58

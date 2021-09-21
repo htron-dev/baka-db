@@ -1,5 +1,7 @@
 # NeuN
 
+![neu-n](https://cdn.myanimelist.net/images/manga/2/200227.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

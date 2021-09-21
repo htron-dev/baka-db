@@ -1,5 +1,7 @@
 # Noumen Joshi no Hanako-san
 
+![noumen-joshi-no-hanako-san](https://cdn.myanimelist.net/images/manga/1/175580.jpg)
+
 -   **type**: manga
 -   **original-name**: 能面女子の花子さん
 -   **start-date**: 2015-08-07

@@ -1,5 +1,7 @@
 # Noonbory
 
+![noonbory](https://cdn.myanimelist.net/images/anime/12/55481.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 눈보리

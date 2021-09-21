@@ -1,5 +1,7 @@
 # Neko to Geboku no Suteki na Nichijou
 
+![neko-to-geboku-no-suteki-na-nichijou](https://cdn.myanimelist.net/images/manga/3/234580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

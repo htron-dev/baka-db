@@ -1,5 +1,7 @@
 # Ningen Shikkaku
 
+![ningen-shikkaku](https://cdn.myanimelist.net/images/manga/3/166769.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

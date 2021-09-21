@@ -1,5 +1,7 @@
 # Nez
 
+![nez](https://cdn.myanimelist.net/images/manga/2/196407.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: nez[ネ]

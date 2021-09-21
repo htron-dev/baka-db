@@ -1,5 +1,7 @@
 # Nousatsu Daddy
 
+![nousatsu-daddy](https://cdn.myanimelist.net/images/manga/2/141675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

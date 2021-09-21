@@ -1,5 +1,7 @@
 # Nemuranu Machi no Cinderella: Hirose Ryouichi - Memorial Date
 
+![nemuranu-machi-no-cinderella-hirose-ryouichi-memorial-date](https://cdn.myanimelist.net/images/anime/7/73659.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 眠らぬ街のシンデレラ 廣瀬遼一「Memorial Date」

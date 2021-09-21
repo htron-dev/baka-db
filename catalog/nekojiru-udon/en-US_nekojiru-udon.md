@@ -1,5 +1,7 @@
 # Nekojiru Udon
 
+![nekojiru-udon](https://cdn.myanimelist.net/images/manga/5/157941.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 57

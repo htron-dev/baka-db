@@ -1,5 +1,7 @@
 # Ninkoi: Kakurenbo Hichou
 
+![ninkoi-kakurenbo-hichou](https://cdn.myanimelist.net/images/manga/1/138771.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

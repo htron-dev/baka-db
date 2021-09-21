@@ -1,5 +1,7 @@
 # Takahashi Rumiko Gekijou Ningyo no Mori
 
+![takahashi-rumiko-gekijou-ningyo-no-mori](https://cdn.myanimelist.net/images/anime/4/21590.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 高橋留美子劇場 人魚の森

@@ -1,5 +1,7 @@
 # Nobunagun
 
+![nobunagun](https://cdn.myanimelist.net/images/manga/2/111925.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

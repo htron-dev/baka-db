@@ -1,5 +1,7 @@
 # Ningen Shikkaku: Director's Cut-ban
 
+![ningen-shikkaku-directors-cut-ban](https://cdn.myanimelist.net/images/anime/6/24794.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 人間失格 ディレクターズカット版

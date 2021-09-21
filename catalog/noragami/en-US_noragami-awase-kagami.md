@@ -1,5 +1,7 @@
 # Noragami: Awase Kagami
 
+![noragami-awase-kagami](https://cdn.myanimelist.net/images/manga/2/123163.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ノラガミ アワセ禍神

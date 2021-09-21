@@ -1,5 +1,7 @@
 # Nostalgio no Kaze
 
+![nostalgio-no-kaze](https://cdn.myanimelist.net/images/manga/2/24269.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ノスタルジオの風

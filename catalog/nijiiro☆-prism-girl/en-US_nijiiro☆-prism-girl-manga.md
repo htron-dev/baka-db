@@ -1,5 +1,7 @@
 # Nijiiro☆Prism Girl
 
+![nijiiro☆-prism-girl](https://cdn.myanimelist.net/images/manga/2/121611.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: にじいろ ☆ プリズムガール

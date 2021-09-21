@@ -1,5 +1,7 @@
 # Neko Neko Nihonshi 3rd Season
 
+![neko-neko-nihonshi-3rd-season](https://cdn.myanimelist.net/images/anime/1689/90730.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ねこねこ日本史 第 3 期

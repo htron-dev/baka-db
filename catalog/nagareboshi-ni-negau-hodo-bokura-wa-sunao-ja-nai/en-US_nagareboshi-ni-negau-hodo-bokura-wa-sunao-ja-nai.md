@@ -1,5 +1,7 @@
 # Nagareboshi ni Negau hodo Bokura wa Sunao ja Nai
 
+![nagareboshi-ni-negau-hodo-bokura-wa-sunao-ja-nai](https://cdn.myanimelist.net/images/manga/1/171715.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

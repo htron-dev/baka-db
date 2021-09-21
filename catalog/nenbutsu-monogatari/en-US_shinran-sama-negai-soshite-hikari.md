@@ -1,5 +1,7 @@
 # Shinran-sama: Negai, Soshite Hikari
 
+![shinran-sama-negai-soshite-hikari](https://cdn.myanimelist.net/images/anime/9/29218.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 親鸞さま ねがい そして、ひかり。

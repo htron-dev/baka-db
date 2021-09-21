@@ -1,5 +1,7 @@
 # Ningyou no Kuni
 
+![ningyou-no-kuni](https://cdn.myanimelist.net/images/manga/1/195239.jpg)
+
 -   **type**: manga
 -   **original-name**: 人形の国
 -   **start-date**: 2017-02-25

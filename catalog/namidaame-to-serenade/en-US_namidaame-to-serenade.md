@@ -1,5 +1,7 @@
 # Namidaame to Serenade
 
+![namidaame-to-serenade](https://cdn.myanimelist.net/images/manga/3/170245.jpg)
+
 -   **type**: manga
 -   **original-name**: 涙雨とセレナーデ
 -   **start-date**: 2014-11-25

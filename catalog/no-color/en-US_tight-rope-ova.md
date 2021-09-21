@@ -1,5 +1,7 @@
 # Tight-rope
 
+![tight-rope](https://cdn.myanimelist.net/images/anime/2/38305.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: タイトロープ

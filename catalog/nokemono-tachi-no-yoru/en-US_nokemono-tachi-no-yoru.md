@@ -1,5 +1,7 @@
 # Nokemono-tachi no Yoru
 
+![nokemono-tachi-no-yoru](https://cdn.myanimelist.net/images/manga/3/238682.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 76

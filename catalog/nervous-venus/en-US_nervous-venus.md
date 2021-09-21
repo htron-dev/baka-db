@@ -1,5 +1,7 @@
 # Nervous Venus
 
+![nervous-venus](https://cdn.myanimelist.net/images/manga/2/5361.jpg)
+
 -   **type**: manga
 -   **start-date**: 1997-02-19
 

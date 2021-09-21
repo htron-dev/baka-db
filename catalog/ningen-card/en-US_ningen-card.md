@@ -1,5 +1,7 @@
 # Ningen Card
 
+![ningen-card](https://cdn.myanimelist.net/images/manga/2/200731.jpg)
+
 -   **type**: manga
 -   **original-name**: 人間カード
 -   **start-date**: 2017-03-21

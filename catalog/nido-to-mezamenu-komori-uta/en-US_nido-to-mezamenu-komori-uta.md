@@ -1,5 +1,7 @@
 # Nido to Mezamenu Komori Uta
 
+![nido-to-mezamenu-komori-uta](https://cdn.myanimelist.net/images/anime/1952/94891.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二度と目覚めぬ子守唄

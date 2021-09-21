@@ -1,5 +1,7 @@
 # Nemuri no Fuchi
 
+![nemuri-no-fuchi](https://cdn.myanimelist.net/images/manga/1/152434.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

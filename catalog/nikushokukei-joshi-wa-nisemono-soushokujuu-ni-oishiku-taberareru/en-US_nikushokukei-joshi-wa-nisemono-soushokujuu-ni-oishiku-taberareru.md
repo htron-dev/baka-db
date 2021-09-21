@@ -1,5 +1,7 @@
 # Nikushokukei Joshi wa Nisemono Soushokujuu ni Oishiku Taberareru
 
+![nikushokukei-joshi-wa-nisemono-soushokujuu-ni-oishiku-taberareru](https://cdn.myanimelist.net/images/manga/2/192170.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

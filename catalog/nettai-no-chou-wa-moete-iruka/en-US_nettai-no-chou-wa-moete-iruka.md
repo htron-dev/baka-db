@@ -1,5 +1,7 @@
 # Nettai no Chou wa Moete Iruka
 
+![nettai-no-chou-wa-moete-iruka](https://cdn.myanimelist.net/images/manga/2/79485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 熱帯ノ蝶ハ燃エテイルカ

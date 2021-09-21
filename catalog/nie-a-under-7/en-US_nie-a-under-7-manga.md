@@ -1,5 +1,7 @@
 # NieA Under 7
 
+![nie-a-under-7](https://cdn.myanimelist.net/images/manga/3/5082.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

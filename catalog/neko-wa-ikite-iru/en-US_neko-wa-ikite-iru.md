@@ -1,5 +1,7 @@
 # Neko wa Ikite Iru
 
+![neko-wa-ikite-iru](https://cdn.myanimelist.net/images/anime/2/75022.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猫は生きている

@@ -1,5 +1,7 @@
 # Tony Takezaki no Evangelion
 
+![tony-takezaki-no-evangelion](https://cdn.myanimelist.net/images/manga/1/143805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 36

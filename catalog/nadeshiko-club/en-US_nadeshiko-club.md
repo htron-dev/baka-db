@@ -1,5 +1,7 @@
 # Nadeshiko Club
 
+![nadeshiko-club](https://cdn.myanimelist.net/images/manga/3/25130.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

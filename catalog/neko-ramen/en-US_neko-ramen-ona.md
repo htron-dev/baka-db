@@ -1,5 +1,7 @@
 # Neko Ramen
 
+![neko-ramen](https://cdn.myanimelist.net/images/anime/8/17126.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 猫ラーメン

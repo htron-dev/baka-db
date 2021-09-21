@@ -1,5 +1,7 @@
 # Ningen Konchuuki
 
+![ningen-konchuuki](https://cdn.myanimelist.net/images/manga/1/176645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Nigotta Hitomi no Lilianne
 
+![nigotta-hitomi-no-lilianne](https://cdn.myanimelist.net/images/manga/3/233144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

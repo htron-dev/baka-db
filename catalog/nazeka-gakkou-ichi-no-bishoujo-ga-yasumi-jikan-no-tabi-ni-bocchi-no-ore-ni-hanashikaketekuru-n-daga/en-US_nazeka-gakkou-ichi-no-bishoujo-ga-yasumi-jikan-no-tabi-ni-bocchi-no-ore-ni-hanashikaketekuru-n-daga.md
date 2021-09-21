@@ -1,5 +1,7 @@
 # Nazeka Gakkou-ichi no Bishoujo ga Yasumi Jikan no Tabi ni, Bocchi no Ore ni Hanashikaketekuru n daga?
 
+![nazeka-gakkou-ichi-no-bishoujo-ga-yasumi-jikan-no-tabi-ni-bocchi-no-ore-ni-hanashikaketekuru-n-daga](https://cdn.myanimelist.net/images/manga/3/245796.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 何故か学校一の美少女が休み時間の度に、ぼっちの俺に話しかけてくるんだが?
 -   **start-date**: 2018-11-24

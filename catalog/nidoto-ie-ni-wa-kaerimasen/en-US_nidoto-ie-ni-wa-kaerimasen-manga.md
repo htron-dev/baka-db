@@ -1,5 +1,7 @@
 # Nidoto Ie ni wa Kaerimasen!
 
+![nidoto-ie-ni-wa-kaerimasen](https://cdn.myanimelist.net/images/manga/2/236786.jpg)
+
 -   **type**: manga
 -   **original-name**: 二度と家には帰りません！
 -   **start-date**: 2020-03-27

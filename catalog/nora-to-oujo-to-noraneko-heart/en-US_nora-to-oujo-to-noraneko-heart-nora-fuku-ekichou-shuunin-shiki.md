@@ -1,5 +1,7 @@
 # Nora to Oujo to Noraneko Heart: Nora Fuku Ekichou Shuunin-shiki
 
+![nora-to-oujo-to-noraneko-heart-nora-fuku-ekichou-shuunin-shiki](https://cdn.myanimelist.net/images/anime/1428/96003.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「ノラと皇女と野良猫ハート」ノラ副駅長就任式

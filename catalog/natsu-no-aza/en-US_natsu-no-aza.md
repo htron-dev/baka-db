@@ -1,5 +1,7 @@
 # Natsu no Aza
 
+![natsu-no-aza](https://cdn.myanimelist.net/images/manga/2/145405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

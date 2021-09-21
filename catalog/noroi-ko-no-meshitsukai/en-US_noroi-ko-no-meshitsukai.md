@@ -1,5 +1,7 @@
 # Noroi Ko no Meshitsukai
 
+![noroi-ko-no-meshitsukai](https://cdn.myanimelist.net/images/manga/3/236269.jpg)
+
 -   **type**: manga
 -   **original-name**: 呪い子の召使い
 -   **start-date**: 2020-03-05

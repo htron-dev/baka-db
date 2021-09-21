@@ -1,5 +1,7 @@
 # Nendo no Tatakai (2019)
 
+![nendo-no-tatakai-2019](https://cdn.myanimelist.net/images/anime/1740/102716.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ねんどのたたかい

@@ -1,5 +1,7 @@
 # Nagi no Asu kara
 
+![nagi-no-asu-kara](https://cdn.myanimelist.net/images/anime/7/53549.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 凪のあすから

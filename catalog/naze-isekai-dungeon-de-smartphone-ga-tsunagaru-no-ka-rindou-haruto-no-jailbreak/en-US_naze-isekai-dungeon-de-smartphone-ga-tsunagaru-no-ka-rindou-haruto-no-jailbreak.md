@@ -1,5 +1,7 @@
 # Naze Isekai Dungeon de Smartphone ga Tsunagaru no ka: Rindou Haruto no Jailbreak
 
+![naze-isekai-dungeon-de-smartphone-ga-tsunagaru-no-ka-rindou-haruto-no-jailbreak](https://cdn.myanimelist.net/images/manga/2/169050.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: なぜ異世界ダンジョンでスマホがつながるのか~竜胆遥人の迷宮攻略〈ジェイルブレイク〉

@@ -1,5 +1,7 @@
 # Nishikawaguchi University Rakuen Club
 
+![nishikawaguchi-university-rakuen-club](https://cdn.myanimelist.net/images/manga/3/32558.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 西川口大学楽園倶楽部

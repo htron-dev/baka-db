@@ -1,5 +1,7 @@
 # Natsume Yuujinchou
 
+![natsume-yuujinchou](https://cdn.myanimelist.net/images/manga/4/154023.jpg)
+
 -   **type**: manga
 -   **original-name**: 夏目友人帳
 -   **start-date**: 2003-06-10

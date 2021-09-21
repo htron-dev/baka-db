@@ -1,5 +1,7 @@
 # Netoge no Yome wa Shigekiteki!: Nyotai-ka Play to Real no Kanojo
 
+![netoge-no-yome-wa-shigekiteki-nyotai-ka-play-to-real-no-kanojo](https://cdn.myanimelist.net/images/manga/2/217213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

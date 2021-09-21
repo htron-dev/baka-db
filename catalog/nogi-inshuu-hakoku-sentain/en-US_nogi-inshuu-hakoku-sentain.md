@@ -1,5 +1,7 @@
 # Nogi: Inshuu Hakoku Sentain
 
+![nogi-inshuu-hakoku-sentain](https://cdn.myanimelist.net/images/manga/1/50371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ノギ 隠衆破国戦譚

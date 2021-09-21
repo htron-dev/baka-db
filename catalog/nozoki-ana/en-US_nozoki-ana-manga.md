@@ -1,5 +1,7 @@
 # Nozoki Ana
 
+![nozoki-ana](https://cdn.myanimelist.net/images/manga/2/178011.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 117

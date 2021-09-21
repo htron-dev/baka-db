@@ -1,5 +1,7 @@
 # Ninkuu (Movie)
 
+![ninkuu-movie](https://cdn.myanimelist.net/images/anime/7/4007.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍空

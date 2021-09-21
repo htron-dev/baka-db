@@ -1,5 +1,7 @@
 # Ningyo wa Aiyoku ni Naku
 
+![ningyo-wa-aiyoku-ni-naku](https://cdn.myanimelist.net/images/manga/3/198133.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 人魚は愛欲に鳴く

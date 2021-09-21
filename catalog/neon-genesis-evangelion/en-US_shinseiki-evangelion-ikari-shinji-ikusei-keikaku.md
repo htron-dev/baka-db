@@ -1,5 +1,7 @@
 # Shinseiki Evangelion: Ikari Shinji Ikusei Keikaku
 
+![shinseiki-evangelion-ikari-shinji-ikusei-keikaku](https://cdn.myanimelist.net/images/manga/1/172079.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 133

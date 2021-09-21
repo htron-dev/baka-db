@@ -1,5 +1,7 @@
 # Nyoroko no Namahousou!
 
+![nyoroko-no-namahousou](https://cdn.myanimelist.net/images/manga/3/162754.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Neo Arcadia: Yami ni Saku Niji
 
+![neo-arcadia-yami-ni-saku-niji](https://cdn.myanimelist.net/images/manga/1/37165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

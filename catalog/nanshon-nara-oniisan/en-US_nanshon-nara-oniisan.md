@@ -1,5 +1,7 @@
 # Nanshon nara!! Oniisan
 
+![nanshon-nara-oniisan](https://cdn.myanimelist.net/images/manga/2/234491.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 46

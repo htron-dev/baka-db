@@ -1,5 +1,7 @@
 # Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki
 
+![naruto-gaiden-nanadaime-hokage-to-akairo-no-hanatsuzuki](https://cdn.myanimelist.net/images/manga/2/161762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

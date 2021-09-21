@@ -1,5 +1,7 @@
 # Nekokaburi no Ikegaya-kun
 
+![nekokaburi-no-ikegaya-kun](https://cdn.myanimelist.net/images/manga/3/203951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

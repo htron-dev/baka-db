@@ -1,5 +1,7 @@
 # No Side
 
+![no-side](https://cdn.myanimelist.net/images/manga/2/11035.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 62

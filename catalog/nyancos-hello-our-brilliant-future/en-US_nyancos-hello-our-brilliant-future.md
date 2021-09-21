@@ -1,5 +1,7 @@
 # Nyancos: Hello! Our Brilliant Future
 
+![nyancos-hello-our-brilliant-future](https://cdn.myanimelist.net/images/anime/3/79693.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ニャンコス Hello! Our Brilliant Future

@@ -1,5 +1,7 @@
 # Narue no Sekai
 
+![narue-no-sekai](https://cdn.myanimelist.net/images/manga/2/50305.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 98

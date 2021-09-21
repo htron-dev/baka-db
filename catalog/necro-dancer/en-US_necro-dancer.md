@@ -1,5 +1,7 @@
 # Necro Dancer
 
+![necro-dancer](https://cdn.myanimelist.net/images/manga/3/71017.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ネクロダンサー

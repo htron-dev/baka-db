@@ -1,5 +1,7 @@
 # Nijuu Mensou no Musume
 
+![nijuu-mensou-no-musume](https://cdn.myanimelist.net/images/anime/3/8694.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 二十面相の娘

@@ -1,5 +1,7 @@
 # Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!
 
+![naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-musabetsu-dairansen-taikai-kaisai](https://cdn.myanimelist.net/images/anime/10/11244.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NARUTO ナルティメットヒーロー 3 ついに激突! 上忍 VS 下忍!! 無差別大乱戦大会開催!!

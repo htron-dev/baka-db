@@ -1,5 +1,7 @@
 # The Naniwa Kinyuudou
 
+![the-naniwa-kinyuudou](https://cdn.myanimelist.net/images/manga/1/226809.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

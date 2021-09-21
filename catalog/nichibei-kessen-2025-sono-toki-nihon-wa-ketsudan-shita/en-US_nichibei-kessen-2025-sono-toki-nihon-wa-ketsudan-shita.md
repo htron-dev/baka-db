@@ -1,5 +1,7 @@
 # Nichibei Kessen 2025: Sono Toki, Nihon wa Ketsudan shita!
 
+![nichibei-kessen-2025-sono-toki-nihon-wa-ketsudan-shita](https://cdn.myanimelist.net/images/manga/3/230992.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

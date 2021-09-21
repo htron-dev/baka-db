@@ -1,5 +1,7 @@
 # Nigete mo Nigete mo...
 
+![nigete-mo-nigete-mo](https://cdn.myanimelist.net/images/manga/3/57393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

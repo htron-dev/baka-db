@@ -1,5 +1,7 @@
 # Naisho no Housekeeper
 
+![naisho-no-housekeeper](https://cdn.myanimelist.net/images/manga/2/183629.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ないしょのハウスキーパー

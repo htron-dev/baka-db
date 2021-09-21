@@ -1,5 +1,7 @@
 # Nainai Yu Xiao Xi
 
+![nainai-yu-xiao-xi](https://cdn.myanimelist.net/images/anime/1090/115598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 奈奈与小希

@@ -1,5 +1,7 @@
 # Natsuzora ni, Kimi to Mita Yume
 
+![natsuzora-ni-kimi-to-mita-yume](https://cdn.myanimelist.net/images/manga/1/61077.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

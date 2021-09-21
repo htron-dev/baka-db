@@ -1,5 +1,7 @@
 # Natural Doggy's Diary
 
+![natural-doggys-diary](https://cdn.myanimelist.net/images/manga/4/30067.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: NATURAL DOGGY'S DIARY

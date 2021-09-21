@@ -1,5 +1,7 @@
 # Necromancia
 
+![necromancia](https://cdn.myanimelist.net/images/manga/1/18628.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ネクロマンシア

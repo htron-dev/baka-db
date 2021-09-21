@@ -1,5 +1,7 @@
 # Nanako-san-teki na Nichijou RE
 
+![nanako-san-teki-na-nichijou-re](https://cdn.myanimelist.net/images/manga/3/70261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 26

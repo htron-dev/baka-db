@@ -1,5 +1,7 @@
 # Nengara Nenbyaku Ansatsu Renka
 
+![nengara-nenbyaku-ansatsu-renka](https://cdn.myanimelist.net/images/manga/1/235106.jpg)
+
 -   **type**: manga
 -   **original-name**: 年年百暗殺恋歌
 -   **start-date**: 2019-08-20

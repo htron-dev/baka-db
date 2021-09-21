@@ -1,5 +1,7 @@
 # Ni Zai Xing Guang Shen Chu
 
+![ni-zai-xing-guang-shen-chu](https://cdn.myanimelist.net/images/anime/1892/105231.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 你在星光深处

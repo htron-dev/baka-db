@@ -1,5 +1,7 @@
 # Nekoka Danshi no Shitsukekata
 
+![nekoka-danshi-no-shitsukekata](https://cdn.myanimelist.net/images/manga/3/180214.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Nanako SOS
 
+![nanako-sos](https://cdn.myanimelist.net/images/anime/2/6635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ななこ SOS

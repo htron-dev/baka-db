@@ -1,5 +1,7 @@
 # Nekuroma.
 
+![nekuroma](https://cdn.myanimelist.net/images/manga/1/163093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 41

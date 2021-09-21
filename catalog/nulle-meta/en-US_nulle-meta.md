@@ -1,5 +1,7 @@
 # NulleMeta
 
+![nulle-meta](https://cdn.myanimelist.net/images/manga/1/244289.jpg)
+
 -   **type**: manga
 -   **original-name**: ぬるめた
 -   **start-date**: 2019-12-19

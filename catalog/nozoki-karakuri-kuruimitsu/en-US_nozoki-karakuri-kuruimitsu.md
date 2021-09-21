@@ -1,5 +1,7 @@
 # Nozoki Karakuri Kuruimitsu
 
+![nozoki-karakuri-kuruimitsu](https://cdn.myanimelist.net/images/manga/3/40545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

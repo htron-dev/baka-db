@@ -1,5 +1,7 @@
 # Petit Eva: Evangelion@School
 
+![petit-eva-evangelion-school](https://cdn.myanimelist.net/images/manga/3/41714.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

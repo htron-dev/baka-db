@@ -1,5 +1,7 @@
 # Nariyuki Saiou no Judai
 
+![nariyuki-saiou-no-judai](https://cdn.myanimelist.net/images/manga/1/155912.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: なりゆき斎王の入内

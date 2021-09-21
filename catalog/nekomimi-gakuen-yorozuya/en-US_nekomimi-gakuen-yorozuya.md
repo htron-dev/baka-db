@@ -1,5 +1,7 @@
 # Nekomimi Gakuen Yorozuya
 
+![nekomimi-gakuen-yorozuya](https://cdn.myanimelist.net/images/manga/2/35104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねこみみ学園よろずや

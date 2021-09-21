@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Seven Days - Touzoku to Seishoujo
 
+![nanatsu-no-taizai-seven-days-touzoku-to-seishoujo](https://cdn.myanimelist.net/images/manga/3/198159.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

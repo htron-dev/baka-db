@@ -1,5 +1,7 @@
 # Nanatsu no Tanpen
 
+![nanatsu-no-tanpen](https://cdn.myanimelist.net/images/manga/3/141177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

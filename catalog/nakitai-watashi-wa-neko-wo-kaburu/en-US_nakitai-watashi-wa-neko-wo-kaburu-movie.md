@@ -1,5 +1,7 @@
 # Nakitai Watashi wa Neko wo Kaburu
 
+![nakitai-watashi-wa-neko-wo-kaburu](https://cdn.myanimelist.net/images/anime/1045/106389.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 泣きたい私は猫をかぶる

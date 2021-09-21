@@ -1,5 +1,7 @@
 # Nanatsuiro★Drops
 
+![nanatsuiro★-drops](https://cdn.myanimelist.net/images/manga/1/18817.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ななついろ ★ ドロップス

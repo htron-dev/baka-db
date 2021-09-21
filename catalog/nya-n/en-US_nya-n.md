@@ -1,5 +1,7 @@
 # Nya~n!
 
+![nya-n](https://cdn.myanimelist.net/images/manga/1/28403.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: にゃーん！

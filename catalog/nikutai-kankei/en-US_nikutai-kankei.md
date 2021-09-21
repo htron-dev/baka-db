@@ -1,5 +1,7 @@
 # Nikutai Kankei
 
+![nikutai-kankei](https://cdn.myanimelist.net/images/manga/1/23072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

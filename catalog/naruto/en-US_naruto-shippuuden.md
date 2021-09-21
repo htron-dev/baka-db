@@ -1,5 +1,7 @@
 # Naruto: Shippuuden
 
+![naruto-shippuuden](https://cdn.myanimelist.net/images/anime/5/17407.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 500
 -   **original-name**: ナルト- 疾風伝

@@ -1,5 +1,7 @@
 # Ninja Bugeichou
 
+![ninja-bugeichou](https://cdn.myanimelist.net/images/manga/2/34493.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 忍者武芸帳

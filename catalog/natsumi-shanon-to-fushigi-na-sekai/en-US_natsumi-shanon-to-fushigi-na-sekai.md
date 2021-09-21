@@ -1,5 +1,7 @@
 # Natsumi Shanon to Fushigi na Sekai
 
+![natsumi-shanon-to-fushigi-na-sekai](https://cdn.myanimelist.net/images/manga/3/162647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Mermaid's Scar
 
+![mermaids-scar](https://cdn.myanimelist.net/images/anime/1/2144.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 人魚の傷

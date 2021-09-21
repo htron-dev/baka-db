@@ -1,5 +1,7 @@
 # Nagasarete Airantou
 
+![nagasarete-airantou](https://cdn.myanimelist.net/images/anime/7/75254.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ながされて藍蘭島

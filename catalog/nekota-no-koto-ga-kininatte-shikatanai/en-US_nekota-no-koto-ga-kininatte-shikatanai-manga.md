@@ -1,5 +1,7 @@
 # Nekota no Koto ga Kininatte Shikatanai.
 
+![nekota-no-koto-ga-kininatte-shikatanai](https://cdn.myanimelist.net/images/manga/3/185397.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

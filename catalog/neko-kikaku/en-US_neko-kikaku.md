@@ -1,5 +1,7 @@
 # Neko Kikaku
 
+![neko-kikaku](https://cdn.myanimelist.net/images/anime/1101/96173.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猫企画

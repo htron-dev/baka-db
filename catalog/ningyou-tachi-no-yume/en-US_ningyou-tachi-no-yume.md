@@ -1,5 +1,7 @@
 # Ningyou-tachi no Yume
 
+![ningyou-tachi-no-yume](https://cdn.myanimelist.net/images/manga/1/128947.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 人形たちの夢

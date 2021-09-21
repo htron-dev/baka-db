@@ -1,5 +1,7 @@
 # Ninjala
 
+![ninjala](https://cdn.myanimelist.net/images/anime/1161/108830.jpg)
+
 -   **type**: ona
 -   **original-name**: ニンジャラ
 -   **start-date**: 2020-06-23

@@ -1,5 +1,7 @@
 # Nagagutsu wo Haita Neko
 
+![nagagutsu-wo-haita-neko](https://cdn.myanimelist.net/images/anime/7/5415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 長靴をはいた猫

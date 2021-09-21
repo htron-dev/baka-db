@@ -1,5 +1,7 @@
 # Noda-ke no Oshie ni Yori
 
+![noda-ke-no-oshie-ni-yori](https://cdn.myanimelist.net/images/manga/3/203848.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kyouhaku Dog's: Another Secret
 
+![kyouhaku-dogs-another-secret](https://cdn.myanimelist.net/images/manga/1/4432.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 48

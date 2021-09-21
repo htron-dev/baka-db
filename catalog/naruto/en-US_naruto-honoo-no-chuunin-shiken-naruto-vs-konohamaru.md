@@ -1,5 +1,7 @@
 # Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!
 
+![naruto-honoo-no-chuunin-shiken-naruto-vs-konohamaru](https://cdn.myanimelist.net/images/anime/9/30813.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 炎の中忍試験! ナルト vs 木ノ葉丸!!

@@ -1,5 +1,7 @@
 # Nana Toshi Monogatari
 
+![nana-toshi-monogatari](https://cdn.myanimelist.net/images/manga/2/202840.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

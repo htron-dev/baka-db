@@ -1,5 +1,7 @@
 # Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin
 
+![namae-no-nai-kaibutsu-kumo-to-shoujo-to-ryouki-satsujin](https://cdn.myanimelist.net/images/manga/3/228510.jpg)
+
 -   **type**: manga
 -   **original-name**: 名前のない怪物 蜘蛛と少女と猟奇殺人
 -   **start-date**: 2018-09-15

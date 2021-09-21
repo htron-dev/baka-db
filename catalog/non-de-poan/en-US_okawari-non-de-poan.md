@@ -1,5 +1,7 @@
 # Okawari Non de Poan
 
+![okawari-non-de-poan](https://cdn.myanimelist.net/images/manga/1/161214.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

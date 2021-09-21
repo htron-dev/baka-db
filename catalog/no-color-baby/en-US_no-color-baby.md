@@ -1,5 +1,7 @@
 # No Color Baby
 
+![no-color-baby](https://cdn.myanimelist.net/images/manga/2/225014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Non Non Biyori Repeat: Hotaru ga Tanoshinda
 
+![non-non-biyori-repeat-hotaru-ga-tanoshinda](https://cdn.myanimelist.net/images/anime/13/78136.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のんのんびより りぴーと 蛍が楽しんだ

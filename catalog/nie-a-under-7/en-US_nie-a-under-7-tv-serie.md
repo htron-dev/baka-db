@@ -1,5 +1,7 @@
 # NieA Under 7
 
+![nie-a-under-7](https://cdn.myanimelist.net/images/anime/8/18922.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ニア アンダーセブン

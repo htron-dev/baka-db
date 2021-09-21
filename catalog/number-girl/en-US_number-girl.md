@@ -1,5 +1,7 @@
 # Number Girl
 
+![number-girl](https://cdn.myanimelist.net/images/manga/2/176851.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # Nayuta
 
+![nayuta](https://cdn.myanimelist.net/images/manga/3/163237.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 那由他

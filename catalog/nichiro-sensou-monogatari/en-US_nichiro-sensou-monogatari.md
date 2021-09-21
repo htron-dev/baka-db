@@ -1,5 +1,7 @@
 # Nichiro Sensou Monogatari
 
+![nichiro-sensou-monogatari](https://cdn.myanimelist.net/images/manga/2/174338.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 241

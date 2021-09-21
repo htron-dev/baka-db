@@ -1,5 +1,7 @@
 # Natsume to Natsume
 
+![natsume-to-natsume](https://cdn.myanimelist.net/images/manga/1/238217.jpg)
+
 -   **type**: manga
 -   **original-name**: なつめとなつめ
 -   **start-date**: 2020-06-30

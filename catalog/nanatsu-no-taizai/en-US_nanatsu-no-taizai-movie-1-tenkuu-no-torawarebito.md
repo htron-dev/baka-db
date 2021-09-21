@@ -1,5 +1,7 @@
 # Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito
 
+![nanatsu-no-taizai-movie-1-tenkuu-no-torawarebito](https://cdn.myanimelist.net/images/anime/1444/91899.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 七つの大罪 天空の囚われ人

@@ -1,5 +1,7 @@
 # Nihikime no Kingyo
 
+![nihikime-no-kingyo](https://cdn.myanimelist.net/images/manga/2/239007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

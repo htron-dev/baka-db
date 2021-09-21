@@ -1,5 +1,7 @@
 # Ningyo Ouji no Midara na Yubisaki: Mitsu ni Nureru Shower-shitsu
 
+![ningyo-ouji-no-midara-na-yubisaki-mitsu-ni-nureru-shower-shitsu](https://cdn.myanimelist.net/images/manga/3/195273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion
 
+![neon-genesis-evangelion](https://cdn.myanimelist.net/images/anime/1314/108941.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 新世紀エヴァンゲリオン

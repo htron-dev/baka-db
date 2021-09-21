@@ -1,5 +1,7 @@
 # Nareru! SE
 
+![nareru-se](https://cdn.myanimelist.net/images/manga/1/164691.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

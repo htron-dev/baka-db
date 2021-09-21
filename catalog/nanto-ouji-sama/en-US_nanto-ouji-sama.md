@@ -1,5 +1,7 @@
 # Nanto Ouji-sama!?
 
+![nanto-ouji-sama](https://cdn.myanimelist.net/images/manga/3/28242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: なんと王子さま!?

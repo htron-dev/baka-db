@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: King no Manga Michi
 
+![nanatsu-no-taizai-king-no-manga-michi](https://cdn.myanimelist.net/images/manga/1/185481.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 48

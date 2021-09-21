@@ -1,5 +1,7 @@
 # Numa no Taishou
 
+![numa-no-taishou](https://cdn.myanimelist.net/images/anime/11/67919.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 沼の大将

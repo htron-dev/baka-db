@@ -1,5 +1,7 @@
 # NieR:Automata
 
+![nie-r-automata](https://cdn.myanimelist.net/images/manga/2/243834.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

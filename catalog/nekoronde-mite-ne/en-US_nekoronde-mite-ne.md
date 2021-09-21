@@ -1,5 +1,7 @@
 # Nekoronde Mite ne.
 
+![nekoronde-mite-ne](https://cdn.myanimelist.net/images/anime/12/71673.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: ねころんで見てね。

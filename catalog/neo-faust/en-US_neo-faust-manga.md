@@ -1,5 +1,7 @@
 # Neo Faust
 
+![neo-faust](https://cdn.myanimelist.net/images/manga/2/234796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ネオ・ファウスト

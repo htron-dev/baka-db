@@ -1,5 +1,7 @@
 # Nagasaki 1945: Angelus no Kane
 
+![nagasaki-1945-angelus-no-kane](https://cdn.myanimelist.net/images/anime/1579/112922.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: NAGASAKI・1945 アンゼラスの鐘

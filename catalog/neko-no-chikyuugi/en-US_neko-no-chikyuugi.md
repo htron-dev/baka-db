@@ -1,5 +1,7 @@
 # Neko no Chikyuugi
 
+![neko-no-chikyuugi](https://cdn.myanimelist.net/images/manga/3/164371.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

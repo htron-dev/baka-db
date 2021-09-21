@@ -1,5 +1,7 @@
 # Nioh: Konjiki no Samurai
 
+![nioh-konjiki-no-samurai](https://cdn.myanimelist.net/images/manga/1/194320.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

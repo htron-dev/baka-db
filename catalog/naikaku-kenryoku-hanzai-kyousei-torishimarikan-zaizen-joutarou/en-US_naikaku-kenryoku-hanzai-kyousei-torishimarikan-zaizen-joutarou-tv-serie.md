@@ -1,5 +1,7 @@
 # Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou
 
+![naikaku-kenryoku-hanzai-kyousei-torishimarikan-zaizen-joutarou](https://cdn.myanimelist.net/images/anime/11/62657.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 内閣権力犯罪強制取締官・財前丈太郎

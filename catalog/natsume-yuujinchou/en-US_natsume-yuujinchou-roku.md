@@ -1,5 +1,7 @@
 # Natsume Yuujinchou Roku
 
+![natsume-yuujinchou-roku](https://cdn.myanimelist.net/images/anime/6/84416.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 夏目友人帳 陸

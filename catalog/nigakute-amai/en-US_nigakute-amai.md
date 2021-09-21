@@ -1,5 +1,7 @@
 # Nigakute Amai
 
+![nigakute-amai](https://cdn.myanimelist.net/images/manga/3/175342.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 81

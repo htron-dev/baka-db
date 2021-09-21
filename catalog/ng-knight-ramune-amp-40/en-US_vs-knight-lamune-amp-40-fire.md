@@ -1,5 +1,7 @@
 # VS Knight Lamune &amp; 40 Fire
 
+![vs-knight-lamune-amp-40-fire](https://cdn.myanimelist.net/images/anime/10/43613.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: VS 騎士ラムネ&40 炎

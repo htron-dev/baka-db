@@ -1,5 +1,7 @@
 # Nanairo Girl
 
+![nanairo-girl](https://cdn.myanimelist.net/images/manga/1/26690.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: なな色 GIRL

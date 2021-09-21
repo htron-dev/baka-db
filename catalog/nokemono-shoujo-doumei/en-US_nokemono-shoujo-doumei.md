@@ -1,5 +1,7 @@
 # Nokemono Shoujo Doumei
 
+![nokemono-shoujo-doumei](https://cdn.myanimelist.net/images/manga/1/203058.jpg)
+
 -   **type**: manga
 -   **original-name**: のけもの少女同盟
 -   **start-date**: 2016-03-19

@@ -1,5 +1,7 @@
 # Nisekoi Kareshi wa Junkyouju!?
 
+![nisekoi-kareshi-wa-junkyouju](https://cdn.myanimelist.net/images/manga/2/194367.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

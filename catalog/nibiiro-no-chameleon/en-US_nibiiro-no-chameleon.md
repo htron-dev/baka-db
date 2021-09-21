@@ -1,5 +1,7 @@
 # Nibiiro no Chameleon
 
+![nibiiro-no-chameleon](https://cdn.myanimelist.net/images/manga/2/222040.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

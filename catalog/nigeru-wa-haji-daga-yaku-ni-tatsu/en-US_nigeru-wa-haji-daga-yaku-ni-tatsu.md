@@ -1,5 +1,7 @@
 # Nigeru wa Haji daga Yaku ni Tatsu
 
+![nigeru-wa-haji-daga-yaku-ni-tatsu](https://cdn.myanimelist.net/images/manga/3/154512.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 55

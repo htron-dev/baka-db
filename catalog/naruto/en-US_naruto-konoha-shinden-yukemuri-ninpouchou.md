@@ -1,5 +1,7 @@
 # Naruto: Konoha Shinden - Yukemuri Ninpouchou
 
+![naruto-konoha-shinden-yukemuri-ninpouchou](https://cdn.myanimelist.net/images/manga/1/204432.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

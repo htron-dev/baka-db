@@ -1,5 +1,7 @@
 # Natsu no Shisen 1942
 
+![natsu-no-shisen-1942](https://cdn.myanimelist.net/images/anime/4/58113.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夏の視線‐1942

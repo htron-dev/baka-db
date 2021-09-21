@@ -1,5 +1,7 @@
 # Zoku Natsume Yuujinchou
 
+![zoku-natsume-yuujinchou](https://cdn.myanimelist.net/images/anime/4/79738.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 続 夏目友人帳

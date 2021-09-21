@@ -1,5 +1,7 @@
 # Nana
 
+![nana](https://cdn.myanimelist.net/images/manga/1/163191.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 84

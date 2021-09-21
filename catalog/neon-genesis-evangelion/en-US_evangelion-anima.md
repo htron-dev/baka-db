@@ -1,5 +1,7 @@
 # Evangelion: ANIMA
 
+![evangelion-anima](https://cdn.myanimelist.net/images/manga/3/244538.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 45

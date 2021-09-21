@@ -1,5 +1,7 @@
 # Neko ga Arawareta!
 
+![neko-ga-arawareta](https://cdn.myanimelist.net/images/manga/3/221933.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

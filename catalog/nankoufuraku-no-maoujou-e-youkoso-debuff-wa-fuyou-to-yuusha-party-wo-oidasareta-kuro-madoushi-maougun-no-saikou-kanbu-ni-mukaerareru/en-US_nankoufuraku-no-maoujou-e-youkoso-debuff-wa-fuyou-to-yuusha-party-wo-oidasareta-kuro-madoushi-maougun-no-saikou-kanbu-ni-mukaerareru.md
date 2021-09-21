@@ -1,5 +1,7 @@
 # Nankoufuraku no Maoujou e Youkoso: Debuff wa Fuyou to Yuusha Party wo Oidasareta Kuro Madoushi, Maougun no Saikou Kanbu ni Mukaerareru
 
+![nankoufuraku-no-maoujou-e-youkoso-debuff-wa-fuyou-to-yuusha-party-wo-oidasareta-kuro-madoushi-maougun-no-saikou-kanbu-ni-mukaerareru](https://cdn.myanimelist.net/images/manga/1/242645.jpg)
+
 -   **type**: manga
 -   **original-name**: 難攻不落の魔王城へようこそ～デバフは不要と勇者パーティーを追い出された黒魔導士、魔王軍の最高幹部に迎えられる～
 -   **start-date**: 2020-04-30

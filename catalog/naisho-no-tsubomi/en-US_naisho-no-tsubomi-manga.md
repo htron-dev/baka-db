@@ -1,5 +1,7 @@
 # Naisho no Tsubomi
 
+![naisho-no-tsubomi](https://cdn.myanimelist.net/images/manga/2/147607.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 98

@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion: Comic Tribute
 
+![neon-genesis-evangelion-comic-tribute](https://cdn.myanimelist.net/images/manga/3/181288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Evangelion: 1.0 You Are (Not) Alone
 
+![evangelion-1-0-you-are-not-alone](https://cdn.myanimelist.net/images/anime/7/74975.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヱヴァンゲリヲン新劇場版:序

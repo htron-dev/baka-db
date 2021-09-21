@@ -1,5 +1,7 @@
 # Nukenin Tenkousei Hayate
 
+![nukenin-tenkousei-hayate](https://cdn.myanimelist.net/images/manga/3/225894.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

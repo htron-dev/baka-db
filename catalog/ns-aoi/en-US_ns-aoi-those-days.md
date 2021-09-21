@@ -1,5 +1,7 @@
 # Ns' Aoi - Those Days
 
+![ns-aoi-those-days](https://cdn.myanimelist.net/images/manga/2/37820.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Ns'あおい those days

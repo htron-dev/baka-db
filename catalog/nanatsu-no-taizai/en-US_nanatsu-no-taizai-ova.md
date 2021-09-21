@@ -1,5 +1,7 @@
 # Nanatsu no Taizai OVA
 
+![nanatsu-no-taizai-ova](https://cdn.myanimelist.net/images/anime/1973/97505.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 七つの大罪

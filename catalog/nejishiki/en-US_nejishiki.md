@@ -1,5 +1,7 @@
 # Nejishiki
 
+![nejishiki](https://cdn.myanimelist.net/images/manga/2/167237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

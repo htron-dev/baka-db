@@ -1,5 +1,7 @@
 # Petit Eva Bokura Tanken Doukoukai
 
+![petit-eva-bokura-tanken-doukoukai](https://cdn.myanimelist.net/images/manga/2/41715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Naruto Shinden Series
 
+![naruto-shinden-series](https://cdn.myanimelist.net/images/manga/2/190847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 11

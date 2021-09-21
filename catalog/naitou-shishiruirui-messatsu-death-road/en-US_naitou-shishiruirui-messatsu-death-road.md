@@ -1,5 +1,7 @@
 # Naitou Shishiruirui Messatsu Death Road
 
+![naitou-shishiruirui-messatsu-death-road](https://cdn.myanimelist.net/images/manga/3/228155.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

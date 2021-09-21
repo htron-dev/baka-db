@@ -1,5 +1,7 @@
 # Navillera: Like a Butterfly
 
+![navillera-like-a-butterfly](https://cdn.myanimelist.net/images/manga/1/206101.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Hakujin to Kurobotan
 
+![hakujin-to-kurobotan](https://cdn.myanimelist.net/images/manga/1/224771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

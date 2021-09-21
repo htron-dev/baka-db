@@ -1,5 +1,7 @@
 # Kaito x Ansa
 
+![kaito-x-ansa](https://cdn.myanimelist.net/images/anime/5/85063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: カイトアンサ

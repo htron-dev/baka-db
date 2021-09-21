@@ -1,5 +1,7 @@
 # Negoya-kun no Renai Kansatsu
 
+![negoya-kun-no-renai-kansatsu](https://cdn.myanimelist.net/images/manga/3/239208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

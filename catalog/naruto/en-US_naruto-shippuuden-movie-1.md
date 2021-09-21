@@ -1,5 +1,7 @@
 # Naruto: Shippuuden Movie 1
 
+![naruto-shippuuden-movie-1](https://cdn.myanimelist.net/images/anime/6/79705.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 NARUTO -ナルト- 疾風伝

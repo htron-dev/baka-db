@@ -1,5 +1,7 @@
 # Nazo no Kanojo X
 
+![nazo-no-kanojo-x](https://cdn.myanimelist.net/images/manga/3/50697.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 96

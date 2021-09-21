@@ -1,5 +1,7 @@
 # Ninin ga Shinobuden
 
+![ninin-ga-shinobuden](https://cdn.myanimelist.net/images/anime/8/6591.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ニニンがシノブ伝

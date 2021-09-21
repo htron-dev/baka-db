@@ -1,5 +1,7 @@
 # Nichijou: Nichijou no 0-wa
 
+![nichijou-nichijou-no-0-wa](https://cdn.myanimelist.net/images/anime/6/25521.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 日常の０話

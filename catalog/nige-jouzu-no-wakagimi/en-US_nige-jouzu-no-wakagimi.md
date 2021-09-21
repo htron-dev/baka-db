@@ -1,5 +1,7 @@
 # Nige Jouzu no Wakagimi
 
+![nige-jouzu-no-wakagimi](https://cdn.myanimelist.net/images/manga/1/247594.jpg)
+
 -   **type**: manga
 -   **original-name**: 逃げ上手の若君
 -   **start-date**: 2021-01-25

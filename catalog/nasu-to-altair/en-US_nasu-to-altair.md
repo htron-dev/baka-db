@@ -1,5 +1,7 @@
 # Nasu to Altair
 
+![nasu-to-altair](https://cdn.myanimelist.net/images/manga/1/161404.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

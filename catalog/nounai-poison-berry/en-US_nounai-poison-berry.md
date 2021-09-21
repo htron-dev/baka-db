@@ -1,5 +1,7 @@
 # Nounai Poison Berry
 
+![nounai-poison-berry](https://cdn.myanimelist.net/images/manga/1/150983.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

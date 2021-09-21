@@ -1,5 +1,7 @@
 # Nagatan to Ao to: Ichika no Ryourichou
 
+![nagatan-to-ao-to-ichika-no-ryourichou](https://cdn.myanimelist.net/images/manga/3/210737.jpg)
+
 -   **type**: manga
 -   **original-name**: ながたんと青と ―いちかの料理帖―
 -   **start-date**: 2017-10-25

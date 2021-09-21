@@ -1,5 +1,7 @@
 # Ninja Box 3rd Season
 
+![ninja-box-3rd-season](https://cdn.myanimelist.net/images/anime/1021/108530.jpg)
+
 -   **type**: ona
 -   **original-name**: ニンジャボックス シーズン３
 -   **start-date**: 2020-03-26

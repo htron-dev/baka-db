@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion: Death & Rebirth
 
+![neon-genesis-evangelion-death-rebirth](https://cdn.myanimelist.net/images/anime/13/75963.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**:  新世紀エヴァンゲリオン劇場版 シト新生

@@ -1,5 +1,7 @@
 # Nari's New Lover
 
+![naris-new-lover](https://cdn.myanimelist.net/images/manga/1/25284.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 

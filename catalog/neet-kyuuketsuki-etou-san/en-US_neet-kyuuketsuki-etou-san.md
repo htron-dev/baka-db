@@ -1,5 +1,7 @@
 # NEET Kyuuketsuki, Etou-san
 
+![neet-kyuuketsuki-etou-san](https://cdn.myanimelist.net/images/manga/2/162493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

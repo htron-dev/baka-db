@@ -1,5 +1,7 @@
 # Neko Samurai
 
+![neko-samurai](https://cdn.myanimelist.net/images/manga/3/25250.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ネコ侍

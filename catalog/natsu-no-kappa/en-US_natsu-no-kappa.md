@@ -1,5 +1,7 @@
 # Natsu no Kappa
 
+![natsu-no-kappa](https://cdn.myanimelist.net/images/manga/1/129907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

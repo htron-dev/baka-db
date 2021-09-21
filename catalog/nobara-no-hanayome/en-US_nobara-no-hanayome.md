@@ -1,5 +1,7 @@
 # Nobara no Hanayome
 
+![nobara-no-hanayome](https://cdn.myanimelist.net/images/manga/3/32013.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

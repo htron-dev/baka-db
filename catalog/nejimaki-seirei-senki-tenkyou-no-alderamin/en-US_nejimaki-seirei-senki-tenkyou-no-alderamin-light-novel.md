@@ -1,5 +1,7 @@
 # Nejimaki Seirei Senki: Tenkyou no Alderamin
 
+![nejimaki-seirei-senki-tenkyou-no-alderamin](https://cdn.myanimelist.net/images/manga/3/175741.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **original-name**: ねじ巻き精霊戦記 天鏡のアルデラミン

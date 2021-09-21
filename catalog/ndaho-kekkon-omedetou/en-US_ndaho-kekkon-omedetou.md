@@ -1,5 +1,7 @@
 # Ndaho Kekkon Omedetou!!
 
+![ndaho-kekkon-omedetou](https://cdn.myanimelist.net/images/anime/1130/114687.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ンダホ結婚おめでとう！！

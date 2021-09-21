@@ -1,5 +1,7 @@
 # Nanami-chan 5th Series
 
+![nanami-chan-5th-series](https://cdn.myanimelist.net/images/anime/1915/103065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ななみちゃん 第 5 シリーズ

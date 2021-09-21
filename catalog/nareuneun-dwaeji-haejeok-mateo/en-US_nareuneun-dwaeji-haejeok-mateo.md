@@ -1,5 +1,7 @@
 # Nareuneun Dwaeji - Haejeok Mateo
 
+![nareuneun-dwaeji-haejeok-mateo](https://cdn.myanimelist.net/images/anime/8/49083.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 날으는 돼지 해적 마테오

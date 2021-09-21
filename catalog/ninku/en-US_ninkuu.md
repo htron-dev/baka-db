@@ -1,5 +1,7 @@
 # Ninkuu
 
+![ninkuu](https://cdn.myanimelist.net/images/anime/1983/92770.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 55
 -   **original-name**: 忍空

@@ -1,5 +1,7 @@
 # Nakado Riku Animation: Hijouyou Mochidashi Bukuro wo Youi Shiyou
 
+![nakado-riku-animation-hijouyou-mochidashi-bukuro-wo-youi-shiyou](https://cdn.myanimelist.net/images/anime/1068/109076.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 中通りく アニメーション 非常用持ち出し袋を用意しよう

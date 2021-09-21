@@ -1,5 +1,7 @@
 # Nazotokine
 
+![nazotokine](https://cdn.myanimelist.net/images/anime/4/81048.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ナゾトキネ

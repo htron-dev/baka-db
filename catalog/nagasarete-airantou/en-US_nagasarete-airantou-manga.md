@@ -1,5 +1,7 @@
 # Nagasarete Airantou
 
+![nagasarete-airantou](https://cdn.myanimelist.net/images/manga/2/51755.jpg)
+
 -   **type**: manga
 -   **original-name**: ながされて藍蘭島
 -   **start-date**: 2001-12-12

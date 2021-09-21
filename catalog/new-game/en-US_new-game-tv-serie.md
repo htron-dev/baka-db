@@ -1,5 +1,7 @@
 # New Game!
 
+![new-game](https://cdn.myanimelist.net/images/anime/9/80417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: NEW GAME!

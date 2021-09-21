@@ -1,5 +1,7 @@
 # NG Knight Ramune &amp; 40 EX: Biku Biku Triangle Ai no Arashi Daisakusen
 
+![ng-knight-ramune-amp-40-ex-biku-biku-triangle-ai-no-arashi-daisakusen](https://cdn.myanimelist.net/images/anime/7/22771.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: NG 騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦

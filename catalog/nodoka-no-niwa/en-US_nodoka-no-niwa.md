@@ -1,5 +1,7 @@
 # Nodoka no Niwa
 
+![nodoka-no-niwa](https://cdn.myanimelist.net/images/manga/1/192194.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

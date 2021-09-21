@@ -1,5 +1,7 @@
 # A Ressha de Ikou
 
+![a-ressha-de-ikou](https://cdn.myanimelist.net/images/manga/2/24991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

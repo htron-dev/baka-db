@@ -1,5 +1,7 @@
 # Nobunaga Concerto
 
+![nobunaga-concerto](https://cdn.myanimelist.net/images/anime/6/64519.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 信長協奏曲〈コンツェルト〉

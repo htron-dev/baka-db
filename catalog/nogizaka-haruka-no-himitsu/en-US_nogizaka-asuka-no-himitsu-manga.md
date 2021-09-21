@@ -1,5 +1,7 @@
 # Nogizaka Asuka no Himitsu
 
+![nogizaka-asuka-no-himitsu](https://cdn.myanimelist.net/images/manga/3/239694.jpg)
+
 -   **type**: manga
 -   **original-name**: 乃木坂明日夏の秘密
 -   **start-date**: 2019-07-26

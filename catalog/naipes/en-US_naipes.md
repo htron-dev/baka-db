@@ -1,5 +1,7 @@
 # Naipes
 
+![naipes](https://cdn.myanimelist.net/images/manga/2/66173.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나이페스
 -   **start-date**: 2012-03-22

@@ -1,5 +1,7 @@
 # Namikibashi-doori Aoba Jitensha-ten
 
+![namikibashi-doori-aoba-jitensha-ten](https://cdn.myanimelist.net/images/manga/2/166483.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 165

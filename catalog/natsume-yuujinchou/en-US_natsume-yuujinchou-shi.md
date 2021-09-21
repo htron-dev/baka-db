@@ -1,5 +1,7 @@
 # Natsume Yuujinchou Shi
 
+![natsume-yuujinchou-shi](https://cdn.myanimelist.net/images/anime/3/37449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夏目友人帳 肆

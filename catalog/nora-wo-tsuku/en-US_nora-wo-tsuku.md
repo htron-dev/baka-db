@@ -1,5 +1,7 @@
 # Nora wo Tsuku
 
+![nora-wo-tsuku](https://cdn.myanimelist.net/images/manga/3/201647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

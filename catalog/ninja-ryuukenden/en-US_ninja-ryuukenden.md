@@ -1,5 +1,7 @@
 # Ninja Ryuukenden
 
+![ninja-ryuukenden](https://cdn.myanimelist.net/images/anime/5/69415.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍者龍剣伝

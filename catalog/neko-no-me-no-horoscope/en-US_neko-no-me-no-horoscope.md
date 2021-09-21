@@ -1,5 +1,7 @@
 # Neko no Me no Horoscope
 
+![neko-no-me-no-horoscope](https://cdn.myanimelist.net/images/manga/1/54215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

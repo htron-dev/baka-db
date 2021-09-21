@@ -1,5 +1,7 @@
 # Nanairo Inko
 
+![nanairo-inko](https://cdn.myanimelist.net/images/manga/2/9489.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 47

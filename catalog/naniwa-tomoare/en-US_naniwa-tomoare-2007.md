@@ -1,5 +1,7 @@
 # Naniwa Tomoare (2007)
 
+![naniwa-tomoare-2007](https://cdn.myanimelist.net/images/manga/2/127225.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 340

@@ -1,5 +1,7 @@
 # Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki
 
+![ninja-hattori-kun-nin-nin-furusato-daisakusen-no-maki](https://cdn.myanimelist.net/images/anime/1027/96655.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍者ハットリくん ニンニンふるさと大作戦の巻

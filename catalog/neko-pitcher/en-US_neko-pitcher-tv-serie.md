@@ -1,5 +1,7 @@
 # Neko Pitcher
 
+![neko-pitcher](https://cdn.myanimelist.net/images/anime/3/61473.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 猫ピッチャー

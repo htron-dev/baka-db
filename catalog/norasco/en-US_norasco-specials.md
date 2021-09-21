@@ -1,5 +1,7 @@
 # Norasco Specials
 
+![norasco-specials](https://cdn.myanimelist.net/images/anime/9/82047.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 野良スコ

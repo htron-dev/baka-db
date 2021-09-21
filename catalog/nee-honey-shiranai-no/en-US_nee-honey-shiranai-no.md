@@ -1,5 +1,7 @@
 # Nee, Honey Shiranai no?
 
+![nee-honey-shiranai-no](https://cdn.myanimelist.net/images/manga/2/44845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ねぇ、honey 知らないの?

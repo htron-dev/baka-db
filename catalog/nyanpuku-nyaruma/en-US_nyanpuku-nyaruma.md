@@ -1,5 +1,7 @@
 # Nyanpuku Nyaruma
 
+![nyanpuku-nyaruma](https://cdn.myanimelist.net/images/anime/13/62981.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: にゃんぷくにゃるま

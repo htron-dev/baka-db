@@ -1,5 +1,7 @@
 # Nils no Fushigi na Tabi (Movie)
 
+![nils-no-fushigi-na-tabi-movie](https://cdn.myanimelist.net/images/anime/10/69741.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ニルスのふしぎな旅

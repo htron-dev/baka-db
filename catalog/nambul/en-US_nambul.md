@@ -1,5 +1,7 @@
 # Nambul
 
+![nambul](https://cdn.myanimelist.net/images/manga/2/182691.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 남벌

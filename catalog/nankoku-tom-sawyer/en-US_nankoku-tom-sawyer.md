@@ -1,5 +1,7 @@
 # Nankoku Tom Sawyer
 
+![nankoku-tom-sawyer](https://cdn.myanimelist.net/images/manga/2/130261.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

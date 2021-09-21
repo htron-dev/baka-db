@@ -1,5 +1,7 @@
 # Nankuru Neesan
 
+![nankuru-neesan](https://cdn.myanimelist.net/images/manga/1/188960.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

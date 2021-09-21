@@ -1,5 +1,7 @@
 # Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago
 
+![ninja-hattori-kun-plus-perman-ninja-kaijuu-jippou-tai-miracle-tamago](https://cdn.myanimelist.net/images/anime/13/70335.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍者ハットリくん＋パーマン 忍者怪獣ジッポウ VS ミラクル卵

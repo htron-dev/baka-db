@@ -1,5 +1,7 @@
 # Nivawa to Saitou
 
+![nivawa-to-saitou](https://cdn.myanimelist.net/images/manga/1/205023.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

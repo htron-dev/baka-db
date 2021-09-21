@@ -1,5 +1,7 @@
 # Nidoto Touranai Tabibito
 
+![nidoto-touranai-tabibito](https://cdn.myanimelist.net/images/anime/9/66195.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 二度と通らない旅人

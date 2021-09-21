@@ -1,5 +1,7 @@
 # Nihonkoku Daitouryou: Sakurazaka Mantarou
 
+![nihonkoku-daitouryou-sakurazaka-mantarou](https://cdn.myanimelist.net/images/manga/3/181676.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 151

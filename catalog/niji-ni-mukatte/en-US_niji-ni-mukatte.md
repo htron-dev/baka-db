@@ -1,5 +1,7 @@
 # Niji ni Mukatte
 
+![niji-ni-mukatte](https://cdn.myanimelist.net/images/anime/6/18572.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 虹に向って

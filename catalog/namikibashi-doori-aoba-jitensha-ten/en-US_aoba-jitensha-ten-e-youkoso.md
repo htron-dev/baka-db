@@ -1,5 +1,7 @@
 # Aoba Jitensha-ten e Youkoso!
 
+![aoba-jitensha-ten-e-youkoso](https://cdn.myanimelist.net/images/manga/3/166496.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 123

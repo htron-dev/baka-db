@@ -1,5 +1,7 @@
 # Genki Genki Non-tan: Spoon Tan Tan Tan
 
+![genki-genki-non-tan-spoon-tan-tan-tan](https://cdn.myanimelist.net/images/anime/6/65141.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: げんきげんきノンタン　スプーン たんたんたん

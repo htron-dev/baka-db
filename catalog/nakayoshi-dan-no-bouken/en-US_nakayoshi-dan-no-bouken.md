@@ -1,5 +1,7 @@
 # Nakayoshi Dan no Bouken
 
+![nakayoshi-dan-no-bouken](https://cdn.myanimelist.net/images/manga/1/184710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Nekoronde TV.
 
+![nekoronde-tv](https://cdn.myanimelist.net/images/anime/8/71656.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ねころんでテレビ。

@@ -1,5 +1,7 @@
 # Nanairo Sekai
 
+![nanairo-sekai](https://cdn.myanimelist.net/images/manga/1/13201.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ナナイロセカイ

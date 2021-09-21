@@ -1,5 +1,7 @@
 # Kuroneko Kareshi no Aishikata
 
+![kuroneko-kareshi-no-aishikata](https://cdn.myanimelist.net/images/manga/4/135051.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Nichijou dewa Saenai Tada no Ossan, Hontou wa Chijou Saikyou no Senshin
 
+![nichijou-dewa-saenai-tada-no-ossan-hontou-wa-chijou-saikyou-no-senshin](https://cdn.myanimelist.net/images/manga/2/242589.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 日常ではさえないただのおっさん、本当は地上最強の戦神
 -   **start-date**: 2018-08-01

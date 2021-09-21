@@ -1,5 +1,7 @@
 # Nekojima 2-choume 22-banchi
 
+![nekojima-2-choume-22-banchi](https://cdn.myanimelist.net/images/manga/2/164926.jpg)
+
 -   **type**: manga
 -   **chapters**: 25
 -   **original-name**: 猫島 2 丁目 22 番地

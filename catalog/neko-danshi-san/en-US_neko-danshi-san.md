@@ -1,5 +1,7 @@
 # Neko Danshi-san!
 
+![neko-danshi-san](https://cdn.myanimelist.net/images/manga/2/245514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

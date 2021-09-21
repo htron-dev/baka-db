@@ -1,5 +1,7 @@
 # Netsuai: Nankoku Ouji no Cinderella
 
+![netsuai-nankoku-ouji-no-cinderella](https://cdn.myanimelist.net/images/manga/2/182494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

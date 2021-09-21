@@ -1,5 +1,7 @@
 # Nina wa Papa wo Ansatsu Shita
 
+![nina-wa-papa-wo-ansatsu-shita](https://cdn.myanimelist.net/images/manga/1/246335.jpg)
+
 -   **type**: manga
 -   **original-name**: ニーナはパパを暗殺したい
 -   **start-date**: 2020-11-01

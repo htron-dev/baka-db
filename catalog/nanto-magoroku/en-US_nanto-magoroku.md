@@ -1,5 +1,7 @@
 # Nanto Magoroku
 
+![nanto-magoroku](https://cdn.myanimelist.net/images/manga/2/123509.jpg)
+
 -   **type**: manga
 -   **volumes**: 81
 -   **chapters**: 391

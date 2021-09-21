@@ -1,5 +1,7 @@
 # Nijiiro Ramen
 
+![nijiiro-ramen](https://cdn.myanimelist.net/images/manga/1/42796.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 160

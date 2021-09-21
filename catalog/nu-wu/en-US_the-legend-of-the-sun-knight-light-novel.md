@@ -1,5 +1,7 @@
 # The Legend of the Sun Knight
 
+![the-legend-of-the-sun-knight](https://cdn.myanimelist.net/images/manga/3/34580.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 98

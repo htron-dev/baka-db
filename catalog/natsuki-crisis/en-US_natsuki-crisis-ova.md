@@ -1,5 +1,7 @@
 # Natsuki Crisis
 
+![natsuki-crisis](https://cdn.myanimelist.net/images/anime/1008/94564.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: なつきクライシス

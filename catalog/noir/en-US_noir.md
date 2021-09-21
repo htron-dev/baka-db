@@ -1,5 +1,7 @@
 # Noir
 
+![noir](https://cdn.myanimelist.net/images/anime/1054/96577.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ノワール

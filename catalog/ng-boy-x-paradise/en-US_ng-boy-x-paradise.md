@@ -1,5 +1,7 @@
 # NG Boy x Paradise
 
+![ng-boy-x-paradise](https://cdn.myanimelist.net/images/manga/3/39746.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

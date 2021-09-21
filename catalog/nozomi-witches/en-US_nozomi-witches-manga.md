@@ -1,5 +1,7 @@
 # Nozomi Witches
 
+![nozomi-witches](https://cdn.myanimelist.net/images/manga/1/25272.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **original-name**: のぞみ ♡ ウィッチィズ

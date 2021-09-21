@@ -1,5 +1,7 @@
 # Nostalgia
 
+![nostalgia](https://cdn.myanimelist.net/images/manga/1/101693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

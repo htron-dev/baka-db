@@ -1,5 +1,7 @@
 # Netsuryou - Calorie
 
+![netsuryou-calorie](https://cdn.myanimelist.net/images/manga/1/57.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Nobunaga-sama to Okoshou Boys
 
+![nobunaga-sama-to-okoshou-boys](https://cdn.myanimelist.net/images/manga/2/32935.jpg)
+
 -   **type**: manga
 -   **original-name**: 信長さまとお小姓 Boys
 -   **start-date**: 2010-05-28

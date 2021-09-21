@@ -1,5 +1,7 @@
 # Navy Nats!
 
+![navy-nats](https://cdn.myanimelist.net/images/manga/2/67675.jpg)
+
 -   **type**: manga
 -   **original-name**: ネイビー ☆NATS！
 -   **start-date**: 2010-07-05

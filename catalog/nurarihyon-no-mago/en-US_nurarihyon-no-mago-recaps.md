@@ -1,5 +1,7 @@
 # Nurarihyon no Mago Recaps
 
+![nurarihyon-no-mago-recaps](https://cdn.myanimelist.net/images/anime/12/26961.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ぬらりひょんの孫 総集編

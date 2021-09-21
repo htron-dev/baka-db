@@ -1,5 +1,7 @@
 # Natsu no Owari to Reset Kanojo
 
+![natsu-no-owari-to-reset-kanojo](https://cdn.myanimelist.net/images/manga/2/171895.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

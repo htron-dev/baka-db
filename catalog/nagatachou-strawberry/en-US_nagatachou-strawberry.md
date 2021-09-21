@@ -1,5 +1,7 @@
 # Nagatachou Strawberry
 
+![nagatachou-strawberry](https://cdn.myanimelist.net/images/manga/3/20904.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

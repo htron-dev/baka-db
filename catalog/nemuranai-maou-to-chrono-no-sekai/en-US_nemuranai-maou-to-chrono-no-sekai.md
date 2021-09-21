@@ -1,5 +1,7 @@
 # Nemuranai Maou to Chrono no Sekai
 
+![nemuranai-maou-to-chrono-no-sekai](https://cdn.myanimelist.net/images/manga/1/158030.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

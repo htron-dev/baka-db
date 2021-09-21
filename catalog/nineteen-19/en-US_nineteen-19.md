@@ -1,5 +1,7 @@
 # Nineteen 19
 
+![nineteen-19](https://cdn.myanimelist.net/images/anime/4/31679.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NINETEEN 19

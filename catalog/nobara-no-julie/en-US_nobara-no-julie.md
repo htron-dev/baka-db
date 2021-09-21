@@ -1,5 +1,7 @@
 # Nobara no Julie
 
+![nobara-no-julie](https://cdn.myanimelist.net/images/anime/3/24215.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 野ばらのジュリー

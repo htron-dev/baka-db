@@ -1,5 +1,7 @@
 # Nagaruru Rururuko
 
+![nagaruru-rururuko](https://cdn.myanimelist.net/images/manga/3/70233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Naruto
 
+![naruto](https://cdn.myanimelist.net/images/manga/3/117681.jpg)
+
 -   **type**: manga
 -   **volumes**: 72
 -   **chapters**: 700

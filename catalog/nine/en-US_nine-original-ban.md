@@ -1,5 +1,7 @@
 # Nine: Original-ban
 
+![nine-original-ban](https://cdn.myanimelist.net/images/anime/5/49881.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ナイン オリジナル版

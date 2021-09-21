@@ -1,5 +1,7 @@
 # Nanatsu no Umi: Iwaizumi Mai Tanpenshuu
 
+![nanatsu-no-umi-iwaizumi-mai-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/241522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

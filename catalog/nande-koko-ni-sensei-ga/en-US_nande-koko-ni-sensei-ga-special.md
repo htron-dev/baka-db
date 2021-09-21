@@ -1,5 +1,7 @@
 # Nande Koko ni Sensei ga!? Special
 
+![nande-koko-ni-sensei-ga-special](https://cdn.myanimelist.net/images/anime/1702/102607.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: なんでここに先生が!?

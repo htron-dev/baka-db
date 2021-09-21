@@ -1,5 +1,7 @@
 # Nanchatte!
 
+![nanchatte](https://cdn.myanimelist.net/images/anime/7/24825.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: なんちゃって!

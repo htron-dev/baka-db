@@ -1,5 +1,7 @@
 # Natsufuku no Shoujo-tachi
 
+![natsufuku-no-shoujo-tachi](https://cdn.myanimelist.net/images/anime/3/24680.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 夏服の少女たち

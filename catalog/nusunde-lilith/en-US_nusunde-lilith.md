@@ -1,5 +1,7 @@
 # Nusunde Lilith
 
+![nusunde-lilith](https://cdn.myanimelist.net/images/manga/2/59995.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

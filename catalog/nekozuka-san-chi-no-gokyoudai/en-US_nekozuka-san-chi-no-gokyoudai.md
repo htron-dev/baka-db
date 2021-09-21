@@ -1,5 +1,7 @@
 # Nekozuka-san Chi no Gokyoudai
 
+![nekozuka-san-chi-no-gokyoudai](https://cdn.myanimelist.net/images/manga/2/193339.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

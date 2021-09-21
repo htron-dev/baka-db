@@ -1,5 +1,7 @@
 # Nulu-chan to Boku
 
+![nulu-chan-to-boku](https://cdn.myanimelist.net/images/anime/7/55135.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ヌルちゃんとぼく

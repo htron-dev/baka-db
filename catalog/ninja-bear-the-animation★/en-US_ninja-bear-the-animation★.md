@@ -1,5 +1,7 @@
 # Ninja Bear the Animation★
 
+![ninja-bear-the-animation★](https://cdn.myanimelist.net/images/anime/3/82439.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 忍者ベアー the Animation★
 -   **rating**: G - All Ages

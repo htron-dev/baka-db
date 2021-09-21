@@ -1,5 +1,7 @@
 # Natsuyuki Rendezvous
 
+![natsuyuki-rendezvous](https://cdn.myanimelist.net/images/manga/1/179063.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

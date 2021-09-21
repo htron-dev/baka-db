@@ -1,5 +1,7 @@
 # Nana to Kaoru
 
+![nana-to-kaoru](https://cdn.myanimelist.net/images/anime/5/27379.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ナナとカオル

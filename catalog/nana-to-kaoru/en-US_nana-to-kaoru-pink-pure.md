@@ -1,5 +1,7 @@
 # Nana to Kaoru: Pink Pure
 
+![nana-to-kaoru-pink-pure](https://cdn.myanimelist.net/images/manga/1/125073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

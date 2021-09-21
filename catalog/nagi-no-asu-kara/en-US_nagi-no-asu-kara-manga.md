@@ -1,5 +1,7 @@
 # Nagi no Asu kara
 
+![nagi-no-asu-kara](https://cdn.myanimelist.net/images/manga/1/103479.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

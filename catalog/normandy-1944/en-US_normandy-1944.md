@@ -1,5 +1,7 @@
 # Normandy 1944
 
+![normandy-1944](https://cdn.myanimelist.net/images/manga/3/132745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ノルマンディー 1944

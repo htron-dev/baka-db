@@ -1,5 +1,7 @@
 # Nijuushi no Hitomi
 
+![nijuushi-no-hitomi](https://cdn.myanimelist.net/images/anime/5/53117.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 二十四の瞳

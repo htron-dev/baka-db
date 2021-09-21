@@ -1,5 +1,7 @@
 # Dokusha Senyou Kensaku Engine: Chotto Morimashita.
 
+![dokusha-senyou-kensaku-engine-chotto-morimashita](https://cdn.myanimelist.net/images/manga/2/190070.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 読者専用検索エンジン ちょっと盛りました。

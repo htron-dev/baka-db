@@ -1,5 +1,7 @@
 # Negai Kanaeba
 
+![negai-kanaeba](https://cdn.myanimelist.net/images/manga/2/11138.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

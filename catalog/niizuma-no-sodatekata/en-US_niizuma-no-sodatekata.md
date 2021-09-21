@@ -1,5 +1,7 @@
 # Niizuma no Sodatekata
 
+![niizuma-no-sodatekata](https://cdn.myanimelist.net/images/manga/1/160699.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

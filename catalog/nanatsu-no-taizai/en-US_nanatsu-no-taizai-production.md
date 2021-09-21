@@ -1,5 +1,7 @@
 # Nanatsu no Taizai Production
 
+![nanatsu-no-taizai-production](https://cdn.myanimelist.net/images/manga/1/180367.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 76

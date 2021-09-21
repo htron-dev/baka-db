@@ -1,5 +1,7 @@
 # Norakuro Nitouhei
 
+![norakuro-nitouhei](https://cdn.myanimelist.net/images/anime/3/71980.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のらくろ二等兵

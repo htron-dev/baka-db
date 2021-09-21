@@ -1,5 +1,7 @@
 # Natsunagu!
 
+![natsunagu](https://cdn.myanimelist.net/images/anime/1891/111484.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: なつなぐ!

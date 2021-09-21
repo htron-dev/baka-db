@@ -1,5 +1,7 @@
 # Nurse no Hanazono
 
+![nurse-no-hanazono](https://cdn.myanimelist.net/images/manga/1/122747.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

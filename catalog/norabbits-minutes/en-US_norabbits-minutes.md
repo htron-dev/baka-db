@@ -1,5 +1,7 @@
 # Norabbits' Minutes
 
+![norabbits-minutes](https://cdn.myanimelist.net/images/anime/2/20959.jpg)
+
 -   **type**: movie
 -   **episodes**: 5
 -   **original-name**: ノラビッツミニッツ

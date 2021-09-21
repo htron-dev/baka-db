@@ -1,5 +1,7 @@
 # Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru
 
+![nikuiyo-galbi-kun-kemuri-ga-me-ni-shimiru](https://cdn.myanimelist.net/images/anime/1489/90148.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ニクいよっ！カルビくん～煙が目にしみる～

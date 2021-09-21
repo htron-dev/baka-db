@@ -1,5 +1,7 @@
 # Ningen Doubutsuen
 
+![ningen-doubutsuen](https://cdn.myanimelist.net/images/anime/13/16203.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 人間動物園

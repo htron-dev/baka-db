@@ -1,5 +1,7 @@
 # Nat-chan no Akai Tebukuro
 
+![nat-chan-no-akai-tebukuro](https://cdn.myanimelist.net/images/anime/11/66045.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: なっちゃんの赤いてぶくろ

@@ -1,5 +1,7 @@
 # Nyaight of the Living Cat
 
+![nyaight-of-the-living-cat](https://cdn.myanimelist.net/images/manga/3/237311.jpg)
+
 -   **type**: manga
 -   **original-name**: ニャイト・オブ・ザ・リビングキャット
 -   **start-date**: 2020-10-05

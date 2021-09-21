@@ -1,5 +1,7 @@
 # Nanahan: Nanaya Chokotto Hanjouki
 
+![nanahan-nanaya-chokotto-hanjouki](https://cdn.myanimelist.net/images/manga/3/140995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ななはん～七屋ちょこっと繁盛記～

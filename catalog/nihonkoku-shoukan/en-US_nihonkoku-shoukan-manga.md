@@ -1,5 +1,7 @@
 # Nihonkoku Shoukan
 
+![nihonkoku-shoukan](https://cdn.myanimelist.net/images/manga/1/219367.jpg)
+
 -   **type**: manga
 -   **original-name**: 日本国召喚
 -   **start-date**: 2018-06-24

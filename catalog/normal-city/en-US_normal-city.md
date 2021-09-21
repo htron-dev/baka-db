@@ -1,5 +1,7 @@
 # Normal City
 
+![normal-city](https://cdn.myanimelist.net/images/manga/1/81356.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **chapters**: 121

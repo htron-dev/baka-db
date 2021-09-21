@@ -1,5 +1,7 @@
 # Nihon e Youkoso Elf-san.
 
+![nihon-e-youkoso-elf-san](https://cdn.myanimelist.net/images/manga/1/219415.jpg)
+
 -   **type**: manga
 -   **original-name**: 日本へようこそエルフさん。
 -   **start-date**: 2018-12-21

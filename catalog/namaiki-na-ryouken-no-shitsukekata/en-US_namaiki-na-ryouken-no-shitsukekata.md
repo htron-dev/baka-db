@@ -1,5 +1,7 @@
 # Namaiki na Ryouken no Shitsukekata
 
+![namaiki-na-ryouken-no-shitsukekata](https://cdn.myanimelist.net/images/manga/1/99781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 生意気な猟犬の躾け方

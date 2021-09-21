@@ -1,5 +1,7 @@
 # Nippon-ichi no Otoko no Tamashii 2
 
+![nippon-ichi-no-otoko-no-tamashii-2](https://cdn.myanimelist.net/images/anime/10/24639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 日本一の男の魂２

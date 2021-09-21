@@ -1,5 +1,7 @@
 # Neko-senpai Sasuga desu!
 
+![neko-senpai-sasuga-desu](https://cdn.myanimelist.net/images/manga/3/208677.jpg)
+
 -   **type**: manga
 -   **chapters**: 27
 -   **original-name**: ネコ先輩さすがです！

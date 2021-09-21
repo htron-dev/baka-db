@@ -1,5 +1,7 @@
 # Nourin
 
+![nourin](https://cdn.myanimelist.net/images/manga/4/86997.jpg)
+
 -   **type**: light-novel
 -   **original-name**: のうりん
 -   **start-date**: 2011-08-15

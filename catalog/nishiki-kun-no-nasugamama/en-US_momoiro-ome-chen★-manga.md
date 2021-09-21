@@ -1,5 +1,7 @@
 # Momoiro Ome-Chen★
 
+![momoiro-ome-chen★](https://cdn.myanimelist.net/images/manga/2/171959.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

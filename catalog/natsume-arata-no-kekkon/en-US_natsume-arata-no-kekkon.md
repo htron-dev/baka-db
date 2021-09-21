@@ -1,5 +1,7 @@
 # Natsume Arata no Kekkon
 
+![natsume-arata-no-kekkon](https://cdn.myanimelist.net/images/manga/1/235353.jpg)
+
 -   **type**: manga
 -   **original-name**: 夏目アラタの結婚
 -   **start-date**: 2019-06-28

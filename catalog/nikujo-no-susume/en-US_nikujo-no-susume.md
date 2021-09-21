@@ -1,5 +1,7 @@
 # Nikujo no Susume
 
+![nikujo-no-susume](https://cdn.myanimelist.net/images/manga/1/178413.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

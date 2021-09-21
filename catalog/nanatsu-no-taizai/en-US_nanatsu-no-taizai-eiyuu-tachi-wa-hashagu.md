@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Eiyuu-tachi wa Hashagu
 
+![nanatsu-no-taizai-eiyuu-tachi-wa-hashagu](https://cdn.myanimelist.net/images/anime/1369/96304.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 七つの大罪 英雄たちは燥(はしゃ)ぐ

@@ -1,5 +1,7 @@
 # Nanbanfuku to Hinawajuu
 
+![nanbanfuku-to-hinawajuu](https://cdn.myanimelist.net/images/manga/2/148489.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 南蛮服と火縄銃

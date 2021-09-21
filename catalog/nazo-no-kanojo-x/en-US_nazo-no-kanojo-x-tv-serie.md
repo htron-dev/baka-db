@@ -1,5 +1,7 @@
 # Nazo no Kanojo X
 
+![nazo-no-kanojo-x](https://cdn.myanimelist.net/images/anime/3/75205.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 謎の彼女 X

@@ -1,5 +1,7 @@
 # Niwatori Fighter
 
+![niwatori-fighter](https://cdn.myanimelist.net/images/manga/3/244077.jpg)
+
 -   **type**: manga
 -   **original-name**: ニワトリ・ファイター
 -   **start-date**: 2020-12-18

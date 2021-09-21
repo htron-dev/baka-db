@@ -1,5 +1,7 @@
 # Nikomekko
 
+![nikomekko](https://cdn.myanimelist.net/images/manga/1/235213.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

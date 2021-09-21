@@ -1,5 +1,7 @@
 # Ningen Deshita 2nd Season
 
+![ningen-deshita-2nd-season](https://cdn.myanimelist.net/images/manga/2/192599.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

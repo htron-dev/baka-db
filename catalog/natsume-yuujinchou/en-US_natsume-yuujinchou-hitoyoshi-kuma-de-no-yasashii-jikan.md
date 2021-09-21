@@ -1,5 +1,7 @@
 # Natsume Yuujinchou: Hitoyoshi Kuma de no Yasashii Jikan
 
+![natsume-yuujinchou-hitoyoshi-kuma-de-no-yasashii-jikan](https://cdn.myanimelist.net/images/anime/1333/114902.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 夏目友人帳 × 熊本県「人吉・球磨での優しい時間」

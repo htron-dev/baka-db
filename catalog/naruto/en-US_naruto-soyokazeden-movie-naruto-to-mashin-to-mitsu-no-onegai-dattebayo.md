@@ -1,5 +1,7 @@
 # Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!
 
+![naruto-soyokazeden-movie-naruto-to-mashin-to-mitsu-no-onegai-dattebayo](https://cdn.myanimelist.net/images/anime/10/31573.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 NARUTO －ナルト－ そよ風伝 ナルトと魔神と 3 つのお願いだってばよ！！

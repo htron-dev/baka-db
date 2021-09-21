@@ -1,5 +1,7 @@
 # Genki Genki Non-tan: Utaou! Christmas
 
+![genki-genki-non-tan-utaou-christmas](https://cdn.myanimelist.net/images/anime/6/65135.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: げんき げんき ノンタン うたおう!クリスマス

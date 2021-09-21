@@ -1,5 +1,7 @@
 # Neko Me~waku
 
+![neko-me-waku](https://cdn.myanimelist.net/images/manga/2/130849.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこめ～わく
 

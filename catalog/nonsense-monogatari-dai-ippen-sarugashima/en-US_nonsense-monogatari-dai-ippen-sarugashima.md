@@ -1,5 +1,7 @@
 # Nonsense Monogatari Dai Ippen: Sarugashima
 
+![nonsense-monogatari-dai-ippen-sarugashima](https://cdn.myanimelist.net/images/anime/2/69265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 難船ス物語　第一篇　猿ケ島

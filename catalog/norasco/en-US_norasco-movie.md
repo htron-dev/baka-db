@@ -1,5 +1,7 @@
 # Norasco (Movie)
 
+![norasco-movie](https://cdn.myanimelist.net/images/anime/11/82048.jpg)
+
 -   **type**: movie
 -   **original-name**: 野良スコ
 -   **start-date**: 2016-09-17

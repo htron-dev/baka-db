@@ -1,5 +1,7 @@
 # Nihon Meisaku Douwa Series: Akai Tori no Kokoro
 
+![nihon-meisaku-douwa-series-akai-tori-no-kokoro](https://cdn.myanimelist.net/images/anime/6/53397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 日本名作童話シリーズ 赤い鳥のこころ

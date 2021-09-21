@@ -1,5 +1,7 @@
 # Nemurenu Yoru no Chiisana Ohanashi
 
+![nemurenu-yoru-no-chiisana-ohanashi](https://cdn.myanimelist.net/images/anime/11/67459.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 眠れぬ夜の小さなお話

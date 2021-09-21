@@ -1,5 +1,7 @@
 # Ningyo no Noroi
 
+![ningyo-no-noroi](https://cdn.myanimelist.net/images/manga/1/199510.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

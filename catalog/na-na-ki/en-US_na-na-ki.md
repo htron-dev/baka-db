@@ -1,5 +1,7 @@
 # Na*Na*Ki!!
 
+![na-na-ki](https://cdn.myanimelist.net/images/manga/1/7702.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ナ＊ナ＊キ!!

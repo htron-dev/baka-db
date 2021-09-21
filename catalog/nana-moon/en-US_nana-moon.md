@@ -1,5 +1,7 @@
 # Nana Moon
 
+![nana-moon](https://cdn.myanimelist.net/images/anime/8/81459.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 梦月精灵

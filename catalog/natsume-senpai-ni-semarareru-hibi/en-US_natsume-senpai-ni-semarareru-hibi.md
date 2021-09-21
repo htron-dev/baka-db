@@ -1,5 +1,7 @@
 # Natsume-senpai ni Semarareru Hibi
 
+![natsume-senpai-ni-semarareru-hibi](https://cdn.myanimelist.net/images/manga/2/247860.jpg)
+
 -   **type**: manga
 -   **original-name**: 棗センパイに迫られる日々
 -   **start-date**: 2020-04-24

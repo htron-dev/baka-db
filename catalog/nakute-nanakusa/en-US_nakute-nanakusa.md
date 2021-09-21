@@ -1,5 +1,7 @@
 # Nakute Nanakusa
 
+![nakute-nanakusa](https://cdn.myanimelist.net/images/manga/1/113301.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: なくてななくさ

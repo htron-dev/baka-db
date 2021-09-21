@@ -1,5 +1,7 @@
 # Not Lives
 
+![not-lives](https://cdn.myanimelist.net/images/manga/3/154153.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 54

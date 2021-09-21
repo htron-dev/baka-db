@@ -1,5 +1,7 @@
 # Nijitte Monogatari
 
+![nijitte-monogatari](https://cdn.myanimelist.net/images/manga/2/205887.jpg)
+
 -   **type**: manga
 -   **volumes**: 110
 -   **chapters**: 1254

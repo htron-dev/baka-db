@@ -1,5 +1,7 @@
 # Nobunaga-kun no Minna de Yakusoku Hi no Youjin
 
+![nobunaga-kun-no-minna-de-yakusoku-hi-no-youjin](https://cdn.myanimelist.net/images/anime/4/68925.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のぶながくんの みんなで約束 火の用心

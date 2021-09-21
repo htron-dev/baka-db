@@ -1,5 +1,7 @@
 # Nakimushi Yowamushi Shokatsu Koumei
 
+![nakimushi-yowamushi-shokatsu-koumei](https://cdn.myanimelist.net/images/manga/2/210656.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

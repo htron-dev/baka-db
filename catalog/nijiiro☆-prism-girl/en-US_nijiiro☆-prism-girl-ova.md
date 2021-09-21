@@ -1,5 +1,7 @@
 # Nijiiro☆Prism Girl
 
+![nijiiro☆-prism-girl](https://cdn.myanimelist.net/images/anime/8/58531.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: にじいろ ☆ プリズムガール

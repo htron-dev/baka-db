@@ -1,5 +1,7 @@
 # Naki Shoujo no Tame no Pavane
 
+![naki-shoujo-no-tame-no-pavane](https://cdn.myanimelist.net/images/manga/2/25712.jpg)
+
 -   **type**: manga
 -   **original-name**: 亡き少女の為のパヴァーヌ
 -   **start-date**: 2008-07-30

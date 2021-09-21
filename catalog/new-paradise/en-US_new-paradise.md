@@ -1,5 +1,7 @@
 # New Paradise
 
+![new-paradise](https://cdn.myanimelist.net/images/manga/3/23737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

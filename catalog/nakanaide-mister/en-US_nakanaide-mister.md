@@ -1,5 +1,7 @@
 # Nakanaide Mister
 
+![nakanaide-mister](https://cdn.myanimelist.net/images/manga/3/124389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 泣かないでミスター

@@ -1,5 +1,7 @@
 # Ninja Box
 
+![ninja-box](https://cdn.myanimelist.net/images/anime/1421/102040.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ニンジャボックス

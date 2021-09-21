@@ -1,5 +1,7 @@
 # Ninkyou Tensei: Isekai no Yakuza Hime
 
+![ninkyou-tensei-isekai-no-yakuza-hime](https://cdn.myanimelist.net/images/manga/2/226758.jpg)
+
 -   **type**: manga
 -   **original-name**: 任侠転生 －異世界のヤクザ姫－
 -   **start-date**: 2019-07-19

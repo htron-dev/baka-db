@@ -1,5 +1,7 @@
 # Nanmu Ichibyousokusai
 
+![nanmu-ichibyousokusai](https://cdn.myanimelist.net/images/anime/5/7481.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 南無一病息災

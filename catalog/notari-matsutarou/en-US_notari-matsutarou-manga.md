@@ -1,5 +1,7 @@
 # Notari Matsutarou
 
+![notari-matsutarou](https://cdn.myanimelist.net/images/manga/1/116689.jpg)
+
 -   **type**: manga
 -   **volumes**: 36
 -   **chapters**: 360

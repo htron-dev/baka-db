@@ -1,5 +1,7 @@
 # Nagi Watari - Oyobi Sono Hoka no Tanpen
 
+![nagi-watari-oyobi-sono-hoka-no-tanpen](https://cdn.myanimelist.net/images/manga/4/180303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Natsumeki!!
 
+![natsumeki](https://cdn.myanimelist.net/images/manga/3/205637.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

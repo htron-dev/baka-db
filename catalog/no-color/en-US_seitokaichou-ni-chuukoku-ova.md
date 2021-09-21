@@ -1,5 +1,7 @@
 # Seitokaichou ni Chuukoku
 
+![seitokaichou-ni-chuukoku](https://cdn.myanimelist.net/images/anime/5/17008.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 生徒会長に忠告

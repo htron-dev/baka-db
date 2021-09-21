@@ -1,5 +1,7 @@
 # Nobunaga no Shinobi: Nobunaga to Minarai Shinobi
 
+![nobunaga-no-shinobi-nobunaga-to-minarai-shinobi](https://cdn.myanimelist.net/images/anime/8/82507.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 信長の忍び 第 0 話『信長と見習い忍び』

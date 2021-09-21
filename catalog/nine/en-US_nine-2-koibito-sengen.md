@@ -1,5 +1,7 @@
 # Nine 2: Koibito Sengen
 
+![nine-2-koibito-sengen](https://cdn.myanimelist.net/images/anime/12/25620.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナイン 2 恋人宣言

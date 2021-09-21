@@ -1,5 +1,7 @@
 # Nakagawa Shouko Monogatari: Sorairo Days
 
+![nakagawa-shouko-monogatari-sorairo-days](https://cdn.myanimelist.net/images/manga/2/134275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

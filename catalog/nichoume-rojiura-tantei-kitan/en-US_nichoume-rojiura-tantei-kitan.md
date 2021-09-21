@@ -1,5 +1,7 @@
 # Nichoume Rojiura Tantei Kitan
 
+![nichoume-rojiura-tantei-kitan](https://cdn.myanimelist.net/images/manga/4/83897.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Nakagami-ke no Ichizoku
 
+![nakagami-ke-no-ichizoku](https://cdn.myanimelist.net/images/manga/3/31109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

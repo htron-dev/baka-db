@@ -1,5 +1,7 @@
 # Nande Koko ni Sensei ga!?
 
+![nande-koko-ni-sensei-ga](https://cdn.myanimelist.net/images/anime/1752/111394.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: なんでここに先生が!?

@@ -1,5 +1,7 @@
 # Nejimaki Mano-san
 
+![nejimaki-mano-san](https://cdn.myanimelist.net/images/manga/1/149296.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

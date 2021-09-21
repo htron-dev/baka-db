@@ -1,5 +1,7 @@
 # Nishino: Gakunai Caste Saikai ni shite Inou Sekai Saikyou no Shounen
 
+![nishino-gakunai-caste-saikai-ni-shite-inou-sekai-saikyou-no-shounen](https://cdn.myanimelist.net/images/manga/2/219248.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 西野～学内カースト最下位にして異能世界最強の少年～
 -   **start-date**: 2018-04-25

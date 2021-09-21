@@ -1,5 +1,7 @@
 # Night of the Beasts
 
+![night-of-the-beasts](https://cdn.myanimelist.net/images/manga/2/5124.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

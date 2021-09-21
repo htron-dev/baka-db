@@ -1,5 +1,7 @@
 # Kiken Mania
 
+![kiken-mania](https://cdn.myanimelist.net/images/manga/1/146407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

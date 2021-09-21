@@ -1,5 +1,7 @@
 # Itsuka Ame ga Furu You ni
 
+![itsuka-ame-ga-furu-you-ni](https://cdn.myanimelist.net/images/manga/3/7259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

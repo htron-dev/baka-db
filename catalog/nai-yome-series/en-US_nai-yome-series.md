@@ -1,5 +1,7 @@
 # Nai Yome Series
 
+![nai-yome-series](https://cdn.myanimelist.net/images/manga/1/232460.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

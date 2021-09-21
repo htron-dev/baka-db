@@ -1,5 +1,7 @@
 # Magical Pâtissière Kosaki-chan!!
 
+![magical-patissiere-kosaki-chan](https://cdn.myanimelist.net/images/manga/3/157716.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Nanairo no Shinwa
 
+![nanairo-no-shinwa](https://cdn.myanimelist.net/images/manga/2/5945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

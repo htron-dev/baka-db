@@ -1,5 +1,7 @@
 # Naraku Eiyuu no Rebellion
 
+![naraku-eiyuu-no-rebellion](https://cdn.myanimelist.net/images/manga/1/160831.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

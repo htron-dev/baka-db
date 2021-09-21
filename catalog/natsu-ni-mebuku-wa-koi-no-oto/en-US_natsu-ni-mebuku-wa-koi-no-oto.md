@@ -1,5 +1,7 @@
 # Natsu ni Mebuku wa Koi no Oto
 
+![natsu-ni-mebuku-wa-koi-no-oto](https://cdn.myanimelist.net/images/manga/2/224815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

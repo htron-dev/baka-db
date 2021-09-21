@@ -1,5 +1,7 @@
 # Nekokaburi Denka no Shuuchakuai
 
+![nekokaburi-denka-no-shuuchakuai](https://cdn.myanimelist.net/images/manga/1/215312.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 猫かぶり殿下の執着愛

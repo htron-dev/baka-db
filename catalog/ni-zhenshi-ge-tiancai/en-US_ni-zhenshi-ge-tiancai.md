@@ -1,5 +1,7 @@
 # Ni Zhenshi Ge Tiancai
 
+![ni-zhenshi-ge-tiancai](https://cdn.myanimelist.net/images/anime/1553/110311.jpg)
+
 -   **type**: ona
 -   **original-name**: 你真是个天才
 -   **rating**: None

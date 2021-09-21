@@ -1,5 +1,7 @@
 # Nozomanu Fushi no Boukensha
 
+![nozomanu-fushi-no-boukensha](https://cdn.myanimelist.net/images/manga/2/201350.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 望まぬ不死の冒険者
 -   **start-date**: 2017-10-25

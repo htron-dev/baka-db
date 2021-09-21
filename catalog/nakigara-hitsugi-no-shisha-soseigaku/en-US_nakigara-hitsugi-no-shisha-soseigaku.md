@@ -1,5 +1,7 @@
 # Nakigara Hitsugi no Shisha Soseigaku
 
+![nakigara-hitsugi-no-shisha-soseigaku](https://cdn.myanimelist.net/images/manga/1/164302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

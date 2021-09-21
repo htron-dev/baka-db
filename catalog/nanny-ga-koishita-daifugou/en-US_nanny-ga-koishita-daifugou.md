@@ -1,5 +1,7 @@
 # Nanny ga Koishita Daifugou
 
+![nanny-ga-koishita-daifugou](https://cdn.myanimelist.net/images/manga/2/231814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ナニーが恋した大富豪

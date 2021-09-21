@@ -1,5 +1,7 @@
 # Neko Konogoro
 
+![neko-konogoro](https://cdn.myanimelist.net/images/anime/1877/91297.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ネコこのゴロ
 -   **start-date**: 2016-06-08

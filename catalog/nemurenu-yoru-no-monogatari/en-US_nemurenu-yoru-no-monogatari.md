@@ -1,5 +1,7 @@
 # Nemurenu Yoru no Monogatari
 
+![nemurenu-yoru-no-monogatari](https://cdn.myanimelist.net/images/manga/1/34825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

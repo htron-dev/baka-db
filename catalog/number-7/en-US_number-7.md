@@ -1,5 +1,7 @@
 # Number 7
 
+![number-7](https://cdn.myanimelist.net/images/manga/3/84379.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

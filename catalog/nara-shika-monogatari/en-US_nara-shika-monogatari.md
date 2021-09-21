@@ -1,5 +1,7 @@
 # Nara Shika Monogatari
 
+![nara-shika-monogatari](https://cdn.myanimelist.net/images/anime/6/40037.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 奈良鹿物語

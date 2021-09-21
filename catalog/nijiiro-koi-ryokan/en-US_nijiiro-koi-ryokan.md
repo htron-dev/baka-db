@@ -1,5 +1,7 @@
 # Nijiiro Koi Ryokan
 
+![nijiiro-koi-ryokan](https://cdn.myanimelist.net/images/manga/3/11706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

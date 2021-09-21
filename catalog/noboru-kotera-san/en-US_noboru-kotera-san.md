@@ -1,5 +1,7 @@
 # Noboru Kotera-san
 
+![noboru-kotera-san](https://cdn.myanimelist.net/images/manga/2/163648.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Ninja Slayer Series
 
+![ninja-slayer-series](https://cdn.myanimelist.net/images/manga/3/153899.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ニンジャスレイヤー シリーズ
 -   **start-date**: 2012-09-29

@@ -1,5 +1,7 @@
 # Nanatsu no Maken ga Shihai suru
 
+![nanatsu-no-maken-ga-shihai-suru](https://cdn.myanimelist.net/images/manga/3/231022.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 七つの魔剣が支配する
 -   **start-date**: 2018-09-07

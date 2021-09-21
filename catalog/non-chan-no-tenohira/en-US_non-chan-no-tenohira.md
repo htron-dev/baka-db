@@ -1,5 +1,7 @@
 # Non-chan no Tenohira
 
+![non-chan-no-tenohira](https://cdn.myanimelist.net/images/manga/1/45435.jpg)
+
 -   **type**: manga
 -   **original-name**: のんちゃんの手のひら
 

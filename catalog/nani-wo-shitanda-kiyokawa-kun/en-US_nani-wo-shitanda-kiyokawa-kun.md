@@ -1,5 +1,7 @@
 # Nani wo Shitanda, Kiyokawa-kun
 
+![nani-wo-shitanda-kiyokawa-kun](https://cdn.myanimelist.net/images/manga/2/156946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 何をしたんだ、清川くん

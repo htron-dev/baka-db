@@ -1,5 +1,7 @@
 # Naruto x UT
 
+![naruto-x-ut](https://cdn.myanimelist.net/images/anime/3/30485.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NARUTO×UT

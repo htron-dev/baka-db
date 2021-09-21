@@ -1,5 +1,7 @@
 # Neko to Ryuu
 
+![neko-to-ryuu](https://cdn.myanimelist.net/images/manga/2/176555.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 猫と竜
 -   **start-date**: 2016-04-22

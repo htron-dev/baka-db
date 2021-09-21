@@ -1,5 +1,7 @@
 # Nar Doma
 
+![nar-doma](https://cdn.myanimelist.net/images/manga/3/177985.jpg)
+
 -   **type**: manga
 -   **chapters**: 105
 -   **original-name**: ナルどマ

@@ -1,5 +1,7 @@
 # Notpia
 
+![notpia](https://cdn.myanimelist.net/images/manga/2/28878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

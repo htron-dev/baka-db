@@ -1,5 +1,7 @@
 # Nagiko no Hanashi
 
+![nagiko-no-hanashi](https://cdn.myanimelist.net/images/manga/2/226505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

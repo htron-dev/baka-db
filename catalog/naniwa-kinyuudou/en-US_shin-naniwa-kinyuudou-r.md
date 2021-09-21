@@ -1,5 +1,7 @@
 # Shin Naniwa Kinyuudou R
 
+![shin-naniwa-kinyuudou-r](https://cdn.myanimelist.net/images/manga/2/226808.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 76

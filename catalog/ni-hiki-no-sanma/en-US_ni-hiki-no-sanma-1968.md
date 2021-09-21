@@ -1,5 +1,7 @@
 # Ni-hiki no Sanma (1968)
 
+![ni-hiki-no-sanma-1968](https://cdn.myanimelist.net/images/anime/3/71445.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二匹のサンマ

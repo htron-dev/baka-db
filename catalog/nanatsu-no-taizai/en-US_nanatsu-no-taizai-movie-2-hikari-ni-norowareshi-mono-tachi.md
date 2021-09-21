@@ -1,5 +1,7 @@
 # Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi
 
+![nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi](https://cdn.myanimelist.net/images/anime/1096/113360.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 七つの大罪 光に呪われし者たち

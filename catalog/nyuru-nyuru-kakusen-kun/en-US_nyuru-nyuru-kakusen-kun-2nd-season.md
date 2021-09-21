@@ -1,5 +1,7 @@
 # Nyuru Nyuru!! Kakusen-kun 2nd Season
 
+![nyuru-nyuru-kakusen-kun-2nd-season](https://cdn.myanimelist.net/images/anime/10/72532.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: にゅるにゅる!!KAKUSEN くん 2 期

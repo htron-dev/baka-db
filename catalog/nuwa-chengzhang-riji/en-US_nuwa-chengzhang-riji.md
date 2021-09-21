@@ -1,5 +1,7 @@
 # Nuwa Chengzhang Riji
 
+![nuwa-chengzhang-riji](https://cdn.myanimelist.net/images/anime/7/79259.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 女娲成长日记

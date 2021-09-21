@@ -1,5 +1,7 @@
 # Natsume Yuujinchou Go Specials
 
+![natsume-yuujinchou-go-specials](https://cdn.myanimelist.net/images/anime/3/84887.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 夏目友人帳 伍 特別編

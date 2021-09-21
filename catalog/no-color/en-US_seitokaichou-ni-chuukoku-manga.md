@@ -1,5 +1,7 @@
 # Seitokaichou ni Chuukoku
 
+![seitokaichou-ni-chuukoku](https://cdn.myanimelist.net/images/manga/1/31103.jpg)
+
 -   **type**: manga
 -   **original-name**: 生徒会長に忠告
 -   **start-date**: 2005-09-30

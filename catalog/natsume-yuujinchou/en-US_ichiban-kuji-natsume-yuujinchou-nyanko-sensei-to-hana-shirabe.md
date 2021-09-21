@@ -1,5 +1,7 @@
 # Ichiban Kuji Natsume Yuujinchou: Nyanko-sensei to Hana Shirabe
 
+![ichiban-kuji-natsume-yuujinchou-nyanko-sensei-to-hana-shirabe](https://cdn.myanimelist.net/images/anime/1913/114611.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一番くじ 夏目友人帳 ニャンコ先生と花しらべ

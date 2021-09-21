@@ -1,5 +1,7 @@
 # Nessa no Haou Gandalla
 
+![nessa-no-haou-gandalla](https://cdn.myanimelist.net/images/anime/5/58541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 熱沙の覇王ガンダーラ

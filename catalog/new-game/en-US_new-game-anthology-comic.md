@@ -1,5 +1,7 @@
 # New Game! Anthology Comic
 
+![new-game-anthology-comic](https://cdn.myanimelist.net/images/manga/3/241401.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

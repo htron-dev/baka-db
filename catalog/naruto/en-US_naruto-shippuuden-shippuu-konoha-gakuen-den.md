@@ -1,5 +1,7 @@
 # Naruto: Shippuuden - Shippuu! "Konoha Gakuen" Den
 
+![naruto-shippuuden-shippuu-konoha-gakuen-den](https://cdn.myanimelist.net/images/anime/5/51895.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: NARUTO 疾風伝「疾風! "木ノ葉学園"伝」

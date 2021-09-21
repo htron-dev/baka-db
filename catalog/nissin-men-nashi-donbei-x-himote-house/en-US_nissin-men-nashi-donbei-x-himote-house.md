@@ -1,5 +1,7 @@
 # Nissin Men-nashi Donbei x Himote House
 
+![nissin-men-nashi-donbei-x-himote-house](https://cdn.myanimelist.net/images/anime/1282/97863.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 日清麺なしどん兵衛 × ひもてはうす

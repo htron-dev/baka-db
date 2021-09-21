@@ -1,5 +1,7 @@
 # Neko Tsume Tsuki ga Noboru Koro
 
+![neko-tsume-tsuki-ga-noboru-koro](https://cdn.myanimelist.net/images/manga/3/243257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Ne no Kuni no Kumo
 
+![ne-no-kuni-no-kumo](https://cdn.myanimelist.net/images/manga/2/165681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

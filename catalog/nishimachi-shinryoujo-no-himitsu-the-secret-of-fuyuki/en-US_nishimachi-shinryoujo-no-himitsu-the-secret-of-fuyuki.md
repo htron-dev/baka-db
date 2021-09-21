@@ -1,5 +1,7 @@
 # Nishimachi Shinryoujo no Himitsu - The Secret of Fuyuki
 
+![nishimachi-shinryoujo-no-himitsu-the-secret-of-fuyuki](https://cdn.myanimelist.net/images/manga/2/21987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

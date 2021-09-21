@@ -1,5 +1,7 @@
 # Nidome no Jinsei wo Isekai de
 
+![nidome-no-jinsei-wo-isekai-de](https://cdn.myanimelist.net/images/manga/1/186026.jpg)
+
 -   **type**: manga
 -   **original-name**: 二度目の人生を異世界で
 -   **start-date**: 2016-06-22

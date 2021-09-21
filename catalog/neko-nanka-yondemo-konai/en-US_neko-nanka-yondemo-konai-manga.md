@@ -1,5 +1,7 @@
 # Neko nanka Yondemo Konai.
 
+![neko-nanka-yondemo-konai](https://cdn.myanimelist.net/images/manga/1/165159.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 猫なんかよんでもこない。

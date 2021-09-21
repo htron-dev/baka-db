@@ -1,5 +1,7 @@
 # Notari Matsutarou
 
+![notari-matsutarou](https://cdn.myanimelist.net/images/anime/8/19012.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: のたり松太郎

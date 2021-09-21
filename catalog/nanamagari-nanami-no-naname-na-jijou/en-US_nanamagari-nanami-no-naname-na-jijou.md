@@ -1,5 +1,7 @@
 # Nanamagari Nanami no Naname na Jijou
 
+![nanamagari-nanami-no-naname-na-jijou](https://cdn.myanimelist.net/images/manga/3/160830.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 七曲ナナミの斜めな事情

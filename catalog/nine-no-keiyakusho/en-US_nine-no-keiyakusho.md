@@ -1,5 +1,7 @@
 # Nine no Keiyakusho
 
+![nine-no-keiyakusho](https://cdn.myanimelist.net/images/manga/1/163113.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

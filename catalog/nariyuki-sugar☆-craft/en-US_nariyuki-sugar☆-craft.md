@@ -1,5 +1,7 @@
 # Nariyuki! Sugar☆Craft
 
+![nariyuki-sugar☆-craft](https://cdn.myanimelist.net/images/manga/3/132007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: なりゆき！しゅがあ ☆ くらふと

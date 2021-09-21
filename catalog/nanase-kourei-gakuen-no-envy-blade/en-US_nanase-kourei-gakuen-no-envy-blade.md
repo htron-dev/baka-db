@@ -1,5 +1,7 @@
 # Nanase Kourei Gakuen no Envy Blade
 
+![nanase-kourei-gakuen-no-envy-blade](https://cdn.myanimelist.net/images/manga/3/162866.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 37

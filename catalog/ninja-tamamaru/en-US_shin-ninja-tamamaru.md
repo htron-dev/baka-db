@@ -1,5 +1,7 @@
 # Shin Ninja Tamamaru
 
+![shin-ninja-tamamaru](https://cdn.myanimelist.net/images/anime/9/84700.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 新忍者玉丸

@@ -1,5 +1,7 @@
 # New York New York
 
+![new-york-new-york](https://cdn.myanimelist.net/images/manga/3/4636.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

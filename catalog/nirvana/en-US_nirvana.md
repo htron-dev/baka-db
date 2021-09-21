@@ -1,5 +1,7 @@
 # Nirvana
 
+![nirvana](https://cdn.myanimelist.net/images/manga/2/196175.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Neko no Shima
 
+![neko-no-shima](https://cdn.myanimelist.net/images/manga/2/130663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Nomi Joshi
 
+![nomi-joshi](https://cdn.myanimelist.net/images/manga/2/163654.jpg)
+
 -   **type**: manga
 -   **original-name**: のみじょし
 -   **start-date**: 2013-07-04

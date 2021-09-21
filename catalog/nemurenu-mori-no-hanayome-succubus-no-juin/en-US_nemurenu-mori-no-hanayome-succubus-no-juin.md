@@ -1,5 +1,7 @@
 # Nemurenu Mori no Hanayome: Succubus no Juin
 
+![nemurenu-mori-no-hanayome-succubus-no-juin](https://cdn.myanimelist.net/images/manga/1/186609.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

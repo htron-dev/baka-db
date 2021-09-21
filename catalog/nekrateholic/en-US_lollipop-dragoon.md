@@ -1,5 +1,7 @@
 # Lollipop Dragoon
 
+![lollipop-dragoon](https://cdn.myanimelist.net/images/manga/2/181313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Schick x Evangelion
 
+![schick-x-evangelion](https://cdn.myanimelist.net/images/anime/3/74747.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Schick × エヴァンゲリオン

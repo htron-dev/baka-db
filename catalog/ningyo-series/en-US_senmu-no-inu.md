@@ -1,5 +1,7 @@
 # Senmu no Inu
 
+![senmu-no-inu](https://cdn.myanimelist.net/images/manga/1/146131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

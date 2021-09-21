@@ -1,5 +1,7 @@
 # Narikawari
 
+![narikawari](https://cdn.myanimelist.net/images/manga/2/219560.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 72

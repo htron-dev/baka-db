@@ -1,5 +1,7 @@
 # Neko Neko Gong Show
 
+![neko-neko-gong-show](https://cdn.myanimelist.net/images/anime/8/88391.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ネコネコ ゴングショー

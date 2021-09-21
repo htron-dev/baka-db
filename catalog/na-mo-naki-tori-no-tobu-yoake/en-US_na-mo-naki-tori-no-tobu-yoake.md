@@ -1,5 +1,7 @@
 # Na mo Naki Tori no Tobu Yoake
 
+![na-mo-naki-tori-no-tobu-yoake](https://cdn.myanimelist.net/images/manga/2/5248.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

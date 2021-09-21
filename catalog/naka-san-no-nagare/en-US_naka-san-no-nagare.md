@@ -1,5 +1,7 @@
 # Naka-san no Nagare
 
+![naka-san-no-nagare](https://cdn.myanimelist.net/images/manga/3/71429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

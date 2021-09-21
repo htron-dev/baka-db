@@ -1,5 +1,7 @@
 # Nouko no Koi
 
+![nouko-no-koi](https://cdn.myanimelist.net/images/manga/3/23990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

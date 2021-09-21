@@ -1,5 +1,7 @@
 # Naruto: Akaki Yotsuba no Clover wo Sagase
 
+![naruto-akaki-yotsuba-no-clover-wo-sagase](https://cdn.myanimelist.net/images/anime/12/11240.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナルト 紅き四つ葉のクローバーを探せ

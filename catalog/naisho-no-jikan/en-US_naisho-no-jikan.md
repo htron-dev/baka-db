@@ -1,5 +1,7 @@
 # Naisho no Jikan
 
+![naisho-no-jikan](https://cdn.myanimelist.net/images/manga/1/168427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

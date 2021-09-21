@@ -1,5 +1,7 @@
 # Nakanohito Genome [Jikkyouchuu]: Knots of Memories
 
+![nakanohito-genome-jikkyouchuu-knots-of-memories](https://cdn.myanimelist.net/images/anime/1118/103618.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ナカノヒトゲノム【実況中】KNOTS OF MEMORIES

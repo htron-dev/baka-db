@@ -1,5 +1,7 @@
 # Nakanohito Genome [Jikkyouchuu]
 
+![nakanohito-genome-jikkyouchuu](https://cdn.myanimelist.net/images/anime/1725/102251.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ナカノヒトゲノム【実況中】

@@ -1,5 +1,7 @@
 # N to S
 
+![n-to-s](https://cdn.myanimelist.net/images/manga/1/212668.jpg)
+
 -   **type**: manga
 -   **original-name**: N と S
 -   **start-date**: 2018-01-24

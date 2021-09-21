@@ -1,5 +1,7 @@
 # Nine
 
+![nine](https://cdn.myanimelist.net/images/anime/3/24810.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナイン

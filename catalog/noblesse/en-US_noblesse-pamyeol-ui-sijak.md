@@ -1,5 +1,7 @@
 # Noblesse: Pamyeol-ui Sijak
 
+![noblesse-pamyeol-ui-sijak](https://cdn.myanimelist.net/images/anime/6/78178.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NOBLESSE 파멸의 시작

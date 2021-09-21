@@ -1,5 +1,7 @@
 # Nara Shikatanashi
 
+![nara-shikatanashi](https://cdn.myanimelist.net/images/manga/1/226506.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

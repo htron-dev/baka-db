@@ -1,5 +1,7 @@
 # Naruto SD: Rock Lee no Seishun Full-Power Ninden
 
+![naruto-sd-rock-lee-no-seishun-full-power-ninden](https://cdn.myanimelist.net/images/anime/13/36475.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ナルト SD ロック・リーの青春フルパワー忍伝

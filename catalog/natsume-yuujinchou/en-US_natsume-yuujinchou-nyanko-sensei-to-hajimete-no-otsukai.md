@@ -1,5 +1,7 @@
 # Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai
 
+![natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai](https://cdn.myanimelist.net/images/anime/5/51431.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 夏目友人帳新作アニメ DVD

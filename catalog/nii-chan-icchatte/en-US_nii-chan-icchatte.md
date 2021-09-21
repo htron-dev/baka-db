@@ -1,5 +1,7 @@
 # Nii-chan, Icchatte!
 
+![nii-chan-icchatte](https://cdn.myanimelist.net/images/manga/2/22254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

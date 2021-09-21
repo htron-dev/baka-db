@@ -1,5 +1,7 @@
 # Nichinichi ni Panorama
 
+![nichinichi-ni-panorama](https://cdn.myanimelist.net/images/manga/3/150480.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

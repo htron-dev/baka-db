@@ -1,5 +1,7 @@
 # Natsu no Zangai
 
+![natsu-no-zangai](https://cdn.myanimelist.net/images/manga/2/27573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

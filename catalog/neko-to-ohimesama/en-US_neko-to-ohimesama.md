@@ -1,5 +1,7 @@
 # Neko to Ohimesama
 
+![neko-to-ohimesama](https://cdn.myanimelist.net/images/manga/2/129289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねことお姫さま

@@ -1,5 +1,7 @@
 # Neuro Hard: Hachi no Wakusei
 
+![neuro-hard-hachi-no-wakusei](https://cdn.myanimelist.net/images/manga/2/116949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

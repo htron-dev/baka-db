@@ -1,5 +1,7 @@
 # Nichinichi Bentou
 
+![nichinichi-bentou](https://cdn.myanimelist.net/images/manga/2/235023.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 68

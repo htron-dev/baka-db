@@ -1,5 +1,7 @@
 # Neko to Kiss
 
+![neko-to-kiss](https://cdn.myanimelist.net/images/manga/1/249828.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫とキス
 -   **start-date**: 2020-08-11

@@ -1,5 +1,7 @@
 # Nobunaga the Fool
 
+![nobunaga-the-fool](https://cdn.myanimelist.net/images/manga/2/151901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Noririn
 
+![noririn](https://cdn.myanimelist.net/images/manga/2/151983.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 90

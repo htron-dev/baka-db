@@ -1,5 +1,7 @@
 # Nanika ga Umi kara Yattekuru: 8-gatsu no Meiwaku Shinryakusha-tachi
 
+![nanika-ga-umi-kara-yattekuru-8-gatsu-no-meiwaku-shinryakusha-tachi](https://cdn.myanimelist.net/images/manga/3/160183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 何かが深海〈うみ〉からやってくる 8 月の迷惑な侵略者たち

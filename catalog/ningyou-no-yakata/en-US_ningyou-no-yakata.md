@@ -1,5 +1,7 @@
 # Ningyou no Yakata
 
+![ningyou-no-yakata](https://cdn.myanimelist.net/images/manga/1/115253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 人形の館

@@ -1,5 +1,7 @@
 # Nui!
 
+![nui](https://cdn.myanimelist.net/images/manga/2/5239.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

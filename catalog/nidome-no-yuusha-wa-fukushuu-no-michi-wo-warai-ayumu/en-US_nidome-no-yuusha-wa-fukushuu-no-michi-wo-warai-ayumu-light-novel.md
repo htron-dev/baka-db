@@ -1,5 +1,7 @@
 # Nidome no Yuusha wa Fukushuu no Michi wo Warai Ayumu
 
+![nidome-no-yuusha-wa-fukushuu-no-michi-wo-warai-ayumu](https://cdn.myanimelist.net/images/manga/3/210480.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 二度目の勇者は復讐の道を嗤い歩む
 -   **start-date**: 2016-05-25

@@ -1,5 +1,7 @@
 # Not Evil!
 
+![not-evil](https://cdn.myanimelist.net/images/manga/3/195321.jpg)
+
 -   **type**: manga
 -   **original-name**: ノットイーヴィル！
 -   **start-date**: 2015-06-24

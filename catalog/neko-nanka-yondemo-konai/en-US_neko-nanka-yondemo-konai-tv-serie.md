@@ -1,5 +1,7 @@
 # Neko nanka Yondemo Konai.
 
+![neko-nanka-yondemo-konai](https://cdn.myanimelist.net/images/anime/2/76535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 猫なんかよんでもこない。

@@ -1,5 +1,7 @@
 # Nisou no Kuzu
 
+![nisou-no-kuzu](https://cdn.myanimelist.net/images/anime/2/59755.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二層の葛

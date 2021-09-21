@@ -1,5 +1,7 @@
 # Netsuppoi desu yo?
 
+![netsuppoi-desu-yo](https://cdn.myanimelist.net/images/manga/3/88767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

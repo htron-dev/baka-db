@@ -1,5 +1,7 @@
 # Nagisa Shokudou
 
+![nagisa-shokudou](https://cdn.myanimelist.net/images/manga/1/149054.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 47

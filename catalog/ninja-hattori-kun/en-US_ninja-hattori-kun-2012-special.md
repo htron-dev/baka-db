@@ -1,5 +1,7 @@
 # Ninja Hattori-kun (2012) Special
 
+![ninja-hattori-kun-2012-special](https://cdn.myanimelist.net/images/anime/2/72216.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 忍者ハットリくん (2012)

@@ -1,5 +1,7 @@
 # Mahou Shoujo 4-gou-chan
 
+![mahou-shoujo-4-gou-chan](https://cdn.myanimelist.net/images/manga/1/150374.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

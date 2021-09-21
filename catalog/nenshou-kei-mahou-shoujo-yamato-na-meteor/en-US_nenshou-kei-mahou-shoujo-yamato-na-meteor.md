@@ -1,5 +1,7 @@
 # Nenshou-kei Mahou Shoujo Yamato na Meteor
 
+![nenshou-kei-mahou-shoujo-yamato-na-meteor](https://cdn.myanimelist.net/images/manga/3/213523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

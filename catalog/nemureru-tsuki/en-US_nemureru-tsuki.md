@@ -1,5 +1,7 @@
 # Nemureru Tsuki
 
+![nemureru-tsuki](https://cdn.myanimelist.net/images/manga/5/121303.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

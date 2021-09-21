@@ -1,5 +1,7 @@
 # Nikukyuu!
 
+![nikukyuu](https://cdn.myanimelist.net/images/manga/3/147445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Narara Wonder Gongju
 
+![narara-wonder-gongju](https://cdn.myanimelist.net/images/anime/10/45150.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 날아라원더공주

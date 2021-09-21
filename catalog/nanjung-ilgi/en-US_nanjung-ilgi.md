@@ -1,5 +1,7 @@
 # Nanjung Ilgi
 
+![nanjung-ilgi](https://cdn.myanimelist.net/images/anime/1798/108249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 난중일기

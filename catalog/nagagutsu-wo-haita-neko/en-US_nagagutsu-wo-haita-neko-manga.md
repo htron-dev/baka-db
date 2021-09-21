@@ -1,5 +1,7 @@
 # Nagagutsu wo Haita Neko
 
+![nagagutsu-wo-haita-neko](https://cdn.myanimelist.net/images/manga/2/122611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

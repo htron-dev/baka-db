@@ -1,5 +1,7 @@
 # P no Higeki
 
+![p-no-higeki](https://cdn.myanimelist.net/images/manga/1/146129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

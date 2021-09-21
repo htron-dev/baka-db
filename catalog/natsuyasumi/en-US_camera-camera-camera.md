@@ -1,5 +1,7 @@
 # Camera Camera Camera
 
+![camera-camera-camera](https://cdn.myanimelist.net/images/manga/2/30593.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

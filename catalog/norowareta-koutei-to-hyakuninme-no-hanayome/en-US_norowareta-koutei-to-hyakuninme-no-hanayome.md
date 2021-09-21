@@ -1,5 +1,7 @@
 # Norowareta Koutei to Hyakuninme no Hanayome
 
+![norowareta-koutei-to-hyakuninme-no-hanayome](https://cdn.myanimelist.net/images/manga/3/167589.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 呪われた皇帝と百人目の花嫁

@@ -1,5 +1,7 @@
 # Naberius Fuuin Bijutsukan no Collector
 
+![naberius-fuuin-bijutsukan-no-collector](https://cdn.myanimelist.net/images/manga/1/197253.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ナベリウス封印美術館の蒐集士〈コレクター〉
 -   **start-date**: 2017-01-14

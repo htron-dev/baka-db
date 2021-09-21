@@ -1,5 +1,7 @@
 # Nippon Furusato Chinbotsu
 
+![nippon-furusato-chinbotsu](https://cdn.myanimelist.net/images/manga/1/120179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 日本ふるさと沈没

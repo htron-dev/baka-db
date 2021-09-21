@@ -1,5 +1,7 @@
 # Nametate☆Apple Pie
 
+![nametate☆-apple-pie](https://cdn.myanimelist.net/images/manga/3/103911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

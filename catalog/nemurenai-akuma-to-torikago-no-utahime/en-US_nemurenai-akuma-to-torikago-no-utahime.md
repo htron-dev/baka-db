@@ -1,5 +1,7 @@
 # Nemurenai Akuma to Torikago no Utahime
 
+![nemurenai-akuma-to-torikago-no-utahime](https://cdn.myanimelist.net/images/manga/3/128583.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 眠れない悪魔と鳥籠の歌姫

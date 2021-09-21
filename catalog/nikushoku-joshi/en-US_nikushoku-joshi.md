@@ -1,5 +1,7 @@
 # Nikushoku Joshi!!
 
+![nikushoku-joshi](https://cdn.myanimelist.net/images/manga/1/194324.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

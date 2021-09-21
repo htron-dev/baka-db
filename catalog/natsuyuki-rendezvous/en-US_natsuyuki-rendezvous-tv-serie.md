@@ -1,5 +1,7 @@
 # Natsuyuki Rendezvous
 
+![natsuyuki-rendezvous](https://cdn.myanimelist.net/images/anime/11/38181.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 夏雪ランデブー

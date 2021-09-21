@@ -1,5 +1,7 @@
 # No.6
 
+![no-6](https://cdn.myanimelist.net/images/anime/1474/90768.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: NO.6［ナンバー・シックス］

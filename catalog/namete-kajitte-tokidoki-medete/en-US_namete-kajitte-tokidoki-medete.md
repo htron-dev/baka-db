@@ -1,5 +1,7 @@
 # Namete, Kajitte, Tokidoki Medete
 
+![namete-kajitte-tokidoki-medete](https://cdn.myanimelist.net/images/manga/3/194516.jpg)
+
 -   **type**: manga
 -   **original-name**: なめて、かじって、ときどき愛でて
 -   **start-date**: 2016-09-24

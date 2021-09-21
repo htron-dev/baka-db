@@ -1,5 +1,7 @@
 # Ninku
 
+![ninku](https://cdn.myanimelist.net/images/manga/2/38322.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 81

@@ -1,5 +1,7 @@
 # Nori P-chan
 
+![nori-p-chan](https://cdn.myanimelist.net/images/anime/13/79691.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のりピーちゃん

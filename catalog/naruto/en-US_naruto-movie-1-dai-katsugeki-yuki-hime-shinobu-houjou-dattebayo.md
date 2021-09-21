@@ -1,5 +1,7 @@
 # Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!
 
+![naruto-movie-1-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo](https://cdn.myanimelist.net/images/anime/6/76015.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　 NARUTO 　大活劇！雪姫忍法帖だってばよ!!

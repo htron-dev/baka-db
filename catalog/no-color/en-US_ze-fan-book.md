@@ -1,5 +1,7 @@
 # Ze Fan Book
 
+![ze-fan-book](https://cdn.myanimelist.net/images/manga/2/31898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

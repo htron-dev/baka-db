@@ -1,5 +1,7 @@
 # Nu Sheng Su She Ri Chang
 
+![nu-sheng-su-she-ri-chang](https://cdn.myanimelist.net/images/anime/1804/93052.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 女生宿舍日常

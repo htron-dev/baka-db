@@ -1,5 +1,7 @@
 # Narutaru: Mukuro Naru Hoshi Tama Taru Ko
 
+![narutaru-mukuro-naru-hoshi-tama-taru-ko](https://cdn.myanimelist.net/images/manga/3/141003.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 68

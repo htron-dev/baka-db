@@ -1,5 +1,7 @@
 # Nogizaka Haruka no Himitsu
 
+![nogizaka-haruka-no-himitsu](https://cdn.myanimelist.net/images/manga/1/184039.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

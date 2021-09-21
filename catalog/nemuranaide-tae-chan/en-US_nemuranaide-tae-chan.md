@@ -1,5 +1,7 @@
 # Nemuranaide Tae-chan
 
+![nemuranaide-tae-chan](https://cdn.myanimelist.net/images/manga/1/173384.jpg)
+
 -   **type**: manga
 -   **chapters**: 57
 -   **original-name**: 眠らないでタエちゃん

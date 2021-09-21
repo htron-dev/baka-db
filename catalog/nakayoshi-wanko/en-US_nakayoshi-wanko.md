@@ -1,5 +1,7 @@
 # Nakayoshi Wanko
 
+![nakayoshi-wanko](https://cdn.myanimelist.net/images/manga/2/26326.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

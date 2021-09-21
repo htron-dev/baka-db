@@ -1,5 +1,7 @@
 # Nekomimi Tenshi to Koisuru Ringo
 
+![nekomimi-tenshi-to-koisuru-ringo](https://cdn.myanimelist.net/images/manga/2/163376.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

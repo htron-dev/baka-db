@@ -1,5 +1,7 @@
 # Nukozuke!
 
+![nukozuke](https://cdn.myanimelist.net/images/manga/1/189388.jpg)
+
 -   **type**: manga
 -   **original-name**: ぬこづけ！
 -   **start-date**: 2012-04-06

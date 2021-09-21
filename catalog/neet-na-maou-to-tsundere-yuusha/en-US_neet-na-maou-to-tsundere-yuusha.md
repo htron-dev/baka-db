@@ -1,5 +1,7 @@
 # NEET na Maou to Tsundere Yuusha
 
+![neet-na-maou-to-tsundere-yuusha](https://cdn.myanimelist.net/images/manga/2/160871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

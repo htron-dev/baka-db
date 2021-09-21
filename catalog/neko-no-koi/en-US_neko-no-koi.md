@@ -1,5 +1,7 @@
 # Neko no Koi
 
+![neko-no-koi](https://cdn.myanimelist.net/images/manga/2/29314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

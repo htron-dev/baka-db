@@ -1,5 +1,7 @@
 # Norageki!
 
+![norageki](https://cdn.myanimelist.net/images/anime/10/31755.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ノラゲキ！

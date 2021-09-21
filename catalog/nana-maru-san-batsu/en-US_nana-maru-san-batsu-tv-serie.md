@@ -1,5 +1,7 @@
 # Nana Maru San Batsu
 
+![nana-maru-san-batsu](https://cdn.myanimelist.net/images/anime/9/86731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ナナマル サンバツ

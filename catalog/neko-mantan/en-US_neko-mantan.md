@@ -1,5 +1,7 @@
 # Neko Mantan
 
+![neko-mantan](https://cdn.myanimelist.net/images/manga/1/14282.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこまんたん
 

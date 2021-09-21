@@ -1,5 +1,7 @@
 # Ningen Tokei
 
+![ningen-tokei](https://cdn.myanimelist.net/images/manga/4/157943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

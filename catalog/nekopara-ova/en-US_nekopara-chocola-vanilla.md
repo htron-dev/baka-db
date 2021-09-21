@@ -1,5 +1,7 @@
 # Nekopara: Chocola & Vanilla
 
+![nekopara-chocola-vanilla](https://cdn.myanimelist.net/images/manga/1/230355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

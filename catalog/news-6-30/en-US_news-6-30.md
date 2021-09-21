@@ -1,5 +1,7 @@
 # News 6:30
 
+![news-6-30](https://cdn.myanimelist.net/images/manga/4/32366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

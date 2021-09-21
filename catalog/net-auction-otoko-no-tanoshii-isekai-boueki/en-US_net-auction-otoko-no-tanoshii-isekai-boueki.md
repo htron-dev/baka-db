@@ -1,5 +1,7 @@
 # Net Auction Otoko no Tanoshii Isekai Boueki
 
+![net-auction-otoko-no-tanoshii-isekai-boueki](https://cdn.myanimelist.net/images/manga/2/177154.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ネトオク男の楽しい異世界貿易
 -   **start-date**: 2013-09-25

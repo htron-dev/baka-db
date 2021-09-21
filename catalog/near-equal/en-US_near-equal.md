@@ -1,5 +1,7 @@
 # Near Equal
 
+![near-equal](https://cdn.myanimelist.net/images/manga/1/128515.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ≒ − ニア・イコール −

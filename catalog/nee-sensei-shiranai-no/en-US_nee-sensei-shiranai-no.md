@@ -1,5 +1,7 @@
 # Nee Sensei, Shiranai no?
 
+![nee-sensei-shiranai-no](https://cdn.myanimelist.net/images/manga/3/244870.jpg)
+
 -   **type**: manga
 -   **original-name**: ねぇ先生、知らないの?
 -   **start-date**: 2018-11-05

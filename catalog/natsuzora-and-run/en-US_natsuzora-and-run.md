@@ -1,5 +1,7 @@
 # Natsuzora and Run
 
+![natsuzora-and-run](https://cdn.myanimelist.net/images/manga/1/96625.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Nanaka-san wa Genjitsu
 
+![nanaka-san-wa-genjitsu](https://cdn.myanimelist.net/images/manga/1/114141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ななかさんは現実

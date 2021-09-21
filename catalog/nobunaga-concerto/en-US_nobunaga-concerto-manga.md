@@ -1,5 +1,7 @@
 # Nobunaga Concerto
 
+![nobunaga-concerto](https://cdn.myanimelist.net/images/manga/3/62217.jpg)
+
 -   **type**: manga
 -   **original-name**: 信長協奏曲〈コンツェルト〉
 -   **start-date**: 2009-05-12

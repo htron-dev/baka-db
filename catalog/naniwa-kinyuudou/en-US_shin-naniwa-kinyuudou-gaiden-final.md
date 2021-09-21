@@ -1,5 +1,7 @@
 # Shin Naniwa Kinyuudou Gaiden Final
 
+![shin-naniwa-kinyuudou-gaiden-final](https://cdn.myanimelist.net/images/manga/1/214411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

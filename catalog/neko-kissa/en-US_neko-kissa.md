@@ -1,5 +1,7 @@
 # Neko Kissa
 
+![neko-kissa](https://cdn.myanimelist.net/images/manga/1/217924.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ねこきっさ

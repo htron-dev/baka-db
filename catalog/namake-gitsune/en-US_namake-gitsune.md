@@ -1,5 +1,7 @@
 # Namake Gitsune
 
+![namake-gitsune](https://cdn.myanimelist.net/images/anime/7/84496.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: なまけぎつね

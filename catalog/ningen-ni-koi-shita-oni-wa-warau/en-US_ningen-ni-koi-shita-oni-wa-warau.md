@@ -1,5 +1,7 @@
 # Ningen ni Koi shita Oni wa Warau
 
+![ningen-ni-koi-shita-oni-wa-warau](https://cdn.myanimelist.net/images/manga/3/193121.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Nogizaka Haruka no Himitsu: Finale
 
+![nogizaka-haruka-no-himitsu-finale](https://cdn.myanimelist.net/images/anime/12/74014.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 乃木坂春香の秘密 ふぃな～れ ♪

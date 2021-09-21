@@ -1,5 +1,7 @@
 # Noblesse: Awakening
 
+![noblesse-awakening](https://cdn.myanimelist.net/images/anime/5/78406.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Noblesse: Awakening

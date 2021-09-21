@@ -1,5 +1,7 @@
 # Non Non Biyori 4-koma Anthology Comic
 
+![non-non-biyori-4-koma-anthology-comic](https://cdn.myanimelist.net/images/manga/2/167483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

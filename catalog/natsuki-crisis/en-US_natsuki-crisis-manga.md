@@ -1,5 +1,7 @@
 # Natsuki Crisis
 
+![natsuki-crisis](https://cdn.myanimelist.net/images/manga/2/68115.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: なつきクライシス

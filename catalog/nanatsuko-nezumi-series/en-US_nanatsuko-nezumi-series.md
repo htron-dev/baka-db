@@ -1,5 +1,7 @@
 # Nanatsuko Nezumi Series
 
+![nanatsuko-nezumi-series](https://cdn.myanimelist.net/images/anime/5/85862.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 七つ子ねずみシリーズ

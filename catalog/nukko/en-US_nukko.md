@@ -1,5 +1,7 @@
 # Nukko.
 
+![nukko](https://cdn.myanimelist.net/images/anime/2/58907.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ぬっこ。

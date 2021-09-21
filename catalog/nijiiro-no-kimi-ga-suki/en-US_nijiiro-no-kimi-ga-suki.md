@@ -1,5 +1,7 @@
 # Nijiiro no Kimi ga Suki
 
+![nijiiro-no-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/204659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

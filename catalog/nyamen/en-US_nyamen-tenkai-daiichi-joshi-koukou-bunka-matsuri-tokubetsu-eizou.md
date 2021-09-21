@@ -1,5 +1,7 @@
 # Nyamen: Tenkai Daiichi Joshi Koukou Bunka Matsuri Tokubetsu Eizou
 
+![nyamen-tenkai-daiichi-joshi-koukou-bunka-matsuri-tokubetsu-eizou](https://cdn.myanimelist.net/images/anime/7/75138.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: にゃ～めん 天界第一女子高校文化祭 特別映像

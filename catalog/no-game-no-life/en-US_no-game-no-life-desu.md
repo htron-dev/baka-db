@@ -1,5 +1,7 @@
 # No Game No Life, desu!
 
+![no-game-no-life-desu](https://cdn.myanimelist.net/images/manga/3/171257.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

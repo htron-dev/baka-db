@@ -1,5 +1,7 @@
 # Nendo no Tatakai
 
+![nendo-no-tatakai](https://cdn.myanimelist.net/images/anime/3/33273.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ねんどのたたかい

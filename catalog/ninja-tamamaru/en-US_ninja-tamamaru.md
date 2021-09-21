@@ -1,5 +1,7 @@
 # Ninja Tamamaru
 
+![ninja-tamamaru](https://cdn.myanimelist.net/images/anime/2/84699.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 忍者玉丸

@@ -1,5 +1,7 @@
 # Nanika Ii no Mitsuketa!
 
+![nanika-ii-no-mitsuketa](https://cdn.myanimelist.net/images/manga/1/154951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Nayameru Hime to Mayoeru Ouji
 
+![nayameru-hime-to-mayoeru-ouji](https://cdn.myanimelist.net/images/manga/3/109541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

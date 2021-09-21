@@ -1,5 +1,7 @@
 # Nakagami-ke no Ichizoku: Kamen Butoukai de Aimaseu
 
+![nakagami-ke-no-ichizoku-kamen-butoukai-de-aimaseu](https://cdn.myanimelist.net/images/manga/3/233606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

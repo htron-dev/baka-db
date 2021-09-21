@@ -1,5 +1,7 @@
 # Nirvana Panic!!
 
+![nirvana-panic](https://cdn.myanimelist.net/images/manga/2/31991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ニルヴァーナ・パニック!!

@@ -1,5 +1,7 @@
 # Neji no Hitobito
 
+![neji-no-hitobito](https://cdn.myanimelist.net/images/manga/1/166180.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

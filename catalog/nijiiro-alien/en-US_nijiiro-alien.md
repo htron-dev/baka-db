@@ -1,5 +1,7 @@
 # Nijiiro Alien
 
+![nijiiro-alien](https://cdn.myanimelist.net/images/manga/1/160875.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

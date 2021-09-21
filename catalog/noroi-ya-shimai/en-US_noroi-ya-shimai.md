@@ -1,5 +1,7 @@
 # Noroi-ya Shimai
 
+![noroi-ya-shimai](https://cdn.myanimelist.net/images/manga/3/99201.jpg)
+
 -   **type**: manga
 -   **original-name**: のろい屋しまい
 -   **start-date**: 2006-09-19

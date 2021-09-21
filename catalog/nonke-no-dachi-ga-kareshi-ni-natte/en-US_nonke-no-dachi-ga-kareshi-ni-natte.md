@@ -1,5 +1,7 @@
 # Nonke no Dachi ga Kareshi ni Natte
 
+![nonke-no-dachi-ga-kareshi-ni-natte](https://cdn.myanimelist.net/images/manga/2/191754.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ノンケのダチがカレシになって

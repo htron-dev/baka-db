@@ -1,5 +1,7 @@
 # Nishuume no Koi
 
+![nishuume-no-koi](https://cdn.myanimelist.net/images/manga/3/203833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

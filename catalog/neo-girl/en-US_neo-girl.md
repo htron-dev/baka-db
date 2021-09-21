@@ -1,5 +1,7 @@
 # Neo Girl
 
+![neo-girl](https://cdn.myanimelist.net/images/manga/1/20844.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 10

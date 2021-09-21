@@ -1,5 +1,7 @@
 # Nanahoshi to Tachibana
 
+![nanahoshi-to-tachibana](https://cdn.myanimelist.net/images/manga/2/225909.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

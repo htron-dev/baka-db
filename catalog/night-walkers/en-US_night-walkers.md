@@ -1,5 +1,7 @@
 # NightWalkers
 
+![night-walkers](https://cdn.myanimelist.net/images/manga/3/128937.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

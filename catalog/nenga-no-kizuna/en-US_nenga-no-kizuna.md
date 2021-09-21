@@ -1,5 +1,7 @@
 # Nenga no Kizuna
 
+![nenga-no-kizuna](https://cdn.myanimelist.net/images/anime/3/69179.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 年賀のキヅナ

@@ -1,5 +1,7 @@
 # Nanimo Nai kedo Sora wa Aoi
 
+![nanimo-nai-kedo-sora-wa-aoi](https://cdn.myanimelist.net/images/manga/2/162018.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 69

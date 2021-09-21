@@ -1,5 +1,7 @@
 # Nijiiro no Cinderella
 
+![nijiiro-no-cinderella](https://cdn.myanimelist.net/images/manga/2/59279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

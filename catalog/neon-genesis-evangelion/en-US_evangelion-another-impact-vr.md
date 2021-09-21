@@ -1,5 +1,7 @@
 # Evangelion: Another Impact (VR)
 
+![evangelion-another-impact-vr](https://cdn.myanimelist.net/images/anime/1351/93244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: evangelion : Another Impact（VR）

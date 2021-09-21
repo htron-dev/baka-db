@@ -1,5 +1,7 @@
 # Helvetica Standard
 
+![helvetica-standard](https://cdn.myanimelist.net/images/manga/3/190967.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Helvetica Standard

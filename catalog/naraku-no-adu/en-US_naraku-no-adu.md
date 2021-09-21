@@ -1,5 +1,7 @@
 # Naraku no Adu
 
+![naraku-no-adu](https://cdn.myanimelist.net/images/manga/1/177769.jpg)
+
 -   **type**: manga
 -   **original-name**: ナラクノアドゥ
 -   **start-date**: 2015-11-13

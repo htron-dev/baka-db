@@ -1,5 +1,7 @@
 # Noblesse
 
+![noblesse](https://cdn.myanimelist.net/images/anime/1903/111646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: NOBLESSE -ノブレス-

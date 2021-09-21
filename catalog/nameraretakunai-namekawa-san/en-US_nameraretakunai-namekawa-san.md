@@ -1,5 +1,7 @@
 # Nameraretakunai Namekawa-san
 
+![nameraretakunai-namekawa-san](https://cdn.myanimelist.net/images/manga/2/233399.jpg)
+
 -   **type**: manga
 -   **original-name**: ナメられたくないナメカワさん
 -   **start-date**: 2020-02-18

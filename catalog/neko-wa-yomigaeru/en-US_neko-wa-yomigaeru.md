@@ -1,5 +1,7 @@
 # Neko wa Yomigaeru
 
+![neko-wa-yomigaeru](https://cdn.myanimelist.net/images/manga/1/200576.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Nemureru Mori no Charon
 
+![nemureru-mori-no-charon](https://cdn.myanimelist.net/images/manga/1/167022.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

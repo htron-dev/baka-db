@@ -1,5 +1,7 @@
 # Nejimaki Seirei Senki: Tenkyou no Alderamin
 
+![nejimaki-seirei-senki-tenkyou-no-alderamin](https://cdn.myanimelist.net/images/manga/1/152384.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

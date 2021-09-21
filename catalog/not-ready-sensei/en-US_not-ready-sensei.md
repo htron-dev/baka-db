@@ -1,5 +1,7 @@
 # Not Ready Sensei
 
+![not-ready-sensei](https://cdn.myanimelist.net/images/manga/1/10532.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

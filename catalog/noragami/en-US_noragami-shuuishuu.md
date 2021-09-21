@@ -1,5 +1,7 @@
 # Noragami: Shuuishuu
 
+![noragami-shuuishuu](https://cdn.myanimelist.net/images/manga/3/107611.jpg)
+
 -   **type**: manga
 -   **original-name**: ノラガミ 拾遺集
 -   **start-date**: 2011-11-19

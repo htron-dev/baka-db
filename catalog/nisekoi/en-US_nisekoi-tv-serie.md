@@ -1,5 +1,7 @@
 # Nisekoi:
 
+![nisekoi](https://cdn.myanimelist.net/images/anime/13/75587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ニセコイ:

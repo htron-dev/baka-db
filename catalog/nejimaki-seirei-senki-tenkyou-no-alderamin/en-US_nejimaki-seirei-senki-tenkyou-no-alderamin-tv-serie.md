@@ -1,5 +1,7 @@
 # Nejimaki Seirei Senki: Tenkyou no Alderamin
 
+![nejimaki-seirei-senki-tenkyou-no-alderamin](https://cdn.myanimelist.net/images/anime/11/79531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ねじ巻き精霊戦記 天鏡のアルデラミン

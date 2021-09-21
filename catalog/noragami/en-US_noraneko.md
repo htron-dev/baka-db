@@ -1,5 +1,7 @@
 # Noraneko
 
+![noraneko](https://cdn.myanimelist.net/images/anime/2/88357.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ノラネコ

@@ -1,5 +1,7 @@
 # Nyan Koi!
 
+![nyan-koi](https://cdn.myanimelist.net/images/anime/10/18299.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: にゃんこい！

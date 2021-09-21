@@ -1,5 +1,7 @@
 # Neraiuchi!
 
+![neraiuchi](https://cdn.myanimelist.net/images/manga/1/148415.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

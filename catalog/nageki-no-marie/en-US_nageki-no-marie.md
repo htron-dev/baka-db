@@ -1,5 +1,7 @@
 # Nageki no Marie
 
+![nageki-no-marie](https://cdn.myanimelist.net/images/manga/3/130737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

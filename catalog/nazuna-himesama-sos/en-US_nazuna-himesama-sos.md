@@ -1,5 +1,7 @@
 # Nazuna Himesama SOS
 
+![nazuna-himesama-sos](https://cdn.myanimelist.net/images/manga/2/140967.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: なずな姫様 SOS

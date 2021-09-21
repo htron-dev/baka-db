@@ -1,5 +1,7 @@
 # Nagareboshi no Okurimono
 
+![nagareboshi-no-okurimono](https://cdn.myanimelist.net/images/anime/12/61385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 流れ星のおくりもの

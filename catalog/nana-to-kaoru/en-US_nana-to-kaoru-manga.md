@@ -1,5 +1,7 @@
 # Nana to Kaoru
 
+![nana-to-kaoru](https://cdn.myanimelist.net/images/manga/1/188984.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 160

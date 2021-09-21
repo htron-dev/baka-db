@@ -1,5 +1,7 @@
 # Nippon-ichi no Otoko no Tamashii
 
+![nippon-ichi-no-otoko-no-tamashii](https://cdn.myanimelist.net/images/anime/7/24638.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 日本一の男の魂

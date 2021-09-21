@@ -1,5 +1,7 @@
 # Nijigen no Toride wo Mamoru ni wa Fuhoni nagara Kanojo ga Hitsuyou Rashii
 
+![nijigen-no-toride-wo-mamoru-ni-wa-fuhoni-nagara-kanojo-ga-hitsuyou-rashii](https://cdn.myanimelist.net/images/manga/2/219085.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 二次元の砦を守るには不本意ながら彼女が必要らしい

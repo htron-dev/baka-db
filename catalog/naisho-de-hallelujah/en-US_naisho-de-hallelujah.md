@@ -1,5 +1,7 @@
 # Naisho de Hallelujah
 
+![naisho-de-hallelujah](https://cdn.myanimelist.net/images/manga/2/7119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

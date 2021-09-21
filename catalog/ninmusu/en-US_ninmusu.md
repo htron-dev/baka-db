@@ -1,5 +1,7 @@
 # Ninmusu!
 
+![ninmusu](https://cdn.myanimelist.net/images/manga/2/36162.jpg)
+
 -   **type**: manga
 -   **original-name**: NIN むすっ!
 -   **start-date**: 2009-11-18

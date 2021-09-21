@@ -1,5 +1,7 @@
 # Nande Ikiteru ka Wakaranai Hito Izumi Sumi 25-sai
 
+![nande-ikiteru-ka-wakaranai-hito-izumi-sumi-25-sai](https://cdn.myanimelist.net/images/manga/3/215769.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

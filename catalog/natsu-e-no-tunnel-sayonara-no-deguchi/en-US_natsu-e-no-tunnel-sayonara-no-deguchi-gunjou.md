@@ -1,5 +1,7 @@
 # Natsu e no Tunnel, Sayonara no Deguchi Gunjou
 
+![natsu-e-no-tunnel-sayonara-no-deguchi-gunjou](https://cdn.myanimelist.net/images/manga/2/247760.jpg)
+
 -   **type**: manga
 -   **original-name**: 夏へのトンネル、さよならの出口 群青
 -   **start-date**: 2020-07-11

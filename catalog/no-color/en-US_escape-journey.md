@@ -1,5 +1,7 @@
 # Escape Journey
 
+![escape-journey](https://cdn.myanimelist.net/images/manga/2/165587.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

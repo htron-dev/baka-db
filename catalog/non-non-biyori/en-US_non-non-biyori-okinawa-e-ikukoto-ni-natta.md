@@ -1,5 +1,7 @@
 # Non Non Biyori: Okinawa e Ikukoto ni Natta
 
+![non-non-biyori-okinawa-e-ikukoto-ni-natta](https://cdn.myanimelist.net/images/anime/7/63773.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のんのんびより　沖縄へ行くことになった

@@ -1,5 +1,7 @@
 # Niisan no Tomodachi
 
+![niisan-no-tomodachi](https://cdn.myanimelist.net/images/manga/2/223992.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

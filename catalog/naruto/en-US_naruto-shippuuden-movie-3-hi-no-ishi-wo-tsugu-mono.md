@@ -1,5 +1,7 @@
 # Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono
 
+![naruto-shippuuden-movie-3-hi-no-ishi-wo-tsugu-mono](https://cdn.myanimelist.net/images/anime/7/14686.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ナルト- 疾風伝 火の意志を継ぐ者

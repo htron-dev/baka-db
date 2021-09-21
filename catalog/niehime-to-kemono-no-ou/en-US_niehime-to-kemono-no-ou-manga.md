@@ -1,5 +1,7 @@
 # Niehime to Kemono no Ou
 
+![niehime-to-kemono-no-ou](https://cdn.myanimelist.net/images/manga/3/176598.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 89

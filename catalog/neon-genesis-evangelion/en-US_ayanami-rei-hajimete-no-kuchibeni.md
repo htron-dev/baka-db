@@ -1,5 +1,7 @@
 # Ayanami Rei, Hajimete no Kuchibeni
 
+![ayanami-rei-hajimete-no-kuchibeni](https://cdn.myanimelist.net/images/anime/1576/110060.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 綾波レイ、はじめての口紅

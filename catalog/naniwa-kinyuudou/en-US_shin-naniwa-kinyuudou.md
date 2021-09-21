@@ -1,5 +1,7 @@
 # Shin Naniwa Kinyuudou
 
+![shin-naniwa-kinyuudou](https://cdn.myanimelist.net/images/manga/2/214402.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 231

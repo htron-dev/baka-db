@@ -1,5 +1,7 @@
 # Namaiki na Mesugaki ni Otona ga Makeru Wakenai Daro!: Anthology Comic
 
+![namaiki-na-mesugaki-ni-otona-ga-makeru-wakenai-daro-anthology-comic](https://cdn.myanimelist.net/images/manga/3/244262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

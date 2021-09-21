@@ -1,5 +1,7 @@
 # Nameko: Sekai no Tomodachi
 
+![nameko-sekai-no-tomodachi](https://cdn.myanimelist.net/images/anime/13/78819.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: なめこ～せかいのともだち～

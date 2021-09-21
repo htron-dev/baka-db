@@ -1,5 +1,7 @@
 # Evangelion: 3.0 You Can (Not) Redo
 
+![evangelion-3-0-you-can-not-redo](https://cdn.myanimelist.net/images/anime/9/43201.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヱヴァンゲリヲン新劇場版:Q

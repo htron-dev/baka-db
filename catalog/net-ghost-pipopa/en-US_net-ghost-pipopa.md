@@ -1,5 +1,7 @@
 # Net Ghost Pipopa
 
+![net-ghost-pipopa](https://cdn.myanimelist.net/images/anime/7/23634.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ネットゴースト PIPOPA

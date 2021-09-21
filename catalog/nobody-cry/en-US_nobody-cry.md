@@ -1,5 +1,7 @@
 # Nobody Cry
 
+![nobody-cry](https://cdn.myanimelist.net/images/manga/2/14676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

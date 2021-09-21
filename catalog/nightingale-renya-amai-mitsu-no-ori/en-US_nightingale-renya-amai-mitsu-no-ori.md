@@ -1,5 +1,7 @@
 # Nightingale Renya: Amai Mitsu no Ori
 
+![nightingale-renya-amai-mitsu-no-ori](https://cdn.myanimelist.net/images/manga/1/171926.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

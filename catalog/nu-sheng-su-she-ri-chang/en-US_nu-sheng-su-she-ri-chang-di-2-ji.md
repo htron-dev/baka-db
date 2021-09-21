@@ -1,5 +1,7 @@
 # Nu Sheng Su She Ri Chang Di 2 Ji
 
+![nu-sheng-su-she-ri-chang-di-2-ji](https://cdn.myanimelist.net/images/anime/1204/102000.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 女生宿舍日常 第 2 季

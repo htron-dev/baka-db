@@ -1,5 +1,7 @@
 # Naruto: Blood Prison
 
+![naruto-blood-prison](https://cdn.myanimelist.net/images/manga/2/228889.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

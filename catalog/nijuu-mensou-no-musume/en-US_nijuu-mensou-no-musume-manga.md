@@ -1,5 +1,7 @@
 # Nijuu Mensou no Musume
 
+![nijuu-mensou-no-musume](https://cdn.myanimelist.net/images/manga/1/171181.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

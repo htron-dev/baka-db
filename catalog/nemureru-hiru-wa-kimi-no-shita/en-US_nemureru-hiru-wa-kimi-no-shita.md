@@ -1,5 +1,7 @@
 # Nemureru Hiru wa, Kimi no Shita
 
+![nemureru-hiru-wa-kimi-no-shita](https://cdn.myanimelist.net/images/manga/2/229760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

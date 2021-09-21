@@ -1,5 +1,7 @@
 # Necromancer
 
+![necromancer](https://cdn.myanimelist.net/images/manga/1/44571.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Sanadadamashii
 
+![sanadadamashii](https://cdn.myanimelist.net/images/manga/3/237565.jpg)
+
 -   **type**: manga
 -   **original-name**: 真田魂
 -   **start-date**: 2015-01-30

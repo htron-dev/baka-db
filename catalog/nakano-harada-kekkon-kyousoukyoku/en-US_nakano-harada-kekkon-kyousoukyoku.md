@@ -1,5 +1,7 @@
 # Nakano Harada Kekkon Kyousoukyoku
 
+![nakano-harada-kekkon-kyousoukyoku](https://cdn.myanimelist.net/images/anime/13/88650.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 中野原田結婚協奏曲

@@ -1,5 +1,7 @@
 # Ninja Hattori-kun (2012)
 
+![ninja-hattori-kun-2012](https://cdn.myanimelist.net/images/anime/9/50285.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 忍者ハットリくん （2012 年版）

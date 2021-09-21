@@ -1,5 +1,7 @@
 # Natsuyasumi no Tomo
 
+![natsuyasumi-no-tomo](https://cdn.myanimelist.net/images/manga/3/207220.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

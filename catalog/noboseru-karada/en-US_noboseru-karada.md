@@ -1,5 +1,7 @@
 # Noboseru Karada
 
+![noboseru-karada](https://cdn.myanimelist.net/images/manga/3/127827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Milky Way
 
+![milky-way](https://cdn.myanimelist.net/images/manga/2/20490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

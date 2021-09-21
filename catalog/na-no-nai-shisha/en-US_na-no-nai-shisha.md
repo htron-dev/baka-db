@@ -1,5 +1,7 @@
 # Na no Nai Shisha
 
+![na-no-nai-shisha](https://cdn.myanimelist.net/images/manga/1/123157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 名のないシシャ

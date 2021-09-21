@@ -1,5 +1,7 @@
 # Noah's Animal Clinic Medical Book Record
 
+![noahs-animal-clinic-medical-book-record](https://cdn.myanimelist.net/images/anime/1116/98786.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 諾亞動物診所動畫小劇場

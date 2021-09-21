@@ -1,5 +1,7 @@
 # Nejimaki Kagyuu
 
+![nejimaki-kagyuu](https://cdn.myanimelist.net/images/manga/1/128255.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 159

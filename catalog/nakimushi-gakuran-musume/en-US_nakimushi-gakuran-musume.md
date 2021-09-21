@@ -1,5 +1,7 @@
 # Nakimushi Gakuran Musume
 
+![nakimushi-gakuran-musume](https://cdn.myanimelist.net/images/manga/2/28436.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 泣き虫学らん娘

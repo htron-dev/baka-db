@@ -1,5 +1,7 @@
 # Nanao Chi-toitsu
 
+![nanao-chi-toitsu](https://cdn.myanimelist.net/images/manga/1/157126.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

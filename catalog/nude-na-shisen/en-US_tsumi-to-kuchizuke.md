@@ -1,5 +1,7 @@
 # Tsumi to Kuchizuke
 
+![tsumi-to-kuchizuke](https://cdn.myanimelist.net/images/manga/3/2828.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

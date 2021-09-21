@@ -1,5 +1,7 @@
 # Nougyou Musume!
 
+![nougyou-musume](https://cdn.myanimelist.net/images/anime/2/25307.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 農業ムスメ！プロジェクト

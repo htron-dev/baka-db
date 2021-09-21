@@ -1,5 +1,7 @@
 # Nee, Onnanoko ni Shite Ageru
 
+![nee-onnanoko-ni-shite-ageru](https://cdn.myanimelist.net/images/manga/3/248314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

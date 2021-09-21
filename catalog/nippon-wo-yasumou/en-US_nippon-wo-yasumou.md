@@ -1,5 +1,7 @@
 # Nippon wo Yasumou
 
+![nippon-wo-yasumou](https://cdn.myanimelist.net/images/manga/2/20768.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: 日本を休もう もう一つの極運星物語

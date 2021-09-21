@@ -1,5 +1,7 @@
 # Nibuiro Sekai wa Unmei no Koi de Kagayaku
 
+![nibuiro-sekai-wa-unmei-no-koi-de-kagayaku](https://cdn.myanimelist.net/images/manga/1/194397.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Niji no Natasha
 
+![niji-no-natasha](https://cdn.myanimelist.net/images/manga/2/91765.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 虹のナターシャ

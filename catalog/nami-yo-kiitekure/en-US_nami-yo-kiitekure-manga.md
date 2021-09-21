@@ -1,5 +1,7 @@
 # Nami yo Kiitekure
 
+![nami-yo-kiitekure](https://cdn.myanimelist.net/images/manga/1/157853.jpg)
+
 -   **type**: manga
 -   **original-name**: 波よ聞いてくれ
 -   **start-date**: 2014-07-25

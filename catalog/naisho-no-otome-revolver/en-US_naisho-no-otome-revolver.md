@@ -1,5 +1,7 @@
 # Naisho no Otome Revolver
 
+![naisho-no-otome-revolver](https://cdn.myanimelist.net/images/manga/1/175460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

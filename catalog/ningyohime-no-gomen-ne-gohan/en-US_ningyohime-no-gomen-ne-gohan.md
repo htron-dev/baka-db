@@ -1,5 +1,7 @@
 # Ningyohime no Gomen ne Gohan
 
+![ningyohime-no-gomen-ne-gohan](https://cdn.myanimelist.net/images/manga/1/196627.jpg)
+
 -   **type**: manga
 -   **original-name**: 人魚姫のごめんねごはん
 -   **start-date**: 2017-01-11

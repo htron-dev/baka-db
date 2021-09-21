@@ -1,5 +1,7 @@
 # Kobe to Watashi
 
+![kobe-to-watashi](https://cdn.myanimelist.net/images/anime/2/24755.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 神戸と私

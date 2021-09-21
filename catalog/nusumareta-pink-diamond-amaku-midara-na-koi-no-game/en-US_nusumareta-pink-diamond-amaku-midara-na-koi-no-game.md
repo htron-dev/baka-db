@@ -1,5 +1,7 @@
 # Nusumareta Pink Diamond: Amaku Midara na Koi no Game
 
+![nusumareta-pink-diamond-amaku-midara-na-koi-no-game](https://cdn.myanimelist.net/images/manga/2/186608.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

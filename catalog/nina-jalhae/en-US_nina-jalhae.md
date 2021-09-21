@@ -1,5 +1,7 @@
 # Nina Jalhae
 
+![nina-jalhae](https://cdn.myanimelist.net/images/manga/3/4882.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 50
 -   **original-name**: 니나잘해

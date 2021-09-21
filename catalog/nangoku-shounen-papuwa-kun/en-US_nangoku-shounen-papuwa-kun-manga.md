@@ -1,5 +1,7 @@
 # Nangoku Shounen Papuwa-kun
 
+![nangoku-shounen-papuwa-kun](https://cdn.myanimelist.net/images/manga/2/23580.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 56

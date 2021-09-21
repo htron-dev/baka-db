@@ -1,5 +1,7 @@
 # Nishi no Yoki Majo Gaiden
 
+![nishi-no-yoki-majo-gaiden](https://cdn.myanimelist.net/images/manga/2/140475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

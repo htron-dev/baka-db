@@ -1,5 +1,7 @@
 # Naita Aka Oni
 
+![naita-aka-oni](https://cdn.myanimelist.net/images/anime/5/80520.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 泣いた赤おに

@@ -1,5 +1,7 @@
 # Ningyou Shibai
 
+![ningyou-shibai](https://cdn.myanimelist.net/images/manga/3/183094.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

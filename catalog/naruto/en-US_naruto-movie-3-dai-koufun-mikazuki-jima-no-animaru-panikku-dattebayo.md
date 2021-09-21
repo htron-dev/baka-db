@@ -1,5 +1,7 @@
 # Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!
 
+![naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panikku-dattebayo](https://cdn.myanimelist.net/images/anime/6/76017.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ

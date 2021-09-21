@@ -1,5 +1,7 @@
 # Nisekoi: OVA
 
+![nisekoi-ova](https://cdn.myanimelist.net/images/anime/1992/112119.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ニセコイ: OAD

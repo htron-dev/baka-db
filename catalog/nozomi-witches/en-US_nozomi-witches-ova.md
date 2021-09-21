@@ -1,5 +1,7 @@
 # Nozomi Witches
 
+![nozomi-witches](https://cdn.myanimelist.net/images/anime/8/53187.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: のぞみ ウィッチィズ

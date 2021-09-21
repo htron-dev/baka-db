@@ -1,5 +1,7 @@
 # Neko ga OL ni Miete Komarimasu
 
+![neko-ga-ol-ni-miete-komarimasu](https://cdn.myanimelist.net/images/manga/1/238406.jpg)
+
 -   **type**: manga
 -   **original-name**: ネコが OL に見えて困ります
 -   **start-date**: 2018-08-27

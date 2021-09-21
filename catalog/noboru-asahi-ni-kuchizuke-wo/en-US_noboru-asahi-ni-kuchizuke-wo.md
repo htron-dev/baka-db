@@ -1,5 +1,7 @@
 # Noboru Asahi ni Kuchizuke wo
 
+![noboru-asahi-ni-kuchizuke-wo](https://cdn.myanimelist.net/images/manga/2/148533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

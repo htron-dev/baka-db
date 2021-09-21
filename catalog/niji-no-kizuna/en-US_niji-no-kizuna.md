@@ -1,5 +1,7 @@
 # Niji no Kizuna
 
+![niji-no-kizuna](https://cdn.myanimelist.net/images/anime/13/66145.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 虹のきずな

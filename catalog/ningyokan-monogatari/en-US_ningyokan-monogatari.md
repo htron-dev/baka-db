@@ -1,5 +1,7 @@
 # Ningyokan Monogatari
 
+![ningyokan-monogatari](https://cdn.myanimelist.net/images/manga/1/25527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

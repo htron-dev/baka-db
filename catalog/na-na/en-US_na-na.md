@@ -1,5 +1,7 @@
 # NaNa
 
+![na-na](https://cdn.myanimelist.net/images/manga/1/78497.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

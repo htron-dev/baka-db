@@ -1,5 +1,7 @@
 # Daisuki! BuBu ChaCha
 
+![daisuki-bu-bu-cha-cha](https://cdn.myanimelist.net/images/anime/9/46873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: だいすき! ぶぶチャチャ

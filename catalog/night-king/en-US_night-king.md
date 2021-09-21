@@ -1,5 +1,7 @@
 # Night King
 
+![night-king](https://cdn.myanimelist.net/images/manga/2/195325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Nippon Tanjou
 
+![nippon-tanjou](https://cdn.myanimelist.net/images/anime/5/59661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 日本誕生

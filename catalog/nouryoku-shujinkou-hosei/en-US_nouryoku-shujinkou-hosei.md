@@ -1,5 +1,7 @@
 # Nouryoku: Shujinkou Hosei
 
+![nouryoku-shujinkou-hosei](https://cdn.myanimelist.net/images/manga/3/244431.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

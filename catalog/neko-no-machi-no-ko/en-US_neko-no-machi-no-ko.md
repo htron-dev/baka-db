@@ -1,5 +1,7 @@
 # Neko no Machi no Ko
 
+![neko-no-machi-no-ko](https://cdn.myanimelist.net/images/manga/1/176449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

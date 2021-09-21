@@ -1,5 +1,7 @@
 # Not Simple
 
+![not-simple](https://cdn.myanimelist.net/images/manga/1/31180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

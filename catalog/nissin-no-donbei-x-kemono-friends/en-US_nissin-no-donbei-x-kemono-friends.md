@@ -1,5 +1,7 @@
 # Nissin no Donbei x Kemono Friends
 
+![nissin-no-donbei-x-kemono-friends](https://cdn.myanimelist.net/images/anime/13/87756.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 日清のどん兵衛 × けものフレンズ

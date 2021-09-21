@@ -1,5 +1,7 @@
 # Nemuri Otoko to Koi Otoko
 
+![nemuri-otoko-to-koi-otoko](https://cdn.myanimelist.net/images/manga/2/169580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

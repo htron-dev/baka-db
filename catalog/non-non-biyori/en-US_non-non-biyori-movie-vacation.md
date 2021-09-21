@@ -1,5 +1,7 @@
 # Non Non Biyori Movie: Vacation
 
+![non-non-biyori-movie-vacation](https://cdn.myanimelist.net/images/anime/1044/93575.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 のんのんびより ばけーしょん

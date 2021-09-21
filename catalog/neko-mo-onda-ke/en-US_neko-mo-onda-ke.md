@@ -1,5 +1,7 @@
 # Neko mo, Onda-ke
 
+![neko-mo-onda-ke](https://cdn.myanimelist.net/images/anime/2/79161.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 猫も、オンダケ

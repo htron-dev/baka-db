@@ -1,5 +1,7 @@
 # Nangoku Shounen Papuwa-kun
 
+![nangoku-shounen-papuwa-kun](https://cdn.myanimelist.net/images/anime/8/3062.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 南国少年パプワくん

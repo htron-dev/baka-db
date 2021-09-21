@@ -1,5 +1,7 @@
 # Norasco
 
+![norasco](https://cdn.myanimelist.net/images/anime/10/74573.jpg)
+
 -   **type**: ona
 -   **original-name**: 野良スコ
 -   **start-date**: 2013-10-11

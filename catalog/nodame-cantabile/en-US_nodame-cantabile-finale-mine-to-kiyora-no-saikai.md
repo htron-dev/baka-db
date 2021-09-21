@@ -1,10 +1,12 @@
 # Nodame Cantabile: Finale - Mine to Kiyora no Saikai
 
+![nodame-cantabile-finale-mine-to-kiyora-no-saikai](https://cdn.myanimelist.net/images/anime/8/19590.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: のだめカンタービレ フィナーレ 峰と清良の再会
 -   **start-date**: 2010-04-07
--   **opening-song**: "Manazashi ☆ Daydream (まなざし☆デイドリーム)" by Yuu Sakai (さかいゆう)
+-   **opening-song**: "Manazashi ☆ Daydream (まなざし ☆ デイドリーム)" by Yuu Sakai (さかいゆう)
 -   **ending-song**: "Kaze to Oka no Ballad (風と丘のバラード)" by Real Paradis with Nodame Orchestra
 -   **rating**: PG-13 - Teens 13 or older
 

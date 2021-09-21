@@ -1,5 +1,7 @@
 # Nijuuseiki Denki Mokuroku
 
+![nijuuseiki-denki-mokuroku](https://cdn.myanimelist.net/images/manga/3/231194.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 二十世紀電氣目録

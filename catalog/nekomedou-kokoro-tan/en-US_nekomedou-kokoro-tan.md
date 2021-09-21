@@ -1,5 +1,7 @@
 # Nekomedou Kokoro Tan
 
+![nekomedou-kokoro-tan](https://cdn.myanimelist.net/images/manga/3/37540.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

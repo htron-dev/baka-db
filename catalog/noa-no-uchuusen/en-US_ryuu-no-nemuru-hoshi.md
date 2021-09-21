@@ -1,5 +1,7 @@
 # Ryuu no Nemuru Hoshi
 
+![ryuu-no-nemuru-hoshi](https://cdn.myanimelist.net/images/manga/5/40318.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 竜の眠る星

@@ -1,5 +1,7 @@
 # Nana to Lili
 
+![nana-to-lili](https://cdn.myanimelist.net/images/manga/1/131643.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ナナとリリ

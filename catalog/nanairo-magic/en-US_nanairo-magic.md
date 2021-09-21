@@ -1,5 +1,7 @@
 # Nanairo Magic
 
+![nanairo-magic](https://cdn.myanimelist.net/images/manga/1/207643.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: なな色マジック

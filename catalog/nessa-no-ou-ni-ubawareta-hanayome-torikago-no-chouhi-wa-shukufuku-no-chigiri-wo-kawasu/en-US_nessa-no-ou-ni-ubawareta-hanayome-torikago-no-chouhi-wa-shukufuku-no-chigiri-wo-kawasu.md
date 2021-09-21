@@ -1,5 +1,7 @@
 # Nessa no Ou ni Ubawareta Hanayome: Torikago no Chouhi wa Shukufuku no Chigiri wo Kawasu
 
+![nessa-no-ou-ni-ubawareta-hanayome-torikago-no-chouhi-wa-shukufuku-no-chigiri-wo-kawasu](https://cdn.myanimelist.net/images/manga/1/194362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

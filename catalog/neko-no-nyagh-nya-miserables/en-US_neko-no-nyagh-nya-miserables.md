@@ -1,5 +1,7 @@
 # Neko no Nyagh: Nya Misérables
 
+![neko-no-nyagh-nya-miserables](https://cdn.myanimelist.net/images/anime/1543/109596.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 猫のニャッホ ～ニャ・ミゼラブル～

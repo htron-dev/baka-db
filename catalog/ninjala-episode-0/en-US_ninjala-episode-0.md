@@ -1,5 +1,7 @@
 # Ninjala Episode 0
 
+![ninjala-episode-0](https://cdn.myanimelist.net/images/anime/1444/106767.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ニンジャラ エピソード０

@@ -1,5 +1,7 @@
 # Neko ga Nishi Mukya
 
+![neko-ga-nishi-mukya](https://cdn.myanimelist.net/images/manga/1/216477.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Norn9: Norn+Nonet
 
+![norn-9-norn-nonet](https://cdn.myanimelist.net/images/anime/4/77974.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: NORN9 ノルン+ノネット

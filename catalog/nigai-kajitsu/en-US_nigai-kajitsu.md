@@ -1,5 +1,7 @@
 # Nigai Kajitsu
 
+![nigai-kajitsu](https://cdn.myanimelist.net/images/manga/3/6030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

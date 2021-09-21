@@ -1,5 +1,7 @@
 # Nakanmon!
 
+![nakanmon](https://cdn.myanimelist.net/images/manga/1/69481.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

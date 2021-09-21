@@ -1,5 +1,7 @@
 # Nyannya!
 
+![nyannya](https://cdn.myanimelist.net/images/manga/3/19083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: にゃんにゃ!
