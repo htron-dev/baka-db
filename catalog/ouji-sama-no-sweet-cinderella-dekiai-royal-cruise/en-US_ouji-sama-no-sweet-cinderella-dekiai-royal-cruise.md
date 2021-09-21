@@ -1,5 +1,7 @@
 # Ouji-sama no Sweet Cinderella: Dekiai Royal Cruise
 
+![ouji-sama-no-sweet-cinderella-dekiai-royal-cruise](https://cdn.myanimelist.net/images/manga/3/193388.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

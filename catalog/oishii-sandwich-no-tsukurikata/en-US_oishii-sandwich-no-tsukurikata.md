@@ -1,5 +1,7 @@
 # Oishii Sandwich no Tsukurikata
 
+![oishii-sandwich-no-tsukurikata](https://cdn.myanimelist.net/images/manga/2/160877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

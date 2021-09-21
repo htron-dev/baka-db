@@ -1,5 +1,7 @@
 # Otona no Bouguya-san
 
+![otona-no-bouguya-san](https://cdn.myanimelist.net/images/anime/1590/111713.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: おとなの防具屋さん

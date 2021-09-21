@@ -1,5 +1,7 @@
 # Okitsune-sama de Chu
 
+![okitsune-sama-de-chu](https://cdn.myanimelist.net/images/manga/2/56309.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

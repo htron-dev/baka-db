@@ -1,5 +1,7 @@
 # Ozu no Kakashi Tsukai
 
+![ozu-no-kakashi-tsukai](https://cdn.myanimelist.net/images/manga/2/61255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

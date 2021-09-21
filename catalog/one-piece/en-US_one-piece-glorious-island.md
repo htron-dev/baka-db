@@ -1,5 +1,7 @@
 # One Piece: Glorious Island
 
+![one-piece-glorious-island](https://cdn.myanimelist.net/images/anime/7/85476.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ワンピース 『GLORIOUS ISLAND』

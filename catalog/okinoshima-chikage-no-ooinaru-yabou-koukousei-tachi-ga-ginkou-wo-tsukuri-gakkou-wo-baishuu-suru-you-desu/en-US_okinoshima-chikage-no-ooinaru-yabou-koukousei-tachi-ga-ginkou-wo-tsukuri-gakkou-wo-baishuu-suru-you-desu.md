@@ -1,5 +1,7 @@
 # Okinoshima Chikage no Ooinaru Yabou: Koukousei-tachi ga Ginkou wo Tsukuri, Gakkou wo Baishuu suru you desu.
 
+![okinoshima-chikage-no-ooinaru-yabou-koukousei-tachi-ga-ginkou-wo-tsukuri-gakkou-wo-baishuu-suru-you-desu](https://cdn.myanimelist.net/images/manga/2/177162.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

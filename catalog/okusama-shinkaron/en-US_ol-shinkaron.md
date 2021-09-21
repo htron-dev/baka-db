@@ -1,5 +1,7 @@
 # OL Shinkaron
 
+![ol-shinkaron](https://cdn.myanimelist.net/images/manga/3/37711.jpg)
+
 -   **type**: manga
 -   **original-name**: OL 進化論
 

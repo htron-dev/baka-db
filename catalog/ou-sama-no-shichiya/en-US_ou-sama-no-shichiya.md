@@ -1,5 +1,7 @@
 # Ou-sama no Shichiya
 
+![ou-sama-no-shichiya](https://cdn.myanimelist.net/images/manga/5/10362.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

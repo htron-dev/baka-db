@@ -1,5 +1,7 @@
 # Sorigerisu
 
+![sorigerisu](https://cdn.myanimelist.net/images/manga/2/189210.jpg)
+
 -   **type**: manga
 -   **original-name**: ソリゲリス
 -   **start-date**: 2016-03-25

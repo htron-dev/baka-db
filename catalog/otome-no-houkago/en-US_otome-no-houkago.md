@@ -1,5 +1,7 @@
 # Otome no Houkago
 
+![otome-no-houkago](https://cdn.myanimelist.net/images/manga/2/215259.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女の放課後
 -   **start-date**: 2018-04-05

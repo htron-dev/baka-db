@@ -1,5 +1,7 @@
 # Ore ga Akuma de, Aitsu ga Yome de.
 
+![ore-ga-akuma-de-aitsu-ga-yome-de](https://cdn.myanimelist.net/images/manga/5/71611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

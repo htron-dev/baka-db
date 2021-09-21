@@ -1,5 +1,7 @@
 # Ore dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou
 
+![ore-dake-haireru-kakushi-dungeon-kossori-kitaete-sekai-saikyou](https://cdn.myanimelist.net/images/manga/3/199707.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～
 -   **start-date**: 2017-08-01

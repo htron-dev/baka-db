@@ -1,5 +1,7 @@
 # Osasete! My Teacher
 
+![osasete-my-teacher](https://cdn.myanimelist.net/images/manga/3/244720.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

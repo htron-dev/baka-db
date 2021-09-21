@@ -1,5 +1,7 @@
 # Ore no Kirai na Yankee-kun.
 
+![ore-no-kirai-na-yankee-kun](https://cdn.myanimelist.net/images/manga/1/220825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

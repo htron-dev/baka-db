@@ -1,5 +1,7 @@
 # Otome Chikku Sensou
 
+![otome-chikku-sensou](https://cdn.myanimelist.net/images/manga/5/112407.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 乙女ちっく戦争

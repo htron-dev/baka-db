@@ -1,5 +1,7 @@
 # Ogrebuster Overdrive
 
+![ogrebuster-overdrive](https://cdn.myanimelist.net/images/manga/1/147693.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

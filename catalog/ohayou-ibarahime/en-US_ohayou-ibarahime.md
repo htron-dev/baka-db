@@ -1,5 +1,7 @@
 # Ohayou, Ibarahime
 
+![ohayou-ibarahime](https://cdn.myanimelist.net/images/manga/3/164641.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

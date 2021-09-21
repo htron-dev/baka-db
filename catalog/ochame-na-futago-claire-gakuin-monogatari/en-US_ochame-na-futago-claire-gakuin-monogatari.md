@@ -1,5 +1,7 @@
 # Ochame na Futago: Claire Gakuin Monogatari
 
+![ochame-na-futago-claire-gakuin-monogatari](https://cdn.myanimelist.net/images/anime/4/60951.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: おちゃめな双子　－クレア学院物語－

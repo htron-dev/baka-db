@@ -1,5 +1,7 @@
 # Otome wa Boku ni Koishiteru Special
 
+![otome-wa-boku-ni-koishiteru-special](https://cdn.myanimelist.net/images/anime/4/22360.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 乙女はお姉さま[ボク]に恋してる

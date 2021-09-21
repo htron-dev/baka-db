@@ -1,5 +1,7 @@
 # Otokogokoro
 
+![otokogokoro](https://cdn.myanimelist.net/images/manga/5/184240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

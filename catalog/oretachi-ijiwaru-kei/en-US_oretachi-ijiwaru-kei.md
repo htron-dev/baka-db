@@ -1,5 +1,7 @@
 # Oretachi Ijiwaru Kei
 
+![oretachi-ijiwaru-kei](https://cdn.myanimelist.net/images/anime/13/65431.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: おれたちイジワルケイ

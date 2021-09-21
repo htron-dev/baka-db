@@ -1,5 +1,7 @@
 # Ookami to Nanahiki no Ko Yagi
 
+![ookami-to-nanahiki-no-ko-yagi](https://cdn.myanimelist.net/images/anime/12/65101.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おおかみと７ひきのこやぎ

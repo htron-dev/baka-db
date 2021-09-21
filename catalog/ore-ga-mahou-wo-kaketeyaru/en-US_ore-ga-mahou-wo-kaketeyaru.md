@@ -1,5 +1,7 @@
 # Ore ga Mahou wo Kaketeyaru
 
+![ore-ga-mahou-wo-kaketeyaru](https://cdn.myanimelist.net/images/manga/2/157884.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

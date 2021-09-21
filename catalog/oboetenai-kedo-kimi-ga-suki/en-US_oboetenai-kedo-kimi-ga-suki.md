@@ -1,5 +1,7 @@
 # Oboetenai kedo, Kimi ga Suki
 
+![oboetenai-kedo-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/131121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 覚えてないけど、キミが好き

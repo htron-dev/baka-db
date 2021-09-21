@@ -1,5 +1,7 @@
 # Otomege no Mob desura Nai n da ga
 
+![otomege-no-mob-desura-nai-n-da-ga](https://cdn.myanimelist.net/images/manga/2/246042.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲーのモブですらないんだが
 -   **start-date**: 2020-04-21

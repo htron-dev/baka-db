@@ -1,5 +1,7 @@
 # Omoi ga Omoi Omoi-san
 
+![omoi-ga-omoi-omoi-san](https://cdn.myanimelist.net/images/manga/3/216830.jpg)
+
 -   **type**: manga
 -   **original-name**: おもいがおもいおもいさん
 -   **start-date**: 2018-08-24

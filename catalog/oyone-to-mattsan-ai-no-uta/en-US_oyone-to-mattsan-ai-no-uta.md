@@ -1,5 +1,7 @@
 # Oyone to Mattsan: Ai no Uta
 
+![oyone-to-mattsan-ai-no-uta](https://cdn.myanimelist.net/images/anime/11/79692.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: オヨネと松っっぁん愛の唄

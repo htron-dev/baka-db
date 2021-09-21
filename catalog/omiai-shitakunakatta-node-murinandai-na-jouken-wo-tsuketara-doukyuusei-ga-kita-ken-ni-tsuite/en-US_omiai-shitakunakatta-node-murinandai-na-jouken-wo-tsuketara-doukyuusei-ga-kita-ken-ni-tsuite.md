@@ -1,5 +1,7 @@
 # Omiai Shitakunakatta node, Murinandai na Jouken wo Tsuketara Doukyuusei ga Kita Ken ni Tsuite
 
+![omiai-shitakunakatta-node-murinandai-na-jouken-wo-tsuketara-doukyuusei-ga-kita-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/2/248135.jpg)
+
 -   **type**: light-novel
 -   **original-name**: お見合いしたくなかったので、無理難題な条件をつけたら同級生が来た件について
 -   **start-date**: 2020-11-27

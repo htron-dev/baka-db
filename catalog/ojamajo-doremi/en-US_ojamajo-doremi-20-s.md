@@ -1,5 +1,7 @@
 # Ojamajo Doremi 20's
 
+![ojamajo-doremi-20-s](https://cdn.myanimelist.net/images/manga/3/229137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

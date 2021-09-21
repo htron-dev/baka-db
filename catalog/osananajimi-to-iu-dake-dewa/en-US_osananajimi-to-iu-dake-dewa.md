@@ -1,5 +1,7 @@
 # Osananajimi to Iu dake dewa
 
+![osananajimi-to-iu-dake-dewa](https://cdn.myanimelist.net/images/manga/1/238414.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

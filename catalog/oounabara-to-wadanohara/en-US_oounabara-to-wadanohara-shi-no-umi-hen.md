@@ -1,5 +1,7 @@
 # Oounabara to Wadanohara: Shi no Umi-hen
 
+![oounabara-to-wadanohara-shi-no-umi-hen](https://cdn.myanimelist.net/images/manga/3/197815.jpg)
+
 -   **type**: manga
 -   **original-name**: 大海原と大海原 死の海編
 -   **start-date**: 2017-06-18

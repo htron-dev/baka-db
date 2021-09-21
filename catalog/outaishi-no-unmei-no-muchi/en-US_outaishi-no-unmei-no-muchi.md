@@ -1,5 +1,7 @@
 # Outaishi no Unmei no Muchi
 
+![outaishi-no-unmei-no-muchi](https://cdn.myanimelist.net/images/manga/3/186096.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

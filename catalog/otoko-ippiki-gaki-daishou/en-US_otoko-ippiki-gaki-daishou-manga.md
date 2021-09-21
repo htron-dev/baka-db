@@ -1,5 +1,7 @@
 # Otoko Ippiki Gaki Daishou
 
+![otoko-ippiki-gaki-daishou](https://cdn.myanimelist.net/images/manga/2/158344.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 152

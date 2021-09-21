@@ -1,5 +1,7 @@
 # Office de Bouhatsu! Oshiri Tero: Kaigichuu demo An An An
 
+![office-de-bouhatsu-oshiri-tero-kaigichuu-demo-an-an-an](https://cdn.myanimelist.net/images/manga/2/169577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

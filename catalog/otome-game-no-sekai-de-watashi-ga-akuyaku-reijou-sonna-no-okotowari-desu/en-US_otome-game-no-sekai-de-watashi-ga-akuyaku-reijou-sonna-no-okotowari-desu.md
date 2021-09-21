@@ -1,5 +1,7 @@
 # Otome Game no Sekai de Watashi ga Akuyaku Reijou!? Sonna no Okotowari desu!
 
+![otome-game-no-sekai-de-watashi-ga-akuyaku-reijou-sonna-no-okotowari-desu](https://cdn.myanimelist.net/images/manga/2/240707.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲームの世界で私が悪役令嬢!?そんなのお断りです!
 -   **start-date**: 2020-07-31

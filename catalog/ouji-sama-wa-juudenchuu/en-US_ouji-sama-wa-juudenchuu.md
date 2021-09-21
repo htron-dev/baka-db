@@ -1,5 +1,7 @@
 # Ouji-sama wa Juudenchuu
 
+![ouji-sama-wa-juudenchuu](https://cdn.myanimelist.net/images/manga/2/66755.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

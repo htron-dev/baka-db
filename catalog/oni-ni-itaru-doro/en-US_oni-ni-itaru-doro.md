@@ -1,5 +1,7 @@
 # Oni ni Itaru Doro
 
+![oni-ni-itaru-doro](https://cdn.myanimelist.net/images/manga/1/24702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

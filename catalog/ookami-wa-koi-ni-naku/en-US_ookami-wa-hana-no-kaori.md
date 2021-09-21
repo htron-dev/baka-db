@@ -1,5 +1,7 @@
 # Ookami wa Hana no Kaori
 
+![ookami-wa-hana-no-kaori](https://cdn.myanimelist.net/images/manga/1/225043.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

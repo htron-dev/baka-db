@@ -1,5 +1,7 @@
 # One Room
 
+![one-room](https://cdn.myanimelist.net/images/anime/9/83777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: One Room (ワンルーム)

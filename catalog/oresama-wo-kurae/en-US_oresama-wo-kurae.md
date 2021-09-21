@@ -1,5 +1,7 @@
 # Oresama wo Kurae!
 
+![oresama-wo-kurae](https://cdn.myanimelist.net/images/manga/2/14149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

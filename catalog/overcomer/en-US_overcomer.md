@@ -1,5 +1,7 @@
 # Overcomer!!
 
+![overcomer](https://cdn.myanimelist.net/images/manga/2/177341.jpg)
+
 -   **type**: light-novel
 -   **original-name**: オーバーカマー!!
 -   **start-date**: 2016-06-01

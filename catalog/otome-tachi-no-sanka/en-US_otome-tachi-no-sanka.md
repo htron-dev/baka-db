@@ -1,5 +1,7 @@
 # Otome-tachi no Sanka
 
+![otome-tachi-no-sanka](https://cdn.myanimelist.net/images/manga/2/79809.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 乙女たちの賛歌

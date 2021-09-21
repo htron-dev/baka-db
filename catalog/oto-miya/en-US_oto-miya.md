@@ -1,5 +1,7 @@
 # Oto Miya!
 
+![oto-miya](https://cdn.myanimelist.net/images/manga/3/36289.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おとミヤ!

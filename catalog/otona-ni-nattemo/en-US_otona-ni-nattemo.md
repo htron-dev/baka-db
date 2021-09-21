@@ -1,5 +1,7 @@
 # Otona ni Nattemo
 
+![otona-ni-nattemo](https://cdn.myanimelist.net/images/manga/2/245064.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなになっても
 -   **start-date**: 2019-03-25

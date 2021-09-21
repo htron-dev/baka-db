@@ -1,5 +1,7 @@
 # Oukoku e Tsuzuku Michi
 
+![oukoku-e-tsuzuku-michi](https://cdn.myanimelist.net/images/manga/1/177272.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 王国へ続く道
 -   **start-date**: 2015-07-23

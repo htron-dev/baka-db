@@ -1,5 +1,7 @@
 # Owari no Seraph: The Beginning of the End
 
+![owari-no-seraph-the-beginning-of-the-end](https://cdn.myanimelist.net/images/anime/13/76490.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 終わりのセラフ特別編 The Beginning of the End

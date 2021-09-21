@@ -1,5 +1,7 @@
 # Out of My Mind
 
+![out-of-my-mind](https://cdn.myanimelist.net/images/anime/1582/104381.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Out of My Mind

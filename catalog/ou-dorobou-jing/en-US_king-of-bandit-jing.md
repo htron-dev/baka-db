@@ -1,5 +1,7 @@
 # King of Bandit Jing
 
+![king-of-bandit-jing](https://cdn.myanimelist.net/images/manga/1/148393.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

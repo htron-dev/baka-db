@@ -1,5 +1,7 @@
 # Oishii Ayakashi
 
+![oishii-ayakashi](https://cdn.myanimelist.net/images/manga/2/199862.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

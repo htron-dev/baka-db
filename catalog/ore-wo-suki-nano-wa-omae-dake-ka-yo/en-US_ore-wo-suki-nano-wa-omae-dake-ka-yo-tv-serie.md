@@ -1,5 +1,7 @@
 # Ore wo Suki nano wa Omae dake ka yo
 
+![ore-wo-suki-nano-wa-omae-dake-ka-yo](https://cdn.myanimelist.net/images/anime/1348/102797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 俺を好きなのはお前だけかよ

@@ -1,5 +1,7 @@
 # Oukoku Monogatari
 
+![oukoku-monogatari](https://cdn.myanimelist.net/images/manga/1/210301.jpg)
+
 -   **type**: manga
 -   **original-name**: 王国物語
 -   **start-date**: 2017-04-19

@@ -1,5 +1,7 @@
 # Ou no Hanayome: Seiryakukon no Ai ni Nurete
 
+![ou-no-hanayome-seiryakukon-no-ai-ni-nurete](https://cdn.myanimelist.net/images/manga/3/184682.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

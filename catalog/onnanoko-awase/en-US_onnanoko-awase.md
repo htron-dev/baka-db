@@ -1,5 +1,7 @@
 # Onnanoko Awase
 
+![onnanoko-awase](https://cdn.myanimelist.net/images/manga/2/105061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

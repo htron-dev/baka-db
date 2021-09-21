@@ -1,5 +1,7 @@
 # Ookami ni Kuchizuke
 
+![ookami-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/1/134355.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

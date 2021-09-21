@@ -1,5 +1,7 @@
 # Otona♡Pink
 
+![otona♡-pink](https://cdn.myanimelist.net/images/manga/1/208997.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

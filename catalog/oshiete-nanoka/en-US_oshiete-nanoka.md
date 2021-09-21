@@ -1,5 +1,7 @@
 # Oshiete Nanoka
 
+![oshiete-nanoka](https://cdn.myanimelist.net/images/manga/1/9982.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: おしえて菜花

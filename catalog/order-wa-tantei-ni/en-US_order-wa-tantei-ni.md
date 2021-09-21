@@ -1,5 +1,7 @@
 # Order wa Tantei ni
 
+![order-wa-tantei-ni](https://cdn.myanimelist.net/images/manga/3/165468.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

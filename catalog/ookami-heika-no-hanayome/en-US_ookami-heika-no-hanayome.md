@@ -1,5 +1,7 @@
 # Ookami-heika no Hanayome
 
+![ookami-heika-no-hanayome](https://cdn.myanimelist.net/images/manga/3/163577.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 118

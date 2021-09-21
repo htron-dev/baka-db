@@ -1,5 +1,7 @@
 # Ousama no Shitateya: Fiori di Girasole
 
+![ousama-no-shitateya-fiori-di-girasole](https://cdn.myanimelist.net/images/manga/1/232906.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 51

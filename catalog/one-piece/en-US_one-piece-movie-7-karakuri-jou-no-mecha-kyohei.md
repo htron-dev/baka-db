@@ -1,5 +1,7 @@
 # One Piece Movie 7: Karakuri-jou no Mecha Kyohei
 
+![one-piece-movie-7-karakuri-jou-no-mecha-kyohei](https://cdn.myanimelist.net/images/anime/9/20927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース THE MOVIE カラクリ城のメカ巨兵

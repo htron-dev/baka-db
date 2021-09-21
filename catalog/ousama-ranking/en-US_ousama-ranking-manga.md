@@ -1,5 +1,7 @@
 # Ousama Ranking
 
+![ousama-ranking](https://cdn.myanimelist.net/images/manga/2/226135.jpg)
+
 -   **type**: manga
 -   **original-name**: 王様ランキング
 -   **start-date**: 2019-02-12

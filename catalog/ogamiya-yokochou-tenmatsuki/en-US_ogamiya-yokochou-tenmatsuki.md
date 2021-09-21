@@ -1,5 +1,7 @@
 # Ogamiya Yokochou Tenmatsuki
 
+![ogamiya-yokochou-tenmatsuki](https://cdn.myanimelist.net/images/manga/2/190234.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 177

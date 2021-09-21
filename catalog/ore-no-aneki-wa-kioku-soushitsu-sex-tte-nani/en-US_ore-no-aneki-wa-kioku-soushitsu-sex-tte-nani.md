@@ -1,5 +1,7 @@
 # Ore no Aneki wa Kioku Soushitsu: Sex tte Nani?
 
+![ore-no-aneki-wa-kioku-soushitsu-sex-tte-nani](https://cdn.myanimelist.net/images/manga/1/182348.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 俺の姉貴は記憶喪失－セックスってなぁに？－

@@ -1,5 +1,7 @@
 # Onegai Patron-sama!
 
+![onegai-patron-sama](https://cdn.myanimelist.net/images/anime/1521/109423.jpg)
+
 -   **type**: ona
 -   **original-name**: おねがいっパトロンさま！
 -   **start-date**: 2020-10-18

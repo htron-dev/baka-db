@@ -1,5 +1,7 @@
 # Ouchi e Kaerou: Nekomimi Omegaverse
 
+![ouchi-e-kaerou-nekomimi-omegaverse](https://cdn.myanimelist.net/images/manga/3/248152.jpg)
+
 -   **type**: manga
 -   **original-name**: おうちへかえろう-猫耳オメガバース-
 -   **start-date**: 2017-09-25

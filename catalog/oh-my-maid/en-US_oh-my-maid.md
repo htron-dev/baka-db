@@ -1,5 +1,7 @@
 # Oh! My Maid
 
+![oh-my-maid](https://cdn.myanimelist.net/images/manga/3/142567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

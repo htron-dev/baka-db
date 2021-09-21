@@ -1,5 +1,7 @@
 # Omakase! Peace Denki-Ten
 
+![omakase-peace-denki-ten](https://cdn.myanimelist.net/images/manga/1/41942.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 217

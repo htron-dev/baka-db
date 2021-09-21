@@ -1,5 +1,7 @@
 # Out Code: Choujou Hanzai Tokumu Sousakan
 
+![out-code-choujou-hanzai-tokumu-sousakan](https://cdn.myanimelist.net/images/manga/3/170359.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Omoi, Omoware, Furi, Furare
 
+![omoi-omoware-furi-furare](https://cdn.myanimelist.net/images/anime/1418/108748.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 思い、思われ、ふり、ふられ

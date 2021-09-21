@@ -1,5 +1,7 @@
 # Otome Youkai Zakuro
 
+![otome-youkai-zakuro](https://cdn.myanimelist.net/images/manga/3/12411.jpg)
+
 -   **type**: manga
 -   **original-name**: おとめ妖怪ざくろ
 -   **start-date**: 2006-04-20

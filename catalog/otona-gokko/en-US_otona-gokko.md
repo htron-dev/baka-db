@@ -1,5 +1,7 @@
 # Otona Gokko!
 
+![otona-gokko](https://cdn.myanimelist.net/images/manga/3/37995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オトナごっこ!

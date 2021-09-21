@@ -1,5 +1,7 @@
 # Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki
 
+![overlord-ple-ple-pleiades-nazarick-saidai-no-kiki](https://cdn.myanimelist.net/images/anime/6/80173.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: オーバーロード　ぷれぷれぷれあです 『なざりっく最大の危機』

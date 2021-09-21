@@ -1,5 +1,7 @@
 # Oui Chef!
 
+![oui-chef](https://cdn.myanimelist.net/images/manga/1/107195.jpg)
+
 -   **type**: manga
 -   **original-name**: ウィ シェフ！
 -   **start-date**: 2011-11-20

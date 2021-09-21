@@ -1,5 +1,7 @@
 # One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima
 
+![one-piece-movie-6-omatsuri-danshaku-to-himitsu-no-shima](https://cdn.myanimelist.net/images/anime/11/25415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース オマツリ男爵と秘密の島

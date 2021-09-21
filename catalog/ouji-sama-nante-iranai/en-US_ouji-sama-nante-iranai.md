@@ -1,5 +1,7 @@
 # Ouji-sama Nante Iranai
 
+![ouji-sama-nante-iranai](https://cdn.myanimelist.net/images/manga/2/225433.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Onee na Kareshi to Boyish Kanojo
 
+![onee-na-kareshi-to-boyish-kanojo](https://cdn.myanimelist.net/images/manga/2/192210.jpg)
+
 -   **type**: manga
 -   **original-name**: オネエな彼氏とボーイッシュ彼女
 

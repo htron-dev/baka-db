@@ -1,5 +1,7 @@
 # Ore ga Brao Kachou wo Mamoru to Kimeta Hi kara Maruhadaka ni Suru made
 
+![ore-ga-brao-kachou-wo-mamoru-to-kimeta-hi-kara-maruhadaka-ni-suru-made](https://cdn.myanimelist.net/images/manga/1/232162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Ozmafia!!
 
+![ozmafia](https://cdn.myanimelist.net/images/manga/3/172550.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: OZMAFIA!!

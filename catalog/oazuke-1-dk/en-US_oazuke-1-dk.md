@@ -1,5 +1,7 @@
 # Oazuke 1DK
 
+![oazuke-1-dk](https://cdn.myanimelist.net/images/manga/1/195558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おあずけ 1DK

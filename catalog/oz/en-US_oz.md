@@ -1,5 +1,7 @@
 # OZ
 
+![oz](https://cdn.myanimelist.net/images/manga/3/116793.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

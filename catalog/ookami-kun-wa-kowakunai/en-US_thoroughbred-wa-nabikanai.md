@@ -1,5 +1,7 @@
 # Thoroughbred wa Nabikanai
 
+![thoroughbred-wa-nabikanai](https://cdn.myanimelist.net/images/manga/1/232461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Oshushi Da yo
 
+![oshushi-da-yo](https://cdn.myanimelist.net/images/anime/7/88033.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: おしゅしだよ

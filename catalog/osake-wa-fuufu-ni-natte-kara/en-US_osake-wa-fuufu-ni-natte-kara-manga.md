@@ -1,5 +1,7 @@
 # Osake wa Fuufu ni Natte kara
 
+![osake-wa-fuufu-ni-natte-kara](https://cdn.myanimelist.net/images/manga/3/195485.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 144

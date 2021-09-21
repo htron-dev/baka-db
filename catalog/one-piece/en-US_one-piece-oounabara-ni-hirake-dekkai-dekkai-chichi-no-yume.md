@@ -1,5 +1,7 @@
 # One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!
 
+![one-piece-oounabara-ni-hirake-dekkai-dekkai-chichi-no-yume](https://cdn.myanimelist.net/images/anime/6/20850.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース 大海原にひらけ! でっかいでっカイ父の夢!

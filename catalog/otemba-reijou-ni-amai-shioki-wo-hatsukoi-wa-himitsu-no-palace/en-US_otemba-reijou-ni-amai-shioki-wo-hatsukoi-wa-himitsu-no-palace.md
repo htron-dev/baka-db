@@ -1,5 +1,7 @@
 # Otemba Reijou ni Amai Shioki wo: Hatsukoi wa Himitsu no Palace
 
+![otemba-reijou-ni-amai-shioki-wo-hatsukoi-wa-himitsu-no-palace](https://cdn.myanimelist.net/images/manga/3/194470.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Otome Holic
 
+![otome-holic](https://cdn.myanimelist.net/images/manga/3/105511.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

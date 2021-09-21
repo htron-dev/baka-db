@@ -1,5 +1,7 @@
 # Ojou to Shinonome
 
+![ojou-to-shinonome](https://cdn.myanimelist.net/images/manga/1/205473.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

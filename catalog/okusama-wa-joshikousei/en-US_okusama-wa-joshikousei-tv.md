@@ -1,5 +1,7 @@
 # Okusama wa Joshikousei (TV)
 
+![okusama-wa-joshikousei-tv](https://cdn.myanimelist.net/images/anime/4/18925.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おくさまは女子高生

@@ -1,5 +1,7 @@
 # Oyasuminasai mase, Goshujinsama! Kaimin App de Yume no Seikatsu
 
+![oyasuminasai-mase-goshujinsama-kaimin-app-de-yume-no-seikatsu](https://cdn.myanimelist.net/images/manga/2/169774.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

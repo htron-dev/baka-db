@@ -1,5 +1,7 @@
 # Oni ga Deru ka Ja ga Deru ka
 
+![oni-ga-deru-ka-ja-ga-deru-ka](https://cdn.myanimelist.net/images/manga/1/164008.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

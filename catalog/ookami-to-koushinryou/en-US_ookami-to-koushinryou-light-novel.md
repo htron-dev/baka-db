@@ -1,5 +1,7 @@
 # Ookami to Koushinryou
 
+![ookami-to-koushinryou](https://cdn.myanimelist.net/images/manga/2/153860.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 狼と香辛料
 -   **start-date**: 2006-02-10

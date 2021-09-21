@@ -1,5 +1,7 @@
 # Ohayou Keijirou
 
+![ohayou-keijirou](https://cdn.myanimelist.net/images/manga/3/176536.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 290

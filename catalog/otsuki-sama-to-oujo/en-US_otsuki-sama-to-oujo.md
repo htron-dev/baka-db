@@ -1,5 +1,7 @@
 # Otsuki-sama to Oujo
 
+![otsuki-sama-to-oujo](https://cdn.myanimelist.net/images/anime/11/60689.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お月さまと王女

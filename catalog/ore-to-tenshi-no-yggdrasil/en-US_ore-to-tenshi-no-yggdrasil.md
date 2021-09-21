@@ -1,5 +1,7 @@
 # Ore to Tenshi no Yggdrasil
 
+![ore-to-tenshi-no-yggdrasil](https://cdn.myanimelist.net/images/manga/2/123753.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: おれと天使の世界創生(ユグドラシル)

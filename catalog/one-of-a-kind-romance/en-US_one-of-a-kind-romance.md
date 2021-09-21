@@ -1,5 +1,7 @@
 # One of a Kind Romance
 
+![one-of-a-kind-romance](https://cdn.myanimelist.net/images/manga/3/245523.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 유일무이 로맨스
 -   **start-date**: 2018-04-09

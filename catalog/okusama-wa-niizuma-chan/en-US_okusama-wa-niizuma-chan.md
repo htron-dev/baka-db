@@ -1,5 +1,7 @@
 # Okusama wa Niizuma-chan
 
+![okusama-wa-niizuma-chan](https://cdn.myanimelist.net/images/manga/1/215507.jpg)
+
 -   **type**: manga
 -   **original-name**: 奥さまは新妻ちゃん
 -   **start-date**: 2017-11-09

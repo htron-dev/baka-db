@@ -1,5 +1,7 @@
 # Ore to Akuma no Blues
 
+![ore-to-akuma-no-blues](https://cdn.myanimelist.net/images/manga/5/101327.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺と悪魔のブルーズ
 -   **start-date**: 2005-01-20

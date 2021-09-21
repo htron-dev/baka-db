@@ -1,5 +1,7 @@
 # Oshi ga Kounin Stalker ni Narimashita
 
+![oshi-ga-kounin-stalker-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/237587.jpg)
+
 -   **type**: manga
 -   **original-name**: 推しが公認ストーカーになりました
 -   **start-date**: 2019-07-30

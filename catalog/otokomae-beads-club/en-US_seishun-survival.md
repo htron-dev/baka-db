@@ -1,5 +1,7 @@
 # Seishun Survival
 
+![seishun-survival](https://cdn.myanimelist.net/images/manga/2/30061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

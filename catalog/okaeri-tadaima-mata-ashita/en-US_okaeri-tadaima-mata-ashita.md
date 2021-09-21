@@ -1,5 +1,7 @@
 # Okaeri, Tadaima, Mata Ashita
 
+![okaeri-tadaima-mata-ashita](https://cdn.myanimelist.net/images/manga/2/201957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

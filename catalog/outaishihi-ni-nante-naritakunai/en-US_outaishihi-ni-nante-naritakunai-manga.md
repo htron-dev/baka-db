@@ -1,5 +1,7 @@
 # Outaishihi ni nante Naritakunai!!
 
+![outaishihi-ni-nante-naritakunai](https://cdn.myanimelist.net/images/manga/2/233443.jpg)
+
 -   **type**: manga
 -   **original-name**: 王太子妃になんてなりたくない!!
 -   **start-date**: 2019-10-18

@@ -1,5 +1,7 @@
 # Onikirimaruden
 
+![onikirimaruden](https://cdn.myanimelist.net/images/manga/1/136939.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼切丸伝
 -   **start-date**: 2013-08-26

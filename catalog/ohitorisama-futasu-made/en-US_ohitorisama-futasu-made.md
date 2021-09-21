@@ -1,5 +1,7 @@
 # Ohitorisama Futasu made!
 
+![ohitorisama-futasu-made](https://cdn.myanimelist.net/images/manga/1/31290.jpg)
+
 -   **type**: manga
 -   **original-name**: ママとミツバのビンボフル・ワンダフル; お一人様二つまで
 

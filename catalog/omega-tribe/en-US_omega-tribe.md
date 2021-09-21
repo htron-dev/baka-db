@@ -1,5 +1,7 @@
 # Omega Tribe
 
+![omega-tribe](https://cdn.myanimelist.net/images/manga/3/75939.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: オメガトライブ

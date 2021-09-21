@@ -1,5 +1,7 @@
 # Oshiire no Shounen
 
+![oshiire-no-shounen](https://cdn.myanimelist.net/images/manga/2/116015.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

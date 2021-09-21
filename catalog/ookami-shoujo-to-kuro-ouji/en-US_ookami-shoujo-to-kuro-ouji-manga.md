@@ -1,5 +1,7 @@
 # Ookami Shoujo to Kuro Ouji
 
+![ookami-shoujo-to-kuro-ouji](https://cdn.myanimelist.net/images/manga/1/163543.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 67

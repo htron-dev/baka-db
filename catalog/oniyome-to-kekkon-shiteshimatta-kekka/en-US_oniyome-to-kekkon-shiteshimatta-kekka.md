@@ -1,5 +1,7 @@
 # Oniyome to Kekkon shiteshimatta Kekka
 
+![oniyome-to-kekkon-shiteshimatta-kekka](https://cdn.myanimelist.net/images/manga/2/234629.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼嫁と結婚してしまった結果
 -   **start-date**: 2019-07-05

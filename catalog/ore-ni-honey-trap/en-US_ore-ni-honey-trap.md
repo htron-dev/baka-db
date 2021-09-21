@@ -1,5 +1,7 @@
 # Ore ni Honey Trap
 
+![ore-ni-honey-trap](https://cdn.myanimelist.net/images/manga/3/36701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

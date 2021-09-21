@@ -1,5 +1,7 @@
 # Ouji-sama no Kanojo
 
+![ouji-sama-no-kanojo](https://cdn.myanimelist.net/images/manga/3/10355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

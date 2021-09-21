@@ -1,5 +1,7 @@
 # Otokonoko Doushi Renaichuu.
 
+![otokonoko-doushi-renaichuu](https://cdn.myanimelist.net/images/manga/3/212608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

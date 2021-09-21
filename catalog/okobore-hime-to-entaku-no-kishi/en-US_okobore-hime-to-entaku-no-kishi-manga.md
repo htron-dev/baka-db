@@ -1,5 +1,7 @@
 # Okobore Hime to Entaku no Kishi
 
+![okobore-hime-to-entaku-no-kishi](https://cdn.myanimelist.net/images/manga/2/123693.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

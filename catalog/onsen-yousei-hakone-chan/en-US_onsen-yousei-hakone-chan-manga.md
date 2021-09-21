@@ -1,5 +1,7 @@
 # Onsen Yousei Hakone-chan
 
+![onsen-yousei-hakone-chan](https://cdn.myanimelist.net/images/manga/2/159403.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

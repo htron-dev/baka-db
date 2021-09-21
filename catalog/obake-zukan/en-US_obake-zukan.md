@@ -1,5 +1,7 @@
 # Obake Zukan
 
+![obake-zukan](https://cdn.myanimelist.net/images/anime/1885/106287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: おばけずかん

@@ -1,5 +1,7 @@
 # Osomatsu-san 3rd Season
 
+![osomatsu-san-3rd-season](https://cdn.myanimelist.net/images/anime/1290/113445.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: おそ松さん 第 3 期

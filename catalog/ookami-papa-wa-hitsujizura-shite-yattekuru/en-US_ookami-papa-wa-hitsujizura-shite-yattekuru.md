@@ -1,5 +1,7 @@
 # Ookami Papa wa Hitsujizura shite Yattekuru
 
+![ookami-papa-wa-hitsujizura-shite-yattekuru](https://cdn.myanimelist.net/images/manga/1/208209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

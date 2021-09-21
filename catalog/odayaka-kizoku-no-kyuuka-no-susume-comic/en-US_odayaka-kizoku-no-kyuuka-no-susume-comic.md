@@ -1,5 +1,7 @@
 # Odayaka Kizoku no Kyuuka no Susume. @comic
 
+![odayaka-kizoku-no-kyuuka-no-susume-comic](https://cdn.myanimelist.net/images/manga/3/221033.jpg)
+
 -   **type**: manga
 -   **original-name**: 穏やか貴族の休暇のすすめ。＠COMIC
 -   **start-date**: 2018-12-17

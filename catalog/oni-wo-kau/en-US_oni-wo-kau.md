@@ -1,5 +1,7 @@
 # Oni wo Kau
 
+![oni-wo-kau](https://cdn.myanimelist.net/images/manga/1/244779.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 59

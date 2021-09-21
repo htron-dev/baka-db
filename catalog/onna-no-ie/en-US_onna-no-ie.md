@@ -1,5 +1,7 @@
 # Onna no Ie
 
+![onna-no-ie](https://cdn.myanimelist.net/images/manga/1/183036.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

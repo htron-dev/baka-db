@@ -1,5 +1,7 @@
 # Ore no Otouto no Hajimete no Onedari
 
+![ore-no-otouto-no-hajimete-no-onedari](https://cdn.myanimelist.net/images/manga/2/246547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

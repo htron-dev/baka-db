@@ -1,5 +1,7 @@
 # Oya ni wa Naisho
 
+![oya-ni-wa-naisho](https://cdn.myanimelist.net/images/manga/2/175296.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

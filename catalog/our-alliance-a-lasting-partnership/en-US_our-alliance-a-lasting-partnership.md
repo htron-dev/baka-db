@@ -1,5 +1,7 @@
 # Our Alliance - A Lasting Partnership
 
+![our-alliance-a-lasting-partnership](https://cdn.myanimelist.net/images/manga/2/34221.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしたちの同盟 — 永続的パートナーシップ
 -   **start-date**: 2010-08-20

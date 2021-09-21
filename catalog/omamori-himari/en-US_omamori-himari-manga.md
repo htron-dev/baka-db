@@ -1,5 +1,7 @@
 # Omamori Himari
 
+![omamori-himari](https://cdn.myanimelist.net/images/manga/3/50423.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 75

@@ -1,5 +1,7 @@
 # Ten to Chi to Hime to
 
+![ten-to-chi-to-hime-to](https://cdn.myanimelist.net/images/manga/2/217302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 29

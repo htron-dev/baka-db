@@ -1,5 +1,7 @@
 # Ohanashi no Heya
 
+![ohanashi-no-heya](https://cdn.myanimelist.net/images/manga/3/30626.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: おはなしのへや

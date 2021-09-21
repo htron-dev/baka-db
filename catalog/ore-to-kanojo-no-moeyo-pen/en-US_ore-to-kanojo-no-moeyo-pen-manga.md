@@ -1,5 +1,7 @@
 # Ore to Kanojo no Moeyo Pen
 
+![ore-to-kanojo-no-moeyo-pen](https://cdn.myanimelist.net/images/manga/3/151715.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Denki-gai no Honya-san
 
+![denki-gai-no-honya-san](https://cdn.myanimelist.net/images/manga/1/188779.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 107

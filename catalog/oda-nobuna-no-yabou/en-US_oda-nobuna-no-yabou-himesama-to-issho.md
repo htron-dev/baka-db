@@ -1,5 +1,7 @@
 # Oda Nobuna no Yabou: Himesama to Issho
 
+![oda-nobuna-no-yabou-himesama-to-issho](https://cdn.myanimelist.net/images/manga/4/86835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

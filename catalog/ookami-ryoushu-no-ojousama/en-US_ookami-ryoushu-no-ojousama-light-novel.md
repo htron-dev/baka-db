@@ -1,5 +1,7 @@
 # Ookami Ryoushu no Ojousama
 
+![ookami-ryoushu-no-ojousama](https://cdn.myanimelist.net/images/manga/1/234507.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 狼領主のお嬢様
 -   **start-date**: 2017-08-10

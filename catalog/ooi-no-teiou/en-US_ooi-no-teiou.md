@@ -1,5 +1,7 @@
 # Ooi no Teiou
 
+![ooi-no-teiou](https://cdn.myanimelist.net/images/anime/1759/99895.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 大井の帝王

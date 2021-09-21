@@ -1,5 +1,7 @@
 # Ojamajo Doremi Sharp
 
+![ojamajo-doremi-sharp](https://cdn.myanimelist.net/images/anime/11/27123.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: おジャ魔女どれみ＃

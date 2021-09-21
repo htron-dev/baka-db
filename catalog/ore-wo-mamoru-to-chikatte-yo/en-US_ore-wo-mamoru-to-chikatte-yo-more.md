@@ -1,5 +1,7 @@
 # Ore wo Mamoru to Chikatte yo More!
 
+![ore-wo-mamoru-to-chikatte-yo-more](https://cdn.myanimelist.net/images/manga/3/225818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

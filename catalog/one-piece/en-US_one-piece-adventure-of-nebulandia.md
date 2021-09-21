@@ -1,5 +1,7 @@
 # One Piece: Adventure of Nebulandia
 
+![one-piece-adventure-of-nebulandia](https://cdn.myanimelist.net/images/anime/5/77050.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース～アドベンチャー オブ ネブランディア～

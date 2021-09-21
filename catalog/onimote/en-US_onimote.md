@@ -1,5 +1,7 @@
 # Onimote
 
+![onimote](https://cdn.myanimelist.net/images/manga/1/166785.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

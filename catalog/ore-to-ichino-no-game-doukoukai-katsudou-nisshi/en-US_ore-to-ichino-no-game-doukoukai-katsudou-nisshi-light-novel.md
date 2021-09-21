@@ -1,5 +1,7 @@
 # Ore to Ichino no Game Doukoukai Katsudou Nisshi
 
+![ore-to-ichino-no-game-doukoukai-katsudou-nisshi](https://cdn.myanimelist.net/images/manga/1/158022.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: おれと一乃のゲーム同好会活動日誌

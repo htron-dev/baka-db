@@ -1,5 +1,7 @@
 # One Piece: Taose! Kaizoku Ganzack
 
+![one-piece-taose-kaizoku-ganzack](https://cdn.myanimelist.net/images/manga/2/178412.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ONE PIECE 倒せ!海賊ギャンザック

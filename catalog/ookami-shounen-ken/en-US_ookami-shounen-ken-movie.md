@@ -1,5 +1,7 @@
 # Ookami Shounen Ken (Movie)
 
+![ookami-shounen-ken-movie](https://cdn.myanimelist.net/images/anime/11/59909.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 狼少年ケン (1963)

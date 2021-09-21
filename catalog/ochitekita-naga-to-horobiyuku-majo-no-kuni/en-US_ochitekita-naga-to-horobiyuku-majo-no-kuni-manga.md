@@ -1,5 +1,7 @@
 # Ochitekita Naga to Horobiyuku Majo no Kuni
 
+![ochitekita-naga-to-horobiyuku-majo-no-kuni](https://cdn.myanimelist.net/images/manga/3/104249.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

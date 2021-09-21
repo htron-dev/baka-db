@@ -1,5 +1,7 @@
 # Otenki Boys
 
+![otenki-boys](https://cdn.myanimelist.net/images/anime/9/71934.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: おてんきボーイズ

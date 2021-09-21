@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon: Kimitoasamade
 
+![kyoukaisenjou-no-horizon-kimitoasamade](https://cdn.myanimelist.net/images/manga/3/156473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 58

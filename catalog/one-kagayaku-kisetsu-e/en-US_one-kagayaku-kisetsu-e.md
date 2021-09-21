@@ -1,5 +1,7 @@
 # One: Kagayaku Kisetsu e
 
+![one-kagayaku-kisetsu-e](https://cdn.myanimelist.net/images/anime/5/25086.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ONE ～輝く季節へ～

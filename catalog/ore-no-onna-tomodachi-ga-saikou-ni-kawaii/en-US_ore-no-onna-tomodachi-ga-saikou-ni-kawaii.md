@@ -1,5 +1,7 @@
 # Ore no Onna Tomodachi ga Saikou ni Kawaii.
 
+![ore-no-onna-tomodachi-ga-saikou-ni-kawaii](https://cdn.myanimelist.net/images/manga/2/237153.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の女友達が最高に可愛い。
 -   **start-date**: 2020-02-14

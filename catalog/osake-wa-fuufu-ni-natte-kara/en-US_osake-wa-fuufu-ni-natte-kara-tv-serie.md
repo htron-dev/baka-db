@@ -1,5 +1,7 @@
 # Osake wa Fuufu ni Natte kara
 
+![osake-wa-fuufu-ni-natte-kara](https://cdn.myanimelist.net/images/anime/1684/108627.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: お酒は夫婦になってから

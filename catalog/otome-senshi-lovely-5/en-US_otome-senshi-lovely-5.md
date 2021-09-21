@@ -1,5 +1,7 @@
 # Otome Senshi Lovely 5!
 
+![otome-senshi-lovely-5](https://cdn.myanimelist.net/images/manga/3/30628.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

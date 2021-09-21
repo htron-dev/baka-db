@@ -1,5 +1,7 @@
 # Okocha Punch
 
+![okocha-punch](https://cdn.myanimelist.net/images/manga/3/23311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お子ちゃまパンチ ☆

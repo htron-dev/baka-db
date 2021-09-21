@@ -1,5 +1,7 @@
 # Outland Vanguard: Ore, Henkyou Keibi ni Chakunin Shimashita
 
+![outland-vanguard-ore-henkyou-keibi-ni-chakunin-shimashita](https://cdn.myanimelist.net/images/manga/1/164232.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Osananajimi no Mama ja Iya?
 
+![osananajimi-no-mama-ja-iya](https://cdn.myanimelist.net/images/manga/2/236798.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

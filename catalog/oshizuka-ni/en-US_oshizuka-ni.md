@@ -1,5 +1,7 @@
 # Oshizuka ni
 
+![oshizuka-ni](https://cdn.myanimelist.net/images/anime/11/71583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おしずかに

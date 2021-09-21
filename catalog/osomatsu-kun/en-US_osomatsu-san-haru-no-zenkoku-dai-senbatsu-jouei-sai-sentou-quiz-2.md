@@ -1,5 +1,7 @@
 # Osomatsu-san: Haru no Zenkoku Dai Senbatsu Jouei-sai - Sentou Quiz 2
 
+![osomatsu-san-haru-no-zenkoku-dai-senbatsu-jouei-sai-sentou-quiz-2](https://cdn.myanimelist.net/images/anime/1212/93370.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おそ松さん 春の全国大センバツ上映祭 銭湯クイズ 2

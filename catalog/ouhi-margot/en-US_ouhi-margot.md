@@ -1,5 +1,7 @@
 # Ouhi Margot
 
+![ouhi-margot](https://cdn.myanimelist.net/images/manga/3/196704.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

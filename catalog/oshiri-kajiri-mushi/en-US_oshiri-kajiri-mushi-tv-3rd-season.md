@@ -1,5 +1,7 @@
 # Oshiri Kajiri Mushi (TV) 3rd Season
 
+![oshiri-kajiri-mushi-tv-3rd-season](https://cdn.myanimelist.net/images/anime/8/67051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: おしりかじり虫　第３シリーズ

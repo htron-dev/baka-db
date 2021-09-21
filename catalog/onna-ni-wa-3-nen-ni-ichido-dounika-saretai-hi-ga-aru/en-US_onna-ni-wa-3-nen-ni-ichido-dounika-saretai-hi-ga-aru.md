@@ -1,5 +1,7 @@
 # Onna ni wa 3-nen ni Ichido Dounika Saretai Hi ga Aru
 
+![onna-ni-wa-3-nen-ni-ichido-dounika-saretai-hi-ga-aru](https://cdn.myanimelist.net/images/manga/2/246046.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Motto! Ojamajo Doremi
 
+![motto-ojamajo-doremi](https://cdn.myanimelist.net/images/anime/5/36629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: も〜っと！おジャ魔女どれみ

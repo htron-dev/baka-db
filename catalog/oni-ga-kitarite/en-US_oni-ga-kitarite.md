@@ -1,5 +1,7 @@
 # Oni Ga Kitarite
 
+![oni-ga-kitarite](https://cdn.myanimelist.net/images/manga/2/177666.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

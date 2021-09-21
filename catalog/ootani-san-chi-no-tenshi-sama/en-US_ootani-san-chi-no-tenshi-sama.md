@@ -1,5 +1,7 @@
 # Ootani-san Chi no Tenshi-sama
 
+![ootani-san-chi-no-tenshi-sama](https://cdn.myanimelist.net/images/manga/2/203955.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

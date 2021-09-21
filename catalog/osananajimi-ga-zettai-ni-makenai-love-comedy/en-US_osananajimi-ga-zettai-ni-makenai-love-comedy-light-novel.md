@@ -1,5 +1,7 @@
 # Osananajimi ga Zettai ni Makenai Love Comedy
 
+![osananajimi-ga-zettai-ni-makenai-love-comedy](https://cdn.myanimelist.net/images/manga/2/224673.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 幼なじみが絶対に負けないラブコメ
 -   **start-date**: 2019-06-08

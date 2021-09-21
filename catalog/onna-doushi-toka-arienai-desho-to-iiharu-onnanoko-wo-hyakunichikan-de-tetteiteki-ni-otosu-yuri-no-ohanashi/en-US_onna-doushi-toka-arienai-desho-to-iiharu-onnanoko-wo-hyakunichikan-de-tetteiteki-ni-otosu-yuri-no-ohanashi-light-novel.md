@@ -1,5 +1,7 @@
 # Onna Doushi toka Arienai desho to Iiharu Onnanoko wo, Hyakunichikan de Tetteiteki ni Otosu Yuri no Ohanashi
 
+![onna-doushi-toka-arienai-desho-to-iiharu-onnanoko-wo-hyakunichikan-de-tetteiteki-ni-otosu-yuri-no-ohanashi](https://cdn.myanimelist.net/images/manga/2/237059.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 女同士とかありえないでしょと言い張る女の子を、百日間で徹底的に落とす百合のお話
 -   **start-date**: 2020-02-14

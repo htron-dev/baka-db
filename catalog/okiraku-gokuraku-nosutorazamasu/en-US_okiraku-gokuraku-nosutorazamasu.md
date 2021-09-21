@@ -1,5 +1,7 @@
 # Okiraku Gokuraku Nosutorazamasu
 
+![okiraku-gokuraku-nosutorazamasu](https://cdn.myanimelist.net/images/manga/2/33689.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: お気楽極楽ノストラざまス

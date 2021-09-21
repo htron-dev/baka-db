@@ -1,5 +1,7 @@
 # Onigiri Tsuushin: Dame Mama Nikki
 
+![onigiri-tsuushin-dame-mama-nikki](https://cdn.myanimelist.net/images/manga/3/174387.jpg)
+
 -   **type**: manga
 -   **original-name**: おにぎり通信～ダメママ日記～
 -   **start-date**: 2012-03-15

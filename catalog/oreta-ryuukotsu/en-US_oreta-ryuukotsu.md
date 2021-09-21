@@ -1,5 +1,7 @@
 # Oreta Ryuukotsu
 
+![oreta-ryuukotsu](https://cdn.myanimelist.net/images/manga/1/199282.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

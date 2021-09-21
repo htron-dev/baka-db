@@ -1,5 +1,7 @@
 # Majo Minarai wo Sagashite
 
+![majo-minarai-wo-sagashite](https://cdn.myanimelist.net/images/anime/1937/110713.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔女見習いをさがして

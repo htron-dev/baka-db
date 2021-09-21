@@ -1,5 +1,7 @@
 # Ore ni wa Mou N to Fantasy no Teigi ga Mienai
 
+![ore-ni-wa-mou-n-to-fantasy-no-teigi-ga-mienai](https://cdn.myanimelist.net/images/manga/3/241759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

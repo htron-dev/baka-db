@@ -1,5 +1,7 @@
 # Ore no Otouto no Honjitsu no Onedari
 
+![ore-no-otouto-no-honjitsu-no-onedari](https://cdn.myanimelist.net/images/manga/1/223628.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

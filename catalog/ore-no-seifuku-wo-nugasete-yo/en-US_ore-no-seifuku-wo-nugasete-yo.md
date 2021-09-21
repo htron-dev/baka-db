@@ -1,5 +1,7 @@
 # Ore no Seifuku wo Nugasete yo
 
+![ore-no-seifuku-wo-nugasete-yo](https://cdn.myanimelist.net/images/manga/1/246226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

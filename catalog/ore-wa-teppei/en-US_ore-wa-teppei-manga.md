@@ -1,5 +1,7 @@
 # Ore wa Teppei
 
+![ore-wa-teppei](https://cdn.myanimelist.net/images/manga/4/147051.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **original-name**: おれは鉄兵

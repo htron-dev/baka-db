@@ -1,5 +1,7 @@
 # Otogibanashi Battle Royal
 
+![otogibanashi-battle-royal](https://cdn.myanimelist.net/images/manga/3/195282.jpg)
+
 -   **type**: manga
 -   **original-name**: おとぎ話バトルロワイヤル
 -   **start-date**: 2016-11-04

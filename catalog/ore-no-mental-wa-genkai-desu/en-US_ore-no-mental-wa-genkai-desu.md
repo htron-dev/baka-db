@@ -1,5 +1,7 @@
 # Ore no Mental wa Genkai desu
 
+![ore-no-mental-wa-genkai-desu](https://cdn.myanimelist.net/images/manga/2/206420.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺のメンタルは限界です
 -   **start-date**: 2016-06-27

@@ -1,5 +1,7 @@
 # Otomegokoro no Jiyuugata
 
+![otomegokoro-no-jiyuugata](https://cdn.myanimelist.net/images/manga/5/62899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

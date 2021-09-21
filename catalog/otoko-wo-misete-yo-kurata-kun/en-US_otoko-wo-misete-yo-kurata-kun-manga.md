@@ -1,5 +1,7 @@
 # Otoko wo Misete yo Kurata-kun!
 
+![otoko-wo-misete-yo-kurata-kun](https://cdn.myanimelist.net/images/manga/4/73999.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

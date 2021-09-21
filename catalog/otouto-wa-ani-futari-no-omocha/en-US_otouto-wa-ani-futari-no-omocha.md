@@ -1,5 +1,7 @@
 # Otouto wa Ani Futari no Omocha.
 
+![otouto-wa-ani-futari-no-omocha](https://cdn.myanimelist.net/images/manga/2/142239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 弟は兄 2 人のオモチャ。

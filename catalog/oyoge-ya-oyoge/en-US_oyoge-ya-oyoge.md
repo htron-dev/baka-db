@@ -1,5 +1,7 @@
 # Oyoge ya Oyoge
 
+![oyoge-ya-oyoge](https://cdn.myanimelist.net/images/anime/6/15846.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 泳げや泳げ

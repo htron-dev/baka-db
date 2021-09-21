@@ -1,5 +1,7 @@
 # Odaiba Love Survival
 
+![odaiba-love-survival](https://cdn.myanimelist.net/images/manga/3/36156.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ＯＤＡＩＢＡラブサバイバル

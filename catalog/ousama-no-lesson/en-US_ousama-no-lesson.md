@@ -1,5 +1,7 @@
 # Ousama no Lesson
 
+![ousama-no-lesson](https://cdn.myanimelist.net/images/manga/1/5900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

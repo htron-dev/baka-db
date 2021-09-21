@@ -1,5 +1,7 @@
 # Oyasumi Jack the Ripper
 
+![oyasumi-jack-the-ripper](https://cdn.myanimelist.net/images/manga/1/172002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

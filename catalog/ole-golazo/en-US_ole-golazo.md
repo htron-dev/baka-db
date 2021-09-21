@@ -1,5 +1,7 @@
 # Ole Golazo
 
+![ole-golazo](https://cdn.myanimelist.net/images/manga/3/195687.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

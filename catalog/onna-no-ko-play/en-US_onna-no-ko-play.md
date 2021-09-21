@@ -1,5 +1,7 @@
 # Onna no Ko Play
 
+![onna-no-ko-play](https://cdn.myanimelist.net/images/manga/1/81748.jpg)
+
 -   **type**: manga
 -   **original-name**: おんなのこプレイ
 -   **start-date**: 2012-07-25

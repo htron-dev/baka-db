@@ -1,5 +1,7 @@
 # Oshiego ni Kyouhaku Sareru no wa Hanzai Desu ka?
 
+![oshiego-ni-kyouhaku-sareru-no-wa-hanzai-desu-ka](https://cdn.myanimelist.net/images/anime/1485/93251.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 教え子に脅迫されるのは犯罪ですか？

@@ -1,5 +1,7 @@
 # Okashiratsuki.
 
+![okashiratsuki](https://cdn.myanimelist.net/images/manga/1/244047.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

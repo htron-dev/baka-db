@@ -1,5 +1,7 @@
 # Oshikake Maid no Shirayuki-san
 
+![oshikake-maid-no-shirayuki-san](https://cdn.myanimelist.net/images/manga/3/227724.jpg)
+
 -   **type**: manga
 -   **chapters**: 16
 -   **original-name**: おしかけメイドの白雪さん

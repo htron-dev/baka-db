@@ -1,5 +1,7 @@
 # Kinryouku no Mori
 
+![kinryouku-no-mori](https://cdn.myanimelist.net/images/manga/1/32215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

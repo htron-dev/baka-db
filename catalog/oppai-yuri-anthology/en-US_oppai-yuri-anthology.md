@@ -1,5 +1,7 @@
 # Oppai Yuri Anthology
 
+![oppai-yuri-anthology](https://cdn.myanimelist.net/images/manga/1/237192.jpg)
+
 -   **type**: manga
 -   **original-name**: おっぱい百合アンソロジー
 -   **start-date**: 2020-10-26

@@ -1,5 +1,7 @@
 # Ookamidomo no Shitsukekata
 
+![ookamidomo-no-shitsukekata](https://cdn.myanimelist.net/images/manga/2/61287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

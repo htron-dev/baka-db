@@ -1,5 +1,7 @@
 # Otome wo Aishita Akuma
 
+![otome-wo-aishita-akuma](https://cdn.myanimelist.net/images/manga/3/236944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 乙女を愛した悪魔

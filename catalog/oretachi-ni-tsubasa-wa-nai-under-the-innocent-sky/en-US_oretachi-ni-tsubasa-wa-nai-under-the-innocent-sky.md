@@ -1,5 +1,7 @@
 # Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.
 
+![oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky](https://cdn.myanimelist.net/images/anime/9/75449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 俺たちに翼はない -under the innocent sky.

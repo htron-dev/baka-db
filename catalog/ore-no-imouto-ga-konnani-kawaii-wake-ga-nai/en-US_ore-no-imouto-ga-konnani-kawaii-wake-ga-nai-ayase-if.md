@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai: Ayase If
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-ayase-if](https://cdn.myanimelist.net/images/manga/1/241982.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の妹がこんなに可愛いわけがない あやせ if
 -   **start-date**: 2020-06-25

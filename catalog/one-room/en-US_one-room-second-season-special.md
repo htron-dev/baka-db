@@ -1,5 +1,7 @@
 # One Room Second Season Special
 
+![one-room-second-season-special](https://cdn.myanimelist.net/images/anime/1630/97029.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: One Room セカンドシーズン -extra-

@@ -1,5 +1,7 @@
 # Obake no Q-Tarou: Susume! 1/100 Daisakusen
 
+![obake-no-q-tarou-susume-1-100-daisakusen](https://cdn.myanimelist.net/images/anime/11/59615.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オバケの Q 太郎 進め! 1/100 大作戦

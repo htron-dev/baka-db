@@ -1,5 +1,7 @@
 # Ontama!
 
+![ontama](https://cdn.myanimelist.net/images/anime/11/15994.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: おんたま!

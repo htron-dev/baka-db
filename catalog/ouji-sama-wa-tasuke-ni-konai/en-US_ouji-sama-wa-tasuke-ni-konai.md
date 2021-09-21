@@ -1,5 +1,7 @@
 # Ouji-sama wa Tasuke ni Konai
 
+![ouji-sama-wa-tasuke-ni-konai](https://cdn.myanimelist.net/images/manga/2/192947.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

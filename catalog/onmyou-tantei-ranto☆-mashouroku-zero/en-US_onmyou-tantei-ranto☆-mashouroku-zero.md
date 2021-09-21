@@ -1,5 +1,7 @@
 # Onmyou Tantei Ranto☆Mashouroku Zero
 
+![onmyou-tantei-ranto☆-mashouroku-zero](https://cdn.myanimelist.net/images/manga/3/157528.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

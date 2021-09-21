@@ -1,5 +1,7 @@
 # Ochikobore Kenki to Toushin Gakuin no Kyoukan
 
+![ochikobore-kenki-to-toushin-gakuin-no-kyoukan](https://cdn.myanimelist.net/images/manga/3/159214.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ojiichan wa Boku no Hero
 
+![ojiichan-wa-boku-no-hero](https://cdn.myanimelist.net/images/anime/2/74446.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おじいちゃんはボクのヒーロー

@@ -1,5 +1,7 @@
 # Oretachi ni Tsubasa wa Nai -Rhapsody-
 
+![oretachi-ni-tsubasa-wa-nai-rhapsody](https://cdn.myanimelist.net/images/manga/5/36189.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺たちに翼はない ～ Rhapsody ～
 

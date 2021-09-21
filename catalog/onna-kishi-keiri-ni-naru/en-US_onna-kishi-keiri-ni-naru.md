@@ -1,5 +1,7 @@
 # Onna Kishi, Keiri ni Naru.
 
+![onna-kishi-keiri-ni-naru](https://cdn.myanimelist.net/images/manga/2/173823.jpg)
+
 -   **type**: manga
 -   **original-name**: 女騎士、経理になる。
 -   **start-date**: 2015-10-30

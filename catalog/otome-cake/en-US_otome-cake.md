@@ -1,5 +1,7 @@
 # Otome Cake
 
+![otome-cake](https://cdn.myanimelist.net/images/manga/3/213091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

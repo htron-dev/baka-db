@@ -1,5 +1,7 @@
 # Shokugeki no Sanji
 
+![shokugeki-no-sanji](https://cdn.myanimelist.net/images/manga/3/211533.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 食戟のサンジ

@@ -1,5 +1,7 @@
 # Suki to Kirai no Kyoukaisen
 
+![suki-to-kirai-no-kyoukaisen](https://cdn.myanimelist.net/images/manga/1/29148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 好きと嫌いの境界線

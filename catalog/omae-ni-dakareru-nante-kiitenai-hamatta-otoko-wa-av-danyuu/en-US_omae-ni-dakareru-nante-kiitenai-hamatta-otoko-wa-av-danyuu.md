@@ -1,5 +1,7 @@
 # Omae ni Dakareru nante Kiitenai!: Hamatta Otoko wa AV Danyuu
 
+![omae-ni-dakareru-nante-kiitenai-hamatta-otoko-wa-av-danyuu](https://cdn.myanimelist.net/images/manga/1/238317.jpg)
+
 -   **type**: manga
 -   **original-name**: お前に抱かれるなんて聞いてない! ～ハマった男は AV 男優
 -   **start-date**: 2019-02-01

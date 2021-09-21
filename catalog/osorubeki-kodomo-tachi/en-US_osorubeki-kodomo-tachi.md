@@ -1,5 +1,7 @@
 # Osorubeki Kodomo Tachi
 
+![osorubeki-kodomo-tachi](https://cdn.myanimelist.net/images/manga/3/18112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恐るべき子どもたち

@@ -1,5 +1,7 @@
 # Ore to Buka no Koi no Saki
 
+![ore-to-buka-no-koi-no-saki](https://cdn.myanimelist.net/images/manga/3/127067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Okusama wa Seitokaichou
 
+![okusama-wa-seitokaichou](https://cdn.myanimelist.net/images/manga/3/159918.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

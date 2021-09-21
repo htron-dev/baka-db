@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai.: Ore no Imouto ga Konnani Eroge na Wake Nai
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-ore-no-imouto-ga-konnani-eroge-na-wake-nai](https://cdn.myanimelist.net/images/anime/9/60363.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 俺の妹がこんなに可愛いわけがない。 俺の妹がこんなにエロゲーなわけがない〜逆襲の秋美〜

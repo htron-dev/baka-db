@@ -1,5 +1,7 @@
 # Oden-kun
 
+![oden-kun](https://cdn.myanimelist.net/images/anime/13/25112.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: おでんくん

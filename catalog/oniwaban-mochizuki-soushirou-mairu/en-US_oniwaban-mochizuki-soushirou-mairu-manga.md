@@ -1,5 +1,7 @@
 # Oniwaban Mochizuki Soushirou Mairu!
 
+![oniwaban-mochizuki-soushirou-mairu](https://cdn.myanimelist.net/images/manga/3/154785.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

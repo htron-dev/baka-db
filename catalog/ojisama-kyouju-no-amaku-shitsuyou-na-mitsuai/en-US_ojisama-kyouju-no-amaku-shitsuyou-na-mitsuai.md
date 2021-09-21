@@ -1,5 +1,7 @@
 # Ojisama Kyouju no Amaku Shitsuyou na Mitsuai
 
+![ojisama-kyouju-no-amaku-shitsuyou-na-mitsuai](https://cdn.myanimelist.net/images/manga/2/200182.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

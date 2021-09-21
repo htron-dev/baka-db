@@ -1,5 +1,7 @@
 # One Night Morning
 
+![one-night-morning](https://cdn.myanimelist.net/images/manga/2/246869.jpg)
+
 -   **type**: manga
 -   **original-name**: ワンナイト・モーニング
 -   **start-date**: 2019-01-28

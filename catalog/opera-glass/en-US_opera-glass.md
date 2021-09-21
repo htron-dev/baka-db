@@ -1,5 +1,7 @@
 # Opera Glass
 
+![opera-glass](https://cdn.myanimelist.net/images/manga/3/190197.jpg)
+
 -   **type**: manga
 -   **original-name**: オペラグラス
 -   **start-date**: 2016-06-10

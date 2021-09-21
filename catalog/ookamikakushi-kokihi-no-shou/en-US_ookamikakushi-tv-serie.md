@@ -1,5 +1,7 @@
 # Ookamikakushi
 
+![ookamikakushi](https://cdn.myanimelist.net/images/anime/10/21784.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おおかみかくし

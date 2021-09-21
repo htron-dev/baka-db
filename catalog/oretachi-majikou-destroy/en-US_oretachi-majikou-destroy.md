@@ -1,5 +1,7 @@
 # Oretachi Majikou Destroy
 
+![oretachi-majikou-destroy](https://cdn.myanimelist.net/images/manga/1/228338.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺たちマジ校デストロイ
 -   **start-date**: 2017-04-12

@@ -1,5 +1,7 @@
 # Oishii Sanshimai
 
+![oishii-sanshimai](https://cdn.myanimelist.net/images/manga/1/203688.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

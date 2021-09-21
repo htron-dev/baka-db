@@ -1,5 +1,7 @@
 # Oresama Tengoku! Rojiura no Ningyo
 
+![oresama-tengoku-rojiura-no-ningyo](https://cdn.myanimelist.net/images/manga/3/14278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

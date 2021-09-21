@@ -1,5 +1,7 @@
 # Ouji-sama wa, Nyanko-hime ni Muchuusugi! Seiryaku Kekkon no Hazu ga Amaicha Shinkon Seikatsu deshita.
 
+![ouji-sama-wa-nyanko-hime-ni-muchuusugi-seiryaku-kekkon-no-hazu-ga-amaicha-shinkon-seikatsu-deshita](https://cdn.myanimelist.net/images/manga/3/182914.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

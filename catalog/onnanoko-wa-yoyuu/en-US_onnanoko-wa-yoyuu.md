@@ -1,5 +1,7 @@
 # Onnanoko wa Yoyuu!
 
+![onnanoko-wa-yoyuu](https://cdn.myanimelist.net/images/manga/1/40982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

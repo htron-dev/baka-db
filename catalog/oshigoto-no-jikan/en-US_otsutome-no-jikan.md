@@ -1,5 +1,7 @@
 # Otsutome no Jikan!?
 
+![otsutome-no-jikan](https://cdn.myanimelist.net/images/manga/1/63531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Offside
 
+![offside](https://cdn.myanimelist.net/images/manga/3/183359.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: オフサイド

@@ -1,5 +1,7 @@
 # Obake Entotsu no Uta
 
+![obake-entotsu-no-uta](https://cdn.myanimelist.net/images/anime/4/65869.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おばけ煙突のうた

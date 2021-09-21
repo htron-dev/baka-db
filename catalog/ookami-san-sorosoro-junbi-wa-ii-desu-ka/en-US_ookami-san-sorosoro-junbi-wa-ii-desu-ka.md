@@ -1,5 +1,7 @@
 # Ookami-san, Sorosoro Junbi wa Ii desu ka
 
+![ookami-san-sorosoro-junbi-wa-ii-desu-ka](https://cdn.myanimelist.net/images/manga/2/170052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

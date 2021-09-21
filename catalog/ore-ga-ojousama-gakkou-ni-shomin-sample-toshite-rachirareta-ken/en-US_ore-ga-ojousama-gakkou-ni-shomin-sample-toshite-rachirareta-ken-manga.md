@@ -1,5 +1,7 @@
 # Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Rachirareta Ken
 
+![ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-rachirareta-ken](https://cdn.myanimelist.net/images/manga/2/163658.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 83

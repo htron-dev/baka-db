@@ -1,5 +1,7 @@
 # Ososugita Saikai
 
+![ososugita-saikai](https://cdn.myanimelist.net/images/manga/1/57865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

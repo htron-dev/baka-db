@@ -1,5 +1,7 @@
 # One Piece: Straw Hat Theater
 
+![one-piece-straw-hat-theater](https://cdn.myanimelist.net/images/anime/8/70745.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: ワンピース 麦わら劇場

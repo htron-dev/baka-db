@@ -1,5 +1,7 @@
 # Obaka-chan, Koigatariki
 
+![obaka-chan-koigatariki](https://cdn.myanimelist.net/images/manga/2/32964.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

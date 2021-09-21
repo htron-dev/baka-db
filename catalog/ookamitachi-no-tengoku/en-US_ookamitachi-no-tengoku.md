@@ -1,5 +1,7 @@
 # Ookamitachi no Tengoku
 
+![ookamitachi-no-tengoku](https://cdn.myanimelist.net/images/manga/2/29769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

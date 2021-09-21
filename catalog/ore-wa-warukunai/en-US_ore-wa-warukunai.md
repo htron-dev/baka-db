@@ -1,5 +1,7 @@
 # Ore wa Warukunai
 
+![ore-wa-warukunai](https://cdn.myanimelist.net/images/manga/1/33048.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

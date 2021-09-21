@@ -1,5 +1,7 @@
 # Ochanoma Idol
 
+![ochanoma-idol](https://cdn.myanimelist.net/images/manga/2/247804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

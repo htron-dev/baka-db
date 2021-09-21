@@ -1,5 +1,7 @@
 # Ojousama wa Budoukai de Odoru
 
+![ojousama-wa-budoukai-de-odoru](https://cdn.myanimelist.net/images/manga/1/59531.jpg)
+
 -   **type**: manga
 -   **original-name**: お嬢様は武道会で踊る
 

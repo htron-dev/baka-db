@@ -1,5 +1,7 @@
 # Olivia to Baragari no Ken
 
+![olivia-to-baragari-no-ken](https://cdn.myanimelist.net/images/manga/2/215311.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Ore, Twintail ni Narimasu. Recap
 
+![ore-twintail-ni-narimasu-recap](https://cdn.myanimelist.net/images/anime/1845/99646.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 俺、ツインテールになります。特別編

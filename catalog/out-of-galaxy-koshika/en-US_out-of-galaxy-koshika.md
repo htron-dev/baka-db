@@ -1,5 +1,7 @@
 # Out of Galaxy Koshika
 
+![out-of-galaxy-koshika](https://cdn.myanimelist.net/images/manga/3/37117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ougon Honey
 
+![ougon-honey](https://cdn.myanimelist.net/images/manga/5/84583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黄金ハニー

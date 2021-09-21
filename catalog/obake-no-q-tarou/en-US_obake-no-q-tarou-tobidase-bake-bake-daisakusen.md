@@ -1,5 +1,7 @@
 # Obake no Q-Tarou: Tobidase! Bake Bake Daisakusen
 
+![obake-no-q-tarou-tobidase-bake-bake-daisakusen](https://cdn.myanimelist.net/images/anime/12/59617.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オバケの Q 太郎 とびだせ! バケバケ大作戦

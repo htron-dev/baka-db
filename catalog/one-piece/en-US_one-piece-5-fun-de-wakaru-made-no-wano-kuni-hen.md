@@ -1,5 +1,7 @@
 # One Piece: 5-fun de Wakaru made no Wano Kuni-hen
 
+![one-piece-5-fun-de-wakaru-made-no-wano-kuni-hen](https://cdn.myanimelist.net/images/anime/1340/111191.jpg)
+
 -   **type**: ona
 -   **original-name**: アニメ「ワンピース」〜５分で分かるこれまでのワノ国編〜
 -   **start-date**: 2020-06-22

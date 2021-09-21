@@ -1,5 +1,7 @@
 # Oyasumi Memories
 
+![oyasumi-memories](https://cdn.myanimelist.net/images/manga/2/198394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

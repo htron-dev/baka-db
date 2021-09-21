@@ -1,5 +1,7 @@
 # Orgel Garden
 
+![orgel-garden](https://cdn.myanimelist.net/images/manga/2/14613.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 

@@ -1,5 +1,7 @@
 # Ojarumaru: Chitchai Mono no Ookina Chikara
 
+![ojarumaru-chitchai-mono-no-ookina-chikara](https://cdn.myanimelist.net/images/anime/1555/98569.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おじゃる丸　ちっちゃいものの大きなちから

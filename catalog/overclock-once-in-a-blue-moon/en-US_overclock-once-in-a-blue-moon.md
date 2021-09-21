@@ -1,5 +1,7 @@
 # Overclock - Once in a Blue Moon -
 
+![overclock-once-in-a-blue-moon](https://cdn.myanimelist.net/images/manga/2/21447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オーヴァード・クロック - once in a blue moon -

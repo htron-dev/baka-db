@@ -1,5 +1,7 @@
 # Ojou to Banken-kun
 
+![ojou-to-banken-kun](https://cdn.myanimelist.net/images/manga/3/221767.jpg)
+
 -   **type**: manga
 -   **original-name**: お嬢と番犬くん
 -   **start-date**: 2018-12-13

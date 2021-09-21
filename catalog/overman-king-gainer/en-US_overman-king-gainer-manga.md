@@ -1,5 +1,7 @@
 # Overman King Gainer
 
+![overman-king-gainer](https://cdn.myanimelist.net/images/manga/1/148283.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

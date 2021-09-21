@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon: Kyokutou Naruhodo Kouza
 
+![kyoukaisenjou-no-horizon-kyokutou-naruhodo-kouza](https://cdn.myanimelist.net/images/anime/11/58009.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 境界線上のホライゾン 極東なるほど講座

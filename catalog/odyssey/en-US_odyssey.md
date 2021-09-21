@@ -1,5 +1,7 @@
 # Odyssey
 
+![odyssey](https://cdn.myanimelist.net/images/manga/5/3592.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

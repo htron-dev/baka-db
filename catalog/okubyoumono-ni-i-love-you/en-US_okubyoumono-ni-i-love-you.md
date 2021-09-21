@@ -1,5 +1,7 @@
 # Okubyoumono ni I Love You
 
+![okubyoumono-ni-i-love-you](https://cdn.myanimelist.net/images/manga/3/172247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

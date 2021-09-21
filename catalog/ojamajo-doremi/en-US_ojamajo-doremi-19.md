@@ -1,5 +1,7 @@
 # Ojamajo Doremi 19
 
+![ojamajo-doremi-19](https://cdn.myanimelist.net/images/manga/3/183276.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # One Off
 
+![one-off](https://cdn.myanimelist.net/images/manga/4/86727.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

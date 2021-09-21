@@ -1,5 +1,7 @@
 # Oneechan no Otouto-kun♥
 
+![oneechan-no-otouto-kun♥](https://cdn.myanimelist.net/images/manga/2/187309.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

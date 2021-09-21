@@ -1,5 +1,7 @@
 # Ousama to Nightingale
 
+![ousama-to-nightingale](https://cdn.myanimelist.net/images/anime/5/83055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 王様とナイチンゲール

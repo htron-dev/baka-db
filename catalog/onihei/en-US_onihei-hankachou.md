@@ -1,5 +1,7 @@
 # Onihei Hankachou
 
+![onihei-hankachou](https://cdn.myanimelist.net/images/manga/3/48461.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼平犯科帳
 

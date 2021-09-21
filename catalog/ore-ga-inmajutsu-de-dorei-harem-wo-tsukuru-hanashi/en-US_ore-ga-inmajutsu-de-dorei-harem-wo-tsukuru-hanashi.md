@@ -1,5 +1,7 @@
 # Ore ga Inmajutsu de Dorei Harem wo Tsukuru Hanashi
 
+![ore-ga-inmajutsu-de-dorei-harem-wo-tsukuru-hanashi](https://cdn.myanimelist.net/images/manga/3/195787.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺が淫魔術で奴隷ハーレムを作る話
 -   **start-date**: 2016-03-12

@@ -1,5 +1,7 @@
 # Ossu! Renai Gakuen
 
+![ossu-renai-gakuen](https://cdn.myanimelist.net/images/manga/1/2490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

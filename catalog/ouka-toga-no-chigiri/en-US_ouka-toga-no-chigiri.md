@@ -1,5 +1,7 @@
 # Ouka Toga no Chigiri
 
+![ouka-toga-no-chigiri](https://cdn.myanimelist.net/images/manga/2/237467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

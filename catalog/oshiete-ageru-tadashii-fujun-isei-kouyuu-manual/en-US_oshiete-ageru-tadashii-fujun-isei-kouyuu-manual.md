@@ -1,5 +1,7 @@
 # Oshiete Ageru: Tadashii Fujun Isei Kouyuu Manual
 
+![oshiete-ageru-tadashii-fujun-isei-kouyuu-manual](https://cdn.myanimelist.net/images/manga/1/192875.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 教えてあげる 正しい不純異性交遊マニュアル

@@ -1,5 +1,7 @@
 # Ore no Kanojo ga xxx wo Kitai shiteite Shoujiki Komaru
 
+![ore-no-kanojo-ga-xxx-wo-kitai-shiteite-shoujiki-komaru](https://cdn.myanimelist.net/images/manga/2/166924.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

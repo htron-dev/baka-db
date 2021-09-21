@@ -1,5 +1,7 @@
 # Onegai Teacher: Mizuho to Kei no Milk Diary
 
+![onegai-teacher-mizuho-to-kei-no-milk-diary](https://cdn.myanimelist.net/images/manga/1/119633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

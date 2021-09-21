@@ -1,5 +1,7 @@
 # Ore, Twintail ni Narimasu. π
 
+![ore-twintail-ni-narimasu-π](https://cdn.myanimelist.net/images/manga/3/239329.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Omae wa Mada Gunma wo Shiranai
 
+![omae-wa-mada-gunma-wo-shiranai](https://cdn.myanimelist.net/images/anime/1433/90426.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: お前はまだグンマを知らない

@@ -1,5 +1,7 @@
 # Oddman 11
 
+![oddman-11](https://cdn.myanimelist.net/images/manga/3/191289.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 50

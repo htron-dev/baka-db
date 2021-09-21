@@ -1,5 +1,7 @@
 # Osaru no Tairyou
 
+![osaru-no-tairyou](https://cdn.myanimelist.net/images/anime/11/60167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お猿の大漁

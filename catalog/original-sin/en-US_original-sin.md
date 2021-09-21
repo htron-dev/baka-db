@@ -1,5 +1,7 @@
 # Original Sin
 
+![original-sin](https://cdn.myanimelist.net/images/manga/2/83414.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

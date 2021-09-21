@@ -1,5 +1,7 @@
 # One Room Second Season
 
+![one-room-second-season](https://cdn.myanimelist.net/images/anime/1098/93257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: One Room セカンドシーズン

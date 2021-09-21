@@ -1,5 +1,7 @@
 # Ochikubo: Ima wa Mukashi no Cinderella Story
 
+![ochikubo-ima-wa-mukashi-no-cinderella-story](https://cdn.myanimelist.net/images/manga/1/202098.jpg)
+
 -   **type**: manga
 -   **original-name**: おちくぼ～今は昔のシンデレラストーリー～
 -   **start-date**: 2014-11-26

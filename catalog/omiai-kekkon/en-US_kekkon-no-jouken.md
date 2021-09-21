@@ -1,5 +1,7 @@
 # Kekkon no Jouken
 
+![kekkon-no-jouken](https://cdn.myanimelist.net/images/manga/1/117553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 結婚の条件

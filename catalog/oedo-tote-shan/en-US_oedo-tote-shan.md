@@ -1,5 +1,7 @@
 # Oedo tote Shan
 
+![oedo-tote-shan](https://cdn.myanimelist.net/images/manga/3/151665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お江戸とてシャン

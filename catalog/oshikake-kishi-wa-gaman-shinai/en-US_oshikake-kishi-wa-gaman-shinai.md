@@ -1,5 +1,7 @@
 # Oshikake Kishi wa Gaman shinai
 
+![oshikake-kishi-wa-gaman-shinai](https://cdn.myanimelist.net/images/manga/2/186193.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Okusama Guten Tag!
 
+![okusama-guten-tag](https://cdn.myanimelist.net/images/manga/2/104239.jpg)
+
 -   **type**: manga
 -   **original-name**: 奥さま Guten Tag!
 -   **start-date**: 2012-06-28

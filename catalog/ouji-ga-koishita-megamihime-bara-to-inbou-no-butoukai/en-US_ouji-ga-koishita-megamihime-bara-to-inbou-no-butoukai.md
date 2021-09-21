@@ -1,5 +1,7 @@
 # Ouji ga Koishita Megamihime: Bara to Inbou no Butoukai
 
+![ouji-ga-koishita-megamihime-bara-to-inbou-no-butoukai](https://cdn.myanimelist.net/images/manga/2/182081.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

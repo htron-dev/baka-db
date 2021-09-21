@@ -1,5 +1,7 @@
 # Ore no Pantsu ga Hitojichi ni Torareteimasu
 
+![ore-no-pantsu-ga-hitojichi-ni-torareteimasu](https://cdn.myanimelist.net/images/manga/3/222312.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

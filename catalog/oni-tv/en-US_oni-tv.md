@@ -1,5 +1,7 @@
 # Oni (TV)
 
+![oni-tv](https://cdn.myanimelist.net/images/anime/1983/99635.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 鬼
 -   **rating**: G - All Ages

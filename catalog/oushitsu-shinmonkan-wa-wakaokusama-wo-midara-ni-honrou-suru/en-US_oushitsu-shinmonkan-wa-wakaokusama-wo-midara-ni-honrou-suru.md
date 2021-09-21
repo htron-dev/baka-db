@@ -1,5 +1,7 @@
 # Oushitsu Shinmonkan wa Wakaokusama wo Midara ni Honrou suru
 
+![oushitsu-shinmonkan-wa-wakaokusama-wo-midara-ni-honrou-suru](https://cdn.myanimelist.net/images/manga/2/181274.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 王室審問官は若奥様を淫らに翻弄する

@@ -1,5 +1,7 @@
 # Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe
 
+![owari-no-seraph-ichinose-guren-16-sai-no-catastrophe](https://cdn.myanimelist.net/images/manga/3/202642.jpg)
+
 -   **type**: manga
 -   **original-name**: 終わりのセラフ 一瀬グレン、16 歳の破滅〈カタストロフィ〉
 -   **start-date**: 2017-06-06

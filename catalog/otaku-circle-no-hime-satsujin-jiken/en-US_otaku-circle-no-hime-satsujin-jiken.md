@@ -1,5 +1,7 @@
 # Otaku Circle no Hime Satsujin Jiken
 
+![otaku-circle-no-hime-satsujin-jiken](https://cdn.myanimelist.net/images/manga/3/204647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Oneechan Bara Kurenai
 
+![oneechan-bara-kurenai](https://cdn.myanimelist.net/images/manga/3/37943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お姉チャンバラ紅

@@ -1,5 +1,7 @@
 # Oresama na Douki ni Yoru no Shigoto ga Baremashita.
 
+![oresama-na-douki-ni-yoru-no-shigoto-ga-baremashita](https://cdn.myanimelist.net/images/manga/1/247304.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

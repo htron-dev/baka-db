@@ -1,5 +1,7 @@
 # Onanie Master Kurosawa
 
+![onanie-master-kurosawa](https://cdn.myanimelist.net/images/manga/3/212092.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

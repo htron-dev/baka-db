@@ -1,5 +1,7 @@
 # Onna ni Horesasu Meigenshuu
 
+![onna-ni-horesasu-meigenshuu](https://cdn.myanimelist.net/images/manga/1/122119.jpg)
+
 -   **type**: manga
 -   **original-name**: 女に惚れさす名言集
 -   **start-date**: 2013-12-04

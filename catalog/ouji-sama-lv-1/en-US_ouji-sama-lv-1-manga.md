@@ -1,5 +1,7 @@
 # Ouji-sama Lv1
 
+![ouji-sama-lv-1](https://cdn.myanimelist.net/images/manga/1/3533.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

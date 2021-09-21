@@ -1,5 +1,7 @@
 # Oidasareta Bannou Shoku ni Atarashii Jinsei ga Hajimarimashita
 
+![oidasareta-bannou-shoku-ni-atarashii-jinsei-ga-hajimarimashita](https://cdn.myanimelist.net/images/manga/2/228241.jpg)
+
 -   **type**: manga
 -   **original-name**: 追い出された万能職に新しい人生が始まりました
 -   **start-date**: 2019-05-30

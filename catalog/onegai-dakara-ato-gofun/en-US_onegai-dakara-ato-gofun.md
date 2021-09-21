@@ -1,5 +1,7 @@
 # Onegai Dakara, Ato Gofun!
 
+![onegai-dakara-ato-gofun](https://cdn.myanimelist.net/images/manga/2/163330.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: お願いだから、あと五分！

@@ -1,5 +1,7 @@
 # Onore Free!
 
+![onore-free](https://cdn.myanimelist.net/images/manga/1/176099.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

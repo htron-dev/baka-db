@@ -1,5 +1,7 @@
 # Ore ga Kanojo ni Semararete, Imouto ga Okotteru?
 
+![ore-ga-kanojo-ni-semararete-imouto-ga-okotteru](https://cdn.myanimelist.net/images/manga/2/163290.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 42

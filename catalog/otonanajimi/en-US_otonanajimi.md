@@ -1,5 +1,7 @@
 # Otonanajimi
 
+![otonanajimi](https://cdn.myanimelist.net/images/manga/3/225000.jpg)
+
 -   **type**: manga
 -   **original-name**: おとななじみ
 -   **start-date**: 2019-03-28

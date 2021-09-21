@@ -1,5 +1,7 @@
 # Obito no Hime to Kubinashi Kishi
 
+![obito-no-hime-to-kubinashi-kishi](https://cdn.myanimelist.net/images/manga/2/82998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

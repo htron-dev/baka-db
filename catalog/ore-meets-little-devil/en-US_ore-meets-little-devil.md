@@ -1,5 +1,7 @@
 # Ore Meets Little Devil!
 
+![ore-meets-little-devil](https://cdn.myanimelist.net/images/manga/3/164249.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

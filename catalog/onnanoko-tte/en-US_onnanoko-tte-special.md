@@ -1,5 +1,7 @@
 # Onnanoko tte.
 
+![onnanoko-tte](https://cdn.myanimelist.net/images/anime/10/74190.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 女の子って。

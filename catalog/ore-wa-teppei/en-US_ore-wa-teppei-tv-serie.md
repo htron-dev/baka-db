@@ -1,5 +1,7 @@
 # Ore wa Teppei
 
+![ore-wa-teppei](https://cdn.myanimelist.net/images/anime/1026/90306.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 28
 -   **original-name**: おれは鉄兵

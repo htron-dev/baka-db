@@ -1,5 +1,7 @@
 # Ore Monogatari!!
 
+![ore-monogatari](https://cdn.myanimelist.net/images/manga/3/180382.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 52

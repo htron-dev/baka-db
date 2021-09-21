@@ -1,5 +1,7 @@
 # Omotase Shimashita.
 
+![omotase-shimashita](https://cdn.myanimelist.net/images/manga/1/194770.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

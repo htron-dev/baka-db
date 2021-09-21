@@ -1,5 +1,7 @@
 # Omega 7: Jieitai Tokushu Commando Butai - Sousei-hen
 
+![omega-7-jieitai-tokushu-commando-butai-sousei-hen](https://cdn.myanimelist.net/images/manga/1/131945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Osananajimi ga Yokkyuu Fuman de Komatteiru.
 
+![osananajimi-ga-yokkyuu-fuman-de-komatteiru](https://cdn.myanimelist.net/images/manga/3/246601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

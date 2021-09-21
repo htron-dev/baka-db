@@ -1,5 +1,7 @@
 # Otasukebito Hashiru!
 
+![otasukebito-hashiru](https://cdn.myanimelist.net/images/manga/1/128649.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

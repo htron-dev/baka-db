@@ -1,5 +1,7 @@
 # Onmyou no Miyako
 
+![onmyou-no-miyako](https://cdn.myanimelist.net/images/manga/2/159517.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 陰陽ノ京

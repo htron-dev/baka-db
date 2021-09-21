@@ -1,5 +1,7 @@
 # Otome Bare
 
+![otome-bare](https://cdn.myanimelist.net/images/manga/3/232406.jpg)
+
 -   **type**: manga
 -   **original-name**: おとめバレ
 -   **start-date**: 2018-02-27

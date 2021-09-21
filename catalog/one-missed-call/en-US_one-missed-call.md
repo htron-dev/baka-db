@@ -1,5 +1,7 @@
 # One Missed Call
 
+![one-missed-call](https://cdn.myanimelist.net/images/manga/1/155659.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Ousama Ranking
 
+![ousama-ranking](https://cdn.myanimelist.net/images/anime/1347/117616.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 王様ランキング
 -   **start-date**: 2021-10-20

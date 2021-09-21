@@ -1,5 +1,7 @@
 # One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura
 
+![one-piece-movie-9-episode-of-chopper-plus-fuyu-ni-saku-kiseki-no-sakura](https://cdn.myanimelist.net/images/anime/12/25414.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ＯＮＥ ＰＩＥＣＥ（ワンピース） エピソードオブチョッパー＋冬に咲く、奇跡の桜

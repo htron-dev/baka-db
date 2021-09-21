@@ -1,5 +1,7 @@
 # Oneesan no Junai Karte
 
+![oneesan-no-junai-karte](https://cdn.myanimelist.net/images/manga/1/206581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

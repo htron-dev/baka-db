@@ -1,5 +1,7 @@
 # Naozari Dungeon
 
+![naozari-dungeon](https://cdn.myanimelist.net/images/manga/1/147215.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: なおざりダンジョン

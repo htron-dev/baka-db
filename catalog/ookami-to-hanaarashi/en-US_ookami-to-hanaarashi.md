@@ -1,5 +1,7 @@
 # Ookami to Hanaarashi
 
+![ookami-to-hanaarashi](https://cdn.myanimelist.net/images/manga/1/187824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

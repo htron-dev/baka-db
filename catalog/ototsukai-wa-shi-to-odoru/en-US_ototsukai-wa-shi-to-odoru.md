@@ -1,5 +1,7 @@
 # Ototsukai wa Shi to Odoru
 
+![ototsukai-wa-shi-to-odoru](https://cdn.myanimelist.net/images/manga/3/176940.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 音使いは死と踊る
 -   **start-date**: 2016-05-25

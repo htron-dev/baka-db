@@ -1,5 +1,7 @@
 # Oujo Denka wa Oikari no you desu
 
+![oujo-denka-wa-oikari-no-you-desu](https://cdn.myanimelist.net/images/manga/1/230218.jpg)
+
 -   **type**: manga
 -   **original-name**: 王女殿下はお怒りのようです
 -   **start-date**: 2019-08-09

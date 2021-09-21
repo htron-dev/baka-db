@@ -1,5 +1,7 @@
 # Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
 
+![otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken](https://cdn.myanimelist.net/images/manga/2/235341.jpg)
+
 -   **type**: light-novel
 -   **original-name**: お隣の天使様にいつの間にか駄目人間にされていた件
 -   **start-date**: 2019-06-14

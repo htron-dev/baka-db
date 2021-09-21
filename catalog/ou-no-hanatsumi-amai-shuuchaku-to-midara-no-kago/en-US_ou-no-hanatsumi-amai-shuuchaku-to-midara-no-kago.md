@@ -1,5 +1,7 @@
 # Ou no Hanatsumi: Amai Shuuchaku to Midara no Kago
 
+![ou-no-hanatsumi-amai-shuuchaku-to-midara-no-kago](https://cdn.myanimelist.net/images/manga/3/184177.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

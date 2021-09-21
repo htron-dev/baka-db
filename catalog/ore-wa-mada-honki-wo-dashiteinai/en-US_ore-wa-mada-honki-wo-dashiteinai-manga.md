@@ -1,5 +1,7 @@
 # Ore wa Mada, Honki wo Dashiteinai
 
+![ore-wa-mada-honki-wo-dashiteinai](https://cdn.myanimelist.net/images/manga/1/241925.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺はまだ、本気を出していない
 -   **start-date**: 2019-07-25

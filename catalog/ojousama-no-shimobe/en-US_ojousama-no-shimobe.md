@@ -1,5 +1,7 @@
 # Ojousama no Shimobe
 
+![ojousama-no-shimobe](https://cdn.myanimelist.net/images/manga/2/210483.jpg)
+
 -   **type**: manga
 -   **original-name**: お嬢様の僕
 -   **start-date**: 2017-12-27

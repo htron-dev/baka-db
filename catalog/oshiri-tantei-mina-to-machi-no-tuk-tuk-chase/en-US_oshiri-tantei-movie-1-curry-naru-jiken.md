@@ -1,5 +1,7 @@
 # Oshiri Tantei Movie 1: Curry Naru Jiken
 
+![oshiri-tantei-movie-1-curry-naru-jiken](https://cdn.myanimelist.net/images/anime/1241/99521.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 おしりたんてい カレーなる じけん

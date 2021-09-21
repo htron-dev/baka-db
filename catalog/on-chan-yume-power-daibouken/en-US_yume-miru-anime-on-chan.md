@@ -1,5 +1,7 @@
 # Yume Miru, Anime: on-chan
 
+![yume-miru-anime-on-chan](https://cdn.myanimelist.net/images/anime/6/29989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ユメミル、アニメ「on ちゃん」

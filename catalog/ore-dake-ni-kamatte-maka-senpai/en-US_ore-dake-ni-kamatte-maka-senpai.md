@@ -1,5 +1,7 @@
 # Ore dake ni Kamatte Maka-senpai
 
+![ore-dake-ni-kamatte-maka-senpai](https://cdn.myanimelist.net/images/manga/3/235609.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

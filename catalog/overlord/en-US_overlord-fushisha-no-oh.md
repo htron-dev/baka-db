@@ -1,5 +1,7 @@
 # Overlord: Fushisha no Oh!
 
+![overlord-fushisha-no-oh](https://cdn.myanimelist.net/images/manga/2/221258.jpg)
+
 -   **type**: manga
 -   **original-name**: オーバーロード 不死者の Oh!
 -   **start-date**: 2017-01-26

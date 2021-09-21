@@ -1,5 +1,7 @@
 # Owaru Sekai de Kimi ni Koisuru
 
+![owaru-sekai-de-kimi-ni-koisuru](https://cdn.myanimelist.net/images/manga/3/217630.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 44

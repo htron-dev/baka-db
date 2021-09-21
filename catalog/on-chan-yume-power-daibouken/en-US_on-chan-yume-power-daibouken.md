@@ -1,5 +1,7 @@
 # on-chan, Yume Power Daibouken!
 
+![on-chan-yume-power-daibouken](https://cdn.myanimelist.net/images/anime/4/21296.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: on ちゃん夢パワー大冒険！

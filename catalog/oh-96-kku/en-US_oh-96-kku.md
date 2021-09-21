@@ -1,5 +1,7 @@
 # Oh! 96-kku
 
+![oh-96-kku](https://cdn.myanimelist.net/images/anime/6/86950.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: OH!96 ック

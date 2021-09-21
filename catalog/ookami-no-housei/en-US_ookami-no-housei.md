@@ -1,5 +1,7 @@
 # Ookami no Housei
 
+![ookami-no-housei](https://cdn.myanimelist.net/images/manga/3/152697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 狼の砲声

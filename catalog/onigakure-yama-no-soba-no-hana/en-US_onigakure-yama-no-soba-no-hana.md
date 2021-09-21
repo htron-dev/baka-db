@@ -1,5 +1,7 @@
 # Onigakure Yama no Soba no Hana
 
+![onigakure-yama-no-soba-no-hana](https://cdn.myanimelist.net/images/anime/12/71582.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鬼がくれ山のソバの花

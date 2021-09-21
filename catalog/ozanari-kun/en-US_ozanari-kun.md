@@ -1,5 +1,7 @@
 # Ozanari-kun
 
+![ozanari-kun](https://cdn.myanimelist.net/images/manga/3/72049.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 39

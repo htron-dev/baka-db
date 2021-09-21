@@ -1,5 +1,7 @@
 # Oretachi ni Tsubasa wa Nai ~berceuse~
 
+![oretachi-ni-tsubasa-wa-nai-berceuse](https://cdn.myanimelist.net/images/manga/3/36190.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺たちに翼はない ~berceuse~
 

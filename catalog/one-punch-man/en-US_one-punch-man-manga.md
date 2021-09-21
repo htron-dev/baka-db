@@ -1,5 +1,7 @@
 # One Punch-Man
 
+![one-punch-man](https://cdn.myanimelist.net/images/manga/3/80661.jpg)
+
 -   **type**: manga
 -   **original-name**: ワンパンマン
 -   **start-date**: 2012-06-14

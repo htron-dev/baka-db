@@ -1,5 +1,7 @@
 # Okuman Chouja no Zankoku na Uso
 
+![okuman-chouja-no-zankoku-na-uso](https://cdn.myanimelist.net/images/manga/1/227531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 億万長者の残酷な嘘

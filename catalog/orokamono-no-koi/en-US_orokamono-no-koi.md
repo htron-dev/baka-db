@@ -1,5 +1,7 @@
 # Orokamono no Koi
 
+![orokamono-no-koi](https://cdn.myanimelist.net/images/manga/1/73563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

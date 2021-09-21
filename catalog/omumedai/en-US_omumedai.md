@@ -1,5 +1,7 @@
 # Omumedai
 
+![omumedai](https://cdn.myanimelist.net/images/manga/2/53361.jpg)
+
 -   **type**: manga
 -   **original-name**: オムメダイ
 

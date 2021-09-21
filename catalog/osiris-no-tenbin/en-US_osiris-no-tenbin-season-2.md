@@ -1,5 +1,7 @@
 # Osiris no Tenbin: Season 2
 
+![osiris-no-tenbin-season-2](https://cdn.myanimelist.net/images/anime/6/79641.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: オシリスの天秤　-season2-

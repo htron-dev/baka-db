@@ -1,5 +1,7 @@
 # One Piece: Loguetown-hen
 
+![one-piece-loguetown-hen](https://cdn.myanimelist.net/images/manga/1/167765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ONE PIECE ローグタウン編

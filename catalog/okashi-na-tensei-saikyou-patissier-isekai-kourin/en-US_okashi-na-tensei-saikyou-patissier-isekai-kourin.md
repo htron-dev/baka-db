@@ -1,5 +1,7 @@
 # Okashi na Tensei: Saikyou Pâtissier Isekai Kourin
 
+![okashi-na-tensei-saikyou-patissier-isekai-kourin](https://cdn.myanimelist.net/images/manga/1/226736.jpg)
+
 -   **type**: manga
 -   **original-name**: おかしな転生～最強パティシエ異世界降臨～
 -   **start-date**: 2017-12-25

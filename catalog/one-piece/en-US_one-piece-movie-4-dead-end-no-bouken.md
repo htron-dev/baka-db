@@ -1,5 +1,7 @@
 # One Piece Movie 4: Dead End no Bouken
 
+![one-piece-movie-4-dead-end-no-bouken](https://cdn.myanimelist.net/images/anime/1925/97700.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース デッドエンドの冒険

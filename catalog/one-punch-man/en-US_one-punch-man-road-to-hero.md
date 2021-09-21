@@ -1,5 +1,7 @@
 # One Punch Man: Road to Hero
 
+![one-punch-man-road-to-hero](https://cdn.myanimelist.net/images/anime/8/76392.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワンパンマン OVA「ロード・トゥ・ヒーロー」

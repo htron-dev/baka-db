@@ -1,5 +1,7 @@
 # Owarinaki Scenario
 
+![owarinaki-scenario](https://cdn.myanimelist.net/images/manga/2/91865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 終わりなきシナリオ

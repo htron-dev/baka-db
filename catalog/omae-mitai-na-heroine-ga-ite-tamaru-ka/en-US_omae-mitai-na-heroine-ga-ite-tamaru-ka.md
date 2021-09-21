@@ -1,5 +1,7 @@
 # Omae Mitai na Heroine ga Ite Tamaru ka!
 
+![omae-mitai-na-heroine-ga-ite-tamaru-ka](https://cdn.myanimelist.net/images/manga/3/234817.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

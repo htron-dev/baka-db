@@ -1,5 +1,7 @@
 # Obake no Muura-chan
 
+![obake-no-muura-chan](https://cdn.myanimelist.net/images/manga/2/198837.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

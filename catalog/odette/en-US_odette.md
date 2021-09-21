@@ -1,5 +1,7 @@
 # Odette
 
+![odette](https://cdn.myanimelist.net/images/manga/2/161529.jpg)
+
 -   **type**: manga
 -   **original-name**: オデット ODETTE
 -   **start-date**: 2014-07-17

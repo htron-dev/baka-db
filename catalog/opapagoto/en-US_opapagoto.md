@@ -1,5 +1,7 @@
 # Opapagoto
 
+![opapagoto](https://cdn.myanimelist.net/images/manga/1/147179.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

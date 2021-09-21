@@ -1,5 +1,7 @@
 # Shinsetsu Ookami to Koushinryou: Ookami to Youhishi
 
+![shinsetsu-ookami-to-koushinryou-ookami-to-youhishi](https://cdn.myanimelist.net/images/manga/3/186227.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 新説 狼と香辛料 狼と羊皮紙
 -   **start-date**: 2016-09-10

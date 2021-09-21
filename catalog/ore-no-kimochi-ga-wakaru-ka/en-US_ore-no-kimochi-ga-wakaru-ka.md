@@ -1,5 +1,7 @@
 # Ore no Kimochi ga Wakaru ka
 
+![ore-no-kimochi-ga-wakaru-ka](https://cdn.myanimelist.net/images/manga/2/219348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

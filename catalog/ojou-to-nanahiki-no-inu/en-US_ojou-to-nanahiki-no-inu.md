@@ -1,5 +1,7 @@
 # Ojou to Nanahiki no Inu
 
+![ojou-to-nanahiki-no-inu](https://cdn.myanimelist.net/images/manga/1/238281.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

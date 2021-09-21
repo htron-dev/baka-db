@@ -1,5 +1,7 @@
 # Odoru! Kremlin Kyuuden
 
+![odoru-kremlin-kyuuden](https://cdn.myanimelist.net/images/manga/2/149395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

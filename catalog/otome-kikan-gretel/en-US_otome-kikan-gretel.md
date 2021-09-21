@@ -1,5 +1,7 @@
 # Otome-Kikan Gretel
 
+![otome-kikan-gretel](https://cdn.myanimelist.net/images/manga/5/19096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

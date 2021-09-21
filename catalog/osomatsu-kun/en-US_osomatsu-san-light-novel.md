@@ -1,5 +1,7 @@
 # Osomatsu-san
 
+![osomatsu-san](https://cdn.myanimelist.net/images/manga/3/201561.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: おそ松さん

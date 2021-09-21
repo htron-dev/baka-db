@@ -1,5 +1,7 @@
 # Outer Zone
 
+![outer-zone](https://cdn.myanimelist.net/images/manga/3/187161.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 117

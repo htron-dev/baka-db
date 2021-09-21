@@ -1,5 +1,7 @@
 # Otoboke Kachou
 
+![otoboke-kachou](https://cdn.myanimelist.net/images/manga/1/195689.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: おとぼけ課長

@@ -1,5 +1,7 @@
 # Omokage wo Motomete
 
+![omokage-wo-motomete](https://cdn.myanimelist.net/images/manga/2/39990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 面影を求めて

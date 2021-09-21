@@ -1,5 +1,7 @@
 # Dekiai Kareshi wa Bucchouzura shite Yattekuru
 
+![dekiai-kareshi-wa-bucchouzura-shite-yattekuru](https://cdn.myanimelist.net/images/manga/1/245133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

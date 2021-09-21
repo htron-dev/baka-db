@@ -1,5 +1,7 @@
 # Ougon no Shika no Toukishi
 
+![ougon-no-shika-no-toukishi](https://cdn.myanimelist.net/images/manga/2/158513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

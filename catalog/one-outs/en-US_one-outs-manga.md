@@ -1,5 +1,7 @@
 # One Outs
 
+![one-outs](https://cdn.myanimelist.net/images/manga/3/169329.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 175

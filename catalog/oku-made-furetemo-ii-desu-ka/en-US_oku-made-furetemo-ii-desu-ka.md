@@ -1,5 +1,7 @@
 # Oku made Furetemo Ii desu ka
 
+![oku-made-furetemo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/1/209840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Oyaji Ana no Mujina
 
+![oyaji-ana-no-mujina](https://cdn.myanimelist.net/images/manga/2/42938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

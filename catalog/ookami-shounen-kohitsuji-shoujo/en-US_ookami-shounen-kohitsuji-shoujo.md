@@ -1,5 +1,7 @@
 # Ookami Shounen Kohitsuji Shoujo
 
+![ookami-shounen-kohitsuji-shoujo](https://cdn.myanimelist.net/images/manga/1/154839.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: オオカミ少年 ♥ こひつじ少女

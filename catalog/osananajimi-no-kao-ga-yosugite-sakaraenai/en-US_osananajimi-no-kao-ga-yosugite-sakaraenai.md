@@ -1,5 +1,7 @@
 # Osananajimi no Kao ga Yosugite Sakaraenai
 
+![osananajimi-no-kao-ga-yosugite-sakaraenai](https://cdn.myanimelist.net/images/manga/3/238216.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Onegai! Samia Don
 
+![onegai-samia-don](https://cdn.myanimelist.net/images/anime/12/71569.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: おねがい！サミアどん

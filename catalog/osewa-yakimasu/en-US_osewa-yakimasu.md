@@ -1,5 +1,7 @@
 # Osewa Yakimasu
 
+![osewa-yakimasu](https://cdn.myanimelist.net/images/manga/2/2420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

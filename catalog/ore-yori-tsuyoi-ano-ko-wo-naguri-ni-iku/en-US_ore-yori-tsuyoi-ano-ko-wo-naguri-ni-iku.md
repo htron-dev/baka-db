@@ -1,5 +1,7 @@
 # Ore yori Tsuyoi Ano Ko wo Naguri ni Iku
 
+![ore-yori-tsuyoi-ano-ko-wo-naguri-ni-iku](https://cdn.myanimelist.net/images/manga/1/167097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

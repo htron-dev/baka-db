@@ -1,5 +1,7 @@
 # Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi
 
+![okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi](https://cdn.myanimelist.net/images/anime/12/78265.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おくさまが生徒会長！ 生徒会長とお風呂遊び

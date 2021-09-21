@@ -1,5 +1,7 @@
 # Onihei Pilot
 
+![onihei-pilot](https://cdn.myanimelist.net/images/anime/1315/91723.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鬼平

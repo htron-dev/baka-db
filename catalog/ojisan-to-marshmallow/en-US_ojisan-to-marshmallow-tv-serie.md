@@ -1,5 +1,7 @@
 # Ojisan to Marshmallow
 
+![ojisan-to-marshmallow](https://cdn.myanimelist.net/images/anime/7/78113.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おじさんとマシュマロ

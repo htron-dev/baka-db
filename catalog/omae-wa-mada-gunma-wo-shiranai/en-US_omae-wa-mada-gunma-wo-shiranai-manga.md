@@ -1,5 +1,7 @@
 # Omae wa Mada Gunma wo Shiranai
 
+![omae-wa-mada-gunma-wo-shiranai](https://cdn.myanimelist.net/images/manga/1/191167.jpg)
+
 -   **type**: manga
 -   **original-name**: お前はまだグンマを知らない
 -   **start-date**: 2013-10-25

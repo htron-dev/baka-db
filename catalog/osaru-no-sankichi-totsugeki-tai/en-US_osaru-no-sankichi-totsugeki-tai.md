@@ -1,5 +1,7 @@
 # Osaru no Sankichi: Totsugeki-tai
 
+![osaru-no-sankichi-totsugeki-tai](https://cdn.myanimelist.net/images/anime/7/8334.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お猿の三吉 突撃隊

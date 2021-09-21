@@ -1,5 +1,7 @@
 # Omocha no Ohimesama
 
+![omocha-no-ohimesama](https://cdn.myanimelist.net/images/manga/3/51909.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

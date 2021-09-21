@@ -1,5 +1,7 @@
 # Oishi-sa Hajikeru! One Piece
 
+![oishi-sa-hajikeru-one-piece](https://cdn.myanimelist.net/images/anime/12/82171.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おいしさハジケる！ワンピースコラボ

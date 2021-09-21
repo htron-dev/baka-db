@@ -1,5 +1,7 @@
 # Onna dakara, to Party wo Tsuihou sareta node Densetsu no Majo to Saikyou Tag wo Kumimashita
 
+![onna-dakara-to-party-wo-tsuihou-sareta-node-densetsu-no-majo-to-saikyou-tag-wo-kumimashita](https://cdn.myanimelist.net/images/manga/1/225858.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 22

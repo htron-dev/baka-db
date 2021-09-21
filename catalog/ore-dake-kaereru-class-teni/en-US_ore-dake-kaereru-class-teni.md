@@ -1,5 +1,7 @@
 # Ore dake Kaereru Class Teni
 
+![ore-dake-kaereru-class-teni](https://cdn.myanimelist.net/images/manga/1/177429.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺だけ帰れるクラス転移
 -   **start-date**: 2016-05-25

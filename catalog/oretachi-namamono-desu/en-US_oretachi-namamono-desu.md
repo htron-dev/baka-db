@@ -1,5 +1,7 @@
 # Oretachi Namamono? desu
 
+![oretachi-namamono-desu](https://cdn.myanimelist.net/images/manga/1/236177.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺たちナマモノ?です
 -   **start-date**: 2018-04-10

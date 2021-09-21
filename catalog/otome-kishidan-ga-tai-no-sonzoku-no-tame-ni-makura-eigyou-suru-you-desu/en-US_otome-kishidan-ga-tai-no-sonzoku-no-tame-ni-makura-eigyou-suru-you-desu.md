@@ -1,5 +1,7 @@
 # Otome Kishidan ga Tai no Sonzoku no Tame ni Makura Eigyou Suru you desu
 
+![otome-kishidan-ga-tai-no-sonzoku-no-tame-ni-makura-eigyou-suru-you-desu](https://cdn.myanimelist.net/images/manga/2/168650.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

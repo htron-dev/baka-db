@@ -1,5 +1,7 @@
 # Ore Yome. Ore no Yome ni Nare yo
 
+![ore-yome-ore-no-yome-ni-nare-yo](https://cdn.myanimelist.net/images/manga/3/167574.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

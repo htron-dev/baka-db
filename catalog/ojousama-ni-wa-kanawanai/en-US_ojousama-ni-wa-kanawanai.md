@@ -1,5 +1,7 @@
 # Ojousama ni wa Kanawanai
 
+![ojousama-ni-wa-kanawanai](https://cdn.myanimelist.net/images/manga/1/10265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お嬢様にはかなわない

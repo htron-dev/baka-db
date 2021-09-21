@@ -1,5 +1,7 @@
 # Ouji-sama no Hanayome Gakkou
 
+![ouji-sama-no-hanayome-gakkou](https://cdn.myanimelist.net/images/manga/3/182497.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

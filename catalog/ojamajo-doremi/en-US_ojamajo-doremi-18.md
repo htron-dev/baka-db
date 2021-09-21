@@ -1,5 +1,7 @@
 # Ojamajo Doremi 18
 
+![ojamajo-doremi-18](https://cdn.myanimelist.net/images/manga/1/138237.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: おジャ魔女どれみ 18

@@ -1,5 +1,7 @@
 # Seihou Tenshi Angel Links: Meifon no Special Kaisetsu Corner
 
+![seihou-tenshi-angel-links-meifon-no-special-kaisetsu-corner](https://cdn.myanimelist.net/images/anime/5/61647.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 美鳳のすぺしゃる解説コーナー

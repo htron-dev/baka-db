@@ -1,5 +1,7 @@
 # Ookami Shounen wa Kyou mo Uso wo Kasaneru
 
+![ookami-shounen-wa-kyou-mo-uso-wo-kasaneru](https://cdn.myanimelist.net/images/manga/3/148976.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

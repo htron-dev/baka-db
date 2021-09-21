@@ -1,5 +1,7 @@
 # Oira Sukeban
 
+![oira-sukeban](https://cdn.myanimelist.net/images/anime/2/54629.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おいら女蛮[スケバン]

@@ -1,5 +1,7 @@
 # One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari
 
+![one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari](https://cdn.myanimelist.net/images/anime/9/61015.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース エピソード・オブ・メリー ～もうひとりの仲間の物語～

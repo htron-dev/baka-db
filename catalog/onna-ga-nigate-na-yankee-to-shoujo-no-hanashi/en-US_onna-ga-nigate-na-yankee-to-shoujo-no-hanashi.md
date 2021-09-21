@@ -1,5 +1,7 @@
 # Onna ga Nigate na Yankee to Shoujo no Hanashi
 
+![onna-ga-nigate-na-yankee-to-shoujo-no-hanashi](https://cdn.myanimelist.net/images/manga/2/226428.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 84

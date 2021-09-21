@@ -1,5 +1,7 @@
 # Ousama α to Puppy Love♡
 
+![ousama-α-to-puppy-love♡](https://cdn.myanimelist.net/images/manga/2/224329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

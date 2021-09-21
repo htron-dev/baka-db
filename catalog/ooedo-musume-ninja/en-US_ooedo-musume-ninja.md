@@ -1,5 +1,7 @@
 # Ooedo Musume Ninja
 
+![ooedo-musume-ninja](https://cdn.myanimelist.net/images/manga/1/95789.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

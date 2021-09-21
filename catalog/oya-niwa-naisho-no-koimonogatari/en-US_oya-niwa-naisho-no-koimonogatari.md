@@ -1,5 +1,7 @@
 # Oya Niwa Naisho no Koimonogatari
 
+![oya-niwa-naisho-no-koimonogatari](https://cdn.myanimelist.net/images/manga/1/11957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

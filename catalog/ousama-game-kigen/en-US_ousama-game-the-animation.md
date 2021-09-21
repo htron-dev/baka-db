@@ -1,5 +1,7 @@
 # Ousama Game The Animation
 
+![ousama-game-the-animation](https://cdn.myanimelist.net/images/anime/3/88190.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 王様ゲーム The Animation

@@ -1,5 +1,7 @@
 # Oji to Watashi no Himistu no Kankei
 
+![oji-to-watashi-no-himistu-no-kankei](https://cdn.myanimelist.net/images/manga/1/199325.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 叔父とわたしの秘蜜の関係

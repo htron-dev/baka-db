@@ -1,5 +1,7 @@
 # Gal Japon
 
+![gal-japon](https://cdn.myanimelist.net/images/manga/2/149193.jpg)
+
 -   **type**: manga
 -   **original-name**: ギャルジャポン
 -   **start-date**: 2010-07-13

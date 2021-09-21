@@ -1,5 +1,7 @@
 # Ouritsu Gakuen Concertino: Netsujou to Inbou no Kyousoukyoku
 
+![ouritsu-gakuen-concertino-netsujou-to-inbou-no-kyousoukyoku](https://cdn.myanimelist.net/images/manga/2/191876.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

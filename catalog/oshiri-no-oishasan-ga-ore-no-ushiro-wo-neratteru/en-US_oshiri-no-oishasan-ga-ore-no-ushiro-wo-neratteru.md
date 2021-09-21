@@ -1,5 +1,7 @@
 # Oshiri no Oishasan ga, Ore no Ushiro wo Neratteru!?
 
+![oshiri-no-oishasan-ga-ore-no-ushiro-wo-neratteru](https://cdn.myanimelist.net/images/manga/1/224555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

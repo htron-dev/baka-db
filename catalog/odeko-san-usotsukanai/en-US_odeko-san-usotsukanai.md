@@ -1,5 +1,7 @@
 # Odeko-san Usotsukanai
 
+![odeko-san-usotsukanai](https://cdn.myanimelist.net/images/manga/3/246217.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おでこさんウソつかない

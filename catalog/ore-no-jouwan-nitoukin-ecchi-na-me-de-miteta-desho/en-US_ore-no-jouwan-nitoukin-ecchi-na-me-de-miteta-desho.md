@@ -1,5 +1,7 @@
 # Ore no Jouwan Nitoukin, Ecchi na Me de Miteta desho?
 
+![ore-no-jouwan-nitoukin-ecchi-na-me-de-miteta-desho](https://cdn.myanimelist.net/images/manga/1/235022.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の上腕二頭筋、エッチな目で見てたでしょ?
 -   **start-date**: 2017-11-02

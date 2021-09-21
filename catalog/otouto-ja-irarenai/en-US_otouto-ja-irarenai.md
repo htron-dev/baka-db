@@ -1,5 +1,7 @@
 # Otouto ja Irarenai!!
 
+![otouto-ja-irarenai](https://cdn.myanimelist.net/images/manga/3/179094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Omoikkiri Oishii Otoko
 
+![omoikkiri-oishii-otoko](https://cdn.myanimelist.net/images/manga/1/11150.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 完全版　思いっきりおいしい男

@@ -1,5 +1,7 @@
 # Onaji Kurai Ai
 
+![onaji-kurai-ai](https://cdn.myanimelist.net/images/manga/2/38395.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

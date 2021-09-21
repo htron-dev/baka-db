@@ -1,5 +1,7 @@
 # Ousama ni Kiss!
 
+![ousama-ni-kiss](https://cdn.myanimelist.net/images/manga/2/15481.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

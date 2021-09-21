@@ -1,5 +1,7 @@
 # Omakase! Miracle Cat-dan
 
+![omakase-miracle-cat-dan](https://cdn.myanimelist.net/images/anime/3/72847.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: おまかせ! みらくるキャット団

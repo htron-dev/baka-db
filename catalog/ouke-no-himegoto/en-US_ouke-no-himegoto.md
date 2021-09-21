@@ -1,5 +1,7 @@
 # Ouke no Himegoto
 
+![ouke-no-himegoto](https://cdn.myanimelist.net/images/manga/1/193392.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

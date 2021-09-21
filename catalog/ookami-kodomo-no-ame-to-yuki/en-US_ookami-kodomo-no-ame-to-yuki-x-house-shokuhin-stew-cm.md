@@ -1,5 +1,7 @@
 # Ookami Kodomo no Ame to Yuki x House Shokuhin Stew CM
 
+![ookami-kodomo-no-ame-to-yuki-x-house-shokuhin-stew-cm](https://cdn.myanimelist.net/images/anime/1890/90862.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おおかみこどもの雨と雪 × ハウス食品 シチュー CM

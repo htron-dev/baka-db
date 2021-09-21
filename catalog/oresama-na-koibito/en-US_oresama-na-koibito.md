@@ -1,5 +1,7 @@
 # Oresama na Koibito
 
+![oresama-na-koibito](https://cdn.myanimelist.net/images/manga/1/6016.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 俺様な恋人

@@ -1,5 +1,7 @@
 # Overlord: Koushiki Comic à la Carte
 
+![overlord-koushiki-comic-a-la-carte](https://cdn.myanimelist.net/images/manga/3/221257.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 47

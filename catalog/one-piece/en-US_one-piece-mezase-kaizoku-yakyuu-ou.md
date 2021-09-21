@@ -1,5 +1,7 @@
 # One Piece: Mezase! Kaizoku Yakyuu Ou
 
+![one-piece-mezase-kaizoku-yakyuu-ou](https://cdn.myanimelist.net/images/anime/8/70593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース めざせ！海賊野球王

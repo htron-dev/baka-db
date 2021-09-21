@@ -1,5 +1,7 @@
 # Ou no Emono wa Muku na Hanayome
 
+![ou-no-emono-wa-muku-na-hanayome](https://cdn.myanimelist.net/images/manga/3/191677.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

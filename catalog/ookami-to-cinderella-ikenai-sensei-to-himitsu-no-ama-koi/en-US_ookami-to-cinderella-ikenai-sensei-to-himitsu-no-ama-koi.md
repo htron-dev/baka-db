@@ -1,5 +1,7 @@
 # Ookami to Cinderella: Ikenai Sensei to Himitsu no Ama Koi?
 
+![ookami-to-cinderella-ikenai-sensei-to-himitsu-no-ama-koi](https://cdn.myanimelist.net/images/manga/2/183297.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: オオカミとシンデレラ イケナイ先生と秘密の甘恋?

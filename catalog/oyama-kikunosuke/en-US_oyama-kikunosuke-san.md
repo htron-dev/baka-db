@@ -1,5 +1,7 @@
 # Oyama! Kikunosuke-san
 
+![oyama-kikunosuke-san](https://cdn.myanimelist.net/images/manga/2/200523.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

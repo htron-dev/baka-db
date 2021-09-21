@@ -1,5 +1,7 @@
 # Onna Kanbu Mel-sama no Sekai Seifuku Keikaku!
 
+![onna-kanbu-mel-sama-no-sekai-seifuku-keikaku](https://cdn.myanimelist.net/images/manga/2/168640.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

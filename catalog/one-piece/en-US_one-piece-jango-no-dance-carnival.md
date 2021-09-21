@@ -1,5 +1,7 @@
 # One Piece: Jango no Dance Carnival
 
+![one-piece-jango-no-dance-carnival](https://cdn.myanimelist.net/images/anime/1726/113142.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース ジャンゴのダンスカーニバル

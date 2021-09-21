@@ -1,5 +1,7 @@
 # Out
 
+![out](https://cdn.myanimelist.net/images/manga/3/124693.jpg)
+
 -   **type**: manga
 -   **original-name**: OUT -アウト-
 -   **start-date**: 2012-06-12

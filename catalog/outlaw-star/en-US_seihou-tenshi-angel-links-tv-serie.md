@@ -1,5 +1,7 @@
 # Seihou Tenshi Angel Links
 
+![seihou-tenshi-angel-links](https://cdn.myanimelist.net/images/anime/4/46233.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 星方天使エンジェルリンクス

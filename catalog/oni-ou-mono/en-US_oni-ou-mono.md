@@ -1,5 +1,7 @@
 # Oni Ou Mono
 
+![oni-ou-mono](https://cdn.myanimelist.net/images/manga/1/32878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

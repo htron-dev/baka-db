@@ -1,5 +1,7 @@
 # Osekisho
 
+![osekisho](https://cdn.myanimelist.net/images/anime/9/85241.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お関所

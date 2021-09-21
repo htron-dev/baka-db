@@ -1,5 +1,7 @@
 # Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!
 
+![oniichan-no-koto-nanka-zenzen-suki-ja-nai-n-da-kara-ne](https://cdn.myanimelist.net/images/anime/3/75499.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!

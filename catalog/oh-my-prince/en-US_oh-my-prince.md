@@ -1,5 +1,7 @@
 # Oh! My Prince
 
+![oh-my-prince](https://cdn.myanimelist.net/images/manga/3/78893.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Oh! my プリンス

@@ -1,5 +1,7 @@
 # Bessatsu Olympia Kyklos
 
+![bessatsu-olympia-kyklos](https://cdn.myanimelist.net/images/anime/1783/113441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 別冊オリンピア・キュクロス

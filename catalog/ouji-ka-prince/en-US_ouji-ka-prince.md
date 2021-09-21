@@ -1,5 +1,7 @@
 # Ouji ka Prince
 
+![ouji-ka-prince](https://cdn.myanimelist.net/images/manga/1/172899.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

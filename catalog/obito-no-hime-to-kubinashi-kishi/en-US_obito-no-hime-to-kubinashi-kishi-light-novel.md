@@ -1,5 +1,7 @@
 # Obito no Hime to Kubinashi Kishi
 
+![obito-no-hime-to-kubinashi-kishi](https://cdn.myanimelist.net/images/manga/1/108997.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 首の姫と首なし騎士
 -   **start-date**: 2011-08-31

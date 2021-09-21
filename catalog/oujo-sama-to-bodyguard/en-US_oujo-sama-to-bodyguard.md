@@ -1,5 +1,7 @@
 # Oujo-sama to Bodyguard
 
+![oujo-sama-to-bodyguard](https://cdn.myanimelist.net/images/manga/4/127193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 王女様とボディガード

@@ -1,5 +1,7 @@
 # Otoutotachi no Tsuiseki Jijou
 
+![otoutotachi-no-tsuiseki-jijou](https://cdn.myanimelist.net/images/manga/3/25316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

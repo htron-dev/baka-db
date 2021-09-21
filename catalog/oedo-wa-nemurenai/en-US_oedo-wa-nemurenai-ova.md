@@ -1,5 +1,7 @@
 # Oedo wa Nemurenai!
 
+![oedo-wa-nemurenai](https://cdn.myanimelist.net/images/anime/7/39103.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お江戸はねむれない!

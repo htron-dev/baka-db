@@ -1,5 +1,7 @@
 # Onnanoko wa Koi wo Suru to Mousou Shichaun desu.
 
+![onnanoko-wa-koi-wo-suru-to-mousou-shichaun-desu](https://cdn.myanimelist.net/images/manga/3/150298.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

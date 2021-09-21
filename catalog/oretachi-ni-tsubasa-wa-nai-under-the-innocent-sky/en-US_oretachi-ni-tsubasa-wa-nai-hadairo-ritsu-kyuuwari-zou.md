@@ -1,5 +1,7 @@
 # Oretachi ni Tsubasa wa Nai: Hadairo Ritsu Kyuuwari Zou!?
 
+![oretachi-ni-tsubasa-wa-nai-hadairo-ritsu-kyuuwari-zou](https://cdn.myanimelist.net/images/anime/3/64495.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 俺たちに翼はない 肌色率九割増!?

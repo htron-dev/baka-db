@@ -1,5 +1,7 @@
 # Outside Flower
 
+![outside-flower](https://cdn.myanimelist.net/images/manga/3/223571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

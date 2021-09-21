@@ -1,5 +1,7 @@
 # Ore, Tsushima
 
+![ore-tsushima](https://cdn.myanimelist.net/images/anime/1916/112514.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 俺、つしま
 -   **start-date**: 2021-07-02

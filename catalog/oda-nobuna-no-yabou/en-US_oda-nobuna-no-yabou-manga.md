@@ -1,5 +1,7 @@
 # Oda Nobuna no Yabou
 
+![oda-nobuna-no-yabou](https://cdn.myanimelist.net/images/manga/3/86829.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Otome Nadeshiko Koi Techou
 
+![otome-nadeshiko-koi-techou](https://cdn.myanimelist.net/images/anime/9/37951.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 乙女なでしこ恋手帖

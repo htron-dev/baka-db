@@ -1,5 +1,7 @@
 # Ookamikakushi
 
+![ookamikakushi](https://cdn.myanimelist.net/images/manga/3/177752.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

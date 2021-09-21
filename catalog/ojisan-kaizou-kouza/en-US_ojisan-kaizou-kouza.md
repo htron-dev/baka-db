@@ -1,5 +1,7 @@
 # Ojisan Kaizou Kouza
 
+![ojisan-kaizou-kouza](https://cdn.myanimelist.net/images/anime/8/61743.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おじさん改造講座

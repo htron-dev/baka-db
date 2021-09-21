@@ -1,5 +1,7 @@
 # Omote x Ura Girl
 
+![omote-x-ura-girl](https://cdn.myanimelist.net/images/manga/1/138425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

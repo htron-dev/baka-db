@@ -1,5 +1,7 @@
 # Oshiri Tantei: Mina to Machi no Tuk-tuk Chase
 
+![oshiri-tantei-mina-to-machi-no-tuk-tuk-chase](https://cdn.myanimelist.net/images/anime/1534/109302.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おしりたんてい 「みなとまちの トゥクトゥクチェイス」

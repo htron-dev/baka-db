@@ -1,5 +1,7 @@
 # Only Lonely Vampire
 
+![only-lonely-vampire](https://cdn.myanimelist.net/images/manga/2/154624.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

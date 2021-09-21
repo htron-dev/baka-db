@@ -1,5 +1,7 @@
 # Otona no Bouguya-san (Rimen)
 
+![otona-no-bouguya-san-rimen](https://cdn.myanimelist.net/images/anime/1191/99230.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: おとなの防具屋さん(裏面)

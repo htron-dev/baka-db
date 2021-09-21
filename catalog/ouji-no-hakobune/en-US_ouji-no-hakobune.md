@@ -1,5 +1,7 @@
 # Ouji no Hakobune
 
+![ouji-no-hakobune](https://cdn.myanimelist.net/images/manga/2/7600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

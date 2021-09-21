@@ -1,5 +1,7 @@
 # Owari no Seraph
 
+![owari-no-seraph](https://cdn.myanimelist.net/images/manga/1/137573.jpg)
+
 -   **type**: manga
 -   **original-name**: 終わりのセラフ
 -   **start-date**: 2012-09-03

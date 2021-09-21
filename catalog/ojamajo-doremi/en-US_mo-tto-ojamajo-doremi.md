@@ -1,5 +1,7 @@
 # Mo~tto! Ojamajo Doremi
 
+![mo-tto-ojamajo-doremi](https://cdn.myanimelist.net/images/manga/2/92203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

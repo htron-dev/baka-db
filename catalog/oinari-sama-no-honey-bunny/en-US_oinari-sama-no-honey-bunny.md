@@ -1,5 +1,7 @@
 # Oinari-sama no Honey Bunny
 
+![oinari-sama-no-honey-bunny](https://cdn.myanimelist.net/images/manga/2/95353.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

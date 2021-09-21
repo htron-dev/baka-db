@@ -1,5 +1,7 @@
 # Oda Cinnamon Nobunaga
 
+![oda-cinnamon-nobunaga](https://cdn.myanimelist.net/images/anime/1004/106819.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 織田シナモン信長

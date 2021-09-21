@@ -1,5 +1,7 @@
 # Orange Marmalade
 
+![orange-marmalade](https://cdn.myanimelist.net/images/manga/1/95567.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 66

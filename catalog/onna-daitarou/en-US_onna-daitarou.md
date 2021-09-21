@@ -1,5 +1,7 @@
 # Onna Daitarou
 
+![onna-daitarou](https://cdn.myanimelist.net/images/manga/3/199641.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

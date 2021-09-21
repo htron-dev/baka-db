@@ -1,5 +1,7 @@
 # Omishi Mahou Gekijou: Risky★Safety
 
+![omishi-mahou-gekijou-risky★-safety](https://cdn.myanimelist.net/images/anime/13/14714.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 臣士魔法劇場 リスキー ★ セフティ

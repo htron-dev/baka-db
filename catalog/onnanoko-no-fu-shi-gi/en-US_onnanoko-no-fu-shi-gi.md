@@ -1,5 +1,7 @@
 # Onnanoko no Fu-shi-gi
 
+![onnanoko-no-fu-shi-gi](https://cdn.myanimelist.net/images/manga/2/28366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女の子の不・思・議

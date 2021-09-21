@@ -1,5 +1,7 @@
 # Omae Nanzo ni Musume wa Yaren
 
+![omae-nanzo-ni-musume-wa-yaren](https://cdn.myanimelist.net/images/manga/3/164671.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: おまえなんぞに娘はやれん

@@ -1,5 +1,7 @@
 # Koisuru One Piece
 
+![koisuru-one-piece](https://cdn.myanimelist.net/images/manga/1/222841.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋するワンピース
 -   **start-date**: 2018-06-18

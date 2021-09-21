@@ -1,5 +1,7 @@
 # Oretachi wa Kuuki ga Yomenai
 
+![oretachi-wa-kuuki-ga-yomenai](https://cdn.myanimelist.net/images/manga/3/184254.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺たちは空気が読めない
 -   **start-date**: 2016-10-25

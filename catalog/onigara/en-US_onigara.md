@@ -1,5 +1,7 @@
 # Onigara
 
+![onigara](https://cdn.myanimelist.net/images/anime/13/68029.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鬼がら

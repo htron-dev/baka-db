@@ -1,5 +1,7 @@
 # Ochitekita Nāga to Horobiyuku Majo no Kuni
 
+![ochitekita-naga-to-horobiyuku-majo-no-kuni](https://cdn.myanimelist.net/images/manga/1/201338.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 落ちてきた龍王〈ナーガ〉と滅びゆく魔女の国
 -   **start-date**: 2012-07-25

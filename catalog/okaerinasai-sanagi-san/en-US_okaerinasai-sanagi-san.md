@@ -1,5 +1,7 @@
 # Okaerinasai Sanagi-san
 
+![okaerinasai-sanagi-san](https://cdn.myanimelist.net/images/manga/1/149638.jpg)
+
 -   **type**: manga
 -   **original-name**: おかえりなさいサナギさん
 -   **start-date**: 2013-03-18

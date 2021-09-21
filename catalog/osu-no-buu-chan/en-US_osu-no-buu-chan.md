@@ -1,5 +1,7 @@
 # Osu no Buu-chan
 
+![osu-no-buu-chan](https://cdn.myanimelist.net/images/anime/1985/103362.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 大須のぶーちゃん

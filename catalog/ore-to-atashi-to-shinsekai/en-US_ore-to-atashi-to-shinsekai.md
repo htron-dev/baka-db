@@ -1,5 +1,7 @@
 # Ore to Atashi to Shinsekai
 
+![ore-to-atashi-to-shinsekai](https://cdn.myanimelist.net/images/manga/2/225420.jpg)
+
 -   **type**: manga
 -   **original-name**: オレとあたしと新世界
 -   **start-date**: 2016-01-25

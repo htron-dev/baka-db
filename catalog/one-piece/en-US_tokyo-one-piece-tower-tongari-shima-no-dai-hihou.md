@@ -1,5 +1,7 @@
 # Tokyo One Piece Tower: Tongari Shima no Dai Hihou
 
+![tokyo-one-piece-tower-tongari-shima-no-dai-hihou](https://cdn.myanimelist.net/images/anime/1203/95013.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東京ワンピースタワー トンガリ島の大秘宝

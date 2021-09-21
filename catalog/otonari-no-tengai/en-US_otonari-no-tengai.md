@@ -1,5 +1,7 @@
 # Otonari no Tengai
 
+![otonari-no-tengai](https://cdn.myanimelist.net/images/manga/2/245159.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなりの天涯
 -   **start-date**: 2020-11-14

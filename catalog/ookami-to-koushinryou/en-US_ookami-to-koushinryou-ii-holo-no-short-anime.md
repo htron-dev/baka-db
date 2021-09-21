@@ -1,5 +1,7 @@
 # Ookami to Koushinryou II: Holo no Short Anime
 
+![ookami-to-koushinryou-ii-holo-no-short-anime](https://cdn.myanimelist.net/images/anime/4/17117.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 狼と香辛料 II ホロのショートアニメ

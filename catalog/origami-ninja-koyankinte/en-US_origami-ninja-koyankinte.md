@@ -1,5 +1,7 @@
 # Origami Ninja Koyankinte
 
+![origami-ninja-koyankinte](https://cdn.myanimelist.net/images/anime/1860/106477.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: おりがみにんじゃ コーヤン＠きんてれ
 -   **start-date**: 2020-04-07

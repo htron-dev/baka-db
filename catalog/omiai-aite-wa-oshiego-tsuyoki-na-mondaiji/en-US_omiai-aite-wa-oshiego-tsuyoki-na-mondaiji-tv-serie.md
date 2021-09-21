@@ -1,5 +1,7 @@
 # Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.
 
+![omiai-aite-wa-oshiego-tsuyoki-na-mondaiji](https://cdn.myanimelist.net/images/anime/9/88326.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: お見合い相手は教え子、強気な、問題児。

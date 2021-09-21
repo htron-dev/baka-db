@@ -1,5 +1,7 @@
 # Oneesan to Issho
 
+![oneesan-to-issho](https://cdn.myanimelist.net/images/manga/2/158874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

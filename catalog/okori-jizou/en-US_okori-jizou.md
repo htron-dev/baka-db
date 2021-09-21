@@ -1,5 +1,7 @@
 # Okori Jizou
 
+![okori-jizou](https://cdn.myanimelist.net/images/anime/8/66033.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おこりじぞう

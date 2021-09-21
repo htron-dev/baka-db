@@ -1,5 +1,7 @@
 # Oumagadoki Doubutsuen
 
+![oumagadoki-doubutsuen](https://cdn.myanimelist.net/images/manga/3/37522.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

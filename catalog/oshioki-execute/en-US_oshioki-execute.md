@@ -1,5 +1,7 @@
 # Oshioki Execute
 
+![oshioki-execute](https://cdn.myanimelist.net/images/manga/2/189358.jpg)
+
 -   **type**: manga
 -   **original-name**: おしおきエクスキュート
 -   **start-date**: 2016-05-09

@@ -1,5 +1,7 @@
 # Otoboke Kachou Dairi
 
+![otoboke-kachou-dairi](https://cdn.myanimelist.net/images/manga/3/197302.jpg)
+
 -   **type**: manga
 -   **original-name**: おとぼけ部長代理
 -   **start-date**: 2017-06-07

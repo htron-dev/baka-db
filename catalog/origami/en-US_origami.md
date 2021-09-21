@@ -1,5 +1,7 @@
 # Origami
 
+![origami](https://cdn.myanimelist.net/images/manga/5/57823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

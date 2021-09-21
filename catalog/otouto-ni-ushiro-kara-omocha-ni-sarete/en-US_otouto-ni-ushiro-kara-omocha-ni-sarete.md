@@ -1,5 +1,7 @@
 # Otouto ni Ushiro kara Omocha ni Sarete
 
+![otouto-ni-ushiro-kara-omocha-ni-sarete](https://cdn.myanimelist.net/images/manga/3/193491.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

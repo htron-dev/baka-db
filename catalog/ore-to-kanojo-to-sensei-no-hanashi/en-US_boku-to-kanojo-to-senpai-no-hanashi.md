@@ -1,5 +1,7 @@
 # Boku to Kanojo to Senpai no Hanashi
 
+![boku-to-kanojo-to-senpai-no-hanashi](https://cdn.myanimelist.net/images/manga/2/61733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

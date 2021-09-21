@@ -1,5 +1,7 @@
 # Lady Jewelpet
 
+![lady-jewelpet](https://cdn.myanimelist.net/images/anime/4/73960.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: レディ ジュエルペット

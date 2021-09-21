@@ -1,5 +1,7 @@
 # Otokogumi
 
+![otokogumi](https://cdn.myanimelist.net/images/manga/3/103359.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 135

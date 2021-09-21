@@ -1,5 +1,7 @@
 # Otoyomegatari
 
+![otoyomegatari](https://cdn.myanimelist.net/images/manga/2/188950.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙嫁語り
 -   **start-date**: 2008-10-14

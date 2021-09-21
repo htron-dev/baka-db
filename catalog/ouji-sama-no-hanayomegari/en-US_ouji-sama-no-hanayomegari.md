@@ -1,5 +1,7 @@
 # Ouji-sama no Hanayomegari
 
+![ouji-sama-no-hanayomegari](https://cdn.myanimelist.net/images/manga/3/183104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

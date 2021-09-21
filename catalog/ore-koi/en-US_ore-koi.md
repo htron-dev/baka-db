@@ -1,5 +1,7 @@
 # Ore Koi!!
 
+![ore-koi](https://cdn.myanimelist.net/images/manga/3/100739.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 俺コイ!! 俺物語 × ニセコイ!!

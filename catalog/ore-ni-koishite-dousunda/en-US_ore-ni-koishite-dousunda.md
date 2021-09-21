@@ -1,5 +1,7 @@
 # Ore ni Koishite Dousunda
 
+![ore-ni-koishite-dousunda](https://cdn.myanimelist.net/images/manga/4/14531.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 俺に恋してどうすんだ

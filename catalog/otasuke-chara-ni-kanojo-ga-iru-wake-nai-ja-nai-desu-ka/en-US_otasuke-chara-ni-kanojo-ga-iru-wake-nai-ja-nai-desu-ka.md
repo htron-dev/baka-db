@@ -1,5 +1,7 @@
 # Otasuke Chara ni Kanojo ga Iru Wake Nai ja Nai desu ka
 
+![otasuke-chara-ni-kanojo-ga-iru-wake-nai-ja-nai-desu-ka](https://cdn.myanimelist.net/images/manga/3/241456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

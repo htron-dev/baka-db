@@ -1,5 +1,7 @@
 # Onegai My Melody Sukkiri♪
 
+![onegai-my-melody-sukkiri♪](https://cdn.myanimelist.net/images/anime/10/23593.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: おねがい マイメロディ すっきり ♪

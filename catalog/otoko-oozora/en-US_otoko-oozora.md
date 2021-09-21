@@ -1,5 +1,7 @@
 # Otoko Oozora
 
+![otoko-oozora](https://cdn.myanimelist.net/images/manga/2/233863.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 139

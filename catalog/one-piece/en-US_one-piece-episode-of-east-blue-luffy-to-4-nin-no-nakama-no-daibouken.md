@@ -1,5 +1,7 @@
 # One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken
 
+![one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken](https://cdn.myanimelist.net/images/anime/10/87473.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース エピソードオブ東の海[イーストブルー] ~ルフィと 4 人の仲間の大冒険~

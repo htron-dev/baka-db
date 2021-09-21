@@ -1,5 +1,7 @@
 # Ohimesama no Ohimesama
 
+![ohimesama-no-ohimesama](https://cdn.myanimelist.net/images/manga/1/235246.jpg)
+
 -   **type**: manga
 -   **original-name**: お姫様のお姫様
 -   **start-date**: 2019-07-18

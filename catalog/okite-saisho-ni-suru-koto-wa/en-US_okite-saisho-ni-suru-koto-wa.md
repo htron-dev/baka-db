@@ -1,5 +1,7 @@
 # Okite Saisho ni Suru Koto wa
 
+![okite-saisho-ni-suru-koto-wa](https://cdn.myanimelist.net/images/manga/3/157237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

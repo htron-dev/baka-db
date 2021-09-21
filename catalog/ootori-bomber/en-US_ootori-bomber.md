@@ -1,5 +1,7 @@
 # Ootori Bomber
 
+![ootori-bomber](https://cdn.myanimelist.net/images/manga/3/240165.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

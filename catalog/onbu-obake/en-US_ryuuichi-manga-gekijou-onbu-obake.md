@@ -1,5 +1,7 @@
 # Ryuuichi Manga Gekijou Onbu Obake
 
+![ryuuichi-manga-gekijou-onbu-obake](https://cdn.myanimelist.net/images/anime/3/23928.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: おんぶおばけ

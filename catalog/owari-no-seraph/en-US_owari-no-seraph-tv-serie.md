@@ -1,5 +1,7 @@
 # Owari no Seraph
 
+![owari-no-seraph](https://cdn.myanimelist.net/images/anime/5/73474.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 終わりのセラフ

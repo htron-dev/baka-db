@@ -1,5 +1,7 @@
 # Oni no Manimani
 
+![oni-no-manimani](https://cdn.myanimelist.net/images/manga/3/217102.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

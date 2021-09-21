@@ -1,5 +1,7 @@
 # Ougon no Tane wo Shirimasen ka?
 
+![ougon-no-tane-wo-shirimasen-ka](https://cdn.myanimelist.net/images/manga/3/158707.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

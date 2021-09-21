@@ -1,5 +1,7 @@
 # One Piece: Heart of Gold
 
+![one-piece-heart-of-gold](https://cdn.myanimelist.net/images/anime/6/80109.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース ～ハートオブ ゴールド～

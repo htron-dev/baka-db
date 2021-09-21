@@ -1,5 +1,7 @@
 # Outaishi Denka no Hisoyaka na Yuugi
 
+![outaishi-denka-no-hisoyaka-na-yuugi](https://cdn.myanimelist.net/images/manga/1/191938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

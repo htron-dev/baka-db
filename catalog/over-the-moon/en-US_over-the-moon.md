@@ -1,5 +1,7 @@
 # Over the Moon
 
+![over-the-moon](https://cdn.myanimelist.net/images/manga/3/19169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2004-01-20

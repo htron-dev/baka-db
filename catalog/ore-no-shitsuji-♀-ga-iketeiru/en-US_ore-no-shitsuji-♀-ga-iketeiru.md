@@ -1,5 +1,7 @@
 # Ore no Shitsuji (♀) ga Iketeiru
 
+![ore-no-shitsuji-♀-ga-iketeiru](https://cdn.myanimelist.net/images/manga/2/168118.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

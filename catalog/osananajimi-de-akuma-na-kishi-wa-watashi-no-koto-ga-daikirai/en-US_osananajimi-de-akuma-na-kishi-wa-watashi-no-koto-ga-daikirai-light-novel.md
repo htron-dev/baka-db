@@ -1,5 +1,7 @@
 # Osananajimi de Akuma na Kishi wa, Watashi no Koto ga Daikirai
 
+![osananajimi-de-akuma-na-kishi-wa-watashi-no-koto-ga-daikirai](https://cdn.myanimelist.net/images/manga/3/239421.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

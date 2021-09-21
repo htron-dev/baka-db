@@ -1,5 +1,7 @@
 # Ousama-tachi no Viking
 
+![ousama-tachi-no-viking](https://cdn.myanimelist.net/images/manga/3/123741.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 207

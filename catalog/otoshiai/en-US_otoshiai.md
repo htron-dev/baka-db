@@ -1,5 +1,7 @@
 # Otoshiai
 
+![otoshiai](https://cdn.myanimelist.net/images/manga/2/247135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

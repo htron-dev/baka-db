@@ -1,5 +1,7 @@
 # Old Fashion Love Song
 
+![old-fashion-love-song](https://cdn.myanimelist.net/images/manga/2/31024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

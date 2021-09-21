@@ -1,5 +1,7 @@
 # Omae no Mae de Naku Mon ka
 
+![omae-no-mae-de-naku-mon-ka](https://cdn.myanimelist.net/images/manga/1/225417.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

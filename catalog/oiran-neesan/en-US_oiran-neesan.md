@@ -1,5 +1,7 @@
 # Oiran Neesan
 
+![oiran-neesan](https://cdn.myanimelist.net/images/manga/1/203934.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

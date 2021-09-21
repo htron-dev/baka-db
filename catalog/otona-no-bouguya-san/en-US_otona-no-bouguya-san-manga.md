@@ -1,5 +1,7 @@
 # Otona no Bouguya-san
 
+![otona-no-bouguya-san](https://cdn.myanimelist.net/images/manga/3/213412.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなの防具屋さん
 -   **start-date**: 2017-09-15

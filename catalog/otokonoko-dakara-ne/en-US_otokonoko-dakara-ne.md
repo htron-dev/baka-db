@@ -1,5 +1,7 @@
 # Otokonoko Dakara ne
 
+![otokonoko-dakara-ne](https://cdn.myanimelist.net/images/manga/3/61599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ossu! Haruka-chan
 
+![ossu-haruka-chan](https://cdn.myanimelist.net/images/manga/3/235344.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

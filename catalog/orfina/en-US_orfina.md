@@ -1,5 +1,7 @@
 # Orfina
 
+![orfina](https://cdn.myanimelist.net/images/manga/2/1097.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 86

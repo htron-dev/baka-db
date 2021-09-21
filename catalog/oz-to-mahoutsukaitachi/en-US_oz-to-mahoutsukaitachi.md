@@ -1,5 +1,7 @@
 # Oz to Mahoutsukaitachi
 
+![oz-to-mahoutsukaitachi](https://cdn.myanimelist.net/images/manga/1/72281.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: オズと魔法使いたち

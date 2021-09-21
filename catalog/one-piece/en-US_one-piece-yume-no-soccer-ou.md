@@ -1,5 +1,7 @@
 # One Piece: Yume no Soccer Ou!
 
+![one-piece-yume-no-soccer-ou](https://cdn.myanimelist.net/images/anime/4/70587.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース 夢のサッカー王!

@@ -1,5 +1,7 @@
 # Onsa no Hibiki
 
+![onsa-no-hibiki](https://cdn.myanimelist.net/images/manga/1/165407.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: おんさのひびき

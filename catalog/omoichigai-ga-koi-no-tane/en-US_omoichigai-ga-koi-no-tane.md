@@ -1,5 +1,7 @@
 # Omoichigai ga Koi no Tane
 
+![omoichigai-ga-koi-no-tane](https://cdn.myanimelist.net/images/manga/1/183176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Oyako Nezumi no Fushigi na Tabi
 
+![oyako-nezumi-no-fushigi-na-tabi](https://cdn.myanimelist.net/images/anime/13/7512.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 親子ネズミの不思議な旅

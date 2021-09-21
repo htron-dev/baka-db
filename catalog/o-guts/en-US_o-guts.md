@@ -1,5 +1,7 @@
 # O-Guts!
 
+![o-guts](https://cdn.myanimelist.net/images/manga/3/79055.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: オガッツ！

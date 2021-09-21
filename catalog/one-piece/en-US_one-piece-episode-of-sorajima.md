@@ -1,5 +1,7 @@
 # One Piece: Episode of Sorajima
 
+![one-piece-episode-of-sorajima](https://cdn.myanimelist.net/images/anime/1533/92968.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ONE PIECE エピソードオブ空島

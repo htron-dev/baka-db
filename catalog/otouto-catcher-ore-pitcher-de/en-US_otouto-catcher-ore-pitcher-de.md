@@ -1,5 +1,7 @@
 # Otouto Catcher Ore Pitcher de!
 
+![otouto-catcher-ore-pitcher-de](https://cdn.myanimelist.net/images/manga/2/176378.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 77

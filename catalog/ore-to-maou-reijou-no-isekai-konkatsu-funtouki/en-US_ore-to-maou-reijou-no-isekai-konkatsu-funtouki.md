@@ -1,5 +1,7 @@
 # Ore to Maou Reijou no Isekai Konkatsu Funtouki
 
+![ore-to-maou-reijou-no-isekai-konkatsu-funtouki](https://cdn.myanimelist.net/images/manga/2/235555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 俺と魔王令嬢の異世界婚活奮闘記

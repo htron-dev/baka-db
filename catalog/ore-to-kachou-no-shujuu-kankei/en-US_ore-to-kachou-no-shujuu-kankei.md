@@ -1,5 +1,7 @@
 # Ore to Kachou no Shujuu Kankei
 
+![ore-to-kachou-no-shujuu-kankei](https://cdn.myanimelist.net/images/manga/1/226654.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

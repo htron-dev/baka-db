@@ -1,5 +1,7 @@
 # Obake no... Holly
 
+![obake-no-holly](https://cdn.myanimelist.net/images/anime/6/24954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 200
 -   **original-name**: おばけの…　ホーリー

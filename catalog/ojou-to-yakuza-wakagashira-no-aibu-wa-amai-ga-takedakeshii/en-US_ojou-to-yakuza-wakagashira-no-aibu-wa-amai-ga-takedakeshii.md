@@ -1,5 +1,7 @@
 # Ojou to Yakuza: Wakagashira no Aibu wa Amai ga Takedakeshii
 
+![ojou-to-yakuza-wakagashira-no-aibu-wa-amai-ga-takedakeshii](https://cdn.myanimelist.net/images/manga/3/236004.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ore no Pet wa Seijo-sama
 
+![ore-no-pet-wa-seijo-sama](https://cdn.myanimelist.net/images/manga/1/190023.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 77

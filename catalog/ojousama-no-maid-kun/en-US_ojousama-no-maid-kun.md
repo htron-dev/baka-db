@@ -1,5 +1,7 @@
 # Ojousama no Maid-kun
 
+![ojousama-no-maid-kun](https://cdn.myanimelist.net/images/manga/2/164119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

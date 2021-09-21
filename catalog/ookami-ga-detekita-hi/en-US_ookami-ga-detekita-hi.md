@@ -1,5 +1,7 @@
 # Ookami ga Detekita Hi
 
+![ookami-ga-detekita-hi](https://cdn.myanimelist.net/images/manga/3/138935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オオカミが出てきた日

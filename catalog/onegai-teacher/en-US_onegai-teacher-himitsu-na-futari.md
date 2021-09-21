@@ -1,5 +1,7 @@
 # Onegai☆Teacher: Himitsu na Futari
 
+![onegai☆-teacher-himitsu-na-futari](https://cdn.myanimelist.net/images/anime/5/33671.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おねがい ☆ ティーチャー ヒミツなふたり

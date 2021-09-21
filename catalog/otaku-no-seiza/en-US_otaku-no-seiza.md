@@ -1,5 +1,7 @@
 # Otaku no Seiza
 
+![otaku-no-seiza](https://cdn.myanimelist.net/images/anime/5/69359.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: おたくの星座

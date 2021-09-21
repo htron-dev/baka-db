@@ -1,5 +1,7 @@
 # Oresama Ouji
 
+![oresama-ouji](https://cdn.myanimelist.net/images/manga/3/123107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

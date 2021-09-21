@@ -1,5 +1,7 @@
 # Osomatsu-kun
 
+![osomatsu-kun](https://cdn.myanimelist.net/images/anime/2/76965.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: おそ松くん

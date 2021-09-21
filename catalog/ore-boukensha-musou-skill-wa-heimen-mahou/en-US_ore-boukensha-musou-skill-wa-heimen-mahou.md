@@ -1,5 +1,7 @@
 # Ore, Boukensha!: Musou Skill wa Heimen Mahou
 
+![ore-boukensha-musou-skill-wa-heimen-mahou](https://cdn.myanimelist.net/images/manga/2/195369.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺、冒険者！～無双スキルは平面魔法～
 -   **start-date**: 2017-05-25

@@ -1,5 +1,7 @@
 # Opera
 
+![opera](https://cdn.myanimelist.net/images/manga/1/32818.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: オペラ

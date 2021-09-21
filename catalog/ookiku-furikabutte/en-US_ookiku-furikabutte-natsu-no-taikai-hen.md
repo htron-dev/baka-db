@@ -1,5 +1,7 @@
 # Ookiku Furikabutte: Natsu no Taikai-hen
 
+![ookiku-furikabutte-natsu-no-taikai-hen](https://cdn.myanimelist.net/images/anime/10/18671.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おおきく振りかぶって　〜夏の大会編〜

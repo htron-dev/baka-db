@@ -1,5 +1,7 @@
 # Onnanoko x Onnanoko Collection
 
+![onnanoko-x-onnanoko-collection](https://cdn.myanimelist.net/images/manga/1/109259.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

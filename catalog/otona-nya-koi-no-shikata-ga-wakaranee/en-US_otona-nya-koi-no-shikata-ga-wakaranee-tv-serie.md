@@ -1,5 +1,7 @@
 # Otona nya Koi no Shikata ga Wakaranee!
 
+![otona-nya-koi-no-shikata-ga-wakaranee](https://cdn.myanimelist.net/images/anime/1603/108938.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 大人にゃ恋の仕方がわからねぇ！

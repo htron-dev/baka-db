@@ -1,5 +1,7 @@
 # Oshiri Mae Man
 
+![oshiri-mae-man](https://cdn.myanimelist.net/images/anime/1847/108007.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: おしり前マン

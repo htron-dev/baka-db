@@ -1,5 +1,7 @@
 # Otome Ariadne to Koi no Meikyuu
 
+![otome-ariadne-to-koi-no-meikyuu](https://cdn.myanimelist.net/images/manga/2/187011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

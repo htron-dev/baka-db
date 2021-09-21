@@ -1,5 +1,7 @@
 # On the Quiet
 
+![on-the-quiet](https://cdn.myanimelist.net/images/manga/2/37158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ookami-san Series
 
+![ookami-san-series](https://cdn.myanimelist.net/images/manga/1/163083.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: オオカミさんシリーズ

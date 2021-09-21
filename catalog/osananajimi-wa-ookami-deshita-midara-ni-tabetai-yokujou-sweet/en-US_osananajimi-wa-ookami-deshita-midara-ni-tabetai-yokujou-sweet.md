@@ -1,5 +1,7 @@
 # Osananajimi wa Ookami deshita: Midara ni Tabetai Yokujou Sweet
 
+![osananajimi-wa-ookami-deshita-midara-ni-tabetai-yokujou-sweet](https://cdn.myanimelist.net/images/manga/2/198027.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

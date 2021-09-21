@@ -1,5 +1,7 @@
 # Oyako Club
 
+![oyako-club](https://cdn.myanimelist.net/images/anime/8/34817.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1818
 -   **original-name**: 親子クラブ

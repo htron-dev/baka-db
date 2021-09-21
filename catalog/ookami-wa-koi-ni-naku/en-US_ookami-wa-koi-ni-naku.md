@@ -1,5 +1,7 @@
 # Ookami wa Koi ni Naku
 
+![ookami-wa-koi-ni-naku](https://cdn.myanimelist.net/images/manga/2/178640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

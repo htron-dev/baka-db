@@ -1,5 +1,7 @@
 # Oval x Over
 
+![oval-x-over](https://cdn.myanimelist.net/images/anime/5/29979.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: OVALxOVER

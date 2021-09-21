@@ -1,5 +1,7 @@
 # Oneechan ga Kita: Hajimete no… Kitaa!
 
+![oneechan-ga-kita-hajimete-no-kitaa](https://cdn.myanimelist.net/images/anime/8/61183.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: お姉ちゃんが来た 初めての... キター!

@@ -1,5 +1,7 @@
 # Overlord: Ple Ple Pleiades 2
 
+![overlord-ple-ple-pleiades-2](https://cdn.myanimelist.net/images/anime/10/90101.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: オーバーロード　ぷれぷれぷれあです 2

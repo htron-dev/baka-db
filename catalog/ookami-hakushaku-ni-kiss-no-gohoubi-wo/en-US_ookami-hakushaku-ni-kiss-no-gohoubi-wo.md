@@ -1,5 +1,7 @@
 # Ookami Hakushaku ni Kiss no Gohoubi wo
 
+![ookami-hakushaku-ni-kiss-no-gohoubi-wo](https://cdn.myanimelist.net/images/manga/1/183891.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ochou Fujin no Gensou
 
+![ochou-fujin-no-gensou](https://cdn.myanimelist.net/images/anime/11/68091.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お蝶夫人の幻想

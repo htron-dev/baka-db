@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon II
 
+![kyoukaisenjou-no-horizon-ii](https://cdn.myanimelist.net/images/anime/6/38227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 境界線上のホライゾン II

@@ -1,5 +1,7 @@
 # Omoide no Marnie
 
+![omoide-no-marnie](https://cdn.myanimelist.net/images/anime/7/64293.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 思い出のマーニー

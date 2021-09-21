@@ -1,5 +1,7 @@
 # OZ
 
+![oz](https://cdn.myanimelist.net/images/anime/13/77858.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: オズ

@@ -1,5 +1,7 @@
 # Osananajimi to Trunks: Ano Musume wa Honto ni Onnanoko?
 
+![osananajimi-to-trunks-ano-musume-wa-honto-ni-onnanoko](https://cdn.myanimelist.net/images/manga/3/240224.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼なじみとトランクス あの娘はホントに女の子？
 -   **start-date**: 2019-06-27

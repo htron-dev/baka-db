@@ -1,5 +1,7 @@
 # Oshaberi na Jikanwari
 
+![oshaberi-na-jikanwari](https://cdn.myanimelist.net/images/manga/2/175878.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

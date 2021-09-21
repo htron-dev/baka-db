@@ -1,5 +1,7 @@
 # One Operation Joker
 
+![one-operation-joker](https://cdn.myanimelist.net/images/manga/3/239480.jpg)
+
 -   **type**: manga
 -   **original-name**: ワンオペ JOKER
 -   **start-date**: 2021-01-07

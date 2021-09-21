@@ -1,5 +1,7 @@
 # Ojousama no Himitsu♥
 
+![ojousama-no-himitsu♥](https://cdn.myanimelist.net/images/manga/1/112745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

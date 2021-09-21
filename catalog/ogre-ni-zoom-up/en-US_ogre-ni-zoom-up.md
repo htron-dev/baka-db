@@ -1,5 +1,7 @@
 # Ogre ni Zoom Up!
 
+![ogre-ni-zoom-up](https://cdn.myanimelist.net/images/manga/2/163057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 19

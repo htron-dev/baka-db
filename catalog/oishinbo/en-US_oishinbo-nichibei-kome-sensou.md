@@ -1,5 +1,7 @@
 # Oishinbo: Nichibei Kome Sensou
 
+![oishinbo-nichibei-kome-sensou](https://cdn.myanimelist.net/images/anime/5/24465.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美味しんぼ　日米コメ戦争

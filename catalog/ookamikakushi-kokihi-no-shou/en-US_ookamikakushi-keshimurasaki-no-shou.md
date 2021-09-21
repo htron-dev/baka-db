@@ -1,5 +1,7 @@
 # Ookamikakushi: Keshimurasaki no Shou
 
+![ookamikakushi-keshimurasaki-no-shou](https://cdn.myanimelist.net/images/manga/1/166433.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

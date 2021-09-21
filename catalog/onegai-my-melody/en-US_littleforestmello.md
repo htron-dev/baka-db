@@ -1,5 +1,7 @@
 # Littleforestmello
 
+![littleforestmello](https://cdn.myanimelist.net/images/anime/9/87846.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: リトルフォレストフェロォ（めろぉ）

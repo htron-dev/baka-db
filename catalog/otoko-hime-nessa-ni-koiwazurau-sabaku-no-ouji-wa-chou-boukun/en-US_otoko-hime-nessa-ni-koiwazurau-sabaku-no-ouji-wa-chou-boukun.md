@@ -1,5 +1,7 @@
 # Otoko-hime, Nessa ni Koiwazurau: Sabaku no Ouji wa Chou! Boukun
 
+![otoko-hime-nessa-ni-koiwazurau-sabaku-no-ouji-wa-chou-boukun](https://cdn.myanimelist.net/images/manga/3/191659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

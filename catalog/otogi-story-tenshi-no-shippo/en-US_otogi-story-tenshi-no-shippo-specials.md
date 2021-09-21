@@ -1,5 +1,7 @@
 # Otogi Story Tenshi no Shippo Specials
 
+![otogi-story-tenshi-no-shippo-specials](https://cdn.myanimelist.net/images/anime/9/4328.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: おとぎストーリー　天使のしっぽ

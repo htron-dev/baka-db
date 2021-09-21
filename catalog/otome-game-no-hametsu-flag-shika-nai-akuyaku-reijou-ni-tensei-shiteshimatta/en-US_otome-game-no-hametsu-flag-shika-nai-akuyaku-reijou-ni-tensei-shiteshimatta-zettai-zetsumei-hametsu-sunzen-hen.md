@@ -1,5 +1,7 @@
 # Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Zettai Zetsumei! Hametsu Sunzen-hen
 
+![otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-zettai-zetsumei-hametsu-sunzen-hen](https://cdn.myanimelist.net/images/manga/1/232411.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…絶体絶命！破滅寸前編
 -   **start-date**: 2019-11-01

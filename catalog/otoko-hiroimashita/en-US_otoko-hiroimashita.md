@@ -1,5 +1,7 @@
 # Otoko Hiroimashita
 
+![otoko-hiroimashita](https://cdn.myanimelist.net/images/manga/3/15417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

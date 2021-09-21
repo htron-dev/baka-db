@@ -1,5 +1,7 @@
 # Oujo Alexandra
 
+![oujo-alexandra](https://cdn.myanimelist.net/images/manga/3/14069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

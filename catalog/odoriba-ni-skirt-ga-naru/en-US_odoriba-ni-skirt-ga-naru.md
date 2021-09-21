@@ -1,5 +1,7 @@
 # Odoriba ni Skirt ga Naru
 
+![odoriba-ni-skirt-ga-naru](https://cdn.myanimelist.net/images/manga/2/246831.jpg)
+
 -   **type**: manga
 -   **original-name**: 踊り場にスカートが鳴る
 -   **start-date**: 2020-08-19

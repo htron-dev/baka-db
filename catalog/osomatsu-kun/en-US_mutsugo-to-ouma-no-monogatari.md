@@ -1,5 +1,7 @@
 # Mutsugo to Ouma no Monogatari
 
+![mutsugo-to-ouma-no-monogatari](https://cdn.myanimelist.net/images/anime/10/82374.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 6 つ子とおうまの物語

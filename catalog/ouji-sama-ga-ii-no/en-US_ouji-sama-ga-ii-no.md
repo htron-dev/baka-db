@@ -1,5 +1,7 @@
 # Ouji-sama ga ii no!
 
+![ouji-sama-ga-ii-no](https://cdn.myanimelist.net/images/manga/1/18033.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 王子様がいいの!

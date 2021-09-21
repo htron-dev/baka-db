@@ -1,5 +1,7 @@
 # Oda Nobuna no Yabou
 
+![oda-nobuna-no-yabou](https://cdn.myanimelist.net/images/manga/3/80957.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 織田信奈の野望
 -   **start-date**: 2009-08-31

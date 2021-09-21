@@ -1,5 +1,7 @@
 # Oniichan to Yobanaide
 
+![oniichan-to-yobanaide](https://cdn.myanimelist.net/images/manga/3/213049.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おにいちゃんと呼ばないで

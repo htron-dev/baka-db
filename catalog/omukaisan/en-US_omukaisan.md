@@ -1,5 +1,7 @@
 # Omukaisan
 
+![omukaisan](https://cdn.myanimelist.net/images/anime/1711/107234.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お向かいさん

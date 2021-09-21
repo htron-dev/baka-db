@@ -1,5 +1,7 @@
 # One Piece: Kinkyuu Kikaku One Piece Kanzen Kouryakuhou
 
+![one-piece-kinkyuu-kikaku-one-piece-kanzen-kouryakuhou](https://cdn.myanimelist.net/images/anime/13/45414.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 緊急企画ワンピース完全攻略法

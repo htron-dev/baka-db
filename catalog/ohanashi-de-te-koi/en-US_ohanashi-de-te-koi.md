@@ -1,5 +1,7 @@
 # Ohanashi de Te Koi
 
+![ohanashi-de-te-koi](https://cdn.myanimelist.net/images/anime/10/84592.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: お話でてこい

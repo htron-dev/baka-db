@@ -1,5 +1,7 @@
 # Ozmafia!! Special
 
+![ozmafia-special](https://cdn.myanimelist.net/images/anime/3/80841.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オズマフィア 13

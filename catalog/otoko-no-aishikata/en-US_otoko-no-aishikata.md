@@ -1,5 +1,7 @@
 # Otoko no Aishikata
 
+![otoko-no-aishikata](https://cdn.myanimelist.net/images/manga/1/2491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

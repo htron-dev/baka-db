@@ -1,5 +1,7 @@
 # Oresama Toushou no Wakaokusama
 
+![oresama-toushou-no-wakaokusama](https://cdn.myanimelist.net/images/manga/3/192226.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

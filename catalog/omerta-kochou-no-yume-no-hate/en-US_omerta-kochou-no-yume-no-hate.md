@@ -1,5 +1,7 @@
 # Omerta: Kochou no Yume no Hate
 
+![omerta-kochou-no-yume-no-hate](https://cdn.myanimelist.net/images/manga/2/175161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

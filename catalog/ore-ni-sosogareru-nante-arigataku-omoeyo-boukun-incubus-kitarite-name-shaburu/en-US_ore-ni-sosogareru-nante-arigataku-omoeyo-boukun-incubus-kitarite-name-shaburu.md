@@ -1,5 +1,7 @@
 # Ore ni Sosogareru nante Arigataku Omoeyo?: Boukun Incubus Kitarite, Name Shaburu
 
+![ore-ni-sosogareru-nante-arigataku-omoeyo-boukun-incubus-kitarite-name-shaburu](https://cdn.myanimelist.net/images/manga/3/243836.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺に注がれるなんてありがたく思えよ?~暴君インキュバス来りて、舐めしゃぶる
 -   **start-date**: 2019-03-01

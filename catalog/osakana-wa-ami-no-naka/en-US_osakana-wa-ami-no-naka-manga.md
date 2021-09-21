@@ -1,5 +1,7 @@
 # Osakana wa Ami no Naka
 
+![osakana-wa-ami-no-naka](https://cdn.myanimelist.net/images/manga/3/22169.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

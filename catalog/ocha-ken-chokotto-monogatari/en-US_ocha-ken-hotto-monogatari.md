@@ -1,5 +1,7 @@
 # Ocha-ken: Hotto Monogatari
 
+![ocha-ken-hotto-monogatari](https://cdn.myanimelist.net/images/anime/6/82770.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: お茶犬〜「ほっ」とものがたり〜

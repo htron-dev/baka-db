@@ -1,5 +1,7 @@
 # Overlord Movie 3: Sei Oukoku-hen
 
+![overlord-movie-3-sei-oukoku-hen](https://cdn.myanimelist.net/images/anime/1291/115177.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: OVERLORD 聖王国編

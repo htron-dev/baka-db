@@ -1,5 +1,7 @@
 # Oute Keika Tori!
 
+![oute-keika-tori](https://cdn.myanimelist.net/images/manga/1/177275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 王手桂香取り!

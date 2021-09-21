@@ -1,5 +1,7 @@
 # Otome Sakura no Densetsu: Komine Shiro no Mononoke Jikenbo
 
+![otome-sakura-no-densetsu-komine-shiro-no-mononoke-jikenbo](https://cdn.myanimelist.net/images/manga/3/178443.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

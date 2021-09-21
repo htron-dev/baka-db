@@ -1,5 +1,7 @@
 # Oniichan to Love Night
 
+![oniichan-to-love-night](https://cdn.myanimelist.net/images/manga/2/35516.jpg)
+
 -   **type**: manga
 -   **original-name**: お兄ちゃんとラブ・ナイト
 -   **start-date**: 2010-01-20

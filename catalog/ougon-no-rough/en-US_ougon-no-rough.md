@@ -1,5 +1,7 @@
 # Ougon no Rough
 
+![ougon-no-rough](https://cdn.myanimelist.net/images/manga/1/123535.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **original-name**: 黄金のラフ～草太のスタンス～

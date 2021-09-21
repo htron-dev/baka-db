@@ -1,5 +1,7 @@
 # Overlord: Oukoku no Kan-tachi - Drama CD-tsuki Tokusou-ban
 
+![overlord-oukoku-no-kan-tachi-drama-cd-tsuki-tokusou-ban](https://cdn.myanimelist.net/images/anime/1441/92708.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: オーバーロード６ 王国の漢たち[下]【ドラマＣＤ付特装版】

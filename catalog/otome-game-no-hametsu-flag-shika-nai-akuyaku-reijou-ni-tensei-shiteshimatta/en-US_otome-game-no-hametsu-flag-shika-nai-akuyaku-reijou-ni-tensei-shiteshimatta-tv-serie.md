@@ -1,5 +1,7 @@
 # Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...
 
+![otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta](https://cdn.myanimelist.net/images/anime/1483/107061.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…

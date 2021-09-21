@@ -1,5 +1,7 @@
 # Ojarumaru: Wasureta Mori no Hinata
 
+![ojarumaru-wasureta-mori-no-hinata](https://cdn.myanimelist.net/images/anime/4/76342.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おじゃる丸 わすれた森のヒナタ

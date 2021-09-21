@@ -1,5 +1,7 @@
 # Omae ga Sekai wo Kowashitai nara
 
+![omae-ga-sekai-wo-kowashitai-nara](https://cdn.myanimelist.net/images/manga/1/165245.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

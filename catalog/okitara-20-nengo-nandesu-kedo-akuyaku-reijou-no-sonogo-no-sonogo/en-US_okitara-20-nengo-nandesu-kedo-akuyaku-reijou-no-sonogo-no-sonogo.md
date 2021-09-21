@@ -1,5 +1,7 @@
 # Okitara 20-nengo Nandesu kedo!: Akuyaku Reijou no Sonogo no Sonogo
 
+![okitara-20-nengo-nandesu-kedo-akuyaku-reijou-no-sonogo-no-sonogo](https://cdn.myanimelist.net/images/manga/1/221523.jpg)
+
 -   **type**: manga
 -   **original-name**: 起きたら 20 年後なんですけど！～悪役令嬢のその後のその後～
 -   **start-date**: 2019-06-28

@@ -1,5 +1,7 @@
 # Oita Kensei wa Wakagaeri, Soshite Kishi Yousei Gakkou no Kyoukan to Naru
 
+![oita-kensei-wa-wakagaeri-soshite-kishi-yousei-gakkou-no-kyoukan-to-naru](https://cdn.myanimelist.net/images/manga/1/197615.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 老いた剣聖は若返り、そして騎士養成学校の教官となる
 -   **start-date**: 2017-06-30

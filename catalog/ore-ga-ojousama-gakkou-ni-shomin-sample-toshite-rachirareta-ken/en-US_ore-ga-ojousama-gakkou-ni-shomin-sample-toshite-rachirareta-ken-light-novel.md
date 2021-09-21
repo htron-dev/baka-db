@@ -1,5 +1,7 @@
 # Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Rachirareta Ken
 
+![ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-rachirareta-ken](https://cdn.myanimelist.net/images/manga/3/91361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **original-name**: 俺がお嬢様学校に「庶民サンプル」として拉致られた件

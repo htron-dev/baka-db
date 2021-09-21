@@ -1,5 +1,7 @@
 # Ookiku Furikabutte: Natsu no Taikai-hen – Mokuhyou
 
+![ookiku-furikabutte-natsu-no-taikai-hen-mokuhyou](https://cdn.myanimelist.net/images/anime/3/25253.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おおきく振りかぶって 〜夏の大会編〜 第 12.5 話 目標

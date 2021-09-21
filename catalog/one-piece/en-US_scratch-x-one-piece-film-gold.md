@@ -1,5 +1,7 @@
 # Scratch x One Piece Film: Gold
 
+![scratch-x-one-piece-film-gold](https://cdn.myanimelist.net/images/anime/8/87541.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: SCRATCH × ONE PIECE FILM GOLD

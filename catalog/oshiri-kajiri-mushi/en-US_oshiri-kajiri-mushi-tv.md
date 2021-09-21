@@ -1,5 +1,7 @@
 # Oshiri Kajiri Mushi (TV)
 
+![oshiri-kajiri-mushi-tv](https://cdn.myanimelist.net/images/anime/7/43197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: おしりかじり虫

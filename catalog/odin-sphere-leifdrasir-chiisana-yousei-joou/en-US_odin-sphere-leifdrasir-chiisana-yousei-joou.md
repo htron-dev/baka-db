@@ -1,5 +1,7 @@
 # Odin Sphere Leifdrasir: Chiisana Yousei Joou
 
+![odin-sphere-leifdrasir-chiisana-yousei-joou](https://cdn.myanimelist.net/images/manga/3/186689.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

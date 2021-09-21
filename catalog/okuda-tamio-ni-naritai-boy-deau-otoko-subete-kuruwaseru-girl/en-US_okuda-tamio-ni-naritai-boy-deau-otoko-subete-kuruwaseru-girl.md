@@ -1,5 +1,7 @@
 # Okuda Tamio ni Naritai Boy, Deau Otoko Subete Kuruwaseru Girl
 
+![okuda-tamio-ni-naritai-boy-deau-otoko-subete-kuruwaseru-girl](https://cdn.myanimelist.net/images/manga/1/178765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奥田民生になりたいボーイ 出会う男すべて狂わせるガール

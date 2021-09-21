@@ -1,5 +1,7 @@
 # Oniku Daisuki! Zeushi-kun 2nd Season
 
+![oniku-daisuki-zeushi-kun-2nd-season](https://cdn.myanimelist.net/images/anime/4/68169.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: おにくだいすき！ ゼウシくん（2 期）

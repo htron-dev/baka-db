@@ -1,5 +1,7 @@
 # Ososugita Isekai Tensei: Jinrui wo Horoboshita Maou desu kedo Yokattara Uchi de Hatarakimasen ka?
 
+![ososugita-isekai-tensei-jinrui-wo-horoboshita-maou-desu-kedo-yokattara-uchi-de-hatarakimasen-ka](https://cdn.myanimelist.net/images/manga/1/234945.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 遅すぎた異世界転生 人類を滅ぼした魔王ですけどよかったらウチで働きませんか?
 -   **start-date**: 2018-06-14

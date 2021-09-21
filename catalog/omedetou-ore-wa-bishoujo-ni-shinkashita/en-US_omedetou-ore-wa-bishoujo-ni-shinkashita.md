@@ -1,5 +1,7 @@
 # Omedetou, Ore wa Bishoujo ni Shinkashita.
 
+![omedetou-ore-wa-bishoujo-ni-shinkashita](https://cdn.myanimelist.net/images/manga/3/189950.jpg)
+
 -   **type**: light-novel
 -   **original-name**: おめでとう、俺は美少女に進化した。
 -   **start-date**: 2017-02-10

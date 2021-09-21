@@ -1,5 +1,7 @@
 # Ouran Koukou Host Club
 
+![ouran-koukou-host-club](https://cdn.myanimelist.net/images/manga/1/33182.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 6

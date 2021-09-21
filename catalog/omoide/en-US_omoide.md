@@ -1,5 +1,7 @@
 # Omoide
 
+![omoide](https://cdn.myanimelist.net/images/manga/1/149845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

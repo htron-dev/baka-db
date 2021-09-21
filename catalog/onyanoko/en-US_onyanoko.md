@@ -1,5 +1,7 @@
 # Onyanoko
 
+![onyanoko](https://cdn.myanimelist.net/images/manga/3/205750.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

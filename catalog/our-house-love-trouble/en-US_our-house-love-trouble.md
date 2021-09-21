@@ -1,5 +1,7 @@
 # Our House Love Trouble
 
+![our-house-love-trouble](https://cdn.myanimelist.net/images/manga/1/220804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

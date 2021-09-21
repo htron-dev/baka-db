@@ -1,5 +1,7 @@
 # Otoko no Ko Comic Anthology: Hajirahi-hen
 
+![otoko-no-ko-comic-anthology-hajirahi-hen](https://cdn.myanimelist.net/images/manga/1/163940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

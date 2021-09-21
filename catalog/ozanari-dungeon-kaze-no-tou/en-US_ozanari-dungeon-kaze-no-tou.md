@@ -1,5 +1,7 @@
 # Ozanari Dungeon: Kaze no Tou
 
+![ozanari-dungeon-kaze-no-tou](https://cdn.myanimelist.net/images/anime/1495/97336.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: おざなりダンジョン 風の塔

@@ -1,5 +1,7 @@
 # Okaasan ni Amaete Ii desu yo?
 
+![okaasan-ni-amaete-ii-desu-yo](https://cdn.myanimelist.net/images/manga/3/203901.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 年下寮母〈おかーさん〉に甘えていいですよ？
 -   **start-date**: 2017-11-17

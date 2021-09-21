@@ -1,5 +1,7 @@
 # Orc Ou Densetsu
 
+![orc-ou-densetsu](https://cdn.myanimelist.net/images/manga/3/174783.jpg)
+
 -   **type**: light-novel
 -   **original-name**: オーク王伝説
 -   **start-date**: 2016-04-13

@@ -1,5 +1,7 @@
 # Omae no Gohoushi wa Sono Teido ka?
 
+![omae-no-gohoushi-wa-sono-teido-ka](https://cdn.myanimelist.net/images/manga/2/163473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: お前のご奉仕はその程度か?

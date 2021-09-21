@@ -1,5 +1,7 @@
 # Ore no Kanojo to Osananajimi ga Shuraba Sugiru
 
+![ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru](https://cdn.myanimelist.net/images/anime/13/44187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 俺の彼女と幼なじみが修羅場すぎる

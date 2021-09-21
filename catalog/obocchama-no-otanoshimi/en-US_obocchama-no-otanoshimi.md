@@ -1,5 +1,7 @@
 # Obocchama no Otanoshimi
 
+![obocchama-no-otanoshimi](https://cdn.myanimelist.net/images/manga/2/26777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

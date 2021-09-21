@@ -1,5 +1,7 @@
 # Overlord II
 
+![overlord-ii](https://cdn.myanimelist.net/images/anime/1212/113415.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: オーバーロード Ⅱ

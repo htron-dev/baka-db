@@ -1,5 +1,7 @@
 # Otoko no Isshou
 
+![otoko-no-isshou](https://cdn.myanimelist.net/images/manga/2/88369.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

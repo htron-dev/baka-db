@@ -1,5 +1,7 @@
 # Otogi Matsuri
 
+![otogi-matsuri](https://cdn.myanimelist.net/images/manga/1/4886.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 73

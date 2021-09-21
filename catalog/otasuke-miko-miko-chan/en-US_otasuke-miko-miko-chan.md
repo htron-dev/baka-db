@@ -1,5 +1,7 @@
 # Otasuke Miko Miko-chan
 
+![otasuke-miko-miko-chan](https://cdn.myanimelist.net/images/manga/3/118401.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

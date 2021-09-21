@@ -1,5 +1,7 @@
 # Vitamin Girl! Kanri Eiyoushi Mari-chan
 
+![vitamin-girl-kanri-eiyoushi-mari-chan](https://cdn.myanimelist.net/images/manga/1/236086.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

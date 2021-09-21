@@ -1,5 +1,7 @@
 # One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi
 
+![one-piece-movie-8-episode-of-alabasta-sabaku-no-oujo-to-kaizoku-tachi](https://cdn.myanimelist.net/images/anime/13/21760.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ワンピース エピソードオブアラバスタ 砂漠の王女と海賊たち

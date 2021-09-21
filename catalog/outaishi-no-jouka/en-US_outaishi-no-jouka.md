@@ -1,5 +1,7 @@
 # Outaishi no Jouka
 
+![outaishi-no-jouka](https://cdn.myanimelist.net/images/manga/1/172145.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

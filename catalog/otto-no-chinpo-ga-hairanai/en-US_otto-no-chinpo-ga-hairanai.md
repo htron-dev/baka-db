@@ -1,5 +1,7 @@
 # Otto no Chinpo ga Hairanai
 
+![otto-no-chinpo-ga-hairanai](https://cdn.myanimelist.net/images/manga/2/216660.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

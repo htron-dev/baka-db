@@ -1,5 +1,7 @@
 # Omoide Poroporo
 
+![omoide-poroporo](https://cdn.myanimelist.net/images/manga/3/149314.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

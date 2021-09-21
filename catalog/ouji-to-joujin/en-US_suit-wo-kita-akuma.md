@@ -1,5 +1,7 @@
 # Suit wo Kita Akuma
 
+![suit-wo-kita-akuma](https://cdn.myanimelist.net/images/manga/2/159400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ososugita Hatsukoi
 
+![ososugita-hatsukoi](https://cdn.myanimelist.net/images/manga/2/97115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 遅すぎた初恋

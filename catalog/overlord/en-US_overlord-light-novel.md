@@ -1,5 +1,7 @@
 # Overlord
 
+![overlord](https://cdn.myanimelist.net/images/manga/1/160558.jpg)
+
 -   **type**: light-novel
 -   **original-name**: オーバーロード
 -   **start-date**: 2012-07-30

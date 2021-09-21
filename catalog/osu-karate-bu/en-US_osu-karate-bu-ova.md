@@ -1,5 +1,7 @@
 # Osu!! Karate-bu
 
+![osu-karate-bu](https://cdn.myanimelist.net/images/anime/2/26856.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 押忍!!空手部

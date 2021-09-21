@@ -1,5 +1,7 @@
 # Otomari Honey
 
+![otomari-honey](https://cdn.myanimelist.net/images/manga/3/188957.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

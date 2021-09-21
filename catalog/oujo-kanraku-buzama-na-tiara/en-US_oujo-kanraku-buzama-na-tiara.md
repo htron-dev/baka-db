@@ -1,5 +1,7 @@
 # Oujo Kanraku: Buzama na Tiara
 
+![oujo-kanraku-buzama-na-tiara](https://cdn.myanimelist.net/images/manga/1/162263.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

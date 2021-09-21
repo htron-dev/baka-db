@@ -1,5 +1,7 @@
 # Okon Joururi
 
+![okon-joururi](https://cdn.myanimelist.net/images/anime/13/18190.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おこんじょうるり

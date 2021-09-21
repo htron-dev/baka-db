@@ -1,5 +1,7 @@
 # Offside
 
+![offside](https://cdn.myanimelist.net/images/anime/2/76142.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: オフサイド

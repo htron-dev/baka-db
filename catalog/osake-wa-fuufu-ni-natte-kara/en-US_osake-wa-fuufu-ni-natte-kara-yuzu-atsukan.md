@@ -1,5 +1,7 @@
 # Osake wa Fuufu ni Natte kara: Yuzu Atsukan
 
+![osake-wa-fuufu-ni-natte-kara-yuzu-atsukan](https://cdn.myanimelist.net/images/anime/1833/95350.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: お酒は夫婦になってから 14 杯め「ゆず熱燗」

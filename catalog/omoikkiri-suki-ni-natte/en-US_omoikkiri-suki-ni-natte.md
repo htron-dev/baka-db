@@ -1,5 +1,7 @@
 # Omoikkiri Suki ni Natte!
 
+![omoikkiri-suki-ni-natte](https://cdn.myanimelist.net/images/manga/1/214.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Omusubi Kororin
 
+![omusubi-kororin](https://cdn.myanimelist.net/images/anime/6/80259.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おむすびころりん

@@ -1,5 +1,7 @@
 # Ochikobore Kuni wo Deru: Jitsu wa Sekai de 4-ninme no Fuyo Jutsushi datta Ken ni Tsuite
 
+![ochikobore-kuni-wo-deru-jitsu-wa-sekai-de-4-ninme-no-fuyo-jutsushi-datta-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/246189.jpg)
+
 -   **type**: manga
 -   **original-name**: 落ちこぼれ国を出る ～実は世界で 4 人目の付与術師だった件について～
 -   **start-date**: 2020-08-28

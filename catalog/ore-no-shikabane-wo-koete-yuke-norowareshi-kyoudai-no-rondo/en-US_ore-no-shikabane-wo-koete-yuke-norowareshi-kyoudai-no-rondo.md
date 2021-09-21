@@ -1,5 +1,7 @@
 # Ore no Shikabane wo Koete Yuke: Norowareshi Kyoudai no Rondo
 
+![ore-no-shikabane-wo-koete-yuke-norowareshi-kyoudai-no-rondo](https://cdn.myanimelist.net/images/manga/3/161999.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

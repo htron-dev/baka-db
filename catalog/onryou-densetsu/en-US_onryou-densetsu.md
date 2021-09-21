@@ -1,5 +1,7 @@
 # Onryou Densetsu
 
+![onryou-densetsu](https://cdn.myanimelist.net/images/manga/2/47855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

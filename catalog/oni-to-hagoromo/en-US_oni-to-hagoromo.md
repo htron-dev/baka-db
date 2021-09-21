@@ -1,5 +1,7 @@
 # Oni to Hagoromo
 
+![oni-to-hagoromo](https://cdn.myanimelist.net/images/manga/2/204011.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 鬼と羽衣

@@ -1,5 +1,7 @@
 # Ojamajo Doremi 16
 
+![ojamajo-doremi-16](https://cdn.myanimelist.net/images/manga/2/137807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: おジャ魔女どれみ 16

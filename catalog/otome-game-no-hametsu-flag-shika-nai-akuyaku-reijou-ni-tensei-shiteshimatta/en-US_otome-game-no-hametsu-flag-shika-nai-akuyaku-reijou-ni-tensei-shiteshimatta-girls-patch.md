@@ -1,5 +1,7 @@
 # Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Girls Patch
 
+![otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-girls-patch](https://cdn.myanimelist.net/images/manga/3/237746.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… GIRLS PATCH
 -   **start-date**: 2020-06-26

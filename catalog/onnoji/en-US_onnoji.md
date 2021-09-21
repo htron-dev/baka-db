@@ -1,5 +1,7 @@
 # Onnoji
 
+![onnoji](https://cdn.myanimelist.net/images/manga/3/108711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オンノジ

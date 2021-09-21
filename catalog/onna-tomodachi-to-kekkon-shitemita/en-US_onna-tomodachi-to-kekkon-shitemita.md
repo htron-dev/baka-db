@@ -1,5 +1,7 @@
 # Onna Tomodachi to Kekkon Shitemita.
 
+![onna-tomodachi-to-kekkon-shitemita](https://cdn.myanimelist.net/images/manga/2/250277.jpg)
+
 -   **type**: manga
 -   **original-name**: 女ともだちと結婚してみた。
 -   **start-date**: 2020-11-18

@@ -1,5 +1,7 @@
 # Ookami Tantei to Nekomimi Joshu
 
+![ookami-tantei-to-nekomimi-joshu](https://cdn.myanimelist.net/images/manga/1/156959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 狼探偵とネコミミ助手

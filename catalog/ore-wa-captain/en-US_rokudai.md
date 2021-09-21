@@ -1,5 +1,7 @@
 # Rokudai
 
+![rokudai](https://cdn.myanimelist.net/images/manga/1/207785.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

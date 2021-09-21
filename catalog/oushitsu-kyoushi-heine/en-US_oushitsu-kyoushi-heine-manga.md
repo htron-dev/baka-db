@@ -1,5 +1,7 @@
 # Oushitsu Kyoushi Heine
 
+![oushitsu-kyoushi-heine](https://cdn.myanimelist.net/images/manga/3/130353.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 103

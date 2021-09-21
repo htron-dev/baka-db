@@ -1,5 +1,7 @@
 # Ohimesama Navigation
 
+![ohimesama-navigation](https://cdn.myanimelist.net/images/manga/1/36603.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

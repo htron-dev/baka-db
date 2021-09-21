@@ -1,5 +1,7 @@
 # Otoko ni Dakareru Tame ni Umaretekita
 
+![otoko-ni-dakareru-tame-ni-umaretekita](https://cdn.myanimelist.net/images/manga/1/227877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

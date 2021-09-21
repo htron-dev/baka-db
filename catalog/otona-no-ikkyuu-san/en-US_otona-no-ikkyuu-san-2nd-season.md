@@ -1,5 +1,7 @@
 # Otona no Ikkyuu-san 2nd Season
 
+![otona-no-ikkyuu-san-2nd-season](https://cdn.myanimelist.net/images/anime/11/87008.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: オトナの一休さん 第 2 シリーズ

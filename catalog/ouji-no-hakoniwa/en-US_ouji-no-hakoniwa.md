@@ -1,5 +1,7 @@
 # Ouji no Hakoniwa
 
+![ouji-no-hakoniwa](https://cdn.myanimelist.net/images/manga/1/190051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

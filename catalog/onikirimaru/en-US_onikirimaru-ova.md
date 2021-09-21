@@ -1,5 +1,7 @@
 # Onikirimaru
 
+![onikirimaru](https://cdn.myanimelist.net/images/anime/1487/111881.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 鬼切丸

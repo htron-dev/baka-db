@@ -1,5 +1,7 @@
 # Onborobachi
 
+![onborobachi](https://cdn.myanimelist.net/images/manga/3/203145.jpg)
+
 -   **type**: manga
 -   **original-name**: オンボロバチ
 -   **start-date**: 2017-08-09

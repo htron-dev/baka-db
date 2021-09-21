@@ -1,5 +1,7 @@
 # Onikiri Juuzo
 
+![onikiri-juuzo](https://cdn.myanimelist.net/images/manga/2/177364.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

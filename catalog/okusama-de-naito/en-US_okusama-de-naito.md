@@ -1,5 +1,7 @@
 # Okusama de Naito
 
+![okusama-de-naito](https://cdn.myanimelist.net/images/manga/2/35491.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 奥さま DE ナイト

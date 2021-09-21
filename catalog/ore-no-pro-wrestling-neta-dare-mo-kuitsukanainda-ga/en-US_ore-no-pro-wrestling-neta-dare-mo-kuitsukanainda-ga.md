@@ -1,5 +1,7 @@
 # Ore no Pro Wrestling Neta, Dare mo Kuitsukanainda ga.
 
+![ore-no-pro-wrestling-neta-dare-mo-kuitsukanainda-ga](https://cdn.myanimelist.net/images/manga/1/162236.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

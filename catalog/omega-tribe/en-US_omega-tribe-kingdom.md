@@ -1,5 +1,7 @@
 # Omega Tribe Kingdom
 
+![omega-tribe-kingdom](https://cdn.myanimelist.net/images/manga/4/75307.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: オメガトライブキングダム

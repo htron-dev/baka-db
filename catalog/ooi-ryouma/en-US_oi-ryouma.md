@@ -1,5 +1,7 @@
 # Oi! Ryouma
 
+![oi-ryouma](https://cdn.myanimelist.net/images/anime/11/71603.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: お〜い!竜馬

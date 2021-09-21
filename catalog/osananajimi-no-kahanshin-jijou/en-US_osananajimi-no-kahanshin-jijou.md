@@ -1,5 +1,7 @@
 # Osananajimi no Kahanshin Jijou
 
+![osananajimi-no-kahanshin-jijou](https://cdn.myanimelist.net/images/manga/3/235079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

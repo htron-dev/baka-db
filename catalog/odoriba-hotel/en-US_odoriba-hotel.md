@@ -1,5 +1,7 @@
 # Odoriba Hotel
 
+![odoriba-hotel](https://cdn.myanimelist.net/images/manga/1/57389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 踊り場ホテル

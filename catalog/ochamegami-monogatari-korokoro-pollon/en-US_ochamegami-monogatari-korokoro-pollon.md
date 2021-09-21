@@ -1,5 +1,7 @@
 # Ochamegami Monogatari: Korokoro Pollon
 
+![ochamegami-monogatari-korokoro-pollon](https://cdn.myanimelist.net/images/anime/2/60529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: おちゃめ神物語コロコロポロン

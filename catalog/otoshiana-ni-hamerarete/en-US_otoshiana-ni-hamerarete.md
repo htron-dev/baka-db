@@ -1,5 +1,7 @@
 # Otoshiana ni Hamerarete
 
+![otoshiana-ni-hamerarete](https://cdn.myanimelist.net/images/manga/2/186558.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 落とし穴にハメられて

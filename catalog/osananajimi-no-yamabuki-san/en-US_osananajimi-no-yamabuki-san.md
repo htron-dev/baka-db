@@ -1,5 +1,7 @@
 # Osananajimi no Yamabuki-san
 
+![osananajimi-no-yamabuki-san](https://cdn.myanimelist.net/images/manga/1/201678.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

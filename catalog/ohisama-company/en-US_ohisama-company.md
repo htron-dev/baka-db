@@ -1,5 +1,7 @@
 # Ohisama Company
 
+![ohisama-company](https://cdn.myanimelist.net/images/manga/3/14758.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: お日様カンパニー

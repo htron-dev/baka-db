@@ -1,5 +1,7 @@
 # Oh! My Konbu
 
+![oh-my-konbu](https://cdn.myanimelist.net/images/manga/2/130803.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: OH!MY コンブ

@@ -1,5 +1,7 @@
 # Ouji-sama ni wa Doku ga Aru.
 
+![ouji-sama-ni-wa-doku-ga-aru](https://cdn.myanimelist.net/images/manga/2/163932.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

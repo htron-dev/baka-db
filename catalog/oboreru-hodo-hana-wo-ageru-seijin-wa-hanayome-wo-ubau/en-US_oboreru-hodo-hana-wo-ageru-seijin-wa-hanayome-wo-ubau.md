@@ -1,5 +1,7 @@
 # Oboreru hodo Hana wo Ageru: Seijin wa Hanayome wo Ubau
 
+![oboreru-hodo-hana-wo-ageru-seijin-wa-hanayome-wo-ubau](https://cdn.myanimelist.net/images/manga/1/182729.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

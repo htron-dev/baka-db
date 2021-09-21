@@ -1,5 +1,7 @@
 # Otona no Tame no Love Doll
 
+![otona-no-tame-no-love-doll](https://cdn.myanimelist.net/images/manga/2/153396.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 大人のためのラブドール

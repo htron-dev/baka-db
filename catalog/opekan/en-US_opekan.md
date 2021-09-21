@@ -1,5 +1,7 @@
 # Opekan
 
+![opekan](https://cdn.myanimelist.net/images/manga/1/241848.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

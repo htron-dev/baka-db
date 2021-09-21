@@ -1,5 +1,7 @@
 # One Piece Log Book Omake
 
+![one-piece-log-book-omake](https://cdn.myanimelist.net/images/manga/2/20619.jpg)
+
 -   **type**: manga
 -   **chapters**: 14
 

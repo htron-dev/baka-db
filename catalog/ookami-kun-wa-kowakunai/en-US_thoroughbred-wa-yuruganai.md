@@ -1,5 +1,7 @@
 # Thoroughbred wa Yuruganai
 
+![thoroughbred-wa-yuruganai](https://cdn.myanimelist.net/images/manga/1/242491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

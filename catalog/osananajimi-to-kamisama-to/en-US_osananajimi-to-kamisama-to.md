@@ -1,5 +1,7 @@
 # Osananajimi to Kamisama to
 
+![osananajimi-to-kamisama-to](https://cdn.myanimelist.net/images/manga/3/241663.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

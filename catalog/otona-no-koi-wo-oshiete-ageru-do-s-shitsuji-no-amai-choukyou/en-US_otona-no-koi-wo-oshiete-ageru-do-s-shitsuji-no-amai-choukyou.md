@@ -1,5 +1,7 @@
 # Otona no Koi wo Oshiete Ageru: Do S Shitsuji no Amai Choukyou
 
+![otona-no-koi-wo-oshiete-ageru-do-s-shitsuji-no-amai-choukyou](https://cdn.myanimelist.net/images/manga/3/192651.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

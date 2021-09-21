@@ -1,5 +1,7 @@
 # Otome no Iroha!
 
+![otome-no-iroha](https://cdn.myanimelist.net/images/manga/1/16710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

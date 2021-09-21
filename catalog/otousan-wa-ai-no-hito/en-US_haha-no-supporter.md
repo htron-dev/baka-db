@@ -1,5 +1,7 @@
 # Haha no Supporter
 
+![haha-no-supporter](https://cdn.myanimelist.net/images/anime/5/87248.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 母のサポーター

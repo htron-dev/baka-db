@@ -1,5 +1,7 @@
 # Oreca Battle
 
+![oreca-battle](https://cdn.myanimelist.net/images/anime/1934/101823.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: オレカバトル

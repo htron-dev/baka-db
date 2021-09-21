@@ -1,5 +1,7 @@
 # Otomegokoro
 
+![otomegokoro](https://cdn.myanimelist.net/images/manga/3/12237.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Otakusou no Kusatte Yagaru Ojousama-tachi
 
+![otakusou-no-kusatte-yagaru-ojousama-tachi](https://cdn.myanimelist.net/images/manga/1/162737.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: オタク荘の腐ってやがるお嬢様たち

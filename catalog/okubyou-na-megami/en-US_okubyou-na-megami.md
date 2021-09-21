@@ -1,5 +1,7 @@
 # Okubyou na Megami
 
+![okubyou-na-megami](https://cdn.myanimelist.net/images/manga/3/124383.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 臆病な女神

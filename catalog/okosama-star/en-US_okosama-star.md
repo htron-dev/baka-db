@@ -1,5 +1,7 @@
 # Okosama Star
 
+![okosama-star](https://cdn.myanimelist.net/images/manga/2/168529.jpg)
+
 -   **type**: manga
 -   **original-name**: おこさまスター
 -   **start-date**: 2014-07-30

@@ -1,5 +1,7 @@
 # Ookiku Furikabutte: Kihon no Kihon
 
+![ookiku-furikabutte-kihon-no-kihon](https://cdn.myanimelist.net/images/anime/1588/108620.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おおきく振りかぶって 基本のキホン

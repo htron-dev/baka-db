@@ -1,5 +1,7 @@
 # Oniisan to Kozukuri★: Homodachi 100-nin Dekiru kana?
 
+![oniisan-to-kozukuri★-homodachi-100-nin-dekiru-kana](https://cdn.myanimelist.net/images/manga/2/143505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Omoni Naitemasu
 
+![omoni-naitemasu](https://cdn.myanimelist.net/images/manga/3/66395.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 124

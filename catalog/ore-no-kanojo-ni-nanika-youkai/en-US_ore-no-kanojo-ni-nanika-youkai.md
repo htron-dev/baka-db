@@ -1,5 +1,7 @@
 # Ore no Kanojo ni Nanika Youkai
 
+![ore-no-kanojo-ni-nanika-youkai](https://cdn.myanimelist.net/images/manga/1/146711.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 俺の彼女に何かようかい

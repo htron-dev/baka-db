@@ -1,5 +1,7 @@
 # Oku Hiroya Tanpenshuu
 
+![oku-hiroya-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/63495.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 奥浩哉短篇集 - 赤

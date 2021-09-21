@@ -1,5 +1,7 @@
 # Only One
 
+![only-one](https://cdn.myanimelist.net/images/manga/2/87413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

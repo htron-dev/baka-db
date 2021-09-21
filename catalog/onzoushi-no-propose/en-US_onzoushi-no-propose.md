@@ -1,5 +1,7 @@
 # Onzoushi no Propose
 
+![onzoushi-no-propose](https://cdn.myanimelist.net/images/manga/3/231965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 御曹子のプロポーズ

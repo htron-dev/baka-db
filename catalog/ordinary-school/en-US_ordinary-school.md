@@ -1,5 +1,7 @@
 # Ordinary School
 
+![ordinary-school](https://cdn.myanimelist.net/images/manga/1/152711.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 보통학교

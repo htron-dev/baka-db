@@ -1,5 +1,7 @@
 # Ojamanga Yamada-kun (Movie)
 
+![ojamanga-yamada-kun-movie](https://cdn.myanimelist.net/images/anime/3/44986.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おじゃまんが山田くん

@@ -1,5 +1,7 @@
 # Otona to Kodomo no Kyoukaisen
 
+![otona-to-kodomo-no-kyoukaisen](https://cdn.myanimelist.net/images/manga/1/1442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

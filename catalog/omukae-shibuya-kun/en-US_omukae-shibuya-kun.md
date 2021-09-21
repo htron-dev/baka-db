@@ -1,5 +1,7 @@
 # Omukae Shibuya-kun
 
+![omukae-shibuya-kun](https://cdn.myanimelist.net/images/manga/2/220929.jpg)
+
 -   **type**: manga
 -   **original-name**: お迎え渋谷くん
 -   **start-date**: 2018-03-28

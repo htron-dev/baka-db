@@ -1,5 +1,7 @@
 # Ousama Game: Shuukyoku
 
+![ousama-game-shuukyoku](https://cdn.myanimelist.net/images/manga/2/116349.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 王様ゲーム 終極

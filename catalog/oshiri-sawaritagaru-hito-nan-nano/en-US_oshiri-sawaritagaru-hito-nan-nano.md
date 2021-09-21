@@ -1,5 +1,7 @@
 # Oshiri Sawaritagaru Hito Nan nano
 
+![oshiri-sawaritagaru-hito-nan-nano](https://cdn.myanimelist.net/images/manga/3/157855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お尻触りたがる人なんなの

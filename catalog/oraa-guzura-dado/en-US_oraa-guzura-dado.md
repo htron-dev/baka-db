@@ -1,5 +1,7 @@
 # Oraa Guzura Dado
 
+![oraa-guzura-dado](https://cdn.myanimelist.net/images/anime/12/56771.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: おらぁグズラだど

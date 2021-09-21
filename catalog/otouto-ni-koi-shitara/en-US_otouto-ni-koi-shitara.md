@@ -1,5 +1,7 @@
 # Otouto ni Koi Shitara
 
+![otouto-ni-koi-shitara](https://cdn.myanimelist.net/images/manga/2/25482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

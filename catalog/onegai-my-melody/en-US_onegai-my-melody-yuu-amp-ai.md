@@ -1,5 +1,7 @@
 # Onegai My Melody: Yuu &amp; Ai
 
+![onegai-my-melody-yuu-amp-ai](https://cdn.myanimelist.net/images/anime/2/74348.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おねがいマイメロディ 友 & 愛

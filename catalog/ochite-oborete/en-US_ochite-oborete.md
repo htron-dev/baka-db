@@ -1,5 +1,7 @@
 # Ochite Oborete
 
+![ochite-oborete](https://cdn.myanimelist.net/images/manga/3/246875.jpg)
+
 -   **type**: manga
 -   **original-name**: 落ちて溺れて
 -   **start-date**: 2021-01-22

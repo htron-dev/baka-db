@@ -1,5 +1,7 @@
 # Ohimesama no Himitsu
 
+![ohimesama-no-himitsu](https://cdn.myanimelist.net/images/manga/1/178329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

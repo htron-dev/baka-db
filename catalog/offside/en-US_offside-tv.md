@@ -1,5 +1,7 @@
 # Offside (TV)
 
+![offside-tv](https://cdn.myanimelist.net/images/anime/3/10383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: オフサイド

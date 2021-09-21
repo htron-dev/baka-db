@@ -1,5 +1,7 @@
 # Ohanashi no Hana
 
+![ohanashi-no-hana](https://cdn.myanimelist.net/images/anime/1771/98874.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おはなしの花

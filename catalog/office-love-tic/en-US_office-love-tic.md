@@ -1,5 +1,7 @@
 # Office Love Tic
 
+![office-love-tic](https://cdn.myanimelist.net/images/manga/2/155602.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

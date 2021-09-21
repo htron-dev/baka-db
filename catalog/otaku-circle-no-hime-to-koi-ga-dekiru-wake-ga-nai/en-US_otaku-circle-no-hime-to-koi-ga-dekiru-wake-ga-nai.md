@@ -1,5 +1,7 @@
 # Otaku Circle no Hime to Koi ga Dekiru Wake ga Nai.
 
+![otaku-circle-no-hime-to-koi-ga-dekiru-wake-ga-nai](https://cdn.myanimelist.net/images/manga/2/177590.jpg)
+
 -   **type**: light-novel
 -   **original-name**: オタサーの姫と恋ができるわけがない。
 -   **start-date**: 2016-05-20

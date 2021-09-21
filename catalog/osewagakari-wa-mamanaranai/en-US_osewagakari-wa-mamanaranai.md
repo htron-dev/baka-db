@@ -1,5 +1,7 @@
 # Osewagakari wa Mamanaranai
 
+![osewagakari-wa-mamanaranai](https://cdn.myanimelist.net/images/manga/2/197021.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

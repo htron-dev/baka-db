@@ -1,5 +1,7 @@
 # Over Drive
 
+![over-drive](https://cdn.myanimelist.net/images/anime/3/89534.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: オーバードライヴ

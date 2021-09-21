@@ -1,5 +1,7 @@
 # Oshiete♡Namie-sensei!
 
+![oshiete♡-namie-sensei](https://cdn.myanimelist.net/images/anime/1340/93239.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: おしえて ♡ なみえ先生！

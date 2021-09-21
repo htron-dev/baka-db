@@ -1,5 +1,7 @@
 # Otto no Jijou Tsuma no Himitsu
 
+![otto-no-jijou-tsuma-no-himitsu](https://cdn.myanimelist.net/images/manga/1/246203.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

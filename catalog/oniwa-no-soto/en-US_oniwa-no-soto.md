@@ -1,5 +1,7 @@
 # Oniwa no Soto
 
+![oniwa-no-soto](https://cdn.myanimelist.net/images/anime/1663/95536.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: お庭の外

@@ -1,5 +1,7 @@
 # Osomatsu-san
 
+![osomatsu-san](https://cdn.myanimelist.net/images/manga/1/178176.jpg)
+
 -   **type**: manga
 -   **original-name**: おそ松さん
 -   **start-date**: 2016-01-15

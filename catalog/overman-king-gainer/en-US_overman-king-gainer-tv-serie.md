@@ -1,5 +1,7 @@
 # Overman King Gainer
 
+![overman-king-gainer](https://cdn.myanimelist.net/images/anime/5/44135.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: オーバーマン キングゲイナー

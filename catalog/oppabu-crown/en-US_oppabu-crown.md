@@ -1,5 +1,7 @@
 # Oppabu Crown
 
+![oppabu-crown](https://cdn.myanimelist.net/images/manga/1/90617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ore no Itoshi no NEET-kun
 
+![ore-no-itoshi-no-neet-kun](https://cdn.myanimelist.net/images/manga/3/220829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

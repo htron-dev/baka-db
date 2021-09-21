@@ -1,5 +1,7 @@
 # Omoibito
 
+![omoibito](https://cdn.myanimelist.net/images/manga/1/213046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

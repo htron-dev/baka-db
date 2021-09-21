@@ -1,5 +1,7 @@
 # Oretachi no Commu Ryoku ga Mohaya Gakuen Inou Battle
 
+![oretachi-no-commu-ryoku-ga-mohaya-gakuen-inou-battle](https://cdn.myanimelist.net/images/manga/1/160897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

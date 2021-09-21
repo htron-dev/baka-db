@@ -1,5 +1,7 @@
 # Oita Shichatta
 
+![oita-shichatta](https://cdn.myanimelist.net/images/manga/1/67345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ore shika Shiranai Karada
 
+![ore-shika-shiranai-karada](https://cdn.myanimelist.net/images/manga/1/238113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

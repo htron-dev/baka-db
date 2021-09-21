@@ -1,5 +1,7 @@
 # Otaku no Musume-san
 
+![otaku-no-musume-san](https://cdn.myanimelist.net/images/manga/3/50389.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 63

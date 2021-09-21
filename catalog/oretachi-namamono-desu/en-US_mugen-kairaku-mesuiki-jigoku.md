@@ -1,5 +1,7 @@
 # Mugen Kairaku Mesuiki Jigoku
 
+![mugen-kairaku-mesuiki-jigoku](https://cdn.myanimelist.net/images/manga/3/236181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無限快楽メスイキ地獄

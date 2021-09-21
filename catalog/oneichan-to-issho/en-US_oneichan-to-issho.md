@@ -1,5 +1,7 @@
 # Oneichan to Issho
 
+![oneichan-to-issho](https://cdn.myanimelist.net/images/manga/3/14197.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: おねいちゃんといっしょ

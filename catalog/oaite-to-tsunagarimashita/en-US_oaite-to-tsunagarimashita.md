@@ -1,5 +1,7 @@
 # Oaite to Tsunagarimashita
 
+![oaite-to-tsunagarimashita](https://cdn.myanimelist.net/images/manga/1/197489.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: お相手とつながりました

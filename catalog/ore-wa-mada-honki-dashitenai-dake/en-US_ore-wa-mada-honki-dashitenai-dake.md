@@ -1,5 +1,7 @@
 # Ore wa Mada Honki Dashitenai dake
 
+![ore-wa-mada-honki-dashitenai-dake](https://cdn.myanimelist.net/images/manga/2/150683.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

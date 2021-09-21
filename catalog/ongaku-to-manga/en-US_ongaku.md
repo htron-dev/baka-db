@@ -1,5 +1,7 @@
 # Ongaku
 
+![ongaku](https://cdn.myanimelist.net/images/anime/1822/112652.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 音楽

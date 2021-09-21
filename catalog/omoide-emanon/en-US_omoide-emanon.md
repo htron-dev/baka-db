@@ -1,5 +1,7 @@
 # Omoide Emanon
 
+![omoide-emanon](https://cdn.myanimelist.net/images/manga/2/56581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

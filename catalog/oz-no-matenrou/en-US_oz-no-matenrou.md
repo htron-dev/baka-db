@@ -1,5 +1,7 @@
 # Oz no Matenrou
 
+![oz-no-matenrou](https://cdn.myanimelist.net/images/manga/2/1556.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

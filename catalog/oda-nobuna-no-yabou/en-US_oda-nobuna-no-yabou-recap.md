@@ -1,5 +1,7 @@
 # Oda Nobuna no Yabou Recap
 
+![oda-nobuna-no-yabou-recap](https://cdn.myanimelist.net/images/anime/11/49101.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 織田信奈の野望 総集編

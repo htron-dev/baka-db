@@ -1,5 +1,7 @@
 # Otomiko! Boku wa Otoko no Miko Musume
 
+![otomiko-boku-wa-otoko-no-miko-musume](https://cdn.myanimelist.net/images/manga/3/168626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

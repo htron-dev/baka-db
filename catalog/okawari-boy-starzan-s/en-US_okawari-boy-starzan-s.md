@@ -1,5 +1,7 @@
 # Okawari-Boy Starzan-S
 
+![okawari-boy-starzan-s](https://cdn.myanimelist.net/images/anime/11/86055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: OKAWARI-BOY スターザン S

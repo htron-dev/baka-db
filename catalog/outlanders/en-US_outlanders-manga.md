@@ -1,5 +1,7 @@
 # Outlanders
 
+![outlanders](https://cdn.myanimelist.net/images/manga/2/243276.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Oniichan dakedo Ai sae Areba Kankeinai yo ne!
 
+![oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne](https://cdn.myanimelist.net/images/anime/6/42111.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: お兄ちゃんだけど愛さえあれば関係ないよねっ

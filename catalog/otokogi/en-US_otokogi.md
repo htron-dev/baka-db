@@ -1,5 +1,7 @@
 # Otokogi
 
+![otokogi](https://cdn.myanimelist.net/images/manga/2/129909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Obake no Q-tarou
 
+![obake-no-q-tarou](https://cdn.myanimelist.net/images/manga/3/40542.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 90

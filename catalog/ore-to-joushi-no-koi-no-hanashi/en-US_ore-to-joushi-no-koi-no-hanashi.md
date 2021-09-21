@@ -1,5 +1,7 @@
 # Ore to Joushi no Koi no Hanashi
 
+![ore-to-joushi-no-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/1/88123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Osananajimi no Jidou Hanbaiki ni Proposal shita Keii ni Tsuite.
 
+![osananajimi-no-jidou-hanbaiki-ni-proposal-shita-keii-ni-tsuite](https://cdn.myanimelist.net/images/manga/1/180407.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

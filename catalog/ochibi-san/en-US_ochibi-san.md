@@ -1,5 +1,7 @@
 # Ochibi-san
 
+![ochibi-san](https://cdn.myanimelist.net/images/manga/2/118155.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: オチビサン

@@ -1,5 +1,7 @@
 # Ochikobore Fruit Tart
 
+![ochikobore-fruit-tart](https://cdn.myanimelist.net/images/manga/2/195381.jpg)
+
 -   **type**: manga
 -   **original-name**: おちこぼれフルーツタルト
 -   **start-date**: 2014-11-28

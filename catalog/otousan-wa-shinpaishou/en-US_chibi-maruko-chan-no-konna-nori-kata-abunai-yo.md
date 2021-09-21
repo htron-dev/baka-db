@@ -1,5 +1,7 @@
 # Chibi Maruko-chan no Konna Nori Kata Abunai yo
 
+![chibi-maruko-chan-no-konna-nori-kata-abunai-yo](https://cdn.myanimelist.net/images/anime/1517/99355.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちびまる子ちゃんのこんな乗りかたあぶないよ

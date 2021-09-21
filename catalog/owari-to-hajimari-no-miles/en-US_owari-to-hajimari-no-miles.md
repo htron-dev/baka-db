@@ -1,5 +1,7 @@
 # Owari to Hajimari no Miles
 
+![owari-to-hajimari-no-miles](https://cdn.myanimelist.net/images/manga/3/167950.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: 終わりと始まりのマイルス

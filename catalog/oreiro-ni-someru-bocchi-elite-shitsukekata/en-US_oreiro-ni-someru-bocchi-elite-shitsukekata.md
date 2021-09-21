@@ -1,5 +1,7 @@
 # Oreiro ni Someru Bocchi Elite Shitsukekata
 
+![oreiro-ni-someru-bocchi-elite-shitsukekata](https://cdn.myanimelist.net/images/manga/3/189690.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

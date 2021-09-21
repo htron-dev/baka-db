@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials](https://cdn.myanimelist.net/images/anime/8/29734.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 俺の妹がこんなに可愛いわけがない。

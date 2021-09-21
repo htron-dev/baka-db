@@ -1,5 +1,7 @@
 # Oshiruko
 
+![oshiruko](https://cdn.myanimelist.net/images/anime/12/12471.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おしるこ

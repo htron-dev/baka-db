@@ -1,5 +1,7 @@
 # Oogata Shinjin no Kyouikugakari: Shinya Zangyouchuu
 
+![oogata-shinjin-no-kyouikugakari-shinya-zangyouchuu](https://cdn.myanimelist.net/images/manga/3/231802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

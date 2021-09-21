@@ -1,5 +1,7 @@
 # Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken
 
+![ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-gets♥-sareta-ken](https://cdn.myanimelist.net/images/anime/9/76542.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 俺がお嬢様学校に『庶民サンプル』としてゲッツされた件

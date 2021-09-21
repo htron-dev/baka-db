@@ -1,5 +1,7 @@
 # Otonari wa 1-ken de 2-do Oishii
 
+![otonari-wa-1-ken-de-2-do-oishii](https://cdn.myanimelist.net/images/manga/1/162811.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

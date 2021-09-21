@@ -1,5 +1,7 @@
 # Oi!! Obasan
 
+![oi-obasan](https://cdn.myanimelist.net/images/manga/2/153880.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 48

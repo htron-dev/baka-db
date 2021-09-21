@@ -1,5 +1,7 @@
 # Ossan (36) ga Idol ni Naru Hanashi
 
+![ossan-36-ga-idol-ni-naru-hanashi](https://cdn.myanimelist.net/images/manga/2/222810.jpg)
+
 -   **type**: manga
 -   **original-name**: オッサン(36)がアイドルになる話
 -   **start-date**: 2018-07-13

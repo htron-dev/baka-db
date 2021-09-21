@@ -1,5 +1,7 @@
 # Uchuu Eiyuu Monogatari
 
+![uchuu-eiyuu-monogatari](https://cdn.myanimelist.net/images/manga/3/91951.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 宇宙英雄物語

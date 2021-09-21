@@ -1,5 +1,7 @@
 # Omoni Otto.
 
+![omoni-otto](https://cdn.myanimelist.net/images/manga/3/221482.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: おもにおっと。

@@ -1,5 +1,7 @@
 # Oh! Toumei Ningen
 
+![oh-toumei-ningen](https://cdn.myanimelist.net/images/manga/3/236084.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 64

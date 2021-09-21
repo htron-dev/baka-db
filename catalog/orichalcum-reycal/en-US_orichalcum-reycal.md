@@ -1,5 +1,7 @@
 # Orichalcum Reycal
 
+![orichalcum-reycal](https://cdn.myanimelist.net/images/manga/1/19260.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

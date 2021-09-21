@@ -1,5 +1,7 @@
 # Ousama no iinari
 
+![ousama-no-iinari](https://cdn.myanimelist.net/images/manga/1/16366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

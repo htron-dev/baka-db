@@ -1,5 +1,7 @@
 # Osomatsu-kun: Iyami wa Hitori Kaze no Naka
 
+![osomatsu-kun-iyami-wa-hitori-kaze-no-naka](https://cdn.myanimelist.net/images/anime/5/77148.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おそ松くん イヤミはひとり風の中

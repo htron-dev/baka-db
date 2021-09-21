@@ -1,5 +1,7 @@
 # Odoroki Ban
 
+![odoroki-ban](https://cdn.myanimelist.net/images/anime/11/71339.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 驚き盤

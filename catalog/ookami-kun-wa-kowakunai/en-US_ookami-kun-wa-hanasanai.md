@@ -1,5 +1,7 @@
 # Ookami-kun wa Hanasanai
 
+![ookami-kun-wa-hanasanai](https://cdn.myanimelist.net/images/manga/1/242490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

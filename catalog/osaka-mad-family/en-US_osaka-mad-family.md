@@ -1,5 +1,7 @@
 # Osaka Mad Family
 
+![osaka-mad-family](https://cdn.myanimelist.net/images/manga/2/217104.jpg)
+
 -   **type**: manga
 -   **original-name**: 大阪 MAD ファミリー
 -   **start-date**: 2018-10-02

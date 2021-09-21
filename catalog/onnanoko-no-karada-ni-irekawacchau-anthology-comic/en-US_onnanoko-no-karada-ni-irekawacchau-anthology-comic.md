@@ -1,5 +1,7 @@
 # Onnanoko no Karada ni Irekawacchau: Anthology Comic
 
+![onnanoko-no-karada-ni-irekawacchau-anthology-comic](https://cdn.myanimelist.net/images/manga/2/243957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

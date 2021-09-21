@@ -1,5 +1,7 @@
 # Osananajimi wa Onnanoko ni Naare
 
+![osananajimi-wa-onnanoko-ni-naare](https://cdn.myanimelist.net/images/manga/2/140713.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

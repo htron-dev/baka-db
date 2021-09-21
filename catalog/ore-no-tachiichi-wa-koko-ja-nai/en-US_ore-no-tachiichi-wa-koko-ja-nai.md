@@ -1,5 +1,7 @@
 # Ore no Tachiichi wa Koko ja Nai!
 
+![ore-no-tachiichi-wa-koko-ja-nai](https://cdn.myanimelist.net/images/manga/1/203502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 俺の立ち位置はココじゃない！

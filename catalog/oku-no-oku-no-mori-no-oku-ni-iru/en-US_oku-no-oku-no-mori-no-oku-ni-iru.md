@@ -1,5 +1,7 @@
 # Oku no Oku no Mori no Oku ni, Iru
 
+![oku-no-oku-no-mori-no-oku-ni-iru](https://cdn.myanimelist.net/images/manga/1/171740.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

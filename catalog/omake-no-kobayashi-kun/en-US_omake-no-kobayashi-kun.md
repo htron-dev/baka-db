@@ -1,5 +1,7 @@
 # Omake no Kobayashi-kun
 
+![omake-no-kobayashi-kun](https://cdn.myanimelist.net/images/manga/3/34793.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 90

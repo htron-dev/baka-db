@@ -1,5 +1,7 @@
 # Ore no Oshi ga Sekaiichi Kagayaiteiru: 2.5-jigen Butai Okkake Danshi no Katsudou Kiroku
 
+![ore-no-oshi-ga-sekaiichi-kagayaiteiru-2-5-jigen-butai-okkake-danshi-no-katsudou-kiroku](https://cdn.myanimelist.net/images/manga/3/205471.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

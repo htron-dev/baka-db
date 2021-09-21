@@ -1,5 +1,7 @@
 # Oukyuu Ikan to Wakaokusama: Otto no Midara na Seikyouiku
 
+![oukyuu-ikan-to-wakaokusama-otto-no-midara-na-seikyouiku](https://cdn.myanimelist.net/images/manga/2/183379.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

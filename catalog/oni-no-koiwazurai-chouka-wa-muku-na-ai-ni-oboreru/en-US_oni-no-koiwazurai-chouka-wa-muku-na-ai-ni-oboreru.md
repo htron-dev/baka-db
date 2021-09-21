@@ -1,5 +1,7 @@
 # Oni no Koiwazurai: Chouka wa Muku na Ai ni Oboreru
 
+![oni-no-koiwazurai-chouka-wa-muku-na-ai-ni-oboreru](https://cdn.myanimelist.net/images/manga/2/194057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

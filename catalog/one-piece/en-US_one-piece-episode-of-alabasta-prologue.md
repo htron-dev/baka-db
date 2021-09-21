@@ -1,5 +1,7 @@
 # One Piece: Episode of Alabasta - Prologue
 
+![one-piece-episode-of-alabasta-prologue](https://cdn.myanimelist.net/images/anime/12/69239.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 劇場版ワンピース エピソードオブアラバスタ

@@ -1,5 +1,7 @@
 # Orenchi ni Kita Onna Kishi to Inakagurashi suru Koto ni Natta Ken
 
+![orenchi-ni-kita-onna-kishi-to-inakagurashi-suru-koto-ni-natta-ken](https://cdn.myanimelist.net/images/manga/2/198453.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺んちに来た女騎士と田舎暮らしすることになった件
 -   **start-date**: 2017-08-05

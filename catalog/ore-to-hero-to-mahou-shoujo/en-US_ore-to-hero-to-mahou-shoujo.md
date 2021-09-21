@@ -1,5 +1,7 @@
 # Ore to Hero to Mahou Shoujo
 
+![ore-to-hero-to-mahou-shoujo](https://cdn.myanimelist.net/images/manga/1/215051.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 46

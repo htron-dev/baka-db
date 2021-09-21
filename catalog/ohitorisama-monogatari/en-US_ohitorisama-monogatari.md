@@ -1,5 +1,7 @@
 # Ohitorisama Monogatari
 
+![ohitorisama-monogatari](https://cdn.myanimelist.net/images/manga/3/18949.jpg)
+
 -   **type**: manga
 -   **original-name**: おひとり様物語
 -   **start-date**: 2006-11-08

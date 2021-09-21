@@ -1,5 +1,7 @@
 # Ore to Kanojo no Pandora Box
 
+![ore-to-kanojo-no-pandora-box](https://cdn.myanimelist.net/images/manga/2/163599.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

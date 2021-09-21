@@ -1,5 +1,7 @@
 # Onzoushi-sama ga Yattekita!
 
+![onzoushi-sama-ga-yattekita](https://cdn.myanimelist.net/images/manga/3/197467.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 御曹司様がやって来た！

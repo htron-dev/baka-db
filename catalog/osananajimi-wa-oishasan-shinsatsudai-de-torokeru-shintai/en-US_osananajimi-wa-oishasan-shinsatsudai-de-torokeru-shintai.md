@@ -1,5 +1,7 @@
 # Osananajimi wa Oishasan: Shinsatsudai de Torokeru Shintai
 
+![osananajimi-wa-oishasan-shinsatsudai-de-torokeru-shintai](https://cdn.myanimelist.net/images/manga/3/195698.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

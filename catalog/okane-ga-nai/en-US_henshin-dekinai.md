@@ -1,5 +1,7 @@
 # Henshin Dekinai
 
+![henshin-dekinai](https://cdn.myanimelist.net/images/manga/1/145341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

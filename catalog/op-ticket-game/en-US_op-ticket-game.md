@@ -1,5 +1,7 @@
 # OP-Ticket Game
 
+![op-ticket-game](https://cdn.myanimelist.net/images/manga/3/160883.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: OP-TICKET GAME

@@ -1,5 +1,7 @@
 # One Piece: Koby-ni no Kobiyama - Uri Futatsunagi no Daihihou
 
+![one-piece-koby-ni-no-kobiyama-uri-futatsunagi-no-daihihou](https://cdn.myanimelist.net/images/manga/1/222839.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

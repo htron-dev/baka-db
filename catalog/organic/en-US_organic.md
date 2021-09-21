@@ -1,5 +1,7 @@
 # Organic
 
+![organic](https://cdn.myanimelist.net/images/anime/2/38001.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: オーガニック

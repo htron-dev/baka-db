@@ -1,5 +1,7 @@
 # Ookami-san to Shichinin no Nakama-tachi
 
+![ookami-san-to-shichinin-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/9/75240.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: オオカミさんと七人の仲間たち

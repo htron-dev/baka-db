@@ -1,5 +1,7 @@
 # Ousama no Bed
 
+![ousama-no-bed](https://cdn.myanimelist.net/images/manga/1/84831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

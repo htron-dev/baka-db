@@ -1,5 +1,7 @@
 # Oukoku no Kagi
 
+![oukoku-no-kagi](https://cdn.myanimelist.net/images/manga/5/32700.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

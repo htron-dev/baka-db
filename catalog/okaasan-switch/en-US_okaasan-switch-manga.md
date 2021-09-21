@@ -1,5 +1,7 @@
 # Okaasan Switch
 
+![okaasan-switch](https://cdn.myanimelist.net/images/manga/3/246468.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Oda Cinnamon Nobunaga
 
+![oda-cinnamon-nobunaga](https://cdn.myanimelist.net/images/manga/2/221299.jpg)
+
 -   **type**: manga
 -   **original-name**: 織田シナモン信長
 -   **start-date**: 2014-04-25

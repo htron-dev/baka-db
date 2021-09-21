@@ -1,5 +1,7 @@
 # Ore no Gikei ga UFO Yobou to Shiteru n desu kedo
 
+![ore-no-gikei-ga-ufo-yobou-to-shiteru-n-desu-kedo](https://cdn.myanimelist.net/images/manga/3/204658.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

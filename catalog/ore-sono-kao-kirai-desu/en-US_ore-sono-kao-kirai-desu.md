@@ -1,5 +1,7 @@
 # Ore, Sono Kao Kirai desu
 
+![ore-sono-kao-kirai-desu](https://cdn.myanimelist.net/images/manga/2/238135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

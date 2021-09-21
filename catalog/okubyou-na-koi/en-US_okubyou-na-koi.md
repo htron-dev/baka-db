@@ -1,5 +1,7 @@
 # Okubyou na Koi
 
+![okubyou-na-koi](https://cdn.myanimelist.net/images/manga/4/182996.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 臆病な恋

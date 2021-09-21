@@ -1,5 +1,7 @@
 # Ouji-sama wa Gaman Dekinai: Sweet Sugar Romance
 
+![ouji-sama-wa-gaman-dekinai-sweet-sugar-romance](https://cdn.myanimelist.net/images/manga/2/192059.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

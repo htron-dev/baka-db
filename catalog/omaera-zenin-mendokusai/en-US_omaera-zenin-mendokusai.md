@@ -1,5 +1,7 @@
 # Omaera Zenin Mendokusai!
 
+![omaera-zenin-mendokusai](https://cdn.myanimelist.net/images/manga/2/132965.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 56

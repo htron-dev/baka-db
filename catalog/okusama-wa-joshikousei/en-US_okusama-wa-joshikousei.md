@@ -1,5 +1,7 @@
 # Okusama wa Joshikousei
 
+![okusama-wa-joshikousei](https://cdn.myanimelist.net/images/manga/3/178067.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 160

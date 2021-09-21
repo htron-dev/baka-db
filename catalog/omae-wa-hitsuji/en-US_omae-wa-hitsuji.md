@@ -1,5 +1,7 @@
 # Omae wa Hitsuji.
 
+![omae-wa-hitsuji](https://cdn.myanimelist.net/images/manga/2/160517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

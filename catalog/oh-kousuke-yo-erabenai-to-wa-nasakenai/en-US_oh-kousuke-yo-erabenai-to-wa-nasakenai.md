@@ -1,5 +1,7 @@
 # Oh Kousuke yo, Erabenai to wa Nasakenai!
 
+![oh-kousuke-yo-erabenai-to-wa-nasakenai](https://cdn.myanimelist.net/images/manga/3/162491.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ore no Ushiro ni Tatsuna!!
 
+![ore-no-ushiro-ni-tatsuna](https://cdn.myanimelist.net/images/manga/2/103891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

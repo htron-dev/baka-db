@@ -1,5 +1,7 @@
 # Oriental Romance: Kishi wa Hanayome no Ubau
 
+![oriental-romance-kishi-wa-hanayome-no-ubau](https://cdn.myanimelist.net/images/manga/2/181780.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

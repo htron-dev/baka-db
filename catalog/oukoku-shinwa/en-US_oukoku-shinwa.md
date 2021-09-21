@@ -1,5 +1,7 @@
 # Oukoku Shinwa
 
+![oukoku-shinwa](https://cdn.myanimelist.net/images/manga/1/162733.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

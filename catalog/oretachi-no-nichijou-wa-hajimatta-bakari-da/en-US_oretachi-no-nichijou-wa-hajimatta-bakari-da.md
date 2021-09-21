@@ -1,5 +1,7 @@
 # Oretachi no Nichijou wa Hajimatta Bakari da
 
+![oretachi-no-nichijou-wa-hajimatta-bakari-da](https://cdn.myanimelist.net/images/manga/3/241423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

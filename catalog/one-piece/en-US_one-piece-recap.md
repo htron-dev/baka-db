@@ -1,5 +1,7 @@
 # One Piece Recap
 
+![one-piece-recap](https://cdn.myanimelist.net/images/anime/9/20706.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワンピース

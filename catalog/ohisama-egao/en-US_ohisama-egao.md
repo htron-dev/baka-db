@@ -1,5 +1,7 @@
 # Ohisama Egao
 
+![ohisama-egao](https://cdn.myanimelist.net/images/manga/2/22820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ochikobore Majo to Koi wo Shiranai Tensai Majutsushi
 
+![ochikobore-majo-to-koi-wo-shiranai-tensai-majutsushi](https://cdn.myanimelist.net/images/manga/1/248607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

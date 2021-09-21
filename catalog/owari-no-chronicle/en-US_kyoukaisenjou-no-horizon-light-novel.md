@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon
 
+![kyoukaisenjou-no-horizon](https://cdn.myanimelist.net/images/manga/3/216457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 29
 -   **chapters**: 872

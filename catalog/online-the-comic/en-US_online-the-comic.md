@@ -1,5 +1,7 @@
 # Online: The Comic
 
+![online-the-comic](https://cdn.myanimelist.net/images/manga/3/136597.jpg)
+
 -   **type**: manga
 -   **original-name**: オンライン The Comic
 -   **start-date**: 2013-08-23

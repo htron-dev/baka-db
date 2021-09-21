@@ -1,5 +1,7 @@
 # Onozomi no Mama ni
 
+![onozomi-no-mama-ni](https://cdn.myanimelist.net/images/manga/3/27670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

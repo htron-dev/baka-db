@@ -1,5 +1,7 @@
 # Organic Sons
 
+![organic-sons](https://cdn.myanimelist.net/images/manga/2/158539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オーガニック・サンズ

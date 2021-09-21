@@ -1,5 +1,7 @@
 # Orange
 
+![orange](https://cdn.myanimelist.net/images/manga/3/179402.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

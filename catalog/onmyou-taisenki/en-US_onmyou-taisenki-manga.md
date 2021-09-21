@@ -1,5 +1,7 @@
 # Onmyou Taisenki
 
+![onmyou-taisenki](https://cdn.myanimelist.net/images/manga/5/946.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

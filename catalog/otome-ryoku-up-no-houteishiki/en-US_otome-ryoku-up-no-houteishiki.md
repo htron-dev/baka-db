@@ -1,5 +1,7 @@
 # Otome-ryoku up no Houteishiki
 
+![otome-ryoku-up-no-houteishiki](https://cdn.myanimelist.net/images/manga/5/152649.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: 乙女力 UP の方程式

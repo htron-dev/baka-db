@@ -1,5 +1,7 @@
 # Ore to Joushi no Kakushigoto
 
+![ore-to-joushi-no-kakushigoto](https://cdn.myanimelist.net/images/manga/1/185011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

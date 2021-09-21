@@ -1,5 +1,7 @@
 # Ore, Twintail ni Narimasu.
 
+![ore-twintail-ni-narimasu](https://cdn.myanimelist.net/images/anime/11/75057.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 俺、ツインテールになります。

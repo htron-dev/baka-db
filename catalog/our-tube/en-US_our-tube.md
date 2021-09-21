@@ -1,5 +1,7 @@
 # OurTube
 
+![our-tube](https://cdn.myanimelist.net/images/manga/2/151731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あわーちゅーぶ

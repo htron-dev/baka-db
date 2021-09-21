@@ -1,5 +1,7 @@
 # Orchid Valley Sanshimai Monogatari
 
+![orchid-valley-sanshimai-monogatari](https://cdn.myanimelist.net/images/manga/5/67585.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: オーチャード・ヴァレー三姉妹物語

@@ -1,5 +1,7 @@
 # Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama shiteiru
 
+![ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru](https://cdn.myanimelist.net/images/manga/3/158066.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: 俺の脳内選択肢が、学園ラブコメを全力で邪魔している

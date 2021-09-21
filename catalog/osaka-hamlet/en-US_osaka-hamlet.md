@@ -1,5 +1,7 @@
 # Osaka Hamlet
 
+![osaka-hamlet](https://cdn.myanimelist.net/images/manga/1/185485.jpg)
+
 -   **type**: manga
 -   **original-name**: 大阪ハムレット
 -   **start-date**: 2005-05-02

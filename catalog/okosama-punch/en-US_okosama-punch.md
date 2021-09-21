@@ -1,5 +1,7 @@
 # Okosama Punch!
 
+![okosama-punch](https://cdn.myanimelist.net/images/manga/1/247868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

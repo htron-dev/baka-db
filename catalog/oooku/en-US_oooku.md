@@ -1,5 +1,7 @@
 # Oooku
 
+![oooku](https://cdn.myanimelist.net/images/manga/3/26864.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 79

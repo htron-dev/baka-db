@@ -1,5 +1,7 @@
 # Odds GP!
 
+![odds-gp](https://cdn.myanimelist.net/images/manga/1/45437.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 116

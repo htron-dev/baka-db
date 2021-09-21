@@ -1,5 +1,7 @@
 # Ore de Ii no, Mito-kun
 
+![ore-de-ii-no-mito-kun](https://cdn.myanimelist.net/images/manga/1/236557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

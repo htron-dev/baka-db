@@ -1,5 +1,7 @@
 # Organ Divider
 
+![organ-divider](https://cdn.myanimelist.net/images/manga/3/221599.jpg)
+
 -   **type**: manga
 -   **original-name**: オーガン・ディバイダー
 -   **start-date**: 2018-03-26

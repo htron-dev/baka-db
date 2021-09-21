@@ -1,5 +1,7 @@
 # Oretachi no Step
 
+![oretachi-no-step](https://cdn.myanimelist.net/images/manga/1/21466.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺たちのステップ
 -   **start-date**: 2006-11-20

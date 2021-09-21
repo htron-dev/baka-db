@@ -1,5 +1,7 @@
 # Osananajimi wa Boku no Hero!
 
+![osananajimi-wa-boku-no-hero](https://cdn.myanimelist.net/images/manga/3/220849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

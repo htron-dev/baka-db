@@ -1,5 +1,7 @@
 # One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou
 
+![one-piece-nenmatsu-tokubetsu-kikaku-mugiwara-no-luffy-oyabun-torimonochou](https://cdn.myanimelist.net/images/anime/9/21651.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース 年末特別企画！麦わらのルフィ親分捕物帖

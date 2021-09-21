@@ -1,5 +1,7 @@
 # Oned
 
+![oned](https://cdn.myanimelist.net/images/anime/1446/98876.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ONED

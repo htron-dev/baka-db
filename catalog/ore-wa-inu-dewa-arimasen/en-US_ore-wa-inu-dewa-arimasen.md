@@ -1,5 +1,7 @@
 # Ore wa Inu dewa Arimasen!
 
+![ore-wa-inu-dewa-arimasen](https://cdn.myanimelist.net/images/manga/3/215503.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Okusama wa α
 
+![okusama-wa-α](https://cdn.myanimelist.net/images/manga/2/225035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

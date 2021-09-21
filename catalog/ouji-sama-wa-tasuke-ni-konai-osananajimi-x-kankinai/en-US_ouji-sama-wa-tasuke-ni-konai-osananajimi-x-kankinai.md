@@ -1,5 +1,7 @@
 # Ouji-sama wa Tasuke ni Konai: Osananajimi x Kankinai
 
+![ouji-sama-wa-tasuke-ni-konai-osananajimi-x-kankinai](https://cdn.myanimelist.net/images/manga/3/192624.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

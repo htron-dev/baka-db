@@ -1,5 +1,7 @@
 # Oshamani
 
+![oshamani](https://cdn.myanimelist.net/images/anime/1745/98867.jpg)
+
 -   **type**: ona
 -   **original-name**: おしゃマニ
 -   **start-date**: 2019-02-05

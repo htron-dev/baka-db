@@ -1,5 +1,7 @@
 # Ojiichan ga Nokoshite Kureta Mono: Moetemo Moenai? Moenikui!
 
+![ojiichan-ga-nokoshite-kureta-mono-moetemo-moenai-moenikui](https://cdn.myanimelist.net/images/anime/11/76909.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おじいちゃんが残してくれたもの ～燃えても燃えない？燃えにくい！～

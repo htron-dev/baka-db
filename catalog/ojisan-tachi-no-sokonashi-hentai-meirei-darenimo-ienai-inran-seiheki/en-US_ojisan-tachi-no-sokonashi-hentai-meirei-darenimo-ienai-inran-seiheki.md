@@ -1,5 +1,7 @@
 # Ojisan-tachi no Sokonashi Hentai Meirei: Darenimo Ienai Inran Seiheki
 
+![ojisan-tachi-no-sokonashi-hentai-meirei-darenimo-ienai-inran-seiheki](https://cdn.myanimelist.net/images/manga/1/193720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

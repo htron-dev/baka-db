@@ -1,5 +1,7 @@
 # Osomatsu-san x Mameshiba
 
+![osomatsu-san-x-mameshiba](https://cdn.myanimelist.net/images/anime/1911/92191.jpg)
+
 -   **type**: special
 -   **original-name**: おそ松さん × 豆しば
 -   **start-date**: 2018-03-27

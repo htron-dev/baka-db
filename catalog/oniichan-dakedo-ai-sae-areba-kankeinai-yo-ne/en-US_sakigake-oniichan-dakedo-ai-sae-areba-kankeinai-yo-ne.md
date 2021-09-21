@@ -1,5 +1,7 @@
 # Sakigake!! Oniichan dakedo Ai sae Areba Kankeinai yo ne
 
+![sakigake-oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne](https://cdn.myanimelist.net/images/manga/1/145021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

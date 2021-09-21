@@ -1,5 +1,7 @@
 # Ojamanga Yamada-kun
 
+![ojamanga-yamada-kun](https://cdn.myanimelist.net/images/anime/3/44616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 103
 -   **original-name**: おじゃまんが山田くん

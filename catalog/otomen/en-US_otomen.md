@@ -1,5 +1,7 @@
 # Otomen
 
+![otomen](https://cdn.myanimelist.net/images/manga/2/6303.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 74

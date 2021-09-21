@@ -1,5 +1,7 @@
 # Ojamajo Doremi Sharp Movie
 
+![ojamajo-doremi-sharp-movie](https://cdn.myanimelist.net/images/anime/8/40405.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おジャ魔女どれみ ♯

@@ -1,5 +1,7 @@
 # Onmyouji
 
+![onmyouji](https://cdn.myanimelist.net/images/manga/1/22068.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 118

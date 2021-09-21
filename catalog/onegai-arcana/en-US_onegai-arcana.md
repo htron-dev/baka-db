@@ -1,5 +1,7 @@
 # Onegai Arcana
 
+![onegai-arcana](https://cdn.myanimelist.net/images/manga/3/165612.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

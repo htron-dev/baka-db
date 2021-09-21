@@ -1,5 +1,7 @@
 # Otousan made Osewa shimasu! Ikumen Hatsuiku♂Bousouchuu
 
+![otousan-made-osewa-shimasu-ikumen-hatsuiku♂-bousouchuu](https://cdn.myanimelist.net/images/manga/1/150636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お父さんまでお世話します! イクメン保育士 ♂ 暴走中

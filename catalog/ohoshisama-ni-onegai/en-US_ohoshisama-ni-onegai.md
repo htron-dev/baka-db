@@ -1,5 +1,7 @@
 # Ohoshisama ni Onegai!
 
+![ohoshisama-ni-onegai](https://cdn.myanimelist.net/images/manga/3/5954.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: お星様にお願いっ！

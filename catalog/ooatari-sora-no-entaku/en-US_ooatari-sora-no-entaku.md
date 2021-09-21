@@ -1,5 +1,7 @@
 # Ooatari Sora no Entaku
 
+![ooatari-sora-no-entaku](https://cdn.myanimelist.net/images/anime/1188/112111.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大当り空の円タク

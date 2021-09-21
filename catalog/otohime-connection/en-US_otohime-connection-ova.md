@@ -1,5 +1,7 @@
 # Otohime Connection
 
+![otohime-connection](https://cdn.myanimelist.net/images/anime/1579/112673.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 乙姫 CONNECTION

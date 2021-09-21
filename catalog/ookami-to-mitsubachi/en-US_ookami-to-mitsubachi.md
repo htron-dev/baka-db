@@ -1,5 +1,7 @@
 # Ookami to Mitsubachi
 
+![ookami-to-mitsubachi](https://cdn.myanimelist.net/images/manga/1/78317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Onnanoko ga H na Manga Egaicha Dame desu ka?
 
+![onnanoko-ga-h-na-manga-egaicha-dame-desu-ka](https://cdn.myanimelist.net/images/manga/2/89615.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

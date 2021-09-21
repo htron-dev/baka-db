@@ -1,5 +1,7 @@
 # Ore no Tenshi wa Mayonaka Akuma
 
+![ore-no-tenshi-wa-mayonaka-akuma](https://cdn.myanimelist.net/images/manga/1/5965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

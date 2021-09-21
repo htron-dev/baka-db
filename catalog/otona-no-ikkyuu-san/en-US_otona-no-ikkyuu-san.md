@@ -1,5 +1,7 @@
 # Otona no Ikkyuu-san
 
+![otona-no-ikkyuu-san](https://cdn.myanimelist.net/images/anime/3/80274.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: オトナの一休さん

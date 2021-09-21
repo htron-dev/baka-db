@@ -1,5 +1,7 @@
 # Omochikaeri Ikemen Shop: Ouchi de Juppori Tasting
 
+![omochikaeri-ikemen-shop-ouchi-de-juppori-tasting](https://cdn.myanimelist.net/images/manga/1/144287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お持ち帰りイケメン SHOP ～お家でじゅっぽりテイスティング～

@@ -1,5 +1,7 @@
 # Okaasan Futari Itemo Ii kana!?
 
+![okaasan-futari-itemo-ii-kana](https://cdn.myanimelist.net/images/manga/1/175505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Onsen Tarzan
 
+![onsen-tarzan](https://cdn.myanimelist.net/images/manga/1/60345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

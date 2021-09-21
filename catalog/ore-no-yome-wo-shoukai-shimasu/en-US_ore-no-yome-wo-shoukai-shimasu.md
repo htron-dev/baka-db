@@ -1,5 +1,7 @@
 # Ore no Yome wo Shoukai shimasu
 
+![ore-no-yome-wo-shoukai-shimasu](https://cdn.myanimelist.net/images/manga/2/174625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

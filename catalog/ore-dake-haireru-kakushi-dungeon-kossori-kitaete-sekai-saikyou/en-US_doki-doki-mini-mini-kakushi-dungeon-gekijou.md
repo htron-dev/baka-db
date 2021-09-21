@@ -1,5 +1,7 @@
 # Doki Doki! Mini Mini! Kakushi Dungeon Gekijou
 
+![doki-doki-mini-mini-kakushi-dungeon-gekijou](https://cdn.myanimelist.net/images/anime/1736/111113.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: ドキドキ！ミニミニ！隠しダンジョン劇場

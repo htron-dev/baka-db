@@ -1,5 +1,7 @@
 # Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA
 
+![ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru-ova](https://cdn.myanimelist.net/images/anime/1464/112501.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 俺の脳内選択肢が、学園ラブコメを全力で邪魔している OAD

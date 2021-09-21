@@ -1,5 +1,7 @@
 # Okuman Chouja no Kakehiki
 
+![okuman-chouja-no-kakehiki](https://cdn.myanimelist.net/images/manga/2/66521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

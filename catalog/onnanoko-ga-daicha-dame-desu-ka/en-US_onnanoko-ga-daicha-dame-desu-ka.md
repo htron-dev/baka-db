@@ -1,5 +1,7 @@
 # Onnanoko ga Daicha Dame desu ka?
 
+![onnanoko-ga-daicha-dame-desu-ka](https://cdn.myanimelist.net/images/manga/1/234328.jpg)
+
 -   **type**: manga
 -   **original-name**: 女の子が抱いちゃダメですか？
 -   **start-date**: 2020-05-21

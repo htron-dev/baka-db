@@ -1,5 +1,7 @@
 # Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken
 
+![ojarumaru-mangetsu-road-kiki-ippatsu-tama-ni-wa-maro-mo-daibouken](https://cdn.myanimelist.net/images/anime/4/44466.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おじゃる丸 満月ロード危機一髪 ～タマにはマロも大冒険～

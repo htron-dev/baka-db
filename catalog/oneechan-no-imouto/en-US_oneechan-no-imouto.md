@@ -1,5 +1,7 @@
 # Oneechan no Imouto
 
+![oneechan-no-imouto](https://cdn.myanimelist.net/images/manga/2/168919.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: お姉ちゃんの妹

@@ -1,5 +1,7 @@
 # Otousan wa Ai no Hito
 
+![otousan-wa-ai-no-hito](https://cdn.myanimelist.net/images/anime/2/82096.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: お父さんは愛の人

@@ -1,5 +1,7 @@
 # Otoko Mekake
 
+![otoko-mekake](https://cdn.myanimelist.net/images/manga/1/78777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 男妾

@@ -1,5 +1,7 @@
 # Otenki Oniisan
 
+![otenki-oniisan](https://cdn.myanimelist.net/images/manga/3/11496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

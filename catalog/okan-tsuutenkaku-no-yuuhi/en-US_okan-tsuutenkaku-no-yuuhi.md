@@ -1,5 +1,7 @@
 # Okan: Tsuutenkaku no Yuuhi
 
+![okan-tsuutenkaku-no-yuuhi](https://cdn.myanimelist.net/images/manga/2/235760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

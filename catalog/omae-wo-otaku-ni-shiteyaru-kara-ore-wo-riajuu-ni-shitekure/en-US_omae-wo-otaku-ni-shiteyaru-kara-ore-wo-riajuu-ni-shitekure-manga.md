@@ -1,5 +1,7 @@
 # Omae wo Otaku ni Shiteyaru kara, Ore wo Riajuu ni Shitekure!
 
+![omae-wo-otaku-ni-shiteyaru-kara-ore-wo-riajuu-ni-shitekure](https://cdn.myanimelist.net/images/manga/2/158561.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

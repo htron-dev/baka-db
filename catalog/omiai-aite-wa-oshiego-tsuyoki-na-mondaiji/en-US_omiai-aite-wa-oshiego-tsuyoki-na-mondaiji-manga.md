@@ -1,5 +1,7 @@
 # Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.
 
+![omiai-aite-wa-oshiego-tsuyoki-na-mondaiji](https://cdn.myanimelist.net/images/manga/1/224131.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

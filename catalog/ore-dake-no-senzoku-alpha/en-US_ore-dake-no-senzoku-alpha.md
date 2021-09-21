@@ -1,5 +1,7 @@
 # Ore dake no Senzoku Alpha
 
+![ore-dake-no-senzoku-alpha](https://cdn.myanimelist.net/images/manga/1/239405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Otomegokoro ni Koigokoro
 
+![otomegokoro-ni-koigokoro](https://cdn.myanimelist.net/images/manga/3/160596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

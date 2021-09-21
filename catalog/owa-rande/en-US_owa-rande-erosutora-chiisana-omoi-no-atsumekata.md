@@ -1,5 +1,7 @@
 # Owa Rande! Erosutora: Chiisana Omoi no Atsumekata
 
+![owa-rande-erosutora-chiisana-omoi-no-atsumekata](https://cdn.myanimelist.net/images/manga/2/160486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

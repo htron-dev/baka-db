@@ -1,5 +1,7 @@
 # Otogizoushi
 
+![otogizoushi](https://cdn.myanimelist.net/images/anime/9/16736.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: お伽草子

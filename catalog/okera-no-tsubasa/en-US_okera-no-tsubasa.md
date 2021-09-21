@@ -1,5 +1,7 @@
 # Okera no Tsubasa
 
+![okera-no-tsubasa](https://cdn.myanimelist.net/images/manga/2/130735.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 54

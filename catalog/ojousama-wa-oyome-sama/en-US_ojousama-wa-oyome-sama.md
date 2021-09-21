@@ -1,5 +1,7 @@
 # Ojousama wa Oyome-sama.
 
+![ojousama-wa-oyome-sama](https://cdn.myanimelist.net/images/manga/2/187759.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 122

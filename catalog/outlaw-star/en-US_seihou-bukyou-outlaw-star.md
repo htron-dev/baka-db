@@ -1,5 +1,7 @@
 # Seihou Bukyou Outlaw Star
 
+![seihou-bukyou-outlaw-star](https://cdn.myanimelist.net/images/anime/7/28848.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 星方武侠アウトロースター

@@ -1,5 +1,7 @@
 # Oku-senpai wa Mahoutsukai
 
+![oku-senpai-wa-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/247239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

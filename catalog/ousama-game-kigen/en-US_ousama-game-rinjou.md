@@ -1,5 +1,7 @@
 # Ousama Game: Rinjou
 
+![ousama-game-rinjou](https://cdn.myanimelist.net/images/manga/3/159498.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 王様ゲーム 臨場

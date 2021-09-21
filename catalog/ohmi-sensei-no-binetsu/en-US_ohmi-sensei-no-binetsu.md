@@ -1,5 +1,7 @@
 # Ohmi-sensei no Binetsu
 
+![ohmi-sensei-no-binetsu](https://cdn.myanimelist.net/images/manga/2/37212.jpg)
+
 -   **type**: manga
 -   **original-name**: オーミ先生の微熱
 

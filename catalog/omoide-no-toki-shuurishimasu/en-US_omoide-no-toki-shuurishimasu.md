@@ -1,5 +1,7 @@
 # Omoide no Toki Shuurishimasu
 
+![omoide-no-toki-shuurishimasu](https://cdn.myanimelist.net/images/manga/2/211372.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Otogibanashi wo Anata ni: Tsukiyo no Maihime
 
+![otogibanashi-wo-anata-ni-tsukiyo-no-maihime](https://cdn.myanimelist.net/images/manga/1/30668.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

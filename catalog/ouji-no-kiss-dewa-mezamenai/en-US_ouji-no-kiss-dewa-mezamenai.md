@@ -1,5 +1,7 @@
 # Ouji no Kiss dewa Mezamenai
 
+![ouji-no-kiss-dewa-mezamenai](https://cdn.myanimelist.net/images/manga/1/192948.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

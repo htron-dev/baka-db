@@ -1,5 +1,7 @@
 # Ore to Ichino no Game Doukoukai Katsudou Nisshi
 
+![ore-to-ichino-no-game-doukoukai-katsudou-nisshi](https://cdn.myanimelist.net/images/manga/3/158021.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

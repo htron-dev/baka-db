@@ -1,5 +1,7 @@
 # Oretachi no Field
 
+![oretachi-no-field](https://cdn.myanimelist.net/images/manga/2/237170.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **original-name**: 俺たちのフィールド

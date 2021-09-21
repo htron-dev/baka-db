@@ -1,5 +1,7 @@
 # Ocharakahoi!
 
+![ocharakahoi](https://cdn.myanimelist.net/images/manga/3/15346.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おちゃらかほい

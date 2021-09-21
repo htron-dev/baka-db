@@ -1,5 +1,7 @@
 # Oyoge! Hinano-chan
 
+![oyoge-hinano-chan](https://cdn.myanimelist.net/images/manga/1/172267.jpg)
+
 -   **type**: manga
 -   **chapters**: 23
 -   **original-name**: 泳げ！ひなのちゃん

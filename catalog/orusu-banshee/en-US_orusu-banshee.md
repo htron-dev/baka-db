@@ -1,5 +1,7 @@
 # Orusu Banshee
 
+![orusu-banshee](https://cdn.myanimelist.net/images/manga/3/123733.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: お留守バンシー

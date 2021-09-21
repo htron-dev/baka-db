@@ -1,5 +1,7 @@
 # Oshiri Tantei Movie 2: Tentou Mushi Iseki no Nazo
 
+![oshiri-tantei-movie-2-tentou-mushi-iseki-no-nazo](https://cdn.myanimelist.net/images/anime/1774/104764.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画おしりたんてい テントウムシいせきの なぞ

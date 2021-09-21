@@ -1,5 +1,7 @@
 # Oshare Kozou ni Hanamaru
 
+![oshare-kozou-ni-hanamaru](https://cdn.myanimelist.net/images/manga/3/5790.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: お洒落小僧は花マルッ

@@ -1,5 +1,7 @@
 # Ore to Leo
 
+![ore-to-leo](https://cdn.myanimelist.net/images/manga/1/221890.jpg)
+
 -   **type**: manga
 -   **original-name**: オレとレオ
 -   **start-date**: 2018-08-23

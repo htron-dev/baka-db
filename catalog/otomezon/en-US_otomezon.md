@@ -1,5 +1,7 @@
 # Otomezon
 
+![otomezon](https://cdn.myanimelist.net/images/manga/1/36309.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: オトメゾン

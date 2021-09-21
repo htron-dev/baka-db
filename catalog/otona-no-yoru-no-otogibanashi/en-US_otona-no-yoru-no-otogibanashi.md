@@ -1,5 +1,7 @@
 # Otona no Yoru no Otogibanashi
 
+![otona-no-yoru-no-otogibanashi](https://cdn.myanimelist.net/images/manga/3/15461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

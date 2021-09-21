@@ -1,5 +1,7 @@
 # Otogimoyou Ayanishiki: Futatabi
 
+![otogimoyou-ayanishiki-futatabi](https://cdn.myanimelist.net/images/manga/3/117965.jpg)
+
 -   **type**: manga
 -   **original-name**: お伽もよう綾にしき ふたたび
 -   **start-date**: 2009-06-27

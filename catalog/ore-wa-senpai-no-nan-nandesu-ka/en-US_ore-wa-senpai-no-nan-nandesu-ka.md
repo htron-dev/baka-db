@@ -1,5 +1,7 @@
 # Ore wa Senpai no Nan Nandesu ka!?
 
+![ore-wa-senpai-no-nan-nandesu-ka](https://cdn.myanimelist.net/images/manga/1/174050.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 俺は先輩の何なんですか!?

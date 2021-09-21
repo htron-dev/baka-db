@@ -1,5 +1,7 @@
 # Otome no Sainou
 
+![otome-no-sainou](https://cdn.myanimelist.net/images/manga/3/23285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

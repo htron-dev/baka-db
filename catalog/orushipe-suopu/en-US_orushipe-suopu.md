@@ -1,5 +1,7 @@
 # Orushipe Suopu
 
+![orushipe-suopu](https://cdn.myanimelist.net/images/anime/1945/98529.jpg)
+
 -   **type**: special
 -   **original-name**: オルシペスウォプ
 -   **rating**: G - All Ages

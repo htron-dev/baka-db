@@ -1,5 +1,7 @@
 # Oshitone Tenzen
 
+![oshitone-tenzen](https://cdn.myanimelist.net/images/manga/2/60007.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: おしとね天繕

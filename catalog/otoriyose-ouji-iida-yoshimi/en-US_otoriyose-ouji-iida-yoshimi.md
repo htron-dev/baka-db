@@ -1,5 +1,7 @@
 # Otoriyose Ouji Iida Yoshimi
 
+![otoriyose-ouji-iida-yoshimi](https://cdn.myanimelist.net/images/manga/2/167473.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 70

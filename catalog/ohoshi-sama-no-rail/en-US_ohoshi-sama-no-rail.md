@@ -1,5 +1,7 @@
 # Ohoshi-sama no Rail
 
+![ohoshi-sama-no-rail](https://cdn.myanimelist.net/images/anime/4/85355.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お星さまのレール

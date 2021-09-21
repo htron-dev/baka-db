@@ -1,5 +1,7 @@
 # On Doorstep
 
+![on-doorstep](https://cdn.myanimelist.net/images/manga/1/200525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

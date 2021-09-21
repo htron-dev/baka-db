@@ -1,5 +1,7 @@
 # Ore no Mono ni Narinasai: Onna Shitsuji no Koi
 
+![ore-no-mono-ni-narinasai-onna-shitsuji-no-koi](https://cdn.myanimelist.net/images/manga/2/176044.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

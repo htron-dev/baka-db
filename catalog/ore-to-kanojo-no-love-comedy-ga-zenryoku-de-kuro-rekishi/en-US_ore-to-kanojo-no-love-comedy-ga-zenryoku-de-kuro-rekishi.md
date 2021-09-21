@@ -1,5 +1,7 @@
 # Ore to Kanojo no Love Comedy ga Zenryoku de Kuro Rekishi
 
+![ore-to-kanojo-no-love-comedy-ga-zenryoku-de-kuro-rekishi](https://cdn.myanimelist.net/images/manga/1/163615.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Ooku Chakapon!
 
+![ooku-chakapon](https://cdn.myanimelist.net/images/manga/1/21314.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

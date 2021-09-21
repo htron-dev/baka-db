@@ -1,5 +1,7 @@
 # Ore no Teni shita Isekai ga Kuso-game Nenkan Taishou
 
+![ore-no-teni-shita-isekai-ga-kuso-game-nenkan-taishou](https://cdn.myanimelist.net/images/manga/3/184253.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の転移した異世界がクソゲー年間大賞
 -   **start-date**: 2016-10-25

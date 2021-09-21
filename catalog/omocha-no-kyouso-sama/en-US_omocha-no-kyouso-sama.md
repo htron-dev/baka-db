@@ -1,5 +1,7 @@
 # Omocha no Kyouso-sama
 
+![omocha-no-kyouso-sama](https://cdn.myanimelist.net/images/manga/3/125941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

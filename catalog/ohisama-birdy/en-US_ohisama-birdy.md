@@ -1,5 +1,7 @@
 # Ohisama Birdy
 
+![ohisama-birdy](https://cdn.myanimelist.net/images/manga/2/235062.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

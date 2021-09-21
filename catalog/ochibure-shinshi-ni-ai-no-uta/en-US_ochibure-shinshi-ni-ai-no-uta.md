@@ -1,5 +1,7 @@
 # Ochibure Shinshi ni Ai no Uta
 
+![ochibure-shinshi-ni-ai-no-uta](https://cdn.myanimelist.net/images/manga/3/27464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

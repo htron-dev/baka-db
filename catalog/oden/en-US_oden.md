@@ -1,5 +1,7 @@
 # Oden
 
+![oden](https://cdn.myanimelist.net/images/manga/2/184493.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: おでん

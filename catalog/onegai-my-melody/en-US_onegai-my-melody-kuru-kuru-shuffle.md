@@ -1,5 +1,7 @@
 # Onegai My Melody: Kuru Kuru Shuffle!
 
+![onegai-my-melody-kuru-kuru-shuffle](https://cdn.myanimelist.net/images/anime/7/68499.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: おねがいマイメロディ くるくるシャッフル！

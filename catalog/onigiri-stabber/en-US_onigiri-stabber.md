@@ -1,5 +1,7 @@
 # Onigiri Stabber
 
+![onigiri-stabber](https://cdn.myanimelist.net/images/manga/1/202992.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Omou to Iu Koto
 
+![omou-to-iu-koto](https://cdn.myanimelist.net/images/manga/2/178754.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

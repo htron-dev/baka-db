@@ -1,5 +1,7 @@
 # Ore Yome
 
+![ore-yome](https://cdn.myanimelist.net/images/manga/3/104685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

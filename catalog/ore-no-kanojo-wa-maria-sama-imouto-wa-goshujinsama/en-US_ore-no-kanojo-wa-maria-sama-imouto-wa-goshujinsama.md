@@ -1,5 +1,7 @@
 # Ore no Kanojo wa Maria-sama, Imouto wa Goshujinsama
 
+![ore-no-kanojo-wa-maria-sama-imouto-wa-goshujinsama](https://cdn.myanimelist.net/images/manga/1/162580.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Onikiri Musume Saisen
 
+![onikiri-musume-saisen](https://cdn.myanimelist.net/images/anime/1663/91255.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 鬼斬娘 再戦

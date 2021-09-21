@@ -1,5 +1,7 @@
 # Okubyou Sakka wa Sore wo Hoshigaranai
 
+![okubyou-sakka-wa-sore-wo-hoshigaranai](https://cdn.myanimelist.net/images/manga/1/229714.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

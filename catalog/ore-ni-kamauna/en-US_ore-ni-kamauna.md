@@ -1,5 +1,7 @@
 # Ore ni Kamauna!
 
+![ore-ni-kamauna](https://cdn.myanimelist.net/images/manga/2/82666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 俺にかまうな!

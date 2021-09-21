@@ -1,5 +1,7 @@
 # Ojamakura
 
+![ojamakura](https://cdn.myanimelist.net/images/manga/1/95621.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

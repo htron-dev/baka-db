@@ -1,5 +1,7 @@
 # Ore ga Abnormal Kamoshirenai Ken ni Tsuite
 
+![ore-ga-abnormal-kamoshirenai-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/1/116853.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺がアブノーマルかもしれない件について
 -   **start-date**: 2013-08-02

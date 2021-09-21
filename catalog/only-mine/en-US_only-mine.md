@@ -1,5 +1,7 @@
 # Only Mine
 
+![only-mine](https://cdn.myanimelist.net/images/manga/3/231614.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

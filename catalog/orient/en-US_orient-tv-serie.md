@@ -1,5 +1,7 @@
 # Orient
 
+![orient](https://cdn.myanimelist.net/images/anime/1011/116924.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: オリエント
 -   **rating**: None

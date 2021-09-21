@@ -1,5 +1,7 @@
 # Owari Nochi, Asanagi-kurashi.
 
+![owari-nochi-asanagi-kurashi](https://cdn.myanimelist.net/images/manga/2/193584.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

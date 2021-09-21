@@ -1,5 +1,7 @@
 # Oresama-teki.
 
+![oresama-teki](https://cdn.myanimelist.net/images/manga/1/172803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

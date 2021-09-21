@@ -1,5 +1,7 @@
 # Onihei: Sono Otoko, Heizou Hasegawa
 
+![onihei-sono-otoko-heizou-hasegawa](https://cdn.myanimelist.net/images/anime/1312/98124.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鬼平~その男, 長谷川平蔵~

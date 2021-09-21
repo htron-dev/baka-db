@@ -1,5 +1,7 @@
 # Oni ga Shitau wa Tatarigami
 
+![oni-ga-shitau-wa-tatarigami](https://cdn.myanimelist.net/images/manga/2/246245.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Oyajina! ~Chinatsu to Tomoe no Baai~
 
+![oyajina-chinatsu-to-tomoe-no-baai](https://cdn.myanimelist.net/images/manga/2/33914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # One Outs
 
+![one-outs](https://cdn.myanimelist.net/images/anime/7/21065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ワンナウツ

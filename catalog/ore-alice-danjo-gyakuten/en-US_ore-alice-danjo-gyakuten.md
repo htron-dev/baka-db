@@ -1,5 +1,7 @@
 # Ore Alice: Danjo Gyakuten
 
+![ore-alice-danjo-gyakuten](https://cdn.myanimelist.net/images/manga/3/109157.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

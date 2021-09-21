@@ -1,5 +1,7 @@
 # Onigawara Yokochou Sanchoume
 
+![onigawara-yokochou-sanchoume](https://cdn.myanimelist.net/images/manga/3/18929.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おにがわら横町三丁目

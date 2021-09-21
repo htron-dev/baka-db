@@ -1,5 +1,7 @@
 # Otome Kaijuu Caraméliser
 
+![otome-kaijuu-carameliser](https://cdn.myanimelist.net/images/manga/3/211606.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女怪獣キャラメリゼ
 -   **start-date**: 2018-02-27

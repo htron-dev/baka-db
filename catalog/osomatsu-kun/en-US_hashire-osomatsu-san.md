@@ -1,5 +1,7 @@
 # Hashire! Osomatsu-san
 
+![hashire-osomatsu-san](https://cdn.myanimelist.net/images/anime/7/88770.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 走れ！おう松さん

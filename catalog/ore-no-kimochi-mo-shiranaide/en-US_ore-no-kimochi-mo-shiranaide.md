@@ -1,5 +1,7 @@
 # Ore no Kimochi mo Shiranaide
 
+![ore-no-kimochi-mo-shiranaide](https://cdn.myanimelist.net/images/manga/2/82882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 俺のキモチも知らないで

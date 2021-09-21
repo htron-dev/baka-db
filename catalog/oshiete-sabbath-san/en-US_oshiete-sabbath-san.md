@@ -1,5 +1,7 @@
 # Oshiete! Sabbath-san
 
+![oshiete-sabbath-san](https://cdn.myanimelist.net/images/manga/1/239843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

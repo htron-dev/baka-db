@@ -1,5 +1,7 @@
 # Okome-chan
 
+![okome-chan](https://cdn.myanimelist.net/images/manga/1/4955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

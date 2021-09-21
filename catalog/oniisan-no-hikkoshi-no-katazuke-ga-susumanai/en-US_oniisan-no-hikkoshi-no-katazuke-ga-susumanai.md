@@ -1,5 +1,7 @@
 # Oniisan no Hikkoshi no Katazuke ga Susumanai
 
+![oniisan-no-hikkoshi-no-katazuke-ga-susumanai](https://cdn.myanimelist.net/images/manga/2/209981.jpg)
+
 -   **type**: manga
 -   **original-name**: お従兄さんの引っ越しの片づけが進まない
 -   **start-date**: 2017-11-22

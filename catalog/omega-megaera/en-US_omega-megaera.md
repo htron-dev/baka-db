@@ -1,5 +1,7 @@
 # Omega Megaera
 
+![omega-megaera](https://cdn.myanimelist.net/images/manga/2/215493.jpg)
+
 -   **type**: manga
 -   **original-name**: オメガ・メガエラ
 -   **start-date**: 2018-02-07

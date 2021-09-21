@@ -1,5 +1,7 @@
 # Overlord III
 
+![overlord-iii](https://cdn.myanimelist.net/images/anime/1511/93473.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: オーバーロード Ⅲ

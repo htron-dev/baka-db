@@ -1,5 +1,7 @@
 # Oshite Dame nara Oshitemiro!
 
+![oshite-dame-nara-oshitemiro](https://cdn.myanimelist.net/images/manga/2/243657.jpg)
+
 -   **type**: manga
 -   **original-name**: 押して駄目なら押してみろ！
 -   **start-date**: 2019-10-26

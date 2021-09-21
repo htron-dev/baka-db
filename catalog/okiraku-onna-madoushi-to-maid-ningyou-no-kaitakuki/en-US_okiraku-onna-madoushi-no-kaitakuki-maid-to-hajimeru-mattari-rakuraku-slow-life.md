@@ -1,5 +1,7 @@
 # Okiraku Onna Madoushi no Kaitakuki: Maid to Hajimeru Mattari Rakuraku Slow Life
 
+![okiraku-onna-madoushi-no-kaitakuki-maid-to-hajimeru-mattari-rakuraku-slow-life](https://cdn.myanimelist.net/images/manga/2/244250.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

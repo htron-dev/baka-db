@@ -1,5 +1,7 @@
 # Onaji Sora wo Miteiru
 
+![onaji-sora-wo-miteiru](https://cdn.myanimelist.net/images/manga/2/159640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ouroboros: Keisatsu wo Sabaku wa Ware ni Ari
 
+![ouroboros-keisatsu-wo-sabaku-wa-ware-ni-ari](https://cdn.myanimelist.net/images/manga/3/175729.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 144

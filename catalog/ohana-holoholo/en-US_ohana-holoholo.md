@@ -1,5 +1,7 @@
 # Ohana Holoholo
 
+![ohana-holoholo](https://cdn.myanimelist.net/images/manga/2/175860.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

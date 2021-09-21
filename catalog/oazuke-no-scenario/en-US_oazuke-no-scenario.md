@@ -1,5 +1,7 @@
 # Oazuke no Scenario
 
+![oazuke-no-scenario](https://cdn.myanimelist.net/images/manga/3/223393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

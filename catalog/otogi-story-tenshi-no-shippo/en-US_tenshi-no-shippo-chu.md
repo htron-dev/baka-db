@@ -1,5 +1,7 @@
 # Tenshi no Shippo Chu!
 
+![tenshi-no-shippo-chu](https://cdn.myanimelist.net/images/anime/12/4406.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 天使のしっぽＣｈｕ！

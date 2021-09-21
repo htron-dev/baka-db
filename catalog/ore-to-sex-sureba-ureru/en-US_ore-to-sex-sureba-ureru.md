@@ -1,5 +1,7 @@
 # Ore to Sex Sureba Ureru
 
+![ore-to-sex-sureba-ureru](https://cdn.myanimelist.net/images/manga/1/126865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

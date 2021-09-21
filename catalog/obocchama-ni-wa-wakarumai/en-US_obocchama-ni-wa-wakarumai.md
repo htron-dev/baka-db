@@ -1,5 +1,7 @@
 # Obocchama ni wa Wakarumai
 
+![obocchama-ni-wa-wakarumai](https://cdn.myanimelist.net/images/manga/2/16735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Otogi Juushi Akazukin OVA
 
+![otogi-juushi-akazukin-ova](https://cdn.myanimelist.net/images/anime/3/3243.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おとぎ銃士 赤ずきん

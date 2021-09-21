@@ -1,5 +1,7 @@
 # Ongaku Sekai Ryokou
 
+![ongaku-sekai-ryokou](https://cdn.myanimelist.net/images/anime/10/70731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: おんがく世界りょこう

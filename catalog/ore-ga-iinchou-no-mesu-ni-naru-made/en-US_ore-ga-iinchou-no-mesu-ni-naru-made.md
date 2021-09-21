@@ -1,5 +1,7 @@
 # Ore ga Iinchou no Mesu ni Naru made
 
+![ore-ga-iinchou-no-mesu-ni-naru-made](https://cdn.myanimelist.net/images/manga/1/236332.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

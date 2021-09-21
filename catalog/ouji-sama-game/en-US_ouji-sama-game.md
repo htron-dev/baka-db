@@ -1,5 +1,7 @@
 # Ouji-sama Game
 
+![ouji-sama-game](https://cdn.myanimelist.net/images/manga/3/114165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

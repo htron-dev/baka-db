@@ -1,5 +1,7 @@
 # Otoko no Ko Comic Anthology: Tenshin Ranman-hen
 
+![otoko-no-ko-comic-anthology-tenshin-ranman-hen](https://cdn.myanimelist.net/images/manga/1/95871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

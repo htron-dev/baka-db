@@ -1,5 +1,7 @@
 # Otogi no Machi no Rena
 
+![otogi-no-machi-no-rena](https://cdn.myanimelist.net/images/manga/1/159393.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

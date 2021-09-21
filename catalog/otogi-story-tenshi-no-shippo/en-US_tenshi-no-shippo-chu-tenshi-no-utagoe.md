@@ -1,5 +1,7 @@
 # Tenshi no Shippo Chu!: Tenshi no Utagoe
 
+![tenshi-no-shippo-chu-tenshi-no-utagoe](https://cdn.myanimelist.net/images/anime/2/58309.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天使のしっぽＣｈｕ！ ~総集編~ 天使の歌声 (うたごえ)

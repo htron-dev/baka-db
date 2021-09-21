@@ -1,5 +1,7 @@
 # Ossan Boukensha Kane no Zenkou
 
+![ossan-boukensha-kane-no-zenkou](https://cdn.myanimelist.net/images/manga/3/221879.jpg)
+
 -   **type**: manga
 -   **original-name**: おっさん冒険者ケインの善行
 -   **start-date**: 2018-10-11

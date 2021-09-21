@@ -1,5 +1,7 @@
 # Orochi
 
+![orochi](https://cdn.myanimelist.net/images/manga/1/27194.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 9

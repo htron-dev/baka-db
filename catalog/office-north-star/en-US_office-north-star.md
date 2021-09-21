@@ -1,5 +1,7 @@
 # Office North Star
 
+![office-north-star](https://cdn.myanimelist.net/images/manga/1/45515.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: オフィス北極星

@@ -1,5 +1,7 @@
 # Ookii Onnanoko wa Suki desu ka?
 
+![ookii-onnanoko-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/1/140569.jpg)
+
 -   **type**: manga
 -   **original-name**: 大きい女の子は好きですか？
 -   **start-date**: 2014-01-08

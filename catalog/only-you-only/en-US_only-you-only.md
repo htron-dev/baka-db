@@ -1,5 +1,7 @@
 # Only You, Only
 
+![only-you-only](https://cdn.myanimelist.net/images/manga/2/157401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Okusan
 
+![okusan](https://cdn.myanimelist.net/images/manga/3/72701.jpg)
+
 -   **type**: manga
 -   **original-name**: おくさん
 -   **start-date**: 2008-12-23

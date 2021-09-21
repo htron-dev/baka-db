@@ -1,5 +1,7 @@
 # Otoko nara Ikkokuichijou no Aruji wo Mezasanakya ne
 
+![otoko-nara-ikkokuichijou-no-aruji-wo-mezasanakya-ne](https://cdn.myanimelist.net/images/manga/1/158063.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 男なら一国一城の主を目指さなきゃね
 -   **start-date**: 2014-12-20

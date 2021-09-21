@@ -1,5 +1,7 @@
 # Oni-san no Tokoro e Mairimashita
 
+![oni-san-no-tokoro-e-mairimashita](https://cdn.myanimelist.net/images/manga/2/215775.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Otodama
 
+![otodama](https://cdn.myanimelist.net/images/manga/1/168428.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: オトダマ ―音霊―

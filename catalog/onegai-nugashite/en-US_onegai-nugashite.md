@@ -1,5 +1,7 @@
 # Onegai, Nugashite.
 
+![onegai-nugashite](https://cdn.myanimelist.net/images/manga/2/226569.jpg)
+
 -   **type**: manga
 -   **original-name**: お願い、脱がシて。
 -   **start-date**: 2019-08-25

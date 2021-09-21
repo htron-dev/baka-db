@@ -1,5 +1,7 @@
 # Origami of Landscape
 
+![origami-of-landscape](https://cdn.myanimelist.net/images/anime/3/83553.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Origami of landscape

@@ -1,5 +1,7 @@
 # Osananajimi ga Zettai ni Makenai Love Comedy
 
+![osananajimi-ga-zettai-ni-makenai-love-comedy](https://cdn.myanimelist.net/images/anime/1111/113327.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 幼なじみが絶対に負けないラブコメ

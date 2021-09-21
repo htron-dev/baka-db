@@ -1,5 +1,7 @@
 # Oshi ni wa Zettai Hodasarenai!
 
+![oshi-ni-wa-zettai-hodasarenai](https://cdn.myanimelist.net/images/manga/3/245814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

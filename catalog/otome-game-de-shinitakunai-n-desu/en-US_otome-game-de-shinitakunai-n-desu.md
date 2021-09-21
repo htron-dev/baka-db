@@ -1,5 +1,7 @@
 # Otome Game de Shinitakunai n desu
 
+![otome-game-de-shinitakunai-n-desu](https://cdn.myanimelist.net/images/manga/1/194542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 乙女ゲームで死にたくないんです

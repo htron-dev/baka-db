@@ -1,5 +1,7 @@
 # Oretachi no Quest
 
+![oretachi-no-quest](https://cdn.myanimelist.net/images/manga/3/172277.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺たちのクエスト
 -   **start-date**: 2016-02-10

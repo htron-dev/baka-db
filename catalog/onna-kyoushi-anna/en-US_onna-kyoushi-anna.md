@@ -1,5 +1,7 @@
 # Onna Kyoushi Anna
 
+![onna-kyoushi-anna](https://cdn.myanimelist.net/images/manga/1/195971.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 女教師アンナ

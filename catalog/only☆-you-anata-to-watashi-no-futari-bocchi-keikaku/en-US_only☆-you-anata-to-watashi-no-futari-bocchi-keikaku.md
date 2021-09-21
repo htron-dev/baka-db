@@ -1,5 +1,7 @@
 # Only☆You: Anata to Watashi no Futari Bocchi Keikaku
 
+![only☆-you-anata-to-watashi-no-futari-bocchi-keikaku](https://cdn.myanimelist.net/images/manga/2/176301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

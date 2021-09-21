@@ -1,5 +1,7 @@
 # Ore no Kanojo to Osananajimi ga Shuraba sugiru
 
+![ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru](https://cdn.myanimelist.net/images/manga/3/188875.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

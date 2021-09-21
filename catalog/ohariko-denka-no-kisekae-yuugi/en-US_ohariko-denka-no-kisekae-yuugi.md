@@ -1,5 +1,7 @@
 # Ohariko Denka no Kisekae Yuugi
 
+![ohariko-denka-no-kisekae-yuugi](https://cdn.myanimelist.net/images/manga/3/215166.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

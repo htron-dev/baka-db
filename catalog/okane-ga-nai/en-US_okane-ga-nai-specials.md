@@ -1,5 +1,7 @@
 # Okane ga Nai Specials
 
+![okane-ga-nai-specials](https://cdn.myanimelist.net/images/anime/3/72624.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: お金がないっ

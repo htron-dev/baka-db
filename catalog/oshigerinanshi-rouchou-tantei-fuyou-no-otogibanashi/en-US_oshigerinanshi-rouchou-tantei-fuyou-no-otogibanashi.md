@@ -1,5 +1,7 @@
 # Oshigerinanshi: Rouchou Tantei Fuyou no Otogibanashi
 
+![oshigerinanshi-rouchou-tantei-fuyou-no-otogibanashi](https://cdn.myanimelist.net/images/manga/3/176098.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

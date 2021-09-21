@@ -1,5 +1,7 @@
 # Ore to Kanojo no Moeyo Pen: Zoukangou
 
+![ore-to-kanojo-no-moeyo-pen-zoukangou](https://cdn.myanimelist.net/images/manga/3/172844.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

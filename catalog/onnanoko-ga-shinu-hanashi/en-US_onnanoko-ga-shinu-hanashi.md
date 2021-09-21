@@ -1,5 +1,7 @@
 # Onnanoko ga Shinu Hanashi
 
+![onnanoko-ga-shinu-hanashi](https://cdn.myanimelist.net/images/manga/1/115687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

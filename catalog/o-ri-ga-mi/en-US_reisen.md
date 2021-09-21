@@ -1,5 +1,7 @@
 # Reisen
 
+![reisen](https://cdn.myanimelist.net/images/manga/3/177293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 42

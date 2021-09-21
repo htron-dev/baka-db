@@ -1,5 +1,7 @@
 # Onigiri
 
+![onigiri](https://cdn.myanimelist.net/images/anime/13/79260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鬼斬

@@ -1,5 +1,7 @@
 # Onna Kyoushi
 
+![onna-kyoushi](https://cdn.myanimelist.net/images/manga/2/235746.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

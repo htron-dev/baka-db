@@ -1,5 +1,7 @@
 # Oishii Kareshi: Hyouhen Ikemen ni Honrou Sareteimasu!
 
+![oishii-kareshi-hyouhen-ikemen-ni-honrou-sareteimasu](https://cdn.myanimelist.net/images/manga/1/195277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # OL Kaizou Kouza
 
+![ol-kaizou-kouza](https://cdn.myanimelist.net/images/anime/12/58369.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: OL 改造講座

@@ -1,5 +1,7 @@
 # Sentou Jousai Masurawo
 
+![sentou-jousai-masurawo](https://cdn.myanimelist.net/images/manga/3/39356.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 28

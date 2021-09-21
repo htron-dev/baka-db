@@ -1,5 +1,7 @@
 # Ore ga Fujoshi de Aitsu ga Yuri-ota de
 
+![ore-ga-fujoshi-de-aitsu-ga-yuri-ota-de](https://cdn.myanimelist.net/images/manga/1/179631.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

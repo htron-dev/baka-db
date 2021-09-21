@@ -1,5 +1,7 @@
 # Owaranai Seraph
 
+![owaranai-seraph](https://cdn.myanimelist.net/images/anime/6/76505.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 終わらないセラフ

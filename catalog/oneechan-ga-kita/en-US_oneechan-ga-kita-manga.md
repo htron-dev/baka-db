@@ -1,5 +1,7 @@
 # Oneechan ga Kita
 
+![oneechan-ga-kita](https://cdn.myanimelist.net/images/manga/2/191287.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: お姉ちゃんが来た

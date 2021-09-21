@@ -1,5 +1,7 @@
 # Okusama wa Maji
 
+![okusama-wa-maji](https://cdn.myanimelist.net/images/manga/1/161360.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 奥さまはマジ

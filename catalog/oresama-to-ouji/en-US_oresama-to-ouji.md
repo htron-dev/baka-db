@@ -1,5 +1,7 @@
 # Oresama to Ouji
 
+![oresama-to-ouji](https://cdn.myanimelist.net/images/manga/2/34364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 俺様と王子

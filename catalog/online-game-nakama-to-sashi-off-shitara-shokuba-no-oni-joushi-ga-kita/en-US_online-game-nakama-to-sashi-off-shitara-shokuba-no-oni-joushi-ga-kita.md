@@ -1,5 +1,7 @@
 # Online Game Nakama to Sashi Off shitara Shokuba no Oni Joushi ga Kita
 
+![online-game-nakama-to-sashi-off-shitara-shokuba-no-oni-joushi-ga-kita](https://cdn.myanimelist.net/images/manga/3/236820.jpg)
+
 -   **type**: manga
 -   **original-name**: オンラインゲーム仲間とサシオフしたら職場の鬼上司が来た
 -   **start-date**: 2020-03-13

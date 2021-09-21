@@ -1,5 +1,7 @@
 # Ookami datte Koi wo Suru
 
+![ookami-datte-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/153371.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 狼だって恋をする

@@ -1,5 +1,7 @@
 # Osake no Tame ni Otomege Settei wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita
 
+![osake-no-tame-ni-otomege-settei-wo-buchikowashita-kekka-akuyaku-reijou-ga-cheat-reijou-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/235124.jpg)
+
 -   **type**: manga
 -   **original-name**: お酒のために乙女ゲー設定をぶち壊した結果、悪役令嬢がチート令嬢になりました
 -   **start-date**: 2020-04-15

@@ -1,5 +1,7 @@
 # Ore no Kingdom
 
+![ore-no-kingdom](https://cdn.myanimelist.net/images/manga/3/185492.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 110

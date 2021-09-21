@@ -1,5 +1,7 @@
 # Ouji-sama no Seitai
 
+![ouji-sama-no-seitai](https://cdn.myanimelist.net/images/manga/1/234422.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

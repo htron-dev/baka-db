@@ -1,5 +1,7 @@
 # Osoku Saku Hana
 
+![osoku-saku-hana](https://cdn.myanimelist.net/images/manga/3/18411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ooedo Torimonochou: Nezumi Kozou
 
+![ooedo-torimonochou-nezumi-kozou](https://cdn.myanimelist.net/images/anime/10/70389.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 大江戸捕物帳 ねずみ小僧

@@ -1,5 +1,7 @@
 # One Piece: Episode A
 
+![one-piece-episode-a](https://cdn.myanimelist.net/images/manga/1/235920.jpg)
+
 -   **type**: manga
 -   **original-name**: ONE PIECE episode A
 -   **start-date**: 2020-09-16

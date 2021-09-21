@@ -1,5 +1,7 @@
 # Oshigoto desu kara
 
+![oshigoto-desu-kara](https://cdn.myanimelist.net/images/manga/2/89099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

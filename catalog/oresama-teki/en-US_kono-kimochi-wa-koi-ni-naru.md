@@ -1,5 +1,7 @@
 # Kono Kimochi wa Koi ni Naru
 
+![kono-kimochi-wa-koi-ni-naru](https://cdn.myanimelist.net/images/manga/2/9092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

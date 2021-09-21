@@ -1,5 +1,7 @@
 # Ousama dake no Noukou Dolce: Mayonaka no Ochakai
 
+![ousama-dake-no-noukou-dolce-mayonaka-no-ochakai](https://cdn.myanimelist.net/images/manga/1/184425.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Overlord Movie 2: Shikkoku no Eiyuu
 
+![overlord-movie-2-shikkoku-no-eiyuu](https://cdn.myanimelist.net/images/anime/5/87758.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 【後編】劇場版総集編 オーバーロード 漆黒の英雄

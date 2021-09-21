@@ -1,5 +1,7 @@
 # Ochikobore Fruit Tart
 
+![ochikobore-fruit-tart](https://cdn.myanimelist.net/images/anime/1088/109145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おちこぼれフルーツタルト

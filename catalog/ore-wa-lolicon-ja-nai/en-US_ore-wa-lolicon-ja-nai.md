@@ -1,5 +1,7 @@
 # Ore wa Lolicon ja Nai!
 
+![ore-wa-lolicon-ja-nai](https://cdn.myanimelist.net/images/manga/3/232576.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺はロリコンじゃない！
 -   **start-date**: 2020-01-10

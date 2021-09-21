@@ -1,5 +1,7 @@
 # Ouji-sama no Hiyaku Jikken♥
 
+![ouji-sama-no-hiyaku-jikken♥](https://cdn.myanimelist.net/images/manga/1/154943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

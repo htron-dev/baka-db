@@ -1,5 +1,7 @@
 # Oya no Kao ga Mitemitai
 
+![oya-no-kao-ga-mitemitai](https://cdn.myanimelist.net/images/manga/3/170684.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

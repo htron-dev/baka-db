@@ -1,5 +1,7 @@
 # Omoisugoshi mo Koi no Uchi
 
+![omoisugoshi-mo-koi-no-uchi](https://cdn.myanimelist.net/images/manga/1/24778.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

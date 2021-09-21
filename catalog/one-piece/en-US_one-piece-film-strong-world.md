@@ -1,5 +1,7 @@
 # One Piece Film: Strong World
 
+![one-piece-film-strong-world](https://cdn.myanimelist.net/images/anime/12/75894.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース　フィルム　ストロングワールド

@@ -1,5 +1,7 @@
 # Osotte♡Ookami-kun
 
+![osotte♡-ookami-kun](https://cdn.myanimelist.net/images/manga/2/36908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おそって ♡ オオカミくん

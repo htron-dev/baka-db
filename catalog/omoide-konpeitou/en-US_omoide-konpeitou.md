@@ -1,5 +1,7 @@
 # Omoide Konpeitou
 
+![omoide-konpeitou](https://cdn.myanimelist.net/images/manga/3/60021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

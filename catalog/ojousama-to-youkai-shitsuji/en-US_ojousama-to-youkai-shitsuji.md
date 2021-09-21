@@ -1,5 +1,7 @@
 # Ojousama to Youkai Shitsuji
 
+![ojousama-to-youkai-shitsuji](https://cdn.myanimelist.net/images/manga/1/181073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

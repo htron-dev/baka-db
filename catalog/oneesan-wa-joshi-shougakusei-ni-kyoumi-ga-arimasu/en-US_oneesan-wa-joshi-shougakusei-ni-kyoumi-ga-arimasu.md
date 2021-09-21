@@ -1,5 +1,7 @@
 # Oneesan wa Joshi Shougakusei ni Kyoumi ga Arimasu.
 
+![oneesan-wa-joshi-shougakusei-ni-kyoumi-ga-arimasu](https://cdn.myanimelist.net/images/manga/1/206292.jpg)
+
 -   **type**: manga
 -   **original-name**: お姉さんは女子小学生に興味があります。
 -   **start-date**: 2017-04-21

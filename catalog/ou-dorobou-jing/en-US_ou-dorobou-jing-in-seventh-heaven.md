@@ -1,5 +1,7 @@
 # Ou Dorobou Jing in Seventh Heaven
 
+![ou-dorobou-jing-in-seventh-heaven](https://cdn.myanimelist.net/images/anime/5/30325.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 王ドロボウ JING in Seventh Heaven

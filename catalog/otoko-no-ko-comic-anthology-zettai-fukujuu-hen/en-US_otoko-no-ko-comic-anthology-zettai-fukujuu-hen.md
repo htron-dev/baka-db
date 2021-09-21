@@ -1,5 +1,7 @@
 # Otoko no Ko Comic Anthology: Zettai Fukujuu-hen
 
+![otoko-no-ko-comic-anthology-zettai-fukujuu-hen](https://cdn.myanimelist.net/images/manga/3/108437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Ouji wa Himitsu no Hana wo Chirasu: Arc-en-ciel Koimonogatari
 
+![ouji-wa-himitsu-no-hana-wo-chirasu-arc-en-ciel-koimonogatari](https://cdn.myanimelist.net/images/manga/2/181126.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

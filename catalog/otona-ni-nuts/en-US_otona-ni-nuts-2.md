@@ -1,5 +1,7 @@
 # Otona ni Nuts 2
 
+![otona-ni-nuts-2](https://cdn.myanimelist.net/images/manga/1/33439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

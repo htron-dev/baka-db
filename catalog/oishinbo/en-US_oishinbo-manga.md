@@ -1,5 +1,7 @@
 # Oishinbo
 
+![oishinbo](https://cdn.myanimelist.net/images/manga/2/75849.jpg)
+
 -   **type**: manga
 -   **original-name**: 美味しんぼ
 -   **start-date**: 1983-09-30

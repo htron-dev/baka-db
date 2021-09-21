@@ -1,5 +1,7 @@
 # Ou no Aishou
 
+![ou-no-aishou](https://cdn.myanimelist.net/images/manga/2/220273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 王の愛妾

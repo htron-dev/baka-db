@@ -1,5 +1,7 @@
 # Oto no Kyoushitsu
 
+![oto-no-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/175551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

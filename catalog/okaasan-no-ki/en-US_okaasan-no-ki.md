@@ -1,5 +1,7 @@
 # Okaasan no Ki
 
+![okaasan-no-ki](https://cdn.myanimelist.net/images/anime/12/78632.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おかあさんの木

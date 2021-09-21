@@ -1,5 +1,7 @@
 # Ore no Kaachan ga 17-sai ni Natta
 
+![ore-no-kaachan-ga-17-sai-ni-natta](https://cdn.myanimelist.net/images/manga/1/121015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 俺のかーちゃんが 17 歳になった

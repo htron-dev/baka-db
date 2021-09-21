@@ -1,5 +1,7 @@
 # Ore to Kanojo to Sensei no Hanashi
 
+![ore-to-kanojo-to-sensei-no-hanashi](https://cdn.myanimelist.net/images/manga/2/61735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

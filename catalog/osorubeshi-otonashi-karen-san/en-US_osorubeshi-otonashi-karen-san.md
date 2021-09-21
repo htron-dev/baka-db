@@ -1,5 +1,7 @@
 # Osorubeshi!!! Otonashi Karen-san
 
+![osorubeshi-otonashi-karen-san](https://cdn.myanimelist.net/images/manga/2/164088.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

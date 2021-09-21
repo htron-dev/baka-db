@@ -1,5 +1,7 @@
 # Orpheus no Mado
 
+![orpheus-no-mado](https://cdn.myanimelist.net/images/manga/4/33624.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 126

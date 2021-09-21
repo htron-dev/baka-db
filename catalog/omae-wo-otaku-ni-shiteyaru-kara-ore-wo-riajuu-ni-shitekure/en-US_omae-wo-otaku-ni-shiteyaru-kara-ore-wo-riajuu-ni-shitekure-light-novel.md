@@ -1,5 +1,7 @@
 # Omae wo Otaku ni Shiteyaru kara, Ore wo Riajuu ni Shitekure!
 
+![omae-wo-otaku-ni-shiteyaru-kara-ore-wo-riajuu-ni-shitekure](https://cdn.myanimelist.net/images/manga/3/175093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **original-name**: おまえをオタクにしてやるから、俺をリア充にしてくれ！

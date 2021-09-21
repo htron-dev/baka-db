@@ -1,5 +1,7 @@
 # Onaji Kakera de Dekiteiru
 
+![onaji-kakera-de-dekiteiru](https://cdn.myanimelist.net/images/manga/1/245800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

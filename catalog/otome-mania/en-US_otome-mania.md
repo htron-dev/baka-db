@@ -1,5 +1,7 @@
 # Otome Mania!!
 
+![otome-mania](https://cdn.myanimelist.net/images/manga/1/164616.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

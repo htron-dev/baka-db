@@ -1,5 +1,7 @@
 # Ore no Kanojo to Osananajimi ga Shuraba sugiru 4-koma
 
+![ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-4-koma](https://cdn.myanimelist.net/images/manga/2/146253.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

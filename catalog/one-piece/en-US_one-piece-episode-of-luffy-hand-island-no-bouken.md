@@ -1,5 +1,7 @@
 # One Piece: Episode of Luffy - Hand Island no Bouken
 
+![one-piece-episode-of-luffy-hand-island-no-bouken](https://cdn.myanimelist.net/images/anime/8/52463.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース エピソードオブルフィ 〜ハンドアイランドの冒険〜

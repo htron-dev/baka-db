@@ -1,5 +1,7 @@
 # Otona no Koi no Hajimekata
 
+![otona-no-koi-no-hajimekata](https://cdn.myanimelist.net/images/manga/1/164469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

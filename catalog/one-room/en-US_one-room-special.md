@@ -1,5 +1,7 @@
 # One Room Special
 
+![one-room-special](https://cdn.myanimelist.net/images/anime/1033/108985.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: One Room

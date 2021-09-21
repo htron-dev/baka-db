@@ -1,5 +1,7 @@
 # Outlanders
 
+![outlanders](https://cdn.myanimelist.net/images/anime/1396/94529.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アウトランダーズ

@@ -1,5 +1,7 @@
 # Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!
 
+![oishinbo-kyuukyoku-tai-shikou-chouju-ryouri-taiketsu](https://cdn.myanimelist.net/images/anime/7/24464.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美味しんぼ　究極対至高　長寿料理対決!!

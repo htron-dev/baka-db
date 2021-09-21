@@ -1,5 +1,7 @@
 # One Off
 
+![one-off](https://cdn.myanimelist.net/images/anime/12/39661.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: わんおふ -one off-

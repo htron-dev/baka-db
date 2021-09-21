@@ -1,5 +1,7 @@
 # Orc Eiyuu Monogatari: Sontaku Retsuden
 
+![orc-eiyuu-monogatari-sontaku-retsuden](https://cdn.myanimelist.net/images/manga/3/238649.jpg)
+
 -   **type**: manga
 -   **original-name**: オーク英雄物語 忖度列伝
 -   **start-date**: 2020-12-17

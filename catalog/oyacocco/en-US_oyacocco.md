@@ -1,5 +1,7 @@
 # Oyacocco
 
+![oyacocco](https://cdn.myanimelist.net/images/manga/1/123911.jpg)
+
 -   **type**: manga
 -   **original-name**: おやこっこ
 -   **start-date**: 2014-04-22

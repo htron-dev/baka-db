@@ -1,5 +1,7 @@
 # Oujou no Jouken
 
+![oujou-no-jouken](https://cdn.myanimelist.net/images/manga/3/167052.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

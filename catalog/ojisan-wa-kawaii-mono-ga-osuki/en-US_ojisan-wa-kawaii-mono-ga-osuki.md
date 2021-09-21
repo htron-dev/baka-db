@@ -1,5 +1,7 @@
 # Ojisan wa Kawaii Mono ga Osuki.
 
+![ojisan-wa-kawaii-mono-ga-osuki](https://cdn.myanimelist.net/images/manga/1/224494.jpg)
+
 -   **type**: manga
 -   **original-name**: おじさんはカワイイものがお好き。
 -   **start-date**: 2017-07-06

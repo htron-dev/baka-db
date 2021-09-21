@@ -1,5 +1,7 @@
 # Ocha-ken: Chokotto Monogatari
 
+![ocha-ken-chokotto-monogatari](https://cdn.myanimelist.net/images/anime/10/54633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: お茶犬 ちょこっとものがたり

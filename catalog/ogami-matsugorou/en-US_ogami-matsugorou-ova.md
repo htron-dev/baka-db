@@ -1,5 +1,7 @@
 # Ogami Matsugorou
 
+![ogami-matsugorou](https://cdn.myanimelist.net/images/anime/10/53123.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おがみ松吾郎

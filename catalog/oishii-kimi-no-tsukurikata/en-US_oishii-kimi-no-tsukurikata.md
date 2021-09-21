@@ -1,5 +1,7 @@
 # Oishii Kimi no Tsukurikata
 
+![oishii-kimi-no-tsukurikata](https://cdn.myanimelist.net/images/manga/3/246405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

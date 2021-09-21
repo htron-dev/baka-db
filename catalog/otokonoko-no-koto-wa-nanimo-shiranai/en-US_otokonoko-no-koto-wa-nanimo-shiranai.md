@@ -1,5 +1,7 @@
 # Otokonoko no Koto wa Nanimo Shiranai
 
+![otokonoko-no-koto-wa-nanimo-shiranai](https://cdn.myanimelist.net/images/manga/3/182995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

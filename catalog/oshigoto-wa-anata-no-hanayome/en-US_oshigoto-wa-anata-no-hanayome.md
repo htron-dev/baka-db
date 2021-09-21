@@ -1,5 +1,7 @@
 # Oshigoto wa Anata no Hanayome
 
+![oshigoto-wa-anata-no-hanayome](https://cdn.myanimelist.net/images/manga/1/184176.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

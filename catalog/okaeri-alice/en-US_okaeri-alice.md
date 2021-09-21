@@ -1,5 +1,7 @@
 # Okaeri Alice
 
+![okaeri-alice](https://cdn.myanimelist.net/images/manga/2/235399.jpg)
+
 -   **type**: manga
 -   **original-name**: おかえりアリス
 -   **start-date**: 2020-04-09

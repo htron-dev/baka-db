@@ -1,5 +1,7 @@
 # Osakana wa Ami no Naka
 
+![osakana-wa-ami-no-naka](https://cdn.myanimelist.net/images/anime/2/33631.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おさかなはあみの中

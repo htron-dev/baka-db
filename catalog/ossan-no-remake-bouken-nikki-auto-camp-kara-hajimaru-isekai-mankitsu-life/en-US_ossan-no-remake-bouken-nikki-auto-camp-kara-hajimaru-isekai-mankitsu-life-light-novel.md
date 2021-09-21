@@ -1,5 +1,7 @@
 # Ossan no Remake Bouken Nikki: Auto Camp kara Hajimaru Isekai Mankitsu Life
 
+![ossan-no-remake-bouken-nikki-auto-camp-kara-hajimaru-isekai-mankitsu-life](https://cdn.myanimelist.net/images/manga/3/234295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 48

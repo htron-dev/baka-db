@@ -1,5 +1,7 @@
 # Otonari Biru ni Koi no Shisen
 
+![otonari-biru-ni-koi-no-shisen](https://cdn.myanimelist.net/images/manga/3/5542.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

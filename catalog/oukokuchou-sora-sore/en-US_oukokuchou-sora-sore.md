@@ -1,5 +1,7 @@
 # Oukokuchou Sora Sore
 
+![oukokuchou-sora-sore](https://cdn.myanimelist.net/images/manga/1/171772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

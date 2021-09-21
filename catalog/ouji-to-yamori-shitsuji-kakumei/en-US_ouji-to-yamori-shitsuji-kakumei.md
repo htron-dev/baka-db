@@ -1,5 +1,7 @@
 # Ouji to Yamori: Shitsuji Kakumei
 
+![ouji-to-yamori-shitsuji-kakumei](https://cdn.myanimelist.net/images/manga/2/24724.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

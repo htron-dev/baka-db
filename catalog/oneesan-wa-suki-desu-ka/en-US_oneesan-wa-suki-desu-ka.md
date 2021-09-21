@@ -1,5 +1,7 @@
 # Oneesan wa Suki desu ka?
 
+![oneesan-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/2/246239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

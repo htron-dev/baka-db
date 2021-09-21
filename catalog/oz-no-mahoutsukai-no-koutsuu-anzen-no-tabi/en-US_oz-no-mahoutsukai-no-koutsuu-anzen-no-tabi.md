@@ -1,5 +1,7 @@
 # Oz no Mahoutsukai no Koutsuu Anzen no Tabi
 
+![oz-no-mahoutsukai-no-koutsuu-anzen-no-tabi](https://cdn.myanimelist.net/images/anime/10/74436.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: オズの魔法使いの交通安全の旅

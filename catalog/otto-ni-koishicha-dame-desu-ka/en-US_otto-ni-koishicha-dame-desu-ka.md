@@ -1,5 +1,7 @@
 # Otto ni Koishicha Dame desu ka?
 
+![otto-ni-koishicha-dame-desu-ka](https://cdn.myanimelist.net/images/manga/3/237648.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

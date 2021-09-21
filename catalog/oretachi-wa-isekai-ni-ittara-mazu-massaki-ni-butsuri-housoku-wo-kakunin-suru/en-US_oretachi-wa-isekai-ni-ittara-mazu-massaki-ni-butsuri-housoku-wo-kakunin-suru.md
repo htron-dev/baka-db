@@ -1,5 +1,7 @@
 # Oretachi wa Isekai ni Ittara Mazu Massaki ni Butsuri Housoku wo Kakunin suru
 
+![oretachi-wa-isekai-ni-ittara-mazu-massaki-ni-butsuri-housoku-wo-kakunin-suru](https://cdn.myanimelist.net/images/manga/1/187887.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺たちは異世界に行ったらまず真っ先に物理法則を確認する
 -   **start-date**: 2016-12-28

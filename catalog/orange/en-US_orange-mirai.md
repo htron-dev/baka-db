@@ -1,5 +1,7 @@
 # Orange: Mirai
 
+![orange-mirai](https://cdn.myanimelist.net/images/anime/10/82129.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: orange －未来－

@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konna ni Kawaii Wake ga Nai: 4-koma Koushiki Anthology
 
+![ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-4-koma-koushiki-anthology](https://cdn.myanimelist.net/images/manga/3/93325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 俺の妹がこんなに可愛いわけがない 4 コマ公式アンソロジー

@@ -1,5 +1,7 @@
 # One Piece
 
+![one-piece](https://cdn.myanimelist.net/images/manga/3/55539.jpg)
+
 -   **type**: manga
 -   **original-name**: ONE PIECE
 -   **start-date**: 1997-07-22

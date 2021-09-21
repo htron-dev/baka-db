@@ -1,5 +1,7 @@
 # Ousama ni Sasagu Kusuriyubi
 
+![ousama-ni-sasagu-kusuriyubi](https://cdn.myanimelist.net/images/manga/1/148873.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

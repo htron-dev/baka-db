@@ -1,5 +1,7 @@
 # Otomodachi de Ikou!
 
+![otomodachi-de-ikou](https://cdn.myanimelist.net/images/manga/2/8064.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: お友達でいこう!

@@ -1,5 +1,7 @@
 # Ouji ga Watashi wo Akiramenai!
 
+![ouji-ga-watashi-wo-akiramenai](https://cdn.myanimelist.net/images/manga/1/192530.jpg)
+
 -   **type**: manga
 -   **original-name**: 王子が私をあきらめない!
 -   **start-date**: 2015-02-28

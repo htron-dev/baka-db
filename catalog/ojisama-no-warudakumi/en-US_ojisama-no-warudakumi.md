@@ -1,5 +1,7 @@
 # Ojisama no Warudakumi
 
+![ojisama-no-warudakumi](https://cdn.myanimelist.net/images/manga/1/181167.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

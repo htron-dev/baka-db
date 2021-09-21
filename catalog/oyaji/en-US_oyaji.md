@@ -1,5 +1,7 @@
 # Oyaji
 
+![oyaji](https://cdn.myanimelist.net/images/manga/2/185449.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna
 
+![one-piece-episode-of-nami-koukaishi-no-namida-to-nakama-no-kizuna](https://cdn.myanimelist.net/images/anime/5/41415.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピースエピソード・オブ・ナミ～航海士の涙と仲間の絆～

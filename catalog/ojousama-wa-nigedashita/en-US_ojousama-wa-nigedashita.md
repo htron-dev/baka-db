@@ -1,5 +1,7 @@
 # Ojousama wa Nigedashita
 
+![ojousama-wa-nigedashita](https://cdn.myanimelist.net/images/manga/2/121331.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

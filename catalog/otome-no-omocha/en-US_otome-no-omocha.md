@@ -1,5 +1,7 @@
 # Otome no Omocha
 
+![otome-no-omocha](https://cdn.myanimelist.net/images/manga/2/242622.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

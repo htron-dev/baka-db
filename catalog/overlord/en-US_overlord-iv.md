@@ -1,5 +1,7 @@
 # Overlord IV
 
+![overlord-iv](https://cdn.myanimelist.net/images/anime/1584/114810.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: オーバーロード IV
 -   **rating**: R - 17+ (violence & profanity)

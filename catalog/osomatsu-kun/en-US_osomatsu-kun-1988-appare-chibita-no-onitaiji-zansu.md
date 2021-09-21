@@ -1,5 +1,7 @@
 # Osomatsu-kun (1988): Appare! Chibita no Onitaiji zansu
 
+![osomatsu-kun-1988-appare-chibita-no-onitaiji-zansu](https://cdn.myanimelist.net/images/anime/5/77147.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おそ松くん あっぱれ！チビ太の鬼たいじザンス

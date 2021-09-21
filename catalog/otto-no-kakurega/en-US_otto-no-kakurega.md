@@ -1,5 +1,7 @@
 # Otto no Kakurega
 
+![otto-no-kakurega](https://cdn.myanimelist.net/images/manga/1/46317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

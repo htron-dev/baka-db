@@ -1,5 +1,7 @@
 # Ouji-sama no Gouin Proposal: Misomeraretemo Komarimasu!
 
+![ouji-sama-no-gouin-proposal-misomeraretemo-komarimasu](https://cdn.myanimelist.net/images/manga/2/194940.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Ookami-kun wa Ore shika Iranai
 
+![ookami-kun-wa-ore-shika-iranai](https://cdn.myanimelist.net/images/manga/3/231945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

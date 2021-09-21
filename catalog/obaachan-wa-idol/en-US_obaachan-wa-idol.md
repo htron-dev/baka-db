@@ -1,5 +1,7 @@
 # Obaachan wa Idol
 
+![obaachan-wa-idol](https://cdn.myanimelist.net/images/manga/2/186464.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

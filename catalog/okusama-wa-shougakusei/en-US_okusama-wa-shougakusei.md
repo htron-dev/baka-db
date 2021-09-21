@@ -1,5 +1,7 @@
 # Okusama wa Shougakusei
 
+![okusama-wa-shougakusei](https://cdn.myanimelist.net/images/manga/1/201864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

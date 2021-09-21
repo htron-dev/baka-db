@@ -1,5 +1,7 @@
 # Ore no Flag wa Yoridori Mi-dere
 
+![ore-no-flag-wa-yoridori-mi-dere](https://cdn.myanimelist.net/images/manga/2/168652.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

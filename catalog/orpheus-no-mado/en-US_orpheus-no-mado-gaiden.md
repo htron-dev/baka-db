@@ -1,5 +1,7 @@
 # Orpheus no Mado Gaiden
 
+![orpheus-no-mado-gaiden](https://cdn.myanimelist.net/images/manga/3/151519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

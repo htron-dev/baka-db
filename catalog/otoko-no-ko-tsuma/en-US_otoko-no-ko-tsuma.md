@@ -1,5 +1,7 @@
 # Otoko no Ko Tsuma
 
+![otoko-no-ko-tsuma](https://cdn.myanimelist.net/images/manga/2/203527.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 44

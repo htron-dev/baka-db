@@ -1,5 +1,7 @@
 # Okaasan ni Naisho
 
+![okaasan-ni-naisho](https://cdn.myanimelist.net/images/anime/3/76370.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おかあさんにないしょ

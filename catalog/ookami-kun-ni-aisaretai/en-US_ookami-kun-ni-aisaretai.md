@@ -1,5 +1,7 @@
 # Ookami-kun ni Aisaretai
 
+![ookami-kun-ni-aisaretai](https://cdn.myanimelist.net/images/manga/1/241916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

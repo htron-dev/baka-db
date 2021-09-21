@@ -1,5 +1,7 @@
 # Okitsune-sama ni Oyomeiri
 
+![okitsune-sama-ni-oyomeiri](https://cdn.myanimelist.net/images/manga/2/114505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

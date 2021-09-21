@@ -1,5 +1,7 @@
 # Oretachi ni Ai wa Nai
 
+![oretachi-ni-ai-wa-nai](https://cdn.myanimelist.net/images/manga/3/46205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

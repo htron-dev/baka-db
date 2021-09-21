@@ -1,5 +1,7 @@
 # Othello
 
+![othello](https://cdn.myanimelist.net/images/manga/3/42842.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: オセロ

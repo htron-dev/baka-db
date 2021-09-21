@@ -1,5 +1,7 @@
 # Orange Bubble Gum
 
+![orange-bubble-gum](https://cdn.myanimelist.net/images/manga/1/149210.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 23

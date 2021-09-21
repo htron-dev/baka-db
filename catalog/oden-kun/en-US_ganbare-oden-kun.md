@@ -1,5 +1,7 @@
 # Ganbare! Oden-kun
 
+![ganbare-oden-kun](https://cdn.myanimelist.net/images/anime/12/45332.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: がんばれ！おでんくん

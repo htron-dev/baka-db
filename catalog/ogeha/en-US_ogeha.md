@@ -1,5 +1,7 @@
 # Ogeha
 
+![ogeha](https://cdn.myanimelist.net/images/manga/1/173379.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Oneesan Kageki desu!
 
+![oneesan-kageki-desu](https://cdn.myanimelist.net/images/manga/3/82148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

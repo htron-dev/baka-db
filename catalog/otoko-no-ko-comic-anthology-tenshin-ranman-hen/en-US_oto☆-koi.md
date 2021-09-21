@@ -1,5 +1,7 @@
 # Oto☆Koi
 
+![oto☆-koi](https://cdn.myanimelist.net/images/manga/3/99111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

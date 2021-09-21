@@ -1,5 +1,7 @@
 # Ocha-ken: Ryokutto Monogatari
 
+![ocha-ken-ryokutto-monogatari](https://cdn.myanimelist.net/images/anime/4/82788.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: お茶犬 ~緑[リョク]っとものがたり~

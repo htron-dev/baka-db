@@ -1,5 +1,7 @@
 # Ousama no Sougiten
 
+![ousama-no-sougiten](https://cdn.myanimelist.net/images/manga/3/172898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

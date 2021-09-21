@@ -1,5 +1,7 @@
 # Ojiichan no Tomato
 
+![ojiichan-no-tomato](https://cdn.myanimelist.net/images/anime/7/74553.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おじいちゃんのトマト

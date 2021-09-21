@@ -1,5 +1,7 @@
 # Owari no Seraph: Kyuuketsuki Shahar
 
+![owari-no-seraph-kyuuketsuki-shahar](https://cdn.myanimelist.net/images/anime/12/82059.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 終わりのセラフ 吸血鬼シャハル

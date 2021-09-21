@@ -1,5 +1,7 @@
 # Danshi, Hanazono ni Dezureba
 
+![danshi-hanazono-ni-dezureba](https://cdn.myanimelist.net/images/manga/3/149720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai
 
+![ore-no-shibou-flag-ga-todomaru-tokoro-wo-shiranai](https://cdn.myanimelist.net/images/manga/1/241512.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の死亡フラグが留まるところを知らない
 -   **start-date**: 2020-06-10

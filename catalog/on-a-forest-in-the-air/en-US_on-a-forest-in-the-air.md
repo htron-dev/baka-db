@@ -1,5 +1,7 @@
 # On a Forest, in the Air
 
+![on-a-forest-in-the-air](https://cdn.myanimelist.net/images/anime/1663/98737.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: on a forest, in the air

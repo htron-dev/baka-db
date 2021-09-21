@@ -1,5 +1,7 @@
 # Ore wa Tenken wo Kakage/Boku wa Hiryuu to Yuku
 
+![ore-wa-tenken-wo-kakage-boku-wa-hiryuu-to-yuku](https://cdn.myanimelist.net/images/manga/2/163716.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

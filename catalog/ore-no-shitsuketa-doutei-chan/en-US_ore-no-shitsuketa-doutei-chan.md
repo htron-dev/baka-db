@@ -1,5 +1,7 @@
 # Ore no Shitsuketa Doutei-chan
 
+![ore-no-shitsuketa-doutei-chan](https://cdn.myanimelist.net/images/manga/3/224352.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

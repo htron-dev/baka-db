@@ -1,5 +1,7 @@
 # Omae no Toriko
 
+![omae-no-toriko](https://cdn.myanimelist.net/images/manga/2/152548.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

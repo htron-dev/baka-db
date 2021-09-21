@@ -1,5 +1,7 @@
 # Osomatsu-san VR
 
+![osomatsu-san-vr](https://cdn.myanimelist.net/images/anime/1128/93245.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おそ松さん VR

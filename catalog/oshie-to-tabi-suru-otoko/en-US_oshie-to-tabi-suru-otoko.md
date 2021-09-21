@@ -1,5 +1,7 @@
 # Oshie to Tabi Suru Otoko
 
+![oshie-to-tabi-suru-otoko](https://cdn.myanimelist.net/images/anime/1755/90710.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 押絵ト旅スル男

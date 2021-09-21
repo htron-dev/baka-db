@@ -1,5 +1,7 @@
 # One Piece Party
 
+![one-piece-party](https://cdn.myanimelist.net/images/manga/2/165199.jpg)
+
 -   **type**: manga
 -   **original-name**: ONE PIECE PARTY
 -   **start-date**: 2014-12-05

@@ -1,5 +1,7 @@
 # Ouji-sama wo Tsukamaero!
 
+![ouji-sama-wo-tsukamaero](https://cdn.myanimelist.net/images/manga/2/153497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

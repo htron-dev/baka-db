@@ -1,5 +1,7 @@
 # Okaasan, Nakanaide
 
+![okaasan-nakanaide](https://cdn.myanimelist.net/images/anime/4/66253.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お母さん、なかないで

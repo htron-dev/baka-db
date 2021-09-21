@@ -1,5 +1,7 @@
 # One Piece Novel: Mugiwara Stories
 
+![one-piece-novel-mugiwara-stories](https://cdn.myanimelist.net/images/manga/2/232215.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

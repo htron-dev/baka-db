@@ -1,5 +1,7 @@
 # One Room Third Season
 
+![one-room-third-season](https://cdn.myanimelist.net/images/anime/1553/109101.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: One Room サードシーズン

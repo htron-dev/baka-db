@@ -1,5 +1,7 @@
 # Oboreru Kemono to Amai Wana
 
+![oboreru-kemono-to-amai-wana](https://cdn.myanimelist.net/images/manga/2/172421.jpg)
+
 -   **type**: manga
 -   **chapters**: 22
 -   **original-name**: 溺れる獣と甘い罠

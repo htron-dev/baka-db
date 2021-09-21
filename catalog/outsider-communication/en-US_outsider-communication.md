@@ -1,5 +1,7 @@
 # Outsider Communication
 
+![outsider-communication](https://cdn.myanimelist.net/images/manga/2/236639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

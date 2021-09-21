@@ -1,5 +1,7 @@
 # Otaku no Tonari wa Elf desu ka?
 
+![otaku-no-tonari-wa-elf-desu-ka](https://cdn.myanimelist.net/images/manga/3/226121.jpg)
+
 -   **type**: manga
 -   **original-name**: おたくの隣りはエルフですか?
 -   **start-date**: 2019-07-13

@@ -1,5 +1,7 @@
 # Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!
 
+![oniichan-no-koto-nanka-zenzen-suki-ja-nai-n-da-kara-ne](https://cdn.myanimelist.net/images/manga/3/158615.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 85

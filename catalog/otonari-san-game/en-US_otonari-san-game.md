@@ -1,5 +1,7 @@
 # Otonari-san Game
 
+![otonari-san-game](https://cdn.myanimelist.net/images/manga/3/162170.jpg)
+
 -   **type**: manga
 -   **original-name**: お隣さんゲーム
 -   **start-date**: 2013-06-12

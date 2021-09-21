@@ -1,5 +1,7 @@
 # Otoko to Onna to Inu
 
+![otoko-to-onna-to-inu](https://cdn.myanimelist.net/images/anime/12/71267.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 男と女と犬

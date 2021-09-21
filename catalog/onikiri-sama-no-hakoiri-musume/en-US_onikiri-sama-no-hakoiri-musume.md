@@ -1,5 +1,7 @@
 # Onikiri-sama no Hakoiri Musume
 
+![onikiri-sama-no-hakoiri-musume](https://cdn.myanimelist.net/images/manga/3/51385.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

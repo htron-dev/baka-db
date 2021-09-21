@@ -1,5 +1,7 @@
 # Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set
 
+![ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set](https://cdn.myanimelist.net/images/anime/1155/106799.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 俺を好きなのはお前だけかよ ～俺たちのゲームセット～
