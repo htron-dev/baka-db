@@ -1,5 +1,7 @@
 # Ma La Nu Pei
 
+![ma-la-nu-pei](https://cdn.myanimelist.net/images/anime/1984/106704.jpg)
+
 -   **type**: ona
 -   **episodes**: 32
 -   **original-name**: 麻辣女配

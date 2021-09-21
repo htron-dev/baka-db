@@ -1,5 +1,7 @@
 # Kowaomote Joushi kara no Gouin na Kyuuai: Darenimo Ienai Shokuren Jijou
 
+![kowaomote-joushi-kara-no-gouin-na-kyuuai-darenimo-ienai-shokuren-jijou](https://cdn.myanimelist.net/images/manga/1/194661.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 強面上司からの強引な求愛～誰にも言えない職恋事情～

@@ -1,5 +1,7 @@
 # Heavy Object
 
+![heavy-object](https://cdn.myanimelist.net/images/manga/1/174968.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ヘヴィーオブジェクト
 -   **start-date**: 2009-10-10

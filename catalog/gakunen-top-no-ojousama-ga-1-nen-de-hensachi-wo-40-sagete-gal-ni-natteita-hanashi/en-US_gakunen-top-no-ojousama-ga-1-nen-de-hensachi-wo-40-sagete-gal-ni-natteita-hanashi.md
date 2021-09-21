@@ -1,5 +1,7 @@
 # Gakunen Top no Ojousama ga 1-nen de Hensachi wo 40 Sagete Gal ni Natteita Hanashi
 
+![gakunen-top-no-ojousama-ga-1-nen-de-hensachi-wo-40-sagete-gal-ni-natteita-hanashi](https://cdn.myanimelist.net/images/manga/3/167100.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 学年トップのお嬢様が 1 年で偏差値を 40 下げてギャルになっていた話
 -   **start-date**: 2015-12-02

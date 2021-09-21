@@ -1,5 +1,7 @@
 # Hana ni te Sourou
 
+![hana-ni-te-sourou](https://cdn.myanimelist.net/images/manga/2/30034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花にて候

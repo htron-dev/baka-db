@@ -1,5 +1,7 @@
 # Kuusen Madoushi Kouhosei no Kyoukan
 
+![kuusen-madoushi-kouhosei-no-kyoukan](https://cdn.myanimelist.net/images/manga/1/131775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 85

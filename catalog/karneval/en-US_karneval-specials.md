@@ -1,5 +1,7 @@
 # Karneval Specials
 
+![karneval-specials](https://cdn.myanimelist.net/images/anime/7/64555.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: コミックスカバー裏コメント

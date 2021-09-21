@@ -1,5 +1,7 @@
 # Kuaile Tuo Mo Ta: Baoxiao Cheng Yuhui
 
+![kuaile-tuo-mo-ta-baoxiao-cheng-yuhui](https://cdn.myanimelist.net/images/anime/1973/115228.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 快乐椭魔塔之爆笑成语汇

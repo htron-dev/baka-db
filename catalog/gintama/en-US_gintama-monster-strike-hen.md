@@ -1,5 +1,7 @@
 # Gintama: Monster Strike-hen
 
+![gintama-monster-strike-hen](https://cdn.myanimelist.net/images/anime/1781/102825.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 銀魂 ～モンスターストライク編～

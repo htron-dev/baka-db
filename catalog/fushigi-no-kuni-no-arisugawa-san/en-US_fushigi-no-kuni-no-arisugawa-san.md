@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Arisugawa-san
 
+![fushigi-no-kuni-no-arisugawa-san](https://cdn.myanimelist.net/images/manga/2/190327.jpg)
+
 -   **type**: manga
 -   **original-name**: ふしぎの国の有栖川さん
 -   **start-date**: 2016-09-13

@@ -1,5 +1,7 @@
 # Masaka no Kintarou
 
+![masaka-no-kintarou](https://cdn.myanimelist.net/images/manga/1/80305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まさかの金太狼

@@ -1,5 +1,7 @@
 # Mahou no Star Magical Emi: Semishigure
 
+![mahou-no-star-magical-emi-semishigure](https://cdn.myanimelist.net/images/anime/11/46131.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法のスターマジカルエミ 蝉時雨

@@ -1,5 +1,7 @@
 # Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
 
+![kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life](https://cdn.myanimelist.net/images/manga/3/230023.jpg)
+
 -   **type**: manga
 -   **original-name**: 解雇された暗黒兵士（30 代）のスローなセカンドライフ
 -   **start-date**: 2019-08-06

@@ -1,5 +1,7 @@
 # Jibun Katte.
 
+![jibun-katte](https://cdn.myanimelist.net/images/manga/3/175506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

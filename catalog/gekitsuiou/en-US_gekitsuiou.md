@@ -1,5 +1,7 @@
 # Gekitsuiou
 
+![gekitsuiou](https://cdn.myanimelist.net/images/manga/1/237406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

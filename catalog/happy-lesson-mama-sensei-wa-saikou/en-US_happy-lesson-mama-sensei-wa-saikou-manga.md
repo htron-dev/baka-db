@@ -1,5 +1,7 @@
 # Happy★Lesson: Mama Sensei wa Saikou!
 
+![happy★-lesson-mama-sensei-wa-saikou](https://cdn.myanimelist.net/images/manga/3/154184.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

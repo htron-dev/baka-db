@@ -1,5 +1,7 @@
 # Majo no Mori
 
+![majo-no-mori](https://cdn.myanimelist.net/images/manga/2/232453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

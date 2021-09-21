@@ -1,5 +1,7 @@
 # Heart no Kuni de Ochakai
 
+![heart-no-kuni-de-ochakai](https://cdn.myanimelist.net/images/manga/2/27650.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

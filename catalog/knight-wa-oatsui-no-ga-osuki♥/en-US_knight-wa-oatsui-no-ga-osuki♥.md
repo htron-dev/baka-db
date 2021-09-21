@@ -1,5 +1,7 @@
 # Knight wa Oatsui no ga Osuki♥
 
+![knight-wa-oatsui-no-ga-osuki♥](https://cdn.myanimelist.net/images/manga/3/3023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

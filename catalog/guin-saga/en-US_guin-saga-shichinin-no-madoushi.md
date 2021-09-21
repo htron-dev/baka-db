@@ -1,5 +1,7 @@
 # Guin Saga: Shichinin no Madoushi
 
+![guin-saga-shichinin-no-madoushi](https://cdn.myanimelist.net/images/manga/1/20121.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

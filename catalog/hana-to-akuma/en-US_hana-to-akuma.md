@@ -1,5 +1,7 @@
 # Hana to Akuma
 
+![hana-to-akuma](https://cdn.myanimelist.net/images/manga/5/32636.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 58

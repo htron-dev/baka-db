@@ -1,5 +1,7 @@
 # Makoto Distortion
 
+![makoto-distortion](https://cdn.myanimelist.net/images/manga/2/202402.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

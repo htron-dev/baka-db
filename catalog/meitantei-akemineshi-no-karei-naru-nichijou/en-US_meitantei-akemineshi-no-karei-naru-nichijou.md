@@ -1,5 +1,7 @@
 # Meitantei Akemineshi no Karei naru Nichijou
 
+![meitantei-akemineshi-no-karei-naru-nichijou](https://cdn.myanimelist.net/images/manga/2/87831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 名探偵明峰氏の華麗なる日常

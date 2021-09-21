@@ -1,5 +1,7 @@
 # Domo TV
 
+![domo-tv](https://cdn.myanimelist.net/images/anime/12/24339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: どーもくん

@@ -1,5 +1,7 @@
 # Kemono no Souja Erin
 
+![kemono-no-souja-erin](https://cdn.myanimelist.net/images/anime/9/19845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 獣の奏者エリン

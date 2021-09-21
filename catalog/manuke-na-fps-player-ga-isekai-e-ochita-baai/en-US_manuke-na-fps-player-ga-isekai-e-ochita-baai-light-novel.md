@@ -1,5 +1,7 @@
 # Manuke na FPS Player ga Isekai e Ochita Baai
 
+![manuke-na-fps-player-ga-isekai-e-ochita-baai](https://cdn.myanimelist.net/images/manga/3/170104.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マヌケな FPS プレイヤーが異世界へ落ちた場合
 -   **start-date**: 2016-01-09

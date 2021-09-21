@@ -1,5 +1,7 @@
 # Kobato.
 
+![kobato](https://cdn.myanimelist.net/images/anime/8/79838.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: こばと。

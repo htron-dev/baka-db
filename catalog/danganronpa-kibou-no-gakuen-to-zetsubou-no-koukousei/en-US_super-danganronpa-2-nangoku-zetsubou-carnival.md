@@ -1,5 +1,7 @@
 # Super Danganronpa 2: Nangoku Zetsubou Carnival!
 
+![super-danganronpa-2-nangoku-zetsubou-carnival](https://cdn.myanimelist.net/images/manga/3/238958.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

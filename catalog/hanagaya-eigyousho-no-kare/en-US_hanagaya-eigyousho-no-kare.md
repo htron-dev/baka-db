@@ -1,5 +1,7 @@
 # Hanagaya Eigyousho no Kare
 
+![hanagaya-eigyousho-no-kare](https://cdn.myanimelist.net/images/manga/2/99737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

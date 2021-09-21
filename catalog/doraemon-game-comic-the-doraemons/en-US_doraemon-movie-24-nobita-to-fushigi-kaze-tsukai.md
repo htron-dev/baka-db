@@ -1,5 +1,7 @@
 # Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai
 
+![doraemon-movie-24-nobita-to-fushigi-kaze-tsukai](https://cdn.myanimelist.net/images/anime/7/72429.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太とふしぎ風使い

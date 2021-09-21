@@ -1,5 +1,7 @@
 # Dare nimo Ienai Yoru wo Ageru
 
+![dare-nimo-ienai-yoru-wo-ageru](https://cdn.myanimelist.net/images/manga/2/171388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

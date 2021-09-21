@@ -1,5 +1,7 @@
 # Haruwaka
 
+![haruwaka](https://cdn.myanimelist.net/images/manga/1/156354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Kaketa Tsuki to Doughnut
 
+![kaketa-tsuki-to-doughnut](https://cdn.myanimelist.net/images/manga/4/243540.jpg)
+
 -   **type**: manga
 -   **original-name**: 欠けた月とドーナッツ
 -   **start-date**: 2019-03-18

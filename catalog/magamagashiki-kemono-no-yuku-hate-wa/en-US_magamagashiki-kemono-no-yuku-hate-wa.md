@@ -1,5 +1,7 @@
 # Magamagashiki Kemono no Yuku Hate wa
 
+![magamagashiki-kemono-no-yuku-hate-wa](https://cdn.myanimelist.net/images/manga/3/202132.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 禍々しき獣の逝く果ては

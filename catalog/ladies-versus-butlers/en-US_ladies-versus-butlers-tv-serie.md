@@ -1,5 +1,7 @@
 # Ladies versus Butlers!
 
+![ladies-versus-butlers](https://cdn.myanimelist.net/images/anime/7/75252.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: れでぃ × ばと!

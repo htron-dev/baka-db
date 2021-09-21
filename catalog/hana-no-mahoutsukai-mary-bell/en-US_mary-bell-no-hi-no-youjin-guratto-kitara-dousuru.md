@@ -1,5 +1,7 @@
 # Mary Bell no Hi no Youjin: Guratto Kitara Dousuru
 
+![mary-bell-no-hi-no-youjin-guratto-kitara-dousuru](https://cdn.myanimelist.net/images/anime/1699/98675.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マリーベルの火の用心　グラッときたらどうする

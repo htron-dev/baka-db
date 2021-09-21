@@ -1,5 +1,7 @@
 # DanMachi 4-koma: Somosomo Dungeon ni Moguru no ga Machigai de wa Nai Darou ka
 
+![dan-machi-4-koma-somosomo-dungeon-ni-moguru-no-ga-machigai-de-wa-nai-darou-ka](https://cdn.myanimelist.net/images/manga/1/159411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

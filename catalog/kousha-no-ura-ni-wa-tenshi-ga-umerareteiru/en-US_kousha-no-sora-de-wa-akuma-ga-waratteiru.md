@@ -1,5 +1,7 @@
 # Kousha no Sora de wa Akuma ga Waratteiru
 
+![kousha-no-sora-de-wa-akuma-ga-waratteiru](https://cdn.myanimelist.net/images/manga/1/247902.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

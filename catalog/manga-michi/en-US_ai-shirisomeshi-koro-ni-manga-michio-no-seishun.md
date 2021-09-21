@@ -1,5 +1,7 @@
 # Ai... Shirisomeshi Koro ni...: Manga Michio no Seishun
 
+![ai-shirisomeshi-koro-ni-manga-michio-no-seishun](https://cdn.myanimelist.net/images/manga/3/178259.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 109

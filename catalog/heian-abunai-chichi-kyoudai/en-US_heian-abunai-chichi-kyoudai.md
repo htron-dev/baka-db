@@ -1,5 +1,7 @@
 # Heian Abunai Chichi Kyoudai
 
+![heian-abunai-chichi-kyoudai](https://cdn.myanimelist.net/images/manga/1/6060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

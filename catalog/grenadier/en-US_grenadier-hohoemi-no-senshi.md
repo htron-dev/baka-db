@@ -1,5 +1,7 @@
 # Grenadier: Hohoemi no Senshi
 
+![grenadier-hohoemi-no-senshi](https://cdn.myanimelist.net/images/anime/6/11968.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: グレネーダー 〜ほほえみの閃士〜

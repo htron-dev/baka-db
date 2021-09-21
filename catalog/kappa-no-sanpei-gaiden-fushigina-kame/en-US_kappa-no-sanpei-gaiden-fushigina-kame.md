@@ -1,5 +1,7 @@
 # Kappa no Sanpei Gaiden: Fushigina Kame
 
+![kappa-no-sanpei-gaiden-fushigina-kame](https://cdn.myanimelist.net/images/manga/1/42262.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 河童の三平外伝：ふしぎな甕

@@ -1,5 +1,7 @@
 # Shirayuki-hime ni Kuchizuke
 
+![shirayuki-hime-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/2/225393.jpg)
+
 -   **type**: manga
 -   **original-name**: 白雪姫にくちづけ
 -   **start-date**: 2018-12-07

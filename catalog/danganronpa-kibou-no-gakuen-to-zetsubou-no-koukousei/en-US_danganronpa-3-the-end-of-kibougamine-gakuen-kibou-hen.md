@@ -1,5 +1,7 @@
 # Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen
 
+![danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen](https://cdn.myanimelist.net/images/anime/1295/91106.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ダンガンロンパ３-The End of 希望ヶ峰学園-希望編

@@ -1,5 +1,7 @@
 # Kanzen Dive-kei
 
+![kanzen-dive-kei](https://cdn.myanimelist.net/images/manga/3/23288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 完全ダイブ系

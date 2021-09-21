@@ -1,5 +1,7 @@
 # Hanshin Tigers Sousetsu 80-shuunen Kinen Zoukangou
 
+![hanshin-tigers-sousetsu-80-shuunen-kinen-zoukangou](https://cdn.myanimelist.net/images/manga/3/174312.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

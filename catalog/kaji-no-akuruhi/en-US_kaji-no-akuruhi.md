@@ -1,5 +1,7 @@
 # Kaji no Akuruhi
 
+![kaji-no-akuruhi](https://cdn.myanimelist.net/images/anime/1124/111887.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 火事のあくる日

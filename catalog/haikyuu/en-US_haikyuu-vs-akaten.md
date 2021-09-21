@@ -1,5 +1,7 @@
 # Haikyuu!!: vs. "Akaten"
 
+![haikyuu-vs-akaten](https://cdn.myanimelist.net/images/anime/1882/96644.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! VS"赤点"

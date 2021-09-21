@@ -1,5 +1,7 @@
 # MVP wa Yuzurenai
 
+![mvp-wa-yuzurenai](https://cdn.myanimelist.net/images/manga/1/3756.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: MVP は譲れない!

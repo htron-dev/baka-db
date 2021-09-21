@@ -1,5 +1,7 @@
 # Hetare Venus
 
+![hetare-venus](https://cdn.myanimelist.net/images/manga/3/98729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

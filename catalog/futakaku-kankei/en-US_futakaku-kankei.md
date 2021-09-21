@@ -1,5 +1,7 @@
 # Futakaku Kankei.
 
+![futakaku-kankei](https://cdn.myanimelist.net/images/manga/2/187803.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

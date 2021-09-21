@@ -1,5 +1,7 @@
 # Honey Rabbit!
 
+![honey-rabbit](https://cdn.myanimelist.net/images/manga/1/134979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

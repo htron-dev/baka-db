@@ -1,5 +1,7 @@
 # Mother 2: 4-koma Manga Oukoku
 
+![mother-2-4-koma-manga-oukoku](https://cdn.myanimelist.net/images/manga/3/16178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: MOTHER2 4 コママンガ王国

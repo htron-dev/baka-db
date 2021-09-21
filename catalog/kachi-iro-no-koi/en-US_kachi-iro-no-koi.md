@@ -1,5 +1,7 @@
 # Kachi-iro no Koi
 
+![kachi-iro-no-koi](https://cdn.myanimelist.net/images/manga/1/129903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 勝色の恋

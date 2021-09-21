@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Chuugoku Akujo Den
 
+![manga-grimm-douwa-chuugoku-akujo-den](https://cdn.myanimelist.net/images/manga/3/142937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

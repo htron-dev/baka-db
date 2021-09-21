@@ -1,5 +1,7 @@
 # Grimm Douwa: Kin no Tori
 
+![grimm-douwa-kin-no-tori](https://cdn.myanimelist.net/images/anime/9/24401.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グリム童話 金の鳥

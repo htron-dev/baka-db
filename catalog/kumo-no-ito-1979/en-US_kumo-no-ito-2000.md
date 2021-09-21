@@ -1,5 +1,7 @@
 # Kumo no Ito (2000)
 
+![kumo-no-ito-2000](https://cdn.myanimelist.net/images/anime/9/74770.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: くもの糸

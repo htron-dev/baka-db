@@ -1,5 +1,7 @@
 # Haisha-san, Atattemasu!
 
+![haisha-san-atattemasu](https://cdn.myanimelist.net/images/manga/1/235154.jpg)
+
 -   **type**: manga
 -   **original-name**: 歯医者さん、あタってます!
 -   **start-date**: 2020-05-16

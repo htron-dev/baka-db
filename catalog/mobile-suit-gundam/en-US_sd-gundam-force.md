@@ -1,5 +1,7 @@
 # SD Gundam Force
 
+![sd-gundam-force](https://cdn.myanimelist.net/images/anime/11/34845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: SD ガンダムフォース

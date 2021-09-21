@@ -1,5 +1,7 @@
 # Rendou Hakushi ga H ni Kyoumi o Motta Hontou no Riyuu
 
+![rendou-hakushi-ga-h-ni-kyoumi-o-motta-hontou-no-riyuu](https://cdn.myanimelist.net/images/manga/1/221319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 蓮堂博士がＨに興味を持った本当の理由

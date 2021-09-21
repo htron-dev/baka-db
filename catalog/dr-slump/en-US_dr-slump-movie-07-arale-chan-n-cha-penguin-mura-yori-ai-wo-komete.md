@@ -1,5 +1,7 @@
 # Dr. Slump Movie 07: Arale-chan N-cha! Penguin Mura yori Ai wo Komete
 
+![dr-slump-movie-07-arale-chan-n-cha-penguin-mura-yori-ai-wo-komete](https://cdn.myanimelist.net/images/anime/5/61965.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Ｄｒ．スランプ アラレちゃん んちゃ！ペンギン村より愛をこめて

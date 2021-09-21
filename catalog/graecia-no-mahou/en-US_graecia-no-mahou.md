@@ -1,5 +1,7 @@
 # Graecia no Mahou
 
+![graecia-no-mahou](https://cdn.myanimelist.net/images/manga/3/64847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ギリシアの魔法

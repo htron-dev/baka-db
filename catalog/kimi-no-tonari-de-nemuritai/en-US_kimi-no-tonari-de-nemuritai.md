@@ -1,5 +1,7 @@
 # Kimi no Tonari de Nemuritai
 
+![kimi-no-tonari-de-nemuritai](https://cdn.myanimelist.net/images/manga/3/4218.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

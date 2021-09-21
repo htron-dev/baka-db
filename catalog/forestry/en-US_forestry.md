@@ -1,5 +1,7 @@
 # Forestry
 
+![forestry](https://cdn.myanimelist.net/images/anime/9/24167.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フォレストリー

@@ -1,5 +1,7 @@
 # Miko to Maid no Fuuunroku: Senritsu no Mariana-Oki Kaisen
 
+![miko-to-maid-no-fuuunroku-senritsu-no-mariana-oki-kaisen](https://cdn.myanimelist.net/images/manga/1/155085.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 巫女とメイドの風雲録　—戦慄のマリアナ沖海戦—

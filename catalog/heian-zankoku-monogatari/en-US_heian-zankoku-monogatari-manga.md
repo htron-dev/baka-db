@@ -1,5 +1,7 @@
 # Heian Zankoku Monogatari
 
+![heian-zankoku-monogatari](https://cdn.myanimelist.net/images/manga/2/155591.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

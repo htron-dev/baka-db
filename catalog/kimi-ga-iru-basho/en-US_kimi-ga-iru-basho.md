@@ -1,5 +1,7 @@
 # Kimi ga Iru Basho
 
+![kimi-ga-iru-basho](https://cdn.myanimelist.net/images/manga/1/18947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

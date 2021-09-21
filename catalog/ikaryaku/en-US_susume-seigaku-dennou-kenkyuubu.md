@@ -1,5 +1,7 @@
 # Susume!! Seigaku Dennou Kenkyuubu
 
+![susume-seigaku-dennou-kenkyuubu](https://cdn.myanimelist.net/images/manga/2/34510.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 進め!!聖学電脳研究部

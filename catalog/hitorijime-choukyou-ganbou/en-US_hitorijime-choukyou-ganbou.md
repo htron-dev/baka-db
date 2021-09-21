@@ -1,5 +1,7 @@
 # Hitorijime: Choukyou Ganbou
 
+![hitorijime-choukyou-ganbou](https://cdn.myanimelist.net/images/manga/2/182667.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 78

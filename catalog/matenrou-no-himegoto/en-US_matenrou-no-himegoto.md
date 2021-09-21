@@ -1,5 +1,7 @@
 # Matenrou no Himegoto
 
+![matenrou-no-himegoto](https://cdn.myanimelist.net/images/manga/3/194840.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 摩天楼の秘め事

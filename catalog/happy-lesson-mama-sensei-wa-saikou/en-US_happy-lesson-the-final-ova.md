@@ -1,5 +1,7 @@
 # Happy☆Lesson: The Final
 
+![happy☆-lesson-the-final](https://cdn.myanimelist.net/images/anime/11/75578.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: HAPPY☆LESSON THE FINAL

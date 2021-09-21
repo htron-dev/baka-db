@@ -1,5 +1,7 @@
 # Miracle Hime Jubilee
 
+![miracle-hime-jubilee](https://cdn.myanimelist.net/images/manga/1/40838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

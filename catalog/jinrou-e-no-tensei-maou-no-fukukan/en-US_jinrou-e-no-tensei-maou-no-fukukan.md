@@ -1,5 +1,7 @@
 # Jinrou e no Tensei, Maou no Fukukan
 
+![jinrou-e-no-tensei-maou-no-fukukan](https://cdn.myanimelist.net/images/manga/2/166549.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 人狼への転生、魔王の副官
 -   **start-date**: 2015-11-14

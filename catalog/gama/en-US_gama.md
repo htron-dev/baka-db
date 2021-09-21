@@ -1,5 +1,7 @@
 # γ
 
+![γ](https://cdn.myanimelist.net/images/manga/3/144157.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

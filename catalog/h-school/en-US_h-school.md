@@ -1,5 +1,7 @@
 # H³ School
 
+![h-school](https://cdn.myanimelist.net/images/manga/1/172987.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

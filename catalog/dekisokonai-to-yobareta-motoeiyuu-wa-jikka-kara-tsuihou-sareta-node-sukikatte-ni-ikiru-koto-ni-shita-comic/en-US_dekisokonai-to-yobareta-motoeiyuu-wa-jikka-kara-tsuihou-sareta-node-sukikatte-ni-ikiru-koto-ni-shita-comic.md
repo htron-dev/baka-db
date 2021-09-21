@@ -1,5 +1,7 @@
 # Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita @comic
 
+![dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-comic](https://cdn.myanimelist.net/images/manga/2/234219.jpg)
+
 -   **type**: manga
 -   **original-name**: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした＠comic
 -   **start-date**: 2018-12-24

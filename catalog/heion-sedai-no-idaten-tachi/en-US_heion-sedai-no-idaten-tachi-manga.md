@@ -1,5 +1,7 @@
 # Heion Sedai no Idaten-tachi
 
+![heion-sedai-no-idaten-tachi](https://cdn.myanimelist.net/images/manga/3/223864.jpg)
+
 -   **type**: manga
 -   **original-name**: 平穏世代の韋駄天達
 -   **start-date**: 2018-08-24

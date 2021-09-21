@@ -1,5 +1,7 @@
 # Gunshi x Kanojo
 
+![gunshi-x-kanojo](https://cdn.myanimelist.net/images/manga/2/202973.jpg)
+
 -   **type**: manga
 -   **chapters**: 25
 -   **original-name**: 軍師 × 彼女

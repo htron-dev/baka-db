@@ -1,5 +1,7 @@
 # Kingyoya Koshoten Suitouchou
 
+![kingyoya-koshoten-suitouchou](https://cdn.myanimelist.net/images/manga/1/76719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 金魚屋古書店出納帳

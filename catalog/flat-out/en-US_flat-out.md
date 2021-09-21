@@ -1,5 +1,7 @@
 # Flat Out
 
+![flat-out](https://cdn.myanimelist.net/images/manga/1/237695.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

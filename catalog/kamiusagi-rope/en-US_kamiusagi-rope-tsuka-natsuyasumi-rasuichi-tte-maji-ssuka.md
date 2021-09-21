@@ -1,5 +1,7 @@
 # Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?
 
+![kamiusagi-rope-tsuka-natsuyasumi-rasuichi-tte-maji-ssuka](https://cdn.myanimelist.net/images/anime/13/72178.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 紙兎ロペ　つか、夏休みラスイチってマジっすか！？

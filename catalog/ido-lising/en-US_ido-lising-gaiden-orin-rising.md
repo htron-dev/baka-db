@@ -1,5 +1,7 @@
 # Ido-Lising! Gaiden: Orin Rising!
 
+![ido-lising-gaiden-orin-rising](https://cdn.myanimelist.net/images/manga/3/131569.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

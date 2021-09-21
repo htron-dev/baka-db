@@ -1,5 +1,7 @@
 # Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle
 
+![keroro-gunsou-mushakero-ohirome-sengoku-ranstar-dai-battle](https://cdn.myanimelist.net/images/anime/8/31327.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 武者ケロ　お披露目！戦国ラン星大バトル！！

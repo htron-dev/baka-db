@@ -1,5 +1,7 @@
 # Lover's Position
 
+![lovers-position](https://cdn.myanimelist.net/images/manga/2/2396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Devil May Cry
 
+![devil-may-cry](https://cdn.myanimelist.net/images/manga/3/162028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

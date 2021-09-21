@@ -1,5 +1,7 @@
 # Love x Rob x Stockholm
 
+![love-x-rob-x-stockholm](https://cdn.myanimelist.net/images/manga/3/219746.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

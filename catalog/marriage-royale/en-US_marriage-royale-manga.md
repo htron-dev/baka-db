@@ -1,5 +1,7 @@
 # Marriage Royale
 
+![marriage-royale](https://cdn.myanimelist.net/images/manga/3/154212.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 57

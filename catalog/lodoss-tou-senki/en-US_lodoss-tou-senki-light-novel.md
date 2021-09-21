@@ -1,5 +1,7 @@
 # Lodoss-tou Senki
 
+![lodoss-tou-senki](https://cdn.myanimelist.net/images/manga/1/135649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 37

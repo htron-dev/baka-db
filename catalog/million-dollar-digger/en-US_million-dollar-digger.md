@@ -1,5 +1,7 @@
 # Million Dollar Digger
 
+![million-dollar-digger](https://cdn.myanimelist.net/images/manga/2/220932.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

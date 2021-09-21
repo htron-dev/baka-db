@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Deedlit Monogatari
 
+![lodoss-tou-senki-deedlit-monogatari](https://cdn.myanimelist.net/images/manga/3/135805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

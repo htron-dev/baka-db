@@ -1,5 +1,7 @@
 # Genjitsu Shugi Yuusha no Oukoku Saikenki
 
+![genjitsu-shugi-yuusha-no-oukoku-saikenki](https://cdn.myanimelist.net/images/anime/1706/115694.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 現実主義勇者の王国再建記

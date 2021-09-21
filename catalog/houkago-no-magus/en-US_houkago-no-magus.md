@@ -1,5 +1,7 @@
 # Houkago no Magus
 
+![houkago-no-magus](https://cdn.myanimelist.net/images/manga/1/162940.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 59

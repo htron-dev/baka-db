@@ -1,5 +1,7 @@
 # Hyoui☆Don!
 
+![hyoui☆-don](https://cdn.myanimelist.net/images/manga/2/165134.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

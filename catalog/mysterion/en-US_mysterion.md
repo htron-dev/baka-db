@@ -1,5 +1,7 @@
 # Mysterion
 
+![mysterion](https://cdn.myanimelist.net/images/manga/2/202932.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 17

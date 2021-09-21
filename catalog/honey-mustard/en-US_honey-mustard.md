@@ -1,5 +1,7 @@
 # Honey Mustard
 
+![honey-mustard](https://cdn.myanimelist.net/images/manga/3/152219.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 23

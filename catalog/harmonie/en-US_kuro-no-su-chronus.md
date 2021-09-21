@@ -1,5 +1,7 @@
 # Kuro no Su: Chronus
 
+![kuro-no-su-chronus](https://cdn.myanimelist.net/images/anime/6/55167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 黒の栖 -Chronus-

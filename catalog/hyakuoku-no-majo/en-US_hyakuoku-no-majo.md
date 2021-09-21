@@ -1,5 +1,7 @@
 # Hyakuoku no Majo
 
+![hyakuoku-no-majo](https://cdn.myanimelist.net/images/manga/1/154353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 百億の魔女

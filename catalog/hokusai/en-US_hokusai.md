@@ -1,5 +1,7 @@
 # Hokusai
 
+![hokusai](https://cdn.myanimelist.net/images/manga/3/189121.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 北斎

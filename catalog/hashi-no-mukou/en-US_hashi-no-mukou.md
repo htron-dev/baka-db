@@ -1,5 +1,7 @@
 # Hashi no Mukou
 
+![hashi-no-mukou](https://cdn.myanimelist.net/images/anime/12/62825.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 端ノ向フ

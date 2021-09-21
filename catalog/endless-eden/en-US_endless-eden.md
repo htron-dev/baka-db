@@ -1,5 +1,7 @@
 # Endless Eden
 
+![endless-eden](https://cdn.myanimelist.net/images/manga/1/200168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

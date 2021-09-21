@@ -1,5 +1,7 @@
 # Issho ni Kakumei Shimasen ka?
 
+![issho-ni-kakumei-shimasen-ka](https://cdn.myanimelist.net/images/manga/2/134869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 一緒に革命しませんか？

@@ -1,5 +1,7 @@
 # Maison Ikkoku
 
+![maison-ikkoku](https://cdn.myanimelist.net/images/anime/6/17576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: めぞん一刻

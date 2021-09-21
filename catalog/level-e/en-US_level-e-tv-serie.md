@@ -1,5 +1,7 @@
 # Level E
 
+![level-e](https://cdn.myanimelist.net/images/anime/4/29668.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: レベル E

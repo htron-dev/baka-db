@@ -1,5 +1,7 @@
 # Futari Zamurai Homare no Kawakiri
 
+![futari-zamurai-homare-no-kawakiri](https://cdn.myanimelist.net/images/anime/6/71307.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 両人侍誉皮切

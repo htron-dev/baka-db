@@ -1,5 +1,7 @@
 # Miwaku no Beam
 
+![miwaku-no-beam](https://cdn.myanimelist.net/images/manga/1/12648.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魅惑のビーム

@@ -1,5 +1,7 @@
 # Gun x Clover
 
+![gun-x-clover](https://cdn.myanimelist.net/images/manga/1/203272.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 60

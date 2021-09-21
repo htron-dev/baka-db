@@ -1,5 +1,7 @@
 # He Is Beautiful.
 
+![he-is-beautiful](https://cdn.myanimelist.net/images/manga/1/142537.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: He is beautiful.

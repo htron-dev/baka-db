@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume Six: Shimane wa Yatsura Da
 
+![himitsukessha-taka-no-tsume-six-shimane-wa-yatsura-da](https://cdn.myanimelist.net/images/anime/1653/106868.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 秘密結社 鷹の爪シックス 〜島根は奴らだ〜

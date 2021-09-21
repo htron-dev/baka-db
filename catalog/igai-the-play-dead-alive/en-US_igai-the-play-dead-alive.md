@@ -1,5 +1,7 @@
 # Igai: The Play Dead/Alive
 
+![igai-the-play-dead-alive](https://cdn.myanimelist.net/images/manga/2/209989.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 46

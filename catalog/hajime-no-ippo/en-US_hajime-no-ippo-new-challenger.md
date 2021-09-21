@@ -1,5 +1,7 @@
 # Hajime no Ippo: New Challenger
 
+![hajime-no-ippo-new-challenger](https://cdn.myanimelist.net/images/anime/8/56617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: はじめの一歩 新シリーズ

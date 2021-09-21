@@ -1,5 +1,7 @@
 # Majutsushi
 
+![majutsushi](https://cdn.myanimelist.net/images/manga/1/79499.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 魔術師

@@ -1,5 +1,7 @@
 # Mendokusagari Danshi ga Asa Okitara Onnanoko ni Natteita Hanashi
 
+![mendokusagari-danshi-ga-asa-okitara-onnanoko-ni-natteita-hanashi](https://cdn.myanimelist.net/images/manga/2/221493.jpg)
+
 -   **type**: manga
 -   **original-name**: めんどくさがり男子が朝起きたら女の子になっていた話
 -   **start-date**: 2019-07-05

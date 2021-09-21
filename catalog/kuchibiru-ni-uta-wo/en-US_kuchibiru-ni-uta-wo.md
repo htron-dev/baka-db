@@ -1,5 +1,7 @@
 # Kuchibiru ni Uta wo
 
+![kuchibiru-ni-uta-wo](https://cdn.myanimelist.net/images/manga/1/137465.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

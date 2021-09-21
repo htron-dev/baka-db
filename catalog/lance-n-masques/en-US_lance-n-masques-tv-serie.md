@@ -1,5 +1,7 @@
 # Lance N' Masques
 
+![lance-n-masques](https://cdn.myanimelist.net/images/anime/13/76576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ランス・アンド・マスクス

@@ -1,5 +1,7 @@
 # Konpeki no Prisoner
 
+![konpeki-no-prisoner](https://cdn.myanimelist.net/images/manga/1/207969.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

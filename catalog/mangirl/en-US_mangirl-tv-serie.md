@@ -1,5 +1,7 @@
 # Mangirl!
 
+![mangirl](https://cdn.myanimelist.net/images/anime/6/45314.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: まんがーる!

@@ -1,5 +1,7 @@
 # Level 1 no Saikyou Kenja: Noroi de Saikakyuu Mahou shika Tsukaenai kedo, Kami no Kanchigai de Mugen no Maryoku wo Te ni Ire Saikyou ni
 
+![level-1-no-saikyou-kenja-noroi-de-saikakyuu-mahou-shika-tsukaenai-kedo-kami-no-kanchigai-de-mugen-no-maryoku-wo-te-ni-ire-saikyou-ni](https://cdn.myanimelist.net/images/manga/2/235435.jpg)
+
 -   **type**: manga
 -   **original-name**: レベル 1 の最強賢者 ～呪いで最下級魔法しか使えないけど、神の勘違いで無限の魔力を手に入れ最強に～
 -   **start-date**: 2019-11-17

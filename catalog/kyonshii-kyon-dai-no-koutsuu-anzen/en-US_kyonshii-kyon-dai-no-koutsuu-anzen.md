@@ -1,5 +1,7 @@
 # Kyonshii Kyon Dai no Koutsuu Anzen
 
+![kyonshii-kyon-dai-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1241/99144.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キョンシーキョン太の交通安全

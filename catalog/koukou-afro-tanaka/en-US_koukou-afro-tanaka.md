@@ -1,5 +1,7 @@
 # Koukou Afro Tanaka
 
+![koukou-afro-tanaka](https://cdn.myanimelist.net/images/manga/2/168996.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 101

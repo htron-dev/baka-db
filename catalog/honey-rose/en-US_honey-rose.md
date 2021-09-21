@@ -1,5 +1,7 @@
 # Honey Rose
 
+![honey-rose](https://cdn.myanimelist.net/images/manga/1/180783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

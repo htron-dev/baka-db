@@ -1,5 +1,7 @@
 # Manga Nippon Mukashibanashi (Movie)
 
+![manga-nippon-mukashibanashi-movie](https://cdn.myanimelist.net/images/anime/9/28284.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まんが日本昔ばなし

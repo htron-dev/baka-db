@@ -1,5 +1,7 @@
 # Macross Δ: Delta Shougekijou
 
+![macross-δ-delta-shougekijou](https://cdn.myanimelist.net/images/anime/2/83238.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: マクロス Δ「でるた小劇場」

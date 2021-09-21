@@ -1,5 +1,7 @@
 # Himitsu no Étoile
 
+![himitsu-no-etoile](https://cdn.myanimelist.net/images/manga/2/133649.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

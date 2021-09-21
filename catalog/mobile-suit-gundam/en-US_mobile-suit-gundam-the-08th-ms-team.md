@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: The 08th MS Team
 
+![mobile-suit-gundam-the-08th-ms-team](https://cdn.myanimelist.net/images/anime/9/75618.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 機動戦士ガンダム 第 08MS 小隊

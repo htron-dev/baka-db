@@ -1,5 +1,7 @@
 # Konjiki no Gash Bell!!: Hashire Gash!! Ubawareta Umagon
 
+![konjiki-no-gash-bell-hashire-gash-ubawareta-umagon](https://cdn.myanimelist.net/images/anime/13/32975.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 金色のガッシュベル！！走れガッシュ！！奪われたウマゴン

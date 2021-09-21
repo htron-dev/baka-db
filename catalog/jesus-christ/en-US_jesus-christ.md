@@ -1,5 +1,7 @@
 # Jesus Christ!
 
+![jesus-christ](https://cdn.myanimelist.net/images/manga/2/17791.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ジーザス・クライスト！

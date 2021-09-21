@@ -1,5 +1,7 @@
 # Suna no Bara: Yuki no Mokushiroku
 
+![suna-no-bara-yuki-no-mokushiroku](https://cdn.myanimelist.net/images/anime/1310/112862.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 砂の薔薇[デザート・ローズ] 雪の黙示録

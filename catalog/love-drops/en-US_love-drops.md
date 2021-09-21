@@ -1,5 +1,7 @@
 # Love Drops
 
+![love-drops](https://cdn.myanimelist.net/images/manga/3/15990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

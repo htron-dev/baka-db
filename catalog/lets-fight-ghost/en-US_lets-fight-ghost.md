@@ -1,5 +1,7 @@
 # Let's Fight Ghost
 
+![lets-fight-ghost](https://cdn.myanimelist.net/images/manga/3/45713.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 116
 -   **original-name**: 싸우자귀신아

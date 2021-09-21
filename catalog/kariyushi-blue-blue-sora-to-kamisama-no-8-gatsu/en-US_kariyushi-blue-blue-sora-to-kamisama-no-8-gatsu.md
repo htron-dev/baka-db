@@ -1,5 +1,7 @@
 # Kariyushi Blue Blue: Sora to Kamisama no 8-gatsu
 
+![kariyushi-blue-blue-sora-to-kamisama-no-8-gatsu](https://cdn.myanimelist.net/images/manga/2/195954.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: かりゆしブルー・ブルー 空と神様の八月

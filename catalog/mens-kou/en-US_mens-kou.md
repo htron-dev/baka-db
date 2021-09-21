@@ -1,5 +1,7 @@
 # Men's Kou
 
+![mens-kou](https://cdn.myanimelist.net/images/manga/1/144331.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 38

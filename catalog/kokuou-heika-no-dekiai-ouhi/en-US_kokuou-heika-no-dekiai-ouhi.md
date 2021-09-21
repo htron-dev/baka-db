@@ -1,5 +1,7 @@
 # Kokuou Heika no Dekiai Ouhi
 
+![kokuou-heika-no-dekiai-ouhi](https://cdn.myanimelist.net/images/manga/1/191436.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

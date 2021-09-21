@@ -1,5 +1,7 @@
 # Inazuma Eleven: Ares no Tenbin
 
+![inazuma-eleven-ares-no-tenbin](https://cdn.myanimelist.net/images/anime/1460/96891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: イナズマイレブン アレスの天秤

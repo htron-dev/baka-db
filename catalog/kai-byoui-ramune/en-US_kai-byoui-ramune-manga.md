@@ -1,5 +1,7 @@
 # Kai Byoui Ramune
 
+![kai-byoui-ramune](https://cdn.myanimelist.net/images/manga/2/235763.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Dekiai no Ori
 
+![dekiai-no-ori](https://cdn.myanimelist.net/images/manga/2/225068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

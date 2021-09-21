@@ -1,5 +1,7 @@
 # Kyojin no Hoshi (Movie)
 
+![kyojin-no-hoshi-movie](https://cdn.myanimelist.net/images/anime/12/46611.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 巨人の星

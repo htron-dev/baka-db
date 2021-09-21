@@ -1,5 +1,7 @@
 # Hashikko Ensemble
 
+![hashikko-ensemble](https://cdn.myanimelist.net/images/manga/2/223585.jpg)
+
 -   **type**: manga
 -   **original-name**: はしっこアンサンブル
 -   **start-date**: 2018-02-24

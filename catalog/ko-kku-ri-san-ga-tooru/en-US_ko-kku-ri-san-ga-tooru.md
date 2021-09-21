@@ -1,5 +1,7 @@
 # KoKkuRi-san ga Tooru
 
+![ko-kku-ri-san-ga-tooru](https://cdn.myanimelist.net/images/manga/2/179688.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

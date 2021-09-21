@@ -1,5 +1,7 @@
 # Hayou no Tsurugi
 
+![hayou-no-tsurugi](https://cdn.myanimelist.net/images/manga/3/128323.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 破妖の剣
 -   **start-date**: 1989-11-02

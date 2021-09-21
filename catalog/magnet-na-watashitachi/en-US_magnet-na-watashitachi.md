@@ -1,5 +1,7 @@
 # Magnet na Watashitachi
 
+![magnet-na-watashitachi](https://cdn.myanimelist.net/images/manga/3/142529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

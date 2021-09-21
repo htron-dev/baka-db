@@ -1,5 +1,7 @@
 # Koi ni Tsuite Hanasou ka
 
+![koi-ni-tsuite-hanasou-ka](https://cdn.myanimelist.net/images/manga/1/161179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

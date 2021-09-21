@@ -1,5 +1,7 @@
 # Kamisama no Goyounin
 
+![kamisama-no-goyounin](https://cdn.myanimelist.net/images/manga/2/222090.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様の御用人
 -   **start-date**: 2015-10-01

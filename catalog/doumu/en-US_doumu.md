@@ -1,5 +1,7 @@
 # Doumu
 
+![doumu](https://cdn.myanimelist.net/images/manga/1/153281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

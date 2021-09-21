@@ -1,5 +1,7 @@
 # Hone Made Aishite
 
+![hone-made-aishite](https://cdn.myanimelist.net/images/manga/1/40498.jpg)
+
 -   **type**: manga
 -   **original-name**: 骨まで愛して
 

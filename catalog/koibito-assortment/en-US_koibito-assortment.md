@@ -1,5 +1,7 @@
 # Koibito Assortment
 
+![koibito-assortment](https://cdn.myanimelist.net/images/manga/2/124865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

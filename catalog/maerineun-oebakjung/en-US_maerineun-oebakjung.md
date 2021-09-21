@@ -1,5 +1,7 @@
 # Maerineun Oebakjung
 
+![maerineun-oebakjung](https://cdn.myanimelist.net/images/manga/2/38670.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 38

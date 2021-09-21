@@ -1,5 +1,7 @@
 # Kawauso Labo
 
+![kawauso-labo](https://cdn.myanimelist.net/images/anime/1458/98252.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カワウソラボ

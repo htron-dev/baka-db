@@ -1,5 +1,7 @@
 # Aoi Honoo
 
+![aoi-honoo](https://cdn.myanimelist.net/images/manga/3/137959.jpg)
+
 -   **type**: manga
 -   **original-name**: アオイホノオ
 

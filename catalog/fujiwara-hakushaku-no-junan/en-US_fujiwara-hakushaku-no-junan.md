@@ -1,5 +1,7 @@
 # Fujiwara Hakushaku no Junan
 
+![fujiwara-hakushaku-no-junan](https://cdn.myanimelist.net/images/manga/3/179567.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Frame Astrays
 
+![mobile-suit-gundam-seed-frame-astrays](https://cdn.myanimelist.net/images/manga/1/16378.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

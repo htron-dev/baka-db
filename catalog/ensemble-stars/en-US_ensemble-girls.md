@@ -1,5 +1,7 @@
 # Ensemble Girls!!
 
+![ensemble-girls](https://cdn.myanimelist.net/images/anime/1083/93303.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あんさんぶるガールズ！！

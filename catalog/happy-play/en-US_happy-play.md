@@ -1,5 +1,7 @@
 # Happy Play
 
+![happy-play](https://cdn.myanimelist.net/images/manga/1/2840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

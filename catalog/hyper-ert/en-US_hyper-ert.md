@@ -1,5 +1,7 @@
 # Hyper ERT
 
+![hyper-ert](https://cdn.myanimelist.net/images/anime/8/27389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 小海白 ERT

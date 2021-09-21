@@ -1,5 +1,7 @@
 # Maji! Bangai-hen
 
+![maji-bangai-hen](https://cdn.myanimelist.net/images/manga/2/231358.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

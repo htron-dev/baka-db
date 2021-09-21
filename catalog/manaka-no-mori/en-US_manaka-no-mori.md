@@ -1,5 +1,7 @@
 # Manaka no Mori
 
+![manaka-no-mori](https://cdn.myanimelist.net/images/manga/2/205172.jpg)
+
 -   **type**: manga
 -   **original-name**: まなかの杜
 -   **start-date**: 2017-04-08

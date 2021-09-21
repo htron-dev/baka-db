@@ -1,5 +1,7 @@
 # Dhaldot no Akujiki Musume
 
+![dhaldot-no-akujiki-musume](https://cdn.myanimelist.net/images/manga/3/160707.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ダールドットの悪食娘

@@ -1,5 +1,7 @@
 # Imawa no Kuni no Alice (OVA)
 
+![imawa-no-kuni-no-alice-ova](https://cdn.myanimelist.net/images/anime/1004/96669.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 今際の国のアリス

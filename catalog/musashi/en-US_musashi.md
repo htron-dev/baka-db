@@ -1,5 +1,7 @@
 # Musashi
 
+![musashi](https://cdn.myanimelist.net/images/manga/1/240623.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 武蔵

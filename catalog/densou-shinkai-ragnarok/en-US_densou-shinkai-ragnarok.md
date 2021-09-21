@@ -1,5 +1,7 @@
 # Densou Shinkai Ragnarok
 
+![densou-shinkai-ragnarok](https://cdn.myanimelist.net/images/manga/3/176335.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

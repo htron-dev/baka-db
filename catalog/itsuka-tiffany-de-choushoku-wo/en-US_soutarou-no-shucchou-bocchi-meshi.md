@@ -1,5 +1,7 @@
 # Soutarou no Shucchou Bocchi Meshi
 
+![soutarou-no-shucchou-bocchi-meshi](https://cdn.myanimelist.net/images/manga/3/243097.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

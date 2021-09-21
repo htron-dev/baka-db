@@ -1,5 +1,7 @@
 # Fujimura-kun Mates
 
+![fujimura-kun-mates](https://cdn.myanimelist.net/images/manga/3/66005.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 97

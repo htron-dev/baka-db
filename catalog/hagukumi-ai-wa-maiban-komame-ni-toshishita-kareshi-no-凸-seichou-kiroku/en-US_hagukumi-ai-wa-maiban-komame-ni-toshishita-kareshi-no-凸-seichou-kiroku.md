@@ -1,5 +1,7 @@
 # Hagukumi Ai wa Maiban Komame ni: Toshishita Kareshi no 凸 Seichou Kiroku
 
+![hagukumi-ai-wa-maiban-komame-ni-toshishita-kareshi-no-凸-seichou-kiroku](https://cdn.myanimelist.net/images/manga/2/241435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

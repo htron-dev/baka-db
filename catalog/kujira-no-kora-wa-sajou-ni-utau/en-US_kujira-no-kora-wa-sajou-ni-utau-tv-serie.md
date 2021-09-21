@@ -1,5 +1,7 @@
 # Kujira no Kora wa Sajou ni Utau
 
+![kujira-no-kora-wa-sajou-ni-utau](https://cdn.myanimelist.net/images/anime/4/86661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クジラの子らは砂上に歌う

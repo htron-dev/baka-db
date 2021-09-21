@@ -1,5 +1,7 @@
 # Gumi from Vocaloid
 
+![gumi-from-vocaloid](https://cdn.myanimelist.net/images/manga/1/166194.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

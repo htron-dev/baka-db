@@ -1,5 +1,7 @@
 # Miwaku no Dokushin Kizoku
 
+![miwaku-no-dokushin-kizoku](https://cdn.myanimelist.net/images/manga/3/63571.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 魅惑の独身貴族

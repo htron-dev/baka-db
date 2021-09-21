@@ -1,5 +1,7 @@
 # Daraku no Ou
 
+![daraku-no-ou](https://cdn.myanimelist.net/images/manga/2/215099.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

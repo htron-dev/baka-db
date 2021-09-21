@@ -1,5 +1,7 @@
 # Aoyama Gosho Tanpenshuu
 
+![aoyama-gosho-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/201863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

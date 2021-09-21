@@ -1,5 +1,7 @@
 # Laika, Pavlov, Pochihachikou
 
+![laika-pavlov-pochihachikou](https://cdn.myanimelist.net/images/manga/3/107505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

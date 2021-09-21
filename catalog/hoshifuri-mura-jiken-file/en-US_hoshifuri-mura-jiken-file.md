@@ -1,5 +1,7 @@
 # Hoshifuri Mura Jiken File
 
+![hoshifuri-mura-jiken-file](https://cdn.myanimelist.net/images/manga/3/163786.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 星降り村事件ファイル

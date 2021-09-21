@@ -1,5 +1,7 @@
 # Kara no Kyoukai 4: Garan no Dou
 
+![kara-no-kyoukai-4-garan-no-dou](https://cdn.myanimelist.net/images/anime/9/21736.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第四章『伽藍の洞』

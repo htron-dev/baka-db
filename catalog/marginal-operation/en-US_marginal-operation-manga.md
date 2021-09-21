@@ -1,5 +1,7 @@
 # Marginal Operation
 
+![marginal-operation](https://cdn.myanimelist.net/images/manga/1/174841.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 88

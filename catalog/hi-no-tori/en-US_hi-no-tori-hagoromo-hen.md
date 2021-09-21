@@ -1,5 +1,7 @@
 # Hi no Tori: Hagoromo-hen
 
+![hi-no-tori-hagoromo-hen](https://cdn.myanimelist.net/images/anime/12/61249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火の鳥 ~羽衣編~

@@ -1,5 +1,7 @@
 # Q Transformers: Saranaru Ninki Mono e no Michi
 
+![q-transformers-saranaru-ninki-mono-e-no-michi](https://cdn.myanimelist.net/images/anime/2/74246.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: キュートランスフォーマー さらなる人気者への道

@@ -1,5 +1,7 @@
 # Drachma
 
+![drachma](https://cdn.myanimelist.net/images/manga/3/156093.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

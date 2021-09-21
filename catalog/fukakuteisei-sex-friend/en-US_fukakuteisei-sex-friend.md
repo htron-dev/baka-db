@@ -1,5 +1,7 @@
 # Fukakuteisei Sex Friend
 
+![fukakuteisei-sex-friend](https://cdn.myanimelist.net/images/manga/3/203610.jpg)
+
 -   **type**: manga
 -   **original-name**: 不確定性セックスフレンド
 -   **start-date**: 2016-09-30

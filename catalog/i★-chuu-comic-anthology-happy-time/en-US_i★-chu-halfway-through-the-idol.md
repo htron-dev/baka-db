@@ -1,5 +1,7 @@
 # I★Chu: Halfway Through the Idol
 
+![i★-chu-halfway-through-the-idol](https://cdn.myanimelist.net/images/anime/1212/113946.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アイ ★ チュウ HALFWAY THROUGH THE IDOL

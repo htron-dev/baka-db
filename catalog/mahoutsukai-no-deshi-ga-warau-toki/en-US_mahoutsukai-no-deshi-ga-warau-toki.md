@@ -1,5 +1,7 @@
 # Mahoutsukai no Deshi ga Warau Toki.
 
+![mahoutsukai-no-deshi-ga-warau-toki](https://cdn.myanimelist.net/images/manga/3/146533.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

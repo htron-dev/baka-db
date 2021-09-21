@@ -1,5 +1,7 @@
 # Final Fantasy Reishiki
 
+![final-fantasy-reishiki](https://cdn.myanimelist.net/images/manga/2/120183.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

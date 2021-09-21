@@ -1,5 +1,7 @@
 # Houkago no Kuni
 
+![houkago-no-kuni](https://cdn.myanimelist.net/images/manga/2/193803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

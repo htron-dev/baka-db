@@ -1,5 +1,7 @@
 # Green Green
 
+![green-green](https://cdn.myanimelist.net/images/manga/3/162358.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: グリーングリーン

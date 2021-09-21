@@ -1,5 +1,7 @@
 # 3-Nen D-Gumi Glass no Kamen: Tobidase! Watashitachi no Victory Road
 
+![3-nen-d-gumi-glass-no-kamen-tobidase-watashitachi-no-victory-road](https://cdn.myanimelist.net/images/anime/9/85972.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 3 ねん D ぐみガラスの仮面～とびだせ! 私たちの VR（ヴィクトリーロード）～

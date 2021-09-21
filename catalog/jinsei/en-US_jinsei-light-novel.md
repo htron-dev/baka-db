@@ -1,5 +1,7 @@
 # Jinsei
 
+![jinsei](https://cdn.myanimelist.net/images/manga/2/159511.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 84

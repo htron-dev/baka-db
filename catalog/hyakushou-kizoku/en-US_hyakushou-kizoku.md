@@ -1,5 +1,7 @@
 # Hyakushou Kizoku
 
+![hyakushou-kizoku](https://cdn.myanimelist.net/images/manga/2/34459.jpg)
+
 -   **type**: manga
 -   **original-name**: 百姓貴族
 -   **start-date**: 2006-12-28

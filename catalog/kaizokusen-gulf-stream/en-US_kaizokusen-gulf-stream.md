@@ -1,5 +1,7 @@
 # Kaizokusen Gulf Stream
 
+![kaizokusen-gulf-stream](https://cdn.myanimelist.net/images/manga/2/158918.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Freezing Vibration
 
+![freezing-vibration](https://cdn.myanimelist.net/images/anime/3/68195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フリージング ヴァイブレーション

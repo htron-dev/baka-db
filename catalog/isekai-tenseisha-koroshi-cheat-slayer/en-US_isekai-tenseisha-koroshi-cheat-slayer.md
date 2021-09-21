@@ -1,5 +1,7 @@
 # Isekai Tenseisha Koroshi: Cheat Slayer
 
+![isekai-tenseisha-koroshi-cheat-slayer](https://cdn.myanimelist.net/images/manga/2/246621.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 異世界転生者殺し -チートスレイヤー-

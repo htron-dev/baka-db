@@ -1,5 +1,7 @@
 # Furachi na Romance Shousetsu no Kakikata
 
+![furachi-na-romance-shousetsu-no-kakikata](https://cdn.myanimelist.net/images/manga/3/183889.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

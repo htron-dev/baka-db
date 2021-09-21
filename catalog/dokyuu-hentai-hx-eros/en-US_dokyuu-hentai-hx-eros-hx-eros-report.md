@@ -1,5 +1,7 @@
 # Dokyuu Hentai HxEros: HxEros Report
 
+![dokyuu-hentai-hx-eros-hx-eros-report](https://cdn.myanimelist.net/images/anime/1284/108937.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ド級編隊エグゼロス 第 7.5 話「エグゼロス・レポート」

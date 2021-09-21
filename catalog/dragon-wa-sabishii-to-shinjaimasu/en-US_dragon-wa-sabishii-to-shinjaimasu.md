@@ -1,5 +1,7 @@
 # Dragon wa Sabishii to Shinjaimasu
 
+![dragon-wa-sabishii-to-shinjaimasu](https://cdn.myanimelist.net/images/manga/3/189070.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ドラゴンは寂しいと死んじゃいます
 -   **start-date**: 2017-01-16

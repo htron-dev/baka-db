@@ -1,5 +1,7 @@
 # Devil Survivor 2 The Animation
 
+![devil-survivor-2-the-animation](https://cdn.myanimelist.net/images/anime/11/47191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: デビルサバイバー２ THE ANIMATION

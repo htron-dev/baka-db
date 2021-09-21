@@ -1,5 +1,7 @@
 # Kakumei no Wakaki Sora
 
+![kakumei-no-wakaki-sora](https://cdn.myanimelist.net/images/anime/8/61383.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 革命の若き空

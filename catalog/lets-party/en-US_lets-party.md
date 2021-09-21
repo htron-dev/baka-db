@@ -1,5 +1,7 @@
 # Let's Party!
 
+![lets-party](https://cdn.myanimelist.net/images/manga/2/160773.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: Let's パーティー!

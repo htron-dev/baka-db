@@ -1,5 +1,7 @@
 # Mazinger Z
 
+![mazinger-z](https://cdn.myanimelist.net/images/anime/3/21724.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 92
 -   **original-name**: マジンガーＺ

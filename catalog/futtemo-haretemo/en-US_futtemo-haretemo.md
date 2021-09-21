@@ -1,5 +1,7 @@
 # Futtemo Haretemo
 
+![futtemo-haretemo](https://cdn.myanimelist.net/images/manga/2/150102.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 降っても晴れても

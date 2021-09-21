@@ -1,5 +1,7 @@
 # Ichigo Ichie: Koibana Tomobana
 
+![ichigo-ichie-koibana-tomobana](https://cdn.myanimelist.net/images/anime/6/4864.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 一期一会 恋バナ友バナ

@@ -1,5 +1,7 @@
 # Hachikadzuki-hime
 
+![hachikadzuki-hime](https://cdn.myanimelist.net/images/anime/13/74523.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鉢かづき姫

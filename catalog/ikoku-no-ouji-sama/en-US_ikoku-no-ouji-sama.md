@@ -1,5 +1,7 @@
 # Ikoku no Ouji-sama
 
+![ikoku-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/228812.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 異国の王子さま

@@ -1,5 +1,7 @@
 # Gun Dolls
 
+![gun-dolls](https://cdn.myanimelist.net/images/manga/1/34855.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

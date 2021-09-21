@@ -1,5 +1,7 @@
 # Mikado☆Boy
 
+![mikado☆-boy](https://cdn.myanimelist.net/images/manga/2/98055.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Hokuto no Ken - Toki Gaiden
 
+![hokuto-no-ken-toki-gaiden](https://cdn.myanimelist.net/images/manga/5/75553.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

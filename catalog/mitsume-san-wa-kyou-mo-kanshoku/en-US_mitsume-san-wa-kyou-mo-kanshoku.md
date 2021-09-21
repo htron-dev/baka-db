@@ -1,5 +1,7 @@
 # Mitsume-san wa Kyou mo Kanshoku
 
+![mitsume-san-wa-kyou-mo-kanshoku](https://cdn.myanimelist.net/images/manga/2/205474.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Kimi no Niwa.
 
+![kimi-no-niwa](https://cdn.myanimelist.net/images/manga/2/198002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

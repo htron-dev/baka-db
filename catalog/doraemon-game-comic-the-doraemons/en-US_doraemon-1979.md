@@ -1,5 +1,7 @@
 # Doraemon (1979)
 
+![doraemon-1979](https://cdn.myanimelist.net/images/anime/3/3953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1787
 -   **original-name**: ドラえもん

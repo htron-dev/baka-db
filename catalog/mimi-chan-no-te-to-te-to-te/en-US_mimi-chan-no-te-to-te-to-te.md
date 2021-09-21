@@ -1,5 +1,7 @@
 # Mimi-chan no Te to Te to Te
 
+![mimi-chan-no-te-to-te-to-te](https://cdn.myanimelist.net/images/anime/2/87611.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミミちゃんの手と手と手

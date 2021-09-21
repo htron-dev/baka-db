@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Movie Specials
 
+![girls-amp-panzer-movie-specials](https://cdn.myanimelist.net/images/anime/4/80095.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ガールズ＆パンツァー 劇場版

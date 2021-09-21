@@ -1,5 +1,7 @@
 # Kimi ni Koisuru Satsujinki
 
+![kimi-ni-koisuru-satsujinki](https://cdn.myanimelist.net/images/manga/1/246222.jpg)
+
 -   **type**: manga
 -   **original-name**: きみに恋する殺人鬼
 -   **start-date**: 2020-12-30

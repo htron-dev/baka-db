@@ -1,5 +1,7 @@
 # Masaki no Pan
 
+![masaki-no-pan](https://cdn.myanimelist.net/images/manga/2/181879.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖樹のパン
 -   **start-date**: 2015-08-21

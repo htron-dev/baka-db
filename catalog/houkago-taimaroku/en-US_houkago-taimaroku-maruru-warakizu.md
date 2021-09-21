@@ -1,5 +1,7 @@
 # Houkago Taimaroku Maruru: Warakizu
 
+![houkago-taimaroku-maruru-warakizu](https://cdn.myanimelist.net/images/manga/3/161591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

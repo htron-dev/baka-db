@@ -1,5 +1,7 @@
 # Fraction
 
+![fraction](https://cdn.myanimelist.net/images/manga/4/154940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

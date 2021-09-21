@@ -1,5 +1,7 @@
 # Moko to Yuganda Satsujinki-domo
 
+![moko-to-yuganda-satsujinki-domo](https://cdn.myanimelist.net/images/manga/1/146859.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Mahou no Iroha!
 
+![mahou-no-iroha](https://cdn.myanimelist.net/images/manga/3/68159.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

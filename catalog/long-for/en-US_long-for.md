@@ -1,5 +1,7 @@
 # Long For
 
+![long-for](https://cdn.myanimelist.net/images/manga/2/226753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

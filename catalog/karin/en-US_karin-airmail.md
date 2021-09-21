@@ -1,5 +1,7 @@
 # Karin Airmail
 
+![karin-airmail](https://cdn.myanimelist.net/images/manga/2/196060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

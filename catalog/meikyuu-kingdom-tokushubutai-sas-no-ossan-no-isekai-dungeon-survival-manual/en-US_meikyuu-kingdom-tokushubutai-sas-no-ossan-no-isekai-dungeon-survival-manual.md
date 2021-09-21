@@ -1,5 +1,7 @@
 # Meikyuu Kingdom: Tokushubutai SAS no Ossan no Isekai Dungeon Survival Manual!
 
+![meikyuu-kingdom-tokushubutai-sas-no-ossan-no-isekai-dungeon-survival-manual](https://cdn.myanimelist.net/images/manga/1/241511.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 32

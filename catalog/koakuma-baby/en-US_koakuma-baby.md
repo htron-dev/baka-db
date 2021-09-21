@@ -1,5 +1,7 @@
 # Koakuma Baby!
 
+![koakuma-baby](https://cdn.myanimelist.net/images/manga/3/172587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 小悪魔ベイビー!

@@ -1,5 +1,7 @@
 # Ling Long: Incarnation Part 2
 
+![ling-long-incarnation-part-2](https://cdn.myanimelist.net/images/anime/1318/109517.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 灵笼:INCARNATION 下半季

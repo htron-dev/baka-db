@@ -1,5 +1,7 @@
 # Kimi ga Orion
 
+![kimi-ga-orion](https://cdn.myanimelist.net/images/manga/2/174824.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

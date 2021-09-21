@@ -1,5 +1,7 @@
 # Mobile Suit Gundam UC Perfectibility
 
+![mobile-suit-gundam-uc-perfectibility](https://cdn.myanimelist.net/images/anime/1042/96713.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム UC ペルフェクティビリティ

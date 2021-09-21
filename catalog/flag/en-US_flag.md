@@ -1,5 +1,7 @@
 # Flag
 
+![flag](https://cdn.myanimelist.net/images/anime/1274/90483.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: FLAG（フラッグ）

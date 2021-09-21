@@ -1,5 +1,7 @@
 # Go! Go! Itsutsugo Land
 
+![go-go-itsutsugo-land](https://cdn.myanimelist.net/images/anime/8/61577.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゴーゴー五つ子ら・ん・ど

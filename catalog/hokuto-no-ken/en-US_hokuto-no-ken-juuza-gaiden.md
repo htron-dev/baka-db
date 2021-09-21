@@ -1,5 +1,7 @@
 # Hokuto no Ken - Juuza Gaiden
 
+![hokuto-no-ken-juuza-gaiden](https://cdn.myanimelist.net/images/manga/3/37606.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

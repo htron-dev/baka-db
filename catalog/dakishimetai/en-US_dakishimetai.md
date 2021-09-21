@@ -1,5 +1,7 @@
 # Dakishimetai
 
+![dakishimetai](https://cdn.myanimelist.net/images/manga/1/203704.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 抱きしめたい

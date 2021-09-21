@@ -1,5 +1,7 @@
 # Go Con - Gokujou Rakuen Tours
 
+![go-con-gokujou-rakuen-tours](https://cdn.myanimelist.net/images/manga/3/2658.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

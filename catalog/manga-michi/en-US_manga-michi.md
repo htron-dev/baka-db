@@ -1,5 +1,7 @@
 # Manga Michi
 
+![manga-michi](https://cdn.myanimelist.net/images/manga/3/73543.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 216

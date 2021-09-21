@@ -1,5 +1,7 @@
 # Kishin Gakuen Tantei Club
 
+![kishin-gakuen-tantei-club](https://cdn.myanimelist.net/images/manga/2/156765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

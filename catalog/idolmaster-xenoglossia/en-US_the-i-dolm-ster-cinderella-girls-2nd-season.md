@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls 2nd Season
 
+![the-i-dolm-ster-cinderella-girls-2nd-season](https://cdn.myanimelist.net/images/anime/9/75120.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アイドルマスター シンデレラガールズ 2nd シーズン

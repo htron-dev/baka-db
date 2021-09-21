@@ -1,5 +1,7 @@
 # Puni Puni☆Poemii
 
+![puni-puni☆-poemii](https://cdn.myanimelist.net/images/anime/2/20464.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ぷにぷに ☆ ぽえみぃ

@@ -1,5 +1,7 @@
 # Meiji Kottou Kitan Yumejii
 
+![meiji-kottou-kitan-yumejii](https://cdn.myanimelist.net/images/manga/3/164825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

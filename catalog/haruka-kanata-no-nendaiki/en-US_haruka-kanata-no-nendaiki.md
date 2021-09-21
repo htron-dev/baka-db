@@ -1,5 +1,7 @@
 # Haruka Kanata no Nendaiki
 
+![haruka-kanata-no-nendaiki](https://cdn.myanimelist.net/images/manga/1/123633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

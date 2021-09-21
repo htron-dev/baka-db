@@ -1,5 +1,7 @@
 # Ippitsu Nyuukon!
 
+![ippitsu-nyuukon](https://cdn.myanimelist.net/images/manga/1/165585.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

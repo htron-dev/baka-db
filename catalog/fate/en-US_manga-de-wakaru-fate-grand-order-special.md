@@ -1,5 +1,7 @@
 # Manga de Wakaru! Fate/Grand Order
 
+![manga-de-wakaru-fate-grand-order](https://cdn.myanimelist.net/images/anime/1830/98102.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マンガで分かる！Fate/Grand Order

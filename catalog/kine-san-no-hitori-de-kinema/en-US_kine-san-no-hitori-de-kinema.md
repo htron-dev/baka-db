@@ -1,5 +1,7 @@
 # Kine-san no Hitori de Kinema
 
+![kine-san-no-hitori-de-kinema](https://cdn.myanimelist.net/images/manga/1/170253.jpg)
+
 -   **type**: manga
 -   **original-name**: 木根さんの 1 人でキネマ
 -   **start-date**: 2014-12-12

@@ -1,5 +1,7 @@
 # Gakkou no Kowai Uwasa: Hanako-san ga Kita!!
 
+![gakkou-no-kowai-uwasa-hanako-san-ga-kita](https://cdn.myanimelist.net/images/anime/5/14726.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 学校のコワイうわさ　花子さんがきた！！

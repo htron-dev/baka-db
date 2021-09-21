@@ -1,5 +1,7 @@
 # Kantoku Fuyuki Todoki
 
+![kantoku-fuyuki-todoki](https://cdn.myanimelist.net/images/manga/1/29840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

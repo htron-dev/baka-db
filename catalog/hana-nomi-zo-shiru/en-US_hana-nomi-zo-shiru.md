@@ -1,5 +1,7 @@
 # Hana nomi zo Shiru
 
+![hana-nomi-zo-shiru](https://cdn.myanimelist.net/images/manga/3/168034.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

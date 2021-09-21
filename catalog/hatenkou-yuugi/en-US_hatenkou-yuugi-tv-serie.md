@@ -1,5 +1,7 @@
 # Hatenkou Yuugi
 
+![hatenkou-yuugi](https://cdn.myanimelist.net/images/anime/7/19931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 破天荒遊戯

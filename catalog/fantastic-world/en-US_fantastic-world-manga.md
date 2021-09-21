@@ -1,5 +1,7 @@
 # Fantastic World
 
+![fantastic-world](https://cdn.myanimelist.net/images/manga/3/224847.jpg)
+
 -   **type**: manga
 -   **original-name**: FANTASTIC WORLD
 -   **start-date**: 2014-08-01

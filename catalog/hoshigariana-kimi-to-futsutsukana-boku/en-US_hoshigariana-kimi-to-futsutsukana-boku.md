@@ -1,5 +1,7 @@
 # Hoshigariana Kimi to Futsutsukana Boku
 
+![hoshigariana-kimi-to-futsutsukana-boku](https://cdn.myanimelist.net/images/manga/2/22943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

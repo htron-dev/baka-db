@@ -1,5 +1,7 @@
 # Duel Masters
 
+![duel-masters](https://cdn.myanimelist.net/images/manga/2/27925.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: デュエル・マスターズ

@@ -1,5 +1,7 @@
 # Zoids Wild Zero
 
+![zoids-wild-zero](https://cdn.myanimelist.net/images/anime/1131/104980.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゾイドワイルド ZERO

@@ -1,5 +1,7 @@
 # Komaken.
 
+![komaken](https://cdn.myanimelist.net/images/manga/4/66769.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: こまけん。

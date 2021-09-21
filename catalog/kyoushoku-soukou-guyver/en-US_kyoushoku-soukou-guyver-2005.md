@@ -1,5 +1,7 @@
 # Kyoushoku Soukou Guyver (2005)
 
+![kyoushoku-soukou-guyver-2005](https://cdn.myanimelist.net/images/anime/6/3697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 強殖装甲ガイバー

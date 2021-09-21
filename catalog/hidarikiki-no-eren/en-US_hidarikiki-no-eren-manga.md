@@ -1,5 +1,7 @@
 # Hidarikiki no Eren
 
+![hidarikiki-no-eren](https://cdn.myanimelist.net/images/manga/1/204382.jpg)
+
 -   **type**: manga
 -   **original-name**: 左ききのエレン
 -   **start-date**: 2017-10-07

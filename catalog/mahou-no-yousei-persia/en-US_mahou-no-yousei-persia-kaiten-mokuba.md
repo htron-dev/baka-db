@@ -1,5 +1,7 @@
 # Mahou no Yousei Persia: Kaiten Mokuba
 
+![mahou-no-yousei-persia-kaiten-mokuba](https://cdn.myanimelist.net/images/anime/8/85623.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法の妖精ペルシャ 回転木馬

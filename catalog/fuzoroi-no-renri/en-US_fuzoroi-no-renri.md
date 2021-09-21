@@ -1,5 +1,7 @@
 # Fuzoroi no Renri
 
+![fuzoroi-no-renri](https://cdn.myanimelist.net/images/manga/2/224789.jpg)
+
 -   **type**: manga
 -   **original-name**: 不揃いの連理
 -   **start-date**: 2019-03-14

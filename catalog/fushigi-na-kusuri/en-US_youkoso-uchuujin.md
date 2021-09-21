@@ -1,5 +1,7 @@
 # Youkoso Uchuujin
 
+![youkoso-uchuujin](https://cdn.myanimelist.net/images/anime/3/36695.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ようこそ宇宙人

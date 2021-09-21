@@ -1,5 +1,7 @@
 # Kimi wa 008
 
+![kimi-wa-008](https://cdn.myanimelist.net/images/manga/2/209958.jpg)
+
 -   **type**: manga
 -   **original-name**: 君は 008
 -   **start-date**: 2018-02-21

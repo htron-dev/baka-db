@@ -1,5 +1,7 @@
 # Daomu Biji Zhi Qinling Shen Shu
 
+![daomu-biji-zhi-qinling-shen-shu](https://cdn.myanimelist.net/images/anime/1166/113496.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 盗墓笔记之秦岭神树

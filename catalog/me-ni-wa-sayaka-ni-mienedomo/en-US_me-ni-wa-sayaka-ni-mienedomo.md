@@ -1,5 +1,7 @@
 # Me ni wa Sayaka ni Mienedomo
 
+![me-ni-wa-sayaka-ni-mienedomo](https://cdn.myanimelist.net/images/manga/1/5490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

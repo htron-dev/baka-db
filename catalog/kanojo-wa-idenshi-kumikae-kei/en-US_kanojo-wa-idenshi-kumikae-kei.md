@@ -1,5 +1,7 @@
 # Kanojo wa Idenshi Kumikae-kei
 
+![kanojo-wa-idenshi-kumikae-kei](https://cdn.myanimelist.net/images/manga/2/159519.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 彼女は遺伝子組み換え系

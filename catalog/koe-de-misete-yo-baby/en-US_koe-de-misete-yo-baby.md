@@ -1,5 +1,7 @@
 # Koe de Misete yo Baby
 
+![koe-de-misete-yo-baby](https://cdn.myanimelist.net/images/manga/1/162141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

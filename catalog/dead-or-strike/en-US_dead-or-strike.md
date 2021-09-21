@@ -1,5 +1,7 @@
 # Dead or Strike
 
+![dead-or-strike](https://cdn.myanimelist.net/images/manga/2/234078.jpg)
+
 -   **type**: manga
 -   **original-name**: デッド・オア・ストライク
 -   **start-date**: 2015-06-30

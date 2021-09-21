@@ -1,5 +1,7 @@
 # Bokura no Katakoi Melancholy
 
+![bokura-no-katakoi-melancholy](https://cdn.myanimelist.net/images/manga/3/236262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

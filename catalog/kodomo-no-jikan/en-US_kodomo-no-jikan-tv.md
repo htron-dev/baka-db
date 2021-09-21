@@ -1,5 +1,7 @@
 # Kodomo no Jikan (TV)
 
+![kodomo-no-jikan-tv](https://cdn.myanimelist.net/images/anime/8/28234.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: こどものじかん

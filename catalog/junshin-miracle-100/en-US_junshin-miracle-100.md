@@ -1,5 +1,7 @@
 # Junshin Miracle 100%
 
+![junshin-miracle-100](https://cdn.myanimelist.net/images/manga/3/178480.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

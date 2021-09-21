@@ -1,5 +1,7 @@
 # Infection
 
+![infection](https://cdn.myanimelist.net/images/manga/1/188897.jpg)
+
 -   **type**: manga
 -   **original-name**: インフェクション
 -   **start-date**: 2015-12-02

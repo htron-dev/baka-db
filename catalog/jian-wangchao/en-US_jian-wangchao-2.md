@@ -1,5 +1,7 @@
 # Jian Wangchao 2
 
+![jian-wangchao-2](https://cdn.myanimelist.net/images/anime/10/89901.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 剣王朝 2

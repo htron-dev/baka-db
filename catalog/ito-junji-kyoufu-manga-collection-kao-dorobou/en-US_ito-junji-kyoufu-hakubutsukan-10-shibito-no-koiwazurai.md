@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Hakubutsukan 10: Shibito no Koiwazurai
 
+![ito-junji-kyoufu-hakubutsukan-10-shibito-no-koiwazurai](https://cdn.myanimelist.net/images/manga/1/164063.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 伊藤潤二恐怖博物館 10 死びとの恋わずらい

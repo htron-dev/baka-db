@@ -1,5 +1,7 @@
 # Hakuba no Ouji-sama
 
+![hakuba-no-ouji-sama](https://cdn.myanimelist.net/images/manga/5/76347.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 112

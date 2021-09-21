@@ -1,5 +1,7 @@
 # Kimi to Koi ni Ochiru Mahou de
 
+![kimi-to-koi-ni-ochiru-mahou-de](https://cdn.myanimelist.net/images/manga/5/161949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

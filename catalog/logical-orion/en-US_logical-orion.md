@@ -1,5 +1,7 @@
 # Logical Orion
 
+![logical-orion](https://cdn.myanimelist.net/images/manga/2/227832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

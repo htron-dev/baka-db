@@ -1,5 +1,7 @@
 # Kinezukan
 
+![kinezukan](https://cdn.myanimelist.net/images/manga/3/18212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きねづかん

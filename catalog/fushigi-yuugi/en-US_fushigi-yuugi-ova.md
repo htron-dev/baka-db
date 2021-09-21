@@ -1,5 +1,7 @@
 # Fushigi Yuugi OVA
 
+![fushigi-yuugi-ova](https://cdn.myanimelist.net/images/anime/1171/92443.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ふしぎ遊戯

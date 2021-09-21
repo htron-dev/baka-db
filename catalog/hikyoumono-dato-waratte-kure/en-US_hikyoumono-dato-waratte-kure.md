@@ -1,5 +1,7 @@
 # Hikyoumono dato Waratte Kure
 
+![hikyoumono-dato-waratte-kure](https://cdn.myanimelist.net/images/manga/1/238131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

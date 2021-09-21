@@ -1,5 +1,7 @@
 # Dog Boy
 
+![dog-boy](https://cdn.myanimelist.net/images/manga/1/105883.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 도그 보이 dog boy

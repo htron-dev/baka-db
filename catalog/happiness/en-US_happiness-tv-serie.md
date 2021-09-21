@@ -1,5 +1,7 @@
 # Happiness!
 
+![happiness](https://cdn.myanimelist.net/images/anime/9/75250.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はぴねす！

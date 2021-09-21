@@ -1,5 +1,7 @@
 # Hello Jadoo
 
+![hello-jadoo](https://cdn.myanimelist.net/images/anime/8/86812.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 122
 -   **start-date**: 2011-07-18

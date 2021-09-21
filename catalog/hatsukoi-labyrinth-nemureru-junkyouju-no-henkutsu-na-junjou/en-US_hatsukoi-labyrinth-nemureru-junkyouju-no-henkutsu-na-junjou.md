@@ -1,5 +1,7 @@
 # Hatsukoi Labyrinth: Nemureru Junkyouju no Henkutsu na Junjou
 
+![hatsukoi-labyrinth-nemureru-junkyouju-no-henkutsu-na-junjou](https://cdn.myanimelist.net/images/manga/2/194053.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

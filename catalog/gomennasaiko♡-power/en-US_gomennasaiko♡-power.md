@@ -1,5 +1,7 @@
 # Gomennasaiko♡Power
 
+![gomennasaiko♡-power](https://cdn.myanimelist.net/images/manga/3/24397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ごめんなさいこ ♡ ぱわあ

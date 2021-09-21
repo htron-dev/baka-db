@@ -1,5 +1,7 @@
 # Itsuka Koi ni Naru made
 
+![itsuka-koi-ni-naru-made](https://cdn.myanimelist.net/images/manga/3/222978.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

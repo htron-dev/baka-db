@@ -1,5 +1,7 @@
 # Ayashi no Ceres
 
+![ayashi-no-ceres](https://cdn.myanimelist.net/images/anime/8/23580.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 妖しのセレス

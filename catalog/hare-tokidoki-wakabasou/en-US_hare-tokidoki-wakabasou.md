@@ -1,5 +1,7 @@
 # Hare Tokidoki, Wakabasou
 
+![hare-tokidoki-wakabasou](https://cdn.myanimelist.net/images/manga/3/160728.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 晴れときどき、わかば荘

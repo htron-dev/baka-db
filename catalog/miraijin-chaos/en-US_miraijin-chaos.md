@@ -1,5 +1,7 @@
 # Miraijin Chaos
 
+![miraijin-chaos](https://cdn.myanimelist.net/images/manga/2/36204.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Majin Fulurie wa Ashita kara Honki Dasu
 
+![majin-fulurie-wa-ashita-kara-honki-dasu](https://cdn.myanimelist.net/images/manga/1/164084.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

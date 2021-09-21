@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! School Idol Diary
 
+![love-live-sunshine-school-idol-diary](https://cdn.myanimelist.net/images/manga/1/193348.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ラブライブ！サンシャイン!! School Idol Diary

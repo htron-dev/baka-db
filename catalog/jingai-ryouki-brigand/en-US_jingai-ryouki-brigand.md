@@ -1,5 +1,7 @@
 # Jingai Ryouki Brigand
 
+![jingai-ryouki-brigand](https://cdn.myanimelist.net/images/manga/3/176693.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 20

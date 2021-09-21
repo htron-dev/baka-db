@@ -1,5 +1,7 @@
 # Eien no Hou
 
+![eien-no-hou](https://cdn.myanimelist.net/images/anime/2/16138.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 永遠の法

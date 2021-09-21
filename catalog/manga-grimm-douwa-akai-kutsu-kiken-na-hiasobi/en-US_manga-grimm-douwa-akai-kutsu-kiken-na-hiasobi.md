@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Akai Kutsu - Kiken na Hiasobi
 
+![manga-grimm-douwa-akai-kutsu-kiken-na-hiasobi](https://cdn.myanimelist.net/images/manga/3/139681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

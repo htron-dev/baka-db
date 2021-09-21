@@ -1,5 +1,7 @@
 # Death March kara Hajimaru Isekai Kyousoukyoku Extra: Arisa Oujo no Isekai Funtouki
 
+![death-march-kara-hajimaru-isekai-kyousoukyoku-extra-arisa-oujo-no-isekai-funtouki](https://cdn.myanimelist.net/images/manga/2/210714.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Guru Guru Pon-chan Okawari
 
+![guru-guru-pon-chan-okawari](https://cdn.myanimelist.net/images/manga/3/70529.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ぐるぐるポンちゃん おかわりッ

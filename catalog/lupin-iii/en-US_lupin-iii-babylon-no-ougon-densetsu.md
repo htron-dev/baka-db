@@ -1,5 +1,7 @@
 # Lupin III: Babylon no Ougon Densetsu
 
+![lupin-iii-babylon-no-ougon-densetsu](https://cdn.myanimelist.net/images/anime/4/21666.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世　バビロンの黄金伝説

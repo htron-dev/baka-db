@@ -1,5 +1,7 @@
 # Ichiman Pound no Hanamuko
 
+![ichiman-pound-no-hanamuko](https://cdn.myanimelist.net/images/manga/2/42246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Magarikado no Bokura
 
+![magarikado-no-bokura](https://cdn.myanimelist.net/images/manga/5/27866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

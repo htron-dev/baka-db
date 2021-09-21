@@ -1,5 +1,7 @@
 # Kari Ring! Haginomori Koukou Shuryou Senmon Katei
 
+![kari-ring-haginomori-koukou-shuryou-senmon-katei](https://cdn.myanimelist.net/images/manga/1/172021.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

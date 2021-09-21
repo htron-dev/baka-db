@@ -1,5 +1,7 @@
 # Koinu dato Omotte Koe wo Kaketara Jitsu wa Ookami deshita
 
+![koinu-dato-omotte-koe-wo-kaketara-jitsu-wa-ookami-deshita](https://cdn.myanimelist.net/images/manga/3/192475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

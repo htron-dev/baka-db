@@ -1,5 +1,7 @@
 # Gyakuten Saiban 6 Prologue
 
+![gyakuten-saiban-6-prologue](https://cdn.myanimelist.net/images/anime/9/80162.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 逆転裁判 6 プロローグ

@@ -1,5 +1,7 @@
 # Kimagure Orange☆Road: Ano Hi ni Kaeritai
 
+![kimagure-orange☆-road-ano-hi-ni-kaeritai](https://cdn.myanimelist.net/images/anime/1142/106021.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きまぐれオレンジ ★ ロード　あの日にかえりたい

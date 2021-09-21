@@ -1,5 +1,7 @@
 # Kaitou Drugers!: Junjou★Koi Dorobou
 
+![kaitou-drugers-junjou★-koi-dorobou](https://cdn.myanimelist.net/images/manga/2/17412.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

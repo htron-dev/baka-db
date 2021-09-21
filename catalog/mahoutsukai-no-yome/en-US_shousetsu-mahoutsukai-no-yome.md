@@ -1,5 +1,7 @@
 # Shousetsu Mahoutsukai no Yome
 
+![shousetsu-mahoutsukai-no-yome](https://cdn.myanimelist.net/images/manga/1/228049.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

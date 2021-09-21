@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 4-bu - Kizokuin no Toshokan wo Sukuitai!
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-dai-4-bu-kizokuin-no-toshokan-wo-sukuitai](https://cdn.myanimelist.net/images/manga/3/242412.jpg)
+
 -   **type**: manga
 -   **original-name**: 本好きの下剋上～司書になるためには手段を選んでいられません～第四部 貴族院の図書館を救いたい!
 -   **start-date**: 2020-12-24

@@ -1,5 +1,7 @@
 # K: Stray Dog Story
 
+![k-stray-dog-story](https://cdn.myanimelist.net/images/manga/3/176955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

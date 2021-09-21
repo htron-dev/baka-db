@@ -1,5 +1,7 @@
 # High School DxD New: Oppai, Tsutsumimasu!
 
+![high-school-dx-d-new-oppai-tsutsumimasu](https://cdn.myanimelist.net/images/anime/8/73605.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハイスクール D×D NEW OVA おっぱい、包みます！

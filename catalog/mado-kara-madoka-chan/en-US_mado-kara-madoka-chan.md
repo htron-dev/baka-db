@@ -1,5 +1,7 @@
 # Mado kara Madoka-chan
 
+![mado-kara-madoka-chan](https://cdn.myanimelist.net/images/manga/1/196588.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 75

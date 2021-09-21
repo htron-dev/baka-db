@@ -1,5 +1,7 @@
 # Kurumada Suikoden: Hero of Heroes
 
+![kurumada-suikoden-hero-of-heroes](https://cdn.myanimelist.net/images/manga/2/186509.jpg)
+
 -   **type**: manga
 -   **original-name**: 車田水滸伝～ HERO OF HEROES ～
 -   **start-date**: 2013-12-19

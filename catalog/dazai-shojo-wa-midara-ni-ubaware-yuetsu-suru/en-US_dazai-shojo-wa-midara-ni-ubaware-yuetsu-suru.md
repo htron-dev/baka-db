@@ -1,5 +1,7 @@
 # Dazai: Shojo wa Midara ni Ubaware Yuetsu suru
 
+![dazai-shojo-wa-midara-ni-ubaware-yuetsu-suru](https://cdn.myanimelist.net/images/manga/1/196018.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hontou ni, Yasashii
 
+![hontou-ni-yasashii](https://cdn.myanimelist.net/images/manga/1/1474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

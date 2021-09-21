@@ -1,5 +1,7 @@
 # God Eater
 
+![god-eater](https://cdn.myanimelist.net/images/anime/7/73852.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: GOD EATER

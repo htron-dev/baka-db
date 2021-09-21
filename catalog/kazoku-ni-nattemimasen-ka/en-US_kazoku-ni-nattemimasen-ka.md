@@ -1,5 +1,7 @@
 # Kazoku ni Nattemimasen ka?
 
+![kazoku-ni-nattemimasen-ka](https://cdn.myanimelist.net/images/manga/3/239122.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

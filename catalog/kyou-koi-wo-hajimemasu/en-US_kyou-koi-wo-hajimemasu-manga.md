@@ -1,5 +1,7 @@
 # Kyou, Koi wo Hajimemasu
 
+![kyou-koi-wo-hajimemasu](https://cdn.myanimelist.net/images/manga/3/37974.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 100

@@ -1,5 +1,7 @@
 # Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu
 
+![dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu](https://cdn.myanimelist.net/images/anime/1/987.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール GT 悟空外伝! 勇気の証しは四星球(スーシンチュウ)

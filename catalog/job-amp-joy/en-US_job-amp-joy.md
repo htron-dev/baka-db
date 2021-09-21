@@ -1,5 +1,7 @@
 # Job &amp; Joy
 
+![job-amp-joy](https://cdn.myanimelist.net/images/manga/3/195316.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

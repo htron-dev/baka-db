@@ -1,5 +1,7 @@
 # House Backer
 
+![house-backer](https://cdn.myanimelist.net/images/manga/1/247298.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

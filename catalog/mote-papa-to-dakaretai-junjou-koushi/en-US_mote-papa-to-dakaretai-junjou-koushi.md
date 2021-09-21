@@ -1,5 +1,7 @@
 # Mote Papa to Dakaretai Junjou Koushi
 
+![mote-papa-to-dakaretai-junjou-koushi](https://cdn.myanimelist.net/images/manga/2/220874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

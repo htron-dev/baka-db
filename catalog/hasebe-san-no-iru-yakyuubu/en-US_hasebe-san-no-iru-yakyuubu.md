@@ -1,5 +1,7 @@
 # Hasebe-san no Iru Yakyuubu
 
+![hasebe-san-no-iru-yakyuubu](https://cdn.myanimelist.net/images/manga/2/207062.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

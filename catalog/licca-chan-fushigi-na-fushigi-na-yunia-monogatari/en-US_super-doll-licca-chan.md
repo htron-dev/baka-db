@@ -1,5 +1,7 @@
 # Super Doll Licca-chan
 
+![super-doll-licca-chan](https://cdn.myanimelist.net/images/anime/1813/105492.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: スーパードール リカちゃん

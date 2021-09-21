@@ -1,5 +1,7 @@
 # Karamete de Kudoite
 
+![karamete-de-kudoite](https://cdn.myanimelist.net/images/manga/1/4329.jpg)
+
 -   **type**: manga
 -   **original-name**: からめ手で口説いて
 

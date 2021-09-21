@@ -1,5 +1,7 @@
 # G Senjou Heaven's Door
 
+![g-senjou-heavens-door](https://cdn.myanimelist.net/images/manga/1/37982.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Koufuku no Susume
 
+![koufuku-no-susume](https://cdn.myanimelist.net/images/manga/2/31113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 幸福のスゝメ; 幸福のススメ (日輪早夜)

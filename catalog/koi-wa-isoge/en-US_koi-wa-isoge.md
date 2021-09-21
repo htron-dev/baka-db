@@ -1,5 +1,7 @@
 # Koi wa Isoge!!
 
+![koi-wa-isoge](https://cdn.myanimelist.net/images/manga/1/34776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋は急げ！！

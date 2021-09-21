@@ -1,5 +1,7 @@
 # Imouto ni Konyakusha wo Yuzure to Iwaremashita: Saikyou no Ryuu ni Kiniirarete Masaka no Oukoku Nottori?
 
+![imouto-ni-konyakusha-wo-yuzure-to-iwaremashita-saikyou-no-ryuu-ni-kiniirarete-masaka-no-oukoku-nottori](https://cdn.myanimelist.net/images/manga/1/241238.jpg)
+
 -   **type**: manga
 -   **original-name**: 妹に婚約者を譲れと言われました 最強の竜に気に入られてまさかの王国乗っ取り？
 -   **start-date**: 2019-04-05

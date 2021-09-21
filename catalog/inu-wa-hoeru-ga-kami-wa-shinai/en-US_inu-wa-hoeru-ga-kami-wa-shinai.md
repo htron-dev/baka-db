@@ -1,5 +1,7 @@
 # Inu wa Hoeru ga Kami wa Shinai
 
+![inu-wa-hoeru-ga-kami-wa-shinai](https://cdn.myanimelist.net/images/manga/2/236869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

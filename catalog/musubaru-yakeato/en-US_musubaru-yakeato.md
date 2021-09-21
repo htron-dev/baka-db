@@ -1,5 +1,7 @@
 # Musubaru Yakeato
 
+![musubaru-yakeato](https://cdn.myanimelist.net/images/manga/3/228967.jpg)
+
 -   **type**: manga
 -   **original-name**: 結ばる焼け跡
 -   **start-date**: 2017-08-04

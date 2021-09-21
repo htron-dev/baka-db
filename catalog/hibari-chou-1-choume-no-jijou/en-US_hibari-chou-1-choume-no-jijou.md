@@ -1,5 +1,7 @@
 # Hibari Chou 1 Choume no Jijou
 
+![hibari-chou-1-choume-no-jijou](https://cdn.myanimelist.net/images/manga/2/77771.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 雲雀町１丁目の事情

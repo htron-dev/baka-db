@@ -1,5 +1,7 @@
 # Dai-chan, Daisuki.
 
+![dai-chan-daisuki](https://cdn.myanimelist.net/images/anime/1843/94729.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大ちゃん、だいすき。

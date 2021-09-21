@@ -1,5 +1,7 @@
 # Green Co-Op CMs
 
+![green-co-op-c-ms](https://cdn.myanimelist.net/images/anime/1145/97985.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: グリーンコープ CM

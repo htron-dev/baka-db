@@ -1,5 +1,7 @@
 # gdgd Fairies
 
+![gdgd-fairies](https://cdn.myanimelist.net/images/anime/8/34963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: gdgd 妖精 s（ぐだぐだふぇありーず）

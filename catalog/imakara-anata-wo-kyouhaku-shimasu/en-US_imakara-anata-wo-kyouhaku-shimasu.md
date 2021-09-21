@@ -1,5 +1,7 @@
 # Imakara Anata wo Kyouhaku Shimasu
 
+![imakara-anata-wo-kyouhaku-shimasu](https://cdn.myanimelist.net/images/manga/1/203945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

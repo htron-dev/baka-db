@@ -1,5 +1,7 @@
 # Kuruneko: Nyaalock Holmes no Bouken
 
+![kuruneko-nyaalock-holmes-no-bouken](https://cdn.myanimelist.net/images/anime/2/47305.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ニャーロック・ホームズの冒険

@@ -1,5 +1,7 @@
 # Loups=Garous #Overture
 
+![loups-garous-overture](https://cdn.myanimelist.net/images/anime/12/27874.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ルー=ガルー #Overture

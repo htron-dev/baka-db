@@ -1,5 +1,7 @@
 # Katemen
 
+![katemen](https://cdn.myanimelist.net/images/manga/1/88611.jpg)
+
 -   **type**: manga
 -   **original-name**: カテメン
 -   **start-date**: 2012-09-05

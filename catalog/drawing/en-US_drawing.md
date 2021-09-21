@@ -1,5 +1,7 @@
 # Drawing!!
 
+![drawing](https://cdn.myanimelist.net/images/anime/1511/111011.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Drawing!!

@@ -1,5 +1,7 @@
 # Maou Kyoudai
 
+![maou-kyoudai](https://cdn.myanimelist.net/images/manga/3/200641.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

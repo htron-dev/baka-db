@@ -1,5 +1,7 @@
 # Mako-san wa Shindemo Jiritsu Shinai
 
+![mako-san-wa-shindemo-jiritsu-shinai](https://cdn.myanimelist.net/images/manga/2/215472.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 108

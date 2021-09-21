@@ -1,5 +1,7 @@
 # Kuroneko Kouhiiten
 
+![kuroneko-kouhiiten](https://cdn.myanimelist.net/images/manga/3/6451.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒猫珈琲店
 

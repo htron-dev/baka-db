@@ -1,5 +1,7 @@
 # Monster Strike The Animation
 
+![monster-strike-the-animation](https://cdn.myanimelist.net/images/anime/1415/101689.jpg)
+
 -   **type**: ona
 -   **episodes**: 63
 -   **original-name**: モンスターストライク The Animation

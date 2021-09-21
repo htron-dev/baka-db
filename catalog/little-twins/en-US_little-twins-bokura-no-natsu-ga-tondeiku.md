@@ -1,5 +1,7 @@
 # Little Twins: Bokura no Natsu ga Tondeiku
 
+![little-twins-bokura-no-natsu-ga-tondeiku](https://cdn.myanimelist.net/images/anime/13/68011.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リトルツインズ ぼくらの夏が飛んでいく

@@ -1,5 +1,7 @@
 # Ski Jumping Pairs: Road to Torino 2006
 
+![ski-jumping-pairs-road-to-torino-2006](https://cdn.myanimelist.net/images/anime/11/73794.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スキージャンプ・ペア ~Road to TORINO 2006~

@@ -1,5 +1,7 @@
 # UQ Holder!: Mahou Sensei Negima! 2 (OVA)
 
+![uq-holder-mahou-sensei-negima-2-ova](https://cdn.myanimelist.net/images/anime/6/89673.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: UQ HOLDER! ~魔法先生ネギま! 2~ (2017)

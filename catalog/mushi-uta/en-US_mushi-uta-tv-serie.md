@@ -1,5 +1,7 @@
 # Mushi-Uta
 
+![mushi-uta](https://cdn.myanimelist.net/images/anime/1624/103472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ムシウタ

@@ -1,5 +1,7 @@
 # Monkey Punch: Manga Katsudou Daishashin - Crime Mate Special
 
+![monkey-punch-manga-katsudou-daishashin-crime-mate-special](https://cdn.myanimelist.net/images/anime/6/52283.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: モンキー・パンチ　漫画活動大写真

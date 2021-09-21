@@ -1,5 +1,7 @@
 # Kamisama no Iru Keshiki
 
+![kamisama-no-iru-keshiki](https://cdn.myanimelist.net/images/manga/1/217900.jpg)
+
 -   **type**: manga
 -   **chapters**: 43
 -   **original-name**: かみさまのいる景色

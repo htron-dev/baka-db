@@ -1,5 +1,7 @@
 # Joou-sama no Eshi
 
+![joou-sama-no-eshi](https://cdn.myanimelist.net/images/manga/1/188894.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

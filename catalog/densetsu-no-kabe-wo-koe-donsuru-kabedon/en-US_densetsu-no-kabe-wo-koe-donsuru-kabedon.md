@@ -1,5 +1,7 @@
 # Densetsu no Kabe wo Koe, Donsuru Kabedon
 
+![densetsu-no-kabe-wo-koe-donsuru-kabedon](https://cdn.myanimelist.net/images/manga/3/148259.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 伝説の壁を越え、鈍する神話譚〈壁ドン〉

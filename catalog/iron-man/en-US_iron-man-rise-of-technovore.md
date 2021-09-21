@@ -1,5 +1,7 @@
 # Iron Man: Rise of Technovore
 
+![iron-man-rise-of-technovore](https://cdn.myanimelist.net/images/anime/6/43035.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アイアンマン：ライズ・オブ・テクノヴォア

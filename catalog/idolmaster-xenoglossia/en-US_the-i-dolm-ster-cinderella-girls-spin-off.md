@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls: Spin-off!
 
+![the-i-dolm-ster-cinderella-girls-spin-off](https://cdn.myanimelist.net/images/anime/1556/104244.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アイドルマスター シンデレラガールズ Spin-off!

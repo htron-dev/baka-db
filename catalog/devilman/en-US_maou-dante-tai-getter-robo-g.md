@@ -1,5 +1,7 @@
 # Maou Dante Tai Getter Robo G
 
+![maou-dante-tai-getter-robo-g](https://cdn.myanimelist.net/images/manga/2/171859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Gozen 0-ji, Kiss shi ni Kite yo
 
+![gozen-0-ji-kiss-shi-ni-kite-yo](https://cdn.myanimelist.net/images/manga/3/161176.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 50

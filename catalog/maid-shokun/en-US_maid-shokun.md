@@ -1,5 +1,7 @@
 # Maid Shokun!
 
+![maid-shokun](https://cdn.myanimelist.net/images/manga/1/180613.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

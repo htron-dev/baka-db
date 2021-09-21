@@ -1,5 +1,7 @@
 # Doraemon Movie 25: Nobita no Wan Nyan Jikuuden
 
+![doraemon-movie-25-nobita-no-wan-nyan-jikuuden](https://cdn.myanimelist.net/images/anime/7/72430.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太のワンニャン時空伝

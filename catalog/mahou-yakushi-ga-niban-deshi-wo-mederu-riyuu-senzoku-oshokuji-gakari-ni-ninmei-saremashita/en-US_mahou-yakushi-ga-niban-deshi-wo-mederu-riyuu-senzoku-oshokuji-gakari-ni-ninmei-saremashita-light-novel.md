@@ -1,5 +1,7 @@
 # Mahou Yakushi ga Niban Deshi wo Mederu Riyuu: Senzoku Oshokuji-gakari ni Ninmei saremashita
 
+![mahou-yakushi-ga-niban-deshi-wo-mederu-riyuu-senzoku-oshokuji-gakari-ni-ninmei-saremashita](https://cdn.myanimelist.net/images/manga/1/241793.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

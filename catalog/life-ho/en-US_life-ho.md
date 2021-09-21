@@ -1,5 +1,7 @@
 # Life Ho
 
+![life-ho](https://cdn.myanimelist.net/images/manga/4/103079.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 인생은 강호
 

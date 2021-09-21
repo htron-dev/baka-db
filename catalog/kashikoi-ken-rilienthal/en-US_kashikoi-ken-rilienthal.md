@@ -1,5 +1,7 @@
 # Kashikoi Ken Rilienthal
 
+![kashikoi-ken-rilienthal](https://cdn.myanimelist.net/images/manga/2/30211.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

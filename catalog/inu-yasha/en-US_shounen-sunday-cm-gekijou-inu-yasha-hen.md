@@ -1,5 +1,7 @@
 # Shounen Sunday CM Gekijou: InuYasha-hen
 
+![shounen-sunday-cm-gekijou-inu-yasha-hen](https://cdn.myanimelist.net/images/anime/13/74768.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 少年サンデー CM 劇場 「犬夜叉編」

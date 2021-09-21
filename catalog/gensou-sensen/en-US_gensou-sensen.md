@@ -1,5 +1,7 @@
 # Gensou Sensen
 
+![gensou-sensen](https://cdn.myanimelist.net/images/manga/2/201022.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

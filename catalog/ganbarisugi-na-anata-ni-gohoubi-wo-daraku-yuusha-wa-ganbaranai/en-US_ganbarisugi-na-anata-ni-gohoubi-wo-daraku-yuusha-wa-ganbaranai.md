@@ -1,5 +1,7 @@
 # Ganbarisugi na Anata ni Gohoubi wo!: Daraku Yuusha wa Ganbaranai
 
+![ganbarisugi-na-anata-ni-gohoubi-wo-daraku-yuusha-wa-ganbaranai](https://cdn.myanimelist.net/images/manga/3/199576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

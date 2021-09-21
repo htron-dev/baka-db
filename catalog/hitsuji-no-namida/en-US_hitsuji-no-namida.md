@@ -1,5 +1,7 @@
 # Hitsuji no Namida
 
+![hitsuji-no-namida](https://cdn.myanimelist.net/images/manga/2/128261.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

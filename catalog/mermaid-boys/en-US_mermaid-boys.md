@@ -1,5 +1,7 @@
 # Mermaid Boys
 
+![mermaid-boys](https://cdn.myanimelist.net/images/manga/3/181713.jpg)
+
 -   **type**: manga
 -   **original-name**: マーメイド・ボーイズ
 -   **start-date**: 2016-03-28

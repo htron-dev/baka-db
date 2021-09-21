@@ -1,5 +1,7 @@
 # SD Gundam Gaiden
 
+![sd-gundam-gaiden](https://cdn.myanimelist.net/images/anime/1793/94377.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 機動戦士 SD ガンダム外伝

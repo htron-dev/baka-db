@@ -1,5 +1,7 @@
 # Lupin III (2015)
 
+![lupin-iii-2015](https://cdn.myanimelist.net/images/anime/9/75949.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ルパン三世

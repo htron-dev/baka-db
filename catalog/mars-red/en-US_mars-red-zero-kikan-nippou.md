@@ -1,5 +1,7 @@
 # Mars Red: Zero Kikan Nippou
 
+![mars-red-zero-kikan-nippou](https://cdn.myanimelist.net/images/anime/1965/110358.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ぜろきかん日報

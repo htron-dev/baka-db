@@ -1,5 +1,7 @@
 # Digimon Adventure: 20 Shuunen Memorial Story
 
+![digimon-adventure-20-shuunen-memorial-story](https://cdn.myanimelist.net/images/anime/1554/105788.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: デジモンアドベンチャー 20 周年メモリアルストーリー

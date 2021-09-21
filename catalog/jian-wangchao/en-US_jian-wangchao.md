@@ -1,5 +1,7 @@
 # Jian Wangchao
 
+![jian-wangchao](https://cdn.myanimelist.net/images/anime/9/89662.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 剣王朝

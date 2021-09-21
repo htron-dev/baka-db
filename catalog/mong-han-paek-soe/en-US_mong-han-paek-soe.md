@@ -1,5 +1,7 @@
 # Mong han paek soe
 
+![mong-han-paek-soe](https://cdn.myanimelist.net/images/manga/1/44119.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 몽환백서
 

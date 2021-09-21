@@ -1,5 +1,7 @@
 # Menghuan Shuyuan 4th Season
 
+![menghuan-shuyuan-4th-season](https://cdn.myanimelist.net/images/anime/1346/109452.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 梦幻书院 第四季

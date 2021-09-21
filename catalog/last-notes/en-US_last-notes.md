@@ -1,5 +1,7 @@
 # Last Notes
 
+![last-notes](https://cdn.myanimelist.net/images/manga/2/113427.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

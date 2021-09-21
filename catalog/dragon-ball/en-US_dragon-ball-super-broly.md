@@ -1,5 +1,7 @@
 # Dragon Ball Super: Broly
 
+![dragon-ball-super-broly](https://cdn.myanimelist.net/images/anime/1575/93498.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール超（スーパー） ブロリー

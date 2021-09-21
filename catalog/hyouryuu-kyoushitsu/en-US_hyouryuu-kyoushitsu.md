@@ -1,5 +1,7 @@
 # Hyouryuu Kyoushitsu
 
+![hyouryuu-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/196492.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

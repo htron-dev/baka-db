@@ -1,5 +1,7 @@
 # Josou Cosplayer to Otouto
 
+![josou-cosplayer-to-otouto](https://cdn.myanimelist.net/images/manga/2/234914.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 女装コスプレイヤーと弟

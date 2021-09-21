@@ -1,5 +1,7 @@
 # Houkago no Alchemist
 
+![houkago-no-alchemist](https://cdn.myanimelist.net/images/manga/2/221757.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

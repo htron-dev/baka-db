@@ -1,5 +1,7 @@
 # Hello! Sandybell
 
+![hello-sandybell](https://cdn.myanimelist.net/images/anime/13/42653.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: ハロー！サンディベル

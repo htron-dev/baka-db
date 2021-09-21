@@ -1,5 +1,7 @@
 # Isekai Concierge: Neko no Shippotei Eigyou Nisshi
 
+![isekai-concierge-neko-no-shippotei-eigyou-nisshi](https://cdn.myanimelist.net/images/manga/1/179759.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界コンシェルジュ―ねこのしっぽ亭営業日誌
 -   **start-date**: 2014-11-21

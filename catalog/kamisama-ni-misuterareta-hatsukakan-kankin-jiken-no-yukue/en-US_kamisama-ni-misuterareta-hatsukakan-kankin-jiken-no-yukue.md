@@ -1,5 +1,7 @@
 # Kamisama ni Misuterareta Hatsukakan: Kankin Jiken no Yukue
 
+![kamisama-ni-misuterareta-hatsukakan-kankin-jiken-no-yukue](https://cdn.myanimelist.net/images/manga/1/162528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 神様に見捨てられた 20 日間 監禁事件の行方

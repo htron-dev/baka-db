@@ -1,5 +1,7 @@
 # The iDOLM@STER Million Live! 4th Anniversary PV
 
+![the-i-dolm-ster-million-live-4th-anniversary-pv](https://cdn.myanimelist.net/images/anime/8/88355.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アイドルマスター ミリオンライブ！４周年記念ＰＶ

@@ -1,5 +1,7 @@
 # Joshikousei no Mudazukai
 
+![joshikousei-no-mudazukai](https://cdn.myanimelist.net/images/anime/1343/111356.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 女子高生の無駄づかい

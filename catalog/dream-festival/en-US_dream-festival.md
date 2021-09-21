@@ -1,5 +1,7 @@
 # Dream Festival!
 
+![dream-festival](https://cdn.myanimelist.net/images/anime/3/81713.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ドリフェス！

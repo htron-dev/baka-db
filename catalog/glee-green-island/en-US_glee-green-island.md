@@ -1,5 +1,7 @@
 # Glee Green Island
 
+![glee-green-island](https://cdn.myanimelist.net/images/manga/1/47979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Ｇｌｅｅ　Ｇｒｅｅｎ　Ｉｓｌａｎｄ

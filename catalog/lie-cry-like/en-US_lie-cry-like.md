@@ -1,5 +1,7 @@
 # Lie Cry Like
 
+![lie-cry-like](https://cdn.myanimelist.net/images/manga/1/212154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kuruneko: Kurunekobin
 
+![kuruneko-kurunekobin](https://cdn.myanimelist.net/images/anime/4/47301.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: くるねこ便

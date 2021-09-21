@@ -1,5 +1,7 @@
 # Gift±
 
+![gift](https://cdn.myanimelist.net/images/anime/1688/93905.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: ギフト ±

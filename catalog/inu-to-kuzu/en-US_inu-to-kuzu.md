@@ -1,5 +1,7 @@
 # Inu to Kuzu
 
+![inu-to-kuzu](https://cdn.myanimelist.net/images/manga/2/247092.jpg)
+
 -   **type**: manga
 -   **original-name**: 犬と屑
 -   **start-date**: 2021-06-21

@@ -1,5 +1,7 @@
 # Love² Potion
 
+![love-potion](https://cdn.myanimelist.net/images/manga/2/151491.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

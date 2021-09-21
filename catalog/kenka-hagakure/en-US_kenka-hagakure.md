@@ -1,5 +1,7 @@
 # Kenka Hagakure
 
+![kenka-hagakure](https://cdn.myanimelist.net/images/manga/1/131969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: けんか葉隠

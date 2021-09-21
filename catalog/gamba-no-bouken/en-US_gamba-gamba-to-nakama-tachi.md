@@ -1,5 +1,7 @@
 # Gamba: Gamba to Nakama-tachi
 
+![gamba-gamba-to-nakama-tachi](https://cdn.myanimelist.net/images/anime/6/75875.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GAMBA ガンバと仲間たち

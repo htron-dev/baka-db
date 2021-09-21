@@ -1,5 +1,7 @@
 # Himitsu no Akko-chan (Movie)
 
+![himitsu-no-akko-chan-movie](https://cdn.myanimelist.net/images/anime/9/35227.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひみつのアッコちゃん

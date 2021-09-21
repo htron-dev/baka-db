@@ -1,5 +1,7 @@
 # Koi Cha No Osahou
 
+![koi-cha-no-osahou](https://cdn.myanimelist.net/images/manga/1/24767.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

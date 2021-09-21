@@ -1,5 +1,7 @@
 # GSG! - Oekaki Soft ni Moechaimashita
 
+![gsg-oekaki-soft-ni-moechaimashita](https://cdn.myanimelist.net/images/manga/2/44589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

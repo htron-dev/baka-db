@@ -1,5 +1,7 @@
 # Jitsu wa Ore, Saikyou deshita?
 
+![jitsu-wa-ore-saikyou-deshita](https://cdn.myanimelist.net/images/manga/2/242552.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 実は俺、最強でした？
 -   **start-date**: 2019-05-31

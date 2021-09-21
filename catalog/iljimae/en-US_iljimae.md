@@ -1,5 +1,7 @@
 # Iljimae
 
+![iljimae](https://cdn.myanimelist.net/images/manga/5/37546.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 一枝梅 일지매

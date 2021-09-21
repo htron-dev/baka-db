@@ -1,5 +1,7 @@
 # Karasu no Itoshi Kyoto Meshi
 
+![karasu-no-itoshi-kyoto-meshi](https://cdn.myanimelist.net/images/manga/3/223368.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 61

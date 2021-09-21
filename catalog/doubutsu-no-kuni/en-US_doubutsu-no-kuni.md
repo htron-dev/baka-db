@@ -1,5 +1,7 @@
 # Doubutsu no Kuni
 
+![doubutsu-no-kuni](https://cdn.myanimelist.net/images/manga/2/249540.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 56

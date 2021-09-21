@@ -1,5 +1,7 @@
 # Dai Eiyuu ga Mushoku de Nani ga Warui
 
+![dai-eiyuu-ga-mushoku-de-nani-ga-warui](https://cdn.myanimelist.net/images/manga/1/176315.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 84

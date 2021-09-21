@@ -1,5 +1,7 @@
 # K: Days of Blue
 
+![k-days-of-blue](https://cdn.myanimelist.net/images/manga/1/129641.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

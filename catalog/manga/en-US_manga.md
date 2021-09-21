@@ -1,5 +1,7 @@
 # Manga
 
+![manga](https://cdn.myanimelist.net/images/anime/5/16397.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 漫画

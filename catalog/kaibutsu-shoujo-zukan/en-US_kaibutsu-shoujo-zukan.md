@@ -1,5 +1,7 @@
 # Kaibutsu Shoujo Zukan
 
+![kaibutsu-shoujo-zukan](https://cdn.myanimelist.net/images/manga/3/226617.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪物少女図鑑
 -   **start-date**: 2019-04-24

@@ -1,5 +1,7 @@
 # Geom Soo Ho Jeo
 
+![geom-soo-ho-jeo](https://cdn.myanimelist.net/images/manga/3/12213.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 劍樹豪猪, 검수 호저
 

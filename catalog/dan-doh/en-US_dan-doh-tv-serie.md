@@ -1,5 +1,7 @@
 # Dan Doh!!
 
+![dan-doh](https://cdn.myanimelist.net/images/anime/3/15231.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ダンドー

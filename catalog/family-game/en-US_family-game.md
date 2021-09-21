@@ -1,5 +1,7 @@
 # Family Game
 
+![family-game](https://cdn.myanimelist.net/images/manga/3/182510.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: ファミリーゲーム

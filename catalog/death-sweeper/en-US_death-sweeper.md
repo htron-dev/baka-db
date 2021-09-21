@@ -1,5 +1,7 @@
 # Death Sweeper
 
+![death-sweeper](https://cdn.myanimelist.net/images/manga/1/56175.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

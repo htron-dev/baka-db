@@ -1,5 +1,7 @@
 # Gintama: The Semi-Final
 
+![gintama-the-semi-final](https://cdn.myanimelist.net/images/anime/1694/110521.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 銀魂 THE SEMI-FINAL

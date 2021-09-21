@@ -1,5 +1,7 @@
 # Hana no Utage
 
+![hana-no-utage](https://cdn.myanimelist.net/images/manga/2/130437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

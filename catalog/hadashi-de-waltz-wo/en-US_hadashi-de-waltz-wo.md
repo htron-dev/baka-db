@@ -1,5 +1,7 @@
 # Hadashi de Waltz wo
 
+![hadashi-de-waltz-wo](https://cdn.myanimelist.net/images/manga/1/7109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

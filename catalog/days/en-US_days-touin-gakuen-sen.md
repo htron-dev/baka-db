@@ -1,5 +1,7 @@
 # Days: Touin Gakuen-sen!
 
+![days-touin-gakuen-sen](https://cdn.myanimelist.net/images/anime/12/88505.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: DAYS 東院学園戦！

@@ -1,5 +1,7 @@
 # Hibari ga Naitara Tsukamaete
 
+![hibari-ga-naitara-tsukamaete](https://cdn.myanimelist.net/images/manga/3/237471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

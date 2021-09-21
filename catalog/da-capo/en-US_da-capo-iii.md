@@ -1,5 +1,7 @@
 # Da Capo III
 
+![da-capo-iii](https://cdn.myanimelist.net/images/manga/1/86435.jpg)
+
 -   **type**: manga
 -   **original-name**: D.C.III ~ダ・カーポ III ~
 -   **start-date**: 2012-05-10

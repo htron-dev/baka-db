@@ -1,5 +1,7 @@
 # Maison de Pilote
 
+![maison-de-pilote](https://cdn.myanimelist.net/images/manga/3/225705.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

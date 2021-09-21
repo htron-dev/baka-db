@@ -1,5 +1,7 @@
 # Isobe Isobee Monogatari: Ukiyo wa Tsurai yo
 
+![isobe-isobee-monogatari-ukiyo-wa-tsurai-yo](https://cdn.myanimelist.net/images/anime/5/69321.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 磯部磯兵衛物語 〜浮世はつらいよ〜

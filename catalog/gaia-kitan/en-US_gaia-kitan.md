@@ -1,5 +1,7 @@
 # Gaia Kitan
 
+![gaia-kitan](https://cdn.myanimelist.net/images/manga/2/61527.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Kaikan♥Phrase
 
+![kaikan♥-phrase](https://cdn.myanimelist.net/images/manga/2/81.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 83

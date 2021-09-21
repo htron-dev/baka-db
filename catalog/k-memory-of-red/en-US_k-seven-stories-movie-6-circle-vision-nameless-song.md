@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 6 - Circle Vision - Nameless Song
 
+![k-seven-stories-movie-6-circle-vision-nameless-song](https://cdn.myanimelist.net/images/anime/1491/92832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories Circle Vision ~Nameless Song~

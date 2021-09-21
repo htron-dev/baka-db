@@ -1,5 +1,7 @@
 # Majo Taisen: 32-nin no Isai no Majo wa Koroshiau
 
+![majo-taisen-32-nin-no-isai-no-majo-wa-koroshiau](https://cdn.myanimelist.net/images/manga/2/246864.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔女大戦 32 人の異才の魔女は殺し合う
 -   **start-date**: 2020-10-24

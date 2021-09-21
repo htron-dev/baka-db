@@ -1,5 +1,7 @@
 # Kagami no Mae de Aimashou
 
+![kagami-no-mae-de-aimashou](https://cdn.myanimelist.net/images/manga/3/185401.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

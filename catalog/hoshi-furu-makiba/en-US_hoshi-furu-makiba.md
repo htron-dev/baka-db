@@ -1,5 +1,7 @@
 # Hoshi Furu Makiba!
 
+![hoshi-furu-makiba](https://cdn.myanimelist.net/images/manga/1/154851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

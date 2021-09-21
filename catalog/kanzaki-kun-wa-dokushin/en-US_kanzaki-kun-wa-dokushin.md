@@ -1,5 +1,7 @@
 # Kanzaki-kun wa Dokushin
 
+![kanzaki-kun-wa-dokushin](https://cdn.myanimelist.net/images/manga/3/151487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

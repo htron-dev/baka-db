@@ -1,5 +1,7 @@
 # Kingdom Hearts: Chain of Memories
 
+![kingdom-hearts-chain-of-memories](https://cdn.myanimelist.net/images/manga/1/112415.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

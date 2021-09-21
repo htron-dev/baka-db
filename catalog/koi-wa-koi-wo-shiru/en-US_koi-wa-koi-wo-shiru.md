@@ -1,5 +1,7 @@
 # Koi wa Koi wo Shiru
 
+![koi-wa-koi-wo-shiru](https://cdn.myanimelist.net/images/manga/2/31052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

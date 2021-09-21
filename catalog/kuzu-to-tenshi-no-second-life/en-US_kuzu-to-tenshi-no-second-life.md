@@ -1,5 +1,7 @@
 # Kuzu to Tenshi no Second Life
 
+![kuzu-to-tenshi-no-second-life](https://cdn.myanimelist.net/images/manga/2/201294.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クズと天使の二周目生活〈セカンドライフ〉
 -   **start-date**: 2017-10-18

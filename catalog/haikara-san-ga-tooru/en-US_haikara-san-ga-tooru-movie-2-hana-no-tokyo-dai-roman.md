@@ -1,5 +1,7 @@
 # Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman
 
+![haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman](https://cdn.myanimelist.net/images/anime/1947/95701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 はいからさんが通る 後編 ～花の東京大ロマン～

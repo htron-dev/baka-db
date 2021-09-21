@@ -1,5 +1,7 @@
 # Kagura Kenbu no Aerial
 
+![kagura-kenbu-no-aerial](https://cdn.myanimelist.net/images/manga/2/176742.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神楽剣舞のエアリアル
 -   **start-date**: 2014-07-14

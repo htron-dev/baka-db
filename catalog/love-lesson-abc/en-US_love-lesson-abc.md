@@ -1,5 +1,7 @@
 # Love Lesson ABC
 
+![love-lesson-abc](https://cdn.myanimelist.net/images/manga/2/23315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

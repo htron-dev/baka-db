@@ -1,5 +1,7 @@
 # Ginban Kaleidoscope
 
+![ginban-kaleidoscope](https://cdn.myanimelist.net/images/anime/8/19926.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銀盤カレイドスコープ

@@ -1,5 +1,7 @@
 # Mimia Hime
 
+![mimia-hime](https://cdn.myanimelist.net/images/manga/2/198381.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

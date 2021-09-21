@@ -1,5 +1,7 @@
 # Death's Reflection
 
+![deaths-reflection](https://cdn.myanimelist.net/images/manga/1/36087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

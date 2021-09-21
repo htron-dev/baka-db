@@ -1,5 +1,7 @@
 # Judgement Overman: Houkago no Kessha
 
+![judgement-overman-houkago-no-kessha](https://cdn.myanimelist.net/images/manga/1/117709.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

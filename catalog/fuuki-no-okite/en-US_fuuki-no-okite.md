@@ -1,5 +1,7 @@
 # Fuuki no Okite
 
+![fuuki-no-okite](https://cdn.myanimelist.net/images/manga/3/23413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

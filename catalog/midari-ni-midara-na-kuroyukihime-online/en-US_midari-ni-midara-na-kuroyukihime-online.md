@@ -1,5 +1,7 @@
 # Midari ni Midara na Kuroyukihime Online
 
+![midari-ni-midara-na-kuroyukihime-online](https://cdn.myanimelist.net/images/manga/2/192564.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

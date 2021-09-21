@@ -1,5 +1,7 @@
 # Kimi no Knife
 
+![kimi-no-knife](https://cdn.myanimelist.net/images/manga/2/54419.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 71

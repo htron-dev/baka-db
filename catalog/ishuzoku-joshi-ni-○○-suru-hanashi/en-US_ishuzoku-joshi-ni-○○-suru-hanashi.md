@@ -1,5 +1,7 @@
 # Ishuzoku Joshi ni ○○ Suru Hanashi
 
+![ishuzoku-joshi-ni-○○-suru-hanashi](https://cdn.myanimelist.net/images/manga/1/222702.jpg)
+
 -   **type**: manga
 -   **original-name**: 異種族女子に ○○ する話
 -   **start-date**: 2019-01-31

@@ -1,5 +1,7 @@
 # Fantasista Doll: Prelude Kagami
 
+![fantasista-doll-prelude-kagami](https://cdn.myanimelist.net/images/manga/1/148017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

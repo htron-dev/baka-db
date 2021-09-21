@@ -1,5 +1,7 @@
 # Harami Bara
 
+![harami-bara](https://cdn.myanimelist.net/images/manga/2/172318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 孕み薔薇

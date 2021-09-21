@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu 2nd Season: Sono Ni
 
+![hoozuki-no-reitetsu-2nd-season-sono-ni](https://cdn.myanimelist.net/images/anime/1113/92465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鬼灯の冷徹 第弐期その弐

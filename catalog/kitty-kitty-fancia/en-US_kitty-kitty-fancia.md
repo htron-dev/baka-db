@@ -1,5 +1,7 @@
 # Kitty Kitty Fancia
 
+![kitty-kitty-fancia](https://cdn.myanimelist.net/images/manga/1/14781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

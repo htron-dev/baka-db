@@ -1,5 +1,7 @@
 # Gensou Suikoden V
 
+![gensou-suikoden-v](https://cdn.myanimelist.net/images/manga/3/150291.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 幻想水滸伝 V

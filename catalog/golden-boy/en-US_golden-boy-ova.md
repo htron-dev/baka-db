@@ -1,5 +1,7 @@
 # Golden Boy
 
+![golden-boy](https://cdn.myanimelist.net/images/anime/3/62867.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ゴールデンボーイ

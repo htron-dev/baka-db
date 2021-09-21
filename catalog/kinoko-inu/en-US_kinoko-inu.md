@@ -1,5 +1,7 @@
 # Kinoko Inu
 
+![kinoko-inu](https://cdn.myanimelist.net/images/manga/3/136725.jpg)
+
 -   **type**: manga
 -   **original-name**: きのこいぬ
 -   **start-date**: 2010-07-17

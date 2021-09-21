@@ -1,5 +1,7 @@
 # Kokkyou no Chou
 
+![kokkyou-no-chou](https://cdn.myanimelist.net/images/manga/1/186293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

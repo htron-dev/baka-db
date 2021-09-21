@@ -1,5 +1,7 @@
 # Goshimei desu!
 
+![goshimei-desu](https://cdn.myanimelist.net/images/manga/3/82040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

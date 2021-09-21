@@ -1,5 +1,7 @@
 # Tony Takezaki no Gundam Manga
 
+![tony-takezaki-no-gundam-manga](https://cdn.myanimelist.net/images/manga/3/177022.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 59

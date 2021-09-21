@@ -1,5 +1,7 @@
 # Love♥Master X
 
+![love♥-master-x](https://cdn.myanimelist.net/images/manga/3/132759.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラブ ♥ マスター X

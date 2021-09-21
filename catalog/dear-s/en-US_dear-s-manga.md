@@ -1,5 +1,7 @@
 # DearS
 
+![dear-s](https://cdn.myanimelist.net/images/manga/1/173815.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

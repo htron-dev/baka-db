@@ -1,5 +1,7 @@
 # Gundam: G no Reconguista Movie III - Uchuu kara no Isan
 
+![gundam-g-no-reconguista-movie-iii-uchuu-kara-no-isan](https://cdn.myanimelist.net/images/anime/1192/117737.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ガンダム Ｇのレコンギスタ Ⅲ 宇宙からの遺産

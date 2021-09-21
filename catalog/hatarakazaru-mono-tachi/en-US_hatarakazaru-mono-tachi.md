@@ -1,5 +1,7 @@
 # Hatarakazaru Mono-tachi
 
+![hatarakazaru-mono-tachi](https://cdn.myanimelist.net/images/manga/2/211593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

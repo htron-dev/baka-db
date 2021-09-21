@@ -1,5 +1,7 @@
 # Idol Memories
 
+![idol-memories](https://cdn.myanimelist.net/images/anime/6/80935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アイドルメモリーズ

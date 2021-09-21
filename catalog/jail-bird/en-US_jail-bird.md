@@ -1,5 +1,7 @@
 # Jail Bird
 
+![jail-bird](https://cdn.myanimelist.net/images/manga/4/189435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

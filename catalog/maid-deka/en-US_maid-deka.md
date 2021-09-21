@@ -1,5 +1,7 @@
 # Maid Deka
 
+![maid-deka](https://cdn.myanimelist.net/images/manga/2/20625.jpg)
+
 -   **type**: light-novel
 -   **original-name**: メイドデカ
 -   **start-date**: 2006-04-15

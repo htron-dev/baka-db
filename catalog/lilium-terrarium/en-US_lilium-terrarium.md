@@ -1,5 +1,7 @@
 # Lilium Terrarium
 
+![lilium-terrarium](https://cdn.myanimelist.net/images/manga/1/234286.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

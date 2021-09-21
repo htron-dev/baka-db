@@ -1,5 +1,7 @@
 # Eternal Arcadia - Kuuzoku Rouman!
 
+![eternal-arcadia-kuuzoku-rouman](https://cdn.myanimelist.net/images/manga/2/184285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

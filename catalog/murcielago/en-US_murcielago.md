@@ -1,5 +1,7 @@
 # Murciélago
 
+![murcielago](https://cdn.myanimelist.net/images/manga/1/123541.jpg)
+
 -   **type**: manga
 -   **original-name**: MURCIÉLAGO
 -   **start-date**: 2013-04-19

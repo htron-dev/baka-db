@@ -1,5 +1,7 @@
 # Hibi mo Tsumoreba Koi to Naru
 
+![hibi-mo-tsumoreba-koi-to-naru](https://cdn.myanimelist.net/images/manga/3/244679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

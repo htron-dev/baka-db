@@ -1,5 +1,7 @@
 # Fujoshi Kanojo
 
+![fujoshi-kanojo](https://cdn.myanimelist.net/images/manga/2/36718.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 77

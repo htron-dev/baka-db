@@ -1,5 +1,7 @@
 # Hanamori no Kenshi
 
+![hanamori-no-kenshi](https://cdn.myanimelist.net/images/manga/1/217870.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 花護りの剣士

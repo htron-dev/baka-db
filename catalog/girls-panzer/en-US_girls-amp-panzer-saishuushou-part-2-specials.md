@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Saishuushou Part 2 Specials
 
+![girls-amp-panzer-saishuushou-part-2-specials](https://cdn.myanimelist.net/images/anime/1789/104010.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ガールズ＆パンツァー 最終章

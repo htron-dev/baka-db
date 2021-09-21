@@ -1,5 +1,7 @@
 # Honto ni Atta! Reibai Sensei
 
+![honto-ni-atta-reibai-sensei](https://cdn.myanimelist.net/images/manga/2/167014.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 213

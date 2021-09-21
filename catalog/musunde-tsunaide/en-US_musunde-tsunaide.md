@@ -1,5 +1,7 @@
 # Musunde, Tsunaide.
 
+![musunde-tsunaide](https://cdn.myanimelist.net/images/manga/2/226913.jpg)
+
 -   **type**: manga
 -   **original-name**: むすんで、つないで。
 -   **start-date**: 2019-06-08

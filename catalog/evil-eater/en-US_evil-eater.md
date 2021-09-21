@@ -1,5 +1,7 @@
 # Evil Eater
 
+![evil-eater](https://cdn.myanimelist.net/images/manga/3/115885.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

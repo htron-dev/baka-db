@@ -1,5 +1,7 @@
 # Dokuzetsu Shitsuji: Earl Grey wa Koi no Tsundere Aji de
 
+![dokuzetsu-shitsuji-earl-grey-wa-koi-no-tsundere-aji-de](https://cdn.myanimelist.net/images/manga/2/134063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 毒舌執事~アールグレイは恋のツンデレ味で~

@@ -1,5 +1,7 @@
 # Kuyashii kedo Kimi ga Suki
 
+![kuyashii-kedo-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/3/233141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

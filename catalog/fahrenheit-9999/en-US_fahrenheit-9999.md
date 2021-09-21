@@ -1,5 +1,7 @@
 # Fahrenheit 9999
 
+![fahrenheit-9999](https://cdn.myanimelist.net/images/manga/2/181322.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 Special Edition
 
+![mobile-suit-gundam-00-special-edition](https://cdn.myanimelist.net/images/anime/11/17217.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機動戦士ガンダム 00 スペシャルエディション

@@ -1,5 +1,7 @@
 # Yes! Precure 5 GoGo!
 
+![yes-precure-5-go-go](https://cdn.myanimelist.net/images/anime/10/25746.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: Yes! プリキュア 5 GoGo!

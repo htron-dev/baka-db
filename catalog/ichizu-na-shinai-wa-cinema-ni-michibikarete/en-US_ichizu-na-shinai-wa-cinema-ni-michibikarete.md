@@ -1,5 +1,7 @@
 # Ichizu na Shinai wa Cinema ni Michibikarete
 
+![ichizu-na-shinai-wa-cinema-ni-michibikarete](https://cdn.myanimelist.net/images/manga/1/194365.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

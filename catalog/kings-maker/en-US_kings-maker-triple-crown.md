@@ -1,5 +1,7 @@
 # King's Maker: Triple Crown
 
+![kings-maker-triple-crown](https://cdn.myanimelist.net/images/manga/1/242716.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 킹스메이커 트리플 크라운
 -   **start-date**: 2019-06-01

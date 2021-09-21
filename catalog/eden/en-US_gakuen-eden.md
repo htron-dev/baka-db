@@ -1,5 +1,7 @@
 # Gakuen Eden\*
 
+![gakuen-eden](https://cdn.myanimelist.net/images/manga/1/79589.jpg)
+
 -   **type**: manga
 -   **original-name**: 学園 eden\*
 

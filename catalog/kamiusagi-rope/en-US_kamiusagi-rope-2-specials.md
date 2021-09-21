@@ -1,5 +1,7 @@
 # Kamiusagi Rope 2 Specials
 
+![kamiusagi-rope-2-specials](https://cdn.myanimelist.net/images/anime/9/72180.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 紙兎ロペ２ Specials

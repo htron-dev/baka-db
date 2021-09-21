@@ -1,5 +1,7 @@
 # Koutetsu Tenshi Kurumi Zero
 
+![koutetsu-tenshi-kurumi-zero](https://cdn.myanimelist.net/images/anime/4/13729.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 鋼鉄天使くるみ零

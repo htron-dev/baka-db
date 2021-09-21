@@ -1,5 +1,7 @@
 # Manga de Wakaru! Fate/Grand Order
 
+![manga-de-wakaru-fate-grand-order](https://cdn.myanimelist.net/images/manga/2/223914.jpg)
+
 -   **type**: manga
 -   **original-name**: マンガで分かる! Fate/Grand Order
 -   **start-date**: 2015-08-13

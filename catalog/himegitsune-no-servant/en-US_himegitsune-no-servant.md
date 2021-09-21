@@ -1,5 +1,7 @@
 # Himegitsune no Servant
 
+![himegitsune-no-servant](https://cdn.myanimelist.net/images/manga/3/162722.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 22

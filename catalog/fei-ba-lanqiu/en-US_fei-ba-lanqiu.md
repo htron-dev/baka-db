@@ -1,5 +1,7 @@
 # Fei Ba! Lanqiu
 
+![fei-ba-lanqiu](https://cdn.myanimelist.net/images/anime/1351/113646.jpg)
+
 -   **type**: ona
 -   **original-name**: 飞吧！篮球
 -   **rating**: None

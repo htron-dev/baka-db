@@ -1,5 +1,7 @@
 # Kinjirareta Tawamure: Outaishi no Yubi wa Otome wo Midara ni Kanade
 
+![kinjirareta-tawamure-outaishi-no-yubi-wa-otome-wo-midara-ni-kanade](https://cdn.myanimelist.net/images/manga/2/184142.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

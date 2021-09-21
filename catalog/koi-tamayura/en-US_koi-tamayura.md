@@ -1,5 +1,7 @@
 # Koi Tamayura
 
+![koi-tamayura](https://cdn.myanimelist.net/images/manga/3/87187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

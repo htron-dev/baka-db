@@ -1,5 +1,7 @@
 # Dies Irae: Irasshai Zonnenji
 
+![dies-irae-irasshai-zonnenji](https://cdn.myanimelist.net/images/anime/13/88198.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: 【Dies irae】「いらっしゃい雑念寺」

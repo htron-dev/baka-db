@@ -1,5 +1,7 @@
 # Kyoukai no Rinne
 
+![kyoukai-no-rinne](https://cdn.myanimelist.net/images/manga/1/160168.jpg)
+
 -   **type**: manga
 -   **volumes**: 40
 -   **chapters**: 398

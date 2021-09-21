@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Thunderbolt: December Sky
 
+![mobile-suit-gundam-thunderbolt-december-sky](https://cdn.myanimelist.net/images/anime/2/79823.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム サンダーボルト DECEMBER SKY

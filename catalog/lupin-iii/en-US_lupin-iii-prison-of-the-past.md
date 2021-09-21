@@ -1,5 +1,7 @@
 # Lupin III: Prison of the Past
 
+![lupin-iii-prison-of-the-past](https://cdn.myanimelist.net/images/anime/1534/105213.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 プリズン・オブ・ザ・パスト

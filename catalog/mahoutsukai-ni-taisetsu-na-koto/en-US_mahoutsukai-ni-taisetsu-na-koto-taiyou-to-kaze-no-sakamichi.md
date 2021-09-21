@@ -1,5 +1,7 @@
 # Mahoutsukai ni Taisetsu na Koto: Taiyou to Kaze no Sakamichi
 
+![mahoutsukai-ni-taisetsu-na-koto-taiyou-to-kaze-no-sakamichi](https://cdn.myanimelist.net/images/manga/2/175874.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Hokuto no Ken: Yuria-den
 
+![hokuto-no-ken-yuria-den](https://cdn.myanimelist.net/images/anime/10/29633.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真救世主伝説 北斗の拳 ユリア伝

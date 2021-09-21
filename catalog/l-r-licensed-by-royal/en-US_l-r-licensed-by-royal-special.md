@@ -1,5 +1,7 @@
 # L/R: Licensed by Royal Special
 
+![l-r-licensed-by-royal-special](https://cdn.myanimelist.net/images/anime/13/72038.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: L/R -Licensed by Royal-

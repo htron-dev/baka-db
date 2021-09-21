@@ -1,5 +1,7 @@
 # Kotonoha no Niwa
 
+![kotonoha-no-niwa](https://cdn.myanimelist.net/images/anime/1597/112995.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 言の葉の庭

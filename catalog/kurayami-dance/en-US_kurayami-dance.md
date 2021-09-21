@@ -1,5 +1,7 @@
 # Kurayami Dance
 
+![kurayami-dance](https://cdn.myanimelist.net/images/manga/2/172510.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

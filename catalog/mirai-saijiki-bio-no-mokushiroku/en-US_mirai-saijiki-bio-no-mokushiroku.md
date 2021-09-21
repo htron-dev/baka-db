@@ -1,5 +1,7 @@
 # Mirai Saijiki: Bio no Mokushiroku
 
+![mirai-saijiki-bio-no-mokushiroku](https://cdn.myanimelist.net/images/manga/3/110675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

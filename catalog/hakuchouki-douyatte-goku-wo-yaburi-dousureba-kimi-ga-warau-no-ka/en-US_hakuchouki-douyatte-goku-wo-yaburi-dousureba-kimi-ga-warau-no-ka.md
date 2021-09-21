@@ -1,5 +1,7 @@
 # Hakuchouki: Douyatte Goku wo Yaburi, Dousureba Kimi ga Warau no ka
 
+![hakuchouki-douyatte-goku-wo-yaburi-dousureba-kimi-ga-warau-no-ka](https://cdn.myanimelist.net/images/manga/2/186617.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

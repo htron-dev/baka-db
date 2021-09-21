@@ -1,5 +1,7 @@
 # La La La
 
+![la-la-la](https://cdn.myanimelist.net/images/manga/3/160078.jpg)
+
 -   **type**: manga
 -   **original-name**: ラララ
 -   **start-date**: 2012-12-07

@@ -1,5 +1,7 @@
 # Haremono Mizufuusen
 
+![haremono-mizufuusen](https://cdn.myanimelist.net/images/manga/1/183397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: はれもの水風船

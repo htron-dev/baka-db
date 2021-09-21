@@ -1,5 +1,7 @@
 # Minna de Bokumetsu Inshu Unten
 
+![minna-de-bokumetsu-inshu-unten](https://cdn.myanimelist.net/images/anime/8/82103.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みんなで撲滅飲酒運転

@@ -1,5 +1,7 @@
 # Gakken no Zunou Kaihatsu Video
 
+![gakken-no-zunou-kaihatsu-video](https://cdn.myanimelist.net/images/anime/1767/92074.jpg)
+
 -   **type**: ova
 -   **episodes**: 17
 -   **original-name**: 学研の頭脳開発ビデオ

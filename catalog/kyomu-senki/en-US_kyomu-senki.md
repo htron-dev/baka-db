@@ -1,5 +1,7 @@
 # Kyomu Senki
 
+![kyomu-senki](https://cdn.myanimelist.net/images/manga/2/151342.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 虚無戦記

@@ -1,5 +1,7 @@
 # Ingress: Tokyo Anomaly
 
+![ingress-tokyo-anomaly](https://cdn.myanimelist.net/images/manga/2/198558.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

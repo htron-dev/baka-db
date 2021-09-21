@@ -1,5 +1,7 @@
 # Gekijouban Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
 
+![gekijouban-mahouka-koukou-no-rettousei-hoshi-wo-yobu-shoujo](https://cdn.myanimelist.net/images/manga/2/206655.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!
 
+![digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle](https://cdn.myanimelist.net/images/anime/3/61029.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デジモンセイバーズ 特典映像 アグモン！ガオモン！ララモン！爆裂！場外ラストバトル！

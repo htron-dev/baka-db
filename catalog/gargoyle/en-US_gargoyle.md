@@ -1,5 +1,7 @@
 # Gargoyle
 
+![gargoyle](https://cdn.myanimelist.net/images/manga/3/167650.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

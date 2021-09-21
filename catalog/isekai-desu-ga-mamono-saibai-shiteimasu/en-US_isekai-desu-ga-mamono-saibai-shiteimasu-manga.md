@@ -1,5 +1,7 @@
 # Isekai desu ga Mamono Saibai shiteimasu.
 
+![isekai-desu-ga-mamono-saibai-shiteimasu](https://cdn.myanimelist.net/images/manga/2/202643.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Kizu wo Otta Tenshi
 
+![kizu-wo-otta-tenshi](https://cdn.myanimelist.net/images/manga/2/247163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 傷を負った天使

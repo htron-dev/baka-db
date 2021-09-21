@@ -1,5 +1,7 @@
 # Dousei Jidai
 
+![dousei-jidai](https://cdn.myanimelist.net/images/manga/3/173375.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 80

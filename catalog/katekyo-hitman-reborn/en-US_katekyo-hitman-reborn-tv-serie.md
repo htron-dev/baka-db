@@ -1,5 +1,7 @@
 # Katekyo Hitman Reborn!
 
+![katekyo-hitman-reborn](https://cdn.myanimelist.net/images/anime/13/80000.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 203
 -   **original-name**: 家庭教師ヒットマン REBORN!

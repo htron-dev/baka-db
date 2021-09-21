@@ -1,5 +1,7 @@
 # Good-by Elvis and USA
 
+![good-by-elvis-and-usa](https://cdn.myanimelist.net/images/anime/6/71243.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Good-by Elvis and USA

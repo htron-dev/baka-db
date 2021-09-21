@@ -1,5 +1,7 @@
 # Hana to Chou
 
+![hana-to-chou](https://cdn.myanimelist.net/images/anime/8/67929.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花と蝶

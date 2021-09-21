@@ -1,5 +1,7 @@
 # Fushigi na Somera-chan Special
 
+![fushigi-na-somera-chan-special](https://cdn.myanimelist.net/images/anime/7/80922.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 不思議なソメラちゃん

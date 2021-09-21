@@ -1,5 +1,7 @@
 # Itonaga-kun no Koi no Ito
 
+![itonaga-kun-no-koi-no-ito](https://cdn.myanimelist.net/images/manga/2/224897.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

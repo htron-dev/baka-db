@@ -1,5 +1,7 @@
 # Oshiete FGO!: Ijin to Shinwa no Grand Order
 
+![oshiete-fgo-ijin-to-shinwa-no-grand-order](https://cdn.myanimelist.net/images/manga/1/242684.jpg)
+
 -   **type**: manga
 -   **original-name**: 教えてＦＧＯ! 偉人と神話のぐらんどおーだー
 -   **start-date**: 2016-08-16

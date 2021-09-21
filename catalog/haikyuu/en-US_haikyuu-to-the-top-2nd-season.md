@@ -1,5 +1,7 @@
 # Haikyuu!!: To the Top 2nd Season
 
+![haikyuu-to-the-top-2nd-season](https://cdn.myanimelist.net/images/anime/1453/106768.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハイキュー!! TO THE TOP

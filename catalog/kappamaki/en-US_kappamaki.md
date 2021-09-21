@@ -1,5 +1,7 @@
 # Kappamaki
 
+![kappamaki](https://cdn.myanimelist.net/images/anime/5/53617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: かっぱまき

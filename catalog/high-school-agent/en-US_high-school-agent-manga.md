@@ -1,5 +1,7 @@
 # High School Agent
 
+![high-school-agent](https://cdn.myanimelist.net/images/manga/2/248955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Edo no Tamamono
 
+![edo-no-tamamono](https://cdn.myanimelist.net/images/manga/2/235179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

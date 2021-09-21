@@ -1,5 +1,7 @@
 # Kinnikuman II Sei: Second Generations
 
+![kinnikuman-ii-sei-second-generations](https://cdn.myanimelist.net/images/anime/1152/97586.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン II 世 second generations

@@ -1,5 +1,7 @@
 # Hitokui Dungeon e Youkoso! The Comic
 
+![hitokui-dungeon-e-youkoso-the-comic](https://cdn.myanimelist.net/images/manga/3/217357.jpg)
+
 -   **type**: manga
 -   **original-name**: 人食いダンジョンへようこそ！ THE COMIC
 -   **start-date**: 2017-05-09

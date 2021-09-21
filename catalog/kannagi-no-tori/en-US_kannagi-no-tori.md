@@ -1,5 +1,7 @@
 # Kannagi no Tori
 
+![kannagi-no-tori](https://cdn.myanimelist.net/images/manga/2/173806.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神無ノ鳥

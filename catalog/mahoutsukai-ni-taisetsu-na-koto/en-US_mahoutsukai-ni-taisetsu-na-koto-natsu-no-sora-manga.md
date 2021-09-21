@@ -1,5 +1,7 @@
 # Mahoutsukai ni Taisetsu na Koto: Natsu no Sora
 
+![mahoutsukai-ni-taisetsu-na-koto-natsu-no-sora](https://cdn.myanimelist.net/images/manga/1/175876.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

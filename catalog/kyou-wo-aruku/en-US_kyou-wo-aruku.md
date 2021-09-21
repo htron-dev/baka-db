@@ -1,5 +1,7 @@
 # Kyou wo Aruku
 
+![kyou-wo-aruku](https://cdn.myanimelist.net/images/manga/2/152019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

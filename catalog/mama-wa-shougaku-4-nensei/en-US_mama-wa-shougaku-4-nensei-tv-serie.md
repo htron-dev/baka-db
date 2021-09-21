@@ -1,5 +1,7 @@
 # Mama wa Shougaku 4 Nensei
 
+![mama-wa-shougaku-4-nensei](https://cdn.myanimelist.net/images/anime/12/87408.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ママは小学４年生

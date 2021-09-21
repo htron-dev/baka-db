@@ -1,5 +1,7 @@
 # Jue Ji
 
+![jue-ji](https://cdn.myanimelist.net/images/anime/1997/98594.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 爵跡

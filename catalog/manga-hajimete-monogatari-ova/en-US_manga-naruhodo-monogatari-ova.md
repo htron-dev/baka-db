@@ -1,5 +1,7 @@
 # Manga Naruhodo Monogatari OVA
 
+![manga-naruhodo-monogatari-ova](https://cdn.myanimelist.net/images/anime/12/72314.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: まんがなるほど物語

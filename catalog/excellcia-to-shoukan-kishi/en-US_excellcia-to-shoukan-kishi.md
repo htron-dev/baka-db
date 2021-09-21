@@ -1,5 +1,7 @@
 # Excellcia to Shoukan Kishi
 
+![excellcia-to-shoukan-kishi](https://cdn.myanimelist.net/images/manga/3/162659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

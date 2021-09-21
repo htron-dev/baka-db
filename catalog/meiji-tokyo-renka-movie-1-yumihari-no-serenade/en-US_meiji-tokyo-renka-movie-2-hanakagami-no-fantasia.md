@@ -1,5 +1,7 @@
 # Meiji Tokyo Renka Movie 2: Hanakagami no Fantasia
 
+![meiji-tokyo-renka-movie-2-hanakagami-no-fantasia](https://cdn.myanimelist.net/images/anime/9/79862.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 明治東亰恋伽 〜花鏡の幻想曲〜

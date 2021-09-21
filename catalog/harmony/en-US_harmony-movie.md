@@ -1,5 +1,7 @@
 # Harmony
 
+![harmony](https://cdn.myanimelist.net/images/anime/2/76993.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: <harmony/> ハーモニー

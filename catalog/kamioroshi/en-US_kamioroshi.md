@@ -1,5 +1,7 @@
 # Kamioroshi
 
+![kamioroshi](https://cdn.myanimelist.net/images/manga/1/107789.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カミオロシ
 -   **start-date**: 2011-06-10

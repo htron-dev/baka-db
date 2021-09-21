@@ -1,5 +1,7 @@
 # Hakushi no Tsukurishi Inu
 
+![hakushi-no-tsukurishi-inu](https://cdn.myanimelist.net/images/manga/1/27220.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

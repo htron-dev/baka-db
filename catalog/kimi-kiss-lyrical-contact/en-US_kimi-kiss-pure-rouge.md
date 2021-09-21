@@ -1,5 +1,7 @@
 # KimiKiss Pure Rouge
 
+![kimi-kiss-pure-rouge](https://cdn.myanimelist.net/images/anime/3/19934.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: キミキス pure rouge

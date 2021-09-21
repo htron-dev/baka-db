@@ -1,5 +1,7 @@
 # My Home
 
+![my-home](https://cdn.myanimelist.net/images/manga/1/175941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 妹(マイ)ホーム

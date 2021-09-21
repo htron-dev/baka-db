@@ -1,5 +1,7 @@
 # Dokaben: Super Stars-hen
 
+![dokaben-super-stars-hen](https://cdn.myanimelist.net/images/manga/3/139071.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **chapters**: 397

@@ -1,5 +1,7 @@
 # Karasu Tengu Kabuto
 
+![karasu-tengu-kabuto](https://cdn.myanimelist.net/images/anime/1/2445.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: カラス天狗カブト

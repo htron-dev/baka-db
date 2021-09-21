@@ -1,5 +1,7 @@
 # Masuraou
 
+![masuraou](https://cdn.myanimelist.net/images/manga/1/10052.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 71

@@ -1,5 +1,7 @@
 # Kitakaze no Kureta Table-kake
 
+![kitakaze-no-kureta-table-kake](https://cdn.myanimelist.net/images/anime/3/81956.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きたかぜのくれたテーブルかけ

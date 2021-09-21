@@ -1,5 +1,7 @@
 # Genei Toshi
 
+![genei-toshi](https://cdn.myanimelist.net/images/anime/6/71323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 幻影都市

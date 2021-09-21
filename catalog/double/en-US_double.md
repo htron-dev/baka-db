@@ -1,5 +1,7 @@
 # Double
 
+![double](https://cdn.myanimelist.net/images/manga/3/239766.jpg)
+
 -   **type**: manga
 -   **original-name**: ダブル
 -   **start-date**: 2019-01-11

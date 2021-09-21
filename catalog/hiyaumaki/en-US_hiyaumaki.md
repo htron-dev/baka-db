@@ -1,5 +1,7 @@
 # Hiyaumaki
 
+![hiyaumaki](https://cdn.myanimelist.net/images/manga/1/202106.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

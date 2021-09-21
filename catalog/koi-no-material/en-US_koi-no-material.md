@@ -1,5 +1,7 @@
 # Koi no Material
 
+![koi-no-material](https://cdn.myanimelist.net/images/manga/1/158681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha Innocent
 
+![mahou-shoujo-lyrical-nanoha-innocent](https://cdn.myanimelist.net/images/manga/3/100787.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

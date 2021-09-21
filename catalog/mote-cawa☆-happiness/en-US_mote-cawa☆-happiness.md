@@ -1,5 +1,7 @@
 # Mote Cawa☆Happiness
 
+![mote-cawa☆-happiness](https://cdn.myanimelist.net/images/manga/4/156784.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: モテかわ ☆ ハピネス

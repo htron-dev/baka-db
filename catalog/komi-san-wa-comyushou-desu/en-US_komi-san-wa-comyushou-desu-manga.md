@@ -1,5 +1,7 @@
 # Komi-san wa, Comyushou desu.
 
+![komi-san-wa-comyushou-desu](https://cdn.myanimelist.net/images/manga/3/188962.jpg)
+
 -   **type**: manga
 -   **original-name**: 古見さんは、コミュ症です。
 -   **start-date**: 2016-05-18

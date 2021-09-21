@@ -1,5 +1,7 @@
 # Kimi Shitteru? Shuto Enjou Anime Tokyo Dai Kuushuu
 
+![kimi-shitteru-shuto-enjou-anime-tokyo-dai-kuushuu](https://cdn.myanimelist.net/images/anime/10/81580.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 君知ってる？首都炎上アニメ東京大空襲

@@ -1,5 +1,7 @@
 # Kimi yo Shiruya Minami no Goku
 
+![kimi-yo-shiruya-minami-no-goku](https://cdn.myanimelist.net/images/manga/3/181213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 45

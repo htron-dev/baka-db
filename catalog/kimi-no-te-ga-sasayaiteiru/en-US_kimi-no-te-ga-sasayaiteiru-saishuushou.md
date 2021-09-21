@@ -1,5 +1,7 @@
 # Kimi no Te ga Sasayaiteiru: Saishuushou
 
+![kimi-no-te-ga-sasayaiteiru-saishuushou](https://cdn.myanimelist.net/images/manga/1/247838.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

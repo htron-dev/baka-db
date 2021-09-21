@@ -1,5 +1,7 @@
 # Exon Depot
 
+![exon-depot](https://cdn.myanimelist.net/images/manga/3/17507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

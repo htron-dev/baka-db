@@ -1,5 +1,7 @@
 # Mangaka Soushingeki
 
+![mangaka-soushingeki](https://cdn.myanimelist.net/images/manga/3/229946.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

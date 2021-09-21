@@ -1,5 +1,7 @@
 # Jounetsu no Young Man
 
+![jounetsu-no-young-man](https://cdn.myanimelist.net/images/manga/3/27899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

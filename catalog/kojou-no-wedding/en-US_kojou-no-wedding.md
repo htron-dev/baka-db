@@ -1,5 +1,7 @@
 # Kojou no Wedding
 
+![kojou-no-wedding](https://cdn.myanimelist.net/images/manga/1/227157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 古城のウエディング

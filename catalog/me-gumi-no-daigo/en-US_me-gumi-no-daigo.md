@@ -1,5 +1,7 @@
 # Me-gumi no Daigo
 
+![me-gumi-no-daigo](https://cdn.myanimelist.net/images/manga/3/171426.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 182

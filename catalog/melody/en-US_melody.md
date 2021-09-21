@@ -1,5 +1,7 @@
 # Melody
 
+![melody](https://cdn.myanimelist.net/images/anime/4/24789.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: メロディ

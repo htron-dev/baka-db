@@ -1,5 +1,7 @@
 # Deep Blue
 
+![deep-blue](https://cdn.myanimelist.net/images/manga/2/247874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

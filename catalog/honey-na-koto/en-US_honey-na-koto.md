@@ -1,5 +1,7 @@
 # Honey na Koto
 
+![honey-na-koto](https://cdn.myanimelist.net/images/manga/3/8238.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kingdom Hearts II
 
+![kingdom-hearts-ii](https://cdn.myanimelist.net/images/manga/3/158378.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

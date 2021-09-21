@@ -1,5 +1,7 @@
 # Kurokami no Helga
 
+![kurokami-no-helga](https://cdn.myanimelist.net/images/manga/2/48531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

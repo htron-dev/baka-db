@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu
 
+![dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu](https://cdn.myanimelist.net/images/anime/1620/93667.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 超サイヤ人だ孫悟空

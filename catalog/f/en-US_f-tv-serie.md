@@ -1,5 +1,7 @@
 # F
 
+![f](https://cdn.myanimelist.net/images/anime/9/73616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: Ｆ-エフ

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Sotsu
 
+![higurashi-no-naku-koro-ni-sotsu](https://cdn.myanimelist.net/images/anime/1083/115046.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: ひぐらしのなく頃に卒

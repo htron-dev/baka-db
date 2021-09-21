@@ -1,5 +1,7 @@
 # Hijikata Toshizou: Shiro no Kiseki
 
+![hijikata-toshizou-shiro-no-kiseki](https://cdn.myanimelist.net/images/anime/1/2252.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 土方歳三　白の軌跡

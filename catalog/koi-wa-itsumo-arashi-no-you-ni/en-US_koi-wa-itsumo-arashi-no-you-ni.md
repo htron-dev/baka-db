@@ -1,5 +1,7 @@
 # Koi wa Itsumo Arashi no You ni
 
+![koi-wa-itsumo-arashi-no-you-ni](https://cdn.myanimelist.net/images/manga/3/5925.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

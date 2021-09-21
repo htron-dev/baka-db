@@ -1,5 +1,7 @@
 # Karakuri No Face
 
+![karakuri-no-face](https://cdn.myanimelist.net/images/manga/3/163632.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: カラクリ・ノーフェイス

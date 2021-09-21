@@ -1,5 +1,7 @@
 # Dokuritsu Gakuen Kokka no Heroic Slayer
 
+![dokuritsu-gakuen-kokka-no-heroic-slayer](https://cdn.myanimelist.net/images/manga/2/176342.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

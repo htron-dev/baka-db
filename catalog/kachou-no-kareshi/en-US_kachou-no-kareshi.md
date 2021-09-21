@@ -1,5 +1,7 @@
 # Kachou no Kareshi
 
+![kachou-no-kareshi](https://cdn.myanimelist.net/images/manga/3/84845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

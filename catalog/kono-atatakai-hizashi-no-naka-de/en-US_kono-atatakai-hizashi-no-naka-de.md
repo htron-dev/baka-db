@@ -1,5 +1,7 @@
 # Kono Atatakai Hizashi no Naka de
 
+![kono-atatakai-hizashi-no-naka-de](https://cdn.myanimelist.net/images/manga/2/106459.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

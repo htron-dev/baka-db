@@ -1,5 +1,7 @@
 # Ginko no Madoguchi
 
+![ginko-no-madoguchi](https://cdn.myanimelist.net/images/manga/2/226324.jpg)
+
 -   **type**: manga
 -   **original-name**: 銀子の窓口
 -   **start-date**: 2013-04-22

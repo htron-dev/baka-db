@@ -1,5 +1,7 @@
 # Dictators: Rettou no Dokusaisha
 
+![dictators-rettou-no-dokusaisha](https://cdn.myanimelist.net/images/manga/3/200349.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

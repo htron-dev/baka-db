@@ -1,5 +1,7 @@
 # Gin no Sato
 
+![gin-no-sato](https://cdn.myanimelist.net/images/manga/2/115251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Dragon Ball Movie 3: Makafushigi Daibouken
 
+![dragon-ball-movie-3-makafushigi-daibouken](https://cdn.myanimelist.net/images/anime/1825/90341.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール 摩訶不思議大冒険

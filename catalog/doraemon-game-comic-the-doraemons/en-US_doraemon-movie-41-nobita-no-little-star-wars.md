@@ -1,5 +1,7 @@
 # Doraemon Movie 41: Nobita no Little Star Wars
 
+![doraemon-movie-41-nobita-no-little-star-wars](https://cdn.myanimelist.net/images/anime/1602/110200.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画ドラえもん のび太の宇宙小戦争（リトルスターウォーズ） 2021

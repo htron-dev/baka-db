@@ -1,5 +1,7 @@
 # Musketeer Rouge
 
+![musketeer-rouge](https://cdn.myanimelist.net/images/manga/3/155098.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

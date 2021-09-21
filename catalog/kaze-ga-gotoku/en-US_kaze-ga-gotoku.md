@@ -1,5 +1,7 @@
 # Kaze ga Gotoku
 
+![kaze-ga-gotoku](https://cdn.myanimelist.net/images/manga/2/24033.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 風が如く

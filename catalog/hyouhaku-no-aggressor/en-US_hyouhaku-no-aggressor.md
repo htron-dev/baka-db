@@ -1,5 +1,7 @@
 # Hyouhaku no Aggressor
 
+![hyouhaku-no-aggressor](https://cdn.myanimelist.net/images/manga/2/160635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

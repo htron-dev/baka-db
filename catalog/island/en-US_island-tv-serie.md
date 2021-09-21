@@ -1,5 +1,7 @@
 # Island
 
+![island](https://cdn.myanimelist.net/images/anime/1951/95080.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ISLAND

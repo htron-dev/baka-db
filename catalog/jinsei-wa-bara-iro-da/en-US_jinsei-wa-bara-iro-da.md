@@ -1,5 +1,7 @@
 # Jinsei wa Bara Iro Da
 
+![jinsei-wa-bara-iro-da](https://cdn.myanimelist.net/images/manga/3/23883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

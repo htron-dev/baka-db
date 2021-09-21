@@ -1,5 +1,7 @@
 # Hard Boiled Angel
 
+![hard-boiled-angel](https://cdn.myanimelist.net/images/manga/2/181530.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 엔젤 딕

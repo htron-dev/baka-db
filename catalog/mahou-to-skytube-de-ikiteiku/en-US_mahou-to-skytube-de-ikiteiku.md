@@ -1,5 +1,7 @@
 # Mahou to Skytube de Ikiteiku
 
+![mahou-to-skytube-de-ikiteiku](https://cdn.myanimelist.net/images/manga/2/162843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

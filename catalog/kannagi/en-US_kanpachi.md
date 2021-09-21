@@ -1,5 +1,7 @@
 # Kanpachi
 
+![kanpachi](https://cdn.myanimelist.net/images/manga/1/201853.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 139

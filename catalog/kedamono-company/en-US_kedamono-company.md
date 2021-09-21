@@ -1,5 +1,7 @@
 # Kedamono Company
 
+![kedamono-company](https://cdn.myanimelist.net/images/manga/2/17261.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: けだもの会社

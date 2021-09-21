@@ -1,5 +1,7 @@
 # Kurenai no Shinigami wa Nemurihime no Neoki ni Nayamasareru
 
+![kurenai-no-shinigami-wa-nemurihime-no-neoki-ni-nayamasareru](https://cdn.myanimelist.net/images/manga/1/245994.jpg)
+
 -   **type**: manga
 -   **original-name**: 紅の死神は眠り姫の寝起きに悩まされる
 -   **start-date**: 2020-04-29

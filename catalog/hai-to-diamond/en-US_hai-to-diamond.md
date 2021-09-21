@@ -1,5 +1,7 @@
 # Hai to Diamond
 
+![hai-to-diamond](https://cdn.myanimelist.net/images/manga/1/186940.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

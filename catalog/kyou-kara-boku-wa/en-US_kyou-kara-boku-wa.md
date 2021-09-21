@@ -1,5 +1,7 @@
 # Kyou kara Boku wa!
 
+![kyou-kara-boku-wa](https://cdn.myanimelist.net/images/manga/1/139809.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 今日から僕は!
 -   **start-date**: 2014-10-24

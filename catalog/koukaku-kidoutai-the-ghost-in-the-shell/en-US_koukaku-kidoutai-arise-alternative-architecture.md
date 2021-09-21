@@ -1,12 +1,14 @@
 # Koukaku Kidoutai Arise: Alternative Architecture
 
+![koukaku-kidoutai-arise-alternative-architecture](https://cdn.myanimelist.net/images/anime/5/72037.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE
 -   **start-date**: 2015-04-05
 -   **end-date**: 2015-04-05
 -   **opening-song**: "Anata wo Tamotsu Mono (あなたを保つもの)" by Maaya Sakamoto x Cornelius
--   **ending-song**: #1: "Split Spirit" by Yukihiro Takahashi & METAFIVE (Keigo Oyamada × Yoshinori Sunahara × Towa Tei × Tomohiko Kondou × Leo Imai) [高橋幸宏 & METAFIVE (小山田圭吾×砂原良徳×TOWA TEI×ゴンドウトモヒコ×LEO今井)] (eps 1-2)
+-   **ending-song**: #1: "Split Spirit" by Yukihiro Takahashi & METAFIVE (Keigo Oyamada × Yoshinori Sunahara × Towa Tei × Tomohiko Kondou × Leo Imai) [高橋幸宏 & METAFIVE (小山田圭吾 × 砂原良徳 ×TOWA TEI× ゴンドウトモヒコ ×LEO 今井)] (eps 1-2)
 -   **rating**: R - 17+ (violence & profanity)
 
 ## Tags

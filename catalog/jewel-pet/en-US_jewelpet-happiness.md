@@ -1,5 +1,7 @@
 # Jewelpet Happiness
 
+![jewelpet-happiness](https://cdn.myanimelist.net/images/anime/5/47697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ジュエルペット ハッピネス

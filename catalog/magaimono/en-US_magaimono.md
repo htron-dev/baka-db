@@ -1,5 +1,7 @@
 # Magaimono
 
+![magaimono](https://cdn.myanimelist.net/images/manga/1/229217.jpg)
+
 -   **type**: manga
 -   **original-name**: マガイモノ
 -   **start-date**: 2019-09-06

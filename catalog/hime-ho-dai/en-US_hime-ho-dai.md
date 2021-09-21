@@ -1,5 +1,7 @@
 # Hime Ho! Dai
 
+![hime-ho-dai](https://cdn.myanimelist.net/images/manga/1/34737.jpg)
+
 -   **type**: manga
 -   **original-name**: ひめ Ho!だい
 

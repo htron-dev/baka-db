@@ -1,5 +1,7 @@
 # Kyuuketsu! Kuromajou
 
+![kyuuketsu-kuromajou](https://cdn.myanimelist.net/images/manga/1/241376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

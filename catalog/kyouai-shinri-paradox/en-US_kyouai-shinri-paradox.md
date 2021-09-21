@@ -1,5 +1,7 @@
 # Kyouai Shinri Paradox
 
+![kyouai-shinri-paradox](https://cdn.myanimelist.net/images/manga/3/226100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

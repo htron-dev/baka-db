@@ -1,5 +1,7 @@
 # Koi Furu Colorful: Zenbu Kimi to Hajimete
 
+![koi-furu-colorful-zenbu-kimi-to-hajimete](https://cdn.myanimelist.net/images/manga/3/165824.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋降るカラフル～ぜんぶキミとはじめて～
 -   **start-date**: 2015-06-05

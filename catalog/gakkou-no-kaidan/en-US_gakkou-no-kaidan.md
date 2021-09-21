@@ -1,5 +1,7 @@
 # Gakkou no Kaidan
 
+![gakkou-no-kaidan](https://cdn.myanimelist.net/images/manga/1/74217.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 学校の怪談

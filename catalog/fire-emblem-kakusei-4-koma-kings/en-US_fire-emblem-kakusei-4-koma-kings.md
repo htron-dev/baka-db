@@ -1,5 +1,7 @@
 # Fire Emblem: Kakusei - 4-koma Kings
 
+![fire-emblem-kakusei-4-koma-kings](https://cdn.myanimelist.net/images/manga/3/241804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

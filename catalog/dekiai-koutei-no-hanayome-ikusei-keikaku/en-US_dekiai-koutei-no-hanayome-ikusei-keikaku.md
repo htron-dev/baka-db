@@ -1,5 +1,7 @@
 # Dekiai Koutei no Hanayome Ikusei Keikaku
 
+![dekiai-koutei-no-hanayome-ikusei-keikaku](https://cdn.myanimelist.net/images/manga/1/192212.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Dangan Honey
 
+![dangan-honey](https://cdn.myanimelist.net/images/manga/3/87465.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

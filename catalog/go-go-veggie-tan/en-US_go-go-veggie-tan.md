@@ -1,5 +1,7 @@
 # Go! Go! Veggie-tan
 
+![go-go-veggie-tan](https://cdn.myanimelist.net/images/anime/7/70857.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Ｇｏ！Ｇｏ！ベジタン

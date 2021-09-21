@@ -1,5 +1,7 @@
 # Hiyokoi
 
+![hiyokoi](https://cdn.myanimelist.net/images/manga/2/139879.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 67

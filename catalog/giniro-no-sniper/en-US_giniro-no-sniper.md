@@ -1,5 +1,7 @@
 # Giniro no Sniper
 
+![giniro-no-sniper](https://cdn.myanimelist.net/images/manga/1/218107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

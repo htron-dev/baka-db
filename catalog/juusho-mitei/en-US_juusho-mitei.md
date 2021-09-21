@@ -1,5 +1,7 @@
 # Juusho Mitei
 
+![juusho-mitei](https://cdn.myanimelist.net/images/manga/1/36752.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

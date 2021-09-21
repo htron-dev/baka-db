@@ -1,5 +1,7 @@
 # Kare wa Kanojo ni Kawaru no de
 
+![kare-wa-kanojo-ni-kawaru-no-de](https://cdn.myanimelist.net/images/manga/2/222515.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼は彼女に変わるので
 -   **start-date**: 2017-08-14

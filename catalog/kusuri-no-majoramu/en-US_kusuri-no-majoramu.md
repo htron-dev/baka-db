@@ -1,5 +1,7 @@
 # Kusuri no Majoramu
 
+![kusuri-no-majoramu](https://cdn.myanimelist.net/images/manga/2/202850.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: くすりのマジョラム

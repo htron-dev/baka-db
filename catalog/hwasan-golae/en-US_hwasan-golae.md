@@ -1,5 +1,7 @@
 # Hwasan Golae
 
+![hwasan-golae](https://cdn.myanimelist.net/images/anime/10/83639.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 화산고래

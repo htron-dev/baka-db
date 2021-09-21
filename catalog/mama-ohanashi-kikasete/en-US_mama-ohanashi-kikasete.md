@@ -1,5 +1,7 @@
 # Mama Ohanashi Kikasete
 
+![mama-ohanashi-kikasete](https://cdn.myanimelist.net/images/anime/5/65959.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: ママお話きかせて

@@ -1,5 +1,7 @@
 # Ichigo Monogatari
 
+![ichigo-monogatari](https://cdn.myanimelist.net/images/manga/3/18444.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: いちご物語

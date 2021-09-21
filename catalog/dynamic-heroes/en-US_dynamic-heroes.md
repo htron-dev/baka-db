@@ -1,5 +1,7 @@
 # Dynamic Heroes
 
+![dynamic-heroes](https://cdn.myanimelist.net/images/manga/4/163524.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

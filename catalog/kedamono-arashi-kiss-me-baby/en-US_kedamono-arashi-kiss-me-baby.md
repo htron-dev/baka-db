@@ -1,5 +1,7 @@
 # Kedamono Arashi: Kiss Me Baby!
 
+![kedamono-arashi-kiss-me-baby](https://cdn.myanimelist.net/images/manga/3/225118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

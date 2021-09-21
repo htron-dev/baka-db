@@ -1,5 +1,7 @@
 # God Mazinger
 
+![god-mazinger](https://cdn.myanimelist.net/images/manga/1/152781.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ゴッドマジンガー

@@ -1,5 +1,7 @@
 # Mizu no Marginal
 
+![mizu-no-marginal](https://cdn.myanimelist.net/images/manga/1/163293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

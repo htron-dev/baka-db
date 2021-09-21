@@ -1,5 +1,7 @@
 # Jugai
 
+![jugai](https://cdn.myanimelist.net/images/manga/2/37159.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Machigitsune to Hito no Ko
 
+![machigitsune-to-hito-no-ko](https://cdn.myanimelist.net/images/manga/3/236847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

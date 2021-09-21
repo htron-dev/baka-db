@@ -1,5 +1,7 @@
 # Miracle! Hero-nim
 
+![miracle-hero-nim](https://cdn.myanimelist.net/images/manga/3/228446.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 28

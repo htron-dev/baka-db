@@ -1,5 +1,7 @@
 # My Young Master
 
+![my-young-master](https://cdn.myanimelist.net/images/manga/3/29505.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **start-date**: 2010-01-20

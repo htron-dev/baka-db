@@ -1,5 +1,7 @@
 # Gang of Yuusha
 
+![gang-of-yuusha](https://cdn.myanimelist.net/images/manga/1/192250.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ギャング・オブ・ユウシャ
 -   **start-date**: 2017-03-17

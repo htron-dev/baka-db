@@ -1,5 +1,7 @@
 # Murder License Kiba
 
+![murder-license-kiba](https://cdn.myanimelist.net/images/manga/3/227179.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 101

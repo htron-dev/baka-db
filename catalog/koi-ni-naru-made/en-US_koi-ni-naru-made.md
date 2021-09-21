@@ -1,5 +1,7 @@
 # Koi ni Naru made
 
+![koi-ni-naru-made](https://cdn.myanimelist.net/images/manga/2/82736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Magicraft Meister
 
+![magicraft-meister](https://cdn.myanimelist.net/images/manga/1/175202.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マギクラフト・マイスター
 -   **start-date**: 2013-11-22

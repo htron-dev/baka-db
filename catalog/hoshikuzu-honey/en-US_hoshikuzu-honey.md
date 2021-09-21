@@ -1,5 +1,7 @@
 # Hoshikuzu Honey
 
+![hoshikuzu-honey](https://cdn.myanimelist.net/images/manga/2/143403.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

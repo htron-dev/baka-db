@@ -1,5 +1,7 @@
 # Ludlow Garage
 
+![ludlow-garage](https://cdn.myanimelist.net/images/manga/2/167529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

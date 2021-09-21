@@ -1,5 +1,7 @@
 # Ero Sugite Tamaranai
 
+![ero-sugite-tamaranai](https://cdn.myanimelist.net/images/manga/1/193781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

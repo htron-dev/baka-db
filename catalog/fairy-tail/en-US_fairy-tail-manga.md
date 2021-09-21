@@ -1,5 +1,7 @@
 # Fairy Tail+
 
+![fairy-tail](https://cdn.myanimelist.net/images/manga/3/198604.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: FAIRY TAIL+

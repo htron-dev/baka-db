@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Twilight Axis
 
+![kidou-senshi-gundam-twilight-axis](https://cdn.myanimelist.net/images/manga/1/194096.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 機動戦士ガンダム Twilight AXIS
 -   **start-date**: 2016-10-20

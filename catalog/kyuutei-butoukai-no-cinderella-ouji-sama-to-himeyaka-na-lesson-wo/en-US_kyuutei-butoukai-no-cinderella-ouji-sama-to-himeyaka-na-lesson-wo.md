@@ -1,5 +1,7 @@
 # Kyuutei Butoukai no Cinderella: Ouji-sama to Himeyaka na Lesson wo
 
+![kyuutei-butoukai-no-cinderella-ouji-sama-to-himeyaka-na-lesson-wo](https://cdn.myanimelist.net/images/manga/3/183147.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

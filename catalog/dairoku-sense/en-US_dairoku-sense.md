@@ -1,5 +1,7 @@
 # Dairoku Sense
 
+![dairoku-sense](https://cdn.myanimelist.net/images/manga/1/246048.jpg)
+
 -   **type**: manga
 -   **original-name**: ダイロクセンス
 -   **start-date**: 2021-01-09

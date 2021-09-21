@@ -1,5 +1,7 @@
 # Fei Ren Zai
 
+![fei-ren-zai](https://cdn.myanimelist.net/images/anime/1468/90508.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: 非人哉

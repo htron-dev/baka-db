@@ -1,5 +1,7 @@
 # Koisuru Onnanoko wa Itsumo
 
+![koisuru-onnanoko-wa-itsumo](https://cdn.myanimelist.net/images/manga/3/153426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

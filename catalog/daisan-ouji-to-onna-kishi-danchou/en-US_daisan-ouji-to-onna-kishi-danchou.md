@@ -1,5 +1,7 @@
 # Daisan Ouji to Onna Kishi Danchou
 
+![daisan-ouji-to-onna-kishi-danchou](https://cdn.myanimelist.net/images/manga/1/194547.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 第三王子と女騎士団長

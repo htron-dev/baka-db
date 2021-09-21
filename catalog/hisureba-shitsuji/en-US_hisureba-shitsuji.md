@@ -1,5 +1,7 @@
 # Hisureba Shitsuji
 
+![hisureba-shitsuji](https://cdn.myanimelist.net/images/manga/2/79527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

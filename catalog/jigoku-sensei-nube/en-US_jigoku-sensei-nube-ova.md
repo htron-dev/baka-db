@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube OVA
 
+![jigoku-sensei-nube-ova](https://cdn.myanimelist.net/images/anime/1091/103240.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 地獄先生ぬ～べ～

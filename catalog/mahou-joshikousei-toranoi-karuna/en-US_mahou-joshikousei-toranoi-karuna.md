@@ -1,5 +1,7 @@
 # Mahou Joshikousei Toranoi Karuna
 
+![mahou-joshikousei-toranoi-karuna](https://cdn.myanimelist.net/images/manga/1/151486.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔法女子高生 トラノイー カルナ

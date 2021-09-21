@@ -1,5 +1,7 @@
 # Kaze no Senshi Dan
 
+![kaze-no-senshi-dan](https://cdn.myanimelist.net/images/manga/2/188202.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 47

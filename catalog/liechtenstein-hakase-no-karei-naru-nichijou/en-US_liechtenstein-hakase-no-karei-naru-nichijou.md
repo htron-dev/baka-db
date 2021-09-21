@@ -1,5 +1,7 @@
 # Liechtenstein Hakase no Karei Naru Nichijou
 
+![liechtenstein-hakase-no-karei-naru-nichijou](https://cdn.myanimelist.net/images/manga/2/36529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

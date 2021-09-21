@@ -1,5 +1,7 @@
 # Mazinger Otome
 
+![mazinger-otome](https://cdn.myanimelist.net/images/manga/2/118131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

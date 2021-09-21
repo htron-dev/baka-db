@@ -1,5 +1,7 @@
 # Minami no Kuni no Ouji-sama
 
+![minami-no-kuni-no-ouji-sama](https://cdn.myanimelist.net/images/manga/1/143545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

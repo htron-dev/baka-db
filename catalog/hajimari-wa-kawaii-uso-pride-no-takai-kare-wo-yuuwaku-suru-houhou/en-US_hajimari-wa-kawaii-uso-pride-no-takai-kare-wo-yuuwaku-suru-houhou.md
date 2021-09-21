@@ -1,5 +1,7 @@
 # Hajimari wa Kawaii Uso: Pride no Takai Kare wo Yuuwaku suru Houhou
 
+![hajimari-wa-kawaii-uso-pride-no-takai-kare-wo-yuuwaku-suru-houhou](https://cdn.myanimelist.net/images/manga/3/192107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

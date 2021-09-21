@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Kokoroiyashi-hen
 
+![higurashi-no-naku-koro-ni-kokoroiyashi-hen](https://cdn.myanimelist.net/images/manga/3/38665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

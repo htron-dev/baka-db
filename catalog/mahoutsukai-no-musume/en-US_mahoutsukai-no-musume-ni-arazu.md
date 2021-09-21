@@ -1,5 +1,7 @@
 # Mahoutsukai no Musume ni Arazu
 
+![mahoutsukai-no-musume-ni-arazu](https://cdn.myanimelist.net/images/manga/1/188572.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

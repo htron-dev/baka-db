@@ -1,5 +1,7 @@
 # Lost Song
 
+![lost-song](https://cdn.myanimelist.net/images/anime/1494/91963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: LOST SONG

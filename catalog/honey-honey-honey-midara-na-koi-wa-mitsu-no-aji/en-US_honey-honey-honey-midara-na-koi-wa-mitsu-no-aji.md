@@ -1,5 +1,7 @@
 # Honey Honey Honey: Midara na Koi wa Mitsu no Aji
 
+![honey-honey-honey-midara-na-koi-wa-mitsu-no-aji](https://cdn.myanimelist.net/images/manga/3/195528.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

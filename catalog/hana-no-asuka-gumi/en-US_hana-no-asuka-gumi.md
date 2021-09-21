@@ -1,5 +1,7 @@
 # Hana no Asuka Gumi!
 
+![hana-no-asuka-gumi](https://cdn.myanimelist.net/images/manga/5/213994.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: 花のあすか組！

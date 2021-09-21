@@ -1,5 +1,7 @@
 # Gozen Reiji ni Kuchizuke wo
 
+![gozen-reiji-ni-kuchizuke-wo](https://cdn.myanimelist.net/images/manga/1/43529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ippou Nippon Mukashibanashi
 
+![ippou-nippon-mukashibanashi](https://cdn.myanimelist.net/images/anime/13/80210.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: いっぽう日本昔ばなし

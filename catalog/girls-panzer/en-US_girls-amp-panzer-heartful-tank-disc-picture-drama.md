@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Heartful Tank Disc Picture Drama
 
+![girls-amp-panzer-heartful-tank-disc-picture-drama](https://cdn.myanimelist.net/images/anime/2/62195.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ガールズ＆パンツァー ハートフル タンク ディスク

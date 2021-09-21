@@ -1,8 +1,10 @@
 # Channel 5.5 4th Season Prologue
 
+![channel-5-5-4th-season-prologue](https://cdn.myanimelist.net/images/anime/10/71690.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
--   **original-name**: チャンネル5.5 Season4 プロローグ「ベルばら」
+-   **original-name**: チャンネル 5.5 Season4 プロローグ「ベルばら」
 -   **start-date**: 2014-11-20
 -   **rating**: PG-13 - Teens 13 or older
 

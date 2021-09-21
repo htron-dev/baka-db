@@ -1,5 +1,7 @@
 # Madonna wa Glass Case no Naka
 
+![madonna-wa-glass-case-no-naka](https://cdn.myanimelist.net/images/manga/3/161185.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

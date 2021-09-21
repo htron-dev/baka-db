@@ -1,5 +1,7 @@
 # Hoshi no Orpheus
 
+![hoshi-no-orpheus](https://cdn.myanimelist.net/images/anime/13/78891.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 星のオルフェウス

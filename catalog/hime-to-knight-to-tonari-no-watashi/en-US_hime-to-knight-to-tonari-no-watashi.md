@@ -1,5 +1,7 @@
 # Hime to Knight to, Tonari no Watashi.
 
+![hime-to-knight-to-tonari-no-watashi](https://cdn.myanimelist.net/images/manga/1/147021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

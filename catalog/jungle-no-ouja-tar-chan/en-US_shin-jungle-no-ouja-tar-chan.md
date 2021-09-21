@@ -1,5 +1,7 @@
 # Shin Jungle no Ouja Tar-chan
 
+![shin-jungle-no-ouja-tar-chan](https://cdn.myanimelist.net/images/manga/1/75625.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 172

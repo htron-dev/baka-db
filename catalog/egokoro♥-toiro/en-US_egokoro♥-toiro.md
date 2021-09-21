@@ -1,5 +1,7 @@
 # Egokoro♥Toiro
 
+![egokoro♥-toiro](https://cdn.myanimelist.net/images/manga/1/221663.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

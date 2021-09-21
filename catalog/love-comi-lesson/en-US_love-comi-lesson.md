@@ -1,5 +1,7 @@
 # LoveComi Lesson
 
+![love-comi-lesson](https://cdn.myanimelist.net/images/manga/2/23132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブコミ・れっすん

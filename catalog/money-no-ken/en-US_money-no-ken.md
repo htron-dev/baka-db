@@ -1,5 +1,7 @@
 # Money no Ken
 
+![money-no-ken](https://cdn.myanimelist.net/images/manga/2/12822.jpg)
+
 -   **type**: manga
 -   **original-name**: マネーの拳
 

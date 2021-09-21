@@ -1,5 +1,7 @@
 # My Home Hero
 
+![my-home-hero](https://cdn.myanimelist.net/images/manga/1/200302.jpg)
+
 -   **type**: manga
 -   **original-name**: マイホームヒーロー
 -   **start-date**: 2017-05-29

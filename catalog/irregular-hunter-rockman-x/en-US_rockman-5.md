@@ -1,5 +1,7 @@
 # Rockman 5
 
+![rockman-5](https://cdn.myanimelist.net/images/manga/2/204750.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

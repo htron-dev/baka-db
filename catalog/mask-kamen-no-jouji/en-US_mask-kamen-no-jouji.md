@@ -1,5 +1,7 @@
 # Mask: Kamen no Jouji
 
+![mask-kamen-no-jouji](https://cdn.myanimelist.net/images/manga/3/13976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

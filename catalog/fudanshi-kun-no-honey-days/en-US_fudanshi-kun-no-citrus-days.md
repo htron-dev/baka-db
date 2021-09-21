@@ -1,5 +1,7 @@
 # Fudanshi-kun no Citrus Days
 
+![fudanshi-kun-no-citrus-days](https://cdn.myanimelist.net/images/manga/1/234678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

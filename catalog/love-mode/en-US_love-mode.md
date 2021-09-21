@@ -1,5 +1,7 @@
 # Love Mode
 
+![love-mode](https://cdn.myanimelist.net/images/manga/3/5214.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 54

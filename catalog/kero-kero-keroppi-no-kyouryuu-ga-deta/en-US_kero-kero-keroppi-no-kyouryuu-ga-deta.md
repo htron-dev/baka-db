@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Kyouryuu ga Deta
 
+![kero-kero-keroppi-no-kyouryuu-ga-deta](https://cdn.myanimelist.net/images/anime/9/58983.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの恐竜がでた

@@ -1,5 +1,7 @@
 # Dokumushi: The Ruins Hotel
 
+![dokumushi-the-ruins-hotel](https://cdn.myanimelist.net/images/manga/2/236189.jpg)
+
 -   **type**: manga
 -   **original-name**: ドクムシ　 the ruins hotel
 -   **start-date**: 2018-03-22

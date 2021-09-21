@@ -1,5 +1,7 @@
 # Mezamereba Ningyo Hime
 
+![mezamereba-ningyo-hime](https://cdn.myanimelist.net/images/manga/3/6376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: めざめれば人魚姫

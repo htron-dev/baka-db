@@ -1,5 +1,7 @@
 # Mairunovich
 
+![mairunovich](https://cdn.myanimelist.net/images/manga/3/121261.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 82

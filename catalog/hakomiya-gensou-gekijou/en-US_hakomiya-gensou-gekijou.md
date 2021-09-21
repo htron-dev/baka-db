@@ -1,5 +1,7 @@
 # Hakomiya Gensou Gekijou
 
+![hakomiya-gensou-gekijou](https://cdn.myanimelist.net/images/manga/3/36048.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 箱宮ケイ幻想劇場

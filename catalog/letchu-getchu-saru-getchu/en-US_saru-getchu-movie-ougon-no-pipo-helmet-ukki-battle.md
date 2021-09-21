@@ -1,5 +1,7 @@
 # Saru Getchu Movie: Ougon no Pipo Helmet - Ukki Battle
 
+![saru-getchu-movie-ougon-no-pipo-helmet-ukki-battle](https://cdn.myanimelist.net/images/anime/10/75754.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 サルゲッチュ 黄金のピポヘル・ウッキーバトル

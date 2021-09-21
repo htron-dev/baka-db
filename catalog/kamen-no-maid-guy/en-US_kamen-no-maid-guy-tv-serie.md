@@ -1,5 +1,7 @@
 # Kamen no Maid Guy
 
+![kamen-no-maid-guy](https://cdn.myanimelist.net/images/anime/4/77694.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 仮面のメイドガイ

@@ -1,5 +1,7 @@
 # Frag//On! Scenario ga Hatanshiteimasu.
 
+![frag-on-scenario-ga-hatanshiteimasu](https://cdn.myanimelist.net/images/manga/2/139067.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ふらぐ//ON! シナリオが破綻しています。

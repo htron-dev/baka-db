@@ -1,5 +1,7 @@
 # Inferno Cop
 
+![inferno-cop](https://cdn.myanimelist.net/images/anime/2/47037.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: インフェルノコップ

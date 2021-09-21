@@ -1,5 +1,7 @@
 # Dog Soldier
 
+![dog-soldier](https://cdn.myanimelist.net/images/manga/3/133035.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: ドッグソルジャー

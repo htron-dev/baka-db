@@ -1,5 +1,7 @@
 # Kimi ni Nare
 
+![kimi-ni-nare](https://cdn.myanimelist.net/images/manga/3/212589.jpg)
+
 -   **type**: manga
 -   **original-name**: 君になれ
 -   **start-date**: 2018-04-25

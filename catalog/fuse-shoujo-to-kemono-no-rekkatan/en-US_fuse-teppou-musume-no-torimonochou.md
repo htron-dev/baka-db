@@ -1,5 +1,7 @@
 # Fuse: Teppou Musume no Torimonochou
 
+![fuse-teppou-musume-no-torimonochou](https://cdn.myanimelist.net/images/anime/3/37313.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 伏 鉄砲娘の捕物帳

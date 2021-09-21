@@ -1,5 +1,7 @@
 # Stand By Me Doraemon
 
+![stand-by-me-doraemon](https://cdn.myanimelist.net/images/anime/9/65571.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: STAND BY ME ドラえもん

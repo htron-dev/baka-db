@@ -1,5 +1,7 @@
 # Indie Anibox: Selma Danbaekjil Coffee
 
+![indie-anibox-selma-danbaekjil-coffee](https://cdn.myanimelist.net/images/anime/5/68279.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 인디애니박스: 셀마의 단백질 커피

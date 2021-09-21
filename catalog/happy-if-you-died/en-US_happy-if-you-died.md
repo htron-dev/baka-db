@@ -1,5 +1,7 @@
 # Happy if You Died
 
+![happy-if-you-died](https://cdn.myanimelist.net/images/manga/2/206365.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 61
 -   **original-name**: 죽어도 좋아♡

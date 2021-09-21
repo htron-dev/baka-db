@@ -1,5 +1,7 @@
 # Kashikokimono
 
+![kashikokimono](https://cdn.myanimelist.net/images/anime/8/77038.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KASHIKOKIMONO (かしこきもの)

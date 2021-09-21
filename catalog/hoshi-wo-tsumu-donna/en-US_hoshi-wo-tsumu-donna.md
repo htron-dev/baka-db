@@ -1,5 +1,7 @@
 # Hoshi wo Tsumu Donna
 
+![hoshi-wo-tsumu-donna](https://cdn.myanimelist.net/images/manga/1/6469.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

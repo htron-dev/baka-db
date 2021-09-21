@@ -1,5 +1,7 @@
 # Medaka Box: Juvenile - Shousetsu-ban
 
+![medaka-box-juvenile-shousetsu-ban](https://cdn.myanimelist.net/images/manga/1/127871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: めだかボックス ジュブナイル 小説版

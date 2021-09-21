@@ -1,5 +1,7 @@
 # Detective Conan
 
+![detective-conan](https://cdn.myanimelist.net/images/anime/7/75199.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 名探偵コナン
 -   **start-date**: 1996-01-08

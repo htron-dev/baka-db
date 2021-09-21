@@ -1,5 +1,7 @@
 # Himitsu Keisatsu
 
+![himitsu-keisatsu](https://cdn.myanimelist.net/images/manga/1/124259.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 秘密警察
 -   **start-date**: 2011-11-15

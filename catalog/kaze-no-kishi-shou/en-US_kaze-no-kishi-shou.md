@@ -1,5 +1,7 @@
 # Kaze no Kishi Shou
 
+![kaze-no-kishi-shou](https://cdn.myanimelist.net/images/manga/3/32797.jpg)
+
 -   **type**: manga
 -   **original-name**: 風の棋士ショウ
 

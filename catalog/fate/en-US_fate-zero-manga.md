@@ -1,5 +1,7 @@
 # Fate/Zero
 
+![fate-zero](https://cdn.myanimelist.net/images/manga/3/196931.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 79

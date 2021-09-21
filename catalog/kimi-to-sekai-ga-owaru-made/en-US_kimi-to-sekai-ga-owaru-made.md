@@ -1,5 +1,7 @@
 # Kimi to, Sekai ga Owaru made
 
+![kimi-to-sekai-ga-owaru-made](https://cdn.myanimelist.net/images/manga/2/124949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

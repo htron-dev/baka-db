@@ -1,5 +1,7 @@
 # Kamisama wa Tabun Hidarikiki
 
+![kamisama-wa-tabun-hidarikiki](https://cdn.myanimelist.net/images/manga/3/228382.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

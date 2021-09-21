@@ -1,5 +1,7 @@
 # Inyoku no Kusari ni Tsunagarete
 
+![inyoku-no-kusari-ni-tsunagarete](https://cdn.myanimelist.net/images/manga/1/195864.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫欲の鎖に繋がれて

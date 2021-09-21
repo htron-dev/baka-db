@@ -1,5 +1,7 @@
 # Kyoaku Gakuen
 
+![kyoaku-gakuen](https://cdn.myanimelist.net/images/manga/1/160917.jpg)
+
 -   **type**: manga
 -   **original-name**: 巨悪学園
 -   **start-date**: 2011-01-11

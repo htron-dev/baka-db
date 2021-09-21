@@ -1,5 +1,7 @@
 # Miotsukushi
 
+![miotsukushi](https://cdn.myanimelist.net/images/manga/1/196160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

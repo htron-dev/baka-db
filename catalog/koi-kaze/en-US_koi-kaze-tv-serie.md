@@ -1,5 +1,7 @@
 # Koi Kaze
 
+![koi-kaze](https://cdn.myanimelist.net/images/anime/9/61441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 恋風

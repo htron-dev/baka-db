@@ -1,5 +1,7 @@
 # Itsukasei Metsubou Syndrome
 
+![itsukasei-metsubou-syndrome](https://cdn.myanimelist.net/images/manga/3/46249.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 五日性滅亡シンドローム

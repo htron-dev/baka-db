@@ -1,5 +1,7 @@
 # Hareluya II: Boy
 
+![hareluya-ii-boy](https://cdn.myanimelist.net/images/manga/1/187756.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 295

@@ -1,5 +1,7 @@
 # Mi Yu Xing Zhe
 
+![mi-yu-xing-zhe](https://cdn.myanimelist.net/images/anime/1869/104422.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 迷域行者

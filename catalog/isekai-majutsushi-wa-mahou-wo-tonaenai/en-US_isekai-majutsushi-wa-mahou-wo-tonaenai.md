@@ -1,5 +1,7 @@
 # Isekai Majutsushi wa Mahou wo Tonaenai
 
+![isekai-majutsushi-wa-mahou-wo-tonaenai](https://cdn.myanimelist.net/images/manga/2/231100.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume DO
 
+![himitsukessha-taka-no-tsume-do](https://cdn.myanimelist.net/images/anime/7/82814.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 秘密結社鷹の爪 DO

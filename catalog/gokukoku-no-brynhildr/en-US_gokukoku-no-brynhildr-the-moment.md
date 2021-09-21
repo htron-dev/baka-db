@@ -1,5 +1,7 @@
 # Gokukoku no Brynhildr: The Moment
 
+![gokukoku-no-brynhildr-the-moment](https://cdn.myanimelist.net/images/manga/1/175408.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 極黒のブリュンヒルデ The Moment

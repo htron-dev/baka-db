@@ -1,5 +1,7 @@
 # I Will Grant You Three Wishes
 
+![i-will-grant-you-three-wishes](https://cdn.myanimelist.net/images/manga/2/21601.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 소원을 이루어 드립니다

@@ -1,5 +1,7 @@
 # Ikki
 
+![ikki](https://cdn.myanimelist.net/images/manga/1/191834.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 80

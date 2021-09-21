@@ -1,5 +1,7 @@
 # Hello Kitty no Shiawase no Aoi Hotaru
 
+![hello-kitty-no-shiawase-no-aoi-hotaru](https://cdn.myanimelist.net/images/anime/9/50229.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの幸せの青いホタル

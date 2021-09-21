@@ -1,5 +1,7 @@
 # Ero♥Märchen: Shirayukihime
 
+![ero♥-marchen-shirayukihime](https://cdn.myanimelist.net/images/manga/3/169800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

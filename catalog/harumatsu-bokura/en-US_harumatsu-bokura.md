@@ -1,5 +1,7 @@
 # Harumatsu Bokura
 
+![harumatsu-bokura](https://cdn.myanimelist.net/images/manga/1/170630.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 61

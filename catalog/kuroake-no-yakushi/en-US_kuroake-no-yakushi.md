@@ -1,5 +1,7 @@
 # Kuroake no Yakushi
 
+![kuroake-no-yakushi](https://cdn.myanimelist.net/images/manga/3/244003.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒緋の薬師
 -   **start-date**: 2020-08-25

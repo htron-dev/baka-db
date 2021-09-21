@@ -1,5 +1,7 @@
 # Hikikomori no Kanojo wa Kami nano desu.
 
+![hikikomori-no-kanojo-wa-kami-nano-desu](https://cdn.myanimelist.net/images/manga/2/163715.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 57

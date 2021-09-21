@@ -1,5 +1,7 @@
 # E's
 
+![es](https://cdn.myanimelist.net/images/manga/5/27683.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 83

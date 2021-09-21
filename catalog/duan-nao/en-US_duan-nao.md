@@ -1,5 +1,7 @@
 # Duan Nao
 
+![duan-nao](https://cdn.myanimelist.net/images/anime/3/82664.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 端脑

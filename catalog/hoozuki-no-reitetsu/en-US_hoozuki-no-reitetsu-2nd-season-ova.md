@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu 2nd Season OVA
 
+![hoozuki-no-reitetsu-2nd-season-ova](https://cdn.myanimelist.net/images/anime/1226/107100.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 鬼灯の冷徹 第 2 期 OAD

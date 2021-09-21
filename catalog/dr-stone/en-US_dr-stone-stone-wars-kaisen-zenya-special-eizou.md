@@ -1,5 +1,7 @@
 # Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou
 
+![dr-stone-stone-wars-kaisen-zenya-special-eizou](https://cdn.myanimelist.net/images/anime/1097/109900.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Dr.STONE STONE WARS 開戦前夜スペシャル映像

@@ -1,5 +1,7 @@
 # Dragon Quest: Seirei Rubis Densetsu
 
+![dragon-quest-seirei-rubis-densetsu](https://cdn.myanimelist.net/images/manga/3/66849.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ドラゴンクエスト　精霊ルビス伝説

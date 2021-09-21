@@ -1,5 +1,7 @@
 # DD Hokuto no Ken
 
+![dd-hokuto-no-ken](https://cdn.myanimelist.net/images/manga/3/168517.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

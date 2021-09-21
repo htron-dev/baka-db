@@ -1,5 +1,7 @@
 # Donguri no Ie
 
+![donguri-no-ie](https://cdn.myanimelist.net/images/anime/6/12803.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: どんぐりの家

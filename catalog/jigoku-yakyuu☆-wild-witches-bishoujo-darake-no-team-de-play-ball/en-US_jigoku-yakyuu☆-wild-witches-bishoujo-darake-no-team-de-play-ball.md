@@ -1,5 +1,7 @@
 # Jigoku Yakyuu☆Wild Witches: Bishoujo darake no Team de Play Ball!?
 
+![jigoku-yakyuu☆-wild-witches-bishoujo-darake-no-team-de-play-ball](https://cdn.myanimelist.net/images/manga/1/126401.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 地獄野球 ☆ ワイルドウィッチーズ 美少女だらけのチームでプレイボール!?

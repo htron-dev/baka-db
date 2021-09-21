@@ -1,5 +1,7 @@
 # Himitsu no Torihiki
 
+![himitsu-no-torihiki](https://cdn.myanimelist.net/images/manga/1/185001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Hare Tokidoki Buta (TV)
 
+![hare-tokidoki-buta-tv](https://cdn.myanimelist.net/images/anime/1/2515.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: はれときどきぶた

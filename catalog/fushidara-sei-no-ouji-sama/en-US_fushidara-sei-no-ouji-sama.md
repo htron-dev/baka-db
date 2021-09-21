@@ -1,5 +1,7 @@
 # Fushidara-sei no Ouji-sama
 
+![fushidara-sei-no-ouji-sama](https://cdn.myanimelist.net/images/manga/1/223641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

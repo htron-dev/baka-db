@@ -1,5 +1,7 @@
 # Mizu to Gin
 
+![mizu-to-gin](https://cdn.myanimelist.net/images/manga/3/89325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

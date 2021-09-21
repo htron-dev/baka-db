@@ -1,5 +1,7 @@
 # Manie-Manie: Meikyuu Monogatari
 
+![manie-manie-meikyuu-monogatari](https://cdn.myanimelist.net/images/anime/6/18685.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: Manie-Manie 迷宮物語

@@ -1,5 +1,7 @@
 # Kenja no Tsurugi
 
+![kenja-no-tsurugi](https://cdn.myanimelist.net/images/manga/3/164596.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 賢者の剣
 -   **start-date**: 2015-09-30

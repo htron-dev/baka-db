@@ -1,5 +1,7 @@
 # Kibishiku Aishite
 
+![kibishiku-aishite](https://cdn.myanimelist.net/images/manga/5/12629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

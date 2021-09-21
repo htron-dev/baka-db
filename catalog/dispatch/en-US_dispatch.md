@@ -1,5 +1,7 @@
 # Dispatch!!
 
+![dispatch](https://cdn.myanimelist.net/images/manga/2/177219.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

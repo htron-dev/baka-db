@@ -1,5 +1,7 @@
 # Isekai Shuukyou e Youkoso!
 
+![isekai-shuukyou-e-youkoso](https://cdn.myanimelist.net/images/manga/2/224275.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

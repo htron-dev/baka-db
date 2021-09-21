@@ -1,5 +1,7 @@
 # Koiyami: Midara ni Fureru Yubisaki
 
+![koiyami-midara-ni-fureru-yubisaki](https://cdn.myanimelist.net/images/manga/2/192058.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

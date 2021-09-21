@@ -1,5 +1,7 @@
 # Hawaiian Conu
 
+![hawaiian-conu](https://cdn.myanimelist.net/images/anime/1127/93313.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ハワイアン コヌ

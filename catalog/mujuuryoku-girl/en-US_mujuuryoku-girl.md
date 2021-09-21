@@ -1,5 +1,7 @@
 # Mujuuryoku Girl
 
+![mujuuryoku-girl](https://cdn.myanimelist.net/images/manga/1/158016.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

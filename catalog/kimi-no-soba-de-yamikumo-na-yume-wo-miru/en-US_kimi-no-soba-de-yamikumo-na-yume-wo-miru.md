@@ -1,5 +1,7 @@
 # Kimi no Soba de Yamikumo na Yume wo Miru
 
+![kimi-no-soba-de-yamikumo-na-yume-wo-miru](https://cdn.myanimelist.net/images/manga/3/98903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミの傍でやみくもな夢を見る

@@ -1,5 +1,7 @@
 # Goggles
 
+![goggles](https://cdn.myanimelist.net/images/manga/1/82178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

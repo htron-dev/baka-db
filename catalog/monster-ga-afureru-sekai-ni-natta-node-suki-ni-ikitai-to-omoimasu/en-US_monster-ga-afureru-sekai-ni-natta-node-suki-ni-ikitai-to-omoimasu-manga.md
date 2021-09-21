@@ -1,5 +1,7 @@
 # Monster ga Afureru Sekai ni Natta node, Suki ni Ikitai to Omoimasu
 
+![monster-ga-afureru-sekai-ni-natta-node-suki-ni-ikitai-to-omoimasu](https://cdn.myanimelist.net/images/manga/3/216414.jpg)
+
 -   **type**: manga
 -   **original-name**: モンスターがあふれる世界になったので、好きに生きたいと思います
 -   **start-date**: 2018-10-13

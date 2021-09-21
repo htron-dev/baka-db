@@ -1,5 +1,7 @@
 # Iris no Tamago
 
+![iris-no-tamago](https://cdn.myanimelist.net/images/manga/2/41608.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

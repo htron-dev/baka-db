@@ -1,5 +1,7 @@
 # Eomma Chaja Sammanli
 
+![eomma-chaja-sammanli](https://cdn.myanimelist.net/images/anime/1537/111075.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 엄마 찾아 삼만리

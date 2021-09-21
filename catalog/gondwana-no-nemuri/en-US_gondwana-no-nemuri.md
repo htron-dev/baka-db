@@ -1,5 +1,7 @@
 # Gondwana no Nemuri
 
+![gondwana-no-nemuri](https://cdn.myanimelist.net/images/manga/2/136827.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴンドワナの眠り
 -   **start-date**: 2013-09-30

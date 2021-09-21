@@ -1,5 +1,7 @@
 # Jormungand: Perfect Order
 
+![jormungand-perfect-order](https://cdn.myanimelist.net/images/anime/4/73278.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヨルムンガンド PERFECT ORDER

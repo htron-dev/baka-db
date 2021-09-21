@@ -1,5 +1,7 @@
 # Enban Maze
 
+![enban-maze](https://cdn.myanimelist.net/images/manga/3/151875.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

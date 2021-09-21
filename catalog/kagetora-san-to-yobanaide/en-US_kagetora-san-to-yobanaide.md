@@ -1,5 +1,7 @@
 # Kagetora-san to Yobanaide.
 
+![kagetora-san-to-yobanaide](https://cdn.myanimelist.net/images/manga/3/151876.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 影虎さんと呼ばないで。

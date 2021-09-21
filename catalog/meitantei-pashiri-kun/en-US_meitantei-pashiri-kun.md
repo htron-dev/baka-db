@@ -1,5 +1,7 @@
 # Meitantei Pashiri-kun!
 
+![meitantei-pashiri-kun](https://cdn.myanimelist.net/images/manga/2/170307.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

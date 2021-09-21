@@ -1,5 +1,7 @@
 # Hero kara Tenshoku Shita Ore no Tsukaima na Seikatsu
 
+![hero-kara-tenshoku-shita-ore-no-tsukaima-na-seikatsu](https://cdn.myanimelist.net/images/manga/1/164056.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 24

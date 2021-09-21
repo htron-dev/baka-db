@@ -1,5 +1,7 @@
 # Laolang Qingke
 
+![laolang-qingke](https://cdn.myanimelist.net/images/anime/1255/115747.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 老狼请客

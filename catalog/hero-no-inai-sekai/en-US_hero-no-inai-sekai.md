@@ -1,5 +1,7 @@
 # Hero no Inai Sekai
 
+![hero-no-inai-sekai](https://cdn.myanimelist.net/images/manga/1/231084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

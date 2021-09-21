@@ -1,5 +1,7 @@
 # Kekkon Dekinai Otokotachi
 
+![kekkon-dekinai-otokotachi](https://cdn.myanimelist.net/images/manga/3/82740.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

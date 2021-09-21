@@ -1,5 +1,7 @@
 # Hana no Kage
 
+![hana-no-kage](https://cdn.myanimelist.net/images/anime/6/23152.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 花の翳

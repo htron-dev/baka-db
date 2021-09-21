@@ -1,5 +1,7 @@
 # Hand Shakers
 
+![hand-shakers](https://cdn.myanimelist.net/images/manga/1/190170.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

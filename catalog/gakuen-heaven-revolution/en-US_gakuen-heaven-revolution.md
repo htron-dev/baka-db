@@ -1,5 +1,7 @@
 # Gakuen Heaven: Revolution
 
+![gakuen-heaven-revolution](https://cdn.myanimelist.net/images/manga/2/43877.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

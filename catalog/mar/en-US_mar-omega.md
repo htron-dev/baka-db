@@ -1,5 +1,7 @@
 # MÄR Omega
 
+![mar-omega](https://cdn.myanimelist.net/images/manga/1/33509.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

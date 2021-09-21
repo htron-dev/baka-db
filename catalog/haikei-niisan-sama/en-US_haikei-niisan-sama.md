@@ -1,5 +1,7 @@
 # Haikei, Niisan-sama
 
+![haikei-niisan-sama](https://cdn.myanimelist.net/images/manga/1/90353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Guin Saga
 
+![guin-saga](https://cdn.myanimelist.net/images/anime/4/75553.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: グイン・サーガ

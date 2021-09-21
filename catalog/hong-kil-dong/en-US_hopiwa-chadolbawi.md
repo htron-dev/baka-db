@@ -1,5 +1,7 @@
 # Hopiwa Chadolbawi
 
+![hopiwa-chadolbawi](https://cdn.myanimelist.net/images/anime/8/49137.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 홍길동 호피와 차돌바위

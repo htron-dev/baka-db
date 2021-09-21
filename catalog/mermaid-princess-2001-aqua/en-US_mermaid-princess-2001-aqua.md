@@ -1,5 +1,7 @@
 # Mermaid Princess 2001 -Aqua-
 
+![mermaid-princess-2001-aqua](https://cdn.myanimelist.net/images/manga/3/13402.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

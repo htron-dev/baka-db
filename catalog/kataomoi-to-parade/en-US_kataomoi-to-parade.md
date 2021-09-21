@@ -1,5 +1,7 @@
 # Kataomoi to Parade
 
+![kataomoi-to-parade](https://cdn.myanimelist.net/images/manga/3/190551.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

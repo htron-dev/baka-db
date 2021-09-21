@@ -1,5 +1,7 @@
 # Love Live! School Idol Project 2nd Season
 
+![love-live-school-idol-project-2nd-season](https://cdn.myanimelist.net/images/anime/10/59101.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ラブライブ! School idol project 2 期

@@ -1,5 +1,7 @@
 # Legend of Crystania
 
+![legend-of-crystania](https://cdn.myanimelist.net/images/anime/9/2764.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: レジェンド・オブ・クリスタニア

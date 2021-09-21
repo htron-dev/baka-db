@@ -1,5 +1,7 @@
 # Kohane-chan no Inu
 
+![kohane-chan-no-inu](https://cdn.myanimelist.net/images/manga/1/191670.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

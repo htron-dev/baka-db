@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou 3rd Season Specials
 
+![cinderella-girls-gekijou-3rd-season-specials](https://cdn.myanimelist.net/images/anime/1316/93508.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: シンデレラガールズ劇場 第 3 期

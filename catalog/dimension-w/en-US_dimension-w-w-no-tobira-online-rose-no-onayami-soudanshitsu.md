@@ -1,5 +1,7 @@
 # Dimension W: W no Tobira Online - Rose no Onayami Soudanshitsu
 
+![dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu](https://cdn.myanimelist.net/images/anime/6/77773.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: ディメンション ダブリュー W の扉 ONLINE ~ロゼのお悩み相談室

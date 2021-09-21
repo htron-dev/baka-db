@@ -1,5 +1,7 @@
 # Kazoku ni Narou yo
 
+![kazoku-ni-narou-yo](https://cdn.myanimelist.net/images/manga/3/193831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kannou Sensei
 
+![kannou-sensei](https://cdn.myanimelist.net/images/manga/1/200528.jpg)
+
 -   **type**: manga
 -   **original-name**: 官能先生
 -   **start-date**: 2016-07-26

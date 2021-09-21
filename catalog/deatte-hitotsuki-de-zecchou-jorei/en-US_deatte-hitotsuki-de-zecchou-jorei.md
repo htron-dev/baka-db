@@ -1,5 +1,7 @@
 # Deatte Hitotsuki de Zecchou Jorei!
 
+![deatte-hitotsuki-de-zecchou-jorei](https://cdn.myanimelist.net/images/manga/1/202854.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 出会ってひと突きで絶頂除霊！
 -   **start-date**: 2017-10-18

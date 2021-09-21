@@ -1,5 +1,7 @@
 # Immoral? Love
 
+![immoral-love](https://cdn.myanimelist.net/images/manga/2/10866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: インモラル?LOVE

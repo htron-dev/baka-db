@@ -1,5 +1,7 @@
 # Kakutou Ryouri Densetsu Bistro Recipe
 
+![kakutou-ryouri-densetsu-bistro-recipe](https://cdn.myanimelist.net/images/anime/1715/105092.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 格闘料理伝説ビストロレシピ

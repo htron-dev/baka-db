@@ -1,5 +1,7 @@
 # Dokunie Cooking
 
+![dokunie-cooking](https://cdn.myanimelist.net/images/manga/2/210569.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

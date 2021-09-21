@@ -1,5 +1,7 @@
 # Hero
 
+![hero](https://cdn.myanimelist.net/images/manga/3/150538.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 히어로 - 바람의 전학생 2부

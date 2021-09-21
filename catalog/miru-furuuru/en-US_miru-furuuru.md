@@ -1,5 +1,7 @@
 # Miru Furuuru
 
+![miru-furuuru](https://cdn.myanimelist.net/images/manga/1/20369.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

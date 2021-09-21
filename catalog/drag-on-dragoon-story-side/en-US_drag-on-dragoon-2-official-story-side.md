@@ -1,5 +1,7 @@
 # Drag-On Dragoon 2: Official Story Side
 
+![drag-on-dragoon-2-official-story-side](https://cdn.myanimelist.net/images/manga/1/200917.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Koroshi - Hitman
 
+![koroshi-hitman](https://cdn.myanimelist.net/images/manga/1/33211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 殺手-ヒットマン-

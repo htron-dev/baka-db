@@ -1,5 +1,7 @@
 # Doukyonin ga Otoko nante Kiitenai!
 
+![doukyonin-ga-otoko-nante-kiitenai](https://cdn.myanimelist.net/images/manga/2/231952.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

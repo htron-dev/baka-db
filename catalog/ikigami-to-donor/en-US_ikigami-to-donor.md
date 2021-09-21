@@ -1,5 +1,7 @@
 # Ikigami to Donor
 
+![ikigami-to-donor](https://cdn.myanimelist.net/images/manga/1/244574.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

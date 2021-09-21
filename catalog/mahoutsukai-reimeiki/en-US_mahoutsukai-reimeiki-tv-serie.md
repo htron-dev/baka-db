@@ -1,5 +1,7 @@
 # Mahoutsukai Reimeiki
 
+![mahoutsukai-reimeiki](https://cdn.myanimelist.net/images/anime/1111/114628.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 魔法使い黎明期
 -   **rating**: None

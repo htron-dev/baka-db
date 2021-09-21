@@ -1,5 +1,7 @@
 # Memento Scarlet
 
+![memento-scarlet](https://cdn.myanimelist.net/images/manga/2/224895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

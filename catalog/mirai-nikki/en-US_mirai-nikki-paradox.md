@@ -1,5 +1,7 @@
 # Mirai Nikki: Paradox
 
+![mirai-nikki-paradox](https://cdn.myanimelist.net/images/manga/4/38446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

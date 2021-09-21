@@ -1,5 +1,7 @@
 # Delivery of the Dead
 
+![delivery-of-the-dead](https://cdn.myanimelist.net/images/manga/2/226971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

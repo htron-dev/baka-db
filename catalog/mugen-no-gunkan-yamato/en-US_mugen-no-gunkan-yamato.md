@@ -1,5 +1,7 @@
 # Mugen no Gunkan Yamato
 
+![mugen-no-gunkan-yamato](https://cdn.myanimelist.net/images/manga/2/124815.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 110

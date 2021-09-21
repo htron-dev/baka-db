@@ -1,5 +1,7 @@
 # Inaka no Motenashi
 
+![inaka-no-motenashi](https://cdn.myanimelist.net/images/manga/3/97487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

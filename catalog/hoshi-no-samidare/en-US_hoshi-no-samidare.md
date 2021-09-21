@@ -1,5 +1,7 @@
 # Hoshi no Samidare
 
+![hoshi-no-samidare](https://cdn.myanimelist.net/images/manga/3/56421.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 65

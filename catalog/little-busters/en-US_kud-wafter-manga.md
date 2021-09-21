@@ -1,5 +1,7 @@
 # Kud Wafter
 
+![kud-wafter](https://cdn.myanimelist.net/images/manga/3/154195.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

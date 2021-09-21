@@ -1,5 +1,7 @@
 # Machiwarashi
 
+![machiwarashi](https://cdn.myanimelist.net/images/manga/3/191027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

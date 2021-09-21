@@ -1,5 +1,7 @@
 # Kanshiki Joshi no Hayama-san
 
+![kanshiki-joshi-no-hayama-san](https://cdn.myanimelist.net/images/manga/3/162985.jpg)
+
 -   **type**: manga
 -   **original-name**: 鑑識女子の葉山さん
 -   **start-date**: 2014-04-25

@@ -1,5 +1,7 @@
 # Geboku-sama no Iutoori
 
+![geboku-sama-no-iutoori](https://cdn.myanimelist.net/images/manga/1/246474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

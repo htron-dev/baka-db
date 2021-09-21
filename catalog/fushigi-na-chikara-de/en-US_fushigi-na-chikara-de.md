@@ -1,5 +1,7 @@
 # Fushigi na Chikara de
 
+![fushigi-na-chikara-de](https://cdn.myanimelist.net/images/manga/1/130431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

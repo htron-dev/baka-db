@@ -1,5 +1,7 @@
 # Miagete Goran
 
+![miagete-goran](https://cdn.myanimelist.net/images/manga/3/208725.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 77

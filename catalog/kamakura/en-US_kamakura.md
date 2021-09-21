@@ -1,5 +1,7 @@
 # Kamakura
 
+![kamakura](https://cdn.myanimelist.net/images/anime/11/70693.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かまくら

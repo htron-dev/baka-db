@@ -1,5 +1,7 @@
 # Marathon Man
 
+![marathon-man](https://cdn.myanimelist.net/images/manga/2/39054.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 163

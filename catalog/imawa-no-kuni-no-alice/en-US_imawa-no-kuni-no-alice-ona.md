@@ -1,5 +1,7 @@
 # Imawa no Kuni no Alice
 
+![imawa-no-kuni-no-alice](https://cdn.myanimelist.net/images/anime/11/78142.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 今際の国のアリス

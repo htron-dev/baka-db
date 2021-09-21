@@ -1,5 +1,7 @@
 # Kono Sora ni Hibike
 
+![kono-sora-ni-hibike](https://cdn.myanimelist.net/images/manga/2/13990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

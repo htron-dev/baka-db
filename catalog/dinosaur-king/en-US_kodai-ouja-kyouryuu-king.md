@@ -1,5 +1,7 @@
 # Kodai Ouja Kyouryuu King
 
+![kodai-ouja-kyouryuu-king](https://cdn.myanimelist.net/images/anime/10/75397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 古代王者 恐竜キング Ｄキッズアドベンチャー

@@ -1,5 +1,7 @@
 # Aoi Destruction!
 
+![aoi-destruction](https://cdn.myanimelist.net/images/manga/3/9493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

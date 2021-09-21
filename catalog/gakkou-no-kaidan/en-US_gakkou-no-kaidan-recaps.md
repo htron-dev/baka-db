@@ -1,5 +1,7 @@
 # Gakkou no Kaidan Recaps
 
+![gakkou-no-kaidan-recaps](https://cdn.myanimelist.net/images/anime/12/78468.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 学校の怪談　総集編

@@ -1,5 +1,7 @@
 # Kishi wa Kaikon ni Naku
 
+![kishi-wa-kaikon-ni-naku](https://cdn.myanimelist.net/images/manga/2/229915.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

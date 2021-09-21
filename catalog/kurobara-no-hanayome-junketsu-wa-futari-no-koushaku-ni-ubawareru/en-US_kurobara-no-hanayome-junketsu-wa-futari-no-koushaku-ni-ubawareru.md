@@ -1,5 +1,7 @@
 # Kurobara no Hanayome: Junketsu wa Futari no Koushaku ni Ubawareru
 
+![kurobara-no-hanayome-junketsu-wa-futari-no-koushaku-ni-ubawareru](https://cdn.myanimelist.net/images/manga/2/181235.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

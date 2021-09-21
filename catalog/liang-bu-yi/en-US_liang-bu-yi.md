@@ -1,5 +1,7 @@
 # Liang Bu Yi
 
+![liang-bu-yi](https://cdn.myanimelist.net/images/anime/1040/113645.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 两不疑

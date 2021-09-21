@@ -1,5 +1,7 @@
 # Free! Movie 2: Timeless Medley - Yakusoku
 
+![free-movie-2-timeless-medley-yakusoku](https://cdn.myanimelist.net/images/anime/13/87931.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Free!-Timeless Medley- 約束

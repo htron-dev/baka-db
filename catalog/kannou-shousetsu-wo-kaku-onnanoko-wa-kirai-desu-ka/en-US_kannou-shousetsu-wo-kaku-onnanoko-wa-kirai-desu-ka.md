@@ -1,5 +1,7 @@
 # Kannou Shousetsu wo Kaku Onnanoko wa Kirai desu ka?
 
+![kannou-shousetsu-wo-kaku-onnanoko-wa-kirai-desu-ka](https://cdn.myanimelist.net/images/manga/3/164409.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 官能小説を書く女の子はキライですか?

@@ -1,5 +1,7 @@
 # Hajimete no Ofuro.
 
+![hajimete-no-ofuro](https://cdn.myanimelist.net/images/manga/3/30742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

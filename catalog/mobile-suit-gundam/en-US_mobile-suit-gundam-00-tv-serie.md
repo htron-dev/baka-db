@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00
 
+![mobile-suit-gundam-00](https://cdn.myanimelist.net/images/anime/3/13200.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 機動戦士ガンダム 00

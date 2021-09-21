@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba: Yuukaku-hen
 
+![kimetsu-no-yaiba-yuukaku-hen](https://cdn.myanimelist.net/images/anime/1804/117641.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 鬼滅の刃 遊郭編
 -   **rating**: R - 17+ (violence & profanity)

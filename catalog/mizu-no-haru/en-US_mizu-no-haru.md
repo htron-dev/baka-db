@@ -1,5 +1,7 @@
 # Mizu no Haru
 
+![mizu-no-haru](https://cdn.myanimelist.net/images/manga/2/73369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

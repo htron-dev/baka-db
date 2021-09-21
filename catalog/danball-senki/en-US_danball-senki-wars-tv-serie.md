@@ -1,5 +1,7 @@
 # Danball Senki Wars
 
+![danball-senki-wars](https://cdn.myanimelist.net/images/anime/1574/94701.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: ダンボール戦機ウォーズ

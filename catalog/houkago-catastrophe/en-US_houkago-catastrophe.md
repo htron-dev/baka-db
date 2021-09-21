@@ -1,5 +1,7 @@
 # Houkago Catastrophe
 
+![houkago-catastrophe](https://cdn.myanimelist.net/images/manga/3/179942.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

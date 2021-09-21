@@ -1,5 +1,7 @@
 # Money Football
 
+![money-football](https://cdn.myanimelist.net/images/manga/1/164143.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

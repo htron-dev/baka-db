@@ -1,5 +1,7 @@
 # Fantasm
 
+![fantasm](https://cdn.myanimelist.net/images/manga/1/164283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

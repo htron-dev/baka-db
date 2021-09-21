@@ -1,5 +1,7 @@
 # Monster Hunter Episode
 
+![monster-hunter-episode](https://cdn.myanimelist.net/images/manga/3/63675.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

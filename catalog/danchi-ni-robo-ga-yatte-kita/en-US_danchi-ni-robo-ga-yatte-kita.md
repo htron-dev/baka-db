@@ -1,5 +1,7 @@
 # Danchi ni Robo ga Yatte Kita
 
+![danchi-ni-robo-ga-yatte-kita](https://cdn.myanimelist.net/images/manga/3/26641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 団地にロボがやってきた

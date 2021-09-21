@@ -1,5 +1,7 @@
 # GJ-bu
 
+![gj-bu](https://cdn.myanimelist.net/images/anime/10/45995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GJ 部

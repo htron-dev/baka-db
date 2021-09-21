@@ -1,5 +1,7 @@
 # Inou Shiori no Meiji Taishou Youshokuki
 
+![inou-shiori-no-meiji-taishou-youshokuki](https://cdn.myanimelist.net/images/manga/1/224301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

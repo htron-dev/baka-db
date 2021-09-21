@@ -1,5 +1,7 @@
 # Yoiko no Rekishi Anime: Ookina Kabu (Kabu)
 
+![yoiko-no-rekishi-anime-ookina-kabu-kabu](https://cdn.myanimelist.net/images/anime/1918/93715.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: よい子のれきしアニメ おおきなカブ(株)

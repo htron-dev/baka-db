@@ -1,5 +1,7 @@
 # My Student Can't Be a Psychopath
 
+![my-student-cant-be-a-psychopath](https://cdn.myanimelist.net/images/manga/3/229238.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 89
 -   **original-name**: 내 학생이 싸이코패스일 리가 없어

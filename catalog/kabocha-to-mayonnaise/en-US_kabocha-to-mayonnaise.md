@@ -1,5 +1,7 @@
 # Kabocha to Mayonnaise
 
+![kabocha-to-mayonnaise](https://cdn.myanimelist.net/images/manga/2/37671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

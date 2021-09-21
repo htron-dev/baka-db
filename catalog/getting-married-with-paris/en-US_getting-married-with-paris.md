@@ -1,5 +1,7 @@
 # Getting Married with Paris
 
+![getting-married-with-paris](https://cdn.myanimelist.net/images/manga/3/70973.jpg)
+
 -   **type**: manhwa
 -   **original-name**: PARIS와 결혼하기
 

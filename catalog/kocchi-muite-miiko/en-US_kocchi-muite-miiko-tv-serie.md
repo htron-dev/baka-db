@@ -1,5 +1,7 @@
 # Kocchi Muite Miiko
 
+![kocchi-muite-miiko](https://cdn.myanimelist.net/images/anime/1182/107747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: こっちむいてみい子

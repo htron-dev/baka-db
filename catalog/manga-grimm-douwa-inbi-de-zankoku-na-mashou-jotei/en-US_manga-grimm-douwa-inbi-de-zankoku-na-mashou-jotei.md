@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Inbi de Zankoku na Mashou Jotei
 
+![manga-grimm-douwa-inbi-de-zankoku-na-mashou-jotei](https://cdn.myanimelist.net/images/manga/1/140631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

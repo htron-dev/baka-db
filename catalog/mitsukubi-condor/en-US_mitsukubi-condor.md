@@ -1,5 +1,7 @@
 # Mitsukubi Condor
 
+![mitsukubi-condor](https://cdn.myanimelist.net/images/manga/3/145347.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

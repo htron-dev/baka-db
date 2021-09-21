@@ -1,5 +1,7 @@
 # Hanakappa
 
+![hanakappa](https://cdn.myanimelist.net/images/anime/1105/90503.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: はなかっぱ
 -   **start-date**: 2010-03-29

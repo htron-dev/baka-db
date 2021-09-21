@@ -1,5 +1,7 @@
 # Hatsukare
 
+![hatsukare](https://cdn.myanimelist.net/images/manga/1/4784.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 69

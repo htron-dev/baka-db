@@ -1,5 +1,7 @@
 # Hadashi no Gen
 
+![hadashi-no-gen](https://cdn.myanimelist.net/images/manga/1/37574.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 54

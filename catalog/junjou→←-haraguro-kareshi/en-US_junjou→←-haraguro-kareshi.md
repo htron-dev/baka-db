@@ -1,5 +1,7 @@
 # Junjou→←Haraguro Kareshi
 
+![junjou→←-haraguro-kareshi](https://cdn.myanimelist.net/images/manga/1/192087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

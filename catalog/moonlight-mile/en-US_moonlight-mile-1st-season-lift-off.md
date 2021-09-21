@@ -1,5 +1,7 @@
 # Moonlight Mile 1st Season: Lift Off
 
+![moonlight-mile-1st-season-lift-off](https://cdn.myanimelist.net/images/anime/8/77412.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ムーンライトマイル 1st シーズン -Lift off-

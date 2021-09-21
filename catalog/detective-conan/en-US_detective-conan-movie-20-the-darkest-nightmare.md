@@ -1,5 +1,7 @@
 # Detective Conan Movie 20: The Darkest Nightmare
 
+![detective-conan-movie-20-the-darkest-nightmare](https://cdn.myanimelist.net/images/anime/10/78894.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　名探偵コナン　純黒の悪夢（ナイトメア）

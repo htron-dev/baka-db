@@ -1,5 +1,7 @@
 # Jinki:Extend - Sorekara
 
+![jinki-extend-sorekara](https://cdn.myanimelist.net/images/anime/9/8506.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジンキ・エクステンド 第 13 話 「それから」

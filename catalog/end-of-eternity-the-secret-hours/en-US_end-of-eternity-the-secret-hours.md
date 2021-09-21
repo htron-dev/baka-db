@@ -1,5 +1,7 @@
 # End of Eternity: The Secret Hours
 
+![end-of-eternity-the-secret-hours](https://cdn.myanimelist.net/images/manga/3/50897.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

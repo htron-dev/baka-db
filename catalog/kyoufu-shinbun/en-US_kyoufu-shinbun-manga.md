@@ -1,5 +1,7 @@
 # Kyoufu Shinbun
 
+![kyoufu-shinbun](https://cdn.myanimelist.net/images/manga/1/153087.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 29

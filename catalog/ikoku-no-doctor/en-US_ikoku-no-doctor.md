@@ -1,5 +1,7 @@
 # Ikoku no Doctor
 
+![ikoku-no-doctor](https://cdn.myanimelist.net/images/manga/1/108225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

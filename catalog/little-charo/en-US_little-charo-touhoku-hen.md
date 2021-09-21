@@ -1,5 +1,7 @@
 # Little Charo: Touhoku-hen
 
+![little-charo-touhoku-hen](https://cdn.myanimelist.net/images/anime/1786/93779.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: リトル・チャロ～東北編～

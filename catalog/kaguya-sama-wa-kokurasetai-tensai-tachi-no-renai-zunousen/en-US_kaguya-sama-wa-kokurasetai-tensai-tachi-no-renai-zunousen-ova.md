@@ -1,5 +1,7 @@
 # Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA
 
+![kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova](https://cdn.myanimelist.net/images/anime/1027/115055.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かぐや様は告らせたい ～天才たちの恋愛頭脳戦～ OVA

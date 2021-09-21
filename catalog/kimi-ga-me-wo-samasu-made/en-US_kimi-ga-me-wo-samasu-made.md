@@ -1,5 +1,7 @@
 # Kimi ga Me wo Samasu made
 
+![kimi-ga-me-wo-samasu-made](https://cdn.myanimelist.net/images/manga/2/12975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君が目を覚ますまで

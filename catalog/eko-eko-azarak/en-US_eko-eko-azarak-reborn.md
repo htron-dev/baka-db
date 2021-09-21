@@ -1,5 +1,7 @@
 # Eko Eko Azarak: Reborn
 
+![eko-eko-azarak-reborn](https://cdn.myanimelist.net/images/manga/2/239711.jpg)
+
 -   **type**: manga
 -   **original-name**: エコエコアザラク REBORN
 -   **start-date**: 2020-03-19

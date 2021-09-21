@@ -1,5 +1,7 @@
 # Hitodenashi no Koi
 
+![hitodenashi-no-koi](https://cdn.myanimelist.net/images/manga/3/20555.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

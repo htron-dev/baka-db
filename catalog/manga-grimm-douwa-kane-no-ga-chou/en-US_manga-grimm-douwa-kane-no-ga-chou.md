@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Kane no ga Chou
 
+![manga-grimm-douwa-kane-no-ga-chou](https://cdn.myanimelist.net/images/manga/3/142365.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

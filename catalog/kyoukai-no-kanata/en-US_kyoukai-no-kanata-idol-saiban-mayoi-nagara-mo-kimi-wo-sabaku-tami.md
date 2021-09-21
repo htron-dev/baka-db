@@ -1,5 +1,7 @@
 # Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami
 
+![kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami](https://cdn.myanimelist.net/images/anime/6/64267.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: きょうかいのかなた アイドル裁判！～迷いながらも君を裁く民～

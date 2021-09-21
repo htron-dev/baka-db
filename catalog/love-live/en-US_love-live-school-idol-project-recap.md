@@ -1,5 +1,7 @@
 # Love Live! School Idol Project Recap
 
+![love-live-school-idol-project-recap](https://cdn.myanimelist.net/images/anime/4/57505.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブライブ！〜国立音ノ木坂学院案内〜

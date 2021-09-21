@@ -1,5 +1,7 @@
 # Koe no Katachi
 
+![koe-no-katachi](https://cdn.myanimelist.net/images/anime/1122/96435.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聲の形

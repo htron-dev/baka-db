@@ -1,5 +1,7 @@
 # Kindan Joshi
 
+![kindan-joshi](https://cdn.myanimelist.net/images/anime/1102/111039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 禁男女子

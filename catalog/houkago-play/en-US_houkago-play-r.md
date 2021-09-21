@@ -1,5 +1,7 @@
 # Houkago Play R
 
+![houkago-play-r](https://cdn.myanimelist.net/images/manga/3/118891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

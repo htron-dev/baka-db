@@ -1,5 +1,7 @@
 # Elite Yankee Saburou
 
+![elite-yankee-saburou](https://cdn.myanimelist.net/images/manga/3/224876.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 251

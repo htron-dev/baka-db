@@ -1,5 +1,7 @@
 # Chobitto Zukan
 
+![chobitto-zukan](https://cdn.myanimelist.net/images/anime/2/79934.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ちょびっとづかん

@@ -1,5 +1,7 @@
 # Mai-Otome Special: Otome no Inori
 
+![mai-otome-special-otome-no-inori](https://cdn.myanimelist.net/images/anime/6/23015.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 舞-乙 HiME

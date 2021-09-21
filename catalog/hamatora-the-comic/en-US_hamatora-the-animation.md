@@ -1,5 +1,7 @@
 # Hamatora The Animation
 
+![hamatora-the-animation](https://cdn.myanimelist.net/images/anime/13/75653.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハマトラ THE ANIMATION

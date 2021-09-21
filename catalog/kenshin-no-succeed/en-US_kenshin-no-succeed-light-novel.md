@@ -1,5 +1,7 @@
 # Kenshin no Succeed
 
+![kenshin-no-succeed](https://cdn.myanimelist.net/images/manga/2/158131.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 69

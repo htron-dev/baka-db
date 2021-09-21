@@ -1,5 +1,7 @@
 # Mousou Shoujo
 
+![mousou-shoujo](https://cdn.myanimelist.net/images/manga/3/215108.jpg)
+
 -   **type**: manga
 -   **original-name**: 妄想ショウジョ
 -   **start-date**: 2015-07-29

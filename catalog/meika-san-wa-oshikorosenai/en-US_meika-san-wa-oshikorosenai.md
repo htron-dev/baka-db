@@ -1,5 +1,7 @@
 # Meika-san wa Oshikorosenai
 
+![meika-san-wa-oshikorosenai](https://cdn.myanimelist.net/images/manga/1/236635.jpg)
+
 -   **type**: manga
 -   **original-name**: メイカさんは押しころせない
 -   **start-date**: 2020-01-23

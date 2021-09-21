@@ -1,5 +1,7 @@
 # Iceland
 
+![iceland](https://cdn.myanimelist.net/images/manga/2/183937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイスランド

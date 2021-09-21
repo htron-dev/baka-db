@@ -1,5 +1,7 @@
 # Lovephobia
 
+![lovephobia](https://cdn.myanimelist.net/images/manga/3/36579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

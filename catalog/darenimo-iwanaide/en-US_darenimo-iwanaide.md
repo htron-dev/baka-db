@@ -1,5 +1,7 @@
 # Darenimo Iwanaide
 
+![darenimo-iwanaide](https://cdn.myanimelist.net/images/manga/2/193175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

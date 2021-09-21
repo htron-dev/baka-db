@@ -1,5 +1,7 @@
 # Kaze ga Tsuyoku Fuiteiru
 
+![kaze-ga-tsuyoku-fuiteiru](https://cdn.myanimelist.net/images/anime/1692/93918.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 風が強く吹いている

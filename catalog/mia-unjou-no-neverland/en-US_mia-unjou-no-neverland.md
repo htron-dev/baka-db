@@ -1,5 +1,7 @@
 # Mia: Unjou no Neverland
 
+![mia-unjou-no-neverland](https://cdn.myanimelist.net/images/manga/2/205002.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

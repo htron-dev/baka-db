@@ -1,5 +1,7 @@
 # Kedakaki Kemono no Tenazukekata
 
+![kedakaki-kemono-no-tenazukekata](https://cdn.myanimelist.net/images/manga/1/96299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 気高き獣の手懐け方

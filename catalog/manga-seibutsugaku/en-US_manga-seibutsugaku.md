@@ -1,5 +1,7 @@
 # Manga Seibutsugaku
 
+![manga-seibutsugaku](https://cdn.myanimelist.net/images/manga/1/82600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 漫画生物学

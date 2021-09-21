@@ -1,5 +1,7 @@
 # Koi to Kokkai
 
+![koi-to-kokkai](https://cdn.myanimelist.net/images/manga/2/226848.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋と国会
 -   **start-date**: 2018-11-05

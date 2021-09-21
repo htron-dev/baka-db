@@ -1,5 +1,7 @@
 # Maboroshi no Miyako
 
+![maboroshi-no-miyako](https://cdn.myanimelist.net/images/manga/3/42054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

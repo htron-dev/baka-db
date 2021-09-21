@@ -1,5 +1,7 @@
 # Miss Cast!
 
+![miss-cast](https://cdn.myanimelist.net/images/manga/2/241009.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

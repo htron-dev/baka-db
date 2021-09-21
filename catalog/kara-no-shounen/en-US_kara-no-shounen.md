@@ -1,5 +1,7 @@
 # Kara no Shounen
 
+![kara-no-shounen](https://cdn.myanimelist.net/images/manga/2/14254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

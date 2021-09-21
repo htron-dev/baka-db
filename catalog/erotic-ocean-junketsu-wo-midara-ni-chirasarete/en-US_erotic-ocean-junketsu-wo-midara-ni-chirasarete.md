@@ -1,5 +1,7 @@
 # Erotic Ocean: Junketsu wo Midara ni Chirasarete
 
+![erotic-ocean-junketsu-wo-midara-ni-chirasarete](https://cdn.myanimelist.net/images/manga/2/184092.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

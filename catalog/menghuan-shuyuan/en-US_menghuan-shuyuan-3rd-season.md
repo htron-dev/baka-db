@@ -1,5 +1,7 @@
 # Menghuan Shuyuan 3rd Season
 
+![menghuan-shuyuan-3rd-season](https://cdn.myanimelist.net/images/anime/1799/108466.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 梦幻书院 第三季

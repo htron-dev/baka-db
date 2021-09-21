@@ -1,5 +1,7 @@
 # Debby the Corsifa wa Makezugirai
 
+![debby-the-corsifa-wa-makezugirai](https://cdn.myanimelist.net/images/manga/1/244072.jpg)
+
 -   **type**: manga
 -   **original-name**: デビィ・ザ・コルシファは負けず嫌い
 -   **start-date**: 2020-12-07

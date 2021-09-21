@@ -1,5 +1,7 @@
 # Go! Hiromi Go!
 
+![go-hiromi-go](https://cdn.myanimelist.net/images/manga/2/7593.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: GO!ヒロミ GO!

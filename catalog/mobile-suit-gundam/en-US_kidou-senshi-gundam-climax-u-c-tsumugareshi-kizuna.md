@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Climax U.C.: Tsumugareshi Kizuna
 
+![kidou-senshi-gundam-climax-u-c-tsumugareshi-kizuna](https://cdn.myanimelist.net/images/manga/1/33312.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

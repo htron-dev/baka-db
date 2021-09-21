@@ -1,5 +1,7 @@
 # Happy Death Day
 
+![happy-death-day](https://cdn.myanimelist.net/images/manga/2/163486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

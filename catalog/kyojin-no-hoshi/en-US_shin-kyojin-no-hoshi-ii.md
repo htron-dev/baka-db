@@ -1,5 +1,7 @@
 # Shin Kyojin no Hoshi II
 
+![shin-kyojin-no-hoshi-ii](https://cdn.myanimelist.net/images/anime/1344/91228.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 新巨人の星 II

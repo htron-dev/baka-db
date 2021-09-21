@@ -1,5 +1,7 @@
 # New Initial D Movie: Legend 1 - Kakusei
 
+![new-initial-d-movie-legend-1-kakusei](https://cdn.myanimelist.net/images/anime/7/75648.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新劇場版　頭文字［イニシャル］D Legend1 -覚醒-

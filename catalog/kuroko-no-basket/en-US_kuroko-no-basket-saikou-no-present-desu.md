@@ -1,5 +1,7 @@
 # Kuroko no Basket: Saikou no Present Desu
 
+![kuroko-no-basket-saikou-no-present-desu](https://cdn.myanimelist.net/images/anime/13/77323.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ〜最高のプレゼントです〜

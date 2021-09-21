@@ -1,5 +1,7 @@
 # Hokkyokusei ni Nage Kissu
 
+![hokkyokusei-ni-nage-kissu](https://cdn.myanimelist.net/images/manga/2/12976.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 北極星に投げキッス

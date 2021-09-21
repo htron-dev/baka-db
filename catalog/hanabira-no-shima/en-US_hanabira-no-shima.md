@@ -1,5 +1,7 @@
 # Hanabira no Shima
 
+![hanabira-no-shima](https://cdn.myanimelist.net/images/manga/1/176181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

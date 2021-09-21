@@ -1,5 +1,7 @@
 # Tatakae!! Ramenman
 
+![tatakae-ramenman](https://cdn.myanimelist.net/images/manga/3/148321.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 54

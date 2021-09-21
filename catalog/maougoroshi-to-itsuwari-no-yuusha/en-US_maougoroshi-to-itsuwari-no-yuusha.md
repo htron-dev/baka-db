@@ -1,5 +1,7 @@
 # Maougoroshi to Itsuwari no Yuusha
 
+![maougoroshi-to-itsuwari-no-yuusha](https://cdn.myanimelist.net/images/manga/2/163975.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

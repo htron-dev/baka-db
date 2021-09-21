@@ -1,5 +1,7 @@
 # Hentai Ouji to Warawanai Neko.: Henneko BBS
 
+![hentai-ouji-to-warawanai-neko-henneko-bbs](https://cdn.myanimelist.net/images/anime/11/56869.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 変態王子と笑わない猫。へんねこ BBS

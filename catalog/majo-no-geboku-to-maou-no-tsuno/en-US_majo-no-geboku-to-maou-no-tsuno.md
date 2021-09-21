@@ -1,5 +1,7 @@
 # Majo no Geboku to Maou no Tsuno
 
+![majo-no-geboku-to-maou-no-tsuno](https://cdn.myanimelist.net/images/manga/1/142747.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔女の下僕と魔王のツノ
 -   **start-date**: 2014-04-12

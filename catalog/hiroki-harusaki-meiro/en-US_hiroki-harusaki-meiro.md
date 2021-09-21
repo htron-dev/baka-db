@@ -1,5 +1,7 @@
 # Hiroki - Harusaki Meiro
 
+![hiroki-harusaki-meiro](https://cdn.myanimelist.net/images/manga/2/33173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 弘樹一春咲迷路

@@ -1,5 +1,7 @@
 # Isekai Oudou Tetsudou Route 66
 
+![isekai-oudou-tetsudou-route-66](https://cdn.myanimelist.net/images/manga/2/187341.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界横断鉄道ルート 66
 -   **start-date**: 2016-12-20

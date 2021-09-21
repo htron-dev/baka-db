@@ -1,5 +1,7 @@
 # Invincible Yeonbyeongeol
 
+![invincible-yeonbyeongeol](https://cdn.myanimelist.net/images/manga/3/156332.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 無敵 연변걸

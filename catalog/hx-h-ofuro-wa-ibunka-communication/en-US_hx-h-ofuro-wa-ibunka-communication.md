@@ -1,5 +1,7 @@
 # HxH! Ofuro wa Ibunka Communication!?
 
+![hx-h-ofuro-wa-ibunka-communication](https://cdn.myanimelist.net/images/manga/2/164199.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

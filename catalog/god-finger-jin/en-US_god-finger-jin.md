@@ -1,5 +1,7 @@
 # God Finger Jin
 
+![god-finger-jin](https://cdn.myanimelist.net/images/manga/3/111563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

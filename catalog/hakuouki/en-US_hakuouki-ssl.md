@@ -1,5 +1,7 @@
 # Hakuouki SSL
 
+![hakuouki-ssl](https://cdn.myanimelist.net/images/manga/1/166719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Kingdom Hearts 3D: Dream Drop Distance
 
+![kingdom-hearts-3-d-dream-drop-distance](https://cdn.myanimelist.net/images/manga/3/138283.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 小説 キングダム ハーツ 3D ドリーム ドロップ ディスタンス

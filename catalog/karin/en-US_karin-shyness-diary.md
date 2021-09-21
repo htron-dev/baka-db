@@ -1,5 +1,7 @@
 # Karin Shyness Diary
 
+![karin-shyness-diary](https://cdn.myanimelist.net/images/manga/2/39826.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 

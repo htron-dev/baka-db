@@ -1,5 +1,7 @@
 # Mikan Jirou
 
+![mikan-jirou](https://cdn.myanimelist.net/images/manga/3/175598.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

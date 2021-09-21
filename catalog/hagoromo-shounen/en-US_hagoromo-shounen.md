@@ -1,5 +1,7 @@
 # Hagoromo Shounen
 
+![hagoromo-shounen](https://cdn.myanimelist.net/images/manga/2/100683.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハゴロモ少年

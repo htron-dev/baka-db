@@ -1,5 +1,7 @@
 # Fukigen na Ouji-sama
 
+![fukigen-na-ouji-sama](https://cdn.myanimelist.net/images/manga/1/30217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 不機嫌な王子様

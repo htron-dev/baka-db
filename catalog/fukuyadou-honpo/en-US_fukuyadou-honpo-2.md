@@ -1,5 +1,7 @@
 # Fukuyadou Honpo 2
 
+![fukuyadou-honpo-2](https://cdn.myanimelist.net/images/manga/2/201053.jpg)
+
 -   **type**: manga
 -   **original-name**: 福家堂本舗 弐
 -   **start-date**: 2016-08-12

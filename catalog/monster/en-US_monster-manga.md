@@ -1,5 +1,7 @@
 # Monster
 
+![monster](https://cdn.myanimelist.net/images/manga/3/54525.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 162

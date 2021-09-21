@@ -1,5 +1,7 @@
 # Mugen Senshi Varys
 
+![mugen-senshi-varys](https://cdn.myanimelist.net/images/manga/2/9196.jpg)
+
 -   **type**: manga
 -   **original-name**: 夢幻戦士ヴァリス
 -   **start-date**: 2007-10-26

@@ -1,5 +1,7 @@
 # Kobo-chan no Koutsuu Anzen
 
+![kobo-chan-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1725/99317.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コボちゃんの交通安全

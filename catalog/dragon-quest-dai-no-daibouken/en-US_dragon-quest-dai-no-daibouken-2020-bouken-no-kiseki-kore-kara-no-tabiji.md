@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken (2020): Bouken no Kiseki, Kore kara no Tabiji
 
+![dragon-quest-dai-no-daibouken-2020-bouken-no-kiseki-kore-kara-no-tabiji](https://cdn.myanimelist.net/images/anime/1762/116118.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 特別編 冒険の軌跡、これからの旅路

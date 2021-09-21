@@ -1,5 +1,7 @@
 # Chao Shen Xueyuan: Shen yu Shen
 
+![chao-shen-xueyuan-shen-yu-shen](https://cdn.myanimelist.net/images/anime/1172/114404.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 超神学院 神与神

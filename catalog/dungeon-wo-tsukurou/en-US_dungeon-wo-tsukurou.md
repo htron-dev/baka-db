@@ -1,5 +1,7 @@
 # Dungeon wo Tsukurou
 
+![dungeon-wo-tsukurou](https://cdn.myanimelist.net/images/manga/3/180399.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ダンジョンを造ろう
 -   **start-date**: 2015-04-24

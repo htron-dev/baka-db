@@ -1,5 +1,7 @@
 # Kikinosuke Gomen - Giyaman no Sho
 
+![kikinosuke-gomen-giyaman-no-sho](https://cdn.myanimelist.net/images/manga/1/16379.jpg)
+
 -   **type**: manga
 -   **original-name**: 危機之介御免 ～ギヤマンの書～
 -   **start-date**: 2007-12-19

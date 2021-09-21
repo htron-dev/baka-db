@@ -1,5 +1,7 @@
 # Dias Police: Ihou Keisatsu
 
+![dias-police-ihou-keisatsu](https://cdn.myanimelist.net/images/manga/1/192797.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 156

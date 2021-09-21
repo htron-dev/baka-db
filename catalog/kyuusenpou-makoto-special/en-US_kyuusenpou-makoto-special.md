@@ -1,5 +1,7 @@
 # Kyuusenpou Makoto Special
 
+![kyuusenpou-makoto-special](https://cdn.myanimelist.net/images/manga/2/151490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 急戦法まことスペシャル

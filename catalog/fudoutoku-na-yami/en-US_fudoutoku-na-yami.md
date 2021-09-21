@@ -1,5 +1,7 @@
 # Fudoutoku na Yami
 
+![fudoutoku-na-yami](https://cdn.myanimelist.net/images/manga/3/7688.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Monster Musume no Iru Nichijou OVA
 
+![monster-musume-no-iru-nichijou-ova](https://cdn.myanimelist.net/images/anime/2/83661.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: モンスター娘のいる日常 OVA

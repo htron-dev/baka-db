@@ -1,5 +1,7 @@
 # Maigo no Kare to Kuma no Onegai
 
+![maigo-no-kare-to-kuma-no-onegai](https://cdn.myanimelist.net/images/manga/1/136445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Isekai wo Seigyo Mahou de Kirihirake!
 
+![isekai-wo-seigyo-mahou-de-kirihirake](https://cdn.myanimelist.net/images/manga/3/191252.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

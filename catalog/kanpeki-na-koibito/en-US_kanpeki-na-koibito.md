@@ -1,5 +1,7 @@
 # Kanpeki na Koibito
 
+![kanpeki-na-koibito](https://cdn.myanimelist.net/images/manga/5/31088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

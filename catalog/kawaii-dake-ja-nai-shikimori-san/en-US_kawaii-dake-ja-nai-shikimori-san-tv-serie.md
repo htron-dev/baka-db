@@ -1,5 +1,7 @@
 # Kawaii dake ja Nai Shikimori-san
 
+![kawaii-dake-ja-nai-shikimori-san](https://cdn.myanimelist.net/images/anime/1282/111054.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 可愛いだけじゃない式守さん
 -   **rating**: None

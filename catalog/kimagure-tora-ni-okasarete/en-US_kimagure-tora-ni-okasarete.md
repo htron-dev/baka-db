@@ -1,5 +1,7 @@
 # Kimagure Tora ni Okasarete
 
+![kimagure-tora-ni-okasarete](https://cdn.myanimelist.net/images/manga/2/63923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

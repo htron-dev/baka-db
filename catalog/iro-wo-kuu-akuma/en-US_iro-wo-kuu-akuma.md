@@ -1,5 +1,7 @@
 # Iro wo Kuu Akuma
 
+![iro-wo-kuu-akuma](https://cdn.myanimelist.net/images/anime/1151/102844.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 色を喰うアクマ

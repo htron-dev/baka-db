@@ -1,5 +1,7 @@
 # Kaikan Trap
 
+![kaikan-trap](https://cdn.myanimelist.net/images/manga/1/96821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

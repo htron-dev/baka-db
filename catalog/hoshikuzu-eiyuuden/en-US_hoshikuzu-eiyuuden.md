@@ -1,5 +1,7 @@
 # Hoshikuzu Eiyuuden
 
+![hoshikuzu-eiyuuden](https://cdn.myanimelist.net/images/manga/3/174384.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **original-name**: 星くず英雄伝

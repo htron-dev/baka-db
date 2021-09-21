@@ -1,5 +1,7 @@
 # Garo: Guren no Tsuki - Yurugaro
 
+![garo-guren-no-tsuki-yurugaro](https://cdn.myanimelist.net/images/anime/5/81488.jpg)
+
 -   **type**: special
 -   **episodes**: 21
 -   **original-name**: ゆるがろ

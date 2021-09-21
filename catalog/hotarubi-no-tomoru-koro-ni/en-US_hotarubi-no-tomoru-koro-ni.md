@@ -1,5 +1,7 @@
 # Hotarubi no Tomoru Koro ni
 
+![hotarubi-no-tomoru-koro-ni](https://cdn.myanimelist.net/images/manga/2/183788.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

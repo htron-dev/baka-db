@@ -1,5 +1,7 @@
 # Mobile Suit Gundam MS IGLOO 603
 
+![mobile-suit-gundam-ms-igloo-603](https://cdn.myanimelist.net/images/manga/3/18865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

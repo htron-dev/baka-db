@@ -1,5 +1,7 @@
 # Junk Party
 
+![junk-party](https://cdn.myanimelist.net/images/manga/2/125721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジャンクパーティ

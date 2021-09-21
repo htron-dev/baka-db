@@ -1,5 +1,7 @@
 # Miracle☆Girls
 
+![miracle☆-girls](https://cdn.myanimelist.net/images/manga/1/161113.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 39

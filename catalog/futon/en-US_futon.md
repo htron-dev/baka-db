@@ -1,5 +1,7 @@
 # Futon
 
+![futon](https://cdn.myanimelist.net/images/anime/11/69469.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 布団

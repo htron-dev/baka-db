@@ -1,5 +1,7 @@
 # Iyagatteru Kimi ga Suki
 
+![iyagatteru-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/209897.jpg)
+
 -   **type**: manga
 -   **original-name**: 嫌がってるキミが好き
 -   **start-date**: 2016-04-15

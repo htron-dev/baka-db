@@ -1,5 +1,7 @@
 # Kanojo ni Naritai Kimi to Boku
 
+![kanojo-ni-naritai-kimi-to-boku](https://cdn.myanimelist.net/images/manga/1/217782.jpg)
+
 -   **type**: manga
 -   **chapters**: 51
 -   **original-name**: カノジョになりたい君と僕

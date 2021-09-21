@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami: Perfect Memory
 
+![mahou-no-tenshi-creamy-mami-perfect-memory](https://cdn.myanimelist.net/images/anime/8/77437.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法の天使 クリィミーマミ パーフェクトメモリー

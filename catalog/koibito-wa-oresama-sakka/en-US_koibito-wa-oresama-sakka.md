@@ -1,5 +1,7 @@
 # Koibito wa Oresama Sakka!?
 
+![koibito-wa-oresama-sakka](https://cdn.myanimelist.net/images/manga/1/153346.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋人はオレ様作家!?

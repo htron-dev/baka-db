@@ -1,5 +1,7 @@
 # Hakoniwa Fools
 
+![hakoniwa-fools](https://cdn.myanimelist.net/images/manga/1/160072.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ハコニワフールズ

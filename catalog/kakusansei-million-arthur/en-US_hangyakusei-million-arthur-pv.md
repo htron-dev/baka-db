@@ -1,5 +1,7 @@
 # Hangyakusei Million Arthur PV
 
+![hangyakusei-million-arthur-pv](https://cdn.myanimelist.net/images/anime/1411/96834.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 叛逆性ミリオンアーサー

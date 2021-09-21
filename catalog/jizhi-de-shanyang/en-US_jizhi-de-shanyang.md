@@ -1,5 +1,7 @@
 # Jizhi de Shanyang
 
+![jizhi-de-shanyang](https://cdn.myanimelist.net/images/anime/1743/115832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 机智的山羊

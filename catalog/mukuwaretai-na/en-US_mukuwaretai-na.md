@@ -1,5 +1,7 @@
 # Mukuwaretai na.
 
+![mukuwaretai-na](https://cdn.myanimelist.net/images/manga/4/130195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

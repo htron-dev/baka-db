@@ -1,5 +1,7 @@
 # Kurogane Kai
 
+![kurogane-kai](https://cdn.myanimelist.net/images/manga/2/207882.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # H. P. Lovecraft's The Dunwich Horror and Other Stories
 
+![h-p-lovecrafts-the-dunwich-horror-and-other-stories](https://cdn.myanimelist.net/images/anime/13/7008.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: H・P・ラヴクラフトのダニッチ・ホラー　その他の物語

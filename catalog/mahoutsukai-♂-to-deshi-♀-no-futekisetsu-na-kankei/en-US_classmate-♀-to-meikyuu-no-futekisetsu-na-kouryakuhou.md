@@ -1,5 +1,7 @@
 # Classmate (♀) to Meikyuu no Futekisetsu na Kouryakuhou
 
+![classmate-♀-to-meikyuu-no-futekisetsu-na-kouryakuhou](https://cdn.myanimelist.net/images/manga/1/94727.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Goblin Slayer: Goblin's Crown
 
+![goblin-slayer-goblins-crown](https://cdn.myanimelist.net/images/anime/1699/110724.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴブリンスレイヤー -GOBLIN'S CROWN-

@@ -1,5 +1,7 @@
 # Hotel Califorínia
 
+![hotel-califorinia](https://cdn.myanimelist.net/images/manga/3/177030.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: HOTEL CALFORÍNIA [ホテルカルフォリニア]

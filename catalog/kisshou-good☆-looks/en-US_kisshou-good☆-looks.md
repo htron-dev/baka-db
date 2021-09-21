@@ -1,5 +1,7 @@
 # Kisshou: Good☆Looks
 
+![kisshou-good☆-looks](https://cdn.myanimelist.net/images/manga/2/183549.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hungry Heart: Wild Striker
 
+![hungry-heart-wild-striker](https://cdn.myanimelist.net/images/anime/12/49655.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ハングリーハート Wild Striker

@@ -1,5 +1,7 @@
 # Leonardo Hakase to Kirin-mura no Nakama-tachi
 
+![leonardo-hakase-to-kirin-mura-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/1567/105675.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: レオナルド博士とキリン村のなかまたち

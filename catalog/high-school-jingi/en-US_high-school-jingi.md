@@ -1,5 +1,7 @@
 # High School Jingi
 
+![high-school-jingi](https://cdn.myanimelist.net/images/anime/5/62609.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はいすくーる仁義

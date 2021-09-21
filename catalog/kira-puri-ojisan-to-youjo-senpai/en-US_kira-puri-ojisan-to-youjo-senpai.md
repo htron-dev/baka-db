@@ -1,5 +1,7 @@
 # KiraPuri-ojisan to Youjo-senpai
 
+![kira-puri-ojisan-to-youjo-senpai](https://cdn.myanimelist.net/images/manga/2/192268.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キラプリおじさんと幼女先輩
 -   **start-date**: 2017-03-10

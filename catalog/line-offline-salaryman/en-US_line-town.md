@@ -1,5 +1,7 @@
 # Line Town
 
+![line-town](https://cdn.myanimelist.net/images/anime/10/50679.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ラインタウン

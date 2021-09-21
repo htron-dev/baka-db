@@ -1,5 +1,7 @@
 # Mandamgangho
 
+![mandamgangho](https://cdn.myanimelist.net/images/anime/1123/93054.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 만담강호

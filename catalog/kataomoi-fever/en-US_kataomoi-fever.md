@@ -1,5 +1,7 @@
 # Kataomoi Fever
 
+![kataomoi-fever](https://cdn.myanimelist.net/images/manga/1/241025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

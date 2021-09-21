@@ -1,5 +1,7 @@
 # Datte Suki Nanda mon!
 
+![datte-suki-nanda-mon](https://cdn.myanimelist.net/images/manga/3/141223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

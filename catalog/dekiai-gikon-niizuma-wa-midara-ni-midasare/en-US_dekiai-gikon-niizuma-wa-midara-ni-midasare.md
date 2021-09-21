@@ -1,5 +1,7 @@
 # Dekiai Gikon: Niizuma wa Midara ni Midasare
 
+![dekiai-gikon-niizuma-wa-midara-ni-midasare](https://cdn.myanimelist.net/images/manga/2/181506.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

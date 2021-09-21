@@ -1,5 +1,7 @@
 # Log Horizon Gaiden: Honey Moon Logs
 
+![log-horizon-gaiden-honey-moon-logs](https://cdn.myanimelist.net/images/manga/1/165459.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

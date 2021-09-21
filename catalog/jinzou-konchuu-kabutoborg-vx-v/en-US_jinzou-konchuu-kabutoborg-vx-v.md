@@ -1,5 +1,7 @@
 # Jinzou Konchuu Kabutoborg VxV
 
+![jinzou-konchuu-kabutoborg-vx-v](https://cdn.myanimelist.net/images/anime/10/46187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 人造昆虫カブトボーグ V×V

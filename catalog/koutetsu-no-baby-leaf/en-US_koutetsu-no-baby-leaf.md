@@ -1,5 +1,7 @@
 # Koutetsu no Baby Leaf
 
+![koutetsu-no-baby-leaf](https://cdn.myanimelist.net/images/manga/2/96995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

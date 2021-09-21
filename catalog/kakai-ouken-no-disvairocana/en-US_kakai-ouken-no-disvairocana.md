@@ -1,5 +1,7 @@
 # Kakai Ouken no Disvairocana
 
+![kakai-ouken-no-disvairocana](https://cdn.myanimelist.net/images/manga/1/163603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 33

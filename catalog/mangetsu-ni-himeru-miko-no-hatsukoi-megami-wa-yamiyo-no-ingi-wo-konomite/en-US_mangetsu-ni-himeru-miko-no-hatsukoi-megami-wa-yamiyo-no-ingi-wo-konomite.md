@@ -1,5 +1,7 @@
 # Mangetsu ni Himeru Miko no Hatsukoi: Megami wa Yamiyo no Ingi wo Konomite
 
+![mangetsu-ni-himeru-miko-no-hatsukoi-megami-wa-yamiyo-no-ingi-wo-konomite](https://cdn.myanimelist.net/images/manga/1/184531.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

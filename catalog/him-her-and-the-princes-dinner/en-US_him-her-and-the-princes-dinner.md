@@ -1,5 +1,7 @@
 # Him, Her and the Prince's Dinner
 
+![him-her-and-the-princes-dinner](https://cdn.myanimelist.net/images/manga/1/40925.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 왕자님의 저녁식사

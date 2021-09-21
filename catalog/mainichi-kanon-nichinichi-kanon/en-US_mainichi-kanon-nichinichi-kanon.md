@@ -1,5 +1,7 @@
 # Mainichi Kanon, Nichinichi Kanon
 
+![mainichi-kanon-nichinichi-kanon](https://cdn.myanimelist.net/images/manga/3/232097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

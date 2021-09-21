@@ -1,5 +1,7 @@
 # Houseki no Kuni
 
+![houseki-no-kuni](https://cdn.myanimelist.net/images/manga/1/115443.jpg)
+
 -   **type**: manga
 -   **original-name**: 宝石の国
 -   **start-date**: 2012-10-25

@@ -1,5 +1,7 @@
 # Koishite Baby
 
+![koishite-baby](https://cdn.myanimelist.net/images/manga/3/227194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

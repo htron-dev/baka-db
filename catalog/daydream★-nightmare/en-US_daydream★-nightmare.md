@@ -1,5 +1,7 @@
 # Daydream★Nightmare
 
+![daydream★-nightmare](https://cdn.myanimelist.net/images/manga/2/72527.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

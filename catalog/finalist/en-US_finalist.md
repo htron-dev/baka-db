@@ -1,5 +1,7 @@
 # Finalist
 
+![finalist](https://cdn.myanimelist.net/images/manga/1/33634.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ふぁいなりすと

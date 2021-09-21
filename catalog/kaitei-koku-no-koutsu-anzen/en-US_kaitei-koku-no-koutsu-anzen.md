@@ -1,5 +1,7 @@
 # Kaitei-koku no Koutsu Anzen
 
+![kaitei-koku-no-koutsu-anzen](https://cdn.myanimelist.net/images/anime/1957/99484.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 海底国の交通安全

@@ -1,5 +1,7 @@
 # Mukatsuku Douryou to Sex Friend ni Narimashita
 
+![mukatsuku-douryou-to-sex-friend-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/202480.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

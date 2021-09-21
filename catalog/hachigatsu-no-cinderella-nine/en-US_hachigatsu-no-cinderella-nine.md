@@ -1,5 +1,7 @@
 # Hachigatsu no Cinderella Nine
 
+![hachigatsu-no-cinderella-nine](https://cdn.myanimelist.net/images/anime/11/87686.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 八月のシンデレラナイン

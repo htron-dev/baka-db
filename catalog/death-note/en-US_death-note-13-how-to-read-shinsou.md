@@ -1,5 +1,7 @@
 # Death Note 13: How to Read - Shinsou
 
+![death-note-13-how-to-read-shinsou](https://cdn.myanimelist.net/images/manga/3/231006.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: DEATH NOTE 13 HOW TO READ 真相

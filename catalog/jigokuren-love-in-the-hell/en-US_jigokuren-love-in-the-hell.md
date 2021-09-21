@@ -1,5 +1,7 @@
 # Jigokuren: Love in the Hell
 
+![jigokuren-love-in-the-hell](https://cdn.myanimelist.net/images/manga/2/188893.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

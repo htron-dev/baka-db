@@ -1,5 +1,7 @@
 # Death March kara Hajimaru Isekai Kyousoukyoku
 
+![death-march-kara-hajimaru-isekai-kyousoukyoku](https://cdn.myanimelist.net/images/anime/4/88911.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デスマーチからはじまる異世界狂想曲

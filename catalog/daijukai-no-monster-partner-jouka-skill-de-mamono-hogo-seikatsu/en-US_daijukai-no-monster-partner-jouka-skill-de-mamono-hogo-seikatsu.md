@@ -1,5 +1,7 @@
 # Daijukai no Monster Partner: Jouka Skill de Mamono Hogo Seikatsu
 
+![daijukai-no-monster-partner-jouka-skill-de-mamono-hogo-seikatsu](https://cdn.myanimelist.net/images/manga/2/217502.jpg)
+
 -   **type**: manga
 -   **original-name**: 大樹海のモンスターパートナー ～浄化スキルで魔物保護生活～
 -   **start-date**: 2018-10-27

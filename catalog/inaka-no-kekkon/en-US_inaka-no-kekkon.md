@@ -1,5 +1,7 @@
 # Inaka no Kekkon
 
+![inaka-no-kekkon](https://cdn.myanimelist.net/images/manga/1/205847.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Koisuru Daigo-sensei
 
+![koisuru-daigo-sensei](https://cdn.myanimelist.net/images/manga/3/236239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

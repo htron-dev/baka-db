@@ -1,5 +1,7 @@
 # Kokui no Kishi to Akujo no Ryouen
 
+![kokui-no-kishi-to-akujo-no-ryouen](https://cdn.myanimelist.net/images/manga/1/215096.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Dumbbell Nan Kilo Moteru?
 
+![dumbbell-nan-kilo-moteru](https://cdn.myanimelist.net/images/manga/1/187774.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンベル何キロ持てる？
 -   **start-date**: 2016-08-12

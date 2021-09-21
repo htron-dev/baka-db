@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Head On! Master Senshi
 
+![eiyuu-densetsu-head-on-master-senshi](https://cdn.myanimelist.net/images/anime/1045/98567.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 英雄伝説　ヘッドオン！マスター戦士

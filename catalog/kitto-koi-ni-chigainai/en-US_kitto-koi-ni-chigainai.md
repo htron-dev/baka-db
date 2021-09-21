@@ -1,5 +1,7 @@
 # Kitto Koi ni Chigainai
 
+![kitto-koi-ni-chigainai](https://cdn.myanimelist.net/images/manga/2/120243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

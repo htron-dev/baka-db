@@ -1,5 +1,7 @@
 # Katanagatari
 
+![katanagatari](https://cdn.myanimelist.net/images/manga/2/167366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 55

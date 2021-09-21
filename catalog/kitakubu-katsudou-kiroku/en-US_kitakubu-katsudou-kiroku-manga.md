@@ -1,5 +1,7 @@
 # Kitakubu Katsudou Kiroku
 
+![kitakubu-katsudou-kiroku](https://cdn.myanimelist.net/images/manga/2/67425.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 65

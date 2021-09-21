@@ -1,5 +1,7 @@
 # Dogeza de Tanondemita
 
+![dogeza-de-tanondemita](https://cdn.myanimelist.net/images/anime/1634/109387.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 土下座で頼んでみた

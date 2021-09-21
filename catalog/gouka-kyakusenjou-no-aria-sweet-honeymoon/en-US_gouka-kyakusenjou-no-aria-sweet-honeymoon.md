@@ -1,5 +1,7 @@
 # Gouka Kyakusenjou no Aria: Sweet Honeymoon!?
 
+![gouka-kyakusenjou-no-aria-sweet-honeymoon](https://cdn.myanimelist.net/images/manga/3/193301.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

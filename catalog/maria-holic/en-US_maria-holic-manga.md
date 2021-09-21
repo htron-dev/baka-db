@@ -1,5 +1,7 @@
 # Maria†Holic
 
+![maria-holic](https://cdn.myanimelist.net/images/manga/3/54675.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: まりあ†ほりっく

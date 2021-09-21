@@ -1,5 +1,7 @@
 # Koi no kara Sawagi
 
+![koi-no-kara-sawagi](https://cdn.myanimelist.net/images/manga/1/194938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

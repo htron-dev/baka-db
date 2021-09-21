@@ -1,5 +1,7 @@
 # Dragon Live Online
 
+![dragon-live-online](https://cdn.myanimelist.net/images/manga/1/174382.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

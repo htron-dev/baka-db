@@ -1,5 +1,7 @@
 # Kiseki
 
+![kiseki](https://cdn.myanimelist.net/images/anime/3/71265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 軌跡

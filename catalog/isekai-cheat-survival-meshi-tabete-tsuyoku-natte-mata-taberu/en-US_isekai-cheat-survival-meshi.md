@@ -1,5 +1,7 @@
 # Isekai Cheat Survival Meshi
 
+![isekai-cheat-survival-meshi](https://cdn.myanimelist.net/images/manga/2/222489.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界チートサバイバル飯
 -   **start-date**: 2018-09-24

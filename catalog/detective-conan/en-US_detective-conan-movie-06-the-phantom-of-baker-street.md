@@ -1,5 +1,7 @@
 # Detective Conan Movie 06: The Phantom of Baker Street
 
+![detective-conan-movie-06-the-phantom-of-baker-street](https://cdn.myanimelist.net/images/anime/1400/94320.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン　ベイカー街(ストリート)の亡霊

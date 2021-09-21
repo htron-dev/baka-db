@@ -1,5 +1,7 @@
 # Kazoku no Hanashi
 
+![kazoku-no-hanashi](https://cdn.myanimelist.net/images/anime/11/69067.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 家族のはなし

@@ -1,5 +1,7 @@
 # Exorsister Maria
 
+![exorsister-maria](https://cdn.myanimelist.net/images/manga/3/36900.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エクソシスターマリア

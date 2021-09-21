@@ -1,5 +1,7 @@
 # Hakoniwa Yuugi
 
+![hakoniwa-yuugi](https://cdn.myanimelist.net/images/manga/2/176260.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Hagure Idol: Jigoku-hen
 
+![hagure-idol-jigoku-hen](https://cdn.myanimelist.net/images/manga/2/146619.jpg)
+
 -   **type**: manga
 -   **original-name**: はぐれアイドル 地獄変
 -   **start-date**: 2014-04-25

@@ -1,5 +1,7 @@
 # Mairimashita, Senpai
 
+![mairimashita-senpai](https://cdn.myanimelist.net/images/manga/1/189612.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

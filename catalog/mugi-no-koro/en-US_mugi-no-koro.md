@@ -1,5 +1,7 @@
 # Mugi no Koro
 
+![mugi-no-koro](https://cdn.myanimelist.net/images/manga/3/226520.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ムギのころ

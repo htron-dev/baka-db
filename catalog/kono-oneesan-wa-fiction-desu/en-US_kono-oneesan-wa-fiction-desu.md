@@ -1,5 +1,7 @@
 # Kono Oneesan wa Fiction desu!?
 
+![kono-oneesan-wa-fiction-desu](https://cdn.myanimelist.net/images/manga/1/149001.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

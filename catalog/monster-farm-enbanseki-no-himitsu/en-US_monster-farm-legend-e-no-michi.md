@@ -1,5 +1,7 @@
 # Monster Farm: Legend e no Michi
 
+![monster-farm-legend-e-no-michi](https://cdn.myanimelist.net/images/anime/8/48023.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: モンスターファーム～伝説[レジェンド]への道～

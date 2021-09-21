@@ -1,5 +1,7 @@
 # Ishuzoku Reviewers
 
+![ishuzoku-reviewers](https://cdn.myanimelist.net/images/anime/1870/105970.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異種族レビュアーズ

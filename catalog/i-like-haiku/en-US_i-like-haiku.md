@@ -1,5 +1,7 @@
 # I Like Haiku
 
+![i-like-haiku](https://cdn.myanimelist.net/images/manga/2/225621.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Baolie Feiche II: Xing Neng Juexing
 
+![baolie-feiche-ii-xing-neng-juexing](https://cdn.myanimelist.net/images/anime/1103/109418.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 爆裂飞车 Ⅱ 星能觉醒

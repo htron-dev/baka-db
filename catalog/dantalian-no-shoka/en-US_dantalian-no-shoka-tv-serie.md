@@ -1,5 +1,7 @@
 # Dantalian no Shoka
 
+![dantalian-no-shoka](https://cdn.myanimelist.net/images/anime/2/52683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンタリアンの書架

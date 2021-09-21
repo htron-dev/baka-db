@@ -1,5 +1,7 @@
 # Mou Ii yo
 
+![mou-ii-yo](https://cdn.myanimelist.net/images/manga/2/94395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

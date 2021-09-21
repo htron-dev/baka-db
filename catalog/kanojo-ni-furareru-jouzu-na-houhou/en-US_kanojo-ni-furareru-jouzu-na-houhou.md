@@ -1,5 +1,7 @@
 # Kanojo ni Furareru Jouzu na Houhou
 
+![kanojo-ni-furareru-jouzu-na-houhou](https://cdn.myanimelist.net/images/manga/2/130409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

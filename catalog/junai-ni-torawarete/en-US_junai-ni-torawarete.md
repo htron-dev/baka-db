@@ -1,5 +1,7 @@
 # Junai ni Torawarete
 
+![junai-ni-torawarete](https://cdn.myanimelist.net/images/manga/1/155854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

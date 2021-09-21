@@ -1,5 +1,7 @@
 # Fighting!! Seondobu
 
+![fighting-seondobu](https://cdn.myanimelist.net/images/manga/2/100647.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 파이팅!! 선도부

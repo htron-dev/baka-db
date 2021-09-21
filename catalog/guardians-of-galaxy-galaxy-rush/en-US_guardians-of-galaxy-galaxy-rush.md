@@ -1,5 +1,7 @@
 # Guardians of Galaxy: Galaxy Rush
 
+![guardians-of-galaxy-galaxy-rush](https://cdn.myanimelist.net/images/manga/1/207248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

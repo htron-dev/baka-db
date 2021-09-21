@@ -1,5 +1,7 @@
 # Kamiya-kun to Kamiya-san
 
+![kamiya-kun-to-kamiya-san](https://cdn.myanimelist.net/images/manga/1/247933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

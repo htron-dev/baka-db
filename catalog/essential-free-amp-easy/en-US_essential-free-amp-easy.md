@@ -1,5 +1,7 @@
 # Essential Free &amp; Easy
 
+![essential-free-amp-easy](https://cdn.myanimelist.net/images/anime/1245/100364.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: エッセンシャル FREE＆EASY

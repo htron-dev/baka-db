@@ -1,5 +1,7 @@
 # Hanamaru!
 
+![hanamaru](https://cdn.myanimelist.net/images/manga/2/151726.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: はなまるっ!

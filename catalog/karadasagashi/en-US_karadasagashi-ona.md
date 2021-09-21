@@ -1,5 +1,7 @@
 # Karadasagashi
 
+![karadasagashi](https://cdn.myanimelist.net/images/anime/7/87141.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: カラダ探し

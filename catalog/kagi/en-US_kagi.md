@@ -1,5 +1,7 @@
 # Kagi
 
+![kagi](https://cdn.myanimelist.net/images/manga/3/197493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 鍵

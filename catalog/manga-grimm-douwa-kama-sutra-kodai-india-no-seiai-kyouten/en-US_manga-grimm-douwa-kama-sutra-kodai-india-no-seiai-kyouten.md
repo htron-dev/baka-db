@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Kama Sutra - Kodai India no Seiai Kyouten
 
+![manga-grimm-douwa-kama-sutra-kodai-india-no-seiai-kyouten](https://cdn.myanimelist.net/images/manga/2/137271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

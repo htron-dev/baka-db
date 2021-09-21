@@ -1,5 +1,7 @@
 # Ga no Iru Tokoro
 
+![ga-no-iru-tokoro](https://cdn.myanimelist.net/images/anime/7/59753.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蛾のいるところ

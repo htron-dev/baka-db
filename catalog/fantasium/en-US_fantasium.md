@@ -1,5 +1,7 @@
 # Fantasium
 
+![fantasium](https://cdn.myanimelist.net/images/manga/2/162032.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 49

@@ -1,5 +1,7 @@
 # Gu Ra Me!: Daisaishou no Ryourinin
 
+![gu-ra-me-daisaishou-no-ryourinin](https://cdn.myanimelist.net/images/manga/2/164784.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 100

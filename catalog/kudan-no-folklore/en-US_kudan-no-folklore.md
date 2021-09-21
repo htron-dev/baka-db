@@ -1,5 +1,7 @@
 # Kudan no Folklore
 
+![kudan-no-folklore](https://cdn.myanimelist.net/images/manga/1/242426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Major: World Series
 
+![major-world-series](https://cdn.myanimelist.net/images/anime/5/75220.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: メジャー ワールドシリーズ編

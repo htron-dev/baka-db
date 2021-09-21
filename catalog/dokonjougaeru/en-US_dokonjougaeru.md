@@ -1,5 +1,7 @@
 # Dokonjougaeru
 
+![dokonjougaeru](https://cdn.myanimelist.net/images/manga/1/192067.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: ど根性ガエル

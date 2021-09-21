@@ -1,5 +1,7 @@
 # Kaibutsu Oujo (OVA)
 
+![kaibutsu-oujo-ova](https://cdn.myanimelist.net/images/anime/12/27643.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 怪物王女

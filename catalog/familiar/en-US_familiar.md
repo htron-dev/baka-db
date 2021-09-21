@@ -1,5 +1,7 @@
 # Familiar
 
+![familiar](https://cdn.myanimelist.net/images/manga/1/55525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

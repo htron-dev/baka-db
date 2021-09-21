@@ -1,5 +1,7 @@
 # Genshitan Janome
 
+![genshitan-janome](https://cdn.myanimelist.net/images/manga/2/117091.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

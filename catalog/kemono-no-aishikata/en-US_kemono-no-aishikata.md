@@ -1,5 +1,7 @@
 # Kemono no Aishikata
 
+![kemono-no-aishikata](https://cdn.myanimelist.net/images/manga/3/84299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

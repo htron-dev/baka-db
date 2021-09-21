@@ -1,5 +1,7 @@
 # David gwa Goliath
 
+![david-gwa-goliath](https://cdn.myanimelist.net/images/anime/9/45156.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 다윗과 골리앗

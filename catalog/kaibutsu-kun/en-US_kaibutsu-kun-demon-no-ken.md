@@ -1,5 +1,7 @@
 # Kaibutsu-kun: Demon no Ken
 
+![kaibutsu-kun-demon-no-ken](https://cdn.myanimelist.net/images/anime/10/59587.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪物くん デーモンの剣

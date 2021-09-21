@@ -1,5 +1,7 @@
 # Kashi no Ki Mokku
 
+![kashi-no-ki-mokku](https://cdn.myanimelist.net/images/anime/10/23505.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 樫の木モック

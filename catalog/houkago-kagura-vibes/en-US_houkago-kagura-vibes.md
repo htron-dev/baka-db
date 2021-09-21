@@ -1,5 +1,7 @@
 # Houkago Kagura Vibes
 
+![houkago-kagura-vibes](https://cdn.myanimelist.net/images/manga/2/210318.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

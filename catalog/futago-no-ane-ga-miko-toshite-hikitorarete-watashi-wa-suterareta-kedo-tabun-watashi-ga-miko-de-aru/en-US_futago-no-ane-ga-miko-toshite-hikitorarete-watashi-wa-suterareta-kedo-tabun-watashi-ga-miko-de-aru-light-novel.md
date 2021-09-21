@@ -1,5 +1,7 @@
 # Futago no Ane ga Miko toshite Hikitorarete, Watashi wa Suterareta kedo Tabun Watashi ga Miko de Aru.
 
+![futago-no-ane-ga-miko-toshite-hikitorarete-watashi-wa-suterareta-kedo-tabun-watashi-ga-miko-de-aru](https://cdn.myanimelist.net/images/manga/3/240194.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 双子の姉が神子として引き取られて、私は捨てられたけど多分私が神子である。
 -   **start-date**: 2019-01-18

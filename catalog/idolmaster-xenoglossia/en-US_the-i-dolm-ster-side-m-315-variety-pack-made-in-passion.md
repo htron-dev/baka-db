@@ -1,5 +1,7 @@
 # The iDOLM@STER SideM: 315 Variety Pack! Made In Passion!
 
+![the-i-dolm-ster-side-m-315-variety-pack-made-in-passion](https://cdn.myanimelist.net/images/anime/1285/92573.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドルマスター SideM 特別編「315 バラエティパック！ Made In Passion！ 」

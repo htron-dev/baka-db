@@ -1,5 +1,7 @@
 # Katate ni Kenjuu, Kokoro ni Hanataba wo
 
+![katate-ni-kenjuu-kokoro-ni-hanataba-wo](https://cdn.myanimelist.net/images/manga/2/2637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

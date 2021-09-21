@@ -1,5 +1,7 @@
 # Dounika Naru Hibi
 
+![dounika-naru-hibi](https://cdn.myanimelist.net/images/manga/2/65859.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

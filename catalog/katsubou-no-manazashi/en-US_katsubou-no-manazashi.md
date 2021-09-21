@@ -1,5 +1,7 @@
 # Katsubou no Manazashi
 
+![katsubou-no-manazashi](https://cdn.myanimelist.net/images/manga/4/26466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hosaka-sensei no Ai no Muchi
 
+![hosaka-sensei-no-ai-no-muchi](https://cdn.myanimelist.net/images/manga/2/209834.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

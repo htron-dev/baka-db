@@ -1,5 +1,7 @@
 # Kowloon Generic Romance
 
+![kowloon-generic-romance](https://cdn.myanimelist.net/images/manga/2/227283.jpg)
+
 -   **type**: manga
 -   **original-name**: 九龍ジェネリックロマンス
 -   **start-date**: 2019-11-07

@@ -1,5 +1,7 @@
 # Ikitemasu ka? Honda-kun
 
+![ikitemasu-ka-honda-kun](https://cdn.myanimelist.net/images/manga/3/193287.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

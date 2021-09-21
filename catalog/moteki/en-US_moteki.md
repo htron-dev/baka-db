@@ -1,5 +1,7 @@
 # Moteki
 
+![moteki](https://cdn.myanimelist.net/images/manga/2/198187.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

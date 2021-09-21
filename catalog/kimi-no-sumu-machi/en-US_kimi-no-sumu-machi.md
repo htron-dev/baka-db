@@ -1,5 +1,7 @@
 # Kimi no Sumu Machi
 
+![kimi-no-sumu-machi](https://cdn.myanimelist.net/images/anime/11/77092.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 君が棲む街

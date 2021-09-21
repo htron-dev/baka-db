@@ -1,5 +1,7 @@
 # Lens to Akuma
 
+![lens-to-akuma](https://cdn.myanimelist.net/images/manga/2/162934.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 61

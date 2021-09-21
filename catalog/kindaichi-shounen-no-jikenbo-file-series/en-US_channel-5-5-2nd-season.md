@@ -1,8 +1,10 @@
 # Channel 5.5 2nd Season
 
+![channel-5-5-2nd-season](https://cdn.myanimelist.net/images/anime/11/71606.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
--   **original-name**: チャンネル5.5
+-   **original-name**: チャンネル 5.5
 -   **start-date**: 2014-04-14
 -   **end-date**: 2014-04-14
 -   **rating**: PG-13 - Teens 13 or older

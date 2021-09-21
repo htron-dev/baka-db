@@ -1,5 +1,7 @@
 # Mukuro Chandelier
 
+![mukuro-chandelier](https://cdn.myanimelist.net/images/manga/1/53343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

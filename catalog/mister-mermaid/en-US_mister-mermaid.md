@@ -1,5 +1,7 @@
 # Mister Mermaid
 
+![mister-mermaid](https://cdn.myanimelist.net/images/manga/1/17063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

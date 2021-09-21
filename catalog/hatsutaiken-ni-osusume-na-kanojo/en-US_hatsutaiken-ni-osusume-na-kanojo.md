@@ -1,5 +1,7 @@
 # Hatsutaiken ni Osusume na Kanojo
 
+![hatsutaiken-ni-osusume-na-kanojo](https://cdn.myanimelist.net/images/manga/1/163244.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 47

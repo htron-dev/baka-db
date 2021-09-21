@@ -1,5 +1,7 @@
 # Kitanai Kimi ga Ichiban Kawaii
 
+![kitanai-kimi-ga-ichiban-kawaii](https://cdn.myanimelist.net/images/manga/2/228905.jpg)
+
 -   **type**: manga
 -   **original-name**: きたない君がいちばんかわいい
 -   **start-date**: 2019-06-18

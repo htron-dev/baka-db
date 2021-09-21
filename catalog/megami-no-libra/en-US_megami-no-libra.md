@@ -1,5 +1,7 @@
 # Megami no Libra
 
+![megami-no-libra](https://cdn.myanimelist.net/images/manga/2/104373.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

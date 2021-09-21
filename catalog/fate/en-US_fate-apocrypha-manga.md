@@ -1,5 +1,7 @@
 # Fate/Apocrypha
 
+![fate-apocrypha](https://cdn.myanimelist.net/images/manga/1/182620.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Apocrypha
 -   **start-date**: 2016-06-26

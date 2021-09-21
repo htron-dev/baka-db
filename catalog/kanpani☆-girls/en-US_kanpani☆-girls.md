@@ -1,5 +1,7 @@
 # Kanpani☆Girls
 
+![kanpani☆-girls](https://cdn.myanimelist.net/images/manga/3/154676.jpg)
+
 -   **type**: light-novel
 -   **original-name**: かんぱに ☆ ガールズ
 -   **start-date**: 2015-04-30

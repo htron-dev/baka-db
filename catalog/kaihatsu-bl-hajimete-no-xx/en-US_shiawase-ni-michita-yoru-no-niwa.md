@@ -1,5 +1,7 @@
 # Shiawase ni Michita Yoru no Niwa
 
+![shiawase-ni-michita-yoru-no-niwa](https://cdn.myanimelist.net/images/manga/2/246710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

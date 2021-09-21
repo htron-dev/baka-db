@@ -1,5 +1,7 @@
 # Kono Bijutsubu ni wa Mondai ga Aru!
 
+![kono-bijutsubu-ni-wa-mondai-ga-aru](https://cdn.myanimelist.net/images/anime/3/80688.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: この美術部には問題がある！

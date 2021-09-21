@@ -1,5 +1,7 @@
 # Howl no Ugoku Shiro
 
+![howl-no-ugoku-shiro](https://cdn.myanimelist.net/images/anime/5/75810.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハウルの動く城

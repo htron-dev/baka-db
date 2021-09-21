@@ -1,5 +1,7 @@
 # Freezing
 
+![freezing](https://cdn.myanimelist.net/images/anime/10/28535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フリージング

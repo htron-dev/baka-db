@@ -1,5 +1,7 @@
 # Hatarakanai yo! Loki-senpai
 
+![hatarakanai-yo-loki-senpai](https://cdn.myanimelist.net/images/manga/3/200461.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Kimitachi Otokonoko
 
+![kimitachi-otokonoko](https://cdn.myanimelist.net/images/manga/3/30318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

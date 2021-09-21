@@ -1,5 +1,7 @@
 # Finder no Hyouteki
 
+![finder-no-hyouteki](https://cdn.myanimelist.net/images/manga/3/24979.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: ファインダーの標的

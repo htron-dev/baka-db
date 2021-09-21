@@ -1,5 +1,7 @@
 # Maou ga Chijou de wa Kyuuseishu ni Natteiru Riyuu
 
+![maou-ga-chijou-de-wa-kyuuseishu-ni-natteiru-riyuu](https://cdn.myanimelist.net/images/manga/1/171130.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

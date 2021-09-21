@@ -1,5 +1,7 @@
 # Hana to Harinezumi
 
+![hana-to-harinezumi](https://cdn.myanimelist.net/images/manga/2/64151.jpg)
+
 -   **type**: manga
 -   **original-name**: 花とハリネズミ
 -   **start-date**: 2012-03-01

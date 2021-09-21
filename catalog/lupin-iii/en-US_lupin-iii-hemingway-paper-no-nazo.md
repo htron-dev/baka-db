@@ -1,5 +1,7 @@
 # Lupin III: Hemingway Paper no Nazo
 
+![lupin-iii-hemingway-paper-no-nazo](https://cdn.myanimelist.net/images/anime/9/45855.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『ヘミングウェイペーパーの謎

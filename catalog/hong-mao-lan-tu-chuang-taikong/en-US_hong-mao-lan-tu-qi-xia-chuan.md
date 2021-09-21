@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Qi Xia Chuan
 
+![hong-mao-lan-tu-qi-xia-chuan](https://cdn.myanimelist.net/images/anime/1125/106396.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 108
 -   **original-name**: 虹猫蓝兔七侠传

@@ -1,5 +1,7 @@
 # Kagirinaki Rakuen
 
+![kagirinaki-rakuen](https://cdn.myanimelist.net/images/anime/13/60889.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 限りなき楽園

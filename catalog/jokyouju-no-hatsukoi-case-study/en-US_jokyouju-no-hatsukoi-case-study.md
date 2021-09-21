@@ -1,5 +1,7 @@
 # Jokyouju no Hatsukoi Case Study
 
+![jokyouju-no-hatsukoi-case-study](https://cdn.myanimelist.net/images/manga/3/193802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

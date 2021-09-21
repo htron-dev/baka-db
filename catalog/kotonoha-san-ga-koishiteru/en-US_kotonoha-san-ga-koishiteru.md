@@ -1,5 +1,7 @@
 # Kotonoha-san ga Koishiteru
 
+![kotonoha-san-ga-koishiteru](https://cdn.myanimelist.net/images/manga/3/217097.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

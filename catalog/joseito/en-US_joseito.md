@@ -1,5 +1,7 @@
 # Joseito
 
+![joseito](https://cdn.myanimelist.net/images/anime/6/81193.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 女生徒

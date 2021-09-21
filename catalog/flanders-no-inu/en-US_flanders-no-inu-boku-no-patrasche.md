@@ -1,5 +1,7 @@
 # Flanders no Inu, Boku no Patrasche
 
+![flanders-no-inu-boku-no-patrasche](https://cdn.myanimelist.net/images/anime/7/22953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: フランダースの犬　～ぼくのパトラッシュ～

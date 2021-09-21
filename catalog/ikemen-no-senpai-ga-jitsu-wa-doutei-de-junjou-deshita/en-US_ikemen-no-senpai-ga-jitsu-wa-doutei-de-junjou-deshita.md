@@ -1,5 +1,7 @@
 # Ikemen no Senpai ga Jitsu wa Doutei de Junjou deshita
 
+![ikemen-no-senpai-ga-jitsu-wa-doutei-de-junjou-deshita](https://cdn.myanimelist.net/images/manga/2/205406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

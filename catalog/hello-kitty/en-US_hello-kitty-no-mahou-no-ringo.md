@@ -1,5 +1,7 @@
 # Hello Kitty no Mahou no Ringo
 
+![hello-kitty-no-mahou-no-ringo](https://cdn.myanimelist.net/images/anime/4/58697.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのまほうのリンゴ

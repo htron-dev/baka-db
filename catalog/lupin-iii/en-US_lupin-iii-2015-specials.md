@@ -1,5 +1,7 @@
 # Lupin III (2015) Specials
 
+![lupin-iii-2015-specials](https://cdn.myanimelist.net/images/anime/10/79629.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ルパン三世

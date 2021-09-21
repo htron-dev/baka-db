@@ -1,5 +1,7 @@
 # Gokujo.: Gokurakuin Joshikou Ryou Monogatari
 
+![gokujo-gokurakuin-joshikou-ryou-monogatari](https://cdn.myanimelist.net/images/anime/11/35659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゴクジョッ。~極楽院女子高寮物語~

@@ -1,5 +1,7 @@
 # Katsudou Shashin
 
+![katsudou-shashin](https://cdn.myanimelist.net/images/anime/1891/109255.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 活動写真

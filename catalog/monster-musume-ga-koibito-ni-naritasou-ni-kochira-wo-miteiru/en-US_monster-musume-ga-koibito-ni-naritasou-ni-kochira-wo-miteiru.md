@@ -1,5 +1,7 @@
 # Monster Musume ga Koibito ni Naritasou ni Kochira wo Miteiru!
 
+![monster-musume-ga-koibito-ni-naritasou-ni-kochira-wo-miteiru](https://cdn.myanimelist.net/images/manga/2/168630.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

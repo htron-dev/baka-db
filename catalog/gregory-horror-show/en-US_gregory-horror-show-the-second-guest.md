@@ -1,5 +1,7 @@
 # Gregory Horror Show: The Second Guest
 
+![gregory-horror-show-the-second-guest](https://cdn.myanimelist.net/images/anime/1996/110051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: グレゴリーホラーショー - The Second Guest

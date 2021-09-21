@@ -1,5 +1,7 @@
 # iShoujo
 
+![i-shoujo](https://cdn.myanimelist.net/images/manga/2/131607.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Merry-Go-Round
 
+![merry-go-round](https://cdn.myanimelist.net/images/manga/2/45057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

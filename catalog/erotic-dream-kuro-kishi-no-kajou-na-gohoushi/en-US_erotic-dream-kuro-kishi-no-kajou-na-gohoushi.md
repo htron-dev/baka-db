@@ -1,5 +1,7 @@
 # Erotic Dream: Kuro Kishi no Kajou na Gohoushi
 
+![erotic-dream-kuro-kishi-no-kajou-na-gohoushi](https://cdn.myanimelist.net/images/manga/2/183426.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

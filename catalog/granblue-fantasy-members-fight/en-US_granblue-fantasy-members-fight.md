@@ -1,5 +1,7 @@
 # Granblue Fantasy: Members Fight
 
+![granblue-fantasy-members-fight](https://cdn.myanimelist.net/images/manga/3/218219.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Mitsu no Shima
 
+![mitsu-no-shima](https://cdn.myanimelist.net/images/manga/3/169503.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

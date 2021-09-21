@@ -1,5 +1,7 @@
 # Filament
 
+![filament](https://cdn.myanimelist.net/images/manga/2/164487.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: フィラメント～漆原友紀作品集～

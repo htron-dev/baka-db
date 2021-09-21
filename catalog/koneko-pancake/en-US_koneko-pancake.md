@@ -1,5 +1,7 @@
 # Koneko Pancake
 
+![koneko-pancake](https://cdn.myanimelist.net/images/manga/2/161852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

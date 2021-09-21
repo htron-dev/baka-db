@@ -1,5 +1,7 @@
 # Fukujuu Renai
 
+![fukujuu-renai](https://cdn.myanimelist.net/images/manga/2/198081.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 服従レンアイ

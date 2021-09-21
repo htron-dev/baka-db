@@ -1,5 +1,7 @@
 # Messiah
 
+![messiah](https://cdn.myanimelist.net/images/manga/2/25264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

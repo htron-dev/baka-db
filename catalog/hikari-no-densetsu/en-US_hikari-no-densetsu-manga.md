@@ -1,5 +1,7 @@
 # Hikari no Densetsu
 
+![hikari-no-densetsu](https://cdn.myanimelist.net/images/manga/5/175804.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: 光の伝説

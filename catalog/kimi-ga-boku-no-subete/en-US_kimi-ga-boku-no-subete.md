@@ -1,5 +1,7 @@
 # Kimi ga Boku no Subete
 
+![kimi-ga-boku-no-subete](https://cdn.myanimelist.net/images/manga/1/167088.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

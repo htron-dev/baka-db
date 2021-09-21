@@ -1,5 +1,7 @@
 # Isewan Taifuu Monogatari
 
+![isewan-taifuu-monogatari](https://cdn.myanimelist.net/images/anime/5/64623.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 伊勢湾台風物語

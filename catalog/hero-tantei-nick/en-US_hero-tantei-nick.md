@@ -1,5 +1,7 @@
 # Hero Tantei Nick
 
+![hero-tantei-nick](https://cdn.myanimelist.net/images/manga/3/239568.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒーロー探偵ニック
 -   **start-date**: 2020-06-04

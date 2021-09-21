@@ -1,5 +1,7 @@
 # Koisuru Shirokuma Tokubetsu-ban
 
+![koisuru-shirokuma-tokubetsu-ban](https://cdn.myanimelist.net/images/anime/8/88842.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 恋するシロクマ 特別版

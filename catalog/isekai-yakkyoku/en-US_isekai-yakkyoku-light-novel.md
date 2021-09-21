@@ -1,5 +1,7 @@
 # Isekai Yakkyoku
 
+![isekai-yakkyoku](https://cdn.myanimelist.net/images/manga/3/178460.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界薬局
 -   **start-date**: 2016-01-25

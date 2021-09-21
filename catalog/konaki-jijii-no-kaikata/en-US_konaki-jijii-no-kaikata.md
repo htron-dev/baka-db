@@ -1,5 +1,7 @@
 # Konaki Jijii no Kaikata
 
+![konaki-jijii-no-kaikata](https://cdn.myanimelist.net/images/manga/1/196564.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

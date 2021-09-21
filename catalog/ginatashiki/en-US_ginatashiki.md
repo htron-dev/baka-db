@@ -1,5 +1,7 @@
 # Ginatashiki
 
+![ginatashiki](https://cdn.myanimelist.net/images/manga/3/186432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

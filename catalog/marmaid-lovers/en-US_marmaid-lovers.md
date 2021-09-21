@@ -1,5 +1,7 @@
 # Marmaid Lovers
 
+![marmaid-lovers](https://cdn.myanimelist.net/images/manga/3/198952.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

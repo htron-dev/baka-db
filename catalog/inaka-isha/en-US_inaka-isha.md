@@ -1,5 +1,7 @@
 # Inaka Isha
 
+![inaka-isha](https://cdn.myanimelist.net/images/anime/5/5344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カフカ 田舎医者

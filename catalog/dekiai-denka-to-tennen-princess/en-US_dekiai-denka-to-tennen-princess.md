@@ -1,5 +1,7 @@
 # Dekiai Denka to Tennen Princess
 
+![dekiai-denka-to-tennen-princess](https://cdn.myanimelist.net/images/manga/3/192826.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

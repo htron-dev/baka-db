@@ -1,5 +1,7 @@
 # Majin Tensei: The True Remembrance
 
+![majin-tensei-the-true-remembrance](https://cdn.myanimelist.net/images/manga/1/126651.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 魔神転生 THE TRUE REMEMBRANCE

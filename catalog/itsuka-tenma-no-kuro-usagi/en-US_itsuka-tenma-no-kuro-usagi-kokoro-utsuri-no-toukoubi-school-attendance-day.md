@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day
 
+![itsuka-tenma-no-kuro-usagi-kokoro-utsuri-no-toukoubi-school-attendance-day](https://cdn.myanimelist.net/images/anime/9/79553.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いつか天魔の黒ウサギ 心移りの登校日 ~すくーる·あてんだんす·でぃ~

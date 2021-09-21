@@ -1,5 +1,7 @@
 # Ippiki Ookami no Kindan Kiss
 
+![ippiki-ookami-no-kindan-kiss](https://cdn.myanimelist.net/images/manga/2/78195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

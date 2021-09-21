@@ -1,5 +1,7 @@
 # Meisai-kun
 
+![meisai-kun](https://cdn.myanimelist.net/images/manga/2/115731.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 迷彩君

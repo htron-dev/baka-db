@@ -1,5 +1,7 @@
 # Kujibiki♥Unbalance
 
+![kujibiki♥-unbalance](https://cdn.myanimelist.net/images/manga/2/161679.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

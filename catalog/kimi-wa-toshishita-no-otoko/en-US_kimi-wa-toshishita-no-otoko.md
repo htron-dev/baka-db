@@ -1,5 +1,7 @@
 # Kimi wa Toshishita no Otoko
 
+![kimi-wa-toshishita-no-otoko](https://cdn.myanimelist.net/images/manga/2/10896.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミは年下の男

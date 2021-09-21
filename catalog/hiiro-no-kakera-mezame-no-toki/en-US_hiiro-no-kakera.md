@@ -1,5 +1,7 @@
 # Hiiro no Kakera
 
+![hiiro-no-kakera](https://cdn.myanimelist.net/images/anime/3/36925.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 緋色の欠片

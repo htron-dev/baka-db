@@ -1,5 +1,7 @@
 # Medama Oyaji no April Fools'
 
+![medama-oyaji-no-april-fools](https://cdn.myanimelist.net/images/anime/1547/91683.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 目玉おやじのエイプリルフール

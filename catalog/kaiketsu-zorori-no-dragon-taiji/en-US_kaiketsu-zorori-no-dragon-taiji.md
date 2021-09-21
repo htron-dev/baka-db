@@ -1,5 +1,7 @@
 # Kaiketsu Zorori no Dragon Taiji
 
+![kaiketsu-zorori-no-dragon-taiji](https://cdn.myanimelist.net/images/anime/7/87336.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かいけつゾロリ

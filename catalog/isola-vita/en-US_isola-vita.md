@@ -1,5 +1,7 @@
 # Isola Vita
 
+![isola-vita](https://cdn.myanimelist.net/images/manga/1/26640.jpg)
+
 -   **type**: manga
 -   **original-name**: イゾラ・ヴィータ
 

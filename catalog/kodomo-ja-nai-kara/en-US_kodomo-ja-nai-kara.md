@@ -1,5 +1,7 @@
 # Kodomo ja Nai kara!
 
+![kodomo-ja-nai-kara](https://cdn.myanimelist.net/images/manga/1/22911.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

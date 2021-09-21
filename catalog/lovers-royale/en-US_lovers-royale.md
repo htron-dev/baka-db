@@ -1,5 +1,7 @@
 # Lovers Royale
 
+![lovers-royale](https://cdn.myanimelist.net/images/manga/1/155103.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Lovers Royale

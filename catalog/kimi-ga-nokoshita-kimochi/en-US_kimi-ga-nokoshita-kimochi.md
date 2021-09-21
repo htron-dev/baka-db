@@ -1,5 +1,7 @@
 # Kimi ga Nokoshita Kimochi
 
+![kimi-ga-nokoshita-kimochi](https://cdn.myanimelist.net/images/manga/2/26784.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
 
+![jo-jo-no-kimyou-na-bouken-part-3-stardust-crusaders](https://cdn.myanimelist.net/images/manga/1/180301.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 152

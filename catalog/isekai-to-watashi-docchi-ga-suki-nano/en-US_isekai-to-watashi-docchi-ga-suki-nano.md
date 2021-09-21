@@ -1,5 +1,7 @@
 # Isekai to Watashi, Docchi ga Suki nano?
 
+![isekai-to-watashi-docchi-ga-suki-nano](https://cdn.myanimelist.net/images/manga/3/178660.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界とわたし、どっちが好きなの?
 -   **start-date**: 2016-06-24

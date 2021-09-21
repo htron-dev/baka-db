@@ -1,5 +1,7 @@
 # Dareka no Sekai
 
+![dareka-no-sekai](https://cdn.myanimelist.net/images/manga/2/223185.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

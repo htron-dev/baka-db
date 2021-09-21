@@ -1,5 +1,7 @@
 # Elysium no Monogatari
 
+![elysium-no-monogatari](https://cdn.myanimelist.net/images/manga/3/22908.jpg)
+
 -   **type**: manga
 -   **original-name**: エリジウムの物語
 -   **start-date**: 2007-05-12

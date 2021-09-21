@@ -1,5 +1,7 @@
 # Ichibanboshi no Soba de
 
+![ichibanboshi-no-soba-de](https://cdn.myanimelist.net/images/manga/1/139243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

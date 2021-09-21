@@ -1,5 +1,7 @@
 # Kotone no Mahoroba
 
+![kotone-no-mahoroba](https://cdn.myanimelist.net/images/manga/3/194463.jpg)
+
 -   **type**: manga
 -   **original-name**: コトネのまほろば
 -   **start-date**: 2017-04-03

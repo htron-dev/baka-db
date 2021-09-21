@@ -1,5 +1,7 @@
 # Kono Oto Tomare!
 
+![kono-oto-tomare](https://cdn.myanimelist.net/images/manga/3/116653.jpg)
+
 -   **type**: manga
 -   **original-name**: この音とまれ！
 -   **start-date**: 2012-08-04

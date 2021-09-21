@@ -1,5 +1,7 @@
 # Liling-Po
 
+![liling-po](https://cdn.myanimelist.net/images/manga/2/11011.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 51

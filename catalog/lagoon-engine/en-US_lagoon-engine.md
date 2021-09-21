@@ -1,5 +1,7 @@
 # Lagoon Engine
 
+![lagoon-engine](https://cdn.myanimelist.net/images/manga/2/179821.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 31

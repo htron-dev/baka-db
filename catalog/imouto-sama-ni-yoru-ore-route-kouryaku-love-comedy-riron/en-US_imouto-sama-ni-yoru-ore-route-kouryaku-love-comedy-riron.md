@@ -1,5 +1,7 @@
 # Imouto-sama ni Yoru, Ore Route Kouryaku Love Comedy Riron
 
+![imouto-sama-ni-yoru-ore-route-kouryaku-love-comedy-riron](https://cdn.myanimelist.net/images/manga/3/170581.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 32

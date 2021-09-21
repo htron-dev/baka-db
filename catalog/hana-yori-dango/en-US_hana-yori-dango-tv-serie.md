@@ -1,5 +1,7 @@
 # Hana yori Dango
 
+![hana-yori-dango](https://cdn.myanimelist.net/images/anime/2/42871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 花より男子

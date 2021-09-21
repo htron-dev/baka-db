@@ -1,5 +1,7 @@
 # Hare Tokidoki Buta: Noriyasu-kun no Koutsuu Anzen
 
+![hare-tokidoki-buta-noriyasu-kun-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1243/99048.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はれときどきぶた のりやすくんの交通安全

@@ -1,5 +1,7 @@
 # Himitsu no Kakera
 
+![himitsu-no-kakera](https://cdn.myanimelist.net/images/manga/3/149788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

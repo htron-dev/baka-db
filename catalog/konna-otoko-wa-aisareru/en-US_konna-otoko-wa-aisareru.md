@@ -1,5 +1,7 @@
 # Konna Otoko wa Aisareru
 
+![konna-otoko-wa-aisareru](https://cdn.myanimelist.net/images/manga/3/13394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

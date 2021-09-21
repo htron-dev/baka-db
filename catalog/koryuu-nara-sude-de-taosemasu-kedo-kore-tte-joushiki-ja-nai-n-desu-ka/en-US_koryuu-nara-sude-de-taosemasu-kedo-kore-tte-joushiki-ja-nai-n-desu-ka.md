@@ -1,5 +1,7 @@
 # Koryuu nara Sude de Taosemasu kedo, Kore tte Joushiki ja Nai n desu ka?
 
+![koryuu-nara-sude-de-taosemasu-kedo-kore-tte-joushiki-ja-nai-n-desu-ka](https://cdn.myanimelist.net/images/manga/2/236559.jpg)
+
 -   **type**: manga
 -   **original-name**: 古竜なら素手で倒せますけど、これって常識じゃないんですか?
 -   **start-date**: 2019-06-07

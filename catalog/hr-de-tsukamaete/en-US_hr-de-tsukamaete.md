@@ -1,5 +1,7 @@
 # HR de Tsukamaete
 
+![hr-de-tsukamaete](https://cdn.myanimelist.net/images/manga/1/15373.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: HR でつかまえてっ

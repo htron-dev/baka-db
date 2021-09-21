@@ -1,5 +1,7 @@
 # MaxValu Kyushu
 
+![max-valu-kyushu](https://cdn.myanimelist.net/images/anime/1244/90866.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マックスバリュ九州

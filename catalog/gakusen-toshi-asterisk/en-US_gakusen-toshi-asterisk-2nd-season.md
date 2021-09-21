@@ -1,5 +1,7 @@
 # Gakusen Toshi Asterisk 2nd Season
 
+![gakusen-toshi-asterisk-2nd-season](https://cdn.myanimelist.net/images/anime/11/79107.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 学戦都市アスタリスク

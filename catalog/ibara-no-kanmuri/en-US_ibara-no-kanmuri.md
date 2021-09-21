@@ -1,5 +1,7 @@
 # Ibara no Kanmuri
 
+![ibara-no-kanmuri](https://cdn.myanimelist.net/images/manga/3/166255.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

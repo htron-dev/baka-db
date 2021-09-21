@@ -1,5 +1,7 @@
 # Hitsuji ga Ippiki
 
+![hitsuji-ga-ippiki](https://cdn.myanimelist.net/images/manga/1/223365.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

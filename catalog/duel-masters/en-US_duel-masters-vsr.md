@@ -1,5 +1,7 @@
 # Duel Masters VSR
 
+![duel-masters-vsr](https://cdn.myanimelist.net/images/anime/11/78226.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デュエル・マスターズ VSR

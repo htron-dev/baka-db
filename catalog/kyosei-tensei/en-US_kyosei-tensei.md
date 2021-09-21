@@ -1,5 +1,7 @@
 # Kyosei Tensei
 
+![kyosei-tensei](https://cdn.myanimelist.net/images/manga/1/240795.jpg)
+
 -   **type**: manga
 -   **original-name**: 去勢転生
 -   **start-date**: 2019-09-09

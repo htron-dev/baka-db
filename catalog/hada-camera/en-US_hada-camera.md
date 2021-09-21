@@ -1,5 +1,7 @@
 # HadaCamera
 
+![hada-camera](https://cdn.myanimelist.net/images/manga/2/200716.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 81

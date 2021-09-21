@@ -1,5 +1,7 @@
 # Hirona Ex.
 
+![hirona-ex](https://cdn.myanimelist.net/images/manga/1/193706.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 99

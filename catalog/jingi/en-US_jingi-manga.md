@@ -1,5 +1,7 @@
 # Jingi
 
+![jingi](https://cdn.myanimelist.net/images/manga/3/152346.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 290

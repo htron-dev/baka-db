@@ -1,5 +1,7 @@
 # Kaishin no Ichigeki!
 
+![kaishin-no-ichigeki](https://cdn.myanimelist.net/images/manga/2/237800.jpg)
+
 -   **type**: manga
 -   **original-name**: かいしんのいちげき！
 -   **start-date**: 2019-10-21

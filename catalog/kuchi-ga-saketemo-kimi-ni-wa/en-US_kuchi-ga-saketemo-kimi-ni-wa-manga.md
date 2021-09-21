@@ -1,5 +1,7 @@
 # Kuchi ga Saketemo Kimi ni wa
 
+![kuchi-ga-saketemo-kimi-ni-wa](https://cdn.myanimelist.net/images/manga/2/243236.jpg)
+
 -   **type**: manga
 -   **original-name**: 口が裂けても君には
 -   **start-date**: 2020-06-23

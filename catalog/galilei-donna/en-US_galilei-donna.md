@@ -1,5 +1,7 @@
 # Galilei Donna
 
+![galilei-donna](https://cdn.myanimelist.net/images/anime/11/53239.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ガリレイドンナ

@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Zero no Kiseki - Yotsu no Ummei
 
+![eiyuu-densetsu-zero-no-kiseki-yotsu-no-ummei](https://cdn.myanimelist.net/images/manga/1/99273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

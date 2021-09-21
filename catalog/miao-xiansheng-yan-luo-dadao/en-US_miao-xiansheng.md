@@ -1,5 +1,7 @@
 # Miao Xiansheng
 
+![miao-xiansheng](https://cdn.myanimelist.net/images/anime/1001/108593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 妙先生

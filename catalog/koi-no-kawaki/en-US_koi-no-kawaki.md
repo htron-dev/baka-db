@@ -1,5 +1,7 @@
 # Koi no Kawaki
 
+![koi-no-kawaki](https://cdn.myanimelist.net/images/manga/4/159078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

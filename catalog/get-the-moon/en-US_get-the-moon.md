@@ -1,5 +1,7 @@
 # Get the Moon
 
+![get-the-moon](https://cdn.myanimelist.net/images/manga/2/8774.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

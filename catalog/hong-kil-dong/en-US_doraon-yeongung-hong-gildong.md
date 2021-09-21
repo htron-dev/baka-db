@@ -1,5 +1,7 @@
 # Doraon Yeongung Hong Gildong
 
+![doraon-yeongung-hong-gildong](https://cdn.myanimelist.net/images/anime/1142/109978.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 돌아온 영웅 홍길동

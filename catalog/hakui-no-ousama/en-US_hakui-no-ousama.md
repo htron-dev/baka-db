@@ -1,5 +1,7 @@
 # Hakui no Ousama
 
+![hakui-no-ousama](https://cdn.myanimelist.net/images/manga/1/197338.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

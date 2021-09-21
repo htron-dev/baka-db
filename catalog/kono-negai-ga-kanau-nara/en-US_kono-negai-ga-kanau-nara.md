@@ -1,5 +1,7 @@
 # Kono Negai ga Kanau nara
 
+![kono-negai-ga-kanau-nara](https://cdn.myanimelist.net/images/manga/2/174392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

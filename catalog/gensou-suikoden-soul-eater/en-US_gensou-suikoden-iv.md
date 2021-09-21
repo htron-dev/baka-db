@@ -1,5 +1,7 @@
 # Gensou Suikoden IV
 
+![gensou-suikoden-iv](https://cdn.myanimelist.net/images/manga/2/150296.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 幻想水滸伝 IV

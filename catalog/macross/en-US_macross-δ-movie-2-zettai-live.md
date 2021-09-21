@@ -1,5 +1,7 @@
 # Macross Δ Movie 2: Zettai Live!!!
 
+![macross-δ-movie-2-zettai-live](https://cdn.myanimelist.net/images/anime/1212/109593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版マクロス Δ 絶対 LIVE!!!!!!

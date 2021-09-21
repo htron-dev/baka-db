@@ -1,5 +1,7 @@
 # Manmaru Potager
 
+![manmaru-potager](https://cdn.myanimelist.net/images/manga/3/199534.jpg)
+
 -   **type**: manga
 -   **original-name**: まんまるポタジェ
 -   **start-date**: 2015-01-15

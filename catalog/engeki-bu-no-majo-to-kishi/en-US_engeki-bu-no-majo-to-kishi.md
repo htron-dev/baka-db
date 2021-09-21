@@ -1,5 +1,7 @@
 # Engeki-bu no Majo to Kishi
 
+![engeki-bu-no-majo-to-kishi](https://cdn.myanimelist.net/images/manga/3/186007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

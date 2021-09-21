@@ -1,5 +1,7 @@
 # Kyuukyoku Zannen Ougi: Stealth Master
 
+![kyuukyoku-zannen-ougi-stealth-master](https://cdn.myanimelist.net/images/manga/1/160758.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

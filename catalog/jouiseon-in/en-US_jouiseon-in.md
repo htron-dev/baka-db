@@ -1,5 +1,7 @@
 # Jouiseon-in
 
+![jouiseon-in](https://cdn.myanimelist.net/images/anime/1085/115254.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 조의선인
 -   **rating**: G - All Ages

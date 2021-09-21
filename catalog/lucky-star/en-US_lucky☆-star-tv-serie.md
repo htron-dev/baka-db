@@ -1,5 +1,7 @@
 # Lucky☆Star
 
+![lucky☆-star](https://cdn.myanimelist.net/images/anime/1561/115660.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: らき ☆ すた

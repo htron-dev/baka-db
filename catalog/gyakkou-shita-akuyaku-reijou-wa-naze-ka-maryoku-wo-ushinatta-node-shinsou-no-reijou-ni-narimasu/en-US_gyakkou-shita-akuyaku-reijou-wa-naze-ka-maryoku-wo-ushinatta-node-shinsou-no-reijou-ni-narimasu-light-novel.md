@@ -1,5 +1,7 @@
 # Gyakkou shita Akuyaku Reijou wa, Naze ka Maryoku wo Ushinatta node Shinsou no Reijou ni Narimasu
 
+![gyakkou-shita-akuyaku-reijou-wa-naze-ka-maryoku-wo-ushinatta-node-shinsou-no-reijou-ni-narimasu](https://cdn.myanimelist.net/images/manga/1/241686.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 逆行した悪役令嬢は、なぜか魔力を失ったので深窓の令嬢になります
 -   **start-date**: 2020-04-10

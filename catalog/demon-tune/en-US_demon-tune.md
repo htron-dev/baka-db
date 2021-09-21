@@ -1,5 +1,7 @@
 # Demon Tune
 
+![demon-tune](https://cdn.myanimelist.net/images/manga/3/209790.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

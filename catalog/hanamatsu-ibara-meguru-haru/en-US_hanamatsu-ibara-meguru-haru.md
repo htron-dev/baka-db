@@ -1,5 +1,7 @@
 # Hanamatsu Ibara: Meguru Haru
 
+![hanamatsu-ibara-meguru-haru](https://cdn.myanimelist.net/images/manga/1/222905.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

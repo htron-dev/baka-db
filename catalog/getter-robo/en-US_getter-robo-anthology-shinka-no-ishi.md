@@ -1,5 +1,7 @@
 # Getter Robo Anthology: Shinka no Ishi
 
+![getter-robo-anthology-shinka-no-ishi](https://cdn.myanimelist.net/images/manga/5/163886.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

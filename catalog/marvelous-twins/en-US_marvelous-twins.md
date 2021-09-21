@@ -1,5 +1,7 @@
 # Marvelous Twins
 
+![marvelous-twins](https://cdn.myanimelist.net/images/manga/2/85571.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: マーベラス・ツインズ

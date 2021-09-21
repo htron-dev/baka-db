@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Gaiden: Sora, Senkou no Hate ni...
 
+![kidou-senshi-gundam-gaiden-sora-senkou-no-hate-ni](https://cdn.myanimelist.net/images/manga/3/33495.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

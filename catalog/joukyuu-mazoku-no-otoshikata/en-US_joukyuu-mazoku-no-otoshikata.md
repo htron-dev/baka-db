@@ -1,5 +1,7 @@
 # Joukyuu Mazoku no Otoshikata
 
+![joukyuu-mazoku-no-otoshikata](https://cdn.myanimelist.net/images/manga/1/212677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

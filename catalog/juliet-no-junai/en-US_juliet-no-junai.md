@@ -1,5 +1,7 @@
 # Juliet no Junai
 
+![juliet-no-junai](https://cdn.myanimelist.net/images/manga/3/227489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジュリエットの純愛

@@ -1,5 +1,7 @@
 # Koikuchi Room Share
 
+![koikuchi-room-share](https://cdn.myanimelist.net/images/manga/1/244430.jpg)
+
 -   **type**: manga
 -   **original-name**: こいくちルームシェア
 -   **start-date**: 2017-08-10

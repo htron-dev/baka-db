@@ -1,5 +1,7 @@
 # Gravitation EX
 
+![gravitation-ex](https://cdn.myanimelist.net/images/manga/3/180139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Koiami: Midori no Hitomi ni Miserarete
 
+![koiami-midori-no-hitomi-ni-miserarete](https://cdn.myanimelist.net/images/manga/1/192953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

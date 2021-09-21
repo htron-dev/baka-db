@@ -1,5 +1,7 @@
 # Dragon Ball: Episode of Bardock
 
+![dragon-ball-episode-of-bardock](https://cdn.myanimelist.net/images/manga/3/50851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

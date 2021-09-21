@@ -1,5 +1,7 @@
 # Hatsukoi Doushi.: Otaku Joshi to Tsundere Osananajimi no Renai Jijou
 
+![hatsukoi-doushi-otaku-joshi-to-tsundere-osananajimi-no-renai-jijou](https://cdn.myanimelist.net/images/manga/3/195174.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 初恋同士。～オタク女子とツンデレ幼馴染の恋愛事情～

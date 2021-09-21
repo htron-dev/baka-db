@@ -1,5 +1,7 @@
 # Shin Getter Robo tai Neo Getter Robo
 
+![shin-getter-robo-tai-neo-getter-robo](https://cdn.myanimelist.net/images/anime/9/89851.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 真ゲッターロボ対ネオゲッターロボ

@@ -1,5 +1,7 @@
 # Hourou no Souseiji: The Wandering
 
+![hourou-no-souseiji-the-wandering](https://cdn.myanimelist.net/images/manga/2/80567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 放浪ノ双生児 The wandering

@@ -1,5 +1,7 @@
 # Mother's Spirit
 
+![mothers-spirit](https://cdn.myanimelist.net/images/manga/1/178407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Dreams
 
+![dreams](https://cdn.myanimelist.net/images/manga/1/187815.jpg)
+
 -   **type**: manga
 -   **volumes**: 71
 -   **chapters**: 480

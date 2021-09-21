@@ -1,5 +1,7 @@
 # Love Club
 
+![love-club](https://cdn.myanimelist.net/images/manga/2/20836.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

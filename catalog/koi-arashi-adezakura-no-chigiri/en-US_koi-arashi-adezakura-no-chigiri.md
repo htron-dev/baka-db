@@ -1,5 +1,7 @@
 # Koi Arashi: Adezakura no Chigiri
 
+![koi-arashi-adezakura-no-chigiri](https://cdn.myanimelist.net/images/manga/3/184530.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

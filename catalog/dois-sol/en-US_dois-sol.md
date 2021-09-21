@@ -1,5 +1,7 @@
 # Dois Sol
 
+![dois-sol](https://cdn.myanimelist.net/images/manga/4/41857.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Kanon
 
+![kanon](https://cdn.myanimelist.net/images/manga/1/1960.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

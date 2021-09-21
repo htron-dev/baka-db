@@ -1,5 +1,7 @@
 # E.A.r.T.h ∞
 
+![e-a-r-t-h-∞](https://cdn.myanimelist.net/images/manga/1/110845.jpg)
+
 -   **type**: manga
 -   **original-name**: エアリセ ∞（the endness）
 -   **start-date**: 2010-07-20

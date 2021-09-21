@@ -1,5 +1,7 @@
 # Hoshi no Oujisama Petit Prince
 
+![hoshi-no-oujisama-petit-prince](https://cdn.myanimelist.net/images/anime/2/36539.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 星の王子さま　プチ・プランス

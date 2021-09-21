@@ -1,5 +1,7 @@
 # Game of Familia: Kazoku Senki
 
+![game-of-familia-kazoku-senki](https://cdn.myanimelist.net/images/manga/2/218270.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲーム　オブ　ファミリア-家族戦記-
 -   **start-date**: 2018-05-09

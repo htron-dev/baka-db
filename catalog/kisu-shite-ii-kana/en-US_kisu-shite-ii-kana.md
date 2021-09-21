@@ -1,5 +1,7 @@
 # Kisu Shite ii Kana
 
+![kisu-shite-ii-kana](https://cdn.myanimelist.net/images/manga/3/10325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キスしていいかな

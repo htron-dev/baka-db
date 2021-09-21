@@ -1,5 +1,7 @@
 # Hana to Ikkun
 
+![hana-to-ikkun](https://cdn.myanimelist.net/images/manga/1/200432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

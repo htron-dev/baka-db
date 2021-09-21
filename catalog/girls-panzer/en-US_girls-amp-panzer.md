@@ -1,5 +1,7 @@
 # Girls &amp; Panzer
 
+![girls-amp-panzer](https://cdn.myanimelist.net/images/anime/9/40969.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガールズ&パンツァー

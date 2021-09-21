@@ -1,5 +1,7 @@
 # Getsuyoubi no Tawawa Specials
 
+![getsuyoubi-no-tawawa-specials](https://cdn.myanimelist.net/images/anime/13/83698.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 月曜日のたわわ 特典

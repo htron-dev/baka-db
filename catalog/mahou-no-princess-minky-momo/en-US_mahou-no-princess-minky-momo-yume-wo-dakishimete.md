@@ -1,5 +1,7 @@
 # Mahou no Princess Minky Momo: Yume wo Dakishimete
 
+![mahou-no-princess-minky-momo-yume-wo-dakishimete](https://cdn.myanimelist.net/images/anime/11/13201.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 62
 -   **original-name**: 魔法のプリンセス　ミンキーモモ（夢を抱きしめて）

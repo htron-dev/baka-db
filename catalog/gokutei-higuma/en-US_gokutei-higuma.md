@@ -1,5 +1,7 @@
 # Gokutei Higuma
 
+![gokutei-higuma](https://cdn.myanimelist.net/images/manga/1/217675.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

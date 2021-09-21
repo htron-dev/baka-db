@@ -1,5 +1,7 @@
 # Manga Sagawa-san
 
+![manga-sagawa-san](https://cdn.myanimelist.net/images/manga/3/25531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まんがサガワさん

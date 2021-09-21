@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai After
 
+![hyakka-ryouran-samurai-after](https://cdn.myanimelist.net/images/anime/6/73391.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 百花繚乱 サムライアフター

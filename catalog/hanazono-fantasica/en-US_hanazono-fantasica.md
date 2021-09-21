@@ -1,5 +1,7 @@
 # Hanazono Fantasica
 
+![hanazono-fantasica](https://cdn.myanimelist.net/images/manga/3/72579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

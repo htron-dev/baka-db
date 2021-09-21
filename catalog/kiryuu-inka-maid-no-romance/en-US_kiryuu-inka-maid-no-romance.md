@@ -1,5 +1,7 @@
 # Kiryuu Inka Maid no Romance
 
+![kiryuu-inka-maid-no-romance](https://cdn.myanimelist.net/images/manga/3/39043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 桐生院家メイドのロマンス

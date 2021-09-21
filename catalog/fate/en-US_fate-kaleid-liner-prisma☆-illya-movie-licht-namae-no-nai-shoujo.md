@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo
 
+![fate-kaleid-liner-prisma☆-illya-movie-licht-namae-no-nai-shoujo](https://cdn.myanimelist.net/images/anime/1331/117733.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Fate/kaleid liner プリズマ ☆ イリヤ

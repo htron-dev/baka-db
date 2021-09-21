@@ -1,5 +1,7 @@
 # Love Me Thru the Night
 
+![love-me-thru-the-night](https://cdn.myanimelist.net/images/manga/1/4260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

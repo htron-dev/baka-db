@@ -1,5 +1,7 @@
 # Hacka Doll The Animation
 
+![hacka-doll-the-animation](https://cdn.myanimelist.net/images/anime/6/75751.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ハッカドール THE・あにめーしょん

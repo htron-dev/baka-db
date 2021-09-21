@@ -1,5 +1,7 @@
 # Gokujou no Koibito
 
+![gokujou-no-koibito](https://cdn.myanimelist.net/images/manga/3/27150.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

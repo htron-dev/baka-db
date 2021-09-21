@@ -1,5 +1,7 @@
 # Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho
 
+![fortune-arterial-akai-yakusoku-tadoritsuita-basho](https://cdn.myanimelist.net/images/anime/6/25892.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: FORTUNE ARTERIAL 赤い約束 たどり着いた場所

@@ -1,5 +1,7 @@
 # Moshimo Negai ga
 
+![moshimo-negai-ga](https://cdn.myanimelist.net/images/manga/2/79463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

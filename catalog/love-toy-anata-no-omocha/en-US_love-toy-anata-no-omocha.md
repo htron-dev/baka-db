@@ -1,5 +1,7 @@
 # Love Toy: Anata no Omocha
 
+![love-toy-anata-no-omocha](https://cdn.myanimelist.net/images/manga/3/194590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ラブ・トイ～あなたのおもちゃ～

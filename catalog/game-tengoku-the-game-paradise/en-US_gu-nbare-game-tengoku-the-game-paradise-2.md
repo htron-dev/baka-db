@@ -1,5 +1,7 @@
 # GUNbare! Game Tengoku: The Game Paradise 2
 
+![gu-nbare-game-tengoku-the-game-paradise-2](https://cdn.myanimelist.net/images/anime/6/49551.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: GUN ばれ!ゲーム天国 The Game Paradise 2

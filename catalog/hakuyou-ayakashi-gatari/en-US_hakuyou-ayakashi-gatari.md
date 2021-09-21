@@ -1,5 +1,7 @@
 # Hakuyou Ayakashi Gatari
 
+![hakuyou-ayakashi-gatari](https://cdn.myanimelist.net/images/manga/2/60113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

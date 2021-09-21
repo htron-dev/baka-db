@@ -1,5 +1,7 @@
 # Mirai Shounen Conan
 
+![mirai-shounen-conan](https://cdn.myanimelist.net/images/anime/6/17529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 未来少年コナン

@@ -1,5 +1,7 @@
 # Hoshifuru Miko
 
+![hoshifuru-miko](https://cdn.myanimelist.net/images/manga/1/9166.jpg)
+
 -   **type**: manga
 -   **original-name**: 星フル巫女
 

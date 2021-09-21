@@ -1,5 +1,7 @@
 # Midnight Bloom
 
+![midnight-bloom](https://cdn.myanimelist.net/images/manga/1/35450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

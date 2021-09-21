@@ -1,5 +1,7 @@
 # Super Dragon Ball Heroes: Ankoku Makai Mission!
 
+![super-dragon-ball-heroes-ankoku-makai-mission](https://cdn.myanimelist.net/images/manga/3/228478.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

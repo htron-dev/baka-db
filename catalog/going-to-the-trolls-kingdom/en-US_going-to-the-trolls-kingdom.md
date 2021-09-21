@@ -1,5 +1,7 @@
 # Going to the Troll's Kingdom
 
+![going-to-the-trolls-kingdom](https://cdn.myanimelist.net/images/manga/3/101421.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 도깨비 왕국으로 간다

@@ -1,5 +1,7 @@
 # Honoka Lv. Up!
 
+![honoka-lv-up](https://cdn.myanimelist.net/images/manga/3/17444.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

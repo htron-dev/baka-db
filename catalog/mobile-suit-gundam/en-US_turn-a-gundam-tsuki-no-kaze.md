@@ -1,5 +1,7 @@
 # Turn A Gundam: Tsuki no Kaze
 
+![turn-a-gundam-tsuki-no-kaze](https://cdn.myanimelist.net/images/manga/2/73895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!
 
+![grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party](https://cdn.myanimelist.net/images/anime/2/75328.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: グリザイアの迷宮 カプリスの繭 0 姫&バスケ部編「滝園バスケ部の生クリームパーティ! 」

@@ -1,5 +1,7 @@
 # Haikara†mono
 
+![haikara-mono](https://cdn.myanimelist.net/images/manga/2/45278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

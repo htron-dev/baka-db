@@ -1,5 +1,7 @@
 # Medaka Box
 
+![medaka-box](https://cdn.myanimelist.net/images/manga/2/50353.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 194

@@ -1,5 +1,7 @@
 # Machigatta Ko wo Mahou Shoujo ni Shiteshimatta
 
+![machigatta-ko-wo-mahou-shoujo-ni-shiteshimatta](https://cdn.myanimelist.net/images/manga/2/195930.jpg)
+
 -   **type**: manga
 -   **original-name**: 間違った子を魔法少女にしてしまった
 -   **start-date**: 2016-10-07

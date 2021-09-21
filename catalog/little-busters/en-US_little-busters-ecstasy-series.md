@@ -1,5 +1,7 @@
 # Little Busters! Ecstasy Series
 
+![little-busters-ecstasy-series](https://cdn.myanimelist.net/images/manga/2/154196.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

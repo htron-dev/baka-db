@@ -1,5 +1,7 @@
 # Igyou Yorozu no Kouzuya-san
 
+![igyou-yorozu-no-kouzuya-san](https://cdn.myanimelist.net/images/manga/3/213180.jpg)
+
 -   **type**: manga
 -   **original-name**: 異形萬乃好事屋さん
 -   **start-date**: 2018-04-04

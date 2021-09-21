@@ -1,5 +1,7 @@
 # Galaxy Angel Chitose ga Iku!
 
+![galaxy-angel-chitose-ga-iku](https://cdn.myanimelist.net/images/manga/3/50179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

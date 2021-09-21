@@ -1,5 +1,7 @@
 # Gekkou no Diana
 
+![gekkou-no-diana](https://cdn.myanimelist.net/images/manga/1/7646.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 月光のディアナ

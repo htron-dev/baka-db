@@ -1,5 +1,7 @@
 # Head Spoon
 
+![head-spoon](https://cdn.myanimelist.net/images/anime/13/72630.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヘッド・スプーン

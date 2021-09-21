@@ -1,5 +1,7 @@
 # Kizu darake no I Love You
 
+![kizu-darake-no-i-love-you](https://cdn.myanimelist.net/images/manga/2/32977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

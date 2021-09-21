@@ -1,5 +1,7 @@
 # Granblue Fantasy The Animation Season 2 Extras
 
+![granblue-fantasy-the-animation-season-2-extras](https://cdn.myanimelist.net/images/anime/1443/105109.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: グランブルーファンタジー The Animation Season 2 Extra

@@ -1,5 +1,7 @@
 # Mori no Yousei: Kinoko no Musume
 
+![mori-no-yousei-kinoko-no-musume](https://cdn.myanimelist.net/images/anime/6/85153.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 森の妖精 キノコの娘
 -   **rating**: None

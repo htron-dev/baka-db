@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! Comic Anthology Sweet Lily
 
+![love-live-sunshine-comic-anthology-sweet-lily](https://cdn.myanimelist.net/images/manga/2/235601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

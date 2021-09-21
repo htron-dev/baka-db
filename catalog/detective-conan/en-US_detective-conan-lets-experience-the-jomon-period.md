@@ -1,5 +1,7 @@
 # Detective Conan: Let's Experience the Jomon Period!
 
+![detective-conan-lets-experience-the-jomon-period](https://cdn.myanimelist.net/images/anime/13/81492.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 縄文体験やってみよう!

@@ -1,5 +1,7 @@
 # Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi
 
+![kekkai-sensen-soresaemo-saitei-de-saikou-na-hibi](https://cdn.myanimelist.net/images/anime/3/74387.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 血界戦線 #10.5 特別編「それさえも最低で最高な日々」

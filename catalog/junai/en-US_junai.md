@@ -1,5 +1,7 @@
 # Junai
 
+![junai](https://cdn.myanimelist.net/images/manga/1/124845.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

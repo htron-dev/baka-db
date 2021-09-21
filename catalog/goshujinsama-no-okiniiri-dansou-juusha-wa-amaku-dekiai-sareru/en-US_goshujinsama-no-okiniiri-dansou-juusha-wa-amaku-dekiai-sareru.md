@@ -1,5 +1,7 @@
 # Goshujinsama no Okiniiri: Dansou Juusha wa Amaku Dekiai sareru
 
+![goshujinsama-no-okiniiri-dansou-juusha-wa-amaku-dekiai-sareru](https://cdn.myanimelist.net/images/manga/3/183064.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

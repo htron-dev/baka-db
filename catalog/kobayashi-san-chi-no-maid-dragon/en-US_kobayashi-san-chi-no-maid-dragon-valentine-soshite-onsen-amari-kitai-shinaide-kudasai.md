@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
 
+![kobayashi-san-chi-no-maid-dragon-valentine-soshite-onsen-amari-kitai-shinaide-kudasai](https://cdn.myanimelist.net/images/anime/5/88486.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 小林さんちのメイドラゴン バレンタイン, そして温泉! (あまり期待しないでください)

@@ -1,5 +1,7 @@
 # Kuroshitsuji II Specials
 
+![kuroshitsuji-ii-specials](https://cdn.myanimelist.net/images/anime/7/26664.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 黒執事 II: シエル・イン・ワンダーランド

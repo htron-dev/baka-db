@@ -1,5 +1,7 @@
 # Hacka Doll
 
+![hacka-doll](https://cdn.myanimelist.net/images/anime/10/66053.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ハッカドール

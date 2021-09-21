@@ -1,5 +1,7 @@
 # Lupin Shanshei
 
+![lupin-shanshei](https://cdn.myanimelist.net/images/anime/10/44261.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: ルパンしゃんしぇい

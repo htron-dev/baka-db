@@ -1,5 +1,7 @@
 # Matorism
 
+![matorism](https://cdn.myanimelist.net/images/manga/3/225890.jpg)
+
 -   **type**: manga
 -   **original-name**: マトリズム
 -   **start-date**: 2017-06-16

@@ -1,5 +1,7 @@
 # Mezase Gouka Kyakusen!!: Fune Shoukan Skill de Isekai Rich Life wo Te ni Ireru
 
+![mezase-gouka-kyakusen-fune-shoukan-skill-de-isekai-rich-life-wo-te-ni-ireru](https://cdn.myanimelist.net/images/manga/3/245038.jpg)
+
 -   **type**: manga
 -   **original-name**: めざせ豪華客船!! ～船召喚スキルで異世界リッチライフを手に入れろ～
 -   **start-date**: 2020-11-18

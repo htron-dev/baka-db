@@ -1,5 +1,7 @@
 # Kami wa Game ni Ueteiru.
 
+![kami-wa-game-ni-ueteiru](https://cdn.myanimelist.net/images/manga/3/240696.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神は遊戯〈ゲーム〉に飢えている。
 -   **start-date**: 2021-01-25

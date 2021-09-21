@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume: Golden Spell
 
+![himitsukessha-taka-no-tsume-golden-spell](https://cdn.myanimelist.net/images/anime/1649/109640.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 秘密結社 鷹の爪 ～ゴールデン・スペル～

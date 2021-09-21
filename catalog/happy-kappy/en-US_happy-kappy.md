@@ -1,5 +1,7 @@
 # Happy Kappy
 
+![happy-kappy](https://cdn.myanimelist.net/images/anime/3/32993.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: はっぴ〜カッピ

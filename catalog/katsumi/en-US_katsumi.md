@@ -1,5 +1,7 @@
 # Katsumi
 
+![katsumi](https://cdn.myanimelist.net/images/manga/1/230248.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

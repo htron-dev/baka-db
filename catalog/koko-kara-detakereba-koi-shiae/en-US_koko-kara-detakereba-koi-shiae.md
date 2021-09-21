@@ -1,5 +1,7 @@
 # Koko kara Detakereba Koi Shiae!
 
+![koko-kara-detakereba-koi-shiae](https://cdn.myanimelist.net/images/manga/3/119075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ここから脱出たければ恋しあえっ!

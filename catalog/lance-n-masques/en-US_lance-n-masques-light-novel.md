@@ -1,5 +1,7 @@
 # Lance N' Masques
 
+![lance-n-masques](https://cdn.myanimelist.net/images/manga/2/123117.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Lance N' Masques （ランス・アンド・マスクス）
 -   **start-date**: 2013-12-03

@@ -1,5 +1,7 @@
 # Koi yori Kiss yori Daikirai!!
 
+![koi-yori-kiss-yori-daikirai](https://cdn.myanimelist.net/images/manga/1/14346.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 恋より Kiss より大嫌い!!

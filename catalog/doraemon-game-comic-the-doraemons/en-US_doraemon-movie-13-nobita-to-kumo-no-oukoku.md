@@ -1,5 +1,7 @@
 # Doraemon Movie 13: Nobita to Kumo no Oukoku
 
+![doraemon-movie-13-nobita-to-kumo-no-oukoku](https://cdn.myanimelist.net/images/anime/11/72418.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と雲の王国

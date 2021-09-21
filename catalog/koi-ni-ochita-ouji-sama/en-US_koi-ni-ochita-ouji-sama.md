@@ -1,5 +1,7 @@
 # Koi ni Ochita Ouji-sama
 
+![koi-ni-ochita-ouji-sama](https://cdn.myanimelist.net/images/manga/5/10363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

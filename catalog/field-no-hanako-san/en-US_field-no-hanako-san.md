@@ -1,5 +1,7 @@
 # Field no Hanako-san
 
+![field-no-hanako-san](https://cdn.myanimelist.net/images/manga/1/192801.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

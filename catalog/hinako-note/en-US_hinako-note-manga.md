@@ -1,5 +1,7 @@
 # Hinako Note
 
+![hinako-note](https://cdn.myanimelist.net/images/manga/3/162753.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

@@ -1,5 +1,7 @@
 # Kuroko no Basket: Baka ja Katenai no yo!
 
+![kuroko-no-basket-baka-ja-katenai-no-yo](https://cdn.myanimelist.net/images/anime/1148/96321.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ バカじゃ勝てないのよ!

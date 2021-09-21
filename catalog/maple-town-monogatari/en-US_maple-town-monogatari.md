@@ -1,5 +1,7 @@
 # Maple Town Monogatari
 
+![maple-town-monogatari](https://cdn.myanimelist.net/images/anime/1141/92862.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: メイプルタウン物語

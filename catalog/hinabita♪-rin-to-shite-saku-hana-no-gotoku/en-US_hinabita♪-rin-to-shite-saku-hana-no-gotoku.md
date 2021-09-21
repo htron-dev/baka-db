@@ -1,5 +1,7 @@
 # Hinabita♪ Rin to Shite Saku Hana no Gotoku
 
+![hinabita♪-rin-to-shite-saku-hana-no-gotoku](https://cdn.myanimelist.net/images/manga/3/162719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

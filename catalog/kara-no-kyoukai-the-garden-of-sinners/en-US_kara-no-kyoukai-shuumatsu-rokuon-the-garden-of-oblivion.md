@@ -1,5 +1,7 @@
 # Kara no Kyoukai: Shuumatsu Rokuon/The Garden of Oblivion
 
+![kara-no-kyoukai-shuumatsu-rokuon-the-garden-of-oblivion](https://cdn.myanimelist.net/images/manga/1/147355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

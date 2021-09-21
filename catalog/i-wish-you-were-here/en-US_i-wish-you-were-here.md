@@ -1,5 +1,7 @@
 # I: Wish You Were Here
 
+![i-wish-you-were-here](https://cdn.myanimelist.net/images/anime/1610/94731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: i -wish you were here- ～あなたがここにいてほしい～

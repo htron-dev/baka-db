@@ -1,5 +1,7 @@
 # Link and Ring
 
+![link-and-ring](https://cdn.myanimelist.net/images/manga/2/236164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

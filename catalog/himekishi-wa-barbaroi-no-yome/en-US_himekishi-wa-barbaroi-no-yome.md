@@ -1,5 +1,7 @@
 # Himekishi wa Barbaroi no Yome
 
+![himekishi-wa-barbaroi-no-yome](https://cdn.myanimelist.net/images/manga/1/246207.jpg)
+
 -   **type**: manga
 -   **original-name**: 姫騎士は蛮族の嫁
 -   **start-date**: 2021-01-09

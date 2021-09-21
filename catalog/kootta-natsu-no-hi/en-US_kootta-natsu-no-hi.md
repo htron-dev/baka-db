@@ -1,5 +1,7 @@
 # Kootta Natsu no Hi
 
+![kootta-natsu-no-hi](https://cdn.myanimelist.net/images/manga/1/22446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 凍った夏の日

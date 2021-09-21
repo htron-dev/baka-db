@@ -1,5 +1,7 @@
 # Mondaiji-tachi ga Isekai kara Kuru Sou desu yo? Z
 
+![mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-z](https://cdn.myanimelist.net/images/manga/3/86989.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

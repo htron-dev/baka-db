@@ -1,5 +1,7 @@
 # Chiisana Glass no Sora
 
+![chiisana-glass-no-sora](https://cdn.myanimelist.net/images/manga/2/33041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

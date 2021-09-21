@@ -1,5 +1,7 @@
 # Dracula Yakin!
 
+![dracula-yakin](https://cdn.myanimelist.net/images/manga/2/242936.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラキュラやきん!
 -   **start-date**: 2021-03-27

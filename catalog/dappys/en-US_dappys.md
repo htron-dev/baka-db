@@ -1,5 +1,7 @@
 # Dappys
 
+![dappys](https://cdn.myanimelist.net/images/anime/5/85616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: ダッピィズ

@@ -1,5 +1,7 @@
 # Gundam Sentinel
 
+![gundam-sentinel](https://cdn.myanimelist.net/images/manga/3/111827.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

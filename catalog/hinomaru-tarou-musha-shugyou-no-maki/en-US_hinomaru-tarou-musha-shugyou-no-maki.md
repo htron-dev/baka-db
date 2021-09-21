@@ -1,5 +1,7 @@
 # Hinomaru Tarou: Musha Shugyou no Maki
 
+![hinomaru-tarou-musha-shugyou-no-maki](https://cdn.myanimelist.net/images/anime/5/15843.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 日の丸太郎～武者修行の巻～

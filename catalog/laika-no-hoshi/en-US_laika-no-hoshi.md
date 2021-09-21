@@ -1,5 +1,7 @@
 # Laika no Hoshi
 
+![laika-no-hoshi](https://cdn.myanimelist.net/images/manga/3/243364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Dareka Kafuka wo Mamotte
 
+![dareka-kafuka-wo-mamotte](https://cdn.myanimelist.net/images/manga/2/203284.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

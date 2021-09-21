@@ -1,5 +1,7 @@
 # Midoriyama Koukou Koushien-hen (Movie)
 
+![midoriyama-koukou-koushien-hen-movie](https://cdn.myanimelist.net/images/anime/4/23071.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 緑山高校　甲子園編（劇場版）

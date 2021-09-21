@@ -1,5 +1,7 @@
 # Mazu wa Ubaiai!
 
+![mazu-wa-ubaiai](https://cdn.myanimelist.net/images/manga/3/110987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

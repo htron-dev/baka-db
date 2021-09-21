@@ -1,5 +1,7 @@
 # IS: Infinite Stratos 2 - World Purge-hen
 
+![is-infinite-stratos-2-world-purge-hen](https://cdn.myanimelist.net/images/anime/9/67545.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: IS〈インフィニット・ストラトス〉2 　ワールド・パージ編

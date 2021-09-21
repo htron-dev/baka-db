@@ -1,5 +1,7 @@
 # Kaze wo Nuke!
 
+![kaze-wo-nuke](https://cdn.myanimelist.net/images/anime/12/26993.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 風を抜け!

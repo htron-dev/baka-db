@@ -1,5 +1,7 @@
 # Kisekae Doll Mami-chan
 
+![kisekae-doll-mami-chan](https://cdn.myanimelist.net/images/manga/3/238915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

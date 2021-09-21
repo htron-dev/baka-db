@@ -1,5 +1,7 @@
 # Futaribocchi Sensou
 
+![futaribocchi-sensou](https://cdn.myanimelist.net/images/manga/1/200322.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

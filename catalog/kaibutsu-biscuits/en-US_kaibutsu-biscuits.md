@@ -1,5 +1,7 @@
 # Kaibutsu Biscuits
 
+![kaibutsu-biscuits](https://cdn.myanimelist.net/images/manga/2/197994.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

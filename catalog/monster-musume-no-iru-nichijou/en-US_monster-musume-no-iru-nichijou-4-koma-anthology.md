@@ -1,5 +1,7 @@
 # Monster Musume no Iru Nichijou 4-koma Anthology
 
+![monster-musume-no-iru-nichijou-4-koma-anthology](https://cdn.myanimelist.net/images/manga/2/170085.jpg)
+
 -   **type**: manga
 -   **original-name**: モンスター娘のいる日常 4 コマアンソロジー
 -   **start-date**: 2015-08-12

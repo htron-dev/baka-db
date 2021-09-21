@@ -1,5 +1,7 @@
 # Egoist Blue
 
+![egoist-blue](https://cdn.myanimelist.net/images/manga/2/176339.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エゴイストブルー

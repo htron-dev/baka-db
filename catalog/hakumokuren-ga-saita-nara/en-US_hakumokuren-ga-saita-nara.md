@@ -1,5 +1,7 @@
 # Hakumokuren ga Saita nara
 
+![hakumokuren-ga-saita-nara](https://cdn.myanimelist.net/images/manga/1/250401.jpg)
+
 -   **type**: manga
 -   **original-name**: 白木蓮が咲いたなら
 

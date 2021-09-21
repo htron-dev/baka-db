@@ -1,5 +1,7 @@
 # Migawari Hanayome no Sainan
 
+![migawari-hanayome-no-sainan](https://cdn.myanimelist.net/images/manga/2/164412.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kurogane no Linebarrel 0
 
+![kurogane-no-linebarrel-0](https://cdn.myanimelist.net/images/manga/1/163699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

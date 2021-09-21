@@ -1,5 +1,7 @@
 # Kabu no Isaki
 
+![kabu-no-isaki](https://cdn.myanimelist.net/images/manga/2/52905.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

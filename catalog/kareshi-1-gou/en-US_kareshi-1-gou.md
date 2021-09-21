@@ -1,5 +1,7 @@
 # Kareshi 1-gou
 
+![kareshi-1-gou](https://cdn.myanimelist.net/images/manga/2/177382.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

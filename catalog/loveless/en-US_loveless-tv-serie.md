@@ -1,5 +1,7 @@
 # Loveless
 
+![loveless](https://cdn.myanimelist.net/images/anime/2/22947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: LOVELESS

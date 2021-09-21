@@ -1,5 +1,7 @@
 # Kyoufu Shinbun
 
+![kyoufu-shinbun](https://cdn.myanimelist.net/images/anime/5/47041.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 恐怖新聞

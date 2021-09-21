@@ -1,5 +1,7 @@
 # Fushigi Yuugi: Dai Ni Bu
 
+![fushigi-yuugi-dai-ni-bu](https://cdn.myanimelist.net/images/anime/1591/92444.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ふしぎ遊戯　第二部

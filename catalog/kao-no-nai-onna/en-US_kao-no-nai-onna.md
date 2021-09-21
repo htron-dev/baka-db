@@ -1,5 +1,7 @@
 # Kao no Nai Onna
 
+![kao-no-nai-onna](https://cdn.myanimelist.net/images/manga/3/234400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

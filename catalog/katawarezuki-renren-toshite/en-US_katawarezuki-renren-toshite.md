@@ -1,5 +1,7 @@
 # Katawarezuki, Renren toshite
 
+![katawarezuki-renren-toshite](https://cdn.myanimelist.net/images/manga/3/246671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

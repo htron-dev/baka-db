@@ -1,5 +1,7 @@
 # Lan Mao
 
+![lan-mao](https://cdn.myanimelist.net/images/anime/5/27512.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3057
 -   **original-name**: 蓝猫

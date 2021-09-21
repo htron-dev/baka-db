@@ -1,5 +1,7 @@
 # Kingyo Chuuihou!
 
+![kingyo-chuuihou](https://cdn.myanimelist.net/images/manga/4/83705.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: きんぎょ注意報！

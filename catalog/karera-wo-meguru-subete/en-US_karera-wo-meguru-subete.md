@@ -1,5 +1,7 @@
 # Karera wo Meguru Subete
 
+![karera-wo-meguru-subete](https://cdn.myanimelist.net/images/manga/1/227112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

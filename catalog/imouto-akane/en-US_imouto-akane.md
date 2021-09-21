@@ -1,5 +1,7 @@
 # Imouto: Akane
 
+![imouto-akane](https://cdn.myanimelist.net/images/manga/2/15350.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 148

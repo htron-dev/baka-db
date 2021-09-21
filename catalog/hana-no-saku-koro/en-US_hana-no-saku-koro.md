@@ -1,5 +1,7 @@
 # Hana no Saku Koro
 
+![hana-no-saku-koro](https://cdn.myanimelist.net/images/manga/2/86421.jpg)
+
 -   **type**: manga
 -   **original-name**: はなのさく頃
 -   **start-date**: 2011-05-23

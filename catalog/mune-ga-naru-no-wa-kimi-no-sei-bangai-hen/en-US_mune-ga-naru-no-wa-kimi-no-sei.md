@@ -1,5 +1,7 @@
 # Mune ga Naru no wa Kimi no Sei
 
+![mune-ga-naru-no-wa-kimi-no-sei](https://cdn.myanimelist.net/images/manga/3/150390.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

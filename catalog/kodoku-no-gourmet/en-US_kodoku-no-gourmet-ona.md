@@ -1,5 +1,7 @@
 # Kodoku no Gourmet
 
+![kodoku-no-gourmet](https://cdn.myanimelist.net/images/anime/5/88980.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 孤独のグルメ

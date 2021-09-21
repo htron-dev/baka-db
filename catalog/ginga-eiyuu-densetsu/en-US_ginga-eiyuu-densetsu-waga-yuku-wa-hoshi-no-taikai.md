@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai
 
+![ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai](https://cdn.myanimelist.net/images/anime/3/51345.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河英雄伝説: わが征くは星の大海

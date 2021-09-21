@@ -1,5 +1,7 @@
 # Kirihito Sanka
 
+![kirihito-sanka](https://cdn.myanimelist.net/images/manga/3/176644.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Egoism
 
+![egoism](https://cdn.myanimelist.net/images/manga/2/18388.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

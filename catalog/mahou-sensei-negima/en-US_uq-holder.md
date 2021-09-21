@@ -1,5 +1,7 @@
 # UQ Holder!
 
+![uq-holder](https://cdn.myanimelist.net/images/manga/1/112577.jpg)
+
 -   **type**: manga
 -   **original-name**: UQ HOLDER!
 -   **start-date**: 2013-08-28

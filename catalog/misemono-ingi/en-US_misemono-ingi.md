@@ -1,5 +1,7 @@
 # Misemono Ingi
 
+![misemono-ingi](https://cdn.myanimelist.net/images/manga/1/186016.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

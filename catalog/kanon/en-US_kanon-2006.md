@@ -1,5 +1,7 @@
 # Kanon (2006)
 
+![kanon-2006](https://cdn.myanimelist.net/images/anime/4/56301.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: カノン (2006)

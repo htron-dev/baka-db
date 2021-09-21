@@ -1,5 +1,7 @@
 # Dragon Ball Kai
 
+![dragon-ball-kai](https://cdn.myanimelist.net/images/anime/6/14065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 97
 -   **original-name**: ドラゴンボール改

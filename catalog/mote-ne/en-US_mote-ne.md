@@ -1,5 +1,7 @@
 # Mote ne!?
 
+![mote-ne](https://cdn.myanimelist.net/images/manga/3/63181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

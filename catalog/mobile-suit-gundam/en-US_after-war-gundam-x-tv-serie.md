@@ -1,5 +1,7 @@
 # After War Gundam X
 
+![after-war-gundam-x](https://cdn.myanimelist.net/images/anime/10/16054.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 機動新世紀ガンダム X

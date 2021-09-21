@@ -1,5 +1,7 @@
 # Furiko
 
+![furiko](https://cdn.myanimelist.net/images/anime/2/68985.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 振り子

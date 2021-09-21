@@ -1,5 +1,7 @@
 # Gold Pollen and Other Stories
 
+![gold-pollen-and-other-stories](https://cdn.myanimelist.net/images/manga/3/91117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

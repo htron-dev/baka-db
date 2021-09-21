@@ -1,5 +1,7 @@
 # Kiruminzu
 
+![kiruminzu](https://cdn.myanimelist.net/images/manga/2/39541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キルミンずぅ

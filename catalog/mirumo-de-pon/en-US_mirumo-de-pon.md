@@ -1,5 +1,7 @@
 # Mirumo de Pon!
 
+![mirumo-de-pon](https://cdn.myanimelist.net/images/manga/3/78757.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 53

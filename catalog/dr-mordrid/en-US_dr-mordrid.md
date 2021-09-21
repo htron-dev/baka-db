@@ -1,5 +1,7 @@
 # Dr. Mordrid
 
+![dr-mordrid](https://cdn.myanimelist.net/images/manga/1/231544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

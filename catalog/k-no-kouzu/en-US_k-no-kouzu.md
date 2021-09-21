@@ -1,5 +1,7 @@
 # K no Kouzu
 
+![k-no-kouzu](https://cdn.myanimelist.net/images/manga/2/20804.jpg)
+
 -   **type**: manga
 -   **original-name**: K の構図
 -   **start-date**: 2009-03-20

@@ -1,5 +1,7 @@
 # Gokudou to Omega
 
+![gokudou-to-omega](https://cdn.myanimelist.net/images/manga/3/246511.jpg)
+
 -   **type**: manga
 -   **original-name**: 極道とオメガ
 -   **start-date**: 2019-11-01

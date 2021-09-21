@@ -1,5 +1,7 @@
 # Genkai Level 1 kara no Nariagari: Saijaku Level no Ore ga Isekai Saikyou ni Naru made
 
+![genkai-level-1-kara-no-nariagari-saijaku-level-no-ore-ga-isekai-saikyou-ni-naru-made](https://cdn.myanimelist.net/images/manga/1/238460.jpg)
+
 -   **type**: manga
 -   **original-name**: 限界レベル 1 からの成り上がり ～最弱レベルの俺が異世界最強になるまで～
 -   **start-date**: 2020-03-01

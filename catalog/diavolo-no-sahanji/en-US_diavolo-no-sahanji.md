@@ -1,5 +1,7 @@
 # Diavolo no Sahanji
 
+![diavolo-no-sahanji](https://cdn.myanimelist.net/images/manga/1/160132.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

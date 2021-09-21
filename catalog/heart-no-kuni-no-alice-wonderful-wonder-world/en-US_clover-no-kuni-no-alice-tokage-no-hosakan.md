@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Tokage no Hosakan
 
+![clover-no-kuni-no-alice-tokage-no-hosakan](https://cdn.myanimelist.net/images/manga/2/28426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

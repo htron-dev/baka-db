@@ -1,5 +1,7 @@
 # Mitsuhaji Mannequin★: Do S Shachou no Kageki na OJT
 
+![mitsuhaji-mannequin★-do-s-shachou-no-kageki-na-ojt](https://cdn.myanimelist.net/images/manga/3/128199.jpg)
+
 -   **type**: manga
 -   **original-name**: 蜜辱マネキン ★ ド S 社長の過激な OJT
 -   **start-date**: 2013-12-27

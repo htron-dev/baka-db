@@ -1,5 +1,7 @@
 # Mao Marimo
 
+![mao-marimo](https://cdn.myanimelist.net/images/manga/3/79185.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

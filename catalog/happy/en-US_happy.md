@@ -1,5 +1,7 @@
 # Happy!
 
+![happy](https://cdn.myanimelist.net/images/manga/2/148293.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 254

@@ -1,5 +1,7 @@
 # Koukando ga Mieru You ni Natta n daga, Heroine ga Count Stop shiteiru Ken
 
+![koukando-ga-mieru-you-ni-natta-n-daga-heroine-ga-count-stop-shiteiru-ken](https://cdn.myanimelist.net/images/manga/1/235831.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

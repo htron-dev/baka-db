@@ -1,5 +1,7 @@
 # Junketsu naru Busou Otome no Guardian Deity
 
+![junketsu-naru-busou-otome-no-guardian-deity](https://cdn.myanimelist.net/images/manga/5/190771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 純潔なる武装乙女の守護鎧神〈ガーディアン・デイティ〉

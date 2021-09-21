@@ -1,5 +1,7 @@
 # Shin Gakkou no Yuurei
 
+![shin-gakkou-no-yuurei](https://cdn.myanimelist.net/images/anime/8/84713.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真 学校の幽霊

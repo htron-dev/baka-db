@@ -1,5 +1,7 @@
 # Dragon Quest Retsuden: Roto no Monshou
 
+![dragon-quest-retsuden-roto-no-monshou](https://cdn.myanimelist.net/images/anime/3/17980.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンクエスト列伝 ロトの紋章

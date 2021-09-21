@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin
 
+![mahou-shoujo-madoka★-magica-movie-3-hangyaku-no-monogatari-magica-quartet-x-nisioisin](https://cdn.myanimelist.net/images/anime/5/61633.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: MAGICA QUARTET x NISIOISIN

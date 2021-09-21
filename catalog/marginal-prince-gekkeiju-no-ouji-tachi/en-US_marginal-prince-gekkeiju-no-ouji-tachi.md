@@ -1,5 +1,7 @@
 # Marginal Prince: Gekkeiju no Ouji-tachi
 
+![marginal-prince-gekkeiju-no-ouji-tachi](https://cdn.myanimelist.net/images/anime/6/27476.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マージナルプリンス -月桂樹の王子達-

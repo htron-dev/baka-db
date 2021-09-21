@@ -1,5 +1,7 @@
 # Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon
 
+![fate-grand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon](https://cdn.myanimelist.net/images/anime/1507/114957.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-

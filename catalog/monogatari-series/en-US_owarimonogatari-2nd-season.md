@@ -1,5 +1,7 @@
 # Owarimonogatari 2nd Season
 
+![owarimonogatari-2nd-season](https://cdn.myanimelist.net/images/anime/6/87322.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 7
 -   **original-name**: 終物語

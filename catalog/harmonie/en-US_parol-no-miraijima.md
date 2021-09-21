@@ -1,5 +1,7 @@
 # Parol no Miraijima
 
+![parol-no-miraijima](https://cdn.myanimelist.net/images/anime/2/55321.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パロルのみらい島

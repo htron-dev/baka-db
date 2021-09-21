@@ -1,5 +1,7 @@
 # Ganbare! Tenkousei
 
+![ganbare-tenkousei](https://cdn.myanimelist.net/images/manga/3/96731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: がんばれ！転校生

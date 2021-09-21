@@ -1,5 +1,7 @@
 # Kojika-kun to Hato Kyouju
 
+![kojika-kun-to-hato-kyouju](https://cdn.myanimelist.net/images/manga/2/123953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

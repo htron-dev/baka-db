@@ -1,5 +1,7 @@
 # Hakoniwa no Koibito
 
+![hakoniwa-no-koibito](https://cdn.myanimelist.net/images/manga/2/186097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

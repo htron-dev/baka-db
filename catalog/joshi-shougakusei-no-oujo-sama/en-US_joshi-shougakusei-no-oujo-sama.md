@@ -1,5 +1,7 @@
 # Joshi Shougakusei no Oujo-sama
 
+![joshi-shougakusei-no-oujo-sama](https://cdn.myanimelist.net/images/manga/2/211386.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Cestvs: The Roman Fighter
 
+![cestvs-the-roman-fighter](https://cdn.myanimelist.net/images/anime/1291/114014.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: セスタス-The Roman Fighter-

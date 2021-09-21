@@ -1,5 +1,7 @@
 # Hikari to Tsue no Uta
 
+![hikari-to-tsue-no-uta](https://cdn.myanimelist.net/images/manga/3/189010.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

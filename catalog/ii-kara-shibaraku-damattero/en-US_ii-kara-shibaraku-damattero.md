@@ -1,5 +1,7 @@
 # Ii kara Shibaraku Damattero!
 
+![ii-kara-shibaraku-damattero](https://cdn.myanimelist.net/images/manga/1/242036.jpg)
+
 -   **type**: manga
 -   **original-name**: いいからしばらく黙ってろ！
 -   **start-date**: 2020-08-05

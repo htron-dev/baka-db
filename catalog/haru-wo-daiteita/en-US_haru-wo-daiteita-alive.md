@@ -1,5 +1,7 @@
 # Haru wo Daiteita: Alive
 
+![haru-wo-daiteita-alive](https://cdn.myanimelist.net/images/manga/2/118463.jpg)
+
 -   **type**: manga
 -   **original-name**: 春を抱いていた ALIVE
 -   **start-date**: 2013-08-28

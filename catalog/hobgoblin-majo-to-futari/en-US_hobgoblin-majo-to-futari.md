@@ -1,5 +1,7 @@
 # Hobgoblin: Majo to Futari
 
+![hobgoblin-majo-to-futari](https://cdn.myanimelist.net/images/manga/2/211854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Ikkyuu-san (1978)
 
+![ikkyuu-san-1978](https://cdn.myanimelist.net/images/anime/11/53191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 一球さん

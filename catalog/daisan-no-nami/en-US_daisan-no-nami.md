@@ -1,5 +1,7 @@
 # Daisan no Nami
 
+![daisan-no-nami](https://cdn.myanimelist.net/images/manga/1/170398.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 第三の波

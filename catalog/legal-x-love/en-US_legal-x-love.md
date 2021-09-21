@@ -1,5 +1,7 @@
 # Legal x Love
 
+![legal-x-love](https://cdn.myanimelist.net/images/manga/1/236188.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

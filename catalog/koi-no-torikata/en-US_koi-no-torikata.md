@@ -1,5 +1,7 @@
 # Koi no Torikata
 
+![koi-no-torikata](https://cdn.myanimelist.net/images/manga/2/247768.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋の撮りかた
 -   **start-date**: 2017-05-27

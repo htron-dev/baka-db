@@ -1,5 +1,7 @@
 # Marielle Clarac Series
 
+![marielle-clarac-series](https://cdn.myanimelist.net/images/manga/1/236843.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マリエル・クララックシリーズ
 -   **start-date**: 2017-03-02

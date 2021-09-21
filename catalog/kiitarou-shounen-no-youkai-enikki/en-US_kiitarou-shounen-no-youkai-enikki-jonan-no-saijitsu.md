@@ -1,5 +1,7 @@
 # Kiitarou Shounen no Youkai Enikki: Jonan no Saijitsu
 
+![kiitarou-shounen-no-youkai-enikki-jonan-no-saijitsu](https://cdn.myanimelist.net/images/anime/1833/112407.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 奇異太郎少年の妖怪絵日記 女難の祭日

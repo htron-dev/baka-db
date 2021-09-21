@@ -1,5 +1,7 @@
 # Eien no Frandear
 
+![eien-no-frandear](https://cdn.myanimelist.net/images/manga/2/191237.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

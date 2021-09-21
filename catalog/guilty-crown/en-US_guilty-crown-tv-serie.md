@@ -1,5 +1,7 @@
 # Guilty Crown
 
+![guilty-crown](https://cdn.myanimelist.net/images/anime/8/33713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ギルティクラウン

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Operation:Troy
 
+![kidou-senshi-gundam-operation-troy](https://cdn.myanimelist.net/images/manga/2/146471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

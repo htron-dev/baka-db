@@ -1,5 +1,7 @@
 # Kizumonogatari I: Tekketsu-hen
 
+![kizumonogatari-i-tekketsu-hen](https://cdn.myanimelist.net/images/anime/11/80621.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 傷物語〈Ⅰ 鉄血篇〉

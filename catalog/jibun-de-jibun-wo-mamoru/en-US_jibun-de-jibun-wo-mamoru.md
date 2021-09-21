@@ -1,5 +1,7 @@
 # Jibun de Jibun wo Mamoru
 
+![jibun-de-jibun-wo-mamoru](https://cdn.myanimelist.net/images/anime/11/84555.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 自分で自分を守る

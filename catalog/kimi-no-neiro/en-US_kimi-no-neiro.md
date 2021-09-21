@@ -1,5 +1,7 @@
 # Kimi no Neiro
 
+![kimi-no-neiro](https://cdn.myanimelist.net/images/manga/1/39119.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

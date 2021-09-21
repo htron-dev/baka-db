@@ -1,5 +1,7 @@
 # Heart★Drop
 
+![heart★-drop](https://cdn.myanimelist.net/images/manga/1/44835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハート ★ ドロップ

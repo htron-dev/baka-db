@@ -1,5 +1,7 @@
 # Dinosaur King
 
+![dinosaur-king](https://cdn.myanimelist.net/images/manga/1/33916.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

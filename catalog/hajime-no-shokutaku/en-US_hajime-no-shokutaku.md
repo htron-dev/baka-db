@@ -1,5 +1,7 @@
 # Hajime no Shokutaku
 
+![hajime-no-shokutaku](https://cdn.myanimelist.net/images/manga/1/207258.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 20

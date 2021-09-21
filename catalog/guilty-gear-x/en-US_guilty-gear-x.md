@@ -1,5 +1,7 @@
 # Guilty Gear X
 
+![guilty-gear-x](https://cdn.myanimelist.net/images/anime/1352/92760.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギルティギア ゼクス

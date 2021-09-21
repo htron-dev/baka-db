@@ -1,5 +1,7 @@
 # Last Waltz
 
+![last-waltz](https://cdn.myanimelist.net/images/manga/2/169652.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

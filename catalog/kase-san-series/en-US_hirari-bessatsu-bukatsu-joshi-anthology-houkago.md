@@ -1,5 +1,7 @@
 # Hirari, Bessatsu: Bukatsu Joshi Anthology - Houkago!
 
+![hirari-bessatsu-bukatsu-joshi-anthology-houkago](https://cdn.myanimelist.net/images/manga/2/95769.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 39

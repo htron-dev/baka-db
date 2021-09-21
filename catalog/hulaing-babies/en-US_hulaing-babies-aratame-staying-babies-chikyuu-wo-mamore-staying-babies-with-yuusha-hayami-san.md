@@ -1,5 +1,7 @@
 # Hulaing Babies Aratame - Staying Babies: Chikyuu wo Mamore! Staying Babies with Yuusha Hayami-san
 
+![hulaing-babies-aratame-staying-babies-chikyuu-wo-mamore-staying-babies-with-yuusha-hayami-san](https://cdn.myanimelist.net/images/anime/1345/108661.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: フライングベイビーズ改め ステイングベイビーズ　第 4.5 話「地球を守れ！ステイングベイビーズ with 勇者ハヤミさん」

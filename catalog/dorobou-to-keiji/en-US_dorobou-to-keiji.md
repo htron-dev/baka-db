@@ -1,5 +1,7 @@
 # Dorobou to Keiji
 
+![dorobou-to-keiji](https://cdn.myanimelist.net/images/manga/5/60943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Log Horizon: Nyanta Hanchou Shiawase no Recipe
 
+![log-horizon-nyanta-hanchou-shiawase-no-recipe](https://cdn.myanimelist.net/images/manga/2/110679.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

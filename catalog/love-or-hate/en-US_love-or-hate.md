@@ -1,5 +1,7 @@
 # Love or Hate
 
+![love-or-hate](https://cdn.myanimelist.net/images/manga/1/237922.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 러브 오어 헤이트
 -   **start-date**: 2018-09-22

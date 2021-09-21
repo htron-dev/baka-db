@@ -1,5 +1,7 @@
 # Digimon Xros Wars
 
+![digimon-xros-wars](https://cdn.myanimelist.net/images/manga/1/194129.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

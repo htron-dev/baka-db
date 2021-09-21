@@ -1,5 +1,7 @@
 # Fairy Tale Wedding: Kaikan Diary
 
+![fairy-tale-wedding-kaikan-diary](https://cdn.myanimelist.net/images/manga/3/182121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Isekai Shoukan wa Nidome desu
 
+![isekai-shoukan-wa-nidome-desu](https://cdn.myanimelist.net/images/manga/1/198853.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 121

@@ -1,5 +1,7 @@
 # Kyoudai Gentei!: Brother x Brother
 
+![kyoudai-gentei-brother-x-brother](https://cdn.myanimelist.net/images/manga/5/13070.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

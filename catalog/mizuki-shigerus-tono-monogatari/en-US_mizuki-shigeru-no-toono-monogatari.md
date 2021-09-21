@@ -1,5 +1,7 @@
 # Mizuki Shigeru no Toono Monogatari
 
+![mizuki-shigeru-no-toono-monogatari](https://cdn.myanimelist.net/images/anime/2/29423.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 水木しげるの遠野物語

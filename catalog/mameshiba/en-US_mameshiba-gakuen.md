@@ -1,5 +1,7 @@
 # Mameshiba Gakuen
 
+![mameshiba-gakuen](https://cdn.myanimelist.net/images/anime/13/80674.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: 豆しば学園

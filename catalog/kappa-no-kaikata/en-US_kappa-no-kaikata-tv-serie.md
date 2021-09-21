@@ -1,5 +1,7 @@
 # Kappa no Kaikata
 
+![kappa-no-kaikata](https://cdn.myanimelist.net/images/anime/1/1883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カッパの飼い方

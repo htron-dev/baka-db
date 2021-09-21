@@ -1,5 +1,7 @@
 # Irregular Hunter Rockman X
 
+![irregular-hunter-rockman-x](https://cdn.myanimelist.net/images/manga/3/35091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: イレギュラーハンターロックマン X

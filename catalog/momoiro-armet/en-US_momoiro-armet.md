@@ -1,5 +1,7 @@
 # Momoiro Armet
 
+![momoiro-armet](https://cdn.myanimelist.net/images/manga/3/152606.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ももいろアーメット

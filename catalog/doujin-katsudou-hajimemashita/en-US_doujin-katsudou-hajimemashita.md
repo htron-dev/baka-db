@@ -1,5 +1,7 @@
 # Doujin Katsudou, Hajimemashita!?
 
+![doujin-katsudou-hajimemashita](https://cdn.myanimelist.net/images/manga/3/205527.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

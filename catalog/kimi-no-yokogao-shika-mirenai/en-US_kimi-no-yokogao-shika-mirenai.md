@@ -1,5 +1,7 @@
 # Kimi no Yokogao shika Mirenai
 
+![kimi-no-yokogao-shika-mirenai](https://cdn.myanimelist.net/images/manga/1/234777.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Izumo
 
+![izumo](https://cdn.myanimelist.net/images/anime/1035/96202.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: IZUMO [イズモ]

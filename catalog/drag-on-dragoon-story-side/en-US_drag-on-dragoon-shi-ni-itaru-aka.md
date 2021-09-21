@@ -1,5 +1,7 @@
 # Drag-On Dragoon: Shi ni Itaru Aka
 
+![drag-on-dragoon-shi-ni-itaru-aka](https://cdn.myanimelist.net/images/manga/3/114671.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

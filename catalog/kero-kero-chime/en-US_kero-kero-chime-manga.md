@@ -1,5 +1,7 @@
 # Kero Kero Chime
 
+![kero-kero-chime](https://cdn.myanimelist.net/images/manga/1/13122.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ケロケロちゃいむ

@@ -1,5 +1,7 @@
 # Kokoro Connect
 
+![kokoro-connect](https://cdn.myanimelist.net/images/manga/3/129693.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

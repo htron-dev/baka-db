@@ -1,5 +1,7 @@
 # MAPS: Densetsu no Samayoeru Seijin-tachi
 
+![maps-densetsu-no-samayoeru-seijin-tachi](https://cdn.myanimelist.net/images/anime/11/47479.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マップス 伝説のさまよえる星人たち

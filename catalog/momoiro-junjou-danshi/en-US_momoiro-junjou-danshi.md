@@ -1,5 +1,7 @@
 # Momoiro Junjou Danshi
 
+![momoiro-junjou-danshi](https://cdn.myanimelist.net/images/manga/2/79487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

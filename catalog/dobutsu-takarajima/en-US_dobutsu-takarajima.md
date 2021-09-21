@@ -1,5 +1,7 @@
 # Dobutsu Takarajima
 
+![dobutsu-takarajima](https://cdn.myanimelist.net/images/manga/1/19837.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: どうぶつ宝島

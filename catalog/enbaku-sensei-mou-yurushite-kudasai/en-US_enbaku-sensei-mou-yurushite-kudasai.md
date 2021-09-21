@@ -1,5 +1,7 @@
 # Enbaku: Sensei, Mou Yurushite Kudasai
 
+![enbaku-sensei-mou-yurushite-kudasai](https://cdn.myanimelist.net/images/manga/2/194839.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume
 
+![himitsukessha-taka-no-tsume](https://cdn.myanimelist.net/images/anime/13/82755.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 秘密結社 鷹の爪

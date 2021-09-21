@@ -1,5 +1,7 @@
 # Dai-9 Sabaku
 
+![dai-9-sabaku](https://cdn.myanimelist.net/images/manga/2/230011.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

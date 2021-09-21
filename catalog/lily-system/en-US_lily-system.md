@@ -1,5 +1,7 @@
 # Lily System
 
+![lily-system](https://cdn.myanimelist.net/images/manga/1/228205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

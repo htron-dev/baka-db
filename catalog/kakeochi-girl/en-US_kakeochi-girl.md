@@ -1,5 +1,7 @@
 # Kakeochi Girl
 
+![kakeochi-girl](https://cdn.myanimelist.net/images/manga/2/229311.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

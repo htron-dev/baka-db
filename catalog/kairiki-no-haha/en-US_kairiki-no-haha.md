@@ -1,5 +1,7 @@
 # Kairiki no haha
 
+![kairiki-no-haha](https://cdn.myanimelist.net/images/manga/2/234127.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 怪力の母

@@ -1,5 +1,7 @@
 # Mitsue Zakki Thirties
 
+![mitsue-zakki-thirties](https://cdn.myanimelist.net/images/manga/3/151663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 87

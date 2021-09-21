@@ -1,5 +1,7 @@
 # Koi Made Ato 3po
 
+![koi-made-ato-3-po](https://cdn.myanimelist.net/images/manga/1/38302.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 恋まであと３歩

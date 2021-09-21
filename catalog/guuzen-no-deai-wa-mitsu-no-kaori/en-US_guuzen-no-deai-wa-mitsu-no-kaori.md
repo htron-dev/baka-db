@@ -1,5 +1,7 @@
 # Guuzen no Deai wa Mitsu no Kaori
 
+![guuzen-no-deai-wa-mitsu-no-kaori](https://cdn.myanimelist.net/images/manga/3/193486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

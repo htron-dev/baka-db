@@ -1,5 +1,7 @@
 # Ieraishan
 
+![ieraishan](https://cdn.myanimelist.net/images/manga/2/29474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

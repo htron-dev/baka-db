@@ -1,5 +1,7 @@
 # Gal Gohan
 
+![gal-gohan](https://cdn.myanimelist.net/images/manga/1/197704.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 69

@@ -1,5 +1,7 @@
 # Insomnia
 
+![insomnia](https://cdn.myanimelist.net/images/manga/2/30348.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 불면증

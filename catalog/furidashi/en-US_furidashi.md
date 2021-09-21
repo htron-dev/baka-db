@@ -1,5 +1,7 @@
 # Furidashi
 
+![furidashi](https://cdn.myanimelist.net/images/anime/1956/104622.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふりだし

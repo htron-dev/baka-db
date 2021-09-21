@@ -1,5 +1,7 @@
 # Baby Gamba
 
+![baby-gamba](https://cdn.myanimelist.net/images/anime/4/86141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ベビーガンバ

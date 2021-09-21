@@ -1,5 +1,7 @@
 # Mizuki Shigeru Youkai Collection
 
+![mizuki-shigeru-youkai-collection](https://cdn.myanimelist.net/images/manga/2/36325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

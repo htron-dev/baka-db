@@ -1,5 +1,7 @@
 # Break the Border: Rebirth of Echoes
 
+![break-the-border-rebirth-of-echoes](https://cdn.myanimelist.net/images/manga/1/248011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

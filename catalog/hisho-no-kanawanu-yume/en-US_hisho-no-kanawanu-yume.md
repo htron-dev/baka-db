@@ -1,5 +1,7 @@
 # Hisho no Kanawanu Yume
 
+![hisho-no-kanawanu-yume](https://cdn.myanimelist.net/images/manga/2/231727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 秘書のかなわぬ夢

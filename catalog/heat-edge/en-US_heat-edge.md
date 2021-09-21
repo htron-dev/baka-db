@@ -1,5 +1,7 @@
 # Heat Edge
 
+![heat-edge](https://cdn.myanimelist.net/images/manga/2/28470.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

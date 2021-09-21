@@ -1,5 +1,7 @@
 # Mame Coordinate
 
+![mame-coordinate](https://cdn.myanimelist.net/images/manga/2/185210.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

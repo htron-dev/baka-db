@@ -1,5 +1,7 @@
 # Mobile Suit Gundam ZZ
 
+![mobile-suit-gundam-zz](https://cdn.myanimelist.net/images/anime/1848/91078.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 機動戦士ガンダム ZZ

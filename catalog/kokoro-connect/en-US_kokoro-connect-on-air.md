@@ -1,5 +1,7 @@
 # Kokoro Connect: On Air
 
+![kokoro-connect-on-air](https://cdn.myanimelist.net/images/manga/2/140921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

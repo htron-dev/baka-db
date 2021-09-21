@@ -1,5 +1,7 @@
 # Fuminijirareta Bara
 
+![fuminijirareta-bara](https://cdn.myanimelist.net/images/manga/2/127291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 踏みにじられた薔薇

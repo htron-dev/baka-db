@@ -1,5 +1,7 @@
 # Niji, Amaete yo.
 
+![niji-amaete-yo](https://cdn.myanimelist.net/images/manga/3/203947.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 39

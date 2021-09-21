@@ -1,5 +1,7 @@
 # Hoshi no Ken
 
+![hoshi-no-ken](https://cdn.myanimelist.net/images/manga/3/16107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

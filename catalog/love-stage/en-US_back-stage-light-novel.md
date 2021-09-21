@@ -1,5 +1,7 @@
 # Back Stage!!
 
+![back-stage](https://cdn.myanimelist.net/images/manga/2/139773.jpg)
+
 -   **type**: light-novel
 -   **original-name**: BACK STAGE!! -バック・ステイジ-
 -   **start-date**: 2011-05-31

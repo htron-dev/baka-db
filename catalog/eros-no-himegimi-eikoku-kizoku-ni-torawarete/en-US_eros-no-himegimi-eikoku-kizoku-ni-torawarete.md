@@ -1,5 +1,7 @@
 # Eros no Himegimi: Eikoku Kizoku ni Torawarete
 
+![eros-no-himegimi-eikoku-kizoku-ni-torawarete](https://cdn.myanimelist.net/images/manga/1/182839.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

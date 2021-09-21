@@ -1,5 +1,7 @@
 # Petit☆Dream Stars! Let's La Cooking? Showtime!
 
+![petit☆-dream-stars-lets-la-cooking-showtime](https://cdn.myanimelist.net/images/anime/3/89867.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Petit☆ ドリームスターズ! レッツ・ラ・クッキン? ショータイム!

@@ -1,5 +1,7 @@
 # Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari
 
+![kuusen-madoushi-kouhosei-no-kyoukan-lecty-no-ikimonogatari](https://cdn.myanimelist.net/images/anime/10/74863.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 空戦魔導士候補生の教官 レクティの, いきものがたり

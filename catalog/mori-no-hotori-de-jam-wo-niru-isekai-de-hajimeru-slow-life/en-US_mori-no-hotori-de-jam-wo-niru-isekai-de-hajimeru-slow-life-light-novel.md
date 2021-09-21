@@ -1,5 +1,7 @@
 # Mori no Hotori de Jam wo Niru: Isekai de Hajimeru Slow Life
 
+![mori-no-hotori-de-jam-wo-niru-isekai-de-hajimeru-slow-life](https://cdn.myanimelist.net/images/manga/1/232956.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 28

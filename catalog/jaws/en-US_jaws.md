@@ -1,5 +1,7 @@
 # Jaws
 
+![jaws](https://cdn.myanimelist.net/images/manga/2/74795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジョーズ

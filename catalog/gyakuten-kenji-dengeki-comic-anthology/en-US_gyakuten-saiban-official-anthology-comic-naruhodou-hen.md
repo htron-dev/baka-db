@@ -1,5 +1,7 @@
 # Gyakuten Saiban Official Anthology Comic: Naruhodou-hen
 
+![gyakuten-saiban-official-anthology-comic-naruhodou-hen](https://cdn.myanimelist.net/images/manga/3/149494.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

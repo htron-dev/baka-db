@@ -1,5 +1,7 @@
 # Isekai Teni, Jirai Tsuki.
 
+![isekai-teni-jirai-tsuki](https://cdn.myanimelist.net/images/manga/1/231516.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転移、地雷付き。
 -   **start-date**: 2019-10-25

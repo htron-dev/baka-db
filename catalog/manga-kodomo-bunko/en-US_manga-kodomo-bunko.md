@@ -1,5 +1,7 @@
 # Manga Kodomo Bunko
 
+![manga-kodomo-bunko](https://cdn.myanimelist.net/images/anime/6/53841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: まんがこども文庫

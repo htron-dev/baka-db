@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova](https://cdn.myanimelist.net/images/anime/1360/111696.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか 2 期 OVA

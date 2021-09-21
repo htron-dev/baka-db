@@ -1,5 +1,7 @@
 # Tomoe Mami no Heibon na Nichijou
 
+![tomoe-mami-no-heibon-na-nichijou](https://cdn.myanimelist.net/images/manga/3/191172.jpg)
+
 -   **type**: manga
 -   **original-name**: 巴マミの平凡な日常
 -   **start-date**: 2012-06-08

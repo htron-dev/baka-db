@@ -1,5 +1,7 @@
 # ef: A Tale of Memories. - Prologue
 
+![ef-a-tale-of-memories-prologue](https://cdn.myanimelist.net/images/anime/13/26046.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ef - a tale of memories. ~prologue~

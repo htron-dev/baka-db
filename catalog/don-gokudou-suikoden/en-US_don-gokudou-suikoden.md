@@ -1,5 +1,7 @@
 # Don: Gokudou Suikoden
 
+![don-gokudou-suikoden](https://cdn.myanimelist.net/images/anime/2/49405.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ドン 極道水滸伝

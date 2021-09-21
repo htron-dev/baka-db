@@ -1,5 +1,7 @@
 # Hajimete wa Midara na Kimi no Karada de
 
+![hajimete-wa-midara-na-kimi-no-karada-de](https://cdn.myanimelist.net/images/manga/1/201826.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

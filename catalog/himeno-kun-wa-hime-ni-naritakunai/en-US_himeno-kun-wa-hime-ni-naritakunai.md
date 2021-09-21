@@ -1,5 +1,7 @@
 # Himeno-kun wa Hime ni Naritakunai
 
+![himeno-kun-wa-hime-ni-naritakunai](https://cdn.myanimelist.net/images/manga/2/245029.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

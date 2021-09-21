@@ -1,5 +1,7 @@
 # Japan War 1945 - Shin Daitoua Senki
 
+![japan-war-1945-shin-daitoua-senki](https://cdn.myanimelist.net/images/manga/1/25313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

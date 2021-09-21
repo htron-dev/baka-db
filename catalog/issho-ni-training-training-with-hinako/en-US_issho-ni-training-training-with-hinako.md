@@ -1,5 +1,7 @@
 # Issho ni Training: Training with Hinako
 
+![issho-ni-training-training-with-hinako](https://cdn.myanimelist.net/images/anime/9/18187.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いっしょにとれーにんぐ

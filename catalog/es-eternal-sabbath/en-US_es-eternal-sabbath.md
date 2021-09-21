@@ -1,5 +1,7 @@
 # ES: Eternal Sabbath
 
+![es-eternal-sabbath](https://cdn.myanimelist.net/images/manga/2/174740.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 83

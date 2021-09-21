@@ -1,5 +1,7 @@
 # Hokenshitsu no Otaku Oneesan wa Suki desu ka?
 
+![hokenshitsu-no-otaku-oneesan-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/3/219073.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

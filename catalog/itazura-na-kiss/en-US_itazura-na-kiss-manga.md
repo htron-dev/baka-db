@@ -1,5 +1,7 @@
 # Itazura na Kiss
 
+![itazura-na-kiss](https://cdn.myanimelist.net/images/manga/3/112363.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 100

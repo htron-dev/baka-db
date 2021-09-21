@@ -1,5 +1,7 @@
 # Anisama
 
+![anisama](https://cdn.myanimelist.net/images/anime/9/87507.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: あにさま

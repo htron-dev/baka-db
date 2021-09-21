@@ -1,5 +1,7 @@
 # Do Suru!? Paradise
 
+![do-suru-paradise](https://cdn.myanimelist.net/images/manga/2/19072.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: どーする！？パラダイス

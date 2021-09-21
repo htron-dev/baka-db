@@ -1,5 +1,7 @@
 # Kick-Heart
 
+![kick-heart](https://cdn.myanimelist.net/images/anime/3/46509.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KICK-HEART

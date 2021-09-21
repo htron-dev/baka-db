@@ -1,5 +1,7 @@
 # Dragon no Omawari-san
 
+![dragon-no-omawari-san](https://cdn.myanimelist.net/images/manga/1/236124.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンのおまわりさん
 -   **start-date**: 2019-06-22

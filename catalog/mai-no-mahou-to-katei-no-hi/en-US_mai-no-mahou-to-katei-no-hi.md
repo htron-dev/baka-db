@@ -1,5 +1,7 @@
 # Mai no Mahou to Katei no Hi
 
+![mai-no-mahou-to-katei-no-hi](https://cdn.myanimelist.net/images/anime/11/27495.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マイの魔法と家庭の日

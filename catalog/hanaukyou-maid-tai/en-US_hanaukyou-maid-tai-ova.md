@@ -1,5 +1,7 @@
 # Hanaukyou Maid-tai OVA
 
+![hanaukyou-maid-tai-ova](https://cdn.myanimelist.net/images/anime/10/3800.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 花右京メイド隊

@@ -1,5 +1,7 @@
 # G-School
 
+![g-school](https://cdn.myanimelist.net/images/manga/1/18529.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 82

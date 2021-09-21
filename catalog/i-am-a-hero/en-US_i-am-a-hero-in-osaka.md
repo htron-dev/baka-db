@@ -1,5 +1,7 @@
 # I Am a Hero in Osaka
 
+![i-am-a-hero-in-osaka](https://cdn.myanimelist.net/images/manga/1/172730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

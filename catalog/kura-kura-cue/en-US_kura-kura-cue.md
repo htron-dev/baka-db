@@ -1,5 +1,7 @@
 # Kura Kura Cue
 
+![kura-kura-cue](https://cdn.myanimelist.net/images/manga/1/60231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: くらくらく～

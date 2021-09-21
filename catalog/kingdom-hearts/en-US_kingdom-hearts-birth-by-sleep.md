@@ -1,5 +1,7 @@
 # Kingdom Hearts: Birth by Sleep
 
+![kingdom-hearts-birth-by-sleep](https://cdn.myanimelist.net/images/manga/2/49145.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

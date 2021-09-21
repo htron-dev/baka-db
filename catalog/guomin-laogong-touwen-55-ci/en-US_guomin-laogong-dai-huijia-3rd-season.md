@@ -1,5 +1,7 @@
 # Guomin Laogong Dai Huijia 3rd Season
 
+![guomin-laogong-dai-huijia-3rd-season](https://cdn.myanimelist.net/images/anime/1205/90237.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 国民老公带回家 第三季

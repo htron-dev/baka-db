@@ -1,5 +1,7 @@
 # Makai Shoujo R'lyeh Lulu
 
+![makai-shoujo-rlyeh-lulu](https://cdn.myanimelist.net/images/manga/1/168649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

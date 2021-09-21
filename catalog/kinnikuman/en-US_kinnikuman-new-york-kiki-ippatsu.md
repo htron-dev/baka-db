@@ -1,5 +1,7 @@
 # Kinnikuman: New York Kiki Ippatsu!
 
+![kinnikuman-new-york-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/1783/97583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン ニューヨーク危機一髪！

@@ -1,5 +1,7 @@
 # Full Contact!
 
+![full-contact](https://cdn.myanimelist.net/images/manga/2/160071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ふるこんたくと！

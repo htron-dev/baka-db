@@ -1,5 +1,7 @@
 # Kumichou to Issho
 
+![kumichou-to-issho](https://cdn.myanimelist.net/images/manga/2/38144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Fune wo Amu: Yokoku
 
+![fune-wo-amu-yokoku](https://cdn.myanimelist.net/images/anime/1057/101681.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 「舟を編む」予告

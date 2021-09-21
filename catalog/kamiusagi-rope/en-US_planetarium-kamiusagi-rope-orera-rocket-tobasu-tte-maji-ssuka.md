@@ -1,5 +1,7 @@
 # Planetarium Kamiusagi Rope: Orera Rocket Tobasu tte Maji ssuka!?
 
+![planetarium-kamiusagi-rope-orera-rocket-tobasu-tte-maji-ssuka](https://cdn.myanimelist.net/images/anime/4/84828.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プラネタリウム 紙兎ロペ おれらロケット飛ばすってマジっすか!?

@@ -1,5 +1,7 @@
 # Gulliver Funtouki
 
+![gulliver-funtouki](https://cdn.myanimelist.net/images/anime/3/15851.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガリヴァー奮闘記

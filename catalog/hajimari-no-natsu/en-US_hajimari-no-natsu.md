@@ -1,5 +1,7 @@
 # Hajimari no Natsu
 
+![hajimari-no-natsu](https://cdn.myanimelist.net/images/manga/2/74051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

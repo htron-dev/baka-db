@@ -1,5 +1,7 @@
 # Majoou-sama Bakutan!
 
+![majoou-sama-bakutan](https://cdn.myanimelist.net/images/manga/1/178559.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

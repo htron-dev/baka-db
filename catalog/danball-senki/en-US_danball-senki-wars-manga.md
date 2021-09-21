@@ -1,5 +1,7 @@
 # Danball Senki Wars
 
+![danball-senki-wars](https://cdn.myanimelist.net/images/manga/1/169025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

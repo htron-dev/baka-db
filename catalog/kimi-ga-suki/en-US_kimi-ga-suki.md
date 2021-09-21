@@ -1,5 +1,7 @@
 # Kimi ga Suki
 
+![kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/51207.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Muteki no Hito
 
+![muteki-no-hito](https://cdn.myanimelist.net/images/manga/3/226104.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

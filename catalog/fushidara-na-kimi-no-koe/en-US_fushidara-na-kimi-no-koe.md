@@ -1,5 +1,7 @@
 # Fushidara na Kimi no Koe
 
+![fushidara-na-kimi-no-koe](https://cdn.myanimelist.net/images/manga/2/170959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

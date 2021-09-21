@@ -1,5 +1,7 @@
 # Muketsuou no Shuuchaku
 
+![muketsuou-no-shuuchaku](https://cdn.myanimelist.net/images/manga/1/194931.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Macross Plus
 
+![macross-plus](https://cdn.myanimelist.net/images/anime/6/22779.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: マクロスプラス

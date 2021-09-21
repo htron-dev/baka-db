@@ -1,5 +1,7 @@
 # Dokushinryou Kuushitsu Ari!
 
+![dokushinryou-kuushitsu-ari](https://cdn.myanimelist.net/images/manga/3/45567.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 独身寮空室あり!

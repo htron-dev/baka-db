@@ -1,5 +1,7 @@
 # Mongrel
 
+![mongrel](https://cdn.myanimelist.net/images/manga/2/139225.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

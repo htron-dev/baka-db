@@ -1,5 +1,7 @@
 # Hanamachi Monogatari: Hatsuzakura Mau, Yoru no Shitone
 
+![hanamachi-monogatari-hatsuzakura-mau-yoru-no-shitone](https://cdn.myanimelist.net/images/manga/3/94475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

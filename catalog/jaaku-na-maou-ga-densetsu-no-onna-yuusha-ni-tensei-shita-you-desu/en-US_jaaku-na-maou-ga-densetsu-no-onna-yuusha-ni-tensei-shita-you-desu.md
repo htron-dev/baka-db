@@ -1,5 +1,7 @@
 # Jaaku na Maou ga Densetsu no Onna Yuusha ni Tensei shita you desu
 
+![jaaku-na-maou-ga-densetsu-no-onna-yuusha-ni-tensei-shita-you-desu](https://cdn.myanimelist.net/images/manga/2/168639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

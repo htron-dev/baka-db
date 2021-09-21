@@ -1,5 +1,7 @@
 # Kaitou Joker 3rd Season
 
+![kaitou-joker-3rd-season](https://cdn.myanimelist.net/images/anime/10/78229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 怪盗ジョーカー シーズン

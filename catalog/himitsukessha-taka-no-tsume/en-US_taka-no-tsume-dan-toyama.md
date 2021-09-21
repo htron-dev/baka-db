@@ -1,5 +1,7 @@
 # Taka no Tsume-dan, Toyama
 
+![taka-no-tsume-dan-toyama](https://cdn.myanimelist.net/images/anime/10/81618.jpg)
+
 -   **type**: ona
 -   **original-name**: 鷹の爪団、富山
 -   **start-date**: 2016-04-06

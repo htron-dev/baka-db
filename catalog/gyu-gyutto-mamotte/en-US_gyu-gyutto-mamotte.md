@@ -1,5 +1,7 @@
 # Gyu Gyutto Mamotte!
 
+![gyu-gyutto-mamotte](https://cdn.myanimelist.net/images/manga/3/17636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぎゅぎゅっと守って!

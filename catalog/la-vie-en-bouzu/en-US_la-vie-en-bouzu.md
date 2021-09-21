@@ -1,5 +1,7 @@
 # La Vie en Bouzu
 
+![la-vie-en-bouzu](https://cdn.myanimelist.net/images/manga/2/165076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 15: Fukkatsu no "F"
 
+![dragon-ball-z-movie-15-fukkatsu-no-f](https://cdn.myanimelist.net/images/anime/1833/93679.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 復活の「F」

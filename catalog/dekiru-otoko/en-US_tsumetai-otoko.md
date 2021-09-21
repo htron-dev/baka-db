@@ -1,5 +1,7 @@
 # Tsumetai Otoko
 
+![tsumetai-otoko](https://cdn.myanimelist.net/images/manga/2/2603.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

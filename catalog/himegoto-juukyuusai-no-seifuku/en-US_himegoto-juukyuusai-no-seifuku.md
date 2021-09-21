@@ -1,5 +1,7 @@
 # Himegoto: Juukyuusai no Seifuku
 
+![himegoto-juukyuusai-no-seifuku](https://cdn.myanimelist.net/images/manga/1/188905.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 100

@@ -1,5 +1,7 @@
 # Kono Uchi ni Yuusha-sama Moshiku wa Kyuuseishu-sama wa Irasshaimasenka?!
 
+![kono-uchi-ni-yuusha-sama-moshiku-wa-kyuuseishu-sama-wa-irasshaimasenka](https://cdn.myanimelist.net/images/manga/2/124403.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: この家に勇者様もしくは救世主さまはいらっしゃいませんか？!

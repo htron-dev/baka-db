@@ -1,5 +1,7 @@
 # Hataraku Saibou (TV)
 
+![hataraku-saibou-tv](https://cdn.myanimelist.net/images/anime/1141/117446.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はたらく細胞

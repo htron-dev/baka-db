@@ -1,5 +1,7 @@
 # Gindan no Gunswordia
 
+![gindan-no-gunswordia](https://cdn.myanimelist.net/images/manga/2/194505.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 27

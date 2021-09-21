@@ -1,5 +1,7 @@
 # Marine Blue Marine
 
+![marine-blue-marine](https://cdn.myanimelist.net/images/manga/2/38987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マリン・ブルー・マリン

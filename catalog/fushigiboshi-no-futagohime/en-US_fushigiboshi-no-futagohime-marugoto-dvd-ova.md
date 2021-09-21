@@ -1,5 +1,7 @@
 # Fushigiboshi no☆Futagohime: Marugoto DVD
 
+![fushigiboshi-no☆-futagohime-marugoto-dvd](https://cdn.myanimelist.net/images/anime/1312/99254.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ふしぎ星の ☆ ふたご姫姫 まるごと DVD

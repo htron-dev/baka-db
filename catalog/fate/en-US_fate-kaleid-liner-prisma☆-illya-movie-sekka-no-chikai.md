@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai
 
+![fate-kaleid-liner-prisma☆-illya-movie-sekka-no-chikai](https://cdn.myanimelist.net/images/anime/1996/93042.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Fate/kaleid liner プリズマ ☆ イリヤ 雪下の誓い

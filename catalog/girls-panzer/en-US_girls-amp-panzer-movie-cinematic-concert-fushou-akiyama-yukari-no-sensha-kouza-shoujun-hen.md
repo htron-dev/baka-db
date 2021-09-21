@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Movie: Cinematic Concert - Fushou Akiyama Yukari no Sensha Kouza - Shoujun-hen
 
+![girls-amp-panzer-movie-cinematic-concert-fushou-akiyama-yukari-no-sensha-kouza-shoujun-hen](https://cdn.myanimelist.net/images/anime/1253/115636.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガールズ&パンツァー 劇場版 シネマティック・コンサート 不肖・秋山優花里の戦車講座 照準編

@@ -1,5 +1,7 @@
 # Koyoi Omae to
 
+![koyoi-omae-to](https://cdn.myanimelist.net/images/manga/1/109183.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

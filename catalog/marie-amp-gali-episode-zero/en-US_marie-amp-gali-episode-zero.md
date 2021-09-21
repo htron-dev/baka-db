@@ -1,5 +1,7 @@
 # Marie &amp; Gali Episode Zero
 
+![marie-amp-gali-episode-zero](https://cdn.myanimelist.net/images/anime/2/14266.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マリー & ガリー

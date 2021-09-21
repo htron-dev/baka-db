@@ -1,5 +1,7 @@
 # Hatsukoi no Tsumeato
 
+![hatsukoi-no-tsumeato](https://cdn.myanimelist.net/images/manga/1/185848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

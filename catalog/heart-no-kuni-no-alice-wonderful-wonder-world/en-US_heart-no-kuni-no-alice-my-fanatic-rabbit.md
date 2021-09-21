@@ -1,5 +1,7 @@
 # Heart no Kuni no Alice: My Fanatic Rabbit
 
+![heart-no-kuni-no-alice-my-fanatic-rabbit](https://cdn.myanimelist.net/images/manga/1/38507.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

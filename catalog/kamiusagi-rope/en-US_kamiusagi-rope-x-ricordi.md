@@ -1,5 +1,7 @@
 # Kamiusagi Rope x Ricordi
 
+![kamiusagi-rope-x-ricordi](https://cdn.myanimelist.net/images/anime/1016/103357.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 紙兎ロペ x Ricordi

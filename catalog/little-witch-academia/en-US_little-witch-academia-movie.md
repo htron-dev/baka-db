@@ -1,5 +1,7 @@
 # Little Witch Academia
 
+![little-witch-academia](https://cdn.myanimelist.net/images/anime/2/42989.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リトルウィッチアカデミア

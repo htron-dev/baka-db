@@ -1,5 +1,7 @@
 # New Dream Hunter Rem: Setsuriku no Mudenmekyu
 
+![new-dream-hunter-rem-setsuriku-no-mudenmekyu](https://cdn.myanimelist.net/images/anime/13/11541.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NEW DREAM HUNTER 麗夢 殺戮の夢幻迷宮

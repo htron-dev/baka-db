@@ -1,5 +1,7 @@
 # Hiatari Ryoukou!
 
+![hiatari-ryoukou](https://cdn.myanimelist.net/images/anime/12/29624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 陽あたり良好！

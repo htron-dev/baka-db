@@ -1,5 +1,7 @@
 # Kanojo wa Rokurokubi
 
+![kanojo-wa-rokurokubi](https://cdn.myanimelist.net/images/manga/2/190959.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

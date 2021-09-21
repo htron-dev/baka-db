@@ -1,5 +1,7 @@
 # Henshin Heroine App: Seigi no Mikata wa Hame Rareru
 
+![henshin-heroine-app-seigi-no-mikata-wa-hame-rareru](https://cdn.myanimelist.net/images/manga/1/169759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 変身ヒロインアプリ-性技の味方はハメられる-

@@ -1,5 +1,7 @@
 # Kuchizuke wa Jugyou no Ato de♥
 
+![kuchizuke-wa-jugyou-no-ato-de♥](https://cdn.myanimelist.net/images/manga/1/153378.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: くちづけは授業のあとで ♥

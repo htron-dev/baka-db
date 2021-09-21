@@ -1,5 +1,7 @@
 # Inferno Cop: Fact Files
 
+![inferno-cop-fact-files](https://cdn.myanimelist.net/images/anime/9/47569.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: インフェルノコップ ファクトファイル

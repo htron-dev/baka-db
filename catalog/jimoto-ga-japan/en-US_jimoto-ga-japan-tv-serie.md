@@ -1,5 +1,7 @@
 # Jimoto ga Japan
 
+![jimoto-ga-japan](https://cdn.myanimelist.net/images/anime/1113/99082.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ジモトがジャパン

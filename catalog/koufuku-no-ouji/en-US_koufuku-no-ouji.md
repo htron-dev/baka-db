@@ -1,5 +1,7 @@
 # Koufuku no Ouji
 
+![koufuku-no-ouji](https://cdn.myanimelist.net/images/manga/1/149290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

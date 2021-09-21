@@ -1,5 +1,7 @@
 # Kyoukai no Rinne (TV) 2nd Season
 
+![kyoukai-no-rinne-tv-2nd-season](https://cdn.myanimelist.net/images/anime/7/79665.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 境界の RINNE 　第２シリーズ

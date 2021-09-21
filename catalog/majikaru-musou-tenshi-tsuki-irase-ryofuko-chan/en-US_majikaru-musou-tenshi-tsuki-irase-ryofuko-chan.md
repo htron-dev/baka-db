@@ -1,5 +1,7 @@
 # Majikaru Musou Tenshi Tsuki Irase!! Ryofuko-chan
 
+![majikaru-musou-tenshi-tsuki-irase-ryofuko-chan](https://cdn.myanimelist.net/images/manga/4/76835.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: まじかる無双天使 突き刺せ!! 呂布子ちゃん

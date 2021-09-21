@@ -1,5 +1,7 @@
 # Kamigami ni Sodaterareshi Mono, Saikyou to Naru
 
+![kamigami-ni-sodaterareshi-mono-saikyou-to-naru](https://cdn.myanimelist.net/images/manga/2/239257.jpg)
+
 -   **type**: manga
 -   **original-name**: 神々に育てられしもの、最強となる
 -   **start-date**: 2019-12-06

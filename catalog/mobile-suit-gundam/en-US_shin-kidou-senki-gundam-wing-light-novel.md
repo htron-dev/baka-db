@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing
 
+![shin-kidou-senki-gundam-wing](https://cdn.myanimelist.net/images/manga/2/160508.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 新機動戦記ガンダムＷ〈ウイング〉

@@ -1,5 +1,7 @@
 # Goulart Knights: Evoked the Beginning White
 
+![goulart-knights-evoked-the-beginning-white](https://cdn.myanimelist.net/images/anime/10/38821.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グラール騎士団 Evoked THE Beginning White

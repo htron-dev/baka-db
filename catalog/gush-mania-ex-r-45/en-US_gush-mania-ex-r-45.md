@@ -1,5 +1,7 @@
 # Gush maniaEX R45
 
+![gush-mania-ex-r-45](https://cdn.myanimelist.net/images/manga/1/36868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

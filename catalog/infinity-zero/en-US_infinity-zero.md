@@ -1,5 +1,7 @@
 # Infinity Zero
 
+![infinity-zero](https://cdn.myanimelist.net/images/manga/1/175136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Fire Fire Fire
 
+![fire-fire-fire](https://cdn.myanimelist.net/images/manga/2/161268.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

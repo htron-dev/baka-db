@@ -1,5 +1,7 @@
 # Daitokai ni Hoero
 
+![daitokai-ni-hoero](https://cdn.myanimelist.net/images/manga/1/30714.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 大都会にほえろ

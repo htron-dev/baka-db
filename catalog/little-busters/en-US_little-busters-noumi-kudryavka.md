@@ -1,5 +1,7 @@
 # Little Busters! Noumi Kudryavka
 
+![little-busters-noumi-kudryavka](https://cdn.myanimelist.net/images/manga/2/90947.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

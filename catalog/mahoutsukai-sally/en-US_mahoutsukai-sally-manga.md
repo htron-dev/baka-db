@@ -1,5 +1,7 @@
 # Mahoutsukai Sally
 
+![mahoutsukai-sally](https://cdn.myanimelist.net/images/manga/4/206926.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

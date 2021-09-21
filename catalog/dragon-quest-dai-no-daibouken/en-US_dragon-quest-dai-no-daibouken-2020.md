@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken (2020)
 
+![dragon-quest-dai-no-daibouken-2020](https://cdn.myanimelist.net/images/anime/1499/109126.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ドラゴンクエスト ダイの大冒険
 -   **start-date**: 2020-10-03

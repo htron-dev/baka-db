@@ -1,5 +1,7 @@
 # Hatshepsut
 
+![hatshepsut](https://cdn.myanimelist.net/images/manga/4/212189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

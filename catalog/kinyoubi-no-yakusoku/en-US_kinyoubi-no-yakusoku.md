@@ -1,5 +1,7 @@
 # Kinyoubi no Yakusoku
 
+![kinyoubi-no-yakusoku](https://cdn.myanimelist.net/images/anime/2/88419.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 金曜日の約束

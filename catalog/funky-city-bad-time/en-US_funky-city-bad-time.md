@@ -1,5 +1,7 @@
 # Funky City Bad Time
 
+![funky-city-bad-time](https://cdn.myanimelist.net/images/manga/1/153024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

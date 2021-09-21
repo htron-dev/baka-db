@@ -1,5 +1,7 @@
 # Isshuukan Friends. Specials
 
+![isshuukan-friends-specials](https://cdn.myanimelist.net/images/anime/8/69879.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: 一週間フレンズ。香織の日記

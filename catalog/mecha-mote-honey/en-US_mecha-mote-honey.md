@@ -1,5 +1,7 @@
 # Mecha Mote Honey
 
+![mecha-mote-honey](https://cdn.myanimelist.net/images/manga/3/10005.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

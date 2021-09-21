@@ -1,5 +1,7 @@
 # Jagan Tantei Necro-san no Jikenbo
 
+![jagan-tantei-necro-san-no-jikenbo](https://cdn.myanimelist.net/images/manga/3/23736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 邪眼探偵ネクロさんの事件簿

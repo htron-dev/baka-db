@@ -1,5 +1,7 @@
 # Kiken Chitai Danshi: Kedamono Black &amp; White
 
+![kiken-chitai-danshi-kedamono-black-amp-white](https://cdn.myanimelist.net/images/manga/1/90021.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

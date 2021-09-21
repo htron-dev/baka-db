@@ -1,5 +1,7 @@
 # Honey Come Honey
 
+![honey-come-honey](https://cdn.myanimelist.net/images/manga/3/198484.jpg)
+
 -   **type**: manga
 -   **original-name**: はにかむハニー
 -   **start-date**: 2017-01-05

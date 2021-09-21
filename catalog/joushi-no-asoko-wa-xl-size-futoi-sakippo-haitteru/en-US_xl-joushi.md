@@ -1,5 +1,7 @@
 # XL Joushi.
 
+![xl-joushi](https://cdn.myanimelist.net/images/anime/1306/111409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: XL 上司。

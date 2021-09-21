@@ -1,5 +1,7 @@
 # Adachi-ga Hara
 
+![adachi-ga-hara](https://cdn.myanimelist.net/images/anime/13/81675.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 安達が原

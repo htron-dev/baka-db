@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave: Under Taker
 
+![kakumeiki-valvrave-under-taker](https://cdn.myanimelist.net/images/manga/3/113069.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 革命機ヴァルヴレイヴ アンダー・テイカー
 -   **start-date**: 2013-09-25

@@ -1,5 +1,7 @@
 # New Dream Hunter Rem: Yume no Kishitachi
 
+![new-dream-hunter-rem-yume-no-kishitachi](https://cdn.myanimelist.net/images/anime/1452/94153.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NEW DREAM HUNTER 麗夢 夢の騎士達

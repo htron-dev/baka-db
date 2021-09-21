@@ -1,5 +1,7 @@
 # Destiny Lovers
 
+![destiny-lovers](https://cdn.myanimelist.net/images/manga/3/235514.jpg)
+
 -   **type**: manga
 -   **original-name**: デスティニーラバーズ
 -   **start-date**: 2020-04-18

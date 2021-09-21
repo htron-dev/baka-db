@@ -1,5 +1,7 @@
 # Hito wa Ai wo Tabete Sodatsu
 
+![hito-wa-ai-wo-tabete-sodatsu](https://cdn.myanimelist.net/images/manga/2/79511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

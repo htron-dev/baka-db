@@ -1,5 +1,7 @@
 # Gamers!
 
+![gamers](https://cdn.myanimelist.net/images/manga/2/176451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 66

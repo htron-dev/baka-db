@@ -1,5 +1,7 @@
 # Dororo to Hyakkimaru
 
+![dororo-to-hyakkimaru](https://cdn.myanimelist.net/images/anime/8/12061.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: どろろと百鬼丸

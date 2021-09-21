@@ -1,5 +1,7 @@
 # Major S3
 
+![major-s-3](https://cdn.myanimelist.net/images/anime/9/73971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メジャー (第 3 シリーズ)

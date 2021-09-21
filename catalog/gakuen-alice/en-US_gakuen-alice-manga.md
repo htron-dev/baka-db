@@ -1,5 +1,7 @@
 # Gakuen Alice
 
+![gakuen-alice](https://cdn.myanimelist.net/images/manga/1/190844.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 183

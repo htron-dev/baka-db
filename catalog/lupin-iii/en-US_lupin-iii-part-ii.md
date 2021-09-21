@@ -1,5 +1,7 @@
 # Lupin III: Part II
 
+![lupin-iii-part-ii](https://cdn.myanimelist.net/images/anime/7/34035.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 155
 -   **original-name**: 新・ルパン三世

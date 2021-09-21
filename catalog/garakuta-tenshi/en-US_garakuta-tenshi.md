@@ -1,5 +1,7 @@
 # Garakuta Tenshi
 
+![garakuta-tenshi](https://cdn.myanimelist.net/images/manga/3/7545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

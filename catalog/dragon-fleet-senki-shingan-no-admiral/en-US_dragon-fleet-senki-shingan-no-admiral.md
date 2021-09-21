@@ -1,5 +1,7 @@
 # Dragon Fleet Senki: Shingan no Admiral
 
+![dragon-fleet-senki-shingan-no-admiral](https://cdn.myanimelist.net/images/manga/1/160136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

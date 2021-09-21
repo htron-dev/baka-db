@@ -1,5 +1,7 @@
 # Mai-Otome Arashi
 
+![mai-otome-arashi](https://cdn.myanimelist.net/images/manga/2/5708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

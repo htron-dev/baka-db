@@ -1,5 +1,7 @@
 # Koi no Sankaku Kankei
 
+![koi-no-sankaku-kankei](https://cdn.myanimelist.net/images/manga/1/247027.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 恋の三角関係

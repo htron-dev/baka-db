@@ -1,5 +1,7 @@
 # Hinamatsuri (TV)
 
+![hinamatsuri-tv](https://cdn.myanimelist.net/images/anime/1580/93526.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヒナまつり

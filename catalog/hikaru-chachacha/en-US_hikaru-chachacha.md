@@ -1,5 +1,7 @@
 # Hikaru! Chachacha!!
 
+![hikaru-chachacha](https://cdn.myanimelist.net/images/manga/3/234233.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 62

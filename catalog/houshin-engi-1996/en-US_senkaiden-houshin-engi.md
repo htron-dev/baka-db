@@ -1,5 +1,7 @@
 # Senkaiden Houshin Engi
 
+![senkaiden-houshin-engi](https://cdn.myanimelist.net/images/anime/1004/94169.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 仙界伝 封神演義

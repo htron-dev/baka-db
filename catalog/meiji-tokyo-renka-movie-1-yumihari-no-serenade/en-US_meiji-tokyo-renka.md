@@ -1,5 +1,7 @@
 # Meiji Tokyo Renka
 
+![meiji-tokyo-renka](https://cdn.myanimelist.net/images/anime/1205/96175.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 明治東亰恋伽

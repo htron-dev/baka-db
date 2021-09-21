@@ -1,5 +1,7 @@
 # Flying Dragon
 
+![flying-dragon](https://cdn.myanimelist.net/images/manga/3/32781.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

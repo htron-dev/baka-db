@@ -1,5 +1,7 @@
 # Houseki no Kuni
 
+![houseki-no-kuni](https://cdn.myanimelist.net/images/anime/2/52443.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 宝石の国

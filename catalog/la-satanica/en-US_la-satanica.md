@@ -1,5 +1,7 @@
 # La Satanica
 
+![la-satanica](https://cdn.myanimelist.net/images/manga/2/5459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

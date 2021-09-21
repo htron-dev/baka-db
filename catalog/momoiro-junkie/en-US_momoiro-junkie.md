@@ -1,5 +1,7 @@
 # Momoiro Junkie
 
+![momoiro-junkie](https://cdn.myanimelist.net/images/manga/3/203216.jpg)
+
 -   **type**: manga
 -   **original-name**: ももいろジャンキー
 -   **start-date**: 2017-09-19

@@ -1,5 +1,7 @@
 # Kono Aozora ni Yakusoku wo ~melody of the sun and sea~
 
+![kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea](https://cdn.myanimelist.net/images/manga/2/14573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

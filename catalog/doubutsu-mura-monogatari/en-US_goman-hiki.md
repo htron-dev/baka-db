@@ -1,5 +1,7 @@
 # Goman-hiki
 
+![goman-hiki](https://cdn.myanimelist.net/images/anime/7/72003.jpg)
+
 -   **type**: movie
 -   **episodes**: 100
 -   **original-name**: 五万匹

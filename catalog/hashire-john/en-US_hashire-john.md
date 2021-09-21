@@ -1,5 +1,7 @@
 # Hashire John
 
+![hashire-john](https://cdn.myanimelist.net/images/anime/3/84550.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 走れジョン

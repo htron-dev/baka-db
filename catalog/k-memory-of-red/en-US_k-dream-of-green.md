@@ -1,5 +1,7 @@
 # K: Dream of Green
 
+![k-dream-of-green](https://cdn.myanimelist.net/images/manga/2/176948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

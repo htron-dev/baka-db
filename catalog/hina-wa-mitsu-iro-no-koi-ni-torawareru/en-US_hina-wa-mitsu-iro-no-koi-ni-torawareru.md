@@ -1,5 +1,7 @@
 # Hina wa Mitsu-iro no Koi ni Torawareru
 
+![hina-wa-mitsu-iro-no-koi-ni-torawareru](https://cdn.myanimelist.net/images/manga/2/223172.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

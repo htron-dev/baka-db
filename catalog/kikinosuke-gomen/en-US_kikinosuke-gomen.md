@@ -1,5 +1,7 @@
 # Kikinosuke Gomen
 
+![kikinosuke-gomen](https://cdn.myanimelist.net/images/manga/1/68033.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 危機之介御免

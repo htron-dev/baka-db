@@ -1,5 +1,7 @@
 # Keijijou na Bokura
 
+![keijijou-na-bokura](https://cdn.myanimelist.net/images/manga/2/31099.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

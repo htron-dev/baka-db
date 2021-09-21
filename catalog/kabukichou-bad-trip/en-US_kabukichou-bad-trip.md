@@ -1,5 +1,7 @@
 # Kabukichou Bad Trip
 
+![kabukichou-bad-trip](https://cdn.myanimelist.net/images/manga/2/244719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

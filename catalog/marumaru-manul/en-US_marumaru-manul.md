@@ -1,5 +1,7 @@
 # Marumaru Manul
 
+![marumaru-manul](https://cdn.myanimelist.net/images/anime/1778/105047.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: まるまるマヌル

@@ -1,5 +1,7 @@
 # Hello Kitty no Ou-sama no Mimi wa Roba no Mimi
 
+![hello-kitty-no-ou-sama-no-mimi-wa-roba-no-mimi](https://cdn.myanimelist.net/images/anime/5/58709.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの王様の耳はロバの耳

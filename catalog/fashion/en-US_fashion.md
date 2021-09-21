@@ -1,5 +1,7 @@
 # Fashion
 
+![fashion](https://cdn.myanimelist.net/images/anime/13/71293.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ファッション

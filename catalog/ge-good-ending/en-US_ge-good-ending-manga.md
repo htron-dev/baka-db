@@ -1,5 +1,7 @@
 # GE: Good Ending
 
+![ge-good-ending](https://cdn.myanimelist.net/images/manga/1/51389.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 158

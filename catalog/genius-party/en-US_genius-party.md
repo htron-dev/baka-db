@@ -1,5 +1,7 @@
 # Genius Party
 
+![genius-party](https://cdn.myanimelist.net/images/anime/11/20882.jpg)
+
 -   **type**: movie
 -   **episodes**: 7
 -   **original-name**: ジーニアスパーティー

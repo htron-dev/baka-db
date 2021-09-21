@@ -1,5 +1,7 @@
 # Imuri
 
+![imuri](https://cdn.myanimelist.net/images/manga/1/165180.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 158

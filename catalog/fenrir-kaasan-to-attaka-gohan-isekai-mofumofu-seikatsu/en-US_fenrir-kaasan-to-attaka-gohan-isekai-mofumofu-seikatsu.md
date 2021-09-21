@@ -1,5 +1,7 @@
 # Fenrir Kaasan to Attaka Gohan: Isekai Mofumofu Seikatsu
 
+![fenrir-kaasan-to-attaka-gohan-isekai-mofumofu-seikatsu](https://cdn.myanimelist.net/images/manga/1/241724.jpg)
+
 -   **type**: light-novel
 -   **original-name**: フェンリル母さんとあったかご飯～異世界もふもふ生活～
 -   **start-date**: 2018-04-10

@@ -1,5 +1,7 @@
 # Muv-Luv Alternative
 
+![muv-luv-alternative](https://cdn.myanimelist.net/images/manga/2/196056.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 101

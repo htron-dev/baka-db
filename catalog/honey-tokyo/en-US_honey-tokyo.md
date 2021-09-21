@@ -1,5 +1,7 @@
 # Honey Tokyo
 
+![honey-tokyo](https://cdn.myanimelist.net/images/anime/10/23117.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ハニー東京

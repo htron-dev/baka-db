@@ -1,5 +1,7 @@
 # Crystal Harem
 
+![crystal-harem](https://cdn.myanimelist.net/images/manga/3/23875.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

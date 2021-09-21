@@ -1,5 +1,7 @@
 # Makyou Gaiden Le Deus
 
+![makyou-gaiden-le-deus](https://cdn.myanimelist.net/images/anime/1449/96410.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔境外伝レ・ディウス

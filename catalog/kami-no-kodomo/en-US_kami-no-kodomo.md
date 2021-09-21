@@ -1,5 +1,7 @@
 # Kami no Kodomo
 
+![kami-no-kodomo](https://cdn.myanimelist.net/images/manga/2/39937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri
 
+![koutetsujou-no-kabaneri](https://cdn.myanimelist.net/images/manga/2/184480.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 小説 甲鉄城のカバネリ

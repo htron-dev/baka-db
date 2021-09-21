@@ -1,5 +1,7 @@
 # Giocatore
 
+![giocatore](https://cdn.myanimelist.net/images/manga/3/67361.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジョカトーレ

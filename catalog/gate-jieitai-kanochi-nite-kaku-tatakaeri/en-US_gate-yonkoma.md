@@ -1,5 +1,7 @@
 # Gate! Yonkoma
 
+![gate-yonkoma](https://cdn.myanimelist.net/images/manga/1/149801.jpg)
+
 -   **type**: manga
 -   **original-name**: げーと! よんコマ
 -   **start-date**: 2015-01-15

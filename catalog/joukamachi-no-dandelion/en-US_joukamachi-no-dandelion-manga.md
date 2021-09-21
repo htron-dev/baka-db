@@ -1,5 +1,7 @@
 # Joukamachi no Dandelion
 
+![joukamachi-no-dandelion](https://cdn.myanimelist.net/images/manga/2/133651.jpg)
+
 -   **type**: manga
 -   **original-name**: 城下町のダンデライオン
 -   **start-date**: 2012-02-16

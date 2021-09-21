@@ -1,5 +1,7 @@
 # Diamond no Kuni no Alice: Bet On My Heart
 
+![diamond-no-kuni-no-alice-bet-on-my-heart](https://cdn.myanimelist.net/images/manga/5/144539.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

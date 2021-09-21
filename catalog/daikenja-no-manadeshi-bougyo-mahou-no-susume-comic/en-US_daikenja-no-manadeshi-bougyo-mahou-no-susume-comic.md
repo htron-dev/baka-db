@@ -1,5 +1,7 @@
 # Daikenja no Manadeshi: Bougyo Mahou no Susume @comic
 
+![daikenja-no-manadeshi-bougyo-mahou-no-susume-comic](https://cdn.myanimelist.net/images/manga/1/238268.jpg)
+
 -   **type**: manga
 -   **original-name**: 大賢者の愛弟子～防御魔法のススメ～＠COMIC
 -   **start-date**: 2020-03-23

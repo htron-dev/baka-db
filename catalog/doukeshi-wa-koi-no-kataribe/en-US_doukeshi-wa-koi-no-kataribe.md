@@ -1,5 +1,7 @@
 # Doukeshi wa Koi no Kataribe
 
+![doukeshi-wa-koi-no-kataribe](https://cdn.myanimelist.net/images/manga/1/126287.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 道化師は恋の語りべ

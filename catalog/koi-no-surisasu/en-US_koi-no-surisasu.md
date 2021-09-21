@@ -1,5 +1,7 @@
 # Koi no Surisasu
 
+![koi-no-surisasu](https://cdn.myanimelist.net/images/manga/3/164906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

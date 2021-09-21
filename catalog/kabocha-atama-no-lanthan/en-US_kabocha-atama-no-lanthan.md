@@ -1,5 +1,7 @@
 # Kabocha Atama no Lanthan
 
+![kabocha-atama-no-lanthan](https://cdn.myanimelist.net/images/manga/2/176711.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

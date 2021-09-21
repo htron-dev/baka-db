@@ -1,5 +1,7 @@
 # Gakusen Toshi Asterisk
 
+![gakusen-toshi-asterisk](https://cdn.myanimelist.net/images/anime/5/76034.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 学戦都市アスタリスク

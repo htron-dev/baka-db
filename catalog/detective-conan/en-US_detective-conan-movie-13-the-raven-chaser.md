@@ -1,5 +1,7 @@
 # Detective Conan Movie 13: The Raven Chaser
 
+![detective-conan-movie-13-the-raven-chaser](https://cdn.myanimelist.net/images/anime/2/22558.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン漆黒の追跡者(チェイサー)

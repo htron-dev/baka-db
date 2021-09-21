@@ -1,5 +1,7 @@
 # Milk Crown H!
 
+![milk-crown-h](https://cdn.myanimelist.net/images/manga/2/149311.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

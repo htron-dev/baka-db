@@ -1,5 +1,7 @@
 # Lesson XX
 
+![lesson-xx](https://cdn.myanimelist.net/images/anime/13/25994.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Lesson XX

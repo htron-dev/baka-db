@@ -1,5 +1,7 @@
 # Manichi ga Tsurai Kimochi Wakarimasu ka: Yurusenai! Net Ijime
 
+![manichi-ga-tsurai-kimochi-wakarimasu-ka-yurusenai-net-ijime](https://cdn.myanimelist.net/images/anime/7/87610.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 毎日がつらい気持ちわかりますか ゆるせない！ネットいじめ

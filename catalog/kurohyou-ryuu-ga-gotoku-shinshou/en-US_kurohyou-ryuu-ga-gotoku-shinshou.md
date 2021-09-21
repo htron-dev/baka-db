@@ -1,5 +1,7 @@
 # Kurohyou: Ryuu ga Gotoku Shinshou
 
+![kurohyou-ryuu-ga-gotoku-shinshou](https://cdn.myanimelist.net/images/manga/2/71413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: クロヒョウ龍が如く新章

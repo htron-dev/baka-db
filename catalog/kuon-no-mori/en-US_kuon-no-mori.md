@@ -1,5 +1,7 @@
 # Kuon no Mori
 
+![kuon-no-mori](https://cdn.myanimelist.net/images/manga/3/186443.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

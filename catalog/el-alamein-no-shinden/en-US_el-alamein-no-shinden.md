@@ -1,5 +1,7 @@
 # El Alamein no Shinden
 
+![el-alamein-no-shinden](https://cdn.myanimelist.net/images/manga/3/33547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

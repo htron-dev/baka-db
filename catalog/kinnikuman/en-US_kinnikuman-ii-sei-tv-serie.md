@@ -1,5 +1,7 @@
 # Kinnikuman II Sei
 
+![kinnikuman-ii-sei](https://cdn.myanimelist.net/images/anime/10/30373.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: キン肉マン II 世

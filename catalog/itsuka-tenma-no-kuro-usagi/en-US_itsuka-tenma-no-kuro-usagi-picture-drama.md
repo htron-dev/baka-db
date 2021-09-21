@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi Picture Drama
 
+![itsuka-tenma-no-kuro-usagi-picture-drama](https://cdn.myanimelist.net/images/anime/5/35285.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: いつか天魔の黒ウサギ ピクチャードラマ

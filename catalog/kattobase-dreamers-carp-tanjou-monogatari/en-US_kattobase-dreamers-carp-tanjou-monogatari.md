@@ -1,5 +1,7 @@
 # Kattobase! Dreamers: Carp Tanjou Monogatari
 
+![kattobase-dreamers-carp-tanjou-monogatari](https://cdn.myanimelist.net/images/anime/12/58007.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かっ飛ばせ! ドリーマーズ -カープ誕生物語-

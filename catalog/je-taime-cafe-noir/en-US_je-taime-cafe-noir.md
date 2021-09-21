@@ -1,5 +1,7 @@
 # Je t'aime, café noir
 
+![je-taime-cafe-noir](https://cdn.myanimelist.net/images/manga/2/25419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Manzai Taikouki
 
+![manzai-taikouki](https://cdn.myanimelist.net/images/anime/11/63535.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マンザイ太閤記

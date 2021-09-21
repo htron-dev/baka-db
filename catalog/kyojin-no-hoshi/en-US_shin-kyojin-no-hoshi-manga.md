@@ -1,5 +1,7 @@
 # Shin Kyojin no Hoshi
 
+![shin-kyojin-no-hoshi](https://cdn.myanimelist.net/images/manga/3/203670.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 新巨人の星

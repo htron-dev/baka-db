@@ -1,5 +1,7 @@
 # Ginen no Nanatsu Hime to Nanaka no Ouji
 
+![ginen-no-nanatsu-hime-to-nanaka-no-ouji](https://cdn.myanimelist.net/images/manga/3/164470.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

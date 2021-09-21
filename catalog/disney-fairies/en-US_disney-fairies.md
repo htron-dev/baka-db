@@ -1,5 +1,7 @@
 # Disney Fairies
 
+![disney-fairies](https://cdn.myanimelist.net/images/manga/2/24864.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ディズニーフェアリーズ文庫マンガシリーズ

@@ -1,5 +1,7 @@
 # Matsubara-kun: Mackie E no Ouen Message
 
+![matsubara-kun-mackie-e-no-ouen-message](https://cdn.myanimelist.net/images/anime/2/81485.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: まつばらくん　「マッキーへの応援メッセージ」

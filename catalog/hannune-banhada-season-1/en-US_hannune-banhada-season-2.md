@@ -1,5 +1,7 @@
 # Hannune Banhada! Season 2
 
+![hannune-banhada-season-2](https://cdn.myanimelist.net/images/manga/1/30327.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 한눈에 반하다! Season2

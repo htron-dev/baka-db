@@ -1,5 +1,7 @@
 # Home Sweets Home
 
+![home-sweets-home](https://cdn.myanimelist.net/images/manga/2/200973.jpg)
+
 -   **type**: manga
 -   **chapters**: 30
 -   **original-name**: ホームスイーツホーム

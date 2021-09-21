@@ -1,5 +1,7 @@
 # Ling Long: Incarnation Final Chapter
 
+![ling-long-incarnation-final-chapter](https://cdn.myanimelist.net/images/anime/1916/114704.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 灵笼:INCARNATION 终章

@@ -1,5 +1,7 @@
 # Kako to Mirai
 
+![kako-to-mirai](https://cdn.myanimelist.net/images/manga/3/177387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

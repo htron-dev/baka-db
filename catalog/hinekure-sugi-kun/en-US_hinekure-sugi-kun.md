@@ -1,5 +1,7 @@
 # Hinekure Sugi-kun
 
+![hinekure-sugi-kun](https://cdn.myanimelist.net/images/manga/2/203210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

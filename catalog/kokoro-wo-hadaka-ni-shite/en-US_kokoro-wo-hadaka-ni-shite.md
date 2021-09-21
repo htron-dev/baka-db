@@ -1,5 +1,7 @@
 # Kokoro wo Hadaka ni Shite
 
+![kokoro-wo-hadaka-ni-shite](https://cdn.myanimelist.net/images/manga/4/6681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

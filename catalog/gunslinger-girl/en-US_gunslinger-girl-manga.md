@@ -1,5 +1,7 @@
 # Gunslinger Girl
 
+![gunslinger-girl](https://cdn.myanimelist.net/images/manga/3/160923.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 100

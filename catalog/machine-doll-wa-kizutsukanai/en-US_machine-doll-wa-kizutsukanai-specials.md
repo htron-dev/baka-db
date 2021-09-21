@@ -1,5 +1,7 @@
 # Machine-Doll wa Kizutsukanai Specials
 
+![machine-doll-wa-kizutsukanai-specials](https://cdn.myanimelist.net/images/anime/5/56525.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 機巧少女は傷つかない

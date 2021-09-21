@@ -1,5 +1,7 @@
 # Dounyatsu
 
+![dounyatsu](https://cdn.myanimelist.net/images/manga/1/126329.jpg)
+
 -   **type**: manga
 -   **original-name**: どーにゃつ
 -   **start-date**: 2011-12-15

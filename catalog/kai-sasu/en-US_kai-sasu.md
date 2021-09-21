@@ -1,5 +1,7 @@
 # Kai, Sasu
 
+![kai-sasu](https://cdn.myanimelist.net/images/manga/2/115995.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

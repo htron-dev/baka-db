@@ -1,5 +1,7 @@
 # Momoiro Sango
 
+![momoiro-sango](https://cdn.myanimelist.net/images/manga/2/173125.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 185

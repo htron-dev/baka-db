@@ -1,5 +1,7 @@
 # Kuro Wanko to Kin Kitsune
 
+![kuro-wanko-to-kin-kitsune](https://cdn.myanimelist.net/images/manga/2/224259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

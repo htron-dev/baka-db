@@ -1,5 +1,7 @@
 # Kimi no Inai Rakuen
 
+![kimi-no-inai-rakuen](https://cdn.myanimelist.net/images/manga/3/140505.jpg)
+
 -   **type**: manga
 -   **original-name**: 君のいない楽園
 -   **start-date**: 2000-08-20

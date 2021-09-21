@@ -1,5 +1,7 @@
 # Durarara!! Minna wa Nakayoshi
 
+![durarara-minna-wa-nakayoshi](https://cdn.myanimelist.net/images/manga/3/167394.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: デュラララ!! みんなはなかよし

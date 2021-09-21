@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Kero Kero House no Himitsu
 
+![kero-kero-keroppi-no-kero-kero-house-no-himitsu](https://cdn.myanimelist.net/images/anime/5/58955.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのけろけろハウスのひみつ

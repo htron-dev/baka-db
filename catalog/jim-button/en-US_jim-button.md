@@ -1,5 +1,7 @@
 # Jim Button
 
+![jim-button](https://cdn.myanimelist.net/images/anime/11/15912.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジムボタン

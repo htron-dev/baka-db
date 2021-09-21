@@ -1,5 +1,7 @@
 # Family Complete+
 
+![family-complete](https://cdn.myanimelist.net/images/manga/1/104995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

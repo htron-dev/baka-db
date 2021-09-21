@@ -1,5 +1,7 @@
 # Inuwari-san
 
+![inuwari-san](https://cdn.myanimelist.net/images/anime/1815/111535.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: いぬわりさん

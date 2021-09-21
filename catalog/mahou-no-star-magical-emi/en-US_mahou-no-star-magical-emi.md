@@ -1,5 +1,7 @@
 # Mahou no Star Magical Emi
 
+![mahou-no-star-magical-emi](https://cdn.myanimelist.net/images/anime/1228/106161.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 魔法のスター マジカルエミ

@@ -1,5 +1,7 @@
 # Many Things SD Gundam
 
+![many-things-sd-gundam](https://cdn.myanimelist.net/images/anime/10/74217.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: SD 百科

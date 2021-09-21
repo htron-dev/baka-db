@@ -1,5 +1,7 @@
 # Haiyaku no Cavaliers
 
+![haiyaku-no-cavaliers](https://cdn.myanimelist.net/images/manga/2/125759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 背約のキャバリアー

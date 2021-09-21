@@ -1,5 +1,7 @@
 # Mizuki Shigeru no Kodai Izumo
 
+![mizuki-shigeru-no-kodai-izumo](https://cdn.myanimelist.net/images/manga/3/230365.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

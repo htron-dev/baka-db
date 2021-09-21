@@ -1,5 +1,7 @@
 # Gokujou!! Mecha Mote Iinchou Second Collection
 
+![gokujou-mecha-mote-iinchou-second-collection](https://cdn.myanimelist.net/images/anime/5/23149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 極上!!めちゃモテ委員長 セカンドコレクション

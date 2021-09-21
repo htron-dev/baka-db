@@ -1,5 +1,7 @@
 # Juuhachiji no Ongakuyoku: Shikkoku no Annette
 
+![juuhachiji-no-ongakuyoku-shikkoku-no-annette](https://cdn.myanimelist.net/images/manga/1/185853.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

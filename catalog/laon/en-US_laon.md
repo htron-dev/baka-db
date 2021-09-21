@@ -1,5 +1,7 @@
 # Laon
 
+![laon](https://cdn.myanimelist.net/images/manga/3/119637.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 라온

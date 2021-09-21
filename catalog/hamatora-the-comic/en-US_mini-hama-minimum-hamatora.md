@@ -1,5 +1,7 @@
 # Mini Hama: Minimum Hamatora
 
+![mini-hama-minimum-hamatora](https://cdn.myanimelist.net/images/anime/6/76833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ミニはま -MINIMUM HAMATORA-

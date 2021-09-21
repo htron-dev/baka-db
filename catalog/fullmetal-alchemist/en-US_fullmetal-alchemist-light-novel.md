@@ -1,5 +1,7 @@
 # Fullmetal Alchemist
 
+![fullmetal-alchemist](https://cdn.myanimelist.net/images/manga/1/202288.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 35

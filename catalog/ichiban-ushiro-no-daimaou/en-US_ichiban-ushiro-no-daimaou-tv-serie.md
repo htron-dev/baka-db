@@ -1,5 +1,7 @@
 # Ichiban Ushiro no Daimaou
 
+![ichiban-ushiro-no-daimaou](https://cdn.myanimelist.net/images/anime/11/75554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: いちばんうしろの大魔王

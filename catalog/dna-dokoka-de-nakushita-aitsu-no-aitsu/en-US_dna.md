@@ -1,5 +1,7 @@
 # DNA²
 
+![dna](https://cdn.myanimelist.net/images/anime/1433/103506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Ｄ・Ｎ・Ａ ² 　～何処かで失くしたあいつのアイツ～

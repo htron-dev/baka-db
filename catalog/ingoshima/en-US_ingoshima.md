@@ -1,5 +1,7 @@
 # Ingoshima
 
+![ingoshima](https://cdn.myanimelist.net/images/manga/1/219884.jpg)
+
 -   **type**: manga
 -   **original-name**: インゴシマ
 -   **start-date**: 2018-02-12

@@ -1,5 +1,7 @@
 # Mitsu x Mitsu Drops
 
+![mitsu-x-mitsu-drops](https://cdn.myanimelist.net/images/anime/1/1838.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 蜜 × 蜜ドロップス

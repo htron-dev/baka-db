@@ -1,5 +1,7 @@
 # Dies Irae
 
+![dies-irae](https://cdn.myanimelist.net/images/anime/2/89682.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: Dies irae

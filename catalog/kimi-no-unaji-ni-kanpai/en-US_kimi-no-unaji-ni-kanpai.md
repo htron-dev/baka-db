@@ -1,5 +1,7 @@
 # Kimi no Unaji ni Kanpai!
 
+![kimi-no-unaji-ni-kanpai](https://cdn.myanimelist.net/images/manga/3/11216.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

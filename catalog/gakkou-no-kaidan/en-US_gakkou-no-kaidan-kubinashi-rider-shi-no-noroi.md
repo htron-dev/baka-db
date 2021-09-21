@@ -1,5 +1,7 @@
 # Gakkou no Kaidan: Kubinashi Rider!! Shi no Noroi
 
+![gakkou-no-kaidan-kubinashi-rider-shi-no-noroi](https://cdn.myanimelist.net/images/anime/2/74184.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 学校の怪談 首なしライダー!! 死の呪い

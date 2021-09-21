@@ -1,5 +1,7 @@
 # Dynamite★Beauty
 
+![dynamite★-beauty](https://cdn.myanimelist.net/images/manga/2/35391.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo
 
+![kindaichi-shounen-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/210559.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 62

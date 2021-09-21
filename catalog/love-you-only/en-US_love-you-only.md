@@ -1,5 +1,7 @@
 # Love You Only
 
+![love-you-only](https://cdn.myanimelist.net/images/manga/3/6015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

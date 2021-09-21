@@ -1,5 +1,7 @@
 # Kodoku no Gourmet
 
+![kodoku-no-gourmet](https://cdn.myanimelist.net/images/manga/3/207579.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 31

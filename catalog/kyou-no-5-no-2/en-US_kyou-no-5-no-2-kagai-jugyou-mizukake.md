@@ -1,5 +1,7 @@
 # Kyou no 5 no 2 Kagai Jugyou: Mizukake
 
+![kyou-no-5-no-2-kagai-jugyou-mizukake](https://cdn.myanimelist.net/images/anime/10/42577.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 今日の５の２課外授業:ミズカケ

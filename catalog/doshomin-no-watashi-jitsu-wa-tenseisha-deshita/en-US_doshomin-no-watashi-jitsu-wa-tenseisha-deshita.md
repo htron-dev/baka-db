@@ -1,5 +1,7 @@
 # Doshomin no Watashi, Jitsu wa Tenseisha deshita
 
+![doshomin-no-watashi-jitsu-wa-tenseisha-deshita](https://cdn.myanimelist.net/images/manga/3/235954.jpg)
+
 -   **type**: manga
 -   **original-name**: ど庶民の私、実は転生者でした
 -   **start-date**: 2019-11-04

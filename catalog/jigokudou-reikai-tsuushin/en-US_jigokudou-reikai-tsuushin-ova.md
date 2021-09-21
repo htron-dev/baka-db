@@ -1,5 +1,7 @@
 # Jigokudou Reikai Tsuushin
 
+![jigokudou-reikai-tsuushin](https://cdn.myanimelist.net/images/anime/1217/112682.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 地獄堂霊界通信

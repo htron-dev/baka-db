@@ -1,5 +1,7 @@
 # Golden Time
 
+![golden-time](https://cdn.myanimelist.net/images/anime/12/52091.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ゴールデンタイム

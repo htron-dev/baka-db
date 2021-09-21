@@ -1,5 +1,7 @@
 # Kobo-chan Special
 
+![kobo-chan-special](https://cdn.myanimelist.net/images/anime/1909/99319.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: コボちゃんスペシャル

@@ -1,5 +1,7 @@
 # D.C.II: Da Capo II
 
+![d-c-ii-da-capo-ii](https://cdn.myanimelist.net/images/anime/9/75305.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: D.C.II ～ダ・カーポ II ～

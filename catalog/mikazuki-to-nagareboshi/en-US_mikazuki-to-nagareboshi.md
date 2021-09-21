@@ -1,5 +1,7 @@
 # Mikazuki to Nagareboshi
 
+![mikazuki-to-nagareboshi](https://cdn.myanimelist.net/images/manga/3/163856.jpg)
+
 -   **type**: manga
 -   **original-name**: 三日月と流れ星
 -   **start-date**: 2014-11-26

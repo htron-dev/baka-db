@@ -1,5 +1,7 @@
 # Kyouryuu no Kaitakata
 
+![kyouryuu-no-kaitakata](https://cdn.myanimelist.net/images/manga/1/191613.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

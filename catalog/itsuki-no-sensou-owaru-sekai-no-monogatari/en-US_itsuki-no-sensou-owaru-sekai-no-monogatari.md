@@ -1,5 +1,7 @@
 # Itsuki no Sensou: Owaru Sekai no Monogatari
 
+![itsuki-no-sensou-owaru-sekai-no-monogatari](https://cdn.myanimelist.net/images/manga/1/123991.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 伊月の戦争―終わる世界の物語

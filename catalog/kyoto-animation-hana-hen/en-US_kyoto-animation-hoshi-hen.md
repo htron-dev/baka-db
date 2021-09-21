@@ -1,5 +1,7 @@
 # Kyoto Animation: Hoshi-hen
 
+![kyoto-animation-hoshi-hen](https://cdn.myanimelist.net/images/anime/9/73732.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「星編」

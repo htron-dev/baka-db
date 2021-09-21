@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryou-san no Sushi Kuinee! - Choujyou Maguro Taiket
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryou-san-no-sushi-kuinee-choujyou-maguro-taiket](https://cdn.myanimelist.net/images/anime/4/81550.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: こちら葛飾区亀有公園前派出所 両さんの寿司食いねえ!〜頂上マグロ対決!!〜

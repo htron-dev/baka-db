@@ -1,5 +1,7 @@
 # High Score Girl II
 
+![high-score-girl-ii](https://cdn.myanimelist.net/images/anime/1560/99904.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: ハイスコアガール II

@@ -1,5 +1,7 @@
 # Mugen no Frontier: Super Robot Taisen OG Saga
 
+![mugen-no-frontier-super-robot-taisen-og-saga](https://cdn.myanimelist.net/images/manga/1/45455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無限のフロンティア スーパーロボット大戦 OG サーガ

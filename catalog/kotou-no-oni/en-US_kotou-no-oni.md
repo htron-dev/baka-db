@@ -1,5 +1,7 @@
 # Kotou no Oni
 
+![kotou-no-oni](https://cdn.myanimelist.net/images/manga/1/179147.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

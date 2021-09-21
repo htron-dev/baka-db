@@ -1,5 +1,7 @@
 # Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou
 
+![happy-seven-the-tv-manga-chibi-chara-moshimo-gekijou](https://cdn.myanimelist.net/images/anime/9/85016.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: はっぴぃセブン ~ざ・テレビまんが~ チビキャラもしも劇場

@@ -1,5 +1,7 @@
 # Mahou Shoujo Ore
 
+![mahou-shoujo-ore](https://cdn.myanimelist.net/images/anime/1439/91893.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女 俺

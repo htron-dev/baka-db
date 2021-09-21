@@ -1,5 +1,7 @@
 # Hodaka Rinka no Chari to Meshi.
 
+![hodaka-rinka-no-chari-to-meshi](https://cdn.myanimelist.net/images/manga/1/250311.jpg)
+
 -   **type**: manga
 -   **original-name**: 穂高輪花のチャリと飯。
 -   **start-date**: 2018-10-16

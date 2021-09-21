@@ -1,5 +1,7 @@
 # Kinnikuman: Kinnikusei Oui Soudatsu-hen
 
+![kinnikuman-kinnikusei-oui-soudatsu-hen](https://cdn.myanimelist.net/images/anime/1877/105621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: キン肉マン　キン肉星王位争奪編

@@ -1,5 +1,7 @@
 # Hidamari ga Kikoeru
 
+![hidamari-ga-kikoeru](https://cdn.myanimelist.net/images/manga/1/186753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

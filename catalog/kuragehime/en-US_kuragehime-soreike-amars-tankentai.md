@@ -1,5 +1,7 @@
 # Kuragehime: Soreike! Amars Tankentai
 
+![kuragehime-soreike-amars-tankentai](https://cdn.myanimelist.net/images/anime/5/28576.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: それいけ！尼～ず探検隊

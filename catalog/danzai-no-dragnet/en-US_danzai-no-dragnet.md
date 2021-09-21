@@ -1,5 +1,7 @@
 # Danzai no Dragnet
 
+![danzai-no-dragnet](https://cdn.myanimelist.net/images/manga/1/224325.jpg)
+
 -   **type**: manga
 -   **original-name**: 断罪のドラグネット
 -   **start-date**: 2018-01-24

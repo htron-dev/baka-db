@@ -1,5 +1,7 @@
 # Koi wo Shiranai Bokutachi wa
 
+![koi-wo-shiranai-bokutachi-wa](https://cdn.myanimelist.net/images/manga/2/202125.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 45

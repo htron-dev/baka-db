@@ -1,5 +1,7 @@
 # Dark Green
 
+![dark-green](https://cdn.myanimelist.net/images/manga/3/30651.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ダークグリーン

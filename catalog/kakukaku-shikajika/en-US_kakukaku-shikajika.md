@@ -1,5 +1,7 @@
 # Kakukaku Shikajika
 
+![kakukaku-shikajika](https://cdn.myanimelist.net/images/manga/1/154270.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

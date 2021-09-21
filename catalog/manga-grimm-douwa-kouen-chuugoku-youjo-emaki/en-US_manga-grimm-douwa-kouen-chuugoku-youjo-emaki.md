@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Kouen Chuugoku Youjo Emaki
 
+![manga-grimm-douwa-kouen-chuugoku-youjo-emaki](https://cdn.myanimelist.net/images/manga/3/142367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

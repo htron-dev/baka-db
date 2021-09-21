@@ -1,5 +1,7 @@
 # Momohone: Toumori Miyoshi x Tekkotsu Saro Tanpenshuu
 
+![momohone-toumori-miyoshi-x-tekkotsu-saro-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/239176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

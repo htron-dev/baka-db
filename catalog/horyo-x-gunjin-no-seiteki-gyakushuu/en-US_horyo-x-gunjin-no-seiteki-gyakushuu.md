@@ -1,5 +1,7 @@
 # Horyo x Gunjin no Seiteki Gyakushuu
 
+![horyo-x-gunjin-no-seiteki-gyakushuu](https://cdn.myanimelist.net/images/manga/2/152760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 捕虜 × 軍人の性的逆襲

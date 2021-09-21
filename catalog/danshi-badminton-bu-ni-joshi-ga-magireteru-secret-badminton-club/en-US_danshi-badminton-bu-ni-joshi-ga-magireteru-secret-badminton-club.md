@@ -1,5 +1,7 @@
 # Danshi Badminton-bu ni Joshi ga Magireteru: Secret Badminton Club
 
+![danshi-badminton-bu-ni-joshi-ga-magireteru-secret-badminton-club](https://cdn.myanimelist.net/images/manga/2/190617.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 80

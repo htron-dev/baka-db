@@ -1,5 +1,7 @@
 # Heavenly
 
+![heavenly](https://cdn.myanimelist.net/images/manga/4/34207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヘヴンリィ heavenly

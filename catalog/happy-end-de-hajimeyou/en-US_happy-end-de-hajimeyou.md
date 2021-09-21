@@ -1,5 +1,7 @@
 # Happy End de Hajimeyou
 
+![happy-end-de-hajimeyou](https://cdn.myanimelist.net/images/manga/1/217489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハッピーエンドではじめよう

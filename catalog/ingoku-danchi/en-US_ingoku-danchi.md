@@ -1,5 +1,7 @@
 # Ingoku Danchi
 
+![ingoku-danchi](https://cdn.myanimelist.net/images/manga/1/246167.jpg)
+
 -   **type**: manga
 -   **original-name**: 淫獄団地
 -   **start-date**: 2021-01-08

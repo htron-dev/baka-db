@@ -1,5 +1,7 @@
 # Golden Gold
 
+![golden-gold](https://cdn.myanimelist.net/images/manga/1/179482.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴールデンゴールド
 -   **start-date**: 2015-10-22

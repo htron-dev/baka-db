@@ -1,5 +1,7 @@
 # L'Oiseau Bleu
 
+![l-oiseau-bleu](https://cdn.myanimelist.net/images/manga/3/4945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アオイトリ（エレクトリック・マーメイド２）

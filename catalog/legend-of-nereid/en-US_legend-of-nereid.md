@@ -1,5 +1,7 @@
 # Legend of Nereid
 
+![legend-of-nereid](https://cdn.myanimelist.net/images/manga/1/5626.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **chapters**: 90

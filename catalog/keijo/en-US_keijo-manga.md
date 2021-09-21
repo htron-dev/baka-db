@@ -1,5 +1,7 @@
 # Keijo!!!!!!!!
 
+![keijo](https://cdn.myanimelist.net/images/manga/3/168393.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 178

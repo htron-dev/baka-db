@@ -1,5 +1,7 @@
 # Hanamitsu Romance: Fukigen na Kikoushi ni Aisarete
 
+![hanamitsu-romance-fukigen-na-kikoushi-ni-aisarete](https://cdn.myanimelist.net/images/manga/3/183894.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

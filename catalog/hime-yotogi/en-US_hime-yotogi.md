@@ -1,5 +1,7 @@
 # Hime Yotogi
 
+![hime-yotogi](https://cdn.myanimelist.net/images/manga/2/61275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

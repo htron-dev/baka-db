@@ -1,5 +1,7 @@
 # Junjou Karen
 
+![junjou-karen](https://cdn.myanimelist.net/images/manga/4/92551.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

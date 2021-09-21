@@ -1,5 +1,7 @@
 # Ebisu Ginza Tengoku
 
+![ebisu-ginza-tengoku](https://cdn.myanimelist.net/images/manga/1/168716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

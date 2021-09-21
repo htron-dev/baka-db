@@ -1,5 +1,7 @@
 # Mahoutsukai ni Taisetsu na Koto
 
+![mahoutsukai-ni-taisetsu-na-koto](https://cdn.myanimelist.net/images/anime/13/2597.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法遣いに大切なこと

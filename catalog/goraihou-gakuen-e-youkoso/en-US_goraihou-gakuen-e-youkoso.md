@@ -1,5 +1,7 @@
 # Goraihou Gakuen e Youkoso!
 
+![goraihou-gakuen-e-youkoso](https://cdn.myanimelist.net/images/manga/1/191285.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Harujan
 
+![harujan](https://cdn.myanimelist.net/images/manga/2/189622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

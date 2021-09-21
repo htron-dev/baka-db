@@ -1,5 +1,7 @@
 # The Impression of First Gundam
 
+![the-impression-of-first-gundam](https://cdn.myanimelist.net/images/anime/5/53333.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: The Impression of First GUNDAM

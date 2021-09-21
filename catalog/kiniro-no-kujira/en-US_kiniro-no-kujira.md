@@ -1,5 +1,7 @@
 # Kiniro no Kujira
 
+![kiniro-no-kujira](https://cdn.myanimelist.net/images/anime/12/66161.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 金色のクジラ

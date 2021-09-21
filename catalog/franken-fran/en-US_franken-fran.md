@@ -1,5 +1,7 @@
 # Franken Fran
 
+![franken-fran](https://cdn.myanimelist.net/images/manga/1/150351.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

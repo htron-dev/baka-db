@@ -1,5 +1,7 @@
 # Isekai Shoukan wa Nidome desu
 
+![isekai-shoukan-wa-nidome-desu](https://cdn.myanimelist.net/images/manga/3/219825.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界召喚は二度目です
 -   **start-date**: 2018-06-29

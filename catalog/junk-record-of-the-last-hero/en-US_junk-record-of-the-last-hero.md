@@ -1,5 +1,7 @@
 # Junk: Record of the Last Hero
 
+![junk-record-of-the-last-hero](https://cdn.myanimelist.net/images/manga/3/5654.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

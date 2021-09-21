@@ -1,5 +1,7 @@
 # Diabolic Garden
 
+![diabolic-garden](https://cdn.myanimelist.net/images/manga/2/195375.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

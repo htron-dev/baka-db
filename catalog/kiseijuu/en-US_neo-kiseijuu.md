@@ -1,5 +1,7 @@
 # Neo Kiseijuu
 
+![neo-kiseijuu](https://cdn.myanimelist.net/images/manga/2/180940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka Seven: New Order
 
+![koukyoushihen-eureka-seven-new-order](https://cdn.myanimelist.net/images/anime/7/38107.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 交響詩篇エウレカセブン第 51 話「ニュー・オーダー」

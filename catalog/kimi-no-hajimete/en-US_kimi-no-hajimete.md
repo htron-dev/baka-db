@@ -1,5 +1,7 @@
 # Kimi no Hajimete
 
+![kimi-no-hajimete](https://cdn.myanimelist.net/images/manga/3/54051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

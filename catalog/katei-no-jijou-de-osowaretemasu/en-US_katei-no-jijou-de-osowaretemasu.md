@@ -1,5 +1,7 @@
 # Katei no Jijou de Osowaretemasu
 
+![katei-no-jijou-de-osowaretemasu](https://cdn.myanimelist.net/images/manga/1/224932.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

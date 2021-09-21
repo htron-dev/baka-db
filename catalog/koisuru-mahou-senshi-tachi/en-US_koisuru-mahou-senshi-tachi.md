@@ -1,5 +1,7 @@
 # Koisuru Mahou Senshi-tachi
 
+![koisuru-mahou-senshi-tachi](https://cdn.myanimelist.net/images/manga/3/193646.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

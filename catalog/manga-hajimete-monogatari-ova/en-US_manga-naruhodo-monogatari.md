@@ -1,5 +1,7 @@
 # Manga Naruhodo Monogatari
 
+![manga-naruhodo-monogatari](https://cdn.myanimelist.net/images/anime/11/28066.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: まんがなるほど物語

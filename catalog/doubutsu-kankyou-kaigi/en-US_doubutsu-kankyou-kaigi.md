@@ -1,5 +1,7 @@
 # Doubutsu Kankyou Kaigi
 
+![doubutsu-kankyou-kaigi](https://cdn.myanimelist.net/images/anime/7/22444.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 動物かんきょう会議

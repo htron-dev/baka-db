@@ -1,5 +1,7 @@
 # Kyou no Asuka Show
 
+![kyou-no-asuka-show](https://cdn.myanimelist.net/images/anime/4/77066.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 今日のあすかショー

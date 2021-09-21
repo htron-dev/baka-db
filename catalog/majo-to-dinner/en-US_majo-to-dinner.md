@@ -1,5 +1,7 @@
 # Majo to Dinner
 
+![majo-to-dinner](https://cdn.myanimelist.net/images/manga/3/222546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

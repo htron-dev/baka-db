@@ -1,5 +1,7 @@
 # Harmful Beautiful
 
+![harmful-beautiful](https://cdn.myanimelist.net/images/manga/1/98319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハームフル・ビューティフ

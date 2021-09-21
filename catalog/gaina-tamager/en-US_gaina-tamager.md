@@ -1,5 +1,7 @@
 # Gaina Tamager
 
+![gaina-tamager](https://cdn.myanimelist.net/images/anime/1984/105781.jpg)
+
 -   **type**: ona
 -   **original-name**: ガイナタマガー
 -   **start-date**: 2019-12-25

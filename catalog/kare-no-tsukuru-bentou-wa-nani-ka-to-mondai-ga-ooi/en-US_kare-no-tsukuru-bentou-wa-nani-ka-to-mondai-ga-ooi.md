@@ -1,5 +1,7 @@
 # Kare no Tsukuru Bentou wa Nani ka to Mondai ga Ooi.
 
+![kare-no-tsukuru-bentou-wa-nani-ka-to-mondai-ga-ooi](https://cdn.myanimelist.net/images/manga/2/157910.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

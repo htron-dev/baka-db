@@ -1,5 +1,7 @@
 # High School Fleet: Loreley no Otome-tachi
 
+![high-school-fleet-loreley-no-otome-tachi](https://cdn.myanimelist.net/images/manga/2/192654.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

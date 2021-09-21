@@ -1,5 +1,7 @@
 # Ichizu na Shinai: Bara no Niwa de Dakishimete
 
+![ichizu-na-shinai-bara-no-niwa-de-dakishimete](https://cdn.myanimelist.net/images/manga/3/183003.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

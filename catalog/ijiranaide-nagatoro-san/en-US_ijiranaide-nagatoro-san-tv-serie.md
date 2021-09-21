@@ -1,5 +1,7 @@
 # Ijiranaide, Nagatoro-san
 
+![ijiranaide-nagatoro-san](https://cdn.myanimelist.net/images/anime/1900/110097.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: イジらないで、長瀞さん

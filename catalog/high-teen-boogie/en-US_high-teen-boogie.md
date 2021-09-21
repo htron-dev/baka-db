@@ -1,5 +1,7 @@
 # High Teen Boogie
 
+![high-teen-boogie](https://cdn.myanimelist.net/images/manga/1/246771.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **original-name**: ハイティーン・ブギ

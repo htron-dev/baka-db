@@ -1,5 +1,7 @@
 # Hanazakari Kachou-sama
 
+![hanazakari-kachou-sama](https://cdn.myanimelist.net/images/manga/2/17023.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 花ざかり課長さま

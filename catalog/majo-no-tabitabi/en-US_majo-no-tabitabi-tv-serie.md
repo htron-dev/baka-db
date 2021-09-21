@@ -1,5 +1,7 @@
 # Majo no Tabitabi
 
+![majo-no-tabitabi](https://cdn.myanimelist.net/images/anime/1802/108501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔女の旅々

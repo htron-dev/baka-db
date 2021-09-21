@@ -1,5 +1,7 @@
 # Lear-ou
 
+![lear-ou](https://cdn.myanimelist.net/images/manga/1/159316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

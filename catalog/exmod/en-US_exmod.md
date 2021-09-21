@@ -1,5 +1,7 @@
 # Exmod
 
+![exmod](https://cdn.myanimelist.net/images/manga/3/189784.jpg)
+
 -   **type**: light-novel
 -   **original-name**: EXMOD
 -   **start-date**: 2017-01-18

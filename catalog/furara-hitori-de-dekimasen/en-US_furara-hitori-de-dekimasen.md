@@ -1,5 +1,7 @@
 # Furara Hitori de Dekimasen!
 
+![furara-hitori-de-dekimasen](https://cdn.myanimelist.net/images/manga/2/171792.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Love Berry Raspberry
 
+![love-berry-raspberry](https://cdn.myanimelist.net/images/manga/3/16577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

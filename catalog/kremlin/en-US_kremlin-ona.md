@@ -1,5 +1,7 @@
 # Kremlin
 
+![kremlin](https://cdn.myanimelist.net/images/anime/5/42271.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: クレムリン

@@ -1,5 +1,7 @@
 # Hajimete, Koi, shita.
 
+![hajimete-koi-shita](https://cdn.myanimelist.net/images/manga/2/151921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

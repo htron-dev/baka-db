@@ -1,5 +1,7 @@
 # Engei Shounen
 
+![engei-shounen](https://cdn.myanimelist.net/images/manga/2/41090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

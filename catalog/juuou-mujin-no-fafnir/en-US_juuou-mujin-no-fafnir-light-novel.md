@@ -1,5 +1,7 @@
 # Juuou Mujin no Fafnir
 
+![juuou-mujin-no-fafnir](https://cdn.myanimelist.net/images/manga/2/158128.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **chapters**: 90

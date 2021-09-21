@@ -1,5 +1,7 @@
 # Kimi no Iru Basho - Real x Fake
 
+![kimi-no-iru-basho-real-x-fake](https://cdn.myanimelist.net/images/manga/3/37734.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キミのいる場所－REAL×FAKE－

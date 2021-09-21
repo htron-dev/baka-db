@@ -1,5 +1,7 @@
 # Kotori
 
+![kotori](https://cdn.myanimelist.net/images/manga/3/153788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 子捕り

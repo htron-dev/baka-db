@@ -1,5 +1,7 @@
 # Goshiki×Sweets
 
+![goshiki-sweets](https://cdn.myanimelist.net/images/manga/2/42548.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 五色 × スウィーツ

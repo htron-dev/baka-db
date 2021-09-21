@@ -1,5 +1,7 @@
 # Mashou no Träumerei
 
+![mashou-no-traumerei](https://cdn.myanimelist.net/images/manga/2/193960.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

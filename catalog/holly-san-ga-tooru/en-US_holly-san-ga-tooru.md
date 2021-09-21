@@ -1,5 +1,7 @@
 # Holly-san ga Tooru
 
+![holly-san-ga-tooru](https://cdn.myanimelist.net/images/manga/1/117203.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

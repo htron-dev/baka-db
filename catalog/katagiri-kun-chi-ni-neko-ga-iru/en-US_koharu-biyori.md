@@ -1,5 +1,7 @@
 # Koharu-biyori.
 
+![koharu-biyori](https://cdn.myanimelist.net/images/manga/3/222108.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: こはる日和。

@@ -1,5 +1,7 @@
 # Macross Plus: TAC Name
 
+![macross-plus-tac-name](https://cdn.myanimelist.net/images/manga/3/104849.jpg)
+
 -   **type**: manga
 -   **original-name**: マクロスプラス‐タックネーム‐
 -   **start-date**: 2012-02-10

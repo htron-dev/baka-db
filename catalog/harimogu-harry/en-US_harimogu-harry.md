@@ -1,5 +1,7 @@
 # Harimogu Harry
 
+![harimogu-harry](https://cdn.myanimelist.net/images/anime/13/29632.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 140
 -   **original-name**: はりもぐハーリー

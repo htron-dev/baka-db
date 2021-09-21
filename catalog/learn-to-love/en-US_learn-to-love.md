@@ -1,5 +1,7 @@
 # Learn to Love
 
+![learn-to-love](https://cdn.myanimelist.net/images/anime/3/71460.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: learn to love

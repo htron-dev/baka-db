@@ -1,5 +1,7 @@
 # Dekoboko wa Bokutachi
 
+![dekoboko-wa-bokutachi](https://cdn.myanimelist.net/images/manga/3/84283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

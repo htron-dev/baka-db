@@ -1,5 +1,7 @@
 # Enomoto: New Elements that Shake the World
 
+![enomoto-new-elements-that-shake-the-world](https://cdn.myanimelist.net/images/manga/1/115233.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: えの素 New Elements that Shake the World

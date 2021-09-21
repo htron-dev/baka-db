@@ -1,5 +1,7 @@
 # Kouya no Kotobuki Hikoutai Kanzenban
 
+![kouya-no-kotobuki-hikoutai-kanzenban](https://cdn.myanimelist.net/images/anime/1264/111423.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 荒野のコトブキ飛行隊 完全版

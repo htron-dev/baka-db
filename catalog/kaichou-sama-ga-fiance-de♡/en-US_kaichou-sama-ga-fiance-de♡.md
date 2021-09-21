@@ -1,5 +1,7 @@
 # Kaichou-sama ga Fiancé de♡
 
+![kaichou-sama-ga-fiance-de♡](https://cdn.myanimelist.net/images/manga/1/155403.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

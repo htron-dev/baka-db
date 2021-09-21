@@ -1,5 +1,7 @@
 # Junketsu Romance
 
+![junketsu-romance](https://cdn.myanimelist.net/images/manga/3/155600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 純潔ロマンス

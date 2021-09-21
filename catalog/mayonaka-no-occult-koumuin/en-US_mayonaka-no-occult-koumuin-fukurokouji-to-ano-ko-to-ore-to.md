@@ -1,5 +1,7 @@
 # Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to
 
+![mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to](https://cdn.myanimelist.net/images/anime/1321/104497.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真夜中のオカルト公務員 袋小路とあの子と俺と

@@ -1,5 +1,7 @@
 # Kexue Tansuo Zhi Qimiao Dili
 
+![kexue-tansuo-zhi-qimiao-dili](https://cdn.myanimelist.net/images/anime/1172/115478.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 80
 -   **original-name**: 科学探索之奇妙地理

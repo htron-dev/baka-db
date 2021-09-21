@@ -1,5 +1,7 @@
 # Kiss XXXX
 
+![kiss-xxxx](https://cdn.myanimelist.net/images/manga/3/207461.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: KISSxxxx

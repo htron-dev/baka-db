@@ -1,5 +1,7 @@
 # Kawari Nadeshiko: 3 Shimai no Himitsu
 
+![kawari-nadeshiko-3-shimai-no-himitsu](https://cdn.myanimelist.net/images/manga/1/203918.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

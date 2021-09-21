@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume THE PLANETARIUM: Burabura! Black Hole no Nazo
 
+![himitsukessha-taka-no-tsume-the-planetarium-burabura-black-hole-no-nazo](https://cdn.myanimelist.net/images/anime/11/37693.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 THE PLANETARIUM: ブラブラ！ブラックホールの謎

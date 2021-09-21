@@ -1,5 +1,7 @@
 # Gorilla-Man
 
+![gorilla-man](https://cdn.myanimelist.net/images/manga/2/114091.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 218

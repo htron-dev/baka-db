@@ -1,5 +1,7 @@
 # Gengirl!
 
+![gengirl](https://cdn.myanimelist.net/images/manga/3/203214.jpg)
+
 -   **type**: manga
 -   **original-name**: げんがーるっ！
 -   **start-date**: 2017-06-19

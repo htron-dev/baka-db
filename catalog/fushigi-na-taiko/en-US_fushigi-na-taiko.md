@@ -1,5 +1,7 @@
 # Fushigi na Taiko
 
+![fushigi-na-taiko](https://cdn.myanimelist.net/images/anime/12/71998.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふしぎな太鼓

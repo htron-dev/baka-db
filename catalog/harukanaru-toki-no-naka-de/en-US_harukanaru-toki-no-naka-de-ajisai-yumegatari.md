@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de: Ajisai Yumegatari
 
+![harukanaru-toki-no-naka-de-ajisai-yumegatari](https://cdn.myanimelist.net/images/anime/2/72171.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 遙かなる時空の中で 〜紫陽花ゆめ語り〜

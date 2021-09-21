@@ -1,5 +1,7 @@
 # Mitsuhada Bijin
 
+![mitsuhada-bijin](https://cdn.myanimelist.net/images/manga/2/37529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

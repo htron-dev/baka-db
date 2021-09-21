@@ -1,5 +1,7 @@
 # Kimezou no Kimarimonku Ja Kimaranee. Featuring Sabu-Otoko
 
+![kimezou-no-kimarimonku-ja-kimaranee-featuring-sabu-otoko](https://cdn.myanimelist.net/images/anime/10/58925.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: キメゾーの決まり文句じゃキマらねぇ。Featuring サブ男

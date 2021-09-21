@@ -1,5 +1,7 @@
 # Smile Precure!
 
+![smile-precure](https://cdn.myanimelist.net/images/anime/12/76179.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: スマイルプリキュア

@@ -1,5 +1,7 @@
 # Dungeon Meshi
 
+![dungeon-meshi](https://cdn.myanimelist.net/images/anime/12/88396.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ダンジョン飯

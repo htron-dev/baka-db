@@ -1,5 +1,7 @@
 # Kagami no Miko Ayaka
 
+![kagami-no-miko-ayaka](https://cdn.myanimelist.net/images/manga/1/68255.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 鏡の巫女アヤカ

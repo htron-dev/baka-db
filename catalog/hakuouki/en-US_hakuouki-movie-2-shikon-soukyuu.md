@@ -1,5 +1,7 @@
 # Hakuouki Movie 2: Shikon Soukyuu
 
+![hakuouki-movie-2-shikon-soukyuu](https://cdn.myanimelist.net/images/anime/12/71796.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 薄桜鬼 第二章 士魂蒼穹

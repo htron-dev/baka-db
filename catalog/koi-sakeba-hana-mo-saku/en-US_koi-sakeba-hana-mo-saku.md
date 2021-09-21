@@ -1,5 +1,7 @@
 # Koi Sakeba Hana mo Saku
 
+![koi-sakeba-hana-mo-saku](https://cdn.myanimelist.net/images/manga/3/17765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

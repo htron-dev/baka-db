@@ -1,5 +1,7 @@
 # Shujii
 
+![shujii](https://cdn.myanimelist.net/images/manga/5/25732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

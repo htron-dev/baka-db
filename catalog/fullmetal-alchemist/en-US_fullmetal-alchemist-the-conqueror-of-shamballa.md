@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: The Conqueror of Shamballa
 
+![fullmetal-alchemist-the-conqueror-of-shamballa](https://cdn.myanimelist.net/images/anime/1707/94039.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 鋼の錬金術師 シャンバラを征く者

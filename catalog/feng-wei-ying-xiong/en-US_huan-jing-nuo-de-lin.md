@@ -1,5 +1,7 @@
 # Huan Jing Nuo De Lin
 
+![huan-jing-nuo-de-lin](https://cdn.myanimelist.net/images/anime/1623/91536.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 幻镜诺德琳

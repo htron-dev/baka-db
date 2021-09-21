@@ -1,5 +1,7 @@
 # Kyuubi no Kitsune to Namagusa Bouzu
 
+![kyuubi-no-kitsune-to-namagusa-bouzu](https://cdn.myanimelist.net/images/manga/1/231895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

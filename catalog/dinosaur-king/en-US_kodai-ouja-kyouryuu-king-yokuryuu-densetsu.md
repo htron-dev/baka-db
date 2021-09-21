@@ -1,5 +1,7 @@
 # Kodai Ouja Kyouryuu King: Yokuryuu Densetsu
 
+![kodai-ouja-kyouryuu-king-yokuryuu-densetsu](https://cdn.myanimelist.net/images/anime/13/23619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 古代王者恐竜キング D キッズ・アドベンチャー翼龍伝説

@@ -1,5 +1,7 @@
 # Himawari: Kenichi Legend
 
+![himawari-kenichi-legend](https://cdn.myanimelist.net/images/manga/1/163925.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 150

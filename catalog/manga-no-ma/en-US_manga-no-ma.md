@@ -1,5 +1,7 @@
 # Manga no Ma
 
+![manga-no-ma](https://cdn.myanimelist.net/images/manga/3/26679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マンガのマ

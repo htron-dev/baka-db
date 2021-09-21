@@ -1,5 +1,7 @@
 # Kaneko Misuzu: Yasashisa no Fuukei
 
+![kaneko-misuzu-yasashisa-no-fuukei](https://cdn.myanimelist.net/images/anime/12/66271.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 金子みすゞ やさしさの風景

@@ -1,5 +1,7 @@
 # D_Cide Traumerei the Animation
 
+![d-cide-traumerei-the-animation](https://cdn.myanimelist.net/images/anime/1635/117200.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: D_CIDE TRAUMEREI（ディーサイドトロイメライ）
 -   **start-date**: 2021-07-10

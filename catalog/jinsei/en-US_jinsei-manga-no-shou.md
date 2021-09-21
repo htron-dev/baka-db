@@ -1,5 +1,7 @@
 # Jinsei: Manga no Shou
 
+![jinsei-manga-no-shou](https://cdn.myanimelist.net/images/manga/2/154139.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

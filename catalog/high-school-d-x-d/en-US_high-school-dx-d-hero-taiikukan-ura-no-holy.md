@@ -1,5 +1,7 @@
 # High School DxD Hero: Taiikukan-ura no Holy
 
+![high-school-dx-d-hero-taiikukan-ura-no-holy](https://cdn.myanimelist.net/images/anime/1879/91882.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハイスクール D×D HERO 体育館裏のホーリー

@@ -1,5 +1,7 @@
 # Motto! Hinekure Chaser
 
+![motto-hinekure-chaser](https://cdn.myanimelist.net/images/manga/2/208628.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

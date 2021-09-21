@@ -1,5 +1,7 @@
 # Girls Go Around
 
+![girls-go-around](https://cdn.myanimelist.net/images/manga/2/118685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

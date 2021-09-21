@@ -1,5 +1,7 @@
 # Digimon Adventure 02 Movies
 
+![digimon-adventure-02-movies](https://cdn.myanimelist.net/images/anime/7/82960.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: 映画 デジモンアドベンチャー０２

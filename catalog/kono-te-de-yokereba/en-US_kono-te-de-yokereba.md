@@ -1,5 +1,7 @@
 # Kono Te de Yokereba
 
+![kono-te-de-yokereba](https://cdn.myanimelist.net/images/manga/3/33546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Gategun no Gaikoukan to, Ryuu no Kuni no Taishikan
 
+![gategun-no-gaikoukan-to-ryuu-no-kuni-no-taishikan](https://cdn.myanimelist.net/images/manga/2/159291.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

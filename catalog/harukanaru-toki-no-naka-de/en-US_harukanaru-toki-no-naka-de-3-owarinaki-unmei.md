@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 3: Owarinaki Unmei
 
+![harukanaru-toki-no-naka-de-3-owarinaki-unmei](https://cdn.myanimelist.net/images/anime/7/17245.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遙かなる時空の中で 3 終わりなき運命

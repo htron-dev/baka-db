@@ -1,5 +1,7 @@
 # Kamisama yori mo Yakuza-sama!?
 
+![kamisama-yori-mo-yakuza-sama](https://cdn.myanimelist.net/images/manga/3/237468.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

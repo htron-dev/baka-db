@@ -1,5 +1,7 @@
 # Mishounen Produce
 
+![mishounen-produce](https://cdn.myanimelist.net/images/manga/3/27454.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Hoshigarimasen! Katsumade wa
 
+![hoshigarimasen-katsumade-wa](https://cdn.myanimelist.net/images/manga/3/31115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

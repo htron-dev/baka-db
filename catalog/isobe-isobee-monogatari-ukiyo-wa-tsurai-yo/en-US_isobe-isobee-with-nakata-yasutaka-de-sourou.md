@@ -1,5 +1,7 @@
 # Isobe Isobee with Nakata Yasutaka de Sourou
 
+![isobe-isobee-with-nakata-yasutaka-de-sourou](https://cdn.myanimelist.net/images/anime/4/85508.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 磯部磯兵衛 with 中田ヤスタカで候

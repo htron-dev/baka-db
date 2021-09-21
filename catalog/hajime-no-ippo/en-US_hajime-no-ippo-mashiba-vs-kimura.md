@@ -1,5 +1,7 @@
 # Hajime no Ippo: Mashiba vs. Kimura
 
+![hajime-no-ippo-mashiba-vs-kimura](https://cdn.myanimelist.net/images/anime/4/64737.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はじめの一歩 間柴 vs 木村 死刑執行

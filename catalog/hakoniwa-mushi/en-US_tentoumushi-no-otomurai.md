@@ -1,5 +1,7 @@
 # Tentoumushi no Otomurai
 
+![tentoumushi-no-otomurai](https://cdn.myanimelist.net/images/anime/2/35173.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: てんとう虫のおとむらい

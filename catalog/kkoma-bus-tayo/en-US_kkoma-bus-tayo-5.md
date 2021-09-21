@@ -1,5 +1,7 @@
 # Kkoma Bus Tayo 5
 
+![kkoma-bus-tayo-5](https://cdn.myanimelist.net/images/anime/1174/96018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 꼬마버스 타요 5

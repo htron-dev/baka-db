@@ -1,5 +1,7 @@
 # Kirara
 
+![kirara](https://cdn.myanimelist.net/images/manga/2/178899.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

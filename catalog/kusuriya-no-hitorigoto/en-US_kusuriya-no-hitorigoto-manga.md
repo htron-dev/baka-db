@@ -1,5 +1,7 @@
 # Kusuriya no Hitorigoto
 
+![kusuriya-no-hitorigoto](https://cdn.myanimelist.net/images/manga/3/201154.jpg)
+
 -   **type**: manga
 -   **original-name**: 薬屋のひとりごと
 -   **start-date**: 2017-05-25

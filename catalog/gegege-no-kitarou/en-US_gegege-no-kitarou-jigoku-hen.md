@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Jigoku-hen
 
+![gegege-no-kitarou-jigoku-hen](https://cdn.myanimelist.net/images/anime/6/90097.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 7
 -   **original-name**: ゲゲゲの鬼太郎　地獄編

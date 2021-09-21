@@ -1,5 +1,7 @@
 # Kimagure na Kagayaki
 
+![kimagure-na-kagayaki](https://cdn.myanimelist.net/images/manga/1/194650.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

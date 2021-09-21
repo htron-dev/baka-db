@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! Guilty Kiss Comic Anthology
 
+![love-live-sunshine-guilty-kiss-comic-anthology](https://cdn.myanimelist.net/images/manga/3/234738.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

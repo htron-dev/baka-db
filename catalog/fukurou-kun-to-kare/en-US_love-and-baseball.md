@@ -1,5 +1,7 @@
 # Love and Baseball
 
+![love-and-baseball](https://cdn.myanimelist.net/images/manga/2/165420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

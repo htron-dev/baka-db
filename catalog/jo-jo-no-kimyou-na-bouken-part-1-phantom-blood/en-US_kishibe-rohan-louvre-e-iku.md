@@ -1,5 +1,7 @@
 # Kishibe Rohan Louvre e Iku
 
+![kishibe-rohan-louvre-e-iku](https://cdn.myanimelist.net/images/manga/2/175983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 岸辺露伴 ルーヴルへ行く

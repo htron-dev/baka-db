@@ -1,5 +1,7 @@
 # Me wo Tojinaide
 
+![me-wo-tojinaide](https://cdn.myanimelist.net/images/manga/2/27048.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

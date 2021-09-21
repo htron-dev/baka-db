@@ -1,5 +1,7 @@
 # Maigo no Bambi ni Kiss wo 1mm
 
+![maigo-no-bambi-ni-kiss-wo-1-mm](https://cdn.myanimelist.net/images/manga/5/17070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

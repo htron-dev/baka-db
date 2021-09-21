@@ -1,5 +1,7 @@
 # Ikoku Meiro no Croisée: Le cahier d' Yune
 
+![ikoku-meiro-no-croisee-le-cahier-d-yune](https://cdn.myanimelist.net/images/manga/1/128777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

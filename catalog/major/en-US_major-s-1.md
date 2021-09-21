@@ -1,5 +1,7 @@
 # Major S1
 
+![major-s-1](https://cdn.myanimelist.net/images/anime/13/73973.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メジャー （第 1 シリーズ）

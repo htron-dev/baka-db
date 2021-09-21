@@ -1,5 +1,7 @@
 # Don't Worry Baby!
 
+![dont-worry-baby](https://cdn.myanimelist.net/images/manga/1/10892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Don't Worry Baby!

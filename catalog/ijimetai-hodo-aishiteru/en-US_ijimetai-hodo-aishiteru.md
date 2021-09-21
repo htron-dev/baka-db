@@ -1,5 +1,7 @@
 # Ijimetai hodo Aishiteru
 
+![ijimetai-hodo-aishiteru](https://cdn.myanimelist.net/images/manga/2/7539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

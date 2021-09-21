@@ -1,5 +1,7 @@
 # Jotei
 
+![jotei](https://cdn.myanimelist.net/images/manga/4/45589.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 279

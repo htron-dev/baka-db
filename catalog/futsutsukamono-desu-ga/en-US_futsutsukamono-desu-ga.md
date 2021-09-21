@@ -1,5 +1,7 @@
 # Futsutsukamono desu ga
 
+![futsutsukamono-desu-ga](https://cdn.myanimelist.net/images/manga/2/166733.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

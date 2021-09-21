@@ -1,5 +1,7 @@
 # Generator Gawl
 
+![generator-gawl](https://cdn.myanimelist.net/images/manga/2/64565.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ジェネレイターガウル

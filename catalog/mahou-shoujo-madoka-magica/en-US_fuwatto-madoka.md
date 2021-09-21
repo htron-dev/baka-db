@@ -1,5 +1,7 @@
 # Fuwatto Madoka
 
+![fuwatto-madoka](https://cdn.myanimelist.net/images/manga/2/157041.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ふわっとまどか

@@ -1,5 +1,7 @@
 # Miki no Mikoto
 
+![miki-no-mikoto](https://cdn.myanimelist.net/images/anime/1177/91002.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 神酒ノ尊-ミキノミコト-

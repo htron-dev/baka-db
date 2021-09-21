@@ -1,5 +1,7 @@
 # Hyakuoku no Hiru to Senoku no Yoru
 
+![hyakuoku-no-hiru-to-senoku-no-yoru](https://cdn.myanimelist.net/images/manga/2/12614.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

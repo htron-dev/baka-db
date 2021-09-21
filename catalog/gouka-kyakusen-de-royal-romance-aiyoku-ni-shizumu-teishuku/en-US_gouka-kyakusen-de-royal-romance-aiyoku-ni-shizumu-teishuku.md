@@ -1,5 +1,7 @@
 # Gouka Kyakusen de Royal Romance: Aiyoku ni Shizumu Teishuku
 
+![gouka-kyakusen-de-royal-romance-aiyoku-ni-shizumu-teishuku](https://cdn.myanimelist.net/images/manga/1/195192.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

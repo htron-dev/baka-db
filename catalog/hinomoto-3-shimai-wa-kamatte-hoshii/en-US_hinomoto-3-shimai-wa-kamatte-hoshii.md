@@ -1,5 +1,7 @@
 # Hinomoto 3-shimai wa Kamatte Hoshii
 
+![hinomoto-3-shimai-wa-kamatte-hoshii](https://cdn.myanimelist.net/images/manga/2/223941.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

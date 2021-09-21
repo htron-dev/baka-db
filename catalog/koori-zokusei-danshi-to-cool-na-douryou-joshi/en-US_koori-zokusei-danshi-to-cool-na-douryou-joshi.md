@@ -1,5 +1,7 @@
 # Koori Zokusei Danshi to Cool na Douryou Joshi
 
+![koori-zokusei-danshi-to-cool-na-douryou-joshi](https://cdn.myanimelist.net/images/manga/1/224869.jpg)
+
 -   **type**: manga
 -   **original-name**: 氷属性男子とクールな同僚女子
 -   **start-date**: 2019-07-22

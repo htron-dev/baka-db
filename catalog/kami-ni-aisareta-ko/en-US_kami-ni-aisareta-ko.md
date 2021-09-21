@@ -1,5 +1,7 @@
 # Kami ni Aisareta Ko
 
+![kami-ni-aisareta-ko](https://cdn.myanimelist.net/images/manga/3/236621.jpg)
+
 -   **type**: manga
 -   **original-name**: 神に愛された子
 -   **start-date**: 2019-07-26

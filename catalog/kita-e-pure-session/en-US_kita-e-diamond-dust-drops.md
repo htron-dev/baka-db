@@ -1,5 +1,7 @@
 # Kita e.: Diamond Dust Drops
 
+![kita-e-diamond-dust-drops](https://cdn.myanimelist.net/images/anime/1/148.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 北へ。 ～ Diamond Dust Drops ～

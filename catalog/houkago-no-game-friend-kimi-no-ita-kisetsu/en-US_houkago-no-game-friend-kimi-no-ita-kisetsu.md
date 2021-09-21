@@ -1,5 +1,7 @@
 # Houkago no Game Friend, Kimi no Ita Kisetsu
 
+![houkago-no-game-friend-kimi-no-ita-kisetsu](https://cdn.myanimelist.net/images/manga/2/159760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

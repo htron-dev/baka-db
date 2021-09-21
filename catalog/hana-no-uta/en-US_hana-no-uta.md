@@ -1,5 +1,7 @@
 # Hana no Uta
 
+![hana-no-uta](https://cdn.myanimelist.net/images/manga/1/84625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kawa yori mo Nagaku Yuruyaka ni
 
+![kawa-yori-mo-nagaku-yuruyaka-ni](https://cdn.myanimelist.net/images/manga/1/155935.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

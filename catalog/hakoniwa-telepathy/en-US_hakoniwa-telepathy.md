@@ -1,5 +1,7 @@
 # Hakoniwa Telepathy
 
+![hakoniwa-telepathy](https://cdn.myanimelist.net/images/manga/1/126237.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

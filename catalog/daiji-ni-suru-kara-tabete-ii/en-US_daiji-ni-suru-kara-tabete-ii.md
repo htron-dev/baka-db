@@ -1,5 +1,7 @@
 # Daiji ni Suru kara Tabete Ii?
 
+![daiji-ni-suru-kara-tabete-ii](https://cdn.myanimelist.net/images/manga/1/238155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

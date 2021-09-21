@@ -1,5 +1,7 @@
 # Kooru Shakunetsu
 
+![kooru-shakunetsu](https://cdn.myanimelist.net/images/manga/3/33608.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 凍る灼熱

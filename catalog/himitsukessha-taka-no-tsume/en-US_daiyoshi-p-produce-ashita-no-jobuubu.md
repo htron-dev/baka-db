@@ -1,5 +1,7 @@
 # Daiyoshi P Produce Ashita no Jobuubu
 
+![daiyoshi-p-produce-ashita-no-jobuubu](https://cdn.myanimelist.net/images/anime/7/87586.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: だーよし P プロデュース あしたのジョブーブ

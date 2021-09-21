@@ -1,5 +1,7 @@
 # Gift±
 
+![gift](https://cdn.myanimelist.net/images/manga/3/161383.jpg)
+
 -   **type**: manga
 -   **original-name**: ギフト ±
 -   **start-date**: 2015-03-20

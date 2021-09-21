@@ -1,5 +1,7 @@
 # Henshuu-san (←Motokano) ni Hakararemashite: Kinyoku Sakka no Koi to Yokubou
 
+![henshuu-san-←-motokano-ni-hakararemashite-kinyoku-sakka-no-koi-to-yokubou](https://cdn.myanimelist.net/images/manga/3/192667.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 25

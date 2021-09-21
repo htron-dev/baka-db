@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: École du Ciel
 
+![kidou-senshi-gundam-ecole-du-ciel](https://cdn.myanimelist.net/images/manga/1/149934.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 68

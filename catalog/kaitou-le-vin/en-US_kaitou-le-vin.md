@@ -1,5 +1,7 @@
 # Kaitou le Vin
 
+![kaitou-le-vin](https://cdn.myanimelist.net/images/manga/3/157914.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

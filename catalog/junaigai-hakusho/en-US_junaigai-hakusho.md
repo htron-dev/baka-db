@@ -1,5 +1,7 @@
 # Junaigai Hakusho
 
+![junaigai-hakusho](https://cdn.myanimelist.net/images/manga/3/193425.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

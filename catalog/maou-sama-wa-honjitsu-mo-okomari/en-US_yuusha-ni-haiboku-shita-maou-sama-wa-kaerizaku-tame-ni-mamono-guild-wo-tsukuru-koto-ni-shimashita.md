@@ -1,5 +1,7 @@
 # Yuusha ni Haiboku shita Maou-sama wa Kaerizaku Tame ni Mamono Guild wo Tsukuru Koto ni Shimashita.
 
+![yuusha-ni-haiboku-shita-maou-sama-wa-kaerizaku-tame-ni-mamono-guild-wo-tsukuru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/3/235406.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者に敗北した魔王様は返り咲くために魔物ギルドを作ることにしました。
 -   **start-date**: 2019-11-29

@@ -1,5 +1,7 @@
 # The Hinanomori
 
+![the-hinanomori](https://cdn.myanimelist.net/images/manga/2/22072.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

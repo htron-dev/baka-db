@@ -1,5 +1,7 @@
 # Feng Yu Jiu Tian
 
+![feng-yu-jiu-tian](https://cdn.myanimelist.net/images/manga/1/99331.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 凤于九天
 

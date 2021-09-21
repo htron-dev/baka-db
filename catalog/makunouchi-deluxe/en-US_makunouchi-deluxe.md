@@ -1,5 +1,7 @@
 # Makunouchi Deluxe
 
+![makunouchi-deluxe](https://cdn.myanimelist.net/images/manga/3/55519.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Fushigi Yuugi Special: Nakago Shikkari Shinasai!
 
+![fushigi-yuugi-special-nakago-shikkari-shinasai](https://cdn.myanimelist.net/images/anime/12/66771.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ふしぎ遊戯スペシャル 心宿しっかりしなさい！

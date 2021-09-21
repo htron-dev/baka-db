@@ -1,5 +1,7 @@
 # Mikazuki no Karte
 
+![mikazuki-no-karte](https://cdn.myanimelist.net/images/manga/3/210435.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Guess, Kijoumae
 
+![guess-kijoumae](https://cdn.myanimelist.net/images/manga/3/212443.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

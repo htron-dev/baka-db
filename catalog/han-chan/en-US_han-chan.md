@@ -1,5 +1,7 @@
 # Han-chan
 
+![han-chan](https://cdn.myanimelist.net/images/manga/1/124933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 半ちゃん

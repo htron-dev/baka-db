@@ -1,5 +1,7 @@
 # Jigoku Shoujo R
 
+![jigoku-shoujo-r](https://cdn.myanimelist.net/images/manga/3/144833.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

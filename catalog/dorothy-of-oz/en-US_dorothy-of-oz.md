@@ -1,5 +1,7 @@
 # Dorothy of Oz
 
+![dorothy-of-oz](https://cdn.myanimelist.net/images/manga/2/5881.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 도로시

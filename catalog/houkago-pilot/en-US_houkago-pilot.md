@@ -1,5 +1,7 @@
 # Houkago Pilot
 
+![houkago-pilot](https://cdn.myanimelist.net/images/anime/1694/108702.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 放課後（パイロット版）

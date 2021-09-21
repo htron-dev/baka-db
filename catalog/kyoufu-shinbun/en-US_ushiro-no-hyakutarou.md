@@ -1,5 +1,7 @@
 # Ushiro no Hyakutarou
 
+![ushiro-no-hyakutarou](https://cdn.myanimelist.net/images/anime/7/36025.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 心霊恐怖レポート うしろの百太郎

@@ -1,5 +1,7 @@
 # Hitman
 
+![hitman](https://cdn.myanimelist.net/images/manga/3/212327.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 128

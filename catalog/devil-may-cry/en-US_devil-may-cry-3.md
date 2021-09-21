@@ -1,5 +1,7 @@
 # Devil May Cry 3
 
+![devil-may-cry-3](https://cdn.myanimelist.net/images/manga/5/112447.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

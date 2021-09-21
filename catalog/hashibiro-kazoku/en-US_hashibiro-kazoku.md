@@ -1,5 +1,7 @@
 # Hashibiro Kazoku
 
+![hashibiro-kazoku](https://cdn.myanimelist.net/images/manga/3/231150.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 51

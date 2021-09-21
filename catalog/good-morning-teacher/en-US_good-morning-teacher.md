@@ -1,5 +1,7 @@
 # Good Morning Teacher
 
+![good-morning-teacher](https://cdn.myanimelist.net/images/manga/3/215287.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: Good Morning ティーチャー

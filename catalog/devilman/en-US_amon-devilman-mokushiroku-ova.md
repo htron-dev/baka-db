@@ -1,5 +1,7 @@
 # Amon: Devilman Mokushiroku
 
+![amon-devilman-mokushiroku](https://cdn.myanimelist.net/images/anime/1311/91101.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: AMON デビルマン黙示録

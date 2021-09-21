@@ -1,5 +1,7 @@
 # Kono Senaka ni Tsume wo Tatete
 
+![kono-senaka-ni-tsume-wo-tatete](https://cdn.myanimelist.net/images/manga/3/240595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

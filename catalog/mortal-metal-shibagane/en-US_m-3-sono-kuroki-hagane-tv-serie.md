@@ -1,5 +1,7 @@
 # M3: Sono Kuroki Hagane
 
+![m-3-sono-kuroki-hagane](https://cdn.myanimelist.net/images/anime/4/60273.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: M3 ～ソノ黒キ鋼～

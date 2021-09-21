@@ -1,5 +1,7 @@
 # Kyojin no Hoshi: Ike Ike Hyuuma
 
+![kyojin-no-hoshi-ike-ike-hyuuma](https://cdn.myanimelist.net/images/anime/10/46615.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 巨人の星 行け行け飛雄馬

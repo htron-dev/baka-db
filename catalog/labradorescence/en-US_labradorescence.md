@@ -1,5 +1,7 @@
 # Labradorescence
 
+![labradorescence](https://cdn.myanimelist.net/images/manga/1/168397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

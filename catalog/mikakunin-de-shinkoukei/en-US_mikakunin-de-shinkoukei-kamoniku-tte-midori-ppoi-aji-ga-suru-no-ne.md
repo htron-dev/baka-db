@@ -1,5 +1,7 @@
 # Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.
 
+![mikakunin-de-shinkoukei-kamoniku-tte-midori-ppoi-aji-ga-suru-no-ne](https://cdn.myanimelist.net/images/anime/3/64479.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 未確認で進行形 「鴨肉って緑っぽい味がするのね。」

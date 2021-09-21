@@ -1,5 +1,7 @@
 # Home My Home
 
+![home-my-home](https://cdn.myanimelist.net/images/anime/12/71183.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ホーム・マイホーム

@@ -1,5 +1,7 @@
 # Demashita! Powerpuff Girls Z
 
+![demashita-powerpuff-girls-z](https://cdn.myanimelist.net/images/anime/12/3253.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 出ましたっ！パワパフガールズ Z

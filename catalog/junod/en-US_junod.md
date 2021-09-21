@@ -1,5 +1,7 @@
 # Junod
 
+![junod](https://cdn.myanimelist.net/images/anime/9/26355.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジュノー

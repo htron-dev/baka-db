@@ -1,5 +1,7 @@
 # Moimoi Suisui
 
+![moimoi-suisui](https://cdn.myanimelist.net/images/manga/2/231354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

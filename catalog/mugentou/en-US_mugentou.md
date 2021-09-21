@@ -1,5 +1,7 @@
 # Mugentou
 
+![mugentou](https://cdn.myanimelist.net/images/manga/3/186633.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

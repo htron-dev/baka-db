@@ -1,5 +1,7 @@
 # Jack to Mame no Ki (OVA)
 
+![jack-to-mame-no-ki-ova](https://cdn.myanimelist.net/images/anime/4/25039.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジャックと豆の木

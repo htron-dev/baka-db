@@ -1,5 +1,7 @@
 # Hanashima-san
 
+![hanashima-san](https://cdn.myanimelist.net/images/manga/2/180051.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ハナシマさん
 -   **start-date**: 2016-07-20

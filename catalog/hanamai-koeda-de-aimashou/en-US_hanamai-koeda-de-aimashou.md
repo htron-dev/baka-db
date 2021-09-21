@@ -1,5 +1,7 @@
 # Hanamai Koeda de Aimashou
 
+![hanamai-koeda-de-aimashou](https://cdn.myanimelist.net/images/manga/2/117411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

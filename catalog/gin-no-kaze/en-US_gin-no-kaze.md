@@ -1,5 +1,7 @@
 # Gin no Kaze
 
+![gin-no-kaze](https://cdn.myanimelist.net/images/manga/3/18110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

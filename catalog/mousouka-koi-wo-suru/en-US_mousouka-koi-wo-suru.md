@@ -1,5 +1,7 @@
 # Mousouka, Koi wo Suru.
 
+![mousouka-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/127861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Fudanshi-kun no Honey Days
 
+![fudanshi-kun-no-honey-days](https://cdn.myanimelist.net/images/manga/2/95629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Double Cast
 
+![double-cast](https://cdn.myanimelist.net/images/manga/1/176719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ダブル・キャスト

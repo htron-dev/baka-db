@@ -1,5 +1,7 @@
 # Dahuoji Yu Gongzhu Qun
 
+![dahuoji-yu-gongzhu-qun](https://cdn.myanimelist.net/images/anime/1951/114703.jpg)
+
 -   **type**: ona
 -   **original-name**: 打火机与公主裙
 -   **rating**: PG-13 - Teens 13 or older

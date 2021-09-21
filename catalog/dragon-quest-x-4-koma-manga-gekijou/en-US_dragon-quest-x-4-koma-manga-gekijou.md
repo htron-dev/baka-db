@@ -1,5 +1,7 @@
 # Dragon Quest X: 4-koma Manga Gekijou
 
+![dragon-quest-x-4-koma-manga-gekijou](https://cdn.myanimelist.net/images/manga/3/109001.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ドラゴンクエスト X 4 コママンガ劇場

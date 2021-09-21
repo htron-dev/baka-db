@@ -1,5 +1,7 @@
 # Kachou Shima Kousaku
 
+![kachou-shima-kousaku](https://cdn.myanimelist.net/images/manga/1/128999.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 176

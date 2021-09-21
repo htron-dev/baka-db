@@ -1,5 +1,7 @@
 # Kashimashi Meshi
 
+![kashimashi-meshi](https://cdn.myanimelist.net/images/manga/2/200354.jpg)
+
 -   **type**: manga
 -   **original-name**: かしましめし
 -   **start-date**: 2016-02-08

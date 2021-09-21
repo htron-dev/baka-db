@@ -1,5 +1,7 @@
 # KOOLS
 
+![kools](https://cdn.myanimelist.net/images/manga/1/18830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: KOOLS 愛し方を知らないあなたへ

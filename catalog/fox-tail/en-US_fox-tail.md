@@ -1,5 +1,7 @@
 # Fox Tail?
 
+![fox-tail](https://cdn.myanimelist.net/images/manga/2/163177.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 40

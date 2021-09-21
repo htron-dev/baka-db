@@ -1,5 +1,7 @@
 # Ginsetsuou no Kyouai: Wasurerareta Mitsugetsu
 
+![ginsetsuou-no-kyouai-wasurerareta-mitsugetsu](https://cdn.myanimelist.net/images/manga/1/192823.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

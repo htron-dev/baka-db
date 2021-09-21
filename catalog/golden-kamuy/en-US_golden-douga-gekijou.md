@@ -1,5 +1,7 @@
 # Golden Douga Gekijou
 
+![golden-douga-gekijou](https://cdn.myanimelist.net/images/anime/1946/93002.jpg)
+
 -   **type**: ona
 -   **episodes**: 33
 -   **original-name**: ゴールデン道画劇場

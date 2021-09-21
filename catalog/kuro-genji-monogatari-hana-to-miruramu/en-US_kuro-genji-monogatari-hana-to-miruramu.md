@@ -1,5 +1,7 @@
 # Kuro Genji Monogatari: Hana to Miruramu
 
+![kuro-genji-monogatari-hana-to-miruramu](https://cdn.myanimelist.net/images/manga/3/170779.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

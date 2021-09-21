@@ -1,5 +1,7 @@
 # It's Marey O'Clock Now!
 
+![its-marey-o-clock-now](https://cdn.myanimelist.net/images/anime/1338/106579.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: it’s MAREY o’clock now!

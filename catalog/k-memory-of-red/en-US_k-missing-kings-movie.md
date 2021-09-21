@@ -1,5 +1,7 @@
 # K: Missing Kings
 
+![k-missing-kings](https://cdn.myanimelist.net/images/anime/5/71795.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K MISSING KINGS

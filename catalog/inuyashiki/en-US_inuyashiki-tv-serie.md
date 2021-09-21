@@ -1,5 +1,7 @@
 # Inuyashiki
 
+![inuyashiki](https://cdn.myanimelist.net/images/anime/7/88471.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: いぬやしき

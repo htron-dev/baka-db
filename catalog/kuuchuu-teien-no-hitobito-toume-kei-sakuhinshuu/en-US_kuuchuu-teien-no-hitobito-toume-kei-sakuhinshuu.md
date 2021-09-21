@@ -1,5 +1,7 @@
 # Kuuchuu Teien no Hitobito: Toume Kei Sakuhinshuu
 
+![kuuchuu-teien-no-hitobito-toume-kei-sakuhinshuu](https://cdn.myanimelist.net/images/manga/3/221421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Eiyuu Kyoushitsu: Honoo no Empress
 
+![eiyuu-kyoushitsu-honoo-no-empress](https://cdn.myanimelist.net/images/manga/2/166832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

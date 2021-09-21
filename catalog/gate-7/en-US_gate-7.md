@@ -1,5 +1,7 @@
 # Gate 7
 
+![gate-7](https://cdn.myanimelist.net/images/manga/3/44915.jpg)
+
 -   **type**: manga
 -   **original-name**: GATE 7
 -   **start-date**: 2010-11-04

@@ -1,5 +1,7 @@
 # Dark Act
 
+![dark-act](https://cdn.myanimelist.net/images/manga/3/79729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

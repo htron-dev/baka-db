@@ -1,5 +1,7 @@
 # Hataraku Kesshouban-chan
 
+![hataraku-kesshouban-chan](https://cdn.myanimelist.net/images/manga/1/249737.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらく血小板ちゃん
 -   **start-date**: 2019-05-25

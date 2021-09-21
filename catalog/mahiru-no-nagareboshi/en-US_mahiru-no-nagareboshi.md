@@ -1,5 +1,7 @@
 # Mahiru no Nagareboshi
 
+![mahiru-no-nagareboshi](https://cdn.myanimelist.net/images/manga/2/40640.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

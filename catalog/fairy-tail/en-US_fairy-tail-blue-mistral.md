@@ -1,5 +1,7 @@
 # Fairy Tail: Blue Mistral
 
+![fairy-tail-blue-mistral](https://cdn.myanimelist.net/images/manga/2/153098.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Don't Trust Over 30
 
+![dont-trust-over-30](https://cdn.myanimelist.net/images/manga/3/33965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

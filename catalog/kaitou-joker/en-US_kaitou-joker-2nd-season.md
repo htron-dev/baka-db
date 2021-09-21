@@ -1,5 +1,7 @@
 # Kaitou Joker 2nd Season
 
+![kaitou-joker-2nd-season](https://cdn.myanimelist.net/images/anime/9/72812.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 怪盗ジョーカー シーズン

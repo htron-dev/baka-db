@@ -1,5 +1,7 @@
 # Shin Don Chuck Monogatari
 
+![shin-don-chuck-monogatari](https://cdn.myanimelist.net/images/anime/5/60419.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 73
 -   **original-name**: 新ドン・チャック物語

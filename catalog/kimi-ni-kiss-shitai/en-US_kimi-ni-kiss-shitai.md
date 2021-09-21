@@ -1,5 +1,7 @@
 # Kimi ni Kiss Shitai
 
+![kimi-ni-kiss-shitai](https://cdn.myanimelist.net/images/manga/3/35924.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 君に Kiss したい

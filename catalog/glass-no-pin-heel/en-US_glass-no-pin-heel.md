@@ -1,5 +1,7 @@
 # Glass no Pin Heel
 
+![glass-no-pin-heel](https://cdn.myanimelist.net/images/manga/3/126117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガラスのピンヒール

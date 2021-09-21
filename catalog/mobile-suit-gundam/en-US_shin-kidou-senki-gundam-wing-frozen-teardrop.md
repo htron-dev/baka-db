@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing: Frozen Teardrop
 
+![shin-kidou-senki-gundam-wing-frozen-teardrop](https://cdn.myanimelist.net/images/manga/1/147435.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 36

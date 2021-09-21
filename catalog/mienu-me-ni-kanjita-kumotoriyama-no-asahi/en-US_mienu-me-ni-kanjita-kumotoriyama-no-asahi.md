@@ -1,5 +1,7 @@
 # Mienu Me ni Kanjita Kumotoriyama no Asahi
 
+![mienu-me-ni-kanjita-kumotoriyama-no-asahi](https://cdn.myanimelist.net/images/anime/4/66197.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 見えぬ目に感じた雲取山の朝日

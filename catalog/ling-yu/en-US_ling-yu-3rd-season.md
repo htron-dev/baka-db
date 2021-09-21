@@ -1,5 +1,7 @@
 # Ling Yu 3rd Season
 
+![ling-yu-3rd-season](https://cdn.myanimelist.net/images/anime/2/88950.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 灵域 第三季

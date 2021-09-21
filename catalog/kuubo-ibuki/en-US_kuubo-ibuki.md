@@ -1,5 +1,7 @@
 # Kuubo Ibuki
 
+![kuubo-ibuki](https://cdn.myanimelist.net/images/manga/1/194377.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 103

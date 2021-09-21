@@ -1,5 +1,7 @@
 # Isekai Majutsushi wa Mahou wo Tonaenai the Comic
 
+![isekai-majutsushi-wa-mahou-wo-tonaenai-the-comic](https://cdn.myanimelist.net/images/manga/1/240468.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界魔術師は魔法を唱えない THE COMIC
 -   **start-date**: 2020-06-01

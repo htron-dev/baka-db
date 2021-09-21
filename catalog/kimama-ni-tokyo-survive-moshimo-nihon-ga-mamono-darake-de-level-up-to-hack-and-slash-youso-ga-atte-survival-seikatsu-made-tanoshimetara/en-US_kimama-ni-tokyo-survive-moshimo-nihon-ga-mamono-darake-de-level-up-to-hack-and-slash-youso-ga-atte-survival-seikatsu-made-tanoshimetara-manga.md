@@ -1,5 +1,7 @@
 # Kimama ni Tokyo Survive.: Moshimo Nihon ga Mamono darake de, Level Up to Hack-and-Slash Youso ga Atte, Survival Seikatsu made Tanoshimetara.
 
+![kimama-ni-tokyo-survive-moshimo-nihon-ga-mamono-darake-de-level-up-to-hack-and-slash-youso-ga-atte-survival-seikatsu-made-tanoshimetara](https://cdn.myanimelist.net/images/manga/3/241902.jpg)
+
 -   **type**: manga
 -   **original-name**: 気ままに東京サバイブ。もしも日本が魔物だらけで、レベルアップとハクスラ要素があって、サバイバル生活まで楽しめたら。
 -   **start-date**: 2019-11-27

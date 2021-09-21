@@ -1,5 +1,7 @@
 # Kiki to Lala no Aoi Tori
 
+![kiki-to-lala-no-aoi-tori](https://cdn.myanimelist.net/images/anime/11/25741.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キキとララの青い鳥

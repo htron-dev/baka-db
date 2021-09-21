@@ -1,5 +1,7 @@
 # Dekobou no Jidousha Ryokou
 
+![dekobou-no-jidousha-ryokou](https://cdn.myanimelist.net/images/anime/2/15842.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 凸坊の自動車旅行

@@ -1,5 +1,7 @@
 # Dragon Kishidan
 
+![dragon-kishidan](https://cdn.myanimelist.net/images/manga/2/180630.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **original-name**: ドラゴン騎士団

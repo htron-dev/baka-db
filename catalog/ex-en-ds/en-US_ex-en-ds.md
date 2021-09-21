@@ -1,5 +1,7 @@
 # exENDs
 
+![ex-en-ds](https://cdn.myanimelist.net/images/manga/2/210568.jpg)
+
 -   **type**: manga
 -   **original-name**: exENDs -エクスエンズ-
 -   **start-date**: 2017-12-15

@@ -1,5 +1,7 @@
 # Gantz 2nd Stage
 
+![gantz-2nd-stage](https://cdn.myanimelist.net/images/anime/10/23247.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ガンツ

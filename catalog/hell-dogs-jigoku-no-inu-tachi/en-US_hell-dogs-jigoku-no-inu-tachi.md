@@ -1,5 +1,7 @@
 # Hell Dogs: Jigoku no Inu-tachi
 
+![hell-dogs-jigoku-no-inu-tachi](https://cdn.myanimelist.net/images/manga/1/235472.jpg)
+
 -   **type**: manga
 -   **original-name**: ヘルドッグス 地獄の犬たち
 -   **start-date**: 2020-04-04

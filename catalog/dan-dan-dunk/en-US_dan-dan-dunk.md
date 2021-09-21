@@ -1,5 +1,7 @@
 # Dan Dan Dunk!
 
+![dan-dan-dunk](https://cdn.myanimelist.net/images/manga/2/58981.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

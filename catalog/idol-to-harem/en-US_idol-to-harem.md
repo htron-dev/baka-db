@@ -1,5 +1,7 @@
 # Idol to Harem
 
+![idol-to-harem](https://cdn.myanimelist.net/images/manga/2/135945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

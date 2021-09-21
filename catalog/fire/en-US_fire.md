@@ -1,5 +1,7 @@
 # Fire!
 
+![fire](https://cdn.myanimelist.net/images/manga/5/13649.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **start-date**: 1969-01-19

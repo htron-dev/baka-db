@@ -1,5 +1,7 @@
 # Joukyou Afro Tanaka
 
+![joukyou-afro-tanaka](https://cdn.myanimelist.net/images/manga/1/168995.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 110

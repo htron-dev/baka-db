@@ -1,5 +1,7 @@
 # Dokkiri Doctor Special
 
+![dokkiri-doctor-special](https://cdn.myanimelist.net/images/anime/12/44077.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドッキリドクター 乙女の(秘)健康診断!!

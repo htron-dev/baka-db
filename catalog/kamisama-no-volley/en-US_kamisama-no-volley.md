@@ -1,5 +1,7 @@
 # Kamisama no Volley
 
+![kamisama-no-volley](https://cdn.myanimelist.net/images/manga/2/227580.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様のバレー
 -   **start-date**: 2012-12-07

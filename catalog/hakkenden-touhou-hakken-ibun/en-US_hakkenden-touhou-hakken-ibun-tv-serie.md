@@ -1,5 +1,7 @@
 # Hakkenden: Touhou Hakken Ibun
 
+![hakkenden-touhou-hakken-ibun](https://cdn.myanimelist.net/images/anime/13/43007.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 八犬伝 -東方八犬異聞-

@@ -1,5 +1,7 @@
 # Doraemon Movie 27: Nobita no Shin Makai Daibouken - 7-nin no Mahoutsukai
 
+![doraemon-movie-27-nobita-no-shin-makai-daibouken-7-nin-no-mahoutsukai](https://cdn.myanimelist.net/images/anime/2/72432.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の新魔界大冒険～ 7 人の魔法使い～

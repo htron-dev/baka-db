@@ -1,5 +1,7 @@
 # Itazura Neko ni Goyoujin
 
+![itazura-neko-ni-goyoujin](https://cdn.myanimelist.net/images/manga/4/14155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

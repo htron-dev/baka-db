@@ -1,5 +1,7 @@
 # Water Cube
 
+![water-cube](https://cdn.myanimelist.net/images/manga/3/57997.jpg)
+
 -   **type**: manga
 -   **original-name**: water cube
 -   **start-date**: 2011-03-12

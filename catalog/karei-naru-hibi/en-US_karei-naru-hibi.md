@@ -1,5 +1,7 @@
 # Karei naru Hibi
 
+![karei-naru-hibi](https://cdn.myanimelist.net/images/manga/3/228886.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 華麗なる日々

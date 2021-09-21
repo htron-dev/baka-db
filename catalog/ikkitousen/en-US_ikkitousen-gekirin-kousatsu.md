@@ -1,5 +1,7 @@
 # Ikkitousen: Gekirin Kousatsu.
 
+![ikkitousen-gekirin-kousatsu](https://cdn.myanimelist.net/images/manga/1/180442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

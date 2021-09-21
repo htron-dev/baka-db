@@ -1,5 +1,7 @@
 # Gundam: G no Reconguista
 
+![gundam-g-no-reconguista](https://cdn.myanimelist.net/images/manga/2/148969.jpg)
+
 -   **type**: manga
 -   **original-name**: ガンダム G のレコンギスタ
 -   **start-date**: 2014-08-26

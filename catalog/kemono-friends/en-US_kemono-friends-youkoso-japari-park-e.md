@@ -1,5 +1,7 @@
 # Kemono Friends: Youkoso Japari Park e!
 
+![kemono-friends-youkoso-japari-park-e](https://cdn.myanimelist.net/images/manga/1/187856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

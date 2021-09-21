@@ -1,5 +1,7 @@
 # Eden (ONA)
 
+![eden-ona](https://cdn.myanimelist.net/images/anime/1621/114901.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: エデン

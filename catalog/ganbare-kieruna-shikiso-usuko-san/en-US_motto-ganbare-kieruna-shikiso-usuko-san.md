@@ -1,5 +1,7 @@
 # Motto! Ganbare! Kieruna!! Shikiso Usuko-san
 
+![motto-ganbare-kieruna-shikiso-usuko-san](https://cdn.myanimelist.net/images/manga/1/202413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

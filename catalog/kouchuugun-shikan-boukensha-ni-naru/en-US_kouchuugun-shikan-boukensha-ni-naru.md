@@ -1,5 +1,7 @@
 # Kouchuugun Shikan, Boukensha ni Naru
 
+![kouchuugun-shikan-boukensha-ni-naru](https://cdn.myanimelist.net/images/manga/2/234810.jpg)
+
 -   **type**: manga
 -   **original-name**: 航宙軍士官、冒険者になる
 -   **start-date**: 2018-12-28

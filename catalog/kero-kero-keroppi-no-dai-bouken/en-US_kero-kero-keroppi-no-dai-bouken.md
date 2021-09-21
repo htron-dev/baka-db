@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Dai Bouken
 
+![kero-kero-keroppi-no-dai-bouken](https://cdn.myanimelist.net/images/anime/13/59059.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの大冒険

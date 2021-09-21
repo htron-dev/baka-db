@@ -1,5 +1,7 @@
 # Kono Omoi wa Tada Kurushikute
 
+![kono-omoi-wa-tada-kurushikute](https://cdn.myanimelist.net/images/manga/2/174582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: この想いはただ苦しくて

@@ -1,5 +1,7 @@
 # Kyou mo Minna, Oekaki ga Suki desu.
 
+![kyou-mo-minna-oekaki-ga-suki-desu](https://cdn.myanimelist.net/images/manga/2/174721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

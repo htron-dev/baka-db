@@ -1,5 +1,7 @@
 # HB na Kanojo
 
+![hb-na-kanojo](https://cdn.myanimelist.net/images/manga/3/240402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

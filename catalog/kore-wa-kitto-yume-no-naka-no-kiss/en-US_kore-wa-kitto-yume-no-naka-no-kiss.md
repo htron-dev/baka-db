@@ -1,5 +1,7 @@
 # Kore wa Kitto Yume no Naka no Kiss
 
+![kore-wa-kitto-yume-no-naka-no-kiss](https://cdn.myanimelist.net/images/manga/1/225135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

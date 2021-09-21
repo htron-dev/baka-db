@@ -1,5 +1,7 @@
 # Idol H: Himeko no Himitsu
 
+![idol-h-himeko-no-himitsu](https://cdn.myanimelist.net/images/manga/1/151935.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

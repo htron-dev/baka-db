@@ -1,5 +1,7 @@
 # Madou King Granzort
 
+![madou-king-granzort](https://cdn.myanimelist.net/images/anime/7/11702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 41
 -   **original-name**: 魔動王グランゾート

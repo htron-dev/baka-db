@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken: Phantom Blood Pilot
 
+![jo-jo-no-kimyou-na-bouken-phantom-blood-pilot](https://cdn.myanimelist.net/images/anime/1704/106122.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジョジョの奇妙な冒険 ファントム ブラッド

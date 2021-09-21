@@ -1,5 +1,7 @@
 # Koakuma wa Ore no Iinari
 
+![koakuma-wa-ore-no-iinari](https://cdn.myanimelist.net/images/manga/3/200513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

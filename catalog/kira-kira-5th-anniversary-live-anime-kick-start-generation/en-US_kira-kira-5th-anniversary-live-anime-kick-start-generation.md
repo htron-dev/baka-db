@@ -1,5 +1,7 @@
 # Kira Kira 5th Anniversary Live Anime: Kick Start Generation
 
+![kira-kira-5th-anniversary-live-anime-kick-start-generation](https://cdn.myanimelist.net/images/anime/13/41237.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キラ ☆ キラ 5th Anniversary Live Anime KICK START GENERATION

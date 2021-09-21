@@ -1,5 +1,7 @@
 # Hot Gimmick S
 
+![hot-gimmick-s](https://cdn.myanimelist.net/images/manga/4/142829.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kooru Sora, Sakou no Kuni
 
+![kooru-sora-sakou-no-kuni](https://cdn.myanimelist.net/images/manga/2/227561.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

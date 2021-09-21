@@ -1,5 +1,7 @@
 # Kanpeki☆Kareshi Kanojo
 
+![kanpeki☆-kareshi-kanojo](https://cdn.myanimelist.net/images/manga/3/105175.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

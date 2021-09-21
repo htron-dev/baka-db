@@ -1,5 +1,7 @@
 # Kujira no Chouyaku
 
+![kujira-no-chouyaku](https://cdn.myanimelist.net/images/anime/13/49983.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クジラの跳躍

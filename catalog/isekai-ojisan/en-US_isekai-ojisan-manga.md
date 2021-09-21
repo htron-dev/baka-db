@@ -1,5 +1,7 @@
 # Isekai Ojisan
 
+![isekai-ojisan](https://cdn.myanimelist.net/images/manga/3/226205.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界おじさん
 -   **start-date**: 2018-06-29

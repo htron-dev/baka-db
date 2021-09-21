@@ -1,5 +1,7 @@
 # Hana to Uso to Makoto
 
+![hana-to-uso-to-makoto](https://cdn.myanimelist.net/images/manga/1/149626.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

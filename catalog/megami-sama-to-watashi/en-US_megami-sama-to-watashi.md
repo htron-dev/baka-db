@@ -1,5 +1,7 @@
 # Megami-sama to Watashi
 
+![megami-sama-to-watashi](https://cdn.myanimelist.net/images/manga/1/236611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

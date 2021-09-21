@@ -1,5 +1,7 @@
 # Mozuku, Walking!
 
+![mozuku-walking](https://cdn.myanimelist.net/images/manga/1/195201.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 82

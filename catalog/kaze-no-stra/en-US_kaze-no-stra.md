@@ -1,5 +1,7 @@
 # Kaze no Stra
 
+![kaze-no-stra](https://cdn.myanimelist.net/images/manga/1/128599.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Magic Love Child
 
+![magic-love-child](https://cdn.myanimelist.net/images/manga/1/29934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マジックラブ チャイルド

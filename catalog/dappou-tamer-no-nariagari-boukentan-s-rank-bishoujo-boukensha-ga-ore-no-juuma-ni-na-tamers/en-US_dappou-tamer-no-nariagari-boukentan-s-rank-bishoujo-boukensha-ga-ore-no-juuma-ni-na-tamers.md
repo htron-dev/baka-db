@@ -1,5 +1,7 @@
 # Dappou Tamer no Nariagari Boukentan: S-Rank Bishoujo Boukensha ga Ore no Juuma ni Na! Tamers
 
+![dappou-tamer-no-nariagari-boukentan-s-rank-bishoujo-boukensha-ga-ore-no-juuma-ni-na-tamers](https://cdn.myanimelist.net/images/manga/2/241641.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 脱法テイマーの成り上がり冒険譚 ~S ランク美少女冒険者が俺の獣魔になっテイマす~
 -   **start-date**: 2020-12-25

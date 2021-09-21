@@ -1,5 +1,7 @@
 # Lupin III: Fuuma Ichizoku no Inbou
 
+![lupin-iii-fuuma-ichizoku-no-inbou](https://cdn.myanimelist.net/images/anime/1142/94365.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世　風魔一族の陰謀

@@ -1,5 +1,7 @@
 # Kidou Teikoku Obitaria
 
+![kidou-teikoku-obitaria](https://cdn.myanimelist.net/images/manga/2/174113.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

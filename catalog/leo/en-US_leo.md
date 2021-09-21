@@ -1,5 +1,7 @@
 # Leo
 
+![leo](https://cdn.myanimelist.net/images/manga/1/179529.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 烈王（レオ）

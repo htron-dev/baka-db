@@ -1,5 +1,7 @@
 # Kakutou Komusume Juline
 
+![kakutou-komusume-juline](https://cdn.myanimelist.net/images/manga/3/167712.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

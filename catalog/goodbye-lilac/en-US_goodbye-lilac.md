@@ -1,5 +1,7 @@
 # Goodbye Lilac
 
+![goodbye-lilac](https://cdn.myanimelist.net/images/manga/1/185836.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

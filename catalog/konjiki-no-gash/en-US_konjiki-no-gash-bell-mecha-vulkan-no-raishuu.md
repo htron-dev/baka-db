@@ -1,5 +1,7 @@
 # Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu
 
+![konjiki-no-gash-bell-mecha-vulkan-no-raishuu](https://cdn.myanimelist.net/images/anime/1459/95423.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　金色のガッシュベル!!　メカバルカンの来襲

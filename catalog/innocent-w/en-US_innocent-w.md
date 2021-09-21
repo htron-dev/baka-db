@@ -1,5 +1,7 @@
 # Innocent W
 
+![innocent-w](https://cdn.myanimelist.net/images/manga/3/180642.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Kappa no Kaikata
 
+![kappa-no-kaikata](https://cdn.myanimelist.net/images/manga/2/195632.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 371

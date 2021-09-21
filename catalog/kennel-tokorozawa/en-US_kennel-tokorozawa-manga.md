@@ -1,5 +1,7 @@
 # Kennel Tokorozawa
 
+![kennel-tokorozawa](https://cdn.myanimelist.net/images/manga/3/230280.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 81

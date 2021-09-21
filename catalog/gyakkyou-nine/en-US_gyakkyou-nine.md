@@ -1,5 +1,7 @@
 # Gyakkyou Nine
 
+![gyakkyou-nine](https://cdn.myanimelist.net/images/manga/2/17424.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

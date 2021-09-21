@@ -1,5 +1,7 @@
 # Hellsing Ultimate
 
+![hellsing-ultimate](https://cdn.myanimelist.net/images/anime/6/7333.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: HELLSING OVA

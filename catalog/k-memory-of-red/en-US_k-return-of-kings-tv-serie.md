@@ -1,5 +1,7 @@
 # K: Return of Kings
 
+![k-return-of-kings](https://cdn.myanimelist.net/images/anime/6/76198.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: K RETURN OF KINGS

@@ -1,5 +1,7 @@
 # Gareki no Ou
 
+![gareki-no-ou](https://cdn.myanimelist.net/images/manga/2/15991.jpg)
+
 -   **type**: manga
 -   **original-name**: ガレキの王
 -   **start-date**: 2006-01-20

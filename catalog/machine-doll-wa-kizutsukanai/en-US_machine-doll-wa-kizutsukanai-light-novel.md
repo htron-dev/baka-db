@@ -1,5 +1,7 @@
 # Machine-Doll wa Kizutsukanai
 
+![machine-doll-wa-kizutsukanai](https://cdn.myanimelist.net/images/manga/2/120687.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 17
 -   **chapters**: 141

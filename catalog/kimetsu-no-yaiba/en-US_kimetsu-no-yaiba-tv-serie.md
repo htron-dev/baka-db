@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba
 
+![kimetsu-no-yaiba](https://cdn.myanimelist.net/images/anime/1286/99889.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 鬼滅の刃

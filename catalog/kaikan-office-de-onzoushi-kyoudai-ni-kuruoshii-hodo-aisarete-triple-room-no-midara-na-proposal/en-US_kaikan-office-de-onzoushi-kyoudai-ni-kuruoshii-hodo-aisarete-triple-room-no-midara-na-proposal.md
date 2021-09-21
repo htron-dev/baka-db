@@ -1,5 +1,7 @@
 # Kaikan Office de Onzoushi Kyoudai ni Kuruoshii hodo Aisarete: Triple Room no Midara na Proposal
 
+![kaikan-office-de-onzoushi-kyoudai-ni-kuruoshii-hodo-aisarete-triple-room-no-midara-na-proposal](https://cdn.myanimelist.net/images/manga/3/198080.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 快感オフィスで御曹司兄弟に狂おしいほど愛されて ～トリプルルームの淫らなプロポーズ～

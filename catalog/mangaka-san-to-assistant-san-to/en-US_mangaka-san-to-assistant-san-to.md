@@ -1,5 +1,7 @@
 # Mangaka-san to Assistant-san to
 
+![mangaka-san-to-assistant-san-to](https://cdn.myanimelist.net/images/manga/1/51369.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 160

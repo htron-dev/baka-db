@@ -1,5 +1,7 @@
 # Gatchaman
 
+![gatchaman](https://cdn.myanimelist.net/images/anime/6/63307.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: GATCHAMAN

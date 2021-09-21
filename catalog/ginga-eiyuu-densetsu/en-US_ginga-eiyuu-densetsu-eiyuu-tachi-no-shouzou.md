@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu: Eiyuu-tachi no Shouzou
 
+![ginga-eiyuu-densetsu-eiyuu-tachi-no-shouzou](https://cdn.myanimelist.net/images/manga/1/184033.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

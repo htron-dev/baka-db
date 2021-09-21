@@ -1,5 +1,7 @@
 # Goth Loli Ping Pong
 
+![goth-loli-ping-pong](https://cdn.myanimelist.net/images/manga/3/221974.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ゴスロリ卓球〈ピンポン〉
 -   **start-date**: 2018-09-07

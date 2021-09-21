@@ -1,5 +1,7 @@
 # Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
 
+![jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de](https://cdn.myanimelist.net/images/manga/3/197880.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

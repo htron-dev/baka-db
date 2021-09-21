@@ -1,5 +1,7 @@
 # Hoshi no Shima no Nyanko
 
+![hoshi-no-shima-no-nyanko](https://cdn.myanimelist.net/images/anime/1147/96582.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ほしの島のにゃんこ

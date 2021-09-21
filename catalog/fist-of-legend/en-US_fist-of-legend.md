@@ -1,5 +1,7 @@
 # Fist of Legend
 
+![fist-of-legend](https://cdn.myanimelist.net/images/manga/1/200203.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 40

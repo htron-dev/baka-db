@@ -1,5 +1,7 @@
 # Keppeki Shounen Kanzen Soubi
 
+![keppeki-shounen-kanzen-soubi](https://cdn.myanimelist.net/images/manga/2/15739.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

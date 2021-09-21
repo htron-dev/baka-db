@@ -1,5 +1,7 @@
 # Minegishi-san wa Ootsu-kun ni Tabesasetai
 
+![minegishi-san-wa-ootsu-kun-ni-tabesasetai](https://cdn.myanimelist.net/images/anime/1547/108310.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 峰岸さんは大津くんに食べさせたい

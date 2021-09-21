@@ -1,5 +1,7 @@
 # Kiss shitai tte Nedattemiro yo
 
+![kiss-shitai-tte-nedattemiro-yo](https://cdn.myanimelist.net/images/manga/1/224162.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

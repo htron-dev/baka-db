@@ -1,5 +1,7 @@
 # Gundam Build Divers Re:Rise
 
+![gundam-build-divers-re-rise](https://cdn.myanimelist.net/images/anime/1011/109143.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ガンダムビルドダイバーズ Re:RISE

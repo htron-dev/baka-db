@@ -1,5 +1,7 @@
 # D.C.S.G.: Da Capo - Second Graduation
 
+![d-c-s-g-da-capo-second-graduation](https://cdn.myanimelist.net/images/manga/1/173310.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: D.C.S.G. ダ・カーポ ～セカンドグラデュエーション～

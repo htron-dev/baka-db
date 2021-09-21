@@ -1,5 +1,7 @@
 # Hajimari no Kankei
 
+![hajimari-no-kankei](https://cdn.myanimelist.net/images/manga/3/6011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: はじまりの関係

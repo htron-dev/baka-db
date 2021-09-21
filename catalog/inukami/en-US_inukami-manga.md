@@ -1,5 +1,7 @@
 # Inukami!
 
+![inukami](https://cdn.myanimelist.net/images/manga/2/159384.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

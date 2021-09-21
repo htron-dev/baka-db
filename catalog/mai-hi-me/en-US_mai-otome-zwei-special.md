@@ -1,5 +1,7 @@
 # Mai-Otome Zwei Special
 
+![mai-otome-zwei-special](https://cdn.myanimelist.net/images/anime/9/13750.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 舞-乙 HiME ZWEI

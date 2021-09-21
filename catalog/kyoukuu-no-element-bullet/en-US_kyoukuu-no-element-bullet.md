@@ -1,5 +1,7 @@
 # Kyoukuu no Element Bullet
 
+![kyoukuu-no-element-bullet](https://cdn.myanimelist.net/images/manga/1/162595.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

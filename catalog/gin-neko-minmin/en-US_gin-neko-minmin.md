@@ -1,5 +1,7 @@
 # Gin Neko Minmin
 
+![gin-neko-minmin](https://cdn.myanimelist.net/images/manga/1/130717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぎんねこ MINMIN

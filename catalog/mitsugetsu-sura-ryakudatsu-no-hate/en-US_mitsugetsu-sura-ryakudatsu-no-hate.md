@@ -1,5 +1,7 @@
 # Mitsugetsu sura Ryakudatsu no hate
 
+![mitsugetsu-sura-ryakudatsu-no-hate](https://cdn.myanimelist.net/images/manga/2/60377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

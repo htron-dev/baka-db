@@ -1,5 +1,7 @@
 # Kiss made, Ato 1-byou.
 
+![kiss-made-ato-1-byou](https://cdn.myanimelist.net/images/manga/1/223898.jpg)
+
 -   **type**: manga
 -   **original-name**: キスまで、あと 1 秒。
 -   **start-date**: 2016-02-22

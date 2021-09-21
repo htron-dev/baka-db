@@ -1,5 +1,7 @@
 # Elle to Takara
 
+![elle-to-takara](https://cdn.myanimelist.net/images/manga/1/62355.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: エレとタカラ

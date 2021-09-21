@@ -1,5 +1,7 @@
 # Mada Koi to wa Shirazu ni
 
+![mada-koi-to-wa-shirazu-ni](https://cdn.myanimelist.net/images/manga/1/13985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

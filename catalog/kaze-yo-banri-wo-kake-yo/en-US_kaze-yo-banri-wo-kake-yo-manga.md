@@ -1,5 +1,7 @@
 # Kaze yo, Banri wo Kake yo
 
+![kaze-yo-banri-wo-kake-yo](https://cdn.myanimelist.net/images/manga/3/235825.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

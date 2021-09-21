@@ -1,5 +1,7 @@
 # GA: Geijutsuka Art Design Class
 
+![ga-geijutsuka-art-design-class](https://cdn.myanimelist.net/images/anime/7/56975.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GA 芸術科アートデザインクラス

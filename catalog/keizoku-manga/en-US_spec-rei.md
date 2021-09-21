@@ -1,5 +1,7 @@
 # Spec: Rei
 
+![spec-rei](https://cdn.myanimelist.net/images/manga/3/149783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

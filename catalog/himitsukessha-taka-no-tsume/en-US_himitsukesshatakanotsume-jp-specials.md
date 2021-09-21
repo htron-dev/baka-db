@@ -1,5 +1,7 @@
 # himitsukesshatakanotsume.jp Specials
 
+![himitsukesshatakanotsume-jp-specials](https://cdn.myanimelist.net/images/anime/2/74059.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 秘密結社鷹の爪.jp 番外編

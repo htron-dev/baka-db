@@ -1,5 +1,7 @@
 # Human.Noah no Koe
 
+![human-noah-no-koe](https://cdn.myanimelist.net/images/manga/1/33179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヒューマン・ノーアの声

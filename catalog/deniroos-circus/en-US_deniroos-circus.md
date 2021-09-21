@@ -1,5 +1,7 @@
 # Deniroo's Circus
 
+![deniroos-circus](https://cdn.myanimelist.net/images/anime/12/76256.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Deniroo's Circus

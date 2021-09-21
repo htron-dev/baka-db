@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi: Kurenai Gekkou no Seitokaishitsu
 
+![itsuka-tenma-no-kuro-usagi-kurenai-gekkou-no-seitokaishitsu](https://cdn.myanimelist.net/images/manga/1/99495.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 56

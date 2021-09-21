@@ -1,5 +1,7 @@
 # M no Folklore
 
+![m-no-folklore](https://cdn.myanimelist.net/images/manga/3/171817.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

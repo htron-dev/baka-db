@@ -1,5 +1,7 @@
 # Hima nanode Hajimete Mimasu.
 
+![hima-nanode-hajimete-mimasu](https://cdn.myanimelist.net/images/manga/1/87319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

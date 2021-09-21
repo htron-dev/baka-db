@@ -1,5 +1,7 @@
 # Koko wo Isekai to Suru!
 
+![koko-wo-isekai-to-suru](https://cdn.myanimelist.net/images/manga/3/220593.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kimi-iro Real.
 
+![kimi-iro-real](https://cdn.myanimelist.net/images/manga/2/154135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

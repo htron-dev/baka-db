@@ -1,5 +1,7 @@
 # Kokuyou no Sheikh wa Ai wo Sasayaku
 
+![kokuyou-no-sheikh-wa-ai-wo-sasayaku](https://cdn.myanimelist.net/images/manga/3/159978.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 45

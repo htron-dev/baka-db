@@ -1,5 +1,7 @@
 # Mameshiba x Gaist Crusher Collab CM
 
+![mameshiba-x-gaist-crusher-collab-cm](https://cdn.myanimelist.net/images/anime/6/80692.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 豆しば × ガイストクラッシャーコラボ CM

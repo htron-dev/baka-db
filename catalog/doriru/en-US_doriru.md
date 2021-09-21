@@ -1,5 +1,7 @@
 # Doriru
 
+![doriru](https://cdn.myanimelist.net/images/manga/2/196504.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

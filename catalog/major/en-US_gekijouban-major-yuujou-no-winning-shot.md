@@ -1,5 +1,7 @@
 # Gekijouban Major: Yuujou no Winning Shot
 
+![gekijouban-major-yuujou-no-winning-shot](https://cdn.myanimelist.net/images/manga/3/183302.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

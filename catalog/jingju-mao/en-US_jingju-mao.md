@@ -1,5 +1,7 @@
 # Jingju Mao
 
+![jingju-mao](https://cdn.myanimelist.net/images/anime/1408/107616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 京剧猫

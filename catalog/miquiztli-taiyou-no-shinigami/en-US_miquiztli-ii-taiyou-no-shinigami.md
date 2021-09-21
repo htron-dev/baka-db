@@ -1,5 +1,7 @@
 # Miquiztli II: Taiyou no Shinigami
 
+![miquiztli-ii-taiyou-no-shinigami](https://cdn.myanimelist.net/images/manga/1/246311.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

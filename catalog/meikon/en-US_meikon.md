@@ -1,5 +1,7 @@
 # Meikon
 
+![meikon](https://cdn.myanimelist.net/images/manga/1/32597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

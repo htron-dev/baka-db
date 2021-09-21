@@ -1,5 +1,7 @@
 # Mushishi Zoku Shou 2nd Season
 
+![mushishi-zoku-shou-2nd-season](https://cdn.myanimelist.net/images/anime/9/68095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 蟲師 続章

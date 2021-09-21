@@ -1,5 +1,7 @@
 # Gonta!
 
+![gonta](https://cdn.myanimelist.net/images/manga/1/43020.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

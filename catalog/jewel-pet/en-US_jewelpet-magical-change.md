@@ -1,5 +1,7 @@
 # Jewelpet Magical Change
 
+![jewelpet-magical-change](https://cdn.myanimelist.net/images/anime/5/73970.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ジュエルペット マジカルチェンジ

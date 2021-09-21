@@ -1,5 +1,7 @@
 # InuYasha Movie 2: Kagami no Naka no Mugenjo
 
+![inu-yasha-movie-2-kagami-no-naka-no-mugenjo](https://cdn.myanimelist.net/images/anime/1162/92219.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犬夜叉 鏡の中の夢幻城

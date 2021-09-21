@@ -1,5 +1,7 @@
 # Kanojo wa Warlike
 
+![kanojo-wa-warlike](https://cdn.myanimelist.net/images/manga/3/110685.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 彼女は戦争妖精〈ウォーライク〉

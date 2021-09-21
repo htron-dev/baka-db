@@ -1,5 +1,7 @@
 # Memory Glass
 
+![memory-glass](https://cdn.myanimelist.net/images/manga/1/11934.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メモリーグラス

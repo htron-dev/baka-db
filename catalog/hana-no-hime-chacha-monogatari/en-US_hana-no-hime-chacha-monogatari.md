@@ -1,5 +1,7 @@
 # Hana no Hime: Chacha Monogatari
 
+![hana-no-hime-chacha-monogatari](https://cdn.myanimelist.net/images/manga/3/148173.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Koibana Real
 
+![koibana-real](https://cdn.myanimelist.net/images/manga/3/177248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋バナリアル

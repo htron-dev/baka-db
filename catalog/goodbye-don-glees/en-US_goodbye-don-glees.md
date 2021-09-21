@@ -1,5 +1,7 @@
 # Goodbye, DonGlees!
 
+![goodbye-don-glees](https://cdn.myanimelist.net/images/anime/1568/117628.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グッバイ、ドン・グリーズ！

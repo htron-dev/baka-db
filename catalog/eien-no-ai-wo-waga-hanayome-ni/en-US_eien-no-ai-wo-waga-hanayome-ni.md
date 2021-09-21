@@ -1,5 +1,7 @@
 # Eien no Ai wo, Waga Hanayome ni
 
+![eien-no-ai-wo-waga-hanayome-ni](https://cdn.myanimelist.net/images/manga/2/7690.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

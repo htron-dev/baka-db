@@ -1,5 +1,7 @@
 # Ibitsu na Bokura no Katachi
 
+![ibitsu-na-bokura-no-katachi](https://cdn.myanimelist.net/images/manga/1/244304.jpg)
+
 -   **type**: manga
 -   **original-name**: いびつなボクらのカタチ
 -   **start-date**: 2018-06-22

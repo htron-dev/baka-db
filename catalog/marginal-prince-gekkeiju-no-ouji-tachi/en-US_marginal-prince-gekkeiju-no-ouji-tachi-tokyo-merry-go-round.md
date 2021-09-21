@@ -1,5 +1,7 @@
 # Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round
 
+![marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round](https://cdn.myanimelist.net/images/anime/13/50039.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マージナルプリンス -月桂樹の王子達- 第 14 話「TOKYO メリーゴーランド」

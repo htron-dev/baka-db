@@ -1,5 +1,7 @@
 # Gekkou Spice
 
+![gekkou-spice](https://cdn.myanimelist.net/images/manga/2/10933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

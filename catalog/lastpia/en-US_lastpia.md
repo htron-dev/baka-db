@@ -1,5 +1,7 @@
 # Lastpia
 
+![lastpia](https://cdn.myanimelist.net/images/manga/3/234299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラストピア

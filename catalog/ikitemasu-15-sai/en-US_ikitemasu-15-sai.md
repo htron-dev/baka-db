@@ -1,5 +1,7 @@
 # Ikitemasu, 15-sai.
 
+![ikitemasu-15-sai](https://cdn.myanimelist.net/images/anime/6/66157.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 生きてます、15 歳。

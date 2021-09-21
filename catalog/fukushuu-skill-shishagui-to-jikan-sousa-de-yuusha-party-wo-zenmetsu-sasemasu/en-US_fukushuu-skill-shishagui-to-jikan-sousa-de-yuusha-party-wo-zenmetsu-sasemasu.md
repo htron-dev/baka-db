@@ -1,5 +1,7 @@
 # Fukushuu Skill "Shishagui" to "Jikan Sousa" de Yuusha Party wo Zenmetsu Sasemasu
 
+![fukushuu-skill-shishagui-to-jikan-sousa-de-yuusha-party-wo-zenmetsu-sasemasu](https://cdn.myanimelist.net/images/manga/3/196790.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 復讐スキル「死者喰い」と「時間操作」で勇者パーティーを全滅させます
 -   **start-date**: 2017-06-15

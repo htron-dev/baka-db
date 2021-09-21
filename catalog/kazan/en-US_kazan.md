@@ -1,5 +1,7 @@
 # Kazan
 
+![kazan](https://cdn.myanimelist.net/images/manga/3/129023.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 52

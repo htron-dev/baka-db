@@ -1,5 +1,7 @@
 # Kuroko no Basket 2nd Season NG-shuu
 
+![kuroko-no-basket-2nd-season-ng-shuu](https://cdn.myanimelist.net/images/anime/13/59027.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 黒子のバスケ NG 集

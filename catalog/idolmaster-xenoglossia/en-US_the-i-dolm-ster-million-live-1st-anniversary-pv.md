@@ -1,5 +1,7 @@
 # The iDOLM@STER Million Live! 1st Anniversary PV
 
+![the-i-dolm-ster-million-live-1st-anniversary-pv](https://cdn.myanimelist.net/images/anime/10/71589.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドルマスター ミリオンライブ！１周年記念ＰＶ

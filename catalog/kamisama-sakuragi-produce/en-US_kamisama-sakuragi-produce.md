@@ -1,5 +1,7 @@
 # Kamisama Sakuragi Produce
 
+![kamisama-sakuragi-produce](https://cdn.myanimelist.net/images/manga/1/142137.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

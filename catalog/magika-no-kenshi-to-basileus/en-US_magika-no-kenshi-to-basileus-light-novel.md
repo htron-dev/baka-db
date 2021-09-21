@@ -1,5 +1,7 @@
 # Magika no Kenshi to Basileus
 
+![magika-no-kenshi-to-basileus](https://cdn.myanimelist.net/images/manga/2/200207.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 82

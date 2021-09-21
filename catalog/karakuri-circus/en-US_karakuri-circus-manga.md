@@ -1,5 +1,7 @@
 # Karakuri Circus
 
+![karakuri-circus](https://cdn.myanimelist.net/images/manga/2/170932.jpg)
+
 -   **type**: manga
 -   **volumes**: 43
 -   **chapters**: 426

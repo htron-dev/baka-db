@@ -1,5 +1,7 @@
 # Koutaishi no Fiancée: Aiyoku no Ori ni Torawarete
 
+![koutaishi-no-fiancee-aiyoku-no-ori-ni-torawarete](https://cdn.myanimelist.net/images/manga/3/184120.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

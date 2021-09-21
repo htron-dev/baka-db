@@ -1,5 +1,7 @@
 # Kowashitai hodo Aisaretai
 
+![kowashitai-hodo-aisaretai](https://cdn.myanimelist.net/images/manga/2/11089.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: こわしたいほど愛されたい

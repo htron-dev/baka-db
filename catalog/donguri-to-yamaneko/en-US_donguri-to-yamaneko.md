@@ -1,5 +1,7 @@
 # Donguri to Yamaneko
 
+![donguri-to-yamaneko](https://cdn.myanimelist.net/images/anime/5/22304.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宮沢賢治作品集 どんぐりと山猫

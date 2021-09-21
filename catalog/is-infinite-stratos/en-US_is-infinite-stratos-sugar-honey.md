@@ -1,5 +1,7 @@
 # IS: Infinite Stratos - Sugar & Honey
 
+![is-infinite-stratos-sugar-honey](https://cdn.myanimelist.net/images/manga/3/134905.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

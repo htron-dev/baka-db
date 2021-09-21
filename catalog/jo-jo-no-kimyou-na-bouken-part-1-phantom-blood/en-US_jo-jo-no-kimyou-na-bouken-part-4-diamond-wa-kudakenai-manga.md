@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
 
+![jo-jo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai](https://cdn.myanimelist.net/images/manga/4/156988.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 174

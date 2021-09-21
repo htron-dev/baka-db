@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome Shihen.75: Inazuma Jack to Yousei Jiken
 
+![mahoutsukai-no-yome-shihen-75-inazuma-jack-to-yousei-jiken](https://cdn.myanimelist.net/images/manga/3/224839.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いの嫁 詩篇.75 稲妻ジャックと妖精事件
 -   **start-date**: 2019-04-12

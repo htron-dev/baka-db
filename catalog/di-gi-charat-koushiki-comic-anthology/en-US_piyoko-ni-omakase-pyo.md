@@ -1,5 +1,7 @@
 # Piyoko ni Omakase pyo!
 
+![piyoko-ni-omakase-pyo](https://cdn.myanimelist.net/images/anime/5/57029.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: ぴよこにおまかせぴょ！

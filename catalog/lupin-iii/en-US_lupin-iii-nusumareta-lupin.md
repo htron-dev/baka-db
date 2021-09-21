@@ -1,5 +1,7 @@
 # Lupin III: Nusumareta Lupin
 
+![lupin-iii-nusumareta-lupin](https://cdn.myanimelist.net/images/anime/12/27610.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 「盗まれたルパン ～コピーキャットは真夏の蝶～」

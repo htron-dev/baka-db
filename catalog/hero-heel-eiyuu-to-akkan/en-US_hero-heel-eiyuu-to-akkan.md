@@ -1,5 +1,7 @@
 # Hero Heel: Eiyuu to Akkan
 
+![hero-heel-eiyuu-to-akkan](https://cdn.myanimelist.net/images/manga/1/193140.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

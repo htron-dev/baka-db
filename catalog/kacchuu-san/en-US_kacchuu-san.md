@@ -1,5 +1,7 @@
 # Kacchuu-san
 
+![kacchuu-san](https://cdn.myanimelist.net/images/manga/2/140027.jpg)
+
 -   **type**: manga
 -   **original-name**: 甲冑さん
 -   **start-date**: 2013-08-15

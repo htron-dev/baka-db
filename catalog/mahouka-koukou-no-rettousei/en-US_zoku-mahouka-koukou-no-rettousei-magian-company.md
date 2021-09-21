@@ -1,5 +1,7 @@
 # Zoku Mahouka Koukou no Rettousei: Magian Company
 
+![zoku-mahouka-koukou-no-rettousei-magian-company](https://cdn.myanimelist.net/images/manga/2/237178.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 続・魔法科高校の劣等生 メイジアン・カンパニー
 -   **start-date**: 2020-10-10

@@ -1,5 +1,7 @@
 # Karei naru Sword Master to Saikyou naru Fushou no Deshi
 
+![karei-naru-sword-master-to-saikyou-naru-fushou-no-deshi](https://cdn.myanimelist.net/images/manga/3/160691.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 佳麗なるソードマスターと最強なる不肖の弟子

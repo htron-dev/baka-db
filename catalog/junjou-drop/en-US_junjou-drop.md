@@ -1,5 +1,7 @@
 # Junjou Drop
 
+![junjou-drop](https://cdn.myanimelist.net/images/manga/3/67409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

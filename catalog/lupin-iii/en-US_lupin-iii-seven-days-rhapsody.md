@@ -1,5 +1,7 @@
 # Lupin III: Seven Days Rhapsody
 
+![lupin-iii-seven-days-rhapsody](https://cdn.myanimelist.net/images/anime/5/27609.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 「セブンデイズ・ラプソディ」

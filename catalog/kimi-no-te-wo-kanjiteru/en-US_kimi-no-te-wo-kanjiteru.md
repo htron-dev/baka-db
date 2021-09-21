@@ -1,5 +1,7 @@
 # Kimi no Te wo Kanjiteru
 
+![kimi-no-te-wo-kanjiteru](https://cdn.myanimelist.net/images/manga/1/79621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君ノ手ヲ感ジテル

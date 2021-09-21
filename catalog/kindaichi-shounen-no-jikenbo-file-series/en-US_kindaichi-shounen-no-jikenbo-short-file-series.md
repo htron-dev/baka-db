@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo - Short File Series
 
+![kindaichi-shounen-no-jikenbo-short-file-series](https://cdn.myanimelist.net/images/manga/2/25632.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Ezaki-ke e Youkoso
 
+![ezaki-ke-e-youkoso](https://cdn.myanimelist.net/images/manga/3/180075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

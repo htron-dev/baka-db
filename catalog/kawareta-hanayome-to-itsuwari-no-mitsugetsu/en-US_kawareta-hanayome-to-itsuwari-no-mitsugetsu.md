@@ -1,5 +1,7 @@
 # Kawareta Hanayome to Itsuwari no Mitsugetsu
 
+![kawareta-hanayome-to-itsuwari-no-mitsugetsu](https://cdn.myanimelist.net/images/manga/1/194985.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 買われた花嫁と偽りの蜜月

@@ -1,5 +1,7 @@
 # Ikai Shinki to no Reunion
 
+![ikai-shinki-to-no-reunion](https://cdn.myanimelist.net/images/manga/3/176602.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

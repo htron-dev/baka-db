@@ -1,5 +1,7 @@
 # Koigogoro ni Hizamazuku Bokura
 
+![koigogoro-ni-hizamazuku-bokura](https://cdn.myanimelist.net/images/manga/1/76369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

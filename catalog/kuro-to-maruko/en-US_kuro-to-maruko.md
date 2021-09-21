@@ -1,5 +1,7 @@
 # Kuro to Maruko
 
+![kuro-to-maruko](https://cdn.myanimelist.net/images/manga/2/58281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

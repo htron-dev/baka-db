@@ -1,5 +1,7 @@
 # Maou-sama no Yuusha Toubatsuki
 
+![maou-sama-no-yuusha-toubatsuki](https://cdn.myanimelist.net/images/manga/1/91775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

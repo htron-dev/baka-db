@@ -1,5 +1,7 @@
 # Masaka to Omou Kedo
 
+![masaka-to-omou-kedo](https://cdn.myanimelist.net/images/manga/1/13398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まさかと思うけど

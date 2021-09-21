@@ -1,5 +1,7 @@
 # Kyouei Sentai Mizugizu
 
+![kyouei-sentai-mizugizu](https://cdn.myanimelist.net/images/manga/2/96595.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

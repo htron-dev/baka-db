@@ -1,5 +1,7 @@
 # Heart Gear
 
+![heart-gear](https://cdn.myanimelist.net/images/manga/3/219740.jpg)
+
 -   **type**: manga
 -   **original-name**: HEART GEAR
 -   **start-date**: 2019-04-03

@@ -1,5 +1,7 @@
 # Kasei Madoushi no Isekai Seikatsu: Boukenchuu no Kaseifugyou Uketamawarimasu!
 
+![kasei-madoushi-no-isekai-seikatsu-boukenchuu-no-kaseifugyou-uketamawarimasu](https://cdn.myanimelist.net/images/manga/1/234947.jpg)
+
 -   **type**: manga
 -   **original-name**: 家政魔導士の異世界生活～冒険中の家政婦業承ります！～
 -   **start-date**: 2019-08-28

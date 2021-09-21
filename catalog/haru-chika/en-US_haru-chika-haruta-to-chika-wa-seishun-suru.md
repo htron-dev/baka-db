@@ -1,5 +1,7 @@
 # HaruChika: Haruta to Chika wa Seishun suru
 
+![haru-chika-haruta-to-chika-wa-seishun-suru](https://cdn.myanimelist.net/images/anime/6/77835.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハルチカ ～ハルタとチカは青春する～

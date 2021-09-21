@@ -1,5 +1,7 @@
 # Kantai Collection -Kan Colle- Comic Anthology: Kure Chinjufu-hen
 
+![kantai-collection-kan-colle-comic-anthology-kure-chinjufu-hen](https://cdn.myanimelist.net/images/manga/2/108351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 艦隊これくしょん -艦これ- コミックアンソロジー 呉鎮守府編

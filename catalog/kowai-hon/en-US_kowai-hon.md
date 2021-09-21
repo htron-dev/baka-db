@@ -1,5 +1,7 @@
 # Kowai Hon
 
+![kowai-hon](https://cdn.myanimelist.net/images/manga/3/191180.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: こわい本

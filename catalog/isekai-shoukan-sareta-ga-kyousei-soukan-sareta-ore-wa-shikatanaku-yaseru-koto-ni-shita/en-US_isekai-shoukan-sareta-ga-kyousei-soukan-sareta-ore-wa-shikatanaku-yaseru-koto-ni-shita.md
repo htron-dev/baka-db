@@ -1,5 +1,7 @@
 # Isekai Shoukan sareta ga Kyousei Soukan sareta Ore wa Shikatanaku Yaseru Koto ni Shita.
 
+![isekai-shoukan-sareta-ga-kyousei-soukan-sareta-ore-wa-shikatanaku-yaseru-koto-ni-shita](https://cdn.myanimelist.net/images/manga/1/221874.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界召喚されたが強制送還された俺は仕方なくやせることにした。
 -   **start-date**: 2018-05-25

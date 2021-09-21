@@ -1,5 +1,7 @@
 # Kinein!
 
+![kinein](https://cdn.myanimelist.net/images/manga/2/26600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Doushitemo Hametsu Shitakunai Akuyaku Reijou ga Gendai Heiki wo Te ni Shita Kekka ga Kore desu
 
+![doushitemo-hametsu-shitakunai-akuyaku-reijou-ga-gendai-heiki-wo-te-ni-shita-kekka-ga-kore-desu](https://cdn.myanimelist.net/images/manga/1/245139.jpg)
+
 -   **type**: manga
 -   **original-name**: どうしても破滅したくない悪役令嬢が現代兵器を手にした結果がこれです
 -   **start-date**: 2019-05-02

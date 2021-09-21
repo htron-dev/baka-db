@@ -1,5 +1,7 @@
 # Koi ni Oboreru Houkago
 
+![koi-ni-oboreru-houkago](https://cdn.myanimelist.net/images/manga/3/12046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kitsune-san ni Bakasaretai!
 
+![kitsune-san-ni-bakasaretai](https://cdn.myanimelist.net/images/manga/4/30684.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: きつねさんに化かされたい

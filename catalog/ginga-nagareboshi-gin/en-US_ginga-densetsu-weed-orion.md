@@ -1,5 +1,7 @@
 # Ginga Densetsu Weed: Orion
 
+![ginga-densetsu-weed-orion](https://cdn.myanimelist.net/images/manga/3/30629.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 239

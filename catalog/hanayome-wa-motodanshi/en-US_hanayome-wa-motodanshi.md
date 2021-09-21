@@ -1,5 +1,7 @@
 # Hanayome wa Motodanshi.
 
+![hanayome-wa-motodanshi](https://cdn.myanimelist.net/images/manga/3/173099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

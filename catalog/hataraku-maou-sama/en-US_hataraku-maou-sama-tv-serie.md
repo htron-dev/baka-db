@@ -1,5 +1,7 @@
 # Hataraku Maou-sama!
 
+![hataraku-maou-sama](https://cdn.myanimelist.net/images/anime/3/50177.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はたらく魔王さま!

@@ -1,5 +1,7 @@
 # Haru ni Kaeru
 
+![haru-ni-kaeru](https://cdn.myanimelist.net/images/manga/2/70037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

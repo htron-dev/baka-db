@@ -1,5 +1,7 @@
 # Kerokko Demetan
 
+![kerokko-demetan](https://cdn.myanimelist.net/images/anime/1807/108565.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: けろっこデメタン

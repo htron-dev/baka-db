@@ -1,5 +1,7 @@
 # Futari wa Precure: Max Heart
 
+![futari-wa-precure-max-heart](https://cdn.myanimelist.net/images/manga/1/181258.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

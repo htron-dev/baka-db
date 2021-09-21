@@ -1,5 +1,7 @@
 # Meikyuu Black Company
 
+![meikyuu-black-company](https://cdn.myanimelist.net/images/manga/3/195931.jpg)
+
 -   **type**: manga
 -   **original-name**: 迷宮ブラックカンパニー
 -   **start-date**: 2016-12-05

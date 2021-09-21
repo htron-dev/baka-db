@@ -1,5 +1,7 @@
 # Maria†Holic Alive
 
+![maria-holic-alive](https://cdn.myanimelist.net/images/anime/6/78775.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まりあ†ほりっく あらいぶ

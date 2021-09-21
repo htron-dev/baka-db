@@ -1,5 +1,7 @@
 # Kamen no Picaresque
 
+![kamen-no-picaresque](https://cdn.myanimelist.net/images/manga/5/144825.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 仮面のピカレスク

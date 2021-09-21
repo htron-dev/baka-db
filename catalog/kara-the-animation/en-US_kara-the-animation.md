@@ -1,5 +1,7 @@
 # Kara The Animation
 
+![kara-the-animation](https://cdn.myanimelist.net/images/anime/11/75134.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: KARA THE ANIMATION

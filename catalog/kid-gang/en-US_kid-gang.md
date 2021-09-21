@@ -1,5 +1,7 @@
 # Kid Gang
 
+![kid-gang](https://cdn.myanimelist.net/images/manga/1/31985.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 키드갱
 

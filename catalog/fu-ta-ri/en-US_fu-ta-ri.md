@@ -1,5 +1,7 @@
 # Fu Ta Ri
 
+![fu-ta-ri](https://cdn.myanimelist.net/images/manga/3/189077.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 71

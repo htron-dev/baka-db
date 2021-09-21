@@ -1,5 +1,7 @@
 # Lemon no Himegoto
 
+![lemon-no-himegoto](https://cdn.myanimelist.net/images/manga/3/152395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

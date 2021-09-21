@@ -1,5 +1,7 @@
 # Hanataba Mitai ni Daite Kure
 
+![hanataba-mitai-ni-daite-kure](https://cdn.myanimelist.net/images/manga/2/124013.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

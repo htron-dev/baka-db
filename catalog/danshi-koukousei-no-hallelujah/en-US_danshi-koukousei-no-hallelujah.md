@@ -1,5 +1,7 @@
 # Danshi Koukousei no Hallelujah!
 
+![danshi-koukousei-no-hallelujah](https://cdn.myanimelist.net/images/manga/3/163475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 男子高校生のハレルヤ!

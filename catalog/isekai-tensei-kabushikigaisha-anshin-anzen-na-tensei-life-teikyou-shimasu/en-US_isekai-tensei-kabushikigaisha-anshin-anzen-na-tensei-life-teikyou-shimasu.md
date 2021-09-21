@@ -1,5 +1,7 @@
 # Isekai Tensei Kabushikigaisha: Anshin Anzen na Tensei Life, Teikyou shimasu
 
+![isekai-tensei-kabushikigaisha-anshin-anzen-na-tensei-life-teikyou-shimasu](https://cdn.myanimelist.net/images/manga/1/238717.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転生株式会社～安心安全な転生ライフ、提供します～
 -   **start-date**: 2019-06-25

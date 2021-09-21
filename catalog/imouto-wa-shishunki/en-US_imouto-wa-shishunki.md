@@ -1,5 +1,7 @@
 # Imouto wa Shishunki
 
+![imouto-wa-shishunki](https://cdn.myanimelist.net/images/manga/3/155489.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 妹は思春期

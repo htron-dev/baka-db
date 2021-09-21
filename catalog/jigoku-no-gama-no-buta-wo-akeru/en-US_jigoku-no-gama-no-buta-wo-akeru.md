@@ -1,5 +1,7 @@
 # Jigoku no Gama no Buta wo Akeru
 
+![jigoku-no-gama-no-buta-wo-akeru](https://cdn.myanimelist.net/images/manga/2/178149.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 地獄の釜の蓋を開けろ

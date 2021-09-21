@@ -1,5 +1,7 @@
 # Koushaku wa Ai wo Egaku
 
+![koushaku-wa-ai-wo-egaku](https://cdn.myanimelist.net/images/manga/3/186185.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

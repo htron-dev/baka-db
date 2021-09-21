@@ -1,5 +1,7 @@
 # Monster Collection: Majuu Tsukai no Shoujo
 
+![monster-collection-majuu-tsukai-no-shoujo](https://cdn.myanimelist.net/images/manga/3/151862.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

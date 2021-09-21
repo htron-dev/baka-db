@@ -1,5 +1,7 @@
 # Gensui Koushaku ni Netsubou sarete Kekkon shitara, Torotoro ni Mitsu Aisareta keredo Nani ka Ura ga Arisou desu!?
 
+![gensui-koushaku-ni-netsubou-sarete-kekkon-shitara-torotoro-ni-mitsu-aisareta-keredo-nani-ka-ura-ga-arisou-desu](https://cdn.myanimelist.net/images/manga/3/244621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

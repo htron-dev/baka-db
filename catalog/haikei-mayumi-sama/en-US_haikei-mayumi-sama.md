@@ -1,5 +1,7 @@
 # Haikei, Mayumi-sama.
 
+![haikei-mayumi-sama](https://cdn.myanimelist.net/images/manga/3/189260.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 拝啓、真弓様。

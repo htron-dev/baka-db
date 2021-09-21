@@ -1,5 +1,7 @@
 # K: Ao no Jikenbo
 
+![k-ao-no-jikenbo](https://cdn.myanimelist.net/images/manga/2/170197.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: K 青の事件簿

@@ -1,5 +1,7 @@
 # MS Senki: Kidou Senshi Gundam 0079 Gaiden
 
+![ms-senki-kidou-senshi-gundam-0079-gaiden](https://cdn.myanimelist.net/images/manga/2/114009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

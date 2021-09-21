@@ -1,5 +1,7 @@
 # Koukoku no Shugosha
 
+![koukoku-no-shugosha](https://cdn.myanimelist.net/images/manga/3/172096.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

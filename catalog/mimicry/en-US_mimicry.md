@@ -1,5 +1,7 @@
 # Mimicry
 
+![mimicry](https://cdn.myanimelist.net/images/manga/1/247645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

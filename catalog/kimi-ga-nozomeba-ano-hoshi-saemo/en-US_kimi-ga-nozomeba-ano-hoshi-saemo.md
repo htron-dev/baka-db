@@ -1,5 +1,7 @@
 # Kimi ga Nozomeba Ano Hoshi Saemo
 
+![kimi-ga-nozomeba-ano-hoshi-saemo](https://cdn.myanimelist.net/images/manga/2/17904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

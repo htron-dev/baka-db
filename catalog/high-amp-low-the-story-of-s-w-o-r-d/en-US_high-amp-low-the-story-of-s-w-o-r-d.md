@@ -1,5 +1,7 @@
 # High &amp; Low: The Story of S.W.O.R.D.
 
+![high-amp-low-the-story-of-s-w-o-r-d](https://cdn.myanimelist.net/images/manga/3/192858.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

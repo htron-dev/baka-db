@@ -1,5 +1,7 @@
 # Ex-Arm Exa
 
+![ex-arm-exa](https://cdn.myanimelist.net/images/manga/3/246673.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

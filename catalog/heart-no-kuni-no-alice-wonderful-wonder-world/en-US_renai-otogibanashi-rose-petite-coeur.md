@@ -1,5 +1,7 @@
 # Renai Otogibanashi: Rose Petite Cœur
 
+![renai-otogibanashi-rose-petite-coeur](https://cdn.myanimelist.net/images/manga/3/31379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛おとぎ話~ローズ・プティクール

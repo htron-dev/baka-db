@@ -1,5 +1,7 @@
 # Goichi Jiisan
 
+![goichi-jiisan](https://cdn.myanimelist.net/images/anime/2/86285.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 五一ぢいさん

@@ -1,5 +1,7 @@
 # Daitoubou: Onna Kishi no Koi no Junan
 
+![daitoubou-onna-kishi-no-koi-no-junan](https://cdn.myanimelist.net/images/manga/2/194944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri Movie 1: Tsudou Hikari
 
+![koutetsujou-no-kabaneri-movie-1-tsudou-hikari](https://cdn.myanimelist.net/images/anime/13/82962.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 甲鉄城のカバネリ 総集編｛前編｝集う光

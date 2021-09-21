@@ -1,5 +1,7 @@
 # Doutei Saizensen
 
+![doutei-saizensen](https://cdn.myanimelist.net/images/manga/2/25698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

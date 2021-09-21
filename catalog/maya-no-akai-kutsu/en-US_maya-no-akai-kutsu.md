@@ -1,5 +1,7 @@
 # Maya no Akai Kutsu
 
+![maya-no-akai-kutsu](https://cdn.myanimelist.net/images/manga/1/152712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔夜の赤い靴

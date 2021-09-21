@@ -1,5 +1,7 @@
 # Motomeau Yubisaki
 
+![motomeau-yubisaki](https://cdn.myanimelist.net/images/manga/2/247149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 求めあう指先

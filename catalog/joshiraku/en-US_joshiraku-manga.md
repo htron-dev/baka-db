@@ -1,5 +1,7 @@
 # Joshiraku
 
+![joshiraku](https://cdn.myanimelist.net/images/manga/3/122429.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

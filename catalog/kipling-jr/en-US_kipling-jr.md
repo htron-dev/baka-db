@@ -1,5 +1,7 @@
 # Kipling Jr.
 
+![kipling-jr](https://cdn.myanimelist.net/images/anime/11/17806.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キップリング Jr.

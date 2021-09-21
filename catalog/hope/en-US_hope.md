@@ -1,5 +1,7 @@
 # Hope
 
+![hope](https://cdn.myanimelist.net/images/manga/1/152022.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 22

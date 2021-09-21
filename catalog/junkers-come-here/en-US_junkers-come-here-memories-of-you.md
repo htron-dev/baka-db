@@ -1,5 +1,7 @@
 # Junkers Come Here: Memories of You
 
+![junkers-come-here-memories-of-you](https://cdn.myanimelist.net/images/anime/5/52511.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ユンカース・カム・ヒア ～メモリーズ・オブ・ユー～

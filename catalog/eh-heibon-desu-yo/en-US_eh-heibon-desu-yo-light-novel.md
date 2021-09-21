@@ -1,5 +1,7 @@
 # Eh? Heibon desu yo??
 
+![eh-heibon-desu-yo](https://cdn.myanimelist.net/images/manga/2/186486.jpg)
+
 -   **type**: light-novel
 -   **original-name**: えっ? 平凡ですよ??
 -   **start-date**: 2013-07-26

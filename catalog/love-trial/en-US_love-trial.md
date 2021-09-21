@@ -1,5 +1,7 @@
 # Love Trial
 
+![love-trial](https://cdn.myanimelist.net/images/manga/2/11804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

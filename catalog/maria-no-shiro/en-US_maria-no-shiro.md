@@ -1,5 +1,7 @@
 # Maria no Shiro
 
+![maria-no-shiro](https://cdn.myanimelist.net/images/manga/2/154278.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

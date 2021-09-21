@@ -1,5 +1,7 @@
 # Manga Nippon Mukashibanashi (1976)
 
+![manga-nippon-mukashibanashi-1976](https://cdn.myanimelist.net/images/anime/6/60851.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1471
 -   **original-name**: まんが日本昔ばなし（第 2 期）

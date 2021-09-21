@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 0080: War in the Pocket
 
+![mobile-suit-gundam-0080-war-in-the-pocket](https://cdn.myanimelist.net/images/anime/1/82.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 機動戦士ガンダム 0080 ポケットの中の戦争

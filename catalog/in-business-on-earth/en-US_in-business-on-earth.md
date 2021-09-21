@@ -1,5 +1,7 @@
 # In Business on Earth
 
+![in-business-on-earth](https://cdn.myanimelist.net/images/manga/3/10556.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

@@ -1,5 +1,7 @@
 # Fukufuku Fu-nya~n New
 
+![fukufuku-fu-nya-n-new](https://cdn.myanimelist.net/images/manga/3/146017.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 207

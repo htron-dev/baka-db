@@ -1,5 +1,7 @@
 # Kurofune Raishuu Girl!
 
+![kurofune-raishuu-girl](https://cdn.myanimelist.net/images/manga/3/202241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

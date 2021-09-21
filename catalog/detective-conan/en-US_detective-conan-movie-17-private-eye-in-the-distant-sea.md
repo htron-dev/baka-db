@@ -1,5 +1,7 @@
 # Detective Conan Movie 17: Private Eye in the Distant Sea
 
+![detective-conan-movie-17-private-eye-in-the-distant-sea](https://cdn.myanimelist.net/images/anime/4/47419.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン・絶海の探偵

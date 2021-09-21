@@ -1,5 +1,7 @@
 # Heaven's Mail
 
+![heavens-mail](https://cdn.myanimelist.net/images/manga/3/28888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

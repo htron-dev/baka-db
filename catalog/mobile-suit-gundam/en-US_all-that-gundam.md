@@ -1,5 +1,7 @@
 # All That Gundam
 
+![all-that-gundam](https://cdn.myanimelist.net/images/anime/4/64997.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ALL THAT GUNDAM

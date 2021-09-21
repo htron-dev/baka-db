@@ -1,5 +1,7 @@
 # Hell's Kitchen
 
+![hells-kitchen](https://cdn.myanimelist.net/images/manga/2/67459.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 53

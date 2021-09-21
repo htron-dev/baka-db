@@ -1,5 +1,7 @@
 # Imouto sae Ireba Ii. @comic
 
+![imouto-sae-ireba-ii-comic](https://cdn.myanimelist.net/images/manga/3/181158.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

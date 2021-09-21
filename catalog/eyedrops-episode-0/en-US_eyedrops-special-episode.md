@@ -1,5 +1,7 @@
 # Eyedrops Special Episode
 
+![eyedrops-special-episode](https://cdn.myanimelist.net/images/anime/1727/90471.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: アイドロップス Special Episode

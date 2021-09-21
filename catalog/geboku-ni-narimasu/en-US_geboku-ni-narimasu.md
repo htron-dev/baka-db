@@ -1,5 +1,7 @@
 # Geboku ni Narimasu
 
+![geboku-ni-narimasu](https://cdn.myanimelist.net/images/manga/2/6239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

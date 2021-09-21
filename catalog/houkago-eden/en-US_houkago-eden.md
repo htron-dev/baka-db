@@ -1,5 +1,7 @@
 # Houkago Eden
 
+![houkago-eden](https://cdn.myanimelist.net/images/manga/2/199513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

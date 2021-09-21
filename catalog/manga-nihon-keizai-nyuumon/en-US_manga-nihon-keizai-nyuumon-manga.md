@@ -1,5 +1,7 @@
 # Manga Nihon Keizai Nyuumon
 
+![manga-nihon-keizai-nyuumon](https://cdn.myanimelist.net/images/manga/1/59849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: マンガ日本経済入門

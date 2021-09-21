@@ -1,5 +1,7 @@
 # Gosho Aoyama's Collection of Short Stories
 
+![gosho-aoyamas-collection-of-short-stories](https://cdn.myanimelist.net/images/anime/11/28507.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 青山剛昌短編集

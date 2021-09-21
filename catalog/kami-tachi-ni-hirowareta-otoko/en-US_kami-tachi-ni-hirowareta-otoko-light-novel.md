@@ -1,5 +1,7 @@
 # Kami-tachi ni Hirowareta Otoko
 
+![kami-tachi-ni-hirowareta-otoko](https://cdn.myanimelist.net/images/manga/1/200469.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神達に拾われた男
 -   **start-date**: 2017-09-22

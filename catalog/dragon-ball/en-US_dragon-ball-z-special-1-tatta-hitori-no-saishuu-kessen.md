@@ -1,5 +1,7 @@
 # Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen
 
+![dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen](https://cdn.myanimelist.net/images/anime/8/3303.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: DRAGON BALL Z スペシャル たったひとりの最終決戦~フリーザに挑んだ Z 戦士孫悟空の父~

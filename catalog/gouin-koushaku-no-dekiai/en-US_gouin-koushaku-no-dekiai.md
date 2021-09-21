@@ -1,5 +1,7 @@
 # Gouin Koushaku no Dekiai
 
+![gouin-koushaku-no-dekiai](https://cdn.myanimelist.net/images/manga/2/192870.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

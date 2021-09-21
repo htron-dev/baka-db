@@ -1,5 +1,7 @@
 # Little Fluffy Gigolo PELU
 
+![little-fluffy-gigolo-pelu](https://cdn.myanimelist.net/images/manga/2/23075.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ファンシージゴロ ペル

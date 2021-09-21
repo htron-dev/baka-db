@@ -1,5 +1,7 @@
 # Isshuukan Friends.
 
+![isshuukan-friends](https://cdn.myanimelist.net/images/manga/3/106681.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

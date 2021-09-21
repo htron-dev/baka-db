@@ -1,5 +1,7 @@
 # Ryuusatsu no Kyoukotsu
 
+![ryuusatsu-no-kyoukotsu](https://cdn.myanimelist.net/images/anime/1898/113813.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 龍殺ノ狂骨

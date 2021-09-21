@@ -1,5 +1,7 @@
 # Ebiten: Kitan Kitan
 
+![ebiten-kitan-kitan](https://cdn.myanimelist.net/images/manga/2/160214.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

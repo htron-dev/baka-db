@@ -1,5 +1,7 @@
 # Momo Raba
 
+![momo-raba](https://cdn.myanimelist.net/images/manga/1/41196.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

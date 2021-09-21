@@ -1,5 +1,7 @@
 # Kowloon's Ball Parade
 
+![kowloons-ball-parade](https://cdn.myanimelist.net/images/manga/2/246047.jpg)
+
 -   **type**: manga
 -   **original-name**: クーロンズ・ボール・パレード
 -   **start-date**: 2021-02-15

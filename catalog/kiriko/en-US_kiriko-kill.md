@@ -1,5 +1,7 @@
 # Kiriko Kill
 
+![kiriko-kill](https://cdn.myanimelist.net/images/manga/3/224441.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

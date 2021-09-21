@@ -1,5 +1,7 @@
 # Mahou no Star Magical Emi: Finale! Finale!
 
+![mahou-no-star-magical-emi-finale-finale](https://cdn.myanimelist.net/images/anime/5/80148.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法のスター マジカルエミ フィナーレ! フィナーレ!

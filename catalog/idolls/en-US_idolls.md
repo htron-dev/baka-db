@@ -1,5 +1,7 @@
 # Idolls!
 
+![idolls](https://cdn.myanimelist.net/images/anime/1962/111079.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: アイドールズ!

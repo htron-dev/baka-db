@@ -1,5 +1,7 @@
 # Koi no Tsumi: Ernestine
 
+![koi-no-tsumi-ernestine](https://cdn.myanimelist.net/images/manga/3/234700.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

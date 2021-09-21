@@ -1,5 +1,7 @@
 # Dokkan! Robotendon
 
+![dokkan-robotendon](https://cdn.myanimelist.net/images/anime/5/56687.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ドッカン! ロボ天どん

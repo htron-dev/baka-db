@@ -1,5 +1,7 @@
 # Koi da Ai da wa Sateoite
 
+![koi-da-ai-da-wa-sateoite](https://cdn.myanimelist.net/images/manga/3/208215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

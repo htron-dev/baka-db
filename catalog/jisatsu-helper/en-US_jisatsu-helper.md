@@ -1,5 +1,7 @@
 # Jisatsu Helper
 
+![jisatsu-helper](https://cdn.myanimelist.net/images/manga/2/44871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 自殺ヘルパー

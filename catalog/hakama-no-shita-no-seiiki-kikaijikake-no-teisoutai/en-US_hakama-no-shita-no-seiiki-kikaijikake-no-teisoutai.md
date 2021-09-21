@@ -1,5 +1,7 @@
 # Hakama no Shita no Seiiki: Kikaijikake no Teisoutai
 
+![hakama-no-shita-no-seiiki-kikaijikake-no-teisoutai](https://cdn.myanimelist.net/images/manga/2/169740.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 袴の下の聖域　~機械仕掛けの貞操帯~

@@ -1,5 +1,7 @@
 # Katsugeki Shoujo Tanteidan
 
+![katsugeki-shoujo-tanteidan](https://cdn.myanimelist.net/images/anime/10/41457.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 活劇少女探偵団

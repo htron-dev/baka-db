@@ -1,5 +1,7 @@
 # Akuma no Ororon
 
+![akuma-no-ororon](https://cdn.myanimelist.net/images/manga/2/161256.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

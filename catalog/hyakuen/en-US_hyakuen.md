@@ -1,5 +1,7 @@
 # Hyakuen!
 
+![hyakuen](https://cdn.myanimelist.net/images/manga/1/20911.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 44

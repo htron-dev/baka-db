@@ -1,5 +1,7 @@
 # Ken-chan to Bouen Kazoku
 
+![ken-chan-to-bouen-kazoku](https://cdn.myanimelist.net/images/anime/7/84893.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ケンちゃんと防炎家族

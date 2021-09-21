@@ -1,5 +1,7 @@
 # Kilala☆Princess
 
+![kilala☆-princess](https://cdn.myanimelist.net/images/manga/2/160472.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: きらら ☆ プリンセス

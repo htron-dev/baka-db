@@ -1,5 +1,7 @@
 # Dare ga Yonda no!?: Isekai to Game Tsukuri to Recruit Shoukan
 
+![dare-ga-yonda-no-isekai-to-game-tsukuri-to-recruit-shoukan](https://cdn.myanimelist.net/images/manga/1/242204.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

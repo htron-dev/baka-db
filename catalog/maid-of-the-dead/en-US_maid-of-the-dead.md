@@ -1,5 +1,7 @@
 # Maid of the Dead
 
+![maid-of-the-dead](https://cdn.myanimelist.net/images/anime/2/55013.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: MAID OF THE DEAD

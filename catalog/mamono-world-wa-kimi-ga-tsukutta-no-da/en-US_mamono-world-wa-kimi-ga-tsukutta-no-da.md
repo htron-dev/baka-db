@@ -1,5 +1,7 @@
 # Mamono World wa Kimi ga Tsukutta no da!
 
+![mamono-world-wa-kimi-ga-tsukutta-no-da](https://cdn.myanimelist.net/images/manga/2/160789.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da
 
+![dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da](https://cdn.myanimelist.net/images/anime/1035/93674.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 超戦士撃破!!勝のはオレだ

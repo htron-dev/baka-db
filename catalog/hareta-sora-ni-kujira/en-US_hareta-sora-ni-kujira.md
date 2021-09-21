@@ -1,5 +1,7 @@
 # Hareta Sora ni Kujira
 
+![hareta-sora-ni-kujira](https://cdn.myanimelist.net/images/manga/3/164666.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 晴れた空にくじら

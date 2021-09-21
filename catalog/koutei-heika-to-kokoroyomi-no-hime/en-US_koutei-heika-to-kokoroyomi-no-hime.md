@@ -1,5 +1,7 @@
 # Koutei Heika to Kokoroyomi no Hime
 
+![koutei-heika-to-kokoroyomi-no-hime](https://cdn.myanimelist.net/images/manga/2/172211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 皇帝陛下と心読みの姫

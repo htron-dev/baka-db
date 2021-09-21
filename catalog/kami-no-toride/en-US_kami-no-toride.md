@@ -1,5 +1,7 @@
 # Kami no Toride
 
+![kami-no-toride](https://cdn.myanimelist.net/images/manga/3/163947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

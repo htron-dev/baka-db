@@ -1,5 +1,7 @@
 # Manga Aesop Monogatari (TV)
 
+![manga-aesop-monogatari-tv](https://cdn.myanimelist.net/images/anime/6/29833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: まんがイソップ物語

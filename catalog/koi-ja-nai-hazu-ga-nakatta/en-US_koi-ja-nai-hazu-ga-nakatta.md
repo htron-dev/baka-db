@@ -1,5 +1,7 @@
 # Koi ja Nai Hazu ga Nakatta
 
+![koi-ja-nai-hazu-ga-nakatta](https://cdn.myanimelist.net/images/manga/1/166675.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 恋じゃないはずがなかった

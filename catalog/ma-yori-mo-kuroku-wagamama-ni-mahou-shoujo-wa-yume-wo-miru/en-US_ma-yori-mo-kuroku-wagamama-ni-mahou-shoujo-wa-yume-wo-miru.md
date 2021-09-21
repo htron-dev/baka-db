@@ -1,5 +1,7 @@
 # Ma Yori mo Kuroku Wagamama ni Mahou Shoujo wa Yume wo Miru
 
+![ma-yori-mo-kuroku-wagamama-ni-mahou-shoujo-wa-yume-wo-miru](https://cdn.myanimelist.net/images/manga/1/163913.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Dounika Naru Hibi
 
+![dounika-naru-hibi](https://cdn.myanimelist.net/images/anime/1924/106583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: どうにかなる日々

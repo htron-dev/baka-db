@@ -1,5 +1,7 @@
 # Dousei Yankee Akamatsu Seven
 
+![dousei-yankee-akamatsu-seven](https://cdn.myanimelist.net/images/manga/1/225289.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

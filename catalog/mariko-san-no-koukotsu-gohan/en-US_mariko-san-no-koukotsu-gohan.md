@@ -1,5 +1,7 @@
 # Mariko-san no Koukotsu Gohan
 
+![mariko-san-no-koukotsu-gohan](https://cdn.myanimelist.net/images/manga/2/209351.jpg)
+
 -   **type**: manga
 -   **original-name**: まりこさんの恍惚ごはん
 -   **start-date**: 2017-05-02

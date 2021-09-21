@@ -1,5 +1,7 @@
 # Evil Heart
 
+![evil-heart](https://cdn.myanimelist.net/images/manga/2/154929.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Jungle Taitei (1989)
 
+![jungle-taitei-1989](https://cdn.myanimelist.net/images/anime/6/75997.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ジャングル大帝

@@ -1,5 +1,7 @@
 # Killer Killer
 
+![killer-killer](https://cdn.myanimelist.net/images/manga/1/224516.jpg)
+
 -   **type**: manga
 -   **original-name**: キラーキラー
 -   **start-date**: 2016-12-24

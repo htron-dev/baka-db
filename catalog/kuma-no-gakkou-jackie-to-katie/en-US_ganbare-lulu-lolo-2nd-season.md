@@ -1,5 +1,7 @@
 # Ganbare! Lulu Lolo 2nd Season
 
+![ganbare-lulu-lolo-2nd-season](https://cdn.myanimelist.net/images/anime/12/66095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: がんばれ！ルルロロ　第２シリーズ

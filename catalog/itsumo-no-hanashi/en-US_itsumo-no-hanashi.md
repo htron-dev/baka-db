@@ -1,5 +1,7 @@
 # Itsumo no Hanashi
 
+![itsumo-no-hanashi](https://cdn.myanimelist.net/images/manga/3/25628.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いつものはなし

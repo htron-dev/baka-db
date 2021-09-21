@@ -1,5 +1,7 @@
 # Metropolis
 
+![metropolis](https://cdn.myanimelist.net/images/anime/4/75601.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: メトロポリス

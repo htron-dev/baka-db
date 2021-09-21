@@ -1,5 +1,7 @@
 # Heybot!
 
+![heybot](https://cdn.myanimelist.net/images/anime/12/82258.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ヘボット!

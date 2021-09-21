@@ -1,5 +1,7 @@
 # Given
 
+![given](https://cdn.myanimelist.net/images/anime/1666/102238.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ギヴン

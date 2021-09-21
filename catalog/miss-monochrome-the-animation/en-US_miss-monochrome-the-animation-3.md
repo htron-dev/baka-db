@@ -1,5 +1,7 @@
 # Miss Monochrome The Animation 3
 
+![miss-monochrome-the-animation-3](https://cdn.myanimelist.net/images/anime/6/76089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ミス・モノクローム -The Animation- 3

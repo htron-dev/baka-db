@@ -1,5 +1,7 @@
 # Hua Hua You Long
 
+![hua-hua-you-long](https://cdn.myanimelist.net/images/manga/3/90669.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 21

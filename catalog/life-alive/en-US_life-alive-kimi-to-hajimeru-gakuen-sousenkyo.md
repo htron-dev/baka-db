@@ -1,5 +1,7 @@
 # Life Alive!: Kimi to Hajimeru Gakuen Sousenkyo
 
+![life-alive-kimi-to-hajimeru-gakuen-sousenkyo](https://cdn.myanimelist.net/images/manga/3/156089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

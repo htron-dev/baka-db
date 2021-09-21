@@ -1,5 +1,7 @@
 # Johnny Cypher
 
+![johnny-cypher](https://cdn.myanimelist.net/images/anime/4/68099.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: ジョニーサイファー

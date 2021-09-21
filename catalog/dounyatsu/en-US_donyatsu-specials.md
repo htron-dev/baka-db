@@ -1,5 +1,7 @@
 # Donyatsu Specials
 
+![donyatsu-specials](https://cdn.myanimelist.net/images/anime/13/65947.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: どーにゃつ

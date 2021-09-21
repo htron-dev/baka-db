@@ -1,5 +1,7 @@
 # 3-pun de Wakaru! Kore made no Love Live!
 
+![3-pun-de-wakaru-kore-made-no-love-live](https://cdn.myanimelist.net/images/anime/1046/105784.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 3 分でわかる！これまでのラブライブ！

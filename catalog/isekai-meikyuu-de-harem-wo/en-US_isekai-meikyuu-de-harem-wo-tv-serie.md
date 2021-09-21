@@ -1,5 +1,7 @@
 # Isekai Meikyuu de Harem wo
 
+![isekai-meikyuu-de-harem-wo](https://cdn.myanimelist.net/images/anime/1707/110692.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 異世界迷宮でハーレムを
 -   **rating**: None

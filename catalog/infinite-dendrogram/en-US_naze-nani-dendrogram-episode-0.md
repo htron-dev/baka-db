@@ -1,5 +1,7 @@
 # Naze Nani Dendrogram Episode 0
 
+![naze-nani-dendrogram-episode-0](https://cdn.myanimelist.net/images/anime/1445/106926.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: なぜなにデンドログラム

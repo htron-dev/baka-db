@@ -1,5 +1,7 @@
 # Keimusho no Naka
 
+![keimusho-no-naka](https://cdn.myanimelist.net/images/manga/1/165210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

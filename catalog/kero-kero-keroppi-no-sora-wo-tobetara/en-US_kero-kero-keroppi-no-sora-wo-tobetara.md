@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Sora wo Tobetara
 
+![kero-kero-keroppi-no-sora-wo-tobetara](https://cdn.myanimelist.net/images/anime/9/58985.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの空をとべたら

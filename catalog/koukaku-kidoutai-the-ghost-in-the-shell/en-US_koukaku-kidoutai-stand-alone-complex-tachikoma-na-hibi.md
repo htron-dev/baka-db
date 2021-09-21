@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi
 
+![koukaku-kidoutai-stand-alone-complex-tachikoma-na-hibi](https://cdn.myanimelist.net/images/anime/12/4166.jpg)
+
 -   **type**: special
 -   **episodes**: 26
 -   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX: Section9 Science File “タチコマな日々”

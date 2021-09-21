@@ -1,5 +1,7 @@
 # Tropical-Rouge! Precure Petit Tobikome! Collaboration ♡ Dance Party!
 
+![tropical-rouge-precure-petit-tobikome-collaboration-♡-dance-party](https://cdn.myanimelist.net/images/anime/1343/114199.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画トロピカル～ジュ！プリキュア プチ とびこめ！コラボ ♡ ダンスパーティ！

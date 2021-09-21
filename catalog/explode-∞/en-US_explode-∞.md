@@ -1,5 +1,7 @@
 # Explode ∞
 
+![explode-∞](https://cdn.myanimelist.net/images/manga/3/136623.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: えくすぷろ～ど ∞

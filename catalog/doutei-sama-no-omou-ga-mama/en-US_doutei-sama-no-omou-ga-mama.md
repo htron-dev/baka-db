@@ -1,5 +1,7 @@
 # Doutei-sama no Omou ga Mama
 
+![doutei-sama-no-omou-ga-mama](https://cdn.myanimelist.net/images/manga/3/225116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

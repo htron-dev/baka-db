@@ -1,5 +1,7 @@
 # Love Wan!
 
+![love-wan](https://cdn.myanimelist.net/images/manga/2/84065.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ラブわん!

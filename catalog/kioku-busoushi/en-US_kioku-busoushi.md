@@ -1,5 +1,7 @@
 # Kioku Busoushi
 
+![kioku-busoushi](https://cdn.myanimelist.net/images/manga/1/176775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

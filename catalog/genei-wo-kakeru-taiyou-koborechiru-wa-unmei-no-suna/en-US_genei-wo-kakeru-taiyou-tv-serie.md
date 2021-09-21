@@ -1,5 +1,7 @@
 # Genei wo Kakeru Taiyou
 
+![genei-wo-kakeru-taiyou](https://cdn.myanimelist.net/images/anime/4/51071.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 幻影ヲ駆ケル太陽

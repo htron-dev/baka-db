@@ -1,5 +1,7 @@
 # Harisu no Kaze
 
+![harisu-no-kaze](https://cdn.myanimelist.net/images/anime/13/47147.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 70
 -   **original-name**: ハリスの旋風

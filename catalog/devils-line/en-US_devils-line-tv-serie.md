@@ -1,5 +1,7 @@
 # Devils Line
 
+![devils-line](https://cdn.myanimelist.net/images/anime/1991/109055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デビルズライン

@@ -1,5 +1,7 @@
 # Mameshiba x Nanatsu no Taizai
 
+![mameshiba-x-nanatsu-no-taizai](https://cdn.myanimelist.net/images/anime/1708/105398.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ねえ知ってる？豆しばがあの人気アニメ「七つの大罪」とコラボしたんだって

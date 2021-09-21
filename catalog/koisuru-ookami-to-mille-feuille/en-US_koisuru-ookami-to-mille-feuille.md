@@ -1,5 +1,7 @@
 # Koisuru Ookami to Mille-Feuille
 
+![koisuru-ookami-to-mille-feuille](https://cdn.myanimelist.net/images/manga/1/238184.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋する狼とミルフィーユ
 -   **start-date**: 2020-04-27

@@ -1,5 +1,7 @@
 # Eve no Jikan: Another Act
 
+![eve-no-jikan-another-act](https://cdn.myanimelist.net/images/manga/2/103659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

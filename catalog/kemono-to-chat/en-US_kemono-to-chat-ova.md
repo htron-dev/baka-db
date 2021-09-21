@@ -1,5 +1,7 @@
 # Kemono to Chat
 
+![kemono-to-chat](https://cdn.myanimelist.net/images/anime/3/16117.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けものとチャット

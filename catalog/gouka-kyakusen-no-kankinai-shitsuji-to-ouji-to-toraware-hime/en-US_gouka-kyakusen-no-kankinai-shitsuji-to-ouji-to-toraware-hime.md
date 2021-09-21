@@ -1,5 +1,7 @@
 # Gouka Kyakusen no Kankinai: Shitsuji to Ouji to Toraware-hime
 
+![gouka-kyakusen-no-kankinai-shitsuji-to-ouji-to-toraware-hime](https://cdn.myanimelist.net/images/manga/3/182842.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

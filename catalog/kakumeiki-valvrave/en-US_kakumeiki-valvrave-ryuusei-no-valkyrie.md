@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave: Ryuusei no Valkyrie
 
+![kakumeiki-valvrave-ryuusei-no-valkyrie](https://cdn.myanimelist.net/images/manga/2/114015.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

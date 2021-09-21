@@ -1,5 +1,7 @@
 # Kuroda-san to Katagiri-san
 
+![kuroda-san-to-katagiri-san](https://cdn.myanimelist.net/images/manga/2/152607.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

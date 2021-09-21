@@ -1,5 +1,7 @@
 # Koisuru Ookami no Amai Yuuwaku: Osananajimi to Himitsu no Kankei
 
+![koisuru-ookami-no-amai-yuuwaku-osananajimi-to-himitsu-no-kankei](https://cdn.myanimelist.net/images/manga/1/196023.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋する狼の甘い誘惑～幼馴染と秘密の関係～

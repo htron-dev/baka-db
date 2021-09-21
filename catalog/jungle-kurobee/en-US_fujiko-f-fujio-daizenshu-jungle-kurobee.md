@@ -1,5 +1,7 @@
 # Fujiko F Fujio Daizenshu Jungle Kurobee
 
+![fujiko-f-fujio-daizenshu-jungle-kurobee](https://cdn.myanimelist.net/images/manga/3/229766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 69

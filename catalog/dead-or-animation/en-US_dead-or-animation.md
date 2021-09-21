@@ -1,5 +1,7 @@
 # Dead or Animation
 
+![dead-or-animation](https://cdn.myanimelist.net/images/manga/3/175311.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

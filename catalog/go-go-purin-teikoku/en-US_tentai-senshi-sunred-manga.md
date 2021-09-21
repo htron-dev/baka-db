@@ -1,5 +1,7 @@
 # Tentai Senshi Sunred
 
+![tentai-senshi-sunred](https://cdn.myanimelist.net/images/manga/2/17429.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 天体戦士サンレッド

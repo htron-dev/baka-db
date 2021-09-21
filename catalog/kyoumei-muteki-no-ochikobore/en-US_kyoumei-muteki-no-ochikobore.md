@@ -1,5 +1,7 @@
 # Kyoumei Muteki no Ochikobore
 
+![kyoumei-muteki-no-ochikobore](https://cdn.myanimelist.net/images/manga/3/160756.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Mukashi Yuusha de Ima wa Hone
 
+![mukashi-yuusha-de-ima-wa-hone](https://cdn.myanimelist.net/images/manga/2/235902.jpg)
+
 -   **type**: manga
 -   **original-name**: 昔勇者で今は骨
 -   **start-date**: 2019-10-10

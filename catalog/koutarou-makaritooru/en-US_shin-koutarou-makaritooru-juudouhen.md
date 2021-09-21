@@ -1,5 +1,7 @@
 # Shin Koutarou Makaritooru! Juudouhen
 
+![shin-koutarou-makaritooru-juudouhen](https://cdn.myanimelist.net/images/manga/2/183417.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: 新・コータローまかりとおる! 柔道編

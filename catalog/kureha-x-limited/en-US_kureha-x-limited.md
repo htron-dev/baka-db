@@ -1,5 +1,7 @@
 # Kureha x Limited!
 
+![kureha-x-limited](https://cdn.myanimelist.net/images/manga/3/126155.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: くれは × リミテッド！

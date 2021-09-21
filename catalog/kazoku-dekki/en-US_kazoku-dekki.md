@@ -1,5 +1,7 @@
 # Kazoku Dekki
 
+![kazoku-dekki](https://cdn.myanimelist.net/images/anime/1116/96048.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 家族デッキ

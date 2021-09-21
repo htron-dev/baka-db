@@ -1,5 +1,7 @@
 # Fubin na Ore to Kuzu Ouji
 
+![fubin-na-ore-to-kuzu-ouji](https://cdn.myanimelist.net/images/manga/3/231192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

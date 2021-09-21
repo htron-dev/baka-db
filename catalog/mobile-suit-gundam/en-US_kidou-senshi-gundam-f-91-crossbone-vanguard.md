@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam F91: Crossbone Vanguard
 
+![kidou-senshi-gundam-f-91-crossbone-vanguard](https://cdn.myanimelist.net/images/manga/2/177595.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 48

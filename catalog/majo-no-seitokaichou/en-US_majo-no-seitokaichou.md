@@ -1,5 +1,7 @@
 # Majo no Seitokaichou
 
+![majo-no-seitokaichou](https://cdn.myanimelist.net/images/manga/2/163250.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 53

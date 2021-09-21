@@ -1,5 +1,7 @@
 # In ga Orinasu Shoukan Mahou
 
+![in-ga-orinasu-shoukan-mahou](https://cdn.myanimelist.net/images/manga/1/158430.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 韻が織り成す召喚魔法

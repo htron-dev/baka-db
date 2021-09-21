@@ -1,5 +1,7 @@
 # Jadou
 
+![jadou](https://cdn.myanimelist.net/images/manga/2/229439.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

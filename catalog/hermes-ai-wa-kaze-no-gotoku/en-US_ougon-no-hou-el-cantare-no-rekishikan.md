@@ -1,5 +1,7 @@
 # Ougon no Hou: El Cantare no Rekishikan
 
+![ougon-no-hou-el-cantare-no-rekishikan](https://cdn.myanimelist.net/images/anime/1950/112364.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 黄金の法　エル・カンターレの歴史観

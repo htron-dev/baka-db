@@ -1,5 +1,7 @@
 # Kono Yo no Owari e no Tabi
 
+![kono-yo-no-owari-e-no-tabi](https://cdn.myanimelist.net/images/manga/3/31600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

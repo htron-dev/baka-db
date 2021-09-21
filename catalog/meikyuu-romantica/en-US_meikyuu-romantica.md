@@ -1,5 +1,7 @@
 # Meikyuu Romantica
 
+![meikyuu-romantica](https://cdn.myanimelist.net/images/manga/1/178038.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

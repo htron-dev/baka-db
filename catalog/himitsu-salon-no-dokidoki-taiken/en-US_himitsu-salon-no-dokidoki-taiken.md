@@ -1,5 +1,7 @@
 # Himitsu Salon no Dokidoki Taiken
 
+![himitsu-salon-no-dokidoki-taiken](https://cdn.myanimelist.net/images/manga/2/193644.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

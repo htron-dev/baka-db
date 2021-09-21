@@ -1,5 +1,7 @@
 # Kenzen Renai Life
 
+![kenzen-renai-life](https://cdn.myanimelist.net/images/manga/3/93695.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Mugen no Linkage
 
+![mugen-no-linkage](https://cdn.myanimelist.net/images/manga/2/163413.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

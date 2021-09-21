@@ -1,5 +1,7 @@
 # Kakegurui Picture Drama
 
+![kakegurui-picture-drama](https://cdn.myanimelist.net/images/anime/1914/98035.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 賭ケグルイ メイド喫茶百花王

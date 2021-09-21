@@ -1,5 +1,7 @@
 # Maid-san no Shitagi wa Tokubetsu desu.
 
+![maid-san-no-shitagi-wa-tokubetsu-desu](https://cdn.myanimelist.net/images/manga/1/246958.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドさんの下着は特別です。
 -   **start-date**: 2017-04-28

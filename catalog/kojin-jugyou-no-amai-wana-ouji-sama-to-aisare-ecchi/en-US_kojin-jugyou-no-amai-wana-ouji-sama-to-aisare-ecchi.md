@@ -1,5 +1,7 @@
 # Kojin Jugyou no Amai Wana: Ouji-sama to Aisare Ecchi
 
+![kojin-jugyou-no-amai-wana-ouji-sama-to-aisare-ecchi](https://cdn.myanimelist.net/images/manga/2/192334.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

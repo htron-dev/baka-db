@@ -1,5 +1,7 @@
 # Ramen Tenshi Pretty Menma
 
+![ramen-tenshi-pretty-menma](https://cdn.myanimelist.net/images/manga/3/41590.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラーメン天使プリティメンマ

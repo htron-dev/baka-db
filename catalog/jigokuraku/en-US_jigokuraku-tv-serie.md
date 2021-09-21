@@ -1,5 +1,7 @@
 # Jigokuraku
 
+![jigokuraku](https://cdn.myanimelist.net/images/anime/1457/111253.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 地獄楽
 -   **rating**: None

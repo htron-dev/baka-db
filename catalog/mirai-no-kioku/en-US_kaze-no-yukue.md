@@ -1,5 +1,7 @@
 # Kaze no Yukue
 
+![kaze-no-yukue](https://cdn.myanimelist.net/images/manga/2/194988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

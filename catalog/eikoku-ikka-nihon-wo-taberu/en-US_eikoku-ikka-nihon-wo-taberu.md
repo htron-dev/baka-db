@@ -1,5 +1,7 @@
 # Eikoku Ikka, Nihon wo Taberu
 
+![eikoku-ikka-nihon-wo-taberu](https://cdn.myanimelist.net/images/anime/10/73627.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 英国一家、日本を食べる

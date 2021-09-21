@@ -1,5 +1,7 @@
 # Hospi Meshi 2nd Season
 
+![hospi-meshi-2nd-season](https://cdn.myanimelist.net/images/manga/1/231277.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

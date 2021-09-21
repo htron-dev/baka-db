@@ -1,5 +1,7 @@
 # Detective Conan Bonus File: Fantasista Flower
 
+![detective-conan-bonus-file-fantasista-flower](https://cdn.myanimelist.net/images/anime/13/38385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン BONUS FILE ファンタジスタの花

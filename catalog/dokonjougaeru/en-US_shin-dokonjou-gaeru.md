@@ -1,5 +1,7 @@
 # Shin Dokonjou Gaeru
 
+![shin-dokonjou-gaeru](https://cdn.myanimelist.net/images/anime/8/56689.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 新・ど根性ガエル

@@ -1,5 +1,7 @@
 # Jimi ni, Medatazu, Koishiteru.: Osananajimi to Naisho no Renai Jijou
 
+![jimi-ni-medatazu-koishiteru-osananajimi-to-naisho-no-renai-jijou](https://cdn.myanimelist.net/images/manga/3/192648.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

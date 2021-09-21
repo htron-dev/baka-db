@@ -1,5 +1,7 @@
 # Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
 
+![kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo](https://cdn.myanimelist.net/images/manga/2/229606.jpg)
+
 -   **type**: manga
 -   **original-name**: 君のことが大大大大大好きな 100 人の彼女
 -   **start-date**: 2019-12-26

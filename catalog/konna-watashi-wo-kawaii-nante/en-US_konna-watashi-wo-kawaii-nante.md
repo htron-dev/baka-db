@@ -1,5 +1,7 @@
 # Konna Watashi wo Kawaii, Nante
 
+![konna-watashi-wo-kawaii-nante](https://cdn.myanimelist.net/images/manga/2/196501.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

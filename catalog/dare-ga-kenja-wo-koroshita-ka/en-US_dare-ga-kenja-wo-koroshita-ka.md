@@ -1,5 +1,7 @@
 # Dare ga Kenja wo Koroshita ka?
 
+![dare-ga-kenja-wo-koroshita-ka](https://cdn.myanimelist.net/images/manga/3/188409.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

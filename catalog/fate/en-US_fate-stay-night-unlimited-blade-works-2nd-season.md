@@ -1,5 +1,7 @@
 # Fate/stay night: Unlimited Blade Works 2nd Season
 
+![fate-stay-night-unlimited-blade-works-2nd-season](https://cdn.myanimelist.net/images/anime/11/72863.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Fate/stay night [Unlimited Blade Works] 2nd シーズン

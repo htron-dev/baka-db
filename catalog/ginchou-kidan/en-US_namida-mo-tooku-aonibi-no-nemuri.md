@@ -1,5 +1,7 @@
 # Namida mo Tooku -Aonibi no Nemuri-
 
+![namida-mo-tooku-aonibi-no-nemuri](https://cdn.myanimelist.net/images/manga/3/19604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

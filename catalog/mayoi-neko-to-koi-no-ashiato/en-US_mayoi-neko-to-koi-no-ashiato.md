@@ -1,5 +1,7 @@
 # Mayoi Neko to Koi no Ashiato
 
+![mayoi-neko-to-koi-no-ashiato](https://cdn.myanimelist.net/images/manga/2/232455.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

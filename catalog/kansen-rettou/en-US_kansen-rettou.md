@@ -1,5 +1,7 @@
 # Kansen Rettou
 
+![kansen-rettou](https://cdn.myanimelist.net/images/manga/1/25869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

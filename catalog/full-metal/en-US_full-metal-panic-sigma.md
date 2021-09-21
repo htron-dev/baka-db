@@ -1,5 +1,7 @@
 # Full Metal Panic! Sigma
 
+![full-metal-panic-sigma](https://cdn.myanimelist.net/images/manga/1/55583.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 90

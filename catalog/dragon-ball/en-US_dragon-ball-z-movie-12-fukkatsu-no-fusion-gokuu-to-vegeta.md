@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta
 
+![dragon-ball-z-movie-12-fukkatsu-no-fusion-gokuu-to-vegeta](https://cdn.myanimelist.net/images/anime/1015/93675.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 復活のフュージョン!!悟空とベジータ

@@ -1,5 +1,7 @@
 # Half de Ittoko
 
+![half-de-ittoko](https://cdn.myanimelist.net/images/manga/3/151549.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ハーフでいっとこ

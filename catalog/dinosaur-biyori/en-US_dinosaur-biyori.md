@@ -1,5 +1,7 @@
 # Dinosaur Biyori
 
+![dinosaur-biyori](https://cdn.myanimelist.net/images/anime/1382/116139.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ダイナ荘びより

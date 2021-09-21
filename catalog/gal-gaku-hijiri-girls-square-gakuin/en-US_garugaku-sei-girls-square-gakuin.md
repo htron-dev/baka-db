@@ -1,5 +1,7 @@
 # Garugaku.: Sei Girls Square Gakuin
 
+![garugaku-sei-girls-square-gakuin](https://cdn.myanimelist.net/images/anime/1369/117208.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ガル学. ~聖ガールズスクエア学院~

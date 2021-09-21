@@ -1,5 +1,7 @@
 # Hokuto no Ken: Raoh Gaiden Ten no Haoh
 
+![hokuto-no-ken-raoh-gaiden-ten-no-haoh](https://cdn.myanimelist.net/images/anime/4/18181.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 北斗の拳 ラオウ外伝 天の覇王

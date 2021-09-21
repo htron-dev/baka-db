@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Zero no Kiseki
 
+![eiyuu-densetsu-zero-no-kiseki](https://cdn.myanimelist.net/images/manga/2/92141.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

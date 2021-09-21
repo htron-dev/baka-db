@@ -1,5 +1,7 @@
 # I.N.V.U.
 
+![i-n-v-u](https://cdn.myanimelist.net/images/manga/3/247887.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: I.N.V.U.

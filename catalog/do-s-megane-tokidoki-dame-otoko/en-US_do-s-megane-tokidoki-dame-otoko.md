@@ -1,5 +1,7 @@
 # Do S Megane, Tokidoki Dame Otoko
 
+![do-s-megane-tokidoki-dame-otoko](https://cdn.myanimelist.net/images/manga/3/112113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

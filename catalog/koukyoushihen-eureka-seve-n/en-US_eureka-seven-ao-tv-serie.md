@@ -1,5 +1,7 @@
 # Eureka Seven AO
 
+![eureka-seven-ao](https://cdn.myanimelist.net/images/anime/11/36313.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: エウレカセブン AO

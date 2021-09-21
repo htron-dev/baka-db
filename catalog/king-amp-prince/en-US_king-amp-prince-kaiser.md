@@ -1,5 +1,7 @@
 # King &amp; Prince + Kaiser
 
+![king-amp-prince-kaiser](https://cdn.myanimelist.net/images/manga/2/22228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

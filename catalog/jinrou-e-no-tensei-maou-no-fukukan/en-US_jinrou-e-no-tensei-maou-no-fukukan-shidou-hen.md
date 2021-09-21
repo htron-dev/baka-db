@@ -1,5 +1,7 @@
 # Jinrou e no Tensei, Maou no Fukukan: Shidou-hen
 
+![jinrou-e-no-tensei-maou-no-fukukan-shidou-hen](https://cdn.myanimelist.net/images/manga/2/186110.jpg)
+
 -   **type**: manga
 -   **original-name**: 人狼への転生、魔王の副官～始動編
 -   **start-date**: 2016-03-04

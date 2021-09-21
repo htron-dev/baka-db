@@ -1,5 +1,7 @@
 # Fushigi-chou Sanban-chi
 
+![fushigi-chou-sanban-chi](https://cdn.myanimelist.net/images/manga/3/86805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

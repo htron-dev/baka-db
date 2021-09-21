@@ -1,5 +1,7 @@
 # Kiddy Grade: Truth Dawn
 
+![kiddy-grade-truth-dawn](https://cdn.myanimelist.net/images/anime/11/56967.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キディ・グレイド　劇場版　第三部: 黎明篇

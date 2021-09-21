@@ -1,5 +1,7 @@
 # Star☆Twinkle Precure
 
+![star☆-twinkle-precure](https://cdn.myanimelist.net/images/manga/2/235683.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

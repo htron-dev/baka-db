@@ -1,5 +1,7 @@
 # Koushite Kare wa Okujou wo Moyasu Koto ni Shita
 
+![koushite-kare-wa-okujou-wo-moyasu-koto-ni-shita](https://cdn.myanimelist.net/images/manga/2/164331.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

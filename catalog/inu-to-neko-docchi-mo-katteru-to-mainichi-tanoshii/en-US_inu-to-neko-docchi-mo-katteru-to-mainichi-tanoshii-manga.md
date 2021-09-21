@@ -1,5 +1,7 @@
 # Inu to Neko Docchi mo Katteru to Mainichi Tanoshii
 
+![inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii](https://cdn.myanimelist.net/images/manga/3/211549.jpg)
+
 -   **type**: manga
 -   **original-name**: 犬と猫どっちも飼ってると毎日たのしい
 -   **start-date**: 2017-02-05

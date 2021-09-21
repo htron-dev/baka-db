@@ -1,5 +1,7 @@
 # Kodomo wa Wakatte Agenai
 
+![kodomo-wa-wakatte-agenai](https://cdn.myanimelist.net/images/manga/2/144849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

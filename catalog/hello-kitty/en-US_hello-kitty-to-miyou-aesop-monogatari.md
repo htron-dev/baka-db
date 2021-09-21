@@ -1,5 +1,7 @@
 # Hello Kitty to Miyou: Aesop Monogatari
 
+![hello-kitty-to-miyou-aesop-monogatari](https://cdn.myanimelist.net/images/anime/7/72034.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ハローキティと見よう イソップ物語

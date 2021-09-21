@@ -1,5 +1,7 @@
 # Heart's Ease
 
+![hearts-ease](https://cdn.myanimelist.net/images/manga/3/79217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

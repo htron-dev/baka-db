@@ -1,5 +1,7 @@
 # Isekai Onsen ni Tensei shita Ore no Kounou ga Tondemosugiru
 
+![isekai-onsen-ni-tensei-shita-ore-no-kounou-ga-tondemosugiru](https://cdn.myanimelist.net/images/manga/3/190900.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界温泉に転生した俺の効能がとんでもすぎる
 -   **start-date**: 2017-02-24

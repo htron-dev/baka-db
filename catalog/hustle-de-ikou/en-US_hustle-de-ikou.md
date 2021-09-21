@@ -1,5 +1,7 @@
 # Hustle de Ikou
 
+![hustle-de-ikou](https://cdn.myanimelist.net/images/manga/1/25760.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ハッスルで行こう

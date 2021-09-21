@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Hathaway's Flash 2
 
+![mobile-suit-gundam-hathaways-flash-2](https://cdn.myanimelist.net/images/anime/1019/96548.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 閃光のハサウェイ 2

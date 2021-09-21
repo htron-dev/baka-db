@@ -1,5 +1,7 @@
 # Full Scale Summer
 
+![full-scale-summer](https://cdn.myanimelist.net/images/manga/1/164705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: フルスケール・サマー

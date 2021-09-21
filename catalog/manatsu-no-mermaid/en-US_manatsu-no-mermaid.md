@@ -1,5 +1,7 @@
 # Manatsu no Mermaid
 
+![manatsu-no-mermaid](https://cdn.myanimelist.net/images/manga/4/39769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

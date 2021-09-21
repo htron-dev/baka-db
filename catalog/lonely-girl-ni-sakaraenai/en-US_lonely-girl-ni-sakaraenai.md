@@ -1,5 +1,7 @@
 # Lonely Girl ni Sakaraenai
 
+![lonely-girl-ni-sakaraenai](https://cdn.myanimelist.net/images/manga/2/246835.jpg)
+
 -   **type**: manga
 -   **original-name**: ロンリーガールに逆らえない
 -   **start-date**: 2019-10-18

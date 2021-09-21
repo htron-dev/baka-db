@@ -1,5 +1,7 @@
 # Isekai Guild no Berserk
 
+![isekai-guild-no-berserk](https://cdn.myanimelist.net/images/manga/1/199709.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界ギルドの英雄師弟〈ベルセルク〉
 -   **start-date**: 2016-09-30

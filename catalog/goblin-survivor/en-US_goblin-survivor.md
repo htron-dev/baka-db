@@ -1,5 +1,7 @@
 # Goblin Survivor
 
+![goblin-survivor](https://cdn.myanimelist.net/images/manga/1/202328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

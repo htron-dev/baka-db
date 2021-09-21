@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Hathaway's Flash 3
 
+![mobile-suit-gundam-hathaways-flash-3](https://cdn.myanimelist.net/images/anime/1214/96549.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 閃光のハサウェイ 3

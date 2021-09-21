@@ -1,5 +1,7 @@
 # Kizuna no Hime to Seitokai Kishidan
 
+![kizuna-no-hime-to-seitokai-kishidan](https://cdn.myanimelist.net/images/manga/1/169009.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キズナの姫と生徒会騎士団
 -   **start-date**: 2016-01-01

@@ -1,5 +1,7 @@
 # Koudai-ke no Hitobito
 
+![koudai-ke-no-hitobito](https://cdn.myanimelist.net/images/manga/1/126855.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 47

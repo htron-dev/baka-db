@@ -1,5 +1,7 @@
 # Marco: Haha wo Tazunete Sanzenri
 
+![marco-haha-wo-tazunete-sanzenri](https://cdn.myanimelist.net/images/anime/7/9467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Marco: 母をたずねて三千里

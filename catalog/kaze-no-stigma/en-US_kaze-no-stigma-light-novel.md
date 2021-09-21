@@ -1,5 +1,7 @@
 # Kaze no Stigma
 
+![kaze-no-stigma](https://cdn.myanimelist.net/images/manga/1/174147.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Knight Inspector: Shien no Kariudo
 
+![knight-inspector-shien-no-kariudo](https://cdn.myanimelist.net/images/manga/2/163982.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

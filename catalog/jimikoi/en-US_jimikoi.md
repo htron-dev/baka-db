@@ -1,5 +1,7 @@
 # Jimikoi
 
+![jimikoi](https://cdn.myanimelist.net/images/manga/3/144785.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

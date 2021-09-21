@@ -1,5 +1,7 @@
 # Mianhada Saranghanda
 
+![mianhada-saranghanda](https://cdn.myanimelist.net/images/anime/4/26440.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 미안하다 사랑한다

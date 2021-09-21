@@ -1,5 +1,7 @@
 # Helen to Tomoni: Anne Sullivan
 
+![helen-to-tomoni-anne-sullivan](https://cdn.myanimelist.net/images/anime/7/84698.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヘレンと共に　アニー・サリバン-

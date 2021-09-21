@@ -1,5 +1,7 @@
 # Kami nomi zo Shiru Sekai
 
+![kami-nomi-zo-shiru-sekai](https://cdn.myanimelist.net/images/manga/3/41720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

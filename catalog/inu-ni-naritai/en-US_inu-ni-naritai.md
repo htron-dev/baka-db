@@ -1,5 +1,7 @@
 # Inu ni Naritai
 
+![inu-ni-naritai](https://cdn.myanimelist.net/images/manga/1/150753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

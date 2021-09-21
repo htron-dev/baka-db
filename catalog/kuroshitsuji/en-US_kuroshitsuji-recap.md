@@ -1,5 +1,7 @@
 # Kuroshitsuji Recap
 
+![kuroshitsuji-recap](https://cdn.myanimelist.net/images/anime/11/13586.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タナカのナレーションで振り返る黒執事ダイジェスト

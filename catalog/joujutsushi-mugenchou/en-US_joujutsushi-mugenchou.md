@@ -1,5 +1,7 @@
 # Joujutsushi Mugenchou
 
+![joujutsushi-mugenchou](https://cdn.myanimelist.net/images/manga/2/158919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

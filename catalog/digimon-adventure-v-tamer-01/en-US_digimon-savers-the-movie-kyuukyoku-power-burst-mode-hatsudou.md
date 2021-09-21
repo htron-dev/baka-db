@@ -1,5 +1,7 @@
 # Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!
 
+![digimon-savers-the-movie-kyuukyoku-power-burst-mode-hatsudou](https://cdn.myanimelist.net/images/anime/3/3519.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンセイバーズ THE MOVIE 究極パワー！バーストモード発動！！

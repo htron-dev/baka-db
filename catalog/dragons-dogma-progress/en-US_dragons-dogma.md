@@ -1,5 +1,7 @@
 # Dragon's Dogma
 
+![dragons-dogma](https://cdn.myanimelist.net/images/anime/1519/109068.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ドラゴンズドグマ

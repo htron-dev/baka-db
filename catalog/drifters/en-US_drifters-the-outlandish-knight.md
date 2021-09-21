@@ -1,5 +1,7 @@
 # Drifters: The Outlandish Knight
 
+![drifters-the-outlandish-knight](https://cdn.myanimelist.net/images/anime/1987/97778.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: DRIFTERS OVA

@@ -1,5 +1,7 @@
 # Hyakubanme no Saru
 
+![hyakubanme-no-saru](https://cdn.myanimelist.net/images/anime/5/64151.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 100 ばんめのサル

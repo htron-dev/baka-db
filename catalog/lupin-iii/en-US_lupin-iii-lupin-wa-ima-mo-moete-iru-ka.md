@@ -1,5 +1,7 @@
 # Lupin III: Lupin wa Ima mo Moete Iru ka?
 
+![lupin-iii-lupin-wa-ima-mo-moete-iru-ka](https://cdn.myanimelist.net/images/anime/1983/95011.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ルパンは今も燃えているか？

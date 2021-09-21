@@ -1,5 +1,7 @@
 # Dragon Quest Retsuden: Roto no Monshou
 
+![dragon-quest-retsuden-roto-no-monshou](https://cdn.myanimelist.net/images/manga/2/133283.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 86

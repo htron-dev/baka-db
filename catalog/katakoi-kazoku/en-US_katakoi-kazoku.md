@@ -1,5 +1,7 @@
 # Katakoi Kazoku
 
+![katakoi-kazoku](https://cdn.myanimelist.net/images/manga/2/190485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

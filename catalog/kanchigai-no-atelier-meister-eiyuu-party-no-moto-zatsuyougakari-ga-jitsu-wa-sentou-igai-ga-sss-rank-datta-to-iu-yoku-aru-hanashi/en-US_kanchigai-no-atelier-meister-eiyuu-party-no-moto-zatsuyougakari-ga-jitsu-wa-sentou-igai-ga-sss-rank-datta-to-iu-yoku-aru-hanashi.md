@@ -1,5 +1,7 @@
 # Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
 
+![kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi](https://cdn.myanimelist.net/images/manga/3/242254.jpg)
+
 -   **type**: manga
 -   **original-name**: 勘違いの工房主〈アトリエマイスター〉 英雄パーティの元雑用係が、実は戦闘以外が SSS ランクだったというよくある話
 -   **start-date**: 2019-12-17

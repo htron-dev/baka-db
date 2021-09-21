@@ -1,5 +1,7 @@
 # Souten no Ken: Regenesis
 
+![souten-no-ken-regenesis](https://cdn.myanimelist.net/images/anime/1289/90752.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 蒼天の拳 REGENESIS

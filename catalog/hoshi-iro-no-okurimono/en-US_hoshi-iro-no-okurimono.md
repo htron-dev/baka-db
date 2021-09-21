@@ -1,5 +1,7 @@
 # Hoshi-iro no Okurimono
 
+![hoshi-iro-no-okurimono](https://cdn.myanimelist.net/images/manga/5/126437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

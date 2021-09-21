@@ -1,5 +1,7 @@
 # Houkago, Koishita.
 
+![houkago-koishita](https://cdn.myanimelist.net/images/manga/1/197433.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

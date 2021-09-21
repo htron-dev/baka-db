@@ -1,5 +1,7 @@
 # Goulart Knights
 
+![goulart-knights](https://cdn.myanimelist.net/images/manga/1/172984.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: グラール騎士団〈ナイツ〉

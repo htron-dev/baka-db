@@ -1,5 +1,7 @@
 # Fujimaru!
 
+![fujimaru](https://cdn.myanimelist.net/images/manga/2/241758.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

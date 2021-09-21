@@ -1,5 +1,7 @@
 # Lucky✩Strike!
 
+![lucky-✩-strike](https://cdn.myanimelist.net/images/manga/2/87491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラッキー ☆ ストライク!

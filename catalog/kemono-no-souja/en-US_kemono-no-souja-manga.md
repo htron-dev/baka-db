@@ -1,5 +1,7 @@
 # Kemono no Souja
 
+![kemono-no-souja](https://cdn.myanimelist.net/images/manga/2/169318.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

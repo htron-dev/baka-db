@@ -1,5 +1,7 @@
 # Fast Week
 
+![fast-week](https://cdn.myanimelist.net/images/anime/1773/102390.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Fast Week

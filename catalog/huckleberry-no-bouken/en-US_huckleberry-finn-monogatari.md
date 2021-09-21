@@ -1,5 +1,7 @@
 # Huckleberry Finn Monogatari
 
+![huckleberry-finn-monogatari](https://cdn.myanimelist.net/images/anime/1159/94639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ハックルベリー・フィン物語

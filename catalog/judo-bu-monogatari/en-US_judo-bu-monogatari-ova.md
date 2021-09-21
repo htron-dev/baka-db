@@ -1,5 +1,7 @@
 # Judo-bu Monogatari
 
+![judo-bu-monogatari](https://cdn.myanimelist.net/images/anime/11/51115.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 柔道部物語

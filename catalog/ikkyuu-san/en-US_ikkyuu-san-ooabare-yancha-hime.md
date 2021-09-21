@@ -1,5 +1,7 @@
 # Ikkyuu-san: Ooabare Yancha-hime
 
+![ikkyuu-san-ooabare-yancha-hime](https://cdn.myanimelist.net/images/anime/13/60905.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 一休さん 大暴れやんちゃ姫

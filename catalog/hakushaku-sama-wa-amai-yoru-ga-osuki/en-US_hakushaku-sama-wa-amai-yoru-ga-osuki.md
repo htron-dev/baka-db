@@ -1,5 +1,7 @@
 # Hakushaku-sama wa Amai Yoru ga Osuki
 
+![hakushaku-sama-wa-amai-yoru-ga-osuki](https://cdn.myanimelist.net/images/manga/1/157595.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

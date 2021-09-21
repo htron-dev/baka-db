@@ -1,5 +1,7 @@
 # Mesh
 
+![mesh](https://cdn.myanimelist.net/images/manga/3/57281.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 

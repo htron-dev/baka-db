@@ -1,5 +1,7 @@
 # Joukyou Hanabi
 
+![joukyou-hanabi](https://cdn.myanimelist.net/images/manga/3/195195.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 62

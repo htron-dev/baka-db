@@ -1,5 +1,7 @@
 # Kiss Me Host-Gumi
 
+![kiss-me-host-gumi](https://cdn.myanimelist.net/images/manga/1/25766.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Kiss me ホスト組

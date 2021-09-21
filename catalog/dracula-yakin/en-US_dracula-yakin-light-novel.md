@@ -1,5 +1,7 @@
 # Dracula Yakin!
 
+![dracula-yakin](https://cdn.myanimelist.net/images/manga/1/240135.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ドラキュラやきん！
 -   **start-date**: 2020-09-10

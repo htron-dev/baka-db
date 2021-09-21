@@ -1,5 +1,7 @@
 # Kimi ga Kureru Shiawase
 
+![kimi-ga-kureru-shiawase](https://cdn.myanimelist.net/images/manga/3/63553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

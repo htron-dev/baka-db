@@ -1,5 +1,7 @@
 # Mezame no Hakobune
 
+![mezame-no-hakobune](https://cdn.myanimelist.net/images/anime/3/5386.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: めざめの方舟

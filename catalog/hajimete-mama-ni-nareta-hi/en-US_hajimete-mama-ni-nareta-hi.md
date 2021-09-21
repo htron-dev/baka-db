@@ -1,5 +1,7 @@
 # Hajimete Mama ni Nareta Hi
 
+![hajimete-mama-ni-nareta-hi](https://cdn.myanimelist.net/images/manga/2/229877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

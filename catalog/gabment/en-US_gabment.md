@@ -1,5 +1,7 @@
 # Gabment
 
+![gabment](https://cdn.myanimelist.net/images/manga/1/103741.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ガブメント

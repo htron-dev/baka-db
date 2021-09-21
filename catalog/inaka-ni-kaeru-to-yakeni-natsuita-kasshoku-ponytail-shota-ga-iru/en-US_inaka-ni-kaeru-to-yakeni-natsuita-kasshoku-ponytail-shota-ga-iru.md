@@ -1,5 +1,7 @@
 # Inaka ni Kaeru to Yakeni Natsuita Kasshoku Ponytail Shota ga Iru
 
+![inaka-ni-kaeru-to-yakeni-natsuita-kasshoku-ponytail-shota-ga-iru](https://cdn.myanimelist.net/images/manga/1/217656.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

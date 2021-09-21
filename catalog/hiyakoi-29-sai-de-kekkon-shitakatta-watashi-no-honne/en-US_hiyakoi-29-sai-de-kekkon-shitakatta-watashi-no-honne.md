@@ -1,5 +1,7 @@
 # Hiyakoi: 29-sai de Kekkon Shitakatta Watashi no Honne
 
+![hiyakoi-29-sai-de-kekkon-shitakatta-watashi-no-honne](https://cdn.myanimelist.net/images/manga/3/149794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Macross Zero
 
+![macross-zero](https://cdn.myanimelist.net/images/anime/12/76289.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: マクロス ゼロ

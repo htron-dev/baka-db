@@ -1,5 +1,7 @@
 # Mouryou Senki Madara
 
+![mouryou-senki-madara](https://cdn.myanimelist.net/images/manga/3/201571.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 魍魎戦記 MADARA

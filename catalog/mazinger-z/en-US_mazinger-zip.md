@@ -1,5 +1,7 @@
 # Mazinger ZIP!
 
+![mazinger-zip](https://cdn.myanimelist.net/images/anime/1567/99090.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 237
 -   **original-name**: マジンガー ZIP!

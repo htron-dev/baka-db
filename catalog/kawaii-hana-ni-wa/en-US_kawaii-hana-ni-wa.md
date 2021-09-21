@@ -1,5 +1,7 @@
 # Kawaii Hana ni wa,
 
+![kawaii-hana-ni-wa](https://cdn.myanimelist.net/images/manga/1/227640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

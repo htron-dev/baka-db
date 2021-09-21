@@ -1,5 +1,7 @@
 # Kanojo no Tomodachi
 
+![kanojo-no-tomodachi](https://cdn.myanimelist.net/images/manga/2/244531.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼女の友達
 -   **start-date**: 2021-05-06

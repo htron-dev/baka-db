@@ -1,5 +1,7 @@
 # Jewelry★Eyes
 
+![jewelry★-eyes](https://cdn.myanimelist.net/images/manga/5/112405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

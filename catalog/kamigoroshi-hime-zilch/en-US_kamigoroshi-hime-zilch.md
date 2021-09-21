@@ -1,5 +1,7 @@
 # Kamigoroshi-hime Zilch
 
+![kamigoroshi-hime-zilch](https://cdn.myanimelist.net/images/manga/3/188975.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

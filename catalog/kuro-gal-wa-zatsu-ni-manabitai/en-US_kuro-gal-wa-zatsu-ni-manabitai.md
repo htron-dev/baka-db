@@ -1,5 +1,7 @@
 # Kuro Gal wa Zatsu ni Manabitai!
 
+![kuro-gal-wa-zatsu-ni-manabitai](https://cdn.myanimelist.net/images/manga/3/234790.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Kami no Tsukai wa Amai Miko ni Oboreru
 
+![kami-no-tsukai-wa-amai-miko-ni-oboreru](https://cdn.myanimelist.net/images/manga/3/192302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Grey: Digital Target
 
+![grey-digital-target](https://cdn.myanimelist.net/images/anime/1301/94928.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GREY デジタル・ターゲット

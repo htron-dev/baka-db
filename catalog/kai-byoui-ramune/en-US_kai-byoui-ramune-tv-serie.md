@@ -1,5 +1,7 @@
 # Kai Byoui Ramune
 
+![kai-byoui-ramune](https://cdn.myanimelist.net/images/anime/1443/110157.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 怪病医ラムネ

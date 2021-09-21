@@ -1,5 +1,7 @@
 # Futari Escape
 
+![futari-escape](https://cdn.myanimelist.net/images/manga/3/246832.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりエスケープ
 -   **start-date**: 2020-07-18

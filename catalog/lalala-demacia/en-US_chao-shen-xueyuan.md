@@ -1,5 +1,7 @@
 # Chao Shen Xueyuan
 
+![chao-shen-xueyuan](https://cdn.myanimelist.net/images/anime/1185/114406.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 超神学院

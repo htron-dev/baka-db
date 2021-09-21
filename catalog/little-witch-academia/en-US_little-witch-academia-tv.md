@@ -1,5 +1,7 @@
 # Little Witch Academia (TV)
 
+![little-witch-academia-tv](https://cdn.myanimelist.net/images/anime/13/83934.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: リトルウィッチアカデミア

@@ -1,5 +1,7 @@
 # Hoshi no Koe
 
+![hoshi-no-koe](https://cdn.myanimelist.net/images/anime/1980/112997.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ほしのこえ

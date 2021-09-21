@@ -1,5 +1,7 @@
 # Kyou kara Ore wa Loli no Himo!
 
+![kyou-kara-ore-wa-loli-no-himo](https://cdn.myanimelist.net/images/manga/2/215492.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日から俺はロリのヒモ！
 -   **start-date**: 2018-04-17

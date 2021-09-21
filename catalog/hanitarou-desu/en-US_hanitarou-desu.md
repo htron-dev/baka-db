@@ -1,5 +1,7 @@
 # Hanitarou Desu.
 
+![hanitarou-desu](https://cdn.myanimelist.net/images/anime/12/84056.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 70
 -   **original-name**: ハニ太郎です.

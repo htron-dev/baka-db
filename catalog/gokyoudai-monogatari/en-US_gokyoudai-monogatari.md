@@ -1,5 +1,7 @@
 # Gokyoudai Monogatari
 
+![gokyoudai-monogatari](https://cdn.myanimelist.net/images/anime/5/61397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ご姉弟物語

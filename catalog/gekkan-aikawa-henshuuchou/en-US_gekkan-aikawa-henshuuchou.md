@@ -1,5 +1,7 @@
 # Gekkan Aikawa Henshuuchou
 
+![gekkan-aikawa-henshuuchou](https://cdn.myanimelist.net/images/manga/3/51915.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Nekomonogatari: Kuro Recap
 
+![nekomonogatari-kuro-recap](https://cdn.myanimelist.net/images/anime/1145/98159.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「化物語」ダイジェストムービー

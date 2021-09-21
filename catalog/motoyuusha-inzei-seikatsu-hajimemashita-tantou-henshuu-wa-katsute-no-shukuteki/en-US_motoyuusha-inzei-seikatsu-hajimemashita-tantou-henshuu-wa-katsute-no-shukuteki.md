@@ -1,5 +1,7 @@
 # Motoyuusha, Inzei Seikatsu Hajimemashita.: Tantou Henshuu wa Katsute no Shukuteki
 
+![motoyuusha-inzei-seikatsu-hajimemashita-tantou-henshuu-wa-katsute-no-shukuteki](https://cdn.myanimelist.net/images/manga/3/198070.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Koutaishi Denka no Chouai Lesson: Ushinawareta Koushaku wa Koi wo Shiru
 
+![koutaishi-denka-no-chouai-lesson-ushinawareta-koushaku-wa-koi-wo-shiru](https://cdn.myanimelist.net/images/manga/2/153329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 皇太子殿下の寵愛レッスン 失われた侯爵令嬢は恋を知る

@@ -1,5 +1,7 @@
 # Kabe ni Mary.com
 
+![kabe-ni-mary-com](https://cdn.myanimelist.net/images/manga/3/175571.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

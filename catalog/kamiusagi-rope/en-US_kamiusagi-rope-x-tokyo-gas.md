@@ -1,5 +1,7 @@
 # Kamiusagi Rope x Tokyo Gas
 
+![kamiusagi-rope-x-tokyo-gas](https://cdn.myanimelist.net/images/anime/7/85028.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 紙兎ロペ × 東京ガス

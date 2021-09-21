@@ -1,5 +1,7 @@
 # Hinata Café e Youkoso
 
+![hinata-cafe-e-youkoso](https://cdn.myanimelist.net/images/manga/3/152844.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ひなた Cafe へようこそ

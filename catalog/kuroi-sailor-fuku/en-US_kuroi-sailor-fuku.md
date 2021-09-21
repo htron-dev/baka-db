@@ -1,5 +1,7 @@
 # Kuroi Sailor Fuku
 
+![kuroi-sailor-fuku](https://cdn.myanimelist.net/images/manga/1/223329.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

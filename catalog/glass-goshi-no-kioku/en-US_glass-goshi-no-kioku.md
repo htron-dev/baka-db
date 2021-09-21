@@ -1,5 +1,7 @@
 # Glass Goshi no Kioku
 
+![glass-goshi-no-kioku](https://cdn.myanimelist.net/images/manga/2/64849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガラス越しの記憶

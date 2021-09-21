@@ -1,5 +1,7 @@
 # Mikan no Koi
 
+![mikan-no-koi](https://cdn.myanimelist.net/images/manga/3/140639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

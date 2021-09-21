@@ -1,5 +1,7 @@
 # Mad Pa Pii
 
+![mad-pa-pii](https://cdn.myanimelist.net/images/manga/1/16805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

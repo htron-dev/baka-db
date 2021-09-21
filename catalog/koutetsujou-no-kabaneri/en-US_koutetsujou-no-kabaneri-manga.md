@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri
 
+![koutetsujou-no-kabaneri](https://cdn.myanimelist.net/images/manga/1/186860.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

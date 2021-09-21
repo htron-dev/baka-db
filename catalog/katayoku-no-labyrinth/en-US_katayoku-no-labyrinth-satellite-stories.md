@@ -1,5 +1,7 @@
 # Katayoku no Labyrinth: Satellite Stories
 
+![katayoku-no-labyrinth-satellite-stories](https://cdn.myanimelist.net/images/manga/3/228337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

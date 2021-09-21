@@ -1,5 +1,7 @@
 # Madame Petit
 
+![madame-petit](https://cdn.myanimelist.net/images/manga/1/176951.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 54

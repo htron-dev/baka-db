@@ -1,5 +1,7 @@
 # Shiro
 
+![shiro](https://cdn.myanimelist.net/images/manga/2/19191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

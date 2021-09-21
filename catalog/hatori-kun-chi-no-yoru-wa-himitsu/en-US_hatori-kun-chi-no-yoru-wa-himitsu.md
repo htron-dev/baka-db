@@ -1,5 +1,7 @@
 # Hatori-kun Chi no Yoru wa Himitsu
 
+![hatori-kun-chi-no-yoru-wa-himitsu](https://cdn.myanimelist.net/images/manga/1/194358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

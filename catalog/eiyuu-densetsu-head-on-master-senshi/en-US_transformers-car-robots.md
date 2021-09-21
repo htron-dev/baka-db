@@ -1,5 +1,7 @@
 # Transformers: Car Robots
 
+![transformers-car-robots](https://cdn.myanimelist.net/images/anime/13/15126.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: トランスフォーマー・カーロボット

@@ -1,5 +1,7 @@
 # Kaga 100-mangoku ni Tsukaeru Koto ni Natta
 
+![kaga-100-mangoku-ni-tsukaeru-koto-ni-natta](https://cdn.myanimelist.net/images/manga/3/169898.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

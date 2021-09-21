@@ -1,5 +1,7 @@
 # Koi wo Kataranai Kuchibiru
 
+![koi-wo-kataranai-kuchibiru](https://cdn.myanimelist.net/images/manga/2/161777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

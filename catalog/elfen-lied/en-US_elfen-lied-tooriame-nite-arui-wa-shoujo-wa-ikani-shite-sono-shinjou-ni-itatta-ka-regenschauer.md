@@ -1,5 +1,7 @@
 # Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer
 
+![elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka-regenschauer](https://cdn.myanimelist.net/images/anime/7/80498.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）

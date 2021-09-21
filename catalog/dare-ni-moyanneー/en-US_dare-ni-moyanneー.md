@@ -1,5 +1,7 @@
 # Dare ni Moyanne ー!
 
+![dare-ni-moyanne-ー](https://cdn.myanimelist.net/images/manga/1/153570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誰にもやんねー!

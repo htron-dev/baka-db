@@ -1,5 +1,7 @@
 # Durarara!!x2 Shou
 
+![durarara-x-2-shou](https://cdn.myanimelist.net/images/anime/12/67743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デュラララ!!× ２ 承

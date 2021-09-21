@@ -1,5 +1,7 @@
 # Lady Victorian
 
+![lady-victorian](https://cdn.myanimelist.net/images/manga/1/112807.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 100

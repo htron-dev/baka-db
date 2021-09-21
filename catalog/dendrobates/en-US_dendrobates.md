@@ -1,5 +1,7 @@
 # Dendrobates
 
+![dendrobates](https://cdn.myanimelist.net/images/manga/3/46071.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Love Focus
 
+![love-focus](https://cdn.myanimelist.net/images/manga/2/19826.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

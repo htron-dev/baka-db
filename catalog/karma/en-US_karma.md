@@ -1,5 +1,7 @@
 # Karma
 
+![karma](https://cdn.myanimelist.net/images/anime/8/71315.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カルマ

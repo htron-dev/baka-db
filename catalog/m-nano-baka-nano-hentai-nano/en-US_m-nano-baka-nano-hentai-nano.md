@@ -1,5 +1,7 @@
 # M nano? Baka nano? Hentai nano?
 
+![m-nano-baka-nano-hentai-nano](https://cdn.myanimelist.net/images/manga/2/101593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

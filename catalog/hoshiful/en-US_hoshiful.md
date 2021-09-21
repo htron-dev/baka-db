@@ -1,5 +1,7 @@
 # Hoshiful
 
+![hoshiful](https://cdn.myanimelist.net/images/manga/1/15979.jpg)
+
 -   **type**: manga
 -   **original-name**: ほしフル ～星藤学園天文同好会～
 -   **start-date**: 2007-07-26

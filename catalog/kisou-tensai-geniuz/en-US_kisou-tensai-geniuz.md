@@ -1,5 +1,7 @@
 # Kisou Tensai Geniuz!
 
+![kisou-tensai-geniuz](https://cdn.myanimelist.net/images/manga/1/223248.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

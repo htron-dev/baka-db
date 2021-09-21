@@ -1,5 +1,7 @@
 # Koibito ni Naru Jikan desu
 
+![koibito-ni-naru-jikan-desu](https://cdn.myanimelist.net/images/manga/2/174442.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

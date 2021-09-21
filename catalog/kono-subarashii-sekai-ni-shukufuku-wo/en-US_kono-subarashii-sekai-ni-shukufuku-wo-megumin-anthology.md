@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! Megumin Anthology
 
+![kono-subarashii-sekai-ni-shukufuku-wo-megumin-anthology](https://cdn.myanimelist.net/images/manga/1/239136.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

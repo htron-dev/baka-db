@@ -1,5 +1,7 @@
 # Gonta wo Korose!
 
+![gonta-wo-korose](https://cdn.myanimelist.net/images/manga/3/194705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

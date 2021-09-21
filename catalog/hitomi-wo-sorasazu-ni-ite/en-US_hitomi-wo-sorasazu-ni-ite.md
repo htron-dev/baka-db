@@ -1,5 +1,7 @@
 # Hitomi wo Sorasazu ni Ite
 
+![hitomi-wo-sorasazu-ni-ite](https://cdn.myanimelist.net/images/manga/3/14327.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 瞳をそらさずにいて

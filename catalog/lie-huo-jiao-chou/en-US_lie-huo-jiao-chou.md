@@ -1,5 +1,7 @@
 # Lie Huo Jiao Chou
 
+![lie-huo-jiao-chou](https://cdn.myanimelist.net/images/anime/1572/110326.jpg)
+
 -   **type**: ona
 -   **original-name**: 烈火浇愁
 -   **rating**: PG-13 - Teens 13 or older

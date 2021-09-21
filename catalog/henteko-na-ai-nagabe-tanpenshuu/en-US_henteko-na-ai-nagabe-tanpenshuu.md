@@ -1,5 +1,7 @@
 # Henteko na Ai: Nagabe Tanpenshuu
 
+![henteko-na-ai-nagabe-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/245633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

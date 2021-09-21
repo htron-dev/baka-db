@@ -1,5 +1,7 @@
 # Elf de Bikini de Machine Gun!
 
+![elf-de-bikini-de-machine-gun](https://cdn.myanimelist.net/images/manga/1/183150.jpg)
+
 -   **type**: light-novel
 -   **original-name**: エルフでビキニでマシンガン!
 -   **start-date**: 2016-09-23

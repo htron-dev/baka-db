@@ -1,5 +1,7 @@
 # Houkago Atelier Toiro
 
+![houkago-atelier-toiro](https://cdn.myanimelist.net/images/manga/2/64797.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Koi ni Naranai Wake ga Nai
 
+![koi-ni-naranai-wake-ga-nai](https://cdn.myanimelist.net/images/manga/3/196026.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

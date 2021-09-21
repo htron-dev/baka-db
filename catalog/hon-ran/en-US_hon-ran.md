@@ -1,5 +1,7 @@
 # Hon Ran
 
+![hon-ran](https://cdn.myanimelist.net/images/anime/9/13297.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 紅狼[ホンラン]

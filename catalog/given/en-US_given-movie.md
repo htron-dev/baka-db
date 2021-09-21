@@ -1,5 +1,7 @@
 # Given Movie
 
+![given-movie](https://cdn.myanimelist.net/images/anime/1648/111422.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ギヴン

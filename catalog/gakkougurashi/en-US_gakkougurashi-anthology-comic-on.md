@@ -1,5 +1,7 @@
 # Gakkougurashi! Anthology Comic: On
 
+![gakkougurashi-anthology-comic-on](https://cdn.myanimelist.net/images/manga/3/164004.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

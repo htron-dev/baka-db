@@ -1,5 +1,7 @@
 # Moshi Koukou Yakyuu no Joshi Manager ga Drucker no "Management" wo Yondara
 
+![moshi-koukou-yakyuu-no-joshi-manager-ga-drucker-no-management-wo-yondara](https://cdn.myanimelist.net/images/manga/2/84039.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら

@@ -1,5 +1,7 @@
 # Kankinai: Yuganda Seiheki
 
+![kankinai-yuganda-seiheki](https://cdn.myanimelist.net/images/manga/3/199139.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 監禁愛　歪んだ性癖

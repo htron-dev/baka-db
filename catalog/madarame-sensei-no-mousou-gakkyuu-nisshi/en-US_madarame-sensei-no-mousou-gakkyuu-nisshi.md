@@ -1,5 +1,7 @@
 # Madarame-sensei no Mousou Gakkyuu Nisshi
 
+![madarame-sensei-no-mousou-gakkyuu-nisshi](https://cdn.myanimelist.net/images/manga/3/125891.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

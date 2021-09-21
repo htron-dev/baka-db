@@ -1,5 +1,7 @@
 # Gegege no Kitarou (2018)
 
+![gegege-no-kitarou-2018](https://cdn.myanimelist.net/images/anime/1273/93610.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 97
 -   **original-name**: ゲゲゲの鬼太郎 (2018)

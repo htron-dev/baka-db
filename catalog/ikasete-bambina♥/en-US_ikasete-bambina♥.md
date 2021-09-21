@@ -1,5 +1,7 @@
 # Ikasete!! Bambina♥
 
+![ikasete-bambina♥](https://cdn.myanimelist.net/images/manga/3/126843.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

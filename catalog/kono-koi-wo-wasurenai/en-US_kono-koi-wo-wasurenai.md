@@ -1,5 +1,7 @@
 # Kono Koi wo Wasurenai.
 
+![kono-koi-wo-wasurenai](https://cdn.myanimelist.net/images/manga/1/24915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

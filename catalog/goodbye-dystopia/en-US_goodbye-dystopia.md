@@ -1,5 +1,7 @@
 # Goodbye Dystopia
 
+![goodbye-dystopia](https://cdn.myanimelist.net/images/manga/1/211230.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Kitchen no Ohimesama
 
+![kitchen-no-ohimesama](https://cdn.myanimelist.net/images/manga/5/112513.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Keikoku no Biki no Hatsukoi: Kyuuai wa Atsuku Midara ni
 
+![keikoku-no-biki-no-hatsukoi-kyuuai-wa-atsuku-midara-ni](https://cdn.myanimelist.net/images/manga/1/192622.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

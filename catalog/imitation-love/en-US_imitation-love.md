@@ -1,5 +1,7 @@
 # Imitation Love
 
+![imitation-love](https://cdn.myanimelist.net/images/manga/2/6439.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 

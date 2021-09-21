@@ -1,5 +1,7 @@
 # Higan no Ishi
 
+![higan-no-ishi](https://cdn.myanimelist.net/images/manga/2/206030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

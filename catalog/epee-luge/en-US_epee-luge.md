@@ -1,5 +1,7 @@
 # Epee Luge
 
+![epee-luge](https://cdn.myanimelist.net/images/manga/1/4771.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: エペリュージュ

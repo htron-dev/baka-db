@@ -1,5 +1,7 @@
 # Kimi to Shitai to Boku no Kaitou
 
+![kimi-to-shitai-to-boku-no-kaitou](https://cdn.myanimelist.net/images/manga/3/119977.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: キミと死体とボクの解答

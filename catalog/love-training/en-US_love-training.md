@@ -1,5 +1,7 @@
 # Love Training
 
+![love-training](https://cdn.myanimelist.net/images/manga/1/5531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

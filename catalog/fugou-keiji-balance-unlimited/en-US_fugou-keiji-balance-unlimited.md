@@ -1,5 +1,7 @@
 # Fugou Keiji: Balance:Unlimited
 
+![fugou-keiji-balance-unlimited](https://cdn.myanimelist.net/images/anime/1066/106556.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 富豪刑事 Balance:UNLIMITED

@@ -1,5 +1,7 @@
 # Giant Robo: Chikyuu no Moetsukiru Hi
 
+![giant-robo-chikyuu-no-moetsukiru-hi](https://cdn.myanimelist.net/images/manga/2/134613.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 53

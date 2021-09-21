@@ -1,5 +1,7 @@
 # Family Simulation!!
 
+![family-simulation](https://cdn.myanimelist.net/images/manga/1/194097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

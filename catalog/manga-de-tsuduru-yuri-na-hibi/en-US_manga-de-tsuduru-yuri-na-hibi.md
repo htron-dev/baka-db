@@ -1,5 +1,7 @@
 # Manga de Tsuduru Yuri na Hibi
 
+![manga-de-tsuduru-yuri-na-hibi](https://cdn.myanimelist.net/images/manga/2/154342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まんがで綴る百合な日々

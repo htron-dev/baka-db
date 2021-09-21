@@ -1,5 +1,7 @@
 # Eto Irokoi-zoushi: Mitsugetsu no Shou
 
+![eto-irokoi-zoushi-mitsugetsu-no-shou](https://cdn.myanimelist.net/images/manga/2/238521.jpg)
+
 -   **type**: manga
 -   **original-name**: 十二支〈えと〉色恋草子～蜜月の章～
 -   **start-date**: 2017-09-14

@@ -1,5 +1,7 @@
 # Mach GoGoGo
 
+![mach-go-go-go](https://cdn.myanimelist.net/images/manga/3/175843.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

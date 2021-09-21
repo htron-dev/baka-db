@@ -1,5 +1,7 @@
 # Licca-chan to Mahou no Kuni
 
+![licca-chan-to-mahou-no-kuni](https://cdn.myanimelist.net/images/anime/12/58617.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: リカちゃんと魔法の国

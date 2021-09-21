@@ -1,5 +1,7 @@
 # Kuruneko
 
+![kuruneko](https://cdn.myanimelist.net/images/manga/2/121507.jpg)
+
 -   **type**: manga
 -   **original-name**: くるねこ
 -   **start-date**: 2006-10-20

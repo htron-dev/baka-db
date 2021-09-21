@@ -1,5 +1,7 @@
 # Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen
 
+![kyoukai-no-kanata-movie-1-ill-be-here-kako-hen](https://cdn.myanimelist.net/images/anime/6/73298.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 境界の彼方 I'LL BE HERE 過去篇

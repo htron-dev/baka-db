@@ -1,5 +1,7 @@
 # Taka no Tsume GO: Utsukushiki Elleair Shoushuu Plus
 
+![taka-no-tsume-go-utsukushiki-elleair-shoushuu-plus](https://cdn.myanimelist.net/images/anime/9/54453.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鷹の爪 GO 美しきエリエール消臭プラス

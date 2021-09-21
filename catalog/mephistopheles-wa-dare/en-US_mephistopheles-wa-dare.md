@@ -1,5 +1,7 @@
 # Mephistopheles wa Dare?
 
+![mephistopheles-wa-dare](https://cdn.myanimelist.net/images/manga/3/173832.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

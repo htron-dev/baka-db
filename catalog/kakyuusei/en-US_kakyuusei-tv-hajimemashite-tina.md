@@ -1,5 +1,7 @@
 # Kakyuusei (TV): Hajimemashite Tina!
 
+![kakyuusei-tv-hajimemashite-tina](https://cdn.myanimelist.net/images/anime/5/88233.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 下級生はじめまして ティナ!

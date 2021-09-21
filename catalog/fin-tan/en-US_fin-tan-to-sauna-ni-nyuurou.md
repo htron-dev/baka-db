@@ -1,5 +1,7 @@
 # Fin-tan to Sauna ni Nyuurou
 
+![fin-tan-to-sauna-ni-nyuurou](https://cdn.myanimelist.net/images/anime/1539/93258.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: フィンたんとサウナに入ろう

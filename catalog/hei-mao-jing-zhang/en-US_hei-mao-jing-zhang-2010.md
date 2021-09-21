@@ -1,5 +1,7 @@
 # Hei Mao Jing Zhang (2010)
 
+![hei-mao-jing-zhang-2010](https://cdn.myanimelist.net/images/anime/1368/108269.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 黑猫警长

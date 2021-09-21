@@ -1,5 +1,7 @@
 # Genshiken Nidaime Specials
 
+![genshiken-nidaime-specials](https://cdn.myanimelist.net/images/anime/3/54119.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: げんしけん 二代目 映像特典

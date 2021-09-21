@@ -1,5 +1,7 @@
 # Idolmaster Xenoglossia
 
+![idolmaster-xenoglossia](https://cdn.myanimelist.net/images/manga/2/212000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

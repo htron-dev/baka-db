@@ -1,5 +1,7 @@
 # Enjokousai Bokumetsu Undou
 
+![enjokousai-bokumetsu-undou](https://cdn.myanimelist.net/images/manga/3/177220.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

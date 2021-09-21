@@ -1,5 +1,7 @@
 # Kaitou Gary no Nihonjin Kouryakuhou!
 
+![kaitou-gary-no-nihonjin-kouryakuhou](https://cdn.myanimelist.net/images/anime/7/68025.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 怪盗ガリーの日本人攻略法!

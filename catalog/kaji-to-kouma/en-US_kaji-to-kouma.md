@@ -1,5 +1,7 @@
 # Kaji to Kouma
 
+![kaji-to-kouma](https://cdn.myanimelist.net/images/anime/1908/112081.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 火事と小馬

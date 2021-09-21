@@ -1,5 +1,7 @@
 # Hyouryuu Densetsu: Crystania
 
+![hyouryuu-densetsu-crystania](https://cdn.myanimelist.net/images/manga/1/164375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 漂流伝説　クリスタニア

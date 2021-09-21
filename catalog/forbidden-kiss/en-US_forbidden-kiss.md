@@ -1,5 +1,7 @@
 # Forbidden Kiss
 
+![forbidden-kiss](https://cdn.myanimelist.net/images/manga/2/28616.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 금지된 키스

@@ -1,5 +1,7 @@
 # Gaten na Ani ga Kawaisugite Komaru.
 
+![gaten-na-ani-ga-kawaisugite-komaru](https://cdn.myanimelist.net/images/manga/3/158259.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ガテンな義兄〈アニ〉が可愛すぎて困る。

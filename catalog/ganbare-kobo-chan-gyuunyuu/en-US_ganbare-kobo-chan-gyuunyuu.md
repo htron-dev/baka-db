@@ -1,5 +1,7 @@
 # Ganbare! Kobo-chan Gyuunyuu
 
+![ganbare-kobo-chan-gyuunyuu](https://cdn.myanimelist.net/images/anime/1403/99397.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: がんばれ！コボちゃん牛乳

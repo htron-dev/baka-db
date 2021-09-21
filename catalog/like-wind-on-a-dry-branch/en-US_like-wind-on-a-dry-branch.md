@@ -1,5 +1,7 @@
 # Like Wind on a Dry Branch
 
+![like-wind-on-a-dry-branch](https://cdn.myanimelist.net/images/manga/1/242316.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 마른 가지에 바람처럼
 -   **start-date**: 2020-09-16

@@ -1,5 +1,7 @@
 # Suite Precure♪
 
+![suite-precure♪](https://cdn.myanimelist.net/images/manga/3/41408.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: スイートプリキュア ♪

@@ -1,5 +1,7 @@
 # Gunslinger Stratos The Animation
 
+![gunslinger-stratos-the-animation](https://cdn.myanimelist.net/images/anime/2/73120.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガンスリンガー ストラトス -THE ANIMATION-

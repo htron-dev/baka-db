@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Midara de Yokubuka na Akazukin
 
+![manga-grimm-douwa-midara-de-yokubuka-na-akazukin](https://cdn.myanimelist.net/images/manga/2/139175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

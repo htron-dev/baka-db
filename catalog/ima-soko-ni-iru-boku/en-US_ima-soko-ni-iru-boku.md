@@ -1,5 +1,7 @@
 # Ima, Soko ni Iru Boku
 
+![ima-soko-ni-iru-boku](https://cdn.myanimelist.net/images/anime/1094/109008.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 今、そこにいる僕

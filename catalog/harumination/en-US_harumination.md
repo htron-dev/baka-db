@@ -1,5 +1,7 @@
 # Harumination
 
+![harumination](https://cdn.myanimelist.net/images/manga/1/168299.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 151

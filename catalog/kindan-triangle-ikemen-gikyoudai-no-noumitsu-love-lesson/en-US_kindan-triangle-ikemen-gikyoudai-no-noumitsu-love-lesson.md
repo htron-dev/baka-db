@@ -1,5 +1,7 @@
 # Kindan Triangle: Ikemen Gikyoudai no Noumitsu Love Lesson!
 
+![kindan-triangle-ikemen-gikyoudai-no-noumitsu-love-lesson](https://cdn.myanimelist.net/images/manga/3/196112.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

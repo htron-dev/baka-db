@@ -1,5 +1,7 @@
 # Magnerobo Ga-Keen
 
+![magnerobo-ga-keen](https://cdn.myanimelist.net/images/anime/6/60861.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: マグネロボ・ガ・キーン

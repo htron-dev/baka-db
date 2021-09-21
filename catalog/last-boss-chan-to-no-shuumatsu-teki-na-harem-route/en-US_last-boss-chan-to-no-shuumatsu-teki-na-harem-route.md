@@ -1,5 +1,7 @@
 # Last Boss-chan to no Shuumatsu-teki na Harem Route
 
+![last-boss-chan-to-no-shuumatsu-teki-na-harem-route](https://cdn.myanimelist.net/images/manga/1/171265.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ラスボスちゃんとの終末的な恋愛事情〈ハーレム・ルート〉
 -   **start-date**: 2016-02-15

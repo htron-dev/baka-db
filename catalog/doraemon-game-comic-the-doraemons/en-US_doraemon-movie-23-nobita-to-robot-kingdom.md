@@ -1,5 +1,7 @@
 # Doraemon Movie 23: Nobita to Robot Kingdom
 
+![doraemon-movie-23-nobita-to-robot-kingdom](https://cdn.myanimelist.net/images/anime/13/72428.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太とロボット王国[キングダム]

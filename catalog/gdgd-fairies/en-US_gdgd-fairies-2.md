@@ -1,5 +1,7 @@
 # gdgd Fairies 2
 
+![gdgd-fairies-2](https://cdn.myanimelist.net/images/anime/10/45350.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: gdgd 妖精 s 2 期

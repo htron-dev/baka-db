@@ -1,5 +1,7 @@
 # Midara na Yubi: Yoku no Yoru
 
+![midara-na-yubi-yoku-no-yoru](https://cdn.myanimelist.net/images/manga/2/196103.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫らな指　蜜欲の夜

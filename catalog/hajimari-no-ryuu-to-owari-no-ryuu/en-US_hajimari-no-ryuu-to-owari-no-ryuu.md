@@ -1,5 +1,7 @@
 # Hajimari no Ryuu to Owari no Ryuu
 
+![hajimari-no-ryuu-to-owari-no-ryuu](https://cdn.myanimelist.net/images/manga/3/189615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

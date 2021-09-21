@@ -1,5 +1,7 @@
 # Kekkaishi
 
+![kekkaishi](https://cdn.myanimelist.net/images/anime/1259/102858.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CM 小学館 少年サンデー「結界師」編

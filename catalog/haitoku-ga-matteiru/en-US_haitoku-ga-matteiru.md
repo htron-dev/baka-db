@@ -1,5 +1,7 @@
 # Haitoku Ga Matteiru
 
+![haitoku-ga-matteiru](https://cdn.myanimelist.net/images/manga/3/18857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 背徳が待っている

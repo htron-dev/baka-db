@@ -1,5 +1,7 @@
 # Last Partner
 
+![last-partner](https://cdn.myanimelist.net/images/manga/2/81880.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

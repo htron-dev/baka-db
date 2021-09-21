@@ -1,5 +1,7 @@
 # Kageyama Tamio no Double Fantasy
 
+![kageyama-tamio-no-double-fantasy](https://cdn.myanimelist.net/images/anime/1523/106150.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 景山民夫のダブルファンタジー

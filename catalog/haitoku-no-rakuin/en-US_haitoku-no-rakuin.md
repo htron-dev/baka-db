@@ -1,5 +1,7 @@
 # Haitoku no Rakuin
 
+![haitoku-no-rakuin](https://cdn.myanimelist.net/images/manga/1/247153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 背徳の烙印

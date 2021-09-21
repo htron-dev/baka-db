@@ -1,5 +1,7 @@
 # Mahou Yuugi 2D
 
+![mahou-yuugi-2-d](https://cdn.myanimelist.net/images/anime/9/80722.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 魔法遊戯: 飛び出す!!ハナマル大冒険

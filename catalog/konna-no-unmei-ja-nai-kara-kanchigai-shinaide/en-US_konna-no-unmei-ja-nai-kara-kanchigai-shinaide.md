@@ -1,5 +1,7 @@
 # Konna no Unmei ja Nai kara Kanchigai shinaide
 
+![konna-no-unmei-ja-nai-kara-kanchigai-shinaide](https://cdn.myanimelist.net/images/manga/1/238687.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

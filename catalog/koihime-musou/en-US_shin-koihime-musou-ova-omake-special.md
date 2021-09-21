@@ -1,5 +1,7 @@
 # Shin Koihime†Musou OVA Omake
 
+![shin-koihime-musou-ova-omake](https://cdn.myanimelist.net/images/anime/3/40929.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちびちび演義 真・恋姫ふらっしゅ～報われない組、報われんとするのこと～

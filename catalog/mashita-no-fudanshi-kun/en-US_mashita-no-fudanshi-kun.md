@@ -1,5 +1,7 @@
 # Mashita no Fudanshi-kun
 
+![mashita-no-fudanshi-kun](https://cdn.myanimelist.net/images/manga/3/152899.jpg)
+
 -   **type**: manga
 -   **original-name**: ましたの腐男子くん
 -   **start-date**: 2014-01-07

@@ -1,5 +1,7 @@
 # Love, Hate, Love.
 
+![love-hate-love](https://cdn.myanimelist.net/images/manga/5/27121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

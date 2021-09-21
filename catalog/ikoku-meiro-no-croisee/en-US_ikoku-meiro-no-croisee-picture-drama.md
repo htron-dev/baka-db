@@ -1,5 +1,7 @@
 # Ikoku Meiro no Croisée Picture Drama
 
+![ikoku-meiro-no-croisee-picture-drama](https://cdn.myanimelist.net/images/anime/3/30109.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 異国迷路のクロワーゼ ピクチャードラマ

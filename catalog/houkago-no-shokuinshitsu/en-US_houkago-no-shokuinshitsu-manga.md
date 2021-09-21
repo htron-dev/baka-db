@@ -1,5 +1,7 @@
 # Houkago no Shokuinshitsu
 
+![houkago-no-shokuinshitsu](https://cdn.myanimelist.net/images/manga/2/23342.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 放課後の職員室

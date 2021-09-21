@@ -1,5 +1,7 @@
 # Shoujo wa Shoka no Umi de Nemuru
 
+![shoujo-wa-shoka-no-umi-de-nemuru](https://cdn.myanimelist.net/images/manga/1/159136.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

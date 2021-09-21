@@ -1,5 +1,7 @@
 # Kanojo to Kare no Shuumatsu
 
+![kanojo-to-kare-no-shuumatsu](https://cdn.myanimelist.net/images/manga/3/203351.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼女と彼の週末
 -   **start-date**: 2015-09-04

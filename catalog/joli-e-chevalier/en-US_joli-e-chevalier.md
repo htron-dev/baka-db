@@ -1,5 +1,7 @@
 # Joli, e Chevalier
 
+![joli-e-chevalier](https://cdn.myanimelist.net/images/manga/1/16414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

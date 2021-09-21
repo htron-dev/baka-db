@@ -1,5 +1,7 @@
 # Mada Amanogawa ni Ikenai
 
+![mada-amanogawa-ni-ikenai](https://cdn.myanimelist.net/images/manga/1/46679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba: Shiawase no Hana
 
+![kimetsu-no-yaiba-shiawase-no-hana](https://cdn.myanimelist.net/images/manga/3/229952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

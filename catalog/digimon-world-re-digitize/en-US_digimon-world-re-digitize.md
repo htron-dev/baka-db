@@ -1,5 +1,7 @@
 # Digimon World Re:Digitize
 
+![digimon-world-re-digitize](https://cdn.myanimelist.net/images/manga/3/72069.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: デジモンワールド リ:デジタイズ

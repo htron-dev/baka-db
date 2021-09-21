@@ -1,5 +1,7 @@
 # Guardian Dog
 
+![guardian-dog](https://cdn.myanimelist.net/images/manga/1/212093.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

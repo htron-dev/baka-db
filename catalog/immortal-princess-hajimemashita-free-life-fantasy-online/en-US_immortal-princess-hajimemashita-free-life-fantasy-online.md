@@ -1,5 +1,7 @@
 # Immortal Princess, Hajimemashita: Free Life Fantasy Online
 
+![immortal-princess-hajimemashita-free-life-fantasy-online](https://cdn.myanimelist.net/images/manga/1/240826.jpg)
+
 -   **type**: manga
 -   **original-name**: 人外姫様〈イモータルプリンセス〉、始めました ~Free Life Fantasy Online~
 -   **start-date**: 2019-12-09

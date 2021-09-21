@@ -1,5 +1,7 @@
 # Kare no Yubisaki de Moteasobarete
 
+![kare-no-yubisaki-de-moteasobarete](https://cdn.myanimelist.net/images/manga/1/193645.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Harutsuge to Yuki Musuko
 
+![harutsuge-to-yuki-musuko](https://cdn.myanimelist.net/images/manga/1/205072.jpg)
+
 -   **type**: manga
 -   **original-name**: 春告と雪息子
 -   **start-date**: 2017-05-15

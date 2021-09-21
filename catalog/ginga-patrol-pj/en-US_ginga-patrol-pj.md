@@ -1,5 +1,7 @@
 # Ginga Patrol PJ
 
+![ginga-patrol-pj](https://cdn.myanimelist.net/images/anime/6/31535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 銀河パトロール PJ

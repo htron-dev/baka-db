@@ -1,5 +1,7 @@
 # Kodoku na Yoru no Cinderella
 
+![kodoku-na-yoru-no-cinderella](https://cdn.myanimelist.net/images/manga/2/232067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 孤独な夜のシンデレラ

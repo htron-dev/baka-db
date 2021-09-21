@@ -1,5 +1,7 @@
 # Isekai Tensei... saretenee!
 
+![isekai-tensei-saretenee](https://cdn.myanimelist.net/images/manga/3/236424.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転生…されてねぇ!
 -   **start-date**: 2019-08-27

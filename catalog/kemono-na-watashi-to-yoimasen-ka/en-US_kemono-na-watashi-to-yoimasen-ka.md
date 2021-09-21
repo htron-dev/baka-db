@@ -1,5 +1,7 @@
 # Kemono na Watashi to Yoimasen ka?
 
+![kemono-na-watashi-to-yoimasen-ka](https://cdn.myanimelist.net/images/manga/2/232344.jpg)
+
 -   **type**: manga
 -   **original-name**: ケモノな私と酔いませんか？
 -   **start-date**: 2020-01-08

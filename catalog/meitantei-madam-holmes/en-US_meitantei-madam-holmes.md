@@ -1,5 +1,7 @@
 # Meitantei Madam Holmes
 
+![meitantei-madam-holmes](https://cdn.myanimelist.net/images/manga/1/232890.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

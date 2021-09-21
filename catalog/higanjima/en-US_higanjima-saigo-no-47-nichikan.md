@@ -1,5 +1,7 @@
 # Higanjima: Saigo no 47 Nichikan
 
+![higanjima-saigo-no-47-nichikan](https://cdn.myanimelist.net/images/manga/2/174021.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 168

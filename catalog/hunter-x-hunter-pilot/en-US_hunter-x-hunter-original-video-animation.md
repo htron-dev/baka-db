@@ -1,5 +1,7 @@
 # Hunter x Hunter: Original Video Animation
 
+![hunter-x-hunter-original-video-animation](https://cdn.myanimelist.net/images/anime/1/137.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: HUNTER×HUNTER Original Video Animation

@@ -1,5 +1,7 @@
 # Massatsu Note Taimashin
 
+![massatsu-note-taimashin](https://cdn.myanimelist.net/images/manga/3/174366.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Mafia no Ai wa Shishi no You ni
 
+![mafia-no-ai-wa-shishi-no-you-ni](https://cdn.myanimelist.net/images/manga/3/186015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

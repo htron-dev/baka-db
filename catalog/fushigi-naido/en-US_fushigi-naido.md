@@ -1,5 +1,7 @@
 # Fushigi Naido
 
+![fushigi-naido](https://cdn.myanimelist.net/images/anime/9/83433.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふしぎないど

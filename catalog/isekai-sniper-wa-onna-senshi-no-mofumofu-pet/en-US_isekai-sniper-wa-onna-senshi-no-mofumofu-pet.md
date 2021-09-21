@@ -1,5 +1,7 @@
 # Isekai Sniper wa Onna Senshi no Mofumofu Pet
 
+![isekai-sniper-wa-onna-senshi-no-mofumofu-pet](https://cdn.myanimelist.net/images/manga/1/235679.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界狙撃手〈スナイパー〉は女戦士のモフモフ愛玩動物〈ペット〉
 -   **start-date**: 2019-11-15

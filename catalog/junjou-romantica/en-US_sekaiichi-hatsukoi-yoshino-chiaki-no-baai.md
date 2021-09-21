@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi: Yoshino Chiaki no Baai
 
+![sekaiichi-hatsukoi-yoshino-chiaki-no-baai](https://cdn.myanimelist.net/images/manga/1/44313.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界一初恋 〜吉野千秋の場合〜
 -   **start-date**: 2007-11-01

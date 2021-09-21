@@ -1,5 +1,7 @@
 # Flanders no Inu (Movie)
 
+![flanders-no-inu-movie](https://cdn.myanimelist.net/images/anime/3/75599.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フランダースの犬 (1997)

@@ -1,5 +1,7 @@
 # Inagawa-san no Koi to Kaidan
 
+![inagawa-san-no-koi-to-kaidan](https://cdn.myanimelist.net/images/manga/2/235217.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

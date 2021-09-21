@@ -1,5 +1,7 @@
 # Diamond Girl
 
+![diamond-girl](https://cdn.myanimelist.net/images/manga/2/34843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ダイアモンド・ガール

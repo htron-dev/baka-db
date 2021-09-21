@@ -1,5 +1,7 @@
 # Moshi Role Playing Game no Sekai ni SNS ga Attara
 
+![moshi-role-playing-game-no-sekai-ni-sns-ga-attara](https://cdn.myanimelist.net/images/manga/3/245057.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

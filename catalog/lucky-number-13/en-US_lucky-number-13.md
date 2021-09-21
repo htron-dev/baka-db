@@ -1,5 +1,7 @@
 # Lucky Number 13
 
+![lucky-number-13](https://cdn.myanimelist.net/images/manga/4/130149.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

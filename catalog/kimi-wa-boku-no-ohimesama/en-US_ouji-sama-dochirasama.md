@@ -1,5 +1,7 @@
 # Ouji-sama, Dochirasama?
 
+![ouji-sama-dochirasama](https://cdn.myanimelist.net/images/manga/3/224729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

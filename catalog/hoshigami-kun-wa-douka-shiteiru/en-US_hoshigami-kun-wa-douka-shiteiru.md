@@ -1,5 +1,7 @@
 # Hoshigami-kun wa Douka shiteiru
 
+![hoshigami-kun-wa-douka-shiteiru](https://cdn.myanimelist.net/images/manga/3/144385.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

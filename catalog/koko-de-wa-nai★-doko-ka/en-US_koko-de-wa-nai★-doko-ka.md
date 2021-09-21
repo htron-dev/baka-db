@@ -1,5 +1,7 @@
 # Koko de wa Nai★Doko ka
 
+![koko-de-wa-nai★-doko-ka](https://cdn.myanimelist.net/images/manga/2/23022.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

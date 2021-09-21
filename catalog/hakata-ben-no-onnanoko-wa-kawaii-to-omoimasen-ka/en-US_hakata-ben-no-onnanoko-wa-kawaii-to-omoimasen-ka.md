@@ -1,5 +1,7 @@
 # Hakata-ben no Onnanoko wa Kawaii to Omoimasen ka?
 
+![hakata-ben-no-onnanoko-wa-kawaii-to-omoimasen-ka](https://cdn.myanimelist.net/images/manga/3/185783.jpg)
+
 -   **type**: manga
 -   **original-name**: 博多弁の女の子はかわいいと思いませんか？
 -   **start-date**: 2016-06-14

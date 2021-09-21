@@ -1,5 +1,7 @@
 # Kimezou no Kimarimonku Ja Kimaranee.
 
+![kimezou-no-kimarimonku-ja-kimaranee](https://cdn.myanimelist.net/images/anime/10/58923.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: キメゾーの「決まり文句じゃキマらねぇ。」

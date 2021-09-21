@@ -1,5 +1,7 @@
 # Hexyz Force: Tokoyami no Daichi
 
+![hexyz-force-tokoyami-no-daichi](https://cdn.myanimelist.net/images/manga/3/162565.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

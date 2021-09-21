@@ -1,5 +1,7 @@
 # Lupin III: Touhou Kenbunroku - Another Page
 
+![lupin-iii-touhou-kenbunroku-another-page](https://cdn.myanimelist.net/images/anime/2/45905.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 東方見聞録～アナザーページ～

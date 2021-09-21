@@ -1,5 +1,7 @@
 # Let's Nupu Nupu
 
+![lets-nupu-nupu](https://cdn.myanimelist.net/images/manga/3/183406.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: LET'S ぬぷぬぷっ

@@ -1,5 +1,7 @@
 # Karakuri Circus (TV): Makuai - Soshite Mata Kaimaku Bell
 
+![karakuri-circus-tv-makuai-soshite-mata-kaimaku-bell](https://cdn.myanimelist.net/images/anime/1806/98431.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 幕間~そしてまた開幕ベル~

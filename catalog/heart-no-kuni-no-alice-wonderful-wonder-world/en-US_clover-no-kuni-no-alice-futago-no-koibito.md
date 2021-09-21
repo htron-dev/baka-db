@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Futago no Koibito
 
+![clover-no-kuni-no-alice-futago-no-koibito](https://cdn.myanimelist.net/images/manga/2/44877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

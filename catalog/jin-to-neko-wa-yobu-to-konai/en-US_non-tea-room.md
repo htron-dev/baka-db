@@ -1,5 +1,7 @@
 # NON Tea Room
 
+![non-tea-room](https://cdn.myanimelist.net/images/manga/2/26811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

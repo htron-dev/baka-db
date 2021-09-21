@@ -1,5 +1,7 @@
 # Koi no Scoop wa Ore no Mono!
 
+![koi-no-scoop-wa-ore-no-mono](https://cdn.myanimelist.net/images/manga/2/153384.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋のスクープは俺のもの!

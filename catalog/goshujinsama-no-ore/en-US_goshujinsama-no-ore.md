@@ -1,5 +1,7 @@
 # Goshujinsama no Ore?
 
+![goshujinsama-no-ore](https://cdn.myanimelist.net/images/manga/3/7912.jpg)
+
 -   **type**: manga
 -   **original-name**: ご主人様と俺？
 

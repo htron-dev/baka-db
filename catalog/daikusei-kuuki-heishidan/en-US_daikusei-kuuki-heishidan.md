@@ -1,5 +1,7 @@
 # Daikusei Kuuki Heishidan
 
+![daikusei-kuuki-heishidan](https://cdn.myanimelist.net/images/manga/1/116789.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

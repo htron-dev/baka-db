@@ -1,5 +1,7 @@
 # Dendou Darlin'
 
+![dendou-darlin](https://cdn.myanimelist.net/images/manga/2/79971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Komi-san wa, Comyushou desu.
 
+![komi-san-wa-comyushou-desu](https://cdn.myanimelist.net/images/anime/1899/117237.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 古見さんは、コミュ症です。
 -   **start-date**: 2021-10-20

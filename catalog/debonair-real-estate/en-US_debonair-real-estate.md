@@ -1,5 +1,7 @@
 # Debonair Real Estate
 
+![debonair-real-estate](https://cdn.myanimelist.net/images/manga/1/191368.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

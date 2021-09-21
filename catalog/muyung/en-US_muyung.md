@@ -1,5 +1,7 @@
 # Muyung
 
+![muyung](https://cdn.myanimelist.net/images/manga/3/26455.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

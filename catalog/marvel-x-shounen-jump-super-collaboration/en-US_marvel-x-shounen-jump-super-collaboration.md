@@ -1,5 +1,7 @@
 # Marvel x Shounen Jump+ Super Collaboration
 
+![marvel-x-shounen-jump-super-collaboration](https://cdn.myanimelist.net/images/manga/2/226612.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

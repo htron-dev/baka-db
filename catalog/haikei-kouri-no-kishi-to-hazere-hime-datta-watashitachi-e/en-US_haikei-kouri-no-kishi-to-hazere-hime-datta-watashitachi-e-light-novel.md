@@ -1,5 +1,7 @@
 # Haikei "Kouri no Kishi to Hazere-hime" Datta Watashitachi e
 
+![haikei-kouri-no-kishi-to-hazere-hime-datta-watashitachi-e](https://cdn.myanimelist.net/images/manga/2/241257.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 拝啓「氷の騎士とはずれ姫」だったわたしたちへ
 -   **start-date**: 2020-06-25

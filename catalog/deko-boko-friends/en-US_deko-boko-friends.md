@@ -1,5 +1,7 @@
 # Deko Boko Friends
 
+![deko-boko-friends](https://cdn.myanimelist.net/images/anime/13/66749.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: でこぼこフレンズ

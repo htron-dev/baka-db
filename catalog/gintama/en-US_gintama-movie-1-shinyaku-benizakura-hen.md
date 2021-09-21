@@ -1,5 +1,7 @@
 # Gintama Movie 1: Shinyaku Benizakura-hen
 
+![gintama-movie-1-shinyaku-benizakura-hen](https://cdn.myanimelist.net/images/anime/4/28803.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 銀魂 新訳紅桜篇

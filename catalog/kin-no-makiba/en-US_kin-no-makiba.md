@@ -1,5 +1,7 @@
 # Kin no Makiba
 
+![kin-no-makiba](https://cdn.myanimelist.net/images/anime/1818/107577.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 金のまきば

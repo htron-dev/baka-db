@@ -1,5 +1,7 @@
 # Datte Kimi wa, Osananajimi.
 
+![datte-kimi-wa-osananajimi](https://cdn.myanimelist.net/images/manga/1/213036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

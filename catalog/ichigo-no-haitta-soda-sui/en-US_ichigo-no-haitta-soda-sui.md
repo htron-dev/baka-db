@@ -1,5 +1,7 @@
 # Ichigo no Haitta Soda-sui
 
+![ichigo-no-haitta-soda-sui](https://cdn.myanimelist.net/images/manga/2/193704.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Dies Irae: Marie's Memory "Michi ni Tsuuzu Kiseki"
 
+![dies-irae-maries-memory-michi-ni-tsuuzu-kiseki](https://cdn.myanimelist.net/images/anime/1682/90159.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 特別総集編「Dies_irae Marie's Memory『未知に通ず軌跡』」

@@ -1,5 +1,7 @@
 # Haidi Xiao Zongdui: Huoyan Zhi Huan
 
+![haidi-xiao-zongdui-huoyan-zhi-huan](https://cdn.myanimelist.net/images/anime/1699/115240.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海底小纵队: 火焰之环

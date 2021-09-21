@@ -1,5 +1,7 @@
 # In The Chocolate
 
+![in-the-chocolate](https://cdn.myanimelist.net/images/manga/1/64855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

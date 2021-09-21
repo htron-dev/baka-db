@@ -1,5 +1,7 @@
 # Manga Hana no Kakarichou
 
+![manga-hana-no-kakarichou](https://cdn.myanimelist.net/images/anime/13/53869.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まんが花の係長

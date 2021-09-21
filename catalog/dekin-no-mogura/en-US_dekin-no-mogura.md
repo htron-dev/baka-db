@@ -1,5 +1,7 @@
 # Dekin no Mogura
 
+![dekin-no-mogura](https://cdn.myanimelist.net/images/manga/2/243220.jpg)
+
 -   **type**: manga
 -   **original-name**: 出禁のモグラ
 -   **start-date**: 2021-04-08

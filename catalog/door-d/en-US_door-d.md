@@ -1,5 +1,7 @@
 # Door D
 
+![door-d](https://cdn.myanimelist.net/images/manga/1/171730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Last Menhealer
 
+![last-menhealer](https://cdn.myanimelist.net/images/manga/2/172712.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

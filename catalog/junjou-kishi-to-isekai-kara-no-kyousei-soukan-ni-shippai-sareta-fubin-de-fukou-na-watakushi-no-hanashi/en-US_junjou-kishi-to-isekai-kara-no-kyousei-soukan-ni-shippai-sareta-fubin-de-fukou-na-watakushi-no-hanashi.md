@@ -1,5 +1,7 @@
 # Junjou Kishi to, Isekai kara no Kyousei Soukan ni Shippai sareta Fubin de Fukou na Watakushi no Hanashi
 
+![junjou-kishi-to-isekai-kara-no-kyousei-soukan-ni-shippai-sareta-fubin-de-fukou-na-watakushi-no-hanashi](https://cdn.myanimelist.net/images/manga/1/219304.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

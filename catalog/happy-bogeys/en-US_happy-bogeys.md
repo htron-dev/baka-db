@@ -1,5 +1,7 @@
 # Happy Bogeys
 
+![happy-bogeys](https://cdn.myanimelist.net/images/anime/7/74643.jpg)
+
 -   **type**: movie
 -   **episodes**: 12
 -   **rating**: G - All Ages

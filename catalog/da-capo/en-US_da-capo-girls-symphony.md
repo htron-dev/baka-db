@@ -1,5 +1,7 @@
 # Da Capo Girl's Symphony
 
+![da-capo-girls-symphony](https://cdn.myanimelist.net/images/manga/3/34859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: D.C.Girl’s Symphony~ダ・カーポ~ガールズ シンフォニー

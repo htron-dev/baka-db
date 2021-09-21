@@ -1,5 +1,7 @@
 # Ubatte Agemasu
 
+![ubatte-agemasu](https://cdn.myanimelist.net/images/manga/2/46237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

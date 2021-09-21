@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam U.C.0094: Across the Sky
 
+![kidou-senshi-gundam-u-c-0094-across-the-sky](https://cdn.myanimelist.net/images/manga/2/186236.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

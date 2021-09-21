@@ -1,5 +1,7 @@
 # Machi Koro Match! +
 
+![machi-koro-match](https://cdn.myanimelist.net/images/manga/3/205021.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

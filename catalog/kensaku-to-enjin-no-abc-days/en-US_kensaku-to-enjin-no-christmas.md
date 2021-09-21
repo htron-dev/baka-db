@@ -1,5 +1,7 @@
 # Kensaku to Enjin no Christmas
 
+![kensaku-to-enjin-no-christmas](https://cdn.myanimelist.net/images/anime/1334/96693.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: けんさくとえんじんのクリスマス

@@ -1,5 +1,7 @@
 # Holyland
 
+![holyland](https://cdn.myanimelist.net/images/manga/4/71665.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 182

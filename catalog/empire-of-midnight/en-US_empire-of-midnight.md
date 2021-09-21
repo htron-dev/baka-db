@@ -1,5 +1,7 @@
 # Empire of Midnight
 
+![empire-of-midnight](https://cdn.myanimelist.net/images/manga/2/36598.jpg)
+
 -   **type**: manga
 -   **original-name**: 真夜中の帝国
 

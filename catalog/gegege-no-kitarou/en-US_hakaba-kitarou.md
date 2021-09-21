@@ -1,5 +1,7 @@
 # Hakaba Kitarou
 
+![hakaba-kitarou](https://cdn.myanimelist.net/images/anime/1692/113258.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 墓場鬼太郎

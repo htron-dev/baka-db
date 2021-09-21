@@ -1,5 +1,7 @@
 # Mahou Shoujo Ikusei Keikaku
 
+![mahou-shoujo-ikusei-keikaku](https://cdn.myanimelist.net/images/manga/2/163622.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

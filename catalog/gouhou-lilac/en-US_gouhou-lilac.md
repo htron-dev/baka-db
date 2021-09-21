@@ -1,5 +1,7 @@
 # Gouhou Lilac
 
+![gouhou-lilac](https://cdn.myanimelist.net/images/manga/2/5991.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 豪放ライラック

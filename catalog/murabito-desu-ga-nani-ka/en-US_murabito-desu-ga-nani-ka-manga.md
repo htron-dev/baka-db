@@ -1,5 +1,7 @@
 # Murabito desu ga Nani ka?
 
+![murabito-desu-ga-nani-ka](https://cdn.myanimelist.net/images/manga/1/197893.jpg)
+
 -   **type**: manga
 -   **original-name**: 村人ですが何か？
 -   **start-date**: 2017-01-07

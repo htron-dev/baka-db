@@ -1,5 +1,7 @@
 # Love Riron
 
+![love-riron](https://cdn.myanimelist.net/images/manga/1/98343.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

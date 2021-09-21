@@ -1,5 +1,7 @@
 # Mokona Oujo no Ehon
 
+![mokona-oujo-no-ehon](https://cdn.myanimelist.net/images/manga/3/40766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

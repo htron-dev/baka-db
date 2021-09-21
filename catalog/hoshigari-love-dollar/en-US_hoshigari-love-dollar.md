@@ -1,5 +1,7 @@
 # Hoshigari Love Dollar
 
+![hoshigari-love-dollar](https://cdn.myanimelist.net/images/manga/1/1958.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

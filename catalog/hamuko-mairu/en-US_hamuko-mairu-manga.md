@@ -1,5 +1,7 @@
 # Hamuko Mairu!
 
+![hamuko-mairu](https://cdn.myanimelist.net/images/manga/1/173449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

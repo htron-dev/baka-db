@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita
 
+![jinrui-wa-suitai-shimashita](https://cdn.myanimelist.net/images/anime/4/45704.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 人類は衰退しました

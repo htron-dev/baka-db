@@ -1,5 +1,7 @@
 # Dagashuka
 
+![dagashuka](https://cdn.myanimelist.net/images/manga/3/235981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

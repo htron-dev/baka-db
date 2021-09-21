@@ -1,5 +1,7 @@
 # Hotarubi no Mori e
 
+![hotarubi-no-mori-e](https://cdn.myanimelist.net/images/anime/1599/112267.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蛍火の杜へ

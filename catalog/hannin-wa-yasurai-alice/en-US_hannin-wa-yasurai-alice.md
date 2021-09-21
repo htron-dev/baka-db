@@ -1,5 +1,7 @@
 # Hannin wa Yasurai Alice
 
+![hannin-wa-yasurai-alice](https://cdn.myanimelist.net/images/manga/1/162984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

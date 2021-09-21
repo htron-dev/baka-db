@@ -1,5 +1,7 @@
 # Kagaku Ninja-tai Gatchaman (Movie)
 
+![kagaku-ninja-tai-gatchaman-movie](https://cdn.myanimelist.net/images/anime/4/4830.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 科学忍者隊 ガッチャマン

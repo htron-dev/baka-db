@@ -1,5 +1,7 @@
 # Fei Zhi Baike
 
+![fei-zhi-baike](https://cdn.myanimelist.net/images/anime/1106/109450.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 肥志百科

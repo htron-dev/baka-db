@@ -1,5 +1,7 @@
 # Kämpfer für die Liebe
 
+![kampfer-fur-die-liebe](https://cdn.myanimelist.net/images/anime/2/29811.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: けんぷファー für die Liebe

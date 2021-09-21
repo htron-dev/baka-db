@@ -1,5 +1,7 @@
 # Kono Hoshi de Ichiban Akarui Tokoro
 
+![kono-hoshi-de-ichiban-akarui-tokoro](https://cdn.myanimelist.net/images/manga/2/220470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Hakobiya Raba
 
+![hakobiya-raba](https://cdn.myanimelist.net/images/manga/2/228255.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

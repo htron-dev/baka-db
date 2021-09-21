@@ -1,5 +1,7 @@
 # Kaijin Kaihatsu-bu no Kuroitsu-san
 
+![kaijin-kaihatsu-bu-no-kuroitsu-san](https://cdn.myanimelist.net/images/manga/1/247785.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪人開発部の黒井津さん
 -   **start-date**: 2019-04-17

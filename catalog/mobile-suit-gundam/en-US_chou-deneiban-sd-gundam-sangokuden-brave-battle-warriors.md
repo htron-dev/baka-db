@@ -1,5 +1,7 @@
 # Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors
 
+![chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors](https://cdn.myanimelist.net/images/anime/9/20218.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超電影版 SD ガンダム三国伝 Brave Battle Warriors

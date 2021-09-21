@@ -1,5 +1,7 @@
 # Mobile Suit Victory Gundam
 
+![mobile-suit-victory-gundam](https://cdn.myanimelist.net/images/manga/2/213435.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 機動戦士 V ガンダム

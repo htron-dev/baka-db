@@ -1,5 +1,7 @@
 # Hikari no Densetsu
 
+![hikari-no-densetsu](https://cdn.myanimelist.net/images/anime/7/30581.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 19
 -   **original-name**: 光の伝説

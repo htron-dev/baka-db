@@ -1,5 +1,7 @@
 # Melty Honey
 
+![melty-honey](https://cdn.myanimelist.net/images/manga/1/15037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

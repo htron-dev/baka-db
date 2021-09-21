@@ -1,5 +1,7 @@
 # Ka-Non
 
+![ka-non](https://cdn.myanimelist.net/images/manga/2/136267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

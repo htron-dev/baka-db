@@ -1,5 +1,7 @@
 # Hi no Tori: Kizuna-hen
 
+![hi-no-tori-kizuna-hen](https://cdn.myanimelist.net/images/anime/5/61283.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 火の鳥 絆編

@@ -1,5 +1,7 @@
 # Koisuru to Shinjau Kanojo ni Aisaresugiru to Ore ga Shinu
 
+![koisuru-to-shinjau-kanojo-ni-aisaresugiru-to-ore-ga-shinu](https://cdn.myanimelist.net/images/manga/1/164231.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋すると死んじゃう彼女に愛されすぎると俺が死ぬ

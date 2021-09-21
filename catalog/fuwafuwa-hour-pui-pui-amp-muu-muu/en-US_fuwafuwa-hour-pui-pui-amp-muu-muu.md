@@ -1,5 +1,7 @@
 # Fuwafuwa Hour: Pui Pui &amp; Muu Muu
 
+![fuwafuwa-hour-pui-pui-amp-muu-muu](https://cdn.myanimelist.net/images/anime/12/88145.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ふわふわアワー PuiPui&MuuMuu
 -   **start-date**: 2017-07-12

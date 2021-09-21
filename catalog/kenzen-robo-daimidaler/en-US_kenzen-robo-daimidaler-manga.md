@@ -1,5 +1,7 @@
 # Kenzen Robo Daimidaler
 
+![kenzen-robo-daimidaler](https://cdn.myanimelist.net/images/manga/2/110393.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Ginga: The First Wars
 
+![ginga-the-first-wars](https://cdn.myanimelist.net/images/manga/1/226972.jpg)
+
 -   **type**: manga
 -   **original-name**: ぎんが〜THE FIRST WARS〜
 -   **start-date**: 2017-10-10

@@ -1,5 +1,7 @@
 # Ikkyuu-san to Yancha Hime
 
+![ikkyuu-san-to-yancha-hime](https://cdn.myanimelist.net/images/anime/4/56635.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一休さんとやんちゃ姫

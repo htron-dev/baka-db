@@ -1,5 +1,7 @@
 # Kyounin Komusume
 
+![kyounin-komusume](https://cdn.myanimelist.net/images/manga/1/26663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 杏仁小娘

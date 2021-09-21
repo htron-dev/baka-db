@@ -1,5 +1,7 @@
 # Kyuuketsuki-chan x Kouhai-chan
 
+![kyuuketsuki-chan-x-kouhai-chan](https://cdn.myanimelist.net/images/manga/2/200865.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Naze Nani Dendrogram
 
+![naze-nani-dendrogram](https://cdn.myanimelist.net/images/anime/1944/106925.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: なぜなにデンドログラム

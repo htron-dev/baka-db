@@ -1,5 +1,7 @@
 # Kyoushoku Soukou Guyver (1989)
 
+![kyoushoku-soukou-guyver-1989](https://cdn.myanimelist.net/images/anime/7/13102.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 強殖装甲ガイバー

@@ -1,5 +1,7 @@
 # Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken
 
+![doraemon-movie-37-nobita-no-nankyoku-kachikochi-daibouken](https://cdn.myanimelist.net/images/anime/5/84521.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の南極カチコチ大冒険

@@ -1,5 +1,7 @@
 # Isekai Elf no Dorei-chan
 
+![isekai-elf-no-dorei-chan](https://cdn.myanimelist.net/images/manga/3/242732.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 139

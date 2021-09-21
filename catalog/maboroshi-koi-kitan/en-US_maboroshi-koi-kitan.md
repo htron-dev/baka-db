@@ -1,5 +1,7 @@
 # Maboroshi Koi Kitan
 
+![maboroshi-koi-kitan](https://cdn.myanimelist.net/images/manga/1/60035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

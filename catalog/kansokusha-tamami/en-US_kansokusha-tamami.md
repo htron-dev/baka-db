@@ -1,5 +1,7 @@
 # Kansokusha Tamami
 
+![kansokusha-tamami](https://cdn.myanimelist.net/images/manga/2/39779.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Hyakka no Shirushi
 
+![hyakka-no-shirushi](https://cdn.myanimelist.net/images/manga/2/220682.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

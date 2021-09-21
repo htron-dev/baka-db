@@ -1,5 +1,7 @@
 # Maicching Machiko-sensei
 
+![maicching-machiko-sensei](https://cdn.myanimelist.net/images/anime/7/60423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 95
 -   **original-name**: まいっちんぐマチコ先生

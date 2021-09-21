@@ -1,5 +1,7 @@
 # Fushiawase nara Te wo Tsunagou!
 
+![fushiawase-nara-te-wo-tsunagou](https://cdn.myanimelist.net/images/manga/1/165039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ふしあわせなら手をつなごう!

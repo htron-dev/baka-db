@@ -1,5 +1,7 @@
 # Ijiwaru Lesson: Osananajimi to Ikenai Seijinshiki
 
+![ijiwaru-lesson-osananajimi-to-ikenai-seijinshiki](https://cdn.myanimelist.net/images/manga/1/193500.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

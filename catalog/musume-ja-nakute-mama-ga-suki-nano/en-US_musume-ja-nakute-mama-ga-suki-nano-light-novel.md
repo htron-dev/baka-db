@@ -1,5 +1,7 @@
 # Musume ja Nakute Mama ga Suki nano!?
 
+![musume-ja-nakute-mama-ga-suki-nano](https://cdn.myanimelist.net/images/manga/1/228823.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 娘じゃなくて私〈ママ〉が好きなの!?
 -   **start-date**: 2019-12-10

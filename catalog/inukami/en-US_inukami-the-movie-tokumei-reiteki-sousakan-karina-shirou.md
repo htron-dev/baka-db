@@ -1,5 +1,7 @@
 # Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!
 
+![inukami-the-movie-tokumei-reiteki-sousakan-karina-shirou](https://cdn.myanimelist.net/images/anime/1/2268.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いぬかみっ! THE MOVIE 特命霊的捜査官・仮名史郎っ!

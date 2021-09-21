@@ -1,5 +1,7 @@
 # Kimi no Mukougawa
 
+![kimi-no-mukougawa](https://cdn.myanimelist.net/images/manga/2/86139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Digimon Adventure tri. 3: Kokuhaku
 
+![digimon-adventure-tri-3-kokuhaku](https://cdn.myanimelist.net/images/anime/4/82612.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー tri.（トライ）第３章「告白」

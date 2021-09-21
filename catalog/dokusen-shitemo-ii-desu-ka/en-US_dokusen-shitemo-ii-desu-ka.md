@@ -1,5 +1,7 @@
 # Dokusen shitemo Ii desu ka
 
+![dokusen-shitemo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/2/235219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

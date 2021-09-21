@@ -1,5 +1,7 @@
 # Fairy Cube
 
+![fairy-cube](https://cdn.myanimelist.net/images/manga/2/197597.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

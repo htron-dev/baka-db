@@ -1,5 +1,7 @@
 # Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e
 
+![kuroko-no-basket-movie-2-winter-cup-namida-no-saki-e](https://cdn.myanimelist.net/images/anime/6/80728.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「黒子のバスケ」ウインターカップ総集編～涙の先へ～

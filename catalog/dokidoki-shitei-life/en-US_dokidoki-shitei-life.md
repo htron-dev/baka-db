@@ -1,5 +1,7 @@
 # Dokidoki Shitei Life
 
+![dokidoki-shitei-life](https://cdn.myanimelist.net/images/manga/2/151409.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 73

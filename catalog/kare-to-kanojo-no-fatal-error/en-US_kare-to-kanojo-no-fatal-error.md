@@ -1,5 +1,7 @@
 # Kare to Kanojo no Fatal Error
 
+![kare-to-kanojo-no-fatal-error](https://cdn.myanimelist.net/images/manga/2/160690.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 彼と彼女の不都合な真実〈フェイタルエラー〉

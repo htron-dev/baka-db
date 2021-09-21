@@ -1,5 +1,7 @@
 # Maou-sama to Shun-kun
 
+![maou-sama-to-shun-kun](https://cdn.myanimelist.net/images/manga/2/211766.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王様としゅんくん
 -   **start-date**: 2016-01-15

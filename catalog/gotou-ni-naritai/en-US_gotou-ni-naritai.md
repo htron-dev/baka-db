@@ -1,5 +1,7 @@
 # Gotou ni Naritai.
 
+![gotou-ni-naritai](https://cdn.myanimelist.net/images/anime/10/20090.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ５等になりたい。

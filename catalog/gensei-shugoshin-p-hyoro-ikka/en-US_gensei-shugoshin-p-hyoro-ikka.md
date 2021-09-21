@@ -1,5 +1,7 @@
 # Gensei Shugoshin P-hyoro Ikka
 
+![gensei-shugoshin-p-hyoro-ikka](https://cdn.myanimelist.net/images/anime/1555/92003.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 現世守護神　ぴーひょろ一家

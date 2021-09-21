@@ -1,5 +1,7 @@
 # Future Card Shin Buddyfight
 
+![future-card-shin-buddyfight](https://cdn.myanimelist.net/images/manga/3/230435.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

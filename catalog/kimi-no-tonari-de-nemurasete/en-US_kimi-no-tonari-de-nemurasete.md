@@ -1,5 +1,7 @@
 # Kimi no Tonari de Nemurasete
 
+![kimi-no-tonari-de-nemurasete](https://cdn.myanimelist.net/images/manga/2/79155.jpg)
+
 -   **type**: manga
 -   **original-name**: 君の隣で眠らせて
 

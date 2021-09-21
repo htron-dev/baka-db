@@ -1,5 +1,7 @@
 # Mamiana Shijuusoudan
 
+![mamiana-shijuusoudan](https://cdn.myanimelist.net/images/manga/3/171603.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: まみあな四重奏団

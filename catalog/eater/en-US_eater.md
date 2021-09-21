@@ -1,5 +1,7 @@
 # Eater
 
+![eater](https://cdn.myanimelist.net/images/manga/2/203394.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

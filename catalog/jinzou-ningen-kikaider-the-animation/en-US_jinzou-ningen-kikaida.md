@@ -1,5 +1,7 @@
 # Jinzou Ningen Kikaida
 
+![jinzou-ningen-kikaida](https://cdn.myanimelist.net/images/manga/3/5851.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 

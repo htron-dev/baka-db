@@ -1,5 +1,7 @@
 # Kimi wa Houkago Insomnia
 
+![kimi-wa-houkago-insomnia](https://cdn.myanimelist.net/images/manga/2/221335.jpg)
+
 -   **type**: manga
 -   **original-name**: 君は放課後インソムニア
 -   **start-date**: 2019-05-20

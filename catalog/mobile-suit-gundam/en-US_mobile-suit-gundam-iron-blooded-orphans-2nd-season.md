@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season
 
+![mobile-suit-gundam-iron-blooded-orphans-2nd-season](https://cdn.myanimelist.net/images/anime/6/80899.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 機動戦士ガンダム 鉄血のオルフェンズ 第 2 期

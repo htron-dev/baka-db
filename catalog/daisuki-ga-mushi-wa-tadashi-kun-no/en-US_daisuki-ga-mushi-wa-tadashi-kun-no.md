@@ -1,5 +1,7 @@
 # Daisuki ga Mushi wa Tadashi-kun no
 
+![daisuki-ga-mushi-wa-tadashi-kun-no](https://cdn.myanimelist.net/images/manga/2/152733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

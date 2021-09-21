@@ -1,5 +1,7 @@
 # Motto, Ikitai...
 
+![motto-ikitai](https://cdn.myanimelist.net/images/manga/2/64763.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

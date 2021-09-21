@@ -1,5 +1,7 @@
 # Eisei Usagi TV
 
+![eisei-usagi-tv](https://cdn.myanimelist.net/images/manga/1/162682.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 衛星ウサギテレビ

@@ -1,5 +1,7 @@
 # Dear Noman
 
+![dear-noman](https://cdn.myanimelist.net/images/manga/2/234993.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

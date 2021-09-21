@@ -1,5 +1,7 @@
 # Hi no Tori
 
+![hi-no-tori](https://cdn.myanimelist.net/images/anime/6/3622.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 火の鳥

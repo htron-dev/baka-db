@@ -1,5 +1,7 @@
 # Maniattemasu!
 
+![maniattemasu](https://cdn.myanimelist.net/images/manga/1/702.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Doraemon: Treasure of the Shinugumi Mountain
 
+![doraemon-treasure-of-the-shinugumi-mountain](https://cdn.myanimelist.net/images/anime/11/57847.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラえもん　死神山の宝物

@@ -1,5 +1,7 @@
 # Mushishi Zoku Shou: Odoro no Michi
 
+![mushishi-zoku-shou-odoro-no-michi](https://cdn.myanimelist.net/images/anime/8/63539.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蟲師 続章

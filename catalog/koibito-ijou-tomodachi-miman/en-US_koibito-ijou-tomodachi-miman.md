@@ -1,5 +1,7 @@
 # Koibito Ijou, Tomodachi Miman
 
+![koibito-ijou-tomodachi-miman](https://cdn.myanimelist.net/images/manga/3/114117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: こいびと以上、ともだち未満

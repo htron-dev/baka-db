@@ -1,5 +1,7 @@
 # Junkou no Hanmegami
 
+![junkou-no-hanmegami](https://cdn.myanimelist.net/images/manga/2/124307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 巡幸の半女神

@@ -1,5 +1,7 @@
 # Devil 17
 
+![devil-17](https://cdn.myanimelist.net/images/manga/1/50863.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Kyou mo, Karera no Otonari de
 
+![kyou-mo-karera-no-otonari-de](https://cdn.myanimelist.net/images/manga/3/242214.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日も彼らのお隣で
 -   **start-date**: 2020-10-13

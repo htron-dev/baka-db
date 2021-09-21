@@ -1,5 +1,7 @@
 # Haru to Koi to Kimi no Koto
 
+![haru-to-koi-to-kimi-no-koto](https://cdn.myanimelist.net/images/manga/3/229338.jpg)
+
 -   **type**: manga
 -   **original-name**: 春と恋と君のこと
 -   **start-date**: 2019-03-13

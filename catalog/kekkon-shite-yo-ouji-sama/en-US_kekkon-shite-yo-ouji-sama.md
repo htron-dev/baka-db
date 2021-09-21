@@ -1,5 +1,7 @@
 # Kekkon shite yo... Ouji-sama!?
 
+![kekkon-shite-yo-ouji-sama](https://cdn.myanimelist.net/images/manga/1/197034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

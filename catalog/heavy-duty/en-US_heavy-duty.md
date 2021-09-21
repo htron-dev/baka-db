@@ -1,5 +1,7 @@
 # Heavy Duty
 
+![heavy-duty](https://cdn.myanimelist.net/images/manga/2/199194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Lample
 
+![lample](https://cdn.myanimelist.net/images/manga/4/17073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

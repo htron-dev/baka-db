@@ -1,5 +1,7 @@
 # Iron Buddy
 
+![iron-buddy](https://cdn.myanimelist.net/images/manga/3/194438.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

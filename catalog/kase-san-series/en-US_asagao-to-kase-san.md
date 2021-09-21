@@ -1,5 +1,7 @@
 # Asagao to Kase-san.
 
+![asagao-to-kase-san](https://cdn.myanimelist.net/images/anime/1578/94205.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あさがおと加瀬さん。

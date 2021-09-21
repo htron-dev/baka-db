@@ -1,5 +1,7 @@
 # Jean Valjean Monogatari
 
+![jean-valjean-monogatari](https://cdn.myanimelist.net/images/anime/10/30211.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ジャン・バルジャン物語

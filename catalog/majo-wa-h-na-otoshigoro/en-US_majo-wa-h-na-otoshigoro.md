@@ -1,5 +1,7 @@
 # Majo wa H na Otoshigoro
 
+![majo-wa-h-na-otoshigoro](https://cdn.myanimelist.net/images/manga/4/35698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔女は H なお年頃

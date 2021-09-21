@@ -1,5 +1,7 @@
 # Manabiya Sannin Kichisa
 
+![manabiya-sannin-kichisa](https://cdn.myanimelist.net/images/manga/3/179165.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

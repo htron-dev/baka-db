@@ -1,5 +1,7 @@
 # Hourai Girls
 
+![hourai-girls](https://cdn.myanimelist.net/images/manga/2/65403.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

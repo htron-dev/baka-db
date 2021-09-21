@@ -1,5 +1,7 @@
 # Hi no Ataru Basho
 
+![hi-no-ataru-basho](https://cdn.myanimelist.net/images/manga/1/5968.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 陽のあたる場所

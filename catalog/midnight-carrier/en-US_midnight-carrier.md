@@ -1,5 +1,7 @@
 # Midnight Carrier
 
+![midnight-carrier](https://cdn.myanimelist.net/images/manga/3/2662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Miyamoto kara Kimi e
 
+![miyamoto-kara-kimi-e](https://cdn.myanimelist.net/images/manga/2/178510.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 158

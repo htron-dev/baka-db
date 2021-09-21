@@ -1,5 +1,7 @@
 # Time Driver: Bokura ga Kaita Mirai
 
+![time-driver-bokura-ga-kaita-mirai](https://cdn.myanimelist.net/images/anime/3/89197.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: TIME DRIVER 僕らが描いた未来

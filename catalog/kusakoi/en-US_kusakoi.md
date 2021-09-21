@@ -1,5 +1,7 @@
 # Kusakoi
 
+![kusakoi](https://cdn.myanimelist.net/images/manga/3/109683.jpg)
+
 -   **type**: manga
 -   **original-name**: 草恋 －kusakoi－
 -   **start-date**: 2012-11-01

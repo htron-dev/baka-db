@@ -1,5 +1,7 @@
 # Green Blood
 
+![green-blood](https://cdn.myanimelist.net/images/manga/1/65303.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

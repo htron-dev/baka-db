@@ -1,5 +1,7 @@
 # Monster Musume no Oishasan
 
+![monster-musume-no-oishasan](https://cdn.myanimelist.net/images/anime/1762/106598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: モンスター娘のお医者さん

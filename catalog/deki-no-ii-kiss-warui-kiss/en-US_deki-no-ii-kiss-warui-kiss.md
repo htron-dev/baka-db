@@ -1,5 +1,7 @@
 # Deki no Ii Kiss Warui Kiss
 
+![deki-no-ii-kiss-warui-kiss](https://cdn.myanimelist.net/images/manga/2/26248.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

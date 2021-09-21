@@ -1,5 +1,7 @@
 # Inzak
 
+![inzak](https://cdn.myanimelist.net/images/manga/2/108709.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 인작

@@ -1,5 +1,7 @@
 # Endou Yasuko wa Yomayoichou ni Kakureteru
 
+![endou-yasuko-wa-yomayoichou-ni-kakureteru](https://cdn.myanimelist.net/images/manga/1/201218.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

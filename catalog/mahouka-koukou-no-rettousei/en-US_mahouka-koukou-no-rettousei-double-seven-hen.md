@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Double Seven-hen
 
+![mahouka-koukou-no-rettousei-double-seven-hen](https://cdn.myanimelist.net/images/manga/3/200962.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

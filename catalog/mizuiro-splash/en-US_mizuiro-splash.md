@@ -1,5 +1,7 @@
 # Mizuiro Splash
 
+![mizuiro-splash](https://cdn.myanimelist.net/images/manga/2/172884.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

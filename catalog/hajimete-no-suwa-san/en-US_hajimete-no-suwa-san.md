@@ -1,5 +1,7 @@
 # Hajimete no Suwa-san
 
+![hajimete-no-suwa-san](https://cdn.myanimelist.net/images/manga/2/241359.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめての諏訪さん
 -   **start-date**: 2020-08-21

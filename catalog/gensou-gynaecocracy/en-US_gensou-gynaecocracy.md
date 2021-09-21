@@ -1,5 +1,7 @@
 # Gensou Gynaecocracy
 
+![gensou-gynaecocracy](https://cdn.myanimelist.net/images/manga/1/149798.jpg)
+
 -   **type**: manga
 -   **original-name**: 幻想ギネコクラシー
 -   **start-date**: 2010-02-26

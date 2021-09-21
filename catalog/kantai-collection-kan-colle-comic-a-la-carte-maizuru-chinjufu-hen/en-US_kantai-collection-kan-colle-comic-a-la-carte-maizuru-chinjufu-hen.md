@@ -1,5 +1,7 @@
 # Kantai Collection -Kan Colle- Comic à la Carte: Maizuru Chinjufu-hen
 
+![kantai-collection-kan-colle-comic-a-la-carte-maizuru-chinjufu-hen](https://cdn.myanimelist.net/images/manga/2/108353.jpg)
+
 -   **type**: manga
 -   **original-name**: 艦隊これくしょん‐艦これ‐コミックアラカルト 舞鶴鎮守府編
 -   **start-date**: 2013-11-26

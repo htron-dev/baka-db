@@ -1,5 +1,7 @@
 # Kuromaku Oneesan
 
+![kuromaku-oneesan](https://cdn.myanimelist.net/images/manga/2/36297.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 黒幕お姉さん

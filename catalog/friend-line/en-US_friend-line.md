@@ -1,5 +1,7 @@
 # Friend Line
 
+![friend-line](https://cdn.myanimelist.net/images/manga/1/225094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

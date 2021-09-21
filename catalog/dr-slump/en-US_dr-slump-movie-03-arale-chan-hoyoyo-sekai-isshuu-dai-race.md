@@ -1,5 +1,7 @@
 # Dr. Slump Movie 03: Arale-chan Hoyoyo! Sekai Isshuu Dai Race
 
+![dr-slump-movie-03-arale-chan-hoyoyo-sekai-isshuu-dai-race](https://cdn.myanimelist.net/images/anime/2/23173.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dr.スランプ アラレちゃん ほよよ!世界一周大レース

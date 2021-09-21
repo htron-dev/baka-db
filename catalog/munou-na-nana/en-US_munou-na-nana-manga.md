@@ -1,5 +1,7 @@
 # Munou na Nana
 
+![munou-na-nana](https://cdn.myanimelist.net/images/manga/3/196953.jpg)
+
 -   **type**: manga
 -   **original-name**: 無能なナナ
 -   **start-date**: 2016-05-12

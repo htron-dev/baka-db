@@ -1,5 +1,7 @@
 # Joker no Kuni no Alice: Yoake Mae ni Miru Yume
 
+![joker-no-kuni-no-alice-yoake-mae-ni-miru-yume](https://cdn.myanimelist.net/images/manga/1/33183.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

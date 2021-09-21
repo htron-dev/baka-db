@@ -1,5 +1,7 @@
 # Jungle Taitei: Yuuki ga Mirai wo Kaeru
 
+![jungle-taitei-yuuki-ga-mirai-wo-kaeru](https://cdn.myanimelist.net/images/anime/13/37235.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ジャングル大帝 -勇気が未来をかえる

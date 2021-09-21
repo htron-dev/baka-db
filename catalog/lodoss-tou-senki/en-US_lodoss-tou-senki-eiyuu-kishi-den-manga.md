@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Eiyuu Kishi Den
 
+![lodoss-tou-senki-eiyuu-kishi-den](https://cdn.myanimelist.net/images/manga/1/135803.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

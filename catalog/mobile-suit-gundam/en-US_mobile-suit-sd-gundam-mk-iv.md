@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Mk IV
 
+![mobile-suit-sd-gundam-mk-iv](https://cdn.myanimelist.net/images/anime/9/51237.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 機動戦士 SD ガンダム Mk-IV

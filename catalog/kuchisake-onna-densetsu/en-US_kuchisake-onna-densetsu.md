@@ -1,5 +1,7 @@
 # Kuchisake Onna Densetsu
 
+![kuchisake-onna-densetsu](https://cdn.myanimelist.net/images/manga/3/137867.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 口裂け女伝説

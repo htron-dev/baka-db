@@ -1,5 +1,7 @@
 # Marmalade Boy
 
+![marmalade-boy](https://cdn.myanimelist.net/images/anime/8/6092.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 76
 -   **original-name**: ママレード・ボーイ

@@ -1,5 +1,7 @@
 # Mochiron, Isharyou Seikyuu Itashimasu!
 
+![mochiron-isharyou-seikyuu-itashimasu](https://cdn.myanimelist.net/images/manga/1/223745.jpg)
+
 -   **type**: manga
 -   **original-name**: 勿論、慰謝料請求いたします!
 -   **start-date**: 2018-12-25

@@ -1,5 +1,7 @@
 # Koi wo Shite wa Ikenai Game, Furarete mo Kimi ni Koi wo Suru
 
+![koi-wo-shite-wa-ikenai-game-furarete-mo-kimi-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/176782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

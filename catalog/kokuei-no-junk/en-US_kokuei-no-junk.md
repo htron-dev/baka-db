@@ -1,5 +1,7 @@
 # Kokuei no Junk
 
+![kokuei-no-junk](https://cdn.myanimelist.net/images/manga/1/204026.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒影のジャンク
 -   **start-date**: 2017-05-07

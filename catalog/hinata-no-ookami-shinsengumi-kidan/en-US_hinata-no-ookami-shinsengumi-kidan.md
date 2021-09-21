@@ -1,5 +1,7 @@
 # Hinata no Ookami: Shinsengumi Kidan
 
+![hinata-no-ookami-shinsengumi-kidan](https://cdn.myanimelist.net/images/manga/3/147193.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

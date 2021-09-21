@@ -1,5 +1,7 @@
 # Kagi-tsuki Terrarium
 
+![kagi-tsuki-terrarium](https://cdn.myanimelist.net/images/manga/1/221518.jpg)
+
 -   **type**: manga
 -   **original-name**: 鍵つきテラリウム
 -   **start-date**: 2017-10-25

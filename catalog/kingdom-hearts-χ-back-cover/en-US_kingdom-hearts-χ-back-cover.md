@@ -1,5 +1,7 @@
 # Kingdom Hearts χ Back Cover
 
+![kingdom-hearts-χ-back-cover](https://cdn.myanimelist.net/images/anime/1200/108987.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キングダム ハーツ キー バックカバー

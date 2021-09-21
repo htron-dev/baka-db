@@ -1,5 +1,7 @@
 # Love Hina: Motoko no Sentaku, Koi ka Ken... "Naku na"
 
+![love-hina-motoko-no-sentaku-koi-ka-ken-naku-na](https://cdn.myanimelist.net/images/anime/10/82631.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 素子のセンタク, 恋か剣... 「泣くな」

@@ -1,5 +1,7 @@
 # Hakoniwa Oukoku no Craft Master
 
+![hakoniwa-oukoku-no-craft-master](https://cdn.myanimelist.net/images/manga/1/202965.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

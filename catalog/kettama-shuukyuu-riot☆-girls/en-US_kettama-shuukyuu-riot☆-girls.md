@@ -1,5 +1,7 @@
 # Kettama!: Shuukyuu Riot☆Girls
 
+![kettama-shuukyuu-riot☆-girls](https://cdn.myanimelist.net/images/manga/2/226582.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

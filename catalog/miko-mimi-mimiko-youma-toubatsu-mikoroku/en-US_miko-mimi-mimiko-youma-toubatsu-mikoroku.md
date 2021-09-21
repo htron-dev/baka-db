@@ -1,5 +1,7 @@
 # Miko Mimi Mimiko: Youma Toubatsu Mikoroku
 
+![miko-mimi-mimiko-youma-toubatsu-mikoroku](https://cdn.myanimelist.net/images/manga/1/152736.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Fuuko no Iru Mise
 
+![fuuko-no-iru-mise](https://cdn.myanimelist.net/images/manga/4/28013.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 風子のいる店

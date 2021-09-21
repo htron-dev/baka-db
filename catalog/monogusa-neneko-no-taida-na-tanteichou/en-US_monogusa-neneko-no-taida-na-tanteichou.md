@@ -1,5 +1,7 @@
 # Monogusa Neneko no Taida na Tanteichou
 
+![monogusa-neneko-no-taida-na-tanteichou](https://cdn.myanimelist.net/images/manga/1/160823.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Hanamaru Koutsuu Anzen
 
+![hanamaru-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/10/66281.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はなまる交通安全

@@ -1,5 +1,7 @@
 # Koeda-chan
 
+![koeda-chan](https://cdn.myanimelist.net/images/anime/1778/97977.jpg)
+
 -   **type**: ona
 -   **original-name**: こえだちゃん
 -   **start-date**: 2018-11-16

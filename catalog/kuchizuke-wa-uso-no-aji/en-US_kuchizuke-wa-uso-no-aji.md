@@ -1,5 +1,7 @@
 # Kuchizuke wa Uso no Aji
 
+![kuchizuke-wa-uso-no-aji](https://cdn.myanimelist.net/images/manga/1/175141.jpg)
+
 -   **type**: manga
 -   **original-name**: くちづけは嘘の味
 -   **start-date**: 2012-03-07

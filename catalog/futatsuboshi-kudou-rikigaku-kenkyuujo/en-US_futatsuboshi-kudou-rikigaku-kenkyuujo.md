@@ -1,5 +1,7 @@
 # Futatsuboshi Kudou Rikigaku Kenkyuujo
 
+![futatsuboshi-kudou-rikigaku-kenkyuujo](https://cdn.myanimelist.net/images/manga/2/165430.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

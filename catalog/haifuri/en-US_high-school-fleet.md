@@ -1,5 +1,7 @@
 # High School Fleet
 
+![high-school-fleet](https://cdn.myanimelist.net/images/anime/9/79670.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハイスクール・フリート

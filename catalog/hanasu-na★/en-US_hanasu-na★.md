@@ -1,5 +1,7 @@
 # Hanasu na★
 
+![hanasu-na★](https://cdn.myanimelist.net/images/anime/1290/92085.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 離すな ★

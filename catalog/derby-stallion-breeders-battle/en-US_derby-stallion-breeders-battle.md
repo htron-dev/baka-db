@@ -1,5 +1,7 @@
 # Derby Stallion Breeders' Battle
 
+![derby-stallion-breeders-battle](https://cdn.myanimelist.net/images/manga/2/16296.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Hei Lang
 
+![hei-lang](https://cdn.myanimelist.net/images/manga/3/229837.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

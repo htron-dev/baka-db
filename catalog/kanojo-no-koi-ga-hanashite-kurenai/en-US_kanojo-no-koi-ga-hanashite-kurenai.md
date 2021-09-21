@@ -1,5 +1,7 @@
 # Kanojo no Koi ga Hanashite Kurenai!
 
+![kanojo-no-koi-ga-hanashite-kurenai](https://cdn.myanimelist.net/images/manga/1/163467.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

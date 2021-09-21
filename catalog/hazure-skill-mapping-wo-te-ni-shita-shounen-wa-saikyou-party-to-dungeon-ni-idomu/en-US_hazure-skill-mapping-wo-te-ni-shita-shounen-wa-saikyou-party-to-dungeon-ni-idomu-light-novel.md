@@ -1,5 +1,7 @@
 # Hazure Skill "Mapping" wo Te ni Shita Shounen wa Saikyou Party to Dungeon ni Idomu
 
+![hazure-skill-mapping-wo-te-ni-shita-shounen-wa-saikyou-party-to-dungeon-ni-idomu](https://cdn.myanimelist.net/images/manga/1/235249.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 外れスキル【地図化〈マッピング〉】を手にした少年は最強パーティーとダンジョンに挑む
 -   **start-date**: 2018-05-25

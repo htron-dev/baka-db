@@ -1,5 +1,7 @@
 # Koizakura: Onzoushi ni Sarawarete
 
+![koizakura-onzoushi-ni-sarawarete](https://cdn.myanimelist.net/images/manga/1/192954.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

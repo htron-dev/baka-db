@@ -1,5 +1,7 @@
 # Yuukai Tsuresari ni Awanai
 
+![yuukai-tsuresari-ni-awanai](https://cdn.myanimelist.net/images/anime/7/84554.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ゆうかい・つれさりにあわない

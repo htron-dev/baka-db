@@ -1,5 +1,7 @@
 # Megami Paradise
 
+![megami-paradise](https://cdn.myanimelist.net/images/anime/2/41791.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 女神天国

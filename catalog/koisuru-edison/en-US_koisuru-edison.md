@@ -1,5 +1,7 @@
 # Koisuru Edison
 
+![koisuru-edison](https://cdn.myanimelist.net/images/manga/5/97789.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

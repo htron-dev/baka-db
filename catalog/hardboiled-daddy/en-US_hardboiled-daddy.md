@@ -1,5 +1,7 @@
 # Hardboiled Daddy
 
+![hardboiled-daddy](https://cdn.myanimelist.net/images/manga/3/108715.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ハードボイルド・ダディ

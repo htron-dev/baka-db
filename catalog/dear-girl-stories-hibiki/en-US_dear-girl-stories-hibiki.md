@@ -1,5 +1,7 @@
 # Dear Girl: Stories - Hibiki
 
+![dear-girl-stories-hibiki](https://cdn.myanimelist.net/images/manga/3/29332.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

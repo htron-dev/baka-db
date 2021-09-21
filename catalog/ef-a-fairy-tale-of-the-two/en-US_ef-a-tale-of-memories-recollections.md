@@ -1,5 +1,7 @@
 # ef: A Tale of Memories. - Recollections
 
+![ef-a-tale-of-memories-recollections](https://cdn.myanimelist.net/images/anime/2/15710.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ef - a tale of memories. ~Recollections~

@@ -1,5 +1,7 @@
 # Hanasaku Koi ga Futtekuru
 
+![hanasaku-koi-ga-futtekuru](https://cdn.myanimelist.net/images/manga/2/245319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

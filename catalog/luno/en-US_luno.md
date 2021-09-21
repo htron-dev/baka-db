@@ -1,5 +1,7 @@
 # Luno
 
+![luno](https://cdn.myanimelist.net/images/manga/3/6164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

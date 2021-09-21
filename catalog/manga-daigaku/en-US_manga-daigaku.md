@@ -1,5 +1,7 @@
 # Manga Daigaku
 
+![manga-daigaku](https://cdn.myanimelist.net/images/manga/1/226932.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 漫画大學

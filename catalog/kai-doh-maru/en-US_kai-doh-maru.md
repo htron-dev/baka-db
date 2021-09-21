@@ -1,5 +1,7 @@
 # Kai Doh Maru
 
+![kai-doh-maru](https://cdn.myanimelist.net/images/anime/1791/112469.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 怪童丸

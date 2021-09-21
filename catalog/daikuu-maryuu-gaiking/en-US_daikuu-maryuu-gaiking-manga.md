@@ -1,5 +1,7 @@
 # Daikuu Maryuu Gaiking
 
+![daikuu-maryuu-gaiking](https://cdn.myanimelist.net/images/manga/2/40951.jpg)
+
 -   **type**: manga
 -   **original-name**: 大空魔竜ガイキング
 

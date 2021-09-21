@@ -1,5 +1,7 @@
 # Memento†Mori
 
+![memento-mori](https://cdn.myanimelist.net/images/manga/3/155390.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

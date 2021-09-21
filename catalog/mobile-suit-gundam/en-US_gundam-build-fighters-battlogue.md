@@ -1,5 +1,7 @@
 # Gundam Build Fighters: Battlogue
 
+![gundam-build-fighters-battlogue](https://cdn.myanimelist.net/images/anime/9/87160.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ガンダムビルドファイターズ バトローグ

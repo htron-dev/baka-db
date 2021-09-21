@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: Brotherhood Specials
 
+![fullmetal-alchemist-brotherhood-specials](https://cdn.myanimelist.net/images/anime/1493/91571.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 鋼の錬金術師

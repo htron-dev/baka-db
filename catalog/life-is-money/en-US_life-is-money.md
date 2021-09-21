@@ -1,5 +1,7 @@
 # Life Is Money
 
+![life-is-money](https://cdn.myanimelist.net/images/manga/2/196692.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

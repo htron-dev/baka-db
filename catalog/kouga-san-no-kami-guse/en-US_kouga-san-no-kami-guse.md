@@ -1,5 +1,7 @@
 # Kouga-san no Kami Guse
 
+![kouga-san-no-kami-guse](https://cdn.myanimelist.net/images/manga/1/245350.jpg)
+
 -   **type**: manga
 -   **original-name**: コウガさんの噛みぐせ
 -   **start-date**: 2021-04-16

@@ -1,5 +1,7 @@
 # Hotaru wa Ashita Shinu
 
+![hotaru-wa-ashita-shinu](https://cdn.myanimelist.net/images/manga/3/226583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

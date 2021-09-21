@@ -1,5 +1,7 @@
 # Katabami to Ougon
 
+![katabami-to-ougon](https://cdn.myanimelist.net/images/manga/1/221541.jpg)
+
 -   **type**: manga
 -   **original-name**: 片喰と黄金
 -   **start-date**: 2019-03-19

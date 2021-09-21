@@ -1,5 +1,7 @@
 # Hikari no Miko Series
 
+![hikari-no-miko-series](https://cdn.myanimelist.net/images/manga/1/237793.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

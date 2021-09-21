@@ -1,5 +1,7 @@
 # Shin Kurosagi: Kanketsuhen
 
+![shin-kurosagi-kanketsuhen](https://cdn.myanimelist.net/images/manga/3/106275.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

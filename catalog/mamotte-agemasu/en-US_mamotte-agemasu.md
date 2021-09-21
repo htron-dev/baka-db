@@ -1,5 +1,7 @@
 # Mamotte Agemasu!
 
+![mamotte-agemasu](https://cdn.myanimelist.net/images/manga/1/152580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

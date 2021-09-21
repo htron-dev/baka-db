@@ -1,5 +1,7 @@
 # Hototogisu
 
+![hototogisu](https://cdn.myanimelist.net/images/manga/3/226564.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

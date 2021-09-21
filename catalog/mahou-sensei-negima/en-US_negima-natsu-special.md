@@ -1,5 +1,7 @@
 # Negima!? Natsu Special!?
 
+![negima-natsu-special](https://cdn.myanimelist.net/images/anime/8/23631.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ネギま!?夏 スペシャル!?

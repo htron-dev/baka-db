@@ -1,5 +1,7 @@
 # Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.
 
+![isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu](https://cdn.myanimelist.net/images/manga/3/223774.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でもふもふなでなでするためにがんばってます。
 -   **start-date**: 2017-11-03

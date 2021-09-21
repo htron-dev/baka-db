@@ -1,5 +1,7 @@
 # Kuzu Kuma-san to Hachimitsu JK
 
+![kuzu-kuma-san-to-hachimitsu-jk](https://cdn.myanimelist.net/images/manga/3/186794.jpg)
+
 -   **type**: light-novel
 -   **original-name**: くずクマさんとハチミツ JK
 -   **start-date**: 2016-12-23

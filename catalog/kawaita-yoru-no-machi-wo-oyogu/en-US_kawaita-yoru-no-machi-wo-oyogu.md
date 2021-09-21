@@ -1,5 +1,7 @@
 # Kawaita Yoru no Machi wo Oyogu
 
+![kawaita-yoru-no-machi-wo-oyogu](https://cdn.myanimelist.net/images/manga/3/18602.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

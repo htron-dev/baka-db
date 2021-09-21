@@ -1,5 +1,7 @@
 # Dragon Quest Retsuden: Roto no Monshou Returns
 
+![dragon-quest-retsuden-roto-no-monshou-returns](https://cdn.myanimelist.net/images/manga/3/104741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

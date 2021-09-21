@@ -1,5 +1,7 @@
 # Danganronpa Gaiden: Killer Killer
 
+![danganronpa-gaiden-killer-killer](https://cdn.myanimelist.net/images/manga/1/180279.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

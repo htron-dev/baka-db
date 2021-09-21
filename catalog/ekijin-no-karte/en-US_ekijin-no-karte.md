@@ -1,5 +1,7 @@
 # Ekijin no Karte
 
+![ekijin-no-karte](https://cdn.myanimelist.net/images/manga/1/244188.jpg)
+
 -   **type**: manga
 -   **original-name**: 疫神のカルテ
 -   **start-date**: 2020-11-13

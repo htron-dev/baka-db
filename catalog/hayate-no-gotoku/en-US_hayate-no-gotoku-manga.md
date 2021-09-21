@@ -1,5 +1,7 @@
 # Hayate no Gotoku!
 
+![hayate-no-gotoku](https://cdn.myanimelist.net/images/manga/2/28906.jpg)
+
 -   **type**: manga
 -   **volumes**: 52
 -   **chapters**: 570

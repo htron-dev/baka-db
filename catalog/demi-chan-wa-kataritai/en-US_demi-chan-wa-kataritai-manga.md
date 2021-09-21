@@ -1,5 +1,7 @@
 # Demi-chan wa Kataritai
 
+![demi-chan-wa-kataritai](https://cdn.myanimelist.net/images/manga/2/188778.jpg)
+
 -   **type**: manga
 -   **original-name**: 亜人〈デミ〉ちゃんは語りたい
 -   **start-date**: 2014-09-05

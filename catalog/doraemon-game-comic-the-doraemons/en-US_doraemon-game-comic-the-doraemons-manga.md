@@ -1,5 +1,7 @@
 # Doraemon Game Comic: The☆Doraemons
 
+![doraemon-game-comic-the☆-doraemons](https://cdn.myanimelist.net/images/manga/1/132413.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ドラえもんゲームコミック ザ ☆ ドラえもんズ

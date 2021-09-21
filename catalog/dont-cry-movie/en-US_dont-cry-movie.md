@@ -1,5 +1,7 @@
 # Don't Cry (Movie)
 
+![dont-cry-movie](https://cdn.myanimelist.net/images/anime/1486/110953.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドントクライ

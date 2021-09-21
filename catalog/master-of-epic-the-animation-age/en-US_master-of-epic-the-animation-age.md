@@ -1,5 +1,7 @@
 # Master of Epic: The Animation Age
 
+![master-of-epic-the-animation-age](https://cdn.myanimelist.net/images/anime/1/1885.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: マスター オブ エピック The Animation Age

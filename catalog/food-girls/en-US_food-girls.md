@@ -1,5 +1,7 @@
 # Food Girls
 
+![food-girls](https://cdn.myanimelist.net/images/manga/2/202928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

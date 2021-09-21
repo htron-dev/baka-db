@@ -1,5 +1,7 @@
 # Megane-chan
 
+![megane-chan](https://cdn.myanimelist.net/images/manga/2/67685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

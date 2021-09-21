@@ -1,5 +1,7 @@
 # Hello Kitty no Shirayuki-hime
 
+![hello-kitty-no-shirayuki-hime](https://cdn.myanimelist.net/images/anime/2/47809.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのしらゆきひめ

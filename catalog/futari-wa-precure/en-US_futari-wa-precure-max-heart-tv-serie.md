@@ -1,5 +1,7 @@
 # Futari wa Precure: Max Heart
 
+![futari-wa-precure-max-heart](https://cdn.myanimelist.net/images/anime/3/7536.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: ふたりはプリキュア ー マックスハート

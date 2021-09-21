@@ -1,5 +1,7 @@
 # Kodomo no Jikan OVA
 
+![kodomo-no-jikan-ova](https://cdn.myanimelist.net/images/anime/9/5682.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: こどものじかん OVA

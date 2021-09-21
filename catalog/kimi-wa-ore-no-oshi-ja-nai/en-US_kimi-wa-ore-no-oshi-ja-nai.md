@@ -1,5 +1,7 @@
 # Kimi wa Ore no Oshi ja Nai
 
+![kimi-wa-ore-no-oshi-ja-nai](https://cdn.myanimelist.net/images/manga/2/230406.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

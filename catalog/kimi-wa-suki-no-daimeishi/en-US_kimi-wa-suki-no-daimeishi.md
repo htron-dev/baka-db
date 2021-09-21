@@ -1,5 +1,7 @@
 # Kimi wa "Suki" no Daimeishi
 
+![kimi-wa-suki-no-daimeishi](https://cdn.myanimelist.net/images/manga/4/34795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

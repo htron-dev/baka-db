@@ -1,5 +1,7 @@
 # Inu-Neko.
 
+![inu-neko](https://cdn.myanimelist.net/images/manga/3/197982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

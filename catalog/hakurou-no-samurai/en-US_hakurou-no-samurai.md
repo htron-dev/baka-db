@@ -1,5 +1,7 @@
 # Hakurou no Samurai
 
+![hakurou-no-samurai](https://cdn.myanimelist.net/images/manga/2/226490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Mahoutsukai Tai! (TV)
 
+![mahoutsukai-tai-tv](https://cdn.myanimelist.net/images/anime/11/44063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔法使い Tai!

@@ -1,5 +1,7 @@
 # Mou Hitotsu no Monster: The Investigative Report
 
+![mou-hitotsu-no-monster-the-investigative-report](https://cdn.myanimelist.net/images/manga/3/14776.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 31

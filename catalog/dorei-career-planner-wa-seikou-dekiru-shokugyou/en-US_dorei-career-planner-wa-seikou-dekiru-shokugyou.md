@@ -1,5 +1,7 @@
 # Dorei Career Planner wa Seikou Dekiru Shokugyou
 
+![dorei-career-planner-wa-seikou-dekiru-shokugyou](https://cdn.myanimelist.net/images/manga/2/178143.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 奴隷キャリアプランナーは成功できる職業
 -   **start-date**: 2016-06-10

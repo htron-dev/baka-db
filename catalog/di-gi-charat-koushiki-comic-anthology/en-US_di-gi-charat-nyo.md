@@ -1,5 +1,7 @@
 # Di Gi Charat Nyo
 
+![di-gi-charat-nyo](https://cdn.myanimelist.net/images/anime/2/57015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: デ・ジ・キャラットにょ

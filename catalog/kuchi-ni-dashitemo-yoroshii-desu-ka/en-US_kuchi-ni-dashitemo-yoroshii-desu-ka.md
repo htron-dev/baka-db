@@ -1,5 +1,7 @@
 # Kuchi ni Dashitemo Yoroshii desu ka?
 
+![kuchi-ni-dashitemo-yoroshii-desu-ka](https://cdn.myanimelist.net/images/manga/2/244082.jpg)
+
 -   **type**: manga
 -   **original-name**: 口に出しても宜しいですか?
 -   **start-date**: 2021-04-28

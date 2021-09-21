@@ -1,5 +1,7 @@
 # Goshujinsama to H na Koto shitai Dorei no Ohanashi
 
+![goshujinsama-to-h-na-koto-shitai-dorei-no-ohanashi](https://cdn.myanimelist.net/images/manga/3/224612.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

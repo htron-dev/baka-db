@@ -1,5 +1,7 @@
 # Getter Robo G
 
+![getter-robo-g](https://cdn.myanimelist.net/images/manga/5/95651.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 5

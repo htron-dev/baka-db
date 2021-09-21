@@ -1,5 +1,7 @@
 # My Sweet Honey?
 
+![my-sweet-honey](https://cdn.myanimelist.net/images/manga/2/165506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

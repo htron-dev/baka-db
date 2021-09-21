@@ -1,5 +1,7 @@
 # Lupin III: Walther P38
 
+![lupin-iii-walther-p-38](https://cdn.myanimelist.net/images/anime/6/72201.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『ワルサー P38』

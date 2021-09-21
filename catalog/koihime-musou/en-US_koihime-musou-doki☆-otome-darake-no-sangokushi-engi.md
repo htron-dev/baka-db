@@ -1,5 +1,7 @@
 # Koihime†Musou: Doki☆Otome darake no Sangokushi Engi
 
+![koihime-musou-doki☆-otome-darake-no-sangokushi-engi](https://cdn.myanimelist.net/images/manga/1/154188.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 恋姫†無双 〜ドキッ ☆ 乙女だらけの三国志演義〜

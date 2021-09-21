@@ -1,5 +1,7 @@
 # Maison Ikkoku
 
+![maison-ikkoku](https://cdn.myanimelist.net/images/manga/1/71227.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 162

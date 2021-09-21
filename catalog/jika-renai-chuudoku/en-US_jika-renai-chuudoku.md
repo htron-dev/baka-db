@@ -1,5 +1,7 @@
 # Jika Renai Chuudoku
 
+![jika-renai-chuudoku](https://cdn.myanimelist.net/images/manga/2/142247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

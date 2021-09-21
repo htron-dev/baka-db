@@ -1,5 +1,7 @@
 # Hula Kappa: Owakare-kai (2) Atarashii wo Tomodachi
 
+![hula-kappa-owakare-kai-2-atarashii-wo-tomodachi](https://cdn.myanimelist.net/images/anime/12/83259.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フラカッパー おわかれかい（2） あたらしいおともだち

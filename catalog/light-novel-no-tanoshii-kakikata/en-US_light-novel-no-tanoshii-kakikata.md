@@ -1,5 +1,7 @@
 # Light Novel no Tanoshii Kakikata
 
+![light-novel-no-tanoshii-kakikata](https://cdn.myanimelist.net/images/manga/2/103413.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: ライトノベルの楽しい書き方

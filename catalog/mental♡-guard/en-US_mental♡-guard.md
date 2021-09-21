@@ -1,5 +1,7 @@
 # Mental♡Guard
 
+![mental♡-guard](https://cdn.myanimelist.net/images/manga/2/135069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メンタル ♡ ガード

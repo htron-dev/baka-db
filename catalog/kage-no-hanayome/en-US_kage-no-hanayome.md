@@ -1,5 +1,7 @@
 # Kage no Hanayome
 
+![kage-no-hanayome](https://cdn.myanimelist.net/images/manga/1/185341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

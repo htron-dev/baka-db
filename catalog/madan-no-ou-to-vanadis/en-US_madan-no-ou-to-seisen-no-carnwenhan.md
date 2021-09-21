@@ -1,5 +1,7 @@
 # Madan no Ou to Seisen no Carnwenhan
 
+![madan-no-ou-to-seisen-no-carnwenhan](https://cdn.myanimelist.net/images/manga/2/247232.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔弾の王と聖泉の双紋剣 〈カルンウェナン〉
 -   **start-date**: 2019-09-25

@@ -1,5 +1,7 @@
 # Engi ja Naku... Honki... desu
 
+![engi-ja-naku-honki-desu](https://cdn.myanimelist.net/images/manga/2/193557.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

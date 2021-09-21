@@ -1,5 +1,7 @@
 # Kagen no Tsuki
 
+![kagen-no-tsuki](https://cdn.myanimelist.net/images/manga/3/145491.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Daisan no Teikoku
 
+![daisan-no-teikoku](https://cdn.myanimelist.net/images/manga/3/45308.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 第三の帝国

@@ -1,5 +1,7 @@
 # Karneval Bangai-hen: Ashita no Yakusoku
 
+![karneval-bangai-hen-ashita-no-yakusoku](https://cdn.myanimelist.net/images/manga/3/172707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

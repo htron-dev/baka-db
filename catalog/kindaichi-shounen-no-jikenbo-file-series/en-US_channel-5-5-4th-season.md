@@ -1,8 +1,10 @@
 # Channel 5.5 4th Season
 
+![channel-5-5-4th-season](https://cdn.myanimelist.net/images/anime/4/71604.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
--   **original-name**: チャンネル5.5 Season4
+-   **original-name**: チャンネル 5.5 Season4
 -   **start-date**: 2014-11-16
 -   **end-date**: 2014-11-16
 -   **rating**: PG-13 - Teens 13 or older

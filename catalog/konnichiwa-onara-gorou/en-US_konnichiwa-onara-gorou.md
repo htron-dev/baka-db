@@ -1,5 +1,7 @@
 # Konnichiwa Onara Gorou
 
+![konnichiwa-onara-gorou](https://cdn.myanimelist.net/images/anime/7/79964.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: こんにちは おなら吾郎

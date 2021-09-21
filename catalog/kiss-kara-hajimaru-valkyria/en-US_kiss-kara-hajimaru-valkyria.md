@@ -1,5 +1,7 @@
 # Kiss kara Hajimaru Valkyria
 
+![kiss-kara-hajimaru-valkyria](https://cdn.myanimelist.net/images/manga/1/163373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

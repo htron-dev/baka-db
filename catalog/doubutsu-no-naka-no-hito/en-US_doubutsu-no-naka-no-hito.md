@@ -1,5 +1,7 @@
 # Doubutsu no Naka no Hito
 
+![doubutsu-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/3/228734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

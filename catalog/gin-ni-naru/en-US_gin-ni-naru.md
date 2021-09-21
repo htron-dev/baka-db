@@ -1,5 +1,7 @@
 # Gin ni Naru
 
+![gin-ni-naru](https://cdn.myanimelist.net/images/manga/2/23699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

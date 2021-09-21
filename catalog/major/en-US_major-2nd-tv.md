@@ -1,5 +1,7 @@
 # Major 2nd (TV)
 
+![major-2nd-tv](https://cdn.myanimelist.net/images/anime/1066/90145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: メジャーセカンド

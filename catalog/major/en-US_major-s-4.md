@@ -1,5 +1,7 @@
 # Major S4
 
+![major-s-4](https://cdn.myanimelist.net/images/anime/9/75217.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メジャー　（第 4 シリーズ)

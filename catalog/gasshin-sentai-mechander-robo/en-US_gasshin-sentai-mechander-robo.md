@@ -1,5 +1,7 @@
 # Gasshin Sentai Mechander Robo
 
+![gasshin-sentai-mechander-robo](https://cdn.myanimelist.net/images/anime/9/29474.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 合身戦隊メカンダーロボ

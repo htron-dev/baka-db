@@ -1,5 +1,7 @@
 # Geshuku Biyori
 
+![geshuku-biyori](https://cdn.myanimelist.net/images/manga/4/16160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

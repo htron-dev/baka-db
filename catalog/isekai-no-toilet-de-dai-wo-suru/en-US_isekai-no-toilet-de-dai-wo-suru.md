@@ -1,5 +1,7 @@
 # Isekai no Toilet de Dai wo Suru.
 
+![isekai-no-toilet-de-dai-wo-suru](https://cdn.myanimelist.net/images/manga/2/215748.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界のトイレで大をする。
 -   **start-date**: 2018-01-16

@@ -1,5 +1,7 @@
 # LifE
 
+![lif-e](https://cdn.myanimelist.net/images/manga/2/7204.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

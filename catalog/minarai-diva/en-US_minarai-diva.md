@@ -1,5 +1,7 @@
 # Minarai Diva
 
+![minarai-diva](https://cdn.myanimelist.net/images/anime/7/64441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: みならいディーバ

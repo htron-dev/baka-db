@@ -1,5 +1,7 @@
 # Licca-chan to Yamaneko Hoshi no Tabi
 
+![licca-chan-to-yamaneko-hoshi-no-tabi](https://cdn.myanimelist.net/images/anime/4/27325.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Licca the movie リカちゃん リカちゃんとヤマネコ星の旅

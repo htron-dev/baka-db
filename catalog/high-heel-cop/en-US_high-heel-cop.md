@@ -1,5 +1,7 @@
 # High-heel Cop
 
+![high-heel-cop](https://cdn.myanimelist.net/images/manga/1/28456.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Hold Up Kids
 
+![hold-up-kids](https://cdn.myanimelist.net/images/manga/3/28171.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 

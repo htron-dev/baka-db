@@ -1,5 +1,7 @@
 # Hapikon! Ouji to Sekaiichi Happy na Kekkon
 
+![hapikon-ouji-to-sekaiichi-happy-na-kekkon](https://cdn.myanimelist.net/images/manga/2/232501.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

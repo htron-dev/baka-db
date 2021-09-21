@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 - Blue Memories
 
+![mobile-suit-gundam-00-blue-memories](https://cdn.myanimelist.net/images/manga/3/35575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

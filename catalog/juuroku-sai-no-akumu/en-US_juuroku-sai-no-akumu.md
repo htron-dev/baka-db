@@ -1,5 +1,7 @@
 # Juuroku sai no akumu
 
+![juuroku-sai-no-akumu](https://cdn.myanimelist.net/images/manga/2/52741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

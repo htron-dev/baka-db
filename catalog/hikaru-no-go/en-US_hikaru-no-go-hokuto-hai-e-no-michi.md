@@ -1,5 +1,7 @@
 # Hikaru no Go: Hokuto Hai e no Michi
 
+![hikaru-no-go-hokuto-hai-e-no-michi](https://cdn.myanimelist.net/images/anime/12/78453.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヒカルの碁 北斗杯への道

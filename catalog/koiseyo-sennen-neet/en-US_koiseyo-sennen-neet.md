@@ -1,5 +1,7 @@
 # Koiseyo Sennen Neet
 
+![koiseyo-sennen-neet](https://cdn.myanimelist.net/images/manga/2/231964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

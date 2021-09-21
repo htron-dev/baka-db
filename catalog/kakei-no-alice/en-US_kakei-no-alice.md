@@ -1,5 +1,7 @@
 # Kakei no Alice
 
+![kakei-no-alice](https://cdn.myanimelist.net/images/manga/2/212666.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

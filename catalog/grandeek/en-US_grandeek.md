@@ -1,5 +1,7 @@
 # Grandeek
 
+![grandeek](https://cdn.myanimelist.net/images/anime/11/2617.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: GRANDEEK

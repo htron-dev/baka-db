@@ -1,5 +1,7 @@
 # Haiiro no Iris
 
+![haiiro-no-iris](https://cdn.myanimelist.net/images/manga/2/96799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 28

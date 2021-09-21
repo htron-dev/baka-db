@@ -1,5 +1,7 @@
 # Taka no Tsume-dan Yoshida Presents "Sengoku Taiga" no Susume
 
+![taka-no-tsume-dan-yoshida-presents-sengoku-taiga-no-susume](https://cdn.myanimelist.net/images/anime/1927/100771.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 鷹の爪団吉田プレゼンツ 『戦国大河』 のススメ

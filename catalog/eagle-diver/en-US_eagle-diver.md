@@ -1,5 +1,7 @@
 # Eagle Diver
 
+![eagle-diver](https://cdn.myanimelist.net/images/manga/2/32306.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: イーグルドライバー

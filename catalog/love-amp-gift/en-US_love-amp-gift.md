@@ -1,5 +1,7 @@
 # Love &amp; Gift
 
+![love-amp-gift](https://cdn.myanimelist.net/images/anime/6/75955.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: LOVE&GIFT

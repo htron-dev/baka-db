@@ -1,5 +1,7 @@
 # Hitotsu no Koi no Hajimari
 
+![hitotsu-no-koi-no-hajimari](https://cdn.myanimelist.net/images/manga/2/159533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kenken Gogo!
 
+![kenken-gogo](https://cdn.myanimelist.net/images/manga/1/231273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

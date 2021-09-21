@@ -1,5 +1,7 @@
 # Finder Series
 
+![finder-series](https://cdn.myanimelist.net/images/anime/2/36823.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ファインダーシリーズ

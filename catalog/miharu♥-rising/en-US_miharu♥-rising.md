@@ -1,5 +1,7 @@
 # Miharu♥Rising
 
+![miharu♥-rising](https://cdn.myanimelist.net/images/manga/1/179706.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 51

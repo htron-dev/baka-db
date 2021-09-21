@@ -1,5 +1,7 @@
 # Konya wa Tsuki ga Kirei desu ga, Toriaezu Shine
 
+![konya-wa-tsuki-ga-kirei-desu-ga-toriaezu-shine](https://cdn.myanimelist.net/images/manga/1/167328.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 35

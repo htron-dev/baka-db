@@ -1,5 +1,7 @@
 # Innocence
 
+![innocence](https://cdn.myanimelist.net/images/anime/10/75628.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: イノセンス

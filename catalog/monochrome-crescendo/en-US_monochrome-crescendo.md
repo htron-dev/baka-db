@@ -1,5 +1,7 @@
 # Monochrome Crescendo
 
+![monochrome-crescendo](https://cdn.myanimelist.net/images/manga/1/11155.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: モノクロームクレッシェンド

@@ -1,5 +1,7 @@
 # Furenzoku Sekai
 
+![furenzoku-sekai](https://cdn.myanimelist.net/images/manga/2/36681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

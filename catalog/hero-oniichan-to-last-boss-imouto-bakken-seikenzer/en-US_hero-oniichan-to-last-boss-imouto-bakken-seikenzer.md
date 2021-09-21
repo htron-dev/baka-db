@@ -1,5 +1,7 @@
 # Hero Oniichan to Last Boss Imouto: Bakken! Seikenzer
 
+![hero-oniichan-to-last-boss-imouto-bakken-seikenzer](https://cdn.myanimelist.net/images/manga/1/196281.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

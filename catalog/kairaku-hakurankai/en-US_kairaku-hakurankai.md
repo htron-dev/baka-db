@@ -1,5 +1,7 @@
 # Kairaku Hakurankai
 
+![kairaku-hakurankai](https://cdn.myanimelist.net/images/manga/2/150308.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

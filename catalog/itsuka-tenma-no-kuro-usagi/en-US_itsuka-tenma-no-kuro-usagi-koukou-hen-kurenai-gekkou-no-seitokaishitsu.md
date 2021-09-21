@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi Koukou-hen: Kurenai Gekkou no Seitokaishitsu
 
+![itsuka-tenma-no-kuro-usagi-koukou-hen-kurenai-gekkou-no-seitokaishitsu](https://cdn.myanimelist.net/images/manga/1/116947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

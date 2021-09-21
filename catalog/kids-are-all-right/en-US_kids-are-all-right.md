@@ -1,5 +1,7 @@
 # Kids Are All Right
 
+![kids-are-all-right](https://cdn.myanimelist.net/images/manga/2/167324.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 55

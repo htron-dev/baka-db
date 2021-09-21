@@ -1,5 +1,7 @@
 # Heika to Tonogata to Koushaku Reijou
 
+![heika-to-tonogata-to-koushaku-reijou](https://cdn.myanimelist.net/images/manga/2/218400.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 陛下と殿方と公爵令嬢

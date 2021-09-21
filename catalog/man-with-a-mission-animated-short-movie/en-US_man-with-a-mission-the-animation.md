@@ -1,5 +1,7 @@
 # Man with a Mission The Animation
 
+![man-with-a-mission-the-animation](https://cdn.myanimelist.net/images/anime/1378/106615.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: MAN WITH A MISSION THE ANIMATION

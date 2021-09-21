@@ -1,5 +1,7 @@
 # Ijiwaru
 
+![ijiwaru](https://cdn.myanimelist.net/images/manga/1/67103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

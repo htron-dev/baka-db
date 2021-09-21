@@ -1,5 +1,7 @@
 # Kindan Series
 
+![kindan-series](https://cdn.myanimelist.net/images/manga/3/151872.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 禁断シリーズ

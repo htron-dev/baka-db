@@ -1,5 +1,7 @@
 # Ji Jia Shou Shen Zhi Baolie Feiche
 
+![ji-jia-shou-shen-zhi-baolie-feiche](https://cdn.myanimelist.net/images/anime/1722/109001.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 机甲兽神之爆裂飞车

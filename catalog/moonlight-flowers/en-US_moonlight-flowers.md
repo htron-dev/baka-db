@@ -1,5 +1,7 @@
 # Moonlight Flowers
 
+![moonlight-flowers](https://cdn.myanimelist.net/images/manga/1/14170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

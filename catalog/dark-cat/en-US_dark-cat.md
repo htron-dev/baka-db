@@ -1,5 +1,7 @@
 # Dark Cat
 
+![dark-cat](https://cdn.myanimelist.net/images/anime/1216/94235.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ダークキャット

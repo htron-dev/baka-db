@@ -1,5 +1,7 @@
 # Karamari Jijou
 
+![karamari-jijou](https://cdn.myanimelist.net/images/manga/2/39164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

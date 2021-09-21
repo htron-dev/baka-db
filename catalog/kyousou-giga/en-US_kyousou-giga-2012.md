@@ -1,5 +1,7 @@
 # Kyousou Giga (2012)
 
+![kyousou-giga-2012](https://cdn.myanimelist.net/images/anime/12/41893.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 京騒戯画

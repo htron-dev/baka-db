@@ -1,5 +1,7 @@
 # Jimi Hime to Kuroneko no, Enman na Konyaku Haki
 
+![jimi-hime-to-kuroneko-no-enman-na-konyaku-haki](https://cdn.myanimelist.net/images/manga/1/243230.jpg)
+
 -   **type**: manga
 -   **original-name**: 地味姫と黒猫の、円満な婚約破棄
 -   **start-date**: 2020-12-08

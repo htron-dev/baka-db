@@ -1,5 +1,7 @@
 # Love Kare - Gokujou Men Dokuhon! over 20
 
+![love-kare-gokujou-men-dokuhon-over-20](https://cdn.myanimelist.net/images/manga/3/72295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

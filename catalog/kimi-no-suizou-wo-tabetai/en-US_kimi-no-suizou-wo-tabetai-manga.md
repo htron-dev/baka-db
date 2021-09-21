@@ -1,5 +1,7 @@
 # Kimi no Suizou wo Tabetai
 
+![kimi-no-suizou-wo-tabetai](https://cdn.myanimelist.net/images/manga/2/191611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

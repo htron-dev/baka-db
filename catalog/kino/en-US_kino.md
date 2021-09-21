@@ -1,5 +1,7 @@
 # Kino
 
+![kino](https://cdn.myanimelist.net/images/anime/6/86951.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: KINO

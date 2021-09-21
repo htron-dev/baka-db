@@ -1,5 +1,7 @@
 # Dorimogu Daa!!
 
+![dorimogu-daa](https://cdn.myanimelist.net/images/anime/1102/109846.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ドリモグだァ!!

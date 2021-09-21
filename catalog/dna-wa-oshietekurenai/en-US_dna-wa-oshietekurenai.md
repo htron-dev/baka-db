@@ -1,5 +1,7 @@
 # DNA wa Oshietekurenai
 
+![dna-wa-oshietekurenai](https://cdn.myanimelist.net/images/manga/3/187854.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

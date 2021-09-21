@@ -1,5 +1,7 @@
 # Liu Xing Huan Jian
 
+![liu-xing-huan-jian](https://cdn.myanimelist.net/images/anime/1729/111278.jpg)
+
 -   **type**: ona
 -   **episodes**: 60
 -   **original-name**: 流星幻剑

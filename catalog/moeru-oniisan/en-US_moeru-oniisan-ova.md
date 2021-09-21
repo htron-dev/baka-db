@@ -1,5 +1,7 @@
 # Moeru! Oniisan (OVA)
 
+![moeru-oniisan-ova](https://cdn.myanimelist.net/images/anime/9/33629.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 燃える！お兄さん (1989)

@@ -1,5 +1,7 @@
 # Hajimete Datteba!
 
+![hajimete-datteba](https://cdn.myanimelist.net/images/manga/1/71407.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Daylight - Asa ni Hikari no Kanmuri wo
 
+![daylight-asa-ni-hikari-no-kanmuri-wo](https://cdn.myanimelist.net/images/manga/2/21438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

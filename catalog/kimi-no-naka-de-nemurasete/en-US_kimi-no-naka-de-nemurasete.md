@@ -1,5 +1,7 @@
 # Kimi no Naka de Nemurasete
 
+![kimi-no-naka-de-nemurasete](https://cdn.myanimelist.net/images/manga/4/147003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

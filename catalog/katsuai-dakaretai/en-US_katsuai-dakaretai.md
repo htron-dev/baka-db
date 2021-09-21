@@ -1,5 +1,7 @@
 # Katsuai (Dakaretai)
 
+![katsuai-dakaretai](https://cdn.myanimelist.net/images/manga/3/5710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

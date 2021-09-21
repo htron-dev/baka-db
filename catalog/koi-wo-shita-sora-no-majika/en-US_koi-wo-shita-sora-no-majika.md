@@ -1,5 +1,7 @@
 # Koi wo Shita Sora no Majika
 
+![koi-wo-shita-sora-no-majika](https://cdn.myanimelist.net/images/manga/1/148199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

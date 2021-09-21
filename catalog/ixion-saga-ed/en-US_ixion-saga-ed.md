@@ -1,5 +1,7 @@
 # Ixion Saga ED
 
+![ixion-saga-ed](https://cdn.myanimelist.net/images/manga/1/99167.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

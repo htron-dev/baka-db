@@ -1,5 +1,7 @@
 # Maid desu kara!
 
+![maid-desu-kara](https://cdn.myanimelist.net/images/manga/3/175763.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドですから!
 -   **start-date**: 2011-03-20

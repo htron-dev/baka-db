@@ -1,5 +1,7 @@
 # Frame Saber
 
+![frame-saber](https://cdn.myanimelist.net/images/manga/1/14926.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

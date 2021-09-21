@@ -1,5 +1,7 @@
 # Machikado no Märchen
 
+![machikado-no-marchen](https://cdn.myanimelist.net/images/anime/10/31057.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Radio City Fantasy 街角のメルヘン

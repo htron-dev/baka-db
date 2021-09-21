@@ -1,5 +1,7 @@
 # Hundred: Radiant Red Rose
 
+![hundred-radiant-red-rose](https://cdn.myanimelist.net/images/manga/1/179683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

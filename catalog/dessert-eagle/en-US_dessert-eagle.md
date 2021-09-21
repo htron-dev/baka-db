@@ -1,5 +1,7 @@
 # Dessert Eagle
 
+![dessert-eagle](https://cdn.myanimelist.net/images/manga/1/167492.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

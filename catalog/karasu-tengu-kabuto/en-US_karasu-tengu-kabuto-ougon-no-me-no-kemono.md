@@ -1,5 +1,7 @@
 # Karasu Tengu Kabuto: Ougon no Me no Kemono
 
+![karasu-tengu-kabuto-ougon-no-me-no-kemono](https://cdn.myanimelist.net/images/anime/1089/96966.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鴉天狗カブト 黄金の目のケモノ

@@ -1,5 +1,7 @@
 # Kamui no Ken
 
+![kamui-no-ken](https://cdn.myanimelist.net/images/anime/1073/94233.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カムイの剣

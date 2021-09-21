@@ -1,5 +1,7 @@
 # HaruChika
 
+![haru-chika](https://cdn.myanimelist.net/images/manga/3/170383.jpg)
+
 -   **type**: manga
 -   **original-name**: ハルチカ
 -   **start-date**: 2015-10-26

@@ -1,5 +1,7 @@
 # Shin Kijou no Kowloon
 
+![shin-kijou-no-kowloon](https://cdn.myanimelist.net/images/manga/2/52387.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

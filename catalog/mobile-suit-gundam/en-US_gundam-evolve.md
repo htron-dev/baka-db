@@ -1,5 +1,7 @@
 # Gundam Evolve
 
+![gundam-evolve](https://cdn.myanimelist.net/images/anime/3/28142.jpg)
+
 -   **type**: ova
 -   **episodes**: 15
 -   **original-name**: ガンダム EVOLVE

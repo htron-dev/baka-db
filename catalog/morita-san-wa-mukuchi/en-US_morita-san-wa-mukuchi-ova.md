@@ -1,5 +1,7 @@
 # Morita-san wa Mukuchi
 
+![morita-san-wa-mukuchi](https://cdn.myanimelist.net/images/anime/12/29056.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 森田さんは無口

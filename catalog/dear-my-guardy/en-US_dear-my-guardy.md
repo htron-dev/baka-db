@@ -1,5 +1,7 @@
 # Dear My Guardy
 
+![dear-my-guardy](https://cdn.myanimelist.net/images/manga/2/96769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ディアマイガーディ

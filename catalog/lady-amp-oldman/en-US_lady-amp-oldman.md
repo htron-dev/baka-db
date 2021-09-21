@@ -1,5 +1,7 @@
 # Lady &amp; Oldman
 
+![lady-amp-oldman](https://cdn.myanimelist.net/images/manga/3/180386.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

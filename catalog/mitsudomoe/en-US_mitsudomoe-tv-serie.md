@@ -1,5 +1,7 @@
 # Mitsudomoe
 
+![mitsudomoe](https://cdn.myanimelist.net/images/anime/12/53947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みつどもえ

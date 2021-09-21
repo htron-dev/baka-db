@@ -1,5 +1,7 @@
 # Yoku Wakaru Mahouka! - Saiseitte Nani?
 
+![yoku-wakaru-mahouka-saiseitte-nani](https://cdn.myanimelist.net/images/anime/4/75785.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: よくわかる魔法科！

@@ -1,5 +1,7 @@
 # Kusenai Yoru no Kioku
 
+![kusenai-yoru-no-kioku](https://cdn.myanimelist.net/images/manga/2/44107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

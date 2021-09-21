@@ -1,5 +1,7 @@
 # MILPOM★ Pilot
 
+![milpom★-pilot](https://cdn.myanimelist.net/images/anime/7/72836.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: MILPOM★ (みるぽん)

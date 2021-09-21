@@ -1,5 +1,7 @@
 # Honto no Bokura
 
+![honto-no-bokura](https://cdn.myanimelist.net/images/manga/1/221102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

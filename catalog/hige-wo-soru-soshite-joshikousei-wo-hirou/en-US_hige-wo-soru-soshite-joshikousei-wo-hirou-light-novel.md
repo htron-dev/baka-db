@@ -1,5 +1,7 @@
 # Hige wo Soru. Soshite Joshikousei wo Hirou.
 
+![hige-wo-soru-soshite-joshikousei-wo-hirou](https://cdn.myanimelist.net/images/manga/3/213577.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 82

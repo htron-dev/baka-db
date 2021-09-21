@@ -1,5 +1,7 @@
 # Fuufu Ijou, Koibito Miman.
 
+![fuufu-ijou-koibito-miman](https://cdn.myanimelist.net/images/manga/1/215132.jpg)
+
 -   **type**: manga
 -   **original-name**: 夫婦以上、恋人未満。
 -   **start-date**: 2018-03-02

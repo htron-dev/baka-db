@@ -1,5 +1,7 @@
 # Naturalist no Kare
 
+![naturalist-no-kare](https://cdn.myanimelist.net/images/manga/2/7026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

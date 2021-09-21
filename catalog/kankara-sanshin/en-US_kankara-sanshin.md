@@ -1,5 +1,7 @@
 # Kankara Sanshin
 
+![kankara-sanshin](https://cdn.myanimelist.net/images/anime/2/45973.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かんからさんしん

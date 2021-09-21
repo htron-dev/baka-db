@@ -1,5 +1,7 @@
 # Kinou Ie Nakatta Koto
 
+![kinou-ie-nakatta-koto](https://cdn.myanimelist.net/images/manga/2/23926.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 昨日、いえなかったこと

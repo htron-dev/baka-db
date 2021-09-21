@@ -1,5 +1,7 @@
 # JA - Joshi ni Yoru Agriculture
 
+![ja-joshi-ni-yoru-agriculture](https://cdn.myanimelist.net/images/manga/3/158604.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

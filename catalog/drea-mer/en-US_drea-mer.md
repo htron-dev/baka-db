@@ -1,5 +1,7 @@
 # Drea-mer
 
+![drea-mer](https://cdn.myanimelist.net/images/manga/3/163514.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

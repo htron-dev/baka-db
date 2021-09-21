@@ -1,5 +1,7 @@
 # Ilya
 
+![ilya](https://cdn.myanimelist.net/images/manga/2/136125.jpg)
+
 -   **type**: manhwa
 -   **original-name**: ilya 일리아
 -   **start-date**: 2013-11-11

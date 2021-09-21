@@ -1,5 +1,7 @@
 # Macross 7
 
+![macross-7](https://cdn.myanimelist.net/images/anime/1568/117498.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: マクロス７

@@ -1,5 +1,7 @@
 # Matierica
 
+![matierica](https://cdn.myanimelist.net/images/anime/1171/113745.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マチェーリカ

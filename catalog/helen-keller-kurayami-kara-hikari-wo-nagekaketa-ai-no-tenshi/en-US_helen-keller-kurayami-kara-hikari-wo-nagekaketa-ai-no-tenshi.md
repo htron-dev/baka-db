@@ -1,5 +1,7 @@
 # Helen Keller: Kurayami kara Hikari wo Nagekaketa Ai no Tenshi
 
+![helen-keller-kurayami-kara-hikari-wo-nagekaketa-ai-no-tenshi](https://cdn.myanimelist.net/images/manga/1/108271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

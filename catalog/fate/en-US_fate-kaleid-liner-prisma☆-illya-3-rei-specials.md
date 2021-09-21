@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 3rei!! Specials
 
+![fate-kaleid-liner-prisma☆-illya-3-rei-specials](https://cdn.myanimelist.net/images/anime/1017/108994.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ ツヴァイ ヘルツ！『ビースト、再び！』

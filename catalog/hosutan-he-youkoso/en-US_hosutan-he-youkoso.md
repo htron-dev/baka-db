@@ -1,5 +1,7 @@
 # Hosutan he Youkoso
 
+![hosutan-he-youkoso](https://cdn.myanimelist.net/images/manga/3/12461.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

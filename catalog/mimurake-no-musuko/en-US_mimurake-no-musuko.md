@@ -1,5 +1,7 @@
 # Mimurake no Musuko
 
+![mimurake-no-musuko](https://cdn.myanimelist.net/images/manga/2/79437.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

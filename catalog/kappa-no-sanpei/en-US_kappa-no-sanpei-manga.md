@@ -1,5 +1,7 @@
 # Kappa no Sanpei
 
+![kappa-no-sanpei](https://cdn.myanimelist.net/images/manga/1/36917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

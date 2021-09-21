@@ -1,5 +1,7 @@
 # Ichigo 100% OVA
 
+![ichigo-100-ova](https://cdn.myanimelist.net/images/anime/3/23595.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: いちご１００％　オリジナル DVD アニメーション

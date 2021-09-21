@@ -1,5 +1,7 @@
 # Gall Force: The Revolution
 
+![gall-force-the-revolution](https://cdn.myanimelist.net/images/anime/8/26528.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ガルフォース THE REVOLUTION

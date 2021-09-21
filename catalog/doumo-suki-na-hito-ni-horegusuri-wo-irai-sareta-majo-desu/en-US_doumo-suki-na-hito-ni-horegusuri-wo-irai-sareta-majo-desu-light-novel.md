@@ -1,5 +1,7 @@
 # Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.
 
+![doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu](https://cdn.myanimelist.net/images/manga/3/236578.jpg)
+
 -   **type**: light-novel
 -   **original-name**: どうも、好きな人に惚れ薬を依頼された魔女です。
 -   **start-date**: 2019-10-16

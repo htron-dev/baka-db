@@ -1,5 +1,7 @@
 # Eccentric Hobby
 
+![eccentric-hobby](https://cdn.myanimelist.net/images/manga/2/69725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 26

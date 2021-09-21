@@ -1,5 +1,7 @@
 # Fresh Precure!
 
+![fresh-precure](https://cdn.myanimelist.net/images/anime/9/21267.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: フレッシュプリキュア！

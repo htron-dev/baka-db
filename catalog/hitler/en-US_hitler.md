@@ -1,5 +1,7 @@
 # Hitler
 
+![hitler](https://cdn.myanimelist.net/images/manga/2/170233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

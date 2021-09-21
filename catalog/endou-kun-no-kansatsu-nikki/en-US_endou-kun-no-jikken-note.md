@@ -1,5 +1,7 @@
 # Endou-kun no Jikken Note
 
+![endou-kun-no-jikken-note](https://cdn.myanimelist.net/images/manga/4/197879.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

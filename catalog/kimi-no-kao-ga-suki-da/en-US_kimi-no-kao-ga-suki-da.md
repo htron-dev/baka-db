@@ -1,5 +1,7 @@
 # Kimi no Kao ga Suki da
 
+![kimi-no-kao-ga-suki-da](https://cdn.myanimelist.net/images/manga/3/238411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

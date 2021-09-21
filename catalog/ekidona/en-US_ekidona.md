@@ -1,5 +1,7 @@
 # Ekidona
 
+![ekidona](https://cdn.myanimelist.net/images/manga/1/59271.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

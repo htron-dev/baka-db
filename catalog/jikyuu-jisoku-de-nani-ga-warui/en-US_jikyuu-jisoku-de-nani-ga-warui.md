@@ -1,5 +1,7 @@
 # Jikyuu Jisoku de Nani ga Warui!
 
+![jikyuu-jisoku-de-nani-ga-warui](https://cdn.myanimelist.net/images/manga/2/238452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

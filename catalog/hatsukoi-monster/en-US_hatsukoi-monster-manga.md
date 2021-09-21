@@ -1,5 +1,7 @@
 # Hatsukoi Monster
 
+![hatsukoi-monster](https://cdn.myanimelist.net/images/manga/3/180249.jpg)
+
 -   **type**: manga
 -   **original-name**: 初恋モンスター
 -   **start-date**: 2013-01-28

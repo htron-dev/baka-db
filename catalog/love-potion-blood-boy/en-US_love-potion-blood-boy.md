@@ -1,5 +1,7 @@
 # Love Potion Blood Boy
 
+![love-potion-blood-boy](https://cdn.myanimelist.net/images/manga/1/246035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

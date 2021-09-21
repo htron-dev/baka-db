@@ -1,5 +1,7 @@
 # Gamba no Bouken
 
+![gamba-no-bouken](https://cdn.myanimelist.net/images/anime/10/57873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ガンバの冒険

@@ -1,5 +1,7 @@
 # Koisuru Futari no Taion
 
+![koisuru-futari-no-taion](https://cdn.myanimelist.net/images/manga/3/150297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

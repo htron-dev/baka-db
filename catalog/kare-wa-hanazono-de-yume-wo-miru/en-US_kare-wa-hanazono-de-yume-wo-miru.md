@@ -1,5 +1,7 @@
 # Kare wa Hanazono de Yume wo Miru
 
+![kare-wa-hanazono-de-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/198333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

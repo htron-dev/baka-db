@@ -1,5 +1,7 @@
 # Makura no Danshi: Sono Ato no Makura no Danshi
 
+![makura-no-danshi-sono-ato-no-makura-no-danshi](https://cdn.myanimelist.net/images/anime/11/75880.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 枕男子 （まくらのだんし）「その後の枕男子」

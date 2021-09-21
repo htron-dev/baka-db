@@ -1,5 +1,7 @@
 # Docchi mo Docchi
 
+![docchi-mo-docchi](https://cdn.myanimelist.net/images/manga/1/150715.jpg)
+
 -   **type**: manga
 -   **original-name**: どっちもどっち
 -   **start-date**: 2009-09-07

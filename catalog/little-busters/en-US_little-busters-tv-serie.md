@@ -1,5 +1,7 @@
 # Little Busters!
 
+![little-busters](https://cdn.myanimelist.net/images/anime/6/43757.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: リトルバスターズ!

@@ -1,5 +1,7 @@
 # Hakaijuu VS Mahou Shoujo of the End VS Vs Earth
 
+![hakaijuu-vs-mahou-shoujo-of-the-end-vs-vs-earth](https://cdn.myanimelist.net/images/manga/2/183299.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ハカイジュウ VS 魔法少女オブジエンド VS バーサスアース

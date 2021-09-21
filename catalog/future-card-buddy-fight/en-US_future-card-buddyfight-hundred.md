@@ -1,5 +1,7 @@
 # Future Card Buddyfight Hundred
 
+![future-card-buddyfight-hundred](https://cdn.myanimelist.net/images/anime/10/74881.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: フューチャーカード バディファイト 100

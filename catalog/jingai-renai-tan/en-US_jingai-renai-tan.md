@@ -1,5 +1,7 @@
 # Jingai Renai-tan
 
+![jingai-renai-tan](https://cdn.myanimelist.net/images/manga/2/243908.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kiringaoka no Kokoroya
 
+![kiringaoka-no-kokoroya](https://cdn.myanimelist.net/images/manga/3/229388.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: きりんが丘のココロ屋

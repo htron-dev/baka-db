@@ -1,5 +1,7 @@
 # Iwata no Kuse ni Choushi ni Noruna!
 
+![iwata-no-kuse-ni-choushi-ni-noruna](https://cdn.myanimelist.net/images/manga/3/226895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Densetsu no Kateikyoushi
 
+![densetsu-no-kateikyoushi](https://cdn.myanimelist.net/images/manga/2/159597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 伝説の家庭教師

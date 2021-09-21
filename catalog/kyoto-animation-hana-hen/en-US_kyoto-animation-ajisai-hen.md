@@ -1,5 +1,7 @@
 # Kyoto Animation: Ajisai-hen
 
+![kyoto-animation-ajisai-hen](https://cdn.myanimelist.net/images/anime/10/78122.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「あじさい編」

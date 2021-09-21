@@ -1,5 +1,7 @@
 # Jinki:Extend
 
+![jinki-extend](https://cdn.myanimelist.net/images/anime/3/44792.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ジンキ・エクステンド

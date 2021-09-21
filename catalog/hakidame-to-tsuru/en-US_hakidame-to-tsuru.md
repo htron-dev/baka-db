@@ -1,5 +1,7 @@
 # Hakidame to Tsuru
 
+![hakidame-to-tsuru](https://cdn.myanimelist.net/images/manga/1/196984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

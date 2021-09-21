@@ -1,5 +1,7 @@
 # Hai to Gensou no Grimgar
 
+![hai-to-gensou-no-grimgar](https://cdn.myanimelist.net/images/manga/2/169852.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

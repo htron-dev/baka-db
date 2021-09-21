@@ -1,5 +1,7 @@
 # Duel Masters Zero
 
+![duel-masters-zero](https://cdn.myanimelist.net/images/anime/3/28926.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: デュエル・マスターズ ゼロ

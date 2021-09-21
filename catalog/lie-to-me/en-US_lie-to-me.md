@@ -1,5 +1,7 @@
 # Lie to Me
 
+![lie-to-me](https://cdn.myanimelist.net/images/manga/3/21538.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 3

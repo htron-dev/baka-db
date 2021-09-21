@@ -1,5 +1,7 @@
 # Karneval
 
+![karneval](https://cdn.myanimelist.net/images/anime/4/43467.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カーニヴァル

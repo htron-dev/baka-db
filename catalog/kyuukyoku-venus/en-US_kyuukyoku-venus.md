@@ -1,5 +1,7 @@
 # Kyuukyoku Venus
 
+![kyuukyoku-venus](https://cdn.myanimelist.net/images/manga/2/171834.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Hakui to Jersey
 
+![hakui-to-jersey](https://cdn.myanimelist.net/images/manga/1/14718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

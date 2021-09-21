@@ -1,5 +1,7 @@
 # Melty Moment
 
+![melty-moment](https://cdn.myanimelist.net/images/manga/1/141445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

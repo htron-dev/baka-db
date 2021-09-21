@@ -1,5 +1,7 @@
 # Flag Director's Edition: Issenman no Kufura no Kiroku
 
+![flag-directors-edition-issenman-no-kufura-no-kiroku](https://cdn.myanimelist.net/images/anime/1577/90484.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: FLAG Director's Edition 一千万のクフラの記録

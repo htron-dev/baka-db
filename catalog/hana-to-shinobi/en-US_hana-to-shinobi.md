@@ -1,5 +1,7 @@
 # Hana to Shinobi
 
+![hana-to-shinobi](https://cdn.myanimelist.net/images/manga/2/192272.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

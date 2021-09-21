@@ -1,5 +1,7 @@
 # Kimi no Oto ga Nariyamanai.
 
+![kimi-no-oto-ga-nariyamanai](https://cdn.myanimelist.net/images/manga/3/204657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Dekiai Ryuujin to Rinne no Koi
 
+![dekiai-ryuujin-to-rinne-no-koi](https://cdn.myanimelist.net/images/manga/3/167540.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 溺愛竜神と輪廻の恋

@@ -1,5 +1,7 @@
 # Donbei x Kemurikusa
 
+![donbei-x-kemurikusa](https://cdn.myanimelist.net/images/anime/1964/99499.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: どん兵衛 × ケムリクサ

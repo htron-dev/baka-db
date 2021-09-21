@@ -1,5 +1,7 @@
 # Kuro no Hiera-Glaphicos
 
+![kuro-no-hiera-glaphicos](https://cdn.myanimelist.net/images/manga/3/176909.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 94

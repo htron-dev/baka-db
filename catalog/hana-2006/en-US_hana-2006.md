@@ -1,5 +1,7 @@
 # Hana (2006)
 
+![hana-2006](https://cdn.myanimelist.net/images/anime/1581/102261.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はな

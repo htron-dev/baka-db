@@ -1,5 +1,7 @@
 # Kochira, Koufuku Anshin Iinkai desu.
 
+![kochira-koufuku-anshin-iinkai-desu](https://cdn.myanimelist.net/images/manga/1/171232.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

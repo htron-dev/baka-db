@@ -1,5 +1,7 @@
 # Hatsukoi Reset
 
+![hatsukoi-reset](https://cdn.myanimelist.net/images/manga/3/235841.jpg)
+
 -   **type**: manga
 -   **original-name**: ハツコイ・リセット
 -   **start-date**: 2018-08-10

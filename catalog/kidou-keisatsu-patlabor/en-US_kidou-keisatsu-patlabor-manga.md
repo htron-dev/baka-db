@@ -1,5 +1,7 @@
 # Kidou Keisatsu Patlabor
 
+![kidou-keisatsu-patlabor](https://cdn.myanimelist.net/images/manga/3/194559.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 91

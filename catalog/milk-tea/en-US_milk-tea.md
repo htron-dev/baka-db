@@ -1,5 +1,7 @@
 # Milk Tea
 
+![milk-tea](https://cdn.myanimelist.net/images/manga/1/247129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mousou Girl
 
+![mousou-girl](https://cdn.myanimelist.net/images/manga/3/162799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 妄想少女〈が-る〉

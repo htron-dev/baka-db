@@ -1,5 +1,7 @@
 # Oriko to Nattsun
 
+![oriko-to-nattsun](https://cdn.myanimelist.net/images/manga/3/212577.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

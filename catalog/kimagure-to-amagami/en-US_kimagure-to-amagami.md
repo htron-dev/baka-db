@@ -1,5 +1,7 @@
 # Kimagure To Amagami
 
+![kimagure-to-amagami](https://cdn.myanimelist.net/images/manga/2/222171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

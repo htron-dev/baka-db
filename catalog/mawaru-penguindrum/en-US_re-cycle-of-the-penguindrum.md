@@ -1,5 +1,7 @@
 # Re:cycle of the Penguindrum
 
+![re-cycle-of-the-penguindrum](https://cdn.myanimelist.net/images/anime/1571/113894.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Re:cycle of the PENGUINDRUM

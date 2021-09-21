@@ -1,5 +1,7 @@
 # DJ Nobunaga
 
+![dj-nobunaga](https://cdn.myanimelist.net/images/anime/3/87299.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: DJ ノブナガ

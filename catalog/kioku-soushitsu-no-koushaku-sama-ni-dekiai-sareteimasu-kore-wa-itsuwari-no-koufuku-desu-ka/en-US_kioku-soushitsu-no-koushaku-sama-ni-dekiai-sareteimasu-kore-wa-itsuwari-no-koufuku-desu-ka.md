@@ -1,5 +1,7 @@
 # Kioku Soushitsu no Koushaku-sama ni Dekiai sareteimasu: Kore wa Itsuwari no Koufuku desu ka?
 
+![kioku-soushitsu-no-koushaku-sama-ni-dekiai-sareteimasu-kore-wa-itsuwari-no-koufuku-desu-ka](https://cdn.myanimelist.net/images/manga/1/235736.jpg)
+
 -   **type**: manga
 -   **original-name**: 記憶喪失の侯爵様に溺愛されています これは偽りの幸福ですか？
 -   **start-date**: 2020-03-09

@@ -1,5 +1,7 @@
 # J League wo 100-bai Tanoshiku Miru Houhou!!
 
+![j-league-wo-100-bai-tanoshiku-miru-houhou](https://cdn.myanimelist.net/images/anime/7/66765.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: J リーグを 100 倍楽しく見る方法!!

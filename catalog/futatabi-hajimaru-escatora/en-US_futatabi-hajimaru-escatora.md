@@ -1,5 +1,7 @@
 # Futatabi Hajimaru Escatora
 
+![futatabi-hajimaru-escatora](https://cdn.myanimelist.net/images/manga/2/176427.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

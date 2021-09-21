@@ -1,5 +1,7 @@
 # Ichi Kyuu Kyuu Peke
 
+![ichi-kyuu-kyuu-peke](https://cdn.myanimelist.net/images/manga/3/155751.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

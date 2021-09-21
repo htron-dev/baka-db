@@ -1,5 +1,7 @@
 # Kenja wa Nemuru: Shinjou Mimei no Houseki Jikenbo
 
+![kenja-wa-nemuru-shinjou-mimei-no-houseki-jikenbo](https://cdn.myanimelist.net/images/manga/2/116481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

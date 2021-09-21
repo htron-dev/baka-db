@@ -1,5 +1,7 @@
 # IDOLiSH7 3rd Season Part 2
 
+![ido-li-sh-7-3rd-season-part-2](https://cdn.myanimelist.net/images/anime/1166/111283.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: アイドリッシュセブン
 -   **rating**: PG-13 - Teens 13 or older

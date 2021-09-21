@@ -1,5 +1,7 @@
 # Isekai Tensei Yuri Anthology
 
+![isekai-tensei-yuri-anthology](https://cdn.myanimelist.net/images/manga/1/232792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

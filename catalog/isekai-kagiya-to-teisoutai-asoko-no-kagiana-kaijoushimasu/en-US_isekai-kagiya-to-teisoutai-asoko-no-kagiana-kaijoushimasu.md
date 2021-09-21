@@ -1,5 +1,7 @@
 # Isekai Kagiya to Teisoutai: Asoko no Kagiana, Kaijoushimasu
 
+![isekai-kagiya-to-teisoutai-asoko-no-kagiana-kaijoushimasu](https://cdn.myanimelist.net/images/manga/1/197225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

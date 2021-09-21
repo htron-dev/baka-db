@@ -1,5 +1,7 @@
 # Hakushaku-sama wa Aibusuru
 
+![hakushaku-sama-wa-aibusuru](https://cdn.myanimelist.net/images/manga/2/136247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 伯爵様は愛撫する

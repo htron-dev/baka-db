@@ -1,5 +1,7 @@
 # Musume no Tomodachi
 
+![musume-no-tomodachi](https://cdn.myanimelist.net/images/manga/2/223170.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 62

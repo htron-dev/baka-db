@@ -1,5 +1,7 @@
 # Fushidara na Konzen Kyouiku
 
+![fushidara-na-konzen-kyouiku](https://cdn.myanimelist.net/images/manga/2/179487.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

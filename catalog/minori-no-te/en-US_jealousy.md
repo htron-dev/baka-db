@@ -1,5 +1,7 @@
 # Jealousy
 
+![jealousy](https://cdn.myanimelist.net/images/manga/3/199407.jpg)
+
 -   **type**: manga
 -   **original-name**: ジェラシー
 -   **start-date**: 2016-07-30

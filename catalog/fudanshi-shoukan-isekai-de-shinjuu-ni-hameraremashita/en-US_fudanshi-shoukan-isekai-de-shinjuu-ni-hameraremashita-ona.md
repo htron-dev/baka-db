@@ -1,5 +1,7 @@
 # Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita
 
+![fudanshi-shoukan-isekai-de-shinjuu-ni-hameraremashita](https://cdn.myanimelist.net/images/anime/1987/109164.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 腐男子召喚〜異世界で神獣にハメられました〜

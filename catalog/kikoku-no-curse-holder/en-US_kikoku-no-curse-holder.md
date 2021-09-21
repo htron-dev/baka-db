@@ -1,5 +1,7 @@
 # Kikoku no Curse Holder
 
+![kikoku-no-curse-holder](https://cdn.myanimelist.net/images/manga/1/226342.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼哭の忌能使い〈カース ホルダー〉
 -   **start-date**: 2019-03-09

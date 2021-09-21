@@ -1,5 +1,7 @@
 # Motokano to no Jirettai Gisou Kekkon
 
+![motokano-to-no-jirettai-gisou-kekkon](https://cdn.myanimelist.net/images/manga/1/246315.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 元カノとのじれったい偽装結婚
 -   **start-date**: 2021-02-25

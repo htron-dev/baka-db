@@ -1,5 +1,7 @@
 # Dakatsu
 
+![dakatsu](https://cdn.myanimelist.net/images/manga/2/168511.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Mahou☆Chuunen Ojimajo 5
 
+![mahou☆-chuunen-ojimajo-5](https://cdn.myanimelist.net/images/manga/3/168248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

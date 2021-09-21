@@ -1,5 +1,7 @@
 # Kono Kyoushi, Zettai Wazato.
 
+![kono-kyoushi-zettai-wazato](https://cdn.myanimelist.net/images/manga/1/242921.jpg)
+
 -   **type**: manga
 -   **original-name**: この教師、絶対わざと。
 -   **start-date**: 2020-09-19

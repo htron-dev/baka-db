@@ -1,5 +1,7 @@
 # Koyoi wa Kimi to Chi no Kisu wo
 
+![koyoi-wa-kimi-to-chi-no-kisu-wo](https://cdn.myanimelist.net/images/manga/2/48465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

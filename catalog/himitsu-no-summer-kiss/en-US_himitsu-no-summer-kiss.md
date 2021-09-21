@@ -1,5 +1,7 @@
 # Himitsu no Summer Kiss
 
+![himitsu-no-summer-kiss](https://cdn.myanimelist.net/images/manga/3/8572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

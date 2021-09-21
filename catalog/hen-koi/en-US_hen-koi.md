@@ -1,5 +1,7 @@
 # Hen Koi!
 
+![hen-koi](https://cdn.myanimelist.net/images/manga/3/161684.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

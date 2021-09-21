@@ -1,5 +1,7 @@
 # Grimoire wa Oshiete Kurenai
 
+![grimoire-wa-oshiete-kurenai](https://cdn.myanimelist.net/images/manga/1/164188.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔導書姫〈グリモワール〉は教えてくれない
 -   **start-date**: 2015-09-19

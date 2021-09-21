@@ -1,5 +1,7 @@
 # Kuma Kuma Kuma Bear 2nd Season
 
+![kuma-kuma-kuma-bear-2nd-season](https://cdn.myanimelist.net/images/anime/1176/110884.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: くま クマ 熊 ベアー 2nd シーズン
 -   **rating**: PG-13 - Teens 13 or older

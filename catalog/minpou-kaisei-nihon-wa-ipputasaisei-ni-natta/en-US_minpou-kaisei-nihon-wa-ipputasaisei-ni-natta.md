@@ -1,5 +1,7 @@
 # Minpou Kaisei: Nihon wa Ipputasaisei ni Natta
 
+![minpou-kaisei-nihon-wa-ipputasaisei-ni-natta](https://cdn.myanimelist.net/images/manga/2/173864.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

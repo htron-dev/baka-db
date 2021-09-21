@@ -1,5 +1,7 @@
 # Ookami-tachi no Shiikuhou
 
+![ookami-tachi-no-shiikuhou](https://cdn.myanimelist.net/images/manga/5/107839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

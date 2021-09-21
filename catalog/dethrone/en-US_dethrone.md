@@ -1,5 +1,7 @@
 # Dethrone
 
+![dethrone](https://cdn.myanimelist.net/images/manga/3/105525.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Eclipse Hunter
 
+![eclipse-hunter](https://cdn.myanimelist.net/images/manga/3/41560.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 50

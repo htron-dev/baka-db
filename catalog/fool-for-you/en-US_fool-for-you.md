@@ -1,5 +1,7 @@
 # Fool For You
 
+![fool-for-you](https://cdn.myanimelist.net/images/manga/2/6807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

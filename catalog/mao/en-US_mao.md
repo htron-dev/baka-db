@@ -1,5 +1,7 @@
 # Mao
 
+![mao](https://cdn.myanimelist.net/images/manga/3/222053.jpg)
+
 -   **type**: manga
 -   **original-name**: MAO
 -   **start-date**: 2019-05-08

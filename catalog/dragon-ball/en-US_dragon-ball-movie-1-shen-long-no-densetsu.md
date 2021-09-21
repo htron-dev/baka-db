@@ -1,5 +1,7 @@
 # Dragon Ball Movie 1: Shen Long no Densetsu
 
+![dragon-ball-movie-1-shen-long-no-densetsu](https://cdn.myanimelist.net/images/anime/1854/90339.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール 神龍の伝説

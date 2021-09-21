@@ -1,5 +1,7 @@
 # Moyashimon
 
+![moyashimon](https://cdn.myanimelist.net/images/manga/5/75589.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 159

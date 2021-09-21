@@ -1,5 +1,7 @@
 # Kono Oto Tomare! 2nd Season
 
+![kono-oto-tomare-2nd-season](https://cdn.myanimelist.net/images/anime/1422/111621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: この音とまれ！

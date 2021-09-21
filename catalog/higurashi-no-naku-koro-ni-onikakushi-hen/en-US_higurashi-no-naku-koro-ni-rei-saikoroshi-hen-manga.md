@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Rei: Saikoroshi-hen
 
+![higurashi-no-naku-koro-ni-rei-saikoroshi-hen](https://cdn.myanimelist.net/images/manga/2/108471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

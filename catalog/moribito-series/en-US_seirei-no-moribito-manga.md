@@ -1,5 +1,7 @@
 # Seirei no Moribito
 
+![seirei-no-moribito](https://cdn.myanimelist.net/images/manga/2/208051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

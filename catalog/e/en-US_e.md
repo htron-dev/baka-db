@@ -1,5 +1,7 @@
 # E'
 
+![e](https://cdn.myanimelist.net/images/manga/2/37496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: e’(イーダッシュ)

@@ -1,5 +1,7 @@
 # Mitsurou no Umi
 
+![mitsurou-no-umi](https://cdn.myanimelist.net/images/manga/3/184918.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

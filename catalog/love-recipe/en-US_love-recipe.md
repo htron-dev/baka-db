@@ -1,5 +1,7 @@
 # Love Recipe
 
+![love-recipe](https://cdn.myanimelist.net/images/manga/2/5529.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

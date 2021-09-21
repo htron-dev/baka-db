@@ -1,5 +1,7 @@
 # Karma: What Goes Around Comes Around
 
+![karma-what-goes-around-comes-around](https://cdn.myanimelist.net/images/manga/1/21449.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 너 탓이로소이다

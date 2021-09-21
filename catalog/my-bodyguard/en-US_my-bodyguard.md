@@ -1,5 +1,7 @@
 # My Bodyguard
 
+![my-bodyguard](https://cdn.myanimelist.net/images/manga/5/169077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Futari Monologue
 
+![futari-monologue](https://cdn.myanimelist.net/images/manga/2/198436.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 112

@@ -1,5 +1,7 @@
 # Futari no Akai Enishi: Satomi Hakkenden - Hachitama no Ki
 
+![futari-no-akai-enishi-satomi-hakkenden-hachitama-no-ki](https://cdn.myanimelist.net/images/manga/3/145077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

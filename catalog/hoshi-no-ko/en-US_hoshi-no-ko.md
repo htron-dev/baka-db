@@ -1,5 +1,7 @@
 # Hoshi no Ko
 
+![hoshi-no-ko](https://cdn.myanimelist.net/images/manga/1/155724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

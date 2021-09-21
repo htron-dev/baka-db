@@ -1,5 +1,7 @@
 # BraFro x Taka no Tsume: Brave Funding Prologue
 
+![bra-fro-x-taka-no-tsume-brave-funding-prologue](https://cdn.myanimelist.net/images/anime/7/85973.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【ブレフロ × 鷹の爪】ブレイブファンディング プロローグ

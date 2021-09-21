@@ -1,5 +1,7 @@
 # Deadlock
 
+![deadlock](https://cdn.myanimelist.net/images/manga/2/247805.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

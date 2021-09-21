@@ -1,5 +1,7 @@
 # Jing Ma Zhanshi
 
+![jing-ma-zhanshi](https://cdn.myanimelist.net/images/anime/1403/113997.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: 晶码战士

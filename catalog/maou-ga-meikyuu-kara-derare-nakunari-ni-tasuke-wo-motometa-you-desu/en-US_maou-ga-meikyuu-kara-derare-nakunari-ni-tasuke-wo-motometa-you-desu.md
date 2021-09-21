@@ -1,5 +1,7 @@
 # Maou ga Meikyuu kara Derare Nakunari ni Tasuke wo Motometa you desu
 
+![maou-ga-meikyuu-kara-derare-nakunari-ni-tasuke-wo-motometa-you-desu](https://cdn.myanimelist.net/images/manga/1/156097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔王が迷宮から出られなくなり勇者に助けを求めたようです

@@ -1,5 +1,7 @@
 # Genwaku no Divine Doll: Eye Knows Heaven
 
+![genwaku-no-divine-doll-eye-knows-heaven](https://cdn.myanimelist.net/images/manga/1/160498.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 幻惑のディバインドール 〜Eye Knows Heaven〜

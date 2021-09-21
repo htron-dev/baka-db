@@ -1,5 +1,7 @@
 # Girly Air Force
 
+![girly-air-force](https://cdn.myanimelist.net/images/anime/1046/97025.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガーリー・エアフォース

@@ -1,5 +1,7 @@
 # France-jin no Bubu-san: Rikei de My Pace de Tokidoki Otaku na France-jin to no Kokusai Renai
 
+![france-jin-no-bubu-san-rikei-de-my-pace-de-tokidoki-otaku-na-france-jin-to-no-kokusai-renai](https://cdn.myanimelist.net/images/manga/1/189392.jpg)
+
 -   **type**: manga
 -   **original-name**: フランス人のブブさん 理系でマイペースで時々オタクなフランス人との国際恋愛
 -   **start-date**: 2013-10-22

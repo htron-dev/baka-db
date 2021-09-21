@@ -1,5 +1,7 @@
 # Koi ni Tsukimono
 
+![koi-ni-tsukimono](https://cdn.myanimelist.net/images/manga/1/117493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

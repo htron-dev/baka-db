@@ -1,5 +1,7 @@
 # Kore kara no Signal
 
+![kore-kara-no-signal](https://cdn.myanimelist.net/images/manga/1/26671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: これからのシグナル

@@ -1,5 +1,7 @@
 # Giovanni no Shima
 
+![giovanni-no-shima](https://cdn.myanimelist.net/images/anime/5/56297.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジョバンニの島

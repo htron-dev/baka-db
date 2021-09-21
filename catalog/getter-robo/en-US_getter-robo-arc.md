@@ -1,5 +1,7 @@
 # Getter Robo Arc
 
+![getter-robo-arc](https://cdn.myanimelist.net/images/anime/1805/116661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ゲッターロボ アーク

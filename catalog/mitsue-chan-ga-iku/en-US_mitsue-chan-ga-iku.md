@@ -1,5 +1,7 @@
 # Mitsue-chan ga Iku!!
 
+![mitsue-chan-ga-iku](https://cdn.myanimelist.net/images/manga/1/151659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: みつえちゃんが行く!!

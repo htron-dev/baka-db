@@ -1,5 +1,7 @@
 # Scarlet Order: Dance in the Vampire Bund 2
 
+![scarlet-order-dance-in-the-vampire-bund-2](https://cdn.myanimelist.net/images/manga/3/153266.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

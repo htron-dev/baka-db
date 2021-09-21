@@ -1,5 +1,7 @@
 # Kaze Densetsu Hikoza
 
+![kaze-densetsu-hikoza](https://cdn.myanimelist.net/images/manga/3/38278.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 疾風(カゼ)伝説彦佐

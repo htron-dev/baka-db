@@ -1,5 +1,7 @@
 # Junai Seichouki
 
+![junai-seichouki](https://cdn.myanimelist.net/images/manga/3/2796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Di Gi Charat: Hoshi no Tabi
 
+![di-gi-charat-hoshi-no-tabi](https://cdn.myanimelist.net/images/anime/13/28181.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　 Di Gi Charat[デ・ジ・キャラット]　星の旅

@@ -1,5 +1,7 @@
 # Elevator Strategy
 
+![elevator-strategy](https://cdn.myanimelist.net/images/manga/2/225863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

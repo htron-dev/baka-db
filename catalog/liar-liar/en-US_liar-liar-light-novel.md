@@ -1,5 +1,7 @@
 # Liar Liar
 
+![liar-liar](https://cdn.myanimelist.net/images/manga/3/240940.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ライアー・ライアー
 -   **start-date**: 2019-04-25

@@ -1,5 +1,7 @@
 # Magi
 
+![magi](https://cdn.myanimelist.net/images/manga/2/201605.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 369

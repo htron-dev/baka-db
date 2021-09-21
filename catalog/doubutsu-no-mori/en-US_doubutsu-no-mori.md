@@ -1,5 +1,7 @@
 # Doubutsu no Mori
 
+![doubutsu-no-mori](https://cdn.myanimelist.net/images/anime/3/13151.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: どうぶつの森

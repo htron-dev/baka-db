@@ -1,5 +1,7 @@
 # Kaizoku to Yobareta Otoko
 
+![kaizoku-to-yobareta-otoko](https://cdn.myanimelist.net/images/manga/3/187206.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 71

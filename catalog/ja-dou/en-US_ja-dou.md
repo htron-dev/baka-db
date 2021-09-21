@@ -1,5 +1,7 @@
 # Ja-Dou
 
+![ja-dou](https://cdn.myanimelist.net/images/manga/3/6282.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Future War 198X-nen
 
+![future-war-198-x-nen](https://cdn.myanimelist.net/images/anime/1943/100161.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Future War 198X 年

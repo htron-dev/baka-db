@@ -1,5 +1,7 @@
 # Karasugaoka Don't Be Shy!!
 
+![karasugaoka-dont-be-shy](https://cdn.myanimelist.net/images/manga/2/220884.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

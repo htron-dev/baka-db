@@ -1,5 +1,7 @@
 # Kuro
 
+![kuro](https://cdn.myanimelist.net/images/manga/3/179213.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

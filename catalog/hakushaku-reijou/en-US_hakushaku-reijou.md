@@ -1,5 +1,7 @@
 # Hakushaku Reijou
 
+![hakushaku-reijou](https://cdn.myanimelist.net/images/manga/2/73073.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 伯爵令嬢

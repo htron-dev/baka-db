@@ -1,5 +1,7 @@
 # Hayate no Gotoku! Heaven Is a Place on Earth
 
+![hayate-no-gotoku-heaven-is-a-place-on-earth](https://cdn.myanimelist.net/images/anime/13/29542.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ハヤテのごとく! HEAVEN IS A PLACE ON EARTH

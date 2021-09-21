@@ -1,5 +1,7 @@
 # Kaichou no Joker
 
+![kaichou-no-joker](https://cdn.myanimelist.net/images/manga/1/82376.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

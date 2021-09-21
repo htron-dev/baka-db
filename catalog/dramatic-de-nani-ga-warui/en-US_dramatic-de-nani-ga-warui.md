@@ -1,5 +1,7 @@
 # Dramatic de Nani ga Warui
 
+![dramatic-de-nani-ga-warui](https://cdn.myanimelist.net/images/manga/1/239169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

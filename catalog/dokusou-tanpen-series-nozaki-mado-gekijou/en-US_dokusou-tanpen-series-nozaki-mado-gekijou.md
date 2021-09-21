@@ -1,5 +1,7 @@
 # Dokusou Tanpen Series: Nozaki Mado Gekijou
 
+![dokusou-tanpen-series-nozaki-mado-gekijou](https://cdn.myanimelist.net/images/manga/1/151352.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 独創短編シリーズ 野﨑まど劇場
 -   **start-date**: 2012-11-10

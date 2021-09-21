@@ -1,5 +1,7 @@
 # Drifters: Special Edition
 
+![drifters-special-edition](https://cdn.myanimelist.net/images/anime/1141/97770.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: DRIFTERS Special edition

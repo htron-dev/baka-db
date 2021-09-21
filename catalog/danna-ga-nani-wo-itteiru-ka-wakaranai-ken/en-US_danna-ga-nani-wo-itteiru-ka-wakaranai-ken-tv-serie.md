@@ -1,5 +1,7 @@
 # Danna ga Nani wo Itteiru ka Wakaranai Ken
 
+![danna-ga-nani-wo-itteiru-ka-wakaranai-ken](https://cdn.myanimelist.net/images/anime/7/75287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 旦那が何を言っているかわからない件

@@ -1,5 +1,7 @@
 # Shin Kimi no Te ga Sasayaiteiru
 
+![shin-kimi-no-te-ga-sasayaiteiru](https://cdn.myanimelist.net/images/manga/3/247837.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 77

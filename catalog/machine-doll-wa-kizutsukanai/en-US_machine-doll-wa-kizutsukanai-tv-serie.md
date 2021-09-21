@@ -1,5 +1,7 @@
 # Machine-Doll wa Kizutsukanai
 
+![machine-doll-wa-kizutsukanai](https://cdn.myanimelist.net/images/anime/4/56141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 機巧少女〈マシンドール〉は傷つかない

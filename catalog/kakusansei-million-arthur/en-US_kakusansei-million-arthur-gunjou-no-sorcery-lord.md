@@ -1,5 +1,7 @@
 # Kakusansei Million Arthur: Gunjou no Sorcery Lord
 
+![kakusansei-million-arthur-gunjou-no-sorcery-lord](https://cdn.myanimelist.net/images/manga/3/114207.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 拡散性ミリオンアーサー －群青の守護者〈ソーサリーロード〉－

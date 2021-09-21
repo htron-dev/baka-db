@@ -1,5 +1,7 @@
 # Maou no Kawaii Yamada wa Yoiko
 
+![maou-no-kawaii-yamada-wa-yoiko](https://cdn.myanimelist.net/images/manga/1/232183.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

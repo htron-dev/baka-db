@@ -1,5 +1,7 @@
 # Hi no Tori 2772: Ai no CosmoZone
 
+![hi-no-tori-2772-ai-no-cosmo-zone](https://cdn.myanimelist.net/images/anime/1488/96651.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火の鳥 ２７７２ 愛のコスモゾーン

@@ -1,5 +1,7 @@
 # Giniro no Kami no Agito Pilot
 
+![giniro-no-kami-no-agito-pilot](https://cdn.myanimelist.net/images/anime/1014/99742.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀色の髪のアギト パイロットフィルム

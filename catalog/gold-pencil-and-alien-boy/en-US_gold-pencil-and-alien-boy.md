@@ -1,5 +1,7 @@
 # Gold Pencil And Alien Boy
 
+![gold-pencil-and-alien-boy](https://cdn.myanimelist.net/images/anime/11/45118.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 황금연필과 개구장이 외계소년

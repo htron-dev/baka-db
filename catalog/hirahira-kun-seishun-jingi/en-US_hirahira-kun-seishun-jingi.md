@@ -1,5 +1,7 @@
 # Hirahira-kun Seishun Jingi
 
+![hirahira-kun-seishun-jingi](https://cdn.myanimelist.net/images/manga/1/24989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

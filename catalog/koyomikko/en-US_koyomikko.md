@@ -1,5 +1,7 @@
 # Koyomikko
 
+![koyomikko](https://cdn.myanimelist.net/images/manga/3/229889.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

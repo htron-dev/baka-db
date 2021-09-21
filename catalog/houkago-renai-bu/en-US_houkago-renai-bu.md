@@ -1,5 +1,7 @@
 # Houkago Renai-bu!
 
+![houkago-renai-bu](https://cdn.myanimelist.net/images/manga/2/160625.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 放課後恋愛部!

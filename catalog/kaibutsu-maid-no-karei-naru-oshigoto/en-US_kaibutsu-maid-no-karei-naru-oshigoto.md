@@ -1,5 +1,7 @@
 # Kaibutsu Maid no Karei naru Oshigoto
 
+![kaibutsu-maid-no-karei-naru-oshigoto](https://cdn.myanimelist.net/images/manga/3/236235.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪物メイドの華麗なるお仕事
 -   **start-date**: 2020-04-17

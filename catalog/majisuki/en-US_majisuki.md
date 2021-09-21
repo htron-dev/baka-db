@@ -1,5 +1,7 @@
 # Majisuki
 
+![majisuki](https://cdn.myanimelist.net/images/manga/2/37798.jpg)
+
 -   **type**: manga
 -   **original-name**: マジスキ
 

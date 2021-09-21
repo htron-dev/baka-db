@@ -1,5 +1,7 @@
 # Kaitei Sentai
 
+![kaitei-sentai](https://cdn.myanimelist.net/images/manga/2/233700.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 海底戦隊

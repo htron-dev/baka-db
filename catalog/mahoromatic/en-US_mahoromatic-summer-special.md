@@ -1,5 +1,7 @@
 # Mahoromatic Summer Special
 
+![mahoromatic-summer-special](https://cdn.myanimelist.net/images/anime/1/631.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: まほろまてぃっく 夏の TV スペシャル

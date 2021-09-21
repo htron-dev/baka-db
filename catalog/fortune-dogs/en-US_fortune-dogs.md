@@ -1,5 +1,7 @@
 # Fortune Dogs
 
+![fortune-dogs](https://cdn.myanimelist.net/images/anime/1440/108318.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ふぉうちゅんドッグす

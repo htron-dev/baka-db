@@ -1,5 +1,7 @@
 # Omae Umasou da na
 
+![omae-umasou-da-na](https://cdn.myanimelist.net/images/anime/11/27167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おまえうまそうだな

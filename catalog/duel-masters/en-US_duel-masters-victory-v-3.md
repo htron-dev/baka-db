@@ -1,5 +1,7 @@
 # Duel Masters Victory V3
 
+![duel-masters-victory-v-3](https://cdn.myanimelist.net/images/anime/1264/105194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デュエル・マスターズ ビクトリー V3

@@ -1,5 +1,7 @@
 # Hitsugi no Chaika Bangai-hen
 
+![hitsugi-no-chaika-bangai-hen](https://cdn.myanimelist.net/images/manga/1/165219.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 棺姫のチャイカ 番外編

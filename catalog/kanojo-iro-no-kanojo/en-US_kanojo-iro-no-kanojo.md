@@ -1,5 +1,7 @@
 # Kanojo-iro no Kanojo
 
+![kanojo-iro-no-kanojo](https://cdn.myanimelist.net/images/manga/1/205810.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

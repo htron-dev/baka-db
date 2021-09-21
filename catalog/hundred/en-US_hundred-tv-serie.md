@@ -1,5 +1,7 @@
 # Hundred
 
+![hundred](https://cdn.myanimelist.net/images/anime/3/78858.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハンドレッド

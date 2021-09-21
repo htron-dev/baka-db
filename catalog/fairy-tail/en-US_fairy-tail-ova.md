@@ -1,5 +1,7 @@
 # Fairy Tail OVA
 
+![fairy-tail-ova](https://cdn.myanimelist.net/images/anime/10/65661.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: フェアリーテイル OVA

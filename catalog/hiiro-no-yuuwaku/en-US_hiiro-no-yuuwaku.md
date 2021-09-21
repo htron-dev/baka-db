@@ -1,5 +1,7 @@
 # Hiiro no Yuuwaku
 
+![hiiro-no-yuuwaku](https://cdn.myanimelist.net/images/manga/2/33839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 緋色の誘惑

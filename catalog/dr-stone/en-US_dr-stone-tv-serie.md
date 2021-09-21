@@ -1,5 +1,7 @@
 # Dr. Stone
 
+![dr-stone](https://cdn.myanimelist.net/images/anime/1613/102576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ドクターストーン

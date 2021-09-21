@@ -1,5 +1,7 @@
 # Gun &amp; Heaven
 
+![gun-amp-heaven](https://cdn.myanimelist.net/images/manga/2/200474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

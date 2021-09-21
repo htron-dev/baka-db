@@ -1,5 +1,7 @@
 # Manga Reportage: Chuunen Doutei
 
+![manga-reportage-chuunen-doutei](https://cdn.myanimelist.net/images/manga/3/222083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Masou Gakuen HxH
 
+![masou-gakuen-hx-h](https://cdn.myanimelist.net/images/manga/2/210964.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 85

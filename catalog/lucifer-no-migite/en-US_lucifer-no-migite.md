@@ -1,5 +1,7 @@
 # Lucifer no Migite
 
+![lucifer-no-migite](https://cdn.myanimelist.net/images/manga/2/110209.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

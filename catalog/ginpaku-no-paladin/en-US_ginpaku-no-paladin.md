@@ -1,5 +1,7 @@
 # Ginpaku no Paladin
 
+![ginpaku-no-paladin](https://cdn.myanimelist.net/images/manga/2/161266.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

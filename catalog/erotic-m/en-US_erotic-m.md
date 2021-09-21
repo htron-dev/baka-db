@@ -1,5 +1,7 @@
 # Erotic M
 
+![erotic-m](https://cdn.myanimelist.net/images/manga/2/36954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

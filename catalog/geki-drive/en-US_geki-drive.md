@@ -1,5 +1,7 @@
 # Geki Drive
 
+![geki-drive](https://cdn.myanimelist.net/images/anime/2/83117.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ゲキドライヴ

@@ -1,5 +1,7 @@
 # Katayoku no Labyrinth
 
+![katayoku-no-labyrinth](https://cdn.myanimelist.net/images/manga/3/166746.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 58

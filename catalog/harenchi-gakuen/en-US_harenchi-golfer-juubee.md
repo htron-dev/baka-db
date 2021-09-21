@@ -1,5 +1,7 @@
 # Harenchi Golfer Juubee
 
+![harenchi-golfer-juubee](https://cdn.myanimelist.net/images/manga/2/196448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

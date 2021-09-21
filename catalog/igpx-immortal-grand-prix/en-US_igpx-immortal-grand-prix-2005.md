@@ -1,5 +1,7 @@
 # IGPX: Immortal Grand Prix (2005)
 
+![igpx-immortal-grand-prix-2005](https://cdn.myanimelist.net/images/anime/9/5176.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: IGPX -Immortal Grand Prix-

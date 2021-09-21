@@ -1,5 +1,7 @@
 # Date A Live III
 
+![date-a-live-iii](https://cdn.myanimelist.net/images/anime/1055/100468.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デート・ア・ライブ Ⅲ

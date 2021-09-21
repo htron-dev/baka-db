@@ -1,5 +1,7 @@
 # Tropical-Rouge! Precure
 
+![tropical-rouge-precure](https://cdn.myanimelist.net/images/anime/1184/110907.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: トロピカル～ジュ！プリキュア
 -   **start-date**: 2021-02-28

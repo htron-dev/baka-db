@@ -1,5 +1,7 @@
 # Akechi Shounen no Karei Naru Jikenbo
 
+![akechi-shounen-no-karei-naru-jikenbo](https://cdn.myanimelist.net/images/manga/2/28552.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Mourning Bride
 
+![mourning-bride](https://cdn.myanimelist.net/images/manga/2/205752.jpg)
+
 -   **type**: manga
 -   **original-name**: Mouring Bride
 -   **start-date**: 2017-05-17

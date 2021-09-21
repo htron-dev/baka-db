@@ -1,5 +1,7 @@
 # Hadaka no Banri-kun
 
+![hadaka-no-banri-kun](https://cdn.myanimelist.net/images/manga/2/221484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

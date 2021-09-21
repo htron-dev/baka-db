@@ -1,5 +1,7 @@
 # Daites-ryou Koubouki
 
+![daites-ryou-koubouki](https://cdn.myanimelist.net/images/manga/2/197764.jpg)
+
 -   **type**: manga
 -   **original-name**: ダィテス領攻防記
 -   **start-date**: 2016-11-16

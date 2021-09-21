@@ -1,5 +1,7 @@
 # Kiki to Lala no Hoshi no Dance Shoes
 
+![kiki-to-lala-no-hoshi-no-dance-shoes](https://cdn.myanimelist.net/images/anime/2/70475.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララの星のダンスシューズ

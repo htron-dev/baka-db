@@ -1,5 +1,7 @@
 # Koibito wo Kudoku Houhou
 
+![koibito-wo-kudoku-houhou](https://cdn.myanimelist.net/images/manga/1/248063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

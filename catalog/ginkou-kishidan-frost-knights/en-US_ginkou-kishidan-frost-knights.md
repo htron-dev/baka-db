@@ -1,5 +1,7 @@
 # Ginkou Kishidan: Frost Knights
 
+![ginkou-kishidan-frost-knights](https://cdn.myanimelist.net/images/manga/3/160502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 銀光騎士団 ─ フロストナイツ ─

@@ -1,5 +1,7 @@
 # Lupin III: $1 Money Wars
 
+![lupin-iii-1-money-wars](https://cdn.myanimelist.net/images/anime/3/67119.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 1$マネーウォーズ

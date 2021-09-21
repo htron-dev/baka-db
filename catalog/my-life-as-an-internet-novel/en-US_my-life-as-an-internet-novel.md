@@ -1,5 +1,7 @@
 # My Life as an Internet Novel
 
+![my-life-as-an-internet-novel](https://cdn.myanimelist.net/images/manga/2/234083.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 인소의 법칙
 -   **start-date**: 2019-04-01

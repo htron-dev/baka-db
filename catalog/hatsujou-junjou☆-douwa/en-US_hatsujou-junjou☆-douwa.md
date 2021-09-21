@@ -1,5 +1,7 @@
 # Hatsujou Junjou☆Douwa
 
+![hatsujou-junjou☆-douwa](https://cdn.myanimelist.net/images/manga/2/130337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

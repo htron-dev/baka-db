@@ -1,5 +1,7 @@
 # GP Gakuen Seitokai Shikkoubu
 
+![gp-gakuen-seitokai-shikkoubu](https://cdn.myanimelist.net/images/manga/1/38272.jpg)
+
 -   **type**: manga
 -   **original-name**: GP 学園生徒会執行部
 -   **start-date**: 2008-01-29

@@ -1,5 +1,7 @@
 # Kurenai Niou
 
+![kurenai-niou](https://cdn.myanimelist.net/images/manga/1/24883.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

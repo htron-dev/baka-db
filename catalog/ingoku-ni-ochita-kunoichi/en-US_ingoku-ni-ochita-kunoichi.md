@@ -1,5 +1,7 @@
 # Ingoku ni Ochita Kunoichi
 
+![ingoku-ni-ochita-kunoichi](https://cdn.myanimelist.net/images/manga/2/199361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫獄に堕ちたくノ一

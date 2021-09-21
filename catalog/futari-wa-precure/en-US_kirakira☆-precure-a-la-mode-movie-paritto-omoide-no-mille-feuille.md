@@ -1,5 +1,7 @@
 # Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!
 
+![kirakira☆-precure-a-la-mode-movie-paritto-omoide-no-mille-feuille](https://cdn.myanimelist.net/images/anime/6/86547.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画キラキラ ☆ プリキュアアラモード パリッと！想い出のミルフィーユ！

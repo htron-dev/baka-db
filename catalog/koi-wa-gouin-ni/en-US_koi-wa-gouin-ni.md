@@ -1,5 +1,7 @@
 # Koi wa Gouin ni
 
+![koi-wa-gouin-ni](https://cdn.myanimelist.net/images/manga/1/247072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋は強引に

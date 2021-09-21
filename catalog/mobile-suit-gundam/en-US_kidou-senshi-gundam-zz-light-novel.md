@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam ZZ
 
+![kidou-senshi-gundam-zz](https://cdn.myanimelist.net/images/manga/1/148101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 機動戦士ガンダム ZZ

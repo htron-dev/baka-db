@@ -1,5 +1,7 @@
 # SD Gundam Sangokuden Brave Battle Warriors
 
+![sd-gundam-sangokuden-brave-battle-warriors](https://cdn.myanimelist.net/images/anime/6/21471.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: SD ガンダム三国伝 Brave Battle Warriors

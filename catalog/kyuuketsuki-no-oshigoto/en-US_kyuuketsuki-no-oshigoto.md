@@ -1,5 +1,7 @@
 # Kyuuketsuki no Oshigoto
 
+![kyuuketsuki-no-oshigoto](https://cdn.myanimelist.net/images/manga/1/164324.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 吸血鬼のおしごと

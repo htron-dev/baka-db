@@ -1,5 +1,7 @@
 # Mahoutsukai Syd &amp; Lid
 
+![mahoutsukai-syd-amp-lid](https://cdn.myanimelist.net/images/manga/3/31587.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 魔術使いシド＆リドシ

@@ -1,5 +1,7 @@
 # Maiko-san Chi no Makanai-san
 
+![maiko-san-chi-no-makanai-san](https://cdn.myanimelist.net/images/anime/1355/111545.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 舞妓さんちのまかないさん

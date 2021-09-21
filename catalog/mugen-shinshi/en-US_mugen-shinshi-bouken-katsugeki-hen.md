@@ -1,5 +1,7 @@
 # Mugen Shinshi: Bouken Katsugeki-hen
 
+![mugen-shinshi-bouken-katsugeki-hen](https://cdn.myanimelist.net/images/anime/1138/94447.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 夢幻紳士　冒険活劇編

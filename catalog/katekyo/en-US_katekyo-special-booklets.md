@@ -1,5 +1,7 @@
 # Katekyo! Special Booklets
 
+![katekyo-special-booklets](https://cdn.myanimelist.net/images/manga/1/64245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Hirasaka Hinako ga Erokawaii Koto wo Ore dake ga Shitteiru.
 
+![hirasaka-hinako-ga-erokawaii-koto-wo-ore-dake-ga-shitteiru](https://cdn.myanimelist.net/images/manga/2/232192.jpg)
+
 -   **type**: manga
 -   **original-name**: 比羅坂日菜子がエロかわいいことを俺だけが知っている。
 -   **start-date**: 2019-04-27

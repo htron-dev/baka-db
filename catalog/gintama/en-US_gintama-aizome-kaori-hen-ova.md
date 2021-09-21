@@ -1,5 +1,7 @@
 # Gintama°: Aizome Kaori-hen
 
+![gintama-aizome-kaori-hen](https://cdn.myanimelist.net/images/anime/8/79704.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 銀魂　愛染香篇

@@ -1,5 +1,7 @@
 # Metal Witch Sisters
 
+![metal-witch-sisters](https://cdn.myanimelist.net/images/manga/2/135613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: メタルうぃっちシスターズ

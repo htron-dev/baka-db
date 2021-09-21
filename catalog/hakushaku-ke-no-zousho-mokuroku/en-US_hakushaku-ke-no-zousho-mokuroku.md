@@ -1,5 +1,7 @@
 # Hakushaku-ke no Zousho Mokuroku
 
+![hakushaku-ke-no-zousho-mokuroku](https://cdn.myanimelist.net/images/manga/1/151120.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 伯爵家の蔵書目録
 -   **start-date**: 2015-03-04

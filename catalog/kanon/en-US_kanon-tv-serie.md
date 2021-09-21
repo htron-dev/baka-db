@@ -1,5 +1,7 @@
 # Kanon
 
+![kanon](https://cdn.myanimelist.net/images/anime/1/144.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: カノン

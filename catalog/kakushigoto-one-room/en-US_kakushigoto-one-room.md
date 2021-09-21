@@ -1,5 +1,7 @@
 # Kakushigoto One Room
 
+![kakushigoto-one-room](https://cdn.myanimelist.net/images/manga/2/223804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

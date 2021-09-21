@@ -1,5 +1,7 @@
 # Funky Yankee Baby-kun
 
+![funky-yankee-baby-kun](https://cdn.myanimelist.net/images/manga/2/239130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

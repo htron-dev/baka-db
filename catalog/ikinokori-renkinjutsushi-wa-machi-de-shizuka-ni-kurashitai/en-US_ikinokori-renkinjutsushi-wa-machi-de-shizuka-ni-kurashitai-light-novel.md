@@ -1,5 +1,7 @@
 # Ikinokori Renkinjutsushi wa Machi de Shizuka ni Kurashitai
 
+![ikinokori-renkinjutsushi-wa-machi-de-shizuka-ni-kurashitai](https://cdn.myanimelist.net/images/manga/3/204939.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 生き残り錬金術師は街で静かに暮らしたい
 -   **start-date**: 2017-09-30

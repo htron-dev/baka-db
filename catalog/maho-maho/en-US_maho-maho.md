@@ -1,5 +1,7 @@
 # Maho Maho
 
+![maho-maho](https://cdn.myanimelist.net/images/manga/3/144343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

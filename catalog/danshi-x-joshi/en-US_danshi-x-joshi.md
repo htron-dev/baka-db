@@ -1,5 +1,7 @@
 # Danshi x Joshi
 
+![danshi-x-joshi](https://cdn.myanimelist.net/images/manga/3/12711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 男子 × 女子

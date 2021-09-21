@@ -1,5 +1,7 @@
 # Kare wa Otoko to Shita Koto Nai.
 
+![kare-wa-otoko-to-shita-koto-nai](https://cdn.myanimelist.net/images/manga/2/226058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

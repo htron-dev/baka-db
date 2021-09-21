@@ -1,5 +1,7 @@
 # Hi no Tori (1967)
 
+![hi-no-tori-1967](https://cdn.myanimelist.net/images/manga/3/159419.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 19

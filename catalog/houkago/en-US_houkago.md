@@ -1,5 +1,7 @@
 # Houkago
 
+![houkago](https://cdn.myanimelist.net/images/manga/2/82864.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: ほうかご

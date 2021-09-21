@@ -1,5 +1,7 @@
 # GP Gakuen Jouhou Shoribu
 
+![gp-gakuen-jouhou-shoribu](https://cdn.myanimelist.net/images/manga/3/1478.jpg)
+
 -   **type**: manga
 -   **original-name**: ＧＰ学園情報処理部
 -   **start-date**: 2005-04-30

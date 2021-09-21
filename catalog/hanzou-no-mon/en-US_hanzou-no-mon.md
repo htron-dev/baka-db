@@ -1,5 +1,7 @@
 # Hanzou no Mon
 
+![hanzou-no-mon](https://cdn.myanimelist.net/images/manga/2/180599.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 62

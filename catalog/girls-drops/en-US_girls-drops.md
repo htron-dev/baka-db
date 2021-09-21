@@ -1,5 +1,7 @@
 # Girls Drops
 
+![girls-drops](https://cdn.myanimelist.net/images/manga/2/160720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

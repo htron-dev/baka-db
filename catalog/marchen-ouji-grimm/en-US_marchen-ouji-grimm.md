@@ -1,5 +1,7 @@
 # Märchen Ouji Grimm
 
+![marchen-ouji-grimm](https://cdn.myanimelist.net/images/manga/2/184439.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Kurohyou to 16-sai
 
+![kurohyou-to-16-sai](https://cdn.myanimelist.net/images/manga/3/194824.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Digital Devil Story: Megami Tensei
 
+![digital-devil-story-megami-tensei](https://cdn.myanimelist.net/images/anime/1015/90699.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デジタル・デビル物語〈ストーリ〉 女神転生

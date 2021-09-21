@@ -1,5 +1,7 @@
 # Kenshi wo Mezashite Nyuugaku shita no ni Mahou Tekisei 9999 nan desu kedo!?
 
+![kenshi-wo-mezashite-nyuugaku-shita-no-ni-mahou-tekisei-9999-nan-desu-kedo](https://cdn.myanimelist.net/images/manga/2/210475.jpg)
+
 -   **type**: manga
 -   **original-name**: 剣士を目指して入学したのに魔法適性 9999 なんですけど!?
 -   **start-date**: 2017-12-09

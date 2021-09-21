@@ -1,5 +1,7 @@
 # Kizuna
 
+![kizuna](https://cdn.myanimelist.net/images/anime/10/8172.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: KIZUNA ～絆～

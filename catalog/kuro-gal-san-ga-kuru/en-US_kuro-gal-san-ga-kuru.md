@@ -1,5 +1,7 @@
 # Kuro Gal-san ga Kuru!
 
+![kuro-gal-san-ga-kuru](https://cdn.myanimelist.net/images/manga/3/245886.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒ギャルさんが来る！
 -   **start-date**: 2020-02-07

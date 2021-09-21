@@ -1,5 +1,7 @@
 # Kanojo wa Chakui de Toroketai
 
+![kanojo-wa-chakui-de-toroketai](https://cdn.myanimelist.net/images/manga/3/206593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

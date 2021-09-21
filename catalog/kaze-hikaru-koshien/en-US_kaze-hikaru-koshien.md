@@ -1,5 +1,7 @@
 # Kaze Hikaru: Koshien
 
+![kaze-hikaru-koshien](https://cdn.myanimelist.net/images/manga/2/98249.jpg)
+
 -   **type**: manga
 -   **volumes**: 44
 -   **original-name**: 風光る～甲子園～

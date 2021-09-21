@@ -1,5 +1,7 @@
 # Deep Insanity
 
+![deep-insanity](https://cdn.myanimelist.net/images/manga/3/228104.jpg)
+
 -   **type**: manga
 -   **original-name**: Deep Insanity
 -   **start-date**: 2020-01-24

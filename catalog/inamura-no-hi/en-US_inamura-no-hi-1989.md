@@ -1,5 +1,7 @@
 # Inamura no Hi (1989)
 
+![inamura-no-hi-1989](https://cdn.myanimelist.net/images/anime/1948/99410.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 稲むらの火

@@ -1,5 +1,7 @@
 # Doukyuusei no Macho-kun
 
+![doukyuusei-no-macho-kun](https://cdn.myanimelist.net/images/manga/3/187250.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

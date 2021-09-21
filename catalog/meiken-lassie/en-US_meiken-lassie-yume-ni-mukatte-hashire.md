@@ -1,5 +1,7 @@
 # Meiken Lassie: Yume ni Mukatte Hashire!
 
+![meiken-lassie-yume-ni-mukatte-hashire](https://cdn.myanimelist.net/images/anime/3/85785.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名犬ラッシー 夢に向かって走れ!

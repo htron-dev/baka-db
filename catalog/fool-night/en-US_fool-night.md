@@ -1,5 +1,7 @@
 # Fool Night
 
+![fool-night](https://cdn.myanimelist.net/images/manga/2/242975.jpg)
+
 -   **type**: manga
 -   **original-name**: フールナイト
 -   **start-date**: 2020-11-13

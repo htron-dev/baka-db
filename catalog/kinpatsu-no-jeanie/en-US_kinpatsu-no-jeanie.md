@@ -1,5 +1,7 @@
 # Kinpatsu no Jeanie
 
+![kinpatsu-no-jeanie](https://cdn.myanimelist.net/images/anime/11/58201.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 金髪のジェニー

@@ -1,5 +1,7 @@
 # Honoo no Nobunaga: Sengoku Gaiden
 
+![honoo-no-nobunaga-sengoku-gaiden](https://cdn.myanimelist.net/images/manga/3/102129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

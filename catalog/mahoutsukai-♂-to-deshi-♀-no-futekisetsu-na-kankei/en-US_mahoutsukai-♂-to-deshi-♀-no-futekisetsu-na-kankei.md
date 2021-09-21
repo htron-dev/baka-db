@@ -1,5 +1,7 @@
 # Mahoutsukai (♂) to Deshi (♀) no Futekisetsu na Kankei
 
+![mahoutsukai-♂-to-deshi-♀-no-futekisetsu-na-kankei](https://cdn.myanimelist.net/images/manga/2/208257.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

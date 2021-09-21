@@ -1,5 +1,7 @@
 # Golden Kamuy 3rd Season
 
+![golden-kamuy-3rd-season](https://cdn.myanimelist.net/images/anime/1763/108108.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゴールデンカムイ

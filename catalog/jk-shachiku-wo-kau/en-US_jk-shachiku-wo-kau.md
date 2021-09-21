@@ -1,5 +1,7 @@
 # JK, Shachiku wo Kau
 
+![jk-shachiku-wo-kau](https://cdn.myanimelist.net/images/manga/2/222213.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

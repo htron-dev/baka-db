@@ -1,5 +1,7 @@
 # Karuizawa Syndrome Sprout
 
+![karuizawa-syndrome-sprout](https://cdn.myanimelist.net/images/manga/1/38855.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 軽井沢シンドローム SPROUT

@@ -1,5 +1,7 @@
 # Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!
 
+![kaitou-tenshi-twin-angel-kyun-kyun☆-tokimeki-paradise](https://cdn.myanimelist.net/images/anime/11/30254.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 快盗天使ツインエンジェル 〜キュンキュン ☆ ときめきパラダイス!!〜

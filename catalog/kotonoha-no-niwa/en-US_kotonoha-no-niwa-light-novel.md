@@ -1,5 +1,7 @@
 # Kotonoha no Niwa
 
+![kotonoha-no-niwa](https://cdn.myanimelist.net/images/manga/3/207391.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

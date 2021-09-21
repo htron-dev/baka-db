@@ -1,5 +1,7 @@
 # Kikaijikake no Merdina
 
+![kikaijikake-no-merdina](https://cdn.myanimelist.net/images/manga/2/116797.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

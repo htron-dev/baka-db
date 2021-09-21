@@ -1,5 +1,7 @@
 # Kamisama no Otawamure
 
+![kamisama-no-otawamure](https://cdn.myanimelist.net/images/manga/2/208721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

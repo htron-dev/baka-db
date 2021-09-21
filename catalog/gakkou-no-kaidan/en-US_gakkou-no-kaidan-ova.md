@@ -1,5 +1,7 @@
 # Gakkou no Kaidan (OVA)
 
+![gakkou-no-kaidan-ova](https://cdn.myanimelist.net/images/anime/8/65195.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 学校の怪談

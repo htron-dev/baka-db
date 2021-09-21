@@ -1,5 +1,7 @@
 # Under the Rose
 
+![under-the-rose](https://cdn.myanimelist.net/images/manga/1/180786.jpg)
+
 -   **type**: manga
 -   **original-name**: Under the Rose
 

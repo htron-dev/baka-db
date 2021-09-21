@@ -1,5 +1,7 @@
 # Lily
 
+![lily](https://cdn.myanimelist.net/images/manga/3/151405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Lily

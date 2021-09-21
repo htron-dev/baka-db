@@ -1,5 +1,7 @@
 # Love Note: Ore dake ga Shitteiru Heroine Route no Kouryakuhou
 
+![love-note-ore-dake-ga-shitteiru-heroine-route-no-kouryakuhou](https://cdn.myanimelist.net/images/manga/3/207246.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

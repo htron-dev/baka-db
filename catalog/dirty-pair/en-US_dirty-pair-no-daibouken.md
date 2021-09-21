@@ -1,5 +1,7 @@
 # Dirty Pair no Daibouken
 
+![dirty-pair-no-daibouken](https://cdn.myanimelist.net/images/manga/2/70983.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ダーティペアの大冒険

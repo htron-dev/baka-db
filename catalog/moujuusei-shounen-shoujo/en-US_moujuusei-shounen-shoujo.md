@@ -1,5 +1,7 @@
 # Moujuusei Shounen Shoujo
 
+![moujuusei-shounen-shoujo](https://cdn.myanimelist.net/images/manga/1/195111.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

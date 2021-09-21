@@ -1,5 +1,7 @@
 # Haha wo Tazunete Sanzenri (Movie)
 
+![haha-wo-tazunete-sanzenri-movie](https://cdn.myanimelist.net/images/anime/5/80489.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 母をたずねて三千里

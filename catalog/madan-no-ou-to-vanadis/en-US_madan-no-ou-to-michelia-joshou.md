@@ -1,5 +1,7 @@
 # Madan no Ou to Michelia: Joshou
 
+![madan-no-ou-to-michelia-joshou](https://cdn.myanimelist.net/images/manga/3/245724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

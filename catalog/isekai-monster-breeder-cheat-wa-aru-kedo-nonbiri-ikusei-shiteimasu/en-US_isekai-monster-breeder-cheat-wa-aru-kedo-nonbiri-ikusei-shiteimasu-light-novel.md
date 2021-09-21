@@ -1,5 +1,7 @@
 # Isekai Monster Breeder: Cheat wa Aru kedo, Nonbiri Ikusei Shiteimasu
 
+![isekai-monster-breeder-cheat-wa-aru-kedo-nonbiri-ikusei-shiteimasu](https://cdn.myanimelist.net/images/manga/3/180593.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界モンスターブリーダー~チートはあるけど、のんびり育成しています~
 -   **start-date**: 2016-04-15

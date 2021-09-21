@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai: Tsumihoroboshi-hen
 
+![higurashi-no-naku-koro-ni-kai-tsumihoroboshi-hen](https://cdn.myanimelist.net/images/manga/3/1019.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

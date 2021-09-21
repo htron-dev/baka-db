@@ -1,5 +1,7 @@
 # Haikei Heika, 2-dome no Ouhi wa Okotowari!
 
+![haikei-heika-2-dome-no-ouhi-wa-okotowari](https://cdn.myanimelist.net/images/manga/2/240813.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

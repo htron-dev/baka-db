@@ -1,5 +1,7 @@
 # Legendary Kang Do-Young
 
+![legendary-kang-do-young](https://cdn.myanimelist.net/images/manga/3/14622.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 22

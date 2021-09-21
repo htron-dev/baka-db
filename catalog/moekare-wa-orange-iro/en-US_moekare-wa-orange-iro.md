@@ -1,5 +1,7 @@
 # Moekare wa Orange-iro
 
+![moekare-wa-orange-iro](https://cdn.myanimelist.net/images/manga/3/194187.jpg)
+
 -   **type**: manga
 -   **original-name**: モエカレはオレンジ色
 -   **start-date**: 2016-05-24

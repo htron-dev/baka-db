@@ -1,5 +1,7 @@
 # Hatsumono Musume Torimonochou: Samurai Komachi to Hatsujou Nyan Musume
 
+![hatsumono-musume-torimonochou-samurai-komachi-to-hatsujou-nyan-musume](https://cdn.myanimelist.net/images/manga/1/169751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 初物娘捕物帖~侍小町と発情にゃん娘~

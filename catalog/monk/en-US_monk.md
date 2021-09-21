@@ -1,5 +1,7 @@
 # Monk!
 
+![monk](https://cdn.myanimelist.net/images/manga/3/19152.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 몽크!

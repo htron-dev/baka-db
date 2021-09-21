@@ -1,5 +1,7 @@
 # Kanojo no Yasei ga Te ni Oenai
 
+![kanojo-no-yasei-ga-te-ni-oenai](https://cdn.myanimelist.net/images/manga/2/227297.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

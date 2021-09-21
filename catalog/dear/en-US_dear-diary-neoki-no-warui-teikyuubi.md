@@ -1,5 +1,7 @@
 # Dear Diary: Neoki no Warui Teikyuubi
 
+![dear-diary-neoki-no-warui-teikyuubi](https://cdn.myanimelist.net/images/manga/3/162507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

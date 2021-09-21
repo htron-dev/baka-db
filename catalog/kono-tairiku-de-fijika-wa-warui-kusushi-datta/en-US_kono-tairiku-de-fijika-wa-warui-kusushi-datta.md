@@ -1,5 +1,7 @@
 # Kono Tairiku de, Fijika wa Warui Kusushi datta
 
+![kono-tairiku-de-fijika-wa-warui-kusushi-datta](https://cdn.myanimelist.net/images/manga/3/193224.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: この大陸で、フィジカは悪い薬師だった

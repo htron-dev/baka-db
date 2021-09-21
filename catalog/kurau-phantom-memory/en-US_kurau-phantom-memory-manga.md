@@ -1,5 +1,7 @@
 # KURAU Phantom Memory
 
+![kurau-phantom-memory](https://cdn.myanimelist.net/images/manga/2/38472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

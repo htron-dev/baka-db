@@ -1,5 +1,7 @@
 # Haigo ni Megane
 
+![haigo-ni-megane](https://cdn.myanimelist.net/images/manga/1/196161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

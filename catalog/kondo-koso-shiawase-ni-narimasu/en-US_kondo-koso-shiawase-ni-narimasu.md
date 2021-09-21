@@ -1,5 +1,7 @@
 # Kondo koso Shiawase ni Narimasu!
 
+![kondo-koso-shiawase-ni-narimasu](https://cdn.myanimelist.net/images/manga/1/221740.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

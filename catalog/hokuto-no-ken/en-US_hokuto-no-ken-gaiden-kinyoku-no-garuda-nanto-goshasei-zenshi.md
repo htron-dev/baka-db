@@ -1,5 +1,7 @@
 # Hokuto no Ken Gaiden: Kinyoku no Garuda - Nanto Goshasei Zenshi
 
+![hokuto-no-ken-gaiden-kinyoku-no-garuda-nanto-goshasei-zenshi](https://cdn.myanimelist.net/images/manga/2/194912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

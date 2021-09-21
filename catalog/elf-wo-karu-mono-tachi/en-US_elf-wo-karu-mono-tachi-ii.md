@@ -1,5 +1,7 @@
 # Elf wo Karu Mono-tachi II
 
+![elf-wo-karu-mono-tachi-ii](https://cdn.myanimelist.net/images/anime/1919/92736.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: エルフを狩るモノたち II

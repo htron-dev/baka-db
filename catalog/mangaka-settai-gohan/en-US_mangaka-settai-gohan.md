@@ -1,5 +1,7 @@
 # Mangaka Settai Gohan
 
+![mangaka-settai-gohan](https://cdn.myanimelist.net/images/manga/1/205459.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

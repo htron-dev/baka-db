@@ -1,5 +1,7 @@
 # Dante Shinkyoku
 
+![dante-shinkyoku](https://cdn.myanimelist.net/images/manga/2/18728.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ダンテ神曲

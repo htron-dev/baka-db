@@ -1,5 +1,7 @@
 # Kanojo wa Aitsu no Osumitsuki
 
+![kanojo-wa-aitsu-no-osumitsuki](https://cdn.myanimelist.net/images/manga/2/144801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

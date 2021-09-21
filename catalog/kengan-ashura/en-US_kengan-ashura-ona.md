@@ -1,5 +1,7 @@
 # Kengan Ashura
 
+![kengan-ashura](https://cdn.myanimelist.net/images/anime/1421/100770.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ケンガンアシュラ

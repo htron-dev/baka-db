@@ -1,5 +1,7 @@
 # Dennou Sentai Voogie's★Angel Gaiden: Susume! Super★Angels!
 
+![dennou-sentai-voogies★-angel-gaiden-susume-super★-angels](https://cdn.myanimelist.net/images/anime/2/61707.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 電脳戦隊ヴギィ'ズ ★ エンジェル外伝 進め! スーパー ★ エンジェルス!

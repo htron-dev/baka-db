@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru: Haru Specials
 
+![maria-sama-ga-miteru-haru-specials](https://cdn.myanimelist.net/images/anime/8/5782.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: マリア様がみてる～春～

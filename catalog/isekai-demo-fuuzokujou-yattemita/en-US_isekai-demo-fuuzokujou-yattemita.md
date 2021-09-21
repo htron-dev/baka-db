@@ -1,5 +1,7 @@
 # Isekai demo Fuuzokujou Yattemita
 
+![isekai-demo-fuuzokujou-yattemita](https://cdn.myanimelist.net/images/manga/2/238457.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でも風俗嬢やってみた
 -   **start-date**: 2019-03-01

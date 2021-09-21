@@ -1,5 +1,7 @@
 # Einstein no Kaibutsu
 
+![einstein-no-kaibutsu](https://cdn.myanimelist.net/images/manga/3/186770.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

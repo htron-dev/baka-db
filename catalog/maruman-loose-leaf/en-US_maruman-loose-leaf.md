@@ -1,5 +1,7 @@
 # Maruman Loose Leaf
 
+![maruman-loose-leaf](https://cdn.myanimelist.net/images/anime/1192/96919.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Maruman Loose Leaf

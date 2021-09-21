@@ -1,5 +1,7 @@
 # Damasarete mo Suki na Hito
 
+![damasarete-mo-suki-na-hito](https://cdn.myanimelist.net/images/manga/3/2533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

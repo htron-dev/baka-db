@@ -1,5 +1,7 @@
 # Lost Boys
 
+![lost-boys](https://cdn.myanimelist.net/images/manga/5/98063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Dokidoki Majo Shinpan!
 
+![dokidoki-majo-shinpan](https://cdn.myanimelist.net/images/manga/1/177354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Little Busters!: End of Refrain
 
+![little-busters-end-of-refrain](https://cdn.myanimelist.net/images/manga/2/144265.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls: Shuffle!! Comic Anthology
 
+![the-i-dolm-ster-cinderella-girls-shuffle-comic-anthology](https://cdn.myanimelist.net/images/manga/2/120159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

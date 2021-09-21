@@ -1,5 +1,7 @@
 # Kabushiki Kaisha Zoo
 
+![kabushiki-kaisha-zoo](https://cdn.myanimelist.net/images/anime/9/71660.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 株式会社 ZOO

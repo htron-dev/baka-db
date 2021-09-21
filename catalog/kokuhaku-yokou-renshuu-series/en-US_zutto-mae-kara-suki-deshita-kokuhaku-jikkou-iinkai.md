@@ -1,5 +1,7 @@
 # Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai
 
+![zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai](https://cdn.myanimelist.net/images/anime/3/82121.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ずっと前から好きでした。～告白実行委員会～

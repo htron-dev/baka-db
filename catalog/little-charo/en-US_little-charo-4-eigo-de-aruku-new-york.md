@@ -1,5 +1,7 @@
 # Little Charo 4: Eigo de Aruku New York
 
+![little-charo-4-eigo-de-aruku-new-york](https://cdn.myanimelist.net/images/anime/1899/93780.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: リトル・チャロ 4 英語で歩くニューヨーク

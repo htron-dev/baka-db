@@ -1,5 +1,7 @@
 # Mega∞Colle: Megane Danshi Collection
 
+![mega∞-colle-megane-danshi-collection](https://cdn.myanimelist.net/images/manga/3/107977.jpg)
+
 -   **type**: manga
 -   **original-name**: メガ ∞ コレ ～メガネ男子コレクション～
 -   **start-date**: 2012-04-24

@@ -1,5 +1,7 @@
 # Moero Arthur: Hakuba no Ouji
 
+![moero-arthur-hakuba-no-ouji](https://cdn.myanimelist.net/images/anime/13/47187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 燃えろアーサー・白馬の王子

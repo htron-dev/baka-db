@@ -1,5 +1,7 @@
 # Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina
 
+![happiness-charge-pre-cure-movie-ningyou-no-kuni-no-ballerina](https://cdn.myanimelist.net/images/anime/13/64049.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画ハピネスチャージプリキュア！人形の国のバレリーナ

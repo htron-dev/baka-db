@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Guangming Jian
 
+![hong-mao-lan-tu-guangming-jian](https://cdn.myanimelist.net/images/anime/1848/98705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 79
 -   **original-name**: 虹猫蓝兔光明剑

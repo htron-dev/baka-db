@@ -1,5 +1,7 @@
 # High☆Speed! Movie: Free! Starting Days
 
+![high☆-speed-movie-free-starting-days](https://cdn.myanimelist.net/images/anime/8/76967.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ハイ ☆ スピード！ -Free! Starting Days-

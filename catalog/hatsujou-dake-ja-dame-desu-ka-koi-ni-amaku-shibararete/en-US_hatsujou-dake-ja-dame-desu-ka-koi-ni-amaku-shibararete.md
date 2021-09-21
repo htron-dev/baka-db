@@ -1,5 +1,7 @@
 # Hatsujou dake ja Dame desu ka? Koi ni Amaku Shibararete
 
+![hatsujou-dake-ja-dame-desu-ka-koi-ni-amaku-shibararete](https://cdn.myanimelist.net/images/manga/1/195073.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 発情だけじゃダメですか？～恋に甘く縛られて～

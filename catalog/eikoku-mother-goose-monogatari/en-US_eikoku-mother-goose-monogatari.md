@@ -1,5 +1,7 @@
 # Eikoku Mother Goose Monogatari
 
+![eikoku-mother-goose-monogatari](https://cdn.myanimelist.net/images/manga/2/80221.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 英国マザーグース物語

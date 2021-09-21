@@ -1,5 +1,7 @@
 # Dog Soldier
 
+![dog-soldier](https://cdn.myanimelist.net/images/anime/2/2581.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドッグソルジャー

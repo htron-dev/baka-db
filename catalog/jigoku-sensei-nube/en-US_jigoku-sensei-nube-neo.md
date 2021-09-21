@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube Neo
 
+![jigoku-sensei-nube-neo](https://cdn.myanimelist.net/images/manga/2/139909.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 118

@@ -1,5 +1,7 @@
 # Free! Movie 2: Timeless Medley - Yakusoku: Character Butai Aisatsu
 
+![free-movie-2-timeless-medley-yakusoku-character-butai-aisatsu](https://cdn.myanimelist.net/images/anime/1961/92778.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 劇場版 Free!-Timeless Medley- 約束 キャラクター舞台挨拶

@@ -1,5 +1,7 @@
 # Hitorigurashi no OL wo Kakimashita
 
+![hitorigurashi-no-ol-wo-kakimashita](https://cdn.myanimelist.net/images/manga/3/182648.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 150

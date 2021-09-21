@@ -1,5 +1,7 @@
 # Makaigaeri no Rettou Nouryokusha
 
+![makaigaeri-no-rettou-nouryokusha](https://cdn.myanimelist.net/images/manga/3/244963.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔界帰りの劣等能力者
 -   **start-date**: 2020-10-14

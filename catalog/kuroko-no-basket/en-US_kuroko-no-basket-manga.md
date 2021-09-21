@@ -1,5 +1,7 @@
 # Kuroko no Basket
 
+![kuroko-no-basket](https://cdn.myanimelist.net/images/manga/1/92071.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 276

@@ -1,5 +1,7 @@
 # Himitsu no Akko-chan
 
+![himitsu-no-akko-chan](https://cdn.myanimelist.net/images/anime/10/5225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 94
 -   **original-name**: ひみつのアッコちゃん

@@ -1,5 +1,7 @@
 # Dokkaebi Gamtu
 
+![dokkaebi-gamtu](https://cdn.myanimelist.net/images/anime/2/49139.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 도깨비 감투

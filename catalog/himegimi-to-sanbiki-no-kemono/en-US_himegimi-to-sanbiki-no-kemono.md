@@ -1,5 +1,7 @@
 # Himegimi to Sanbiki no Kemono
 
+![himegimi-to-sanbiki-no-kemono](https://cdn.myanimelist.net/images/manga/2/26255.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

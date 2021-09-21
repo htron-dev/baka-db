@@ -1,5 +1,7 @@
 # Hachi - Yakusoku no Inu
 
+![hachi-yakusoku-no-inu](https://cdn.myanimelist.net/images/manga/3/23558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

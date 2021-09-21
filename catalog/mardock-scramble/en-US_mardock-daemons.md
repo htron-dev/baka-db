@@ -1,5 +1,7 @@
 # Mardock Daemons
 
+![mardock-daemons](https://cdn.myanimelist.net/images/manga/3/216996.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

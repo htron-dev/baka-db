@@ -1,5 +1,7 @@
 # Iron Knight
 
+![iron-knight](https://cdn.myanimelist.net/images/manga/2/155705.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

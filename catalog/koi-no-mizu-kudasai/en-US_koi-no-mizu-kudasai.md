@@ -1,5 +1,7 @@
 # Koi no Mizu Kudasai
 
+![koi-no-mizu-kudasai](https://cdn.myanimelist.net/images/manga/2/174816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

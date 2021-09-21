@@ -1,5 +1,7 @@
 # Haikyuu!! Movie 4: Concept no Tatakai
 
+![haikyuu-movie-4-concept-no-tatakai](https://cdn.myanimelist.net/images/anime/3/86346.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! コンセプトの戦い

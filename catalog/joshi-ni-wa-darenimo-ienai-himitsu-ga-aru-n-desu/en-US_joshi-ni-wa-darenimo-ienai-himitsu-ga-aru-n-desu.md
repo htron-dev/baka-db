@@ -1,5 +1,7 @@
 # Joshi ni wa Darenimo Ienai Himitsu ga Aru n desu!
 
+![joshi-ni-wa-darenimo-ienai-himitsu-ga-aru-n-desu](https://cdn.myanimelist.net/images/manga/2/145225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 女子には誰にも言えない秘密があるんです！

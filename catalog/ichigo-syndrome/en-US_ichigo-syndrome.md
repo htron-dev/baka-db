@@ -1,5 +1,7 @@
 # Ichigo Syndrome
 
+![ichigo-syndrome](https://cdn.myanimelist.net/images/manga/1/247370.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

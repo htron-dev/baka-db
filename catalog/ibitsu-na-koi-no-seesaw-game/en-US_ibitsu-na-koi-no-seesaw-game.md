@@ -1,5 +1,7 @@
 # Ibitsu na Koi no Seesaw Game
 
+![ibitsu-na-koi-no-seesaw-game](https://cdn.myanimelist.net/images/manga/1/193252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

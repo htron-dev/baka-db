@@ -1,5 +1,7 @@
 # Kusatta Kyoushi no Houteishiki
 
+![kusatta-kyoushi-no-houteishiki](https://cdn.myanimelist.net/images/manga/1/3718.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 47

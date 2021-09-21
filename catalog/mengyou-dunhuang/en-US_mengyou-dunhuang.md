@@ -1,5 +1,7 @@
 # Mengyou Dunhuang
 
+![mengyou-dunhuang](https://cdn.myanimelist.net/images/anime/1611/108293.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 梦游敦煌

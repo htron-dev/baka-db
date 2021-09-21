@@ -1,5 +1,7 @@
 # Makai Toshi Hunter Series: Makai Toshi Shinjuku
 
+![makai-toshi-hunter-series-makai-toshi-shinjuku](https://cdn.myanimelist.net/images/manga/2/32223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

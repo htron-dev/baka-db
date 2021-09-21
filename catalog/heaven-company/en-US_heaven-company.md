@@ -1,5 +1,7 @@
 # Heaven Company
 
+![heaven-company](https://cdn.myanimelist.net/images/manga/3/23381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

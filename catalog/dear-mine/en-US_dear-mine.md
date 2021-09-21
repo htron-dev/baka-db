@@ -1,5 +1,7 @@
 # Dear Mine
 
+![dear-mine](https://cdn.myanimelist.net/images/manga/1/11227.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

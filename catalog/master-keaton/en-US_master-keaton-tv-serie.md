@@ -1,5 +1,7 @@
 # Master Keaton
 
+![master-keaton](https://cdn.myanimelist.net/images/anime/10/2817.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: マスターキートン

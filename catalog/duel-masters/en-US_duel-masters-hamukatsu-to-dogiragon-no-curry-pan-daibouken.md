@@ -1,5 +1,7 @@
 # Duel Masters: Hamukatsu to Dogiragon no Curry-pan Daibouken
 
+![duel-masters-hamukatsu-to-dogiragon-no-curry-pan-daibouken](https://cdn.myanimelist.net/images/anime/3/79187.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デュエル・マスターズ ハムカツとドギラゴンのカレーパン大冒険

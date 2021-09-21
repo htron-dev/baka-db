@@ -1,5 +1,7 @@
 # Final Fantasy VII: On the Way to a Smile - Episode: Denzel
 
+![final-fantasy-vii-on-the-way-to-a-smile-episode-denzel](https://cdn.myanimelist.net/images/anime/12/51623.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デンゼルを中心としたオリジナルアニメ

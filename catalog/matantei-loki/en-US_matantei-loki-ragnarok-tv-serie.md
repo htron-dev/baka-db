@@ -1,5 +1,7 @@
 # Matantei Loki Ragnarok
 
+![matantei-loki-ragnarok](https://cdn.myanimelist.net/images/anime/13/75300.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔探偵ロキ RAGNAROK

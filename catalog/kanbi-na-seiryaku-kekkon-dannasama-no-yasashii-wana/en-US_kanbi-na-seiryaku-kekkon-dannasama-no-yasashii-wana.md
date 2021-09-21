@@ -1,5 +1,7 @@
 # Kanbi na Seiryaku Kekkon: Dannasama no Yasashii Wana
 
+![kanbi-na-seiryaku-kekkon-dannasama-no-yasashii-wana](https://cdn.myanimelist.net/images/manga/2/193957.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

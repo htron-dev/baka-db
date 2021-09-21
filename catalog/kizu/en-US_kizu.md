@@ -1,5 +1,7 @@
 # Kizu
 
+![kizu](https://cdn.myanimelist.net/images/manga/2/33213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 傷口

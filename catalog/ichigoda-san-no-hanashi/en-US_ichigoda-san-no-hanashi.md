@@ -1,5 +1,7 @@
 # Ichigoda-san no Hanashi
 
+![ichigoda-san-no-hanashi](https://cdn.myanimelist.net/images/manga/2/162681.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

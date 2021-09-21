@@ -1,5 +1,7 @@
 # Kitsune no Oyome-chan
 
+![kitsune-no-oyome-chan](https://cdn.myanimelist.net/images/manga/2/229498.jpg)
+
 -   **type**: manga
 -   **original-name**: 狐のお嫁ちゃん
 -   **start-date**: 2016-04-26

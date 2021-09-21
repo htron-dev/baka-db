@@ -1,5 +1,7 @@
 # Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st
 
+![original-chronicle-mahou-shoujo-lyrical-nanoha-the-1st](https://cdn.myanimelist.net/images/manga/1/128047.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

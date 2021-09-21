@@ -1,5 +1,7 @@
 # Moetan
 
+![moetan](https://cdn.myanimelist.net/images/anime/4/21540.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: もえたん

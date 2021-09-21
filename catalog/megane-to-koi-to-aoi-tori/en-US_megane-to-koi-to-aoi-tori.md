@@ -1,5 +1,7 @@
 # Megane to Koi to Aoi Tori
 
+![megane-to-koi-to-aoi-tori](https://cdn.myanimelist.net/images/manga/3/117857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koisuru Career Woman: Toshishita Kareshi no Mitsuai ni Oborete
 
+![koisuru-career-woman-toshishita-kareshi-no-mitsuai-ni-oborete](https://cdn.myanimelist.net/images/manga/2/195184.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋するキャリアウーマン　年下彼氏の蜜愛に溺れて

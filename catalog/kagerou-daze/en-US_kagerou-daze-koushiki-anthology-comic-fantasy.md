@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Fantasy
 
+![kagerou-daze-koushiki-anthology-comic-fantasy](https://cdn.myanimelist.net/images/manga/2/186554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カゲロウデイズ公式アンソロジーコミック FANTASY

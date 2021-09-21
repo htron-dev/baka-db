@@ -1,5 +1,7 @@
 # Ibitsu no Amalgam
 
+![ibitsu-no-amalgam](https://cdn.myanimelist.net/images/manga/2/191479.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

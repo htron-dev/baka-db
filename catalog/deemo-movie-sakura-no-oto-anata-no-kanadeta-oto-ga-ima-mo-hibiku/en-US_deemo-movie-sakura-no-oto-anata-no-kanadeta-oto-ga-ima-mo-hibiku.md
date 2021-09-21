@@ -1,5 +1,7 @@
 # Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku
 
+![deemo-movie-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku](https://cdn.myanimelist.net/images/anime/1300/116573.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 DEEMO サクラノオト -あなたの奏でた音が, 今も響く-

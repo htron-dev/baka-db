@@ -1,5 +1,7 @@
 # Karuma no Folklore
 
+![karuma-no-folklore](https://cdn.myanimelist.net/images/manga/2/163976.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

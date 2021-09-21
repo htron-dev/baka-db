@@ -1,5 +1,7 @@
 # Gondora
 
+![gondora](https://cdn.myanimelist.net/images/anime/6/61765.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴンドラ

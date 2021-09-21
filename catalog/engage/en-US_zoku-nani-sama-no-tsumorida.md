@@ -1,5 +1,7 @@
 # Zoku Nani-sama no Tsumorida!!
 
+![zoku-nani-sama-no-tsumorida](https://cdn.myanimelist.net/images/manga/1/6296.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 続何様のつもりダ!!

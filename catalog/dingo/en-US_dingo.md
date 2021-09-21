@@ -1,5 +1,7 @@
 # Dingo
 
+![dingo](https://cdn.myanimelist.net/images/manga/1/45381.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ディンゴ

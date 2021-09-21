@@ -1,5 +1,7 @@
 # Kiki to Lala no Papa to Mama ni Aitai
 
+![kiki-to-lala-no-papa-to-mama-ni-aitai](https://cdn.myanimelist.net/images/anime/5/47849.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララのパパとママにあいたい

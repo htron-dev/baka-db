@@ -1,5 +1,7 @@
 # Marine Blue no Kaze ni Dakarete
 
+![marine-blue-no-kaze-ni-dakarete](https://cdn.myanimelist.net/images/manga/2/167952.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

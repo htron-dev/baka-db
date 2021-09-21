@@ -1,5 +1,7 @@
 # Grendizer Giga
 
+![grendizer-giga](https://cdn.myanimelist.net/images/anime/9/75834.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: グレンダイザー ギガ

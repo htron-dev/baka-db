@@ -1,5 +1,7 @@
 # Gintama': Enchousen
 
+![gintama-enchousen](https://cdn.myanimelist.net/images/anime/6/75172.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 銀魂' 延長戦

@@ -1,5 +1,7 @@
 # Koakuma Hensachi
 
+![koakuma-hensachi](https://cdn.myanimelist.net/images/manga/3/21099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 小悪魔偏差値

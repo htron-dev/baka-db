@@ -1,5 +1,7 @@
 # Kemono Switch
 
+![kemono-switch](https://cdn.myanimelist.net/images/manga/1/158088.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season
 
+![motto-majime-ni-fumajime-kaiketsu-zorori-2nd-season](https://cdn.myanimelist.net/images/anime/1341/111768.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: もっと! まじめにふまじめ かいけつゾロリ 第 2 シリーズ
 -   **start-date**: 2021-04-02

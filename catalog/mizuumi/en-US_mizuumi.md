@@ -1,5 +1,7 @@
 # Mizuumi
 
+![mizuumi](https://cdn.myanimelist.net/images/manga/2/205769.jpg)
+
 -   **type**: manga
 -   **original-name**: みずうみ
 -   **start-date**: 2018-01-12

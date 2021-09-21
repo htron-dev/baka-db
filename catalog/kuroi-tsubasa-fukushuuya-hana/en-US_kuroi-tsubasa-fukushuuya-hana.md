@@ -1,5 +1,7 @@
 # Kuroi Tsubasa: Fukushuuya Hana
 
+![kuroi-tsubasa-fukushuuya-hana](https://cdn.myanimelist.net/images/manga/2/107345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒い翼　復讐屋・華

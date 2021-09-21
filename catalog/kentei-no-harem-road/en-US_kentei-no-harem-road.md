@@ -1,5 +1,7 @@
 # Kentei no Harem Road
 
+![kentei-no-harem-road](https://cdn.myanimelist.net/images/manga/3/162776.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

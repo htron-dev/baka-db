@@ -1,5 +1,7 @@
 # Doraemon Movie 29: Shin Nobita no Uchuu Kaitakushi
 
+![doraemon-movie-29-shin-nobita-no-uchuu-kaitakushi](https://cdn.myanimelist.net/images/anime/9/72434.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん 新・のび太の宇宙開拓史

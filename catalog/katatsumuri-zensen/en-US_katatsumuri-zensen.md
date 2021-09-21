@@ -1,5 +1,7 @@
 # Katatsumuri Zensen
 
+![katatsumuri-zensen](https://cdn.myanimelist.net/images/manga/2/7798.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 空の帝国

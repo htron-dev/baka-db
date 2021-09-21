@@ -1,5 +1,7 @@
 # Itoshii, to Iu Koto
 
+![itoshii-to-iu-koto](https://cdn.myanimelist.net/images/manga/1/96433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

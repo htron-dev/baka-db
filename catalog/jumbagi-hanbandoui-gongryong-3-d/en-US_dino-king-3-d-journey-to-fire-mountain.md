@@ -1,5 +1,7 @@
 # Dino King 3D: Journey to Fire Mountain
 
+![dino-king-3-d-journey-to-fire-mountain](https://cdn.myanimelist.net/images/anime/1625/112559.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 점박이 한반도의 공룡 2: 새로운 낙원

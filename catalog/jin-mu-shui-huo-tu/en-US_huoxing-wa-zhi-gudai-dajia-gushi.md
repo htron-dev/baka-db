@@ -1,5 +1,7 @@
 # Huoxing Wa: Zhi Gudai Dajia Gushi
 
+![huoxing-wa-zhi-gudai-dajia-gushi](https://cdn.myanimelist.net/images/anime/1369/115380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: 火星娃之古代大家故事

@@ -1,5 +1,7 @@
 # Gunnm: Kasei Senki
 
+![gunnm-kasei-senki](https://cdn.myanimelist.net/images/manga/2/157417.jpg)
+
 -   **type**: manga
 -   **original-name**: 銃夢火星戦記
 -   **start-date**: 2014-10-28

@@ -1,5 +1,7 @@
 # Hanayuke! - Hana no Miyako to Yukemuri no Kokyou
 
+![hanayuke-hana-no-miyako-to-yukemuri-no-kokyou](https://cdn.myanimelist.net/images/manga/2/134827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

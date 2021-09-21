@@ -1,5 +1,7 @@
 # Mayonaka wo Sugitemo
 
+![mayonaka-wo-sugitemo](https://cdn.myanimelist.net/images/manga/2/159940.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 真夜中をすぎても

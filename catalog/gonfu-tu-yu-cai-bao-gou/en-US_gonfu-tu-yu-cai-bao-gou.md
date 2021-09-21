@@ -1,5 +1,7 @@
 # Gonfu Tu Yu Cai Bao Gou
 
+![gonfu-tu-yu-cai-bao-gou](https://cdn.myanimelist.net/images/anime/1691/108478.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 功夫兔与菜包狗

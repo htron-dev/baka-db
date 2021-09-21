@@ -1,5 +1,7 @@
 # Maou Evelogia ni Mi wo Sasage yo
 
+![maou-evelogia-ni-mi-wo-sasage-yo](https://cdn.myanimelist.net/images/manga/2/245924.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王イブロギアに身を捧げよ
 -   **start-date**: 2020-04-16

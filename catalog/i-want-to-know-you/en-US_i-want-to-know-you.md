@@ -1,5 +1,7 @@
 # I Want to Know You
 
+![i-want-to-know-you](https://cdn.myanimelist.net/images/manga/3/224577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

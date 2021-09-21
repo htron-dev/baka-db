@@ -1,5 +1,7 @@
 # Konna Joushi ni Okomari deshitara
 
+![konna-joushi-ni-okomari-deshitara](https://cdn.myanimelist.net/images/manga/3/222998.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

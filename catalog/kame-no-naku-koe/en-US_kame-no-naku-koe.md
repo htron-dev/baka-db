@@ -1,5 +1,7 @@
 # Kame no Naku Koe
 
+![kame-no-naku-koe](https://cdn.myanimelist.net/images/manga/1/13992.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Magic Tree House
 
+![magic-tree-house](https://cdn.myanimelist.net/images/anime/5/34487.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マジック・ツリーハウス

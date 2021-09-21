@@ -1,5 +1,7 @@
 # Itsumo Kokoro ni Taiyou Shinbun
 
+![itsumo-kokoro-ni-taiyou-shinbun](https://cdn.myanimelist.net/images/manga/2/122991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いつも心に太陽新聞

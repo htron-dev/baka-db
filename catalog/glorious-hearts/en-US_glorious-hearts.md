@@ -1,5 +1,7 @@
 # Glorious Hearts
 
+![glorious-hearts](https://cdn.myanimelist.net/images/manga/3/162526.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

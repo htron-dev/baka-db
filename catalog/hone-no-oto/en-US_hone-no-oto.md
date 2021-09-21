@@ -1,5 +1,7 @@
 # Hone no Oto
 
+![hone-no-oto](https://cdn.myanimelist.net/images/manga/1/30815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

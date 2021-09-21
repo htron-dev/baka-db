@@ -1,5 +1,7 @@
 # Masamune-kun no Revenge 0
 
+![masamune-kun-no-revenge-0](https://cdn.myanimelist.net/images/manga/3/217538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # I''s
 
+![is](https://cdn.myanimelist.net/images/anime/1/1084.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: フロムアイズ ～もうひとつの夏の物語～

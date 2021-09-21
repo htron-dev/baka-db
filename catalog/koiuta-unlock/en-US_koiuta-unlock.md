@@ -1,5 +1,7 @@
 # Koiuta Unlock
 
+![koiuta-unlock](https://cdn.myanimelist.net/images/manga/3/237874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

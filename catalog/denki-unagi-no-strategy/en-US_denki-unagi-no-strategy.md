@@ -1,5 +1,7 @@
 # Denki Unagi no Strategy
 
+![denki-unagi-no-strategy](https://cdn.myanimelist.net/images/manga/3/246224.jpg)
+
 -   **type**: manga
 -   **original-name**: 電気ウナギの美少女攻略〈すとらてじー〉
 -   **start-date**: 2020-11-02

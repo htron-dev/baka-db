@@ -1,5 +1,7 @@
 # Miracle Nikki: Nikki no Okigae Diary
 
+![miracle-nikki-nikki-no-okigae-diary](https://cdn.myanimelist.net/images/manga/3/225657.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

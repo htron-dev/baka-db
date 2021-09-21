@@ -1,5 +1,7 @@
 # Hareluya II Boy
 
+![hareluya-ii-boy](https://cdn.myanimelist.net/images/anime/1232/111306.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ハレルヤ IIBOY

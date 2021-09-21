@@ -1,5 +1,7 @@
 # Love &amp; Beast
 
+![love-amp-beast](https://cdn.myanimelist.net/images/manga/2/12582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

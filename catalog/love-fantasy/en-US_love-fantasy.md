@@ -1,5 +1,7 @@
 # Love Fantasy
 
+![love-fantasy](https://cdn.myanimelist.net/images/manga/2/17862.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 빙의

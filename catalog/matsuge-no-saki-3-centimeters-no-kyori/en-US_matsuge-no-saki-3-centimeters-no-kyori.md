@@ -1,5 +1,7 @@
 # Matsuge no Saki 3 Centimeters no Kyori
 
+![matsuge-no-saki-3-centimeters-no-kyori](https://cdn.myanimelist.net/images/manga/1/99741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

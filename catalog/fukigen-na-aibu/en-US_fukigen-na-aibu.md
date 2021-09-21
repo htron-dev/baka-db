@@ -1,5 +1,7 @@
 # Fukigen na Aibu
 
+![fukigen-na-aibu](https://cdn.myanimelist.net/images/manga/1/12865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

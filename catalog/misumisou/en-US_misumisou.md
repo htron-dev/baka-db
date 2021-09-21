@@ -1,5 +1,7 @@
 # Misumisou
 
+![misumisou](https://cdn.myanimelist.net/images/manga/1/80887.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

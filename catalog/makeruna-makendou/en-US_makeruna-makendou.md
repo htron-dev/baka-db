@@ -1,5 +1,7 @@
 # Makeruna! Makendou
 
+![makeruna-makendou](https://cdn.myanimelist.net/images/anime/2/53189.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 負けるな！魔剣道

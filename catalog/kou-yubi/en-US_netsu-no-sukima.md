@@ -1,5 +1,7 @@
 # Netsu no Sukima
 
+![netsu-no-sukima](https://cdn.myanimelist.net/images/manga/3/28299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

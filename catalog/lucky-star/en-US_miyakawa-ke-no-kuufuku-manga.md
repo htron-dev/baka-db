@@ -1,5 +1,7 @@
 # Miyakawa-ke no Kuufuku
 
+![miyakawa-ke-no-kuufuku](https://cdn.myanimelist.net/images/manga/5/72213.jpg)
+
 -   **type**: manga
 -   **original-name**: 宮河家の空腹
 -   **start-date**: 2012-06-26

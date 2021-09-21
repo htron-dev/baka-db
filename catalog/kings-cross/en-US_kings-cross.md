@@ -1,5 +1,7 @@
 # King's Cross
 
+![kings-cross](https://cdn.myanimelist.net/images/manga/2/174536.jpg)
+
 -   **type**: manga
 -   **chapters**: 23
 -   **original-name**: キングスクロス

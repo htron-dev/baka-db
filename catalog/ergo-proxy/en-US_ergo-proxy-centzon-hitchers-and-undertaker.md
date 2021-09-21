@@ -1,5 +1,7 @@
 # Ergo Proxy: Centzon Hitchers and Undertaker
 
+![ergo-proxy-centzon-hitchers-and-undertaker](https://cdn.myanimelist.net/images/manga/4/33309.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kanojo ga Flag wo Oraretara
 
+![kanojo-ga-flag-wo-oraretara](https://cdn.myanimelist.net/images/manga/1/81290.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **original-name**: 彼女がフラグをおられたら

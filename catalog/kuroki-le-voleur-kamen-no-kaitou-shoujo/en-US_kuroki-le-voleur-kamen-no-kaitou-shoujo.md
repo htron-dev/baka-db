@@ -1,5 +1,7 @@
 # Kuroki le voleur - Kamen no Kaitou Shoujo
 
+![kuroki-le-voleur-kamen-no-kaitou-shoujo](https://cdn.myanimelist.net/images/manga/2/74063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

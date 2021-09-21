@@ -1,5 +1,7 @@
 # Kagehinata
 
+![kagehinata](https://cdn.myanimelist.net/images/manga/2/142019.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: カゲヒナタ

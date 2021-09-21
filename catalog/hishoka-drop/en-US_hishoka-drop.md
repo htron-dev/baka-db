@@ -1,5 +1,7 @@
 # Hishoka Drop
 
+![hishoka-drop](https://cdn.myanimelist.net/images/manga/3/158746.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

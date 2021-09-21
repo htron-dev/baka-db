@@ -1,5 +1,7 @@
 # Kuraki Kyuuden no Shisha no Ou
 
+![kuraki-kyuuden-no-shisha-no-ou](https://cdn.myanimelist.net/images/manga/2/235002.jpg)
+
 -   **type**: manga
 -   **original-name**: 昏き宮殿の死者の王
 -   **start-date**: 2020-01-24

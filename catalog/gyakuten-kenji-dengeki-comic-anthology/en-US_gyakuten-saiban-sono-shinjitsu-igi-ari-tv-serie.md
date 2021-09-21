@@ -1,5 +1,7 @@
 # Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
+![gyakuten-saiban-sono-shinjitsu-igi-ari](https://cdn.myanimelist.net/images/anime/5/79448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 逆転裁判 ～その「真実」、異議あり！～

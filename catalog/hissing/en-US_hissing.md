@@ -1,5 +1,7 @@
 # Hissing
 
+![hissing](https://cdn.myanimelist.net/images/manga/1/11518.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 히싱

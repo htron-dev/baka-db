@@ -1,5 +1,7 @@
 # Hello Kitty no Kieta Santa-san no Boushi
 
+![hello-kitty-no-kieta-santa-san-no-boushi](https://cdn.myanimelist.net/images/anime/10/58939.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのきえたサンタさんの帽子

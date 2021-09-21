@@ -1,5 +1,7 @@
 # Karei ni Shite Rifujin
 
+![karei-ni-shite-rifujin](https://cdn.myanimelist.net/images/manga/1/87253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

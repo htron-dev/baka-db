@@ -1,5 +1,7 @@
 # Lupin III: Lupin Ikka Seizoroi
 
+![lupin-iii-lupin-ikka-seizoroi](https://cdn.myanimelist.net/images/anime/2/46379.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 ルパン一家勢揃い

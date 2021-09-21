@@ -1,5 +1,7 @@
 # Hiraheishi wa Kako wo Yumemiru
 
+![hiraheishi-wa-kako-wo-yumemiru](https://cdn.myanimelist.net/images/manga/2/190897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 平兵士は過去を夢見る

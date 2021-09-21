@@ -1,5 +1,7 @@
 # My Male Friend
 
+![my-male-friend](https://cdn.myanimelist.net/images/manga/2/228199.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 89
 -   **original-name**: 나의 남자사람친구

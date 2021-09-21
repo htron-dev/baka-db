@@ -1,5 +1,7 @@
 # Kamigami no Ki
 
+![kamigami-no-ki](https://cdn.myanimelist.net/images/anime/12/82539.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 17
 -   **original-name**: 神々の記

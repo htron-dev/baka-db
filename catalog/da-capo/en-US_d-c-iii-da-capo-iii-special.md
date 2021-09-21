@@ -1,5 +1,7 @@
 # D.C.III: Da Capo III Special
 
+![d-c-iii-da-capo-iii-special](https://cdn.myanimelist.net/images/anime/4/45580.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: D.C.III ～ダ・カーポ III ～

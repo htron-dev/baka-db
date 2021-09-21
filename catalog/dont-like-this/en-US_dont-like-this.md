@@ -1,5 +1,7 @@
 # Don't Like This
 
+![dont-like-this](https://cdn.myanimelist.net/images/manga/3/229130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

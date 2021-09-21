@@ -1,5 +1,7 @@
 # Makasete Iruka!
 
+![makasete-iruka](https://cdn.myanimelist.net/images/manga/1/171336.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: まかせてイルか！

@@ -1,5 +1,7 @@
 # Meng Qi Shi Shen
 
+![meng-qi-shi-shen](https://cdn.myanimelist.net/images/anime/1826/91440.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 萌妻食神

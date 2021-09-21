@@ -1,5 +1,7 @@
 # Minami-ke Okaeri
 
+![minami-ke-okaeri](https://cdn.myanimelist.net/images/anime/10/11458.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みなみけ おかえり

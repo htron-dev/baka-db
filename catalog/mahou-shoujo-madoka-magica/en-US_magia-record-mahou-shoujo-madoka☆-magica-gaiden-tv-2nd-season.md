@@ -1,5 +1,7 @@
 # Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season
 
+![magia-record-mahou-shoujo-madoka☆-magica-gaiden-tv-2nd-season](https://cdn.myanimelist.net/images/anime/1919/116424.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: マギアレコード 魔法少女まどか ☆ マギカ外伝 2nd Season
 -   **start-date**: 2021-07-31

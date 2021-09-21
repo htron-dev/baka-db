@@ -1,5 +1,7 @@
 # Kururun☆Lieru Change!
 
+![kururun☆-lieru-change](https://cdn.myanimelist.net/images/manga/1/147185.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

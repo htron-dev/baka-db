@@ -1,5 +1,7 @@
 # Endro~!
 
+![endro](https://cdn.myanimelist.net/images/manga/2/223074.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

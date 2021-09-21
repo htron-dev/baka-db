@@ -1,5 +1,7 @@
 # Ikkitousen: Xtreme Xecutor
 
+![ikkitousen-xtreme-xecutor](https://cdn.myanimelist.net/images/anime/2/18209.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 一騎当千 Xtreme Xecutor

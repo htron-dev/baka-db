@@ -1,5 +1,7 @@
 # Kouan-bu Tokui Jinshu-ka 56
 
+![kouan-bu-tokui-jinshu-ka-56](https://cdn.myanimelist.net/images/manga/3/225751.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

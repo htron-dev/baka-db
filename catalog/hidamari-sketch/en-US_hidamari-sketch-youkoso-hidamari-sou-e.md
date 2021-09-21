@@ -1,5 +1,7 @@
 # Hidamari Sketch: Youkoso Hidamari-sou e
 
+![hidamari-sketch-youkoso-hidamari-sou-e](https://cdn.myanimelist.net/images/manga/1/211681.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひだまりスケッチ ようこそひだまり荘へ

@@ -1,5 +1,7 @@
 # Kishin Douji Zenki
 
+![kishin-douji-zenki](https://cdn.myanimelist.net/images/manga/3/7192.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 鬼神童子 ZENKI

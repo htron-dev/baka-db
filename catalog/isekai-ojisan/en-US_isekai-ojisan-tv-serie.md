@@ -1,5 +1,7 @@
 # Isekai Ojisan
 
+![isekai-ojisan](https://cdn.myanimelist.net/images/anime/1182/116951.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 異世界おじさん
 -   **rating**: None

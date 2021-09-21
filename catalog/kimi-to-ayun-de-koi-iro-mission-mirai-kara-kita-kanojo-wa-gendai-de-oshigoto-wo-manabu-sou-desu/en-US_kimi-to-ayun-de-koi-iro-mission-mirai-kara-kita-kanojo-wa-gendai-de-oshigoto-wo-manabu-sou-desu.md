@@ -1,5 +1,7 @@
 # Kimi to Ayun de Koi-iro Mission: Mirai kara Kita Kanojo wa Gendai de Oshigoto wo Manabu Sou desu!
 
+![kimi-to-ayun-de-koi-iro-mission-mirai-kara-kita-kanojo-wa-gendai-de-oshigoto-wo-manabu-sou-desu](https://cdn.myanimelist.net/images/manga/2/150703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 君と歩んで恋色ミッション 未来から来た彼女は現代でお仕事を学ぶそうです!

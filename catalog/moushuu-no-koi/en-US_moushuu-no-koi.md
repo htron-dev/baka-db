@@ -1,5 +1,7 @@
 # Moushuu no Koi
 
+![moushuu-no-koi](https://cdn.myanimelist.net/images/manga/3/172224.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

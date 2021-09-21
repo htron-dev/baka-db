@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai: Matsuribayashi-hen
 
+![higurashi-no-naku-koro-ni-kai-matsuribayashi-hen](https://cdn.myanimelist.net/images/manga/4/16838.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 35

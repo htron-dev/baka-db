@@ -1,5 +1,7 @@
 # Honjitsu no Neko jijou
 
+![honjitsu-no-neko-jijou](https://cdn.myanimelist.net/images/manga/2/22346.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 本日の猫事情

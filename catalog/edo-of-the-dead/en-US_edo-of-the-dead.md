@@ -1,5 +1,7 @@
 # Edo of the Dead
 
+![edo-of-the-dead](https://cdn.myanimelist.net/images/manga/1/114463.jpg)
+
 -   **type**: manga
 -   **original-name**: EDO of the DEAD エド オブ ザ デッド
 -   **start-date**: 2013-08-09

@@ -1,5 +1,7 @@
 # Katsuai Monster
 
+![katsuai-monster](https://cdn.myanimelist.net/images/manga/3/18670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

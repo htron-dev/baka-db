@@ -1,5 +1,7 @@
 # Glass no Kantai: La Legende du Vent de l'Univers Specials
 
+![glass-no-kantai-la-legende-du-vent-de-l-univers-specials](https://cdn.myanimelist.net/images/anime/3/15193.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ガラスの艦隊～ La legende du vent de l'univers ～

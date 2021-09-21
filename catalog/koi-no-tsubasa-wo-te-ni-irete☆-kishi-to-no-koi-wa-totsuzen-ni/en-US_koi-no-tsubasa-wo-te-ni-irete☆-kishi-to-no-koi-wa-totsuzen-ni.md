@@ -1,5 +1,7 @@
 # Koi no Tsubasa wo Te ni Irete☆: Kishi to no Koi wa Totsuzen ni?
 
+![koi-no-tsubasa-wo-te-ni-irete☆-kishi-to-no-koi-wa-totsuzen-ni](https://cdn.myanimelist.net/images/manga/3/195018.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

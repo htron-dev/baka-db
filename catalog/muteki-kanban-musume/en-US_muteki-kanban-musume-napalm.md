@@ -1,5 +1,7 @@
 # Muteki Kanban Musume Napalm
 
+![muteki-kanban-musume-napalm](https://cdn.myanimelist.net/images/manga/1/135435.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 55

@@ -1,5 +1,7 @@
 # Kuutei Dragons
 
+![kuutei-dragons](https://cdn.myanimelist.net/images/anime/1211/116017.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 空挺ドラゴンズ

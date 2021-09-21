@@ -1,5 +1,7 @@
 # Game Tengoku: The Game Paradise!
 
+![game-tengoku-the-game-paradise](https://cdn.myanimelist.net/images/anime/12/29973.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゲーム天国 The Game Paradise!

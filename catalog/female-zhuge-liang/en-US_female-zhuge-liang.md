@@ -1,5 +1,7 @@
 # Female Zhuge Liang
 
+![female-zhuge-liang](https://cdn.myanimelist.net/images/manga/3/228568.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 여자 제갈량
 -   **start-date**: 2014-11-08

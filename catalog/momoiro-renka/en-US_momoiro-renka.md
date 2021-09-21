@@ -1,5 +1,7 @@
 # Momoiro Renka
 
+![momoiro-renka](https://cdn.myanimelist.net/images/manga/1/27623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

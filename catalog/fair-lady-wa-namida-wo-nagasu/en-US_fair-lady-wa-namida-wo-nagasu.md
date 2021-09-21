@@ -1,5 +1,7 @@
 # Fair Lady wa Namida wo Nagasu
 
+![fair-lady-wa-namida-wo-nagasu](https://cdn.myanimelist.net/images/manga/3/32609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koori no Mamono no Monogatari
 
+![koori-no-mamono-no-monogatari](https://cdn.myanimelist.net/images/manga/3/169567.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 75

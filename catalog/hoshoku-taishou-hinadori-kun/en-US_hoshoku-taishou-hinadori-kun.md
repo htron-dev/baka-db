@@ -1,5 +1,7 @@
 # Hoshoku Taishou Hinadori-kun
 
+![hoshoku-taishou-hinadori-kun](https://cdn.myanimelist.net/images/manga/1/245471.jpg)
+
 -   **type**: manga
 -   **original-name**: 捕食対象ひなどりくん
 -   **start-date**: 2019-08-31

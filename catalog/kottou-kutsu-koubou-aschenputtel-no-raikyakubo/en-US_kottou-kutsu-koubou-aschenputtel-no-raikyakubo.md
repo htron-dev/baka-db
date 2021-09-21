@@ -1,5 +1,7 @@
 # Kottou Kutsu Koubou Aschenputtel no Raikyakubo
 
+![kottou-kutsu-koubou-aschenputtel-no-raikyakubo](https://cdn.myanimelist.net/images/manga/2/171881.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 骨董靴工房アッシェンプッテルの来客簿
 -   **start-date**: 2015-12-16

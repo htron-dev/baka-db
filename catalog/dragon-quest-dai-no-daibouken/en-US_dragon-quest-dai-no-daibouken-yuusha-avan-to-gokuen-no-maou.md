@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken - Yuusha Avan to Gokuen no Maou
 
+![dragon-quest-dai-no-daibouken-yuusha-avan-to-gokuen-no-maou](https://cdn.myanimelist.net/images/manga/1/245001.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王
 -   **start-date**: 2020-10-21

@@ -1,5 +1,7 @@
 # Gakkou no Kaidan: Abunai Onna Kyoushi-hen
 
+![gakkou-no-kaidan-abunai-onna-kyoushi-hen](https://cdn.myanimelist.net/images/manga/3/89269.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

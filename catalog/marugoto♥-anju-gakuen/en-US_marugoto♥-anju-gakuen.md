@@ -1,5 +1,7 @@
 # Marugoto♥Anju Gakuen
 
+![marugoto♥-anju-gakuen](https://cdn.myanimelist.net/images/manga/3/5993.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

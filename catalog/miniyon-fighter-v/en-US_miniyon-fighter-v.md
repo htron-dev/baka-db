@@ -1,5 +1,7 @@
 # Miniyon Fighter V
 
+![miniyon-fighter-v](https://cdn.myanimelist.net/images/manga/1/160565.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

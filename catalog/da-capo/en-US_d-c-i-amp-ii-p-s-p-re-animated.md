@@ -1,5 +1,7 @@
 # D.C. I&amp;II P.S.P. Re-Animated
 
+![d-c-i-amp-ii-p-s-p-re-animated](https://cdn.myanimelist.net/images/anime/12/26017.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: D.C.I&II P.S.P. RE-ANIMATED

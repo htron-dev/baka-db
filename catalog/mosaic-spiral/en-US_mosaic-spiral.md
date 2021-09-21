@@ -1,5 +1,7 @@
 # Mosaic Spiral
 
+![mosaic-spiral](https://cdn.myanimelist.net/images/manga/4/17980.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

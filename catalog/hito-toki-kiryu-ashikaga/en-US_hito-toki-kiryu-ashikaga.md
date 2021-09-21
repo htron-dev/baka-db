@@ -1,5 +1,7 @@
 # Hito Toki Kiryu Ashikaga
 
+![hito-toki-kiryu-ashikaga](https://cdn.myanimelist.net/images/anime/1578/99879.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ヒトトキ桐生足利

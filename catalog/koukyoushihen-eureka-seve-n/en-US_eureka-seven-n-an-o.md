@@ -1,5 +1,7 @@
 # Eureka Seven nAnO
 
+![eureka-seven-n-an-o](https://cdn.myanimelist.net/images/manga/1/86273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Good Night World
 
+![good-night-world](https://cdn.myanimelist.net/images/manga/2/175852.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 52

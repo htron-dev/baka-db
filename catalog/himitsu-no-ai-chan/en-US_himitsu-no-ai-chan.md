@@ -1,5 +1,7 @@
 # Himitsu no Ai-chan
 
+![himitsu-no-ai-chan](https://cdn.myanimelist.net/images/manga/3/139187.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 73

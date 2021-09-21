@@ -1,5 +1,7 @@
 # Happy Epicurean
 
+![happy-epicurean](https://cdn.myanimelist.net/images/manga/1/31722.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 행복한 미식가

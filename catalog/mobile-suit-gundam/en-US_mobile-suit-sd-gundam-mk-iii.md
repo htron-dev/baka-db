@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Mk III
 
+![mobile-suit-sd-gundam-mk-iii](https://cdn.myanimelist.net/images/anime/6/51907.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 機動戦士 SD ガンダム Mk-III

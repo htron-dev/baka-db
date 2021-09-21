@@ -1,5 +1,7 @@
 # Dragon Ball Discross Jinryoku God Max!!
 
+![dragon-ball-discross-jinryoku-god-max](https://cdn.myanimelist.net/images/manga/2/248582.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンボールディスクロス神カゴツド MAX ！！
 -   **start-date**: 2015-01-20

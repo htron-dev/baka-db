@@ -1,5 +1,7 @@
 # Mirai Shounen Conan: Kyodaiki Gigant no Fukkatsu
 
+![mirai-shounen-conan-kyodaiki-gigant-no-fukkatsu](https://cdn.myanimelist.net/images/anime/4/17369.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 未来少年コナン特別篇　巨大機ギガントの復活

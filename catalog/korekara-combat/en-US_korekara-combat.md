@@ -1,5 +1,7 @@
 # Korekara Combat
 
+![korekara-combat](https://cdn.myanimelist.net/images/manga/3/164138.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

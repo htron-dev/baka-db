@@ -1,5 +1,7 @@
 # Haou Daikei Ryuu Knight: Adeu Legend II
 
+![haou-daikei-ryuu-knight-adeu-legend-ii](https://cdn.myanimelist.net/images/anime/8/52147.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 覇王大系リューナイト アデュー・レジェンド Ⅱ

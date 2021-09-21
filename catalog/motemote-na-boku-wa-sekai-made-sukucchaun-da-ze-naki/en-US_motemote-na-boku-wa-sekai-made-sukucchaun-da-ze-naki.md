@@ -1,5 +1,7 @@
 # Motemote na Boku wa Sekai made Sukucchaun da ze (Naki)
 
+![motemote-na-boku-wa-sekai-made-sukucchaun-da-ze-naki](https://cdn.myanimelist.net/images/manga/3/139413.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 50

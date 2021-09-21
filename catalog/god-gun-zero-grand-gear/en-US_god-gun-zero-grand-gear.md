@@ -1,5 +1,7 @@
 # God-Gun Zero: Grand Gear
 
+![god-gun-zero-grand-gear](https://cdn.myanimelist.net/images/manga/2/228795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

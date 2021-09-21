@@ -1,5 +1,7 @@
 # Kaleido Star: Aratanaru Tsubasa - Extra Stage
 
+![kaleido-star-aratanaru-tsubasa-extra-stage](https://cdn.myanimelist.net/images/anime/10/23761.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カレイドスター ～新たなる翼～ EXTRA STAGE

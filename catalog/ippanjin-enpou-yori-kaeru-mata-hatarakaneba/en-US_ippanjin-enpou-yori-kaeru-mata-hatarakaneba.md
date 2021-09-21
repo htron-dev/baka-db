@@ -1,5 +1,7 @@
 # Ippanjin Enpou yori Kaeru. Mata Hatarakaneba!
 
+![ippanjin-enpou-yori-kaeru-mata-hatarakaneba](https://cdn.myanimelist.net/images/manga/1/241037.jpg)
+
 -   **type**: manga
 -   **original-name**: 一般人遠方より帰る。また働かねば！
 -   **start-date**: 2020-06-30

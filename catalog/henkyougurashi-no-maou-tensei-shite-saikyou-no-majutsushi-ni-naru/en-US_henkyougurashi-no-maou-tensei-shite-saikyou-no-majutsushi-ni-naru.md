@@ -1,5 +1,7 @@
 # Henkyougurashi no Maou, Tensei shite Saikyou no Majutsushi ni Naru
 
+![henkyougurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru](https://cdn.myanimelist.net/images/manga/1/242734.jpg)
+
 -   **type**: manga
 -   **original-name**: 辺境ぐらしの魔王、転生して最強の魔術師になる
 -   **start-date**: 2020-08-24

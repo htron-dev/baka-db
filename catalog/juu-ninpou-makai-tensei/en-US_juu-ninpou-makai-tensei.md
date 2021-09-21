@@ -1,5 +1,7 @@
 # Juu: Ninpou Makai Tensei
 
+![juu-ninpou-makai-tensei](https://cdn.myanimelist.net/images/manga/1/173141.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 71

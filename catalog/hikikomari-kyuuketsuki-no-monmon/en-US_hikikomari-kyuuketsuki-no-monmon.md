@@ -1,5 +1,7 @@
 # Hikikomari Kyuuketsuki no Monmon
 
+![hikikomari-kyuuketsuki-no-monmon](https://cdn.myanimelist.net/images/manga/2/248187.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ひきこまり吸血姫の悶々
 -   **start-date**: 2020-01-11

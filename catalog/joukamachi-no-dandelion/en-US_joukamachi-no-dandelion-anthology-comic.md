@@ -1,5 +1,7 @@
 # Joukamachi no Dandelion Anthology Comic
 
+![joukamachi-no-dandelion-anthology-comic](https://cdn.myanimelist.net/images/manga/3/163787.jpg)
+
 -   **type**: manga
 -   **original-name**: 城下町のダンデライオン アンソロジーコミック
 -   **start-date**: 2015-08-27

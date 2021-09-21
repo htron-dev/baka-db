@@ -1,5 +1,7 @@
 # Hikari Sasu Sora e
 
+![hikari-sasu-sora-e](https://cdn.myanimelist.net/images/anime/3/82206.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 光射す空へ

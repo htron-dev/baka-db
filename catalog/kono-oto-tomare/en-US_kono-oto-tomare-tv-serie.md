@@ -1,5 +1,7 @@
 # Kono Oto Tomare!
 
+![kono-oto-tomare](https://cdn.myanimelist.net/images/anime/1464/99881.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: この音とまれ！

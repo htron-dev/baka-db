@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume GT
 
+![himitsukessha-taka-no-tsume-gt](https://cdn.myanimelist.net/images/anime/12/78869.jpg)
+
 -   **type**: ona
 -   **episodes**: 47
 -   **original-name**: 秘密結社 鷹の爪 GT

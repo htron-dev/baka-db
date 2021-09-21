@@ -1,5 +1,7 @@
 # Deadman Wonderland: Akai Knife Tsukai
 
+![deadman-wonderland-akai-knife-tsukai](https://cdn.myanimelist.net/images/anime/8/33033.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デッドマン・ワンダーランド 赤いナイフ使い

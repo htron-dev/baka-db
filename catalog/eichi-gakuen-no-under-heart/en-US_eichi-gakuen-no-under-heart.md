@@ -1,5 +1,7 @@
 # Eichi Gakuen no Under Heart
 
+![eichi-gakuen-no-under-heart](https://cdn.myanimelist.net/images/manga/1/159306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Momomoke Restaurant
 
+![momomoke-restaurant](https://cdn.myanimelist.net/images/manga/3/188868.jpg)
+
 -   **type**: manga
 -   **original-name**: ももも怪レストラン
 -   **start-date**: 2012-09-18

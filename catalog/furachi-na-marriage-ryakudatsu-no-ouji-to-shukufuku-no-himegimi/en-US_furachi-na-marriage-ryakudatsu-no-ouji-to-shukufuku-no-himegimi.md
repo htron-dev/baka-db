@@ -1,5 +1,7 @@
 # Furachi na Marriage: Ryakudatsu no Ouji to Shukufuku no Himegimi
 
+![furachi-na-marriage-ryakudatsu-no-ouji-to-shukufuku-no-himegimi](https://cdn.myanimelist.net/images/manga/1/181048.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

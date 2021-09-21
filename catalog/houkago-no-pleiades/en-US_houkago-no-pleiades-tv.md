@@ -1,5 +1,7 @@
 # Houkago no Pleiades (TV)
 
+![houkago-no-pleiades-tv](https://cdn.myanimelist.net/images/anime/5/73434.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 放課後のプレアデス

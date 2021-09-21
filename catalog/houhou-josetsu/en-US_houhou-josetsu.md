@@ -1,5 +1,7 @@
 # Houhou Josetsu
 
+![houhou-josetsu](https://cdn.myanimelist.net/images/manga/3/163432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita
 
+![isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita](https://cdn.myanimelist.net/images/manga/1/235869.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～
 -   **start-date**: 2020-03-06

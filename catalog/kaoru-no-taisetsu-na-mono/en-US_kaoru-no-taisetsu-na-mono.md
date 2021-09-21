@@ -1,5 +1,7 @@
 # Kaoru no Taisetsu na Mono
 
+![kaoru-no-taisetsu-na-mono](https://cdn.myanimelist.net/images/anime/1352/109736.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: カオルの大切なモノ
 -   **start-date**: 2020-11-18

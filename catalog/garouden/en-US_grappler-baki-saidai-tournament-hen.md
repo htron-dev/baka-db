@@ -1,5 +1,7 @@
 # Grappler Baki: Saidai Tournament-hen
 
+![grappler-baki-saidai-tournament-hen](https://cdn.myanimelist.net/images/anime/1433/96723.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: グラップラー刃牙(バキ) 最大トーナメント編

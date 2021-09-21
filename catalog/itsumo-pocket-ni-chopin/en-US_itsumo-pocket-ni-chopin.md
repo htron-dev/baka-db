@@ -1,5 +1,7 @@
 # Itsumo Pocket ni Chopin
 
+![itsumo-pocket-ni-chopin](https://cdn.myanimelist.net/images/manga/1/4527.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 3

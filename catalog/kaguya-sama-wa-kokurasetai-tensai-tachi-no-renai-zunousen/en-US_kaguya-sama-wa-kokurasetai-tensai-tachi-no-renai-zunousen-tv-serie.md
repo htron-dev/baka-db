@@ -1,5 +1,7 @@
 # Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen
 
+![kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen](https://cdn.myanimelist.net/images/anime/1764/106659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: かぐや様は告らせたい？～天才たちの恋愛頭脳戦～

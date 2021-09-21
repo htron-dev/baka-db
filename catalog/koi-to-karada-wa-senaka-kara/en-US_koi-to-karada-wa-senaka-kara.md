@@ -1,5 +1,7 @@
 # Koi to Karada wa Senaka kara
 
+![koi-to-karada-wa-senaka-kara](https://cdn.myanimelist.net/images/manga/2/30047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Go West!
 
+![go-west](https://cdn.myanimelist.net/images/manga/2/31441.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

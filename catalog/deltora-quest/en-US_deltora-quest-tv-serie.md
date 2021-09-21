@@ -1,5 +1,7 @@
 # Deltora Quest
 
+![deltora-quest](https://cdn.myanimelist.net/images/anime/12/88164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: デルトラクエスト

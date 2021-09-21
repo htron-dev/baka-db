@@ -1,5 +1,7 @@
 # Meijite! Fukujuu Fräulein
 
+![meijite-fukujuu-fraulein](https://cdn.myanimelist.net/images/manga/2/163922.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 35

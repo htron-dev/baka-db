@@ -1,5 +1,7 @@
 # Gomen ne Peach Pie
 
+![gomen-ne-peach-pie](https://cdn.myanimelist.net/images/manga/2/153374.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ごめんねピーチパイ

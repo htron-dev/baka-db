@@ -1,5 +1,7 @@
 # King
 
+![king](https://cdn.myanimelist.net/images/manga/2/19288.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

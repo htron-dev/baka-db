@@ -1,5 +1,7 @@
 # Mikan Enikki
 
+![mikan-enikki](https://cdn.myanimelist.net/images/anime/9/29836.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: みかん絵日記

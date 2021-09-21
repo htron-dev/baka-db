@@ -1,5 +1,7 @@
 # Konna Otona no Onnanoko
 
+![konna-otona-no-onnanoko](https://cdn.myanimelist.net/images/manga/1/66889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

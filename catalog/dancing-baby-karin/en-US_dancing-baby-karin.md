@@ -1,5 +1,7 @@
 # Dancing Baby Karin
 
+![dancing-baby-karin](https://cdn.myanimelist.net/images/manga/1/16124.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

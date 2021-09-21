@@ -1,5 +1,7 @@
 # Hangyakusei Million Arthur Special
 
+![hangyakusei-million-arthur-special](https://cdn.myanimelist.net/images/anime/1632/95918.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 叛逆性ミリオンアーサー 無限の並列世界

@@ -1,5 +1,7 @@
 # Hitoribocchi no ○○ Seikatsu
 
+![hitoribocchi-no-○○-seikatsu](https://cdn.myanimelist.net/images/manga/3/173131.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 101

@@ -1,5 +1,7 @@
 # Death Chichi
 
+![death-chichi](https://cdn.myanimelist.net/images/manga/2/187831.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 43

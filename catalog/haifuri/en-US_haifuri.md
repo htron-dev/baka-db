@@ -1,5 +1,7 @@
 # Haifuri
 
+![haifuri](https://cdn.myanimelist.net/images/manga/2/176327.jpg)
+
 -   **type**: manga
 -   **original-name**: はいふり
 -   **start-date**: 2015-10-27

@@ -1,5 +1,7 @@
 # Gekkou Senki Ariel: Nanairo no Hitomi wo Motsu Oujo
 
+![gekkou-senki-ariel-nanairo-no-hitomi-wo-motsu-oujo](https://cdn.myanimelist.net/images/manga/1/168261.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 月虹戦記アリエル ‐‐七色の瞳を持つ王女
 -   **start-date**: 2015-10-30

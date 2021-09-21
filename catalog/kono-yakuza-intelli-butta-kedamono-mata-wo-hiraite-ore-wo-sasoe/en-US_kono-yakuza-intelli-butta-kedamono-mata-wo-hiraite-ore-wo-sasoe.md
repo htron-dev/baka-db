@@ -1,5 +1,7 @@
 # Kono Yakuza, Intelli-butta Kedamono.: Mata wo Hiraite Ore wo Sasoe
 
+![kono-yakuza-intelli-butta-kedamono-mata-wo-hiraite-ore-wo-sasoe](https://cdn.myanimelist.net/images/manga/1/236618.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

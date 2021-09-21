@@ -1,5 +1,7 @@
 # Kaidan BL
 
+![kaidan-bl](https://cdn.myanimelist.net/images/manga/3/238600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

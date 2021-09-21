@@ -1,5 +1,7 @@
 # Juhou Kaikin!! Hyde &amp; Closer
 
+![juhou-kaikin-hyde-amp-closer](https://cdn.myanimelist.net/images/manga/2/57175.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

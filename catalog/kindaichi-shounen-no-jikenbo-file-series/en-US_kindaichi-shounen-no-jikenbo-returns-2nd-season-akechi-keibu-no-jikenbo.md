@@ -1,8 +1,10 @@
 # Kindaichi Shounen no Jikenbo Returns 2nd Season: Akechi Keibu no Jikenbo
 
+![kindaichi-shounen-no-jikenbo-returns-2nd-season-akechi-keibu-no-jikenbo](https://cdn.myanimelist.net/images/anime/9/77703.jpg)
+
 -   **type**: special
 -   **episodes**: 1
--   **original-name**: 金田一少年の事件簿R 明智警部の事件簿
+-   **original-name**: 金田一少年の事件簿 R 明智警部の事件簿
 -   **start-date**: 2015-12-26
 -   **opening-song**: "Yonjuushi (四銃士)" by NEWS
 -   **ending-song**: "Hitomi no Oku no Milky Way (瞳の奥の銀河（ミルキーウェイ）)" by Flower

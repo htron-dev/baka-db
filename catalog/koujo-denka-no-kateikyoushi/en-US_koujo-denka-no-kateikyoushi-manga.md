@@ -1,5 +1,7 @@
 # Koujo Denka no Kateikyoushi
 
+![koujo-denka-no-kateikyoushi](https://cdn.myanimelist.net/images/manga/2/234471.jpg)
+
 -   **type**: manga
 -   **original-name**: 公女殿下の家庭教師
 -   **start-date**: 2019-09-13

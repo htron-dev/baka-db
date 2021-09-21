@@ -1,5 +1,7 @@
 # Mahou Senki Lyrical Nanoha Force Dimension
 
+![mahou-senki-lyrical-nanoha-force-dimension](https://cdn.myanimelist.net/images/manga/3/98817.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法戦記リリカルなのは Force Dimension
 -   **start-date**: 2010-03-30

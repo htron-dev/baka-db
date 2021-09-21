@@ -1,5 +1,7 @@
 # Duds Hunt
 
+![duds-hunt](https://cdn.myanimelist.net/images/manga/1/26212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: DUDS HUNT

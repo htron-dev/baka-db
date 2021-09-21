@@ -1,5 +1,7 @@
 # Koishi Uru Kagiri Koise
 
+![koishi-uru-kagiri-koise](https://cdn.myanimelist.net/images/manga/3/34998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

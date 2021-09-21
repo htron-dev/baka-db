@@ -1,5 +1,7 @@
 # Kemurikusa (2018)
 
+![kemurikusa-2018](https://cdn.myanimelist.net/images/anime/1148/99500.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ケムリクサ

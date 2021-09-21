@@ -1,5 +1,7 @@
 # Ikigami no Fatima
 
+![ikigami-no-fatima](https://cdn.myanimelist.net/images/manga/3/123555.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

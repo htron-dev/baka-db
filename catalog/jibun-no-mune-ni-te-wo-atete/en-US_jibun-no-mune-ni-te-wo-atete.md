@@ -1,5 +1,7 @@
 # Jibun no Mune ni te wo Atete
 
+![jibun-no-mune-ni-te-wo-atete](https://cdn.myanimelist.net/images/anime/5/74019.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 自分の胸に手を当てて

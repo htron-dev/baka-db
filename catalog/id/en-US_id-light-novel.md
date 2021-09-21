@@ -1,5 +1,7 @@
 # ID
 
+![id](https://cdn.myanimelist.net/images/manga/3/93359.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 이드
 

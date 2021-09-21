@@ -1,5 +1,7 @@
 # Keroro Gunsou
 
+![keroro-gunsou](https://cdn.myanimelist.net/images/anime/2/21764.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 358
 -   **original-name**: ケロロ軍曹

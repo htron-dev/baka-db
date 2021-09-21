@@ -1,5 +1,7 @@
 # Maou-sama ni Shoukan sareta kedo Kotoba ga Tsuujinai.
 
+![maou-sama-ni-shoukan-sareta-kedo-kotoba-ga-tsuujinai](https://cdn.myanimelist.net/images/manga/2/242128.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王様に召喚されたけど言葉が通じない。
 -   **start-date**: 2019-12-04

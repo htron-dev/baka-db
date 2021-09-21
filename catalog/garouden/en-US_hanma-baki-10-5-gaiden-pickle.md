@@ -1,5 +1,7 @@
 # Hanma Baki 10.5 Gaiden - Pickle
 
+![hanma-baki-10-5-gaiden-pickle](https://cdn.myanimelist.net/images/manga/3/61497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kiba no Tabishounin: The Arms Peddler
 
+![kiba-no-tabishounin-the-arms-peddler](https://cdn.myanimelist.net/images/manga/1/109235.jpg)
+
 -   **type**: manga
 -   **original-name**: 牙の旅商人 ～ The Arms Peddler ～
 -   **start-date**: 2010-05-07

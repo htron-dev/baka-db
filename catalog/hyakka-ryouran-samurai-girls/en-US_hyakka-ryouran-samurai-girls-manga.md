@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai Girls
 
+![hyakka-ryouran-samurai-girls](https://cdn.myanimelist.net/images/manga/1/74187.jpg)
+
 -   **type**: manga
 -   **original-name**: 百花繚乱サムライガールズ
 -   **start-date**: 2010-06-01

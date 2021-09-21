@@ -1,5 +1,7 @@
 # Kaerazaru Hyouga
 
+![kaerazaru-hyouga](https://cdn.myanimelist.net/images/manga/1/14070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

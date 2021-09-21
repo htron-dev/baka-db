@@ -1,5 +1,7 @@
 # Midori no Mahou to Kaori no Tsukaite
 
+![midori-no-mahou-to-kaori-no-tsukaite](https://cdn.myanimelist.net/images/manga/3/246938.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

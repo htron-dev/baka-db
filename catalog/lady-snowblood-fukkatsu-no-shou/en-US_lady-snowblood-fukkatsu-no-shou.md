@@ -1,5 +1,7 @@
 # Lady Snowblood - Fukkatsu no Shou
 
+![lady-snowblood-fukkatsu-no-shou](https://cdn.myanimelist.net/images/manga/3/32592.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

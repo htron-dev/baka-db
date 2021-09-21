@@ -1,5 +1,7 @@
 # Lord
 
+![lord](https://cdn.myanimelist.net/images/manga/4/75203.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 154

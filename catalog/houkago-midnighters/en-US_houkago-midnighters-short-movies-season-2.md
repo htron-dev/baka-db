@@ -1,5 +1,7 @@
 # Houkago Midnighters: Short Movies Season 2
 
+![houkago-midnighters-short-movies-season-2](https://cdn.myanimelist.net/images/anime/1905/91385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 放課後ミッドナイターズ ショートムービーズ Season2

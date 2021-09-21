@@ -1,5 +1,7 @@
 # Harenchi no Susume
 
+![harenchi-no-susume](https://cdn.myanimelist.net/images/manga/3/37892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

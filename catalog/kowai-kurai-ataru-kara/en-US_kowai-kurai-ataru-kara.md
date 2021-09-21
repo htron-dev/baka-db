@@ -1,5 +1,7 @@
 # Kowai Kurai Ataru kara...
 
+![kowai-kurai-ataru-kara](https://cdn.myanimelist.net/images/manga/3/57397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

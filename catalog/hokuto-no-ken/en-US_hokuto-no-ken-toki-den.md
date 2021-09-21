@@ -1,5 +1,7 @@
 # Hokuto no Ken: Toki-den
 
+![hokuto-no-ken-toki-den](https://cdn.myanimelist.net/images/anime/8/8122.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真救世主伝説 北斗の拳 トキ伝

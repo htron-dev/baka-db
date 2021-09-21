@@ -1,5 +1,7 @@
 # Kishi Danchou Shima Kousaku
 
+![kishi-danchou-shima-kousaku](https://cdn.myanimelist.net/images/manga/1/226449.jpg)
+
 -   **type**: manga
 -   **original-name**: 騎士団長 島耕作
 -   **start-date**: 2019-03-28

@@ -1,5 +1,7 @@
 # Hana Shounen
 
+![hana-shounen](https://cdn.myanimelist.net/images/manga/1/95941.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 花少年

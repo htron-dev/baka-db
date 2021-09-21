@@ -1,5 +1,7 @@
 # Devil
 
+![devil](https://cdn.myanimelist.net/images/manga/5/128037.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

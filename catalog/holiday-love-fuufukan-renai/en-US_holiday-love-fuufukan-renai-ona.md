@@ -1,5 +1,7 @@
 # Holiday Love: Fuufukan Renai
 
+![holiday-love-fuufukan-renai](https://cdn.myanimelist.net/images/anime/1664/93326.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: ホリデイラブ 〜夫婦間恋愛〜

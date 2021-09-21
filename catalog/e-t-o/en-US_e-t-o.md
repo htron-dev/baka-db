@@ -1,5 +1,7 @@
 # E.T.O.
 
+![e-t-o](https://cdn.myanimelist.net/images/manga/1/203700.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

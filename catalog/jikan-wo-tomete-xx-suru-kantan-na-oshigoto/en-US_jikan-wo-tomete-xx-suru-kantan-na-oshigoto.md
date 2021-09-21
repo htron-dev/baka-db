@@ -1,5 +1,7 @@
 # Jikan wo Tomete xx Suru Kantan na Oshigoto
 
+![jikan-wo-tomete-xx-suru-kantan-na-oshigoto](https://cdn.myanimelist.net/images/manga/3/169719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

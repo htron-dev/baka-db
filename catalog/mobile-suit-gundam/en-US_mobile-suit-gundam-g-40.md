@@ -1,5 +1,7 @@
 # Mobile Suit Gundam G40
 
+![mobile-suit-gundam-g-40](https://cdn.myanimelist.net/images/anime/1770/105718.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム G40

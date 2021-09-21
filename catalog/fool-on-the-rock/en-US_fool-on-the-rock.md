@@ -1,5 +1,7 @@
 # Fool on the Rock
 
+![fool-on-the-rock](https://cdn.myanimelist.net/images/manga/2/171748.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Ginga Hyouryuu Vifam
 
+![ginga-hyouryuu-vifam](https://cdn.myanimelist.net/images/anime/7/73992.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 銀河漂流バイファム

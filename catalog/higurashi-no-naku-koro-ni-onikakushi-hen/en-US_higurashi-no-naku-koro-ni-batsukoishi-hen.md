@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Batsukoishi-hen
 
+![higurashi-no-naku-koro-ni-batsukoishi-hen](https://cdn.myanimelist.net/images/manga/3/40585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひぐらしのなく頃に 罰恋し編

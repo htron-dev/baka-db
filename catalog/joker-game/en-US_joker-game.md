@@ -1,5 +1,7 @@
 # Joker Game
 
+![joker-game](https://cdn.myanimelist.net/images/manga/3/163826.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

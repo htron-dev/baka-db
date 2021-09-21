@@ -1,5 +1,7 @@
 # Juubee Ninpuuchou: Ryuuhougyoku-hen
 
+![juubee-ninpuuchou-ryuuhougyoku-hen](https://cdn.myanimelist.net/images/anime/1898/103439.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 獣兵衛忍風帖「龍宝玉篇」

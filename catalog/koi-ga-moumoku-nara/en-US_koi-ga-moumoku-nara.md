@@ -1,5 +1,7 @@
 # Koi ga Moumoku nara
 
+![koi-ga-moumoku-nara](https://cdn.myanimelist.net/images/manga/2/62599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

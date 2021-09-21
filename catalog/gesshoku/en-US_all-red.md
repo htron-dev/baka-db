@@ -1,5 +1,7 @@
 # All Red
 
+![all-red](https://cdn.myanimelist.net/images/manga/2/38973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オール・レッド

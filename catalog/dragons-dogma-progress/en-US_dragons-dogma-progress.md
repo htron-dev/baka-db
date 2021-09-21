@@ -1,5 +1,7 @@
 # Dragon's Dogma Progress
 
+![dragons-dogma-progress](https://cdn.myanimelist.net/images/manga/3/159548.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

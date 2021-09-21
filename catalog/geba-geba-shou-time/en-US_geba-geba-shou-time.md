@@ -1,5 +1,7 @@
 # Geba Geba Shou Time!
 
+![geba-geba-shou-time](https://cdn.myanimelist.net/images/anime/11/56755.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゲバゲバ笑タイム!

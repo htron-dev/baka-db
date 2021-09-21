@@ -1,5 +1,7 @@
 # Innocence: After the Long Goodbye
 
+![innocence-after-the-long-goodbye](https://cdn.myanimelist.net/images/manga/1/14563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

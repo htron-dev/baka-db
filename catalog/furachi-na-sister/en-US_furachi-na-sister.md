@@ -1,5 +1,7 @@
 # Furachi na Sister
 
+![furachi-na-sister](https://cdn.myanimelist.net/images/manga/2/95697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 不埒なシスター

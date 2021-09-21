@@ -1,5 +1,7 @@
 # Doraemon Movie 04: Nobita no Kaitei Kiganjou
 
+![doraemon-movie-04-nobita-no-kaitei-kiganjou](https://cdn.myanimelist.net/images/anime/13/72409.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の海底鬼岩城

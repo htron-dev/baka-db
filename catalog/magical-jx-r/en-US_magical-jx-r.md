@@ -1,5 +1,7 @@
 # Magical JxR
 
+![magical-jx-r](https://cdn.myanimelist.net/images/manga/4/30358.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 24

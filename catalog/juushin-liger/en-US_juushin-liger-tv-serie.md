@@ -1,5 +1,7 @@
 # Juushin Liger
 
+![juushin-liger](https://cdn.myanimelist.net/images/anime/1809/93956.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 獣神ライガー

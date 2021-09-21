@@ -1,5 +1,7 @@
 # Ganbare Genki
 
+![ganbare-genki](https://cdn.myanimelist.net/images/manga/1/38437.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 225

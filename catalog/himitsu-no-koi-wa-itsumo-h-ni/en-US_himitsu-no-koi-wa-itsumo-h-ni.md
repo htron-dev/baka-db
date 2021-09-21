@@ -1,5 +1,7 @@
 # Himitsu no Koi wa Itsumo H ni
 
+![himitsu-no-koi-wa-itsumo-h-ni](https://cdn.myanimelist.net/images/manga/2/10429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヒミツの恋はいつも H に

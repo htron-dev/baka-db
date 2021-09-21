@@ -1,5 +1,7 @@
 # Lady!? Steady, Go!!
 
+![lady-steady-go](https://cdn.myanimelist.net/images/manga/3/166125.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Lady!? Steady,GO!!
 -   **start-date**: 2015-10-30

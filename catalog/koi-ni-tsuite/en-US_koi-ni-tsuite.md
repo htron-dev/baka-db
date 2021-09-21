@@ -1,5 +1,7 @@
 # Koi ni Tsuite
 
+![koi-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/44583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

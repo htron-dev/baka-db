@@ -1,5 +1,7 @@
 # Karisome no Hanayome: Ouji no Hisoka na Shuuai
 
+![karisome-no-hanayome-ouji-no-hisoka-na-shuuai](https://cdn.myanimelist.net/images/manga/3/191965.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

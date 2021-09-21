@@ -1,5 +1,7 @@
 # Dash! Yonkurou
 
+![dash-yonkurou](https://cdn.myanimelist.net/images/manga/2/187746.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: ダッシュ！四駆郎

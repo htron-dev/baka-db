@@ -1,5 +1,7 @@
 # Magical☆Change
 
+![magical☆-change](https://cdn.myanimelist.net/images/manga/3/222013.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

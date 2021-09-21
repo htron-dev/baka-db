@@ -1,5 +1,7 @@
 # Koukyuu Rakuen Kyuujou: Harem League Baseball
 
+![koukyuu-rakuen-kyuujou-harem-league-baseball](https://cdn.myanimelist.net/images/manga/1/176907.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

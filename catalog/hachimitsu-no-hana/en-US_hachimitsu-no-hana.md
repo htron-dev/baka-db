@@ -1,5 +1,7 @@
 # Hachimitsu no Hana
 
+![hachimitsu-no-hana](https://cdn.myanimelist.net/images/manga/1/6247.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

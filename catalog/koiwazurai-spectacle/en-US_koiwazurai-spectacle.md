@@ -1,5 +1,7 @@
 # Koiwazurai Spectacle
 
+![koiwazurai-spectacle](https://cdn.myanimelist.net/images/manga/2/243639.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 恋患いスペクタクル

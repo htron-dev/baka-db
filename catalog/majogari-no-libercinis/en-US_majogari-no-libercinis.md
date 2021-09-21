@@ -1,5 +1,7 @@
 # Majogari no Libercinis
 
+![majogari-no-libercinis](https://cdn.myanimelist.net/images/manga/2/210927.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

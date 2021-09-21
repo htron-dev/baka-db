@@ -1,5 +1,7 @@
 # Houkago Strip
 
+![houkago-strip](https://cdn.myanimelist.net/images/manga/3/226364.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後すとりっぷ
 -   **start-date**: 2017-12-10

@@ -1,5 +1,7 @@
 # Henkyou no Roukishi Bard Loen
 
+![henkyou-no-roukishi-bard-loen](https://cdn.myanimelist.net/images/manga/2/193916.jpg)
+
 -   **type**: manga
 -   **original-name**: 辺境の老騎士 バルド・ローエン
 -   **start-date**: 2016-09-06

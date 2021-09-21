@@ -1,5 +1,7 @@
 # Densetsu Kyojin Ideon: Hatsudou-hen
 
+![densetsu-kyojin-ideon-hatsudou-hen](https://cdn.myanimelist.net/images/anime/1146/91266.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 伝説巨神イデオン 発動篇

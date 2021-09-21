@@ -1,5 +1,7 @@
 # Fate/Grand Order: Epic of Remnant - Ashu Tokuiten II - Denshou Chitei Sekai Agartha - Agartha no Onna
 
+![fate-grand-order-epic-of-remnant-ashu-tokuiten-ii-denshou-chitei-sekai-agartha-agartha-no-onna](https://cdn.myanimelist.net/images/manga/1/226270.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order ‐Epic of Remnant‐ 亜種特異点 II 伝承地底世界 アガルタ アガルタの女
 -   **start-date**: 2019-02-04

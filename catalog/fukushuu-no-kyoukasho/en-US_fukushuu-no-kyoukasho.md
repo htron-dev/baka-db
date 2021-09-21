@@ -1,5 +1,7 @@
 # Fukushuu no Kyoukasho
 
+![fukushuu-no-kyoukasho](https://cdn.myanimelist.net/images/manga/3/232291.jpg)
+
 -   **type**: manga
 -   **original-name**: 復讐の教科書
 -   **start-date**: 2020-03-23

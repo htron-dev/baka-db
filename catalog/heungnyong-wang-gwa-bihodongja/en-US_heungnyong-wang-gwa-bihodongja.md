@@ -1,5 +1,7 @@
 # Heungnyong Wang gwa Bihodongja
 
+![heungnyong-wang-gwa-bihodongja](https://cdn.myanimelist.net/images/anime/4/49023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 흑룡왕과 비호동자

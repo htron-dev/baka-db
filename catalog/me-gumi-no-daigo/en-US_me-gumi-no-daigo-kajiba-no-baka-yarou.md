@@ -1,5 +1,7 @@
 # Me gumi no Daigo: Kajiba no Baka Yarou
 
+![me-gumi-no-daigo-kajiba-no-baka-yarou](https://cdn.myanimelist.net/images/anime/9/35353.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: め組の大吾 火事場のバカヤロー

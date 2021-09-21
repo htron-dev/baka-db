@@ -1,5 +1,7 @@
 # Sekirara Hime to Minus Ouji
 
+![sekirara-hime-to-minus-ouji](https://cdn.myanimelist.net/images/manga/1/244253.jpg)
+
 -   **type**: manga
 -   **original-name**: セキララ姫とマイナス王子
 -   **start-date**: 2017-08-07

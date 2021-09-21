@@ -1,5 +1,7 @@
 # Juutekki: Akatsuki
 
+![juutekki-akatsuki](https://cdn.myanimelist.net/images/manga/1/128933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

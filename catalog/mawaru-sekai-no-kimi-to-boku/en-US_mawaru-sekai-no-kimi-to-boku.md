@@ -1,5 +1,7 @@
 # Mawaru Sekai no Kimi to Boku
 
+![mawaru-sekai-no-kimi-to-boku](https://cdn.myanimelist.net/images/manga/3/37572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

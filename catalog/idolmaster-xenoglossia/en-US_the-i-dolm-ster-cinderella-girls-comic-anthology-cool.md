@@ -1,5 +1,7 @@
 # The iDOLM@STER: Cinderella Girls Comic Anthology - cool
 
+![the-i-dolm-ster-cinderella-girls-comic-anthology-cool](https://cdn.myanimelist.net/images/manga/1/135899.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドルマスター シンデレラガールズ コミックアンソロジー cool
 -   **start-date**: 2012-11-30

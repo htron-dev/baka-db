@@ -1,5 +1,7 @@
 # Gundam: G no Reconguista - From the Past to the Future
 
+![gundam-g-no-reconguista-from-the-past-to-the-future](https://cdn.myanimelist.net/images/anime/4/76243.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガンダム G のレコンギスタ FROM THE PAST TO THE FUTURE

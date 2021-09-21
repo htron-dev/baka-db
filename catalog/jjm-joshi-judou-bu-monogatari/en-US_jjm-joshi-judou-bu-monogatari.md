@@ -1,5 +1,7 @@
 # JJM: Joshi Judou-bu Monogatari
 
+![jjm-joshi-judou-bu-monogatari](https://cdn.myanimelist.net/images/manga/3/192064.jpg)
+
 -   **type**: manga
 -   **original-name**: JJM 女子柔道部物語
 -   **start-date**: 2016-08-09

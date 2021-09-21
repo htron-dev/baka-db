@@ -1,5 +1,7 @@
 # Taka no Tsume 8: Yoshida-kun no Batten File
 
+![taka-no-tsume-8-yoshida-kun-no-batten-file](https://cdn.myanimelist.net/images/anime/12/80927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鷹の爪 8 吉田くんの X(バッテン)ファイル

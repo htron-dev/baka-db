@@ -1,5 +1,7 @@
 # Zoids Shinseiki/Zero
 
+![zoids-shinseiki-zero](https://cdn.myanimelist.net/images/anime/11/24972.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ゾイド新世紀／ゼロ

@@ -1,5 +1,7 @@
 # Isekai Cheat Magician
 
+![isekai-cheat-magician](https://cdn.myanimelist.net/images/manga/3/217547.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界チート魔術師〈マジシャン〉
 -   **start-date**: 2013-06-28

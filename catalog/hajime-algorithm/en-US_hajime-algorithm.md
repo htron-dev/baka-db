@@ -1,5 +1,7 @@
 # Hajime Algorithm
 
+![hajime-algorithm](https://cdn.myanimelist.net/images/manga/2/203930.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめアルゴリズム
 -   **start-date**: 2017-09-07

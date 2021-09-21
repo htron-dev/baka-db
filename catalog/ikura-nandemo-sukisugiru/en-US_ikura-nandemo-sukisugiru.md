@@ -1,5 +1,7 @@
 # Ikura Nandemo Sukisugiru
 
+![ikura-nandemo-sukisugiru](https://cdn.myanimelist.net/images/manga/2/26487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

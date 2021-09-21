@@ -1,5 +1,7 @@
 # Kuzu de Baka ni wa Nido to Awanai
 
+![kuzu-de-baka-ni-wa-nido-to-awanai](https://cdn.myanimelist.net/images/manga/3/204158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

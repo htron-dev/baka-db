@@ -1,5 +1,7 @@
 # Kenja no Deshi wo Nanoru Kenja the Comic
 
+![kenja-no-deshi-wo-nanoru-kenja-the-comic](https://cdn.myanimelist.net/images/manga/3/195544.jpg)
+
 -   **type**: manga
 -   **original-name**: 賢者の弟子を名乗る賢者 THE COMIC
 -   **start-date**: 2016-07-28

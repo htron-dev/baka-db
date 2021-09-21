@@ -1,5 +1,7 @@
 # Koi to Wana
 
+![koi-to-wana](https://cdn.myanimelist.net/images/manga/5/130143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

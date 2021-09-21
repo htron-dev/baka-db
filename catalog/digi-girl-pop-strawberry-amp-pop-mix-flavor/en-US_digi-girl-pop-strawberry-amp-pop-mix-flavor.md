@@ -1,5 +1,7 @@
 # DigiGirl Pop!: Strawberry &amp; Pop Mix Flavor
 
+![digi-girl-pop-strawberry-amp-pop-mix-flavor](https://cdn.myanimelist.net/images/anime/6/66695.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: デジガール POP! 〜STRAWBERRY＆POP MIX FLAVOR〜

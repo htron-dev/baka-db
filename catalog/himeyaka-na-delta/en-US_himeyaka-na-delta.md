@@ -1,5 +1,7 @@
 # Himeyaka na Delta
 
+![himeyaka-na-delta](https://cdn.myanimelist.net/images/manga/3/5091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 秘めやかなデルタ

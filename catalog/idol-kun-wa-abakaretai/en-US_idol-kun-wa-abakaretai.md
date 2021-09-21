@@ -1,5 +1,7 @@
 # Idol-kun wa Abakaretai
 
+![idol-kun-wa-abakaretai](https://cdn.myanimelist.net/images/manga/2/236078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Langene x Code
 
+![langene-x-code](https://cdn.myanimelist.net/images/manga/3/147387.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ランジーン × コード
 -   **start-date**: 2010-09-10

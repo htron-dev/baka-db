@@ -1,5 +1,7 @@
 # Kagami
 
+![kagami](https://cdn.myanimelist.net/images/anime/5/71725.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かがみ

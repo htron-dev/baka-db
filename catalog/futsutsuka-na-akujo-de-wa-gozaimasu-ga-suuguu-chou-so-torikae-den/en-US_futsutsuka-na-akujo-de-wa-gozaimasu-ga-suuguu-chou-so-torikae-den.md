@@ -1,5 +1,7 @@
 # Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chou So Torikae Den
 
+![futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chou-so-torikae-den](https://cdn.myanimelist.net/images/manga/1/247266.jpg)
+
 -   **type**: manga
 -   **original-name**: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
 -   **start-date**: 2020-12-28

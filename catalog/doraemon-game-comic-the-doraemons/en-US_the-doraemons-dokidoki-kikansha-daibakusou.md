@@ -1,5 +1,7 @@
 # The☆Doraemons: Dokidoki Kikansha Daibakusou!
 
+![the☆-doraemons-dokidoki-kikansha-daibakusou](https://cdn.myanimelist.net/images/anime/4/59531.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザ ☆ ドラえもんズ ドキドキ機関車大爆走！

@@ -1,5 +1,7 @@
 # Sekikashita Kusanagi
 
+![sekikashita-kusanagi](https://cdn.myanimelist.net/images/anime/1170/111193.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 石化した草薙

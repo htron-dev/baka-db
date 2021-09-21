@@ -1,5 +1,7 @@
 # Hetalia: The Beautiful World
 
+![hetalia-the-beautiful-world](https://cdn.myanimelist.net/images/anime/12/46073.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: ヘタリア The Beautiful World

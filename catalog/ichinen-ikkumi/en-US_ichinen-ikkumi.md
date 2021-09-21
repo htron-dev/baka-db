@@ -1,5 +1,7 @@
 # Ichinen Ikkumi
 
+![ichinen-ikkumi](https://cdn.myanimelist.net/images/anime/6/67469.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 1 ねん 1 くみ

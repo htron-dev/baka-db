@@ -1,5 +1,7 @@
 # Ijimete! Haisha-san
 
+![ijimete-haisha-san](https://cdn.myanimelist.net/images/manga/1/227089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

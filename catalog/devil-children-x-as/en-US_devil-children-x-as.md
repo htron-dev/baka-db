@@ -1,5 +1,7 @@
 # Devil Children x AS
 
+![devil-children-x-as](https://cdn.myanimelist.net/images/manga/3/142965.jpg)
+
 -   **type**: manga
 -   **original-name**: DEVIL CHILDREN × AS〈アルティメットスペック〉
 

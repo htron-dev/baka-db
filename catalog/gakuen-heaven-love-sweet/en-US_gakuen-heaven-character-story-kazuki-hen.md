@@ -1,5 +1,7 @@
 # Gakuen Heaven: Character Story - Kazuki-hen
 
+![gakuen-heaven-character-story-kazuki-hen](https://cdn.myanimelist.net/images/manga/2/22126.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

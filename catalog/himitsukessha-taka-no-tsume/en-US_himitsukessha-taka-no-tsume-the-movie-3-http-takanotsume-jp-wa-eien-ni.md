@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume The Movie 3: http://takanotsume.jp wa Eien ni
 
+![himitsukessha-taka-no-tsume-the-movie-3-http-takanotsume-jp-wa-eien-ni](https://cdn.myanimelist.net/images/anime/10/22016.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 THE MOVIE3 http://鷹の爪.jp は永遠に

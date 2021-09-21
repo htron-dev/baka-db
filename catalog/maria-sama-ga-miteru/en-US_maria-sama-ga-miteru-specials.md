@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru Specials
 
+![maria-sama-ga-miteru-specials](https://cdn.myanimelist.net/images/anime/10/14338.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: マリア様がみてる

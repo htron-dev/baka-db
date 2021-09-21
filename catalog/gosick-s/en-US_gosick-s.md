@@ -1,5 +1,7 @@
 # GosickS
 
+![gosick-s](https://cdn.myanimelist.net/images/manga/2/108087.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 29

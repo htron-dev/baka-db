@@ -1,5 +1,7 @@
 # Kekkyoku, Ninja to Dragon wa Docchi ga Tsuyoi no?
 
+![kekkyoku-ninja-to-dragon-wa-docchi-ga-tsuyoi-no](https://cdn.myanimelist.net/images/manga/3/176759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Kidou Senshi Crossbone Gundam: Koutetsu no 7-nin
 
+![kidou-senshi-crossbone-gundam-koutetsu-no-7-nin](https://cdn.myanimelist.net/images/manga/5/111841.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

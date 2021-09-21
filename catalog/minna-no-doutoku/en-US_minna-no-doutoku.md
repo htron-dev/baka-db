@@ -1,5 +1,7 @@
 # Minna no Doutoku
 
+![minna-no-doutoku](https://cdn.myanimelist.net/images/anime/7/66275.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: みんなのどうとく

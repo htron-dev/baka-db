@@ -1,5 +1,7 @@
 # Banbi
 
+![banbi](https://cdn.myanimelist.net/images/manga/2/223906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

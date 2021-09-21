@@ -1,5 +1,7 @@
 # Kingdom of Zombie
 
+![kingdom-of-zombie](https://cdn.myanimelist.net/images/manga/1/86581.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 11

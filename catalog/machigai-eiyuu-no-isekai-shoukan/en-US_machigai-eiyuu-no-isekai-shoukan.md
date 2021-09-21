@@ -1,5 +1,7 @@
 # Machigai Eiyuu no Isekai Shoukan
 
+![machigai-eiyuu-no-isekai-shoukan](https://cdn.myanimelist.net/images/manga/2/116877.jpg)
+
 -   **type**: light-novel
 -   **original-name**: まちがい英雄の異世界召喚
 -   **start-date**: 2014-02-20

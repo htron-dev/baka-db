@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru 4th Specials
 
+![maria-sama-ga-miteru-4th-specials](https://cdn.myanimelist.net/images/anime/12/14166.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: マリア様にはないしょ。

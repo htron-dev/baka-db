@@ -1,5 +1,7 @@
 # Kakafukaka
 
+![kakafukaka](https://cdn.myanimelist.net/images/manga/1/178713.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 60

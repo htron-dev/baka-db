@@ -1,5 +1,7 @@
 # Detective Conan Movie 09: Strategy Above the Depths
 
+![detective-conan-movie-09-strategy-above-the-depths](https://cdn.myanimelist.net/images/anime/8/20983.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン　水平線上の陰謀

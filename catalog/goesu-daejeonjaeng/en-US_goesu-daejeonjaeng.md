@@ -1,5 +1,7 @@
 # Goesu Daejeonjaeng
 
+![goesu-daejeonjaeng](https://cdn.myanimelist.net/images/anime/4/45056.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 괴수대전쟁

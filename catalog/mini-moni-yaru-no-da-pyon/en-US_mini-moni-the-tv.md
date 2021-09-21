@@ -1,5 +1,7 @@
 # Mini Moni the TV
 
+![mini-moni-the-tv](https://cdn.myanimelist.net/images/anime/7/7500.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: ミニモニ. じゃてーびぃ

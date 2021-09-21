@@ -1,5 +1,7 @@
 # Suite Precure♪
 
+![suite-precure♪](https://cdn.myanimelist.net/images/anime/3/32129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: スイート プリキュア ♪

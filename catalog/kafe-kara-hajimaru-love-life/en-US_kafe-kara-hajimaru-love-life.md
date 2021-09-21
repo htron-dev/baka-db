@@ -1,5 +1,7 @@
 # Kafe Kara Hajimaru Love Life
 
+![kafe-kara-hajimaru-love-life](https://cdn.myanimelist.net/images/manga/1/6090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

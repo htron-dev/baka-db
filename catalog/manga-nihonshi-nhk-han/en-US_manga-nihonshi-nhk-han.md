@@ -1,5 +1,7 @@
 # Manga Nihonshi (NHK Han)
 
+![manga-nihonshi-nhk-han](https://cdn.myanimelist.net/images/anime/10/59271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: まんが日本史[NHK 版]

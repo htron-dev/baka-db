@@ -1,5 +1,7 @@
 # Miseinen dakedo Kodomo ja Nai
 
+![miseinen-dakedo-kodomo-ja-nai](https://cdn.myanimelist.net/images/manga/2/177111.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

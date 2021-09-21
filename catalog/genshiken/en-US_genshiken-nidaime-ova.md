@@ -1,5 +1,7 @@
 # Genshiken Nidaime OVA
 
+![genshiken-nidaime-ova](https://cdn.myanimelist.net/images/anime/12/57145.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: げんしけん オリジナルアニメ DVD

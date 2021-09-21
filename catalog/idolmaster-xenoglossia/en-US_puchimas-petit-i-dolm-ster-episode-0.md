@@ -1,5 +1,7 @@
 # Puchimas!: Petit iDOLM@STER Episode 0
 
+![puchimas-petit-i-dolm-ster-episode-0](https://cdn.myanimelist.net/images/anime/6/44678.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぷちます！だい 0 わ

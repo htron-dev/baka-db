@@ -1,5 +1,7 @@
 # Haiyore! Nyaruko-san Comic Anthology
 
+![haiyore-nyaruko-san-comic-anthology](https://cdn.myanimelist.net/images/manga/2/97983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 這いよれ! ニャル子さん コミックアンソロジー

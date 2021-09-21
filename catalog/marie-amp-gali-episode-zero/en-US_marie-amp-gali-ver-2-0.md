@@ -1,5 +1,7 @@
 # Marie &amp; Gali ver. 2.0
 
+![marie-amp-gali-ver-2-0](https://cdn.myanimelist.net/images/anime/6/26702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: マリー＆ガリー ver.2.0

@@ -1,5 +1,7 @@
 # Ikoku Meiro no Alice-chan
 
+![ikoku-meiro-no-alice-chan](https://cdn.myanimelist.net/images/manga/1/45203.jpg)
+
 -   **type**: manga
 -   **original-name**: 異国迷路のアリスちゃん
 

@@ -1,5 +1,7 @@
 # Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
 
+![magia-record-mahou-shoujo-madoka☆-magica-gaiden](https://cdn.myanimelist.net/images/anime/3/85020.jpg)
+
 -   **type**: special
 -   **original-name**: マギアレコード 魔法少女まどか ☆ マギカ外伝
 -   **start-date**: 2016-09-30

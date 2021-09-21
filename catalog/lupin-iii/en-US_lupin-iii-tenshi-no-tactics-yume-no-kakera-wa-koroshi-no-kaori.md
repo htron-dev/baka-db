@@ -1,5 +1,7 @@
 # Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori
 
+![lupin-iii-tenshi-no-tactics-yume-no-kakera-wa-koroshi-no-kaori](https://cdn.myanimelist.net/images/anime/10/27604.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 - 天使の策略（タクティクス）～夢のカケラは殺しの香り～

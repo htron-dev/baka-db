@@ -1,5 +1,7 @@
 # Eiyuu to Kosodoro
 
+![eiyuu-to-kosodoro](https://cdn.myanimelist.net/images/manga/2/196974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

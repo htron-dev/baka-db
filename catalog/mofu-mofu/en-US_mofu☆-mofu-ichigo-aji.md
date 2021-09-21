@@ -1,5 +1,7 @@
 # Mofu☆Mofu: Ichigo Aji
 
+![mofu☆-mofu-ichigo-aji](https://cdn.myanimelist.net/images/manga/3/173165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: モフ ☆ モフ いちごあじ

@@ -1,5 +1,7 @@
 # Kizoku Reijou Aile no Jikenbo Series
 
+![kizoku-reijou-aile-no-jikenbo-series](https://cdn.myanimelist.net/images/manga/1/155796.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 貴族令嬢アイルの事件簿シーリス
 -   **start-date**: 2014-08-09

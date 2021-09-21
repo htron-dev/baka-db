@@ -1,5 +1,7 @@
 # Final Fantasy XII
 
+![final-fantasy-xii](https://cdn.myanimelist.net/images/manga/3/13387.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

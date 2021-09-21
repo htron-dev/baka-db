@@ -1,5 +1,7 @@
 # Koihime†Musou
 
+![koihime-musou](https://cdn.myanimelist.net/images/anime/4/20740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 恋姫†無双

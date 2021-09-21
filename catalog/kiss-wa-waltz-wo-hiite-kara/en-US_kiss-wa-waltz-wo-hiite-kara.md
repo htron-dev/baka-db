@@ -1,5 +1,7 @@
 # Kiss wa Waltz wo Hiite kara
 
+![kiss-wa-waltz-wo-hiite-kara](https://cdn.myanimelist.net/images/manga/1/194270.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Joshikousei Nobunaga-chan!!
 
+![joshikousei-nobunaga-chan](https://cdn.myanimelist.net/images/anime/8/55111.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 女子高生信長ちゃん!!

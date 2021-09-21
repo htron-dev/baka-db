@@ -1,5 +1,7 @@
 # Geinoujin na Yatsura
 
+![geinoujin-na-yatsura](https://cdn.myanimelist.net/images/manga/3/22888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

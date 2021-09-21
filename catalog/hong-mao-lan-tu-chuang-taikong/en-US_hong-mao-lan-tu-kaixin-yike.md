@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Kaixin Yike
 
+![hong-mao-lan-tu-kaixin-yike](https://cdn.myanimelist.net/images/anime/1704/98694.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: 虹猫蓝兔开心一刻

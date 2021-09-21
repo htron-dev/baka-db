@@ -1,5 +1,7 @@
 # Hatsumei Boy Kanipan
 
+![hatsumei-boy-kanipan](https://cdn.myanimelist.net/images/anime/3/46389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: 発明 BOY カニパン

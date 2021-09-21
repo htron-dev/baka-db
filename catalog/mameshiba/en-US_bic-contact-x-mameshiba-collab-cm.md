@@ -1,5 +1,7 @@
 # Bic Contact X Mameshiba Collab CM
 
+![bic-contact-x-mameshiba-collab-cm](https://cdn.myanimelist.net/images/anime/6/80695.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ビックコンタクト × 豆しばコラボ CM

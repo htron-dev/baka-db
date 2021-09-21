@@ -1,5 +1,7 @@
 # Hyakuman-jou Labyrinth
 
+![hyakuman-jou-labyrinth](https://cdn.myanimelist.net/images/manga/1/196858.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

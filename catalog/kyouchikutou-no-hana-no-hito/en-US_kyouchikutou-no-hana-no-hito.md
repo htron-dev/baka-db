@@ -1,5 +1,7 @@
 # Kyouchikutou no Hana no Hito
 
+![kyouchikutou-no-hana-no-hito](https://cdn.myanimelist.net/images/manga/1/199598.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

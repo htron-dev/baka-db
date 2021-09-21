@@ -1,5 +1,7 @@
 # Jeonsa Ryan
 
+![jeonsa-ryan](https://cdn.myanimelist.net/images/anime/1864/114505.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 전사 라이안

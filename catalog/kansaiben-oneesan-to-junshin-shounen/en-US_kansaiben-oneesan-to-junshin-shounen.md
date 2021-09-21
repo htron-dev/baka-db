@@ -1,5 +1,7 @@
 # Kansaiben Oneesan to Junshin Shounen
 
+![kansaiben-oneesan-to-junshin-shounen](https://cdn.myanimelist.net/images/manga/3/232957.jpg)
+
 -   **type**: manga
 -   **original-name**: 関西弁お姉さんと純真少年
 -   **start-date**: 2020-03-19

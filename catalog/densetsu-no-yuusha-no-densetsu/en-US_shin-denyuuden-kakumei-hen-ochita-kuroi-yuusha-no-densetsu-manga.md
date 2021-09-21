@@ -1,5 +1,7 @@
 # Shin Denyuuden Kakumei-hen: Ochita Kuroi Yuusha no Densetsu
 
+![shin-denyuuden-kakumei-hen-ochita-kuroi-yuusha-no-densetsu](https://cdn.myanimelist.net/images/manga/4/71223.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 真伝勇伝・革命編 堕ちた黒い勇者の伝説

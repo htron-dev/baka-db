@@ -1,5 +1,7 @@
 # Heian Mononoke Busters: Daitouzoku no Saishuushoku
 
+![heian-mononoke-busters-daitouzoku-no-saishuushoku](https://cdn.myanimelist.net/images/manga/1/174468.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Muumin
 
+![muumin](https://cdn.myanimelist.net/images/anime/8/21297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: ムーミン

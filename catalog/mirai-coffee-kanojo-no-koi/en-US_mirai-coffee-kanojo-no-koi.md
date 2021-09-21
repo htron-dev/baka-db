@@ -1,5 +1,7 @@
 # Mirai/Coffee: Kanojo no Koi.
 
+![mirai-coffee-kanojo-no-koi](https://cdn.myanimelist.net/images/manga/2/177101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 24

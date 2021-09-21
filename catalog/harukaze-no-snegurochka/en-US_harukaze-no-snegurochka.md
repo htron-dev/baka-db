@@ -1,5 +1,7 @@
 # Harukaze no Snegurochka
 
+![harukaze-no-snegurochka](https://cdn.myanimelist.net/images/manga/2/132967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

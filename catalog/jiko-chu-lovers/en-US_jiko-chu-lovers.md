@@ -1,5 +1,7 @@
 # Jiko Chu Lovers
 
+![jiko-chu-lovers](https://cdn.myanimelist.net/images/manga/1/10811.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 自己ｃｈｕラヴァーズ

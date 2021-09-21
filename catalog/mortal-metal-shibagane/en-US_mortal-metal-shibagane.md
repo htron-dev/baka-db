@@ -1,5 +1,7 @@
 # Mortal Metal Shibagane
 
+![mortal-metal-shibagane](https://cdn.myanimelist.net/images/manga/5/74471.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Mortal METAL 屍鋼

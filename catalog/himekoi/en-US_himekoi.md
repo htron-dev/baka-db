@@ -1,5 +1,7 @@
 # Himekoi
 
+![himekoi](https://cdn.myanimelist.net/images/manga/1/52067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

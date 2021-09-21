@@ -1,5 +1,7 @@
 # Doukyuusei (Movie)
 
+![doukyuusei-movie](https://cdn.myanimelist.net/images/anime/3/78606.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 同級生

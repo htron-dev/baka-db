@@ -1,5 +1,7 @@
 # Moe Kare!!
 
+![moe-kare](https://cdn.myanimelist.net/images/manga/4/168281.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

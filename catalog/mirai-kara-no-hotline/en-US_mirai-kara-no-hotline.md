@@ -1,5 +1,7 @@
 # Mirai kara no Hotline
 
+![mirai-kara-no-hotline](https://cdn.myanimelist.net/images/manga/3/97853.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 未来からのホットライン

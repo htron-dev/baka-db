@@ -1,5 +1,7 @@
 # Dusty☆Vampire Girl
 
+![dusty☆-vampire-girl](https://cdn.myanimelist.net/images/manga/2/161728.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ダスティー ☆ ヴァンパイアガール
 -   **start-date**: 2015-08-08

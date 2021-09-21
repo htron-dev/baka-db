@@ -1,5 +1,7 @@
 # Taka no Tsume NEO Announcement Movie
 
+![taka-no-tsume-neo-announcement-movie](https://cdn.myanimelist.net/images/anime/6/37617.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鷹の爪 NEO 　予告ムービー

@@ -1,5 +1,7 @@
 # Magic
 
+![magic](https://cdn.myanimelist.net/images/manga/1/20319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

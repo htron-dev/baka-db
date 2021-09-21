@@ -1,5 +1,7 @@
 # Longest Time
 
+![longest-time](https://cdn.myanimelist.net/images/manga/3/12173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 長い間

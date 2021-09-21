@@ -1,5 +1,7 @@
 # Hijou na Koibito
 
+![hijou-na-koibito](https://cdn.myanimelist.net/images/manga/2/124171.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 非情な恋人

@@ -1,5 +1,7 @@
 # Lupin III: Cagliostro no Shiro
 
+![lupin-iii-cagliostro-no-shiro](https://cdn.myanimelist.net/images/anime/5/26182.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世 カリオストロの城

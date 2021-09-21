@@ -1,5 +1,7 @@
 # Karisome no Keiyaku: Kyuuketsuki no Henai, Kishi no Shuuai
 
+![karisome-no-keiyaku-kyuuketsuki-no-henai-kishi-no-shuuai](https://cdn.myanimelist.net/images/manga/2/194779.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 仮初の契約～吸血鬼の偏愛、騎士の執愛～

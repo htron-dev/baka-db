@@ -1,5 +1,7 @@
 # Kigurumikku V3
 
+![kigurumikku-v-3](https://cdn.myanimelist.net/images/anime/13/14196.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: きグルみっく ☆V3

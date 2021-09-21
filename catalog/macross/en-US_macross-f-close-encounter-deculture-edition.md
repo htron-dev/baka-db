@@ -1,5 +1,7 @@
 # Macross F: Close Encounter - Deculture Edition
 
+![macross-f-close-encounter-deculture-edition](https://cdn.myanimelist.net/images/anime/4/8507.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マクロスＦ　第 1 話「クロース・エンカウンター」Deculture edition

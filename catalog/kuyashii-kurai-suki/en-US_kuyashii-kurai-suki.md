@@ -1,5 +1,7 @@
 # Kuyashii Kurai, Suki.
 
+![kuyashii-kurai-suki](https://cdn.myanimelist.net/images/manga/2/206379.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

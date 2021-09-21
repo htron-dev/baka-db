@@ -1,5 +1,7 @@
 # Akuma wa Hohoemu
 
+![akuma-wa-hohoemu](https://cdn.myanimelist.net/images/manga/2/161600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

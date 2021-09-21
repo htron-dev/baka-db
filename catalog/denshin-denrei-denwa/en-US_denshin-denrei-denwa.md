@@ -1,5 +1,7 @@
 # Denshin Denrei Denwa
 
+![denshin-denrei-denwa](https://cdn.myanimelist.net/images/anime/5/85274.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 電信 電鈴 電話

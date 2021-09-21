@@ -1,5 +1,7 @@
 # Higanbana no Saku Yoru ni
 
+![higanbana-no-saku-yoru-ni](https://cdn.myanimelist.net/images/manga/2/158536.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

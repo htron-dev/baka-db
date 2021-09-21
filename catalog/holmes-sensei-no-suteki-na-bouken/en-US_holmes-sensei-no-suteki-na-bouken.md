@@ -1,5 +1,7 @@
 # Holmes Sensei no Suteki na Bouken
 
+![holmes-sensei-no-suteki-na-bouken](https://cdn.myanimelist.net/images/manga/1/31147.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ホームズ先生の素敵な冒険

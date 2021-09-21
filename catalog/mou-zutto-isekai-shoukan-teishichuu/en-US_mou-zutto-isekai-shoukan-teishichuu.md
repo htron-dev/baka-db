@@ -1,5 +1,7 @@
 # Mou Zutto, Isekai Shoukan Teishichuu!?
 
+![mou-zutto-isekai-shoukan-teishichuu](https://cdn.myanimelist.net/images/manga/1/173063.jpg)
+
 -   **type**: light-novel
 -   **original-name**: もうずっと、異世界召喚停止中!?
 -   **start-date**: 2016-03-01

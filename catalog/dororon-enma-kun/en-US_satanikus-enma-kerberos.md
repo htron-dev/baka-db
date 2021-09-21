@@ -1,5 +1,7 @@
 # Satanikus Enma Kerberos
 
+![satanikus-enma-kerberos](https://cdn.myanimelist.net/images/manga/1/32632.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

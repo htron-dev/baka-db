@@ -1,5 +1,7 @@
 # Kagonashi Reijou no Chiisana Mura: Saa, Ryouchi Unei wo Hajimemashou!
 
+![kagonashi-reijou-no-chiisana-mura-saa-ryouchi-unei-wo-hajimemashou](https://cdn.myanimelist.net/images/manga/3/236443.jpg)
+
 -   **type**: manga
 -   **original-name**: 加護なし令嬢の小さな村 ～さあ、領地運営を始めましょう！～
 -   **start-date**: 2020-04-05

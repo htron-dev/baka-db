@@ -1,5 +1,7 @@
 # Gokufuri Kyohi shite Tesaguri Start!: Tokka shinai Healer, Nakama to Wakarete Tabi ni Deru
 
+![gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deru](https://cdn.myanimelist.net/images/manga/3/246161.jpg)
+
 -   **type**: manga
 -   **original-name**: 極振り拒否して手探りスタート！ 特化しないヒーラー、仲間と別れて旅に出る
 -   **start-date**: 2019-09-06

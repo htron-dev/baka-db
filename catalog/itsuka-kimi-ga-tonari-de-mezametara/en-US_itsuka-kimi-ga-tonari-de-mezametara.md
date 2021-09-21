@@ -1,5 +1,7 @@
 # Itsuka, Kimi ga Tonari de Mezametara
 
+![itsuka-kimi-ga-tonari-de-mezametara](https://cdn.myanimelist.net/images/manga/1/196383.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

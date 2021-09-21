@@ -1,5 +1,7 @@
 # Meiken Jolie
 
+![meiken-jolie](https://cdn.myanimelist.net/images/anime/8/22959.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 名犬ジョリィ

@@ -1,5 +1,7 @@
 # Maou Dante
 
+![maou-dante](https://cdn.myanimelist.net/images/manga/3/10482.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 魔王ダンテ

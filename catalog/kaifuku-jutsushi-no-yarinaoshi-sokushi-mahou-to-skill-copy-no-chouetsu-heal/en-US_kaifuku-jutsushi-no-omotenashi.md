@@ -1,5 +1,7 @@
 # Kaifuku Jutsushi no Omotenashi
 
+![kaifuku-jutsushi-no-omotenashi](https://cdn.myanimelist.net/images/manga/2/248797.jpg)
+
 -   **type**: manga
 -   **original-name**: 回復術士のおもてなし
 -   **start-date**: 2021-01-18

@@ -1,5 +1,7 @@
 # Kimi no Kaeru Basho
 
+![kimi-no-kaeru-basho](https://cdn.myanimelist.net/images/manga/1/107823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

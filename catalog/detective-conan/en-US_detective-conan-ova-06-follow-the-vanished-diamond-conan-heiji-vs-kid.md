@@ -1,5 +1,7 @@
 # Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!
 
+![detective-conan-ova-06-follow-the-vanished-diamond-conan-heiji-vs-kid](https://cdn.myanimelist.net/images/anime/10/31137.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 消えたダイヤを追え! コナン・平次 vs キッド!

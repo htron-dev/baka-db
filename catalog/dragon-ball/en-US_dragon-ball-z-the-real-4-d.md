@@ -1,5 +1,7 @@
 # Dragon Ball Z: The Real 4-D
 
+![dragon-ball-z-the-real-4-d](https://cdn.myanimelist.net/images/anime/8/81666.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z・ザ・リアル 4-D

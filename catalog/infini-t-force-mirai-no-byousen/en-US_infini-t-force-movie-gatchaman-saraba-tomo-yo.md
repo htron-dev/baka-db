@@ -1,5 +1,7 @@
 # Infini-T Force Movie: Gatchaman - Saraba Tomo yo
 
+![infini-t-force-movie-gatchaman-saraba-tomo-yo](https://cdn.myanimelist.net/images/anime/3/89672.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Infini-T Force/ガッチャマン さらば友よ

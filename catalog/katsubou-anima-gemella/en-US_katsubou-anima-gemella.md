@@ -1,5 +1,7 @@
 # Katsubou Anima Gemella
 
+![katsubou-anima-gemella](https://cdn.myanimelist.net/images/manga/2/235418.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mahou Gyoushounin Roma
 
+![mahou-gyoushounin-roma](https://cdn.myanimelist.net/images/manga/1/219836.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

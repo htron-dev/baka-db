@@ -1,5 +1,7 @@
 # Dragon Age: Blood Mage no Seisen
 
+![dragon-age-blood-mage-no-seisen](https://cdn.myanimelist.net/images/anime/1238/90707.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンエイジ -ブラッドメイジの聖戦-

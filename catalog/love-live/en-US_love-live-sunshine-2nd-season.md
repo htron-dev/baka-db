@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! 2nd Season
 
+![love-live-sunshine-2nd-season](https://cdn.myanimelist.net/images/anime/13/88322.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ラブライブ！サンシャイン!! 第 2 期

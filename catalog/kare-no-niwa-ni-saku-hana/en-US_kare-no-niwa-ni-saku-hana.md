@@ -1,5 +1,7 @@
 # Kare no Niwa ni Saku Hana
 
+![kare-no-niwa-ni-saku-hana](https://cdn.myanimelist.net/images/manga/2/82728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

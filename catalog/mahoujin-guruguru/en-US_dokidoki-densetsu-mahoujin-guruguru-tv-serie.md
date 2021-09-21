@@ -1,5 +1,7 @@
 # Dokidoki♡Densetsu: Mahoujin Guruguru
 
+![dokidoki♡-densetsu-mahoujin-guruguru](https://cdn.myanimelist.net/images/anime/2/7581.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: ドキドキ ♡ 伝説 魔法陣グルグル

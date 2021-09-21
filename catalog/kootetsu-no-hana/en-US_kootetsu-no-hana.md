@@ -1,5 +1,7 @@
 # Kootetsu no Hana
 
+![kootetsu-no-hana](https://cdn.myanimelist.net/images/manga/2/99777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

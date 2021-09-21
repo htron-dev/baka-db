@@ -1,5 +1,7 @@
 # Kimi to Boku wo Tsunagumono
 
+![kimi-to-boku-wo-tsunagumono](https://cdn.myanimelist.net/images/manga/1/33858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

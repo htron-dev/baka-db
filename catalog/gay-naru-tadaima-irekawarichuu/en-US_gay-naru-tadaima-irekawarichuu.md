@@ -1,5 +1,7 @@
 # Gay Naru! Tadaima Irekawarichuu
 
+![gay-naru-tadaima-irekawarichuu](https://cdn.myanimelist.net/images/manga/3/209416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

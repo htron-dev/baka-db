@@ -1,5 +1,7 @@
 # Yinhun x KFC
 
+![yinhun-x-kfc](https://cdn.myanimelist.net/images/anime/1931/92808.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 银魂 X 肯德基

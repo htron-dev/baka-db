@@ -1,5 +1,7 @@
 # Joou-sama no Roommate
 
+![joou-sama-no-roommate](https://cdn.myanimelist.net/images/manga/1/212108.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

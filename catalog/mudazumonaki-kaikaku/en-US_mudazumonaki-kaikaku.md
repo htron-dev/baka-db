@@ -1,5 +1,7 @@
 # Mudazumonaki Kaikaku
 
+![mudazumonaki-kaikaku](https://cdn.myanimelist.net/images/manga/2/165537.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 144

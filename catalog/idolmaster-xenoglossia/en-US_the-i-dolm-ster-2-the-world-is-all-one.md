@@ -1,5 +1,7 @@
 # The iDOLM@STER 2: The World Is All One!!
 
+![the-i-dolm-ster-2-the-world-is-all-one](https://cdn.myanimelist.net/images/manga/2/154231.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

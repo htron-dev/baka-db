@@ -1,5 +1,7 @@
 # Kagura Mai
 
+![kagura-mai](https://cdn.myanimelist.net/images/manga/2/137895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 神楽舞

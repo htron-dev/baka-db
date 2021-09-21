@@ -1,5 +1,7 @@
 # Enoshima Waikiki Shokudou
 
+![enoshima-waikiki-shokudou](https://cdn.myanimelist.net/images/manga/2/66893.jpg)
+
 -   **type**: manga
 -   **original-name**: 江の島ワイキキ食堂
 -   **start-date**: 2009-10-13

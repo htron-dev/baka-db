@@ -1,5 +1,7 @@
 # Juusou Reijou Morenet
 
+![juusou-reijou-morenet](https://cdn.myanimelist.net/images/manga/1/233768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

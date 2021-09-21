@@ -1,5 +1,7 @@
 # Lucky Jou-chan no Atarashii Shigoto
 
+![lucky-jou-chan-no-atarashii-shigoto](https://cdn.myanimelist.net/images/manga/3/229067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

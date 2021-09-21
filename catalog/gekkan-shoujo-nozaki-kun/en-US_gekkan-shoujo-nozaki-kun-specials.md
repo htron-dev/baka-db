@@ -1,5 +1,7 @@
 # Gekkan Shoujo Nozaki-kun Specials
 
+![gekkan-shoujo-nozaki-kun-specials](https://cdn.myanimelist.net/images/anime/9/66871.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 月刊少女野崎くん ミニ OVA

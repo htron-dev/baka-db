@@ -1,5 +1,7 @@
 # Mata, Kataomou.
 
+![mata-kataomou](https://cdn.myanimelist.net/images/manga/1/193279.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # InuYasha: Kuroi Tessaiga
 
+![inu-yasha-kuroi-tessaiga](https://cdn.myanimelist.net/images/anime/8/60877.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 犬夜叉

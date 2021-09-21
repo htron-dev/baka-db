@@ -1,5 +1,7 @@
 # Kekkon Yubiwa Monogatari
 
+![kekkon-yubiwa-monogatari](https://cdn.myanimelist.net/images/manga/1/188970.jpg)
+
 -   **type**: manga
 -   **original-name**: 結婚指輪物語
 -   **start-date**: 2014-03-31

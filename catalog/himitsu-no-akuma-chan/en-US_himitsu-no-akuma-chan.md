@@ -1,5 +1,7 @@
 # Himitsu no Akuma-chan
 
+![himitsu-no-akuma-chan](https://cdn.myanimelist.net/images/manga/2/137687.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Furachi na Kyuuai: Taikutsuou no Okisakierabi
 
+![furachi-na-kyuuai-taikutsuou-no-okisakierabi](https://cdn.myanimelist.net/images/manga/2/191903.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Gokuto Jihen
 
+![gokuto-jihen](https://cdn.myanimelist.net/images/manga/3/170023.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Kizumonogatari II: Nekketsu-hen
 
+![kizumonogatari-ii-nekketsu-hen](https://cdn.myanimelist.net/images/anime/8/80930.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 傷物語〈Ⅱ 熱血篇〉

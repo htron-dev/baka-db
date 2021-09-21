@@ -1,5 +1,7 @@
 # Monster no Goshujinsama
 
+![monster-no-goshujinsama](https://cdn.myanimelist.net/images/manga/3/207163.jpg)
+
 -   **type**: manga
 -   **original-name**: モンスターのご主人様
 -   **start-date**: 2017-10-27

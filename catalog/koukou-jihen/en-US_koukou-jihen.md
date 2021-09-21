@@ -1,5 +1,7 @@
 # Koukou Jihen
 
+![koukou-jihen](https://cdn.myanimelist.net/images/manga/3/236760.jpg)
+
 -   **type**: manga
 -   **original-name**: 高校事変
 -   **start-date**: 2020-01-04

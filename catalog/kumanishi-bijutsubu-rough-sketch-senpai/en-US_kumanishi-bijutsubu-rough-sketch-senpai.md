@@ -1,5 +1,7 @@
 # Kumanishi Bijutsubu Rough Sketch-senpai
 
+![kumanishi-bijutsubu-rough-sketch-senpai](https://cdn.myanimelist.net/images/manga/1/197195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

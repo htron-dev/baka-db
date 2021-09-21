@@ -1,5 +1,7 @@
 # Megami-tachi no Nijuusou
 
+![megami-tachi-no-nijuusou](https://cdn.myanimelist.net/images/manga/1/221618.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 105

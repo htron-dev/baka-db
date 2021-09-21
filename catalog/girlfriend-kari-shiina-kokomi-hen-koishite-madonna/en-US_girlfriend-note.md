@@ -1,5 +1,7 @@
 # Girlfriend (Note)
 
+![girlfriend-note](https://cdn.myanimelist.net/images/anime/8/82065.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ガールフレンド(♪)

@@ -1,5 +1,7 @@
 # Kizaki-kun to Yobanaide!
 
+![kizaki-kun-to-yobanaide](https://cdn.myanimelist.net/images/manga/1/163416.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 木崎くんと呼ばないで!

@@ -1,5 +1,7 @@
 # Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?
 
+![kanojo-ga-flag-wo-oraretara-christmas-sonna-mono-ga-boku-ni-tsuuyou-suru-to-omou-no-ka](https://cdn.myanimelist.net/images/anime/3/69591.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 彼女がフラグをおられたら クリスマス? そんな物が僕に通用すると思うのか?

@@ -1,5 +1,7 @@
 # Itsushika Kimi no Toriko
 
+![itsushika-kimi-no-toriko](https://cdn.myanimelist.net/images/manga/3/153506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いつしかキミの虜

@@ -1,5 +1,7 @@
 # Yuuwaku Sentiment
 
+![yuuwaku-sentiment](https://cdn.myanimelist.net/images/manga/1/12891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

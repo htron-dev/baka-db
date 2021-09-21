@@ -1,5 +1,7 @@
 # Gin no Kutsu
 
+![gin-no-kutsu](https://cdn.myanimelist.net/images/manga/1/197019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Gundam Build Fighters
 
+![gundam-build-fighters](https://cdn.myanimelist.net/images/manga/2/172282.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Kingdom Hearts
 
+![kingdom-hearts](https://cdn.myanimelist.net/images/manga/2/197189.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

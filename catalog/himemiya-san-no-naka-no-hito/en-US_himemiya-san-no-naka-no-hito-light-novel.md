@@ -1,5 +1,7 @@
 # Himemiya-san no Naka no Hito
 
+![himemiya-san-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/3/163212.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # I=P - Ichapani
 
+![i-p-ichapani](https://cdn.myanimelist.net/images/manga/2/159302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: I=P 　―いちゃぱに―

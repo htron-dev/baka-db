@@ -1,5 +1,7 @@
 # Kimi ga Koi ni Ochiru
 
+![kimi-ga-koi-ni-ochiru](https://cdn.myanimelist.net/images/manga/1/209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

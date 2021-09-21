@@ -1,5 +1,7 @@
 # Haruka Tooki Kuni no Monogatari
 
+![haruka-tooki-kuni-no-monogatari](https://cdn.myanimelist.net/images/manga/3/41627.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: はるか遠き国の物語

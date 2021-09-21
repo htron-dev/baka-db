@@ -1,5 +1,7 @@
 # Goodbye! Isekai Tensei
 
+![goodbye-isekai-tensei](https://cdn.myanimelist.net/images/manga/1/210416.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

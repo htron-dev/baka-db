@@ -1,5 +1,7 @@
 # Keishi Sokan Asami
 
+![keishi-sokan-asami](https://cdn.myanimelist.net/images/manga/1/248446.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 165

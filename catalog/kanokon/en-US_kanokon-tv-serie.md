@@ -1,5 +1,7 @@
 # Kanokon
 
+![kanokon](https://cdn.myanimelist.net/images/anime/11/9490.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: かのこん

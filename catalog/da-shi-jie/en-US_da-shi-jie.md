@@ -1,5 +1,7 @@
 # Da Shi Jie
 
+![da-shi-jie](https://cdn.myanimelist.net/images/anime/1320/90231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大世界

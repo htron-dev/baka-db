@@ -1,5 +1,7 @@
 # Karrimor Mountain Club
 
+![karrimor-mountain-club](https://cdn.myanimelist.net/images/anime/1764/98787.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: Karrimor Mountain Club

@@ -1,5 +1,7 @@
 # Marginal Operation: [F]
 
+![marginal-operation-f](https://cdn.myanimelist.net/images/manga/2/149516.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

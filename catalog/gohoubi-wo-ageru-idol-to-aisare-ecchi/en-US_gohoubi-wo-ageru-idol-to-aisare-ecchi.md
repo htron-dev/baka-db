@@ -1,5 +1,7 @@
 # Gohoubi wo Ageru: Idol to Aisare Ecchi
 
+![gohoubi-wo-ageru-idol-to-aisare-ecchi](https://cdn.myanimelist.net/images/manga/2/192332.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

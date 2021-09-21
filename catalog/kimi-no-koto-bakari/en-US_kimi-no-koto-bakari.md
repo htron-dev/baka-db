@@ -1,5 +1,7 @@
 # Kimi no Koto Bakari
 
+![kimi-no-koto-bakari](https://cdn.myanimelist.net/images/manga/2/65135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君のことばかり

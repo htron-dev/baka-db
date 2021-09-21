@@ -1,5 +1,7 @@
 # Kaette Kite yoo Toyama kara
 
+![kaette-kite-yoo-toyama-kara](https://cdn.myanimelist.net/images/anime/12/76178.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 帰ってきてよぉ富山から

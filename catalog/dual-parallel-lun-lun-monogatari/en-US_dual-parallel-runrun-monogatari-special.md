@@ -1,5 +1,7 @@
 # Dual! Parallel Runrun Monogatari Special;
 
+![dual-parallel-runrun-monogatari-special](https://cdn.myanimelist.net/images/anime/4/26319.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デュアル！ぱられルンルン物語「ファイナル・フロンティア」

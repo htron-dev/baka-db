@@ -1,5 +1,7 @@
 # Junketsu Lovers
 
+![junketsu-lovers](https://cdn.myanimelist.net/images/manga/2/109031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

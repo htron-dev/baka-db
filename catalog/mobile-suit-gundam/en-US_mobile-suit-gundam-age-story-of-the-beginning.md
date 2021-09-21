@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE: Story of the Beginning
 
+![mobile-suit-gundam-age-story-of-the-beginning](https://cdn.myanimelist.net/images/manga/3/55109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

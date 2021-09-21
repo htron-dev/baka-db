@@ -1,5 +1,7 @@
 # Kiniro Mosaic: Thank You!!
 
+![kiniro-mosaic-thank-you](https://cdn.myanimelist.net/images/anime/1505/116892.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版きんいろモザイク Thank you!!

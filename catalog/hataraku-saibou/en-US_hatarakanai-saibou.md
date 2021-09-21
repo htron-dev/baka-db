@@ -1,5 +1,7 @@
 # Hatarakanai Saibou
 
+![hatarakanai-saibou](https://cdn.myanimelist.net/images/manga/3/211408.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらかない細胞
 -   **start-date**: 2017-07-26

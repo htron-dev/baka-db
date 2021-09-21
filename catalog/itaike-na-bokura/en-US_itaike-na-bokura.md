@@ -1,5 +1,7 @@
 # Itaike na Bokura
 
+![itaike-na-bokura](https://cdn.myanimelist.net/images/manga/3/82702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

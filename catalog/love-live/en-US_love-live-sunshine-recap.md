@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! Recap
 
+![love-live-sunshine-recap](https://cdn.myanimelist.net/images/anime/6/89900.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブライブ! サンシャイン!! TV アニメ 2 期放送直前特番~私たち, 輝きたい!!~

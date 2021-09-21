@@ -1,5 +1,7 @@
 # Kono Uchi de Kimi to
 
+![kono-uchi-de-kimi-to](https://cdn.myanimelist.net/images/manga/3/89275.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

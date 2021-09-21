@@ -1,5 +1,7 @@
 # Mezameru to Itoko wo Mamoru Bishoujo Kenshi ni Natteita
 
+![mezameru-to-itoko-wo-mamoru-bishoujo-kenshi-ni-natteita](https://cdn.myanimelist.net/images/manga/1/168617.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

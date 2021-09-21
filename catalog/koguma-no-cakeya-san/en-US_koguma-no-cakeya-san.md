@@ -1,5 +1,7 @@
 # Koguma no Cakeya-san
 
+![koguma-no-cakeya-san](https://cdn.myanimelist.net/images/manga/3/243492.jpg)
+
 -   **type**: manga
 -   **original-name**: こぐまのケーキ屋さん
 -   **start-date**: 2018-03-02

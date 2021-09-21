@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai Bride
 
+![hyakka-ryouran-samurai-bride](https://cdn.myanimelist.net/images/anime/5/45248.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 百花繚乱 サムライブライド

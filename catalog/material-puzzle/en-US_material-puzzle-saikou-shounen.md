@@ -1,5 +1,7 @@
 # Material Puzzle: Saikou Shounen
 
+![material-puzzle-saikou-shounen](https://cdn.myanimelist.net/images/manga/3/217045.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Katekyo Hitman Reborn!: Mr. Rebokku no Ciao Ciao Interview
 
+![katekyo-hitman-reborn-mr-rebokku-no-ciao-ciao-interview](https://cdn.myanimelist.net/images/anime/8/25975.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 家庭教師ヒットマン REBORN! ミスターリボックのちゃおちゃおインタビュ

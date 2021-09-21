@@ -1,5 +1,7 @@
 # Shin☆Daa! Daa! Daa!
 
+![shin☆-daa-daa-daa](https://cdn.myanimelist.net/images/manga/3/41440.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

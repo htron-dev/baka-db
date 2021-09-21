@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Bakuen wo!
 
+![kono-subarashii-sekai-ni-bakuen-wo](https://cdn.myanimelist.net/images/manga/3/187499.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

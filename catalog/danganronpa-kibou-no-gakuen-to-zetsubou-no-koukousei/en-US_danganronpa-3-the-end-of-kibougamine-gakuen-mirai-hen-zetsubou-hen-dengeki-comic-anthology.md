@@ -1,5 +1,7 @@
 # Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen/Zetsubou-hen - Dengeki Comic Anthology
 
+![danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen-zetsubou-hen-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/228276.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

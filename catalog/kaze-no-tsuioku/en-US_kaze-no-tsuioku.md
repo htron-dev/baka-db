@@ -1,5 +1,7 @@
 # Kaze no Tsuioku
 
+![kaze-no-tsuioku](https://cdn.myanimelist.net/images/manga/2/128407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 風の追憶

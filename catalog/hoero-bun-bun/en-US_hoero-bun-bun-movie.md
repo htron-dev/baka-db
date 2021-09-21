@@ -1,5 +1,7 @@
 # Hoero! Bun Bun (Movie)
 
+![hoero-bun-bun-movie](https://cdn.myanimelist.net/images/anime/5/28907.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ほえろブンブン

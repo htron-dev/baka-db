@@ -1,5 +1,7 @@
 # Kawaii Boku no Meine Liebe
 
+![kawaii-boku-no-meine-liebe](https://cdn.myanimelist.net/images/manga/3/245472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

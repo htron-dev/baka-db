@@ -1,5 +1,7 @@
 # Mashin Eiyuuden Wataru 2
 
+![mashin-eiyuuden-wataru-2](https://cdn.myanimelist.net/images/anime/1709/92203.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 魔神英雄伝ワタル 2

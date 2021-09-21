@@ -1,5 +1,7 @@
 # Dokaben
 
+![dokaben](https://cdn.myanimelist.net/images/manga/3/139063.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **chapters**: 449

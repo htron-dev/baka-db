@@ -1,5 +1,7 @@
 # Daihao 12348
 
+![daihao-12348](https://cdn.myanimelist.net/images/anime/1079/115368.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 代号 12348

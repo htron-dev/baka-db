@@ -1,5 +1,7 @@
 # Majitora!
 
+![majitora](https://cdn.myanimelist.net/images/manga/1/217932.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 65

@@ -1,5 +1,7 @@
 # Ginyuu Gikyoku Black Bard
 
+![ginyuu-gikyoku-black-bard](https://cdn.myanimelist.net/images/manga/1/178709.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

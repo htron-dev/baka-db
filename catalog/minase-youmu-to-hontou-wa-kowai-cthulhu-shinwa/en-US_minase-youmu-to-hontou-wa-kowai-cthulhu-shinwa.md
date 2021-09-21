@@ -1,5 +1,7 @@
 # Minase Youmu to Hontou wa Kowai Cthulhu Shinwa
 
+![minase-youmu-to-hontou-wa-kowai-cthulhu-shinwa](https://cdn.myanimelist.net/images/manga/3/110883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

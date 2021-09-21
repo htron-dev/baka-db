@@ -1,5 +1,7 @@
 # Hadairo no Aijou Hyougen
 
+![hadairo-no-aijou-hyougen](https://cdn.myanimelist.net/images/manga/2/231479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

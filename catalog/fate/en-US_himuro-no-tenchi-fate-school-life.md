@@ -1,5 +1,7 @@
 # Himuro no Tenchi Fate/school Life
 
+![himuro-no-tenchi-fate-school-life](https://cdn.myanimelist.net/images/manga/3/29932.jpg)
+
 -   **type**: manga
 -   **original-name**: 氷室の天地 Fate/school life
 -   **start-date**: 2006-11-25

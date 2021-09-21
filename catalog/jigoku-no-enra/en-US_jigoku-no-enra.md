@@ -1,5 +1,7 @@
 # Jigoku no Enra
 
+![jigoku-no-enra](https://cdn.myanimelist.net/images/manga/2/162750.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

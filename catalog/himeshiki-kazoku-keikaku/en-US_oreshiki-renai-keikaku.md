@@ -1,5 +1,7 @@
 # Oreshiki Renai Keikaku
 
+![oreshiki-renai-keikaku](https://cdn.myanimelist.net/images/manga/3/96071.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 俺式恋愛計画

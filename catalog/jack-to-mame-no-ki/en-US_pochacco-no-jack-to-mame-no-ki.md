@@ -1,5 +1,7 @@
 # Pochacco no Jack to Mame no Ki
 
+![pochacco-no-jack-to-mame-no-ki](https://cdn.myanimelist.net/images/anime/11/58711.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポチャッコのジャックと豆の木

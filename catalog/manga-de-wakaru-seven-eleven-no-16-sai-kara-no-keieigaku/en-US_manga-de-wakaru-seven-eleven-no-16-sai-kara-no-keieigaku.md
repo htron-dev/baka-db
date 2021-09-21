@@ -1,5 +1,7 @@
 # Manga de Wakaru Seven-Eleven no 16-sai kara no Keieigaku
 
+![manga-de-wakaru-seven-eleven-no-16-sai-kara-no-keieigaku](https://cdn.myanimelist.net/images/manga/2/142717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

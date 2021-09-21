@@ -1,5 +1,7 @@
 # Mukizu ja Irarenee
 
+![mukizu-ja-irarenee](https://cdn.myanimelist.net/images/manga/5/19424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

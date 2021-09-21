@@ -1,5 +1,7 @@
 # Kizaki Shounen no Horo-niga Kissa Junrei
 
+![kizaki-shounen-no-horo-niga-kissa-junrei](https://cdn.myanimelist.net/images/manga/2/205528.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

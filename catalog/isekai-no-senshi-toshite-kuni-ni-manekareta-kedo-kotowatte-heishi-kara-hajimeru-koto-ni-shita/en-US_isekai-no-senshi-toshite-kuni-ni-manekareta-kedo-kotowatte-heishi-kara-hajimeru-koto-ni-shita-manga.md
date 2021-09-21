@@ -1,5 +1,7 @@
 # Isekai no Senshi toshite Kuni ni Manekareta kedo, Kotowatte Heishi kara Hajimeru Koto ni Shita
 
+![isekai-no-senshi-toshite-kuni-ni-manekareta-kedo-kotowatte-heishi-kara-hajimeru-koto-ni-shita](https://cdn.myanimelist.net/images/manga/3/240765.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界の戦士として国に招かれたけど、断って兵士から始める事にした
 -   **start-date**: 2020-03-30

@@ -1,5 +1,7 @@
 # Worst
 
+![worst](https://cdn.myanimelist.net/images/manga/3/167039.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 131

@@ -1,5 +1,7 @@
 # Mayo Mayo!
 
+![mayo-mayo](https://cdn.myanimelist.net/images/manga/2/159855.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

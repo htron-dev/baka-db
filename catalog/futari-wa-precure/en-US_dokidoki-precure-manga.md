@@ -1,5 +1,7 @@
 # Dokidoki! Precure
 
+![dokidoki-precure](https://cdn.myanimelist.net/images/manga/2/235678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

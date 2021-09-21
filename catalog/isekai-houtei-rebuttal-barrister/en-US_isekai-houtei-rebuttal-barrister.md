@@ -1,5 +1,7 @@
 # Isekai Houtei: Rebuttal Barrister
 
+![isekai-houtei-rebuttal-barrister](https://cdn.myanimelist.net/images/manga/1/187398.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

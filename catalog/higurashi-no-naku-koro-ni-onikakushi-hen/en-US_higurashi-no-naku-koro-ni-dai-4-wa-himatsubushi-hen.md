@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni - Dai 4-wa: Himatsubushi-hen
 
+![higurashi-no-naku-koro-ni-dai-4-wa-himatsubushi-hen](https://cdn.myanimelist.net/images/manga/1/135195.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひぐらしのなく頃に 第四話～暇潰し編～

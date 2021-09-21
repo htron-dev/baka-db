@@ -1,5 +1,7 @@
 # Kimi ga Nozomu Eien: Next Season
 
+![kimi-ga-nozomu-eien-next-season](https://cdn.myanimelist.net/images/anime/1065/108047.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 君が望む永遠 OVA

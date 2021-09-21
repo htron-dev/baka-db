@@ -1,5 +1,7 @@
 # Mugen no Minamo ni
 
+![mugen-no-minamo-ni](https://cdn.myanimelist.net/images/manga/3/54333.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

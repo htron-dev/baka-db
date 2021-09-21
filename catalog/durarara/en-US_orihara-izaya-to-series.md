@@ -1,5 +1,7 @@
 # Orihara Izaya to Series
 
+![orihara-izaya-to-series](https://cdn.myanimelist.net/images/manga/4/160540.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 折原臨也と シリーズ
 -   **start-date**: 2015-07-10

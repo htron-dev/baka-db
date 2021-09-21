@@ -1,5 +1,7 @@
 # Kaizokuou no Choukyouai
 
+![kaizokuou-no-choukyouai](https://cdn.myanimelist.net/images/manga/2/183063.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

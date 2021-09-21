@@ -1,5 +1,7 @@
 # Fetish Berry
 
+![fetish-berry](https://cdn.myanimelist.net/images/manga/2/162743.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

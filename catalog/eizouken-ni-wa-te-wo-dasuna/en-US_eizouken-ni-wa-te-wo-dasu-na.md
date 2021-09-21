@@ -1,5 +1,7 @@
 # Eizouken ni wa Te wo Dasu na!
 
+![eizouken-ni-wa-te-wo-dasu-na](https://cdn.myanimelist.net/images/anime/1680/110451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 映像研には手を出すな!

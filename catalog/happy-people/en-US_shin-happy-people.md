@@ -1,5 +1,7 @@
 # Shin Happy People
 
+![shin-happy-people](https://cdn.myanimelist.net/images/manga/3/142891.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

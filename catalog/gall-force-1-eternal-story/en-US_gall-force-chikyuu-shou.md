@@ -1,5 +1,7 @@
 # Gall Force: Chikyuu Shou
 
+![gall-force-chikyuu-shou](https://cdn.myanimelist.net/images/anime/10/26526.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ガルフォース地球章

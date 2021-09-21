@@ -1,5 +1,7 @@
 # Jirijiri Moyou no Ryuuryuu Tenten
 
+![jirijiri-moyou-no-ryuuryuu-tenten](https://cdn.myanimelist.net/images/anime/1305/91250.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ジリジリもようの流々転々

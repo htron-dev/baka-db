@@ -1,5 +1,7 @@
 # Hikidashi ni Terrarium
 
+![hikidashi-ni-terrarium](https://cdn.myanimelist.net/images/manga/2/145037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 33

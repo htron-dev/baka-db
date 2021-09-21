@@ -1,5 +1,7 @@
 # Daishinyuu
 
+![daishinyuu](https://cdn.myanimelist.net/images/manga/2/236176.jpg)
+
 -   **type**: manga
 -   **original-name**: 大親友
 -   **start-date**: 2019-06-04

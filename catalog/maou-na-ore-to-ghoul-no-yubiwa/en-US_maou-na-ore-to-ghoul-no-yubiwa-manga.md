@@ -1,5 +1,7 @@
 # Maou na Ore to Ghoul no Yubiwa
 
+![maou-na-ore-to-ghoul-no-yubiwa](https://cdn.myanimelist.net/images/manga/2/104299.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

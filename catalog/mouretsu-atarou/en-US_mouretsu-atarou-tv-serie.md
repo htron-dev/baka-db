@@ -1,5 +1,7 @@
 # Mouretsu Atarou
 
+![mouretsu-atarou](https://cdn.myanimelist.net/images/anime/11/53377.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 90
 -   **original-name**: もーれつア太郎

@@ -1,5 +1,7 @@
 # Donkan na Boku to Surudoi Kanojo
 
+![donkan-na-boku-to-surudoi-kanojo](https://cdn.myanimelist.net/images/manga/1/128301.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

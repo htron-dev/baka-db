@@ -1,5 +1,7 @@
 # Muka Muka Paradise
 
+![muka-muka-paradise](https://cdn.myanimelist.net/images/anime/1388/99407.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ムカムカパラダイス

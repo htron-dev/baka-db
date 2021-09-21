@@ -1,5 +1,7 @@
 # Hanappe Bazooka
 
+![hanappe-bazooka](https://cdn.myanimelist.net/images/anime/5/57637.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 花平バズーカ

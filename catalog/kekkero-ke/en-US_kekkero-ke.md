@@ -1,5 +1,7 @@
 # Kekkero Ke
 
+![kekkero-ke](https://cdn.myanimelist.net/images/anime/1377/93114.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ケッケロケー

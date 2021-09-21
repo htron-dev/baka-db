@@ -1,5 +1,7 @@
 # Mittei Maid wa Koi no Wana ni Torawarete
 
+![mittei-maid-wa-koi-no-wana-ni-torawarete](https://cdn.myanimelist.net/images/manga/2/192354.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

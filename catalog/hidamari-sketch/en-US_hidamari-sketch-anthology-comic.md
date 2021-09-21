@@ -1,5 +1,7 @@
 # Hidamari Sketch Anthology Comic
 
+![hidamari-sketch-anthology-comic](https://cdn.myanimelist.net/images/manga/1/151706.jpg)
+
 -   **type**: manga
 -   **original-name**: ひだまりスケッチアンソロジーコミック
 -   **start-date**: 2007-02-27

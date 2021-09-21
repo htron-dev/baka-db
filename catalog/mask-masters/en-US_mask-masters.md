@@ -1,5 +1,7 @@
 # Mask Masters
 
+![mask-masters](https://cdn.myanimelist.net/images/anime/1292/109700.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 마스크 마스터즈

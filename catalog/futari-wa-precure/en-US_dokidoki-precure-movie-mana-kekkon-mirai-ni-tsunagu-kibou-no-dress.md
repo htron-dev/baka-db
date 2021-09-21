@@ -1,5 +1,7 @@
 # Dokidoki! Precure Movie: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress
 
+![dokidoki-precure-movie-mana-kekkon-mirai-ni-tsunagu-kibou-no-dress](https://cdn.myanimelist.net/images/anime/11/60079.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドキドキ! プリキュア マナ結婚!!? 未来につなぐ希望のドレス

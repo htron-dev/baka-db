@@ -1,5 +1,7 @@
 # Himebusho Masamune Den Bontan!!
 
+![himebusho-masamune-den-bontan](https://cdn.myanimelist.net/images/manga/2/155106.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 46

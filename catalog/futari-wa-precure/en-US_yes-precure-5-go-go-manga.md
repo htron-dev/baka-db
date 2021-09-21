@@ -1,5 +1,7 @@
 # Yes! Precure 5 GoGo
 
+![yes-precure-5-go-go](https://cdn.myanimelist.net/images/manga/1/41685.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: Yes！プリキュア５ GoGo!

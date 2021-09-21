@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Senkou no Hathaway
 
+![kidou-senshi-gundam-senkou-no-hathaway](https://cdn.myanimelist.net/images/manga/1/148345.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 55

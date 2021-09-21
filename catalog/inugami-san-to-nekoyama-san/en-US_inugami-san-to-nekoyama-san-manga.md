@@ -1,5 +1,7 @@
 # Inugami-san to Nekoyama-san
 
+![inugami-san-to-nekoyama-san](https://cdn.myanimelist.net/images/manga/3/90515.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 76

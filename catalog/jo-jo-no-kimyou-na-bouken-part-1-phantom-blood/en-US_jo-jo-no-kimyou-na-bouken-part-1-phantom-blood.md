@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 1: Phantom Blood
 
+![jo-jo-no-kimyou-na-bouken-part-1-phantom-blood](https://cdn.myanimelist.net/images/manga/2/198213.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

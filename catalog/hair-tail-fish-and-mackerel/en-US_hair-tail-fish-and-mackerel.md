@@ -1,5 +1,7 @@
 # Hair-Tail Fish and Mackerel
 
+![hair-tail-fish-and-mackerel](https://cdn.myanimelist.net/images/manga/3/7215.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

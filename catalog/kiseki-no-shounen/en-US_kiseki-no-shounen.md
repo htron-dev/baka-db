@@ -1,5 +1,7 @@
 # Kiseki no Shounen
 
+![kiseki-no-shounen](https://cdn.myanimelist.net/images/manga/2/116359.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

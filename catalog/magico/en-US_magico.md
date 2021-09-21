@@ -1,5 +1,7 @@
 # Magico
 
+![magico](https://cdn.myanimelist.net/images/manga/1/124073.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 68

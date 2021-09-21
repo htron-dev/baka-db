@@ -1,5 +1,7 @@
 # Douluo Dalu: Hanhai Qian Kun
 
+![douluo-dalu-hanhai-qian-kun](https://cdn.myanimelist.net/images/anime/1158/113889.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 瀚海乾坤

@@ -1,5 +1,7 @@
 # Majipikoru
 
+![majipikoru](https://cdn.myanimelist.net/images/manga/2/20306.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: まじぴこる

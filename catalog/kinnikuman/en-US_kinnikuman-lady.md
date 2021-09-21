@@ -1,5 +1,7 @@
 # Kinnikuman Lady
 
+![kinnikuman-lady](https://cdn.myanimelist.net/images/manga/1/43451.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

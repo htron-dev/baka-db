@@ -1,5 +1,7 @@
 # Murasaki
 
+![murasaki](https://cdn.myanimelist.net/images/manga/3/228345.jpg)
+
 -   **type**: manga
 -   **original-name**: ムラサキ
 -   **start-date**: 2017-07-13

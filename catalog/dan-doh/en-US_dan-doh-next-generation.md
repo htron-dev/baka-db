@@ -1,5 +1,7 @@
 # Dan Doh!! Next Generation
 
+![dan-doh-next-generation](https://cdn.myanimelist.net/images/manga/1/141231.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Legal Egg
 
+![legal-egg](https://cdn.myanimelist.net/images/manga/3/242244.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

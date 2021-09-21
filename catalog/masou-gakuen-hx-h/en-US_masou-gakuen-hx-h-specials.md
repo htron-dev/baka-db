@@ -1,5 +1,7 @@
 # Masou Gakuen HxH Specials
 
+![masou-gakuen-hx-h-specials](https://cdn.myanimelist.net/images/anime/11/83016.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 魔装学園 H×H

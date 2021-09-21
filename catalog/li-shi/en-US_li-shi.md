@@ -1,5 +1,7 @@
 # Li Shi
 
+![li-shi](https://cdn.myanimelist.net/images/anime/1477/108710.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 历师

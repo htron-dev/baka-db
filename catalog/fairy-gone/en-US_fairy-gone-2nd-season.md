@@ -1,5 +1,7 @@
 # Fairy Gone 2nd Season
 
+![fairy-gone-2nd-season](https://cdn.myanimelist.net/images/anime/1799/114023.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Fairy gone フェアリーゴーン 第 2 期

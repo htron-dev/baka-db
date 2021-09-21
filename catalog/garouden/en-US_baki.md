@@ -1,5 +1,7 @@
 # Baki
 
+![baki](https://cdn.myanimelist.net/images/anime/1979/93135.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: バキ

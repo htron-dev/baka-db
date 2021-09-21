@@ -1,5 +1,7 @@
 # Kore wa Zombie desu ka? Hai, Anata no Yome desu
 
+![kore-wa-zombie-desu-ka-hai-anata-no-yome-desu](https://cdn.myanimelist.net/images/manga/3/159838.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Kyouken Hachiko
 
+![kyouken-hachiko](https://cdn.myanimelist.net/images/manga/3/227223.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

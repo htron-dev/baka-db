@@ -1,5 +1,7 @@
 # Hito wa Sore wo Koi to Yobu
 
+![hito-wa-sore-wo-koi-to-yobu](https://cdn.myanimelist.net/images/manga/3/33253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

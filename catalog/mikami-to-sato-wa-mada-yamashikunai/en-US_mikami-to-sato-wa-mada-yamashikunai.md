@@ -1,5 +1,7 @@
 # Mikami to Sato wa Mada Yamashikunai
 
+![mikami-to-sato-wa-mada-yamashikunai](https://cdn.myanimelist.net/images/manga/3/224816.jpg)
+
 -   **type**: manga
 -   **original-name**: 三上と里はまだやましくない
 -   **start-date**: 2017-03-21

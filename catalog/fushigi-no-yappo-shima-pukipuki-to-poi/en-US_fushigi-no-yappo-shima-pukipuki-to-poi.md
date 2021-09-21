@@ -1,5 +1,7 @@
 # Fushigi no Yappo Shima: Pukipuki to Poi
 
+![fushigi-no-yappo-shima-pukipuki-to-poi](https://cdn.myanimelist.net/images/anime/4/81482.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ふしぎのヤッポ島 プキプキとポイ

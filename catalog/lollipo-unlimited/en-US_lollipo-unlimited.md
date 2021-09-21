@@ -1,5 +1,7 @@
 # Lollipo Unlimited
 
+![lollipo-unlimited](https://cdn.myanimelist.net/images/manga/2/9960.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ろりぽ ∞

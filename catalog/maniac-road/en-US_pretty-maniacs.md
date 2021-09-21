@@ -1,5 +1,7 @@
 # Pretty Maniacs
 
+![pretty-maniacs](https://cdn.myanimelist.net/images/manga/2/168687.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

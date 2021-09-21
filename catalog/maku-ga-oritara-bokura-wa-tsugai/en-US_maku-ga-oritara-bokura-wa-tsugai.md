@@ -1,5 +1,7 @@
 # Maku ga Oritara Bokura wa Tsugai
 
+![maku-ga-oritara-bokura-wa-tsugai](https://cdn.myanimelist.net/images/manga/3/242969.jpg)
+
 -   **type**: manga
 -   **original-name**: 幕が下りたら僕らは番
 -   **start-date**: 2019-07-23

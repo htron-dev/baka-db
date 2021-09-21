@@ -1,5 +1,7 @@
 # Daisuke!: Crown &amp; Anchor
 
+![daisuke-crown-amp-anchor](https://cdn.myanimelist.net/images/manga/3/157212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

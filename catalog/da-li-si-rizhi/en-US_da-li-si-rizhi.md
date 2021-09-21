@@ -1,5 +1,7 @@
 # Da Li Si Rizhi
 
+![da-li-si-rizhi](https://cdn.myanimelist.net/images/anime/1659/105254.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 大理寺日志

@@ -1,5 +1,7 @@
 # Hanagumi Ninkyouden
 
+![hanagumi-ninkyouden](https://cdn.myanimelist.net/images/manga/2/4036.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

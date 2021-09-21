@@ -1,5 +1,7 @@
 # Juuhan Shuttai!
 
+![juuhan-shuttai](https://cdn.myanimelist.net/images/manga/2/108705.jpg)
+
 -   **type**: manga
 -   **original-name**: 重版出来！
 -   **start-date**: 2012-09-27

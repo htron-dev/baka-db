@@ -1,5 +1,7 @@
 # Missin'
 
+![missin](https://cdn.myanimelist.net/images/manga/2/23361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **start-date**: 2000-01-20

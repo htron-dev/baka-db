@@ -1,5 +1,7 @@
 # Arpeggio
 
+![arpeggio](https://cdn.myanimelist.net/images/manga/1/12194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アルペジオ

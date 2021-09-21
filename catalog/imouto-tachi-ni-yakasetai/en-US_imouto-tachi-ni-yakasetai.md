@@ -1,5 +1,7 @@
 # Imouto-tachi ni Yakasetai!
 
+![imouto-tachi-ni-yakasetai](https://cdn.myanimelist.net/images/manga/1/203675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

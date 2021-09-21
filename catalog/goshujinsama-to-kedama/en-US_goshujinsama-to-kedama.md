@@ -1,5 +1,7 @@
 # Goshujinsama to Kedama
 
+![goshujinsama-to-kedama](https://cdn.myanimelist.net/images/manga/3/224088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

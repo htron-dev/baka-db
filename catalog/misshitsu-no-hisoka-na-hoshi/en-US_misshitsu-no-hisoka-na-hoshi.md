@@ -1,5 +1,7 @@
 # Misshitsu no Hisoka na Hoshi
 
+![misshitsu-no-hisoka-na-hoshi](https://cdn.myanimelist.net/images/manga/1/85547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

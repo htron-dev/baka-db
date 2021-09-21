@@ -1,5 +1,7 @@
 # Haru no Houtai Shoujo
 
+![haru-no-houtai-shoujo](https://cdn.myanimelist.net/images/manga/2/162233.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Dirty Pair: The Movie
 
+![dirty-pair-the-movie](https://cdn.myanimelist.net/images/anime/1855/92685.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ダーティペア the Movie

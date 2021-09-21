@@ -1,5 +1,7 @@
 # Mirai Delivery: Chiisana Asimov to Midori no Wasuremono
 
+![mirai-delivery-chiisana-asimov-to-midori-no-wasuremono](https://cdn.myanimelist.net/images/manga/3/220646.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

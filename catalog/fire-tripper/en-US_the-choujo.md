@@ -1,5 +1,7 @@
 # The Choujo
 
+![the-choujo](https://cdn.myanimelist.net/images/anime/11/41453.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザ・超女[ザ・スーパーギャル]

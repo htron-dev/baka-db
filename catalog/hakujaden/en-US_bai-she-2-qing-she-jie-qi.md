@@ -1,5 +1,7 @@
 # Bai She 2: Qing She Jie Qi
 
+![bai-she-2-qing-she-jie-qi](https://cdn.myanimelist.net/images/anime/1024/116463.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 白蛇 2：青蛇劫起

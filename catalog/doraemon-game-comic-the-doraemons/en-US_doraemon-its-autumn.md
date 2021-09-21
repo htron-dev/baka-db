@@ -1,5 +1,7 @@
 # Doraemon: It's Autumn!
 
+![doraemon-its-autumn](https://cdn.myanimelist.net/images/anime/2/29232.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 秋だ！一番ドラえもん祭り

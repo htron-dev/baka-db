@@ -1,5 +1,7 @@
 # Double Face
 
+![double-face](https://cdn.myanimelist.net/images/manga/2/21397.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ダブルフェイス

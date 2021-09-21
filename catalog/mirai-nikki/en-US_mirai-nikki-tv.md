@@ -1,5 +1,7 @@
 # Mirai Nikki (TV)
 
+![mirai-nikki-tv](https://cdn.myanimelist.net/images/anime/13/33465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 未来日記

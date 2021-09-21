@@ -1,5 +1,7 @@
 # Hanamuko no Yakusoku
 
+![hanamuko-no-yakusoku](https://cdn.myanimelist.net/images/manga/1/67239.jpg)
+
 -   **type**: manga
 -   **original-name**: 花婿の約束
 -   **start-date**: 2011-06-11

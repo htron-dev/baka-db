@@ -1,5 +1,7 @@
 # Mukougawa no Masaka
 
+![mukougawa-no-masaka](https://cdn.myanimelist.net/images/manga/3/155554.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

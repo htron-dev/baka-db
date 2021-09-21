@@ -1,5 +1,7 @@
 # Egypt no Sankaku
 
+![egypt-no-sankaku](https://cdn.myanimelist.net/images/manga/2/183530.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エジプトの三角

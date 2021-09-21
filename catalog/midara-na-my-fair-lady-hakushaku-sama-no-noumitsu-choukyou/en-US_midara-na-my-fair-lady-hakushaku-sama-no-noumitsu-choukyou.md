@@ -1,5 +1,7 @@
 # Midara na My Fair Lady: Hakushaku-sama no Noumitsu Choukyou
 
+![midara-na-my-fair-lady-hakushaku-sama-no-noumitsu-choukyou](https://cdn.myanimelist.net/images/manga/2/183193.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

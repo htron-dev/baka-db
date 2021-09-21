@@ -1,5 +1,7 @@
 # MapleStory
 
+![maple-story](https://cdn.myanimelist.net/images/anime/3/4868.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: メイプルストーリー

@@ -1,5 +1,7 @@
 # Crows
 
+![crows](https://cdn.myanimelist.net/images/manga/3/77965.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 98

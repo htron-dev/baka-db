@@ -1,5 +1,7 @@
 # Doubutsu Mura no Shouboutai
 
+![doubutsu-mura-no-shouboutai](https://cdn.myanimelist.net/images/anime/1978/99485.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 動物村の消防士

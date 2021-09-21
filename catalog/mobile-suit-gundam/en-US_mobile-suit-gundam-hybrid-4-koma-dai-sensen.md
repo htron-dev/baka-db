@@ -1,5 +1,7 @@
 # Mobile Suit Gundam - Hybrid 4-Koma Dai Sensen
 
+![mobile-suit-gundam-hybrid-4-koma-dai-sensen](https://cdn.myanimelist.net/images/manga/3/98223.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム ハイブリッド 4 コマ大戦線
 

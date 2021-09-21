@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba
 
+![kimetsu-no-yaiba](https://cdn.myanimelist.net/images/manga/3/179023.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 207

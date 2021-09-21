@@ -1,5 +1,7 @@
 # "Toutosugite Yomenaaaaaaai!!" 4P Short Stories
 
+![toutosugite-yomenaaaaaaai-4-p-short-stories](https://cdn.myanimelist.net/images/manga/2/234985.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 51

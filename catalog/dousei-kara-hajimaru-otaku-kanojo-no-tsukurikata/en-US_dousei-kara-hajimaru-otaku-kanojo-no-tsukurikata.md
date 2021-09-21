@@ -1,5 +1,7 @@
 # Dousei kara Hajimaru Otaku Kanojo no Tsukurikata
 
+![dousei-kara-hajimaru-otaku-kanojo-no-tsukurikata](https://cdn.myanimelist.net/images/manga/2/230566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 同棲から始まるオタク彼女の作りかた

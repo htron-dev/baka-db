@@ -1,5 +1,7 @@
 # Kami wa Saikoro wo Furanai
 
+![kami-wa-saikoro-wo-furanai](https://cdn.myanimelist.net/images/manga/1/170596.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

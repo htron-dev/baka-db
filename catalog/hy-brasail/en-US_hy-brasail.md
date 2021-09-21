@@ -1,5 +1,7 @@
 # Hy Brasail
 
+![hy-brasail](https://cdn.myanimelist.net/images/manga/1/32097.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハイ・ブラセル

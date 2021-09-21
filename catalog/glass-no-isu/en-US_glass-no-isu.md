@@ -1,5 +1,7 @@
 # Glass no Isu
 
+![glass-no-isu](https://cdn.myanimelist.net/images/manga/2/55563.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ガラスの椅子

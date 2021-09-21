@@ -1,5 +1,7 @@
 # Mutou to Satou
 
+![mutou-to-satou](https://cdn.myanimelist.net/images/manga/3/226306.jpg)
+
 -   **type**: manga
 -   **original-name**: むとうとさとう
 -   **start-date**: 2019-02-14

@@ -1,5 +1,7 @@
 # Yakyuukyou no Uta
 
+![yakyuukyou-no-uta](https://cdn.myanimelist.net/images/manga/3/142677.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 野球狂の詩

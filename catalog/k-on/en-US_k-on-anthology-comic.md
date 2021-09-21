@@ -1,5 +1,7 @@
 # K-On! Anthology Comic
 
+![k-on-anthology-comic](https://cdn.myanimelist.net/images/manga/1/151705.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 77

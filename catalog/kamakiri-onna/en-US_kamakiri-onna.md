@@ -1,5 +1,7 @@
 # Kamakiri Onna
 
+![kamakiri-onna](https://cdn.myanimelist.net/images/manga/1/46791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

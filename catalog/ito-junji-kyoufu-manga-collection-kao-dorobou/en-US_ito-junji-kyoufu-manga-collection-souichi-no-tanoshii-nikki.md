@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki
 
+![ito-junji-kyoufu-manga-collection-souichi-no-tanoshii-nikki](https://cdn.myanimelist.net/images/manga/1/185640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

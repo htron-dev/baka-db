@@ -1,5 +1,7 @@
 # Ekubo!
 
+![ekubo](https://cdn.myanimelist.net/images/manga/3/58653.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: え・く・ぼ・！

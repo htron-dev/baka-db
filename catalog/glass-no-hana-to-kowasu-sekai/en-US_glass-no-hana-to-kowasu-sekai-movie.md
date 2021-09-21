@@ -1,5 +1,7 @@
 # Glass no Hana to Kowasu Sekai
 
+![glass-no-hana-to-kowasu-sekai](https://cdn.myanimelist.net/images/anime/11/77289.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガラスの花と壊す世界

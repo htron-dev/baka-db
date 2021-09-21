@@ -1,5 +1,7 @@
 # Shinkai no Survival!
 
+![shinkai-no-survival](https://cdn.myanimelist.net/images/anime/1681/116513.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 深海のサバイバル！

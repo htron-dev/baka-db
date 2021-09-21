@@ -1,5 +1,7 @@
 # Haitoku ni Somaru Houkago
 
+![haitoku-ni-somaru-houkago](https://cdn.myanimelist.net/images/manga/2/193213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Imouto sae Ireba Ii. (ONA)
 
+![imouto-sae-ireba-ii-ona](https://cdn.myanimelist.net/images/anime/9/89847.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 妹さえいればいい。

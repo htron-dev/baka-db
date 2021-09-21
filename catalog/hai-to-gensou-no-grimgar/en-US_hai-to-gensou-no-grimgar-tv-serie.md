@@ -1,5 +1,7 @@
 # Hai to Gensou no Grimgar
 
+![hai-to-gensou-no-grimgar](https://cdn.myanimelist.net/images/anime/13/77976.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 灰と幻想のグリムガル

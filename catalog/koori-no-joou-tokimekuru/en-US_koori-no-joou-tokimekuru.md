@@ -1,5 +1,7 @@
 # Koori no Joou, Tokimekuru.
 
+![koori-no-joou-tokimekuru](https://cdn.myanimelist.net/images/manga/2/193494.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

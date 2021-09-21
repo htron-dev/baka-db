@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Boku-tachi no Takaramono
 
+![kero-kero-keroppi-no-boku-tachi-no-takaramono](https://cdn.myanimelist.net/images/anime/5/47857.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのぼくたちのたからもの

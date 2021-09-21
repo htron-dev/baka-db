@@ -1,5 +1,7 @@
 # Haru ni Kogarete
 
+![haru-ni-kogarete](https://cdn.myanimelist.net/images/manga/2/37279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Macross 7 Trash
 
+![macross-7-trash](https://cdn.myanimelist.net/images/manga/1/6860.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 52

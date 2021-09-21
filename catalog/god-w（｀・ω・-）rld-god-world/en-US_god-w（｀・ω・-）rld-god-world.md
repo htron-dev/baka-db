@@ -1,5 +1,7 @@
 # GOD W（｀・ω・´）RLD - God World
 
+![god-w（｀・ω・-）rld-god-world](https://cdn.myanimelist.net/images/manga/1/158158.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 22

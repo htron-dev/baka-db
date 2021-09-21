@@ -1,5 +1,7 @@
 # Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami
 
+![mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami](https://cdn.myanimelist.net/images/anime/13/24837.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法のプリンセスミンキーモモ vs 魔法の天使クリィーミーマミ

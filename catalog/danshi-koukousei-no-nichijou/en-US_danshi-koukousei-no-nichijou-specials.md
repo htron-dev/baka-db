@@ -1,5 +1,7 @@
 # Danshi Koukousei no Nichijou Specials
 
+![danshi-koukousei-no-nichijou-specials](https://cdn.myanimelist.net/images/anime/8/38527.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 男子高校生の日常

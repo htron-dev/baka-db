@@ -1,5 +1,7 @@
 # Fuan no Tane\*
 
+![fuan-no-tane](https://cdn.myanimelist.net/images/manga/3/138393.jpg)
+
 -   **type**: manga
 -   **original-name**: 不安の種\*(アスタリスク)
 -   **start-date**: 2019-02-19

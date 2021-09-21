@@ -1,5 +1,7 @@
 # Harbor Light Monogatari: Fashion Lala yori
 
+![harbor-light-monogatari-fashion-lala-yori](https://cdn.myanimelist.net/images/anime/11/11234.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハーバーライト物語 ファッションララより

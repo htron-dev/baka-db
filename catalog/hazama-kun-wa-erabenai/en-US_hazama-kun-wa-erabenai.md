@@ -1,5 +1,7 @@
 # Hazama-kun wa Erabenai
 
+![hazama-kun-wa-erabenai](https://cdn.myanimelist.net/images/manga/3/202744.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

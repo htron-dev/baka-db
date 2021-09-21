@@ -1,5 +1,7 @@
 # Julia Caesar no Ketsudan
 
+![julia-caesar-no-ketsudan](https://cdn.myanimelist.net/images/manga/1/194072.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ユリア・カエサルの決断
 -   **start-date**: 2017-04-25

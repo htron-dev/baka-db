@@ -1,5 +1,7 @@
 # Jashin Oonuma
 
+![jashin-oonuma](https://cdn.myanimelist.net/images/manga/3/171308.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 86

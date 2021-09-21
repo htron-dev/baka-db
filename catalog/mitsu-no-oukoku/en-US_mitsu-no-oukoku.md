@@ -1,5 +1,7 @@
 # Mitsu no Oukoku
 
+![mitsu-no-oukoku](https://cdn.myanimelist.net/images/manga/2/204398.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 80

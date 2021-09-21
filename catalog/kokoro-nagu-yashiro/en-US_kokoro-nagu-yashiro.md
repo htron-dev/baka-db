@@ -1,5 +1,7 @@
 # Kokoro Nagu Yashiro
 
+![kokoro-nagu-yashiro](https://cdn.myanimelist.net/images/manga/2/244672.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 心凪ぐ社

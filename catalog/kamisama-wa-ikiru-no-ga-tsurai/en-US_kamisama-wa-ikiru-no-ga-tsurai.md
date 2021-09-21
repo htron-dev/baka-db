@@ -1,5 +1,7 @@
 # Kamisama wa Ikiru no ga Tsurai
 
+![kamisama-wa-ikiru-no-ga-tsurai](https://cdn.myanimelist.net/images/manga/2/161320.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

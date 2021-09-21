@@ -1,5 +1,7 @@
 # Kiken Mix
 
+![kiken-mix](https://cdn.myanimelist.net/images/manga/2/150498.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 危険 MIX

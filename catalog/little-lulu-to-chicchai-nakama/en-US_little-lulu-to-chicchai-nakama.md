@@ -1,5 +1,7 @@
 # Little Lulu to Chicchai Nakama
 
+![little-lulu-to-chicchai-nakama](https://cdn.myanimelist.net/images/anime/3/40539.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: リトル・ルルとちっちゃい仲間

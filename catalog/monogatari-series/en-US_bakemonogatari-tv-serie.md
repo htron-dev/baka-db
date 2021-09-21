@@ -1,5 +1,7 @@
 # Bakemonogatari
 
+![bakemonogatari](https://cdn.myanimelist.net/images/anime/11/75274.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: 化物語

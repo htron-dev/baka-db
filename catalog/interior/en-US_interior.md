@@ -1,5 +1,7 @@
 # Interior
 
+![interior](https://cdn.myanimelist.net/images/anime/2/62329.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: INTERIOR

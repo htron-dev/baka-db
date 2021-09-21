@@ -1,5 +1,7 @@
 # Motosaya
 
+![motosaya](https://cdn.myanimelist.net/images/manga/3/203746.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

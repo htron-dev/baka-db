@@ -1,5 +1,7 @@
 # Hinata no Hiyoko
 
+![hinata-no-hiyoko](https://cdn.myanimelist.net/images/manga/2/17342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

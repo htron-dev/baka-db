@@ -1,5 +1,7 @@
 # Heaven? Gokuraku Restaurant
 
+![heaven-gokuraku-restaurant](https://cdn.myanimelist.net/images/manga/2/30656.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 45

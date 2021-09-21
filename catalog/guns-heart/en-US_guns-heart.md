@@ -1,5 +1,7 @@
 # Guns Heart
 
+![guns-heart](https://cdn.myanimelist.net/images/manga/2/164243.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ガンズ・ハート

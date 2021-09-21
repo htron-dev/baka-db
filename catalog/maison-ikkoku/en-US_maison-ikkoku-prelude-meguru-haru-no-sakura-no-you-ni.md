@@ -1,5 +1,7 @@
 # Maison Ikkoku: Prelude - Meguru Haru no Sakura no You ni...
 
+![maison-ikkoku-prelude-meguru-haru-no-sakura-no-you-ni](https://cdn.myanimelist.net/images/anime/8/69245.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プレリュードめぞん一刻 プレリュード めぐる春の桜のように...

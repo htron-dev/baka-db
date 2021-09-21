@@ -1,5 +1,7 @@
 # Macross Flash Back 2012
 
+![macross-flash-back-2012](https://cdn.myanimelist.net/images/anime/5/11073.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超時空要塞マクロス FLASH BACK 2012

@@ -1,5 +1,7 @@
 # Hana wa Saku, Shura no Gotoku
 
+![hana-wa-saku-shura-no-gotoku](https://cdn.myanimelist.net/images/manga/2/246928.jpg)
+
 -   **type**: manga
 -   **original-name**: 花は咲く、修羅の如く
 -   **start-date**: 2021-06-18

@@ -1,5 +1,7 @@
 # Kuuchuu de Oshokuji
 
+![kuuchuu-de-oshokuji](https://cdn.myanimelist.net/images/manga/1/40247.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 空中でお食事

@@ -1,5 +1,7 @@
 # Eunhahamdae Jiguho
 
+![eunhahamdae-jiguho](https://cdn.myanimelist.net/images/anime/6/45158.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 은하함대 지구호

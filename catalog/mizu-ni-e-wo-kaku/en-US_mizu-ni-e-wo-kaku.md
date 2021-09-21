@@ -1,5 +1,7 @@
 # Mizu ni E wo Kaku
 
+![mizu-ni-e-wo-kaku](https://cdn.myanimelist.net/images/manga/1/46391.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 水に絵を描く

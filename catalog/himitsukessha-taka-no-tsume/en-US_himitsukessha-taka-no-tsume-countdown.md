@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume Countdown
 
+![himitsukessha-taka-no-tsume-countdown](https://cdn.myanimelist.net/images/anime/9/82798.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 秘密結社 鷹の爪 カウントダウン

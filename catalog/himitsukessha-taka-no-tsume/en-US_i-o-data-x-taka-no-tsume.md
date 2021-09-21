@@ -1,5 +1,7 @@
 # I-O Data x Taka no Tsume
 
+![i-o-data-x-taka-no-tsume](https://cdn.myanimelist.net/images/anime/1329/93057.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: I-O DATA× 鷹の爪

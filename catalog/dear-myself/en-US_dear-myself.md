@@ -1,5 +1,7 @@
 # Dear Myself
 
+![dear-myself](https://cdn.myanimelist.net/images/manga/5/843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Kumo wo Koroshita Otoko
 
+![kumo-wo-koroshita-otoko](https://cdn.myanimelist.net/images/manga/2/119031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

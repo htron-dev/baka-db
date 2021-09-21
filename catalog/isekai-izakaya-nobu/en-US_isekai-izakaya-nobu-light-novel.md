@@ -1,5 +1,7 @@
 # Isekai Izakaya "Nobu"
 
+![isekai-izakaya-nobu](https://cdn.myanimelist.net/images/manga/1/202595.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界居酒屋「のぶ」
 -   **start-date**: 2014-09-10

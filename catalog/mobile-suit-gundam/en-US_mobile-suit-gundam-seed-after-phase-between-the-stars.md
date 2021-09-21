@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED: After-Phase Between the Stars
 
+![mobile-suit-gundam-seed-after-phase-between-the-stars](https://cdn.myanimelist.net/images/anime/7/28296.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム SEED 星のはざまで

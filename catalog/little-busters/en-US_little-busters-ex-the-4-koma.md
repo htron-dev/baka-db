@@ -1,5 +1,7 @@
 # Little Busters! EX: The 4-koma
 
+![little-busters-ex-the-4-koma](https://cdn.myanimelist.net/images/manga/1/142051.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

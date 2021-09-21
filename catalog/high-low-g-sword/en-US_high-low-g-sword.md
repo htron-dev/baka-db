@@ -1,5 +1,7 @@
 # High & Low: G-Sword
 
+![high-low-g-sword](https://cdn.myanimelist.net/images/manga/2/201951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

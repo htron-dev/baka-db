@@ -1,5 +1,7 @@
 # Malta no Bouken Season 3
 
+![malta-no-bouken-season-3](https://cdn.myanimelist.net/images/anime/1235/93452.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: マルタの冒険　シーズン 3

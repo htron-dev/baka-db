@@ -1,5 +1,7 @@
 # Kasane no Tao
 
+![kasane-no-tao](https://cdn.myanimelist.net/images/manga/2/203937.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 84

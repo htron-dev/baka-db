@@ -1,5 +1,7 @@
 # Monster Strike: Mermaid Rhapsody
 
+![monster-strike-mermaid-rhapsody](https://cdn.myanimelist.net/images/anime/8/80678.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンスターストライク『マーメイド・ラプソディ』

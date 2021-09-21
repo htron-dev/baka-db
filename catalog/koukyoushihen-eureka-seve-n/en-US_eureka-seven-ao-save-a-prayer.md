@@ -1,5 +1,7 @@
 # Eureka Seven AO: Save A Prayer
 
+![eureka-seven-ao-save-a-prayer](https://cdn.myanimelist.net/images/manga/2/150453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

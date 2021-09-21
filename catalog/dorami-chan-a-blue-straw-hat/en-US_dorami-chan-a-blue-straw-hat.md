@@ -1,5 +1,7 @@
 # Dorami-chan: A Blue Straw Hat
 
+![dorami-chan-a-blue-straw-hat](https://cdn.myanimelist.net/images/anime/13/29011.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラミちゃん 青いストローハット

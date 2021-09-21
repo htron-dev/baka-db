@@ -1,5 +1,7 @@
 # Goshujinsama no Shikabane
 
+![goshujinsama-no-shikabane](https://cdn.myanimelist.net/images/manga/2/226936.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

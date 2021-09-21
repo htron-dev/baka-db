@@ -1,5 +1,7 @@
 # Jingi
 
+![jingi](https://cdn.myanimelist.net/images/anime/12/29575.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 仁義

@@ -1,5 +1,7 @@
 # Konya Bokura wa Otomari wo Suru
 
+![konya-bokura-wa-otomari-wo-suru](https://cdn.myanimelist.net/images/manga/2/244318.jpg)
+
 -   **type**: manga
 -   **original-name**: 今夜僕らはお泊りをする
 -   **start-date**: 2021-05-05

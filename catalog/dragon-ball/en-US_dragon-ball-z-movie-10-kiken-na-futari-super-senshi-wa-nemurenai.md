@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai
 
+![dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai](https://cdn.myanimelist.net/images/anime/1191/93673.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 危険なふたり!超戦士はねむれない

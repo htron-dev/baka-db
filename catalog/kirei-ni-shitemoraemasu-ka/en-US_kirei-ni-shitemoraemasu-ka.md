@@ -1,5 +1,7 @@
 # Kirei ni Shitemoraemasu ka.
 
+![kirei-ni-shitemoraemasu-ka](https://cdn.myanimelist.net/images/manga/2/208060.jpg)
+
 -   **type**: manga
 -   **original-name**: 綺麗にしてもらえますか。
 -   **start-date**: 2017-07-07

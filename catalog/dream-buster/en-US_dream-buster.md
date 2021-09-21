@@ -1,5 +1,7 @@
 # Dream Buster
 
+![dream-buster](https://cdn.myanimelist.net/images/manga/1/61425.jpg)
+
 -   **type**: manga
 -   **original-name**: ドリームバスター
 

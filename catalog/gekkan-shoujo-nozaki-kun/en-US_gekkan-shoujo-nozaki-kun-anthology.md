@@ -1,5 +1,7 @@
 # Gekkan Shoujo Nozaki-kun Anthology
 
+![gekkan-shoujo-nozaki-kun-anthology](https://cdn.myanimelist.net/images/manga/3/138923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

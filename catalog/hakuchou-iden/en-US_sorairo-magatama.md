@@ -1,5 +1,7 @@
 # Sorairo Magatama
 
+![sorairo-magatama](https://cdn.myanimelist.net/images/manga/2/82094.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

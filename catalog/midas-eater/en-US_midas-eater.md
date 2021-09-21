@@ -1,5 +1,7 @@
 # Midas Eater
 
+![midas-eater](https://cdn.myanimelist.net/images/manga/1/39303.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: マーダス†イーター

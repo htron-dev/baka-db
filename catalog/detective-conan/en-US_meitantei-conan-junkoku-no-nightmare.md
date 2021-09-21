@@ -1,5 +1,7 @@
 # Meitantei Conan: Junkoku no Nightmare
 
+![meitantei-conan-junkoku-no-nightmare](https://cdn.myanimelist.net/images/manga/1/240766.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

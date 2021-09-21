@@ -1,5 +1,7 @@
 # Isekai no Shikisai
 
+![isekai-no-shikisai](https://cdn.myanimelist.net/images/manga/1/189234.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

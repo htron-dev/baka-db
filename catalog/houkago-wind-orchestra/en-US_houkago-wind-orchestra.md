@@ -1,5 +1,7 @@
 # Houkago Wind Orchestra
 
+![houkago-wind-orchestra](https://cdn.myanimelist.net/images/manga/1/22706.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 放課後ウィンド・オーケストラ

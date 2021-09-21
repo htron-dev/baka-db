@@ -1,5 +1,7 @@
 # Gang-aji Ttong
 
+![gang-aji-ttong](https://cdn.myanimelist.net/images/anime/9/86848.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 강아지똥

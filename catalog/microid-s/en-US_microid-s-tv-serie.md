@@ -1,5 +1,7 @@
 # Microid S
 
+![microid-s](https://cdn.myanimelist.net/images/anime/5/87095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ミクロイドＳ

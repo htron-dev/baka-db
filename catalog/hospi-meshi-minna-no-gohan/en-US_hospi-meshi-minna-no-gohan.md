@@ -1,5 +1,7 @@
 # Hospi Meshi: Minna no Gohan
 
+![hospi-meshi-minna-no-gohan](https://cdn.myanimelist.net/images/manga/2/231274.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Erohon♥: Adult
 
+![erohon♥-adult](https://cdn.myanimelist.net/images/manga/1/236569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

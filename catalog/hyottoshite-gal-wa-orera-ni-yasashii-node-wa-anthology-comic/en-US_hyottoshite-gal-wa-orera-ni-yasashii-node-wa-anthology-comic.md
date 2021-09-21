@@ -1,5 +1,7 @@
 # Hyottoshite Gal wa Orera ni Yasashii node wa? Anthology Comic
 
+![hyottoshite-gal-wa-orera-ni-yasashii-node-wa-anthology-comic](https://cdn.myanimelist.net/images/manga/2/220617.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

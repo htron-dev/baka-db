@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha StrikerS
 
+![mahou-shoujo-lyrical-nanoha-striker-s](https://cdn.myanimelist.net/images/anime/3/14190.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔法少女リリカルなのは StrikerS

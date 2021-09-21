@@ -1,5 +1,7 @@
 # Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi
 
+![futari-wa-precure-max-heart-movie-2-yukizora-no-tomodachi](https://cdn.myanimelist.net/images/anime/2/20640.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふたりはプリキュア Max Heart2 雪空のともだち

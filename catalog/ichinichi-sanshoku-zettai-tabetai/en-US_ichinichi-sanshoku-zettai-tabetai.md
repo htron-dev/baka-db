@@ -1,5 +1,7 @@
 # Ichinichi Sanshoku Zettai Tabetai
 
+![ichinichi-sanshoku-zettai-tabetai](https://cdn.myanimelist.net/images/manga/3/228162.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

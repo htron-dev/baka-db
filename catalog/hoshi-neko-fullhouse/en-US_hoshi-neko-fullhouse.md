@@ -1,5 +1,7 @@
 # Hoshi Neko Fullhouse
 
+![hoshi-neko-fullhouse](https://cdn.myanimelist.net/images/anime/3/89299.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 星猫フルハウス

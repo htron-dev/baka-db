@@ -1,5 +1,7 @@
 # Hatsukoi wa Yuki no You ni Awakute
 
+![hatsukoi-wa-yuki-no-you-ni-awakute](https://cdn.myanimelist.net/images/manga/1/123763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

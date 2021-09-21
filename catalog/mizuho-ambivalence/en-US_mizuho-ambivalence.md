@@ -1,5 +1,7 @@
 # Mizuho Ambivalence
 
+![mizuho-ambivalence](https://cdn.myanimelist.net/images/manga/4/38173.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

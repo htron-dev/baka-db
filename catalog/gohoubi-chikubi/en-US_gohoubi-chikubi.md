@@ -1,5 +1,7 @@
 # Gohoubi Chikubi
 
+![gohoubi-chikubi](https://cdn.myanimelist.net/images/manga/2/208272.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

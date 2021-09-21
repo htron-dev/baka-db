@@ -1,5 +1,7 @@
 # Gurazeni: Tokyo Dome-hen
 
+![gurazeni-tokyo-dome-hen](https://cdn.myanimelist.net/images/manga/2/149159.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 151

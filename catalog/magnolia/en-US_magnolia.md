@@ -1,5 +1,7 @@
 # Magnolia
 
+![magnolia](https://cdn.myanimelist.net/images/manga/1/153311.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 45

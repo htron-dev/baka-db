@@ -1,5 +1,7 @@
 # Bokura no☆Hikari Club
 
+![bokura-no☆-hikari-club](https://cdn.myanimelist.net/images/manga/3/181385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

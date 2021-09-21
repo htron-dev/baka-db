@@ -1,5 +1,7 @@
 # Kotetsu Den!!
 
+![kotetsu-den](https://cdn.myanimelist.net/images/manga/3/208356.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

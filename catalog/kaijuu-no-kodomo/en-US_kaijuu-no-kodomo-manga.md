@@ -1,5 +1,7 @@
 # Kaijuu no Kodomo
 
+![kaijuu-no-kodomo](https://cdn.myanimelist.net/images/manga/3/161119.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

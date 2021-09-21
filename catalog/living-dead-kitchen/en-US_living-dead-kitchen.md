@@ -1,5 +1,7 @@
 # Living Dead Kitchen
 
+![living-dead-kitchen](https://cdn.myanimelist.net/images/manga/2/217092.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 62

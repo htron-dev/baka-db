@@ -1,5 +1,7 @@
 # Made in Nippon
 
+![made-in-nippon](https://cdn.myanimelist.net/images/manga/2/168487.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

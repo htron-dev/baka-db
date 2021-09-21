@@ -1,5 +1,7 @@
 # Fairy Ngoo
 
+![fairy-ngoo](https://cdn.myanimelist.net/images/anime/1530/100559.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ふぇありーんごー

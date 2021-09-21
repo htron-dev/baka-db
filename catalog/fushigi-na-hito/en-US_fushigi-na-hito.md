@@ -1,5 +1,7 @@
 # Fushigi na Hito
 
+![fushigi-na-hito](https://cdn.myanimelist.net/images/manga/2/82158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

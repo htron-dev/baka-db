@@ -1,5 +1,7 @@
 # K.O.SEN
 
+![k-o-sen](https://cdn.myanimelist.net/images/manga/3/178866.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

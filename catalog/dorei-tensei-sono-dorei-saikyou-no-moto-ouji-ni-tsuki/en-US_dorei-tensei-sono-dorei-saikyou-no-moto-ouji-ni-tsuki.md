@@ -1,5 +1,7 @@
 # Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki
 
+![dorei-tensei-sono-dorei-saikyou-no-moto-ouji-ni-tsuki](https://cdn.myanimelist.net/images/manga/1/243106.jpg)
+
 -   **type**: manga
 -   **original-name**: 奴隷転生～その奴隷、最強の元王子につき～
 -   **start-date**: 2020-10-22

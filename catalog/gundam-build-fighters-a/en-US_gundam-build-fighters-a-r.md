@@ -1,5 +1,7 @@
 # Gundam Build Fighters A-R
 
+![gundam-build-fighters-a-r](https://cdn.myanimelist.net/images/manga/1/182933.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

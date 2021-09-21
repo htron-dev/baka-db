@@ -1,5 +1,7 @@
 # Gin no Valkyries
 
+![gin-no-valkyries](https://cdn.myanimelist.net/images/manga/3/91307.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 銀のヴァルキュリアス

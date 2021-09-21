@@ -1,5 +1,7 @@
 # Gokudo Girl
 
+![gokudo-girl](https://cdn.myanimelist.net/images/manga/1/20581.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

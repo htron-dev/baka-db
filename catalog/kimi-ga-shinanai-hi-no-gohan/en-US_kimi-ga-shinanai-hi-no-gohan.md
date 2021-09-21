@@ -1,5 +1,7 @@
 # Kimi ga Shinanai Hi no Gohan
 
+![kimi-ga-shinanai-hi-no-gohan](https://cdn.myanimelist.net/images/manga/3/192407.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

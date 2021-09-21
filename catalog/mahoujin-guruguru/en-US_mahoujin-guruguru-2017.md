@@ -1,5 +1,7 @@
 # Mahoujin Guruguru (2017)
 
+![mahoujin-guruguru-2017](https://cdn.myanimelist.net/images/anime/1880/103168.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 魔法陣グルグル

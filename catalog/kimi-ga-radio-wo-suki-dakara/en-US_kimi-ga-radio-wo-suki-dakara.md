@@ -1,5 +1,7 @@
 # Kimi ga Radio wo Suki dakara
 
+![kimi-ga-radio-wo-suki-dakara](https://cdn.myanimelist.net/images/manga/2/244520.jpg)
+
 -   **type**: manga
 -   **original-name**: きみがラジオを好きだから
 -   **start-date**: 2020-11-26

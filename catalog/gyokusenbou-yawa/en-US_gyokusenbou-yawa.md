@@ -1,5 +1,7 @@
 # Gyokusenbou Yawa
 
+![gyokusenbou-yawa](https://cdn.myanimelist.net/images/manga/2/109907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Detective Conan OVA 10: Kid in Trap Island
 
+![detective-conan-ova-10-kid-in-trap-island](https://cdn.myanimelist.net/images/anime/7/23698.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン ～ KID in TRAP ISLAND ～

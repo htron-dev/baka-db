@@ -1,5 +1,7 @@
 # Mangetsu no Ou
 
+![mangetsu-no-ou](https://cdn.myanimelist.net/images/manga/1/190622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 満月の王

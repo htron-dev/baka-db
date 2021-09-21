@@ -1,5 +1,7 @@
 # Mahoko no Kuse ni Namaiki da!
 
+![mahoko-no-kuse-ni-namaiki-da](https://cdn.myanimelist.net/images/manga/2/227028.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

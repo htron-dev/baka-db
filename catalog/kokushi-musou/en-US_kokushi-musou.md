@@ -1,5 +1,7 @@
 # Kokushi Musou!!
 
+![kokushi-musou](https://cdn.myanimelist.net/images/manga/2/127233.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

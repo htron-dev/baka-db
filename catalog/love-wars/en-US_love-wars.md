@@ -1,5 +1,7 @@
 # Love Wars
 
+![love-wars](https://cdn.myanimelist.net/images/manga/1/176674.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

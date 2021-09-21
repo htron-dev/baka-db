@@ -1,5 +1,7 @@
 # Fukigen na Mononokean
 
+![fukigen-na-mononokean](https://cdn.myanimelist.net/images/manga/3/130743.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 93

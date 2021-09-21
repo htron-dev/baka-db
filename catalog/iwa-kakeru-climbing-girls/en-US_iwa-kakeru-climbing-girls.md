@@ -1,5 +1,7 @@
 # Iwa Kakeru!: Climbing Girls
 
+![iwa-kakeru-climbing-girls](https://cdn.myanimelist.net/images/manga/1/229736.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: いわかける！ -Climbing Girls-

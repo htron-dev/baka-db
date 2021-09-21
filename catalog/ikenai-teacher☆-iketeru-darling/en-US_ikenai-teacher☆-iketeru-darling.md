@@ -1,5 +1,7 @@
 # Ikenai Teacher☆Iketeru Darling
 
+![ikenai-teacher☆-iketeru-darling](https://cdn.myanimelist.net/images/manga/5/28437.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

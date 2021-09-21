@@ -1,5 +1,7 @@
 # Hien Dokuritsu Sentoutai
 
+![hien-dokuritsu-sentoutai](https://cdn.myanimelist.net/images/manga/1/237373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 飛燕独立戦闘隊

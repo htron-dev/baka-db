@@ -1,5 +1,7 @@
 # Monster Girl
 
+![monster-girl](https://cdn.myanimelist.net/images/manga/3/135045.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 146

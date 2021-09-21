@@ -1,5 +1,7 @@
 # Mangaka-chan wa Nemurenai
 
+![mangaka-chan-wa-nemurenai](https://cdn.myanimelist.net/images/manga/2/241569.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

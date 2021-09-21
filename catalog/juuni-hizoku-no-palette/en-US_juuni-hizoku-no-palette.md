@@ -1,5 +1,7 @@
 # Juuni Hizoku no Palette
 
+![juuni-hizoku-no-palette](https://cdn.myanimelist.net/images/manga/1/24708.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

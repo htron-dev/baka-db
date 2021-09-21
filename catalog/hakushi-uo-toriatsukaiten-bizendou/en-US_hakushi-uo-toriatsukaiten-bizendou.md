@@ -1,5 +1,7 @@
 # Hakushi Uo Toriatsukaiten Bizendou
 
+![hakushi-uo-toriatsukaiten-bizendou](https://cdn.myanimelist.net/images/manga/3/29585.jpg)
+
 -   **type**: manga
 -   **original-name**: 白紙魚取扱店 美鬚堂
 

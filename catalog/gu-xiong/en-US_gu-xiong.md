@@ -1,5 +1,7 @@
 # Gu Xiong
 
+![gu-xiong](https://cdn.myanimelist.net/images/anime/1194/108285.jpg)
+
 -   **type**: ona
 -   **original-name**: 孤雄
 -   **rating**: PG-13 - Teens 13 or older

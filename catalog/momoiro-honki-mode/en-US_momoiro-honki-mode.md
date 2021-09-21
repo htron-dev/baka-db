@@ -1,5 +1,7 @@
 # Momoiro Honki Mode!
 
+![momoiro-honki-mode](https://cdn.myanimelist.net/images/manga/2/23600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 桃色・本気モード!

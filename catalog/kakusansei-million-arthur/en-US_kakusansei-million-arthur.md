@@ -1,5 +1,7 @@
 # Kakusansei Million Arthur
 
+![kakusansei-million-arthur](https://cdn.myanimelist.net/images/anime/9/88538.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 拡散性ミリオンアーサー

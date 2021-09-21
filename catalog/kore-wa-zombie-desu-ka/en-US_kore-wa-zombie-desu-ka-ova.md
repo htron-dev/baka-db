@@ -1,5 +1,7 @@
 # Kore wa Zombie Desu ka? OVA
 
+![kore-wa-zombie-desu-ka-ova](https://cdn.myanimelist.net/images/anime/12/36243.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: これはゾンビですか? OVA

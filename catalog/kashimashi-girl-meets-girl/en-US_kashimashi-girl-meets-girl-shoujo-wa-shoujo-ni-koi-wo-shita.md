@@ -1,5 +1,7 @@
 # Kashimashi: Girl Meets Girl - Shoujo wa Shoujo ni Koi wo Shita
 
+![kashimashi-girl-meets-girl-shoujo-wa-shoujo-ni-koi-wo-shita](https://cdn.myanimelist.net/images/anime/11/18416.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かしまし ～ガール・ミーツ・ガール～ 少女は少女に恋をした

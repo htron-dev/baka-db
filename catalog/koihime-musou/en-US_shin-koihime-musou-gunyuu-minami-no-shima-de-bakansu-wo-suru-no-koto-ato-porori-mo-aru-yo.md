@@ -1,5 +1,7 @@
 # Shin Koihime†Musou: Gunyuu, Minami no Shima de Bakansu wo Suru no Koto - Ato, Porori mo Aru yo!
 
+![shin-koihime-musou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo](https://cdn.myanimelist.net/images/anime/12/26692.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真 恋姫†無双 群雄, 南の島でバカンスをするのこと~あと, ポロリもあるよ! ~

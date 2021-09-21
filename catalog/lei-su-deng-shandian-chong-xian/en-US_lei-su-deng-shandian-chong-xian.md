@@ -1,5 +1,7 @@
 # Lei Su Deng Shandian Chong Xian
 
+![lei-su-deng-shandian-chong-xian](https://cdn.myanimelist.net/images/anime/1281/93043.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 雷速登闪电冲线

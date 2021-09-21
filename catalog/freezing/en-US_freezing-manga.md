@@ -1,5 +1,7 @@
 # Freezing
 
+![freezing](https://cdn.myanimelist.net/images/manga/3/51021.jpg)
+
 -   **type**: manga
 -   **original-name**: フリージング
 -   **start-date**: 2007-01-27

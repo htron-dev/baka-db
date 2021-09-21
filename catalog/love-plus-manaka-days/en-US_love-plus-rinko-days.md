@@ -1,5 +1,7 @@
 # Love Plus: Rinko Days
 
+![love-plus-rinko-days](https://cdn.myanimelist.net/images/manga/3/58649.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

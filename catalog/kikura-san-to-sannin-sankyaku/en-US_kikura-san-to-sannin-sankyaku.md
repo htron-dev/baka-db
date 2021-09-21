@@ -1,5 +1,7 @@
 # Kikura-san to Sannin Sankyaku
 
+![kikura-san-to-sannin-sankyaku](https://cdn.myanimelist.net/images/manga/3/158234.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?
 
+![gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana](https://cdn.myanimelist.net/images/anime/9/71792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 gdgd 妖精 s っていう映画はどうかな...?

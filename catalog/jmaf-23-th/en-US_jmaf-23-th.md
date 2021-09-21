@@ -1,5 +1,7 @@
 # JMAF23th
 
+![jmaf-23-th](https://cdn.myanimelist.net/images/anime/1010/115142.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **start-date**: 2019-09-05

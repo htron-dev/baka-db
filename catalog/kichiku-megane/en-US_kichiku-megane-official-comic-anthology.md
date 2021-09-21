@@ -1,5 +1,7 @@
 # Kichiku Megane Official Comic Anthology
 
+![kichiku-megane-official-comic-anthology](https://cdn.myanimelist.net/images/manga/3/26726.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Deus Ex machina
 
+![deus-ex-machina](https://cdn.myanimelist.net/images/manga/1/120389.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

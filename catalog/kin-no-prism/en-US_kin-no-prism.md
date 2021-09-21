@@ -1,5 +1,7 @@
 # Kin no Prism
 
+![kin-no-prism](https://cdn.myanimelist.net/images/manga/2/14677.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 金のプリズム

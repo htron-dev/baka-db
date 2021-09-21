@@ -1,5 +1,7 @@
 # Glass no Usagi
 
+![glass-no-usagi](https://cdn.myanimelist.net/images/anime/1188/94727.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガラスのうさぎ

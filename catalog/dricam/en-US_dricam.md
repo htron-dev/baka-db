@@ -1,5 +1,7 @@
 # Dricam!!
 
+![dricam](https://cdn.myanimelist.net/images/manga/2/217488.jpg)
+
 -   **type**: manga
 -   **chapters**: 103
 -   **original-name**: ドリキャン!!

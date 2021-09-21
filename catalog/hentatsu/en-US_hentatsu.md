@@ -1,5 +1,7 @@
 # Hentatsu
 
+![hentatsu](https://cdn.myanimelist.net/images/anime/1597/105619.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: へんたつ

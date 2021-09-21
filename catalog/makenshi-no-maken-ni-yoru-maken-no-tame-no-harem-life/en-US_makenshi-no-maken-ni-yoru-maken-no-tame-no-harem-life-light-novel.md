@@ -1,5 +1,7 @@
 # Makenshi no Maken ni Yoru Maken no Tame no Harem Life
 
+![makenshi-no-maken-ni-yoru-maken-no-tame-no-harem-life](https://cdn.myanimelist.net/images/manga/3/219421.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Dark Air
 
+![dark-air](https://cdn.myanimelist.net/images/manga/1/62491.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 91

@@ -1,5 +1,7 @@
 # Gin no Saji 2nd Season
 
+![gin-no-saji-2nd-season](https://cdn.myanimelist.net/images/anime/8/57995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 銀の匙 2nd シーズン

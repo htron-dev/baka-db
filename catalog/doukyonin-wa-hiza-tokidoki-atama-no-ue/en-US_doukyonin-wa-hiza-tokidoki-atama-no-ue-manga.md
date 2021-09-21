@@ -1,5 +1,7 @@
 # Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 
+![doukyonin-wa-hiza-tokidoki-atama-no-ue](https://cdn.myanimelist.net/images/manga/2/179355.jpg)
+
 -   **type**: manga
 -   **original-name**: 同居人はひざ、時々、頭のうえ。
 -   **start-date**: 2015-06-04

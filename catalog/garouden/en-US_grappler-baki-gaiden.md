@@ -1,5 +1,7 @@
 # Grappler Baki Gaiden
 
+![grappler-baki-gaiden](https://cdn.myanimelist.net/images/manga/2/127443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

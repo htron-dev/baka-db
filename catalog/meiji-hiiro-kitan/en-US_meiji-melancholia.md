@@ -1,5 +1,7 @@
 # Meiji Melancholia
 
+![meiji-melancholia](https://cdn.myanimelist.net/images/manga/2/171664.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Hypnos Game
 
+![hypnos-game](https://cdn.myanimelist.net/images/manga/1/193731.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ヒュプノスゲーム
 -   **start-date**: 2017-04-10

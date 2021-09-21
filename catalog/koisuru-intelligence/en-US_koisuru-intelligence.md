@@ -1,5 +1,7 @@
 # Koisuru Intelligence
 
+![koisuru-intelligence](https://cdn.myanimelist.net/images/manga/2/164768.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋するインテリジェンス
 -   **start-date**: 2014-02-08

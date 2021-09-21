@@ -1,5 +1,7 @@
 # Kindan no Rakuen
 
+![kindan-no-rakuen](https://cdn.myanimelist.net/images/manga/2/29653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

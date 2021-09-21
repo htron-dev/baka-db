@@ -1,5 +1,7 @@
 # Hime♥Seme
 
+![hime♥-seme](https://cdn.myanimelist.net/images/manga/2/225131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

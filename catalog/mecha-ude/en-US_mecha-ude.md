@@ -1,5 +1,7 @@
 # Mecha-ude
 
+![mecha-ude](https://cdn.myanimelist.net/images/anime/1625/92925.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: メカウデ

@@ -1,5 +1,7 @@
 # Kotonoba Drive
 
+![kotonoba-drive](https://cdn.myanimelist.net/images/manga/1/149707.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

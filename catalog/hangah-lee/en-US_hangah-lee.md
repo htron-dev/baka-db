@@ -1,5 +1,7 @@
 # Hangah, Lee
 
+![hangah-lee](https://cdn.myanimelist.net/images/manga/2/22823.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 28

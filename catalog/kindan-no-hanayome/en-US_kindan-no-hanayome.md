@@ -1,5 +1,7 @@
 # Kindan no Hanayome
 
+![kindan-no-hanayome](https://cdn.myanimelist.net/images/manga/2/182203.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

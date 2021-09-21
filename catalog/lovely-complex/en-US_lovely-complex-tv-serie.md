@@ -1,5 +1,7 @@
 # Lovely★Complex
 
+![lovely★-complex](https://cdn.myanimelist.net/images/anime/11/75563.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ラブ ★ コン

@@ -1,5 +1,7 @@
 # Mouretsu Atarou
 
+![mouretsu-atarou](https://cdn.myanimelist.net/images/manga/2/230360.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 130

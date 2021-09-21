@@ -1,5 +1,7 @@
 # Loups=Garous: Kihi Subeki Ookami
 
+![loups-garous-kihi-subeki-ookami](https://cdn.myanimelist.net/images/manga/3/125421.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

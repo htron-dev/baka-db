@@ -1,5 +1,7 @@
 # Garo: Guren no Tsuki Special
 
+![garo-guren-no-tsuki-special](https://cdn.myanimelist.net/images/anime/8/81489.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GARO 紅蓮ノ月

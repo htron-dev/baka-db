@@ -1,5 +1,7 @@
 # Mugen Sekai no Amadeus
 
+![mugen-sekai-no-amadeus](https://cdn.myanimelist.net/images/manga/2/191661.jpg)
+
 -   **type**: manga
 -   **original-name**: 無限世界のアマデウス
 -   **start-date**: 2017-02-20

@@ -1,5 +1,7 @@
 # JK Splash!
 
+![jk-splash](https://cdn.myanimelist.net/images/manga/3/203038.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

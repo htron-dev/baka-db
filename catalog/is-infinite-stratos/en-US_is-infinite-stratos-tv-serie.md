@@ -1,5 +1,7 @@
 # IS: Infinite Stratos
 
+![is-infinite-stratos](https://cdn.myanimelist.net/images/anime/3/74045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: IS 〈インフィニット・ストラトス〉

@@ -1,5 +1,7 @@
 # Koutei Heika no Dekiaikon: Shishi wa Koneko wo Amayakasu
 
+![koutei-heika-no-dekiaikon-shishi-wa-koneko-wo-amayakasu](https://cdn.myanimelist.net/images/manga/1/181446.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

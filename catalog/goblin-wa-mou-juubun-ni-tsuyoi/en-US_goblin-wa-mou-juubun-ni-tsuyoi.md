@@ -1,5 +1,7 @@
 # Goblin wa Mou Juubun ni Tsuyoi
 
+![goblin-wa-mou-juubun-ni-tsuyoi](https://cdn.myanimelist.net/images/manga/2/202266.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴブリンはもう十分に強い
 -   **start-date**: 2017-02-27

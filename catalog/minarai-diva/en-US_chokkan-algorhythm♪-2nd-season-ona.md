@@ -1,5 +1,7 @@
 # Chokkan × Algorhythm♪ 2nd Season
 
+![chokkan-algorhythm♪-2nd-season](https://cdn.myanimelist.net/images/anime/1441/93210.jpg)
+
 -   **type**: ona
 -   **episodes**: 17
 -   **original-name**: 直感 × アルゴリズム ♪ 2nd Season

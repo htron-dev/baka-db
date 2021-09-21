@@ -1,5 +1,7 @@
 # Lance N' Masques: Inside Plus
 
+![lance-n-masques-inside-plus](https://cdn.myanimelist.net/images/manga/3/165116.jpg)
+
 -   **type**: manga
 -   **original-name**: Lance N' Masques inside plus
 -   **start-date**: 2014-06-26

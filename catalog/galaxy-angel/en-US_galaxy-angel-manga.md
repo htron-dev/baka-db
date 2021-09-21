@@ -1,5 +1,7 @@
 # Galaxy Angel
 
+![galaxy-angel](https://cdn.myanimelist.net/images/manga/3/206032.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

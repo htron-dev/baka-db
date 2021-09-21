@@ -1,5 +1,7 @@
 # Fukigen na Goshujinsama
 
+![fukigen-na-goshujinsama](https://cdn.myanimelist.net/images/manga/3/194493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ふきげんなご主人様

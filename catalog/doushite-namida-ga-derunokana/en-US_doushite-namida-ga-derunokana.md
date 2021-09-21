@@ -1,5 +1,7 @@
 # Doushite Namida ga Derunokana
 
+![doushite-namida-ga-derunokana](https://cdn.myanimelist.net/images/manga/2/13196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

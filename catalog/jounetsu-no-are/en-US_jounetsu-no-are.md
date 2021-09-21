@@ -1,5 +1,7 @@
 # Jounetsu no Are
 
+![jounetsu-no-are](https://cdn.myanimelist.net/images/manga/3/202971.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

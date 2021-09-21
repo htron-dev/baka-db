@@ -1,5 +1,7 @@
 # Monster Days
 
+![monster-days](https://cdn.myanimelist.net/images/manga/3/156647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono
 
+![super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaimono](https://cdn.myanimelist.net/images/anime/10/83150.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スーパーダンガンロンパ 2.5 狛枝凪斗と世界の破壊者

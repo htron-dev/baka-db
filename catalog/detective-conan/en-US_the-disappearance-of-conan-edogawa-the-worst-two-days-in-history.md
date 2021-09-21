@@ -1,5 +1,7 @@
 # The Disappearance of Conan Edogawa: The Worst Two Days in History
 
+![the-disappearance-of-conan-edogawa-the-worst-two-days-in-history](https://cdn.myanimelist.net/images/anime/7/67289.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～

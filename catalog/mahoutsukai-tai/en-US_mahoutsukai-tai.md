@@ -1,5 +1,7 @@
 # Mahoutsukai Tai!
 
+![mahoutsukai-tai](https://cdn.myanimelist.net/images/anime/10/22077.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 魔法使い Tai!

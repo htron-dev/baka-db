@@ -1,5 +1,7 @@
 # Kage no Eiyuu no Nichijou-tan: Yuusha no Ura de Anyaku Shiteita Saikyou no Agent. Soshiki ga Kaitai Sareta node, Shoutai Kakushite Hitonami no Nichijou wo Ouka suru.
 
+![kage-no-eiyuu-no-nichijou-tan-yuusha-no-ura-de-anyaku-shiteita-saikyou-no-agent-soshiki-ga-kaitai-sareta-node-shoutai-kakushite-hitonami-no-nichijou-wo-ouka-suru](https://cdn.myanimelist.net/images/manga/3/239979.jpg)
+
 -   **type**: manga
 -   **original-name**: 影の英雄の日常譚　勇者の裏で暗躍していた最強のエージェント。組織が解体されたので、正体隠して人並みの日常を謳歌する。
 -   **start-date**: 2020-07-27

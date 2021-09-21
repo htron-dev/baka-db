@@ -1,5 +1,7 @@
 # Fushigi Tsuuhan Kerorindou
 
+![fushigi-tsuuhan-kerorindou](https://cdn.myanimelist.net/images/manga/2/41024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

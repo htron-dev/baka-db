@@ -1,5 +1,7 @@
 # The Gregory Gallery Tour Special
 
+![the-gregory-gallery-tour-special](https://cdn.myanimelist.net/images/anime/1473/110701.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: グレゴリーホラーショー

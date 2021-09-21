@@ -1,5 +1,7 @@
 # Ryuu ga Gotoku Online x Taka no Tsume
 
+![ryuu-ga-gotoku-online-x-taka-no-tsume](https://cdn.myanimelist.net/images/anime/1821/96234.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 『龍が如く ONLINE』×「鷹の爪」

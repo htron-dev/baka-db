@@ -1,5 +1,7 @@
 # Darling wa Namamono ni Tsuki
 
+![darling-wa-namamono-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/40554.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

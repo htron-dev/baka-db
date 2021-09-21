@@ -1,5 +1,7 @@
 # Mon-Soni! D'Artagnan no Idol Sengen
 
+![mon-soni-d-artagnan-no-idol-sengen](https://cdn.myanimelist.net/images/anime/8/85906.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: モンソニ! ダルタニャンのアイドル宣言

@@ -1,5 +1,7 @@
 # Isekai Yuusha no Kouryakujutsu
 
+![isekai-yuusha-no-kouryakujutsu](https://cdn.myanimelist.net/images/manga/1/177981.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界勇者の攻略術
 -   **start-date**: 2016-06-01

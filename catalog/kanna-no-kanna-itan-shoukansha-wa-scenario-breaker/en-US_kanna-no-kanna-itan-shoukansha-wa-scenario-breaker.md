@@ -1,5 +1,7 @@
 # Kanna no Kanna: Itan Shoukansha wa Scenario Breaker
 
+![kanna-no-kanna-itan-shoukansha-wa-scenario-breaker](https://cdn.myanimelist.net/images/manga/3/185460.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カンナのカンナ　異端召喚者はシナリオブレイカー
 -   **start-date**: 2016-11-07

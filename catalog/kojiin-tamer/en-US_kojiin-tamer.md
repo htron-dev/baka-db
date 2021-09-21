@@ -1,5 +1,7 @@
 # Kojiin Tamer
 
+![kojiin-tamer](https://cdn.myanimelist.net/images/manga/3/245506.jpg)
+
 -   **type**: manga
 -   **original-name**: 孤児院テイマー
 -   **start-date**: 2019-08-23

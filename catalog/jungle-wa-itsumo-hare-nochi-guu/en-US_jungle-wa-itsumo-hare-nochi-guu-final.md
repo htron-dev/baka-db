@@ -1,5 +1,7 @@
 # Jungle wa Itsumo Hare nochi Guu Final
 
+![jungle-wa-itsumo-hare-nochi-guu-final](https://cdn.myanimelist.net/images/anime/6/14520.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: ジャングルはいつもハレのちグゥ　ＦＩＮＡＬ

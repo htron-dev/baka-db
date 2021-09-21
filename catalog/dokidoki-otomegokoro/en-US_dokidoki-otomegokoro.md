@@ -1,5 +1,7 @@
 # Dokidoki Otomegokoro
 
+![dokidoki-otomegokoro](https://cdn.myanimelist.net/images/manga/4/10425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドキドキ。乙女心

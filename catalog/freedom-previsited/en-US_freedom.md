@@ -1,5 +1,7 @@
 # Freedom
 
+![freedom](https://cdn.myanimelist.net/images/anime/4/50511.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: FREEDOM

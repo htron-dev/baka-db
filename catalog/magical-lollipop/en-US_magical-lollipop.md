@@ -1,5 +1,7 @@
 # Magical Lollipop
 
+![magical-lollipop](https://cdn.myanimelist.net/images/manga/3/135033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

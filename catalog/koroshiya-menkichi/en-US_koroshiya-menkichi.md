@@ -1,5 +1,7 @@
 # Koroshiya Menkichi
 
+![koroshiya-menkichi](https://cdn.myanimelist.net/images/manga/3/226935.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

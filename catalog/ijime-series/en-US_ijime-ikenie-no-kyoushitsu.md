@@ -1,5 +1,7 @@
 # Ijime: Ikenie no Kyoushitsu
 
+![ijime-ikenie-no-kyoushitsu](https://cdn.myanimelist.net/images/anime/8/35317.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いじめ 〜いけにえの教室〜

@@ -1,5 +1,7 @@
 # Gelatin
 
+![gelatin](https://cdn.myanimelist.net/images/manga/3/34691.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **start-date**: 2009-02-04

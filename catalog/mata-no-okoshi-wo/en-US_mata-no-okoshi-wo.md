@@ -1,5 +1,7 @@
 # Mata no Okoshi wo!
 
+![mata-no-okoshi-wo](https://cdn.myanimelist.net/images/manga/3/222505.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

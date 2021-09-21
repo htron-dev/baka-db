@@ -1,5 +1,7 @@
 # Lady Georgie
 
+![lady-georgie](https://cdn.myanimelist.net/images/anime/1271/92965.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: レディジョージィ

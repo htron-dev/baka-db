@@ -1,5 +1,7 @@
 # Drop Frame
 
+![drop-frame](https://cdn.myanimelist.net/images/manga/3/161648.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

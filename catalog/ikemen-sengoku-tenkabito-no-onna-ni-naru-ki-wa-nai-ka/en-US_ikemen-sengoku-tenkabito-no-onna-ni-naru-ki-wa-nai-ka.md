@@ -1,5 +1,7 @@
 # Ikemen Sengoku: Tenkabito no Onna ni Naru Ki wa Nai ka
 
+![ikemen-sengoku-tenkabito-no-onna-ni-naru-ki-wa-nai-ka](https://cdn.myanimelist.net/images/manga/1/222730.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

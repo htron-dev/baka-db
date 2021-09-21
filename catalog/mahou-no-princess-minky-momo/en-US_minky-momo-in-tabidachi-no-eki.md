@@ -1,5 +1,7 @@
 # Minky Momo in Tabidachi no Eki
 
+![minky-momo-in-tabidachi-no-eki](https://cdn.myanimelist.net/images/anime/1596/108440.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: MINKY MOMO in 旅立ちの駅

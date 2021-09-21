@@ -1,5 +1,7 @@
 # Maou-sama to Iku! One Rank-ue no Isekai Tour!!
 
+![maou-sama-to-iku-one-rank-ue-no-isekai-tour](https://cdn.myanimelist.net/images/manga/1/184860.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王さまと行く! ワンランク上の異世界ツアー! !
 -   **start-date**: 2016-11-01

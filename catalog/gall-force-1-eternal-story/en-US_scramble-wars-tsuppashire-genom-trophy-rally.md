@@ -1,5 +1,7 @@
 # Scramble Wars: Tsuppashire! Genom Trophy Rally
 
+![scramble-wars-tsuppashire-genom-trophy-rally](https://cdn.myanimelist.net/images/anime/1226/99346.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スクランブル・ウォーズ　突っ走る！ゲノムトロフィーラリー

@@ -1,5 +1,7 @@
 # Minarai Shinkan Level 1
 
+![minarai-shinkan-level-1](https://cdn.myanimelist.net/images/manga/2/136625.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 見習い神官レベル 1
 -   **start-date**: 2013-11-30

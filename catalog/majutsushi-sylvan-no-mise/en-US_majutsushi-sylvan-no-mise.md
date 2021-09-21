@@ -1,5 +1,7 @@
 # Majutsushi Sylvan no Mise
 
+![majutsushi-sylvan-no-mise](https://cdn.myanimelist.net/images/manga/2/189419.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔術師シルヴァンの店
 -   **start-date**: 2016-03-22

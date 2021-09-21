@@ -1,5 +1,7 @@
 # Freezing Specials
 
+![freezing-specials](https://cdn.myanimelist.net/images/anime/9/28079.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: はじけちゃう! ドキドキトラブルフリージング

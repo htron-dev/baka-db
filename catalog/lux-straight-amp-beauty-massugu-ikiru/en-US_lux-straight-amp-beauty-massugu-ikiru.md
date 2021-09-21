@@ -1,5 +1,7 @@
 # Lux Straight &amp; Beauty Massugu Ikiru
 
+![lux-straight-amp-beauty-massugu-ikiru](https://cdn.myanimelist.net/images/anime/1976/98335.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ラックス ストレート＆ビューティー まっすぐ生きる

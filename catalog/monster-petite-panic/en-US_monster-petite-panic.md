@@ -1,5 +1,7 @@
 # Monster Petite Panic
 
+![monster-petite-panic](https://cdn.myanimelist.net/images/manga/3/152421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

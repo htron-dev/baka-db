@@ -1,5 +1,7 @@
 # Moonlight Party
 
+![moonlight-party](https://cdn.myanimelist.net/images/manga/3/124391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ムーンライト・パーティー

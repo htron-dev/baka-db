@@ -1,5 +1,7 @@
 # Hiyumi no Inaka Michi
 
+![hiyumi-no-inaka-michi](https://cdn.myanimelist.net/images/manga/2/227619.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

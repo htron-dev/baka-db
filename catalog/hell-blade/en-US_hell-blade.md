@@ -1,5 +1,7 @@
 # Hell Blade
 
+![hell-blade](https://cdn.myanimelist.net/images/manga/2/49481.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Kimi to Kemono na Yume wo Miru
 
+![kimi-to-kemono-na-yume-wo-miru](https://cdn.myanimelist.net/images/manga/3/81794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

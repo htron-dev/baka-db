@@ -1,5 +1,7 @@
 # Majutsushi Orphen: Revenge
 
+![majutsushi-orphen-revenge](https://cdn.myanimelist.net/images/anime/8/61841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 魔術士オーフェン Revenge

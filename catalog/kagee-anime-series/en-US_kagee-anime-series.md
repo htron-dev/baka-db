@@ -1,5 +1,7 @@
 # Kagee Anime Series
 
+![kagee-anime-series](https://cdn.myanimelist.net/images/anime/12/84583.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 影絵アニメシリーズ

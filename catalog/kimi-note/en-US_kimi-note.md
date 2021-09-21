@@ -1,5 +1,7 @@
 # Kimi Note
 
+![kimi-note](https://cdn.myanimelist.net/images/manga/1/130111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

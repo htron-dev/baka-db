@@ -1,5 +1,7 @@
 # Miracle Train: Chuo-sen e Youkoso
 
+![miracle-train-chuo-sen-e-youkoso](https://cdn.myanimelist.net/images/anime/9/18390.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ミラクル ☆ トレイン〜中央線へようこそ〜

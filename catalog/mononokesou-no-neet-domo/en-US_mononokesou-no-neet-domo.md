@@ -1,5 +1,7 @@
 # Mononokesou no NEET-domo
 
+![mononokesou-no-neet-domo](https://cdn.myanimelist.net/images/manga/2/164016.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

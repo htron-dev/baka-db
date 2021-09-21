@@ -1,5 +1,7 @@
 # Kamiusagi Rope x Wacoal
 
+![kamiusagi-rope-x-wacoal](https://cdn.myanimelist.net/images/anime/1479/92749.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 紙兎ロペ × ワコール

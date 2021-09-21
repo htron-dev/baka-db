@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 2-bu - Hon no Tame nara Miko ni Naru!
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-dai-2-bu-hon-no-tame-nara-miko-ni-naru](https://cdn.myanimelist.net/images/manga/1/227224.jpg)
+
 -   **type**: manga
 -   **original-name**: 本好きの下剋上～司書になるためには手段を選んでいられません～第二部 本のためなら巫女になる!
 -   **start-date**: 2018-09-24

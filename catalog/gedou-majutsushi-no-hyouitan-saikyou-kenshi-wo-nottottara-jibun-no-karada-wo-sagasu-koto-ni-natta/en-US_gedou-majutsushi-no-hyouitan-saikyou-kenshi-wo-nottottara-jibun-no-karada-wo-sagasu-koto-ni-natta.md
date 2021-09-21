@@ -1,5 +1,7 @@
 # Gedou Majutsushi no Hyouitan: Saikyou Kenshi wo Nottottara, Jibun no Karada wo Sagasu Koto ni Natta
 
+![gedou-majutsushi-no-hyouitan-saikyou-kenshi-wo-nottottara-jibun-no-karada-wo-sagasu-koto-ni-natta](https://cdn.myanimelist.net/images/manga/2/235220.jpg)
+
 -   **type**: manga
 -   **original-name**: 外道魔術師の憑依譚～最強剣士を乗っ取ったら、自分の身体を探すことになった～
 -   **start-date**: 2019-08-27

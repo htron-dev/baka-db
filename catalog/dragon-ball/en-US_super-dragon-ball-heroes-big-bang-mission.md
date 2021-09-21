@@ -1,5 +1,7 @@
 # Super Dragon Ball Heroes: Big Bang Mission!!!
 
+![super-dragon-ball-heroes-big-bang-mission](https://cdn.myanimelist.net/images/manga/3/245708.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパードラゴンボールヒーローズ ビッグバンミッション!!!
 -   **start-date**: 2020-04-02

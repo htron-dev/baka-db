@@ -1,5 +1,7 @@
 # Midori no Ou
 
+![midori-no-ou](https://cdn.myanimelist.net/images/manga/5/29189.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 62

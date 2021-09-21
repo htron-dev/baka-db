@@ -1,5 +1,7 @@
 # Hero-san to Moto Onna Kanbu-san
 
+![hero-san-to-moto-onna-kanbu-san](https://cdn.myanimelist.net/images/manga/1/222210.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒーローさんと元女幹部さん
 -   **start-date**: 2018-10-08

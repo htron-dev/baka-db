@@ -1,5 +1,7 @@
 # Kechonpa
 
+![kechonpa](https://cdn.myanimelist.net/images/manga/1/150548.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

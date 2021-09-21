@@ -1,5 +1,7 @@
 # Fushigiboshi no☆Futagohime Gyu! Recap
 
+![fushigiboshi-no☆-futagohime-gyu-recap](https://cdn.myanimelist.net/images/anime/7/70329.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ふしぎ星の ☆ ふたご姫 Gyu!スペシャル ぐるり ☆ ふしぎ星めぐり

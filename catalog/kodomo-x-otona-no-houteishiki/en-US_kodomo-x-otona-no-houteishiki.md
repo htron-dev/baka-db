@@ -1,5 +1,7 @@
 # Kodomo x Otona no Houteishiki
 
+![kodomo-x-otona-no-houteishiki](https://cdn.myanimelist.net/images/manga/1/190989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # God Eater: Side by Side
 
+![god-eater-side-by-side](https://cdn.myanimelist.net/images/manga/3/227573.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

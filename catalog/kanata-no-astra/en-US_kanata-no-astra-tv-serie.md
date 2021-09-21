@@ -1,5 +1,7 @@
 # Kanata no Astra
 
+![kanata-no-astra](https://cdn.myanimelist.net/images/anime/1784/106428.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 彼方のアストラ

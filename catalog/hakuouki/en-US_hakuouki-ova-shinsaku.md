@@ -1,5 +1,7 @@
 # Hakuouki OVA (Shinsaku)
 
+![hakuouki-ova-shinsaku](https://cdn.myanimelist.net/images/anime/1763/117761.jpg)
+
 -   **type**: ova
 -   **original-name**: 薄桜鬼 新作 OVA
 -   **rating**: R - 17+ (violence & profanity)

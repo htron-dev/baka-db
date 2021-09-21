@@ -1,5 +1,7 @@
 # Haha Uzura
 
+![haha-uzura](https://cdn.myanimelist.net/images/anime/5/66233.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 母うずら

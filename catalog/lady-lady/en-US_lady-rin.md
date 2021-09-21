@@ -1,5 +1,7 @@
 # Lady Rin!
 
+![lady-rin](https://cdn.myanimelist.net/images/manga/1/248706.jpg)
+
 -   **type**: manga
 -   **original-name**: レディリン!
 

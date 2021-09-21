@@ -1,5 +1,7 @@
 # Hyakko Extra
 
+![hyakko-extra](https://cdn.myanimelist.net/images/anime/1628/98051.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヒャッコ エクストラ

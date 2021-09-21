@@ -1,5 +1,7 @@
 # Isekai Kitchen: Around 30 Eiyoushi no Second Life
 
+![isekai-kitchen-around-30-eiyoushi-no-second-life](https://cdn.myanimelist.net/images/manga/2/223821.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

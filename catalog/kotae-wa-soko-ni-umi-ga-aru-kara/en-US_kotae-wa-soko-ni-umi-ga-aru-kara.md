@@ -1,5 +1,7 @@
 # Kotae wa Soko ni Umi ga Aru kara
 
+![kotae-wa-soko-ni-umi-ga-aru-kara](https://cdn.myanimelist.net/images/manga/2/16465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

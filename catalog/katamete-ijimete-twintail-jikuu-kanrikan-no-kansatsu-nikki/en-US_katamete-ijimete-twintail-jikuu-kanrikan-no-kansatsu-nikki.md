@@ -1,5 +1,7 @@
 # Katamete Ijimete Twintail: Jikuu Kanrikan no Kansatsu Nikki
 
+![katamete-ijimete-twintail-jikuu-kanrikan-no-kansatsu-nikki](https://cdn.myanimelist.net/images/manga/1/169770.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

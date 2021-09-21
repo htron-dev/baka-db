@@ -1,5 +1,7 @@
 # Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly
 
+![fate-stay-night-movie-heavens-feel-ii-lost-butterfly](https://cdn.myanimelist.net/images/anime/1974/98158.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「Fate/stay night [Heaven's Feel] II.lost butterfly」

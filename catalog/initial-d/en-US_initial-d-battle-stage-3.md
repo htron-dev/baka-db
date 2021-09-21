@@ -1,5 +1,7 @@
 # Initial D Battle Stage 3
 
+![initial-d-battle-stage-3](https://cdn.myanimelist.net/images/anime/1236/113306.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: INITIAL D BATTLE STAGE 3

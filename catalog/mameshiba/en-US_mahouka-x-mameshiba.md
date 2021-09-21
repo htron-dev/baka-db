@@ -1,5 +1,7 @@
 # Mahouka x Mameshiba
 
+![mahouka-x-mameshiba](https://cdn.myanimelist.net/images/anime/10/85892.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 魔法科 × 豆しば

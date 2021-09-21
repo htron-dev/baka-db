@@ -1,5 +1,7 @@
 # Motemote na Boku wa Sekai made Sukucchaun da ze (Nyuumon)
 
+![motemote-na-boku-wa-sekai-made-sukucchaun-da-ze-nyuumon](https://cdn.myanimelist.net/images/manga/2/139523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

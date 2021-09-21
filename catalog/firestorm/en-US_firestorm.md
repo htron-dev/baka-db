@@ -1,5 +1,7 @@
 # Firestorm
 
+![firestorm](https://cdn.myanimelist.net/images/anime/11/6090.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: FIRESTORM 　ファイアーストーム

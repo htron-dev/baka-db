@@ -1,5 +1,7 @@
 # Ijiwaru Koushaku no Yuuga na Takurami
 
+![ijiwaru-koushaku-no-yuuga-na-takurami](https://cdn.myanimelist.net/images/manga/2/181104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

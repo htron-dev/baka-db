@@ -1,5 +1,7 @@
 # Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga......
 
+![hiota-no-kanojo-ga-ore-no-motteru-eroge-ni-kyoumi-shinshin-nanda-ga](https://cdn.myanimelist.net/images/manga/2/171417.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 非オタの彼女が俺の持ってるエロゲに興味津々なんだが……
 -   **start-date**: 2016-01-20

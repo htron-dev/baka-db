@@ -1,5 +1,7 @@
 # Futari no Roku Shuukan
 
+![futari-no-roku-shuukan](https://cdn.myanimelist.net/images/manga/4/111737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたりの六週間

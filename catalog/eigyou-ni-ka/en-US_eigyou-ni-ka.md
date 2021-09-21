@@ -1,5 +1,7 @@
 # Eigyou Ni-ka!
 
+![eigyou-ni-ka](https://cdn.myanimelist.net/images/manga/1/167180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

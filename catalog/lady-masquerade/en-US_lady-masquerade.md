@@ -1,5 +1,7 @@
 # Lady Masquerade
 
+![lady-masquerade](https://cdn.myanimelist.net/images/manga/5/34910.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

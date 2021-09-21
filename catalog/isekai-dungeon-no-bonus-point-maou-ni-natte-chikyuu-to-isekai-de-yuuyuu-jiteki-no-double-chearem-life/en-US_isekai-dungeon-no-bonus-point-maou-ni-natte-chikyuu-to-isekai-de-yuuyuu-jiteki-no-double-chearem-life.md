@@ -1,5 +1,7 @@
 # Isekai Dungeon no Bonus Point: Maou ni Natte Chikyuu to Isekai de Yuuyuu Jiteki no Double Chearem Life
 
+![isekai-dungeon-no-bonus-point-maou-ni-natte-chikyuu-to-isekai-de-yuuyuu-jiteki-no-double-chearem-life](https://cdn.myanimelist.net/images/manga/1/185117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

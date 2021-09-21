@@ -1,5 +1,7 @@
 # M3: Sono Kuroki Hagane Recap
 
+![m-3-sono-kuroki-hagane-recap](https://cdn.myanimelist.net/images/anime/4/65041.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: M3 ～ソノ黒キ鋼～

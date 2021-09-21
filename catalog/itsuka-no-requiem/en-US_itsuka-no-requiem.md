@@ -1,5 +1,7 @@
 # Itsuka no Requiem
 
+![itsuka-no-requiem](https://cdn.myanimelist.net/images/manga/1/202521.jpg)
+
 -   **type**: light-novel
 -   **original-name**: いつかのレクイエム
 -   **start-date**: 2017-11-15

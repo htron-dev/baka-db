@@ -1,5 +1,7 @@
 # Musaigen no Phantom World: Mizutama no Kiseki
 
+![musaigen-no-phantom-world-mizutama-no-kiseki](https://cdn.myanimelist.net/images/anime/7/82387.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 無彩限のファントム・ワールド 水玉の奇跡

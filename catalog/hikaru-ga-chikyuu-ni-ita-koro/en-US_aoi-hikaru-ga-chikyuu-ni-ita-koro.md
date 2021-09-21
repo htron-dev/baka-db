@@ -1,5 +1,7 @@
 # "Aoi" Hikaru ga Chikyuu ni Ita Koro......
 
+![aoi-hikaru-ga-chikyuu-ni-ita-koro](https://cdn.myanimelist.net/images/manga/3/111511.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Heisei Policemen!!
 
+![heisei-policemen](https://cdn.myanimelist.net/images/manga/1/27521.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: へ～せいポリスメン！！

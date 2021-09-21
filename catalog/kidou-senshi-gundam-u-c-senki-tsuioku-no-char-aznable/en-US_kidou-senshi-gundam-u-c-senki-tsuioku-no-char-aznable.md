@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam U.C. Senki: Tsuioku no Char Aznable
 
+![kidou-senshi-gundam-u-c-senki-tsuioku-no-char-aznable](https://cdn.myanimelist.net/images/manga/2/141293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

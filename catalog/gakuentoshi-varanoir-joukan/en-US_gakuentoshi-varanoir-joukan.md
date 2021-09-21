@@ -1,5 +1,7 @@
 # Gakuentoshi Varanoir Joukan
 
+![gakuentoshi-varanoir-joukan](https://cdn.myanimelist.net/images/anime/3/5930.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 学園都市ヴァラノワール 上巻

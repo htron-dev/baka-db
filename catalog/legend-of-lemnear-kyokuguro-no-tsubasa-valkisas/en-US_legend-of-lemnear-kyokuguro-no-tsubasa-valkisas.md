@@ -1,5 +1,7 @@
 # Legend of Lemnear: Kyokuguro no Tsubasa Valkisas
 
+![legend-of-lemnear-kyokuguro-no-tsubasa-valkisas](https://cdn.myanimelist.net/images/anime/8/26903.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Legend of Lemnear 極黒の翼 バルキサス

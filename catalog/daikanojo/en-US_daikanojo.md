@@ -1,5 +1,7 @@
 # Daikanojo
 
+![daikanojo](https://cdn.myanimelist.net/images/manga/2/226557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

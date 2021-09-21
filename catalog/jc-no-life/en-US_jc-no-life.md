@@ -1,5 +1,7 @@
 # JC no Life!
 
+![jc-no-life](https://cdn.myanimelist.net/images/manga/3/188889.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

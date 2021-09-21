@@ -1,5 +1,7 @@
 # Maou no Musume wa Yasashisugiru!!
 
+![maou-no-musume-wa-yasashisugiru](https://cdn.myanimelist.net/images/manga/2/225168.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の娘は優しすぎる!!
 -   **start-date**: 2018-05-11

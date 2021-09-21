@@ -1,5 +1,7 @@
 # Donbe Monogatari
 
+![donbe-monogatari](https://cdn.myanimelist.net/images/anime/8/32415.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: どんべえ物語

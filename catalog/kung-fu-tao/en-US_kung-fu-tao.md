@@ -1,5 +1,7 @@
 # Kung Fu Tao
 
+![kung-fu-tao](https://cdn.myanimelist.net/images/manga/1/5576.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

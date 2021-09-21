@@ -1,5 +1,7 @@
 # Gintama: The Final
 
+![gintama-the-final](https://cdn.myanimelist.net/images/anime/1027/109706.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀魂 THE FINAL

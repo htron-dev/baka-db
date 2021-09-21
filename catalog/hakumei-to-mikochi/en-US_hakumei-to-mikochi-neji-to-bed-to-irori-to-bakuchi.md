@@ -1,5 +1,7 @@
 # Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi
 
+![hakumei-to-mikochi-neji-to-bed-to-irori-to-bakuchi](https://cdn.myanimelist.net/images/anime/5/90014.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハクメイとミコチ 「ネジとベッド と 囲炉裏と博打」

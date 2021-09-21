@@ -1,5 +1,7 @@
 # Falcon no Koibito
 
+![falcon-no-koibito](https://cdn.myanimelist.net/images/manga/2/232874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ファルコンの恋人

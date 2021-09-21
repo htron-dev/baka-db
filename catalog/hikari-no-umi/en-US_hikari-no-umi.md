@@ -1,5 +1,7 @@
 # Hikari no Umi
 
+![hikari-no-umi](https://cdn.myanimelist.net/images/manga/2/66803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

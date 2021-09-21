@@ -1,5 +1,7 @@
 # The Idolm@ster Cinderella Girls: Wild Wind Girl
 
+![the-idolm-ster-cinderella-girls-wild-wind-girl](https://cdn.myanimelist.net/images/manga/1/202847.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

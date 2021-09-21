@@ -1,5 +1,7 @@
 # Kaguya Luna Gachizei no Nichijou
 
+![kaguya-luna-gachizei-no-nichijou](https://cdn.myanimelist.net/images/manga/3/225861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 輝夜月ガチ勢の日常

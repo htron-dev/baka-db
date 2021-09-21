@@ -1,5 +1,7 @@
 # Mahoujikake no Atlas
 
+![mahoujikake-no-atlas](https://cdn.myanimelist.net/images/manga/1/171798.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

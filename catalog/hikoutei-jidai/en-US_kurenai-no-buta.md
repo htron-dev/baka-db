@@ -1,5 +1,7 @@
 # Kurenai no Buta
 
+![kurenai-no-buta](https://cdn.myanimelist.net/images/anime/6/2878.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 紅の豚

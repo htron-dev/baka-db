@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteid
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-washi-to-ore-bokura-wa-asakusa-shounen-tanteid](https://cdn.myanimelist.net/images/anime/6/81552.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: こちら葛飾区亀有公園前派出所 ワシと俺!?〜ぼくらは浅草少年探偵団!〜

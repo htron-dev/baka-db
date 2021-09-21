@@ -1,5 +1,7 @@
 # Kamiarizuki no Kodomo
 
+![kamiarizuki-no-kodomo](https://cdn.myanimelist.net/images/anime/1395/117591.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 神在月のこども

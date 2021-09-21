@@ -1,5 +1,7 @@
 # Imouto sae Ireba Ii. (ONA) Specials
 
+![imouto-sae-ireba-ii-ona-specials](https://cdn.myanimelist.net/images/anime/9/89848.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 妹さえいればいい。

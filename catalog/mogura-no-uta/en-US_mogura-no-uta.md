@@ -1,5 +1,7 @@
 # Mogura no Uta
 
+![mogura-no-uta](https://cdn.myanimelist.net/images/manga/3/97383.jpg)
+
 -   **type**: manga
 -   **original-name**: 土竜の唄
 -   **start-date**: 2005-08-25

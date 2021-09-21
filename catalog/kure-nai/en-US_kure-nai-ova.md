@@ -1,5 +1,7 @@
 # Kure-nai OVA
 
+![kure-nai-ova](https://cdn.myanimelist.net/images/anime/8/19793.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 紅 OVA

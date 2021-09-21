@@ -1,5 +1,7 @@
 # Inugami-san to Nekoyama-san
 
+![inugami-san-to-nekoyama-san](https://cdn.myanimelist.net/images/anime/4/61921.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 犬神さんと猫山さん

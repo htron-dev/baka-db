@@ -1,5 +1,7 @@
 # Koi no Hodasare Houteishiki
 
+![koi-no-hodasare-houteishiki](https://cdn.myanimelist.net/images/manga/1/57723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

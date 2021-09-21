@@ -1,5 +1,7 @@
 # Kanpeki na Level 99 nado Sonzai Shinai
 
+![kanpeki-na-level-99-nado-sonzai-shinai](https://cdn.myanimelist.net/images/manga/3/160686.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 完璧なレベル 99 など存在しない

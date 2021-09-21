@@ -1,5 +1,7 @@
 # Koukishin wa Joshikousei wo Korosu
 
+![koukishin-wa-joshikousei-wo-korosu](https://cdn.myanimelist.net/images/manga/3/215618.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

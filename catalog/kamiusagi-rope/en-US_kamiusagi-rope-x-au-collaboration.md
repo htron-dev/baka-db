@@ -1,5 +1,7 @@
 # Kamiusagi Rope x au Collaboration
 
+![kamiusagi-rope-x-au-collaboration](https://cdn.myanimelist.net/images/anime/5/38517.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 紙兎ロペ　 AU コラボ EP

@@ -1,5 +1,7 @@
 # Kujakuiro no Canary
 
+![kujakuiro-no-canary](https://cdn.myanimelist.net/images/manga/1/74103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 孔雀色のカナリア

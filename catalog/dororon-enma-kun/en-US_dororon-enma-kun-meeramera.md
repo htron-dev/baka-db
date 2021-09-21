@@ -1,5 +1,7 @@
 # Dororon Enma-kun Meeramera
 
+![dororon-enma-kun-meeramera](https://cdn.myanimelist.net/images/anime/13/75838.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Dororon えん魔くん メ〜ラめら

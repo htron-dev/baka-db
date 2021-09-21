@@ -1,5 +1,7 @@
 # Imasugu Click!
 
+![imasugu-click](https://cdn.myanimelist.net/images/manga/1/205145.jpg)
+
 -   **type**: manga
 -   **chapters**: 73
 -   **original-name**: いますぐクリック!

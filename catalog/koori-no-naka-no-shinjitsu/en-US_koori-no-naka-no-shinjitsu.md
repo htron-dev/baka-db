@@ -1,5 +1,7 @@
 # Koori no Naka no Shinjitsu
 
+![koori-no-naka-no-shinjitsu](https://cdn.myanimelist.net/images/manga/3/231861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 氷の中の真実

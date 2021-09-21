@@ -1,5 +1,7 @@
 # Ikinuke! Bakusou! Kusohamu-chan! Episode 0
 
+![ikinuke-bakusou-kusohamu-chan-episode-0](https://cdn.myanimelist.net/images/anime/1645/114950.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 生きぬけ！爆走！クソハムちゃん Episode 0

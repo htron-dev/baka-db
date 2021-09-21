@@ -1,5 +1,7 @@
 # Karate Baka Isekai
 
+![karate-baka-isekai](https://cdn.myanimelist.net/images/manga/3/233710.jpg)
+
 -   **type**: manga
 -   **original-name**: 空手バカ異世界
 -   **start-date**: 2019-04-24

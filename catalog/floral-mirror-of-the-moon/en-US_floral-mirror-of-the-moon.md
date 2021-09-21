@@ -1,5 +1,7 @@
 # Floral Mirror of the Moon
 
+![floral-mirror-of-the-moon](https://cdn.myanimelist.net/images/manga/1/60375.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 화경의 달

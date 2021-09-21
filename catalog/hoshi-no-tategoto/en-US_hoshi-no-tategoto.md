@@ -1,5 +1,7 @@
 # Hoshi no Tategoto
 
+![hoshi-no-tategoto](https://cdn.myanimelist.net/images/manga/2/73033.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 星のたてごと

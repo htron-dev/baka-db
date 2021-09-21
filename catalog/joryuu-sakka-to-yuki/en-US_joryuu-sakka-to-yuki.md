@@ -1,5 +1,7 @@
 # Joryuu Sakka to Yuki
 
+![joryuu-sakka-to-yuki](https://cdn.myanimelist.net/images/manga/1/215872.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

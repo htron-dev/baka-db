@@ -1,5 +1,7 @@
 # Mesu-ka Drug, Konzetsu Keikaku.
 
+![mesu-ka-drug-konzetsu-keikaku](https://cdn.myanimelist.net/images/manga/1/237277.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

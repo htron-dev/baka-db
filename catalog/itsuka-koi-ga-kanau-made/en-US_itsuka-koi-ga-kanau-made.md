@@ -1,5 +1,7 @@
 # Itsuka Koi ga Kanau Made
 
+![itsuka-koi-ga-kanau-made](https://cdn.myanimelist.net/images/manga/2/15224.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

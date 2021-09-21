@@ -1,5 +1,7 @@
 # Little Maestra
 
+![little-maestra](https://cdn.myanimelist.net/images/manga/2/162277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

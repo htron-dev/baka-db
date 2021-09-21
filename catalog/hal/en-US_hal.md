@@ -1,5 +1,7 @@
 # Hal
 
+![hal](https://cdn.myanimelist.net/images/manga/2/142957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

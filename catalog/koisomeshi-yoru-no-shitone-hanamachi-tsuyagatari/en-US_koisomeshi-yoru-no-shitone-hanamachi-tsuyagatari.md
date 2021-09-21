@@ -1,5 +1,7 @@
 # Koisomeshi Yoru no Shitone: Hanamachi Tsuyagatari
 
+![koisomeshi-yoru-no-shitone-hanamachi-tsuyagatari](https://cdn.myanimelist.net/images/manga/2/184024.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

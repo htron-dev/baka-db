@@ -1,5 +1,7 @@
 # Takarakuji x Rope
 
+![takarakuji-x-rope](https://cdn.myanimelist.net/images/anime/10/72184.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 宝くじ × ロペ

@@ -1,5 +1,7 @@
 # Mouretsu Pirates: Abyss of Hyperspace
 
+![mouretsu-pirates-abyss-of-hyperspace](https://cdn.myanimelist.net/images/anime/3/58361.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-

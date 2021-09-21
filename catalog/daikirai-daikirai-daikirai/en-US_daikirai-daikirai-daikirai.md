@@ -1,5 +1,7 @@
 # Daikirai, Daikirai, Daikirai
 
+![daikirai-daikirai-daikirai](https://cdn.myanimelist.net/images/manga/1/247639.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 大嫌い、大嫌い、大嫌い

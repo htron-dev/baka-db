@@ -1,5 +1,7 @@
 # Jurassic!
 
+![jurassic](https://cdn.myanimelist.net/images/anime/1431/102313.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ジュラしっく！

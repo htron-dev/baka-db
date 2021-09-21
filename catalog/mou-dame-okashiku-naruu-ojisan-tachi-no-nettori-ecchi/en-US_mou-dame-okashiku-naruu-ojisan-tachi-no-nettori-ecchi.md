@@ -1,5 +1,7 @@
 # Mou Dame, Okashiku naruu: Ojisan-tachi no Nettori Ecchi
 
+![mou-dame-okashiku-naruu-ojisan-tachi-no-nettori-ecchi](https://cdn.myanimelist.net/images/manga/2/193846.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

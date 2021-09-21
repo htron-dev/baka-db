@@ -1,5 +1,7 @@
 # Is Your Dog Safe Now?
 
+![is-your-dog-safe-now](https://cdn.myanimelist.net/images/manga/1/76593.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 지금 당신의 개는 안전합니까？

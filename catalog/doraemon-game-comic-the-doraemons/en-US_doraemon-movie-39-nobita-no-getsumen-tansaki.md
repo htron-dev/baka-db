@@ -1,5 +1,7 @@
 # Doraemon Movie 39: Nobita no Getsumen Tansaki
 
+![doraemon-movie-39-nobita-no-getsumen-tansaki](https://cdn.myanimelist.net/images/anime/1369/102185.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の月面探査記

@@ -1,5 +1,7 @@
 # Joshikousei Nobunaga-chan!!
 
+![joshikousei-nobunaga-chan](https://cdn.myanimelist.net/images/manga/3/103317.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子高生信長ちゃん!!
 

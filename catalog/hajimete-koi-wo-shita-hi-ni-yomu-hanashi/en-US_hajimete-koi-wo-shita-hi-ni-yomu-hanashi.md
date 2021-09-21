@@ -1,5 +1,7 @@
 # Hajimete Koi wo Shita Hi ni Yomu Hanashi
 
+![hajimete-koi-wo-shita-hi-ni-yomu-hanashi](https://cdn.myanimelist.net/images/manga/3/196077.jpg)
+
 -   **type**: manga
 -   **original-name**: 初めて恋をした日に読む話
 -   **start-date**: 2016-05-26

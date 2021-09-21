@@ -1,5 +1,7 @@
 # Hai! Akko Desu
 
+![hai-akko-desu](https://cdn.myanimelist.net/images/anime/1358/99405.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 164
 -   **original-name**: ハーイあっこです

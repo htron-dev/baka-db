@@ -1,5 +1,7 @@
 # Hitori no Ou ni Sasiageru Gangu
 
+![hitori-no-ou-ni-sasiageru-gangu](https://cdn.myanimelist.net/images/manga/3/77343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

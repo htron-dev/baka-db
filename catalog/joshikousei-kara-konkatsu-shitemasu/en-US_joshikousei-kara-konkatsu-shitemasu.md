@@ -1,5 +1,7 @@
 # Joshikousei kara, Konkatsu shitemasu.
 
+![joshikousei-kara-konkatsu-shitemasu](https://cdn.myanimelist.net/images/manga/3/224229.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

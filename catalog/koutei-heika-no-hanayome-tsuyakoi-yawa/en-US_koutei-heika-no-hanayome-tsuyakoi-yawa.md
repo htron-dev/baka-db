@@ -1,5 +1,7 @@
 # Koutei Heika no Hanayome: Tsuyakoi Yawa
 
+![koutei-heika-no-hanayome-tsuyakoi-yawa](https://cdn.myanimelist.net/images/manga/1/192088.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

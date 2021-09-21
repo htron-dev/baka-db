@@ -1,5 +1,7 @@
 # Dekisokonai no Himegimi-tachi
 
+![dekisokonai-no-himegimi-tachi](https://cdn.myanimelist.net/images/manga/3/217480.jpg)
+
 -   **type**: manga
 -   **original-name**: できそこないの姫君たち
 -   **start-date**: 2018-04-06

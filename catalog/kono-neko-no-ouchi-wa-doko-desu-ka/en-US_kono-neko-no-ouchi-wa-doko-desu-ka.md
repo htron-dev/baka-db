@@ -1,5 +1,7 @@
 # Kono Neko no Ouchi wa Doko desu ka
 
+![kono-neko-no-ouchi-wa-doko-desu-ka](https://cdn.myanimelist.net/images/manga/3/15261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: この猫のおうちはどこですか

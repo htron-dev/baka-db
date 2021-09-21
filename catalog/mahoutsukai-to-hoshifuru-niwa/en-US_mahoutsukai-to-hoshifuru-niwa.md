@@ -1,5 +1,7 @@
 # Mahoutsukai to Hoshifuru Niwa
 
+![mahoutsukai-to-hoshifuru-niwa](https://cdn.myanimelist.net/images/manga/1/174593.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

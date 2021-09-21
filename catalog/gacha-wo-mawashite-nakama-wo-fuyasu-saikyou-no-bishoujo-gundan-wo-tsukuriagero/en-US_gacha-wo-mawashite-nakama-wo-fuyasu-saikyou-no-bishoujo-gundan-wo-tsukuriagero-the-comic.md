@@ -1,5 +1,7 @@
 # Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero the Comic
 
+![gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero-the-comic](https://cdn.myanimelist.net/images/manga/2/215409.jpg)
+
 -   **type**: manga
 -   **original-name**: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ THE COMIC
 -   **start-date**: 2018-03-30

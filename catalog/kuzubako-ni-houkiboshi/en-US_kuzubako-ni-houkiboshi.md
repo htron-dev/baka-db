@@ -1,5 +1,7 @@
 # Kuzubako ni Houkiboshi
 
+![kuzubako-ni-houkiboshi](https://cdn.myanimelist.net/images/manga/3/161623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

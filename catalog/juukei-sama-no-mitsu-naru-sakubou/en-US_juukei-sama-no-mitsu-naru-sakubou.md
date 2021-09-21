@@ -1,5 +1,7 @@
 # Juukei-sama no Mitsu naru Sakubou
 
+![juukei-sama-no-mitsu-naru-sakubou](https://cdn.myanimelist.net/images/manga/2/194275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

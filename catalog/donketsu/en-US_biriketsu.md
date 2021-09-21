@@ -1,5 +1,7 @@
 # Biriketsu
 
+![biriketsu](https://cdn.myanimelist.net/images/manga/2/240098.jpg)
+
 -   **type**: manga
 -   **original-name**: ビリケツ
 -   **start-date**: 2020-06-04

@@ -1,5 +1,7 @@
 # Jujutsu Kaisen
 
+![jujutsu-kaisen](https://cdn.myanimelist.net/images/anime/1792/96959.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 呪術廻戦

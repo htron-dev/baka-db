@@ -1,5 +1,7 @@
 # Mr. Gossip
 
+![mr-gossip](https://cdn.myanimelist.net/images/manga/3/185039.jpg)
+
 -   **type**: manga
 -   **original-name**: ミスターゴシップ
 -   **start-date**: 2016-04-24

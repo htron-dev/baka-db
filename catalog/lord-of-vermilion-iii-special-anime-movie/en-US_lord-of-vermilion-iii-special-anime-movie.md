@@ -1,5 +1,7 @@
 # Lord of Vermilion III Special Anime Movie
 
+![lord-of-vermilion-iii-special-anime-movie](https://cdn.myanimelist.net/images/anime/8/75895.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ロード オブ ヴァーミリオン III スペシャルアニメムービー

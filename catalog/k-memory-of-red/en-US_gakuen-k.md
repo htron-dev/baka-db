@@ -1,5 +1,7 @@
 # Gakuen K
 
+![gakuen-k](https://cdn.myanimelist.net/images/manga/3/133607.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

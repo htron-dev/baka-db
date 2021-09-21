@@ -1,5 +1,7 @@
 # King of Fighters: Another Day
 
+![king-of-fighters-another-day](https://cdn.myanimelist.net/images/anime/3/12676.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ザ・キング・オブ・ファイターズ アナザーデイ

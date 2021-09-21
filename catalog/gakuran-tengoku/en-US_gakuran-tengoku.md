@@ -1,5 +1,7 @@
 # Gakuran Tengoku
 
+![gakuran-tengoku](https://cdn.myanimelist.net/images/manga/1/58411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

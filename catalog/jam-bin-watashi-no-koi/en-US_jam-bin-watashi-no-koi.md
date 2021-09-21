@@ -1,5 +1,7 @@
 # Jam, Bin, Watashi no Koi
 
+![jam-bin-watashi-no-koi](https://cdn.myanimelist.net/images/manga/3/199746.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Michi (Movie)
 
+![michi-movie](https://cdn.myanimelist.net/images/anime/5/70897.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 俺の路

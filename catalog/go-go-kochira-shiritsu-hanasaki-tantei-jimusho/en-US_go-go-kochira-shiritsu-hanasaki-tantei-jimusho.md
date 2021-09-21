@@ -1,5 +1,7 @@
 # Go Go Kochira Shiritsu Hanasaki Tantei Jimusho.
 
+![go-go-kochira-shiritsu-hanasaki-tantei-jimusho](https://cdn.myanimelist.net/images/manga/3/79815.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

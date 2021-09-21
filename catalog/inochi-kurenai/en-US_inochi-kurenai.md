@@ -1,5 +1,7 @@
 # Inochi+Kurenai
 
+![inochi-kurenai](https://cdn.myanimelist.net/images/manga/3/191012.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

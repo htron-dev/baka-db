@@ -1,5 +1,7 @@
 # Happy Forest
 
+![happy-forest](https://cdn.myanimelist.net/images/anime/9/87223.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: HAPPY FOREST

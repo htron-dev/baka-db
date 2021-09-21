@@ -1,5 +1,7 @@
 # Minami-sensei no Tadashii Seikyouiku Jugyou
 
+![minami-sensei-no-tadashii-seikyouiku-jugyou](https://cdn.myanimelist.net/images/manga/3/210721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

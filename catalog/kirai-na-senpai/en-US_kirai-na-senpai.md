@@ -1,5 +1,7 @@
 # Kirai na Senpai
 
+![kirai-na-senpai](https://cdn.myanimelist.net/images/manga/2/63037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 嫌いな先輩

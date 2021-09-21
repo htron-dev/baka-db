@@ -1,5 +1,7 @@
 # Jaryuu Tensei: Isekai Ittemo Ore wa Ore
 
+![jaryuu-tensei-isekai-ittemo-ore-wa-ore](https://cdn.myanimelist.net/images/manga/2/186981.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 邪竜転生 ～異世界行っても俺は俺～
 -   **start-date**: 2016-02-23

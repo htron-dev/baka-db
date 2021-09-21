@@ -1,5 +1,7 @@
 # MMORPG? Shittemasu kedo Nani ka?
 
+![mmorpg-shittemasu-kedo-nani-ka](https://cdn.myanimelist.net/images/manga/3/195781.jpg)
+
 -   **type**: light-novel
 -   **original-name**: MMORPG？知ってますけどなにか？
 -   **start-date**: 2017-04-10

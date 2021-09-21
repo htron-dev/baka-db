@@ -1,5 +1,7 @@
 # Death of the Steel
 
+![death-of-the-steel](https://cdn.myanimelist.net/images/manga/2/40599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

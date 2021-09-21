@@ -1,5 +1,7 @@
 # Mayonaka no Cinderella
 
+![mayonaka-no-cinderella](https://cdn.myanimelist.net/images/manga/2/12801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真夜中のシンデレラ

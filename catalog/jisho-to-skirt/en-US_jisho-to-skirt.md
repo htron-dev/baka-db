@@ -1,5 +1,7 @@
 # Jisho to Skirt
 
+![jisho-to-skirt](https://cdn.myanimelist.net/images/manga/3/114349.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

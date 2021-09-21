@@ -1,5 +1,7 @@
 # Kimi-iro Shoujo
 
+![kimi-iro-shoujo](https://cdn.myanimelist.net/images/manga/1/208712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

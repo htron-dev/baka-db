@@ -1,5 +1,7 @@
 # Masukomi
 
+![masukomi](https://cdn.myanimelist.net/images/manga/1/176228.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 44

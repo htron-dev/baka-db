@@ -1,5 +1,7 @@
 # D.C.II S.S.: Da Capo II Second Season
 
+![d-c-ii-s-s-da-capo-ii-second-season](https://cdn.myanimelist.net/images/anime/9/75306.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: D.C.II S.S. ～ダ・カーポ II セカンドシーズン～

@@ -1,5 +1,7 @@
 # Al to Neri to Sono Shuuhen
 
+![al-to-neri-to-sono-shuuhen](https://cdn.myanimelist.net/images/manga/1/39387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

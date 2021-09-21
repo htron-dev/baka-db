@@ -1,5 +1,7 @@
 # Kokage-kun wa Majo.
 
+![kokage-kun-wa-majo](https://cdn.myanimelist.net/images/manga/1/184309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

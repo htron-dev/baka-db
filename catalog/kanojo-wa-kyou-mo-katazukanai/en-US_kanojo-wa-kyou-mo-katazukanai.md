@@ -1,5 +1,7 @@
 # Kanojo wa Kyou mo Katazukanai
 
+![kanojo-wa-kyou-mo-katazukanai](https://cdn.myanimelist.net/images/manga/3/245157.jpg)
+
 -   **type**: manga
 -   **original-name**: カノジョは今日もかたづかない
 -   **start-date**: 2019-08-08

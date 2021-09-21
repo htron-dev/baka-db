@@ -1,5 +1,7 @@
 # Full Metal Panic! The Second Raid Episode 00
 
+![full-metal-panic-the-second-raid-episode-00](https://cdn.myanimelist.net/images/anime/9/45048.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フルメタル パニック！The Second Raid 前夜祭「Scene00」

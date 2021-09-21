@@ -1,5 +1,7 @@
 # Kabukichou Stray Flamingo
 
+![kabukichou-stray-flamingo](https://cdn.myanimelist.net/images/manga/2/237792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

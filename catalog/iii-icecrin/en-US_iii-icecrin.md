@@ -1,5 +1,7 @@
 # Iii Icecrin
 
+![iii-icecrin](https://cdn.myanimelist.net/images/anime/1654/113385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: iii あいすくりん

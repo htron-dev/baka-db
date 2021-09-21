@@ -1,5 +1,7 @@
 # My Doll House
 
+![my-doll-house](https://cdn.myanimelist.net/images/manga/2/177034.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

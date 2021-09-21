@@ -1,5 +1,7 @@
 # DearS Official Fan Book
 
+![dear-s-official-fan-book](https://cdn.myanimelist.net/images/manga/2/32575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 28

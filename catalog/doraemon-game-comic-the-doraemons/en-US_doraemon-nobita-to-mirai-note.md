@@ -1,5 +1,7 @@
 # Doraemon: Nobita to Mirai Note
 
+![doraemon-nobita-to-mirai-note](https://cdn.myanimelist.net/images/anime/10/44950.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドラえもん のび太と未来ノート

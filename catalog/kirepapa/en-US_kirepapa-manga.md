@@ -1,5 +1,7 @@
 # Kirepapa
 
+![kirepapa](https://cdn.myanimelist.net/images/manga/2/11254.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: キレパパ。

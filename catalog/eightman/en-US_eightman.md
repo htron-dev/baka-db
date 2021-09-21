@@ -1,5 +1,7 @@
 # Eightman
 
+![eightman](https://cdn.myanimelist.net/images/anime/4/73670.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: エイトマン

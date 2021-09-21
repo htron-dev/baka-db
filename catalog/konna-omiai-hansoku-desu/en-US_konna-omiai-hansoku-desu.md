@@ -1,5 +1,7 @@
 # Konna Omiai Hansoku desu.
 
+![konna-omiai-hansoku-desu](https://cdn.myanimelist.net/images/manga/2/128201.jpg)
+
 -   **type**: manga
 -   **original-name**: こんなお見合い反則です｡
 -   **start-date**: 2013-03-01

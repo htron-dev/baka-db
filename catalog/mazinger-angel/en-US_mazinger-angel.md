@@ -1,5 +1,7 @@
 # Mazinger Angel
 
+![mazinger-angel](https://cdn.myanimelist.net/images/manga/2/152695.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

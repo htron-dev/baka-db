@@ -1,5 +1,7 @@
 # Koibito ga Ookami
 
+![koibito-ga-ookami](https://cdn.myanimelist.net/images/manga/2/43643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋人がオオカミ

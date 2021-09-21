@@ -1,5 +1,7 @@
 # Danganronpa 3: The End of Kibougamine Gakuen - Comic Anthology
 
+![danganronpa-3-the-end-of-kibougamine-gakuen-comic-anthology](https://cdn.myanimelist.net/images/manga/2/228275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

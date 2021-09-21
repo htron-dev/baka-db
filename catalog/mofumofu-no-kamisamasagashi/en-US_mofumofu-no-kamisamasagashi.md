@@ -1,5 +1,7 @@
 # Mofumofu no Kamisamasagashi
 
+![mofumofu-no-kamisamasagashi](https://cdn.myanimelist.net/images/manga/1/205491.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # K: R:B
 
+![k-r-b](https://cdn.myanimelist.net/images/manga/2/231050.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

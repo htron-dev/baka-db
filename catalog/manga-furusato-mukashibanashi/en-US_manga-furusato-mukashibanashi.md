@@ -1,5 +1,7 @@
 # Manga Furusato Mukashibanashi
 
+![manga-furusato-mukashibanashi](https://cdn.myanimelist.net/images/anime/1770/98596.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: まんがふるさと昔話

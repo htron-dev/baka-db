@@ -1,5 +1,7 @@
 # The iDOLM@STER Prologue SideM: Episode of Jupiter
 
+![the-i-dolm-ster-prologue-side-m-episode-of-jupiter](https://cdn.myanimelist.net/images/anime/13/88109.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: THE IDOLM@STER Prologue SideM Episode of Jupiter

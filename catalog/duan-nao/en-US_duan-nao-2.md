@@ -1,5 +1,7 @@
 # Duan Nao 2
 
+![duan-nao-2](https://cdn.myanimelist.net/images/anime/7/84840.jpg)
+
 -   **type**: ona
 -   **original-name**: 端脑
 -   **rating**: R - 17+ (violence & profanity)

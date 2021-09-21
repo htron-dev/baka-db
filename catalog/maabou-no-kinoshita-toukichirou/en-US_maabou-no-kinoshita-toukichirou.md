@@ -1,5 +1,7 @@
 # Maabou no Kinoshita Toukichirou
 
+![maabou-no-kinoshita-toukichirou](https://cdn.myanimelist.net/images/anime/2/15845.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マー坊の木下藤吉郎

@@ -1,5 +1,7 @@
 # Seimei no Kagaku: Micro Patrol
 
+![seimei-no-kagaku-micro-patrol](https://cdn.myanimelist.net/images/anime/5/6208.jpg)
+
 -   **type**: ova
 -   **episodes**: 26
 -   **original-name**: 生命の科学ミクロパトロール

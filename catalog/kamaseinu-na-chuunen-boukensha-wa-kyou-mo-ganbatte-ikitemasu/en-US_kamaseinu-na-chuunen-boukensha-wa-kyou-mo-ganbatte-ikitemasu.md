@@ -1,5 +1,7 @@
 # Kamaseinu na Chuunen Boukensha wa Kyou mo Ganbatte Ikitemasu.
 
+![kamaseinu-na-chuunen-boukensha-wa-kyou-mo-ganbatte-ikitemasu](https://cdn.myanimelist.net/images/manga/1/227036.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

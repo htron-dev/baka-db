@@ -1,5 +1,7 @@
 # Losers: Nihon Hatsu no Shuukan Seinen Manga-shi no Tanjou
 
+![losers-nihon-hatsu-no-shuukan-seinen-manga-shi-no-tanjou](https://cdn.myanimelist.net/images/manga/1/236590.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

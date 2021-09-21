@@ -1,5 +1,7 @@
 # Hey Yo Yorang
 
+![hey-yo-yorang](https://cdn.myanimelist.net/images/anime/7/42931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 꼬마여우 요랑

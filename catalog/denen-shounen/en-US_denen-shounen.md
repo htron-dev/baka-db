@@ -1,5 +1,7 @@
 # Denen Shounen
 
+![denen-shounen](https://cdn.myanimelist.net/images/manga/3/79449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

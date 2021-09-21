@@ -1,5 +1,7 @@
 # Grim
 
+![grim](https://cdn.myanimelist.net/images/anime/7/75689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GRIM

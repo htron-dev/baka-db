@@ -1,5 +1,7 @@
 # Gegege no Kitarou (2007)
 
+![gegege-no-kitarou-2007](https://cdn.myanimelist.net/images/anime/6/27397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: ゲゲゲの鬼太郎 (2007)

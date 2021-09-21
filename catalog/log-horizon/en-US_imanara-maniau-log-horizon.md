@@ -1,5 +1,7 @@
 # Imanara Maniau! Log Horizon
 
+![imanara-maniau-log-horizon](https://cdn.myanimelist.net/images/anime/9/60883.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 今なら間に合う！ログ・ホライズン

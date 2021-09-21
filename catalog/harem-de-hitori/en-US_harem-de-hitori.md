@@ -1,5 +1,7 @@
 # Harem de Hitori
 
+![harem-de-hitori](https://cdn.myanimelist.net/images/manga/2/201062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

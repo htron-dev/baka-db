@@ -1,5 +1,7 @@
 # Zettai Zetsubou Shoujo: Danganronpa Another Episode
 
+![zettai-zetsubou-shoujo-danganronpa-another-episode](https://cdn.myanimelist.net/images/manga/2/167044.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

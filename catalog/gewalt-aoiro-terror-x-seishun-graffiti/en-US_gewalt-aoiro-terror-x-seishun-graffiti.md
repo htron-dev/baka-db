@@ -1,5 +1,7 @@
 # Gewalt - Aoiro Terror x Seishun Graffiti!!
 
+![gewalt-aoiro-terror-x-seishun-graffiti](https://cdn.myanimelist.net/images/manga/3/108529.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Go Da Gun
 
+![go-da-gun](https://cdn.myanimelist.net/images/manga/1/41854.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: GO DA GUN－ゴーダガン－

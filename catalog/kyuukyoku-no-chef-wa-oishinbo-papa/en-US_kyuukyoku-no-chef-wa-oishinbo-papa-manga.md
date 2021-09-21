@@ -1,5 +1,7 @@
 # Kyuukyoku no Chef wa Oishinbo Papa
 
+![kyuukyoku-no-chef-wa-oishinbo-papa](https://cdn.myanimelist.net/images/manga/1/234319.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

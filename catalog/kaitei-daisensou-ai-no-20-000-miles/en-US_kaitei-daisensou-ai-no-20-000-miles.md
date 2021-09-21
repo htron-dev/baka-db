@@ -1,5 +1,7 @@
 # Kaitei Daisensou: Ai no 20,000 Miles
 
+![kaitei-daisensou-ai-no-20-000-miles](https://cdn.myanimelist.net/images/anime/1899/112272.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 海底大戦争 愛の 20,000 マイル

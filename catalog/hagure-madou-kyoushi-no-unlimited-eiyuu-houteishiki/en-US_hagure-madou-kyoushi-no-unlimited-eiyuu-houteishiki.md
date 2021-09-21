@@ -1,5 +1,7 @@
 # Hagure Madou Kyoushi no Unlimited Eiyuu Houteishiki
 
+![hagure-madou-kyoushi-no-unlimited-eiyuu-houteishiki](https://cdn.myanimelist.net/images/manga/2/191418.jpg)
+
 -   **type**: light-novel
 -   **original-name**: はぐれ魔導教士の無限〈アンリミテッド〉英雄方程式
 -   **start-date**: 2017-02-28

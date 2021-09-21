@@ -1,5 +1,7 @@
 # Kyuuketsuki ni Natta Kimi wa Eien no Ai wo Hajimeru
 
+![kyuuketsuki-ni-natta-kimi-wa-eien-no-ai-wo-hajimeru](https://cdn.myanimelist.net/images/manga/2/186750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 41

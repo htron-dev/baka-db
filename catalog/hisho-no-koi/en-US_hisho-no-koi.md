@@ -1,5 +1,7 @@
 # Hisho no Koi
 
+![hisho-no-koi](https://cdn.myanimelist.net/images/manga/2/193142.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

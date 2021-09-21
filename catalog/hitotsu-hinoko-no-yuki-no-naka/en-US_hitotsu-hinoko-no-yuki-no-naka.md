@@ -1,5 +1,7 @@
 # Hitotsu Hinoko no Yuki no Naka
 
+![hitotsu-hinoko-no-yuki-no-naka](https://cdn.myanimelist.net/images/manga/1/158026.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

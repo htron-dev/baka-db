@@ -1,5 +1,7 @@
 # Kekkai Sensen &amp; Beyond
 
+![kekkai-sensen-amp-beyond](https://cdn.myanimelist.net/images/anime/3/88282.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 血界戦線 & BEYOND

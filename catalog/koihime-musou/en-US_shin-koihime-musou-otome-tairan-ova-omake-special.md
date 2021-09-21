@@ -1,5 +1,7 @@
 # Shin Koihime†Musou: Otome Tairan OVA Omake
 
+![shin-koihime-musou-otome-tairan-ova-omake](https://cdn.myanimelist.net/images/anime/3/40773.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちびちび演義 真・恋姫ふらっしゅ～張飛、孫尚香、袁術、三国志するのこと～

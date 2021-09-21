@@ -1,5 +1,7 @@
 # Kakegae no
 
+![kakegae-no](https://cdn.myanimelist.net/images/anime/3/77492.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かけがえの

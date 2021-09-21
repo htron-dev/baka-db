@@ -1,5 +1,7 @@
 # Kamen Boxer
 
+![kamen-boxer](https://cdn.myanimelist.net/images/manga/1/95525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

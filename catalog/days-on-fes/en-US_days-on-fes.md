@@ -1,5 +1,7 @@
 # Days on Fes
 
+![days-on-fes](https://cdn.myanimelist.net/images/manga/1/238445.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 46

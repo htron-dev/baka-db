@@ -1,5 +1,7 @@
 # Juujika no Rokunin
 
+![juujika-no-rokunin](https://cdn.myanimelist.net/images/manga/2/234431.jpg)
+
 -   **type**: manga
 -   **original-name**: 十字架のろくにん
 -   **start-date**: 2020-03-09

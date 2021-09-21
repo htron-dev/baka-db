@@ -1,5 +1,7 @@
 # Miminari to Memai to Okan ni Tsuite
 
+![miminari-to-memai-to-okan-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/234613.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

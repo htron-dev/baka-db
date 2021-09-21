@@ -1,5 +1,7 @@
 # Life, Love
 
+![life-love](https://cdn.myanimelist.net/images/manga/1/27108.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

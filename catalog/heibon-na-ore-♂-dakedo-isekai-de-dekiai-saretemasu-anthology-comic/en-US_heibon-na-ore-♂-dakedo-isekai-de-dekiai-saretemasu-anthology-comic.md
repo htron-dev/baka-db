@@ -1,5 +1,7 @@
 # Heibon na Ore ♂ dakedo Isekai de Dekiai saretemasu: Anthology Comic
 
+![heibon-na-ore-♂-dakedo-isekai-de-dekiai-saretemasu-anthology-comic](https://cdn.myanimelist.net/images/manga/3/245194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

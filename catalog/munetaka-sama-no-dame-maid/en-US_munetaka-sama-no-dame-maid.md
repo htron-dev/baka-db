@@ -1,5 +1,7 @@
 # Munetaka-sama no Dame Maid
 
+![munetaka-sama-no-dame-maid](https://cdn.myanimelist.net/images/manga/3/225012.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kimi wa Nanimo Shiranai
 
+![kimi-wa-nanimo-shiranai](https://cdn.myanimelist.net/images/manga/3/163553.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

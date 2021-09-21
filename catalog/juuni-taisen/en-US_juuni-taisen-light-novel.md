@@ -1,5 +1,7 @@
 # Juuni Taisen
 
+![juuni-taisen](https://cdn.myanimelist.net/images/manga/2/233664.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 十二大戦

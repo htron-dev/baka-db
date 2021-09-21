@@ -1,5 +1,7 @@
 # Gunjou Cinema
 
+![gunjou-cinema](https://cdn.myanimelist.net/images/manga/3/60271.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

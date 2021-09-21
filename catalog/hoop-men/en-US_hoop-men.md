@@ -1,5 +1,7 @@
 # Hoop Men
 
+![hoop-men](https://cdn.myanimelist.net/images/manga/2/178942.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

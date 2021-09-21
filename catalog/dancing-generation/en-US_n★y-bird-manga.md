@@ -1,5 +1,7 @@
 # N★Y Bird
 
+![n★y-bird](https://cdn.myanimelist.net/images/manga/3/163837.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: N★Y バード

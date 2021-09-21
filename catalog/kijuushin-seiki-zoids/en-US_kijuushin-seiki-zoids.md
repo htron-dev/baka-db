@@ -1,5 +1,7 @@
 # Kijuushin Seiki Zoids
 
+![kijuushin-seiki-zoids](https://cdn.myanimelist.net/images/manga/4/209555.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 機獣新世紀 ZOIDS

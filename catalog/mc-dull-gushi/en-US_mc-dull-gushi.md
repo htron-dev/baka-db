@@ -1,5 +1,7 @@
 # McDull: Gushi
 
+![mc-dull-gushi](https://cdn.myanimelist.net/images/anime/1470/112733.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 麥兜故事

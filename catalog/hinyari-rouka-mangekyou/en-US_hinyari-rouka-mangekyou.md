@@ -1,5 +1,7 @@
 # Hinyari Rouka, Mangekyou
 
+![hinyari-rouka-mangekyou](https://cdn.myanimelist.net/images/manga/3/58215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

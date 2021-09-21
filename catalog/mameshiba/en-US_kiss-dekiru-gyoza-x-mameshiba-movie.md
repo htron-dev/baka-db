@@ -1,5 +1,7 @@
 # "Kiss Dekiru Gyoza" x Mameshiba Movie
 
+![kiss-dekiru-gyoza-x-mameshiba-movie](https://cdn.myanimelist.net/images/anime/1168/92670.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 映画『キスできる餃子』× 豆しば

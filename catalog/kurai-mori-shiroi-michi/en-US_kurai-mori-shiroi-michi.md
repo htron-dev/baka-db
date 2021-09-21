@@ -1,5 +1,7 @@
 # Kurai Mori, Shiroi Michi
 
+![kurai-mori-shiroi-michi](https://cdn.myanimelist.net/images/manga/3/152296.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

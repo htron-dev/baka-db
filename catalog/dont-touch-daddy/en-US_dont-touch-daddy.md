@@ -1,5 +1,7 @@
 # Don't Touch! Daddy
 
+![dont-touch-daddy](https://cdn.myanimelist.net/images/manga/3/128091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

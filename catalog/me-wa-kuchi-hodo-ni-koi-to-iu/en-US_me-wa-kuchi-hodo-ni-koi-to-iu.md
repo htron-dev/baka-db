@@ -1,5 +1,7 @@
 # Me wa Kuchi hodo ni Koi to Iu
 
+![me-wa-kuchi-hodo-ni-koi-to-iu](https://cdn.myanimelist.net/images/manga/2/222981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

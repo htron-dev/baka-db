@@ -1,5 +1,7 @@
 # Kemurikusa
 
+![kemurikusa](https://cdn.myanimelist.net/images/anime/1406/90550.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ケムリクサ

@@ -1,5 +1,7 @@
 # Doraemon Movie 02: Nobita no Uchuu Kaitakushi
 
+![doraemon-movie-02-nobita-no-uchuu-kaitakushi](https://cdn.myanimelist.net/images/anime/8/72406.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の宇宙開拓史

@@ -1,5 +1,7 @@
 # Kaden Tantei wa Shizuka ni Warau.
 
+![kaden-tantei-wa-shizuka-ni-warau](https://cdn.myanimelist.net/images/manga/2/96167.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

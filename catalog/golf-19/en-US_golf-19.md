@@ -1,5 +1,7 @@
 # Golf 19
 
+![golf-19](https://cdn.myanimelist.net/images/manga/2/141071.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Grimm no You na Monogatari: Trude Obasan
 
+![grimm-no-you-na-monogatari-trude-obasan](https://cdn.myanimelist.net/images/manga/2/240030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

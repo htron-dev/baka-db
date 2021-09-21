@@ -1,5 +1,7 @@
 # Midori no Hibi
 
+![midori-no-hibi](https://cdn.myanimelist.net/images/manga/2/56681.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 86

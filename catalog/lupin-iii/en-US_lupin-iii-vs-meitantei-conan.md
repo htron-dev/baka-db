@@ -1,5 +1,7 @@
 # Lupin III vs. Meitantei Conan
 
+![lupin-iii-vs-meitantei-conan](https://cdn.myanimelist.net/images/manga/3/240399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

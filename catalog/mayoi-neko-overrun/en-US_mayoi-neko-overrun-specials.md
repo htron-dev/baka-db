@@ -1,5 +1,7 @@
 # Mayoi Neko Overrun! Specials
 
+![mayoi-neko-overrun-specials](https://cdn.myanimelist.net/images/anime/10/23635.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 迷い猫ねこねこ劇場

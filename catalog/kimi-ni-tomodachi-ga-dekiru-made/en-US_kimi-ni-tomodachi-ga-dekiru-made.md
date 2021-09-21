@@ -1,5 +1,7 @@
 # Kimi ni Tomodachi ga Dekiru made.
 
+![kimi-ni-tomodachi-ga-dekiru-made](https://cdn.myanimelist.net/images/manga/2/164064.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

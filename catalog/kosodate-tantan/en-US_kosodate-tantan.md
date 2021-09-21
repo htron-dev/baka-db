@@ -1,5 +1,7 @@
 # Kosodate Tantan
 
+![kosodate-tantan](https://cdn.myanimelist.net/images/manga/3/95681.jpg)
+
 -   **type**: manga
 -   **original-name**: 子育てたんたん
 -   **start-date**: 2011-01-15

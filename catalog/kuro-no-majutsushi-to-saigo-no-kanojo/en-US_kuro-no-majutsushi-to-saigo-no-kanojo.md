@@ -1,5 +1,7 @@
 # Kuro no Majutsushi to Saigo no Kanojo
 
+![kuro-no-majutsushi-to-saigo-no-kanojo](https://cdn.myanimelist.net/images/manga/1/238255.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黒の魔術士と最期の彼女

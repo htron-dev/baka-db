@@ -1,5 +1,7 @@
 # Hong Kil-dong
 
+![hong-kil-dong](https://cdn.myanimelist.net/images/anime/7/44660.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 홍길동

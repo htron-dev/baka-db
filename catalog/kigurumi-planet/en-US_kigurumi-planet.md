@@ -1,5 +1,7 @@
 # Kigurumi Planet
 
+![kigurumi-planet](https://cdn.myanimelist.net/images/manga/1/33773.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

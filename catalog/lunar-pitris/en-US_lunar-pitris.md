@@ -1,5 +1,7 @@
 # Lunar Pitris
 
+![lunar-pitris](https://cdn.myanimelist.net/images/manga/1/13134.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ルナ・ピトリーズ

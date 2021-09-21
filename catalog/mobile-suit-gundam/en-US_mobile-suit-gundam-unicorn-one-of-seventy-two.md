@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Unicorn: One of Seventy Two
 
+![mobile-suit-gundam-unicorn-one-of-seventy-two](https://cdn.myanimelist.net/images/anime/10/62067.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 動戦士ガンダム UC: ONE OF SEVENTY TWO

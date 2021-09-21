@@ -1,5 +1,7 @@
 # Mister Ajikko
 
+![mister-ajikko](https://cdn.myanimelist.net/images/anime/3/76433.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 99
 -   **original-name**: ミスター味っ子

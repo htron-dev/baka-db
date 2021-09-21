@@ -1,5 +1,7 @@
 # Fate/Grand Order: Epic of Remnant - Ashu Tokuiten I - Akusei Kakuzetsu Makyou Shinjuku - Shinjuku Genrei Jiken
 
+![fate-grand-order-epic-of-remnant-ashu-tokuiten-i-akusei-kakuzetsu-makyou-shinjuku-shinjuku-genrei-jiken](https://cdn.myanimelist.net/images/manga/1/226269.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order ‐Epic of Remnant‐ 亜種特異点 I 悪性隔絶魔境 新宿 新宿幻霊事件
 -   **start-date**: 2019-01-26

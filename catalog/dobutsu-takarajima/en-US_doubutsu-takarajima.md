@@ -1,5 +1,7 @@
 # Doubutsu Takarajima
 
+![doubutsu-takarajima](https://cdn.myanimelist.net/images/anime/1084/100515.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: どうぶつ宝島

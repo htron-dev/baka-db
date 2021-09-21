@@ -1,5 +1,7 @@
 # Kimi to Ao Bara Ryou de
 
+![kimi-to-ao-bara-ryou-de](https://cdn.myanimelist.net/images/manga/3/29685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

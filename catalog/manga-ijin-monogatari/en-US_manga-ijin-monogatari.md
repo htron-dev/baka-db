@@ -1,5 +1,7 @@
 # Manga Ijin Monogatari
 
+![manga-ijin-monogatari](https://cdn.myanimelist.net/images/anime/4/53739.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: まんが偉人物語

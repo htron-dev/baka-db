@@ -1,5 +1,7 @@
 # Madoka-san no Tennen na Yuuwaku
 
+![madoka-san-no-tennen-na-yuuwaku](https://cdn.myanimelist.net/images/manga/2/226337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

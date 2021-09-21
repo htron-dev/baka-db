@@ -1,5 +1,7 @@
 # Konya, Sensei no Ude no Naka
 
+![konya-sensei-no-ude-no-naka](https://cdn.myanimelist.net/images/manga/3/157734.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Eden's End
 
+![edens-end](https://cdn.myanimelist.net/images/manga/3/226168.jpg)
+
 -   **type**: manga
 -   **original-name**: エデンズエンド
 -   **start-date**: 2019-04-01

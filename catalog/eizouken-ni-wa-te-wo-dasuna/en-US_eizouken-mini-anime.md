@@ -1,5 +1,7 @@
 # Eizouken Mini Anime
 
+![eizouken-mini-anime](https://cdn.myanimelist.net/images/anime/1873/106472.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 映像研ミニアニメ

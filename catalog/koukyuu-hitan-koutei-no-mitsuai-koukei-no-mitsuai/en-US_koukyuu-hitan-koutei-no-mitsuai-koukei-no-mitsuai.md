@@ -1,5 +1,7 @@
 # Koukyuu Hitan: Koutei no Mitsuai, Koukei no Mitsuai
 
+![koukyuu-hitan-koutei-no-mitsuai-koukei-no-mitsuai](https://cdn.myanimelist.net/images/manga/2/181319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

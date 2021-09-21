@@ -1,5 +1,7 @@
 # Fate/Ixtella
 
+![fate-ixtella](https://cdn.myanimelist.net/images/manga/3/245046.jpg)
+
 -   **type**: manga
 -   **original-name**: フェイト／育ステラ
 -   **start-date**: 2018-03-06

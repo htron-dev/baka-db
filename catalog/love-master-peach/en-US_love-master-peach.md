@@ -1,5 +1,7 @@
 # Love Master Peach
 
+![love-master-peach](https://cdn.myanimelist.net/images/manga/1/113993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

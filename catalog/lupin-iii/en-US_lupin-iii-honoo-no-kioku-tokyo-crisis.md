@@ -1,5 +1,7 @@
 # Lupin III: Honoo no Kioku - Tokyo Crisis
 
+![lupin-iii-honoo-no-kioku-tokyo-crisis](https://cdn.myanimelist.net/images/anime/1880/105808.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『炎の記憶 ~Tokyo Crisis~』

@@ -1,5 +1,7 @@
 # Furusato Meguri: Nippon no Mukashibanashi
 
+![furusato-meguri-nippon-no-mukashibanashi](https://cdn.myanimelist.net/images/anime/2/85025.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ふるさとめぐり 日本の昔ばなし

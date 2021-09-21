@@ -1,5 +1,7 @@
 # Kotonoha Tsukai wa Sasayakanai
 
+![kotonoha-tsukai-wa-sasayakanai](https://cdn.myanimelist.net/images/manga/2/125299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: コトノハ遣いは囁かない

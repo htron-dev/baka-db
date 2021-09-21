@@ -1,5 +1,7 @@
 # Kaitei
 
+![kaitei](https://cdn.myanimelist.net/images/manga/3/234408.jpg)
+
 -   **type**: manga
 -   **original-name**: 海帝
 -   **start-date**: 2018-07-10

@@ -1,5 +1,7 @@
 # Kakkou no Yume
 
+![kakkou-no-yume](https://cdn.myanimelist.net/images/manga/2/223885.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

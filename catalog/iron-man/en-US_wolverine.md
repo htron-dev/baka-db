@@ -1,5 +1,7 @@
 # Wolverine
 
+![wolverine](https://cdn.myanimelist.net/images/anime/11/28039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ウルヴァリン

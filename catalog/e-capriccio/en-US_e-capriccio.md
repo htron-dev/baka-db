@@ -1,5 +1,7 @@
 # E:capriccio
 
+![e-capriccio](https://cdn.myanimelist.net/images/manga/3/151454.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

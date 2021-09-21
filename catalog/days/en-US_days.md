@@ -1,5 +1,7 @@
 # Days
 
+![days](https://cdn.myanimelist.net/images/manga/3/164463.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 376

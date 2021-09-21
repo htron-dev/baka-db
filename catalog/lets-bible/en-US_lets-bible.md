@@ -1,5 +1,7 @@
 # Let's Bible!
 
+![lets-bible](https://cdn.myanimelist.net/images/manga/5/10093.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: Let's BIBLE！

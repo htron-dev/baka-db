@@ -1,5 +1,7 @@
 # Fire Punch
 
+![fire-punch](https://cdn.myanimelist.net/images/manga/2/180430.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 83

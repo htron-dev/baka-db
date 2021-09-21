@@ -1,5 +1,7 @@
 # Hanasaka Tenshi Tenten-kun
 
+![hanasaka-tenshi-tenten-kun](https://cdn.myanimelist.net/images/anime/4/27207.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 花さか天使テンテンくん

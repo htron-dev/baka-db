@@ -1,5 +1,7 @@
 # Izakaya Sachiko
 
+![izakaya-sachiko](https://cdn.myanimelist.net/images/manga/2/180960.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 居酒屋さちこ

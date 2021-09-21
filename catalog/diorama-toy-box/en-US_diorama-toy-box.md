@@ -1,5 +1,7 @@
 # Diorama Toy Box
 
+![diorama-toy-box](https://cdn.myanimelist.net/images/manga/1/134899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Getenrou
 
+![getenrou](https://cdn.myanimelist.net/images/manga/3/61977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kimi wa Sora no Subete
 
+![kimi-wa-sora-no-subete](https://cdn.myanimelist.net/images/manga/3/165576.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

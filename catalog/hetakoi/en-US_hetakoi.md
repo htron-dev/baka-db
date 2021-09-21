@@ -1,5 +1,7 @@
 # Hetakoi
 
+![hetakoi](https://cdn.myanimelist.net/images/manga/3/179968.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 61

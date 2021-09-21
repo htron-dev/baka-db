@@ -1,5 +1,7 @@
 # Meikon no Chigiri
 
+![meikon-no-chigiri](https://cdn.myanimelist.net/images/manga/1/221839.jpg)
+
 -   **type**: manga
 -   **original-name**: 冥婚の契
 -   **start-date**: 2018-07-28

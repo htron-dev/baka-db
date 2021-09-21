@@ -1,12 +1,14 @@
 # Kindaichi Shounen no Jikenbo Returns
 
+![kindaichi-shounen-no-jikenbo-returns](https://cdn.myanimelist.net/images/anime/7/61271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
--   **original-name**: 金田一少年の事件簿R【リターンズ】
+-   **original-name**: 金田一少年の事件簿 R【リターンズ】
 -   **start-date**: 2014-04-05
 -   **end-date**: 2014-04-05
 -   **opening-song**: #1: "BRAND NEW STORY" by Shinsei Tokyo Performance Doll (新生・東京パフォーマンスドール)
--   **ending-song**: #1: "Passcode 4854 (パスコード4854)" by Rei Yasuda
+-   **ending-song**: #1: "Passcode 4854 (パスコード 4854)" by Rei Yasuda
 -   **rating**: R - 17+ (violence & profanity)
 
 ## Tags

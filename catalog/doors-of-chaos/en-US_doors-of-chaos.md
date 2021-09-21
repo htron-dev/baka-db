@@ -1,5 +1,7 @@
 # Doors of Chaos
 
+![doors-of-chaos](https://cdn.myanimelist.net/images/manga/1/33629.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

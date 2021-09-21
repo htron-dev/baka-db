@@ -1,5 +1,7 @@
 # Kyouki no Sanmyaku nite
 
+![kyouki-no-sanmyaku-nite](https://cdn.myanimelist.net/images/manga/3/189233.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

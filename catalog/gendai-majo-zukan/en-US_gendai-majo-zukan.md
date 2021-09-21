@@ -1,5 +1,7 @@
 # Gendai Majo Zukan
 
+![gendai-majo-zukan](https://cdn.myanimelist.net/images/manga/3/162319.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

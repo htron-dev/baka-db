@@ -1,5 +1,7 @@
 # Dokushin Fugou Club
 
+![dokushin-fugou-club](https://cdn.myanimelist.net/images/manga/1/225650.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 独身富豪クラブ

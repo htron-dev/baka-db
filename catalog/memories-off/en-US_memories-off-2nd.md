@@ -1,5 +1,7 @@
 # Memories Off 2nd
 
+![memories-off-2nd](https://cdn.myanimelist.net/images/anime/2/3290.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Memories Off 2nd (メモリーズオフ 2nd)

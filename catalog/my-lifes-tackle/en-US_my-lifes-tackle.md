@@ -1,5 +1,7 @@
 # My Life's Tackle
 
+![my-lifes-tackle](https://cdn.myanimelist.net/images/manga/4/18782.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 내 인생의 태클

@@ -1,5 +1,7 @@
 # Hikage no Hisho no Kenshin
 
+![hikage-no-hisho-no-kenshin](https://cdn.myanimelist.net/images/manga/2/227448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 日陰の秘書の献身

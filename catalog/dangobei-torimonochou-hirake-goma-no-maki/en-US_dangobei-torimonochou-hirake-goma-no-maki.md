@@ -1,5 +1,7 @@
 # Dangobei Torimonochou: Hirake - Goma no Maki
 
+![dangobei-torimonochou-hirake-goma-no-maki](https://cdn.myanimelist.net/images/anime/9/67927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 団子兵衛捕物帖 開け―ごまの巻

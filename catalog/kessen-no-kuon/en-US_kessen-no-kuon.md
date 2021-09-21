@@ -1,5 +1,7 @@
 # Kessen no Kuon
 
+![kessen-no-kuon](https://cdn.myanimelist.net/images/manga/3/202369.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

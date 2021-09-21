@@ -1,5 +1,7 @@
 # Doumoto Rule
 
+![doumoto-rule](https://cdn.myanimelist.net/images/manga/2/148996.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 堂本ルール

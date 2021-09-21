@@ -1,5 +1,7 @@
 # Kodomo no Taion
 
+![kodomo-no-taion](https://cdn.myanimelist.net/images/manga/2/6988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: こどもの体温

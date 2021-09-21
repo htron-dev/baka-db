@@ -1,5 +1,7 @@
 # Kibou no Shima
 
+![kibou-no-shima](https://cdn.myanimelist.net/images/manga/2/211727.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

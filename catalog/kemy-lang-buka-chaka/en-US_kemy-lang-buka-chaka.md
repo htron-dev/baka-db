@@ -1,5 +1,7 @@
 # Kemy Lang Buka Chaka
 
+![kemy-lang-buka-chaka](https://cdn.myanimelist.net/images/anime/10/83626.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 깨미랑 부카채카

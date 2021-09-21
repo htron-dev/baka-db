@@ -1,5 +1,7 @@
 # Dear Tear
 
+![dear-tear](https://cdn.myanimelist.net/images/manga/2/204361.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

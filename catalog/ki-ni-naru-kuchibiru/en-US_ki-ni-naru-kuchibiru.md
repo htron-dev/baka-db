@@ -1,5 +1,7 @@
 # Ki ni Naru Kuchibiru
 
+![ki-ni-naru-kuchibiru](https://cdn.myanimelist.net/images/manga/3/85573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 気になるくちびる

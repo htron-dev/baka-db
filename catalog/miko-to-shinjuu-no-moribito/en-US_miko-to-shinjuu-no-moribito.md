@@ -1,5 +1,7 @@
 # Miko to Shinjuu no Moribito
 
+![miko-to-shinjuu-no-moribito](https://cdn.myanimelist.net/images/manga/1/239239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神子と神獣の守り人

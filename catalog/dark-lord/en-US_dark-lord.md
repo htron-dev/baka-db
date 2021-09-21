@@ -1,5 +1,7 @@
 # Dark Lord
 
+![dark-lord](https://cdn.myanimelist.net/images/manga/1/162621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 32

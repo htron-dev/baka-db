@@ -1,5 +1,7 @@
 # Magara
 
+![magara](https://cdn.myanimelist.net/images/manga/2/59463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

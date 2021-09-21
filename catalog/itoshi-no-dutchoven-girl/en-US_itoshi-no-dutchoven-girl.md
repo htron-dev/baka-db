@@ -1,5 +1,7 @@
 # Itoshi no Dutchoven Girl
 
+![itoshi-no-dutchoven-girl](https://cdn.myanimelist.net/images/manga/3/80921.jpg)
+
 -   **type**: manga
 -   **original-name**: 愛しの DUTCHOVEN ガール
 -   **start-date**: 2012-05-22

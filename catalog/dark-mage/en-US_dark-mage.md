@@ -1,5 +1,7 @@
 # Dark Mage
 
+![dark-mage](https://cdn.myanimelist.net/images/manga/4/34917.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 21

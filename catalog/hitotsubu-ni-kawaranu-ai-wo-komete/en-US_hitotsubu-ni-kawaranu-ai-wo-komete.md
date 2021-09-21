@@ -1,5 +1,7 @@
 # Hitotsubu ni Kawaranu Ai wo Komete
 
+![hitotsubu-ni-kawaranu-ai-wo-komete](https://cdn.myanimelist.net/images/anime/3/50809.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一粒に変わらぬ愛をこめて

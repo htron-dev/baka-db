@@ -1,5 +1,7 @@
 # Torishimariyaku Shima Kousaku
 
+![torishimariyaku-shima-kousaku](https://cdn.myanimelist.net/images/manga/3/129003.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 107

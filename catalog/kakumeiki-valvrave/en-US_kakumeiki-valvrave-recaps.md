@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave Recaps
 
+![kakumeiki-valvrave-recaps](https://cdn.myanimelist.net/images/anime/7/56851.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 革命機ヴァルヴレイヴ「スペシャルエディション」EDITED

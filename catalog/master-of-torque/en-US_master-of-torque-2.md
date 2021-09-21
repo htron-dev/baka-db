@@ -1,5 +1,7 @@
 # Master of Torque 2
 
+![master-of-torque-2](https://cdn.myanimelist.net/images/anime/3/64787.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: マスター・オブ・トルク 2

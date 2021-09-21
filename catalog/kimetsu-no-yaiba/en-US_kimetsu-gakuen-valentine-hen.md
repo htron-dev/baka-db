@@ -1,5 +1,7 @@
 # Kimetsu Gakuen: Valentine-hen
 
+![kimetsu-gakuen-valentine-hen](https://cdn.myanimelist.net/images/anime/1167/111666.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: キメツ学園 バレンタイン編

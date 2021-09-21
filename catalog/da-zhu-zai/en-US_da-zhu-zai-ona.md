@@ -1,5 +1,7 @@
 # Da Zhu Zai
 
+![da-zhu-zai](https://cdn.myanimelist.net/images/anime/1857/102517.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 大主宰

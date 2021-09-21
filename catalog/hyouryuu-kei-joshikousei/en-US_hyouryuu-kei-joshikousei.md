@@ -1,5 +1,7 @@
 # Hyouryuu-kei Joshikousei
 
+![hyouryuu-kei-joshikousei](https://cdn.myanimelist.net/images/manga/1/237993.jpg)
+
 -   **type**: manga
 -   **chapters**: 24
 -   **original-name**: 漂流系女子高生

@@ -1,5 +1,7 @@
 # Isekaijin no Tebikisho
 
+![isekaijin-no-tebikisho](https://cdn.myanimelist.net/images/manga/2/182603.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界人の手引き書
 -   **start-date**: 2016-09-10

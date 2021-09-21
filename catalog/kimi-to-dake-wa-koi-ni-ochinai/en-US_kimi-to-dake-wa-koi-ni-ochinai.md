@@ -1,5 +1,7 @@
 # Kimi to dake wa Koi ni Ochinai
 
+![kimi-to-dake-wa-koi-ni-ochinai](https://cdn.myanimelist.net/images/manga/3/177116.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

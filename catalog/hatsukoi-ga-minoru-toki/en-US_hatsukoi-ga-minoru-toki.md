@@ -1,5 +1,7 @@
 # Hatsukoi ga Minoru Toki
 
+![hatsukoi-ga-minoru-toki](https://cdn.myanimelist.net/images/manga/3/236009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 初恋が実るとき

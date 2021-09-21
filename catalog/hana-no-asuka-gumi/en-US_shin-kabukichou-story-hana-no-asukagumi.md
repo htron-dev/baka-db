@@ -1,5 +1,7 @@
 # Shin Kabukichou Story Hana no Asukagumi!
 
+![shin-kabukichou-story-hana-no-asukagumi](https://cdn.myanimelist.net/images/anime/8/45977.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新歌舞伎町ストーリー 花のあすか組!

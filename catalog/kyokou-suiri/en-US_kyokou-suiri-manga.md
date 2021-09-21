@@ -1,5 +1,7 @@
 # Kyokou Suiri
 
+![kyokou-suiri](https://cdn.myanimelist.net/images/manga/3/167329.jpg)
+
 -   **type**: manga
 -   **original-name**: 虚構推理
 -   **start-date**: 2015-04-20

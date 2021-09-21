@@ -1,5 +1,7 @@
 # Four Seams
 
+![four-seams](https://cdn.myanimelist.net/images/manga/3/194263.jpg)
+
 -   **type**: manga
 -   **original-name**: フォーシーム
 -   **start-date**: 2013-03-09

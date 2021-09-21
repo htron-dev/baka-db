@@ -1,5 +1,7 @@
 # Giniro no Olynsis: Tokito
 
+![giniro-no-olynsis-tokito](https://cdn.myanimelist.net/images/anime/13/23608.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銀色のオリンシス TOKITO

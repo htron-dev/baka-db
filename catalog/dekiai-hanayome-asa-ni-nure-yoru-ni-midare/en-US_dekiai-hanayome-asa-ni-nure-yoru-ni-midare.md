@@ -1,5 +1,7 @@
 # Dekiai Hanayome: Asa ni Nure Yoru ni Midare
 
+![dekiai-hanayome-asa-ni-nure-yoru-ni-midare](https://cdn.myanimelist.net/images/manga/3/181365.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Jin Ken Mamoru-kun to Ayumi-chan Sekai wo Shiawase ni
 
+![jin-ken-mamoru-kun-to-ayumi-chan-sekai-wo-shiawase-ni](https://cdn.myanimelist.net/images/anime/13/74016.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 人 KEN まもる君とあゆみちゃん 世界をしあわせに

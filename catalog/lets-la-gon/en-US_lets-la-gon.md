@@ -1,5 +1,7 @@
 # Let's La Gon
 
+![lets-la-gon](https://cdn.myanimelist.net/images/manga/1/175925.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 148

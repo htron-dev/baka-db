@@ -1,5 +1,7 @@
 # Hana no Arashi wa,
 
+![hana-no-arashi-wa](https://cdn.myanimelist.net/images/manga/3/39850.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

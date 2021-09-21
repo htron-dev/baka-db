@@ -1,5 +1,7 @@
 # Kyuuketsuki no Oshigoto SP: The Days Gone By
 
+![kyuuketsuki-no-oshigoto-sp-the-days-gone-by](https://cdn.myanimelist.net/images/manga/2/164323.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 吸血鬼のおしごと SP―The Days Gone By

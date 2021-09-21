@@ -1,5 +1,7 @@
 # Inu to Neko Docchi mo Katteru to Mainichi Tanoshii
 
+![inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii](https://cdn.myanimelist.net/images/anime/1332/109356.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 犬と猫どっちも飼ってると毎日たのしい

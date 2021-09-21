@@ -1,5 +1,7 @@
 # Kimi wa Boku no Ohimesama
 
+![kimi-wa-boku-no-ohimesama](https://cdn.myanimelist.net/images/manga/3/224728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

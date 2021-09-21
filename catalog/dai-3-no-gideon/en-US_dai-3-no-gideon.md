@@ -1,5 +1,7 @@
 # Dai-3 no Gideon
 
+![dai-3-no-gideon](https://cdn.myanimelist.net/images/manga/1/167645.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

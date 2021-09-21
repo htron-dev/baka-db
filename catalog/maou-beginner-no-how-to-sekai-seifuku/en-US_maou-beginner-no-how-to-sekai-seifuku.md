@@ -1,5 +1,7 @@
 # Maou Beginner no How to Sekai Seifuku
 
+![maou-beginner-no-how-to-sekai-seifuku](https://cdn.myanimelist.net/images/manga/1/198550.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

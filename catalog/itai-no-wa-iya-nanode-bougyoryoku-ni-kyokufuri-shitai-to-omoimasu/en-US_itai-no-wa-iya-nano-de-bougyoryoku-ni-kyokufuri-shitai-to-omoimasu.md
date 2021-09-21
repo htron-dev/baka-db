@@ -1,5 +1,7 @@
 # Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
 
+![itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu](https://cdn.myanimelist.net/images/anime/1579/113812.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 痛いのは嫌なので防御力に極振りしたいと思います。

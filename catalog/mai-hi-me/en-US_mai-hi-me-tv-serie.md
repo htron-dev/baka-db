@@ -1,5 +1,7 @@
 # Mai-HiME
 
+![mai-hi-me](https://cdn.myanimelist.net/images/anime/13/7226.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 舞-HiME

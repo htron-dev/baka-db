@@ -1,5 +1,7 @@
 # I do I do
 
+![i-do-i-do](https://cdn.myanimelist.net/images/manga/2/32725.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **chapters**: 31

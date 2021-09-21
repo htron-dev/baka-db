@@ -1,5 +1,7 @@
 # Gachirin ni Kirisaku
 
+![gachirin-ni-kirisaku](https://cdn.myanimelist.net/images/manga/3/152035.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 51

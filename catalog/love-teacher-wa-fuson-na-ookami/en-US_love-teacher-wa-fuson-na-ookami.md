@@ -1,5 +1,7 @@
 # Love Teacher wa Fuson na Ookami
 
+![love-teacher-wa-fuson-na-ookami](https://cdn.myanimelist.net/images/manga/2/153347.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 家庭教師〈ラブ・ティーチャー〉は不遜なオオカミ

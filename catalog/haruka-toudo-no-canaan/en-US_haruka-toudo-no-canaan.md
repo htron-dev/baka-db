@@ -1,5 +1,7 @@
 # Haruka Toudo no Canaan
 
+![haruka-toudo-no-canaan](https://cdn.myanimelist.net/images/manga/1/184526.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 51

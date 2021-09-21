@@ -1,5 +1,7 @@
 # Isekai wo Seigyo Mahou de Kirihirake!
 
+![isekai-wo-seigyo-mahou-de-kirihirake](https://cdn.myanimelist.net/images/manga/2/187943.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 異世界を制御魔法で切り開け！

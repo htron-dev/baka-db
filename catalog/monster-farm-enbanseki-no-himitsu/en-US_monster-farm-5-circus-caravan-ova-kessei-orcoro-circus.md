@@ -1,5 +1,7 @@
 # Monster Farm 5: Circus Caravan OVA - Kessei!! Orcoro Circus
 
+![monster-farm-5-circus-caravan-ova-kessei-orcoro-circus](https://cdn.myanimelist.net/images/anime/5/43071.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: モンスターファーム 5 　サーカスキャラバン オリジナルアニメーション 「結成!!オルコロサーカス」

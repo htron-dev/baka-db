@@ -1,5 +1,7 @@
 # Girls & Panzer
 
+![girls-panzer](https://cdn.myanimelist.net/images/manga/3/117699.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

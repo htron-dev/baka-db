@@ -1,5 +1,7 @@
 # Jungmok
 
+![jungmok](https://cdn.myanimelist.net/images/manga/2/12208.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 64

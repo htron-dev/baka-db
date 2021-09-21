@@ -1,5 +1,7 @@
 # Hyreco
 
+![hyreco](https://cdn.myanimelist.net/images/manga/3/124149.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

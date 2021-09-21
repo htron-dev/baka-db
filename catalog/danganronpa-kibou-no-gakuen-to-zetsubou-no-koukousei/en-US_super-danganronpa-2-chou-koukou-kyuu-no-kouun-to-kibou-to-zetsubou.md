@@ -1,5 +1,7 @@
 # Super Danganronpa 2: Chou Koukou-kyuu no Kouun to Kibou to Zetsubou
 
+![super-danganronpa-2-chou-koukou-kyuu-no-kouun-to-kibou-to-zetsubou](https://cdn.myanimelist.net/images/manga/1/184555.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

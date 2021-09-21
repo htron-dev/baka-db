@@ -1,5 +1,7 @@
 # Girls☆Complex
 
+![girls☆-complex](https://cdn.myanimelist.net/images/manga/3/39759.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: ガールズ ☆ コンプレックス

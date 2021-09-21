@@ -1,5 +1,7 @@
 # Karakuri Circus (TV)
 
+![karakuri-circus-tv](https://cdn.myanimelist.net/images/anime/1518/110450.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: からくりサーカス

@@ -1,5 +1,7 @@
 # Hina Logi: From Luck & Logic - Amakuchi
 
+![hina-logi-from-luck-logic-amakuchi](https://cdn.myanimelist.net/images/manga/2/245025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

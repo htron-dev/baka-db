@@ -1,5 +1,7 @@
 # Kirei na Ano Ko
 
+![kirei-na-ano-ko](https://cdn.myanimelist.net/images/manga/2/112509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

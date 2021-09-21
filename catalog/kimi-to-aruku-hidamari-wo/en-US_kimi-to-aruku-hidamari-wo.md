@@ -1,5 +1,7 @@
 # Kimi to Aruku Hidamari wo
 
+![kimi-to-aruku-hidamari-wo](https://cdn.myanimelist.net/images/manga/2/164538.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: きみと歩くひだまりを

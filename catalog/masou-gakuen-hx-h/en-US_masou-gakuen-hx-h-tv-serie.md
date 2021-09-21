@@ -1,5 +1,7 @@
 # Masou Gakuen HxH
 
+![masou-gakuen-hx-h](https://cdn.myanimelist.net/images/anime/7/80262.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔装学園 H×H

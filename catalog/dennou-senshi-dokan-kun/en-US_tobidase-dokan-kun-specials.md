@@ -1,5 +1,7 @@
 # Tobidase! Dokan-kun Specials
 
+![tobidase-dokan-kun-specials](https://cdn.myanimelist.net/images/anime/1590/105571.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: とびだせ!土管くん

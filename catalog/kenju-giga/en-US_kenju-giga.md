@@ -1,5 +1,7 @@
 # Kenju Giga
 
+![kenju-giga](https://cdn.myanimelist.net/images/anime/6/17203.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犬儒戯画

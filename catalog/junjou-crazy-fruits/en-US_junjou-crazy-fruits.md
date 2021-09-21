@@ -1,5 +1,7 @@
 # Junjou Crazy Fruits
 
+![junjou-crazy-fruits](https://cdn.myanimelist.net/images/manga/1/239927.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 純情クレイジーフルーツ

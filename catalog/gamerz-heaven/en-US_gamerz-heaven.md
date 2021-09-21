@@ -1,5 +1,7 @@
 # Gamerz Heaven!
 
+![gamerz-heaven](https://cdn.myanimelist.net/images/manga/1/10967.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

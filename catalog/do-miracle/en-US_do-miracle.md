@@ -1,5 +1,7 @@
 # Do! Miracle
 
+![do-miracle](https://cdn.myanimelist.net/images/manga/3/7639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Do! ミラクル

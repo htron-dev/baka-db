@@ -1,5 +1,7 @@
 # Frozen
 
+![frozen](https://cdn.myanimelist.net/images/manga/4/247978.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: フローズン

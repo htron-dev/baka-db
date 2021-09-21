@@ -1,5 +1,7 @@
 # Komorebi no Moto de...
 
+![komorebi-no-moto-de](https://cdn.myanimelist.net/images/manga/5/6781.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

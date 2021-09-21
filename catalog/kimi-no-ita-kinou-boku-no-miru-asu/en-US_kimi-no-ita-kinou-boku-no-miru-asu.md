@@ -1,5 +1,7 @@
 # Kimi no Ita Kinou, Boku no Miru Asu
 
+![kimi-no-ita-kinou-boku-no-miru-asu](https://cdn.myanimelist.net/images/manga/3/162657.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 26

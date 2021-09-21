@@ -1,5 +1,7 @@
 # Mobile Girl Memori
 
+![mobile-girl-memori](https://cdn.myanimelist.net/images/manga/1/35576.jpg)
+
 -   **type**: manga
 -   **original-name**: モバイルガールめもり
 -   **start-date**: 2010-04-30

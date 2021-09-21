@@ -1,5 +1,7 @@
 # High School DxD
 
+![high-school-dx-d](https://cdn.myanimelist.net/images/anime/1331/111940.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハイスクール D×D

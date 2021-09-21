@@ -1,5 +1,7 @@
 # Kaizen!: Isekai Consultant Funtouki
 
+![kaizen-isekai-consultant-funtouki](https://cdn.myanimelist.net/images/manga/2/186134.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

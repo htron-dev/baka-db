@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Rei
 
+![higurashi-no-naku-koro-ni-rei](https://cdn.myanimelist.net/images/anime/4/14113.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ひぐらしのなく頃に礼

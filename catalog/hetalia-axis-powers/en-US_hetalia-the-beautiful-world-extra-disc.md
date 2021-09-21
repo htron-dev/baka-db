@@ -1,5 +1,7 @@
 # Hetalia: The Beautiful World Extra Disc
 
+![hetalia-the-beautiful-world-extra-disc](https://cdn.myanimelist.net/images/anime/2/58297.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヘタリア The Beautiful World 僕がヒロインに囲まれ過ぎて世（ｒｙ

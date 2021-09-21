@@ -1,5 +1,7 @@
 # Drag Limit Fantasia
 
+![drag-limit-fantasia](https://cdn.myanimelist.net/images/manga/1/160137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

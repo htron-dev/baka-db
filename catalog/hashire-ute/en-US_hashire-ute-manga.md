@@ -1,5 +1,7 @@
 # Hashire, Ute!
 
+![hashire-ute](https://cdn.myanimelist.net/images/manga/1/155750.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

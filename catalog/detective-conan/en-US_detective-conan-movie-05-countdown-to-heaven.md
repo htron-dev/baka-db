@@ -1,5 +1,7 @@
 # Detective Conan Movie 05: Countdown to Heaven
 
+![detective-conan-movie-05-countdown-to-heaven](https://cdn.myanimelist.net/images/anime/1144/92654.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 天国へのカウントダウン

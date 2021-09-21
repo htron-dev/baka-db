@@ -1,5 +1,7 @@
 # Ichiban Chikakute, Tooi Futari
 
+![ichiban-chikakute-tooi-futari](https://cdn.myanimelist.net/images/manga/1/124255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

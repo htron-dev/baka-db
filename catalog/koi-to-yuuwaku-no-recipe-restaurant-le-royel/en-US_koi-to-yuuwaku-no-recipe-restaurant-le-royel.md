@@ -1,5 +1,7 @@
 # Koi to Yuuwaku no Recipe: Restaurant le Royel
 
+![koi-to-yuuwaku-no-recipe-restaurant-le-royel](https://cdn.myanimelist.net/images/manga/3/171561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

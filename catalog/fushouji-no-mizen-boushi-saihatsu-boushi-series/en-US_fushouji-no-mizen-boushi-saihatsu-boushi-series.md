@@ -1,5 +1,7 @@
 # Fushouji no Mizen Boushi: Saihatsu Boushi Series
 
+![fushouji-no-mizen-boushi-saihatsu-boushi-series](https://cdn.myanimelist.net/images/anime/1006/98526.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 不祥事の未然防止・再発防止シリーズ

@@ -1,5 +1,7 @@
 # Danzaisha: Tetragrammaton Labyrinth
 
+![danzaisha-tetragrammaton-labyrinth](https://cdn.myanimelist.net/images/manga/2/198707.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Ginga Reppuu Baxingar
 
+![ginga-reppuu-baxingar](https://cdn.myanimelist.net/images/anime/8/56417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 銀河烈風バクシンガー

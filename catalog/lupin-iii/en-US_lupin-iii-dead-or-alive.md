@@ -1,5 +1,7 @@
 # Lupin III: Dead or Alive
 
+![lupin-iii-dead-or-alive](https://cdn.myanimelist.net/images/anime/1408/94363.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世 DEAD OR ALIVE

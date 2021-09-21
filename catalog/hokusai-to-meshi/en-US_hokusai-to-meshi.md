@@ -1,5 +1,7 @@
 # Hokusai to Meshi
 
+![hokusai-to-meshi](https://cdn.myanimelist.net/images/manga/2/105309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

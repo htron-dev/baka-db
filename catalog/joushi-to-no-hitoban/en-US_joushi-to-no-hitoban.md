@@ -1,5 +1,7 @@
 # Joushi to no Hitoban
 
+![joushi-to-no-hitoban](https://cdn.myanimelist.net/images/manga/3/23735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

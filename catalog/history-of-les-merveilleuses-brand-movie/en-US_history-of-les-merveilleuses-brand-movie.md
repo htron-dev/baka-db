@@ -1,5 +1,7 @@
 # History of Les Merveilleuses: Brand Movie
 
+![history-of-les-merveilleuses-brand-movie](https://cdn.myanimelist.net/images/anime/1514/91243.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: History of LesMerveilleuses ブランドムービー

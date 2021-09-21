@@ -1,5 +1,7 @@
 # Koi wo Owari ni Shitakereba
 
+![koi-wo-owari-ni-shitakereba](https://cdn.myanimelist.net/images/manga/1/79703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

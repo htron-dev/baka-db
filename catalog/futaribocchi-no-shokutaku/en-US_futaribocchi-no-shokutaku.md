@@ -1,5 +1,7 @@
 # Futaribocchi no Shokutaku
 
+![futaribocchi-no-shokutaku](https://cdn.myanimelist.net/images/manga/3/204281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

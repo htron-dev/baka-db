@@ -1,5 +1,7 @@
 # Keiraku no Houteishiki Level-C
 
+![keiraku-no-houteishiki-level-c](https://cdn.myanimelist.net/images/manga/1/152368.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

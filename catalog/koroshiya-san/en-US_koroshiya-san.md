@@ -1,5 +1,7 @@
 # Koroshiya-san
 
+![koroshiya-san](https://cdn.myanimelist.net/images/manga/2/30375.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺し屋さん
 

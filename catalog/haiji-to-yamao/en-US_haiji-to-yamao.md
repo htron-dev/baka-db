@@ -1,5 +1,7 @@
 # Haiji to Yamao
 
+![haiji-to-yamao](https://cdn.myanimelist.net/images/manga/2/174053.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Hiraeth wa Tabiji no Hate
 
+![hiraeth-wa-tabiji-no-hate](https://cdn.myanimelist.net/images/manga/1/243822.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒラエスは旅路の果て
 -   **start-date**: 2020-10-22

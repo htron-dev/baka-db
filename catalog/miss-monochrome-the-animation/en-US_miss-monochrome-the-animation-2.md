@@ -1,5 +1,7 @@
 # Miss Monochrome The Animation 2
 
+![miss-monochrome-the-animation-2](https://cdn.myanimelist.net/images/anime/3/75014.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ミス・モノクローム -The Animation- 2

@@ -1,5 +1,7 @@
 # Himitsu no Juliet
 
+![himitsu-no-juliet](https://cdn.myanimelist.net/images/manga/3/174436.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

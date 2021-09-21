@@ -1,5 +1,7 @@
 # Himote no Noroi de Ore no Kanojo ga Taihen na Koto ni
 
+![himote-no-noroi-de-ore-no-kanojo-ga-taihen-na-koto-ni](https://cdn.myanimelist.net/images/manga/2/151866.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 非モテの呪いで俺の彼女が大変なことに

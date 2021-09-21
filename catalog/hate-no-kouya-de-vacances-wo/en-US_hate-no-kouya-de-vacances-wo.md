@@ -1,5 +1,7 @@
 # Hate no Kouya de Vacances wo
 
+![hate-no-kouya-de-vacances-wo](https://cdn.myanimelist.net/images/manga/3/236653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

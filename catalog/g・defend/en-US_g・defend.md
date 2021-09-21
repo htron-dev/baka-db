@@ -1,5 +1,7 @@
 # G・DEFEND
 
+![g・defend](https://cdn.myanimelist.net/images/manga/4/17813.jpg)
+
 -   **type**: manga
 -   **original-name**: ジー・ディフェンド
 

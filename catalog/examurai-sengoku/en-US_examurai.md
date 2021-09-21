@@ -1,5 +1,7 @@
 # Examurai
 
+![examurai](https://cdn.myanimelist.net/images/manga/5/39972.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

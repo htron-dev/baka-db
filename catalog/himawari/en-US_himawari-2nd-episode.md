@@ -1,5 +1,7 @@
 # Himawari 2nd Episode
 
+![himawari-2nd-episode](https://cdn.myanimelist.net/images/manga/2/175058.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ひまわり 2nd episode

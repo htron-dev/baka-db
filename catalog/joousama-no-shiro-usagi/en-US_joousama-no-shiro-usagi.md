@@ -1,5 +1,7 @@
 # Joousama no Shiro Usagi
 
+![joousama-no-shiro-usagi](https://cdn.myanimelist.net/images/manga/2/74861.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

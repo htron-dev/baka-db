@@ -1,5 +1,7 @@
 # Go
 
+![go](https://cdn.myanimelist.net/images/manga/3/20888.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 5

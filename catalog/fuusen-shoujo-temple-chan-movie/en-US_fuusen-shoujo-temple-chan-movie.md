@@ -1,5 +1,7 @@
 # Fuusen Shoujo Temple-chan Movie
 
+![fuusen-shoujo-temple-chan-movie](https://cdn.myanimelist.net/images/anime/8/73288.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風船少女テンプルちゃん

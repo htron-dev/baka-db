@@ -1,5 +1,7 @@
 # Hatsukoi no Kanata
 
+![hatsukoi-no-kanata](https://cdn.myanimelist.net/images/manga/3/87673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

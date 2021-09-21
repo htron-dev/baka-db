@@ -1,5 +1,7 @@
 # Hitoribocchi Ruka
 
+![hitoribocchi-ruka](https://cdn.myanimelist.net/images/manga/3/146623.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ひとりぼっち流花

@@ -1,5 +1,7 @@
 # Little Jumper
 
+![little-jumper](https://cdn.myanimelist.net/images/manga/1/85343.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

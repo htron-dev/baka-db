@@ -1,5 +1,7 @@
 # Donten Prism Solar Car
 
+![donten-prism-solar-car](https://cdn.myanimelist.net/images/manga/1/41856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

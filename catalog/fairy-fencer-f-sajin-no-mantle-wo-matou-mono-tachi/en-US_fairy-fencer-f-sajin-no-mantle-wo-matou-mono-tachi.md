@@ -1,5 +1,7 @@
 # Fairy Fencer F: Sajin no Mantle wo Matou Mono-tachi
 
+![fairy-fencer-f-sajin-no-mantle-wo-matou-mono-tachi](https://cdn.myanimelist.net/images/manga/3/178457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

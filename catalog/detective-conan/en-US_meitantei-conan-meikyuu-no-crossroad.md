@@ -1,5 +1,7 @@
 # Meitantei Conan: Meikyuu no Crossroad
 
+![meitantei-conan-meikyuu-no-crossroad](https://cdn.myanimelist.net/images/manga/3/240668.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

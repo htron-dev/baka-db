@@ -1,5 +1,7 @@
 # Kichiku no Machi
 
+![kichiku-no-machi](https://cdn.myanimelist.net/images/manga/1/206397.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼畜の街
 -   **start-date**: 2017-07-21

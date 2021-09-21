@@ -1,5 +1,7 @@
 # Hanazakari de Koi Shiteru
 
+![hanazakari-de-koi-shiteru](https://cdn.myanimelist.net/images/manga/1/10950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

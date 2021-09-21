@@ -1,5 +1,7 @@
 # Karada kara Hajimaru Koi wa Dame desu ka!? Kouhai Danshi wa Midara na Sakushi
 
+![karada-kara-hajimaru-koi-wa-dame-desu-ka-kouhai-danshi-wa-midara-na-sakushi](https://cdn.myanimelist.net/images/manga/2/192162.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kokka Madou Saishuu Heiki Shoujo Arklow
 
+![kokka-madou-saishuu-heiki-shoujo-arklow](https://cdn.myanimelist.net/images/manga/2/176784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

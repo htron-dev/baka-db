@@ -1,5 +1,7 @@
 # Mitasareru Kuchibiru
 
+![mitasareru-kuchibiru](https://cdn.myanimelist.net/images/manga/3/152541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

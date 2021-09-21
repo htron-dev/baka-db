@@ -1,5 +1,7 @@
 # Fan Kai Zhe Yi Ye
 
+![fan-kai-zhe-yi-ye](https://cdn.myanimelist.net/images/anime/1304/114514.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 翻开这一页

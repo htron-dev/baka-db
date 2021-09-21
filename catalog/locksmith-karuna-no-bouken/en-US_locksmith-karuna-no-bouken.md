@@ -1,5 +1,7 @@
 # Locksmith Karuna no Bouken
 
+![locksmith-karuna-no-bouken](https://cdn.myanimelist.net/images/manga/1/163059.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

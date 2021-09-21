@@ -1,5 +1,7 @@
 # Kimi wa Unmei no Kirakira
 
+![kimi-wa-unmei-no-kirakira](https://cdn.myanimelist.net/images/manga/2/90923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ?????????

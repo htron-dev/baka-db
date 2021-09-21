@@ -1,5 +1,7 @@
 # Haikyuu-bu!!
 
+![haikyuu-bu](https://cdn.myanimelist.net/images/manga/2/230124.jpg)
+
 -   **type**: manga
 -   **original-name**: ハイキュー部!!
 -   **start-date**: 2019-05-13

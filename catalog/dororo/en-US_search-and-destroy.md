@@ -1,5 +1,7 @@
 # Search and Destroy
 
+![search-and-destroy](https://cdn.myanimelist.net/images/manga/2/230492.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

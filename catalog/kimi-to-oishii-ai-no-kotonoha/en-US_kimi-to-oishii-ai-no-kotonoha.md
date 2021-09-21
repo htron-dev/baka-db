@@ -1,5 +1,7 @@
 # Kimi to Oishii Ai no Kotonoha
 
+![kimi-to-oishii-ai-no-kotonoha](https://cdn.myanimelist.net/images/manga/2/236051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

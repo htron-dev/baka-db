@@ -1,5 +1,7 @@
 # Green Legend Ran
 
+![green-legend-ran](https://cdn.myanimelist.net/images/anime/1882/96360.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: グリーンレジェンド乱

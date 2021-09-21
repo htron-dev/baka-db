@@ -1,5 +1,7 @@
 # Bouken-tachi Gamba to Nanbiki no Nakama
 
+![bouken-tachi-gamba-to-nanbiki-no-nakama](https://cdn.myanimelist.net/images/anime/7/69817.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 冒険者たち ガンバと 7 匹のなかま

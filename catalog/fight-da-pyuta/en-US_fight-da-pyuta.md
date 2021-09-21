@@ -1,5 +1,7 @@
 # Fight Da!! Pyuta
 
+![fight-da-pyuta](https://cdn.myanimelist.net/images/anime/6/53307.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ファイトだ!! ピュー太

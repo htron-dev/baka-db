@@ -1,5 +1,7 @@
 # Heterogenia Linguistic: Ishuzoku Gengogaku Nyuumon
 
+![heterogenia-linguistic-ishuzoku-gengogaku-nyuumon](https://cdn.myanimelist.net/images/manga/2/217290.jpg)
+
 -   **type**: manga
 -   **original-name**: ヘテロゲニア リンギスティコ ～異種族言語学入門～
 -   **start-date**: 2018-03-09

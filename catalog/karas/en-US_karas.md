@@ -1,5 +1,7 @@
 # Karas
 
+![karas](https://cdn.myanimelist.net/images/anime/1054/98245.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 鴉 -KARAS-

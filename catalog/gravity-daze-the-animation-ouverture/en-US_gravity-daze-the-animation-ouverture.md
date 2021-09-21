@@ -1,5 +1,7 @@
 # Gravity Daze The Animation: Ouverture
 
+![gravity-daze-the-animation-ouverture](https://cdn.myanimelist.net/images/anime/8/81046.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: GRAVITY DAZE The Animation ~Ouverture~

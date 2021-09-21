@@ -1,5 +1,7 @@
 # Mitsuketa Boku no Omega-sama
 
+![mitsuketa-boku-no-omega-sama](https://cdn.myanimelist.net/images/manga/1/215389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

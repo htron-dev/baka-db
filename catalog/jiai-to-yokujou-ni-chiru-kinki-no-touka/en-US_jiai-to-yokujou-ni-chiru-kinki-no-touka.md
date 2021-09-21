@@ -1,5 +1,7 @@
 # Jiai to Yokujou ni Chiru Kinki no Touka
 
+![jiai-to-yokujou-ni-chiru-kinki-no-touka](https://cdn.myanimelist.net/images/manga/3/194416.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

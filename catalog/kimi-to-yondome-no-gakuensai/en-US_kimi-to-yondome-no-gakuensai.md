@@ -1,5 +1,7 @@
 # Kimi to Yondome no Gakuensai
 
+![kimi-to-yondome-no-gakuensai](https://cdn.myanimelist.net/images/manga/3/195956.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

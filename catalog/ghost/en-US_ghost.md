@@ -1,5 +1,7 @@
 # Ghost!
 
+![ghost](https://cdn.myanimelist.net/images/manga/2/178258.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

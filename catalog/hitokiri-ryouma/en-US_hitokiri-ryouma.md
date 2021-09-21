@@ -1,5 +1,7 @@
 # Hitokiri Ryouma
 
+![hitokiri-ryouma](https://cdn.myanimelist.net/images/manga/3/24012.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

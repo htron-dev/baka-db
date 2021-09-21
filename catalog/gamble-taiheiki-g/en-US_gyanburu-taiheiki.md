@@ -1,5 +1,7 @@
 # Gyanburu Taiheiki
 
+![gyanburu-taiheiki](https://cdn.myanimelist.net/images/manga/3/34577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぎゃんぶる太平記

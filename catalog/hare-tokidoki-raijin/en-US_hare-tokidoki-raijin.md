@@ -1,5 +1,7 @@
 # Hare, Tokidoki Raijin
 
+![hare-tokidoki-raijin](https://cdn.myanimelist.net/images/manga/3/115449.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 晴れ、ときどき雷神

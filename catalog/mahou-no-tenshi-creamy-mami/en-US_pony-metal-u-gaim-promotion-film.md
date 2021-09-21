@@ -1,5 +1,7 @@
 # Pony Metal U-GAIM Promotion Film
 
+![pony-metal-u-gaim-promotion-film](https://cdn.myanimelist.net/images/anime/10/51693.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: PONY METAL U-GAIM PROMOTION FILM

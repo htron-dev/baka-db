@@ -1,5 +1,7 @@
 # Kanojo de Ippai
 
+![kanojo-de-ippai](https://cdn.myanimelist.net/images/manga/2/119411.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

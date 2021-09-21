@@ -1,5 +1,7 @@
 # Hello Kitty no Kurumi Wari Ningyou
 
+![hello-kitty-no-kurumi-wari-ningyou](https://cdn.myanimelist.net/images/anime/2/48017.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのくるみ割り人形

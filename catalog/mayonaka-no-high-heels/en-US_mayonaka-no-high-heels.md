@@ -1,5 +1,7 @@
 # Mayonaka no High Heels
 
+![mayonaka-no-high-heels](https://cdn.myanimelist.net/images/manga/2/238117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

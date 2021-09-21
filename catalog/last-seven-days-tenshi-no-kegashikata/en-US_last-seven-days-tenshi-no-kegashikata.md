@@ -1,5 +1,7 @@
 # Last Seven Days: Tenshi no Kegashikata
 
+![last-seven-days-tenshi-no-kegashikata](https://cdn.myanimelist.net/images/manga/3/219416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

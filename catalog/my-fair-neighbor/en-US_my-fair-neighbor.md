@@ -1,5 +1,7 @@
 # My Fair Neighbor
 
+![my-fair-neighbor](https://cdn.myanimelist.net/images/manga/1/172438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Machikado Mazoku Mini
 
+![machikado-mazoku-mini](https://cdn.myanimelist.net/images/anime/1344/104455.jpg)
+
 -   **type**: ona
 -   **episodes**: 36
 -   **original-name**: まちカドまぞく みに

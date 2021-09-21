@@ -1,5 +1,7 @@
 # Mukashi no Hanashi
 
+![mukashi-no-hanashi](https://cdn.myanimelist.net/images/manga/3/230314.jpg)
+
 -   **type**: manga
 -   **original-name**: むかしのはなし
 -   **start-date**: 2020-05-08

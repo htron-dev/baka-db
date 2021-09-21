@@ -1,5 +1,7 @@
 # Ginrei Yumihime to Salty Sorcery
 
+![ginrei-yumihime-to-salty-sorcery](https://cdn.myanimelist.net/images/manga/1/160219.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Futsukame no Yoiko-chan
 
+![futsukame-no-yoiko-chan](https://cdn.myanimelist.net/images/manga/2/220089.jpg)
+
 -   **type**: manga
 -   **original-name**: 二日目の酔い子ちゃん
 -   **start-date**: 2018-07-25

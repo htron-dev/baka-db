@@ -1,5 +1,7 @@
 # In the Pocket: Tani Kazuno Yomikiri-shuu
 
+![in-the-pocket-tani-kazuno-yomikiri-shuu](https://cdn.myanimelist.net/images/manga/2/245810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

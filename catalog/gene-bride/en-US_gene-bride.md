@@ -1,5 +1,7 @@
 # Gene Bride
 
+![gene-bride](https://cdn.myanimelist.net/images/manga/2/246276.jpg)
+
 -   **type**: manga
 -   **original-name**: ジーンブライド
 -   **start-date**: 2021-06-08

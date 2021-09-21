@@ -1,5 +1,7 @@
 # Hanazakari no Kimitachi e: After Story
 
+![hanazakari-no-kimitachi-e-after-story](https://cdn.myanimelist.net/images/manga/3/71485.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 花ざかりの君たちへ アフターストーリー

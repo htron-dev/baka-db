@@ -1,5 +1,7 @@
 # Meoteoldosawa Ttomae
 
+![meoteoldosawa-ttomae](https://cdn.myanimelist.net/images/anime/12/49097.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 머털도사와 또매

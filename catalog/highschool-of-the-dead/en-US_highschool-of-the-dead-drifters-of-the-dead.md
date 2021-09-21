@@ -1,5 +1,7 @@
 # Highschool of the Dead: Drifters of the Dead
 
+![highschool-of-the-dead-drifters-of-the-dead](https://cdn.myanimelist.net/images/anime/1746/97780.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド

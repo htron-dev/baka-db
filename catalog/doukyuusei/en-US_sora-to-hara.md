@@ -1,5 +1,7 @@
 # Sora to Hara
 
+![sora-to-hara](https://cdn.myanimelist.net/images/manga/1/67873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

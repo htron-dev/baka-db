@@ -1,5 +1,7 @@
 # Hero Girl x Healer Boy: Touch or Death
 
+![hero-girl-x-healer-boy-touch-or-death](https://cdn.myanimelist.net/images/manga/2/242539.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒーローガール × ヒーラーボーイ～ TOUCH or DEATH ～
 -   **start-date**: 2020-12-16

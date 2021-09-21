@@ -1,5 +1,7 @@
 # Gozen 3-ji no Iede
 
+![gozen-3-ji-no-iede](https://cdn.myanimelist.net/images/manga/2/224358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

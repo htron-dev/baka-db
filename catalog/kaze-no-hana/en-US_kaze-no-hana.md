@@ -1,5 +1,7 @@
 # Kaze no Hana
 
+![kaze-no-hana](https://cdn.myanimelist.net/images/manga/1/3904.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Koori no Kuni no Amaryllis
 
+![koori-no-kuni-no-amaryllis](https://cdn.myanimelist.net/images/manga/2/164393.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

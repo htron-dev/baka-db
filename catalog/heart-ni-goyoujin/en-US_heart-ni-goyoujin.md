@@ -1,5 +1,7 @@
 # Heart ni Goyoujin
 
+![heart-ni-goyoujin](https://cdn.myanimelist.net/images/manga/1/15154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

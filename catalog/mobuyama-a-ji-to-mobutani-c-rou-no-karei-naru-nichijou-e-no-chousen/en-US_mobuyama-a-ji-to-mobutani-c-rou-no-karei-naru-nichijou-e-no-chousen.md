@@ -1,5 +1,7 @@
 # Mobuyama A-ji to Mobutani C-rou no Karei naru Nichijou e no Chousen
 
+![mobuyama-a-ji-to-mobutani-c-rou-no-karei-naru-nichijou-e-no-chousen](https://cdn.myanimelist.net/images/manga/2/246464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

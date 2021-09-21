@@ -1,5 +1,7 @@
 # Henkei Sakuhin Dai 2-ban
 
+![henkei-sakuhin-dai-2-ban](https://cdn.myanimelist.net/images/anime/6/76312.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 変形作品第２番

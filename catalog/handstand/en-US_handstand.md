@@ -1,5 +1,7 @@
 # Handstand!
 
+![handstand](https://cdn.myanimelist.net/images/manga/2/203034.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

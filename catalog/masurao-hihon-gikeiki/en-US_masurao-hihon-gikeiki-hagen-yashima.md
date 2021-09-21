@@ -1,5 +1,7 @@
 # Masurao: Hihon Gikeiki - Hagen, Yashima
 
+![masurao-hihon-gikeiki-hagen-yashima](https://cdn.myanimelist.net/images/manga/1/234245.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

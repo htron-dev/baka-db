@@ -1,5 +1,7 @@
 # GJ
 
+![gj](https://cdn.myanimelist.net/images/manga/1/238455.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Doraemon: Doraemon Comes Back
 
+![doraemon-doraemon-comes-back](https://cdn.myanimelist.net/images/anime/7/57855.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 帰ってきたドラえもん

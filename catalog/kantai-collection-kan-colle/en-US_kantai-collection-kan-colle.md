@@ -1,5 +1,7 @@
 # Kantai Collection: KanColle
 
+![kantai-collection-kan-colle](https://cdn.myanimelist.net/images/anime/4/73954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 艦隊これくしょん -艦これ-

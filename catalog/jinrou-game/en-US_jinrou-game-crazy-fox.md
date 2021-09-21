@@ -1,5 +1,7 @@
 # Jinrou Game: Crazy Fox
 
+![jinrou-game-crazy-fox](https://cdn.myanimelist.net/images/manga/2/202537.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

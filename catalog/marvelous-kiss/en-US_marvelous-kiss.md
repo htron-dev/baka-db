@@ -1,5 +1,7 @@
 # Marvelous Kiss
 
+![marvelous-kiss](https://cdn.myanimelist.net/images/manga/1/238947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

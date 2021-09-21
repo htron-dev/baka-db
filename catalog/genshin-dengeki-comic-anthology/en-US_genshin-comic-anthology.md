@@ -1,5 +1,7 @@
 # Genshin Comic Anthology
 
+![genshin-comic-anthology](https://cdn.myanimelist.net/images/manga/2/247216.jpg)
+
 -   **type**: manga
 -   **original-name**: 原神 コミックアンソロジー
 -   **start-date**: 2021-06-24

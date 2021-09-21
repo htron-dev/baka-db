@@ -1,5 +1,7 @@
 # Di Gi Charat: Kuchi Kara Bazooka
 
+![di-gi-charat-kuchi-kara-bazooka](https://cdn.myanimelist.net/images/anime/12/57017.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: くちからバズーカ

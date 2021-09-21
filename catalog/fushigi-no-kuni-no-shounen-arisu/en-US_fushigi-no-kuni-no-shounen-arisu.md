@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Shounen Arisu
 
+![fushigi-no-kuni-no-shounen-arisu](https://cdn.myanimelist.net/images/manga/2/20981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

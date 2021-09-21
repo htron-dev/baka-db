@@ -1,5 +1,7 @@
 # Kiseki no Ringo: "Zettai Fukanou" wo Kutsugaeshita Nouka Kimura Akinori no Kiroku
 
+![kiseki-no-ringo-zettai-fukanou-wo-kutsugaeshita-nouka-kimura-akinori-no-kiroku](https://cdn.myanimelist.net/images/manga/3/172264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奇跡のリンゴ 「絶対不可能」を覆した農家 木村秋則の記録

@@ -1,5 +1,7 @@
 # Kousei Tantou Hattori-san
 
+![kousei-tantou-hattori-san](https://cdn.myanimelist.net/images/manga/3/237633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

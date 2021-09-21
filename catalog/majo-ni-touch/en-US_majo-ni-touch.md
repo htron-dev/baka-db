@@ -1,5 +1,7 @@
 # Majo ni Touch!
 
+![majo-ni-touch](https://cdn.myanimelist.net/images/manga/3/163681.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

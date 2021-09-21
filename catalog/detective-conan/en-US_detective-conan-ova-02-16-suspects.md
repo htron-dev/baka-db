@@ -1,5 +1,7 @@
 # Detective Conan OVA 02: 16 Suspects
 
+![detective-conan-ova-02-16-suspects](https://cdn.myanimelist.net/images/anime/10/71317.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 16 人の容疑者!?

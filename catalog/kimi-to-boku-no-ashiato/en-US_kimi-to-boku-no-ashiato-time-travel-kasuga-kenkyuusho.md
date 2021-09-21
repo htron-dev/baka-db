@@ -1,5 +1,7 @@
 # Kimi to Boku no Ashiato: Time Travel Kasuga Kenkyuusho
 
+![kimi-to-boku-no-ashiato-time-travel-kasuga-kenkyuusho](https://cdn.myanimelist.net/images/manga/2/161845.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

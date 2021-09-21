@@ -1,5 +1,7 @@
 # Fantasy Bishoujo Juniku Ojisan to
 
+![fantasy-bishoujo-juniku-ojisan-to](https://cdn.myanimelist.net/images/manga/2/231059.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界〈ファンタジー〉美少女受肉おじさんと
 -   **start-date**: 2019-11-18

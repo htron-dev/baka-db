@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: After Jaburo
 
+![kidou-senshi-gundam-after-jaburo](https://cdn.myanimelist.net/images/manga/2/146367.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 機動戦士ガンダム アフター ジャブロー

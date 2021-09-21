@@ -1,5 +1,7 @@
 # Hakushaku-sama no Chinoiserie: Hanayome to Kusuribako
 
+![hakushaku-sama-no-chinoiserie-hanayome-to-kusuribako](https://cdn.myanimelist.net/images/manga/1/193395.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

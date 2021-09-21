@@ -1,5 +1,7 @@
 # Jungle wa Itsumo Hare nochi Guu: Eizou Tokuten - Maboroshi no Pilot Film
 
+![jungle-wa-itsumo-hare-nochi-guu-eizou-tokuten-maboroshi-no-pilot-film](https://cdn.myanimelist.net/images/anime/10/47343.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 映像特典 ~幻のパイロットフィルム~

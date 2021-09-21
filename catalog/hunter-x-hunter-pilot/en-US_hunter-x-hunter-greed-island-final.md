@@ -1,5 +1,7 @@
 # Hunter x Hunter: Greed Island Final
 
+![hunter-x-hunter-greed-island-final](https://cdn.myanimelist.net/images/anime/1/139.jpg)
+
 -   **type**: ova
 -   **episodes**: 14
 -   **original-name**: ハンター × ハンター　 G・I 　 Final

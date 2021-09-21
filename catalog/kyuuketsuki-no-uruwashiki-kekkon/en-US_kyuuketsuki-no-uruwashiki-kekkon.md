@@ -1,5 +1,7 @@
 # Kyuuketsuki no Uruwashiki Kekkon
 
+![kyuuketsuki-no-uruwashiki-kekkon](https://cdn.myanimelist.net/images/manga/1/89101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

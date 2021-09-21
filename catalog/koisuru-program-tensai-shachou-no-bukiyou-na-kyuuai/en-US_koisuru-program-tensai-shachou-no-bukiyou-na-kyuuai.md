@@ -1,5 +1,7 @@
 # Koisuru Program: Tensai Shachou no Bukiyou na Kyuuai
 
+![koisuru-program-tensai-shachou-no-bukiyou-na-kyuuai](https://cdn.myanimelist.net/images/manga/3/193956.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

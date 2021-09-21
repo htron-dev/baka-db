@@ -1,5 +1,7 @@
 # Murenase! Seton Gakuen
 
+![murenase-seton-gakuen](https://cdn.myanimelist.net/images/anime/1558/104666.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 群れなせ！シートン学園

@@ -1,5 +1,7 @@
 # Missing Code
 
+![missing-code](https://cdn.myanimelist.net/images/manga/4/18847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

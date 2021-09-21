@@ -1,5 +1,7 @@
 # Jansou no Saeko-san
 
+![jansou-no-saeko-san](https://cdn.myanimelist.net/images/manga/2/179034.jpg)
+
 -   **type**: manga
 -   **original-name**: 雀荘のサエコさん
 -   **start-date**: 2012-04-07

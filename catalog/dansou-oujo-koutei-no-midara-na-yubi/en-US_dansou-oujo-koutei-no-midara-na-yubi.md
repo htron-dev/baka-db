@@ -1,5 +1,7 @@
 # Dansou Oujo: Koutei no Midara na Yubi
 
+![dansou-oujo-koutei-no-midara-na-yubi](https://cdn.myanimelist.net/images/manga/3/182970.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

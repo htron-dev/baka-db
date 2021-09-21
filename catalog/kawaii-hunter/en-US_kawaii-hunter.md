@@ -1,5 +1,7 @@
 # Kawaii Hunter
 
+![kawaii-hunter](https://cdn.myanimelist.net/images/manga/2/165638.jpg)
+
 -   **type**: manga
 -   **chapters**: 19
 -   **original-name**: かわいいハンター

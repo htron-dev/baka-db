@@ -1,5 +1,7 @@
 # Innocent Red
 
+![innocent-red](https://cdn.myanimelist.net/images/manga/3/162087.jpg)
+
 -   **type**: light-novel
 -   **original-name**: イノセントレッド
 -   **start-date**: 2015-07-31

@@ -1,5 +1,7 @@
 # Gemini wa Otoshigoro
 
+![gemini-wa-otoshigoro](https://cdn.myanimelist.net/images/manga/3/228210.jpg)
+
 -   **type**: manga
 -   **original-name**: ジェミニはお年頃
 -   **start-date**: 2017-10-31

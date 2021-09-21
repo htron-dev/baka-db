@@ -1,5 +1,7 @@
 # Mizuki Shigeru's Tono Monogatari
 
+![mizuki-shigerus-tono-monogatari](https://cdn.myanimelist.net/images/manga/3/36715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 29

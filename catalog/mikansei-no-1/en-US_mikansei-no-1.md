@@ -1,5 +1,7 @@
 # Mikansei No.1
 
+![mikansei-no-1](https://cdn.myanimelist.net/images/manga/3/176570.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

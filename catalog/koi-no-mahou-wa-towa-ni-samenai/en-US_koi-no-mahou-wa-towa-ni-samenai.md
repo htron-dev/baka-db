@@ -1,5 +1,7 @@
 # Koi no Mahou wa Towa ni Samenai
 
+![koi-no-mahou-wa-towa-ni-samenai](https://cdn.myanimelist.net/images/manga/1/184533.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

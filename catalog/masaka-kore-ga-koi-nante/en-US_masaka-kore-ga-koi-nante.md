@@ -1,5 +1,7 @@
 # Masaka Kore ga Koi nante
 
+![masaka-kore-ga-koi-nante](https://cdn.myanimelist.net/images/manga/3/143975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

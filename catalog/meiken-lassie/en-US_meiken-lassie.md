@@ -1,5 +1,7 @@
 # Meiken Lassie
 
+![meiken-lassie](https://cdn.myanimelist.net/images/anime/13/51265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 名犬ラッシー

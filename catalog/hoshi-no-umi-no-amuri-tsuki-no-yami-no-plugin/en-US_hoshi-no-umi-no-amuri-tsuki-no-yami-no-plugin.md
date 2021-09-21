@@ -1,5 +1,7 @@
 # Hoshi no Umi no Amuri: Tsuki no Yami no Plugin
 
+![hoshi-no-umi-no-amuri-tsuki-no-yami-no-plugin](https://cdn.myanimelist.net/images/manga/3/78567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 星の海のアムリ‐月の闇のプラグイン

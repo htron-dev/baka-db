@@ -1,5 +1,7 @@
 # Detective Conan: Chase the Mysterious Comet Monster!
 
+![detective-conan-chase-the-mysterious-comet-monster](https://cdn.myanimelist.net/images/anime/2/81490.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 謎のすい星怪獣を追え!

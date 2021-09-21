@@ -1,5 +1,7 @@
 # Fullmetal Lady
 
+![fullmetal-lady](https://cdn.myanimelist.net/images/manga/2/190145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

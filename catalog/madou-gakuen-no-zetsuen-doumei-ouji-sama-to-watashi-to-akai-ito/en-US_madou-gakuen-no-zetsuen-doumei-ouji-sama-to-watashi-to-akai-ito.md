@@ -1,5 +1,7 @@
 # Madou Gakuen no Zetsuen Doumei: Ouji-sama to Watashi to Akai Ito
 
+![madou-gakuen-no-zetsuen-doumei-ouji-sama-to-watashi-to-akai-ito](https://cdn.myanimelist.net/images/manga/1/161846.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

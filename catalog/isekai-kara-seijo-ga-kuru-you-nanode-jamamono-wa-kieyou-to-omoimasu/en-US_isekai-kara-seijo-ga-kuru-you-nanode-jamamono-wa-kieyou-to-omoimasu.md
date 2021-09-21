@@ -1,5 +1,7 @@
 # Isekai kara Seijo ga Kuru You nanode, Jamamono wa Kieyou to Omoimasu
 
+![isekai-kara-seijo-ga-kuru-you-nanode-jamamono-wa-kieyou-to-omoimasu](https://cdn.myanimelist.net/images/manga/3/241862.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界から聖女が来るようなので、邪魔者は消えようと思います
 -   **start-date**: 2020-11-27

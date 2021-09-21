@@ -1,5 +1,7 @@
 # Mimi-tsuki no Kuro
 
+![mimi-tsuki-no-kuro](https://cdn.myanimelist.net/images/manga/3/209863.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

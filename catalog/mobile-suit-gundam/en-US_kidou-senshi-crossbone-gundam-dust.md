@@ -1,5 +1,7 @@
 # Kidou Senshi Crossbone Gundam Dust
 
+![kidou-senshi-crossbone-gundam-dust](https://cdn.myanimelist.net/images/manga/3/189790.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Harapeko no Marie
 
+![harapeko-no-marie](https://cdn.myanimelist.net/images/manga/2/197881.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

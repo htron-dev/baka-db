@@ -1,5 +1,7 @@
 # Madonna
 
+![madonna](https://cdn.myanimelist.net/images/anime/2/67361.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: マドンナ

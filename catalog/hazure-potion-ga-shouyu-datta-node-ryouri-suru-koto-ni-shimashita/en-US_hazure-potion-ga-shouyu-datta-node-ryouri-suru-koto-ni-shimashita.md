@@ -1,5 +1,7 @@
 # Hazure Potion ga Shouyu Datta node Ryouri Suru Koto ni Shimashita
 
+![hazure-potion-ga-shouyu-datta-node-ryouri-suru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/2/241179.jpg)
+
 -   **type**: manga
 -   **original-name**: ハズレポーションが醤油だったので料理することにしました
 -   **start-date**: 2019-02-12

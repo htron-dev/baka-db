@@ -1,5 +1,7 @@
 # Inu ni Oborete
 
+![inu-ni-oborete](https://cdn.myanimelist.net/images/manga/1/239412.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫雨に溺れて

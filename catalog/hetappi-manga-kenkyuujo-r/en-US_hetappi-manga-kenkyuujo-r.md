@@ -1,5 +1,7 @@
 # Hetappi Manga Kenkyuujo R
 
+![hetappi-manga-kenkyuujo-r](https://cdn.myanimelist.net/images/manga/1/172484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

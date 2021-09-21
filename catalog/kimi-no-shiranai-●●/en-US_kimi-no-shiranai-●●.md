@@ -1,5 +1,7 @@
 # Kimi no Shiranai ●●
 
+![kimi-no-shiranai-●●](https://cdn.myanimelist.net/images/manga/3/183134.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 君の知らない ●●

@@ -1,5 +1,7 @@
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season
 
+![gate-jieitai-kanochi-nite-kaku-tatakaeri-2nd-season](https://cdn.myanimelist.net/images/anime/8/77382.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GATE（ゲート）自衛隊　彼の地にて、斯く戦えり　第 2 クール

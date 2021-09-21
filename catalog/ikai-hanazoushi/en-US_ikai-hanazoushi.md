@@ -1,5 +1,7 @@
 # Ikai Hanazoushi
 
+![ikai-hanazoushi](https://cdn.myanimelist.net/images/manga/1/25907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 異界・花草紙

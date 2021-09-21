@@ -1,5 +1,7 @@
 # Korantangou no Koukai - London Visionaries
 
+![korantangou-no-koukai-london-visionaries](https://cdn.myanimelist.net/images/manga/3/32943.jpg)
+
 -   **type**: manga
 -   **original-name**: コランタン号の航海～ロンドン・ヴィジョナリーズ～
 

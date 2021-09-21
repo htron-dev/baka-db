@@ -1,5 +1,7 @@
 # Densetsu no Kokuou wo Sagase!!
 
+![densetsu-no-kokuou-wo-sagase](https://cdn.myanimelist.net/images/manga/3/13803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 伝説の国王をさがせ！！

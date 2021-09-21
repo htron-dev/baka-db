@@ -1,5 +1,7 @@
 # Mai-Otome
 
+![mai-otome](https://cdn.myanimelist.net/images/manga/1/648.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

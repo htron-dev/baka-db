@@ -1,5 +1,7 @@
 # Kagami no Kuni no Harisugawa
 
+![kagami-no-kuni-no-harisugawa](https://cdn.myanimelist.net/images/manga/2/62475.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

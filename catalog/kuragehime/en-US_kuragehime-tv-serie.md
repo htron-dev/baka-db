@@ -1,5 +1,7 @@
 # Kuragehime
 
+![kuragehime](https://cdn.myanimelist.net/images/anime/3/24865.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 海月姫

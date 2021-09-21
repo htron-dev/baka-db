@@ -1,5 +1,7 @@
 # Docchi mo Maid
 
+![docchi-mo-maid](https://cdn.myanimelist.net/images/anime/9/73854.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: どっちもメイド

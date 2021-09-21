@@ -1,5 +1,7 @@
 # Hyouri Sekai no Soma Cube
 
+![hyouri-sekai-no-soma-cube](https://cdn.myanimelist.net/images/manga/1/162114.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

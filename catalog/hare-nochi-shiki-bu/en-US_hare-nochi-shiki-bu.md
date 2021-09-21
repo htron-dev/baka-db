@@ -1,5 +1,7 @@
 # Hare Nochi Shiki-bu
 
+![hare-nochi-shiki-bu](https://cdn.myanimelist.net/images/manga/3/222268.jpg)
+
 -   **type**: manga
 -   **original-name**: 晴れのち四季部
 -   **start-date**: 2017-04-03

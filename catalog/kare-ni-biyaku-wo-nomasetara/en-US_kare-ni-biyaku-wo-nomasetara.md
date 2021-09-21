@@ -1,5 +1,7 @@
 # Kare ni Biyaku wo Nomasetara
 
+![kare-ni-biyaku-wo-nomasetara](https://cdn.myanimelist.net/images/manga/3/236080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

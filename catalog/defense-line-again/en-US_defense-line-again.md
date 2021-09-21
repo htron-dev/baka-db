@@ -1,5 +1,7 @@
 # Defense Line Again
 
+![defense-line-again](https://cdn.myanimelist.net/images/manga/1/157524.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ディフェンスライン アゲイン

@@ -1,5 +1,7 @@
 # Kore ga Isekai no Oyakusoku desu!
 
+![kore-ga-isekai-no-oyakusoku-desu](https://cdn.myanimelist.net/images/manga/1/176899.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 19

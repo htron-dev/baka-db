@@ -1,5 +1,7 @@
 # Little Butterfly
 
+![little-butterfly](https://cdn.myanimelist.net/images/manga/4/25450.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

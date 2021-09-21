@@ -1,5 +1,7 @@
 # Houkago Assault x Girls
 
+![houkago-assault-x-girls](https://cdn.myanimelist.net/images/manga/3/175564.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Mattsu to Yanma to Moburi-san: Nanatsu no Hihou to Soratobu Oshiro
 
+![mattsu-to-yanma-to-moburi-san-nanatsu-no-hihou-to-soratobu-oshiro](https://cdn.myanimelist.net/images/anime/8/67755.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: マッツとヤンマとモブリさん ―七つの秘宝と空飛ぶお城―

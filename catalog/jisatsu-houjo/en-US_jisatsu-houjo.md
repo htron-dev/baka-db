@@ -1,5 +1,7 @@
 # Jisatsu Houjo
 
+![jisatsu-houjo](https://cdn.myanimelist.net/images/manga/3/241259.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

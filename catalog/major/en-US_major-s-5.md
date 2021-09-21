@@ -1,5 +1,7 @@
 # Major S5
 
+![major-s-5](https://cdn.myanimelist.net/images/anime/9/75218.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: メジャー

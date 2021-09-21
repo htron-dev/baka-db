@@ -1,5 +1,7 @@
 # Kiken na Asobi
 
+![kiken-na-asobi](https://cdn.myanimelist.net/images/manga/2/22275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

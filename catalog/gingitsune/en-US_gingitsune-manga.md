@@ -1,5 +1,7 @@
 # Gingitsune
 
+![gingitsune](https://cdn.myanimelist.net/images/manga/1/159800.jpg)
+
 -   **type**: manga
 -   **original-name**: ぎんぎつね
 -   **start-date**: 2008-02-19

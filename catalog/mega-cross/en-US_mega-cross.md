@@ -1,5 +1,7 @@
 # Mega Cross
 
+![mega-cross](https://cdn.myanimelist.net/images/manga/2/42705.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メガクロス

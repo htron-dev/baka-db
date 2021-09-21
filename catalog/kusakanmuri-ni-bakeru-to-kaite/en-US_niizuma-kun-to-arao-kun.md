@@ -1,5 +1,7 @@
 # Niizuma-kun to Arao-kun
 
+![niizuma-kun-to-arao-kun](https://cdn.myanimelist.net/images/manga/1/216546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

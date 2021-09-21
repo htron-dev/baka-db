@@ -1,5 +1,7 @@
 # Meika no Mechanism
 
+![meika-no-mechanism](https://cdn.myanimelist.net/images/manga/3/224369.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

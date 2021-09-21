@@ -1,5 +1,7 @@
 # Idol-sama no Yoru no Okao
 
+![idol-sama-no-yoru-no-okao](https://cdn.myanimelist.net/images/manga/2/141233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Fire Emblem: Hasha no Tsurugi
 
+![fire-emblem-hasha-no-tsurugi](https://cdn.myanimelist.net/images/manga/2/209214.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 45

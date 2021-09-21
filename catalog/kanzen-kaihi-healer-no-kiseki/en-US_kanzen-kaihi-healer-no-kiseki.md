@@ -1,5 +1,7 @@
 # Kanzen Kaihi Healer no Kiseki
 
+![kanzen-kaihi-healer-no-kiseki](https://cdn.myanimelist.net/images/manga/2/223269.jpg)
+
 -   **type**: manga
 -   **original-name**: 完全回避ヒーラーの軌跡
 -   **start-date**: 2019-04-24

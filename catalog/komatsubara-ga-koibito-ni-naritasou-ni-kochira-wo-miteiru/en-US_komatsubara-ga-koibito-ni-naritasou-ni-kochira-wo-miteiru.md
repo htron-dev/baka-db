@@ -1,5 +1,7 @@
 # Komatsubara ga Koibito ni Naritasou ni Kochira wo Miteiru!
 
+![komatsubara-ga-koibito-ni-naritasou-ni-kochira-wo-miteiru](https://cdn.myanimelist.net/images/manga/3/196490.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

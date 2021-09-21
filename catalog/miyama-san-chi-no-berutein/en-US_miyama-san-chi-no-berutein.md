@@ -1,5 +1,7 @@
 # Miyama-san Chi no Berutein
 
+![miyama-san-chi-no-berutein](https://cdn.myanimelist.net/images/manga/1/163566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Fukigen na Mononokean
 
+![fukigen-na-mononokean](https://cdn.myanimelist.net/images/anime/11/80009.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 不機嫌なモノノケ庵

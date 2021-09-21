@@ -1,5 +1,7 @@
 # Mou DEBU nante Iwasenai!
 
+![mou-debu-nante-iwasenai](https://cdn.myanimelist.net/images/manga/3/167428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: もう DEBU なんて言わせない!

@@ -1,5 +1,7 @@
 # Junk Head
 
+![junk-head](https://cdn.myanimelist.net/images/anime/1414/101049.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: JUNK HEAD

@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de: Hachiyou Shou
 
+![harukanaru-toki-no-naka-de-hachiyou-shou](https://cdn.myanimelist.net/images/anime/7/7227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 遙かなる時空の中で〜八葉抄〜

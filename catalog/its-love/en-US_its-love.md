@@ -1,5 +1,7 @@
 # It's Love
 
+![its-love](https://cdn.myanimelist.net/images/manga/4/17220.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 42

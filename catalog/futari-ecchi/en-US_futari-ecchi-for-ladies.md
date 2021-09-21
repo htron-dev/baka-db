@@ -1,5 +1,7 @@
 # Futari Ecchi for Ladies
 
+![futari-ecchi-for-ladies](https://cdn.myanimelist.net/images/manga/5/5869.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

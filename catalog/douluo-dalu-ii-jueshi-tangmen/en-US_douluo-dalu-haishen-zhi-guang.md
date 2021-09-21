@@ -1,5 +1,7 @@
 # Douluo Dalu: Haishen Zhi Guang
 
+![douluo-dalu-haishen-zhi-guang](https://cdn.myanimelist.net/images/anime/1350/113891.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 海神之光

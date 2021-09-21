@@ -1,5 +1,7 @@
 # Madang-eul Naon Amtalg
 
+![madang-eul-naon-amtalg](https://cdn.myanimelist.net/images/anime/1640/90459.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 마당을 나온 암탉

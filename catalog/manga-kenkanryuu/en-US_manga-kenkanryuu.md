@@ -1,5 +1,7 @@
 # Manga Kenkanryuu
 
+![manga-kenkanryuu](https://cdn.myanimelist.net/images/manga/1/200564.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: マンガ 嫌韓流

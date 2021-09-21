@@ -1,5 +1,7 @@
 # Mahou Shoujo no Kareinaru Yosei
 
+![mahou-shoujo-no-kareinaru-yosei](https://cdn.myanimelist.net/images/manga/2/215883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

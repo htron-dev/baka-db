@@ -1,5 +1,7 @@
 # Maou ga Yachin wo Haratte Kurenai
 
+![maou-ga-yachin-wo-haratte-kurenai](https://cdn.myanimelist.net/images/manga/2/158599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 魔王が家賃を払ってくれない

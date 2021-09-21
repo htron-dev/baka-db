@@ -1,5 +1,7 @@
 # Kokoro ga Sakebitagatterunda.
 
+![kokoro-ga-sakebitagatterunda](https://cdn.myanimelist.net/images/anime/1245/112628.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 心が叫びたがってるんだ。

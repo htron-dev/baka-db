@@ -1,5 +1,7 @@
 # Lost In London
 
+![lost-in-london](https://cdn.myanimelist.net/images/manga/3/77821.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 37
 -   **original-name**: 로스트 인 런던

@@ -1,5 +1,7 @@
 # Moroha no Vessel
 
+![moroha-no-vessel](https://cdn.myanimelist.net/images/manga/3/161626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

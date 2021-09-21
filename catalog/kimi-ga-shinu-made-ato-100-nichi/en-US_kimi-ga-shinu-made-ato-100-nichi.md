@@ -1,5 +1,7 @@
 # Kimi ga Shinu made Ato 100-nichi
 
+![kimi-ga-shinu-made-ato-100-nichi](https://cdn.myanimelist.net/images/manga/1/227273.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

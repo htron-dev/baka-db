@@ -1,5 +1,7 @@
 # code:
 
+![code](https://cdn.myanimelist.net/images/manga/2/224427.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: code:

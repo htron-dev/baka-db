@@ -1,5 +1,7 @@
 # Heroine na Imouto, Akuyaku Reijou na Watashi
 
+![heroine-na-imouto-akuyaku-reijou-na-watashi](https://cdn.myanimelist.net/images/manga/1/238494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 46

@@ -1,5 +1,7 @@
 # Mutant Turtles: Choujin Densetsu-hen
 
+![mutant-turtles-choujin-densetsu-hen](https://cdn.myanimelist.net/images/anime/12/44255.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ミュータント タートルズ 超人伝説編

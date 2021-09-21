@@ -1,5 +1,7 @@
 # Gakkyuu x Hierarchy
 
+![gakkyuu-x-hierarchy](https://cdn.myanimelist.net/images/manga/3/46393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 学級 × ヒエラルキー

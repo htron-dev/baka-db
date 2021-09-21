@@ -1,5 +1,7 @@
 # Kamigoroshi no Eiyuu to Ermenhilde
 
+![kamigoroshi-no-eiyuu-to-ermenhilde](https://cdn.myanimelist.net/images/manga/1/163818.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 55

@@ -1,5 +1,7 @@
 # Maou no Hajimekata the Comic
 
+![maou-no-hajimekata-the-comic](https://cdn.myanimelist.net/images/manga/3/187041.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の始め方 THE COMIC
 -   **start-date**: 2015-02-27

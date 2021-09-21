@@ -1,5 +1,7 @@
 # Skull Man
 
+![skull-man](https://cdn.myanimelist.net/images/manga/1/171446.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 50

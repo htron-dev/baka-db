@@ -1,5 +1,7 @@
 # Harapeko na Joushi no I wo Tsukamu Houhou: Sasen-saki wa Kyuutei Majutsushi no Senzoku Chef
 
+![harapeko-na-joushi-no-i-wo-tsukamu-houhou-sasen-saki-wa-kyuutei-majutsushi-no-senzoku-chef](https://cdn.myanimelist.net/images/manga/2/234771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

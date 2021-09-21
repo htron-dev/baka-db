@@ -1,5 +1,7 @@
 # Danshou no Grimm
 
+![danshou-no-grimm](https://cdn.myanimelist.net/images/manga/2/128643.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 17
 -   **chapters**: 133

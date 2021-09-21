@@ -1,5 +1,7 @@
 # Kidou Senshi Zeta Gundam
 
+![kidou-senshi-zeta-gundam](https://cdn.myanimelist.net/images/manga/3/148097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 機動戦士Ｚ〈ゼータ〉ガンダム

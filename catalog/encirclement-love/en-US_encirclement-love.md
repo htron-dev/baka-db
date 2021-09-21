@@ -1,5 +1,7 @@
 # Encirclement Love
 
+![encirclement-love](https://cdn.myanimelist.net/images/manga/2/226318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

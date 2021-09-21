@@ -1,5 +1,7 @@
 # Lust Geass
 
+![lust-geass](https://cdn.myanimelist.net/images/manga/2/213306.jpg)
+
 -   **type**: manga
 -   **original-name**: ラストギアス
 -   **start-date**: 2018-04-04

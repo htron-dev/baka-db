@@ -1,5 +1,7 @@
 # Fuun Sanshimai Lin³
 
+![fuun-sanshimai-lin](https://cdn.myanimelist.net/images/manga/1/180629.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

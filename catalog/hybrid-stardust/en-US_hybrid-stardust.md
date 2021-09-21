@@ -1,5 +1,7 @@
 # Hybrid Stardust
 
+![hybrid-stardust](https://cdn.myanimelist.net/images/manga/1/101689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

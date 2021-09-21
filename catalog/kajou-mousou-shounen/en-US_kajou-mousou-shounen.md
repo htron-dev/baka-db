@@ -1,5 +1,7 @@
 # Kajou Mousou Shounen
 
+![kajou-mousou-shounen](https://cdn.myanimelist.net/images/manga/2/193829.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

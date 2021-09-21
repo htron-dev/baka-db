@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Ground Zero - Colony no Ochita Chi de
 
+![kidou-senshi-gundam-ground-zero-colony-no-ochita-chi-de](https://cdn.myanimelist.net/images/manga/3/208225.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム GROUND ZERO コロニーの落ちた地で
 -   **start-date**: 2017-05-26

@@ -1,5 +1,7 @@
 # Godzilla: S.P
 
+![godzilla-s-p](https://cdn.myanimelist.net/images/anime/1447/114837.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ゴジラ S.P ＜シンギュラポイント＞

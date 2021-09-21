@@ -1,5 +1,7 @@
 # Gakuen♡Tengoku: Sore wa Koi desu Koizumi-kun
 
+![gakuen♡-tengoku-sore-wa-koi-desu-koizumi-kun](https://cdn.myanimelist.net/images/manga/2/246870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

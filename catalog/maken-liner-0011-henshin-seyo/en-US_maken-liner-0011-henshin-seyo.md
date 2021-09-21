@@ -1,5 +1,7 @@
 # Maken Liner 0011 Henshin Seyo!
 
+![maken-liner-0011-henshin-seyo](https://cdn.myanimelist.net/images/anime/9/31287.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔犬ライナー００１１変身せよ

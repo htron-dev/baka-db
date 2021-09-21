@@ -1,5 +1,7 @@
 # Kamisama ni Narimashite, Series
 
+![kamisama-ni-narimashite-series](https://cdn.myanimelist.net/images/manga/3/172376.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

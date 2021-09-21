@@ -1,5 +1,7 @@
 # Hitomi no Photograph
 
+![hitomi-no-photograph](https://cdn.myanimelist.net/images/manga/3/36109.jpg)
+
 -   **type**: manga
 -   **original-name**: 瞳のフォトグラフ
 -   **start-date**: 2008-09-03

@@ -1,5 +1,7 @@
 # Juuni-banme no Tenshi
 
+![juuni-banme-no-tenshi](https://cdn.myanimelist.net/images/manga/2/158222.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

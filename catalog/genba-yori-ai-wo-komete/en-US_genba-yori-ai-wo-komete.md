@@ -1,5 +1,7 @@
 # Genba yori Ai wo Komete
 
+![genba-yori-ai-wo-komete](https://cdn.myanimelist.net/images/manga/2/32145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

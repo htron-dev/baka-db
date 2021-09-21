@@ -1,5 +1,7 @@
 # Ikkyuu-san: Haru Da! Yancha Hime
 
+![ikkyuu-san-haru-da-yancha-hime](https://cdn.myanimelist.net/images/anime/8/56673.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一休さん 春だ!やんちゃ姫

@@ -1,5 +1,7 @@
 # Kaname-ke
 
+![kaname-ke](https://cdn.myanimelist.net/images/manga/3/157043.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: かなめけ

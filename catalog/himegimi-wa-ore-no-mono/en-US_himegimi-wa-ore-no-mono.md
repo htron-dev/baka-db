@@ -1,5 +1,7 @@
 # Himegimi wa Ore no Mono
 
+![himegimi-wa-ore-no-mono](https://cdn.myanimelist.net/images/manga/2/2149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

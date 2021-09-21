@@ -1,5 +1,7 @@
 # Higashi no Kurume to Tonari no Meguru
 
+![higashi-no-kurume-to-tonari-no-meguru](https://cdn.myanimelist.net/images/manga/1/188800.jpg)
+
 -   **type**: manga
 -   **chapters**: 26
 -   **original-name**: 東のくるめと隣のめぐる

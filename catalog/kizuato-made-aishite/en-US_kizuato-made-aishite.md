@@ -1,5 +1,7 @@
 # Kizuato Made Aishite
 
+![kizuato-made-aishite](https://cdn.myanimelist.net/images/manga/1/44325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

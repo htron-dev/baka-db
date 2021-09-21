@@ -1,5 +1,7 @@
 # Heong-geuli Beseuteu 5
 
+![heong-geuli-beseuteu-5](https://cdn.myanimelist.net/images/anime/7/44654.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 헝그리 베스트5

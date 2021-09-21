@@ -1,5 +1,7 @@
 # Karen Hyakkei
 
+![karen-hyakkei](https://cdn.myanimelist.net/images/manga/3/175414.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Hana ni Somu
 
+![hana-ni-somu](https://cdn.myanimelist.net/images/manga/3/192071.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 52

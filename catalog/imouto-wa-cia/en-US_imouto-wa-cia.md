@@ -1,5 +1,7 @@
 # Imouto wa CIA
 
+![imouto-wa-cia](https://cdn.myanimelist.net/images/manga/1/235493.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

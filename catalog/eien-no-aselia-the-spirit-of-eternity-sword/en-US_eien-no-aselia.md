@@ -1,5 +1,7 @@
 # Eien no Aselia
 
+![eien-no-aselia](https://cdn.myanimelist.net/images/anime/1405/112180.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 永遠のアセリア

@@ -1,5 +1,7 @@
 # Koitsura 100% Densetsu
 
+![koitsura-100-densetsu](https://cdn.myanimelist.net/images/manga/3/230828.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

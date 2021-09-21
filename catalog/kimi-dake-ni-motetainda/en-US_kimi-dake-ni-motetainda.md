@@ -1,5 +1,7 @@
 # Kimi dake ni Motetainda.
 
+![kimi-dake-ni-motetainda](https://cdn.myanimelist.net/images/anime/1454/102840.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キミだけにモテたいんだ。

@@ -1,5 +1,7 @@
 # My Gardener
 
+![my-gardener](https://cdn.myanimelist.net/images/manga/1/42430.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Lolling Seutajeu
 
+![lolling-seutajeu](https://cdn.myanimelist.net/images/anime/2/45851.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 롤링 스타즈

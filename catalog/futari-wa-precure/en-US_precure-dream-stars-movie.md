@@ -1,5 +1,7 @@
 # Precure Dream Stars! Movie
 
+![precure-dream-stars-movie](https://cdn.myanimelist.net/images/anime/4/86596.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアドリームスターズ!

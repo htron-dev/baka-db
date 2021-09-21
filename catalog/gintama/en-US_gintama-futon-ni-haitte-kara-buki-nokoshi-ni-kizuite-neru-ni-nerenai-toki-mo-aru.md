@@ -1,5 +1,7 @@
 # Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru
 
+![gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru](https://cdn.myanimelist.net/images/anime/1327/110925.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀魂 〜布団に入ってから拭き残しに気付いて寝るに寝れない時もある〜

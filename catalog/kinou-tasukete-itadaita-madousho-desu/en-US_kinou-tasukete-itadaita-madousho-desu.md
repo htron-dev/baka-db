@@ -1,5 +1,7 @@
 # Kinou, Tasukete Itadaita Madousho desu
 
+![kinou-tasukete-itadaita-madousho-desu](https://cdn.myanimelist.net/images/manga/2/244002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

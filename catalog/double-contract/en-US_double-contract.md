@@ -1,5 +1,7 @@
 # Double Contract
 
+![double-contract](https://cdn.myanimelist.net/images/manga/2/165520.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 66

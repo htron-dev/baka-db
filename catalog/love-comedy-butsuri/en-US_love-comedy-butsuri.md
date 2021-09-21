@@ -1,5 +1,7 @@
 # Love Comedy (Butsuri)
 
+![love-comedy-butsuri](https://cdn.myanimelist.net/images/manga/2/217083.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

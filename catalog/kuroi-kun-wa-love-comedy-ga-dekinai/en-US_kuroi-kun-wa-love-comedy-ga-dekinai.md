@@ -1,5 +1,7 @@
 # Kuroi-kun wa Love Comedy ga Dekinai.
 
+![kuroi-kun-wa-love-comedy-ga-dekinai](https://cdn.myanimelist.net/images/manga/1/139715.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

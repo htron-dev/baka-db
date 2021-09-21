@@ -1,5 +1,7 @@
 # Kanpeki na Kanojo
 
+![kanpeki-na-kanojo](https://cdn.myanimelist.net/images/manga/1/35000.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

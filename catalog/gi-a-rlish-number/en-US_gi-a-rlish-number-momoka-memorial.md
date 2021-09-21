@@ -1,5 +1,7 @@
 # Gi(a)rlish Number: Momoka Memorial
 
+![gi-a-rlish-number-momoka-memorial](https://cdn.myanimelist.net/images/manga/2/186221.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

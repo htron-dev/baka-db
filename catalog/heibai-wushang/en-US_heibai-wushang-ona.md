@@ -1,5 +1,7 @@
 # Heibai Wushang
 
+![heibai-wushang](https://cdn.myanimelist.net/images/anime/9/88093.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 黑白无双

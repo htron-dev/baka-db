@@ -1,5 +1,7 @@
 # Shin Mazinger Zero vs Ankoku Daishougun
 
+![shin-mazinger-zero-vs-ankoku-daishougun](https://cdn.myanimelist.net/images/manga/3/167756.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

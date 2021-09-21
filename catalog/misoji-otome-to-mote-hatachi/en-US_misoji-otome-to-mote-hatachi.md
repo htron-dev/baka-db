@@ -1,5 +1,7 @@
 # Misoji Otome to Mote Hatachi
 
+![misoji-otome-to-mote-hatachi](https://cdn.myanimelist.net/images/manga/1/161943.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

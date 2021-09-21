@@ -1,12 +1,14 @@
 # Kindaichi Shounen no Jikenbo
 
+![kindaichi-shounen-no-jikenbo](https://cdn.myanimelist.net/images/anime/10/3741.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 148
 -   **original-name**: 金田一少年の事件簿
 -   **start-date**: 1997-04-07
 -   **end-date**: 1997-04-07
 -   **opening-song**: #1: "Confused Memories" by Yuko Tsuburaya (eps 1-23)
--   **ending-song**: #01: "2人 (Futari)" by Rie Tomosaka (eps 1-17)
+-   **ending-song**: #01: "2 人 (Futari)" by Rie Tomosaka (eps 1-17)
 -   **rating**: R - 17+ (violence & profanity)
 
 ## Tags

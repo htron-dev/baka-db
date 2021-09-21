@@ -1,5 +1,7 @@
 # Kiss My Ass
 
+![kiss-my-ass](https://cdn.myanimelist.net/images/manga/2/185982.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

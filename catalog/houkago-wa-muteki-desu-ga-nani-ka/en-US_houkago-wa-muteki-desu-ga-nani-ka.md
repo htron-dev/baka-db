@@ -1,5 +1,7 @@
 # Houkago wa Muteki desu ga, Nani ka?
 
+![houkago-wa-muteki-desu-ga-nani-ka](https://cdn.myanimelist.net/images/manga/1/162844.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 23

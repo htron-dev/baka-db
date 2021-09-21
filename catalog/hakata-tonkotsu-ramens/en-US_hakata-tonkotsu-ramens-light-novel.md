@@ -1,5 +1,7 @@
 # Hakata Tonkotsu Ramens
 
+![hakata-tonkotsu-ramens](https://cdn.myanimelist.net/images/manga/3/231557.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 博多豚骨ラーメンズ
 -   **start-date**: 2014-02-25

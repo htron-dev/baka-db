@@ -1,5 +1,7 @@
 # Hokenshitsu no Shinigami
 
+![hokenshitsu-no-shinigami](https://cdn.myanimelist.net/images/manga/3/178944.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 87

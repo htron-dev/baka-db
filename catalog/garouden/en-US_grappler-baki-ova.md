@@ -1,5 +1,7 @@
 # Grappler Baki
 
+![grappler-baki](https://cdn.myanimelist.net/images/anime/2/83803.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グラップラー刃牙

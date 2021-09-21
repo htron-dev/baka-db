@@ -1,5 +1,7 @@
 # Magical★Taruruuto-kun
 
+![magical★-taruruuto-kun](https://cdn.myanimelist.net/images/anime/13/17853.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 87
 -   **original-name**: まじかる ☆ タルるートくん

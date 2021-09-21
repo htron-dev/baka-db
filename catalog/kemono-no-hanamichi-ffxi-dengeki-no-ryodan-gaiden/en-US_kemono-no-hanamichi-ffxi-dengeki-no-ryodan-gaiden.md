@@ -1,5 +1,7 @@
 # Kemono no Hanamichi: FFXI - Dengeki no Ryodan Gaiden
 
+![kemono-no-hanamichi-ffxi-dengeki-no-ryodan-gaiden](https://cdn.myanimelist.net/images/manga/3/116251.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 獣の花道 FFXI・電撃の旅団外伝

@@ -1,5 +1,7 @@
 # Dear Boy
 
+![dear-boy](https://cdn.myanimelist.net/images/manga/3/177565.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 75
 -   **original-name**: 소년이여

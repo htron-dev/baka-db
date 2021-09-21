@@ -1,5 +1,7 @@
 # Nanami Minami wa Kagayakitai
 
+![nanami-minami-wa-kagayakitai](https://cdn.myanimelist.net/images/manga/1/238476.jpg)
+
 -   **type**: manga
 -   **original-name**: 七海みなみは輝きたい
 -   **start-date**: 2020-07-18

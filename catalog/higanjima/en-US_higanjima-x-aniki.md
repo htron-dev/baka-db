@@ -1,5 +1,7 @@
 # Higanjima X: Aniki
 
+![higanjima-x-aniki](https://cdn.myanimelist.net/images/anime/6/88803.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 彼岸島Ｘ「兄貴」

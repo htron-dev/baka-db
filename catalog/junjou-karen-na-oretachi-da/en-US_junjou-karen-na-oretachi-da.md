@@ -1,5 +1,7 @@
 # Junjou Karen na Oretachi da!
 
+![junjou-karen-na-oretachi-da](https://cdn.myanimelist.net/images/manga/3/23825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

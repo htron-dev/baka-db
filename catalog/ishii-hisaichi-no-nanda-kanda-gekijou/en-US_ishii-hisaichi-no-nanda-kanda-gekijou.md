@@ -1,5 +1,7 @@
 # Ishii Hisaichi no Nanda Kanda Gekijou
 
+![ishii-hisaichi-no-nanda-kanda-gekijou](https://cdn.myanimelist.net/images/anime/8/67883.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: いしいひさいちのナンダカンダ劇場

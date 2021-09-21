@@ -1,5 +1,7 @@
 # Kyuuma!
 
+![kyuuma](https://cdn.myanimelist.net/images/manga/1/15187.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

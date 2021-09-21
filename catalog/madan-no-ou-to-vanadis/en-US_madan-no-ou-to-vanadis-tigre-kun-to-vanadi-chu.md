@@ -1,5 +1,7 @@
 # Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu
 
+![madan-no-ou-to-vanadis-tigre-kun-to-vanadi-chu](https://cdn.myanimelist.net/images/anime/11/67479.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ティグルくんとヴァナディーちゅ

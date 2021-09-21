@@ -1,5 +1,7 @@
 # Ginen Shounen
 
+![ginen-shounen](https://cdn.myanimelist.net/images/manga/3/29280.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

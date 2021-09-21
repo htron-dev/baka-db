@@ -1,5 +1,7 @@
 # Kaitou Royale: Rozalta no Hihou wo Oe!!
 
+![kaitou-royale-rozalta-no-hihou-wo-oe](https://cdn.myanimelist.net/images/manga/2/45481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

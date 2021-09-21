@@ -1,5 +1,7 @@
 # Tetsu no Don Quixote
 
+![tetsu-no-don-quixote](https://cdn.myanimelist.net/images/manga/1/187154.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

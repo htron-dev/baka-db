@@ -1,5 +1,7 @@
 # Lion Coeur Senki
 
+![lion-coeur-senki](https://cdn.myanimelist.net/images/manga/1/234812.jpg)
+
 -   **type**: manga
 -   **original-name**: リオンクール戦記
 -   **start-date**: 2019-09-06

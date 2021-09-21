@@ -1,5 +1,7 @@
 # La Vilaine LuLu
 
+![la-vilaine-lu-lu](https://cdn.myanimelist.net/images/anime/6/14685.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: おてんばルル

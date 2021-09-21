@@ -1,5 +1,7 @@
 # Honey Voice de Sasayaite
 
+![honey-voice-de-sasayaite](https://cdn.myanimelist.net/images/manga/2/10426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハニーヴォイスでささやいて

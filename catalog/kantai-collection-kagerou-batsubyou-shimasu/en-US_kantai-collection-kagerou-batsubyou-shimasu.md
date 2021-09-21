@@ -1,5 +1,7 @@
 # Kantai Collection: Kagerou, Batsubyou shimasu!
 
+![kantai-collection-kagerou-batsubyou-shimasu](https://cdn.myanimelist.net/images/manga/2/115101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 39

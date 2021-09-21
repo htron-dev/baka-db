@@ -1,5 +1,7 @@
 # Hanayome no Kinjirareta Jounetsu
 
+![hanayome-no-kinjirareta-jounetsu](https://cdn.myanimelist.net/images/manga/2/127289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花嫁の禁じられた情熱

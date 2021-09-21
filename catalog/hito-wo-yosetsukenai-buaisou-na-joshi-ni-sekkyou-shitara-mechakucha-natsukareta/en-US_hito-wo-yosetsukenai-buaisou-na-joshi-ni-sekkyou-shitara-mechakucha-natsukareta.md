@@ -1,5 +1,7 @@
 # Hito wo Yosetsukenai Buaisou na Joshi ni Sekkyou shitara, Mechakucha Natsukareta
 
+![hito-wo-yosetsukenai-buaisou-na-joshi-ni-sekkyou-shitara-mechakucha-natsukareta](https://cdn.myanimelist.net/images/manga/1/246748.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 他人〈ひと〉を寄せつけない無愛想な女子に説教したら、めちゃくちゃ懐かれた
 -   **start-date**: 2021-03-31

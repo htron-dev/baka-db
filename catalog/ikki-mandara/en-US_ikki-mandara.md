@@ -1,5 +1,7 @@
 # Ikki Mandara
 
+![ikki-mandara](https://cdn.myanimelist.net/images/manga/4/191338.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

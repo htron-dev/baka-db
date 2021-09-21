@@ -1,5 +1,7 @@
 # I Will Be Cinderella
 
+![i-will-be-cinderella](https://cdn.myanimelist.net/images/manga/2/29656.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 20
 

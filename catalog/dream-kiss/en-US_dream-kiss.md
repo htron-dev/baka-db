@@ -1,5 +1,7 @@
 # Dream Kiss
 
+![dream-kiss](https://cdn.myanimelist.net/images/manga/2/171467.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

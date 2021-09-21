@@ -1,5 +1,7 @@
 # Donmai Princess
 
+![donmai-princess](https://cdn.myanimelist.net/images/manga/2/11998.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: どんまいプリンセス

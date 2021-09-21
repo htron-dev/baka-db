@@ -1,5 +1,7 @@
 # Libero Revolution!!
 
+![libero-revolution](https://cdn.myanimelist.net/images/manga/3/227752.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 112

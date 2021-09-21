@@ -1,5 +1,7 @@
 # Hantsu x Trash
 
+![hantsu-x-trash](https://cdn.myanimelist.net/images/manga/2/188793.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 199

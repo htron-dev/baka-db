@@ -1,5 +1,7 @@
 # Don Chuck Monogatari
 
+![don-chuck-monogatari](https://cdn.myanimelist.net/images/anime/9/60421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ドンチャック物語

@@ -1,5 +1,7 @@
 # Heart no Diamond
 
+![heart-no-diamond](https://cdn.myanimelist.net/images/manga/2/88833.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

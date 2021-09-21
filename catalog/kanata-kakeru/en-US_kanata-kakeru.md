@@ -1,5 +1,7 @@
 # Kanata Kakeru
 
+![kanata-kakeru](https://cdn.myanimelist.net/images/manga/1/180209.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 102

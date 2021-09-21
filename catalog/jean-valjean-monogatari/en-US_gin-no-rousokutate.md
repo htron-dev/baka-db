@@ -1,5 +1,7 @@
 # Gin no Rousokutate
 
+![gin-no-rousokutate](https://cdn.myanimelist.net/images/anime/3/66221.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 銀のろうそく立て

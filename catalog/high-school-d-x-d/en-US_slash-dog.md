@@ -1,5 +1,7 @@
 # Slash/Dog
 
+![slash-dog](https://cdn.myanimelist.net/images/manga/3/203326.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

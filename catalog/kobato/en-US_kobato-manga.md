@@ -1,5 +1,7 @@
 # Kobato.
 
+![kobato](https://cdn.myanimelist.net/images/manga/2/154345.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 40

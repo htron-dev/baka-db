@@ -1,5 +1,7 @@
 # Makai ni Shoukan Yobarete Kateikyoushi!?
 
+![makai-ni-shoukan-yobarete-kateikyoushi](https://cdn.myanimelist.net/images/manga/1/158428.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔界に召喚〈よば〉れて家庭教師!?

@@ -1,5 +1,7 @@
 # Hi no Hitsugi
 
+![hi-no-hitsugi](https://cdn.myanimelist.net/images/manga/2/85939.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Fushigi Mahou Fun Fun Pharmacy
 
+![fushigi-mahou-fun-fun-pharmacy](https://cdn.myanimelist.net/images/anime/3/49799.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: ふしぎ魔法 ファンファン・ファーマシィー

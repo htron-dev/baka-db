@@ -1,5 +1,7 @@
 # Jankenman
 
+![jankenman](https://cdn.myanimelist.net/images/anime/2/17801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ジャンケンマン

@@ -1,5 +1,7 @@
 # Dengeki Oshioki Musume Gootaman R: Ai to Kanashimi no Final Battle
 
+![dengeki-oshioki-musume-gootaman-r-ai-to-kanashimi-no-final-battle](https://cdn.myanimelist.net/images/anime/9/11492.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 臀撃おしおき娘ゴータマンＲ（リターン）～愛と悲しみのファイナルバトル

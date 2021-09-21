@@ -1,5 +1,7 @@
 # Koi no Kokoro ni Kuroi Hane
 
+![koi-no-kokoro-ni-kuroi-hane](https://cdn.myanimelist.net/images/manga/5/30081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

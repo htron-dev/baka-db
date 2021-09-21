@@ -1,5 +1,7 @@
 # Medaka no Gakkou
 
+![medaka-no-gakkou](https://cdn.myanimelist.net/images/anime/12/26327.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: めだかの学校

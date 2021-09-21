@@ -1,5 +1,7 @@
 # JK Musou: Owaru Sekai no Sukuikata
 
+![jk-musou-owaru-sekai-no-sukuikata](https://cdn.myanimelist.net/images/manga/1/245063.jpg)
+
 -   **type**: manga
 -   **original-name**: JK 無双 終わる世界の救い方
 -   **start-date**: 2019-12-26

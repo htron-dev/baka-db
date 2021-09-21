@@ -1,5 +1,7 @@
 # Ero◆Lover
 
+![ero◆-lover](https://cdn.myanimelist.net/images/anime/1187/99876.jpg)
+
 -   **type**: ona
 -   **original-name**: エロ ◆ ラバ
 -   **start-date**: 2019-03-22

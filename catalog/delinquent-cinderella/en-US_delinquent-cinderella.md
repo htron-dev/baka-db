@@ -1,5 +1,7 @@
 # Delinquent Cinderella
 
+![delinquent-cinderella](https://cdn.myanimelist.net/images/manga/1/39686.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 불량 신데렐라

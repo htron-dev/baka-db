@@ -1,5 +1,7 @@
 # Innocent World
 
+![innocent-world](https://cdn.myanimelist.net/images/manga/1/23929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

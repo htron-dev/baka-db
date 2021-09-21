@@ -1,5 +1,7 @@
 # Dakedo Happy Paradise
 
+![dakedo-happy-paradise](https://cdn.myanimelist.net/images/manga/1/20748.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

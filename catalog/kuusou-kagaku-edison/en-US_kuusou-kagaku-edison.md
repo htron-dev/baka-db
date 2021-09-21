@@ -1,5 +1,7 @@
 # Kuusou Kagaku Edison
 
+![kuusou-kagaku-edison](https://cdn.myanimelist.net/images/manga/3/29561.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

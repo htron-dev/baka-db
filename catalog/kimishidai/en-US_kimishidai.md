@@ -1,5 +1,7 @@
 # Kimishidai
 
+![kimishidai](https://cdn.myanimelist.net/images/manga/2/155756.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hengen Taima Yakou Karura Mau! Nara Onryou Emaki
 
+![hengen-taima-yakou-karura-mau-nara-onryou-emaki](https://cdn.myanimelist.net/images/anime/6/38475.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 変幻退魔夜行 カルラ舞う！ 奈良怨霊絵巻

@@ -1,5 +1,7 @@
 # Haitoku no Marraige: Oujo wa Shihaisha no Yubisaki ni Oboreru
 
+![haitoku-no-marraige-oujo-wa-shihaisha-no-yubisaki-ni-oboreru](https://cdn.myanimelist.net/images/manga/3/191939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mazinger Z tai Devilman
 
+![mazinger-z-tai-devilman](https://cdn.myanimelist.net/images/anime/13/6985.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マジンガーＺ対デビルマン

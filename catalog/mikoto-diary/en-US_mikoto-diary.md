@@ -1,5 +1,7 @@
 # Mikoto Diary
 
+![mikoto-diary](https://cdn.myanimelist.net/images/manga/2/133559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Diamond no Jouken
 
+![diamond-no-jouken](https://cdn.myanimelist.net/images/manga/3/14600.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

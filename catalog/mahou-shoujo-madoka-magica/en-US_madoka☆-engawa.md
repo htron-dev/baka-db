@@ -1,5 +1,7 @@
 # Madoka☆Engawa
 
+![madoka☆-engawa](https://cdn.myanimelist.net/images/manga/1/235046.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: まどか ☆ えんがわ

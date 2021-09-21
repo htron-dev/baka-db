@@ -1,5 +1,7 @@
 # Jinja no Mori no Noraneko-kun
 
+![jinja-no-mori-no-noraneko-kun](https://cdn.myanimelist.net/images/manga/3/201077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

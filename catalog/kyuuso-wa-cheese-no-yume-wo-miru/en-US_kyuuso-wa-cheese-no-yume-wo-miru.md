@@ -1,5 +1,7 @@
 # Kyuuso wa Cheese no Yume wo Miru
 
+![kyuuso-wa-cheese-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/3/20855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

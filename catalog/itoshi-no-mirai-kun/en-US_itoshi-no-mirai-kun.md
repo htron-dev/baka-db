@@ -1,5 +1,7 @@
 # Itoshi no Mirai-kun
 
+![itoshi-no-mirai-kun](https://cdn.myanimelist.net/images/manga/1/119039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

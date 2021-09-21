@@ -1,5 +1,7 @@
 # Kingdom Hearts II Short Stories
 
+![kingdom-hearts-ii-short-stories](https://cdn.myanimelist.net/images/manga/1/158380.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

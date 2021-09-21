@@ -1,5 +1,7 @@
 # Imawa no Michi no Alice
 
+![imawa-no-michi-no-alice](https://cdn.myanimelist.net/images/manga/2/173026.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 31

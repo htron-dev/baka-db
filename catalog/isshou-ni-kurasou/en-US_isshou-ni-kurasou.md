@@ -1,5 +1,7 @@
 # Isshou ni Kurasou
 
+![isshou-ni-kurasou](https://cdn.myanimelist.net/images/manga/1/20593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Mahou Shoujo wa Mou Inai
 
+![mahou-shoujo-wa-mou-inai](https://cdn.myanimelist.net/images/manga/2/174643.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女はもういない
 -   **start-date**: 2015-11-21

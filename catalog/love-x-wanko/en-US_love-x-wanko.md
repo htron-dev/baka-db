@@ -1,5 +1,7 @@
 # Love x Wanko
 
+![love-x-wanko](https://cdn.myanimelist.net/images/manga/3/166414.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 愛 × 野獣（らぶわんこ）

@@ -1,5 +1,7 @@
 # Macross: My Fair Minmay ~ Dreaming Prelude
 
+![macross-my-fair-minmay-dreaming-prelude](https://cdn.myanimelist.net/images/manga/1/24639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Keiyaku Kekkon: Oresama Shachou no Amai Wana
 
+![keiyaku-kekkon-oresama-shachou-no-amai-wana](https://cdn.myanimelist.net/images/manga/1/194216.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

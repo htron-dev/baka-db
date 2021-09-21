@@ -1,5 +1,7 @@
 # Macademi Wasshoi!
 
+![macademi-wasshoi](https://cdn.myanimelist.net/images/anime/10/74031.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まかでみ WA っしょい！

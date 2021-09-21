@@ -1,5 +1,7 @@
 # Kirari Books Meisouchuu!
 
+![kirari-books-meisouchuu](https://cdn.myanimelist.net/images/manga/1/244623.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: きらりブックス迷走中！

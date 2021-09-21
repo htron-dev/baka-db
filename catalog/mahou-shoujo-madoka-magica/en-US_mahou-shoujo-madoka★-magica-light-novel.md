@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica
 
+![mahou-shoujo-madoka★-magica](https://cdn.myanimelist.net/images/manga/1/44827.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

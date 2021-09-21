@@ -1,5 +1,7 @@
 # Kemono Friends: Comic à la Carte - Japari Park-hen
 
+![kemono-friends-comic-a-la-carte-japari-park-hen](https://cdn.myanimelist.net/images/manga/3/227963.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 62

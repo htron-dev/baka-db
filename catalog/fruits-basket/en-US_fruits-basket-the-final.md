@@ -1,5 +1,7 @@
 # Fruits Basket: The Final
 
+![fruits-basket-the-final](https://cdn.myanimelist.net/images/anime/1085/114792.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フルーツバスケット The Final

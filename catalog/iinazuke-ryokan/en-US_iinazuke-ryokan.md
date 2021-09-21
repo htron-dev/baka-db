@@ -1,5 +1,7 @@
 # Iinazuke Ryokan
 
+![iinazuke-ryokan](https://cdn.myanimelist.net/images/manga/3/4641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

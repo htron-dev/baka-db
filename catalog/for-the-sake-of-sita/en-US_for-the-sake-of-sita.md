@@ -1,5 +1,7 @@
 # For the Sake of Sita
 
+![for-the-sake-of-sita](https://cdn.myanimelist.net/images/manga/1/174110.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 14

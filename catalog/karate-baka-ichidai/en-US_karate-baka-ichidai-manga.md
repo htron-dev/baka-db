@@ -1,5 +1,7 @@
 # Karate Baka Ichidai
 
+![karate-baka-ichidai](https://cdn.myanimelist.net/images/manga/1/234992.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: 空手バカ一代

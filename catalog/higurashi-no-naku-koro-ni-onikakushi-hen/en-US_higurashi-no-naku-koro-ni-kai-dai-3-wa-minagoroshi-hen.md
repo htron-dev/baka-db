@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai - Dai 3-wa: Minagoroshi-hen
 
+![higurashi-no-naku-koro-ni-kai-dai-3-wa-minagoroshi-hen](https://cdn.myanimelist.net/images/manga/3/135203.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ひぐらしのなく頃に解 第三話～皆殺し編～

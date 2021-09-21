@@ -1,5 +1,7 @@
 # Hoshifuru Oukoku no Nina
 
+![hoshifuru-oukoku-no-nina](https://cdn.myanimelist.net/images/manga/1/243430.jpg)
+
 -   **type**: manga
 -   **original-name**: 星降る王国のニナ
 -   **start-date**: 2019-10-01

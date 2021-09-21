@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryoutsu no Asakusa Rinyuuaru Daisakusen!! - Aa, Om
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryoutsu-no-asakusa-rinyuuaru-daisakusen-aa-om](https://cdn.myanimelist.net/images/anime/7/81548.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所 両津の浅草リニューアル大作戦!!〜あぁ 思い出の花やしき〜

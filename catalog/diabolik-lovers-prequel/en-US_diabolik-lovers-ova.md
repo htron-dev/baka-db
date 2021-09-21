@@ -1,5 +1,7 @@
 # Diabolik Lovers OVA
 
+![diabolik-lovers-ova](https://cdn.myanimelist.net/images/anime/12/74238.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: DIABOLIK LOVERS OAD

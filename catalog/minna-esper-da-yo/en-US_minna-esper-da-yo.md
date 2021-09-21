@@ -1,5 +1,7 @@
 # Minna! Esper da yo!
 
+![minna-esper-da-yo](https://cdn.myanimelist.net/images/manga/2/162810.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 73

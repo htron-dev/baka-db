@@ -1,5 +1,7 @@
 # Hime-chan no Ribbon
 
+![hime-chan-no-ribbon](https://cdn.myanimelist.net/images/anime/1049/111001.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: 姫ちゃんのリボン

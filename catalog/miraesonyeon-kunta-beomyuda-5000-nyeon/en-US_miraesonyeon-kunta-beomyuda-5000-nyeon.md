@@ -1,5 +1,7 @@
 # Miraesonyeon Kunta Beomyuda 5000 Nyeon
 
+![miraesonyeon-kunta-beomyuda-5000-nyeon](https://cdn.myanimelist.net/images/anime/6/45140.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 미래소년 쿤타 버뮤다 5000년

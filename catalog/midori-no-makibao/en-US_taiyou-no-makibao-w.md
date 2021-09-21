@@ -1,5 +1,7 @@
 # Taiyou no Makibao W
 
+![taiyou-no-makibao-w](https://cdn.myanimelist.net/images/manga/1/192487.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 239

@@ -1,5 +1,7 @@
 # Tanoshii Muumin Ikka
 
+![tanoshii-muumin-ikka](https://cdn.myanimelist.net/images/anime/13/26765.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 楽しいムーミン一家

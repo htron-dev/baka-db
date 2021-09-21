@@ -1,5 +1,7 @@
 # Life no Color
 
+![life-no-color](https://cdn.myanimelist.net/images/anime/2/14118.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LIFE NO COLOR

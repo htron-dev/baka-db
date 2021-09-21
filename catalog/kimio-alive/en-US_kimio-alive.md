@@ -1,5 +1,7 @@
 # Kimio Alive
 
+![kimio-alive](https://cdn.myanimelist.net/images/manga/2/243903.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

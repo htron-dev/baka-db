@@ -1,5 +1,7 @@
 # Junshoku Madara Nikki
 
+![junshoku-madara-nikki](https://cdn.myanimelist.net/images/manga/2/233391.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 潤色まだら日記

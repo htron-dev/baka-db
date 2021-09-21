@@ -1,5 +1,7 @@
 # Love Live! School Idol Diary
 
+![love-live-school-idol-diary](https://cdn.myanimelist.net/images/manga/3/104917.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ラブライブ! School idol diary
 -   **start-date**: 2013-05-30

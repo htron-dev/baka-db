@@ -1,5 +1,7 @@
 # Da Capo: Plus Communication
 
+![da-capo-plus-communication](https://cdn.myanimelist.net/images/manga/3/97573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション

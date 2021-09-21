@@ -1,5 +1,7 @@
 # Gin no Kajitsu
 
+![gin-no-kajitsu](https://cdn.myanimelist.net/images/manga/2/91231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

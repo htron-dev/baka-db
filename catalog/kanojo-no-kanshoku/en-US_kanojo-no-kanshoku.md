@@ -1,5 +1,7 @@
 # Kanojo no Kanshoku
 
+![kanojo-no-kanshoku](https://cdn.myanimelist.net/images/manga/1/157530.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

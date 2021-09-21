@@ -1,5 +1,7 @@
 # Kanojo no Curve
 
+![kanojo-no-curve](https://cdn.myanimelist.net/images/manga/3/237058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Ezuke wa Yahan, Ano Heya de
 
+![ezuke-wa-yahan-ano-heya-de](https://cdn.myanimelist.net/images/manga/2/223670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

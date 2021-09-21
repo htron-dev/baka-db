@@ -1,5 +1,7 @@
 # Megumi to Tsugumi
 
+![megumi-to-tsugumi](https://cdn.myanimelist.net/images/manga/1/221512.jpg)
+
 -   **type**: manga
 -   **original-name**: めぐみとつぐみ
 -   **start-date**: 2017-12-25

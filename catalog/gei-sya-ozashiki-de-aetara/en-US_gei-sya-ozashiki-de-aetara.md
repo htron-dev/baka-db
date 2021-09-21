@@ -1,5 +1,7 @@
 # Gei-Sya: Ozashiki de Aetara
 
+![gei-sya-ozashiki-de-aetara](https://cdn.myanimelist.net/images/manga/2/151348.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

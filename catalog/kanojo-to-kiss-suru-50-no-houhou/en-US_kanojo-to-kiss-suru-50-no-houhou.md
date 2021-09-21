@@ -1,5 +1,7 @@
 # Kanojo to Kiss suru 50 no Houhou
 
+![kanojo-to-kiss-suru-50-no-houhou](https://cdn.myanimelist.net/images/manga/2/36824.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 彼女とキスする 50 の方法

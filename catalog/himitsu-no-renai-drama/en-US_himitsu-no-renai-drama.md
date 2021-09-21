@@ -1,5 +1,7 @@
 # Himitsu no Ren'ai Drama
 
+![himitsu-no-renai-drama](https://cdn.myanimelist.net/images/manga/3/11061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヒミツの恋愛ドラマ

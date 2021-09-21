@@ -1,5 +1,7 @@
 # Mob Psycho 100 II
 
+![mob-psycho-100-ii](https://cdn.myanimelist.net/images/anime/1918/96303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: モブサイコ 100 II

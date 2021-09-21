@@ -1,5 +1,7 @@
 # Doraemon Movie 10: Nobita no Nippon Tanjou
 
+![doraemon-movie-10-nobita-no-nippon-tanjou](https://cdn.myanimelist.net/images/anime/8/72415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の日本誕生

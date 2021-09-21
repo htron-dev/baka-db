@@ -1,5 +1,7 @@
 # Jujutsu Kaisen: Yoake no Ibara Michi
 
+![jujutsu-kaisen-yoake-no-ibara-michi](https://cdn.myanimelist.net/images/manga/2/244857.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

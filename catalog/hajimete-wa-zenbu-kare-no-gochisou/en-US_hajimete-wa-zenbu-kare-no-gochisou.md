@@ -1,5 +1,7 @@
 # Hajimete wa Zenbu Kare no Gochisou
 
+![hajimete-wa-zenbu-kare-no-gochisou](https://cdn.myanimelist.net/images/manga/1/237176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hamidashi Party no Labyrinth Tale
 
+![hamidashi-party-no-labyrinth-tale](https://cdn.myanimelist.net/images/manga/2/164129.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

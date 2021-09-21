@@ -1,5 +1,7 @@
 # Ghost Hunt
 
+![ghost-hunt](https://cdn.myanimelist.net/images/anime/11/73908.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ゴーストハント

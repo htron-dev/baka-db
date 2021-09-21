@@ -1,5 +1,7 @@
 # Hayou no Tsurugi
 
+![hayou-no-tsurugi](https://cdn.myanimelist.net/images/manga/1/128409.jpg)
+
 -   **type**: manga
 -   **original-name**: 破妖の剣
 

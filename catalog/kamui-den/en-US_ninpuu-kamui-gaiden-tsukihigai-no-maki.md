@@ -1,5 +1,7 @@
 # Ninpuu Kamui Gaiden: Tsukihigai no Maki
 
+![ninpuu-kamui-gaiden-tsukihigai-no-maki](https://cdn.myanimelist.net/images/anime/10/74504.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍風カムイ外伝 月日貝の巻

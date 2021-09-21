@@ -1,5 +1,7 @@
 # Kuroneko no Suiyoubi
 
+![kuroneko-no-suiyoubi](https://cdn.myanimelist.net/images/manga/3/111271.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 黒猫の水曜日

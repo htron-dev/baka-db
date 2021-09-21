@@ -1,5 +1,7 @@
 # GR: Giant Robo
 
+![gr-giant-robo](https://cdn.myanimelist.net/images/anime/6/4805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: GR -ジャイアントロボ-

@@ -1,5 +1,7 @@
 # Die Ragnarok
 
+![die-ragnarok](https://cdn.myanimelist.net/images/manga/2/20590.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

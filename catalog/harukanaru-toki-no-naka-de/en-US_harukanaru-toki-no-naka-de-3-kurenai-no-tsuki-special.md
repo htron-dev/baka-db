@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 3: Kurenai no Tsuki Special
 
+![harukanaru-toki-no-naka-de-3-kurenai-no-tsuki-special](https://cdn.myanimelist.net/images/anime/6/7731.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遙かなる時空の中で 3 紅の月 龍神温泉罰ゲームの巻

@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka](https://cdn.myanimelist.net/images/anime/2/70187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか

@@ -1,5 +1,7 @@
 # Kyo
 
+![kyo](https://cdn.myanimelist.net/images/manga/1/21232.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

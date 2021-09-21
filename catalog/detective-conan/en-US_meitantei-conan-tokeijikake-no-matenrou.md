@@ -1,5 +1,7 @@
 # Meitantei Conan: Tokeijikake no Matenrou
 
+![meitantei-conan-tokeijikake-no-matenrou](https://cdn.myanimelist.net/images/manga/2/240536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

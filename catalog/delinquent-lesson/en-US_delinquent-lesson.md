@@ -1,5 +1,7 @@
 # Delinquent Lesson
 
+![delinquent-lesson](https://cdn.myanimelist.net/images/manga/1/168050.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 날라리 수업

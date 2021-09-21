@@ -1,5 +1,7 @@
 # Kaden Manzai John TV Show!
 
+![kaden-manzai-john-tv-show](https://cdn.myanimelist.net/images/anime/6/71684.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 家電漫才 ジョンテレビ SHOW！

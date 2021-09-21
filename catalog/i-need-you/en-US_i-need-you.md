@@ -1,5 +1,7 @@
 # I Need You
 
+![i-need-you](https://cdn.myanimelist.net/images/manga/2/206414.jpg)
+
 -   **type**: manga
 -   **original-name**: あいニー充
 -   **start-date**: 2017-07-27

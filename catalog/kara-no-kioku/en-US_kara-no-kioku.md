@@ -1,5 +1,7 @@
 # Kara no Kioku
 
+![kara-no-kioku](https://cdn.myanimelist.net/images/manga/2/238897.jpg)
+
 -   **type**: manga
 -   **original-name**: 虚の記憶
 -   **start-date**: 2020-04-15

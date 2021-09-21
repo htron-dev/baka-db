@@ -1,5 +1,7 @@
 # Mugen Tenshou: Ryuuki to Kotora to Sengoku Zombie
 
+![mugen-tenshou-ryuuki-to-kotora-to-sengoku-zombie](https://cdn.myanimelist.net/images/manga/3/221671.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

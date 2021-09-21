@@ -1,5 +1,7 @@
 # Lion meets HachiClo
 
+![lion-meets-hachi-clo](https://cdn.myanimelist.net/images/anime/1565/97675.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 「ライオン」meets「ハチクロ」

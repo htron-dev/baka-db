@@ -1,5 +1,7 @@
 # G-senjou no Maou Comic Anthology
 
+![g-senjou-no-maou-comic-anthology](https://cdn.myanimelist.net/images/manga/1/38469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

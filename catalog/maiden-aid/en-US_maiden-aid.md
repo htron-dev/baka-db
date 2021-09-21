@@ -1,5 +1,7 @@
 # Maiden/Aid
 
+![maiden-aid](https://cdn.myanimelist.net/images/manga/3/165143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

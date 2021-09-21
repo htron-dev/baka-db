@@ -1,5 +1,7 @@
 # Kanojo ga Kare ni Ochiru Wake
 
+![kanojo-ga-kare-ni-ochiru-wake](https://cdn.myanimelist.net/images/manga/3/39722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

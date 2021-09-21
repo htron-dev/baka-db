@@ -1,5 +1,7 @@
 # Majinden
 
+![majinden](https://cdn.myanimelist.net/images/manga/3/240630.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 魔神伝

@@ -1,5 +1,7 @@
 # Gakuyaura: Binbou Himanashi-hen
 
+![gakuyaura-binbou-himanashi-hen](https://cdn.myanimelist.net/images/manga/2/170043.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 68

@@ -1,5 +1,7 @@
 # Kishifuku no Hanayome
 
+![kishifuku-no-hanayome](https://cdn.myanimelist.net/images/manga/1/171355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 騎士服の花嫁

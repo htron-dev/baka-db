@@ -1,5 +1,7 @@
 # Murim Investigation Unit Season 1
 
+![murim-investigation-unit-season-1](https://cdn.myanimelist.net/images/manga/2/205619.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 47

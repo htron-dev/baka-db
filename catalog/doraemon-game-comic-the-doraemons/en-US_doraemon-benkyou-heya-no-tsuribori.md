@@ -1,5 +1,7 @@
 # Doraemon: Benkyou Heya no Tsuribori
 
+![doraemon-benkyou-heya-no-tsuribori](https://cdn.myanimelist.net/images/anime/2/88815.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラえもん 勉強部屋のつりぼり

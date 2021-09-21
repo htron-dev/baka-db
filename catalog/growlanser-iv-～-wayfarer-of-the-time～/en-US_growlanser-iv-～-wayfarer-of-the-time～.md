@@ -1,5 +1,7 @@
 # Growlanser IV ～ Wayfarer of the time ～
 
+![growlanser-iv-～-wayfarer-of-the-time-～](https://cdn.myanimelist.net/images/manga/2/65339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

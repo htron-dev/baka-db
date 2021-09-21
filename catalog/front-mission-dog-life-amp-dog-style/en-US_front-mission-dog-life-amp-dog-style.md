@@ -1,5 +1,7 @@
 # Front Mission: Dog Life &amp; Dog Style
 
+![front-mission-dog-life-amp-dog-style](https://cdn.myanimelist.net/images/manga/3/9610.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 86

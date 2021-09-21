@@ -1,5 +1,7 @@
 # Eregy
 
+![eregy](https://cdn.myanimelist.net/images/manga/3/163853.jpg)
+
 -   **type**: manga
 -   **original-name**: エレ GY
 -   **start-date**: 2012-06-19

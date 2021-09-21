@@ -1,5 +1,7 @@
 # Mentori
 
+![mentori](https://cdn.myanimelist.net/images/anime/4/89642.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: めんトリ

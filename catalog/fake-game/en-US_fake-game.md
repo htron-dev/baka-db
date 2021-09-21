@@ -1,5 +1,7 @@
 # Fake Game
 
+![fake-game](https://cdn.myanimelist.net/images/manga/2/163634.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: フェイクゲーム

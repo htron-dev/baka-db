@@ -1,5 +1,7 @@
 # Mousou Elektel
 
+![mousou-elektel](https://cdn.myanimelist.net/images/manga/1/28328.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

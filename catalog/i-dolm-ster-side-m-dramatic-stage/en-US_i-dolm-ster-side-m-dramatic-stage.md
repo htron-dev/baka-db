@@ -1,5 +1,7 @@
 # iDOLM@STER SideM: Dramatic Stage
 
+![i-dolm-ster-side-m-dramatic-stage](https://cdn.myanimelist.net/images/manga/3/183851.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!
 
+![keroro-gunsou-movie-4-gekishin-dragon-warriors-de-arimasu](https://cdn.myanimelist.net/images/anime/6/84853.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！

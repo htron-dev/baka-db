@@ -1,5 +1,7 @@
 # Mangaka Yashoku Kenkyuujo
 
+![mangaka-yashoku-kenkyuujo](https://cdn.myanimelist.net/images/manga/1/186592.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Mahoro Ekimae Tada Benriken
 
+![mahoro-ekimae-tada-benriken](https://cdn.myanimelist.net/images/manga/1/185162.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

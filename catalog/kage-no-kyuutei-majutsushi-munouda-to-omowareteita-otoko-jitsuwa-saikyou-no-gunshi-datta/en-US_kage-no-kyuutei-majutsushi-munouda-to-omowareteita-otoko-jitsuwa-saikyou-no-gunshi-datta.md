@@ -1,5 +1,7 @@
 # Kage no Kyuutei Majutsushi: Munouda to Omowareteita Otoko, Jitsuwa Saikyou no Gunshi Datta
 
+![kage-no-kyuutei-majutsushi-munouda-to-omowareteita-otoko-jitsuwa-saikyou-no-gunshi-datta](https://cdn.myanimelist.net/images/manga/1/239977.jpg)
+
 -   **type**: manga
 -   **original-name**: 影の宮廷魔術師 ～無能だと思われていた男、実は最強の軍師だった～
 -   **start-date**: 2020-07-04

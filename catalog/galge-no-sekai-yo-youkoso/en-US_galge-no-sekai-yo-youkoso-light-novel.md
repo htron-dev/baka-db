@@ -1,5 +1,7 @@
 # Galge no Sekai yo, Youkoso!
 
+![galge-no-sekai-yo-youkoso](https://cdn.myanimelist.net/images/manga/1/124623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 86

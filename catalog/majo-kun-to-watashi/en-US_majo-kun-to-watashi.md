@@ -1,5 +1,7 @@
 # Majo-kun to Watashi
 
+![majo-kun-to-watashi](https://cdn.myanimelist.net/images/manga/1/190030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

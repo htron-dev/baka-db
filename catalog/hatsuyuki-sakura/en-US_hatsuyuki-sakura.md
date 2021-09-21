@@ -1,5 +1,7 @@
 # Hatsuyuki Sakura
 
+![hatsuyuki-sakura](https://cdn.myanimelist.net/images/manga/1/149282.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: はつゆきさくら

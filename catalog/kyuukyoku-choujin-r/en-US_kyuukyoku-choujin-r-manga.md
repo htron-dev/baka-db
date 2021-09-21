@@ -1,5 +1,7 @@
 # Kyuukyoku Choujin R
 
+![kyuukyoku-choujin-r](https://cdn.myanimelist.net/images/manga/1/21633.jpg)
+
 -   **type**: manga
 -   **original-name**: 究極超人あ～る
 

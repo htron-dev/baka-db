@@ -1,5 +1,7 @@
 # I''s
 
+![is](https://cdn.myanimelist.net/images/manga/2/54589.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 143

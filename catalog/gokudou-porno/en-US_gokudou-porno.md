@@ -1,5 +1,7 @@
 # Gokudou Porno
 
+![gokudou-porno](https://cdn.myanimelist.net/images/manga/1/216359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

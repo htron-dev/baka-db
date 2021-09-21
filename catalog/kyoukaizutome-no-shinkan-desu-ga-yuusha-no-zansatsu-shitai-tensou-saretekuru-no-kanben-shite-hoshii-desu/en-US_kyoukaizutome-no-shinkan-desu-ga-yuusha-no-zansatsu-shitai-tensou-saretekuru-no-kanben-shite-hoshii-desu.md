@@ -1,5 +1,7 @@
 # Kyoukaizutome no Shinkan desu ga, Yuusha no Zansatsu Shitai Tensou saretekuru no Kanben shite Hoshii desu
 
+![kyoukaizutome-no-shinkan-desu-ga-yuusha-no-zansatsu-shitai-tensou-saretekuru-no-kanben-shite-hoshii-desu](https://cdn.myanimelist.net/images/manga/2/233324.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

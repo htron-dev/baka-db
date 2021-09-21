@@ -1,5 +1,7 @@
 # Gomen ne Darling
 
+![gomen-ne-darling](https://cdn.myanimelist.net/images/manga/3/136773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

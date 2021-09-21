@@ -1,5 +1,7 @@
 # Love Live! School Idol Project: μ's →NEXT LoveLive! 2014 - Endless Parade Encore Animation
 
+![love-live-school-idol-project-μs-→next-love-live-2014-endless-parade-encore-animation](https://cdn.myanimelist.net/images/anime/13/76357.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブライブ School idol project！μ's→NEXT LoveLive！2014 ～ ENDLESS PARADE ～アンコールアニメーション 0209Ver.

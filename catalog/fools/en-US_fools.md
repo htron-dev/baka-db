@@ -1,5 +1,7 @@
 # Fools
 
+![fools](https://cdn.myanimelist.net/images/manga/3/230324.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 74

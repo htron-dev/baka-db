@@ -1,5 +1,7 @@
 # Momonchi
 
+![momonchi](https://cdn.myanimelist.net/images/manga/3/165166.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ibitsu
 
+![ibitsu](https://cdn.myanimelist.net/images/manga/2/100663.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

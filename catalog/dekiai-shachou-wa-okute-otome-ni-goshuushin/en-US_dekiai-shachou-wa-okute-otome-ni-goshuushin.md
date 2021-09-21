@@ -1,5 +1,7 @@
 # Dekiai Shachou wa Okute Otome ni Goshuushin
 
+![dekiai-shachou-wa-okute-otome-ni-goshuushin](https://cdn.myanimelist.net/images/manga/2/195127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 溺愛社長は奥手乙女にご執心

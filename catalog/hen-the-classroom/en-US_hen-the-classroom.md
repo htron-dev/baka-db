@@ -1,5 +1,7 @@
 # Hen The Classroom
 
+![hen-the-classroom](https://cdn.myanimelist.net/images/manga/2/162462.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

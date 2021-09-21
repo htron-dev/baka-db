@@ -1,5 +1,7 @@
 # Iinari
 
+![iinari](https://cdn.myanimelist.net/images/manga/2/185366.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 31

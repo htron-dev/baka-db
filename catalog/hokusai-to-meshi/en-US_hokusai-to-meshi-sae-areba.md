@@ -1,5 +1,7 @@
 # Hokusai to Meshi sae Areba
 
+![hokusai-to-meshi-sae-areba](https://cdn.myanimelist.net/images/manga/3/154550.jpg)
+
 -   **type**: manga
 -   **original-name**: ホクサイと飯さえあれば
 -   **start-date**: 2014-09-05

@@ -1,5 +1,7 @@
 # Kurotsubaki-hime: Raichou no Ansatsusha to Koushaku Reisoku
 
+![kurotsubaki-hime-raichou-no-ansatsusha-to-koushaku-reisoku](https://cdn.myanimelist.net/images/manga/2/181726.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

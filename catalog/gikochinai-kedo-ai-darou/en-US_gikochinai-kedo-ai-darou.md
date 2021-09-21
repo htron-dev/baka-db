@@ -1,5 +1,7 @@
 # Gikochinai kedo Ai Darou
 
+![gikochinai-kedo-ai-darou](https://cdn.myanimelist.net/images/manga/5/84701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

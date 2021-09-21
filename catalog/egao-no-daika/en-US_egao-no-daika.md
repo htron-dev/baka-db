@@ -1,5 +1,7 @@
 # Egao no Daika
 
+![egao-no-daika](https://cdn.myanimelist.net/images/anime/1640/100466.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: エガオノダイカ

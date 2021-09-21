@@ -1,5 +1,7 @@
 # Dance with Devils
 
+![dance-with-devils](https://cdn.myanimelist.net/images/anime/4/75640.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンス・ウィズ・デビルス

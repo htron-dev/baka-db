@@ -1,5 +1,7 @@
 # Hikari: Kariya wo Tsunagu Monogatari
 
+![hikari-kariya-wo-tsunagu-monogatari](https://cdn.myanimelist.net/images/anime/10/79276.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ひかり ~刈谷をつなぐ物語~

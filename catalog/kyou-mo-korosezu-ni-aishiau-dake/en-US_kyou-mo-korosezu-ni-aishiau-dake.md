@@ -1,5 +1,7 @@
 # Kyou mo Korosezu ni Aishiau dake.
 
+![kyou-mo-korosezu-ni-aishiau-dake](https://cdn.myanimelist.net/images/manga/2/244691.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日も殺せずに愛し合うだけ。
 -   **start-date**: 2020-02-20

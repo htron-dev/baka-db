@@ -1,5 +1,7 @@
 # Gakuen Densetsu: Hasami Onna
 
+![gakuen-densetsu-hasami-onna](https://cdn.myanimelist.net/images/manga/1/165498.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

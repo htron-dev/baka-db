@@ -1,5 +1,7 @@
 # Love Plus: Girls Talk
 
+![love-plus-girls-talk](https://cdn.myanimelist.net/images/manga/3/43533.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブプラス Girls Talk
 -   **start-date**: 2010-04-20

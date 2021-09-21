@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00: Tenshitachi no Kiseki
 
+![mobile-suit-gundam-00-tenshitachi-no-kiseki](https://cdn.myanimelist.net/images/anime/11/54435.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 00-天使たちの軌跡

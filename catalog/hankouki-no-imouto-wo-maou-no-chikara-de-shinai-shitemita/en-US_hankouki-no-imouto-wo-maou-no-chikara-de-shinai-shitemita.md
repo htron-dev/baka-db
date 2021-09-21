@@ -1,5 +1,7 @@
 # Hankouki no Imouto wo Maou no Chikara de Shinai Shitemita
 
+![hankouki-no-imouto-wo-maou-no-chikara-de-shinai-shitemita](https://cdn.myanimelist.net/images/manga/3/163488.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 反抗期の妹を魔王の力で支配してみた

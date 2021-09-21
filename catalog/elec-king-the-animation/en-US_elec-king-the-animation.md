@@ -1,5 +1,7 @@
 # Elec-king The Animation
 
+![elec-king-the-animation](https://cdn.myanimelist.net/images/anime/4/50731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: エレキング The Animation

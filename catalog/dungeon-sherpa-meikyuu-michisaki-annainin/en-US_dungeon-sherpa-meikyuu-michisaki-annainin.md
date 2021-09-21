@@ -1,5 +1,7 @@
 # Dungeon Sherpa: Meikyuu Michisaki Annainin
 
+![dungeon-sherpa-meikyuu-michisaki-annainin](https://cdn.myanimelist.net/images/manga/2/235721.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョン・シェルパ 迷宮道先案内人
 -   **start-date**: 2020-02-26

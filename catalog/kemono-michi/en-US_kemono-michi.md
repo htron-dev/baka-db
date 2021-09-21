@@ -1,5 +1,7 @@
 # Kemono Michi
 
+![kemono-michi](https://cdn.myanimelist.net/images/manga/2/196371.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

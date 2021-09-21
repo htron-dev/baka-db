@@ -1,5 +1,7 @@
 # Darkside Blues
 
+![darkside-blues](https://cdn.myanimelist.net/images/anime/3/79776.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ダークサイド・ブルース

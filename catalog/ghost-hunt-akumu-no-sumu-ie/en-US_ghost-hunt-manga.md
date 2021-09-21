@@ -1,5 +1,7 @@
 # Ghost Hunt
 
+![ghost-hunt](https://cdn.myanimelist.net/images/manga/2/181311.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 43

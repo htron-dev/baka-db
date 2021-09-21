@@ -1,5 +1,7 @@
 # Fate/Grand Order Anthology Comic: Star
 
+![fate-grand-order-anthology-comic-star](https://cdn.myanimelist.net/images/manga/2/174221.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 124

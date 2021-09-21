@@ -1,5 +1,7 @@
 # Detective Conan: Episode One - The Great Detective Turned Small
 
+![detective-conan-episode-one-the-great-detective-turned-small](https://cdn.myanimelist.net/images/anime/5/81968.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン エピソード ONE 小さくなった名探偵

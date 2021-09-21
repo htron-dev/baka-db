@@ -1,5 +1,7 @@
 # Kokushi no Shima
 
+![kokushi-no-shima](https://cdn.myanimelist.net/images/manga/3/149460.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 黒祠の島

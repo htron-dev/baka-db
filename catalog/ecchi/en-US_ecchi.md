@@ -1,5 +1,7 @@
 # Ecchi
 
+![ecchi](https://cdn.myanimelist.net/images/manga/2/38170.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: えっち

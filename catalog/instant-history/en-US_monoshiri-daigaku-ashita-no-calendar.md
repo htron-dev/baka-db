@@ -1,5 +1,7 @@
 # Monoshiri Daigaku: Ashita no Calendar
 
+![monoshiri-daigaku-ashita-no-calendar](https://cdn.myanimelist.net/images/anime/2/87362.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1274
 -   **original-name**: ものしり大学　明日のカレンダー

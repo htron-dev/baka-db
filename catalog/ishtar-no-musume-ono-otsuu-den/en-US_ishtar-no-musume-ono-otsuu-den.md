@@ -1,5 +1,7 @@
 # Ishtar no Musume: Ono Otsuu Den
 
+![ishtar-no-musume-ono-otsuu-den](https://cdn.myanimelist.net/images/manga/2/203179.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 64

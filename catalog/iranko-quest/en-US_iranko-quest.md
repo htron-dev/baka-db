@@ -1,5 +1,7 @@
 # Iranko Quest
 
+![iranko-quest](https://cdn.myanimelist.net/images/manga/1/161217.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

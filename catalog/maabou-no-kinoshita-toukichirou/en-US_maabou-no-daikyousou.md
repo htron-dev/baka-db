@@ -1,5 +1,7 @@
 # Maabou no Daikyousou
 
+![maabou-no-daikyousou](https://cdn.myanimelist.net/images/anime/8/15844.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マー坊の大競争

@@ -1,5 +1,7 @@
 # Eigo xx Sensei (Kari)
 
+![eigo-xx-sensei-kari](https://cdn.myanimelist.net/images/manga/3/246757.jpg)
+
 -   **type**: manga
 -   **original-name**: 英語 ×× センセイ（仮）
 -   **start-date**: 2020-03-18

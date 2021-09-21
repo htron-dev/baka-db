@@ -1,5 +1,7 @@
 # Jinchiku Mugai
 
+![jinchiku-mugai](https://cdn.myanimelist.net/images/manga/2/196352.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 人畜無骸

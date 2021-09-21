@@ -1,5 +1,7 @@
 # You're Mine
 
+![youre-mine](https://cdn.myanimelist.net/images/manga/3/224084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

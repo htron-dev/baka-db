@@ -1,5 +1,7 @@
 # Kimi ni Gyokusai.
 
+![kimi-ni-gyokusai](https://cdn.myanimelist.net/images/manga/2/163340.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

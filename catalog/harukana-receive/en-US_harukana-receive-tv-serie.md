@@ -1,5 +1,7 @@
 # Harukana Receive
 
+![harukana-receive](https://cdn.myanimelist.net/images/anime/1924/95212.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はるかなレシーブ

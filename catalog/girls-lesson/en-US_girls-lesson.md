@@ -1,5 +1,7 @@
 # Girls Lesson
 
+![girls-lesson](https://cdn.myanimelist.net/images/manga/3/32099.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 女子恋爱讲义

@@ -1,5 +1,7 @@
 # Mabeop Cheonjamun
 
+![mabeop-cheonjamun](https://cdn.myanimelist.net/images/manga/1/240472.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 마법천자문
 -   **start-date**: 2003-11-14

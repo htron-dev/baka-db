@@ -1,5 +1,7 @@
 # Kiss made Ato 3 cm
 
+![kiss-made-ato-3-cm](https://cdn.myanimelist.net/images/manga/2/107215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

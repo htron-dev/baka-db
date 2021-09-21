@@ -1,5 +1,7 @@
 # Me mo Kuramu: Taishou Kinema Roman
 
+![me-mo-kuramu-taishou-kinema-roman](https://cdn.myanimelist.net/images/manga/3/210697.jpg)
+
 -   **type**: manga
 -   **original-name**: めもくらむ 大正キネマ浪漫
 -   **start-date**: 2017-12-28

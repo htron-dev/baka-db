@@ -1,5 +1,7 @@
 # Muyoku no Seijo
 
+![muyoku-no-seijo](https://cdn.myanimelist.net/images/manga/1/198098.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 無欲の聖女
 -   **start-date**: 2016-07-30

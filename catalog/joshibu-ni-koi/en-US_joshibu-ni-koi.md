@@ -1,5 +1,7 @@
 # Joshibu ni Koi!
 
+![joshibu-ni-koi](https://cdn.myanimelist.net/images/manga/3/114149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

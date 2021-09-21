@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Yongzhe Guilai
 
+![hong-mao-lan-tu-yongzhe-guilai](https://cdn.myanimelist.net/images/anime/1887/98706.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 虹猫蓝兔之勇者归来

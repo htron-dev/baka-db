@@ -1,5 +1,7 @@
 # U-turn wa Wakai Uchi ni Shiro!
 
+![u-turn-wa-wakai-uchi-ni-shiro](https://cdn.myanimelist.net/images/anime/1807/108666.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: U ターンは若いうちにしろ！

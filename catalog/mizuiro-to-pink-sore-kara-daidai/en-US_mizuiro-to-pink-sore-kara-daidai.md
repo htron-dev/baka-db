@@ -1,5 +1,7 @@
 # Mizuiro to Pink, Sore kara Daidai.
 
+![mizuiro-to-pink-sore-kara-daidai](https://cdn.myanimelist.net/images/manga/1/33558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

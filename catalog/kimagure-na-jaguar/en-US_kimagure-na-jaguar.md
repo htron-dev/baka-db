@@ -1,5 +1,7 @@
 # Kimagure na Jaguar
 
+![kimagure-na-jaguar](https://cdn.myanimelist.net/images/manga/1/233381.jpg)
+
 -   **type**: manga
 -   **original-name**: 気まぐれなジャガー
 -   **start-date**: 2016-01-29

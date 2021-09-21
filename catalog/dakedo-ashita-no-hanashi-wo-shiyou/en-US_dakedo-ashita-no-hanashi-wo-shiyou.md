@@ -1,5 +1,7 @@
 # Dakedo, Ashita no Hanashi wo Shiyou
 
+![dakedo-ashita-no-hanashi-wo-shiyou](https://cdn.myanimelist.net/images/manga/3/223241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

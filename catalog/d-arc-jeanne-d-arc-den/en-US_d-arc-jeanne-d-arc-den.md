@@ -1,5 +1,7 @@
 # D'Arc : Jeanne D'Arc Den
 
+![d-arc-jeanne-d-arc-den](https://cdn.myanimelist.net/images/manga/1/15742.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ジャンヌ・ダルク伝

@@ -1,5 +1,7 @@
 # Kitto Aishiteshimaunda.
 
+![kitto-aishiteshimaunda](https://cdn.myanimelist.net/images/manga/1/194948.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

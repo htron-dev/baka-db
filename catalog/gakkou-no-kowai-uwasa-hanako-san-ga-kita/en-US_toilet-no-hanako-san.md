@@ -1,5 +1,7 @@
 # Toilet no Hanako-san
 
+![toilet-no-hanako-san](https://cdn.myanimelist.net/images/anime/7/23159.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トイレの花子さん

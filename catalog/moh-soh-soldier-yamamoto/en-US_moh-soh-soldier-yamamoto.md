@@ -1,5 +1,7 @@
 # Moh-Soh soldier Yamamoto
 
+![moh-soh-soldier-yamamoto](https://cdn.myanimelist.net/images/manga/4/69555.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 妄想戦士ヤマモト

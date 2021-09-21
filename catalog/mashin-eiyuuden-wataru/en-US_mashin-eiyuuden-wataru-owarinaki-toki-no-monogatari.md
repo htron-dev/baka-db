@@ -1,5 +1,7 @@
 # Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari
 
+![mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari](https://cdn.myanimelist.net/images/anime/1090/94148.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔神英雄伝ワタル　終わりなき時の物語

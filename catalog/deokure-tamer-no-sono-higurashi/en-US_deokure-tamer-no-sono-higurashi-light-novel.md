@@ -1,5 +1,7 @@
 # Deokure Tamer no Sono Higurashi
 
+![deokure-tamer-no-sono-higurashi](https://cdn.myanimelist.net/images/manga/3/233905.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 出遅れテイマーのその日暮らし
 -   **start-date**: 2018-05-30

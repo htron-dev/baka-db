@@ -1,5 +1,7 @@
 # Do Do Do S-kyuu Kareshi
 
+![do-do-do-s-kyuu-kareshi](https://cdn.myanimelist.net/images/manga/3/152766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

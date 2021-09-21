@@ -1,5 +1,7 @@
 # Tropical-Rouge! Precure
 
+![tropical-rouge-precure](https://cdn.myanimelist.net/images/manga/1/242997.jpg)
+
 -   **type**: manga
 -   **original-name**: トロピカル～ジュ！プリキュア
 -   **start-date**: 2021-02-03

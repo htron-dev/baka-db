@@ -1,5 +1,7 @@
 # Girls Love: Houkago, Ecchi na Yoshuu Fukushuu.
 
+![girls-love-houkago-ecchi-na-yoshuu-fukushuu](https://cdn.myanimelist.net/images/manga/1/44611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

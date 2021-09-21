@@ -1,5 +1,7 @@
 # Ginga Senki no Antique
 
+![ginga-senki-no-antique](https://cdn.myanimelist.net/images/manga/2/176461.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

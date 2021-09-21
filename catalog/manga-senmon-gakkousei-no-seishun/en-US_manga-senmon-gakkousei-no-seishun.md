@@ -1,5 +1,7 @@
 # Manga Senmon Gakkousei no Seishun
 
+![manga-senmon-gakkousei-no-seishun](https://cdn.myanimelist.net/images/manga/2/167509.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 43

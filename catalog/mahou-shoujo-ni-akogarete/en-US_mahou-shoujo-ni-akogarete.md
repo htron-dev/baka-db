@@ -1,5 +1,7 @@
 # Mahou Shoujo ni Akogarete
 
+![mahou-shoujo-ni-akogarete](https://cdn.myanimelist.net/images/manga/1/230579.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女にあこがれて
 -   **start-date**: 2019-01-30

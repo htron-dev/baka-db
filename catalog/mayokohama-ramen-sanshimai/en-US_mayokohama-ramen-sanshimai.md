@@ -1,5 +1,7 @@
 # Mayokohama Ramen Sanshimai
 
+![mayokohama-ramen-sanshimai](https://cdn.myanimelist.net/images/manga/1/65353.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 真横浜ラーメン三姉妹

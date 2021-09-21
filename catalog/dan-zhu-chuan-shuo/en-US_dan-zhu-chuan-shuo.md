@@ -1,5 +1,7 @@
 # Dan Zhu Chuan Shuo
 
+![dan-zhu-chuan-shuo](https://cdn.myanimelist.net/images/anime/1407/109686.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 弹珠传说

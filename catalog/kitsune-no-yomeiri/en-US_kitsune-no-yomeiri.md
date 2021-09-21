@@ -1,5 +1,7 @@
 # Kitsune no Yomeiri
 
+![kitsune-no-yomeiri](https://cdn.myanimelist.net/images/manga/3/194520.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

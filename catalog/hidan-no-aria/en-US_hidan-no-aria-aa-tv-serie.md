@@ -1,5 +1,7 @@
 # Hidan no Aria AA
 
+![hidan-no-aria-aa](https://cdn.myanimelist.net/images/anime/12/76700.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 緋弾のアリア AA（ダブルエー）

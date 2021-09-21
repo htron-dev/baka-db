@@ -1,5 +1,7 @@
 # Hengen Taima Yakou Shin Karura Mau!
 
+![hengen-taima-yakou-shin-karura-mau](https://cdn.myanimelist.net/images/manga/3/226792.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: 変幻退魔夜行 新・カルラ舞う!

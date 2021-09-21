@@ -1,5 +1,7 @@
 # Miracle Shoujo Limit-chan
 
+![miracle-shoujo-limit-chan](https://cdn.myanimelist.net/images/anime/2/17491.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ミラクル少女リミットちゃん

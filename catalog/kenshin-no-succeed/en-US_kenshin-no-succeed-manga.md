@@ -1,5 +1,7 @@
 # Kenshin no Succeed
 
+![kenshin-no-succeed](https://cdn.myanimelist.net/images/manga/2/158132.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

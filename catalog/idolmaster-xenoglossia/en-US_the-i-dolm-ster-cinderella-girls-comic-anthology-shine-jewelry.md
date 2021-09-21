@@ -1,5 +1,7 @@
 # The iDOLM@STER: Cinderella Girls Comic Anthology - shine jewelry!
 
+![the-i-dolm-ster-cinderella-girls-comic-anthology-shine-jewelry](https://cdn.myanimelist.net/images/manga/1/135917.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドルマスター シンデレラガールズコミックアンソロジー shine jewelry!
 -   **start-date**: 2014-07-26

@@ -1,5 +1,7 @@
 # Kouritsuchuu Madoushi, Daini no Jinsei de Madou wo Kiwameru
 
+![kouritsuchuu-madoushi-daini-no-jinsei-de-madou-wo-kiwameru](https://cdn.myanimelist.net/images/manga/2/181767.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 効率厨魔導師、第二の人生で魔導を極める
 -   **start-date**: 2015-03-24

@@ -1,5 +1,7 @@
 # Mayoeru Shomin ni Ai no Te wo
 
+![mayoeru-shomin-ni-ai-no-te-wo](https://cdn.myanimelist.net/images/manga/2/23183.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

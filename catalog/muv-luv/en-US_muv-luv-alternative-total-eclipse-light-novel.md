@@ -1,5 +1,7 @@
 # Muv-Luv Alternative: Total Eclipse
 
+![muv-luv-alternative-total-eclipse](https://cdn.myanimelist.net/images/manga/3/135579.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マブラヴ オルタネイティヴ トータル・イクリプス
 -   **start-date**: 2007-12-25

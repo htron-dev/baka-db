@@ -1,5 +1,7 @@
 # Kamisama Hajimemashita: Kamisama, Shiawase ni Naru
 
+![kamisama-hajimemashita-kamisama-shiawase-ni-naru](https://cdn.myanimelist.net/images/anime/4/83437.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 神様はじめました「神様、幸せになる」

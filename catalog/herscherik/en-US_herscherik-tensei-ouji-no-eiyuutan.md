@@ -1,5 +1,7 @@
 # Herscherik: Tensei Ouji no Eiyuutan
 
+![herscherik-tensei-ouji-no-eiyuutan](https://cdn.myanimelist.net/images/manga/1/227086.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

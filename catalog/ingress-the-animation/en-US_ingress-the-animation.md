@@ -1,5 +1,7 @@
 # Ingress the Animation
 
+![ingress-the-animation](https://cdn.myanimelist.net/images/anime/1944/93421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: INGRESS THE ANIMATION

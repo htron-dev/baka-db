@@ -1,5 +1,7 @@
 # Hadashi no Gen
 
+![hadashi-no-gen](https://cdn.myanimelist.net/images/anime/12/10128.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はだしのゲン

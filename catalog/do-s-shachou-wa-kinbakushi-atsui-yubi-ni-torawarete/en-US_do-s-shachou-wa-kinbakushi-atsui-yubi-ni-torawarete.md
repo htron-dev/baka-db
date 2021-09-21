@@ -1,5 +1,7 @@
 # Do S Shachou wa Kinbakushi: Atsui Yubi ni Torawarete
 
+![do-s-shachou-wa-kinbakushi-atsui-yubi-ni-torawarete](https://cdn.myanimelist.net/images/manga/1/195672.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

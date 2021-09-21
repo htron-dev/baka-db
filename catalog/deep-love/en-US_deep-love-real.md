@@ -1,5 +1,7 @@
 # Deep Love: Real
 
+![deep-love-real](https://cdn.myanimelist.net/images/manga/2/99501.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 189

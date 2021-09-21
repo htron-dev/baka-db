@@ -1,5 +1,7 @@
 # Honenuki ni Saretai
 
+![honenuki-ni-saretai](https://cdn.myanimelist.net/images/manga/1/5932.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

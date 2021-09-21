@@ -1,5 +1,7 @@
 # Hebi Shoujo
 
+![hebi-shoujo](https://cdn.myanimelist.net/images/manga/3/236686.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 3

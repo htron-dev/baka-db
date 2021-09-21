@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Wing
 
+![mobile-suit-gundam-wing](https://cdn.myanimelist.net/images/anime/1884/114414.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 新機動戦記ガンダム W

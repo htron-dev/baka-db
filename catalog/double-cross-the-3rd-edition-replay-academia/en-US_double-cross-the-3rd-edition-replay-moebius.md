@@ -1,5 +1,7 @@
 # Double Cross The 3rd Edition Replay Moebius
 
+![double-cross-the-3rd-edition-replay-moebius](https://cdn.myanimelist.net/images/manga/3/160133.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

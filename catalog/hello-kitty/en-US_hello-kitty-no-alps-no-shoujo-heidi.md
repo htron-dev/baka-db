@@ -1,5 +1,7 @@
 # Hello Kitty no Alps no Shoujo Heidi
 
+![hello-kitty-no-alps-no-shoujo-heidi](https://cdn.myanimelist.net/images/anime/6/58661.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのアルプスの少女ハイジ

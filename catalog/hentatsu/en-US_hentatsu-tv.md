@@ -1,5 +1,7 @@
 # Hentatsu (TV)
 
+![hentatsu-tv](https://cdn.myanimelist.net/images/anime/1399/112948.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: へんたつ

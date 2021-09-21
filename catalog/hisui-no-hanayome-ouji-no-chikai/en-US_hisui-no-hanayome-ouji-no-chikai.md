@@ -1,5 +1,7 @@
 # Hisui no Hanayome, Ouji no Chikai
 
+![hisui-no-hanayome-ouji-no-chikai](https://cdn.myanimelist.net/images/manga/2/247967.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 翡翠の花嫁、王子の誓い

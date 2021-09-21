@@ -1,5 +1,7 @@
 # Izayoi no Hitomi
 
+![izayoi-no-hitomi](https://cdn.myanimelist.net/images/manga/5/65871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 十六夜の瞳

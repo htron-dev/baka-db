@@ -1,5 +1,7 @@
 # Furueru Yoru no Himitsugoto
 
+![furueru-yoru-no-himitsugoto](https://cdn.myanimelist.net/images/manga/4/18374.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

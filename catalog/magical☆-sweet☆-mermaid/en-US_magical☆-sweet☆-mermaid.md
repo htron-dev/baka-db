@@ -1,5 +1,7 @@
 # Magical☆Sweet☆Mermaid
 
+![magical☆-sweet☆-mermaid](https://cdn.myanimelist.net/images/manga/2/23292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

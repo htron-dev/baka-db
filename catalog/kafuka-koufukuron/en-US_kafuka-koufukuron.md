@@ -1,5 +1,7 @@
 # Kafuka Koufukuron
 
+![kafuka-koufukuron](https://cdn.myanimelist.net/images/manga/2/212396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

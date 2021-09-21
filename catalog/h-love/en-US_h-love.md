@@ -1,5 +1,7 @@
 # H² Love
 
+![h-love](https://cdn.myanimelist.net/images/manga/3/25791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

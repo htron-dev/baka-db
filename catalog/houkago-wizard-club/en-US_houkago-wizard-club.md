@@ -1,5 +1,7 @@
 # Houkago Wizard Club
 
+![houkago-wizard-club](https://cdn.myanimelist.net/images/manga/3/180525.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

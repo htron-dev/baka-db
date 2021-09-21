@@ -1,5 +1,7 @@
 # Hao Taikei Ryu Knight
 
+![hao-taikei-ryu-knight](https://cdn.myanimelist.net/images/manga/2/9628.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 覇王大系リューナイト

@@ -1,5 +1,7 @@
 # Love♥Aroma♥Body
 
+![love♥-aroma♥-body](https://cdn.myanimelist.net/images/manga/2/138039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

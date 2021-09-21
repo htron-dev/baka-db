@@ -1,5 +1,7 @@
 # Durarara!! 18 Shiryaku
 
+![durarara-18-shiryaku](https://cdn.myanimelist.net/images/manga/3/167393.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 18
 -   **original-name**: デュラララ!! 十八史略

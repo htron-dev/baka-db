@@ -1,5 +1,7 @@
 # Gantz:O
 
+![gantz-o](https://cdn.myanimelist.net/images/anime/7/81255.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GANTZ:O

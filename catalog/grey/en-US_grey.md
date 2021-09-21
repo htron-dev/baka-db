@@ -1,5 +1,7 @@
 # Grey
 
+![grey](https://cdn.myanimelist.net/images/manga/1/186371.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

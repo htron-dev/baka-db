@@ -1,5 +1,7 @@
 # Hachi Mairu
 
+![hachi-mairu](https://cdn.myanimelist.net/images/manga/3/200573.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハチ参る

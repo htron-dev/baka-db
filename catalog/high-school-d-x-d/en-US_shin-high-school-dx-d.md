@@ -1,5 +1,7 @@
 # Shin High School DxD
 
+![shin-high-school-dx-d](https://cdn.myanimelist.net/images/manga/3/210424.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 真ハイスクール D×D
 -   **start-date**: 2018-07-20

@@ -1,5 +1,7 @@
 # Doupo Cangqiong Specials
 
+![doupo-cangqiong-specials](https://cdn.myanimelist.net/images/anime/2/88360.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 斗破苍穹 特别篇

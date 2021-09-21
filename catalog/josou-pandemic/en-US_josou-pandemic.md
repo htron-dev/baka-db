@@ -1,5 +1,7 @@
 # Josou Pandemic
 
+![josou-pandemic](https://cdn.myanimelist.net/images/manga/1/241450.jpg)
+
 -   **type**: manga
 -   **original-name**: 女装パンデミック
 -   **start-date**: 2019-08-09

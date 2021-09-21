@@ -1,5 +1,7 @@
 # Mote tte Konna ni Taihen Datta no ka!?
 
+![mote-tte-konna-ni-taihen-datta-no-ka](https://cdn.myanimelist.net/images/manga/3/136237.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: モテってこんなに大変だったのか!?

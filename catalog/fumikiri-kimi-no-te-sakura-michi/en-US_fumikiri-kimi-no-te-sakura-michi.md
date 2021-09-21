@@ -1,5 +1,7 @@
 # Fumikiri, Kimi no Te, Sakura Michi.
 
+![fumikiri-kimi-no-te-sakura-michi](https://cdn.myanimelist.net/images/manga/2/182408.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

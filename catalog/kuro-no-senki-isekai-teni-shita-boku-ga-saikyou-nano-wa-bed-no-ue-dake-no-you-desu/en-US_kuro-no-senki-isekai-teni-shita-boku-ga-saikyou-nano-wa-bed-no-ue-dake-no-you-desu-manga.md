@@ -1,5 +1,7 @@
 # Kuro no Senki: Isekai Teni shita Boku ga Saikyou nano wa Bed no Ue dake no you desu
 
+![kuro-no-senki-isekai-teni-shita-boku-ga-saikyou-nano-wa-bed-no-ue-dake-no-you-desu](https://cdn.myanimelist.net/images/manga/2/238354.jpg)
+
 -   **type**: manga
 -   **original-name**: クロの戦記 異世界転移した僕が最強なのはベッドの上だけのようです
 -   **start-date**: 2020-07-03

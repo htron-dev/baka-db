@@ -1,5 +1,7 @@
 # Kuchizuke wa Shukujo no Tashinami: Amaku Midara na Kojin Jugyou
 
+![kuchizuke-wa-shukujo-no-tashinami-amaku-midara-na-kojin-jugyou](https://cdn.myanimelist.net/images/manga/2/192035.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

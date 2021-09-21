@@ -1,5 +1,7 @@
 # Shin Fortune Quest II
 
+![shin-fortune-quest-ii](https://cdn.myanimelist.net/images/manga/1/109621.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 新フォーチュン・クエスト II
 -   **start-date**: 2013-04-10

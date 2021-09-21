@@ -1,5 +1,7 @@
 # Dragon-san wa Tomodachi ga Hoshii!
 
+![dragon-san-wa-tomodachi-ga-hoshii](https://cdn.myanimelist.net/images/manga/3/210754.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 95

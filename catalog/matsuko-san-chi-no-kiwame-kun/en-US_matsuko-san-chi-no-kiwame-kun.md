@@ -1,5 +1,7 @@
 # Matsuko-san Chi no Kiwame-kun
 
+![matsuko-san-chi-no-kiwame-kun](https://cdn.myanimelist.net/images/manga/3/225662.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

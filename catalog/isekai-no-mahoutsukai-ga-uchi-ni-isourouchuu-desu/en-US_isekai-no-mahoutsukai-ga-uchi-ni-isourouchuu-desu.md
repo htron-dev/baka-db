@@ -1,5 +1,7 @@
 # Isekai no Mahoutsukai ga Uchi ni Isourouchuu desu!?
 
+![isekai-no-mahoutsukai-ga-uchi-ni-isourouchuu-desu](https://cdn.myanimelist.net/images/manga/1/165228.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異世界の魔法使いがうちに居候中です!?

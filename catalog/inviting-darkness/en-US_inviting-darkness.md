@@ -1,5 +1,7 @@
 # Inviting Darkness
 
+![inviting-darkness](https://cdn.myanimelist.net/images/manga/1/24823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

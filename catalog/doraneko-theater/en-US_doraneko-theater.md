@@ -1,5 +1,7 @@
 # Doraneko Theater
 
+![doraneko-theater](https://cdn.myanimelist.net/images/manga/1/170577.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ドラネコシアター

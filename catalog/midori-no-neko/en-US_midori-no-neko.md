@@ -1,5 +1,7 @@
 # Midori no Neko
 
+![midori-no-neko](https://cdn.myanimelist.net/images/anime/1619/112107.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 緑の猫

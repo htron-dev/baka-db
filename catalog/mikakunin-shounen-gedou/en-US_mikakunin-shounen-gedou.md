@@ -1,5 +1,7 @@
 # Mikakunin Shounen Gedou
 
+![mikakunin-shounen-gedou](https://cdn.myanimelist.net/images/manga/3/178826.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

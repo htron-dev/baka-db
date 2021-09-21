@@ -1,5 +1,7 @@
 # Labian Extase
 
+![labian-extase](https://cdn.myanimelist.net/images/manga/1/141253.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラビアンエクスタス

@@ -1,5 +1,7 @@
 # Monochrome Kitan
 
+![monochrome-kitan](https://cdn.myanimelist.net/images/manga/2/215092.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

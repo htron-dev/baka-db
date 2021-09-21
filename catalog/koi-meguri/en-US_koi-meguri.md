@@ -1,5 +1,7 @@
 # Koi Meguri
 
+![koi-meguri](https://cdn.myanimelist.net/images/manga/3/156073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋廻

@@ -1,5 +1,7 @@
 # Mononoke☆Chinkamo
 
+![mononoke☆-chinkamo](https://cdn.myanimelist.net/images/manga/2/36788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

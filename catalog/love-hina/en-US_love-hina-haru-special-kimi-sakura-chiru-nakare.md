@@ -1,5 +1,7 @@
 # Love Hina Haru Special: Kimi Sakura Chiru Nakare!!
 
+![love-hina-haru-special-kimi-sakura-chiru-nakare](https://cdn.myanimelist.net/images/anime/12/82632.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブひな春スペシャル 〜キミサクラチルナカレ!!〜

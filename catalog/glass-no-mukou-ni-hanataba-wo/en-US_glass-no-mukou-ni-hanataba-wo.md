@@ -1,5 +1,7 @@
 # Glass no Mukou ni Hanataba wo
 
+![glass-no-mukou-ni-hanataba-wo](https://cdn.myanimelist.net/images/manga/1/7644.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガラスのむこうに花束を

@@ -1,5 +1,7 @@
 # Hello Kitty no Shoukoujo
 
+![hello-kitty-no-shoukoujo](https://cdn.myanimelist.net/images/anime/9/58677.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの小公女

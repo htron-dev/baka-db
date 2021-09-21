@@ -1,5 +1,7 @@
 # Gyakushuu no Dragon Rider
 
+![gyakushuu-no-dragon-rider](https://cdn.myanimelist.net/images/manga/2/170724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

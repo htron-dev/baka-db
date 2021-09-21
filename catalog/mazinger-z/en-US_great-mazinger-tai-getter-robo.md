@@ -1,5 +1,7 @@
 # Great Mazinger tai Getter Robo
 
+![great-mazinger-tai-getter-robo](https://cdn.myanimelist.net/images/anime/1633/99758.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グレートマジンガー対ゲッターロボ

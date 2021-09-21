@@ -1,5 +1,7 @@
 # Kyou no Ryuuko-chan
 
+![kyou-no-ryuuko-chan](https://cdn.myanimelist.net/images/manga/1/198593.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日の柳子ちゃん
 -   **start-date**: 2016-12-15

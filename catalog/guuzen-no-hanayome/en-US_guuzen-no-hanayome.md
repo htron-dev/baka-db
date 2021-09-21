@@ -1,5 +1,7 @@
 # Guuzen no Hanayome
 
+![guuzen-no-hanayome](https://cdn.myanimelist.net/images/manga/3/227558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 偶然の花嫁

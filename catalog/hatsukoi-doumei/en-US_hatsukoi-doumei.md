@@ -1,5 +1,7 @@
 # Hatsukoi Doumei
 
+![hatsukoi-doumei](https://cdn.myanimelist.net/images/manga/2/233694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

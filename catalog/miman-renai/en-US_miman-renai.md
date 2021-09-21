@@ -1,5 +1,7 @@
 # Miman Renai
 
+![miman-renai](https://cdn.myanimelist.net/images/manga/3/209660.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

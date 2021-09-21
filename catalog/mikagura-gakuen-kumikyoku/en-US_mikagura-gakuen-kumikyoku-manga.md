@@ -1,5 +1,7 @@
 # Mikagura Gakuen Kumikyoku
 
+![mikagura-gakuen-kumikyoku](https://cdn.myanimelist.net/images/manga/1/111807.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

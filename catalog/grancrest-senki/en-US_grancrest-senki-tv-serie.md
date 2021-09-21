@@ -1,5 +1,7 @@
 # Grancrest Senki
 
+![grancrest-senki](https://cdn.myanimelist.net/images/anime/4/89883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: グランクレスト戦記

@@ -1,5 +1,7 @@
 # Maya no Isshou
 
+![maya-no-isshou](https://cdn.myanimelist.net/images/anime/13/64619.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マヤの一生

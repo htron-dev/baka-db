@@ -1,5 +1,7 @@
 # Mudazumo Naki Kaikaku: The Legend of Koizumi
 
+![mudazumo-naki-kaikaku-the-legend-of-koizumi](https://cdn.myanimelist.net/images/anime/2/35475.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ムダヅモ無き改革

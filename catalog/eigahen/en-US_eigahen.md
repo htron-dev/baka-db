@@ -1,5 +1,7 @@
 # Eigahen
 
+![eigahen](https://cdn.myanimelist.net/images/manga/3/76111.jpg)
+
 -   **type**: manga
 -   **original-name**: 映画篇
 -   **start-date**: 2010-04-20

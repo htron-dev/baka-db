@@ -1,5 +1,7 @@
 # Huo Xing Wa: Maoxian Leyuan
 
+![huo-xing-wa-maoxian-leyuan](https://cdn.myanimelist.net/images/anime/1382/115387.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 火星娃冒险乐园

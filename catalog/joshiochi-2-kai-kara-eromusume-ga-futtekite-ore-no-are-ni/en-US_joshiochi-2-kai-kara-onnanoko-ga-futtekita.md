@@ -1,5 +1,7 @@
 # Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?
 
+![joshiochi-2-kai-kara-onnanoko-ga-futtekita](https://cdn.myanimelist.net/images/anime/1716/93151.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: じょしおちっ！～ 2 階から女の子が…降ってきた！？～

@@ -1,5 +1,7 @@
 # Inochi no hi ga mieru
 
+![inochi-no-hi-ga-mieru](https://cdn.myanimelist.net/images/manga/2/52391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

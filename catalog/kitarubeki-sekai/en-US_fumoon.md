@@ -1,5 +1,7 @@
 # Fumoon
 
+![fumoon](https://cdn.myanimelist.net/images/anime/2/63339.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フウムーン

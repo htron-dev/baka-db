@@ -1,5 +1,7 @@
 # Goripuri!
 
+![goripuri](https://cdn.myanimelist.net/images/manga/1/145203.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ゴリプリ！

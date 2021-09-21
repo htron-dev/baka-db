@@ -1,5 +1,7 @@
 # Henshuu-san to JK Sakka no Tadashii Tsukiaikata
 
+![henshuu-san-to-jk-sakka-no-tadashii-tsukiaikata](https://cdn.myanimelist.net/images/manga/2/192635.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 編集さんと JK 作家の正しいつきあい方
 -   **start-date**: 2017-03-18

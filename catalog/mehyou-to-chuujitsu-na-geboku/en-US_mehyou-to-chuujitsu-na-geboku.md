@@ -1,5 +1,7 @@
 # Mehyou to Chuujitsu na Geboku
 
+![mehyou-to-chuujitsu-na-geboku](https://cdn.myanimelist.net/images/manga/4/19405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

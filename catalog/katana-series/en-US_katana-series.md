@@ -1,5 +1,7 @@
 # Katana Series
 
+![katana-series](https://cdn.myanimelist.net/images/manga/2/163499.jpg)
+
 -   **type**: manga
 -   **original-name**: KATANA シリーズ
 -   **start-date**: 2004-09-06

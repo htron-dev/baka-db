@@ -1,5 +1,7 @@
 # IS: Infinite Stratos
 
+![is-infinite-stratos](https://cdn.myanimelist.net/images/manga/3/57473.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

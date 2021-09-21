@@ -1,5 +1,7 @@
 # Inmu Kyoushi, Shiiku Kaikin.
 
+![inmu-kyoushi-shiiku-kaikin](https://cdn.myanimelist.net/images/manga/2/233272.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

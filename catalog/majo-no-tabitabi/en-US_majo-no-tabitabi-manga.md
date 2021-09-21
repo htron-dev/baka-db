@@ -1,5 +1,7 @@
 # Majo no Tabitabi
 
+![majo-no-tabitabi](https://cdn.myanimelist.net/images/manga/1/217437.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔女の旅々
 -   **start-date**: 2018-11-29

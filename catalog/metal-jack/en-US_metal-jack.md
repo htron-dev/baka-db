@@ -1,5 +1,7 @@
 # Metal Jack!
 
+![metal-jack](https://cdn.myanimelist.net/images/manga/2/116597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: メタルジャック!

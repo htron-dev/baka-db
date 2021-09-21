@@ -1,5 +1,7 @@
 # Kyo→dai dakara Nanda yo!?
 
+![kyo→dai-dakara-nanda-yo](https://cdn.myanimelist.net/images/manga/4/98625.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キョ → ダイだからなんだよっ!?

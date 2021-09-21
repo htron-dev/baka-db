@@ -1,5 +1,7 @@
 # Fujiko Fujio A no Mumako
 
+![fujiko-fujio-a-no-mumako](https://cdn.myanimelist.net/images/anime/9/52375.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 藤子不二雄 A の夢魔子

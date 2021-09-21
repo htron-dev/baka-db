@@ -1,5 +1,7 @@
 # IC: Imouto Complex!
 
+![ic-imouto-complex](https://cdn.myanimelist.net/images/manga/3/162578.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Fortune Arterial: Akai Yakusoku
 
+![fortune-arterial-akai-yakusoku](https://cdn.myanimelist.net/images/anime/11/26876.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: FORTUNE ARTERIAL 赤い約束

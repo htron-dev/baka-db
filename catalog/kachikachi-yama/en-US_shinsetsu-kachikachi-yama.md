@@ -1,5 +1,7 @@
 # Shinsetsu Kachikachi Yama
 
+![shinsetsu-kachikachi-yama](https://cdn.myanimelist.net/images/anime/9/77039.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新説カチカチ山

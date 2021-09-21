@@ -1,5 +1,7 @@
 # Kono Koi wa Fukami-kun no Plan ni wa Nai.
 
+![kono-koi-wa-fukami-kun-no-plan-ni-wa-nai](https://cdn.myanimelist.net/images/manga/2/225495.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

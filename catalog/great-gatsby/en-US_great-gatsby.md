@@ -1,5 +1,7 @@
 # Great Gatsby
 
+![great-gatsby](https://cdn.myanimelist.net/images/manga/1/157386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

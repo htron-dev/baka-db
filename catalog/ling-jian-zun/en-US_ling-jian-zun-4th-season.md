@@ -1,5 +1,7 @@
 # Ling Jian Zun 4th Season
 
+![ling-jian-zun-4th-season](https://cdn.myanimelist.net/images/anime/1972/108157.jpg)
+
 -   **type**: ona
 -   **episodes**: 100
 -   **original-name**: 灵剑尊 第四季

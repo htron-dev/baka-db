@@ -1,5 +1,7 @@
 # Koukyuu no Yoru wa Amaku Torokete
 
+![koukyuu-no-yoru-wa-amaku-torokete](https://cdn.myanimelist.net/images/manga/3/184178.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Koisuru Futago to Megane no Blue
 
+![koisuru-futago-to-megane-no-blue](https://cdn.myanimelist.net/images/manga/3/167316.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

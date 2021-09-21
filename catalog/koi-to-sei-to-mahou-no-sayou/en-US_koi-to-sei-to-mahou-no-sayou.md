@@ -1,5 +1,7 @@
 # Koi to Sei to Mahou no Sayou
 
+![koi-to-sei-to-mahou-no-sayou](https://cdn.myanimelist.net/images/manga/1/227022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

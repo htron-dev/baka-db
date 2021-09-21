@@ -1,5 +1,7 @@
 # Ji Gong
 
+![ji-gong](https://cdn.myanimelist.net/images/anime/1835/115345.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 济公

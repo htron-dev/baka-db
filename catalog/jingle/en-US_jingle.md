@@ -1,5 +1,7 @@
 # Jingle
 
+![jingle](https://cdn.myanimelist.net/images/anime/8/77491.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ジングル

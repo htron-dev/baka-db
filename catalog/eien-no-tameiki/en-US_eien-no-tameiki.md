@@ -1,5 +1,7 @@
 # Eien no Tameiki
 
+![eien-no-tameiki](https://cdn.myanimelist.net/images/manga/1/20220.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

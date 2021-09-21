@@ -1,5 +1,7 @@
 # Isekai kara no Hitotsubu no: Kono Himekishi, Change!
 
+![isekai-kara-no-hitotsubu-no-kono-himekishi-change](https://cdn.myanimelist.net/images/manga/3/158330.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異世界からの一粒の 〜この姫騎士、チェンジ！〜

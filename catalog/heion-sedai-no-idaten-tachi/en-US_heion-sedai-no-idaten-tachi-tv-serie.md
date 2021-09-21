@@ -1,5 +1,7 @@
 # Heion Sedai no Idaten-tachi
 
+![heion-sedai-no-idaten-tachi](https://cdn.myanimelist.net/images/anime/1293/115173.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 平穏世代の韋駄天達
 -   **start-date**: 2021-07-23

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 - A Wakening of the Trailblazer
 
+![mobile-suit-gundam-00-a-wakening-of-the-trailblazer](https://cdn.myanimelist.net/images/manga/1/111843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

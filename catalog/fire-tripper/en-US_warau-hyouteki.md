@@ -1,5 +1,7 @@
 # Warau Hyouteki
 
+![warau-hyouteki](https://cdn.myanimelist.net/images/anime/1300/94011.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 笑う標的

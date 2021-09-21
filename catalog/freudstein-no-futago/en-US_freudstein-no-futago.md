@@ -1,5 +1,7 @@
 # Freudstein no Futago
 
+![freudstein-no-futago](https://cdn.myanimelist.net/images/manga/1/220964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

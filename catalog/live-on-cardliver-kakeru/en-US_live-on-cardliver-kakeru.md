@@ -1,5 +1,7 @@
 # Live On Cardliver Kakeru
 
+![live-on-cardliver-kakeru](https://cdn.myanimelist.net/images/anime/9/21028.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ライブオン CARDLIVER 翔

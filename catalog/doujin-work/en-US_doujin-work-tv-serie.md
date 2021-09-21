@@ -1,5 +1,7 @@
 # Doujin Work
 
+![doujin-work](https://cdn.myanimelist.net/images/anime/8/75482.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ドージンワーク

@@ -1,5 +1,7 @@
 # Monster to Parent
 
+![monster-to-parent](https://cdn.myanimelist.net/images/manga/3/213646.jpg)
+
 -   **type**: manga
 -   **original-name**: モンスターとペアレント
 -   **start-date**: 2018-03-24

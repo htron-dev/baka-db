@@ -1,5 +1,7 @@
 # Kimi ga Inakya Dame tte Itte
 
+![kimi-ga-inakya-dame-tte-itte](https://cdn.myanimelist.net/images/manga/2/143919.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

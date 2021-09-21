@@ -1,5 +1,7 @@
 # Mushishi Zoku Shou
 
+![mushishi-zoku-shou](https://cdn.myanimelist.net/images/anime/13/58533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 蟲師 続章

@@ -1,5 +1,7 @@
 # Gal to Bocchi
 
+![gal-to-bocchi](https://cdn.myanimelist.net/images/manga/1/240002.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Unicorn: Bande Dessinee - Episode:0
 
+![kidou-senshi-gundam-unicorn-bande-dessinee-episode-0](https://cdn.myanimelist.net/images/manga/3/246206.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

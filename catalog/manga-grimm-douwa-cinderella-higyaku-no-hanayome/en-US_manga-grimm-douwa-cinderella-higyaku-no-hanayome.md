@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Cinderella - Higyaku no Hanayome
 
+![manga-grimm-douwa-cinderella-higyaku-no-hanayome](https://cdn.myanimelist.net/images/manga/3/137369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

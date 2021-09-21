@@ -1,5 +1,7 @@
 # Isekai ni Otosareta... Jouka wa Kihon! @comic
 
+![isekai-ni-otosareta-jouka-wa-kihon-comic](https://cdn.myanimelist.net/images/manga/2/238718.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界に落とされた…浄化は基本! @COMIC
 -   **start-date**: 2020-02-17

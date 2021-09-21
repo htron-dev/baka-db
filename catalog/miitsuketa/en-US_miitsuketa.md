@@ -1,5 +1,7 @@
 # Miitsuketa!
 
+![miitsuketa](https://cdn.myanimelist.net/images/anime/8/65981.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みーつけた！

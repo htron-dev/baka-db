@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha StrikerS Picture Drama
 
+![mahou-shoujo-lyrical-nanoha-striker-s-picture-drama](https://cdn.myanimelist.net/images/anime/1989/93064.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは StrikerS ピクチャードラマ ミッドチルダ学園へようこそ！

@@ -1,5 +1,7 @@
 # Elevator wo Orite Massugu
 
+![elevator-wo-orite-massugu](https://cdn.myanimelist.net/images/manga/1/9591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

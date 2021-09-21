@@ -1,5 +1,7 @@
 # Konya, No to wa Iwasenai...: Gaikokujin Joushi no Kemono na Honshou
 
+![konya-no-to-wa-iwasenai-gaikokujin-joushi-no-kemono-na-honshou](https://cdn.myanimelist.net/images/manga/3/235211.jpg)
+
 -   **type**: manga
 -   **original-name**: 今夜、NO とは言わせない…外国人上司のケモノな本性
 -   **start-date**: 2017-06-02

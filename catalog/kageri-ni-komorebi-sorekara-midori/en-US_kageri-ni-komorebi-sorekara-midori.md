@@ -1,5 +1,7 @@
 # Kageri ni Komorebi, Sorekara Midori
 
+![kageri-ni-komorebi-sorekara-midori](https://cdn.myanimelist.net/images/manga/2/222315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

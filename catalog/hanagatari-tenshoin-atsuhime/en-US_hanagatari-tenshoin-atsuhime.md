@@ -1,5 +1,7 @@
 # Hanagatari Tenshoin Atsuhime
 
+![hanagatari-tenshoin-atsuhime](https://cdn.myanimelist.net/images/manga/2/73773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

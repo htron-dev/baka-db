@@ -1,5 +1,7 @@
 # Kiss Me Doctor!
 
+![kiss-me-doctor](https://cdn.myanimelist.net/images/manga/4/29765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

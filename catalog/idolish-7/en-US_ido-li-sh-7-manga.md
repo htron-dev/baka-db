@@ -1,5 +1,7 @@
 # IDOLiSH7
 
+![ido-li-sh-7](https://cdn.myanimelist.net/images/manga/1/168683.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: アイドリッシュセブン

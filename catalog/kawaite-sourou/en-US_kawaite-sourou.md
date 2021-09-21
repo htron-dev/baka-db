@@ -1,5 +1,7 @@
 # Kawaite Sourou
 
+![kawaite-sourou](https://cdn.myanimelist.net/images/manga/1/145051.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

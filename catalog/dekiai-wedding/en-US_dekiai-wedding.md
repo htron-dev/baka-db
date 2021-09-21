@@ -1,5 +1,7 @@
 # Dekiai Wedding
 
+![dekiai-wedding](https://cdn.myanimelist.net/images/manga/2/247533.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 溺愛ウェディング

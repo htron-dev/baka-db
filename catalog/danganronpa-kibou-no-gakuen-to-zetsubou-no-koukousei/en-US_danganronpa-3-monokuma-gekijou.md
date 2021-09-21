@@ -1,5 +1,7 @@
 # Danganronpa 3: Monokuma Gekijou
 
+![danganronpa-3-monokuma-gekijou](https://cdn.myanimelist.net/images/anime/8/90004.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ダンガンロンパ 3 モノクマ劇場

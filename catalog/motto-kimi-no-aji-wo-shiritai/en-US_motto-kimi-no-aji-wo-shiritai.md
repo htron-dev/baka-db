@@ -1,5 +1,7 @@
 # Motto Kimi no Aji wo Shiritai
 
+![motto-kimi-no-aji-wo-shiritai](https://cdn.myanimelist.net/images/manga/3/43377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

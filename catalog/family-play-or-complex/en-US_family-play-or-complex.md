@@ -1,5 +1,7 @@
 # Family-Play or Complex?
 
+![family-play-or-complex](https://cdn.myanimelist.net/images/manga/3/122155.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ふぁみぷれっくす

@@ -1,5 +1,7 @@
 # Makyou Densetsu Acrobunch
 
+![makyou-densetsu-acrobunch](https://cdn.myanimelist.net/images/anime/11/39313.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 魔境伝説アクロバンチ

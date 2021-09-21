@@ -1,5 +1,7 @@
 # Kappei
 
+![kappei](https://cdn.myanimelist.net/images/manga/3/122103.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: KAPPEI

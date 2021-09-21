@@ -1,5 +1,7 @@
 # Josou Danshi Anthology Syrup!
 
+![josou-danshi-anthology-syrup](https://cdn.myanimelist.net/images/manga/5/86513.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

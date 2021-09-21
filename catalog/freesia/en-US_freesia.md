@@ -1,5 +1,7 @@
 # Freesia
 
+![freesia](https://cdn.myanimelist.net/images/manga/2/16481.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 84

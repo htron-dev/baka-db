@@ -1,5 +1,7 @@
 # Deadman Wonderland
 
+![deadman-wonderland](https://cdn.myanimelist.net/images/manga/3/186275.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 58

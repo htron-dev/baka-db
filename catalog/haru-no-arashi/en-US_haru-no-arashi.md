@@ -1,5 +1,7 @@
 # Haru no Arashi
 
+![haru-no-arashi](https://cdn.myanimelist.net/images/manga/2/247021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 春の嵐

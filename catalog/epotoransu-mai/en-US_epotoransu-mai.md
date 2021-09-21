@@ -1,5 +1,7 @@
 # Epotoransu! Mai
 
+![epotoransu-mai](https://cdn.myanimelist.net/images/manga/3/109479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Gyakudou no Haou Senki
 
+![gyakudou-no-haou-senki](https://cdn.myanimelist.net/images/manga/3/176513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

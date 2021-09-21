@@ -1,5 +1,7 @@
 # Mai-HiME
 
+![mai-hi-me](https://cdn.myanimelist.net/images/manga/2/178058.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

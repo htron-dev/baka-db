@@ -1,5 +1,7 @@
 # Forza! Hidemaru
 
+![forza-hidemaru](https://cdn.myanimelist.net/images/anime/13/47889.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: フォルツァ！ひでまる

@@ -1,5 +1,7 @@
 # Japonism 47
 
+![japonism-47](https://cdn.myanimelist.net/images/manga/3/201697.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャポニズム 47
 

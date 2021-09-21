@@ -1,5 +1,7 @@
 # Mokka, Mimodaeshi Mune no Uchi.
 
+![mokka-mimodaeshi-mune-no-uchi](https://cdn.myanimelist.net/images/manga/2/3727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Kamen no Romanesque
 
+![kamen-no-romanesque](https://cdn.myanimelist.net/images/manga/3/7797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 仮面のロマネスク

@@ -1,5 +1,7 @@
 # Ghost Girl
 
+![ghost-girl](https://cdn.myanimelist.net/images/manga/1/238042.jpg)
+
 -   **type**: manga
 -   **original-name**: GHOST GIRL
 -   **start-date**: 2020-07-14

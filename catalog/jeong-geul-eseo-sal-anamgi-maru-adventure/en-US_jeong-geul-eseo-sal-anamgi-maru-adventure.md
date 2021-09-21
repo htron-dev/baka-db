@@ -1,5 +1,7 @@
 # Jeong-geul-eseo Sal-anamgi: Maru Adventure
 
+![jeong-geul-eseo-sal-anamgi-maru-adventure](https://cdn.myanimelist.net/images/anime/1419/115255.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 정글에서 살아남기 마루의 어드벤처

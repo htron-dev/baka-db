@@ -1,5 +1,7 @@
 # Fateful Moments
 
+![fateful-moments](https://cdn.myanimelist.net/images/manga/2/160144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: フェイトフル・モーメンツ

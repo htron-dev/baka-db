@@ -1,5 +1,7 @@
 # Ishida to Asakura
 
+![ishida-to-asakura](https://cdn.myanimelist.net/images/manga/2/169330.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 石田とあさくら

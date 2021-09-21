@@ -1,5 +1,7 @@
 # Kiken na Kiss wa Mitsu no Aji
 
+![kiken-na-kiss-wa-mitsu-no-aji](https://cdn.myanimelist.net/images/manga/2/128459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

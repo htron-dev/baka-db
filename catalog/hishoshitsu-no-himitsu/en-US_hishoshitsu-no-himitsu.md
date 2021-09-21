@@ -1,5 +1,7 @@
 # Hishoshitsu no Himitsu
 
+![hishoshitsu-no-himitsu](https://cdn.myanimelist.net/images/manga/3/2799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

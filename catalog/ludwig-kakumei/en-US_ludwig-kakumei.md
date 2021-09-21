@@ -1,5 +1,7 @@
 # Ludwig Kakumei
 
+![ludwig-kakumei](https://cdn.myanimelist.net/images/manga/2/198404.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

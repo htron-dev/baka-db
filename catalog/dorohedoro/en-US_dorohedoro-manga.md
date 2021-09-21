@@ -1,5 +1,7 @@
 # Dorohedoro
 
+![dorohedoro](https://cdn.myanimelist.net/images/manga/2/143111.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 190

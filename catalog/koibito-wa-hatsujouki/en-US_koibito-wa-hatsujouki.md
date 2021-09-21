@@ -1,5 +1,7 @@
 # Koibito wa Hatsujouki
 
+![koibito-wa-hatsujouki](https://cdn.myanimelist.net/images/manga/2/39859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

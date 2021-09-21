@@ -1,5 +1,7 @@
 # Jinrou Chronicle
 
+![jinrou-chronicle](https://cdn.myanimelist.net/images/manga/1/104451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 神狼クロニクル

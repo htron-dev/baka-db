@@ -1,5 +1,7 @@
 # Hiru no Sentozake
 
+![hiru-no-sentozake](https://cdn.myanimelist.net/images/manga/3/227190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kowamote Kishi wa Shinpaishou
 
+![kowamote-kishi-wa-shinpaishou](https://cdn.myanimelist.net/images/manga/2/180935.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

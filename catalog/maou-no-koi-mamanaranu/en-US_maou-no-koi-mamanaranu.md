@@ -1,5 +1,7 @@
 # Maou no Koi, Mamanaranu.
 
+![maou-no-koi-mamanaranu](https://cdn.myanimelist.net/images/manga/1/244370.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

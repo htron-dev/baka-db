@@ -1,5 +1,7 @@
 # Megane Ouji no Honey Trap: Oukyuu Toshokan no Midara na Hirusagari
 
+![megane-ouji-no-honey-trap-oukyuu-toshokan-no-midara-na-hirusagari](https://cdn.myanimelist.net/images/manga/2/183626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

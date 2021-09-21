@@ -1,5 +1,7 @@
 # Huoli Shaonian Wang 3: Xuji
 
+![huoli-shaonian-wang-3-xuji](https://cdn.myanimelist.net/images/anime/1162/105836.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 火力少年王 3 续集

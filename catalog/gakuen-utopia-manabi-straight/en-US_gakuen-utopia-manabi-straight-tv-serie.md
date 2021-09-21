@@ -1,5 +1,7 @@
 # Gakuen Utopia Manabi Straight!
 
+![gakuen-utopia-manabi-straight](https://cdn.myanimelist.net/images/anime/13/4907.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: がくえんゆーとぴあ まなびストレート！

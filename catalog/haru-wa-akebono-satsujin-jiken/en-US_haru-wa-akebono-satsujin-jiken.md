@@ -1,5 +1,7 @@
 # Haru wa Akebono Satsujin Jiken
 
+![haru-wa-akebono-satsujin-jiken](https://cdn.myanimelist.net/images/manga/3/36647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

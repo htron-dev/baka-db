@@ -1,5 +1,7 @@
 # Kakumo Nagaki Itami
 
+![kakumo-nagaki-itami](https://cdn.myanimelist.net/images/manga/1/21145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

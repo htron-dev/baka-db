@@ -1,5 +1,7 @@
 # Miss Rain
 
+![miss-rain](https://cdn.myanimelist.net/images/manga/4/202530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

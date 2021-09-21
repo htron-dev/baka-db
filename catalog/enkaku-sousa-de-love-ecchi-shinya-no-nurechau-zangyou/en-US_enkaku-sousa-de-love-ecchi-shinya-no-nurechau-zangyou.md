@@ -1,5 +1,7 @@
 # Enkaku Sousa de Love Ecchi!? Shinya no Nurechau Zangyou
 
+![enkaku-sousa-de-love-ecchi-shinya-no-nurechau-zangyou](https://cdn.myanimelist.net/images/manga/1/196104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Golden Sparkle
 
+![golden-sparkle](https://cdn.myanimelist.net/images/manga/1/224007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Gal Kadou
 
+![gal-kadou](https://cdn.myanimelist.net/images/manga/1/82302.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ギャル華道

@@ -1,5 +1,7 @@
 # Duranki
 
+![duranki](https://cdn.myanimelist.net/images/manga/2/221814.jpg)
+
 -   **type**: manga
 -   **original-name**: ドゥルアンキ
 -   **start-date**: 2019-09-09

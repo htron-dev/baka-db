@@ -1,5 +1,7 @@
 # Minori no Te
 
+![minori-no-te](https://cdn.myanimelist.net/images/manga/3/166040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

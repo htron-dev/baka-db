@@ -1,5 +1,7 @@
 # Fandou Dou
 
+![fandou-dou](https://cdn.myanimelist.net/images/anime/1960/115490.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 翻斗豆

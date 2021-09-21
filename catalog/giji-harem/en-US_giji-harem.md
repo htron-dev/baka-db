@@ -1,5 +1,7 @@
 # Giji Harem
 
+![giji-harem](https://cdn.myanimelist.net/images/manga/3/219464.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 157

@@ -1,5 +1,7 @@
 # Kakeyuku Toshi no Moon Doll
 
+![kakeyuku-toshi-no-moon-doll](https://cdn.myanimelist.net/images/manga/2/198703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kyuuketsuki Sugu Shinu
 
+![kyuuketsuki-sugu-shinu](https://cdn.myanimelist.net/images/manga/3/219690.jpg)
+
 -   **type**: manga
 -   **original-name**: 吸血鬼すぐ死ぬ
 -   **start-date**: 2015-06-25

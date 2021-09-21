@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Twilight Axis
 
+![mobile-suit-gundam-twilight-axis](https://cdn.myanimelist.net/images/anime/7/85773.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 機動戦士ガンダム Twilight AXIS

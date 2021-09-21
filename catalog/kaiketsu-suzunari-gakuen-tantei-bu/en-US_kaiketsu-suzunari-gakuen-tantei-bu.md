@@ -1,5 +1,7 @@
 # Kaiketsu! Suzunari Gakuen Tantei-bu
 
+![kaiketsu-suzunari-gakuen-tantei-bu](https://cdn.myanimelist.net/images/manga/1/229390.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

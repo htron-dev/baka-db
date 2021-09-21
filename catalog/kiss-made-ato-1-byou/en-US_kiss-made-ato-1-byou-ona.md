@@ -1,5 +1,7 @@
 # Kiss made, Ato 1 Byou.
 
+![kiss-made-ato-1-byou](https://cdn.myanimelist.net/images/anime/1369/93435.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: キスまで, あと 1 秒.

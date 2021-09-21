@@ -1,5 +1,7 @@
 # Genjuu Chousain
 
+![genjuu-chousain](https://cdn.myanimelist.net/images/manga/1/186826.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Hatsukoi no 70% wa
 
+![hatsukoi-no-70-wa](https://cdn.myanimelist.net/images/manga/2/64917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

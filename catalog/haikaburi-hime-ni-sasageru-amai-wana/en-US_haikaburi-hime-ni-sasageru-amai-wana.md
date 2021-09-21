@@ -1,5 +1,7 @@
 # Haikaburi-hime ni Sasageru Amai Wana
 
+![haikaburi-hime-ni-sasageru-amai-wana](https://cdn.myanimelist.net/images/manga/1/214998.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 灰かぶり姫に捧げる甘い罠

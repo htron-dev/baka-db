@@ -1,5 +1,7 @@
 # Majutsushi Orphen Hagure Tabi Max
 
+![majutsushi-orphen-hagure-tabi-max](https://cdn.myanimelist.net/images/manga/1/3184.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

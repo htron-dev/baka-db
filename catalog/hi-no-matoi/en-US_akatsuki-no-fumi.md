@@ -1,5 +1,7 @@
 # Akatsuki no Fumi
 
+![akatsuki-no-fumi](https://cdn.myanimelist.net/images/manga/1/81910.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

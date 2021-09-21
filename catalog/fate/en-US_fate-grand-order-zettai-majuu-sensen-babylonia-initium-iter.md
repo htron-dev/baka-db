@@ -1,5 +1,7 @@
 # Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter
 
+![fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter](https://cdn.myanimelist.net/images/anime/1864/102399.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Fate/Grand Order -絶対魔獣戦線バビロニア- Initium Iter

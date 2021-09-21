@@ -1,5 +1,7 @@
 # Koi ni Ochitara
 
+![koi-ni-ochitara](https://cdn.myanimelist.net/images/manga/3/129099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

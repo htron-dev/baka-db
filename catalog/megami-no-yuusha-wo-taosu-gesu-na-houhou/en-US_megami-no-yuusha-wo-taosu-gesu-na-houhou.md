@@ -1,5 +1,7 @@
 # Megami no Yuusha wo Taosu Gesu na Houhou
 
+![megami-no-yuusha-wo-taosu-gesu-na-houhou](https://cdn.myanimelist.net/images/manga/3/217829.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 42

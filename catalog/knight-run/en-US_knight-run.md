@@ -1,5 +1,7 @@
 # Knight Run
 
+![knight-run](https://cdn.myanimelist.net/images/manga/1/70641.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나이트런
 -   **start-date**: 2009-05-04

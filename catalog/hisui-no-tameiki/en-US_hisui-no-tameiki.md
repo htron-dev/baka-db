@@ -1,5 +1,7 @@
 # Hisui no Tameiki
 
+![hisui-no-tameiki](https://cdn.myanimelist.net/images/manga/2/20548.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

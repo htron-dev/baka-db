@@ -1,5 +1,7 @@
 # Karen Senki
 
+![karen-senki](https://cdn.myanimelist.net/images/anime/13/66677.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 夏恋戦機

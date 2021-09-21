@@ -1,5 +1,7 @@
 # Gou-chan.: Moko to Chinjuu no Mori no Nakama-tachi
 
+![gou-chan-moko-to-chinjuu-no-mori-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/11/83252.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴーちゃん。〜モコとちんじゅうの森の仲間たち〜

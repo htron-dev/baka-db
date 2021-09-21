@@ -1,5 +1,7 @@
 # Hoero Pen
 
+![hoero-pen](https://cdn.myanimelist.net/images/manga/2/208999.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 57

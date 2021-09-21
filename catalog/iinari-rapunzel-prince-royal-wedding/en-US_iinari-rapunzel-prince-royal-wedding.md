@@ -1,5 +1,7 @@
 # Iinari Rapunzel: Prince Royal Wedding
 
+![iinari-rapunzel-prince-royal-wedding](https://cdn.myanimelist.net/images/manga/2/183792.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Iede Musume Hiroimashita
 
+![iede-musume-hiroimashita](https://cdn.myanimelist.net/images/manga/1/178295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

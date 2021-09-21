@@ -1,5 +1,7 @@
 # Ikebukuro Stingray
 
+![ikebukuro-stingray](https://cdn.myanimelist.net/images/manga/1/203684.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

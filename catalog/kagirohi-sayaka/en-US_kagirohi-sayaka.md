@@ -1,5 +1,7 @@
 # Kagirohi Sayaka
 
+![kagirohi-sayaka](https://cdn.myanimelist.net/images/manga/5/139955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: かぎろひさやか

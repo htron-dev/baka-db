@@ -1,5 +1,7 @@
 # Hana to Konjou: Boudai Danshi ni Koishimashita.
 
+![hana-to-konjou-boudai-danshi-ni-koishimashita](https://cdn.myanimelist.net/images/manga/2/247586.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Hitorimi Haduki-san to.
 
+![hitorimi-haduki-san-to](https://cdn.myanimelist.net/images/manga/3/130813.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

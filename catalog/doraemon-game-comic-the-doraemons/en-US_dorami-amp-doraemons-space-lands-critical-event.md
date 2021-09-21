@@ -1,5 +1,7 @@
 # Dorami &amp; Doraemons: Space Land's Critical Event
 
+![dorami-amp-doraemons-space-lands-critical-event](https://cdn.myanimelist.net/images/anime/8/29010.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラミ＆ドラえもんズ 宇宙（スペース）ランド危機イッパツ！

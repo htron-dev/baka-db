@@ -1,5 +1,7 @@
 # Hot Heart Rhythm
 
+![hot-heart-rhythm](https://cdn.myanimelist.net/images/manga/2/10845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Ｈ２ → Ｒ

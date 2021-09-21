@@ -1,5 +1,7 @@
 # Densetsu no Kashira: Shou
 
+![densetsu-no-kashira-shou](https://cdn.myanimelist.net/images/manga/3/45965.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 伝説の頭 翔

@@ -1,5 +1,7 @@
 # Hashiri Tsuzukete Yokattatte.
 
+![hashiri-tsuzukete-yokattatte](https://cdn.myanimelist.net/images/anime/1533/94555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 走り続けてよかったって。

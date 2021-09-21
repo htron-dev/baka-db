@@ -1,5 +1,7 @@
 # Fire Emblem if: Byakuya Oukoku Comic Anthology
 
+![fire-emblem-if-byakuya-oukoku-comic-anthology](https://cdn.myanimelist.net/images/manga/2/236733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

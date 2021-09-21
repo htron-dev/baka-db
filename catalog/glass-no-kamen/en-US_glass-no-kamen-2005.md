@@ -1,5 +1,7 @@
 # Glass no Kamen (2005)
 
+![glass-no-kamen-2005](https://cdn.myanimelist.net/images/anime/1/2043.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ガラスの仮面 (2005)

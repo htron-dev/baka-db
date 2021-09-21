@@ -1,5 +1,7 @@
 # Die Dol
 
+![die-dol](https://cdn.myanimelist.net/images/manga/2/193605.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

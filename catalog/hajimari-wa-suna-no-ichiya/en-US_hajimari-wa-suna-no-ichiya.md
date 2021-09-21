@@ -1,5 +1,7 @@
 # Hajimari wa Suna no Ichiya
 
+![hajimari-wa-suna-no-ichiya](https://cdn.myanimelist.net/images/manga/3/150243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

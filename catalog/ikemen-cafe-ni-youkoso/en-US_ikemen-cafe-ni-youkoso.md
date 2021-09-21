@@ -1,5 +1,7 @@
 # Ikemen Cafe ni Youkoso
 
+![ikemen-cafe-ni-youkoso](https://cdn.myanimelist.net/images/manga/3/31319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: イケメンカフェにようこそ

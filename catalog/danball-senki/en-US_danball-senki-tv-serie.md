@@ -1,5 +1,7 @@
 # Danball Senki
 
+![danball-senki](https://cdn.myanimelist.net/images/anime/1937/94703.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: ダンボール戦機

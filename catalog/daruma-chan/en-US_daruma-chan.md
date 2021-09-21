@@ -1,5 +1,7 @@
 # Daruma-chan
 
+![daruma-chan](https://cdn.myanimelist.net/images/anime/1150/99358.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: だるまちゃん

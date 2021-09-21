@@ -1,5 +1,7 @@
 # Jakushou Soshage-bu no Bokura ga Kamige wo Tsukuru made
 
+![jakushou-soshage-bu-no-bokura-ga-kamige-wo-tsukuru-made](https://cdn.myanimelist.net/images/manga/3/237146.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 弱小ソシャゲ部の僕らが神ゲーを作るまで
 -   **start-date**: 2019-12-25

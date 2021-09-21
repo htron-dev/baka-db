@@ -1,5 +1,7 @@
 # Home!
 
+![home](https://cdn.myanimelist.net/images/anime/1314/113741.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: HOME!

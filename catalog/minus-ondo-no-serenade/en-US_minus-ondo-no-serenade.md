@@ -1,5 +1,7 @@
 # Minus Ondo no Serenade
 
+![minus-ondo-no-serenade](https://cdn.myanimelist.net/images/manga/2/204608.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

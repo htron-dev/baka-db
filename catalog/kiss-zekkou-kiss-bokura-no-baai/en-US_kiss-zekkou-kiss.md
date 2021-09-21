@@ -1,5 +1,7 @@
 # Kiss, Zekkou, Kiss
 
+![kiss-zekkou-kiss](https://cdn.myanimelist.net/images/manga/2/135319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Kouman to Henken
 
+![kouman-to-henken](https://cdn.myanimelist.net/images/manga/3/87821.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

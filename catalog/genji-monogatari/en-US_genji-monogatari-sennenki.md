@@ -1,5 +1,7 @@
 # Genji Monogatari Sennenki
 
+![genji-monogatari-sennenki](https://cdn.myanimelist.net/images/anime/5/26659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 源氏物語千年紀 Genji

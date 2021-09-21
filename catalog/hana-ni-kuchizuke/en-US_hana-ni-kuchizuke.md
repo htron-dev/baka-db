@@ -1,5 +1,7 @@
 # Hana ni Kuchizuke
 
+![hana-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/1/193256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Iinari!! Kyuuketsuhime
 
+![iinari-kyuuketsuhime](https://cdn.myanimelist.net/images/manga/2/61259.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

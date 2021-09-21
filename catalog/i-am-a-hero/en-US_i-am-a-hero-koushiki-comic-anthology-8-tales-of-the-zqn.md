@@ -1,5 +1,7 @@
 # I Am a Hero Koushiki Comic Anthology: 8 Tales of the ZQN
 
+![i-am-a-hero-koushiki-comic-anthology-8-tales-of-the-zqn](https://cdn.myanimelist.net/images/manga/1/185091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

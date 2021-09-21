@@ -1,5 +1,7 @@
 # Kamome☆Chance
 
+![kamome☆-chance](https://cdn.myanimelist.net/images/manga/1/106221.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 213

@@ -1,5 +1,7 @@
 # Goumon Meikyuu
 
+![goumon-meikyuu](https://cdn.myanimelist.net/images/manga/1/227000.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

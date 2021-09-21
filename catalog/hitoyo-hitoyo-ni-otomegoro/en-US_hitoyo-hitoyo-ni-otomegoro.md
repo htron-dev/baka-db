@@ -1,5 +1,7 @@
 # Hitoyo Hitoyo ni Otomegoro
 
+![hitoyo-hitoyo-ni-otomegoro](https://cdn.myanimelist.net/images/manga/1/139531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

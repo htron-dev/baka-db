@@ -1,5 +1,7 @@
 # Mashiro-iro Symphony: The Color of Lovers Picture Drama
 
+![mashiro-iro-symphony-the-color-of-lovers-picture-drama](https://cdn.myanimelist.net/images/anime/9/38265.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ましろ色シンフォニー -The color of lovers- ピクチャードラマ

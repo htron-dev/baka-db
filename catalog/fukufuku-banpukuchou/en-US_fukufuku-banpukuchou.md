@@ -1,5 +1,7 @@
 # Fukufuku Banpukuchou
 
+![fukufuku-banpukuchou](https://cdn.myanimelist.net/images/manga/3/242559.jpg)
+
 -   **type**: manga
 -   **original-name**: ふくふく万福帳
 -   **start-date**: 2021-03-15

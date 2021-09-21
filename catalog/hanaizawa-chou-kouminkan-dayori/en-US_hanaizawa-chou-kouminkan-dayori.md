@@ -1,5 +1,7 @@
 # Hanaizawa-chou Kouminkan-dayori
 
+![hanaizawa-chou-kouminkan-dayori](https://cdn.myanimelist.net/images/manga/1/225903.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

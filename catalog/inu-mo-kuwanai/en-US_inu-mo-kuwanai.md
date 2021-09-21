@@ -1,5 +1,7 @@
 # Inu mo Kuwanai
 
+![inu-mo-kuwanai](https://cdn.myanimelist.net/images/manga/3/170547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

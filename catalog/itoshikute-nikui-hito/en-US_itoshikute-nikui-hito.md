@@ -1,5 +1,7 @@
 # Itoshikute Nikui Hito
 
+![itoshikute-nikui-hito](https://cdn.myanimelist.net/images/manga/1/58985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

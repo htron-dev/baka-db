@@ -1,5 +1,7 @@
 # Joshi Manager no Do Ecchi Sex Bukatsu Nisshi
 
+![joshi-manager-no-do-ecchi-sex-bukatsu-nisshi](https://cdn.myanimelist.net/images/manga/1/196583.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Super Family Complete
 
+![super-family-complete](https://cdn.myanimelist.net/images/manga/3/110817.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: SUPER ファミリーコンプリート

@@ -1,5 +1,7 @@
 # Kekkou Kamen
 
+![kekkou-kamen](https://cdn.myanimelist.net/images/anime/10/60049.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: けっこう仮面

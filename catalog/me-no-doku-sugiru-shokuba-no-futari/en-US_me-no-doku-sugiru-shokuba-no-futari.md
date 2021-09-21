@@ -1,5 +1,7 @@
 # Me no Doku Sugiru Shokuba no Futari
 
+![me-no-doku-sugiru-shokuba-no-futari](https://cdn.myanimelist.net/images/manga/2/245520.jpg)
+
 -   **type**: manga
 -   **original-name**: 目の毒すぎる職場のふたり
 -   **start-date**: 2019-05-24

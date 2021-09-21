@@ -1,5 +1,7 @@
 # Gekka no Kishi
 
+![gekka-no-kishi](https://cdn.myanimelist.net/images/manga/1/94445.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 351

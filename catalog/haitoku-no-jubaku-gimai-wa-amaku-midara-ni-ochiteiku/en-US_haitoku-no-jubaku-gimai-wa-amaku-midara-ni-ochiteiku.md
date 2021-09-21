@@ -1,5 +1,7 @@
 # Haitoku no Jubaku: Gimai wa Amaku Midara ni Ochiteiku
 
+![haitoku-no-jubaku-gimai-wa-amaku-midara-ni-ochiteiku](https://cdn.myanimelist.net/images/manga/1/195973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

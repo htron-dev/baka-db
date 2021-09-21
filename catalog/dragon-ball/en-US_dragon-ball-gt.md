@@ -1,5 +1,7 @@
 # Dragon Ball GT
 
+![dragon-ball-gt](https://cdn.myanimelist.net/images/anime/1262/93119.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: ドラゴンボール GT

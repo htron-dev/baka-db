@@ -1,5 +1,7 @@
 # Maou-sama, "Petit" Retry!
 
+![maou-sama-petit-retry](https://cdn.myanimelist.net/images/anime/1722/104439.jpg)
+
 -   **type**: ona
 -   **episodes**: 23
 -   **original-name**: 魔王様、“プチ”リトライ！

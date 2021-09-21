@@ -1,5 +1,7 @@
 # Muou no Hosomichi
 
+![muou-no-hosomichi](https://cdn.myanimelist.net/images/manga/2/163320.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

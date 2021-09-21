@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan Specials
 
+![dr-slump-arale-chan-specials](https://cdn.myanimelist.net/images/anime/13/68505.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Dr.スランプアラレちゃんスペシャル

@@ -1,5 +1,7 @@
 # Leviathan no Koibito
 
+![leviathan-no-koibito](https://cdn.myanimelist.net/images/manga/3/63987.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レヴィアタンの恋人
 -   **start-date**: 2007-06-19

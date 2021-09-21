@@ -1,5 +1,7 @@
 # Kimi to Tsuzuru Utakata
 
+![kimi-to-tsuzuru-utakata](https://cdn.myanimelist.net/images/manga/1/239675.jpg)
+
 -   **type**: manga
 -   **original-name**: 君と綴るうたかた
 -   **start-date**: 2020-05-18

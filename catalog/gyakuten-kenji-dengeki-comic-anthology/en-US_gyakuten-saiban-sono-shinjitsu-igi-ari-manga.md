@@ -1,5 +1,7 @@
 # Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
+![gyakuten-saiban-sono-shinjitsu-igi-ari](https://cdn.myanimelist.net/images/manga/3/185362.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

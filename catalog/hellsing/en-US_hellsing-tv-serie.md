@@ -1,5 +1,7 @@
 # Hellsing
 
+![hellsing](https://cdn.myanimelist.net/images/anime/10/19956.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Hellsing [ヘルシング]

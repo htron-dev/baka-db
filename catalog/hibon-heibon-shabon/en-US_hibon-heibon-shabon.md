@@ -1,5 +1,7 @@
 # Hibon Heibon Shabon!
 
+![hibon-heibon-shabon](https://cdn.myanimelist.net/images/manga/1/235518.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 非凡・平凡・シャボン!

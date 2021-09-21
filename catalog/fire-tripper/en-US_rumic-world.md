@@ -1,5 +1,7 @@
 # Rumic World
 
+![rumic-world](https://cdn.myanimelist.net/images/manga/3/14540.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

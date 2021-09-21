@@ -1,5 +1,7 @@
 # Haru x Kiyo
 
+![haru-x-kiyo](https://cdn.myanimelist.net/images/manga/2/165636.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 38

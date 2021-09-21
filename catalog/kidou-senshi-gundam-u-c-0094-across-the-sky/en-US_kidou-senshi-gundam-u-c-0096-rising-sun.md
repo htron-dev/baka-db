@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam U.C.0096: Rising Sun
 
+![kidou-senshi-gundam-u-c-0096-rising-sun](https://cdn.myanimelist.net/images/manga/3/199112.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

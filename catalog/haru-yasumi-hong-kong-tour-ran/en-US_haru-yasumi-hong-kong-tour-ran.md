@@ -1,5 +1,7 @@
 # Haru Yasumi Hong Kong Tour Ran
 
+![haru-yasumi-hong-kong-tour-ran](https://cdn.myanimelist.net/images/manga/1/31004.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 春休み香港ツアーの乱

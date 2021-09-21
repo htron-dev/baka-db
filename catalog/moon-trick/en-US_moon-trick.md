@@ -1,5 +1,7 @@
 # Moon Trick
 
+![moon-trick](https://cdn.myanimelist.net/images/manga/1/208262.jpg)
+
 -   **type**: manga
 -   **original-name**: MOON・TRICK
 -   **start-date**: 2010-10-20

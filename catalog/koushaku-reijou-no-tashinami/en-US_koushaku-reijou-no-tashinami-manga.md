@@ -1,5 +1,7 @@
 # Koushaku Reijou no Tashinami
 
+![koushaku-reijou-no-tashinami](https://cdn.myanimelist.net/images/manga/1/183410.jpg)
+
 -   **type**: manga
 -   **original-name**: 公爵令嬢の嗜み
 -   **start-date**: 2015-12-22

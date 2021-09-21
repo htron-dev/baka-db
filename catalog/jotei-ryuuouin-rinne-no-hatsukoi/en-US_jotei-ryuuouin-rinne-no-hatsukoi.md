@@ -1,5 +1,7 @@
 # Jotei Ryuuouin Rinne no Hatsukoi
 
+![jotei-ryuuouin-rinne-no-hatsukoi](https://cdn.myanimelist.net/images/manga/3/125765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

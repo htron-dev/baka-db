@@ -1,5 +1,7 @@
 # Kissaten Soudou
 
+![kissaten-soudou](https://cdn.myanimelist.net/images/anime/8/81518.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 喫茶店騒動

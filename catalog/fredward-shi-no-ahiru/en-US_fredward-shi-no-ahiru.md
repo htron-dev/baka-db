@@ -1,5 +1,7 @@
 # Fredward-shi no Ahiru
 
+![fredward-shi-no-ahiru](https://cdn.myanimelist.net/images/manga/2/38001.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: フレッドウォード氏のアヒル

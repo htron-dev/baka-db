@@ -1,5 +1,7 @@
 # Freeter ga Jimi ni Isekai Teni suru Manga
 
+![freeter-ga-jimi-ni-isekai-teni-suru-manga](https://cdn.myanimelist.net/images/manga/2/225426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

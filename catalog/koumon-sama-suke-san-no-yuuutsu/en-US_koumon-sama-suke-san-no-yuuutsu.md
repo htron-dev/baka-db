@@ -1,5 +1,7 @@
 # Koumon-sama: Suke-san no Yuuutsu
 
+![koumon-sama-suke-san-no-yuuutsu](https://cdn.myanimelist.net/images/manga/3/226904.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Kuroneko no Ekichou-san
 
+![kuroneko-no-ekichou-san](https://cdn.myanimelist.net/images/manga/3/142993.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 51

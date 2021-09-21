@@ -1,5 +1,7 @@
 # Her Tale of Shim Chong
 
+![her-tale-of-shim-chong](https://cdn.myanimelist.net/images/manga/1/229462.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 그녀의 심청
 -   **start-date**: 2017-09-12

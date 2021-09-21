@@ -1,5 +1,7 @@
 # Mabataki no Aida
 
+![mabataki-no-aida](https://cdn.myanimelist.net/images/manga/1/128617.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

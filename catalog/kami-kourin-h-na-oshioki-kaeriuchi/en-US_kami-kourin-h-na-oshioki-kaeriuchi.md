@@ -1,5 +1,7 @@
 # Kami Kourin: H na Oshioki Kaeriuchi
 
+![kami-kourin-h-na-oshioki-kaeriuchi](https://cdn.myanimelist.net/images/manga/2/169766.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

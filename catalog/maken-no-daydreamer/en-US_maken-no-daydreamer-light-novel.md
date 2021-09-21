@@ -1,5 +1,7 @@
 # Maken no Daydreamer
 
+![maken-no-daydreamer](https://cdn.myanimelist.net/images/manga/1/177039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **original-name**: 魔拳のデイドリーマー

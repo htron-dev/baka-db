@@ -1,5 +1,7 @@
 # μ&amp;i
 
+![μ-amp-i](https://cdn.myanimelist.net/images/manga/3/162054.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Medusa
 
+![medusa](https://cdn.myanimelist.net/images/manga/2/232026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

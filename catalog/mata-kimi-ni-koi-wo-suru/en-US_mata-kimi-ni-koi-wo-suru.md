@@ -1,5 +1,7 @@
 # Mata Kimi ni Koi wo Suru
 
+![mata-kimi-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/222656.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

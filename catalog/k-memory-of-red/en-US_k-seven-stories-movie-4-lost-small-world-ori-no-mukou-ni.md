@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni
 
+![k-seven-stories-movie-4-lost-small-world-ori-no-mukou-ni](https://cdn.myanimelist.net/images/anime/1211/91852.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories Lost Small World ~檻の向こうに~

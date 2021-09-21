@@ -1,5 +1,7 @@
 # Hitori to Hitori no 3650-nichi
 
+![hitori-to-hitori-no-3650-nichi](https://cdn.myanimelist.net/images/manga/2/235765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Marin to Yamato: Fushigi na Nichiyoubi
 
+![marin-to-yamato-fushigi-na-nichiyoubi](https://cdn.myanimelist.net/images/anime/8/89621.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マリンとヤマト 不思議な日曜日

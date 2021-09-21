@@ -1,5 +1,7 @@
 # Embryon Road
 
+![embryon-road](https://cdn.myanimelist.net/images/manga/3/15126.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 44

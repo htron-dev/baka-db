@@ -1,5 +1,7 @@
 # Kaiki! Shiniku no Otoko
 
+![kaiki-shiniku-no-otoko](https://cdn.myanimelist.net/images/manga/2/94529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

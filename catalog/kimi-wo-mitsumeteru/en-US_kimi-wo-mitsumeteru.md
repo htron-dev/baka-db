@@ -1,5 +1,7 @@
 # Kimi wo Mitsumeteru
 
+![kimi-wo-mitsumeteru](https://cdn.myanimelist.net/images/manga/1/132471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君をみつめてる

@@ -1,5 +1,7 @@
 # Happy Yarou Wedding♡
 
+![happy-yarou-wedding♡](https://cdn.myanimelist.net/images/manga/2/73509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

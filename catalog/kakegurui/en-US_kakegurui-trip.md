@@ -1,5 +1,7 @@
 # Kakegurui Trip
 
+![kakegurui-trip](https://cdn.myanimelist.net/images/manga/2/225978.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

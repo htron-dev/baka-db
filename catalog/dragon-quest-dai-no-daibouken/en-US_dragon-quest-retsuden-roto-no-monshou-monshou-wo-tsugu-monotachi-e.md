@@ -1,5 +1,7 @@
 # Dragon Quest Retsuden: Roto no Monshou - Monshou wo Tsugu Monotachi e
 
+![dragon-quest-retsuden-roto-no-monshou-monshou-wo-tsugu-monotachi-e](https://cdn.myanimelist.net/images/manga/2/133281.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンクエスト列伝 ロトの紋章 ～紋章を継ぐ者達へ～
 -   **start-date**: 2005-07-25

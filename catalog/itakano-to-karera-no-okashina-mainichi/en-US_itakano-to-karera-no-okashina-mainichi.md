@@ -1,5 +1,7 @@
 # Itakano to Karera no Okashina Mainichi
 
+![itakano-to-karera-no-okashina-mainichi](https://cdn.myanimelist.net/images/manga/1/133169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: イタカノと彼らのおかしな毎日

@@ -1,5 +1,7 @@
 # Kanon: Honto no Omoi wa Egao no Mukougawa ni
 
+![kanon-honto-no-omoi-wa-egao-no-mukougawa-ni](https://cdn.myanimelist.net/images/manga/3/4296.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

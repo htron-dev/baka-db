@@ -1,5 +1,7 @@
 # Jahy-sama wa Kujikenai!
 
+![jahy-sama-wa-kujikenai](https://cdn.myanimelist.net/images/manga/2/206958.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャヒー様はくじけない！
 -   **start-date**: 2017-08-22

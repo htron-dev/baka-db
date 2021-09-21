@@ -1,5 +1,7 @@
 # Master of Torque 3
 
+![master-of-torque-3](https://cdn.myanimelist.net/images/anime/1029/93021.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: マスター・オブ・トルク 3

@@ -1,5 +1,7 @@
 # Hoshokukei Heroine ni Ato 1-nen Inai ni Taberaremasu
 
+![hoshokukei-heroine-ni-ato-1-nen-inai-ni-taberaremasu](https://cdn.myanimelist.net/images/manga/1/225832.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

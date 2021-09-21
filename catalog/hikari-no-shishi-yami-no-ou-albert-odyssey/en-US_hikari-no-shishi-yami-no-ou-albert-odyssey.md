@@ -1,5 +1,7 @@
 # Hikari no Shishi, Yami no Ou - Albert Odyssey
 
+![hikari-no-shishi-yami-no-ou-albert-odyssey](https://cdn.myanimelist.net/images/manga/2/32554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 光の獅子 闇の王 アルバート オデッセイ

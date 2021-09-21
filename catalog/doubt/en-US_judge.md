@@ -1,5 +1,7 @@
 # Judge
 
+![judge](https://cdn.myanimelist.net/images/manga/3/184476.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

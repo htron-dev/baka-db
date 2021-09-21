@@ -1,5 +1,7 @@
 # Gijin
 
+![gijin](https://cdn.myanimelist.net/images/manga/2/235818.jpg)
+
 -   **type**: manga
 -   **original-name**: ギジン
 -   **start-date**: 2019-10-18

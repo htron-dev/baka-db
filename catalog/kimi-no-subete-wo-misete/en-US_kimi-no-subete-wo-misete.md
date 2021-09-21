@@ -1,5 +1,7 @@
 # Kimi no Subete wo Misete
 
+![kimi-no-subete-wo-misete](https://cdn.myanimelist.net/images/manga/1/12463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミのすべてを見せて

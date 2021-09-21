@@ -1,5 +1,7 @@
 # Fanren Xiu Xian Chuan: Fanren Feng Qi Tian Nan
 
+![fanren-xiu-xian-chuan-fanren-feng-qi-tian-nan](https://cdn.myanimelist.net/images/anime/1085/109745.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 凡人修仙传 凡人风起天南

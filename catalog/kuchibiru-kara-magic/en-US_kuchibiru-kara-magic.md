@@ -1,5 +1,7 @@
 # Kuchibiru kara Magic
 
+![kuchibiru-kara-magic](https://cdn.myanimelist.net/images/manga/1/208761.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: くちびるから魔法〈マジック〉

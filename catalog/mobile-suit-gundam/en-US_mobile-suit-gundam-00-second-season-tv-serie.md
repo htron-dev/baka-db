@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 Second Season
 
+![mobile-suit-gundam-00-second-season](https://cdn.myanimelist.net/images/anime/9/12782.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 機動戦士ガンダム 00 セカンドシーズン

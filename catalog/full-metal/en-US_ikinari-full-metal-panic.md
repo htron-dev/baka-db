@@ -1,5 +1,7 @@
 # Ikinari! Full Metal Panic!
 
+![ikinari-full-metal-panic](https://cdn.myanimelist.net/images/manga/3/126271.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

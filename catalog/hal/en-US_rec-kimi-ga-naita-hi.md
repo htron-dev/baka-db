@@ -1,5 +1,7 @@
 # Rec: Kimi ga Naita Hi
 
+![rec-kimi-ga-naita-hi](https://cdn.myanimelist.net/images/manga/2/151524.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

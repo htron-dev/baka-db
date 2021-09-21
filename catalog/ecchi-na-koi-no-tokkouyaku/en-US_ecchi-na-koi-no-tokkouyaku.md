@@ -1,5 +1,7 @@
 # Ecchi na Koi no Tokkouyaku
 
+![ecchi-na-koi-no-tokkouyaku](https://cdn.myanimelist.net/images/manga/1/153388.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: エッチな恋の特効薬

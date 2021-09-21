@@ -1,5 +1,7 @@
 # Di Gi Charat: Koushiki Comic Anthology
 
+![di-gi-charat-koushiki-comic-anthology](https://cdn.myanimelist.net/images/manga/5/977.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 72

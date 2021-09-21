@@ -1,5 +1,7 @@
 # Hana no Mahoutsukai Mary Bell: Phoenix no Kagi
 
+![hana-no-mahoutsukai-mary-bell-phoenix-no-kagi](https://cdn.myanimelist.net/images/anime/13/27295.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花の魔法使いマリーベル フェニックスのかぎ

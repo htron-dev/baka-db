@@ -1,5 +1,7 @@
 # Hadaka no Fiancée: Binbougami to Onzoushi no Koi
 
+![hadaka-no-fiancee-binbougami-to-onzoushi-no-koi](https://cdn.myanimelist.net/images/manga/3/193422.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

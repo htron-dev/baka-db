@@ -1,5 +1,7 @@
 # Kodomo no Jikan Recap
 
+![kodomo-no-jikan-recap](https://cdn.myanimelist.net/images/anime/5/9186.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: こどものじかん

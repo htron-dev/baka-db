@@ -1,8 +1,10 @@
 # Zenryoku Yobikou 5.5 Seminar Prologue
 
+![zenryoku-yobikou-5-5-seminar-prologue](https://cdn.myanimelist.net/images/anime/2/80754.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
--   **original-name**: 全力予備校5.5ゼミナール プロローグ
+-   **original-name**: 全力予備校 5.5 ゼミナール プロローグ
 -   **start-date**: 2015-07-20
 -   **rating**: PG-13 - Teens 13 or older
 

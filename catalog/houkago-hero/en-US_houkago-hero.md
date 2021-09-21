@@ -1,5 +1,7 @@
 # Houkago Hero
 
+![houkago-hero](https://cdn.myanimelist.net/images/manga/3/180847.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

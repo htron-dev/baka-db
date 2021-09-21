@@ -1,5 +1,7 @@
 # Kirishima-kun wa Taiga-kun no Dorei
 
+![kirishima-kun-wa-taiga-kun-no-dorei](https://cdn.myanimelist.net/images/manga/2/236816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

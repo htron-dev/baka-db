@@ -1,5 +1,7 @@
 # Grand Doll
 
+![grand-doll](https://cdn.myanimelist.net/images/manga/3/36139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

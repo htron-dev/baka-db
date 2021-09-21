@@ -1,5 +1,7 @@
 # Meiji Tokyo Renka Movie 1: Yumihari no Serenade
 
+![meiji-tokyo-renka-movie-1-yumihari-no-serenade](https://cdn.myanimelist.net/images/anime/11/73855.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「明治東亰恋伽」～弦月の小夜曲～

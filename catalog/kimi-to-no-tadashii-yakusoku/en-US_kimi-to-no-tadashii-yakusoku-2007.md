@@ -1,5 +1,7 @@
 # Kimi to no Tadashii Yakusoku (2007)
 
+![kimi-to-no-tadashii-yakusoku-2007](https://cdn.myanimelist.net/images/anime/11/83671.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 君との正しい約束

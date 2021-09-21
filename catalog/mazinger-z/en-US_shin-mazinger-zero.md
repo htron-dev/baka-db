@@ -1,5 +1,7 @@
 # Shin Mazinger Zero
 
+![shin-mazinger-zero](https://cdn.myanimelist.net/images/manga/2/152912.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 43

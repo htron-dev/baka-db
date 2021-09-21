@@ -1,5 +1,7 @@
 # Konna Otoko ni Te wo Dasuna!
 
+![konna-otoko-ni-te-wo-dasuna](https://cdn.myanimelist.net/images/manga/3/237757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

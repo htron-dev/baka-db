@@ -1,5 +1,7 @@
 # Gaza: Changing the World
 
+![gaza-changing-the-world](https://cdn.myanimelist.net/images/anime/10/78222.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GAZA changing the world

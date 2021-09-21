@@ -1,5 +1,7 @@
 # Medaka-kun, Sayonara.
 
+![medaka-kun-sayonara](https://cdn.myanimelist.net/images/manga/1/194477.jpg)
+
 -   **type**: manga
 -   **chapters**: 21
 -   **original-name**: メダカくん、さよなら。

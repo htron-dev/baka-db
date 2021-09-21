@@ -1,5 +1,7 @@
 # Guardian Hearts
 
+![guardian-hearts](https://cdn.myanimelist.net/images/anime/9/20741.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: がぁーでぃあん Hearts

@@ -1,5 +1,7 @@
 # Fumetsu no Anata e: Fushi no Tabiji
 
+![fumetsu-no-anata-e-fushi-no-tabiji](https://cdn.myanimelist.net/images/anime/1130/116106.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 不滅のあなたへ 特別総集編「フシの旅路」

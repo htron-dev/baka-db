@@ -1,5 +1,7 @@
 # Dungeon Seeker
 
+![dungeon-seeker](https://cdn.myanimelist.net/images/manga/2/193576.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

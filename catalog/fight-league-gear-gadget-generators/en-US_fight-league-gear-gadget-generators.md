@@ -1,5 +1,7 @@
 # Fight League: Gear Gadget Generators
 
+![fight-league-gear-gadget-generators](https://cdn.myanimelist.net/images/anime/1351/96571.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: ファイトリーグ ギア・ガジェット・ジェネレーターズ

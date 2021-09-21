@@ -1,5 +1,7 @@
 # Mobile Suit Victory Gundam Side Story
 
+![mobile-suit-victory-gundam-side-story](https://cdn.myanimelist.net/images/manga/1/58661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

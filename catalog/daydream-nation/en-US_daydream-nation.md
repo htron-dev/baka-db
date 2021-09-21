@@ -1,5 +1,7 @@
 # Daydream Nation
 
+![daydream-nation](https://cdn.myanimelist.net/images/manga/3/11017.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 77

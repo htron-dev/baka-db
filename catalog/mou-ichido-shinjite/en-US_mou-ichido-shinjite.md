@@ -1,5 +1,7 @@
 # Mou Ichido Shinjite
 
+![mou-ichido-shinjite](https://cdn.myanimelist.net/images/manga/2/229518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: もう一度信じて

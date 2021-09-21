@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED MSV Astray
 
+![mobile-suit-gundam-seed-msv-astray](https://cdn.myanimelist.net/images/anime/1/864.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 機動戦士ガンダム SEED MSV ASTRAY

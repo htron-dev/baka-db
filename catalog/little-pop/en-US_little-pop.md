@@ -1,5 +1,7 @@
 # Little Pop
 
+![little-pop](https://cdn.myanimelist.net/images/manga/3/98763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

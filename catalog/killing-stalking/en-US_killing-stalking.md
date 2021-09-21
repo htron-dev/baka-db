@@ -1,5 +1,7 @@
 # Killing Stalking
 
+![killing-stalking](https://cdn.myanimelist.net/images/manga/1/220586.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 67

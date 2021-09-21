@@ -1,5 +1,7 @@
 # Lalala Lala-chan: Lala to Mainichi
 
+![lalala-lala-chan-lala-to-mainichi](https://cdn.myanimelist.net/images/anime/1771/96059.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラララ ララちゃん ～ララっとまいにち～

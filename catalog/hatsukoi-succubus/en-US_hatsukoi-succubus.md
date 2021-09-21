@@ -1,5 +1,7 @@
 # Hatsukoi Succubus
 
+![hatsukoi-succubus](https://cdn.myanimelist.net/images/manga/1/65433.jpg)
+
 -   **type**: manga
 -   **original-name**: 初恋 ▽ サキュバス
 -   **start-date**: 2010-10-27

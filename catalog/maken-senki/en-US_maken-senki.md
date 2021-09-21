@@ -1,5 +1,7 @@
 # Maken Senki
 
+![maken-senki](https://cdn.myanimelist.net/images/manga/1/177044.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Dragon Ball Z: Atsumare! Gokuu World
 
+![dragon-ball-z-atsumare-gokuu-world](https://cdn.myanimelist.net/images/anime/2/55203.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z あつまれ! 悟空ワールド

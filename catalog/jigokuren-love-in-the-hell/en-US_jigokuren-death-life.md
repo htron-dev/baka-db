@@ -1,5 +1,7 @@
 # Jigokuren: Death Life
 
+![jigokuren-death-life](https://cdn.myanimelist.net/images/manga/3/188892.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

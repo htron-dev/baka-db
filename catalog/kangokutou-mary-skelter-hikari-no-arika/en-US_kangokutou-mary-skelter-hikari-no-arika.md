@@ -1,5 +1,7 @@
 # Kangokutou Mary-Skelter: Hikari no Arika
 
+![kangokutou-mary-skelter-hikari-no-arika](https://cdn.myanimelist.net/images/manga/1/185999.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神獄塔 メアリスケルター ～光の在処～

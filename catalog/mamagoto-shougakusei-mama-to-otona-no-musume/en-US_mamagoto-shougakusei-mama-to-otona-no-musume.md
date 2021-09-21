@@ -1,5 +1,7 @@
 # Mamagoto: Shougakusei Mama to Otona no Musume
 
+![mamagoto-shougakusei-mama-to-otona-no-musume](https://cdn.myanimelist.net/images/manga/3/239440.jpg)
+
 -   **type**: manga
 -   **original-name**: ママごとー小学生ママと大人のムスメー
 -   **start-date**: 2020-01-24

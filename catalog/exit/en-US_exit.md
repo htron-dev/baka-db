@@ -1,5 +1,7 @@
 # EXIT
 
+![exit](https://cdn.myanimelist.net/images/manga/3/46941.jpg)
+
 -   **type**: manga
 -   **original-name**: EXIT ～エグジット～
 -   **start-date**: 2002-10-24

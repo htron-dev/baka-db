@@ -1,5 +1,7 @@
 # Musume Fusahose
 
+![musume-fusahose](https://cdn.myanimelist.net/images/manga/4/14114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

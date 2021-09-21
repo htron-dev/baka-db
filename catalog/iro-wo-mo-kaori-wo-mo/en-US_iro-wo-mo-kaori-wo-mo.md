@@ -1,5 +1,7 @@
 # Iro wo mo Kaori wo mo
 
+![iro-wo-mo-kaori-wo-mo](https://cdn.myanimelist.net/images/manga/2/4012.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

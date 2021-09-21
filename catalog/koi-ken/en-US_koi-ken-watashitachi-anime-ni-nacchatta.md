@@ -1,5 +1,7 @@
 # Koi-ken!: Watashitachi Anime ni Nacchatta!
 
+![koi-ken-watashitachi-anime-ni-nacchatta](https://cdn.myanimelist.net/images/anime/12/39121.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: こいけん！～私たちアニメになっちゃった！～

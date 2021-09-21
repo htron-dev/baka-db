@@ -1,5 +1,7 @@
 # Fujoshi Kuso Renai-bon
 
+![fujoshi-kuso-renai-bon](https://cdn.myanimelist.net/images/manga/3/225387.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

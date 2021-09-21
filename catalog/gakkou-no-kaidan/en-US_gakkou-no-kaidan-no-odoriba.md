@@ -1,5 +1,7 @@
 # Gakkou no Kaidan no Odoriba
 
+![gakkou-no-kaidan-no-odoriba](https://cdn.myanimelist.net/images/manga/2/161962.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

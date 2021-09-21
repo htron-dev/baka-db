@@ -1,5 +1,7 @@
 # Doujin Work
 
+![doujin-work](https://cdn.myanimelist.net/images/manga/2/358.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 76

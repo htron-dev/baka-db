@@ -1,5 +1,7 @@
 # Kishin Douji Zenki Gaiden: Anki Kitan
 
+![kishin-douji-zenki-gaiden-anki-kitan](https://cdn.myanimelist.net/images/anime/1468/92571.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鬼神童子ＺＥＮＫＩ外伝　黯鬼奇譚

@@ -1,5 +1,7 @@
 # Deep Love: Reina no Unmei
 
+![deep-love-reina-no-unmei](https://cdn.myanimelist.net/images/manga/1/181426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

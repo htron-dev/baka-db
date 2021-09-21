@@ -1,5 +1,7 @@
 # Mi Diablo
 
+![mi-diablo](https://cdn.myanimelist.net/images/manga/3/173192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

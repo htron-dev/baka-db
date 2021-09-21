@@ -1,5 +1,7 @@
 # Koi ni Okite
 
+![koi-ni-okite](https://cdn.myanimelist.net/images/manga/2/114701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

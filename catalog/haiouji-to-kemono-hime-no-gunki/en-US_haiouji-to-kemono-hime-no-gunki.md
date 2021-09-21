@@ -1,5 +1,7 @@
 # Haiouji to Kemono-hime no Gunki
 
+![haiouji-to-kemono-hime-no-gunki](https://cdn.myanimelist.net/images/manga/3/173889.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 廃皇子と獣姫の軍旗
 -   **start-date**: 2016-03-30

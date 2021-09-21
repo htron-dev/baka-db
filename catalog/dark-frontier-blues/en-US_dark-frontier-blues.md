@@ -1,5 +1,7 @@
 # Dark Frontier Blues
 
+![dark-frontier-blues](https://cdn.myanimelist.net/images/manga/3/158857.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

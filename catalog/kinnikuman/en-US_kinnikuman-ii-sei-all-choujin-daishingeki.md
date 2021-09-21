@@ -1,5 +1,7 @@
 # Kinnikuman II-sei: All Choujin Daishingeki
 
+![kinnikuman-ii-sei-all-choujin-daishingeki](https://cdn.myanimelist.net/images/manga/1/164973.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

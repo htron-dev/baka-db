@@ -1,5 +1,7 @@
 # Fate/Grand Order Duel: YA Tokuiten - Misshitsu Yuugi Makyou Shibuya - Shibuya Kettou Jiken
 
+![fate-grand-order-duel-ya-tokuiten-misshitsu-yuugi-makyou-shibuya-shibuya-kettou-jiken](https://cdn.myanimelist.net/images/manga/2/234721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

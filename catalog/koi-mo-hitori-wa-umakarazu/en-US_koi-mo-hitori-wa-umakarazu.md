@@ -1,5 +1,7 @@
 # Koi mo Hitori wa Umakarazu
 
+![koi-mo-hitori-wa-umakarazu](https://cdn.myanimelist.net/images/manga/3/228287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ken to Mahou no Logres: Inishie no Megami x Fate/Extella
 
+![ken-to-mahou-no-logres-inishie-no-megami-x-fate-extella](https://cdn.myanimelist.net/images/anime/1926/97011.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 剣と魔法のログレス いにしえの女神 ×Fate/EXTELLA

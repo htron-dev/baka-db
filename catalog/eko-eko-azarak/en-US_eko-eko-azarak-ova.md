@@ -1,5 +1,7 @@
 # Eko Eko Azarak
 
+![eko-eko-azarak](https://cdn.myanimelist.net/images/anime/6/52733.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エコエコアザラク

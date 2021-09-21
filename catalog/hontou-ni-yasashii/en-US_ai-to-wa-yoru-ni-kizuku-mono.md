@@ -1,5 +1,7 @@
 # Ai to wa Yoru ni Kizuku Mono
 
+![ai-to-wa-yoru-ni-kizuku-mono](https://cdn.myanimelist.net/images/manga/5/209322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

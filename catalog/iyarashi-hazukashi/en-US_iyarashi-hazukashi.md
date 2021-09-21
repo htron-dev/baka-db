@@ -1,5 +1,7 @@
 # Iyarashi Hazukashi.
 
+![iyarashi-hazukashi](https://cdn.myanimelist.net/images/manga/1/201838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

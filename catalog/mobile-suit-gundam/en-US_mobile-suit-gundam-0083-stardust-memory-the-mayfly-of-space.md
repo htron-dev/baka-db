@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space
 
+![mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space](https://cdn.myanimelist.net/images/anime/4/29043.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 0083 スターダストメモリー 宇宙の蜉蝣

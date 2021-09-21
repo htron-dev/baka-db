@@ -1,5 +1,7 @@
 # Gingirl
 
+![gingirl](https://cdn.myanimelist.net/images/anime/1874/91254.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ギンガール

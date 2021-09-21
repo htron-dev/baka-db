@@ -1,5 +1,7 @@
 # Hiru mo Yoru mo, Ryoute ni Akujo
 
+![hiru-mo-yoru-mo-ryoute-ni-akujo](https://cdn.myanimelist.net/images/manga/3/171707.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

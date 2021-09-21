@@ -1,5 +1,7 @@
 # Ii Hito
 
+![ii-hito](https://cdn.myanimelist.net/images/manga/2/95723.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 255

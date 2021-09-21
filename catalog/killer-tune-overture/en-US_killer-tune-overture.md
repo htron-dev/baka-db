@@ -1,5 +1,7 @@
 # Killer Tune Overture
 
+![killer-tune-overture](https://cdn.myanimelist.net/images/manga/2/160732.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

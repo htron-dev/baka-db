@@ -1,5 +1,7 @@
 # Ginga Densetsu Weed Gaiden
 
+![ginga-densetsu-weed-gaiden](https://cdn.myanimelist.net/images/manga/2/28497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

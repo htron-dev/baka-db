@@ -1,5 +1,7 @@
 # Kokoro Button
 
+![kokoro-button](https://cdn.myanimelist.net/images/manga/3/168910.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 60

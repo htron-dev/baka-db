@@ -1,5 +1,7 @@
 # Doronkyuu
 
+![doronkyuu](https://cdn.myanimelist.net/images/manga/2/184490.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

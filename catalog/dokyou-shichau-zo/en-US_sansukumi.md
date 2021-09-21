@@ -1,5 +1,7 @@
 # Sansukumi
 
+![sansukumi](https://cdn.myanimelist.net/images/manga/2/150978.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

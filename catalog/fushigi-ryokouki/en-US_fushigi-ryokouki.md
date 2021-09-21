@@ -1,5 +1,7 @@
 # Fushigi Ryokouki
 
+![fushigi-ryokouki](https://cdn.myanimelist.net/images/manga/2/237920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふしぎ旅行記

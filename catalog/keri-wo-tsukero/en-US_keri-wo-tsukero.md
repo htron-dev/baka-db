@@ -1,5 +1,7 @@
 # Keri wo Tsukero!
 
+![keri-wo-tsukero](https://cdn.myanimelist.net/images/manga/2/156071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

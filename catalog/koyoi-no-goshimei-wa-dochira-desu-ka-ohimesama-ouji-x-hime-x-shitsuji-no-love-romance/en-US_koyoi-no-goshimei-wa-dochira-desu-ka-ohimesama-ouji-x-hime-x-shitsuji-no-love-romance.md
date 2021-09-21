@@ -1,5 +1,7 @@
 # Koyoi no Goshimei wa Dochira desu ka, Ohimesama? Ouji x Hime x Shitsuji no Love Romance
 
+![koyoi-no-goshimei-wa-dochira-desu-ka-ohimesama-ouji-x-hime-x-shitsuji-no-love-romance](https://cdn.myanimelist.net/images/manga/1/195183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 今宵のご指名はどちらですか、お姫様？～王子 × 姫 × 執事のラブ・ロマンス～

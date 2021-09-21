@@ -1,5 +1,7 @@
 # Kawaikutte Sukoshi Baka
 
+![kawaikutte-sukoshi-baka](https://cdn.myanimelist.net/images/manga/2/19914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

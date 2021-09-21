@@ -1,5 +1,7 @@
 # 4 1/4
 
+![4-1-4](https://cdn.myanimelist.net/images/manga/1/29833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カトゥルカール

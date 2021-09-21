@@ -1,5 +1,7 @@
 # Konna Mirai wa Kiitenai!!
 
+![konna-mirai-wa-kiitenai](https://cdn.myanimelist.net/images/manga/3/179275.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

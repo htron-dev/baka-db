@@ -1,5 +1,7 @@
 # Kuuchuu Houyou
 
+![kuuchuu-houyou](https://cdn.myanimelist.net/images/manga/3/150461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

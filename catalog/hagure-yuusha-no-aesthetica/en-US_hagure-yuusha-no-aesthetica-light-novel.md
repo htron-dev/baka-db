@@ -1,5 +1,7 @@
 # Hagure Yuusha no Aesthetica
 
+![hagure-yuusha-no-aesthetica](https://cdn.myanimelist.net/images/manga/1/168047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 66

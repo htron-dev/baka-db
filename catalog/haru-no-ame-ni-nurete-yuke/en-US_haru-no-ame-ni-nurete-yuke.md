@@ -1,5 +1,7 @@
 # Haru no Ame ni Nurete Yuke
 
+![haru-no-ame-ni-nurete-yuke](https://cdn.myanimelist.net/images/manga/3/41809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 春の雨に濡れてゆけ

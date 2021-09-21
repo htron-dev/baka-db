@@ -1,5 +1,7 @@
 # H x H x H
 
+![h-x-h-x-h](https://cdn.myanimelist.net/images/manga/1/224344.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

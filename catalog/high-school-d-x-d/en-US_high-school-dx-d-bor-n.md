@@ -1,5 +1,7 @@
 # High School DxD BorN
 
+![high-school-dx-d-bor-n](https://cdn.myanimelist.net/images/anime/12/73642.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハイスクール D×D BorN

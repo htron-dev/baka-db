@@ -1,5 +1,7 @@
 # Hyakka Renjou: Kindan no Koukyuu de Midasarete
 
+![hyakka-renjou-kindan-no-koukyuu-de-midasarete](https://cdn.myanimelist.net/images/manga/1/184179.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

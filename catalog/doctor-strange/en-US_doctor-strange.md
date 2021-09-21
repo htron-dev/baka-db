@@ -1,5 +1,7 @@
 # Doctor Strange
 
+![doctor-strange](https://cdn.myanimelist.net/images/manga/2/196930.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドクター・ストレンジ

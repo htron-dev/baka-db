@@ -1,5 +1,7 @@
 # Dream Knocker: Choco no Kimyou na Bunkasai
 
+![dream-knocker-choco-no-kimyou-na-bunkasai](https://cdn.myanimelist.net/images/manga/1/34190.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ドリームノッカー―チョコの奇妙な文化祭―

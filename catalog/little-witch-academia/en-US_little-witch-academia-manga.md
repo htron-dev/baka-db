@@ -1,5 +1,7 @@
 # Little Witch Academia
 
+![little-witch-academia](https://cdn.myanimelist.net/images/manga/1/196656.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

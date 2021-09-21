@@ -1,5 +1,7 @@
 # Madoromi-chan ga Iku.
 
+![madoromi-chan-ga-iku](https://cdn.myanimelist.net/images/manga/3/179934.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

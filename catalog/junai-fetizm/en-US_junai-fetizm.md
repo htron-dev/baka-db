@@ -1,5 +1,7 @@
 # Junai Fetizm
 
+![junai-fetizm](https://cdn.myanimelist.net/images/manga/3/6723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

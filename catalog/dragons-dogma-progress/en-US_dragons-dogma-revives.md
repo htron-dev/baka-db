@@ -1,5 +1,7 @@
 # Dragon's Dogma Revives
 
+![dragons-dogma-revives](https://cdn.myanimelist.net/images/manga/2/195775.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Mezase! Kameari Superstar!! Ryoutsu-shiki Aidoru h
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-mezase-kameari-superstar-ryoutsu-shiki-aidoru-h](https://cdn.myanimelist.net/images/anime/11/81553.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: こちら葛飾区亀有公園前派出所 目指せ!亀有スーパースター!!両津式アイドルへの道!

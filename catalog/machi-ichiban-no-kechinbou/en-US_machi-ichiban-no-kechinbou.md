@@ -1,5 +1,7 @@
 # Machi Ichiban no Kechinbou
 
+![machi-ichiban-no-kechinbou](https://cdn.myanimelist.net/images/anime/13/70125.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 町一番のけちんぼう

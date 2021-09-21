@@ -1,5 +1,7 @@
 # Faeries' Landing
 
+![faeries-landing](https://cdn.myanimelist.net/images/manga/1/5549.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 23
 -   **original-name**: 天女降临

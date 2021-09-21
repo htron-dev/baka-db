@@ -1,5 +1,7 @@
 # Heisei Inu Monogatari Bow
 
+![heisei-inu-monogatari-bow](https://cdn.myanimelist.net/images/anime/8/28736.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 平成イヌ物語バウ

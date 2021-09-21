@@ -1,5 +1,7 @@
 # King's Raid: Ishi wo Tsugumono-tachi
 
+![kings-raid-ishi-wo-tsugumono-tachi](https://cdn.myanimelist.net/images/anime/1885/109122.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キングスレイド 意志を継ぐものたち

@@ -1,5 +1,7 @@
 # Heiwateki Dungeon Seikatsu.
 
+![heiwateki-dungeon-seikatsu](https://cdn.myanimelist.net/images/manga/2/235459.jpg)
+
 -   **type**: manga
 -   **original-name**: 平和的ダンジョン生活。
 -   **start-date**: 2019-06-29

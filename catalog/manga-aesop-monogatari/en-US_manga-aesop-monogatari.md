@@ -1,5 +1,7 @@
 # Manga Aesop Monogatari
 
+![manga-aesop-monogatari](https://cdn.myanimelist.net/images/anime/1446/112287.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まんがイソップ物語

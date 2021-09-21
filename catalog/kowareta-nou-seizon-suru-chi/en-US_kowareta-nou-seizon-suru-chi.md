@@ -1,5 +1,7 @@
 # Kowareta Nou Seizon suru Chi
 
+![kowareta-nou-seizon-suru-chi](https://cdn.myanimelist.net/images/manga/1/236448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

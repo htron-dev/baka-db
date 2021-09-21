@@ -1,5 +1,7 @@
 # Fuuma no Kojirou: Jo no Maki
 
+![fuuma-no-kojirou-jo-no-maki](https://cdn.myanimelist.net/images/manga/3/229574.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 風魔の小次郎 序の巻

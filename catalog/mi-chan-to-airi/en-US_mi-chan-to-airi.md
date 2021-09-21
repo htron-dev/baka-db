@@ -1,5 +1,7 @@
 # Mi-chan to Airi
 
+![mi-chan-to-airi](https://cdn.myanimelist.net/images/manga/3/241981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

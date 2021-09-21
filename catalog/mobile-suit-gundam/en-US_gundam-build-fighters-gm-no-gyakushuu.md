@@ -1,5 +1,7 @@
 # Gundam Build Fighters: GM no Gyakushuu
 
+![gundam-build-fighters-gm-no-gyakushuu](https://cdn.myanimelist.net/images/anime/12/87464.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ガンダムビルドファイターズ GM の逆襲

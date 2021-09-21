@@ -1,5 +1,7 @@
 # Ganbare Chibi Godzilla
 
+![ganbare-chibi-godzilla](https://cdn.myanimelist.net/images/anime/1570/95962.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: がんばれ ちびゴジラ

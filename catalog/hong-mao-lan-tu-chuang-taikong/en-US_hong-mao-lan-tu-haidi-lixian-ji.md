@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Haidi Lixian Ji
 
+![hong-mao-lan-tu-haidi-lixian-ji](https://cdn.myanimelist.net/images/anime/1034/98707.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 虹猫蓝兔海底历险记

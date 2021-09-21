@@ -1,5 +1,7 @@
 # Konna Otoko ni Dare ga Shita
 
+![konna-otoko-ni-dare-ga-shita](https://cdn.myanimelist.net/images/manga/3/2514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

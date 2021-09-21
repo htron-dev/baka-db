@@ -1,5 +1,7 @@
 # Koushin Koinu ni Koibumi wo
 
+![koushin-koinu-ni-koibumi-wo](https://cdn.myanimelist.net/images/manga/2/210500.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

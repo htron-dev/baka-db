@@ -1,5 +1,7 @@
 # Mamono Hunter Youko
 
+![mamono-hunter-youko](https://cdn.myanimelist.net/images/anime/1276/97039.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 魔物ハンター妖子

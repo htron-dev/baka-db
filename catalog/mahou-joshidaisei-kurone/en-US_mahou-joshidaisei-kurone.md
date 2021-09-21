@@ -1,5 +1,7 @@
 # Mahou Joshidaisei Kurone
 
+![mahou-joshidaisei-kurone](https://cdn.myanimelist.net/images/manga/3/160295.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

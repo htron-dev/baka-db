@@ -1,5 +1,7 @@
 # Fantamir
 
+![fantamir](https://cdn.myanimelist.net/images/manga/1/197258.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 판타미르

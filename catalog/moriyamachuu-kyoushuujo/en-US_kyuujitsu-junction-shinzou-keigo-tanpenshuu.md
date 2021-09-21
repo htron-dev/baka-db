@@ -1,5 +1,7 @@
 # Kyuujitsu Junction: Shinzou Keigo Tanpenshuu
 
+![kyuujitsu-junction-shinzou-keigo-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/223168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

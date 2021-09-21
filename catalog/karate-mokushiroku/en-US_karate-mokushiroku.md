@@ -1,5 +1,7 @@
 # Karate Mokushiroku
 
+![karate-mokushiroku](https://cdn.myanimelist.net/images/manga/3/190999.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: カラテ黙示録

@@ -1,5 +1,7 @@
 # Diva
 
+![diva](https://cdn.myanimelist.net/images/manga/2/73049.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: DIVA ディーヴァ

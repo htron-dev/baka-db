@@ -1,5 +1,7 @@
 # Hatsukoi Wazurai
 
+![hatsukoi-wazurai](https://cdn.myanimelist.net/images/manga/2/119581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

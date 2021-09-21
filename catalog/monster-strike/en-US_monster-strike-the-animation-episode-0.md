@@ -1,5 +1,7 @@
 # Monster Strike The Animation Episode 0
 
+![monster-strike-the-animation-episode-0](https://cdn.myanimelist.net/images/anime/1014/93215.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンスターストライク The Animation

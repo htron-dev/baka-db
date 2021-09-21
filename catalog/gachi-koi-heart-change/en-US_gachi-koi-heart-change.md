@@ -1,5 +1,7 @@
 # Gachi Koi Heart Change
 
+![gachi-koi-heart-change](https://cdn.myanimelist.net/images/manga/3/240676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

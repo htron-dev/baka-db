@@ -1,5 +1,7 @@
 # Hidan no Aria
 
+![hidan-no-aria](https://cdn.myanimelist.net/images/manga/2/157987.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 緋弾のアリア
 -   **start-date**: 2008-08-25

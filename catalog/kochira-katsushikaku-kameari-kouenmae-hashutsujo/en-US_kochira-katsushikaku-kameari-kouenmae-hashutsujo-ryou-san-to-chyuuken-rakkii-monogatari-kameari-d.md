@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryou-san to Chyuuken Rakkii Monogatari - Kameari D
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryou-san-to-chyuuken-rakkii-monogatari-kameari-d](https://cdn.myanimelist.net/images/anime/7/81546.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所 両さんと忠犬ラッキー物語 〜亀有大包囲網をかわせ!!

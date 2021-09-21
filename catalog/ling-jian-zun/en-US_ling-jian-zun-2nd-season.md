@@ -1,5 +1,7 @@
 # Ling Jian Zun 2nd Season
 
+![ling-jian-zun-2nd-season](https://cdn.myanimelist.net/images/anime/1909/102091.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 灵剑尊 第二季

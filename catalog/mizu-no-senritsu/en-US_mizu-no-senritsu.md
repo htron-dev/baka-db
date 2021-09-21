@@ -1,5 +1,7 @@
 # Mizu no Senritsu
 
+![mizu-no-senritsu](https://cdn.myanimelist.net/images/manga/1/11153.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 水の旋律～幻沫謡～

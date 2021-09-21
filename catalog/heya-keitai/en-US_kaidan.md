@@ -1,5 +1,7 @@
 # Kaidan
 
+![kaidan](https://cdn.myanimelist.net/images/anime/13/59767.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪談

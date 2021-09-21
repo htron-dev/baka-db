@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken
 
+![dragon-quest-dai-no-daibouken](https://cdn.myanimelist.net/images/anime/1998/106052.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンクエスト ダイの大冒険

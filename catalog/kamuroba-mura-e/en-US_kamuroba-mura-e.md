@@ -1,5 +1,7 @@
 # Kamuroba Mura e
 
+![kamuroba-mura-e](https://cdn.myanimelist.net/images/manga/3/227228.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 42

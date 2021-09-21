@@ -1,5 +1,7 @@
 # Ero♥Märchen: Hoshi no Ginka
 
+![ero♥-marchen-hoshi-no-ginka](https://cdn.myanimelist.net/images/manga/3/131157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

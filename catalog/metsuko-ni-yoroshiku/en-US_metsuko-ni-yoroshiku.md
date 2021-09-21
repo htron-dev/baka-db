@@ -1,5 +1,7 @@
 # Metsuko ni Yoroshiku
 
+![metsuko-ni-yoroshiku](https://cdn.myanimelist.net/images/manga/2/173129.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

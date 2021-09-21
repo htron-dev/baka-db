@@ -1,5 +1,7 @@
 # Damekko Doubutsu
 
+![damekko-doubutsu](https://cdn.myanimelist.net/images/manga/1/5990.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: だめっこどうぶつ

@@ -1,5 +1,7 @@
 # Todo Kare
 
+![todo-kare](https://cdn.myanimelist.net/images/manga/1/152102.jpg)
+
 -   **type**: manga
 -   **chapters**: 77
 -   **original-name**: トド彼

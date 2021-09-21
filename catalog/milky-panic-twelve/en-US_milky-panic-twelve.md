@@ -1,5 +1,7 @@
 # Milky Panic twelve
 
+![milky-panic-twelve](https://cdn.myanimelist.net/images/anime/8/89200.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ミルキーパニック twelve

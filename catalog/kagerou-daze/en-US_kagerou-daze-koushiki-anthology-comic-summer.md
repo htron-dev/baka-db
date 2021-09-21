@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Summer
 
+![kagerou-daze-koushiki-anthology-comic-summer](https://cdn.myanimelist.net/images/manga/2/140281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

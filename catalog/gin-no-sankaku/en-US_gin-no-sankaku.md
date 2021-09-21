@@ -1,5 +1,7 @@
 # Gin no Sankaku
 
+![gin-no-sankaku](https://cdn.myanimelist.net/images/manga/2/165479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

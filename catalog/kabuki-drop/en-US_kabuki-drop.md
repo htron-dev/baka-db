@@ -1,5 +1,7 @@
 # Kabuki Drop
 
+![kabuki-drop](https://cdn.myanimelist.net/images/manga/2/165443.jpg)
+
 -   **type**: manga
 -   **original-name**: かぶきドロップ
 -   **start-date**: 2015-10-02

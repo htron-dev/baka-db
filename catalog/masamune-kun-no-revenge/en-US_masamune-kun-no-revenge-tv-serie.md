@@ -1,5 +1,7 @@
 # Masamune-kun no Revenge
 
+![masamune-kun-no-revenge](https://cdn.myanimelist.net/images/anime/12/83709.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 政宗くんのリベンジ

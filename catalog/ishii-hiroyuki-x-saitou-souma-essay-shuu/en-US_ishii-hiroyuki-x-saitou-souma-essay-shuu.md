@@ -1,5 +1,7 @@
 # Ishii Hiroyuki x Saitou Souma Essay-shuu
 
+![ishii-hiroyuki-x-saitou-souma-essay-shuu](https://cdn.myanimelist.net/images/anime/1131/94944.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: いしいひろゆき × 斉藤壮馬エッセイ集「健康で文化的な最低限度の生活」コラボレーション映像

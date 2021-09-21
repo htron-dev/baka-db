@@ -1,5 +1,7 @@
 # Kurosagi
 
+![kurosagi](https://cdn.myanimelist.net/images/manga/2/161298.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 220

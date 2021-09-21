@@ -1,5 +1,7 @@
 # Kimi wo Shinryaku Seyo!
 
+![kimi-wo-shinryaku-seyo](https://cdn.myanimelist.net/images/manga/2/219207.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

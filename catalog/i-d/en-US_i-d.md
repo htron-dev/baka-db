@@ -1,5 +1,7 @@
 # I.D.
 
+![i-d](https://cdn.myanimelist.net/images/manga/1/9605.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

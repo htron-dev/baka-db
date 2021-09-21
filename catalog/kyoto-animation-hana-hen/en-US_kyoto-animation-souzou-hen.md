@@ -1,5 +1,7 @@
 # Kyoto Animation: Souzou-hen
 
+![kyoto-animation-souzou-hen](https://cdn.myanimelist.net/images/anime/1516/116475.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「想像編」

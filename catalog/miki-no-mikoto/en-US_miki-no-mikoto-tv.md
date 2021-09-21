@@ -1,5 +1,7 @@
 # Miki no Mikoto (TV)
 
+![miki-no-mikoto-tv](https://cdn.myanimelist.net/images/anime/1744/103919.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 神酒ノ尊

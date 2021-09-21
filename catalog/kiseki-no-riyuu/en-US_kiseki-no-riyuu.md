@@ -1,5 +1,7 @@
 # Kiseki no Riyuu
 
+![kiseki-no-riyuu](https://cdn.myanimelist.net/images/manga/3/4654.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奇跡の理由

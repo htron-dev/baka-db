@@ -1,5 +1,7 @@
 # Kenja no Ishi
 
+![kenja-no-ishi](https://cdn.myanimelist.net/images/manga/3/198883.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 43

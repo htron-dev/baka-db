@@ -1,5 +1,7 @@
 # Hisoyaka na Hana: Sono Manazashi ni Yurasarete
 
+![hisoyaka-na-hana-sono-manazashi-ni-yurasarete](https://cdn.myanimelist.net/images/manga/1/192094.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 35

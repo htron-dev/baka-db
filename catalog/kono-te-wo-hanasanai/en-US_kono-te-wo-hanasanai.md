@@ -1,5 +1,7 @@
 # Kono Te wo Hanasanai
 
+![kono-te-wo-hanasanai](https://cdn.myanimelist.net/images/manga/2/152904.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

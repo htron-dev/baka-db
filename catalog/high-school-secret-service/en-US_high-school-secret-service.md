@@ -1,5 +1,7 @@
 # High School Secret Service!
 
+![high-school-secret-service](https://cdn.myanimelist.net/images/manga/2/158173.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

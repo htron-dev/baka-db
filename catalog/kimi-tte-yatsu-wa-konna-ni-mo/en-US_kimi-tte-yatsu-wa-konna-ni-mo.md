@@ -1,5 +1,7 @@
 # Kimi tte Yatsu wa Konna ni mo
 
+![kimi-tte-yatsu-wa-konna-ni-mo](https://cdn.myanimelist.net/images/manga/3/227433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

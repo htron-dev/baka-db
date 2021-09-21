@@ -1,5 +1,7 @@
 # Hibi Renren
 
+![hibi-renren](https://cdn.myanimelist.net/images/manga/3/30467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kimi wa Sakamichi no Tochuu de
 
+![kimi-wa-sakamichi-no-tochuu-de](https://cdn.myanimelist.net/images/manga/2/22693.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 君は坂道の途中で

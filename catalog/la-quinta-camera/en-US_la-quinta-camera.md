@@ -1,5 +1,7 @@
 # La Quinta Camera
 
+![la-quinta-camera](https://cdn.myanimelist.net/images/manga/2/32760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

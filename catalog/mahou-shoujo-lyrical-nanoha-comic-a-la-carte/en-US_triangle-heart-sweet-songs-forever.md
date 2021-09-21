@@ -1,5 +1,7 @@
 # Triangle Heart: Sweet Songs Forever
 
+![triangle-heart-sweet-songs-forever](https://cdn.myanimelist.net/images/anime/7/17439.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: とらいあんぐるハート -Sweet Songs Forever-

@@ -1,5 +1,7 @@
 # Gouman Ouji Series
 
+![gouman-ouji-series](https://cdn.myanimelist.net/images/manga/1/152797.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

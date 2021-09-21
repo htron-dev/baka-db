@@ -1,5 +1,7 @@
 # Diabolik Lovers More,Blood Anthology
 
+![diabolik-lovers-more-blood-anthology](https://cdn.myanimelist.net/images/manga/3/115921.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

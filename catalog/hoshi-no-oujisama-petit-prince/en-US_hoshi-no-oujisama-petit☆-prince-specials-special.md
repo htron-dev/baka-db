@@ -1,5 +1,7 @@
 # Hoshi no Oujisama Petit☆Prince Specials
 
+![hoshi-no-oujisama-petit☆-prince-specials](https://cdn.myanimelist.net/images/anime/10/81900.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 星の王子さま プチ ☆ プランス

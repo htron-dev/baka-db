@@ -1,5 +1,7 @@
 # Majin Tantei Nougami Neuro
 
+![majin-tantei-nougami-neuro](https://cdn.myanimelist.net/images/manga/1/186638.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 203

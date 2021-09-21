@@ -1,5 +1,7 @@
 # Ero♥Märchen: Rapunzel
 
+![ero♥-marchen-rapunzel](https://cdn.myanimelist.net/images/manga/2/231125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

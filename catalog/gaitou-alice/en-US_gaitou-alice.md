@@ -1,5 +1,7 @@
 # Gaitou Alice
 
+![gaitou-alice](https://cdn.myanimelist.net/images/manga/1/157409.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

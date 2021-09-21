@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai Specials
 
+![higurashi-no-naku-koro-ni-kai-specials](https://cdn.myanimelist.net/images/anime/12/13242.jpg)
+
 -   **type**: special
 -   **episodes**: 24
 -   **original-name**: ひぐらしのなく頃に解「うら ☆ ひぐ」

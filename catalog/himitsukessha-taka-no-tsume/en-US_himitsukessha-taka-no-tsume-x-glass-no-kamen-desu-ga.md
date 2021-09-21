@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume x Glass no Kamen Desu ga
 
+![himitsukessha-taka-no-tsume-x-glass-no-kamen-desu-ga](https://cdn.myanimelist.net/images/anime/10/85830.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 × ガラスの仮面ですが

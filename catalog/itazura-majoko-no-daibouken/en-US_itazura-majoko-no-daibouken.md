@@ -1,5 +1,7 @@
 # Itazura Majoko no Daibouken
 
+![itazura-majoko-no-daibouken](https://cdn.myanimelist.net/images/manga/3/15188.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

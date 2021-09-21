@@ -1,5 +1,7 @@
 # Koi to Dangan
 
+![koi-to-dangan](https://cdn.myanimelist.net/images/manga/1/225002.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋と弾丸
 -   **start-date**: 2018-03-05

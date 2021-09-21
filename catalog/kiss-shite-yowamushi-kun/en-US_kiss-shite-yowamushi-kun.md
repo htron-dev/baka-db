@@ -1,5 +1,7 @@
 # Kiss shite Yowamushi-kun!
 
+![kiss-shite-yowamushi-kun](https://cdn.myanimelist.net/images/manga/2/172290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

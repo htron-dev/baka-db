@@ -1,5 +1,7 @@
 # Kukkorose no Himekishi to Nari, Yuri Shoukan de Hataraku Koto ni Narimashita.
 
+![kukkorose-no-himekishi-to-nari-yuri-shoukan-de-hataraku-koto-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/249735.jpg)
+
 -   **type**: manga
 -   **original-name**: くっ殺せの姫騎士となり、百合娼館で働くことになりました。
 -   **start-date**: 2020-10-08

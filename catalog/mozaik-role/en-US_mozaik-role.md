@@ -1,5 +1,7 @@
 # Mozaik Role
 
+![mozaik-role](https://cdn.myanimelist.net/images/manga/2/114967.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

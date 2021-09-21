@@ -1,5 +1,7 @@
 # Hinomaru Gaisen Otome
 
+![hinomaru-gaisen-otome](https://cdn.myanimelist.net/images/manga/2/222820.jpg)
+
 -   **type**: manga
 -   **chapters**: 31
 -   **original-name**: 日之丸街宣女子〈おとめ〉

@@ -1,5 +1,7 @@
 # Taka no Tsume x Ballad Katte ni Senden Movie
 
+![taka-no-tsume-x-ballad-katte-ni-senden-movie](https://cdn.myanimelist.net/images/anime/7/82802.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 鷹の爪団 × BALLAD 勝手に宣伝ムービー

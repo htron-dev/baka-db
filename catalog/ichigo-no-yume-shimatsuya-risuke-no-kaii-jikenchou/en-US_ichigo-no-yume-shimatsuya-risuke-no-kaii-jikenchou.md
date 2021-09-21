@@ -1,5 +1,7 @@
 # Ichigo no Yume: Shimatsuya Risuke no Kaii Jikenchou
 
+![ichigo-no-yume-shimatsuya-risuke-no-kaii-jikenchou](https://cdn.myanimelist.net/images/manga/2/113795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

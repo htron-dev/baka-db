@@ -1,5 +1,7 @@
 # Manatsu no Eden
 
+![manatsu-no-eden](https://cdn.myanimelist.net/images/manga/1/57237.jpg)
+
 -   **type**: manga
 -   **original-name**: 真夏のエデン
 -   **start-date**: 2011-06-20

@@ -1,5 +1,7 @@
 # Kirschblüte
 
+![kirschblute](https://cdn.myanimelist.net/images/manga/2/162098.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 桜ノ国～キルシュブリューテ～

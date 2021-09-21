@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!
 
+![fate-kaleid-liner-prisma☆-illya-undoukai-de-dance](https://cdn.myanimelist.net/images/anime/7/60279.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ 運動会 DE ダンス！

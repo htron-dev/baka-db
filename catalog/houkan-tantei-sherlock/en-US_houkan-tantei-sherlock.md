@@ -1,5 +1,7 @@
 # Houkan Tantei Sherlock
 
+![houkan-tantei-sherlock](https://cdn.myanimelist.net/images/manga/2/244775.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Hatsukoi Counter Attack
 
+![hatsukoi-counter-attack](https://cdn.myanimelist.net/images/manga/1/204648.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

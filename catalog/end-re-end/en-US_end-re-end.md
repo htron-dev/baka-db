@@ -1,5 +1,7 @@
 # End Re End
 
+![end-re-end](https://cdn.myanimelist.net/images/manga/2/160138.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

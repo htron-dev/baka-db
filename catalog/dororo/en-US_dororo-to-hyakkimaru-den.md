@@ -1,5 +1,7 @@
 # Dororo to Hyakkimaru Den
 
+![dororo-to-hyakkimaru-den](https://cdn.myanimelist.net/images/manga/1/217711.jpg)
+
 -   **type**: manga
 -   **original-name**: どろろと百鬼丸伝
 -   **start-date**: 2018-10-19

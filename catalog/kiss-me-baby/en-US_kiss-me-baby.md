@@ -1,5 +1,7 @@
 # Kiss Me Baby
 
+![kiss-me-baby](https://cdn.myanimelist.net/images/manga/3/9671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Flower Man
 
+![flower-man](https://cdn.myanimelist.net/images/manga/3/36417.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 7

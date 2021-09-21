@@ -1,5 +1,7 @@
 # Morotomo
 
+![morotomo](https://cdn.myanimelist.net/images/manga/3/15615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

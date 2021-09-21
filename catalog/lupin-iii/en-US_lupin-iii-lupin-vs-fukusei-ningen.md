@@ -1,5 +1,7 @@
 # Lupin III: Lupin vs. Fukusei-ningen
 
+![lupin-iii-lupin-vs-fukusei-ningen](https://cdn.myanimelist.net/images/anime/11/34211.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン vs 複製人間

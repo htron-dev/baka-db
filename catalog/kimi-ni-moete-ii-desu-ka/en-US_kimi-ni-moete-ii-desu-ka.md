@@ -1,5 +1,7 @@
 # Kimi ni Moete Ii desu ka?
 
+![kimi-ni-moete-ii-desu-ka](https://cdn.myanimelist.net/images/manga/4/33794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

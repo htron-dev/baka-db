@@ -1,5 +1,7 @@
 # Dekichatta Danshi
 
+![dekichatta-danshi](https://cdn.myanimelist.net/images/manga/1/36336.jpg)
+
 -   **type**: manga
 -   **original-name**: できちゃった男子
 -   **start-date**: 2008-08-09

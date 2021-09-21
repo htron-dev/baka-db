@@ -1,5 +1,7 @@
 # Kagome no Mura
 
+![kagome-no-mura](https://cdn.myanimelist.net/images/manga/2/191176.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

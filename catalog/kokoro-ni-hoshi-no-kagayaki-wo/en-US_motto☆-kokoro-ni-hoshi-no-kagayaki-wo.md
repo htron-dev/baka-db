@@ -1,5 +1,7 @@
 # Motto☆Kokoro ni Hoshi no Kagayaki wo
 
+![motto☆-kokoro-ni-hoshi-no-kagayaki-wo](https://cdn.myanimelist.net/images/manga/1/659.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: もっと ☆ 心に星の輝きを

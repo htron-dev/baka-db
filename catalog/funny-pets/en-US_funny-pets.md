@@ -1,5 +1,7 @@
 # Funny Pets
 
+![funny-pets](https://cdn.myanimelist.net/images/anime/1/2426.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ファニーペッツ

@@ -1,5 +1,7 @@
 # Haikyuu!! Movie 3: Sainou to Sense
 
+![haikyuu-movie-3-sainou-to-sense](https://cdn.myanimelist.net/images/anime/3/86069.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! 才能とセンス

@@ -1,5 +1,7 @@
 # Karakurizoushi Ayatsuri Sakon
 
+![karakurizoushi-ayatsuri-sakon](https://cdn.myanimelist.net/images/manga/2/201577.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

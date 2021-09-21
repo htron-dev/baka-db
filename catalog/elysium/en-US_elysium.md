@@ -1,5 +1,7 @@
 # Elysium
 
+![elysium](https://cdn.myanimelist.net/images/anime/1670/112247.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 엘리시움

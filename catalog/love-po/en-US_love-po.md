@@ -1,5 +1,7 @@
 # Love Po!
 
+![love-po](https://cdn.myanimelist.net/images/manga/3/38168.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラブ・ぽっ！

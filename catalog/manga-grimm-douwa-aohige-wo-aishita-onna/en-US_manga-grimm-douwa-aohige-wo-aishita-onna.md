@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Aohige wo Aishita Onna
 
+![manga-grimm-douwa-aohige-wo-aishita-onna](https://cdn.myanimelist.net/images/manga/2/140675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

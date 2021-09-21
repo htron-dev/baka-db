@@ -1,5 +1,7 @@
 # Garo: Vanishing Line
 
+![garo-vanishing-line](https://cdn.myanimelist.net/images/anime/10/88236.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 牙狼〈GARO〉-VANISHING LINE-

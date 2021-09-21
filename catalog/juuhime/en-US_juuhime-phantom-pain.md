@@ -1,5 +1,7 @@
 # Juuhime: Phantom Pain
 
+![juuhime-phantom-pain](https://cdn.myanimelist.net/images/manga/1/119197.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

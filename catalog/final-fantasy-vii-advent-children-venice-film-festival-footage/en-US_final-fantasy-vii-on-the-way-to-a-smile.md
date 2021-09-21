@@ -1,5 +1,7 @@
 # Final Fantasy VII: On the Way to a Smile
 
+![final-fantasy-vii-on-the-way-to-a-smile](https://cdn.myanimelist.net/images/manga/2/83879.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

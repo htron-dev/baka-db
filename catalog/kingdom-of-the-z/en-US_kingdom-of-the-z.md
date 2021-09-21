@@ -1,5 +1,7 @@
 # Kingdom of the Z
 
+![kingdom-of-the-z](https://cdn.myanimelist.net/images/manga/1/222026.jpg)
+
 -   **type**: manga
 -   **original-name**: キングダムオブザ Z
 -   **start-date**: 2018-11-27

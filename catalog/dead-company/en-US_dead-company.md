@@ -1,5 +1,7 @@
 # Dead Company
 
+![dead-company](https://cdn.myanimelist.net/images/manga/3/244815.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

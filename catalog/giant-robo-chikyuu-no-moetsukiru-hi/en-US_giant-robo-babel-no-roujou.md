@@ -1,5 +1,7 @@
 # Giant Robo: Babel no Roujou
 
+![giant-robo-babel-no-roujou](https://cdn.myanimelist.net/images/manga/2/134615.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

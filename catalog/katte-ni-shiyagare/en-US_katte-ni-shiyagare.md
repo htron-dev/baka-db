@@ -1,5 +1,7 @@
 # Katte ni Shiyagare!
 
+![katte-ni-shiyagare](https://cdn.myanimelist.net/images/manga/3/31653.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 勝手にしやがれ!

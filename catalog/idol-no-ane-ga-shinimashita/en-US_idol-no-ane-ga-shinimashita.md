@@ -1,5 +1,7 @@
 # Idol no Ane ga Shinimashita
 
+![idol-no-ane-ga-shinimashita](https://cdn.myanimelist.net/images/manga/1/224449.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

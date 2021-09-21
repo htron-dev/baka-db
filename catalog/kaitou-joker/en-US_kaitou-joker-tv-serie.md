@@ -1,5 +1,7 @@
 # Kaitou Joker
 
+![kaitou-joker](https://cdn.myanimelist.net/images/anime/12/64975.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 怪盗ジョーカー

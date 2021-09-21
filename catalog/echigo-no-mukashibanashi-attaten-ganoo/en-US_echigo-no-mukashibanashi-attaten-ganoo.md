@@ -1,5 +1,7 @@
 # Echigo no Mukashibanashi: Attaten Ganoo
 
+![echigo-no-mukashibanashi-attaten-ganoo](https://cdn.myanimelist.net/images/anime/11/68031.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 越後の昔ばなし あったてんがのぉ

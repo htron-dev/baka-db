@@ -1,5 +1,7 @@
 # Kimi ga Tonari ni Iru nante
 
+![kimi-ga-tonari-ni-iru-nante](https://cdn.myanimelist.net/images/manga/2/177776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Minori no Hibi
 
+![minori-no-hibi](https://cdn.myanimelist.net/images/manga/3/21791.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 43

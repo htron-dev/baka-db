@@ -1,5 +1,7 @@
 # Hidamari Sketch x 365
 
+![hidamari-sketch-x-365](https://cdn.myanimelist.net/images/anime/11/10894.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ひだまりスケッチ ×365

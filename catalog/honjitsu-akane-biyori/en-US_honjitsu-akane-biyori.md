@@ -1,5 +1,7 @@
 # Honjitsu, Akane-biyori
 
+![honjitsu-akane-biyori](https://cdn.myanimelist.net/images/manga/2/213501.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

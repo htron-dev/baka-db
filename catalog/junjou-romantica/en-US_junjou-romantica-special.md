@@ -1,5 +1,7 @@
 # Junjou Romantica Special
 
+![junjou-romantica-special](https://cdn.myanimelist.net/images/anime/11/14958.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 純情ロマンチカ

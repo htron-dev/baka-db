@@ -1,5 +1,7 @@
 # Danshoku Reijou to Ouji no Funtouki
 
+![danshoku-reijou-to-ouji-no-funtouki](https://cdn.myanimelist.net/images/manga/3/183291.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 男爵令嬢と王子の奮闘記

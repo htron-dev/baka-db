@@ -1,5 +1,7 @@
 # Mama Loves the Poyo Poyo Zaurus
 
+![mama-loves-the-poyo-poyo-zaurus](https://cdn.myanimelist.net/images/manga/2/17019.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ママはぽよぽよザウルスがお好き

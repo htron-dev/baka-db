@@ -1,5 +1,7 @@
 # Gothic-kon
 
+![gothic-kon](https://cdn.myanimelist.net/images/manga/1/163764.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: ごすこん

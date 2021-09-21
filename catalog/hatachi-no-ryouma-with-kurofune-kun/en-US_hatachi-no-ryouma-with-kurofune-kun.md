@@ -1,5 +1,7 @@
 # Hatachi no Ryouma with Kurofune-kun!
 
+![hatachi-no-ryouma-with-kurofune-kun](https://cdn.myanimelist.net/images/anime/1972/93305.jpg)
+
 -   **type**: ona
 -   **original-name**: ハタチの龍馬 with クロフネくん！
 -   **start-date**: 2018-08-01

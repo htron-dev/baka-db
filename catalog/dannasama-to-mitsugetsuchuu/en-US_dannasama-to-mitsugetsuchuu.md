@@ -1,5 +1,7 @@
 # Dannasama to Mitsugetsuchuu
 
+![dannasama-to-mitsugetsuchuu](https://cdn.myanimelist.net/images/manga/1/83761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

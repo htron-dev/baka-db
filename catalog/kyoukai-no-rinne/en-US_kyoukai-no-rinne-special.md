@@ -1,5 +1,7 @@
 # Kyoukai no Rinne
 
+![kyoukai-no-rinne](https://cdn.myanimelist.net/images/anime/9/60009.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 境界の RINNE

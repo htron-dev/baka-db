@@ -1,5 +1,7 @@
 # Dalam-iwa Goseumdochi
 
+![dalam-iwa-goseumdochi](https://cdn.myanimelist.net/images/anime/1974/104521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: 다람이와 고슴도치

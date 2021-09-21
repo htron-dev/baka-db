@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Battlefield Record: Avant-Title
 
+![mobile-suit-gundam-battlefield-record-avant-title](https://cdn.myanimelist.net/images/anime/3/49393.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム戦記 アバンタイトル

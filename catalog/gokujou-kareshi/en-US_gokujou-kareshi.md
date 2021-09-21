@@ -1,5 +1,7 @@
 # Gokujou Kareshi
 
+![gokujou-kareshi](https://cdn.myanimelist.net/images/manga/2/57625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

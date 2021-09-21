@@ -1,5 +1,7 @@
 # Kono Naka ni Hitori, Imouto ga Iru!
 
+![kono-naka-ni-hitori-imouto-ga-iru](https://cdn.myanimelist.net/images/anime/5/75534.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: この中に 1 人、妹がいる！

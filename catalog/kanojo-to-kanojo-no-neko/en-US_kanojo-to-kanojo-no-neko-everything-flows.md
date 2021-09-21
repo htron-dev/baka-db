@@ -1,5 +1,7 @@
 # Kanojo to Kanojo no Neko: Everything Flows
 
+![kanojo-to-kanojo-no-neko-everything-flows](https://cdn.myanimelist.net/images/anime/9/79716.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 彼女と彼女の猫 -Everything Flows-

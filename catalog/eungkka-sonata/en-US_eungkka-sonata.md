@@ -1,5 +1,7 @@
 # Eungkka Sonata
 
+![eungkka-sonata](https://cdn.myanimelist.net/images/anime/1994/114509.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 응까 소나타

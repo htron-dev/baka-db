@@ -1,5 +1,7 @@
 # Ibara no Ou
 
+![ibara-no-ou](https://cdn.myanimelist.net/images/anime/9/87056.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いばらの王

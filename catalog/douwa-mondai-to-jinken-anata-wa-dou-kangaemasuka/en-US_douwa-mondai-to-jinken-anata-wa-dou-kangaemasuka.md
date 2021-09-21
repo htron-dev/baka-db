@@ -1,5 +1,7 @@
 # Douwa Mondai to Jinken: Anata wa Dou Kangaemasuka
 
+![douwa-mondai-to-jinken-anata-wa-dou-kangaemasuka](https://cdn.myanimelist.net/images/anime/4/74438.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 同和問題と人権―あなたはどう考えますか―

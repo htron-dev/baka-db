@@ -1,5 +1,7 @@
 # Darwin's Game: Log Line
 
+![darwins-game-log-line](https://cdn.myanimelist.net/images/anime/1975/111967.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ダーウィンズゲーム 第 4.5 話『記憶（ログライン）』

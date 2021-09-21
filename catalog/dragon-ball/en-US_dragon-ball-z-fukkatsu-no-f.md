@@ -1,5 +1,7 @@
 # Dragon Ball Z: Fukkatsu no "F"
 
+![dragon-ball-z-fukkatsu-no-f](https://cdn.myanimelist.net/images/manga/2/154240.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ドラゴンボール Z 復活の「F」

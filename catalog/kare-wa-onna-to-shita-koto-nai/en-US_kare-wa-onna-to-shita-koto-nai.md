@@ -1,5 +1,7 @@
 # Kare wa Onna to Shita Koto Nai.
 
+![kare-wa-onna-to-shita-koto-nai](https://cdn.myanimelist.net/images/manga/3/167200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

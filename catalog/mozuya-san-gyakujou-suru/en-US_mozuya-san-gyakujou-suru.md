@@ -1,5 +1,7 @@
 # Mozuya-san Gyakujou suru
 
+![mozuya-san-gyakujou-suru](https://cdn.myanimelist.net/images/manga/3/92181.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 58

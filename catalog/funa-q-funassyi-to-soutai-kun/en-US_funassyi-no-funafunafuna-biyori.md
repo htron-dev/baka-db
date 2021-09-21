@@ -1,5 +1,7 @@
 # Funassyi no Funafunafuna Biyori
 
+![funassyi-no-funafunafuna-biyori](https://cdn.myanimelist.net/images/anime/10/76586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: ふなっしーのふなふなふな日和

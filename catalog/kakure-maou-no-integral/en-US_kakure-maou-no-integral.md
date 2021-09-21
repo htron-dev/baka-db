@@ -1,5 +1,7 @@
 # Kakure Maou no Integral
 
+![kakure-maou-no-integral](https://cdn.myanimelist.net/images/manga/3/159361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

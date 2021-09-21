@@ -1,5 +1,7 @@
 # Yakyuukyou no Uta: Kita no Ookami Minami no Tora
 
+![yakyuukyou-no-uta-kita-no-ookami-minami-no-tora](https://cdn.myanimelist.net/images/anime/9/29016.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 野球狂の詩 北の狼南の虎

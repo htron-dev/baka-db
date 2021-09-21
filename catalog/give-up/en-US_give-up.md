@@ -1,5 +1,7 @@
 # Give Up!
 
+![give-up](https://cdn.myanimelist.net/images/manga/3/163569.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ギブあっぷ！

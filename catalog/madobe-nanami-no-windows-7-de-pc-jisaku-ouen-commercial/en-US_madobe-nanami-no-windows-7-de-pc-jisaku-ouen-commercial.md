@@ -1,5 +1,7 @@
 # Madobe Nanami no Windows 7 de PC Jisaku Ouen Commercial!!
 
+![madobe-nanami-no-windows-7-de-pc-jisaku-ouen-commercial](https://cdn.myanimelist.net/images/anime/7/24272.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 窓辺ななみの Windows 7 で PC 自作応援コマーシャルっ!!

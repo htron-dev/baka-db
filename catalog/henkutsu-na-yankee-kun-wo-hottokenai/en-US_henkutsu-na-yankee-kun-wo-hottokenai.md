@@ -1,5 +1,7 @@
 # Henkutsu na Yankee-kun wo Hottokenai
 
+![henkutsu-na-yankee-kun-wo-hottokenai](https://cdn.myanimelist.net/images/manga/1/196171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

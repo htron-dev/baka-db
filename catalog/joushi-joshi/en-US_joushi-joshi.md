@@ -1,5 +1,7 @@
 # Joushi Joshi.
 
+![joushi-joshi](https://cdn.myanimelist.net/images/manga/2/222413.jpg)
+
 -   **type**: manga
 -   **original-name**: じょうしじょし。
 -   **start-date**: 2018-04-13

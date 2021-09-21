@@ -1,5 +1,7 @@
 # Furare Girl
 
+![furare-girl](https://cdn.myanimelist.net/images/manga/2/225425.jpg)
+
 -   **type**: manga
 -   **original-name**: フラレガール
 -   **start-date**: 2018-03-05

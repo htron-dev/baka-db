@@ -1,5 +1,7 @@
 # Living Dead!
 
+![living-dead](https://cdn.myanimelist.net/images/manga/1/144459.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 59

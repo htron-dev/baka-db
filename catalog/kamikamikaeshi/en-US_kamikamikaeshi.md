@@ -1,5 +1,7 @@
 # Kamikamikaeshi
 
+![kamikamikaeshi](https://cdn.myanimelist.net/images/manga/1/161232.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 37

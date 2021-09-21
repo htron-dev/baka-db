@@ -1,5 +1,7 @@
 # Himichu no Ayako-sama
 
+![himichu-no-ayako-sama](https://cdn.myanimelist.net/images/manga/1/31563.jpg)
+
 -   **type**: manga
 -   **original-name**: ひみ Chu の文子さま
 

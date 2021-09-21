@@ -1,5 +1,7 @@
 # Evil or Live Recap
 
+![evil-or-live-recap](https://cdn.myanimelist.net/images/anime/5/89413.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: イーブル オア ライブ 総集編

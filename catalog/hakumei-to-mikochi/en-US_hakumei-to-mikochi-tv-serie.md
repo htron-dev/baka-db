@@ -1,5 +1,7 @@
 # Hakumei to Mikochi
 
+![hakumei-to-mikochi](https://cdn.myanimelist.net/images/anime/1250/91694.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハクメイとミコチ

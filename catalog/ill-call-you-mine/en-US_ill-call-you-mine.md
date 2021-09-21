@@ -1,5 +1,7 @@
 # I'll Call You Mine
 
+![ill-call-you-mine](https://cdn.myanimelist.net/images/manga/1/72557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

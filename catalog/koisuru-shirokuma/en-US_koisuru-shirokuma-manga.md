@@ -1,5 +1,7 @@
 # Koisuru Shirokuma
 
+![koisuru-shirokuma](https://cdn.myanimelist.net/images/manga/1/193632.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋するシロクマ
 -   **start-date**: 2015-06-15

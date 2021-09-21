@@ -1,5 +1,7 @@
 # Kamigami no Akuma
 
+![kamigami-no-akuma](https://cdn.myanimelist.net/images/manga/1/233750.jpg)
+
 -   **type**: manga
 -   **original-name**: 神々の悪魔
 -   **start-date**: 2018-07-20

@@ -1,5 +1,7 @@
 # Jekyll Hakase to Hyde-shi
 
+![jekyll-hakase-to-hyde-shi](https://cdn.myanimelist.net/images/manga/1/64915.jpg)
+
 -   **type**: manga
 -   **original-name**: ジーキル博士とハイド氏
 -   **start-date**: 2009-01-20

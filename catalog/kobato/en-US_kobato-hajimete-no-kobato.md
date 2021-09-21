@@ -1,5 +1,7 @@
 # Kobato.: Hajimete no Kobato.
 
+![kobato-hajimete-no-kobato](https://cdn.myanimelist.net/images/anime/6/36685.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: こばと。 はじめてのこばと。

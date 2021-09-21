@@ -1,5 +1,7 @@
 # Kuusou Spin Flower
 
+![kuusou-spin-flower](https://cdn.myanimelist.net/images/manga/3/132647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: Climax Season
 
+![cinderella-girls-gekijou-climax-season](https://cdn.myanimelist.net/images/anime/1105/111610.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シンデレラガールズ劇場 CLIMAX SEASON

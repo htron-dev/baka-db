@@ -1,5 +1,7 @@
 # Houkago, Sensei to Koi ni Ochiru
 
+![houkago-sensei-to-koi-ni-ochiru](https://cdn.myanimelist.net/images/manga/2/148059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

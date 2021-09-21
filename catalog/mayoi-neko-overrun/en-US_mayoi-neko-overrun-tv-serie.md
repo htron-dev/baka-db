@@ -1,5 +1,7 @@
 # Mayoi Neko Overrun!
 
+![mayoi-neko-overrun](https://cdn.myanimelist.net/images/anime/10/23770.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 迷い猫オーバーラン!

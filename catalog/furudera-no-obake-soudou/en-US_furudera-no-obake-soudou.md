@@ -1,5 +1,7 @@
 # Furudera no Obake-soudou
 
+![furudera-no-obake-soudou](https://cdn.myanimelist.net/images/anime/7/12240.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 古寺のおばけ騒動

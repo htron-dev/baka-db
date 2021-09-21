@@ -1,5 +1,7 @@
 # Maruko to Suugaku Ouji
 
+![maruko-to-suugaku-ouji](https://cdn.myanimelist.net/images/manga/2/193254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

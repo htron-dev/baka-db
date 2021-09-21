@@ -1,5 +1,7 @@
 # Junjou Yokubou Sweet Manual: Shojo to Yajuu no Shanai Renai
 
+![junjou-yokubou-sweet-manual-shojo-to-yajuu-no-shanai-renai](https://cdn.myanimelist.net/images/manga/2/192623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

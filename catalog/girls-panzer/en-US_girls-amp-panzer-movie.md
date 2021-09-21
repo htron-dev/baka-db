@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Movie
 
+![girls-amp-panzer-movie](https://cdn.myanimelist.net/images/anime/1776/91467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガールズ&パンツァー 劇場版

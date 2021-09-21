@@ -1,5 +1,7 @@
 # My Fair Lady
 
+![my-fair-lady](https://cdn.myanimelist.net/images/manga/3/35363.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: My フェアれでぇ

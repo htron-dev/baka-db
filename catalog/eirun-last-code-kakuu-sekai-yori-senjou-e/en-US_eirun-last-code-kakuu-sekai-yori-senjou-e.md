@@ -1,5 +1,7 @@
 # Eirun Last Code: Kakuu Sekai yori Senjou e
 
+![eirun-last-code-kakuu-sekai-yori-senjou-e](https://cdn.myanimelist.net/images/manga/3/167959.jpg)
+
 -   **type**: light-novel
 -   **original-name**: エイルン・ラストコード ～架空世界より戦場へ～
 -   **start-date**: 2015-01-23

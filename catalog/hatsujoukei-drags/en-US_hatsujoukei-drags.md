@@ -1,5 +1,7 @@
 # Hatsujoukei Drags
 
+![hatsujoukei-drags](https://cdn.myanimelist.net/images/manga/2/21962.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

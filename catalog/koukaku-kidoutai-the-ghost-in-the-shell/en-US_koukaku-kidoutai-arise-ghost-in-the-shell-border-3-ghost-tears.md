@@ -1,8 +1,10 @@
 # Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears
 
+![koukaku-kidoutai-arise-ghost-in-the-shell-border-3-ghost-tears](https://cdn.myanimelist.net/images/anime/9/56607.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊ARISE -GHOST IN THE SHELL- border:3 Ghost Tears
+-   **original-name**: 攻殻機動隊 ARISE -GHOST IN THE SHELL- border:3 Ghost Tears
 -   **start-date**: 2014-06-28
 -   **opening-song**: "GHOST IN THE SHELL ARISE" by Cornelius
 -   **ending-song**: "Heart Grenade" by Sean Lennon and Cornelius

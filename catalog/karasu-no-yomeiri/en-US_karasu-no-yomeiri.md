@@ -1,5 +1,7 @@
 # Karasu no Yomeiri
 
+![karasu-no-yomeiri](https://cdn.myanimelist.net/images/manga/2/223773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

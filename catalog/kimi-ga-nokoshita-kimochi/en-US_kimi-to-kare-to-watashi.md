@@ -1,5 +1,7 @@
 # Kimi to Kare to Watashi
 
+![kimi-to-kare-to-watashi](https://cdn.myanimelist.net/images/manga/2/30706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

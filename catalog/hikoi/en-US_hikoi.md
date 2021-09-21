@@ -1,5 +1,7 @@
 # Hikoi
 
+![hikoi](https://cdn.myanimelist.net/images/manga/3/224753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

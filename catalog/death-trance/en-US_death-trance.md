@@ -1,5 +1,7 @@
 # Death Trance
 
+![death-trance](https://cdn.myanimelist.net/images/manga/1/9100.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

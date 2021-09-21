@@ -1,5 +1,7 @@
 # Haruko no Bouken
 
+![haruko-no-bouken](https://cdn.myanimelist.net/images/anime/9/76313.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 春子の冒険

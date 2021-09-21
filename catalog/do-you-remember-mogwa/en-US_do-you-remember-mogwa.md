@@ -1,5 +1,7 @@
 # Do You Remember, Mogwa?
 
+![do-you-remember-mogwa](https://cdn.myanimelist.net/images/manga/4/32758.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 

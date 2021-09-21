@@ -1,5 +1,7 @@
 # Junai Nostalgic
 
+![junai-nostalgic](https://cdn.myanimelist.net/images/manga/2/227912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

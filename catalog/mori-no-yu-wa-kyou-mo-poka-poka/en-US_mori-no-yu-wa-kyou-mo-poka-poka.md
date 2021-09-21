@@ -1,5 +1,7 @@
 # Mori no Yu wa Kyou mo Poka Poka!
 
+![mori-no-yu-wa-kyou-mo-poka-poka](https://cdn.myanimelist.net/images/manga/1/45525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hisho no Territory
 
+![hisho-no-territory](https://cdn.myanimelist.net/images/manga/2/88729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

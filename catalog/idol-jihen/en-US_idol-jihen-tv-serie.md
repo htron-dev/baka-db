@@ -1,5 +1,7 @@
 # Idol Jihen
 
+![idol-jihen](https://cdn.myanimelist.net/images/anime/1137/117403.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アイドル事変

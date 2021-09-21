@@ -1,5 +1,7 @@
 # Gear Fighter Dendoh
 
+![gear-fighter-dendoh](https://cdn.myanimelist.net/images/anime/12/49409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: GEAR 戦士 電童

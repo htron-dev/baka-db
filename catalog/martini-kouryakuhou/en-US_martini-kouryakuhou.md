@@ -1,5 +1,7 @@
 # Martini Kouryakuhou
 
+![martini-kouryakuhou](https://cdn.myanimelist.net/images/manga/3/28395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

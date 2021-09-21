@@ -1,5 +1,7 @@
 # Love to Donshoku no Coldrix
 
+![love-to-donshoku-no-coldrix](https://cdn.myanimelist.net/images/manga/1/173762.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

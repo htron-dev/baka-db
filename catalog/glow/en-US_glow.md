@@ -1,5 +1,7 @@
 # Glow!
 
+![glow](https://cdn.myanimelist.net/images/manga/2/156499.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

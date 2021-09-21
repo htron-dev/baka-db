@@ -1,5 +1,7 @@
 # Ooyasan wa Shishunki!
 
+![ooyasan-wa-shishunki](https://cdn.myanimelist.net/images/anime/13/77832.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 大家さんは思春期！

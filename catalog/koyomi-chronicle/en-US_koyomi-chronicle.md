@@ -1,5 +1,7 @@
 # Koyomi Chronicle
 
+![koyomi-chronicle](https://cdn.myanimelist.net/images/manga/2/164204.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋詠クロニクル

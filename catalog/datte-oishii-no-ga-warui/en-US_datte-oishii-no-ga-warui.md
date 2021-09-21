@@ -1,5 +1,7 @@
 # Datte, Oishii no ga Warui.
 
+![datte-oishii-no-ga-warui](https://cdn.myanimelist.net/images/manga/2/181621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

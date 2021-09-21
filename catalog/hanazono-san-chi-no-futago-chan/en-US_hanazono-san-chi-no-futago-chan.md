@@ -1,5 +1,7 @@
 # Hanazono-san Chi no Futago-chan
 
+![hanazono-san-chi-no-futago-chan](https://cdn.myanimelist.net/images/manga/3/238145.jpg)
+
 -   **type**: manga
 -   **original-name**: 花園さんちのふたごちゃん
 -   **start-date**: 2020-07-21

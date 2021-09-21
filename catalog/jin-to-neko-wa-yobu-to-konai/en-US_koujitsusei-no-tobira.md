@@ -1,5 +1,7 @@
 # Koujitsusei no Tobira
 
+![koujitsusei-no-tobira](https://cdn.myanimelist.net/images/manga/1/168592.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

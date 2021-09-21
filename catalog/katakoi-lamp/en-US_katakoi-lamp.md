@@ -1,5 +1,7 @@
 # Katakoi Lamp
 
+![katakoi-lamp](https://cdn.myanimelist.net/images/manga/1/245532.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

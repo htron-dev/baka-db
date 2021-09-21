@@ -1,5 +1,7 @@
 # Kyousou Giga
 
+![kyousou-giga](https://cdn.myanimelist.net/images/manga/2/81350.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

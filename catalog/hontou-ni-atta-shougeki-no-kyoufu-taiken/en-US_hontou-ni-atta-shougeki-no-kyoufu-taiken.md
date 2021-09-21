@@ -1,5 +1,7 @@
 # Hontou ni Atta Shougeki no Kyoufu Taiken
 
+![hontou-ni-atta-shougeki-no-kyoufu-taiken](https://cdn.myanimelist.net/images/manga/1/166829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

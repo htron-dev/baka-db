@@ -1,5 +1,7 @@
 # Morumo 1/10
 
+![morumo-1-10](https://cdn.myanimelist.net/images/manga/1/137939.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

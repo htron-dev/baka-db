@@ -1,5 +1,7 @@
 # Lime-iro Senkitan
 
+![lime-iro-senkitan](https://cdn.myanimelist.net/images/anime/6/75503.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: らいむいろ戦奇譚

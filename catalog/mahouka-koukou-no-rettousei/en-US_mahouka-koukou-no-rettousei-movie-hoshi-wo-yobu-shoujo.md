@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo
 
+![mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo](https://cdn.myanimelist.net/images/anime/8/85524.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法科高校の劣等生 星を呼ぶ少女

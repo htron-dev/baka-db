@@ -1,5 +1,7 @@
 # Embryo
 
+![embryo](https://cdn.myanimelist.net/images/manga/1/71617.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Ikoku de Mitsuketa Koi
 
+![ikoku-de-mitsuketa-koi](https://cdn.myanimelist.net/images/manga/1/246979.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 異国で見つけた恋

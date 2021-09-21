@@ -1,5 +1,7 @@
 # Ketsuinu
 
+![ketsuinu](https://cdn.myanimelist.net/images/anime/13/26416.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ケツ犬

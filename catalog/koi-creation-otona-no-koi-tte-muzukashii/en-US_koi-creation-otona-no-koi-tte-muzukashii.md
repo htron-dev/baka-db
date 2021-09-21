@@ -1,5 +1,7 @@
 # Koi Creation: Otona no Koi tte Muzukashii!
 
+![koi-creation-otona-no-koi-tte-muzukashii](https://cdn.myanimelist.net/images/manga/3/195478.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋クリエーション～大人の恋って難しい！～

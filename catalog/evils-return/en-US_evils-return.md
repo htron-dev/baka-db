@@ -1,5 +1,7 @@
 # Evil's Return
 
+![evils-return](https://cdn.myanimelist.net/images/manga/2/166999.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 14

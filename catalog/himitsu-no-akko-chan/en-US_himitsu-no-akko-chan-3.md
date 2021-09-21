@@ -1,5 +1,7 @@
 # Himitsu no Akko-chan 3
 
+![himitsu-no-akko-chan-3](https://cdn.myanimelist.net/images/anime/8/6843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: ひみつのアッコちゃん 第３期

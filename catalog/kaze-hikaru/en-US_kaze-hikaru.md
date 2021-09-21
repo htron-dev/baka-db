@@ -1,5 +1,7 @@
 # Kaze Hikaru
 
+![kaze-hikaru](https://cdn.myanimelist.net/images/manga/3/15861.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **original-name**: 風光る

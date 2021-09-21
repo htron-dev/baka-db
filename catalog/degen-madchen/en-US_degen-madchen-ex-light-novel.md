@@ -1,5 +1,7 @@
 # Degen Mädchen EX
 
+![degen-madchen-ex](https://cdn.myanimelist.net/images/manga/2/159296.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

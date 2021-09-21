@@ -1,5 +1,7 @@
 # Koutei no Hanayome
 
+![koutei-no-hanayome](https://cdn.myanimelist.net/images/manga/2/61949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

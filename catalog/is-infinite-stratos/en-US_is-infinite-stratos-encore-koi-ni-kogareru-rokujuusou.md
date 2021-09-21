@@ -1,5 +1,7 @@
 # IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 
+![is-infinite-stratos-encore-koi-ni-kogareru-rokujuusou](https://cdn.myanimelist.net/images/anime/4/56161.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: IS 〈インフィニット・ストラトス〉 アンコール『恋に焦がれる六重奏』

@@ -1,5 +1,7 @@
 # Karin Zouketsuki
 
+![karin-zouketsuki](https://cdn.myanimelist.net/images/manga/1/86977.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 60

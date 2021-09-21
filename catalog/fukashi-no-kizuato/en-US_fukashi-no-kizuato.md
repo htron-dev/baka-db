@@ -1,5 +1,7 @@
 # Fukashi no Kizuato
 
+![fukashi-no-kizuato](https://cdn.myanimelist.net/images/manga/2/136911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

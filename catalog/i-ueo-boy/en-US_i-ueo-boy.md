@@ -1,5 +1,7 @@
 # I Ueo Boy
 
+![i-ueo-boy](https://cdn.myanimelist.net/images/manga/1/108713.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

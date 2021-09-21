@@ -1,5 +1,7 @@
 # Grisaia no Kajitsu: L'Oiseau bleu
 
+![grisaia-no-kajitsu-l-oiseau-bleu](https://cdn.myanimelist.net/images/manga/1/143423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

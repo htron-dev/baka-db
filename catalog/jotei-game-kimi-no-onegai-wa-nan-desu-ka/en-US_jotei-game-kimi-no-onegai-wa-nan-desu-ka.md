@@ -1,5 +1,7 @@
 # Jotei Game: Kimi no Onegai wa nan desu ka?
 
+![jotei-game-kimi-no-onegai-wa-nan-desu-ka](https://cdn.myanimelist.net/images/manga/3/246639.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Baki Gaiden: Kizuzura
 
+![baki-gaiden-kizuzura](https://cdn.myanimelist.net/images/manga/1/128619.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

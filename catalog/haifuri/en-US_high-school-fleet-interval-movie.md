@@ -1,5 +1,7 @@
 # High School Fleet Interval (Movie)
 
+![high-school-fleet-interval-movie](https://cdn.myanimelist.net/images/manga/3/240244.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

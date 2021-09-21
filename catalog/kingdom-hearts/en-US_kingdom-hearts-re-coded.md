@@ -1,5 +1,7 @@
 # Kingdom Hearts Re:coded
 
+![kingdom-hearts-re-coded](https://cdn.myanimelist.net/images/manga/2/158379.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: キングダム ハーツ Re:コーデッド

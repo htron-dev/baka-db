@@ -1,5 +1,7 @@
 # Kenran! Teito Shoujo Tanteidan: Akai Bouryaku wo Ute!
 
+![kenran-teito-shoujo-tanteidan-akai-bouryaku-wo-ute](https://cdn.myanimelist.net/images/manga/3/168645.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

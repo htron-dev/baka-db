@@ -1,5 +1,7 @@
 # Fetixxx!
 
+![fetixxx](https://cdn.myanimelist.net/images/manga/3/139319.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

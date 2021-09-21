@@ -1,5 +1,7 @@
 # Hananusubito wa Tsuyu ni Yofu
 
+![hananusubito-wa-tsuyu-ni-yofu](https://cdn.myanimelist.net/images/manga/3/119249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

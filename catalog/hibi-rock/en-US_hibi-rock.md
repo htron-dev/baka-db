@@ -1,5 +1,7 @@
 # Hibi Rock
 
+![hibi-rock](https://cdn.myanimelist.net/images/manga/3/150560.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 63

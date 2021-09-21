@@ -1,5 +1,7 @@
 # Dramatic Irony
 
+![dramatic-irony](https://cdn.myanimelist.net/images/manga/3/196391.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラマティック・アイロニー
 -   **start-date**: 2016-10-22

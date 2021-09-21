@@ -1,5 +1,7 @@
 # Koi wo Hakaseru Saikou no Jouken
 
+![koi-wo-hakaseru-saikou-no-jouken](https://cdn.myanimelist.net/images/manga/1/236495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

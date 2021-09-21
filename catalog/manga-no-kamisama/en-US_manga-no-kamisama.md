@@ -1,5 +1,7 @@
 # Manga no Kamisama
 
+![manga-no-kamisama](https://cdn.myanimelist.net/images/manga/3/177047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: マンガの神様

@@ -1,5 +1,7 @@
 # Getter Robo Memorial
 
+![getter-robo-memorial](https://cdn.myanimelist.net/images/anime/1856/107890.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゲッターロボ メモリアル

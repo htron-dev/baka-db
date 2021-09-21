@@ -1,5 +1,7 @@
 # Kekkaishi (TV): Yoshimori no Omoi
 
+![kekkaishi-tv-yoshimori-no-omoi](https://cdn.myanimelist.net/images/anime/1439/99152.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 結界師 良守の想い

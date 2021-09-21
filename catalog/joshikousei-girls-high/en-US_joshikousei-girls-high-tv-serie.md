@@ -1,5 +1,7 @@
 # Joshikousei: Girl's High
 
+![joshikousei-girls-high](https://cdn.myanimelist.net/images/anime/5/23224.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 女子高生 GIRL'S HIGH

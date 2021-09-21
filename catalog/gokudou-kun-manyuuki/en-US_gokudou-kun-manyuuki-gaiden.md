@@ -1,5 +1,7 @@
 # Gokudou-kun Manyuuki Gaiden
 
+![gokudou-kun-manyuuki-gaiden](https://cdn.myanimelist.net/images/manga/1/168986.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: ゴクドーくん漫遊記 外伝

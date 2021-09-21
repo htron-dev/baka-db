@@ -1,5 +1,7 @@
 # Giniro no Kami no Agito
 
+![giniro-no-kami-no-agito](https://cdn.myanimelist.net/images/anime/9/83824.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀色の髪のアギト

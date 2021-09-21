@@ -1,5 +1,7 @@
 # Doukyonin no Bishoujo ga Lesbian Datta Ken.
 
+![doukyonin-no-bishoujo-ga-lesbian-datta-ken](https://cdn.myanimelist.net/images/manga/1/152869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 同居人の美少女がレズビアンだった件。

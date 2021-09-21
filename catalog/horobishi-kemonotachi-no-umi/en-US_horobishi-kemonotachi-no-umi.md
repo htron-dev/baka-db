@@ -1,5 +1,7 @@
 # Horobishi Kemonotachi no Umi
 
+![horobishi-kemonotachi-no-umi](https://cdn.myanimelist.net/images/manga/1/36107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

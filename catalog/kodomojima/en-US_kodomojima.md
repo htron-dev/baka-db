@@ -1,5 +1,7 @@
 # Kodomojima
 
+![kodomojima](https://cdn.myanimelist.net/images/manga/2/174087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: こどもじま

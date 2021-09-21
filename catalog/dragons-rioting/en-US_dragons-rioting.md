@@ -1,5 +1,7 @@
 # Dragons Rioting
 
+![dragons-rioting](https://cdn.myanimelist.net/images/manga/3/188781.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

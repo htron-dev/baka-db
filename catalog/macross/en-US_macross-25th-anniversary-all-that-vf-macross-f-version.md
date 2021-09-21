@@ -1,5 +1,7 @@
 # Macross 25th Anniversary: All That VF Macross F Version
 
+![macross-25th-anniversary-all-that-vf-macross-f-version](https://cdn.myanimelist.net/images/anime/11/11346.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: マクロス 25 周年記念 『All That VF -Version F-』

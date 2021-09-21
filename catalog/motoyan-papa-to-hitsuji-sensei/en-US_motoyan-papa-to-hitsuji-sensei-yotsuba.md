@@ -1,5 +1,7 @@
 # Motoyan Papa to Hitsuji-sensei: Yotsuba
 
+![motoyan-papa-to-hitsuji-sensei-yotsuba](https://cdn.myanimelist.net/images/manga/2/219709.jpg)
+
 -   **type**: manga
 -   **original-name**: 元ヤンパパ と ヒツジ先生 よつば
 -   **start-date**: 2018-08-03

@@ -1,5 +1,7 @@
 # Imokawa Mukuzo: Chuugaeri no Maki
 
+![imokawa-mukuzo-chuugaeri-no-maki](https://cdn.myanimelist.net/images/anime/1795/110267.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 芋川椋三宙返りの巻

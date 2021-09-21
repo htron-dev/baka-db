@@ -1,5 +1,7 @@
 # Hachijoujima to, Majo no Natsu
 
+![hachijoujima-to-majo-no-natsu](https://cdn.myanimelist.net/images/manga/3/126151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 八丈島と、魔女の夏

@@ -1,5 +1,7 @@
 # Lingerie Publicity
 
+![lingerie-publicity](https://cdn.myanimelist.net/images/manga/3/5788.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ランジェリー・パブリシティ

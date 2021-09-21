@@ -1,5 +1,7 @@
 # Duel Masters Movie 1: Yami no Shiro no Maryuuou
 
+![duel-masters-movie-1-yami-no-shiro-no-maryuuou](https://cdn.myanimelist.net/images/anime/9/22612.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版デュエル・マスターズ 闇の城の魔龍凰[カース・オブ・ザ・デスフェニックス]

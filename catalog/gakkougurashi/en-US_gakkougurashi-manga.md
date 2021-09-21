@@ -1,5 +1,7 @@
 # Gakkougurashi!
 
+![gakkougurashi](https://cdn.myanimelist.net/images/manga/1/188787.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 78

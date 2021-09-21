@@ -1,5 +1,7 @@
 # Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita
 
+![fudanshi-shoukan-isekai-de-shinjuu-ni-hameraremashita](https://cdn.myanimelist.net/images/manga/2/236942.jpg)
+
 -   **type**: manga
 -   **original-name**: 腐男子召喚～異世界で神獣にハメられました～
 -   **start-date**: 2019-06-07

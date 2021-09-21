@@ -1,5 +1,7 @@
 # Joshi Manager no Do Ecchi Sex Bukatsu Nisshi: Hentai Houshi-hen
 
+![joshi-manager-no-do-ecchi-sex-bukatsu-nisshi-hentai-houshi-hen](https://cdn.myanimelist.net/images/manga/3/199320.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

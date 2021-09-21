@@ -1,5 +1,7 @@
 # Florist no Koi wa Saku
 
+![florist-no-koi-wa-saku](https://cdn.myanimelist.net/images/manga/2/169197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

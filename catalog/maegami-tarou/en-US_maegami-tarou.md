@@ -1,5 +1,7 @@
 # Maegami Tarou
 
+![maegami-tarou](https://cdn.myanimelist.net/images/anime/8/29237.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: まえがみ太郎

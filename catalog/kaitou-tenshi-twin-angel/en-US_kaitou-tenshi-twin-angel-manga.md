@@ -1,5 +1,7 @@
 # Kaitou Tenshi Twin Angel
 
+![kaitou-tenshi-twin-angel](https://cdn.myanimelist.net/images/manga/2/191819.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Goong
 
+![goong](https://cdn.myanimelist.net/images/manga/1/23572.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 27
 -   **chapters**: 179

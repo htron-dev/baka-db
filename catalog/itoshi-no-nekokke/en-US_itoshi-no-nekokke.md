@@ -1,5 +1,7 @@
 # Itoshi no Nekokke
 
+![itoshi-no-nekokke](https://cdn.myanimelist.net/images/manga/1/41243.jpg)
+
 -   **type**: manga
 -   **original-name**: いとしの猫っ毛
 -   **start-date**: 2010-03-10

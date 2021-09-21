@@ -1,5 +1,7 @@
 # Idea no Hana
 
+![idea-no-hana](https://cdn.myanimelist.net/images/manga/3/154726.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

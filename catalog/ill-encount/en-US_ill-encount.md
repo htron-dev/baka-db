@@ -1,5 +1,7 @@
 # I'll Encount!
 
+![ill-encount](https://cdn.myanimelist.net/images/manga/2/214524.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Luger Code 1951
 
+![luger-code-1951](https://cdn.myanimelist.net/images/anime/7/81651.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ルガーコード 1951

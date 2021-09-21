@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.
 
+![kino-no-tabi-the-beautiful-world-nanika-wo-suru-tame-ni-life-goes-on](https://cdn.myanimelist.net/images/anime/5/73888.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 キノの旅 -the Beautiful World- 何かをするために -life goes on.

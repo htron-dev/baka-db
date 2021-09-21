@@ -1,5 +1,7 @@
 # Digimon Tamers: Boukensha-tachi no Tatakai
 
+![digimon-tamers-boukensha-tachi-no-tatakai](https://cdn.myanimelist.net/images/anime/10/7812.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンテイマーズ 冒険者たちの戦い

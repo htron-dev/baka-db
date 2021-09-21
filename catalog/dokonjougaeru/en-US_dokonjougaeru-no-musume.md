@@ -1,5 +1,7 @@
 # Dokonjougaeru no Musume
 
+![dokonjougaeru-no-musume](https://cdn.myanimelist.net/images/manga/3/192068.jpg)
+
 -   **type**: manga
 -   **original-name**: ど根性ガエルの娘
 -   **start-date**: 2016-06-17

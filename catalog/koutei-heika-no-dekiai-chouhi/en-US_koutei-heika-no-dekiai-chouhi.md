@@ -1,5 +1,7 @@
 # Koutei Heika no Dekiai Chouhi
 
+![koutei-heika-no-dekiai-chouhi](https://cdn.myanimelist.net/images/manga/2/194208.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Mokke
 
+![mokke](https://cdn.myanimelist.net/images/manga/1/46145.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 50

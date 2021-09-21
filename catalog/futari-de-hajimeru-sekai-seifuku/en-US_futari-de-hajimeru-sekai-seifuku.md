@@ -1,5 +1,7 @@
 # Futari de Hajimeru Sekai Seifuku
 
+![futari-de-hajimeru-sekai-seifuku](https://cdn.myanimelist.net/images/manga/2/163010.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

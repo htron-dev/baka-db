@@ -1,5 +1,7 @@
 # Ii ne! Hikaru Genji-kun
 
+![ii-ne-hikaru-genji-kun](https://cdn.myanimelist.net/images/manga/1/221293.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

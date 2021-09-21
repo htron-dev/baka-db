@@ -1,5 +1,7 @@
 # Exception
 
+![exception](https://cdn.myanimelist.net/images/anime/1481/115670.jpg)
+
 -   **type**: ona
 -   **original-name**: exception
 -   **rating**: None

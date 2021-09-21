@@ -1,5 +1,7 @@
 # Prince Charming
 
+![prince-charming](https://cdn.myanimelist.net/images/manga/1/157035.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

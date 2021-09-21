@@ -1,5 +1,7 @@
 # Jaken-san wa Sugu Bureru
 
+![jaken-san-wa-sugu-bureru](https://cdn.myanimelist.net/images/manga/2/219536.jpg)
+
 -   **type**: manga
 -   **original-name**: 邪剣さんはすぐブレる
 -   **start-date**: 2018-12-30

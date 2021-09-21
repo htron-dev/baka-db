@@ -1,5 +1,7 @@
 # Dagashi Kashi 2
 
+![dagashi-kashi-2](https://cdn.myanimelist.net/images/anime/1649/90141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: だがしかし 2

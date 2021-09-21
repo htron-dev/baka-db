@@ -1,5 +1,7 @@
 # Manga de Wakaru Hontou wa Ecchi na Butsurigaku
 
+![manga-de-wakaru-hontou-wa-ecchi-na-butsurigaku](https://cdn.myanimelist.net/images/manga/3/248300.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 39

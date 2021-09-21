@@ -1,5 +1,7 @@
 # Kantai Collection: Zui no Umi, Ootori no Sora
 
+![kantai-collection-zui-no-umi-ootori-no-sora](https://cdn.myanimelist.net/images/manga/2/161636.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

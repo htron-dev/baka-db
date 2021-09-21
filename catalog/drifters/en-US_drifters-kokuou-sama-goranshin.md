@@ -1,5 +1,7 @@
 # Drifters: Kokuou-sama Goranshin
 
+![drifters-kokuou-sama-goranshin](https://cdn.myanimelist.net/images/anime/12/89808.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒王様御乱心

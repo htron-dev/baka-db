@@ -1,5 +1,7 @@
 # Initial D Extra Stage 2
 
+![initial-d-extra-stage-2](https://cdn.myanimelist.net/images/anime/10/10462.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 頭文字 D Extra Stage 2

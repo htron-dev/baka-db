@@ -1,5 +1,7 @@
 # Hoshii no wa Anata Dake.
 
+![hoshii-no-wa-anata-dake](https://cdn.myanimelist.net/images/manga/3/187929.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

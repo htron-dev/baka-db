@@ -1,5 +1,7 @@
 # Koisuru Suizoku-man
 
+![koisuru-suizoku-man](https://cdn.myanimelist.net/images/manga/1/205455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

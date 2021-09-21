@@ -1,5 +1,7 @@
 # Mardock Scramble: The Second Combustion
 
+![mardock-scramble-the-second-combustion](https://cdn.myanimelist.net/images/anime/1791/112725.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マルドゥック・スクランブル 燃焼

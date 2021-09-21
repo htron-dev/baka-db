@@ -1,5 +1,7 @@
 # Kono Akuma me!
 
+![kono-akuma-me](https://cdn.myanimelist.net/images/manga/2/30104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

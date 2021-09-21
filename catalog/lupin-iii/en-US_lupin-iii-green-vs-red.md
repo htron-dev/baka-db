@@ -1,5 +1,7 @@
 # Lupin III: Green vs. Red
 
+![lupin-iii-green-vs-red](https://cdn.myanimelist.net/images/anime/10/15007.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ルパン三世 GREENvsRED

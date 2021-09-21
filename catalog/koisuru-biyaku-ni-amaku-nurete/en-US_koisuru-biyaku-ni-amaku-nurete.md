@@ -1,5 +1,7 @@
 # Koisuru Biyaku ni Amaku Nurete
 
+![koisuru-biyaku-ni-amaku-nurete](https://cdn.myanimelist.net/images/manga/2/192405.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

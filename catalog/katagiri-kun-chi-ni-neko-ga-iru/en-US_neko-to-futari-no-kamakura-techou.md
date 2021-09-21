@@ -1,5 +1,7 @@
 # Neko to Futari no Kamakura Techou
 
+![neko-to-futari-no-kamakura-techou](https://cdn.myanimelist.net/images/manga/1/237477.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 59

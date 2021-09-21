@@ -1,5 +1,7 @@
 # Mahoromatic 2 End Year Special
 
+![mahoromatic-2-end-year-special](https://cdn.myanimelist.net/images/anime/2/9745.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 歳末スペシャル

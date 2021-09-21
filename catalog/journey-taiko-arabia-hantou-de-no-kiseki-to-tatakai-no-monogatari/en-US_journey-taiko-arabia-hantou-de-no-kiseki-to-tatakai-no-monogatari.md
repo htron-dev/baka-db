@@ -1,5 +1,7 @@
 # Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari
 
+![journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari](https://cdn.myanimelist.net/images/anime/1660/114383.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャーニー 太古アラビア半島での奇跡と戦いの物語

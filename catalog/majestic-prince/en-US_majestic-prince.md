@@ -1,5 +1,7 @@
 # Majestic Prince
 
+![majestic-prince](https://cdn.myanimelist.net/images/manga/2/76207.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 87

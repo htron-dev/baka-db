@@ -1,5 +1,7 @@
 # Tsukimonogatari
 
+![tsukimonogatari](https://cdn.myanimelist.net/images/anime/6/68259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 憑物語

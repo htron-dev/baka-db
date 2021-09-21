@@ -1,5 +1,7 @@
 # Hoshi wo Ou Kodomo: Agartha no Shounen
 
+![hoshi-wo-ou-kodomo-agartha-no-shounen](https://cdn.myanimelist.net/images/manga/2/99351.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Lady Lady
 
+![lady-lady](https://cdn.myanimelist.net/images/manga/2/71855.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: レディレディ

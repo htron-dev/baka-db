@@ -1,5 +1,7 @@
 # Digimon Adventure: Last Evolution Kizuna
 
+![digimon-adventure-last-evolution-kizuna](https://cdn.myanimelist.net/images/manga/1/227389.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

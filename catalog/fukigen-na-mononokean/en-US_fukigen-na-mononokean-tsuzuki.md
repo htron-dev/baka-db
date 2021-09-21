@@ -1,5 +1,7 @@
 # Fukigen na Mononokean Tsuzuki
 
+![fukigen-na-mononokean-tsuzuki](https://cdn.myanimelist.net/images/anime/1298/111600.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 不機嫌なモノノケ庵 續

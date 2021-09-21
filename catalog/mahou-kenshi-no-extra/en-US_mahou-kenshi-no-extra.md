@@ -1,5 +1,7 @@
 # Mahou Kenshi no Extra
 
+![mahou-kenshi-no-extra](https://cdn.myanimelist.net/images/manga/2/177006.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 35

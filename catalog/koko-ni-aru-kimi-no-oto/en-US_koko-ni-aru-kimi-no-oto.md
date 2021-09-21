@@ -1,5 +1,7 @@
 # Koko ni Aru, Kimi no Oto
 
+![koko-ni-aru-kimi-no-oto](https://cdn.myanimelist.net/images/manga/2/83735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

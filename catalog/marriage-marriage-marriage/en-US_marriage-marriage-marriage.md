@@ -1,5 +1,7 @@
 # Marriage Marriage Marriage!!
 
+![marriage-marriage-marriage](https://cdn.myanimelist.net/images/manga/3/13994.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マリッジ・マリッジ・マリッジ!!

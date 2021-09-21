@@ -1,5 +1,7 @@
 # Kano x Kano
 
+![kano-x-kano](https://cdn.myanimelist.net/images/manga/2/162403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

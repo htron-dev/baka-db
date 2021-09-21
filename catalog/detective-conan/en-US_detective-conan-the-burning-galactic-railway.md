@@ -1,5 +1,7 @@
 # Detective Conan: The Burning Galactic Railway
 
+![detective-conan-the-burning-galactic-railway](https://cdn.myanimelist.net/images/anime/1318/108547.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 灼熱の銀河鉄道

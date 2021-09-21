@@ -1,5 +1,7 @@
 # Haha wo Tazunete Sanzenri (Special)
 
+![haha-wo-tazunete-sanzenri-special](https://cdn.myanimelist.net/images/anime/9/85537.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 母をたずねて三千里

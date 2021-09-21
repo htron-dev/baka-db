@@ -1,5 +1,7 @@
 # Gakkou no Jikan - Hot na Onnanoko
 
+![gakkou-no-jikan-hot-na-onnanoko](https://cdn.myanimelist.net/images/manga/2/110561.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 学校の時間 ホットな女の子

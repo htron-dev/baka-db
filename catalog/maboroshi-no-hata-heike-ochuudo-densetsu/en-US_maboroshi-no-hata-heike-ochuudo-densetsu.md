@@ -1,5 +1,7 @@
 # Maboroshi no Hata: Heike Ochuudo Densetsu
 
+![maboroshi-no-hata-heike-ochuudo-densetsu](https://cdn.myanimelist.net/images/manga/3/128821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まぼろしの旗―平家落人伝説―

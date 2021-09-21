@@ -1,5 +1,7 @@
 # Doctor wa Onzoushi
 
+![doctor-wa-onzoushi](https://cdn.myanimelist.net/images/manga/3/247152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドクターは御曹子

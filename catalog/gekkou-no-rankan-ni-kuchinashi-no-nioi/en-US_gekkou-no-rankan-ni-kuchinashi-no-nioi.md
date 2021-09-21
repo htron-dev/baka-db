@@ -1,5 +1,7 @@
 # Gekkou no Rankan ni Kuchinashi no Nioi
 
+![gekkou-no-rankan-ni-kuchinashi-no-nioi](https://cdn.myanimelist.net/images/manga/3/82162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

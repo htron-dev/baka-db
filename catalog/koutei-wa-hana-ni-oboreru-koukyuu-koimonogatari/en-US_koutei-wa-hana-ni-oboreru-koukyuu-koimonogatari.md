@@ -1,5 +1,7 @@
 # Koutei wa Hana ni Oboreru: Koukyuu Koimonogatari
 
+![koutei-wa-hana-ni-oboreru-koukyuu-koimonogatari](https://cdn.myanimelist.net/images/manga/1/153350.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 皇帝は華に溺れる～後宮恋物語～

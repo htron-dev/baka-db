@@ -1,5 +1,7 @@
 # Idol Jihen
 
+![idol-jihen](https://cdn.myanimelist.net/images/manga/3/192412.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

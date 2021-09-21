@@ -1,5 +1,7 @@
 # I-Ren
 
+![i-ren](https://cdn.myanimelist.net/images/manga/2/38781.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 28

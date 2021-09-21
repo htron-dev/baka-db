@@ -1,5 +1,7 @@
 # Dr. Rin ni Kiitemite!
 
+![dr-rin-ni-kiitemite](https://cdn.myanimelist.net/images/manga/1/164574.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

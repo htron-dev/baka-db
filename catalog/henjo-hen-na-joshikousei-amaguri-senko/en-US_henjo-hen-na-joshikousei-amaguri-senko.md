@@ -1,5 +1,7 @@
 # Henjo: Hen na Joshikousei Amaguri Senko
 
+![henjo-hen-na-joshikousei-amaguri-senko](https://cdn.myanimelist.net/images/manga/2/188799.jpg)
+
 -   **type**: manga
 -   **original-name**: 変女～変な女子高生 甘栗千子～
 -   **start-date**: 2012-09-28

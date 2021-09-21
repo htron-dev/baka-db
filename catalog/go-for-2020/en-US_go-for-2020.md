@@ -1,5 +1,7 @@
 # Go for 2020
 
+![go-for-2020](https://cdn.myanimelist.net/images/anime/1765/106088.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Go for 2020

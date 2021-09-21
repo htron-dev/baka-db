@@ -1,5 +1,7 @@
 # Matantei Loki Ragnarok: Shinsekai no Kamigami
 
+![matantei-loki-ragnarok-shinsekai-no-kamigami](https://cdn.myanimelist.net/images/manga/1/153919.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

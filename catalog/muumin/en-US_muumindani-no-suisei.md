@@ -1,5 +1,7 @@
 # Muumindani no Suisei
 
+![muumindani-no-suisei](https://cdn.myanimelist.net/images/anime/12/3984.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ムーミン谷の彗星

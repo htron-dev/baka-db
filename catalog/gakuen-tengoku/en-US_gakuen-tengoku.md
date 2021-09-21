@@ -1,5 +1,7 @@
 # Gakuen Tengoku
 
+![gakuen-tengoku](https://cdn.myanimelist.net/images/manga/2/21335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 学園天国

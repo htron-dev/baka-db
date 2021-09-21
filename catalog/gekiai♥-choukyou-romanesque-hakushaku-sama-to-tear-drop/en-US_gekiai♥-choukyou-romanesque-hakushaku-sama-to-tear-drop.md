@@ -1,5 +1,7 @@
 # Gekiai♥Choukyou Romanesque: Hakushaku-sama to Tear Drop
 
+![gekiai♥-choukyou-romanesque-hakushaku-sama-to-tear-drop](https://cdn.myanimelist.net/images/manga/2/183334.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume NEO
 
+![himitsukessha-taka-no-tsume-neo](https://cdn.myanimelist.net/images/anime/6/82813.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 秘密結社鷹の爪 NEO

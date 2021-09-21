@@ -1,5 +1,7 @@
 # Hidamari Sketch: Sae Hiro Sotsugyou-hen
 
+![hidamari-sketch-sae-hiro-sotsugyou-hen](https://cdn.myanimelist.net/images/anime/3/72754.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ひだまりスケッチ 沙英ヒロ 卒業編

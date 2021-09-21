@@ -1,5 +1,7 @@
 # Haru Rock
 
+![haru-rock](https://cdn.myanimelist.net/images/manga/3/200258.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 47

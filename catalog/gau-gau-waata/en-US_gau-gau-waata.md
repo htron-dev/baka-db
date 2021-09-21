@@ -1,5 +1,7 @@
 # Gau Gau Waata
 
+![gau-gau-waata](https://cdn.myanimelist.net/images/manga/4/71695.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ガウガウわー太

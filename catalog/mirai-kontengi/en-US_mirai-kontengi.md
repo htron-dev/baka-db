@@ -1,5 +1,7 @@
 # Mirai Kontengi
 
+![mirai-kontengi](https://cdn.myanimelist.net/images/manga/1/43703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: みらい渾天儀

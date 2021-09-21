@@ -1,5 +1,7 @@
 # Fenrir-neesan to Boku
 
+![fenrir-neesan-to-boku](https://cdn.myanimelist.net/images/manga/3/210732.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

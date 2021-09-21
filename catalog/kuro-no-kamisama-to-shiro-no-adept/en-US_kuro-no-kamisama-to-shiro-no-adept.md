@@ -1,5 +1,7 @@
 # Kuro no Kamisama to Shiro no Adept
 
+![kuro-no-kamisama-to-shiro-no-adept](https://cdn.myanimelist.net/images/manga/2/223010.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒のカミサマと白のアデプト
 -   **start-date**: 2018-04-27

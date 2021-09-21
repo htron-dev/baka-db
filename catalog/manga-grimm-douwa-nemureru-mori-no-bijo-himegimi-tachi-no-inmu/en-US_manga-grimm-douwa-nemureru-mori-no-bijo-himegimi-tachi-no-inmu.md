@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Nemureru Mori no Bijo - Himegimi-tachi no Inmu
 
+![manga-grimm-douwa-nemureru-mori-no-bijo-himegimi-tachi-no-inmu](https://cdn.myanimelist.net/images/manga/1/141809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

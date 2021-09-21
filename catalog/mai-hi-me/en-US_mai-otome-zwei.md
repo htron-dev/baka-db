@@ -1,5 +1,7 @@
 # Mai-Otome Zwei
 
+![mai-otome-zwei](https://cdn.myanimelist.net/images/anime/8/7222.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 舞-乙 HiME ZWEI

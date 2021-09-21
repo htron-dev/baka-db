@@ -1,5 +1,7 @@
 # Hanare Toride no Yonna
 
+![hanare-toride-no-yonna](https://cdn.myanimelist.net/images/anime/8/24282.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はなれ砦のヨナ

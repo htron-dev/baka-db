@@ -1,5 +1,7 @@
 # Kuma Miko Specials
 
+![kuma-miko-specials](https://cdn.myanimelist.net/images/anime/12/79557.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: くまみこ

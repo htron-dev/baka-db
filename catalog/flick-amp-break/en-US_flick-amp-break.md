@@ -1,5 +1,7 @@
 # Flick &amp; Break
 
+![flick-amp-break](https://cdn.myanimelist.net/images/manga/3/176423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Ghost Mecard
 
+![ghost-mecard](https://cdn.myanimelist.net/images/anime/1242/114452.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 요괴메카드

@@ -1,5 +1,7 @@
 # Iroha to Boku to
 
+![iroha-to-boku-to](https://cdn.myanimelist.net/images/manga/2/194905.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

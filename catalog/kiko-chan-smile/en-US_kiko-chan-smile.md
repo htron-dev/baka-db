@@ -1,5 +1,7 @@
 # Kiko-chan Smile
 
+![kiko-chan-smile](https://cdn.myanimelist.net/images/anime/6/69567.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: きこちゃんすまいる

@@ -1,5 +1,7 @@
 # Ginyoku no Zehra Wit
 
+![ginyoku-no-zehra-wit](https://cdn.myanimelist.net/images/manga/1/129021.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 銀翼の魔戦鎧〈ゼーラ=ヴィット〉

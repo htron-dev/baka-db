@@ -1,5 +1,7 @@
 # Haunted Campus
 
+![haunted-campus](https://cdn.myanimelist.net/images/manga/2/121209.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ホーンテッド・キャンパス
 -   **start-date**: 2012-10-25

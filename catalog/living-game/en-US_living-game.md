@@ -1,5 +1,7 @@
 # Living Game
 
+![living-game](https://cdn.myanimelist.net/images/manga/2/209664.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 119

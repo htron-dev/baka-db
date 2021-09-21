@@ -1,5 +1,7 @@
 # Fundari Kettari! Ano Ko no Egao wo Mamottari
 
+![fundari-kettari-ano-ko-no-egao-wo-mamottari](https://cdn.myanimelist.net/images/manga/1/164238.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Itoshi no Nekokke: Otaru-hen
 
+![itoshi-no-nekokke-otaru-hen](https://cdn.myanimelist.net/images/manga/1/167298.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

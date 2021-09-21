@@ -1,5 +1,7 @@
 # Hyakki Yakoushou
 
+![hyakki-yakoushou](https://cdn.myanimelist.net/images/manga/4/19666.jpg)
+
 -   **type**: manga
 -   **original-name**: 百鬼夜行抄
 

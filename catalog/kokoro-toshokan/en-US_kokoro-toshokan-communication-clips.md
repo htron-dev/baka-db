@@ -1,5 +1,7 @@
 # Kokoro Toshokan: Communication Clips
 
+![kokoro-toshokan-communication-clips](https://cdn.myanimelist.net/images/anime/11/11364.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ココロ図書館 - コミュニケーションは切る

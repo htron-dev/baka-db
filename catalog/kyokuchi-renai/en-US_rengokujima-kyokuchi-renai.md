@@ -1,5 +1,7 @@
 # Rengokujima: Kyokuchi Renai
 
+![rengokujima-kyokuchi-renai](https://cdn.myanimelist.net/images/manga/3/246136.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋獄島～極地恋愛～
 -   **start-date**: 2020-09-09

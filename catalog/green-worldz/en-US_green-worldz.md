@@ -1,5 +1,7 @@
 # Green Worldz
 
+![green-worldz](https://cdn.myanimelist.net/images/manga/1/128603.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 114

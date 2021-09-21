@@ -1,5 +1,7 @@
 # Mobile Suit Z Gundam 1/2
 
+![mobile-suit-z-gundam-1-2](https://cdn.myanimelist.net/images/manga/1/111869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

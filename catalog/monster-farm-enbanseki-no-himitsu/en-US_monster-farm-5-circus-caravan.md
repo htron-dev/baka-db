@@ -1,5 +1,7 @@
 # Monster Farm 5: Circus Caravan
 
+![monster-farm-5-circus-caravan](https://cdn.myanimelist.net/images/manga/3/157580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: モンスターファーム 5 サーカスキャラバン

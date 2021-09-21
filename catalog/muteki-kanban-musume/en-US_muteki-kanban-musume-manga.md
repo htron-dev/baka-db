@@ -1,5 +1,7 @@
 # Muteki Kanban Musume
 
+![muteki-kanban-musume](https://cdn.myanimelist.net/images/manga/3/25741.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 無敵看板娘

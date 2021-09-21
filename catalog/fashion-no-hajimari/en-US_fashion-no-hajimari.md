@@ -1,5 +1,7 @@
 # Fashion no Hajimari
 
+![fashion-no-hajimari](https://cdn.myanimelist.net/images/anime/10/38301.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ファッションのはじまり

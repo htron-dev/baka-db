@@ -1,5 +1,7 @@
 # Déra Cinéma
 
+![dera-cinema](https://cdn.myanimelist.net/images/manga/3/168700.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 82

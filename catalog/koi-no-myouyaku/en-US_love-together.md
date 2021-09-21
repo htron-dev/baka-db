@@ -1,5 +1,7 @@
 # Love Together
 
+![love-together](https://cdn.myanimelist.net/images/manga/3/8730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

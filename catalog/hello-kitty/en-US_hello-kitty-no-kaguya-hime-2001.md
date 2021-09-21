@@ -1,5 +1,7 @@
 # Hello Kitty no Kaguya-hime (2001)
 
+![hello-kitty-no-kaguya-hime-2001](https://cdn.myanimelist.net/images/anime/1981/108569.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのかぐや姫

@@ -1,5 +1,7 @@
 # Ichiya Kagiri no Cinderella
 
+![ichiya-kagiri-no-cinderella](https://cdn.myanimelist.net/images/manga/2/227444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 一夜かぎりのシンデレラ

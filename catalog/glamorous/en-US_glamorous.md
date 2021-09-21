@@ -1,5 +1,7 @@
 # Glamorous
 
+![glamorous](https://cdn.myanimelist.net/images/manga/2/57601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

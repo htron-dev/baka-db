@@ -1,5 +1,7 @@
 # Kirara Fantasia
 
+![kirara-fantasia](https://cdn.myanimelist.net/images/manga/3/239491.jpg)
+
 -   **type**: manga
 -   **original-name**: きららファンタジア
 -   **start-date**: 2019-10-08

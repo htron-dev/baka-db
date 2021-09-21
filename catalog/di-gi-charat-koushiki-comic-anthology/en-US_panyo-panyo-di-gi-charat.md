@@ -1,5 +1,7 @@
 # Panyo Panyo Di Gi Charat
 
+![panyo-panyo-di-gi-charat](https://cdn.myanimelist.net/images/anime/1970/97598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: ぱにょぱにょ　デ・ジ・キャラット

@@ -1,5 +1,7 @@
 # Eternal Arcadia: Kuuzoku Vyse Sanjou!
 
+![eternal-arcadia-kuuzoku-vyse-sanjou](https://cdn.myanimelist.net/images/manga/1/137421.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

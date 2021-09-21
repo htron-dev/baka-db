@@ -1,5 +1,7 @@
 # Kaibutsu ga, Umareta Hi.
 
+![kaibutsu-ga-umareta-hi](https://cdn.myanimelist.net/images/anime/1773/97553.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: かいぶつが、うまれた日。

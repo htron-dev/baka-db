@@ -1,5 +1,7 @@
 # Hungry Joker
 
+![hungry-joker](https://cdn.myanimelist.net/images/manga/3/88095.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

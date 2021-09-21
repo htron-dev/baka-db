@@ -1,5 +1,7 @@
 # Kindan♂BL Otogibanashi: Issun-boshi
 
+![kindan♂-bl-otogibanashi-issun-boshi](https://cdn.myanimelist.net/images/manga/2/143507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Hana Sakasemasho
 
+![hana-sakasemasho](https://cdn.myanimelist.net/images/manga/2/26161.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 華咲かせましょ

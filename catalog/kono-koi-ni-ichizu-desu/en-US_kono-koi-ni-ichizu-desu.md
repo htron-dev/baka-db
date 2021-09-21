@@ -1,5 +1,7 @@
 # Kono Koi ni Ichizu desu.
 
+![kono-koi-ni-ichizu-desu](https://cdn.myanimelist.net/images/manga/2/10857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: この恋に一途です。

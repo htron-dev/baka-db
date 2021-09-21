@@ -1,5 +1,7 @@
 # Majo no Ie: Ellen no Nikki
 
+![majo-no-ie-ellen-no-nikki](https://cdn.myanimelist.net/images/manga/2/204300.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

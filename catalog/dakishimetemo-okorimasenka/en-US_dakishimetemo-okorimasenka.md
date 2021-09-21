@@ -1,5 +1,7 @@
 # Dakishimetemo Okorimasenka?
 
+![dakishimetemo-okorimasenka](https://cdn.myanimelist.net/images/manga/1/40539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

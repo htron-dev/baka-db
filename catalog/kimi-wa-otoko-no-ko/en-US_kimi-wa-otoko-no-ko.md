@@ -1,5 +1,7 @@
 # Kimi wa Otoko no Ko.
 
+![kimi-wa-otoko-no-ko](https://cdn.myanimelist.net/images/manga/1/86821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

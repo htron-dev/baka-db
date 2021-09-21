@@ -1,5 +1,7 @@
 # Gensou Suikoden: Soul Eater
 
+![gensou-suikoden-soul-eater](https://cdn.myanimelist.net/images/manga/3/150023.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 幻想水滸伝 ソウルイーター

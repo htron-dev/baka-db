@@ -1,5 +1,7 @@
 # DD Hokuto no Ken 2 Ichigo Aji+
 
+![dd-hokuto-no-ken-2-ichigo-aji](https://cdn.myanimelist.net/images/anime/8/78124.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DD 北斗の拳 2 イチゴ味+

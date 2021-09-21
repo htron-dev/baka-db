@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Shin Movie Virtual Reality Diver
 
+![koukaku-kidoutai-shin-movie-virtual-reality-diver](https://cdn.myanimelist.net/images/anime/4/76203.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 新劇場版 Virtual Reality Diver

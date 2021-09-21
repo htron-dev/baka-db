@@ -1,5 +1,7 @@
 # Kegare Seija no Eque Ce Lethuta
 
+![kegare-seija-no-eque-ce-lethuta](https://cdn.myanimelist.net/images/manga/1/162366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

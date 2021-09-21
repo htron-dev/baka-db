@@ -1,5 +1,7 @@
 # Kikou Sennyo Rouran
 
+![kikou-sennyo-rouran](https://cdn.myanimelist.net/images/anime/5/22629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 28
 -   **original-name**: 奇鋼仙女ロウラン

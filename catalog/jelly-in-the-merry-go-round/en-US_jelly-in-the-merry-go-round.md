@@ -1,5 +1,7 @@
 # Jelly in the Merry-Go-Round
 
+![jelly-in-the-merry-go-round](https://cdn.myanimelist.net/images/manga/3/131883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ジェリーインザメリィゴーラウンド

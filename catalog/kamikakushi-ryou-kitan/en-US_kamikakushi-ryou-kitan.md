@@ -1,5 +1,7 @@
 # Kamikakushi Ryou Kitan
 
+![kamikakushi-ryou-kitan](https://cdn.myanimelist.net/images/manga/2/59051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

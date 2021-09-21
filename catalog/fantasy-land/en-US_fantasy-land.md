@@ -1,5 +1,7 @@
 # Fantasy Land
 
+![fantasy-land](https://cdn.myanimelist.net/images/manga/3/13914.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 

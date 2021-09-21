@@ -1,5 +1,7 @@
 # Mushi-Uta
 
+![mushi-uta](https://cdn.myanimelist.net/images/manga/1/117211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **chapters**: 99

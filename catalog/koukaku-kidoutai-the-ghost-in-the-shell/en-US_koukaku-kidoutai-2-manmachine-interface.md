@@ -1,9 +1,11 @@
 # Koukaku Kidoutai 2: Manmachine Interface
 
+![koukaku-kidoutai-2-manmachine-interface](https://cdn.myanimelist.net/images/manga/3/421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6
--   **original-name**: 攻殻機動隊2 MANMACHINE INTERFACE
+-   **original-name**: 攻殻機動隊 2 MANMACHINE INTERFACE
 -   **start-date**: 2001-06-28
 
 ## Tags

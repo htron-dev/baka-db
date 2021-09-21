@@ -1,5 +1,7 @@
 # Minasama no Omocha desu
 
+![minasama-no-omocha-desu](https://cdn.myanimelist.net/images/manga/1/201454.jpg)
+
 -   **type**: manga
 -   **original-name**: 皆様の玩具です
 -   **start-date**: 2017-06-05

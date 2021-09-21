@@ -1,5 +1,7 @@
 # Evil Virgin
 
+![evil-virgin](https://cdn.myanimelist.net/images/manga/1/102687.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

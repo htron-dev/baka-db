@@ -1,5 +1,7 @@
 # Kaeru no Pickles: Kimochi no Iro
 
+![kaeru-no-pickles-kimochi-no-iro](https://cdn.myanimelist.net/images/anime/1850/108933.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: かえるのピクルス -きもちのいろ-

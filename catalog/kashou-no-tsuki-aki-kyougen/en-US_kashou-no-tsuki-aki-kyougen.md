@@ -1,5 +1,7 @@
 # Kashou no Tsuki: Aki Kyougen
 
+![kashou-no-tsuki-aki-kyougen](https://cdn.myanimelist.net/images/anime/7/77669.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 火宵の月 ~秋狂言~

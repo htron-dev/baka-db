@@ -1,5 +1,7 @@
 # Negima!? Haru Special!?
 
+![negima-haru-special](https://cdn.myanimelist.net/images/anime/9/23632.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ネギま!?春スペシャル!?

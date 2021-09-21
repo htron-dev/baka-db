@@ -1,5 +1,7 @@
 # Gi(a)rlish Number
 
+![gi-a-rlish-number](https://cdn.myanimelist.net/images/anime/3/82291.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガーリッシュ ナンバー

@@ -1,5 +1,7 @@
 # Katta-kun Monogatari
 
+![katta-kun-monogatari](https://cdn.myanimelist.net/images/anime/5/55713.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カッタ君物語

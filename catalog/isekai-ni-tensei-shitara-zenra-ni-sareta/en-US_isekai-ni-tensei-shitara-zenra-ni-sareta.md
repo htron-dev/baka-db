@@ -1,5 +1,7 @@
 # Isekai ni Tensei shitara Zenra ni Sareta
 
+![isekai-ni-tensei-shitara-zenra-ni-sareta](https://cdn.myanimelist.net/images/manga/2/215386.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

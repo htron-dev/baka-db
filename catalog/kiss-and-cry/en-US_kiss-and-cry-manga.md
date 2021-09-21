@@ -1,5 +1,7 @@
 # Kiss and Cry
 
+![kiss-and-cry](https://cdn.myanimelist.net/images/manga/2/225376.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Koji Koi
 
+![koji-koi](https://cdn.myanimelist.net/images/manga/2/202188.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

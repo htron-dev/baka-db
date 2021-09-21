@@ -1,5 +1,7 @@
 # Kingyozuma
 
+![kingyozuma](https://cdn.myanimelist.net/images/manga/1/230877.jpg)
+
 -   **type**: manga
 -   **original-name**: 金魚妻
 -   **start-date**: 2016-02-24

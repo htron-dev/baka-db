@@ -1,5 +1,7 @@
 # Haru to Natsu
 
+![haru-to-natsu](https://cdn.myanimelist.net/images/manga/1/139059.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

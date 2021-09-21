@@ -1,5 +1,7 @@
 # ViVid Strike!
 
+![vi-vid-strike](https://cdn.myanimelist.net/images/anime/2/82015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ViVid Strike!

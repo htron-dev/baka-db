@@ -1,5 +1,7 @@
 # Kuro no Ouji to Migawari Princess: Taikanshiki wa Mitsu ni Nurete
 
+![kuro-no-ouji-to-migawari-princess-taikanshiki-wa-mitsu-ni-nurete](https://cdn.myanimelist.net/images/manga/2/191889.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

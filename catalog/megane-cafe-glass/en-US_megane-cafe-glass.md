@@ -1,5 +1,7 @@
 # Megane Cafe Glass
 
+![megane-cafe-glass](https://cdn.myanimelist.net/images/manga/3/57595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

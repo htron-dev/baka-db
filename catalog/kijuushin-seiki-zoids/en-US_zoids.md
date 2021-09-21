@@ -1,5 +1,7 @@
 # Zoids
 
+![zoids](https://cdn.myanimelist.net/images/anime/2/15412.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 67
 -   **original-name**: ゾイド

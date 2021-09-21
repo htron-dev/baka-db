@@ -1,5 +1,7 @@
 # Kai Feng Kidan Movie
 
+![kai-feng-kidan-movie](https://cdn.myanimelist.net/images/anime/9/84842.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 開封奇談

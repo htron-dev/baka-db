@@ -1,5 +1,7 @@
 # Koto Koto: Yukichi no Koto
 
+![koto-koto-yukichi-no-koto](https://cdn.myanimelist.net/images/manga/1/203195.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

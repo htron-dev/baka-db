@@ -1,5 +1,7 @@
 # Mizumaho: Mizugi ni Nattara Mahou wo Daseta!
 
+![mizumaho-mizugi-ni-nattara-mahou-wo-daseta](https://cdn.myanimelist.net/images/manga/3/230721.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

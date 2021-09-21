@@ -1,5 +1,7 @@
 # Digimon Frontier: Ornismon Fukkatsu!!
 
+![digimon-frontier-ornismon-fukkatsu](https://cdn.myanimelist.net/images/anime/5/4416.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンフロンティア 古代デジモン（オニスモン）復活！！

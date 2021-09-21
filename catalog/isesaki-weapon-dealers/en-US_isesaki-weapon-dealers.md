@@ -1,5 +1,7 @@
 # Isesaki Weapon Dealers
 
+![isesaki-weapon-dealers](https://cdn.myanimelist.net/images/manga/3/184729.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 伊勢崎ウェポンディーラーズ
 -   **start-date**: 2016-10-22

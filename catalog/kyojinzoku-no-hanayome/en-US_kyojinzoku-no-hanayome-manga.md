@@ -1,5 +1,7 @@
 # Kyojinzoku no Hanayome
 
+![kyojinzoku-no-hanayome](https://cdn.myanimelist.net/images/manga/3/228214.jpg)
+
 -   **type**: manga
 -   **original-name**: 巨人族の花嫁
 -   **start-date**: 2019-03-27

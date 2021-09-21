@@ -1,5 +1,7 @@
 # Hatsukoi Asterism
 
+![hatsukoi-asterism](https://cdn.myanimelist.net/images/manga/3/96513.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

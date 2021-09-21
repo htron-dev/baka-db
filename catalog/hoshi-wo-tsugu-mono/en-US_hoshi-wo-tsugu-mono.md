@@ -1,5 +1,7 @@
 # Hoshi wo Tsugu Mono
 
+![hoshi-wo-tsugu-mono](https://cdn.myanimelist.net/images/manga/2/44497.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

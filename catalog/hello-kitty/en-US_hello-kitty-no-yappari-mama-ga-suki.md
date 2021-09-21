@@ -1,5 +1,7 @@
 # Hello Kitty no Yappari Mama ga Suki
 
+![hello-kitty-no-yappari-mama-ga-suki](https://cdn.myanimelist.net/images/anime/2/58663.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのやっぱりママがすき

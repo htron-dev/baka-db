@@ -1,5 +1,7 @@
 # Jinx Game
 
+![jinx-game](https://cdn.myanimelist.net/images/manga/1/176699.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

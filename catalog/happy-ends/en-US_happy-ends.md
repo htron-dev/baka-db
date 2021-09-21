@@ -1,5 +1,7 @@
 # Happy Ends
 
+![happy-ends](https://cdn.myanimelist.net/images/manga/3/126643.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: HAPPY ENDS ハッピーエンズ

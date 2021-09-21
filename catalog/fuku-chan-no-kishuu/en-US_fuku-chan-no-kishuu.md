@@ -1,5 +1,7 @@
 # Fuku-chan no Kishuu
 
+![fuku-chan-no-kishuu](https://cdn.myanimelist.net/images/anime/7/69267.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フクちゃんの奇襲

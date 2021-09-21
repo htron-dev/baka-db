@@ -1,5 +1,7 @@
 # Immortal Fetishism
 
+![immortal-fetishism](https://cdn.myanimelist.net/images/manga/3/35811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: インモラルフェティシズム

@@ -1,5 +1,7 @@
 # Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2
 
+![gyakuten-saiban-sono-shinjitsu-igi-ari-season-2](https://cdn.myanimelist.net/images/anime/1861/91089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 逆転裁判 ～その「真実」、異議あり！～ Season 2

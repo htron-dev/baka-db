@@ -1,5 +1,7 @@
 # Jigokudou Reikai Tsuushin
 
+![jigokudou-reikai-tsuushin](https://cdn.myanimelist.net/images/manga/3/166580.jpg)
+
 -   **type**: manga
 -   **original-name**: 地獄堂霊界通信
 -   **start-date**: 2008-11-07

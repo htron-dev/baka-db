@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi
 
+![koukaku-kidoutai-stand-alone-complex-the-laughing-man-tachikoma-na-hibi](https://cdn.myanimelist.net/images/anime/10/30203.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 Stand Alone Complex - The Laughing Man タチコマな日々

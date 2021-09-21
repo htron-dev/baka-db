@@ -1,5 +1,7 @@
 # Kimi to Hajimete Koi wo Suru
 
+![kimi-to-hajimete-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/185680.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

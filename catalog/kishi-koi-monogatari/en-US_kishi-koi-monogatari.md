@@ -1,5 +1,7 @@
 # Kishi Koi Monogatari
 
+![kishi-koi-monogatari](https://cdn.myanimelist.net/images/manga/2/181989.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

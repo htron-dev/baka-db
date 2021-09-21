@@ -1,5 +1,7 @@
 # Ooyasan wa Shishunki!
 
+![ooyasan-wa-shishunki](https://cdn.myanimelist.net/images/manga/1/105749.jpg)
+
 -   **type**: manga
 -   **original-name**: 大家さんは思春期!
 -   **start-date**: 2012-05-07

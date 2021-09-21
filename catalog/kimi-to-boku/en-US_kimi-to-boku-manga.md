@@ -1,5 +1,7 @@
 # Kimi to Boku.
 
+![kimi-to-boku](https://cdn.myanimelist.net/images/manga/3/59039.jpg)
+
 -   **type**: manga
 -   **original-name**: 君と僕。
 -   **start-date**: 2003-02-20

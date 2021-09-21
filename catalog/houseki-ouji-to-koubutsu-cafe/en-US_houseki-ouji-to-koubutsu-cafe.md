@@ -1,5 +1,7 @@
 # Houseki Ouji to Koubutsu Café
 
+![houseki-ouji-to-koubutsu-cafe](https://cdn.myanimelist.net/images/manga/1/247463.jpg)
+
 -   **type**: manga
 -   **chapters**: 24
 -   **original-name**: 宝石王子と鉱物カフェ

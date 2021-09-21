@@ -1,5 +1,7 @@
 # Girls Bijutsu
 
+![girls-bijutsu](https://cdn.myanimelist.net/images/manga/2/171703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 40

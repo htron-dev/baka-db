@@ -1,5 +1,7 @@
 # Genshoku Tsundere Danshi.: Seme-kare
 
+![genshoku-tsundere-danshi-seme-kare](https://cdn.myanimelist.net/images/manga/1/125513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

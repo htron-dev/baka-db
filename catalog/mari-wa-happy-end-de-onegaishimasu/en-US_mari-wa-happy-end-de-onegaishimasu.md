@@ -1,5 +1,7 @@
 # Mari wa Happy End de Onegaishimasu
 
+![mari-wa-happy-end-de-onegaishimasu](https://cdn.myanimelist.net/images/manga/2/240573.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

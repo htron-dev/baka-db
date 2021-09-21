@@ -1,5 +1,7 @@
 # Honto ni Atta! Reibai Sensei
 
+![honto-ni-atta-reibai-sensei](https://cdn.myanimelist.net/images/anime/7/29163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ほんとにあった! 霊媒先生

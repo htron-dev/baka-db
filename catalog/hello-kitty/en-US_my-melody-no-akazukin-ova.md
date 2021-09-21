@@ -1,5 +1,7 @@
 # My Melody no Akazukin (OVA)
 
+![my-melody-no-akazukin-ova](https://cdn.myanimelist.net/images/anime/5/72890.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マイメロディの赤ずきん

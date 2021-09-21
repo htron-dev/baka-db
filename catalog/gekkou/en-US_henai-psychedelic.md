@@ -1,5 +1,7 @@
 # Henai Psychedelic
 
+![henai-psychedelic](https://cdn.myanimelist.net/images/manga/1/119969.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 変愛サイケデリック

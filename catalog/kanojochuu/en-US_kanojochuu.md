@@ -1,5 +1,7 @@
 # Kanojochuu
 
+![kanojochuu](https://cdn.myanimelist.net/images/manga/2/197507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 彼女中

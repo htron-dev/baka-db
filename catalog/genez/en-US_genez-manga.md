@@ -1,5 +1,7 @@
 # Genez
 
+![genez](https://cdn.myanimelist.net/images/manga/1/72923.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ジーンズ

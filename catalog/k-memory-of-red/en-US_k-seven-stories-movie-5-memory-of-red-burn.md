@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 5 - Memory of Red - Burn
 
+![k-seven-stories-movie-5-memory-of-red-burn](https://cdn.myanimelist.net/images/anime/1790/91851.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories メモリー・オブ・レッド ~BURN~

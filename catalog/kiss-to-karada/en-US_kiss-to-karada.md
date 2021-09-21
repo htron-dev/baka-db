@@ -1,5 +1,7 @@
 # Kiss to Karada
 
+![kiss-to-karada](https://cdn.myanimelist.net/images/manga/2/13975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

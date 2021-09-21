@@ -1,5 +1,7 @@
 # Liar License
 
+![liar-license](https://cdn.myanimelist.net/images/manga/2/164374.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ライアー・ライセンス

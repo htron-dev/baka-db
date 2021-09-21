@@ -1,5 +1,7 @@
 # Licca-chan Fushigi na Fushigi na Yunia Monogatari
 
+![licca-chan-fushigi-na-fushigi-na-yunia-monogatari](https://cdn.myanimelist.net/images/anime/8/27103.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Licca ふしぎな不思議なユーニア物語

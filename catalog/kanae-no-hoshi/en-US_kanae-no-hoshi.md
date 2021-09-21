@@ -1,5 +1,7 @@
 # Kanae no Hoshi
 
+![kanae-no-hoshi](https://cdn.myanimelist.net/images/manga/3/134207.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カナエの星
 -   **start-date**: 2014-08-09

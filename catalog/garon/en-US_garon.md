@@ -1,5 +1,7 @@
 # Garon
 
+![garon](https://cdn.myanimelist.net/images/anime/3/72666.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガロン

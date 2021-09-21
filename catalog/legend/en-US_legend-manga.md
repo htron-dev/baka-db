@@ -1,5 +1,7 @@
 # Legend
 
+![legend](https://cdn.myanimelist.net/images/manga/3/180328.jpg)
+
 -   **type**: manga
 -   **original-name**: レジェンド
 -   **start-date**: 2015-09-09

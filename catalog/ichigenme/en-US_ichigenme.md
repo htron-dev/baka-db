@@ -1,5 +1,7 @@
 # Ichigenme
 
+![ichigenme](https://cdn.myanimelist.net/images/manga/2/9052.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

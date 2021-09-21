@@ -1,5 +1,7 @@
 # M.C. Law
 
+![m-c-law](https://cdn.myanimelist.net/images/manga/3/4291.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

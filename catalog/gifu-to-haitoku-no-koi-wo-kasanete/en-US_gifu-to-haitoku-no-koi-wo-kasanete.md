@@ -1,5 +1,7 @@
 # Gifu to Haitoku no Koi wo Kasanete
 
+![gifu-to-haitoku-no-koi-wo-kasanete](https://cdn.myanimelist.net/images/manga/1/195483.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 義父と背徳の恋を重ねて

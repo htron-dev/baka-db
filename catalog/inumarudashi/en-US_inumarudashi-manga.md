@@ -1,5 +1,7 @@
 # Inumarudashi
 
+![inumarudashi](https://cdn.myanimelist.net/images/manga/2/52041.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 182

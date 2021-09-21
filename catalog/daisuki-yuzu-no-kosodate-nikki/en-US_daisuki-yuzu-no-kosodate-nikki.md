@@ -1,5 +1,7 @@
 # Daisuki!!: Yuzu no Kosodate Nikki
 
+![daisuki-yuzu-no-kosodate-nikki](https://cdn.myanimelist.net/images/manga/3/165247.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 79

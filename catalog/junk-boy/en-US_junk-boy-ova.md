@@ -1,5 +1,7 @@
 # Junk Boy
 
+![junk-boy](https://cdn.myanimelist.net/images/anime/9/41467.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジャンクボーイ

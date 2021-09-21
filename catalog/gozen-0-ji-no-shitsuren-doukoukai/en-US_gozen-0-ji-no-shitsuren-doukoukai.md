@@ -1,5 +1,7 @@
 # Gozen 0-ji no Shitsuren Doukoukai
 
+![gozen-0-ji-no-shitsuren-doukoukai](https://cdn.myanimelist.net/images/manga/3/247449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

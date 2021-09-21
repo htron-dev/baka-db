@@ -1,5 +1,7 @@
 # Golden Cain
 
+![golden-cain](https://cdn.myanimelist.net/images/manga/3/1504.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

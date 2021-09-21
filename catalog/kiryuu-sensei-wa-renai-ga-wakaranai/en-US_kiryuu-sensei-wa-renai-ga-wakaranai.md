@@ -1,5 +1,7 @@
 # Kiryuu-sensei wa Renai ga Wakaranai.
 
+![kiryuu-sensei-wa-renai-ga-wakaranai](https://cdn.myanimelist.net/images/manga/2/194857.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Futsutsuka na Oyako de wa Arimasu ga
 
+![futsutsuka-na-oyako-de-wa-arimasu-ga](https://cdn.myanimelist.net/images/manga/1/126627.jpg)
+
 -   **type**: manga
 -   **original-name**: ふつつかな父娘ではありますが
 -   **start-date**: 2012-12-22

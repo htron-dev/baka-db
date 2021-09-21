@@ -1,5 +1,7 @@
 # Garudia
 
+![garudia](https://cdn.myanimelist.net/images/manga/2/55479.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

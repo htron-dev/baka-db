@@ -1,5 +1,7 @@
 # Eikaiwa School Wars
 
+![eikaiwa-school-wars](https://cdn.myanimelist.net/images/manga/1/173690.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

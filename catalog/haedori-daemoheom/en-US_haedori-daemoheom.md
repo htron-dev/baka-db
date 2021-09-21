@@ -1,5 +1,7 @@
 # Haedori Daemoheom
 
+![haedori-daemoheom](https://cdn.myanimelist.net/images/anime/11/45062.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 해돌이 대모험

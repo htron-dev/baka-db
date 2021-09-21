@@ -1,5 +1,7 @@
 # Transformers Zone
 
+![transformers-zone](https://cdn.myanimelist.net/images/anime/4/13153.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トランスフォーマーＺ[ゾーン]

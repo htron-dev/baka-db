@@ -1,5 +1,7 @@
 # Kenban no Ue no Caress
 
+![kenban-no-ue-no-caress](https://cdn.myanimelist.net/images/manga/1/82744.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 鍵盤の上のカレス

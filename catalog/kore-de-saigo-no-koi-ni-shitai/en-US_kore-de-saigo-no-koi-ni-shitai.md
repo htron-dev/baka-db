@@ -1,5 +1,7 @@
 # Kore de Saigo no Koi ni Shitai
 
+![kore-de-saigo-no-koi-ni-shitai](https://cdn.myanimelist.net/images/manga/1/236702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

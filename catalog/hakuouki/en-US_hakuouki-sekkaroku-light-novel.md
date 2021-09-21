@@ -1,5 +1,7 @@
 # Hakuouki Sekkaroku
 
+![hakuouki-sekkaroku](https://cdn.myanimelist.net/images/manga/2/239086.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Luotuo Xian Wu
 
+![luotuo-xian-wu](https://cdn.myanimelist.net/images/anime/1667/115465.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 駱駝獻舞

@@ -1,5 +1,7 @@
 # Mahou Sensei Negima! Volume 0
 
+![mahou-sensei-negima-volume-0](https://cdn.myanimelist.net/images/manga/3/64641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

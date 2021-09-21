@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai
 
+![k-seven-stories-movie-3-side-green-uwagaki-sekai](https://cdn.myanimelist.net/images/anime/1267/91000.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories SIDE:GREEN ~上書き世界~

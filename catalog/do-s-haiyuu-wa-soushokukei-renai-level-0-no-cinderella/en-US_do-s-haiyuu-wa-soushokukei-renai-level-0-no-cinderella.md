@@ -1,5 +1,7 @@
 # Do S Haiyuu wa Soushokukei!? Renai Level 0 no Cinderella
 
+![do-s-haiyuu-wa-soushokukei-renai-level-0-no-cinderella](https://cdn.myanimelist.net/images/manga/3/196414.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ドＳ俳優は草食系！？～恋愛レベル０のシンデレラ～

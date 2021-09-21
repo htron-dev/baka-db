@@ -1,5 +1,7 @@
 # Kowai Kurai Gikyoudai ni Aisarete
 
+![kowai-kurai-gikyoudai-ni-aisarete](https://cdn.myanimelist.net/images/manga/2/182780.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

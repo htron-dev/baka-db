@@ -1,5 +1,7 @@
 # Himaturi
 
+![himaturi](https://cdn.myanimelist.net/images/manga/2/162920.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

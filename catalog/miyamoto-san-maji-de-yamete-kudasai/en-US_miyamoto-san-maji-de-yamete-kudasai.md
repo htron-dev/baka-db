@@ -1,5 +1,7 @@
 # Miyamoto-san Maji de Yamete Kudasai
 
+![miyamoto-san-maji-de-yamete-kudasai](https://cdn.myanimelist.net/images/manga/1/151012.jpg)
+
 -   **type**: manga
 -   **original-name**: 宮本さん本気〈マジ〉でヤメてくださいっ
 -   **start-date**: 2013-09-27

@@ -1,5 +1,7 @@
 # Haru no Nioi
 
+![haru-no-nioi](https://cdn.myanimelist.net/images/manga/3/155641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

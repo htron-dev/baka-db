@@ -1,5 +1,7 @@
 # Figure 17
 
+![figure-17](https://cdn.myanimelist.net/images/manga/1/16496.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

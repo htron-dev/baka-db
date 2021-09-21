@@ -1,5 +1,7 @@
 # Huan Jie Wang
 
+![huan-jie-wang](https://cdn.myanimelist.net/images/anime/1884/92933.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 幻界王

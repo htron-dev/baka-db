@@ -1,5 +1,7 @@
 # Inrantou: Nihon Kinki Hikyou Retsuden
 
+![inrantou-nihon-kinki-hikyou-retsuden](https://cdn.myanimelist.net/images/manga/2/203913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

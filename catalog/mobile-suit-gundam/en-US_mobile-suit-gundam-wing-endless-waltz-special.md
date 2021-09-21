@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Wing: Endless Waltz Special
 
+![mobile-suit-gundam-wing-endless-waltz-special](https://cdn.myanimelist.net/images/anime/1/2507.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新機動戦記ガンダム W Endless Waltz 特別篇

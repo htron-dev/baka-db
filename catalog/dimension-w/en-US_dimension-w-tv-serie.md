@@ -1,5 +1,7 @@
 # Dimension W
 
+![dimension-w](https://cdn.myanimelist.net/images/anime/8/86304.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Dimension W

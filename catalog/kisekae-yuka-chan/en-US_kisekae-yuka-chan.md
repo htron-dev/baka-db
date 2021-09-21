@@ -1,5 +1,7 @@
 # Kisekae Yuka-chan
 
+![kisekae-yuka-chan](https://cdn.myanimelist.net/images/manga/3/162009.jpg)
+
 -   **type**: manga
 -   **original-name**: きせかえユカちゃん
 -   **start-date**: 2000-11-25

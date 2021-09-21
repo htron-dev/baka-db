@@ -1,5 +1,7 @@
 # Kinnikuman
 
+![kinnikuman](https://cdn.myanimelist.net/images/anime/5/5182.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 137
 -   **original-name**: キン肉マン

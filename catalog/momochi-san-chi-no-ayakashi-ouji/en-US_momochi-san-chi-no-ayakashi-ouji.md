@@ -1,5 +1,7 @@
 # Momochi-san Chi no Ayakashi Ouji
 
+![momochi-san-chi-no-ayakashi-ouji](https://cdn.myanimelist.net/images/manga/2/153291.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 67

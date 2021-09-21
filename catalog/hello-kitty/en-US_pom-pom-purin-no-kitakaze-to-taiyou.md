@@ -1,5 +1,7 @@
 # Pom Pom Purin no Kitakaze to Taiyou
 
+![pom-pom-purin-no-kitakaze-to-taiyou](https://cdn.myanimelist.net/images/anime/3/58893.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポムポムプリンの北風と太陽

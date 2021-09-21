@@ -1,5 +1,7 @@
 # Kawaii dake ja Nai Shikimori-san
 
+![kawaii-dake-ja-nai-shikimori-san](https://cdn.myanimelist.net/images/manga/2/219606.jpg)
+
 -   **type**: manga
 -   **original-name**: 可愛いだけじゃない式守さん
 -   **start-date**: 2018-09-08

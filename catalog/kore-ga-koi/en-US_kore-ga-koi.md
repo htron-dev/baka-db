@@ -1,5 +1,7 @@
 # Kore ga Koi!
 
+![kore-ga-koi](https://cdn.myanimelist.net/images/manga/2/223671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

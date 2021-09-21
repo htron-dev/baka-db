@@ -1,5 +1,7 @@
 # Kono Mahou ga Sugoi!
 
+![kono-mahou-ga-sugoi](https://cdn.myanimelist.net/images/manga/1/3624.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mai-chan no Oneesan Shiiku Gohan.
 
+![mai-chan-no-oneesan-shiiku-gohan](https://cdn.myanimelist.net/images/manga/2/234178.jpg)
+
 -   **type**: manga
 -   **original-name**: 舞ちゃんのお姉さん飼育ごはん。
 -   **start-date**: 2019-11-25

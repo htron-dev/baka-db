@@ -1,5 +1,7 @@
 # Mudazumonaki Kaikaku: Princess of Zipang
 
+![mudazumonaki-kaikaku-princess-of-zipang](https://cdn.myanimelist.net/images/manga/1/215709.jpg)
+
 -   **type**: manga
 -   **original-name**: ムダヅモ無き改革 プリンセス オブ ジパング
 -   **start-date**: 2017-08-12

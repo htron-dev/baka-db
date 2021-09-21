@@ -1,5 +1,7 @@
 # Kemeko Deluxe!: Izumi-chan, Fukenkou yo! (Kari)
 
+![kemeko-deluxe-izumi-chan-fukenkou-yo-kari](https://cdn.myanimelist.net/images/anime/9/78037.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: イズミちゃん、不健康よ！（仮）

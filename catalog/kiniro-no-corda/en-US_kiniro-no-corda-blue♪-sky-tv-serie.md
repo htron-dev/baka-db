@@ -1,5 +1,7 @@
 # Kiniro no Corda: Blue♪Sky
 
+![kiniro-no-corda-blue♪-sky](https://cdn.myanimelist.net/images/anime/2/59779.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 金色のコルダ Blue♪Sky

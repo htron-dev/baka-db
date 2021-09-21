@@ -1,5 +1,7 @@
 # Kinou Nani Tabeta?
 
+![kinou-nani-tabeta](https://cdn.myanimelist.net/images/manga/3/161884.jpg)
+
 -   **type**: manga
 -   **original-name**: きのう何食べた?
 -   **start-date**: 2007-02-22

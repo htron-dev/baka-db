@@ -1,5 +1,7 @@
 # Koigokoro wa Neko wo mo Nurasu
 
+![koigokoro-wa-neko-wo-mo-nurasu](https://cdn.myanimelist.net/images/manga/2/95287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋心は猫をも濡らす

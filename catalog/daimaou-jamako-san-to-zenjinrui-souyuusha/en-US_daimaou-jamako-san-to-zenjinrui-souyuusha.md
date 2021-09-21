@@ -1,5 +1,7 @@
 # Daimaou Jamako-san to Zenjinrui Souyuusha
 
+![daimaou-jamako-san-to-zenjinrui-souyuusha](https://cdn.myanimelist.net/images/manga/1/160028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

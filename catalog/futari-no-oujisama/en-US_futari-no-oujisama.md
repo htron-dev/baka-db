@@ -1,5 +1,7 @@
 # Futari no Oujisama
 
+![futari-no-oujisama](https://cdn.myanimelist.net/images/anime/10/60321.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二人の王子さま

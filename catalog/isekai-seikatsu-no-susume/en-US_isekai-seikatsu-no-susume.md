@@ -1,5 +1,7 @@
 # Isekai Seikatsu no Susume
 
+![isekai-seikatsu-no-susume](https://cdn.myanimelist.net/images/manga/1/235027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

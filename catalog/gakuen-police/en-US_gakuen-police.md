@@ -1,5 +1,7 @@
 # Gakuen Police
 
+![gakuen-police](https://cdn.myanimelist.net/images/manga/1/232150.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

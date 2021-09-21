@@ -1,5 +1,7 @@
 # Inazuma Eleven Go vs. Danball Senki W Movie
 
+![inazuma-eleven-go-vs-danball-senki-w-movie](https://cdn.myanimelist.net/images/anime/3/60753.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 イナズマイレブン GO vs ダンボール戦機 W

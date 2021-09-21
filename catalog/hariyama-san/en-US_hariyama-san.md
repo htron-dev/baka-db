@@ -1,5 +1,7 @@
 # Hariyama-san
 
+![hariyama-san](https://cdn.myanimelist.net/images/manga/2/33959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 世界の中心､針山さん

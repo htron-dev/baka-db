@@ -1,5 +1,7 @@
 # Kyoto Teramachi Sanjou no Holmes
 
+![kyoto-teramachi-sanjou-no-holmes](https://cdn.myanimelist.net/images/manga/1/231921.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 京都寺町三条のホームズ
 

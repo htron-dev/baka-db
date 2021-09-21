@@ -1,5 +1,7 @@
 # Kawaisou ni ne, Genki-kun
 
+![kawaisou-ni-ne-genki-kun](https://cdn.myanimelist.net/images/manga/2/226159.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

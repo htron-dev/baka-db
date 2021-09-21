@@ -1,5 +1,7 @@
 # Kaleido Star: Good da yo! Goood!!
 
+![kaleido-star-good-da-yo-goood](https://cdn.myanimelist.net/images/anime/8/23765.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぐっどだよ！ぐぅ～っど！！

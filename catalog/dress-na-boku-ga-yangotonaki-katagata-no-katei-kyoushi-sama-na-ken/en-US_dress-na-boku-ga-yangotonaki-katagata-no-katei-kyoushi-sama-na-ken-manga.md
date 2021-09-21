@@ -1,5 +1,7 @@
 # Dress na Boku ga Yangotonaki Katagata no Katei Kyoushi-sama na Ken
 
+![dress-na-boku-ga-yangotonaki-katagata-no-katei-kyoushi-sama-na-ken](https://cdn.myanimelist.net/images/manga/2/164690.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ドレスな僕がやんごとなき方々の家庭教師様な件

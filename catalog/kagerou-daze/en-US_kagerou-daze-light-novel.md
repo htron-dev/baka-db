@@ -1,5 +1,7 @@
 # Kagerou Daze
 
+![kagerou-daze](https://cdn.myanimelist.net/images/manga/1/205381.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: カゲロウデイズ

@@ -1,5 +1,7 @@
 # Musuko ga Osewa ni Nattemasu!
 
+![musuko-ga-osewa-ni-nattemasu](https://cdn.myanimelist.net/images/manga/1/23251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 息子がお世話になってます！

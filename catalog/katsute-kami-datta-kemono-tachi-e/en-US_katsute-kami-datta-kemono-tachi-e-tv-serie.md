@@ -1,5 +1,7 @@
 # Katsute Kami Datta Kemono-tachi e
 
+![katsute-kami-datta-kemono-tachi-e](https://cdn.myanimelist.net/images/anime/1109/101230.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: かつて神だった獣たちへ

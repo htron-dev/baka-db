@@ -1,5 +1,7 @@
 # Mahou Shoujo nante Mou Ii desukara.
 
+![mahou-shoujo-nante-mou-ii-desukara](https://cdn.myanimelist.net/images/manga/2/171342.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Heartland no Juunin
 
+![heartland-no-juunin](https://cdn.myanimelist.net/images/manga/3/20188.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

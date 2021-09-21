@@ -1,5 +1,7 @@
 # Deban desu yo! Kaguya-sama
 
+![deban-desu-yo-kaguya-sama](https://cdn.myanimelist.net/images/manga/2/175722.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 出番ですよ! カグヤさま
 -   **start-date**: 2015-10-15

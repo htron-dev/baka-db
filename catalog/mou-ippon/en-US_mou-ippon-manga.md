@@ -1,5 +1,7 @@
 # Mou Ippon!
 
+![mou-ippon](https://cdn.myanimelist.net/images/manga/1/233691.jpg)
+
 -   **type**: manga
 -   **original-name**: もういっぽん！
 -   **start-date**: 2018-10-18

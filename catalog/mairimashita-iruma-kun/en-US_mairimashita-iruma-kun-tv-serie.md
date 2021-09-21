@@ -1,5 +1,7 @@
 # Mairimashita! Iruma-kun
 
+![mairimashita-iruma-kun](https://cdn.myanimelist.net/images/anime/1009/103187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 魔入りました！入間くん

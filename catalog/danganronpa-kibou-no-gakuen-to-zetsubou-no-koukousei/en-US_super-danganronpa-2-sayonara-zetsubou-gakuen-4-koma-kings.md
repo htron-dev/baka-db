@@ -1,5 +1,7 @@
 # Super Danganronpa 2: Sayonara Zetsubou Gakuen - 4-koma KINGS
 
+![super-danganronpa-2-sayonara-zetsubou-gakuen-4-koma-kings](https://cdn.myanimelist.net/images/manga/3/78039.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーダンガンロンパ２ さよなら絶望学園 4 コマ KINGS
 -   **start-date**: 2012-10-25

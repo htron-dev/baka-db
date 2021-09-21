@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv](https://cdn.myanimelist.net/images/anime/1407/111469.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか Ⅳ
 -   **rating**: PG-13 - Teens 13 or older

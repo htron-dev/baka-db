@@ -1,5 +1,7 @@
 # Hanada Shounen-shi
 
+![hanada-shounen-shi](https://cdn.myanimelist.net/images/anime/2/87319.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 花田少年史

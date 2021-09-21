@@ -1,5 +1,7 @@
 # Kamisama Hajimemashita: Kako-hen
 
+![kamisama-hajimemashita-kako-hen](https://cdn.myanimelist.net/images/anime/3/81250.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 神様はじめました～過去編～

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kizuna
 
+![higurashi-no-naku-koro-ni-kizuna](https://cdn.myanimelist.net/images/manga/2/227405.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

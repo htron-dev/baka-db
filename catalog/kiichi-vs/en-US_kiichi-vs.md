@@ -1,5 +1,7 @@
 # Kiichi VS
 
+![kiichi-vs](https://cdn.myanimelist.net/images/manga/1/22638.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 111

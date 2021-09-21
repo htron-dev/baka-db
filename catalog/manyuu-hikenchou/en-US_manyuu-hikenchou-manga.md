@@ -1,5 +1,7 @@
 # Manyuu Hikenchou
 
+![manyuu-hikenchou](https://cdn.myanimelist.net/images/manga/2/64993.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 46

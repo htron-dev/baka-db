@@ -1,5 +1,7 @@
 # Min Diao Ju Yi Wen Lu
 
+![min-diao-ju-yi-wen-lu](https://cdn.myanimelist.net/images/anime/1919/108128.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 民调局异闻录

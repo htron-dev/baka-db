@@ -1,5 +1,7 @@
 # Gekkouju
 
+![gekkouju](https://cdn.myanimelist.net/images/manga/3/25038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月光樹

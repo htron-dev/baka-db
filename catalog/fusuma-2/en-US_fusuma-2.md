@@ -1,5 +1,7 @@
 # Fusuma 2
 
+![fusuma-2](https://cdn.myanimelist.net/images/anime/1828/106457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 襖２

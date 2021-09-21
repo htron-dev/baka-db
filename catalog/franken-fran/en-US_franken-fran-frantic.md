@@ -1,5 +1,7 @@
 # Franken Fran Frantic
 
+![franken-fran-frantic](https://cdn.myanimelist.net/images/manga/1/221106.jpg)
+
 -   **type**: manga
 -   **original-name**: フランケン・ふらん Frantic
 -   **start-date**: 2019-02-19

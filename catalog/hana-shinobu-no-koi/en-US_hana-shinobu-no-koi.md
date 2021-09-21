@@ -1,5 +1,7 @@
 # Hana Shinobu no Koi
 
+![hana-shinobu-no-koi](https://cdn.myanimelist.net/images/manga/2/9627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

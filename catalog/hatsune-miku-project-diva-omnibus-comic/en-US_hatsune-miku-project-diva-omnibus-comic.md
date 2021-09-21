@@ -1,5 +1,7 @@
 # Hatsune Miku - Project DIVA: Omnibus Comic
 
+![hatsune-miku-project-diva-omnibus-comic](https://cdn.myanimelist.net/images/manga/1/128181.jpg)
+
 -   **type**: manga
 -   **original-name**: 初音ミク -Project DIVA- オムニバスコミック
 -   **start-date**: 2014-06-10

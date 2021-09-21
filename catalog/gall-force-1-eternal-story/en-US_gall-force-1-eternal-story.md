@@ -1,5 +1,7 @@
 # Gall Force 1: Eternal Story
 
+![gall-force-1-eternal-story](https://cdn.myanimelist.net/images/anime/5/26519.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガルフォース

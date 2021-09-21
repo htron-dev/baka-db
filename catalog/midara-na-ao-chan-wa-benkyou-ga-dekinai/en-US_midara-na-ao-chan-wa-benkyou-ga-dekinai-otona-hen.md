@@ -1,5 +1,7 @@
 # Midara na Ao-chan wa Benkyou ga Dekinai: Otona-hen
 
+![midara-na-ao-chan-wa-benkyou-ga-dekinai-otona-hen](https://cdn.myanimelist.net/images/manga/1/225166.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

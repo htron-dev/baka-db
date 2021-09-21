@@ -1,5 +1,7 @@
 # Hyakunen no Koi wa Samerutomo
 
+![hyakunen-no-koi-wa-samerutomo](https://cdn.myanimelist.net/images/manga/2/119021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

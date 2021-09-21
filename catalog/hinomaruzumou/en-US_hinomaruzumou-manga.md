@@ -1,5 +1,7 @@
 # Hinomaruzumou
 
+![hinomaruzumou](https://cdn.myanimelist.net/images/manga/2/192657.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 252

@@ -1,5 +1,7 @@
 # Honoo no Mirage
 
+![honoo-no-mirage](https://cdn.myanimelist.net/images/manga/3/149269.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 40
 -   **original-name**: 炎の蜃気楼〈ミラージュ〉

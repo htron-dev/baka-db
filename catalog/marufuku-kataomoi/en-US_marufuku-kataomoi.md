@@ -1,5 +1,7 @@
 # Marufuku Kataomoi
 
+![marufuku-kataomoi](https://cdn.myanimelist.net/images/manga/1/133229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

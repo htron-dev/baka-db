@@ -1,5 +1,7 @@
 # HH Remix
 
+![hh-remix](https://cdn.myanimelist.net/images/manga/1/9549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

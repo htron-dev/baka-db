@@ -1,5 +1,7 @@
 # Hyaku-nengo no Aru Hi
 
+![hyaku-nengo-no-aru-hi](https://cdn.myanimelist.net/images/anime/13/85263.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 百年後の或る日

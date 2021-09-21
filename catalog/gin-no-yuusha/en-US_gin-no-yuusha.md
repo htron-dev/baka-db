@@ -1,5 +1,7 @@
 # Gin no Yuusha
 
+![gin-no-yuusha](https://cdn.myanimelist.net/images/manga/2/7483.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

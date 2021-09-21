@@ -1,5 +1,7 @@
 # Matinee to Soiree
 
+![matinee-to-soiree](https://cdn.myanimelist.net/images/manga/1/193622.jpg)
+
 -   **type**: manga
 -   **original-name**: マチネとソワレ
 -   **start-date**: 2016-11-11

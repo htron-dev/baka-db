@@ -1,5 +1,7 @@
 # Hiseki Senki Stone Buster!
 
+![hiseki-senki-stone-buster](https://cdn.myanimelist.net/images/manga/4/65307.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

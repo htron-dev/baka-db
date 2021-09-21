@@ -1,5 +1,7 @@
 # Himitsu no Akko-chan
 
+![himitsu-no-akko-chan](https://cdn.myanimelist.net/images/manga/3/34547.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ひみつのアッコちゃん

@@ -1,5 +1,7 @@
 # Hechimon: Shigaraki Dougei Nikki
 
+![hechimon-shigaraki-dougei-nikki](https://cdn.myanimelist.net/images/manga/2/208023.jpg)
+
 -   **type**: manga
 -   **original-name**: へちもん～信楽陶芸日記～
 -   **start-date**: 2018-02-08

@@ -1,5 +1,7 @@
 # Lupin III: Napoleon no Jisho wo Ubae
 
+![lupin-iii-napoleon-no-jisho-wo-ubae](https://cdn.myanimelist.net/images/anime/13/61695.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『ナポレオンの辞書を奪え』

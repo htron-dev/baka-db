@@ -1,5 +1,7 @@
 # Ichigeki
 
+![ichigeki](https://cdn.myanimelist.net/images/manga/1/189702.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

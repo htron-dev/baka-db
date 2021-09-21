@@ -1,5 +1,7 @@
 # Doraemon Movie 28: Nobita to Midori no Kyojin Den
 
+![doraemon-movie-28-nobita-to-midori-no-kyojin-den](https://cdn.myanimelist.net/images/anime/8/72433.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と緑の巨人伝

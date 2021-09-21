@@ -1,5 +1,7 @@
 # Magician²
 
+![magician](https://cdn.myanimelist.net/images/manga/2/189478.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

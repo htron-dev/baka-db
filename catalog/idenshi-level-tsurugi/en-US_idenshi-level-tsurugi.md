@@ -1,5 +1,7 @@
 # Idenshi Level Tsurugi
 
+![idenshi-level-tsurugi](https://cdn.myanimelist.net/images/manga/2/170787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

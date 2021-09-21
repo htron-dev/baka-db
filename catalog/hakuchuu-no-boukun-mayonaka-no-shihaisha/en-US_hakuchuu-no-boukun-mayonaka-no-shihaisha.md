@@ -1,5 +1,7 @@
 # Hakuchuu no Boukun, Mayonaka no Shihaisha
 
+![hakuchuu-no-boukun-mayonaka-no-shihaisha](https://cdn.myanimelist.net/images/manga/2/127943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

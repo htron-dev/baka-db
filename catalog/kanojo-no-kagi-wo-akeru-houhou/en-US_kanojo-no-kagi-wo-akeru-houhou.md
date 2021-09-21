@@ -1,5 +1,7 @@
 # Kanojo no Kagi wo Akeru Houhou
 
+![kanojo-no-kagi-wo-akeru-houhou](https://cdn.myanimelist.net/images/manga/1/187043.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Inuyashiki
 
+![inuyashiki](https://cdn.myanimelist.net/images/manga/2/156353.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 85

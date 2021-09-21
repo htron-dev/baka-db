@@ -1,5 +1,7 @@
 # Koi Uta
 
+![koi-uta](https://cdn.myanimelist.net/images/manga/2/45655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋唄

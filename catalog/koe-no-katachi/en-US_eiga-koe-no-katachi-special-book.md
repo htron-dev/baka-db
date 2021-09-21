@@ -1,5 +1,7 @@
 # Eiga Koe no Katachi Special Book
 
+![eiga-koe-no-katachi-special-book](https://cdn.myanimelist.net/images/manga/3/190693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 映画『聲の形』Special Book

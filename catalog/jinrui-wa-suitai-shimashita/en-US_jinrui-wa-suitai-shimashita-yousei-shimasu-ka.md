@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita: Yousei, Shimasu ka?
 
+![jinrui-wa-suitai-shimashita-yousei-shimasu-ka](https://cdn.myanimelist.net/images/manga/2/123723.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

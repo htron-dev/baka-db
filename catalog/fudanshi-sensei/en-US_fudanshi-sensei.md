@@ -1,5 +1,7 @@
 # Fudanshi Sensei!!!!!
 
+![fudanshi-sensei](https://cdn.myanimelist.net/images/manga/3/209869.jpg)
+
 -   **type**: manga
 -   **original-name**: 腐男子先生!!!!!
 -   **start-date**: 2017-06-09

@@ -1,5 +1,7 @@
 # Ji Jia Shou Shen
 
+![ji-jia-shou-shen](https://cdn.myanimelist.net/images/anime/1481/109026.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 机甲兽神

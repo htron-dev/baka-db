@@ -1,5 +1,7 @@
 # Heisei Ishin: Tatakau Jieitai
 
+![heisei-ishin-tatakau-jieitai](https://cdn.myanimelist.net/images/manga/1/131939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 平成維新 －戦う自衛隊－

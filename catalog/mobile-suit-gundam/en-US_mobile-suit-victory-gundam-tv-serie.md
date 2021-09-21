@@ -1,5 +1,7 @@
 # Mobile Suit Victory Gundam
 
+![mobile-suit-victory-gundam](https://cdn.myanimelist.net/images/anime/1913/102693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 機動戦士 V ガンダム

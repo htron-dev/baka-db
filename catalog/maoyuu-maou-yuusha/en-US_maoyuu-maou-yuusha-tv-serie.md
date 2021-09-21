@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha
 
+![maoyuu-maou-yuusha](https://cdn.myanimelist.net/images/anime/4/46041.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まおゆう魔王勇者

@@ -1,5 +1,7 @@
 # Minami-ke Okawari
 
+![minami-ke-okawari](https://cdn.myanimelist.net/images/anime/10/73556.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みなみけ～おかわり～

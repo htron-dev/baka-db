@@ -1,5 +1,7 @@
 # Tomie
 
+![tomie](https://cdn.myanimelist.net/images/manga/2/164476.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Kamisama no Puzzle
 
+![kamisama-no-puzzle](https://cdn.myanimelist.net/images/manga/3/132301.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

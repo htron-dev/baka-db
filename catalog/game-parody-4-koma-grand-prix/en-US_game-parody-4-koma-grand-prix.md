@@ -1,5 +1,7 @@
 # Game Parody 4-koma Grand Prix
 
+![game-parody-4-koma-grand-prix](https://cdn.myanimelist.net/images/manga/1/171539.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ゲーパロ 4 コマグランプリ

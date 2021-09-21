@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Thunderbolt
 
+![mobile-suit-gundam-thunderbolt](https://cdn.myanimelist.net/images/anime/3/77176.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 機動戦士ガンダム サンダーボルト

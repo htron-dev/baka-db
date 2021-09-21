@@ -1,5 +1,7 @@
 # Himouto! Umaru-chan'S
 
+![himouto-umaru-chan-s](https://cdn.myanimelist.net/images/manga/1/162902.jpg)
+
 -   **type**: manga
 -   **original-name**: ひもうと! うまるちゃん S
 -   **start-date**: 2014-03-20

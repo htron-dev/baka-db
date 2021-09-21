@@ -1,5 +1,7 @@
 # Daten no Inugami: Slash Døg - High School DxD Universe
 
+![daten-no-inugami-slash-dog-high-school-dx-d-universe](https://cdn.myanimelist.net/images/manga/2/203325.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 堕天の狗神 −SLASHDØG− ハイスクール D×D Universe
 -   **start-date**: 2017-11-17

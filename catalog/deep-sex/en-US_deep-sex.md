@@ -1,5 +1,7 @@
 # Deep Sex
 
+![deep-sex](https://cdn.myanimelist.net/images/manga/2/5068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Kamisama Damono♥
 
+![kamisama-damono♥](https://cdn.myanimelist.net/images/manga/1/625.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

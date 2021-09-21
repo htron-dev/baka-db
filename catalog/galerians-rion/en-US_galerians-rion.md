@@ -1,5 +1,7 @@
 # Galerians: Rion
 
+![galerians-rion](https://cdn.myanimelist.net/images/anime/11/38577.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ガレリアンズ：リオン

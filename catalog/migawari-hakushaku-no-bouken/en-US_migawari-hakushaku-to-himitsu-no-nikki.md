@@ -1,5 +1,7 @@
 # Migawari Hakushaku to Himitsu no Nikki
 
+![migawari-hakushaku-to-himitsu-no-nikki](https://cdn.myanimelist.net/images/manga/1/141939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

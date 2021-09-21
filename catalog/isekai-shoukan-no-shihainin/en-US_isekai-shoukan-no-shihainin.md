@@ -1,5 +1,7 @@
 # Isekai Shoukan no Shihainin
 
+![isekai-shoukan-no-shihainin](https://cdn.myanimelist.net/images/manga/2/185456.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界娼館の支配人
 -   **start-date**: 2016-11-07

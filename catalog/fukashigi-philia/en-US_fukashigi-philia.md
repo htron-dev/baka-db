@@ -1,5 +1,7 @@
 # Fukashigi Philia
 
+![fukashigi-philia](https://cdn.myanimelist.net/images/manga/2/118849.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

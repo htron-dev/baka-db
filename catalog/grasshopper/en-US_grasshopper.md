@@ -1,5 +1,7 @@
 # Grasshopper
 
+![grasshopper](https://cdn.myanimelist.net/images/manga/1/57659.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: グラスホッパー

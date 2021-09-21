@@ -1,5 +1,7 @@
 # Inukami!
 
+![inukami](https://cdn.myanimelist.net/images/manga/3/159385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **original-name**: いぬかみっ!

@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Saishuushou Part 1 - Fushou Akiyama Yukari no Sensha Kouza
 
+![girls-amp-panzer-saishuushou-part-1-fushou-akiyama-yukari-no-sensha-kouza](https://cdn.myanimelist.net/images/anime/1060/99513.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガールズ＆パンツァー 最終章 第 1 話 不肖・秋山優花里の戦車講座

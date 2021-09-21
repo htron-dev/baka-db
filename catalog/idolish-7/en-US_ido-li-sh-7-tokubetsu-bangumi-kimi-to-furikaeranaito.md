@@ -1,5 +1,7 @@
 # IDOLiSH7 Tokubetsu Bangumi: Kimi to Furikaeranaito!
 
+![ido-li-sh-7-tokubetsu-bangumi-kimi-to-furikaeranaito](https://cdn.myanimelist.net/images/anime/1224/91811.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドリッシュセブン特別番組 キミと振り返らないと!

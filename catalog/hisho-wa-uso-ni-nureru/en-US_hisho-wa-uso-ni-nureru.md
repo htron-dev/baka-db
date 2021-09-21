@@ -1,5 +1,7 @@
 # Hisho wa Uso ni Nureru
 
+![hisho-wa-uso-ni-nureru](https://cdn.myanimelist.net/images/manga/3/91867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kimun Kamui
 
+![kimun-kamui](https://cdn.myanimelist.net/images/manga/1/199630.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

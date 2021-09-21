@@ -1,5 +1,7 @@
 # Ichimatsu Torimonochou
 
+![ichimatsu-torimonochou](https://cdn.myanimelist.net/images/manga/3/194262.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

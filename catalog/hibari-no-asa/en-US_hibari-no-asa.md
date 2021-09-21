@@ -1,5 +1,7 @@
 # Hibari no Asa
 
+![hibari-no-asa](https://cdn.myanimelist.net/images/manga/1/102839.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

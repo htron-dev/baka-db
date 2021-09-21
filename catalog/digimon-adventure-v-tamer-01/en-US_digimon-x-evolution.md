@@ -1,5 +1,7 @@
 # Digimon X-Evolution
 
+![digimon-x-evolution](https://cdn.myanimelist.net/images/anime/6/30284.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジタルモンスター ゼヴォリューション

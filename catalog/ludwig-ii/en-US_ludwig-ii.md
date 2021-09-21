@@ -1,5 +1,7 @@
 # Ludwig II
 
+![ludwig-ii](https://cdn.myanimelist.net/images/manga/3/37640.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

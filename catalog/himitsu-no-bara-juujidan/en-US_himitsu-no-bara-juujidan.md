@@ -1,5 +1,7 @@
 # Himitsu no Bara Juujidan
 
+![himitsu-no-bara-juujidan](https://cdn.myanimelist.net/images/manga/3/72101.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

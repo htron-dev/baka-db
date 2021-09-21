@@ -1,5 +1,7 @@
 # Di Gi Charat Tsuyu Specials
 
+![di-gi-charat-tsuyu-specials](https://cdn.myanimelist.net/images/anime/1766/95896.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Di Gi Charat 梅雨スペシャル

@@ -1,5 +1,7 @@
 # Ichi Ni no San!
 
+![ichi-ni-no-san](https://cdn.myanimelist.net/images/manga/3/85387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Koi wo Suru no ga Shigoto desu.
 
+![koi-wo-suru-no-ga-shigoto-desu](https://cdn.myanimelist.net/images/manga/3/57223.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

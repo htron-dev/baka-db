@@ -1,5 +1,7 @@
 # Ignite
 
+![ignite](https://cdn.myanimelist.net/images/manga/1/144455.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: イグナイト

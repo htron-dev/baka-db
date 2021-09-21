@@ -1,5 +1,7 @@
 # Last Period: Owarinaki Rasen no Monogatari
 
+![last-period-owarinaki-rasen-no-monogatari](https://cdn.myanimelist.net/images/anime/1710/95065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラストピリオド -終わりなき螺旋の物語-

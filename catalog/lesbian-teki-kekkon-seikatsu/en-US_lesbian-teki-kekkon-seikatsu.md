@@ -1,5 +1,7 @@
 # Lesbian-teki Kekkon Seikatsu
 
+![lesbian-teki-kekkon-seikatsu](https://cdn.myanimelist.net/images/manga/3/149793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: レズビアン的結婚生活

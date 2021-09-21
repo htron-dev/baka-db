@@ -1,5 +1,7 @@
 # Joou no Hana
 
+![joou-no-hana](https://cdn.myanimelist.net/images/manga/2/169614.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 44

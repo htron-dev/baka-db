@@ -1,5 +1,7 @@
 # Kami x Kami Series
 
+![kami-x-kami-series](https://cdn.myanimelist.net/images/manga/1/239041.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神 × 神シリーズ
 -   **start-date**: 2015-04-28

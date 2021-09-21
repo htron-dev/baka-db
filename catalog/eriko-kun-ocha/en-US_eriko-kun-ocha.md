@@ -1,5 +1,7 @@
 # Eriko-kun, Ocha!!
 
+![eriko-kun-ocha](https://cdn.myanimelist.net/images/manga/3/26975.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

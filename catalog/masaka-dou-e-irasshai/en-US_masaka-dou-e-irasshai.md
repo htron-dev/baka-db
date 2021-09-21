@@ -1,5 +1,7 @@
 # Masaka-dou e Irasshai
 
+![masaka-dou-e-irasshai](https://cdn.myanimelist.net/images/manga/3/81742.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: マサカ堂へいらっしゃい

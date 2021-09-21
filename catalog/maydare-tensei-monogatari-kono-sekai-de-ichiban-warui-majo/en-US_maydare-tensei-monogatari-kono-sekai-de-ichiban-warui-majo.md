@@ -1,5 +1,7 @@
 # Maydare Tensei Monogatari: Kono Sekai de Ichiban Warui Majo
 
+![maydare-tensei-monogatari-kono-sekai-de-ichiban-warui-majo](https://cdn.myanimelist.net/images/manga/2/234687.jpg)
+
 -   **type**: manga
 -   **original-name**: メイデーア転生物語〜この世界で一番悪い魔女〜
 -   **start-date**: 2020-01-18

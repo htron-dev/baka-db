@@ -1,5 +1,7 @@
 # Macross Δ Movie: Gekijou no Walküre
 
+![macross-δ-movie-gekijou-no-walkure](https://cdn.myanimelist.net/images/anime/1217/94351.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版マクロス Δ 激情のワルキューレ

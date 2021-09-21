@@ -1,5 +1,7 @@
 # Shin Karura Mau!
 
+![shin-karura-mau](https://cdn.myanimelist.net/images/manga/1/226060.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 30

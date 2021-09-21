@@ -1,5 +1,7 @@
 # Mogumogu Mogyuu
 
+![mogumogu-mogyuu](https://cdn.myanimelist.net/images/manga/3/241681.jpg)
+
 -   **type**: manga
 -   **chapters**: 25
 -   **original-name**: モグモグモギュー

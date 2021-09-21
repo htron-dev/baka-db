@@ -1,5 +1,7 @@
 # Kuro no Taiyou, Gin no Tsuki
 
+![kuro-no-taiyou-gin-no-tsuki](https://cdn.myanimelist.net/images/manga/1/5112.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 黒の太陽 銀の月

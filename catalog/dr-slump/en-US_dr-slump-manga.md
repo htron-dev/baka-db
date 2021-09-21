@@ -1,5 +1,7 @@
 # Dr. Slump
 
+![dr-slump](https://cdn.myanimelist.net/images/manga/2/156408.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 236

@@ -1,5 +1,7 @@
 # Love Get You
 
+![love-get-you](https://cdn.myanimelist.net/images/manga/1/31832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: らぶげっちゅ

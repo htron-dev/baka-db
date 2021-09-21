@@ -1,5 +1,7 @@
 # Frame Arms Girl
 
+![frame-arms-girl](https://cdn.myanimelist.net/images/anime/5/86625.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フレームアームズ・ガール

@@ -1,8 +1,10 @@
 # Koukaku Kidoutai: Ghost Chaser
 
+![koukaku-kidoutai-ghost-chaser](https://cdn.myanimelist.net/images/anime/1427/95917.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊GHOST CHASER
+-   **original-name**: 攻殻機動隊 GHOST CHASER
 -   **start-date**: 2018-11-02
 -   **rating**: PG-13 - Teens 13 or older
 

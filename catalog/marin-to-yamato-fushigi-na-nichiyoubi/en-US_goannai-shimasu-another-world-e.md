@@ -1,5 +1,7 @@
 # Goannai Shimasu Another World e
 
+![goannai-shimasu-another-world-e](https://cdn.myanimelist.net/images/anime/7/54811.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ご案内します アナザーワールドへ

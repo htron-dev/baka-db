@@ -1,5 +1,7 @@
 # Free!: Eternal Summer
 
+![free-eternal-summer](https://cdn.myanimelist.net/images/anime/1719/108886.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Free!-Eternal Summer-

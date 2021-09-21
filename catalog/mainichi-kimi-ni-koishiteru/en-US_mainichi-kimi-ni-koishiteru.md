@@ -1,5 +1,7 @@
 # Mainichi Kimi ni Koishiteru
 
+![mainichi-kimi-ni-koishiteru](https://cdn.myanimelist.net/images/manga/2/18474.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

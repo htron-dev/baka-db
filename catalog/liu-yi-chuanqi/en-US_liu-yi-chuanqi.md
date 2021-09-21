@@ -1,5 +1,7 @@
 # Liu Yi Chuanqi
 
+![liu-yi-chuanqi](https://cdn.myanimelist.net/images/anime/1297/108295.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 柳毅传奇

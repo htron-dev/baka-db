@@ -1,5 +1,7 @@
 # Gimmick: Warden no Kagegami
 
+![gimmick-warden-no-kagegami](https://cdn.myanimelist.net/images/manga/3/164130.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

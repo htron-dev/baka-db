@@ -1,5 +1,7 @@
 # Kami Skill "Kokyuu" Suru dake de Level Up Suru Boku wa, Kamigami no Dungeon e Idomu.
 
+![kami-skill-kokyuu-suru-dake-de-level-up-suru-boku-wa-kamigami-no-dungeon-e-idomu](https://cdn.myanimelist.net/images/manga/2/242075.jpg)
+
 -   **type**: manga
 -   **original-name**: 神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。
 -   **start-date**: 2019-12-06

@@ -1,5 +1,7 @@
 # Doron Coron
 
+![doron-coron](https://cdn.myanimelist.net/images/anime/9/70569.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドロンコロン

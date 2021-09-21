@@ -1,5 +1,7 @@
 # Daifuku-kun@Kin Tele
 
+![daifuku-kun-kin-tele](https://cdn.myanimelist.net/images/anime/1787/95112.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 大福くん＠きんてれ

@@ -1,5 +1,7 @@
 # Jukai Shounen ZOO1
 
+![jukai-shounen-zoo-1](https://cdn.myanimelist.net/images/manga/2/104253.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 樹海少年 ZOO1〈ずーいち〉

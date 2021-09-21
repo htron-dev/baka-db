@@ -1,5 +1,7 @@
 # Mou Ichido, Nandodemo.
 
+![mou-ichido-nandodemo](https://cdn.myanimelist.net/images/manga/2/179361.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Honoo no Mirage: Bakumatsu-hen
 
+![honoo-no-mirage-bakumatsu-hen](https://cdn.myanimelist.net/images/manga/3/144431.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 炎の蜃気楼 幕末編

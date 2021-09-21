@@ -1,5 +1,7 @@
 # Log Horizon
 
+![log-horizon](https://cdn.myanimelist.net/images/manga/3/98051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

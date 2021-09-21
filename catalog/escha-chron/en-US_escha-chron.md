@@ -1,5 +1,7 @@
 # Escha Chron
 
+![escha-chron](https://cdn.myanimelist.net/images/anime/11/82344.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: エスカクロン

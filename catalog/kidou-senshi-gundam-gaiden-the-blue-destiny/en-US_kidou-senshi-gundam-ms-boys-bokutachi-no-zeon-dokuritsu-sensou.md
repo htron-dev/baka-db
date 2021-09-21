@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam MS Boys: Bokutachi no Zeon Dokuritsu Sensou
 
+![kidou-senshi-gundam-ms-boys-bokutachi-no-zeon-dokuritsu-sensou](https://cdn.myanimelist.net/images/manga/2/147407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

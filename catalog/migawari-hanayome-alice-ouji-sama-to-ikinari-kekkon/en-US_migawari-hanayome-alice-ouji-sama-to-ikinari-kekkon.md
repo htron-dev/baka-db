@@ -1,5 +1,7 @@
 # Migawari Hanayome Alice: Ouji-sama to Ikinari Kekkon!?
 
+![migawari-hanayome-alice-ouji-sama-to-ikinari-kekkon](https://cdn.myanimelist.net/images/manga/2/182556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

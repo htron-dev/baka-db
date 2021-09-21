@@ -1,5 +1,7 @@
 # Fushigiboshi no☆Futagohime Gyu!
 
+![fushigiboshi-no☆-futagohime-gyu](https://cdn.myanimelist.net/images/anime/4/49919.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ふしぎ星の ☆ ふたご姫

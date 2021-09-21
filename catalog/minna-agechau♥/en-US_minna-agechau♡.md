@@ -1,5 +1,7 @@
 # Minna Agechau♡
 
+![minna-agechau♡](https://cdn.myanimelist.net/images/anime/3/44428.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みんなあげちゃう ♡

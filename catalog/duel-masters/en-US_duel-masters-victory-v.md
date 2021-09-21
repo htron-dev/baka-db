@@ -1,5 +1,7 @@
 # Duel Masters Victory V
 
+![duel-masters-victory-v](https://cdn.myanimelist.net/images/anime/1549/105193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デュエル・マスターズ ビクトリー V

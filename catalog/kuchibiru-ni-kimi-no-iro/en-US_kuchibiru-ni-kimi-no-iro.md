@@ -1,5 +1,7 @@
 # Kuchibiru ni Kimi no Iro
 
+![kuchibiru-ni-kimi-no-iro](https://cdn.myanimelist.net/images/manga/2/165814.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

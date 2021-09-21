@@ -1,5 +1,7 @@
 # Kakene Nashi no LOVE Torihiki
 
+![kakene-nashi-no-love-torihiki](https://cdn.myanimelist.net/images/manga/1/125541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

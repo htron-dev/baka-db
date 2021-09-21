@@ -1,5 +1,7 @@
 # Kuroko no Basket: Mou Ikkai Yarimasen ka
 
+![kuroko-no-basket-mou-ikkai-yarimasen-ka](https://cdn.myanimelist.net/images/anime/12/68055.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ 「もう一回やりませんか」

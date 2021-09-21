@@ -1,5 +1,7 @@
 # Himitsu no Yoasobi
 
+![himitsu-no-yoasobi](https://cdn.myanimelist.net/images/manga/3/37501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

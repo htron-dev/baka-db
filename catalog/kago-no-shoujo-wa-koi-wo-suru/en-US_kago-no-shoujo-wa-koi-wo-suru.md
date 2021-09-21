@@ -1,5 +1,7 @@
 # Kago no Shoujo wa Koi wo Suru
 
+![kago-no-shoujo-wa-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/206126.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

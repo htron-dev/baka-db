@@ -1,5 +1,7 @@
 # Megami-ryou no Ryoubo-kun.
 
+![megami-ryou-no-ryoubo-kun](https://cdn.myanimelist.net/images/anime/1436/116410.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 女神寮の寮母くん。

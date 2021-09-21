@@ -1,5 +1,7 @@
 # Gun x Sword
 
+![gun-x-sword](https://cdn.myanimelist.net/images/manga/1/245517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

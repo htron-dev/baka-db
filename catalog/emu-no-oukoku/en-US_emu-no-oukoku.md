@@ -1,5 +1,7 @@
 # Emu no Oukoku
 
+![emu-no-oukoku](https://cdn.myanimelist.net/images/manga/3/132537.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: えむの王国

@@ -1,5 +1,7 @@
 # Gouman Kizoku no Wakudekiai
 
+![gouman-kizoku-no-wakudekiai](https://cdn.myanimelist.net/images/manga/3/185278.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

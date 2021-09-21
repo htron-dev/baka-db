@@ -1,5 +1,7 @@
 # Kingdom 3rd Season
 
+![kingdom-3rd-season](https://cdn.myanimelist.net/images/anime/1443/111830.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キングダム 第 3 シリーズ

@@ -1,5 +1,7 @@
 # Inori no Te
 
+![inori-no-te](https://cdn.myanimelist.net/images/anime/11/66235.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いのりの手

@@ -1,5 +1,7 @@
 # Level 0 no Maou-sama, Isekai de Boukensha wo Hajimemasu
 
+![level-0-no-maou-sama-isekai-de-boukensha-wo-hajimemasu](https://cdn.myanimelist.net/images/manga/3/240593.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レベル 0 の魔王様、異世界で冒険者を始めます 史上最強の新人が誕生しました
 -   **start-date**: 2019-08-09

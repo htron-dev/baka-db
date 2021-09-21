@@ -1,5 +1,7 @@
 # Tobidase! Dokan-kun
 
+![tobidase-dokan-kun](https://cdn.myanimelist.net/images/anime/1618/95814.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: とびだせ！土管くん

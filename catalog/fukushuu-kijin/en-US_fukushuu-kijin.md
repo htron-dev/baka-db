@@ -1,5 +1,7 @@
 # Fukushuu Kijin
 
+![fukushuu-kijin](https://cdn.myanimelist.net/images/manga/1/76159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 復讐鬼人

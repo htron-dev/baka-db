@@ -1,5 +1,7 @@
 # Precure All Stars Movie: Minna de Utau♪ - Kiseki no Mahou
 
+![precure-all-stars-movie-minna-de-utau♪-kiseki-no-mahou](https://cdn.myanimelist.net/images/anime/5/77261.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアオールスターズ みんなで歌う ♪ 奇跡の魔法！

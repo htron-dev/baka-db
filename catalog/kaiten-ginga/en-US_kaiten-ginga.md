@@ -1,5 +1,7 @@
 # Kaiten Ginga
 
+![kaiten-ginga](https://cdn.myanimelist.net/images/manga/3/171648.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

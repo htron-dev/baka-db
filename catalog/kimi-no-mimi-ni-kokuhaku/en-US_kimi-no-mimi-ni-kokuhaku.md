@@ -1,5 +1,7 @@
 # Kimi no Mimi ni Kokuhaku
 
+![kimi-no-mimi-ni-kokuhaku](https://cdn.myanimelist.net/images/manga/2/37185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

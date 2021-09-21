@@ -1,5 +1,7 @@
 # Karen Kareshi
 
+![karen-kareshi](https://cdn.myanimelist.net/images/manga/1/80735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

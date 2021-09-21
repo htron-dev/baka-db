@@ -1,5 +1,7 @@
 # Genji
 
+![genji](https://cdn.myanimelist.net/images/anime/11/21295.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 源氏

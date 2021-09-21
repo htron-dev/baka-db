@@ -1,5 +1,7 @@
 # Gokusaishiki Every Day
 
+![gokusaishiki-every-day](https://cdn.myanimelist.net/images/manga/3/135911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 極彩色エブリデイ

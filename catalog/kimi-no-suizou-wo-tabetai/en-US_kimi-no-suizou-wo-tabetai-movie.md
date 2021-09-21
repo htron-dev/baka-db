@@ -1,5 +1,7 @@
 # Kimi no Suizou wo Tabetai
 
+![kimi-no-suizou-wo-tabetai](https://cdn.myanimelist.net/images/anime/1768/93291.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 君の膵臓をたべたい

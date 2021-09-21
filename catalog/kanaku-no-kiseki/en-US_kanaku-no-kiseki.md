@@ -1,5 +1,7 @@
 # Kanaku no Kiseki
 
+![kanaku-no-kiseki](https://cdn.myanimelist.net/images/manga/1/120703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 55

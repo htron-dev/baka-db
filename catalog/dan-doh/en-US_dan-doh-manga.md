@@ -1,5 +1,7 @@
 # Dan Doh!!
 
+![dan-doh](https://cdn.myanimelist.net/images/manga/1/9681.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: ダンドー

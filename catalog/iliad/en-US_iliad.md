@@ -1,5 +1,7 @@
 # Iliad
 
+![iliad](https://cdn.myanimelist.net/images/manga/1/83693.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 120

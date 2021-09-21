@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's
 
+![mahou-shoujo-lyrical-nanoha-the-movie-2nd-as](https://cdn.myanimelist.net/images/anime/1511/94432.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは The MOVIE 2nd A's

@@ -1,5 +1,7 @@
 # Minamo
 
+![minamo](https://cdn.myanimelist.net/images/anime/6/71621.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: minamo

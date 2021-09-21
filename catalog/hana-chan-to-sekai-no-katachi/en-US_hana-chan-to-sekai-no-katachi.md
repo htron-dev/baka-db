@@ -1,5 +1,7 @@
 # Hana-chan to, Sekai no Katachi
 
+![hana-chan-to-sekai-no-katachi](https://cdn.myanimelist.net/images/manga/3/235828.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

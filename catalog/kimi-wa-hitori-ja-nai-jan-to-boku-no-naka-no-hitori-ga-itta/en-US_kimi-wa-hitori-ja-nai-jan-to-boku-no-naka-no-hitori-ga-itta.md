@@ -1,5 +1,7 @@
 # Kimi wa Hitori ja Nai jan, to Boku no Naka no Hitori ga Itta
 
+![kimi-wa-hitori-ja-nai-jan-to-boku-no-naka-no-hitori-ga-itta](https://cdn.myanimelist.net/images/manga/2/199957.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キミは一人じゃないじゃん、と僕の中の一人が言った
 -   **start-date**: 2017-08-30

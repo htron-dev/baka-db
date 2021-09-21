@@ -1,5 +1,7 @@
 # Hatsukoi no Sekai
 
+![hatsukoi-no-sekai](https://cdn.myanimelist.net/images/manga/2/195794.jpg)
+
 -   **type**: manga
 -   **original-name**: 初恋の世界
 -   **start-date**: 2016-01-28

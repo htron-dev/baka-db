@@ -1,5 +1,7 @@
 # Karei naru Sheikh
 
+![karei-naru-sheikh](https://cdn.myanimelist.net/images/manga/1/229904.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 華麗なるシーク

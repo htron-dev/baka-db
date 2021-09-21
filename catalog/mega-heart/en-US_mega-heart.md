@@ -1,5 +1,7 @@
 # Mega Heart
 
+![mega-heart](https://cdn.myanimelist.net/images/manga/3/244050.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

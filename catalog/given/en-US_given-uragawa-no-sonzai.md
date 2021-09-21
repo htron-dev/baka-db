@@ -1,5 +1,7 @@
 # Given: Uragawa no Sonzai
 
+![given-uragawa-no-sonzai](https://cdn.myanimelist.net/images/anime/1031/115154.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ギヴン うらがわの存在

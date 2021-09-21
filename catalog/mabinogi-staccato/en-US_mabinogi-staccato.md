@@ -1,5 +1,7 @@
 # Mabinogi Staccato
 
+![mabinogi-staccato](https://cdn.myanimelist.net/images/manga/3/32187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マビノギ　スタッカート

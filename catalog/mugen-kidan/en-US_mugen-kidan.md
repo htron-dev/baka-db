@@ -1,5 +1,7 @@
 # Mugen Kidan
 
+![mugen-kidan](https://cdn.myanimelist.net/images/manga/1/52749.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 夢幻奇談

@@ -1,5 +1,7 @@
 # Idol Kagyou, Hajimemashita!
 
+![idol-kagyou-hajimemashita](https://cdn.myanimelist.net/images/manga/2/194302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

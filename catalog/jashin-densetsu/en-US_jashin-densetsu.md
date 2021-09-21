@@ -1,5 +1,7 @@
 # Jashin Densetsu
 
+![jashin-densetsu](https://cdn.myanimelist.net/images/manga/3/174810.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 13

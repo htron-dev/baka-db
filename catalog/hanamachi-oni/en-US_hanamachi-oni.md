@@ -1,5 +1,7 @@
 # Hanamachi Oni
 
+![hanamachi-oni](https://cdn.myanimelist.net/images/manga/2/190875.jpg)
+
 -   **type**: manga
 -   **original-name**: 花街鬼
 -   **start-date**: 2013-08-24

@@ -1,5 +1,7 @@
 # Ichigo 100%
 
+![ichigo-100](https://cdn.myanimelist.net/images/anime/5/20036.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: いちご 100%

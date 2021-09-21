@@ -1,5 +1,7 @@
 # Gundam Neo Experience 0087: Green Divers
 
+![gundam-neo-experience-0087-green-divers](https://cdn.myanimelist.net/images/anime/2/24428.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガンダム新体験―００８７―グリーンダイバーズ

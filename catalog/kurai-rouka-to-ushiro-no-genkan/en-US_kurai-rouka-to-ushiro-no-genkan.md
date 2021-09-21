@@ -1,5 +1,7 @@
 # Kurai Rouka to Ushiro no Genkan
 
+![kurai-rouka-to-ushiro-no-genkan](https://cdn.myanimelist.net/images/manga/1/134777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

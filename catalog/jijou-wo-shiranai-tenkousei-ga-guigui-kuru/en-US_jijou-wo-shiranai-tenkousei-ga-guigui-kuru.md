@@ -1,5 +1,7 @@
 # Jijou wo Shiranai Tenkousei ga Guigui Kuru.
 
+![jijou-wo-shiranai-tenkousei-ga-guigui-kuru](https://cdn.myanimelist.net/images/manga/1/222916.jpg)
+
 -   **type**: manga
 -   **original-name**: 事情を知らない転校生がグイグイくる。
 -   **start-date**: 2018-05-22

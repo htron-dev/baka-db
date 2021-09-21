@@ -1,5 +1,7 @@
 # Mahou Shoujo 2-sei
 
+![mahou-shoujo-2-sei](https://cdn.myanimelist.net/images/manga/3/205873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

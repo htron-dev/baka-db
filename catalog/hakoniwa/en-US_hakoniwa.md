@@ -1,5 +1,7 @@
 # Hakoniwa
 
+![hakoniwa](https://cdn.myanimelist.net/images/manga/3/158342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

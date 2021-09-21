@@ -1,5 +1,7 @@
 # Kakugo no Susume
 
+![kakugo-no-susume](https://cdn.myanimelist.net/images/anime/6/16230.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 覚悟のススメ

@@ -1,5 +1,7 @@
 # Lost Witch Bride Magical
 
+![lost-witch-bride-magical](https://cdn.myanimelist.net/images/manga/3/160776.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ロストウィッチ・ブライドマジカル

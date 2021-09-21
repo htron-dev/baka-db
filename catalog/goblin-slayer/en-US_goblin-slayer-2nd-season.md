@@ -1,5 +1,7 @@
 # Goblin Slayer 2nd Season
 
+![goblin-slayer-2nd-season](https://cdn.myanimelist.net/images/anime/1225/111459.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ゴブリンスレイヤー
 -   **rating**: R - 17+ (violence & profanity)

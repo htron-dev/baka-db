@@ -1,5 +1,7 @@
 # Ijin desu ka? Eiyuu desu ka? Shinde Moratte Ii desu ka?
 
+![ijin-desu-ka-eiyuu-desu-ka-shinde-moratte-ii-desu-ka](https://cdn.myanimelist.net/images/manga/1/226295.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Haru Hayate
 
+![haru-hayate](https://cdn.myanimelist.net/images/manga/3/177114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

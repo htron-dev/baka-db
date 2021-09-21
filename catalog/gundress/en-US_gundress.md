@@ -1,5 +1,7 @@
 # Gundress
 
+![gundress](https://cdn.myanimelist.net/images/anime/1938/112269.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガンドレス

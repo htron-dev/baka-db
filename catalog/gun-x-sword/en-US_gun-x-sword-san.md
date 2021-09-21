@@ -1,5 +1,7 @@
 # Gun x Sword-san
 
+![gun-x-sword-san](https://cdn.myanimelist.net/images/anime/2/11349.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: ガン × ソードさん

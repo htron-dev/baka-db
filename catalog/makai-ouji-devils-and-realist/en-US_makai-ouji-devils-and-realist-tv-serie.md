@@ -1,5 +1,7 @@
 # Makai Ouji: Devils and Realist
 
+![makai-ouji-devils-and-realist](https://cdn.myanimelist.net/images/anime/12/49573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔界王子 devils and realist

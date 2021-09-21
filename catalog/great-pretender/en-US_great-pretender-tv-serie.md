@@ -1,5 +1,7 @@
 # Great Pretender
 
+![great-pretender](https://cdn.myanimelist.net/images/anime/1418/107954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **start-date**: 2020-07-09

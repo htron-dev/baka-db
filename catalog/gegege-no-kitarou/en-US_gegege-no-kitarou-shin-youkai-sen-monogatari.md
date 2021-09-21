@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Shin Youkai Sen Monogatari
 
+![gegege-no-kitarou-shin-youkai-sen-monogatari](https://cdn.myanimelist.net/images/manga/3/198841.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゲゲゲの鬼太郎 新妖怪千物語

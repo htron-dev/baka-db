@@ -1,5 +1,7 @@
 # Kurokuroku
 
+![kurokuroku](https://cdn.myanimelist.net/images/manga/2/147695.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

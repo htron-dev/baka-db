@@ -1,5 +1,7 @@
 # Kindanai: Juusha to no Himegoto
 
+![kindanai-juusha-to-no-himegoto](https://cdn.myanimelist.net/images/manga/3/194689.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 禁断愛～従者との秘め事～

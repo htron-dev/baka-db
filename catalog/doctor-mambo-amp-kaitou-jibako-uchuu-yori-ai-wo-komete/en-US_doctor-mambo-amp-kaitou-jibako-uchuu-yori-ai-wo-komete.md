@@ -1,5 +1,7 @@
 # Doctor Mambo &amp; Kaitou Jibako: Uchuu yori Ai wo Komete!!
 
+![doctor-mambo-amp-kaitou-jibako-uchuu-yori-ai-wo-komete](https://cdn.myanimelist.net/images/anime/6/61591.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: どくとるマンボウ&怪盗ジバコ 宇宙より愛をこめて!!

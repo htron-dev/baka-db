@@ -1,5 +1,7 @@
 # Ga-Rei
 
+![ga-rei](https://cdn.myanimelist.net/images/manga/2/185812.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 56

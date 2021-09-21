@@ -1,5 +1,7 @@
 # L'Amitié
 
+![l-amitie](https://cdn.myanimelist.net/images/manga/3/194603.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 12

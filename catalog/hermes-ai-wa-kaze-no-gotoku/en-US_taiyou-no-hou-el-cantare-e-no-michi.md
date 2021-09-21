@@ -1,5 +1,7 @@
 # Taiyou no Hou: El Cantare e no Michi
 
+![taiyou-no-hou-el-cantare-e-no-michi](https://cdn.myanimelist.net/images/anime/2/19503.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 太陽の法 エル・カンターレへの道

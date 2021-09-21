@@ -1,5 +1,7 @@
 # Transformers: Choujin Master Force Soushuuhen
 
+![transformers-choujin-master-force-soushuuhen](https://cdn.myanimelist.net/images/anime/1575/98568.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: トランスフォーマー・超神マスターフォース 総集編

@@ -1,5 +1,7 @@
 # Hong Kong Dragnet
 
+![hong-kong-dragnet](https://cdn.myanimelist.net/images/manga/1/189574.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

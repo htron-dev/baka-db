@@ -1,5 +1,7 @@
 # Shutsugeki! Machine Robo Rescue
 
+![shutsugeki-machine-robo-rescue](https://cdn.myanimelist.net/images/anime/8/28127.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 出撃！マシンロボレスキュー

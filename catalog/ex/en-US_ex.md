@@ -1,5 +1,7 @@
 # EX!
 
+![ex](https://cdn.myanimelist.net/images/manga/3/163410.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **chapters**: 121

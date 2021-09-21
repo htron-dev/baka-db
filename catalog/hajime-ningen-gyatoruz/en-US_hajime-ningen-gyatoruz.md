@@ -1,5 +1,7 @@
 # Hajime Ningen Gyatoruz
 
+![hajime-ningen-gyatoruz](https://cdn.myanimelist.net/images/anime/7/24192.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: はじめ人間ギャートルズ

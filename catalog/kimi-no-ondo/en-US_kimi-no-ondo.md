@@ -1,5 +1,7 @@
 # Kimi no Ondo
 
+![kimi-no-ondo](https://cdn.myanimelist.net/images/manga/3/1366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

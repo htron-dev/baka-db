@@ -1,5 +1,7 @@
 # Eternity
 
+![eternity](https://cdn.myanimelist.net/images/manga/1/152314.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 34

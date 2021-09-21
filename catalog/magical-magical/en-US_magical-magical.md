@@ -1,5 +1,7 @@
 # Magical Magical
 
+![magical-magical](https://cdn.myanimelist.net/images/manga/1/26680.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マジョカル ★ マジョカル

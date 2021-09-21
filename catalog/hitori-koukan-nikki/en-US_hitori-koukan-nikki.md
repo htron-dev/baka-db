@@ -1,5 +1,7 @@
 # Hitori Koukan Nikki
 
+![hitori-koukan-nikki](https://cdn.myanimelist.net/images/manga/1/203497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Alice
 
+![fushigi-no-kuni-no-alice](https://cdn.myanimelist.net/images/anime/13/22277.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ふしぎの国のアリス

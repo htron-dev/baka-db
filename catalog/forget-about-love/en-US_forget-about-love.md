@@ -1,5 +1,7 @@
 # Forget About Love
 
+![forget-about-love](https://cdn.myanimelist.net/images/manga/1/10540.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 애인발견

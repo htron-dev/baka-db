@@ -1,5 +1,7 @@
 # Hayate no Gotoku! Cuties
 
+![hayate-no-gotoku-cuties](https://cdn.myanimelist.net/images/anime/10/48953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハヤテのごとく！ Cuties

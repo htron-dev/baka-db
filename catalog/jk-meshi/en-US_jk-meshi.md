@@ -1,5 +1,7 @@
 # JK Meshi!
 
+![jk-meshi](https://cdn.myanimelist.net/images/anime/4/76261.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ＪＫめし！

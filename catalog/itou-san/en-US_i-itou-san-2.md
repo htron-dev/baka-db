@@ -1,5 +1,7 @@
 # I: Itou-san 2
 
+![i-itou-san-2](https://cdn.myanimelist.net/images/manga/3/220456.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kiken na Otonari-san
 
+![kiken-na-otonari-san](https://cdn.myanimelist.net/images/manga/1/39734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Mirai e no Niji: Boku no Ojisan wa, Hansen-byou
 
+![mirai-e-no-niji-boku-no-ojisan-wa-hansen-byou](https://cdn.myanimelist.net/images/anime/12/70619.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 未来への虹 -僕のおじさんは, ハンセン病-

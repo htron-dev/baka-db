@@ -1,5 +1,7 @@
 # Koukou Debut
 
+![koukou-debut](https://cdn.myanimelist.net/images/manga/5/112439.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 62

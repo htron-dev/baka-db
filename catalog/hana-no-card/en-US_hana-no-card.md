@@ -1,5 +1,7 @@
 # Hana no Card
 
+![hana-no-card](https://cdn.myanimelist.net/images/manga/1/43033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: はなのカード

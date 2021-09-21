@@ -1,5 +1,7 @@
 # Durarara!! SH
 
+![durarara-sh](https://cdn.myanimelist.net/images/manga/2/119931.jpg)
+
 -   **type**: light-novel
 -   **original-name**: デュラララ!!SH
 -   **start-date**: 2014-04-10

@@ -1,5 +1,7 @@
 # Futago no Mahoutsukai Lico to Gli
 
+![futago-no-mahoutsukai-lico-to-gli](https://cdn.myanimelist.net/images/anime/4/78517.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 双子の魔法使い【リコとグリ】

@@ -1,5 +1,7 @@
 # Tayo-ui Jangnangam Adventure
 
+![tayo-ui-jangnangam-adventure](https://cdn.myanimelist.net/images/anime/1698/101725.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 타요의 장난감 어드벤처

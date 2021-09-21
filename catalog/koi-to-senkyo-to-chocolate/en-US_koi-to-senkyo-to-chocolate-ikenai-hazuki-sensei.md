@@ -1,5 +1,7 @@
 # Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei
 
+![koi-to-senkyo-to-chocolate-ikenai-hazuki-sensei](https://cdn.myanimelist.net/images/anime/11/82999.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: いけない葉月先生

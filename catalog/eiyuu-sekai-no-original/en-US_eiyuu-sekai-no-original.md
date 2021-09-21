@@ -1,5 +1,7 @@
 # Eiyuu Sekai no Original
 
+![eiyuu-sekai-no-original](https://cdn.myanimelist.net/images/manga/3/199657.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 英雄世界の英雄譚〈オリジナル〉
 -   **start-date**: 2017-08-25

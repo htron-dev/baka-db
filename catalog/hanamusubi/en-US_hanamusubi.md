@@ -1,5 +1,7 @@
 # Hanamusubi
 
+![hanamusubi](https://cdn.myanimelist.net/images/manga/2/152047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kawashima Yoshiko wa Otoko ni Naritai
 
+![kawashima-yoshiko-wa-otoko-ni-naritai](https://cdn.myanimelist.net/images/manga/2/233848.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

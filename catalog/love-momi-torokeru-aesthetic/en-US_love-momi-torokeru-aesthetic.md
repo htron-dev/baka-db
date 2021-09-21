@@ -1,5 +1,7 @@
 # Love-Momi: Torokeru Aesthetic
 
+![love-momi-torokeru-aesthetic](https://cdn.myanimelist.net/images/manga/3/217310.jpg)
+
 -   **type**: manga
 -   **original-name**: らぶモミ！～とろけるエステ～
 -   **start-date**: 2016-12-01

@@ -1,5 +1,7 @@
 # Kaguya-sama wo Kataritai
 
+![kaguya-sama-wo-kataritai](https://cdn.myanimelist.net/images/manga/1/217435.jpg)
+
 -   **type**: manga
 -   **original-name**: かぐや様を語りたい
 -   **start-date**: 2018-07-26

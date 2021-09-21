@@ -1,5 +1,7 @@
 # Miao Qiansui de Chengnian Li
 
+![miao-qiansui-de-chengnian-li](https://cdn.myanimelist.net/images/anime/1048/109273.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 喵千岁的成年礼

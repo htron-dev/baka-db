@@ -1,5 +1,7 @@
 # Maihime
 
+![maihime](https://cdn.myanimelist.net/images/anime/5/13677.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 舞姫

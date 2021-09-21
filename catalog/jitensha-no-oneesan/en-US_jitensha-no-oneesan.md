@@ -1,5 +1,7 @@
 # Jitensha no Oneesan
 
+![jitensha-no-oneesan](https://cdn.myanimelist.net/images/manga/2/235107.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 自転車のお姉さん

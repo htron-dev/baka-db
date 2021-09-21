@@ -1,5 +1,7 @@
 # Hidamari no Tsuki
 
+![hidamari-no-tsuki](https://cdn.myanimelist.net/images/manga/3/209861.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

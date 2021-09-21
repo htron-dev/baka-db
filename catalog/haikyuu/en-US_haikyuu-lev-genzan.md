@@ -1,5 +1,7 @@
 # Haikyuu!!: Lev Genzan!
 
+![haikyuu-lev-genzan](https://cdn.myanimelist.net/images/anime/1498/96643.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! リエーフ見参！

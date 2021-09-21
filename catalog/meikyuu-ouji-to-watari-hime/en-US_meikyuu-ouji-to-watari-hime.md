@@ -1,5 +1,7 @@
 # Meikyuu Ouji to Watari-hime
 
+![meikyuu-ouji-to-watari-hime](https://cdn.myanimelist.net/images/manga/3/194541.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 迷宮王子と渡り姫

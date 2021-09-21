@@ -1,5 +1,7 @@
 # Monogatari Series: First Season
 
+![monogatari-series-first-season](https://cdn.myanimelist.net/images/manga/5/173535.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 107

@@ -1,5 +1,7 @@
 # Hito Hitori Futari
 
+![hito-hitori-futari](https://cdn.myanimelist.net/images/manga/1/70487.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 84

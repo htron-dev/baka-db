@@ -1,5 +1,7 @@
 # Maid wa Miracle
 
+![maid-wa-miracle](https://cdn.myanimelist.net/images/manga/1/35451.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

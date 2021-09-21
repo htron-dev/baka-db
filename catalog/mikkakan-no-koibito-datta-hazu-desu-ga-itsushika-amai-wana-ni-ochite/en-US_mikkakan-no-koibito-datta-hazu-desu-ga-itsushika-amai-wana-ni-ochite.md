@@ -1,5 +1,7 @@
 # Mikkakan no Koibito Datta Hazu desu ga? Itsushika, Amai Wana ni Ochite
 
+![mikkakan-no-koibito-datta-hazu-desu-ga-itsushika-amai-wana-ni-ochite](https://cdn.myanimelist.net/images/manga/1/195122.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 三日間の恋人だったハズですが？～いつしか、甘い罠に落ちて～

@@ -1,5 +1,7 @@
 # Isekai Ittemo Shounen Manga no Syujinkou wa 1mm mo Burenai!!!
 
+![isekai-ittemo-shounen-manga-no-syujinkou-wa-1-mm-mo-burenai](https://cdn.myanimelist.net/images/manga/2/243048.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界行っても少年マンガの主人公は１ミリもブレない!!!
 -   **start-date**: 2021-04-02

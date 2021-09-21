@@ -1,5 +1,7 @@
 # Druaga no Tou: The Aegis of Uruk
 
+![druaga-no-tou-the-aegis-of-uruk](https://cdn.myanimelist.net/images/anime/5/75646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ドルアーガの塔 〜the Aegis of URUK〜

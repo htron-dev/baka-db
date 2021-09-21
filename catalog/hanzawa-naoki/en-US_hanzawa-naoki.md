@@ -1,5 +1,7 @@
 # Hanzawa Naoki
 
+![hanzawa-naoki](https://cdn.myanimelist.net/images/manga/1/238410.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

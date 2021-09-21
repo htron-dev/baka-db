@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 - Bonds
 
+![mobile-suit-gundam-00-bonds](https://cdn.myanimelist.net/images/manga/2/35572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

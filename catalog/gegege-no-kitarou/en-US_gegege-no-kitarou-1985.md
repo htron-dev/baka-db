@@ -1,5 +1,7 @@
 # Gegege no Kitarou (1985)
 
+![gegege-no-kitarou-1985](https://cdn.myanimelist.net/images/anime/11/27400.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 108
 -   **original-name**: ゲゲゲの鬼太郎

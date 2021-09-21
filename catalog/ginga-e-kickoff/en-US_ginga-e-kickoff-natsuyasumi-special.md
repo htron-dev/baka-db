@@ -1,5 +1,7 @@
 # Ginga e Kickoff!!: Natsuyasumi Special
 
+![ginga-e-kickoff-natsuyasumi-special](https://cdn.myanimelist.net/images/anime/9/43145.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 夏休みスペシャル 銀河へキックオフ!!

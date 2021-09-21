@@ -1,5 +1,7 @@
 # Kyuutei Gaka no Urusai Blanca
 
+![kyuutei-gaka-no-urusai-blanca](https://cdn.myanimelist.net/images/manga/3/210035.jpg)
+
 -   **type**: manga
 -   **original-name**: 宮廷画家のうるさい余白〈ブランカ〉
 -   **start-date**: 2017-08-26

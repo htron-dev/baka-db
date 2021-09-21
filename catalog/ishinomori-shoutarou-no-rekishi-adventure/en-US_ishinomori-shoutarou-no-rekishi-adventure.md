@@ -1,5 +1,7 @@
 # Ishinomori Shoutarou no Rekishi Adventure
 
+![ishinomori-shoutarou-no-rekishi-adventure](https://cdn.myanimelist.net/images/anime/5/64945.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 石ノ森章太郎の歴史アドベンチャー

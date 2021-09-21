@@ -1,5 +1,7 @@
 # Gekogeko
 
+![gekogeko](https://cdn.myanimelist.net/images/manga/2/169585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

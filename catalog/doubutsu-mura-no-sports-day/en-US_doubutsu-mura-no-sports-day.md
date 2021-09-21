@@ -1,5 +1,7 @@
 # Doubutsu Mura no Sports Day
 
+![doubutsu-mura-no-sports-day](https://cdn.myanimelist.net/images/anime/4/12515.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動物村のスポーツデー

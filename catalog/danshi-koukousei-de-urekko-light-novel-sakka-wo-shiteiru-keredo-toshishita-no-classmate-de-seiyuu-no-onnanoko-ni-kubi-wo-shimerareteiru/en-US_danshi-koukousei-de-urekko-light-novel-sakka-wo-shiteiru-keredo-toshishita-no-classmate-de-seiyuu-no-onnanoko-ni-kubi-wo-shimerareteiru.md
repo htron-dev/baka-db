@@ -1,5 +1,7 @@
 # Danshi Koukousei de Urekko Light Novel Sakka wo Shiteiru keredo, Toshishita no Classmate de Seiyuu no Onnanoko ni Kubi wo Shimerareteiru.
 
+![danshi-koukousei-de-urekko-light-novel-sakka-wo-shiteiru-keredo-toshishita-no-classmate-de-seiyuu-no-onnanoko-ni-kubi-wo-shimerareteiru](https://cdn.myanimelist.net/images/manga/2/111603.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 男子高校生で売れっ子ライトノベル作家をしているけれど、年下のクラスメイトで声優の女の子に首を絞められている。
 -   **start-date**: 2014-01-10

@@ -1,5 +1,7 @@
 # Indefinite Linkcage
 
+![indefinite-linkcage](https://cdn.myanimelist.net/images/manga/2/176605.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 35

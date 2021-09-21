@@ -1,5 +1,7 @@
 # Noushou Sakuretsu Girl
 
+![noushou-sakuretsu-girl](https://cdn.myanimelist.net/images/manga/1/162205.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 脳漿炸裂ガール
 -   **start-date**: 2013-11-30

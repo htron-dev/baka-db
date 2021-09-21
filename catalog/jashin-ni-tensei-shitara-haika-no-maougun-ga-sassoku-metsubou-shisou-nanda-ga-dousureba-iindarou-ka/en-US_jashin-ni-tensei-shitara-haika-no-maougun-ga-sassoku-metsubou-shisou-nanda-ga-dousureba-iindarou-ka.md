@@ -1,5 +1,7 @@
 # Jashin ni Tensei shitara Haika no Maougun ga Sassoku Metsubou Shisou Nanda ga, Dousureba Iindarou ka
 
+![jashin-ni-tensei-shitara-haika-no-maougun-ga-sassoku-metsubou-shisou-nanda-ga-dousureba-iindarou-ka](https://cdn.myanimelist.net/images/manga/1/215428.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 35

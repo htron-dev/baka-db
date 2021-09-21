@@ -1,5 +1,7 @@
 # Houkago Cinderella: Kagaku Kyoushi no Dekiai Lesson
 
+![houkago-cinderella-kagaku-kyoushi-no-dekiai-lesson](https://cdn.myanimelist.net/images/manga/2/192871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

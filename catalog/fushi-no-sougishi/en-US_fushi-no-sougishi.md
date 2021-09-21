@@ -1,5 +1,7 @@
 # Fushi no Sougishi
 
+![fushi-no-sougishi](https://cdn.myanimelist.net/images/manga/1/226167.jpg)
+
 -   **type**: manga
 -   **original-name**: 不死の葬儀師
 -   **start-date**: 2017-12-30

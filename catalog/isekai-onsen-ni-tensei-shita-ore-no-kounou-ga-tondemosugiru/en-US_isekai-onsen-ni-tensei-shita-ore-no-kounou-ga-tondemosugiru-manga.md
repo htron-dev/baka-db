@@ -1,5 +1,7 @@
 # Isekai Onsen ni Tensei shita Ore no Kounou ga Tondemosugiru
 
+![isekai-onsen-ni-tensei-shita-ore-no-kounou-ga-tondemosugiru](https://cdn.myanimelist.net/images/manga/1/203316.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

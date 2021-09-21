@@ -1,5 +1,7 @@
 # Lovedol: Lovely Idol
 
+![lovedol-lovely-idol](https://cdn.myanimelist.net/images/anime/6/6448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: らぶドル～ Lovely Idol ～

@@ -1,5 +1,7 @@
 # Don Quixote: Ureigao no Kishi Sono Ai
 
+![don-quixote-ureigao-no-kishi-sono-ai](https://cdn.myanimelist.net/images/manga/3/109037.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

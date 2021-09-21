@@ -1,5 +1,7 @@
 # Senmu Shima Kousaku
 
+![senmu-shima-kousaku](https://cdn.myanimelist.net/images/manga/2/129007.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 56

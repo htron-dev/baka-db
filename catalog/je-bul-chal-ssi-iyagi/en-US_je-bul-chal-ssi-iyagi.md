@@ -1,5 +1,7 @@
 # Je Bul Chal-ssi Iyagi
 
+![je-bul-chal-ssi-iyagi](https://cdn.myanimelist.net/images/anime/1839/112723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 제불찰씨 이야기

@@ -1,5 +1,7 @@
 # Kono Kakegae no Nai Jigoku
 
+![kono-kakegae-no-nai-jigoku](https://cdn.myanimelist.net/images/manga/3/237744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

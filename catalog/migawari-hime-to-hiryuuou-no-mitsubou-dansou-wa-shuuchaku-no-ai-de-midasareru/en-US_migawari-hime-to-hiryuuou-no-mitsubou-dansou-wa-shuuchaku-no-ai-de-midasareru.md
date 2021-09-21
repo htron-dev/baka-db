@@ -1,5 +1,7 @@
 # Migawari-hime to Hiryuuou no Mitsubou: Dansou wa Shuuchaku no Ai de Midasareru
 
+![migawari-hime-to-hiryuuou-no-mitsubou-dansou-wa-shuuchaku-no-ai-de-midasareru](https://cdn.myanimelist.net/images/manga/3/192591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

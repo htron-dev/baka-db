@@ -1,5 +1,7 @@
 # Shin Hurricane Polymar
 
+![shin-hurricane-polymar](https://cdn.myanimelist.net/images/anime/4/12971.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 新・破裏拳ポリマー

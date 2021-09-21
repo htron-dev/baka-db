@@ -1,5 +1,7 @@
 # Dragon Ball Super: Broly - Skytree Super
 
+![dragon-ball-super-broly-skytree-super](https://cdn.myanimelist.net/images/anime/1957/96070.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール 超 スーパー ブロリー 超天空塔

@@ -1,5 +1,7 @@
 # Leo-kun wa Kyou mo Yasashii
 
+![leo-kun-wa-kyou-mo-yasashii](https://cdn.myanimelist.net/images/manga/3/223567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

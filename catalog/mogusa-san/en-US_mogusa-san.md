@@ -1,5 +1,7 @@
 # Mogusa-san
 
+![mogusa-san](https://cdn.myanimelist.net/images/manga/1/178117.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 88

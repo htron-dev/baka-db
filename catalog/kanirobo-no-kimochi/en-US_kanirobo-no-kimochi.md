@@ -1,5 +1,7 @@
 # Kanirobo no Kimochi
 
+![kanirobo-no-kimochi](https://cdn.myanimelist.net/images/manga/2/180588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kanojo ga Flag wo Oraretara
 
+![kanojo-ga-flag-wo-oraretara](https://cdn.myanimelist.net/images/manga/1/171359.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 42

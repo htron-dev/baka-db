@@ -1,5 +1,7 @@
 # Bear Bear Bear Kuma!
 
+![bear-bear-bear-kuma](https://cdn.myanimelist.net/images/anime/1584/109714.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: べあべあべあくまー！

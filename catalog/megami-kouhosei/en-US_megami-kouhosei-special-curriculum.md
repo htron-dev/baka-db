@@ -1,5 +1,7 @@
 # Megami Kouhosei Special Curriculum
 
+![megami-kouhosei-special-curriculum](https://cdn.myanimelist.net/images/anime/10/2609.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 女神候補生 スペシャルカリキュラム

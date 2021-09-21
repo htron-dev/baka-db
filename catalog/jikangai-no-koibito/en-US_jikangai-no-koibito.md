@@ -1,5 +1,7 @@
 # Jikangai no Koibito
 
+![jikangai-no-koibito](https://cdn.myanimelist.net/images/manga/1/229994.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 時間外の恋人

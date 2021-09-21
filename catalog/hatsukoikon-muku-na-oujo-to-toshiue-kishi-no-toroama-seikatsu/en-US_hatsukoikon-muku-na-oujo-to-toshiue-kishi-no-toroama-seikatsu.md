@@ -1,5 +1,7 @@
 # Hatsukoikon!: Muku na Oujo to Toshiue Kishi no Toroama Seikatsu
 
+![hatsukoikon-muku-na-oujo-to-toshiue-kishi-no-toroama-seikatsu](https://cdn.myanimelist.net/images/manga/2/184422.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 初恋婚! 無垢な王女と年上騎士のトロ甘生活

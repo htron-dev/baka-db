@@ -1,5 +1,7 @@
 # Itsumo no Jikan, Itsumo no Basho de.
 
+![itsumo-no-jikan-itsumo-no-basho-de](https://cdn.myanimelist.net/images/manga/3/200352.jpg)
+
 -   **type**: manga
 -   **original-name**: いつもの時間、いつもの場所で。
 -   **start-date**: 2015-03-25

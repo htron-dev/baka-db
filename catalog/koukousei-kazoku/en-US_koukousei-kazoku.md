@@ -1,5 +1,7 @@
 # Koukousei Kazoku
 
+![koukousei-kazoku](https://cdn.myanimelist.net/images/manga/3/240566.jpg)
+
 -   **type**: manga
 -   **original-name**: 高校生家族
 -   **start-date**: 2020-09-07

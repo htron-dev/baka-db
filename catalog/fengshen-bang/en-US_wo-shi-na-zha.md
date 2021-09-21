@@ -1,5 +1,7 @@
 # Wo Shi Na Zha
 
+![wo-shi-na-zha](https://cdn.myanimelist.net/images/anime/1892/91670.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 我是哪吒

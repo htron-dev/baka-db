@@ -1,5 +1,7 @@
 # My First Lady
 
+![my-first-lady](https://cdn.myanimelist.net/images/manga/2/181819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

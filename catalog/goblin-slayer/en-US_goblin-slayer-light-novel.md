@@ -1,5 +1,7 @@
 # Goblin Slayer
 
+![goblin-slayer](https://cdn.myanimelist.net/images/manga/3/200788.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ゴブリンスレイヤー
 -   **start-date**: 2016-02-15

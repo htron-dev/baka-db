@@ -1,5 +1,7 @@
 # Mahoujin Guru Guru Movie
 
+![mahoujin-guru-guru-movie](https://cdn.myanimelist.net/images/anime/7/49583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法陣グルグル

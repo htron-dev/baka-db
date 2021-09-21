@@ -1,5 +1,7 @@
 # Maotome-tachi no Eden
 
+![maotome-tachi-no-eden](https://cdn.myanimelist.net/images/manga/1/151864.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kaze no Tairiku
 
+![kaze-no-tairiku](https://cdn.myanimelist.net/images/anime/1796/114316.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風の大陸

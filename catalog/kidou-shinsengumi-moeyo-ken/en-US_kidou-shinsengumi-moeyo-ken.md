@@ -1,5 +1,7 @@
 # Kidou Shinsengumi Moeyo Ken
 
+![kidou-shinsengumi-moeyo-ken](https://cdn.myanimelist.net/images/anime/2/29756.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 機動新撰組　萌えよ剣

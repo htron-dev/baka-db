@@ -1,5 +1,7 @@
 # Kiss x Sis
 
+![kiss-x-sis](https://cdn.myanimelist.net/images/anime/6/22223.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: キス × シス

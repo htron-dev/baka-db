@@ -1,5 +1,7 @@
 # Dekiai Kinshi!? Cool na Shachou ga Ookami-san ni Hyouhenchuu
 
+![dekiai-kinshi-cool-na-shachou-ga-ookami-san-ni-hyouhenchuu](https://cdn.myanimelist.net/images/manga/2/182915.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

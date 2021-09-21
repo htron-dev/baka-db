@@ -1,5 +1,7 @@
 # Motto Oshiete♡
 
+![motto-oshiete♡](https://cdn.myanimelist.net/images/manga/2/143883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Girls & Panzer: Motto Love Love Sakusen desu!
 
+![girls-panzer-motto-love-love-sakusen-desu](https://cdn.myanimelist.net/images/manga/1/205711.jpg)
+
 -   **type**: manga
 -   **original-name**: ガールズ＆パンツァー もっとらぶらぶ作戦です!
 -   **start-date**: 2013-05-27

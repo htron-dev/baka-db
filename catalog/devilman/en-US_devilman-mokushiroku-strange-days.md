@@ -1,5 +1,7 @@
 # Devilman Mokushiroku: Strange Days
 
+![devilman-mokushiroku-strange-days](https://cdn.myanimelist.net/images/manga/3/32724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Genba Kantoku Inkei
 
+![genba-kantoku-inkei](https://cdn.myanimelist.net/images/manga/2/85531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

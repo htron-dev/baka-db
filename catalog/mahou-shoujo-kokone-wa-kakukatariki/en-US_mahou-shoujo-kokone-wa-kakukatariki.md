@@ -1,5 +1,7 @@
 # Mahou Shoujo Kokone wa Kakukatariki
 
+![mahou-shoujo-kokone-wa-kakukatariki](https://cdn.myanimelist.net/images/manga/1/173861.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

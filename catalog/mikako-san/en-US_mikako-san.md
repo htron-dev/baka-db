@@ -1,5 +1,7 @@
 # Mikako-san
 
+![mikako-san](https://cdn.myanimelist.net/images/manga/2/171113.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 221

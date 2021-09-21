@@ -1,5 +1,7 @@
 # Kodomo-tachi ga Kaetta Ato de
 
+![kodomo-tachi-ga-kaetta-ato-de](https://cdn.myanimelist.net/images/manga/2/77491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 子どもたちが帰ったあとで

@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
 
+![jo-jo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai](https://cdn.myanimelist.net/images/anime/3/79156.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ジョジョの奇妙な冒険 ダイヤモンドは砕けない

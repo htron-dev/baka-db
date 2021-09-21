@@ -1,5 +1,7 @@
 # Drag-On Dragoon: Utahime Five
 
+![drag-on-dragoon-utahime-five](https://cdn.myanimelist.net/images/manga/2/114619.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

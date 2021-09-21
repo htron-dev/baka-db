@@ -1,5 +1,7 @@
 # Moment: Eien no Isshun
 
+![moment-eien-no-isshun](https://cdn.myanimelist.net/images/manga/1/163727.jpg)
+
 -   **type**: manga
 -   **original-name**: モーメント 永遠の一瞬
 -   **start-date**: 2014-01-28

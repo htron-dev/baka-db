@@ -1,5 +1,7 @@
 # Kimi Hitorijime
 
+![kimi-hitorijime](https://cdn.myanimelist.net/images/manga/1/176569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

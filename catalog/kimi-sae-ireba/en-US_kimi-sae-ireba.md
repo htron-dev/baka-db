@@ -1,5 +1,7 @@
 # Kimi Sae Ireba...
 
+![kimi-sae-ireba](https://cdn.myanimelist.net/images/manga/3/2510.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

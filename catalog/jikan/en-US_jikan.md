@@ -1,5 +1,7 @@
 # Jikan
 
+![jikan](https://cdn.myanimelist.net/images/anime/2/71299.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 時間

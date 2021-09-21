@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri Movie 3: Unato Kessen
 
+![koutetsujou-no-kabaneri-movie-3-unato-kessen](https://cdn.myanimelist.net/images/anime/1749/99713.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 甲鉄城のカバネリ～海門決戦～

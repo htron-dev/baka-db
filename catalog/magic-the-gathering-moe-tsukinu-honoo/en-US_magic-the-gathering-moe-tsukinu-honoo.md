@@ -1,5 +1,7 @@
 # Magic: The Gathering - Moe Tsukinu Honoo
 
+![magic-the-gathering-moe-tsukinu-honoo](https://cdn.myanimelist.net/images/manga/3/92613.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: マジック: ザ・ギャザリング 燃え尽きぬ炎

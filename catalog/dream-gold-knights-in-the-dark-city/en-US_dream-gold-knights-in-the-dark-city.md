@@ -1,5 +1,7 @@
 # Dream Gold: Knights in the Dark City
 
+![dream-gold-knights-in-the-dark-city](https://cdn.myanimelist.net/images/manga/2/121189.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

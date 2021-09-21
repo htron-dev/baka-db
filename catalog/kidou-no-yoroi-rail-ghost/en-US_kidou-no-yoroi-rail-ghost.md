@@ -1,5 +1,7 @@
 # Kidou no Yoroi Rail Ghost
 
+![kidou-no-yoroi-rail-ghost](https://cdn.myanimelist.net/images/manga/1/172906.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

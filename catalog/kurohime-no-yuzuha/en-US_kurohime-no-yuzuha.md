@@ -1,5 +1,7 @@
 # Kurohime no Yuzuha
 
+![kurohime-no-yuzuha](https://cdn.myanimelist.net/images/manga/3/163267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

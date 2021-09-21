@@ -1,5 +1,7 @@
 # Facade
 
+![facade](https://cdn.myanimelist.net/images/manga/1/154379.jpg)
+
 -   **type**: manga
 -   **original-name**: ファサード
 

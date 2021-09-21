@@ -1,5 +1,7 @@
 # Durarara!!
 
+![durarara](https://cdn.myanimelist.net/images/anime/10/71772.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: デュラララ!!

@@ -1,5 +1,7 @@
 # Keyaki Shimai no Shiki
 
+![keyaki-shimai-no-shiki](https://cdn.myanimelist.net/images/manga/1/205815.jpg)
+
 -   **type**: manga
 -   **original-name**: 欅姉妹の四季
 -   **start-date**: 2017-03-15

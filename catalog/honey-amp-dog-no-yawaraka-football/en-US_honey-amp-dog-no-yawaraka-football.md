@@ -1,5 +1,7 @@
 # Honey &amp; Dog no Yawaraka Football
 
+![honey-amp-dog-no-yawaraka-football](https://cdn.myanimelist.net/images/manga/3/162339.jpg)
+
 -   **type**: manga
 -   **chapters**: 20
 -   **original-name**: はにー＆どぐーのやわらかフットボール

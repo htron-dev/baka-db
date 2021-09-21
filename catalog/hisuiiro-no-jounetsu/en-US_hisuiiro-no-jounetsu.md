@@ -1,5 +1,7 @@
 # Hisuiiro no Jounetsu
 
+![hisuiiro-no-jounetsu](https://cdn.myanimelist.net/images/manga/2/229804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 翡翠色の情熱

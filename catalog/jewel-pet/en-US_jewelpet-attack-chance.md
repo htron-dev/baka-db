@@ -1,5 +1,7 @@
 # Jewelpet: Attack Chance!?
 
+![jewelpet-attack-chance](https://cdn.myanimelist.net/images/anime/11/78499.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ジュエルペット あたっくちゃんす!?

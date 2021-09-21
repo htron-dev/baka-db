@@ -1,5 +1,7 @@
 # Koisuru Lazy
 
+![koisuru-lazy](https://cdn.myanimelist.net/images/manga/3/222421.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

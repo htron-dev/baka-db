@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven
 
+![koukaku-kidoutai-stand-alone-complex-2nd-gig-individual-eleven](https://cdn.myanimelist.net/images/anime/5/2829.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 S.A.C. 2nd GIG Individual Eleven

@@ -1,5 +1,7 @@
 # Love Stage!!: Chotto ja Nakutte
 
+![love-stage-chotto-ja-nakutte](https://cdn.myanimelist.net/images/anime/2/72350.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: LOVE STAGE!! チョットジャナクッテ

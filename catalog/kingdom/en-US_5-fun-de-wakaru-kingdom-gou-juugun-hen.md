@@ -1,5 +1,7 @@
 # 5-fun de Wakaru! Kingdom: Gou Juugun-hen
 
+![5-fun-de-wakaru-kingdom-gou-juugun-hen](https://cdn.myanimelist.net/images/anime/1546/115588.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 5 分でわかる！TV アニメ「キングダム」合従軍編

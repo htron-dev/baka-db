@@ -1,5 +1,7 @@
 # Manon Keikan Minaraichu
 
+![manon-keikan-minaraichu](https://cdn.myanimelist.net/images/manga/1/80879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マノン 警官見習い中

@@ -1,5 +1,7 @@
 # Hana wa Knife wo Mi ni Matou
 
+![hana-wa-knife-wo-mi-ni-matou](https://cdn.myanimelist.net/images/manga/3/136427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Matantei Loki Ragnarok
 
+![matantei-loki-ragnarok](https://cdn.myanimelist.net/images/manga/2/38409.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

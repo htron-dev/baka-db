@@ -1,5 +1,7 @@
 # Komorebi no Kuni
 
+![komorebi-no-kuni](https://cdn.myanimelist.net/images/manga/3/68053.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

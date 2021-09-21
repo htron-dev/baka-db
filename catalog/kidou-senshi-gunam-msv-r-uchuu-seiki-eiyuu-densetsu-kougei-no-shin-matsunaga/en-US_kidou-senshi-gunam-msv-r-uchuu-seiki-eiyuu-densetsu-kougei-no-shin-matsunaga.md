@@ -1,5 +1,7 @@
 # Kidou Senshi Gunam MSV-R: Uchuu Seiki Eiyuu Densetsu - Kougei no Shin Matsunaga
 
+![kidou-senshi-gunam-msv-r-uchuu-seiki-eiyuu-densetsu-kougei-no-shin-matsunaga](https://cdn.myanimelist.net/images/manga/3/90403.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム MSV‐R 宇宙世紀英雄伝説 虹霓のシン・マツナガ
 -   **start-date**: 2012-06-26

@@ -1,5 +1,7 @@
 # Hajishirazu na Yoru
 
+![hajishirazu-na-yoru](https://cdn.myanimelist.net/images/manga/2/23007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

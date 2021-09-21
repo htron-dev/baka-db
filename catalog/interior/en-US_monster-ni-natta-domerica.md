@@ -1,5 +1,7 @@
 # Monster ni Natta Domerica
 
+![monster-ni-natta-domerica](https://cdn.myanimelist.net/images/anime/5/62323.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンスターになったドメリカ

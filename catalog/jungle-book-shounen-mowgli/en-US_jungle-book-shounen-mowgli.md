@@ -1,5 +1,7 @@
 # Jungle Book Shounen Mowgli
 
+![jungle-book-shounen-mowgli](https://cdn.myanimelist.net/images/anime/5/12752.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ジャングルブック・少年モーグリ

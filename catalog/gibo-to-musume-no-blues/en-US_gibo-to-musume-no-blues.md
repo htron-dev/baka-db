@@ -1,5 +1,7 @@
 # Gibo to Musume no Blues
 
+![gibo-to-musume-no-blues](https://cdn.myanimelist.net/images/manga/2/236920.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 39

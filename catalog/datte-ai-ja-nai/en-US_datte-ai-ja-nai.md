@@ -1,5 +1,7 @@
 # Datte Ai ja Nai!?
 
+![datte-ai-ja-nai](https://cdn.myanimelist.net/images/manga/1/5373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

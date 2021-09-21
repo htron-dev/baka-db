@@ -1,5 +1,7 @@
 # Mini Hama: Minimum Hamatora Movies
 
+![mini-hama-minimum-hamatora-movies](https://cdn.myanimelist.net/images/anime/7/76836.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: 劇場版 ミニはま -MINIMUM HAMATORA-

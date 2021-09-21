@@ -1,5 +1,7 @@
 # Kareshi ga Gokudou nante Ariemasen!
 
+![kareshi-ga-gokudou-nante-ariemasen](https://cdn.myanimelist.net/images/manga/3/200597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 彼氏が極道なんてありえません！

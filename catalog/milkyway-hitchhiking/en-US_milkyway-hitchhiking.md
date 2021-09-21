@@ -1,5 +1,7 @@
 # Milkyway Hitchhiking
 
+![milkyway-hitchhiking](https://cdn.myanimelist.net/images/manga/1/146555.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 51

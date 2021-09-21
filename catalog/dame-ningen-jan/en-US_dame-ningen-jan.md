@@ -1,5 +1,7 @@
 # Dame Ningen Jan
 
+![dame-ningen-jan](https://cdn.myanimelist.net/images/manga/1/21258.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

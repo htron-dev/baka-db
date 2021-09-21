@@ -1,5 +1,7 @@
 # Koi wa Sekai Seifuku no Ato de
 
+![koi-wa-sekai-seifuku-no-ato-de](https://cdn.myanimelist.net/images/manga/1/243108.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋は世界征服のあとで
 -   **start-date**: 2019-10-04

@@ -1,5 +1,7 @@
 # Embah
 
+![embah](https://cdn.myanimelist.net/images/anime/9/71871.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: embah

@@ -1,5 +1,7 @@
 # Kore wa Oukoku no Kagi
 
+![kore-wa-oukoku-no-kagi](https://cdn.myanimelist.net/images/manga/2/95633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

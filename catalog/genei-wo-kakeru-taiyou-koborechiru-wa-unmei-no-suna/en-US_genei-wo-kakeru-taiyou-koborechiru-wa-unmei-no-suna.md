@@ -1,5 +1,7 @@
 # Genei wo Kakeru Taiyou: Koborechiru wa Unmei no Suna
 
+![genei-wo-kakeru-taiyou-koborechiru-wa-unmei-no-suna](https://cdn.myanimelist.net/images/manga/4/145293.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 4
 -   **original-name**: 幻影ヲ駆ケル太陽 〜こぼれ落ちるは運命の砂〜

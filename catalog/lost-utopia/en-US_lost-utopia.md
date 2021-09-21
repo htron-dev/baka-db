@@ -1,5 +1,7 @@
 # Lost Utopia
 
+![lost-utopia](https://cdn.myanimelist.net/images/anime/7/51513.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LOST UTOPIA

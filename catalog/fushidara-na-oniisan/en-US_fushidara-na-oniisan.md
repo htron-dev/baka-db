@@ -1,5 +1,7 @@
 # Fushidara na Oniisan
 
+![fushidara-na-oniisan](https://cdn.myanimelist.net/images/manga/2/100649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

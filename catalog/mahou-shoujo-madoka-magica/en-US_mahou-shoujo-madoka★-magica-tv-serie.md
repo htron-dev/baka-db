@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica
 
+![mahou-shoujo-madoka★-magica](https://cdn.myanimelist.net/images/anime/11/55225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女まどか ★ マギカ

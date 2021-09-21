@@ -1,5 +1,7 @@
 # Elf-san wa Yaserarenai.
 
+![elf-san-wa-yaserarenai](https://cdn.myanimelist.net/images/manga/1/197604.jpg)
+
 -   **type**: manga
 -   **original-name**: エルフさんは痩せられない。
 -   **start-date**: 2016-12-21

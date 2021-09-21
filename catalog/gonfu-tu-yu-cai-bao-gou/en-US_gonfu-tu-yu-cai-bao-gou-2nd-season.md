@@ -1,5 +1,7 @@
 # Gonfu Tu Yu Cai Bao Gou 2nd Season
 
+![gonfu-tu-yu-cai-bao-gou-2nd-season](https://cdn.myanimelist.net/images/anime/1040/108479.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 功夫兔与菜包狗 第二季

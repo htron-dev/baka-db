@@ -1,5 +1,7 @@
 # Kanata no Togabito ga Tatakau Riyuu
 
+![kanata-no-togabito-ga-tatakau-riyuu](https://cdn.myanimelist.net/images/manga/1/134627.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 彼方の咎人が闘う理由

@@ -1,5 +1,7 @@
 # Go! Go! Kadendanshi 2nd Season
 
+![go-go-kadendanshi-2nd-season](https://cdn.myanimelist.net/images/anime/11/62165.jpg)
+
 -   **type**: ona
 -   **episodes**: 78
 -   **original-name**: Go!Go!家電男子 シーズン 2

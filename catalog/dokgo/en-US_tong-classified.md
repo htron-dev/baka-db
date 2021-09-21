@@ -1,5 +1,7 @@
 # Tong: Classified
 
+![tong-classified](https://cdn.myanimelist.net/images/manga/3/222164.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 통 : 비밀

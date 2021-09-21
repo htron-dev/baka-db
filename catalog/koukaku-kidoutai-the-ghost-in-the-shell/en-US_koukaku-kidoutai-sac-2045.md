@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: SAC_2045
 
+![koukaku-kidoutai-sac-2045](https://cdn.myanimelist.net/images/anime/1213/106702.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 攻殻機動隊 SAC_2045

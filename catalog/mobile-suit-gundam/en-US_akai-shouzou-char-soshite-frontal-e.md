@@ -1,5 +1,7 @@
 # Akai Shouzou: Char, Soshite Frontal e
 
+![akai-shouzou-char-soshite-frontal-e](https://cdn.myanimelist.net/images/anime/4/54423.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 赤い肖像　～シャア、そしてフロンタルへ～

@@ -1,5 +1,7 @@
 # Itsuwari no Kekkon Yubiwa
 
+![itsuwari-no-kekkon-yubiwa](https://cdn.myanimelist.net/images/manga/2/63569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

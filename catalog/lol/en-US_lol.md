@@ -1,5 +1,7 @@
 # Lol
 
+![lol](https://cdn.myanimelist.net/images/manga/2/195873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

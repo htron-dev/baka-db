@@ -1,5 +1,7 @@
 # Hello, Hello and Hello
 
+![hello-hello-and-hello](https://cdn.myanimelist.net/images/manga/2/224752.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

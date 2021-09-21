@@ -1,5 +1,7 @@
 # Hero Mask
 
+![hero-mask](https://cdn.myanimelist.net/images/manga/2/175237.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

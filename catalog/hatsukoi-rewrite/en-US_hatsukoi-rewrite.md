@@ -1,5 +1,7 @@
 # Hatsukoi Rewrite
 
+![hatsukoi-rewrite](https://cdn.myanimelist.net/images/manga/2/169761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 初恋リライト

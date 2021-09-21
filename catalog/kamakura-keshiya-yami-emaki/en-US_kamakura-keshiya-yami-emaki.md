@@ -1,5 +1,7 @@
 # Kamakura Keshiya Yami Emaki
 
+![kamakura-keshiya-yami-emaki](https://cdn.myanimelist.net/images/manga/3/225217.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

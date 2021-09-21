@@ -1,5 +1,7 @@
 # Itou-san
 
+![itou-san](https://cdn.myanimelist.net/images/manga/2/164355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

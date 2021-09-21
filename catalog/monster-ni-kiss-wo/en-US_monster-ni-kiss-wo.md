@@ -1,5 +1,7 @@
 # Monster ni Kiss wo
 
+![monster-ni-kiss-wo](https://cdn.myanimelist.net/images/manga/3/179449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

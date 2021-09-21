@@ -1,5 +1,7 @@
 # Iyasare Pai ni Tsutsumarete
 
+![iyasare-pai-ni-tsutsumarete](https://cdn.myanimelist.net/images/manga/2/227817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

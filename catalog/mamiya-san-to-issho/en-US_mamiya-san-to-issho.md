@@ -1,5 +1,7 @@
 # Mamiya-san to Issho
 
+![mamiya-san-to-issho](https://cdn.myanimelist.net/images/manga/3/145567.jpg)
+
 -   **type**: manga
 -   **original-name**: 間宮さんといっしょ
 -   **start-date**: 2014-04-03

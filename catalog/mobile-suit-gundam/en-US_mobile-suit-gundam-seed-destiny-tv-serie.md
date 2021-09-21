@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Destiny
 
+![mobile-suit-gundam-seed-destiny](https://cdn.myanimelist.net/images/anime/1700/91080.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 機動戦士ガンダム SEED DESTINY

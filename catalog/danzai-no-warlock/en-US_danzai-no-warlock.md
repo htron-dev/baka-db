@@ -1,5 +1,7 @@
 # Danzai no Warlock
 
+![danzai-no-warlock](https://cdn.myanimelist.net/images/manga/2/114495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 断罪のワーロック

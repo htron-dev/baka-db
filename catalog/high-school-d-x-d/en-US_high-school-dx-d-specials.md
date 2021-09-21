@@ -1,5 +1,7 @@
 # High School DxD Specials
 
+![high-school-dx-d-specials](https://cdn.myanimelist.net/images/anime/10/38449.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ハイスクール D×D スペシャル

@@ -1,5 +1,7 @@
 # Ichigo to Anzu
 
+![ichigo-to-anzu](https://cdn.myanimelist.net/images/manga/2/14196.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: イチゴとアンズ

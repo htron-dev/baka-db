@@ -1,5 +1,7 @@
 # Kiminari Dousuru? Yuukai Itazura: Sarenai Tame ni
 
+![kiminari-dousuru-yuukai-itazura-sarenai-tame-ni](https://cdn.myanimelist.net/images/anime/10/74520.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: きみならどうする？ゆうかい・いたずら　されないために

@@ -1,5 +1,7 @@
 # Endride
 
+![endride](https://cdn.myanimelist.net/images/anime/12/78289.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: エンドライド

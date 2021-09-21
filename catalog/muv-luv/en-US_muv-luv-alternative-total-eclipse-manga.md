@@ -1,5 +1,7 @@
 # Muv-Luv Alternative: Total Eclipse
 
+![muv-luv-alternative-total-eclipse](https://cdn.myanimelist.net/images/manga/3/67389.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

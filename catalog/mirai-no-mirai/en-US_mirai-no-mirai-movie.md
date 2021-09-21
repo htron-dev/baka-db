@@ -1,5 +1,7 @@
 # Mirai no Mirai
 
+![mirai-no-mirai](https://cdn.myanimelist.net/images/anime/1042/95674.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 未来のミライ

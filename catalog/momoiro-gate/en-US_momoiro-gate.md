@@ -1,5 +1,7 @@
 # Momoiro Gate
 
+![momoiro-gate](https://cdn.myanimelist.net/images/manga/3/203337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

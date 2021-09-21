@@ -1,5 +1,7 @@
 # Joou-sama wa Geboku ni Oboreru: S to M Inraku no Kagi
 
+![joou-sama-wa-geboku-ni-oboreru-s-to-m-inraku-no-kagi](https://cdn.myanimelist.net/images/manga/3/197987.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

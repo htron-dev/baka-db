@@ -1,5 +1,7 @@
 # Madoromi no Chouki
 
+![madoromi-no-chouki](https://cdn.myanimelist.net/images/manga/3/193299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Dareka wo Suki na Hito
 
+![dareka-wo-suki-na-hito](https://cdn.myanimelist.net/images/manga/2/149245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kumo desu ga, Nani ka?
 
+![kumo-desu-ga-nani-ka](https://cdn.myanimelist.net/images/manga/2/170075.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 蜘蛛ですが、なにか？
 -   **start-date**: 2015-12-10

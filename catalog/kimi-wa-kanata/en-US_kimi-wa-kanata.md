@@ -1,5 +1,7 @@
 # Kimi wa Kanata
 
+![kimi-wa-kanata](https://cdn.myanimelist.net/images/anime/1724/109743.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 君は彼方

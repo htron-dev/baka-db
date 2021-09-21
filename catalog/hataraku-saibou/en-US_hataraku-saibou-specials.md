@@ -1,5 +1,7 @@
 # Hataraku Saibou Specials
 
+![hataraku-saibou-specials](https://cdn.myanimelist.net/images/anime/1481/100090.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: はたらく細胞

@@ -1,5 +1,7 @@
 # Himesama Tanuki no Koizanyou
 
+![himesama-tanuki-no-koizanyou](https://cdn.myanimelist.net/images/manga/2/126799.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 75

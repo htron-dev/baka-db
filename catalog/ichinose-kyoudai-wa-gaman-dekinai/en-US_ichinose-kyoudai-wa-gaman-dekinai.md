@@ -1,5 +1,7 @@
 # Ichinose Kyoudai wa Gaman Dekinai
 
+![ichinose-kyoudai-wa-gaman-dekinai](https://cdn.myanimelist.net/images/manga/3/194990.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kusumoto Maki Senshuu
 
+![kusumoto-maki-senshuu](https://cdn.myanimelist.net/images/manga/1/29455.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 楠本まき選集

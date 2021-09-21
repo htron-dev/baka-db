@@ -1,5 +1,7 @@
 # Ten Little Gall Force
 
+![ten-little-gall-force](https://cdn.myanimelist.net/images/anime/5/26536.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: テンリトルガルフォース

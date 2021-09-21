@@ -1,5 +1,7 @@
 # Little Charo 2
 
+![little-charo-2](https://cdn.myanimelist.net/images/anime/1650/93777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: リトル・チャロ 2

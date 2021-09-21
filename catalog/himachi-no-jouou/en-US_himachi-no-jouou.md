@@ -1,5 +1,7 @@
 # Himachi no Jouou
 
+![himachi-no-jouou](https://cdn.myanimelist.net/images/manga/2/225946.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒマチの嬢王
 -   **start-date**: 2018-07-26

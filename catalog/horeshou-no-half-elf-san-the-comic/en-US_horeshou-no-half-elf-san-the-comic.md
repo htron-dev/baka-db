@@ -1,5 +1,7 @@
 # Horeshou no Half Elf-san the Comic
 
+![horeshou-no-half-elf-san-the-comic](https://cdn.myanimelist.net/images/manga/3/234001.jpg)
+
 -   **type**: manga
 -   **original-name**: 惚れ症のハーフエルフさん THE COMIC
 -   **start-date**: 2019-06-11

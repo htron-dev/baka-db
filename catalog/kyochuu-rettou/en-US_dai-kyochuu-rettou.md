@@ -1,5 +1,7 @@
 # Dai Kyochuu Rettou
 
+![dai-kyochuu-rettou](https://cdn.myanimelist.net/images/manga/3/225872.jpg)
+
 -   **type**: manga
 -   **original-name**: 大巨蟲列島
 -   **start-date**: 2019-04-25

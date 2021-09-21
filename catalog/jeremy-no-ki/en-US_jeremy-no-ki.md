@@ -1,5 +1,7 @@
 # Jeremy no Ki
 
+![jeremy-no-ki](https://cdn.myanimelist.net/images/anime/12/70277.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジェレミーの木

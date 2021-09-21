@@ -1,5 +1,7 @@
 # Myuu no Densetsu
 
+![myuu-no-densetsu](https://cdn.myanimelist.net/images/manga/1/66689.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

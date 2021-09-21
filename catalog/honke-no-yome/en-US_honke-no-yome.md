@@ -1,5 +1,7 @@
 # Honke no Yome
 
+![honke-no-yome](https://cdn.myanimelist.net/images/manga/2/229442.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 82

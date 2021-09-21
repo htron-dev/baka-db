@@ -1,5 +1,7 @@
 # Venezia no Yoru ni Moete
 
+![venezia-no-yoru-ni-moete](https://cdn.myanimelist.net/images/manga/3/229993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベネチアの夜に燃えて

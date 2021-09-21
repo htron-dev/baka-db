@@ -1,5 +1,7 @@
 # Kamen no Maid Guy
 
+![kamen-no-maid-guy](https://cdn.myanimelist.net/images/manga/5/155508.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 79

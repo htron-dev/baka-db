@@ -1,5 +1,7 @@
 # Hanoka
 
+![hanoka](https://cdn.myanimelist.net/images/anime/1710/101586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: HANOKA ～葉ノ香～

@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Inraku ni Torawareta Grimm Douwa
 
+![manga-grimm-douwa-inraku-ni-torawareta-grimm-douwa](https://cdn.myanimelist.net/images/manga/3/44251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

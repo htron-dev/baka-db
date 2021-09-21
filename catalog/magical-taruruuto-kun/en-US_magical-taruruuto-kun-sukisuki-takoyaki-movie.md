@@ -1,5 +1,7 @@
 # Magical★Taruruuto-kun: Sukisuki Takoyaki!
 
+![magical★-taruruuto-kun-sukisuki-takoyaki](https://cdn.myanimelist.net/images/anime/4/59657.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まじかる ★ タルるートくん すきすき ♡ タコ焼きっ!

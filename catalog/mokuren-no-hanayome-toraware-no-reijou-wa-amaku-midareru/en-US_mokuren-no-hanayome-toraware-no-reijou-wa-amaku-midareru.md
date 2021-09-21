@@ -1,5 +1,7 @@
 # Mokuren no Hanayome: Toraware no Reijou wa Amaku Midareru
 
+![mokuren-no-hanayome-toraware-no-reijou-wa-amaku-midareru](https://cdn.myanimelist.net/images/manga/1/187181.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

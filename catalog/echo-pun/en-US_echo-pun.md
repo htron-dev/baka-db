@@ -1,5 +1,7 @@
 # Echo-Pun
 
+![echo-pun](https://cdn.myanimelist.net/images/manga/2/64241.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

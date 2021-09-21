@@ -1,5 +1,7 @@
 # Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou
 
+![inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou](https://cdn.myanimelist.net/images/anime/1016/115623.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 犬神さんと猫山さん 猫山さんと温泉旅行

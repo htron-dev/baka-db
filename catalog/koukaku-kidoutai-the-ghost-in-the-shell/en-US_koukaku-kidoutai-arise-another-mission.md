@@ -1,8 +1,10 @@
 # Koukaku Kidoutai Arise: Another Mission
 
+![koukaku-kidoutai-arise-another-mission](https://cdn.myanimelist.net/images/anime/6/51733.jpg)
+
 -   **type**: special
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊ＡＲＩＳＥ　ANOTHER MISSION
+-   **original-name**: 攻殻機動隊ＡＲＩＳＥ　 ANOTHER MISSION
 -   **start-date**: 2013-06-04
 -   **rating**: PG-13 - Teens 13 or older
 

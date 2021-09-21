@@ -1,5 +1,7 @@
 # Gakuto no Vector
 
+![gakuto-no-vector](https://cdn.myanimelist.net/images/manga/3/46487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

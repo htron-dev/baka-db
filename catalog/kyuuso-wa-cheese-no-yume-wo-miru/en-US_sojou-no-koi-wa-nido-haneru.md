@@ -1,5 +1,7 @@
 # Sojou no Koi wa Nido Haneru
 
+![sojou-no-koi-wa-nido-haneru](https://cdn.myanimelist.net/images/manga/3/20136.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

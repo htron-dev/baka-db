@@ -1,5 +1,7 @@
 # Miko wa Hatsukoi ni Madou: Ou ni Sasageru Yoru no Mitsugi
 
+![miko-wa-hatsukoi-ni-madou-ou-ni-sasageru-yoru-no-mitsugi](https://cdn.myanimelist.net/images/manga/3/183939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # King Sweets
 
+![king-sweets](https://cdn.myanimelist.net/images/manga/2/159825.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: キングスウヰーツ

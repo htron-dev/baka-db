@@ -1,5 +1,7 @@
 # Haru Koi
 
+![haru-koi](https://cdn.myanimelist.net/images/manga/2/32829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Kurokami no Medusa
 
+![kurokami-no-medusa](https://cdn.myanimelist.net/images/manga/4/91649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒髪のメデューサ

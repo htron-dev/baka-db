@@ -1,5 +1,7 @@
 # Huo Xing Wa: Dazhan Ha Lou Guai
 
+![huo-xing-wa-dazhan-ha-lou-guai](https://cdn.myanimelist.net/images/anime/1907/115384.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃大战哈喽怪

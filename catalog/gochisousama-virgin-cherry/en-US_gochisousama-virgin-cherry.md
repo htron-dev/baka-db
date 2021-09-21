@@ -1,5 +1,7 @@
 # Gochisousama, Virgin Cherry
 
+![gochisousama-virgin-cherry](https://cdn.myanimelist.net/images/manga/2/235277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

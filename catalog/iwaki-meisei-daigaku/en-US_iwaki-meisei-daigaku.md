@@ -1,5 +1,7 @@
 # Iwaki Meisei Daigaku
 
+![iwaki-meisei-daigaku](https://cdn.myanimelist.net/images/anime/8/82650.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: いわき明星大学

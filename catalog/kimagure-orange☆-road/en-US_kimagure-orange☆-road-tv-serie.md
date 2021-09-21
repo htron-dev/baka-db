@@ -1,5 +1,7 @@
 # Kimagure Orange☆Road
 
+![kimagure-orange☆-road](https://cdn.myanimelist.net/images/anime/12/41339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: きまぐれオレンジ ☆ ロード

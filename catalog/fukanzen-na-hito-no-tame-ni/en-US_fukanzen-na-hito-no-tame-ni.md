@@ -1,5 +1,7 @@
 # Fukanzen na Hito no Tame ni
 
+![fukanzen-na-hito-no-tame-ni](https://cdn.myanimelist.net/images/manga/2/198480.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

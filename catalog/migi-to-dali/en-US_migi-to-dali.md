@@ -1,5 +1,7 @@
 # Migi to Dali
 
+![migi-to-dali](https://cdn.myanimelist.net/images/manga/1/210003.jpg)
+
 -   **type**: manga
 -   **original-name**: ミギとダリ
 -   **start-date**: 2017-07-15

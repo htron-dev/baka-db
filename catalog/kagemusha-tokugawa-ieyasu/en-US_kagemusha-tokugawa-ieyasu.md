@@ -1,5 +1,7 @@
 # Kagemusha Tokugawa Ieyasu
 
+![kagemusha-tokugawa-ieyasu](https://cdn.myanimelist.net/images/manga/3/134399.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

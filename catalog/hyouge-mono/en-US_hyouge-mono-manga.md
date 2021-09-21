@@ -1,5 +1,7 @@
 # Hyouge Mono
 
+![hyouge-mono](https://cdn.myanimelist.net/images/manga/1/199292.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 273

@@ -1,5 +1,7 @@
 # Lan Mo de Hua
 
+![lan-mo-de-hua](https://cdn.myanimelist.net/images/anime/3/87403.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: 蓝漠的花

@@ -1,5 +1,7 @@
 # Love♡Lucky!
 
+![love♡-lucky](https://cdn.myanimelist.net/images/manga/3/125161.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

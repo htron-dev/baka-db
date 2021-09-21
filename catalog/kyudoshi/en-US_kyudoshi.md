@@ -1,5 +1,7 @@
 # Kyudoshi
 
+![kyudoshi](https://cdn.myanimelist.net/images/manga/2/113529.jpg)
+
 -   **type**: manga
 -   **original-name**: 弓導士
 -   **start-date**: 2011-02-25

@@ -1,5 +1,7 @@
 # High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video
 
+![high-school-dx-d-bor-n-ishibumi-ichiei-kanzen-kanshuu-mousou-bakuyou-kaijo-original-video](https://cdn.myanimelist.net/images/anime/5/75329.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ハイスクール D×D BorN 石踏一榮完全監修！妄想爆揺解除オリジナルビデオ

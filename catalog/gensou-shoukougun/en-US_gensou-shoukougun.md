@@ -1,5 +1,7 @@
 # Gensou Shoukougun
 
+![gensou-shoukougun](https://cdn.myanimelist.net/images/manga/1/145493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

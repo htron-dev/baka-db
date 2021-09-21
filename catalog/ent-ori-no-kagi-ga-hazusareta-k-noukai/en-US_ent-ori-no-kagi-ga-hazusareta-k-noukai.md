@@ -1,5 +1,7 @@
 # ENT.: Ori no Kagi ga Hazusareta K Noukai
 
+![ent-ori-no-kagi-ga-hazusareta-k-noukai](https://cdn.myanimelist.net/images/manga/3/172832.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

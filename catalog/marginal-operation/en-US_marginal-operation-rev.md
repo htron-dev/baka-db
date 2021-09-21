@@ -1,5 +1,7 @@
 # Marginal Operation Rev.
 
+![marginal-operation-rev](https://cdn.myanimelist.net/images/manga/3/185830.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マージナル・オペレーション改
 -   **start-date**: 2016-11-16

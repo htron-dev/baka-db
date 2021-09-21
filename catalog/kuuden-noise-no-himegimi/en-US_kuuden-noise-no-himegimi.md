@@ -1,5 +1,7 @@
 # Kuuden Noise no Himegimi
 
+![kuuden-noise-no-himegimi](https://cdn.myanimelist.net/images/manga/2/195144.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

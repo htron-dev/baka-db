@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Saishuushou Part 1
 
+![girls-amp-panzer-saishuushou-part-1](https://cdn.myanimelist.net/images/anime/1859/91463.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 『ガールズ＆パンツァー 最終章』第 1 話

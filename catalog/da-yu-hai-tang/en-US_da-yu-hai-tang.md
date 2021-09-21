@@ -1,5 +1,7 @@
 # Da Yu Hai Tang
 
+![da-yu-hai-tang](https://cdn.myanimelist.net/images/anime/1404/99059.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 大鱼海棠

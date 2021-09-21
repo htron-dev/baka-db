@@ -1,5 +1,7 @@
 # Dog Days
 
+![dog-days](https://cdn.myanimelist.net/images/manga/3/145039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

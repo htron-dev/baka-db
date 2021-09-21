@@ -1,5 +1,7 @@
 # Elf to Shuryoushi no Item Koubou
 
+![elf-to-shuryoushi-no-item-koubou](https://cdn.myanimelist.net/images/manga/1/217060.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Kill♥Ani
 
+![kill♥-ani](https://cdn.myanimelist.net/images/manga/1/44047.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: キル ♥ アニ

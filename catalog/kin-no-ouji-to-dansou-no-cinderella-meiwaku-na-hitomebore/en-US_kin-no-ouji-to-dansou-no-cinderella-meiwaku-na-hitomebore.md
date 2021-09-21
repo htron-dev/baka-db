@@ -1,5 +1,7 @@
 # Kin no Ouji to Dansou no Cinderella: Meiwaku na Hitomebore
 
+![kin-no-ouji-to-dansou-no-cinderella-meiwaku-na-hitomebore](https://cdn.myanimelist.net/images/manga/2/186611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

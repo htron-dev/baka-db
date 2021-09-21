@@ -1,5 +1,7 @@
 # Kappa no Ude
 
+![kappa-no-ude](https://cdn.myanimelist.net/images/anime/2/76321.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 河童の腕

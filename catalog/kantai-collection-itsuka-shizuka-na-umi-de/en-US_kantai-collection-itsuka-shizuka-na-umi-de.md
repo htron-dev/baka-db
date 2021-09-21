@@ -1,5 +1,7 @@
 # Kantai Collection: Itsuka Shizuka na Umi de
 
+![kantai-collection-itsuka-shizuka-na-umi-de](https://cdn.myanimelist.net/images/manga/1/146697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

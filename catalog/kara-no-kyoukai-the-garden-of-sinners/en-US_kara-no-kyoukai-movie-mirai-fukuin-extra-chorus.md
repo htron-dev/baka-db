@@ -1,5 +1,7 @@
 # Kara no Kyoukai Movie: Mirai Fukuin - Extra Chorus
 
+![kara-no-kyoukai-movie-mirai-fukuin-extra-chorus](https://cdn.myanimelist.net/images/anime/3/73930.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 未来福音 extra chorus

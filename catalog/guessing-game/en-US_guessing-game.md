@@ -1,5 +1,7 @@
 # Guessing Game
 
+![guessing-game](https://cdn.myanimelist.net/images/manga/4/90761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゲッシング・ゲーム

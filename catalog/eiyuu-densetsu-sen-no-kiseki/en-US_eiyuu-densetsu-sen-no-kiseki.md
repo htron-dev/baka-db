@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Sen no Kiseki
 
+![eiyuu-densetsu-sen-no-kiseki](https://cdn.myanimelist.net/images/manga/3/170645.jpg)
+
 -   **type**: manga
 -   **original-name**: 英雄伝説 閃の軌跡
 -   **start-date**: 2014-09-30

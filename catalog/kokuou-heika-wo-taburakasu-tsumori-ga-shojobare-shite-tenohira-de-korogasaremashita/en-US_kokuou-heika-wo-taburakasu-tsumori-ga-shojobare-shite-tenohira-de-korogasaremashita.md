@@ -1,5 +1,7 @@
 # Kokuou Heika wo Taburakasu Tsumori ga Shojobare shite Tenohira de Korogasaremashita.
 
+![kokuou-heika-wo-taburakasu-tsumori-ga-shojobare-shite-tenohira-de-korogasaremashita](https://cdn.myanimelist.net/images/manga/3/174073.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

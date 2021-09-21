@@ -1,5 +1,7 @@
 # Himitsu no Ibitsu
 
+![himitsu-no-ibitsu](https://cdn.myanimelist.net/images/manga/1/178043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

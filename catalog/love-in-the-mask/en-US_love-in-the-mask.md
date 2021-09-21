@@ -1,5 +1,7 @@
 # Love in the Mask
 
+![love-in-the-mask](https://cdn.myanimelist.net/images/manga/1/32538.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 32
 -   **chapters**: 134

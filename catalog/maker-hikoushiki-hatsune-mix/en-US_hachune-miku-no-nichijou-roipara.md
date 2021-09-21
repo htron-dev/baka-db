@@ -1,5 +1,7 @@
 # Hachune Miku no Nichijou: Roipara!
 
+![hachune-miku-no-nichijou-roipara](https://cdn.myanimelist.net/images/manga/1/189748.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: はちゅねミクの日常 ろいぱら！

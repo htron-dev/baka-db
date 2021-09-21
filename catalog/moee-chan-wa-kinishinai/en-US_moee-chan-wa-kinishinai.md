@@ -1,5 +1,7 @@
 # Moee-chan wa Kinishinai
 
+![moee-chan-wa-kinishinai](https://cdn.myanimelist.net/images/manga/3/200925.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

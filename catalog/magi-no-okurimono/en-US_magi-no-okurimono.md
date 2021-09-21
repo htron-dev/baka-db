@@ -1,5 +1,7 @@
 # Magi no Okurimono
 
+![magi-no-okurimono](https://cdn.myanimelist.net/images/manga/2/163666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

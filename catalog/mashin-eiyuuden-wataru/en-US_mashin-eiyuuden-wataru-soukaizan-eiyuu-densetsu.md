@@ -1,5 +1,7 @@
 # Mashin Eiyuuden Wataru: Soukaizan Eiyuu Densetsu
 
+![mashin-eiyuuden-wataru-soukaizan-eiyuu-densetsu](https://cdn.myanimelist.net/images/anime/9/44718.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔神英雄伝ワタル 創界山英雄伝説

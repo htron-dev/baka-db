@@ -1,5 +1,7 @@
 # Ikemen Kanojo
 
+![ikemen-kanojo](https://cdn.myanimelist.net/images/manga/3/121165.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: いけめん彼女

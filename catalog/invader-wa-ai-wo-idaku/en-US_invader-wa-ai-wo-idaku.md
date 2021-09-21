@@ -1,5 +1,7 @@
 # Invader wa Ai wo Idaku
 
+![invader-wa-ai-wo-idaku](https://cdn.myanimelist.net/images/manga/3/19941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

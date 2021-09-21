@@ -1,5 +1,7 @@
 # Kimi to Boku no Uta World's End
 
+![kimi-to-boku-no-uta-worlds-end](https://cdn.myanimelist.net/images/manga/3/101395.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

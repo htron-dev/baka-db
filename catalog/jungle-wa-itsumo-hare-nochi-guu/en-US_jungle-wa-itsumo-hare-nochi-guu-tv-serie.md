@@ -1,5 +1,7 @@
 # Jungle wa Itsumo Hare nochi Guu
 
+![jungle-wa-itsumo-hare-nochi-guu](https://cdn.myanimelist.net/images/anime/10/24555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジャングルはいつもハレのちグゥ

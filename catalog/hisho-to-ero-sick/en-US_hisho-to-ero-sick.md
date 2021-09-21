@@ -1,5 +1,7 @@
 # Hisho to Ero Sick
 
+![hisho-to-ero-sick](https://cdn.myanimelist.net/images/manga/2/118453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

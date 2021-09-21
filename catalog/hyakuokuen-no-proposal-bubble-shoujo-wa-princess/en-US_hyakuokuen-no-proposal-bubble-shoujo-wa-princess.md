@@ -1,5 +1,7 @@
 # Hyakuokuen no Proposal: Bubble Shoujo wa Princess?
 
+![hyakuokuen-no-proposal-bubble-shoujo-wa-princess](https://cdn.myanimelist.net/images/manga/1/192496.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

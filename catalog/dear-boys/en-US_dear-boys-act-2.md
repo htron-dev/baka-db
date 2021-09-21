@@ -1,5 +1,7 @@
 # Dear Boys Act 2
 
+![dear-boys-act-2](https://cdn.myanimelist.net/images/manga/1/165395.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 136

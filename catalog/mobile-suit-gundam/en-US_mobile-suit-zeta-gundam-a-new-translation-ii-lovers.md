@@ -1,5 +1,7 @@
 # Mobile Suit Zeta Gundam: A New Translation II - Lovers
 
+![mobile-suit-zeta-gundam-a-new-translation-ii-lovers](https://cdn.myanimelist.net/images/anime/1183/94730.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士Ｚガンダム Ⅱ‐恋人たち‐

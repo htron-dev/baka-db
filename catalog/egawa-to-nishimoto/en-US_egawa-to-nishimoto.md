@@ -1,5 +1,7 @@
 # Egawa to Nishimoto
 
+![egawa-to-nishimoto](https://cdn.myanimelist.net/images/manga/1/168698.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 93

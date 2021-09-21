@@ -1,5 +1,7 @@
 # Da Wang Rao Ming
 
+![da-wang-rao-ming](https://cdn.myanimelist.net/images/anime/1995/110602.jpg)
+
 -   **type**: ona
 -   **original-name**: 大王饶命
 -   **rating**: None

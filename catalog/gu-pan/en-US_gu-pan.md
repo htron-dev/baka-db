@@ -1,5 +1,7 @@
 # Gu-pan!
 
+![gu-pan](https://cdn.myanimelist.net/images/manga/2/57485.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

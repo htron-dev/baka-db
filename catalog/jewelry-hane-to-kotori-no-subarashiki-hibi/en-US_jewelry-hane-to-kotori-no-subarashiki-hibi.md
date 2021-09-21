@@ -1,5 +1,7 @@
 # Jewelry: Hane to Kotori no Subarashiki Hibi
 
+![jewelry-hane-to-kotori-no-subarashiki-hibi](https://cdn.myanimelist.net/images/manga/2/203744.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

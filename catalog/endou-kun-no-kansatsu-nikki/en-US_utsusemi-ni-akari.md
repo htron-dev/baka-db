@@ -1,5 +1,7 @@
 # Utsusemi ni Akari
 
+![utsusemi-ni-akari](https://cdn.myanimelist.net/images/manga/2/168474.jpg)
+
 -   **type**: manga
 -   **original-name**: 空せ視に灯
 -   **start-date**: 2014-12-26

@@ -1,5 +1,7 @@
 # Kore ga Watashi no Goshujinsama
 
+![kore-ga-watashi-no-goshujinsama](https://cdn.myanimelist.net/images/anime/11/80500.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: これが私の御主人様

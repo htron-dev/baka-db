@@ -1,5 +1,7 @@
 # Hello Harinezumi: Satsui no Ryoubun
 
+![hello-harinezumi-satsui-no-ryoubun](https://cdn.myanimelist.net/images/anime/6/43659.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハロー張りネズミ 殺意の領分

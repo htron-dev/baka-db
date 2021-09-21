@@ -1,5 +1,7 @@
 # Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima
 
+![dr-slump-movie-01-arale-chan-hello-fushigi-shima](https://cdn.myanimelist.net/images/anime/4/23167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dr.スランプ アラレちゃん ハロー！不思議島

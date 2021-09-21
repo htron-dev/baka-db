@@ -1,5 +1,7 @@
 # Lamento - Beyond the Void -
 
+![lamento-beyond-the-void](https://cdn.myanimelist.net/images/manga/1/21441.jpg)
+
 -   **type**: manga
 -   **original-name**: ラメント
 -   **start-date**: 2007-04-20

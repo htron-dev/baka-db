@@ -1,5 +1,7 @@
 # Mamahaha no Tsurego ga Motokano datta
 
+![mamahaha-no-tsurego-ga-motokano-datta](https://cdn.myanimelist.net/images/manga/1/228509.jpg)
+
 -   **type**: manga
 -   **original-name**: 継母の連れ子が元カノだった
 -   **start-date**: 2019-05-03

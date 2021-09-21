@@ -1,5 +1,7 @@
 # Dennou Sentai Voogie's★Angel: Forever and Ever
 
+![dennou-sentai-voogies★-angel-forever-and-ever](https://cdn.myanimelist.net/images/anime/1036/96489.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 電脳戦隊ヴギィ'ズ ★ エンジェル FOREVER AND EVER

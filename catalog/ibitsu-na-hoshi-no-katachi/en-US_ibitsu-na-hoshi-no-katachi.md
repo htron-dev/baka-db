@@ -1,5 +1,7 @@
 # Ibitsu na Hoshi no Katachi
 
+![ibitsu-na-hoshi-no-katachi](https://cdn.myanimelist.net/images/manga/3/29030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Kara no Kyoukai Movie: Mirai Fukuin
 
+![kara-no-kyoukai-movie-mirai-fukuin](https://cdn.myanimelist.net/images/anime/6/56621.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 未来福音

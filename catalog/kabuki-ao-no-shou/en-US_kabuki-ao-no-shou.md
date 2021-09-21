@@ -1,5 +1,7 @@
 # Kabuki - Ao no Shou
 
+![kabuki-ao-no-shou](https://cdn.myanimelist.net/images/manga/1/14609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カブキ 蒼の章

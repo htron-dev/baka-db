@@ -1,5 +1,7 @@
 # Eishashitsu no Wakaba-san
 
+![eishashitsu-no-wakaba-san](https://cdn.myanimelist.net/images/manga/1/245522.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

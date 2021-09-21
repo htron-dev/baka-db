@@ -1,5 +1,7 @@
 # Ikebukuro-hatsu, Zensekai-yuki!
 
+![ikebukuro-hatsu-zensekai-yuki](https://cdn.myanimelist.net/images/manga/3/188900.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

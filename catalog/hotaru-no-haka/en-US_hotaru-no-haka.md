@@ -1,5 +1,7 @@
 # Hotaru no Haka
 
+![hotaru-no-haka](https://cdn.myanimelist.net/images/anime/7/75808.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火垂るの墓

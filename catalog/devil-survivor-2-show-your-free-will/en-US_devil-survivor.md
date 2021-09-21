@@ -1,5 +1,7 @@
 # Devil Survivor
 
+![devil-survivor](https://cdn.myanimelist.net/images/manga/3/172106.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

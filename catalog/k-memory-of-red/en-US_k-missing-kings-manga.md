@@ -1,5 +1,7 @@
 # K: Missing Kings
 
+![k-missing-kings](https://cdn.myanimelist.net/images/manga/2/165916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

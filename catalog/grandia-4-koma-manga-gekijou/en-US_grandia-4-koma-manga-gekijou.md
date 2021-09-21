@@ -1,5 +1,7 @@
 # Grandia: 4-Koma Manga Gekijou
 
+![grandia-4-koma-manga-gekijou](https://cdn.myanimelist.net/images/manga/3/94375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

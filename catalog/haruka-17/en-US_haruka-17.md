@@ -1,5 +1,7 @@
 # Haruka 17
 
+![haruka-17](https://cdn.myanimelist.net/images/manga/2/219782.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 188

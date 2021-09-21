@@ -1,5 +1,7 @@
 # Ibara no Sokubaku
 
+![ibara-no-sokubaku](https://cdn.myanimelist.net/images/manga/1/186017.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Fastening Days 3
 
+![fastening-days-3](https://cdn.myanimelist.net/images/anime/1942/113825.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: FASTENING DAYS 3

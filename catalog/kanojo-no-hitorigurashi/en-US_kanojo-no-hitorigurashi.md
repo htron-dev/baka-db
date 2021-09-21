@@ -1,5 +1,7 @@
 # Kanojo no Hitorigurashi
 
+![kanojo-no-hitorigurashi](https://cdn.myanimelist.net/images/manga/1/195796.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

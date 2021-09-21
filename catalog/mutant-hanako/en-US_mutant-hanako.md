@@ -1,5 +1,7 @@
 # Mutant Hanako
 
+![mutant-hanako](https://cdn.myanimelist.net/images/manga/3/33118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ミュータント花子

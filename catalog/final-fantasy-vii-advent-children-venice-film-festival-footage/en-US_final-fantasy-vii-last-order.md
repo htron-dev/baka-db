@@ -1,5 +1,7 @@
 # Final Fantasy VII: Last Order
 
+![final-fantasy-vii-last-order](https://cdn.myanimelist.net/images/anime/7/80623.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラストオーダー -ファイナルファンタジー VII-

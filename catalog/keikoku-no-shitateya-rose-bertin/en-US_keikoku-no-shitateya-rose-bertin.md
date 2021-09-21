@@ -1,5 +1,7 @@
 # Keikoku no Shitateya Rose Bertin
 
+![keikoku-no-shitateya-rose-bertin](https://cdn.myanimelist.net/images/manga/1/241614.jpg)
+
 -   **type**: manga
 -   **original-name**: 傾国の仕立て屋 ローズ・ベルタン
 -   **start-date**: 2018-12-21

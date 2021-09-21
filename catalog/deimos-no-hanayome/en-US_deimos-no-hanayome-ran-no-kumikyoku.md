@@ -1,5 +1,7 @@
 # Deimos no Hanayome: Ran no Kumikyoku
 
+![deimos-no-hanayome-ran-no-kumikyoku](https://cdn.myanimelist.net/images/anime/9/35349.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 悪魔の花嫁 蘭の組曲

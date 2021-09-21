@@ -1,5 +1,7 @@
 # Kokoro no Subete wo
 
+![kokoro-no-subete-wo](https://cdn.myanimelist.net/images/manga/2/68319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 心のすべてを

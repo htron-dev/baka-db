@@ -1,5 +1,7 @@
 # Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 
+![danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation](https://cdn.myanimelist.net/images/anime/4/51463.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION

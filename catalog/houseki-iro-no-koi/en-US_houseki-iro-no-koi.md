@@ -1,5 +1,7 @@
 # Houseki-iro no Koi
 
+![houseki-iro-no-koi](https://cdn.myanimelist.net/images/manga/1/149744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Mononote: Edo Shinobi Kagyou
 
+![mononote-edo-shinobi-kagyou](https://cdn.myanimelist.net/images/manga/2/190553.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

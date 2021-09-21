@@ -1,5 +1,7 @@
 # Engawa Gohan
 
+![engawa-gohan](https://cdn.myanimelist.net/images/manga/3/36042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 縁側ごはん

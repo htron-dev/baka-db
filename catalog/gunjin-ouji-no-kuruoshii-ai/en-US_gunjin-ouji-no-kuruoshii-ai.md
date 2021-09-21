@@ -1,5 +1,7 @@
 # Gunjin Ouji no Kuruoshii Ai
 
+![gunjin-ouji-no-kuruoshii-ai](https://cdn.myanimelist.net/images/manga/3/183191.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Tropical-Rouge! Precure Movie: Yuki no Princess to Kiseki no Yubiwa!
 
+![tropical-rouge-precure-movie-yuki-no-princess-to-kiseki-no-yubiwa](https://cdn.myanimelist.net/images/anime/1775/116575.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 トロピカル〜ジュ!プリキュア 雪のプリンセスと奇跡の指輪!

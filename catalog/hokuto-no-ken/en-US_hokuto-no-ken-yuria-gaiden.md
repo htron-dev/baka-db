@@ -1,5 +1,7 @@
 # Hokuto no Ken - Yuria Gaiden
 
+![hokuto-no-ken-yuria-gaiden](https://cdn.myanimelist.net/images/manga/3/57689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

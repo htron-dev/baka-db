@@ -1,5 +1,7 @@
 # Juusenki L-Gaim II: Farewell My Lovely + Pentagona Dolls
 
+![juusenki-l-gaim-ii-farewell-my-lovely-pentagona-dolls](https://cdn.myanimelist.net/images/anime/1119/94289.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 重戦機エルガイム II フェアウェル マイ ラブリー+ペンタゴナ ドールズ

@@ -1,5 +1,7 @@
 # The iDOLM@STER: Shiny Colors
 
+![the-i-dolm-ster-shiny-colors](https://cdn.myanimelist.net/images/manga/1/235231.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドルマスター シャイニーカラーズ
 -   **start-date**: 2019-07-23

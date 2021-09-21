@@ -1,5 +1,7 @@
 # Kaze Densetsu: Bukkomi no Taku Gaiden - Early Day's
 
+![kaze-densetsu-bukkomi-no-taku-gaiden-early-days](https://cdn.myanimelist.net/images/manga/2/227198.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

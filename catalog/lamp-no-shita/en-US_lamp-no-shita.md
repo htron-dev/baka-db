@@ -1,5 +1,7 @@
 # Lamp no Shita
 
+![lamp-no-shita](https://cdn.myanimelist.net/images/manga/2/174106.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

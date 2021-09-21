@@ -1,5 +1,7 @@
 # Inu to Neko.
 
+![inu-to-neko](https://cdn.myanimelist.net/images/manga/1/198400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

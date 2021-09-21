@@ -1,5 +1,7 @@
 # D4 Princess
 
+![d-4-princess](https://cdn.myanimelist.net/images/anime/6/36383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: D4 プリンセス

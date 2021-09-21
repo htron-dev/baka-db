@@ -1,5 +1,7 @@
 # Genshiken
 
+![genshiken](https://cdn.myanimelist.net/images/manga/3/161681.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 127

@@ -1,5 +1,7 @@
 # Magic Knight Rayearth Pilot
 
+![magic-knight-rayearth-pilot](https://cdn.myanimelist.net/images/anime/1893/99185.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔法騎士（マジックナイト）レイアース パイロットフィルム

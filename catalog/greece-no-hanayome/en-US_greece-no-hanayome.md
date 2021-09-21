@@ -1,5 +1,7 @@
 # Greece no Hanayome
 
+![greece-no-hanayome](https://cdn.myanimelist.net/images/manga/1/227559.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ギリシアの花嫁

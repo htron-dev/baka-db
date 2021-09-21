@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume The Movie II: Watashi wo Aishita Kuro Oolong-Cha
 
+![himitsukessha-taka-no-tsume-the-movie-ii-watashi-wo-aishita-kuro-oolong-cha](https://cdn.myanimelist.net/images/anime/8/22015.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 THE MOVIE II 　私を愛した黒烏龍茶

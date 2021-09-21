@@ -1,5 +1,7 @@
 # Me wo Samase Toragorou
 
+![me-wo-samase-toragorou](https://cdn.myanimelist.net/images/anime/3/32675.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 目をさませトラゴロウ

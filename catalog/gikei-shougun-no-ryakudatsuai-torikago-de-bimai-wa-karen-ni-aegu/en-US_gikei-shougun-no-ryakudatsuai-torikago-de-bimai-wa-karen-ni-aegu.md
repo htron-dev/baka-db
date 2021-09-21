@@ -1,5 +1,7 @@
 # Gikei Shougun no Ryakudatsuai: Torikago de Bimai wa Karen ni Aegu
 
+![gikei-shougun-no-ryakudatsuai-torikago-de-bimai-wa-karen-ni-aegu](https://cdn.myanimelist.net/images/manga/2/183380.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

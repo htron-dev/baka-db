@@ -1,5 +1,7 @@
 # Juusha no Heki
 
+![juusha-no-heki](https://cdn.myanimelist.net/images/manga/1/222196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

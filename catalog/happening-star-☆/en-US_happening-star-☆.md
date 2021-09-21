@@ -1,5 +1,7 @@
 # Happening Star ☆
 
+![happening-star-☆](https://cdn.myanimelist.net/images/anime/13/35451.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Happening Star ☆ (ハプニングスター ☆)

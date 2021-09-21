@@ -1,5 +1,7 @@
 # Happy Mari-Chan
 
+![happy-mari-chan](https://cdn.myanimelist.net/images/manga/2/39824.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ハッピーまりちゃん

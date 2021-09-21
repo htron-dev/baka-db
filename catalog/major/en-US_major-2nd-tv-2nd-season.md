@@ -1,5 +1,7 @@
 # Major 2nd (TV) 2nd Season
 
+![major-2nd-tv-2nd-season](https://cdn.myanimelist.net/images/anime/1025/105319.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: メジャーセカンド

@@ -1,5 +1,7 @@
 # Folses Koukoku Senki
 
+![folses-koukoku-senki](https://cdn.myanimelist.net/images/manga/1/176424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

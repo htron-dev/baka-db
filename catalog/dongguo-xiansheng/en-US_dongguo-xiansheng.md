@@ -1,5 +1,7 @@
 # Dongguo Xiansheng
 
+![dongguo-xiansheng](https://cdn.myanimelist.net/images/anime/1839/113996.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東郭先生 (1955)

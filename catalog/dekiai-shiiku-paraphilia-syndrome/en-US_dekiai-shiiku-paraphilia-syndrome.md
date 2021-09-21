@@ -1,5 +1,7 @@
 # Dekiai Shiiku - Paraphilia Syndrome
 
+![dekiai-shiiku-paraphilia-syndrome](https://cdn.myanimelist.net/images/manga/1/36797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

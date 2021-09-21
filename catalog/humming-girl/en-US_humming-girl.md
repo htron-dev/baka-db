@@ -1,5 +1,7 @@
 # Humming Girl
 
+![humming-girl](https://cdn.myanimelist.net/images/manga/2/152293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Ichiban Ushiro no Daimaou
 
+![ichiban-ushiro-no-daimaou](https://cdn.myanimelist.net/images/manga/2/82284.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 77

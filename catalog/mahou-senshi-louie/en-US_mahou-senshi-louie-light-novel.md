@@ -1,5 +1,7 @@
 # Mahou Senshi Louie
 
+![mahou-senshi-louie](https://cdn.myanimelist.net/images/manga/2/122859.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 魔法戦士リウイ

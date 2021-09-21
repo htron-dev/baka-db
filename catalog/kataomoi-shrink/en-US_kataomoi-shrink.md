@@ -1,5 +1,7 @@
 # Kataomoi Shrink
 
+![kataomoi-shrink](https://cdn.myanimelist.net/images/manga/1/222070.jpg)
+
 -   **type**: manga
 -   **chapters**: 32
 -   **original-name**: 片想いシュリンク

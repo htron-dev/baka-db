@@ -1,5 +1,7 @@
 # High School DxD Hero
 
+![high-school-dx-d-hero](https://cdn.myanimelist.net/images/anime/1189/93528.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハイスクール DxD HERO

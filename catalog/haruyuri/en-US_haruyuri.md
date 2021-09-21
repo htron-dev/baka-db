@@ -1,5 +1,7 @@
 # Haruyuri
 
+![haruyuri](https://cdn.myanimelist.net/images/manga/3/188255.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

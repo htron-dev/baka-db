@@ -1,5 +1,7 @@
 # Maou-sama, Retry!
 
+![maou-sama-retry](https://cdn.myanimelist.net/images/anime/1754/113897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔王様、リトライ！

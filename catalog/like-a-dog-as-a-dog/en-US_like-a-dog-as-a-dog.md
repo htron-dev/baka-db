@@ -1,5 +1,7 @@
 # Like a Dog, as a Dog
 
+![like-a-dog-as-a-dog](https://cdn.myanimelist.net/images/manga/1/33419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

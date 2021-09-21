@@ -1,5 +1,7 @@
 # Kekkon no Merit
 
+![kekkon-no-merit](https://cdn.myanimelist.net/images/manga/1/227528.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 結婚のメリット

@@ -1,5 +1,7 @@
 # Fuuto Tantei
 
+![fuuto-tantei](https://cdn.myanimelist.net/images/anime/1252/117556.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 風都探偵
 -   **start-date**: 2022-07-20

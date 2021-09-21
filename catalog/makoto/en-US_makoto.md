@@ -1,5 +1,7 @@
 # Makoto
 
+![makoto](https://cdn.myanimelist.net/images/manga/2/158246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: MAKOTO

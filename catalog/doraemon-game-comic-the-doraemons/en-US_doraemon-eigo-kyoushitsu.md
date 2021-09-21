@@ -1,5 +1,7 @@
 # Doraemon Eigo Kyoushitsu
 
+![doraemon-eigo-kyoushitsu](https://cdn.myanimelist.net/images/anime/11/87657.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ドラえもん英語敎室

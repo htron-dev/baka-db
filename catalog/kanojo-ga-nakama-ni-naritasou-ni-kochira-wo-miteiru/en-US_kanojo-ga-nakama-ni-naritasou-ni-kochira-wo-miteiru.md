@@ -1,5 +1,7 @@
 # Kanojo ga Nakama ni Naritasou ni Kochira wo Miteiru
 
+![kanojo-ga-nakama-ni-naritasou-ni-kochira-wo-miteiru](https://cdn.myanimelist.net/images/manga/3/176753.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

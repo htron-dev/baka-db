@@ -1,5 +1,7 @@
 # fortissimo//Wiederbelebung der Seele
 
+![fortissimo-wiederbelebung-der-seele](https://cdn.myanimelist.net/images/manga/3/169812.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 3
 -   **original-name**: fortissimo//Wiederbelebung der Seele

@@ -1,5 +1,7 @@
 # Marietta-hime no Konrei: Dannasama, Sutekisugimasu!
 
+![marietta-hime-no-konrei-dannasama-sutekisugimasu](https://cdn.myanimelist.net/images/manga/1/210394.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: マリエッタ姫の婚礼～旦那様、素敵すぎます！～

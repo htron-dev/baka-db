@@ -1,5 +1,7 @@
 # Heisei Policemen!!
 
+![heisei-policemen](https://cdn.myanimelist.net/images/anime/1575/91828.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: へ～せいポリスメン!!

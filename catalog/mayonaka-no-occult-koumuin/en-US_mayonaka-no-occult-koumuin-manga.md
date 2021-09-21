@@ -1,5 +1,7 @@
 # Mayonaka no Occult Koumuin
 
+![mayonaka-no-occult-koumuin](https://cdn.myanimelist.net/images/manga/3/219186.jpg)
+
 -   **type**: manga
 -   **original-name**: 真夜中のオカルト公務員
 -   **start-date**: 2015-05-23

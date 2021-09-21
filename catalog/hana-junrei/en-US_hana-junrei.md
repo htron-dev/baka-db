@@ -1,5 +1,7 @@
 # Hana Junrei
 
+![hana-junrei](https://cdn.myanimelist.net/images/manga/3/38958.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 花巡礼

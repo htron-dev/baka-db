@@ -1,5 +1,7 @@
 # Koufuku-ya
 
+![koufuku-ya](https://cdn.myanimelist.net/images/manga/3/21184.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Katagiri-kun Chi ni Neko ga Iru
 
+![katagiri-kun-chi-ni-neko-ga-iru](https://cdn.myanimelist.net/images/manga/2/233459.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 127

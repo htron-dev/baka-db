@@ -1,5 +1,7 @@
 # Isekai de Saikyou Maou no Kodomotachi 10-nin no Mama ni Nacchaimashita.
 
+![isekai-de-saikyou-maou-no-kodomotachi-10-nin-no-mama-ni-nacchaimashita](https://cdn.myanimelist.net/images/manga/3/224749.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界で最強魔王の子供達 10 人のママになっちゃいました。
 -   **start-date**: 2019-04-26

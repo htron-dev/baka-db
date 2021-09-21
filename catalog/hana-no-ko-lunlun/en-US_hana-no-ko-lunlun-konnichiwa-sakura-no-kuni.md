@@ -1,5 +1,7 @@
 # Hana no Ko Lunlun: Konnichiwa Sakura no Kuni
 
+![hana-no-ko-lunlun-konnichiwa-sakura-no-kuni](https://cdn.myanimelist.net/images/anime/3/61333.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花の子ルンルン こんにちわ桜の国

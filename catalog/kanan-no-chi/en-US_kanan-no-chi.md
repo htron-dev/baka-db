@@ -1,5 +1,7 @@
 # Kanan no Chi
 
+![kanan-no-chi](https://cdn.myanimelist.net/images/manga/3/133295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 果南の地

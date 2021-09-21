@@ -1,5 +1,7 @@
 # Futari
 
+![futari](https://cdn.myanimelist.net/images/manga/2/123869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

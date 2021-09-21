@@ -1,5 +1,7 @@
 # Gansaku Kaitou Griffith Hakushaku
 
+![gansaku-kaitou-griffith-hakushaku](https://cdn.myanimelist.net/images/manga/3/67569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 贋作怪盗グリフィス伯爵

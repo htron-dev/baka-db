@@ -1,5 +1,7 @@
 # Kiruto S
 
+![kiruto-s](https://cdn.myanimelist.net/images/manga/3/164800.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

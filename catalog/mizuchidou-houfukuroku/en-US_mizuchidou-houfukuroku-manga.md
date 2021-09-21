@@ -1,5 +1,7 @@
 # Mizuchidou Houfukuroku
 
+![mizuchidou-houfukuroku](https://cdn.myanimelist.net/images/manga/2/206751.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 87

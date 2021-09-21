@@ -1,5 +1,7 @@
 # Kaidanbayashi
 
+![kaidanbayashi](https://cdn.myanimelist.net/images/manga/1/236840.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 怪談囃子

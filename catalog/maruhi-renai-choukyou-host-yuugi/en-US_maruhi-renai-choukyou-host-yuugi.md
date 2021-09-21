@@ -1,5 +1,7 @@
 # Maruhi Ren'ai Choukyou - Host Yuugi
 
+![maruhi-renai-choukyou-host-yuugi](https://cdn.myanimelist.net/images/manga/2/10683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

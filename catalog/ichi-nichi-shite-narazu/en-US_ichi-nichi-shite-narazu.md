@@ -1,5 +1,7 @@
 # Ichi Nichi Shite Narazu
 
+![ichi-nichi-shite-narazu](https://cdn.myanimelist.net/images/anime/1592/112485.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一日にして成らず

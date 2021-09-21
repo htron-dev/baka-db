@@ -1,5 +1,7 @@
 # Moushuu Cameraman no Chijoku Gravure: Koibito no Mae de, Muriyari Torarete, Okasarete
 
+![moushuu-cameraman-no-chijoku-gravure-koibito-no-mae-de-muriyari-torarete-okasarete](https://cdn.myanimelist.net/images/manga/3/193785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

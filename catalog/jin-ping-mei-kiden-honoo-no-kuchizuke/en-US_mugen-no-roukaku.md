@@ -1,5 +1,7 @@
 # Mugen no Roukaku
 
+![mugen-no-roukaku](https://cdn.myanimelist.net/images/manga/3/565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

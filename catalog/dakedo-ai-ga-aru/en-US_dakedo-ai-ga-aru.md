@@ -1,5 +1,7 @@
 # Dakedo Ai ga Aru
 
+![dakedo-ai-ga-aru](https://cdn.myanimelist.net/images/manga/2/33263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: だけど愛がある

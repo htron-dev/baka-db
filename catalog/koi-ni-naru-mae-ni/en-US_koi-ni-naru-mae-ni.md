@@ -1,5 +1,7 @@
 # Koi ni Naru Mae ni
 
+![koi-ni-naru-mae-ni](https://cdn.myanimelist.net/images/manga/1/238271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

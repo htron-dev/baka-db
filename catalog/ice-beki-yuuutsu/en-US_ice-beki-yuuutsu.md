@@ -1,5 +1,7 @@
 # Ice-beki Yuuutsu
 
+![ice-beki-yuuutsu](https://cdn.myanimelist.net/images/manga/3/191238.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

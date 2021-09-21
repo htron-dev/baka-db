@@ -1,5 +1,7 @@
 # Le Chevalier d'Eon
 
+![le-chevalier-d-eon](https://cdn.myanimelist.net/images/manga/1/38523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

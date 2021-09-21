@@ -1,5 +1,7 @@
 # Gofun de Koi ni Ochite
 
+![gofun-de-koi-ni-ochite](https://cdn.myanimelist.net/images/manga/1/63255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Konchuu Monogatari Minashigo Hutch (1989)
 
+![konchuu-monogatari-minashigo-hutch-1989](https://cdn.myanimelist.net/images/anime/6/20350.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 55
 -   **original-name**: 昆虫物語みなしごハッチ

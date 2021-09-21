@@ -1,5 +1,7 @@
 # Kaminari Boy Pikkari★bee
 
+![kaminari-boy-pikkari★bee](https://cdn.myanimelist.net/images/anime/2/53343.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: かみなり坊やピッカリ ★ ビー

@@ -1,5 +1,7 @@
 # Reizouko no Tsukenosuke!
 
+![reizouko-no-tsukenosuke](https://cdn.myanimelist.net/images/anime/1884/95217.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: れいぞうこのつけのすけ！
 -   **start-date**: 2018-10-01

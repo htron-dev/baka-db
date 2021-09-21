@@ -1,5 +1,7 @@
 # Hidamari no Ki
 
+![hidamari-no-ki](https://cdn.myanimelist.net/images/anime/1344/110484.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 陽だまりの樹

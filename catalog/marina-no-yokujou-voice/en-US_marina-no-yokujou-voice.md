@@ -1,5 +1,7 @@
 # Marina no Yokujou Voice
 
+![marina-no-yokujou-voice](https://cdn.myanimelist.net/images/manga/2/197468.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: マリナの欲情ボイス

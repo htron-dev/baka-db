@@ -1,5 +1,7 @@
 # Morimite
 
+![morimite](https://cdn.myanimelist.net/images/manga/3/166508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: モリミテ

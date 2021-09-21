@@ -1,5 +1,7 @@
 # Kaze to Ki no Uta Sanctus: Sei Naru Kana
 
+![kaze-to-ki-no-uta-sanctus-sei-naru-kana](https://cdn.myanimelist.net/images/anime/5/33835.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 風と木の詩　ＳＡＮＣＴＵＳ－聖なるかな－

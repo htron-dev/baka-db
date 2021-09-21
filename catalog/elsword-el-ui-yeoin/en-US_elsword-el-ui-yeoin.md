@@ -1,5 +1,7 @@
 # Elsword: El-ui Yeoin
 
+![elsword-el-ui-yeoin](https://cdn.myanimelist.net/images/anime/8/83284.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 엘소드 엘의 여인

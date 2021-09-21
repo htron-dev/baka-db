@@ -1,5 +1,7 @@
 # Maou no Omori wo Oosetsukarimashita.
 
+![maou-no-omori-wo-oosetsukarimashita](https://cdn.myanimelist.net/images/manga/2/139001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔王のおもりを仰せつかりました。

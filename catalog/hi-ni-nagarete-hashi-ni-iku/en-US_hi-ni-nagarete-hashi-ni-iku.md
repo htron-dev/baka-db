@@ -1,5 +1,7 @@
 # Hi ni Nagarete Hashi ni Iku
 
+![hi-ni-nagarete-hashi-ni-iku](https://cdn.myanimelist.net/images/manga/2/203421.jpg)
+
 -   **type**: manga
 -   **original-name**: 日に流れて橋に行く
 -   **start-date**: 2017-01-14

@@ -1,5 +1,7 @@
 # Kominka Biyori
 
+![kominka-biyori](https://cdn.myanimelist.net/images/manga/2/125711.jpg)
+
 -   **type**: manga
 -   **original-name**: コミンカビヨリ
 -   **start-date**: 2011-10-25

@@ -1,5 +1,7 @@
 # Happy &amp; Murphy
 
+![happy-amp-murphy](https://cdn.myanimelist.net/images/manga/3/11395.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 19

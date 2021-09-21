@@ -1,5 +1,7 @@
 # Makaryuudo Demon Hunter
 
+![makaryuudo-demon-hunter](https://cdn.myanimelist.net/images/anime/11/69053.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔狩人

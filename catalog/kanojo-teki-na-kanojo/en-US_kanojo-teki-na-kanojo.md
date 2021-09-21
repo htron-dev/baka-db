@@ -1,5 +1,7 @@
 # Kanojo-teki na Kanojo
 
+![kanojo-teki-na-kanojo](https://cdn.myanimelist.net/images/manga/2/172710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

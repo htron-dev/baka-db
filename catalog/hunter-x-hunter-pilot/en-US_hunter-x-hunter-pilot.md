@@ -1,5 +1,7 @@
 # Hunter x Hunter Pilot
 
+![hunter-x-hunter-pilot](https://cdn.myanimelist.net/images/anime/7/63917.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンター x ハンター

@@ -1,5 +1,7 @@
 # eX-Driver: Nina &amp; Rei Danger Zone
 
+![e-x-driver-nina-amp-rei-danger-zone](https://cdn.myanimelist.net/images/anime/5/87659.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エクスドライバー Nina&Rei Danger Zone

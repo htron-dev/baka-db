@@ -1,5 +1,7 @@
 # Gunner Queen: Fukushuu no Joou Heika
 
+![gunner-queen-fukushuu-no-joou-heika](https://cdn.myanimelist.net/images/manga/1/192294.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

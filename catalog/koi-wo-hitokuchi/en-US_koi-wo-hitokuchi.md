@@ -1,5 +1,7 @@
 # Koi wo Hitokuchi
 
+![koi-wo-hitokuchi](https://cdn.myanimelist.net/images/manga/1/155985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

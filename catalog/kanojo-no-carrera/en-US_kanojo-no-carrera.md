@@ -1,5 +1,7 @@
 # Kanojo no Carrera
 
+![kanojo-no-carrera](https://cdn.myanimelist.net/images/manga/3/170533.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 272

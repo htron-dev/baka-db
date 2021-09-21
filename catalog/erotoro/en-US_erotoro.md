@@ -1,5 +1,7 @@
 # Erotoro
 
+![erotoro](https://cdn.myanimelist.net/images/manga/2/137713.jpg)
+
 -   **type**: manga
 -   **original-name**: エロとろ
 -   **start-date**: 2012-06-25

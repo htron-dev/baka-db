@@ -1,5 +1,7 @@
 # Kutsuzure Sensen: Majo Vasenka no Sensou
 
+![kutsuzure-sensen-majo-vasenka-no-sensou](https://cdn.myanimelist.net/images/manga/3/60265.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

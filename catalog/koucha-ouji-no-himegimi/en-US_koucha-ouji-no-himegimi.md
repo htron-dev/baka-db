@@ -1,5 +1,7 @@
 # Koucha Ouji no Himegimi
 
+![koucha-ouji-no-himegimi](https://cdn.myanimelist.net/images/manga/3/16776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

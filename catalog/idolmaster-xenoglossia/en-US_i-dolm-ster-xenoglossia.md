@@ -1,5 +1,7 @@
 # iDOLM@STER Xenoglossia
 
+![i-dolm-ster-xenoglossia](https://cdn.myanimelist.net/images/anime/12/41087.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アイドルマスター XENOGLOSSIA（ゼノグラシア）

@@ -1,5 +1,7 @@
 # IS: Infinite Stratos 2 - Hitonatsu no Omoide
 
+![is-infinite-stratos-2-hitonatsu-no-omoide](https://cdn.myanimelist.net/images/anime/7/56159.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: IS 〈インフィニット・ストラトス〉2 ロングバケーション 一夏（ひとなつ）の想いで

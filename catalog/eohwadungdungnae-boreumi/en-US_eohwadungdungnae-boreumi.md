@@ -1,5 +1,7 @@
 # Eohwadungdungnae Boreumi
 
+![eohwadungdungnae-boreumi](https://cdn.myanimelist.net/images/manga/2/104833.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 어화둥둥 내♥보르미

@@ -1,5 +1,7 @@
 # Live for Love
 
+![live-for-love](https://cdn.myanimelist.net/images/manga/1/12174.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

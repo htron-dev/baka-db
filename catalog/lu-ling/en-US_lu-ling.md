@@ -1,5 +1,7 @@
 # Lu Ling
 
+![lu-ling](https://cdn.myanimelist.net/images/anime/5/64303.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鹿铃

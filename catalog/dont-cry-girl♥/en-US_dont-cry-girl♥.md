@@ -1,5 +1,7 @@
 # Don't Cry, Girl♥
 
+![dont-cry-girl♥](https://cdn.myanimelist.net/images/manga/1/134195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

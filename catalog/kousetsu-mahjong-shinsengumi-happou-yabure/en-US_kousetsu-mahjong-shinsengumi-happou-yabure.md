@@ -1,5 +1,7 @@
 # Kousetsu Mahjong Shinsengumi: Happou Yabure
 
+![kousetsu-mahjong-shinsengumi-happou-yabure](https://cdn.myanimelist.net/images/manga/2/131973.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 巷説麻雀新撰組 はっぽうやぶれ

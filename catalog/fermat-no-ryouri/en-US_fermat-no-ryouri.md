@@ -1,5 +1,7 @@
 # Fermat no Ryouri
 
+![fermat-no-ryouri](https://cdn.myanimelist.net/images/manga/2/226170.jpg)
+
 -   **type**: manga
 -   **original-name**: フェルマーの料理
 -   **start-date**: 2018-09-06

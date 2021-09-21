@@ -1,5 +1,7 @@
 # Machikado Mazoku
 
+![machikado-mazoku](https://cdn.myanimelist.net/images/manga/2/215892.jpg)
+
 -   **type**: manga
 -   **original-name**: まちカドまぞく
 -   **start-date**: 2014-06-28

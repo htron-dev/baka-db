@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken II: Golden Heart/Golden Ring
 
+![jo-jo-no-kimyou-na-bouken-ii-golden-heart-golden-ring](https://cdn.myanimelist.net/images/manga/3/117969.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

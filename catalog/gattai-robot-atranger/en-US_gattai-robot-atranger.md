@@ -1,5 +1,7 @@
 # Gattai Robot Atranger
 
+![gattai-robot-atranger](https://cdn.myanimelist.net/images/anime/8/61401.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 合体ロボット アトランジャー

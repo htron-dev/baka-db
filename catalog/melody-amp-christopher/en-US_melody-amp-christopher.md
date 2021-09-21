@@ -1,5 +1,7 @@
 # Melody &amp; Christopher
 
+![melody-amp-christopher](https://cdn.myanimelist.net/images/manga/1/4097.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メロディー&クリストファー

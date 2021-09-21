@@ -1,5 +1,7 @@
 # Monogatari Series: Final Season
 
+![monogatari-series-final-season](https://cdn.myanimelist.net/images/manga/1/181554.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 231

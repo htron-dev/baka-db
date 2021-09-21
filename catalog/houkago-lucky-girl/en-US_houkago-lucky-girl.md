@@ -1,5 +1,7 @@
 # Houkago Lucky Girl
 
+![houkago-lucky-girl](https://cdn.myanimelist.net/images/manga/2/174577.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

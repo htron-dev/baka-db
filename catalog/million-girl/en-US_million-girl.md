@@ -1,5 +1,7 @@
 # Million Girl
 
+![million-girl](https://cdn.myanimelist.net/images/manga/1/197331.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

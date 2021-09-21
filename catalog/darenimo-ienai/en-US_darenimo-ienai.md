@@ -1,5 +1,7 @@
 # Darenimo Ienai
 
+![darenimo-ienai](https://cdn.myanimelist.net/images/manga/2/115279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

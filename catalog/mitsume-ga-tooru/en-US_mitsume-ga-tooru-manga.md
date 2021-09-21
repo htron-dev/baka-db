@@ -1,5 +1,7 @@
 # Mitsume ga Tooru
 
+![mitsume-ga-tooru](https://cdn.myanimelist.net/images/manga/5/175739.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 77

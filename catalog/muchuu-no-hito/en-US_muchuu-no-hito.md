@@ -1,5 +1,7 @@
 # Muchuu no Hito
 
+![muchuu-no-hito](https://cdn.myanimelist.net/images/manga/3/33418.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

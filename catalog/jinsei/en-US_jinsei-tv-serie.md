@@ -1,5 +1,7 @@
 # Jinsei
 
+![jinsei](https://cdn.myanimelist.net/images/anime/5/64299.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 人生相談テレビアニメーション「人生」

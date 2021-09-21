@@ -1,5 +1,7 @@
 # Kidou Butou Gaiden: Gundam Fight 7th
 
+![kidou-butou-gaiden-gundam-fight-7th](https://cdn.myanimelist.net/images/manga/1/246908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 機動武闘外伝ガンダムファイト 7th

@@ -1,5 +1,7 @@
 # Mugen no Ryvius: Illusion
 
+![mugen-no-ryvius-illusion](https://cdn.myanimelist.net/images/anime/6/37031.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 無限のリヴァイアス イリュージョン

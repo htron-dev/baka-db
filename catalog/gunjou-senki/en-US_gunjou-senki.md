@@ -1,5 +1,7 @@
 # Gunjou Senki
 
+![gunjou-senki](https://cdn.myanimelist.net/images/manga/1/197297.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 177

@@ -1,5 +1,7 @@
 # Izure Fuhai no Mahoutsukai: Akashic Records Overwrite
 
+![izure-fuhai-no-mahoutsukai-akashic-records-overwrite](https://cdn.myanimelist.net/images/manga/1/218996.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

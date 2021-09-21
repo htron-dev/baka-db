@@ -1,5 +1,7 @@
 # Kamen no Marionette-tachi
 
+![kamen-no-marionette-tachi](https://cdn.myanimelist.net/images/anime/1593/105335.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 仮面のマリオネットたち

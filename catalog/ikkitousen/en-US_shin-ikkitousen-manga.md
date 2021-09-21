@@ -1,5 +1,7 @@
 # Shin Ikkitousen
 
+![shin-ikkitousen](https://cdn.myanimelist.net/images/manga/3/182686.jpg)
+
 -   **type**: manga
 -   **original-name**: 真・一騎当千
 -   **start-date**: 2015-11-30

@@ -1,5 +1,7 @@
 # Girls x Sekuha-Life
 
+![girls-x-sekuha-life](https://cdn.myanimelist.net/images/manga/3/210030.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

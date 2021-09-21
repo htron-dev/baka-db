@@ -1,5 +1,7 @@
 # Matsukage ni Ikou
 
+![matsukage-ni-ikou](https://cdn.myanimelist.net/images/manga/1/238477.jpg)
+
 -   **type**: manga
 -   **original-name**: 松かげに憩う
 -   **start-date**: 2018-12-04

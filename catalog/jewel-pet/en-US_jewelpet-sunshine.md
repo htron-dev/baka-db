@@ -1,5 +1,7 @@
 # Jewelpet Sunshine
 
+![jewelpet-sunshine](https://cdn.myanimelist.net/images/anime/7/28699.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ジュエルペット サンシャイン

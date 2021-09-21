@@ -1,5 +1,7 @@
 # Joshidaisei no Nichijou
 
+![joshidaisei-no-nichijou](https://cdn.myanimelist.net/images/manga/3/165690.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

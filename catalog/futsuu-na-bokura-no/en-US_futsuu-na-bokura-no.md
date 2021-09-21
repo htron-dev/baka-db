@@ -1,5 +1,7 @@
 # Futsuu na Bokura no
 
+![futsuu-na-bokura-no](https://cdn.myanimelist.net/images/manga/2/226250.jpg)
+
 -   **type**: manga
 -   **original-name**: ふつうな僕らの
 -   **start-date**: 2019-04-12

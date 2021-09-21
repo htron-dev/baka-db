@@ -1,5 +1,7 @@
 # Kuishinbou!
 
+![kuishinbou](https://cdn.myanimelist.net/images/manga/3/193295.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 217

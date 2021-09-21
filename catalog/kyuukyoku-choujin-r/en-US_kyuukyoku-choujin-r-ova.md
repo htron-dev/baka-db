@@ -1,5 +1,7 @@
 # Kyuukyoku Choujin R
 
+![kyuukyoku-choujin-r](https://cdn.myanimelist.net/images/anime/1073/94286.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 究極超人あ～る

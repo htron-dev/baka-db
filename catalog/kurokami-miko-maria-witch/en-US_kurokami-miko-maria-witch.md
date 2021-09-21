@@ -1,5 +1,7 @@
 # Kurokami Miko Maria Witch
 
+![kurokami-miko-maria-witch](https://cdn.myanimelist.net/images/manga/1/235338.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

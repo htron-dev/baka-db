@@ -1,5 +1,7 @@
 # Hero Hearts
 
+![hero-hearts](https://cdn.myanimelist.net/images/manga/2/128675.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

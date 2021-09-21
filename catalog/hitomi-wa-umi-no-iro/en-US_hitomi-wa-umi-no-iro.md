@@ -1,5 +1,7 @@
 # Hitomi wa Umi no Iro
 
+![hitomi-wa-umi-no-iro](https://cdn.myanimelist.net/images/manga/2/21087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Iyagi Yeohaeng
 
+![iyagi-yeohaeng](https://cdn.myanimelist.net/images/anime/1551/114508.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: 이야기여행

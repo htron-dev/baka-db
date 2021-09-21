@@ -1,5 +1,7 @@
 # Chao Shen Xueyuan: Zhi Hei Jia
 
+![chao-shen-xueyuan-zhi-hei-jia](https://cdn.myanimelist.net/images/anime/1976/114405.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 超神学院 之黑甲

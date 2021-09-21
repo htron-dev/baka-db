@@ -1,5 +1,7 @@
 # Deka Wanko
 
+![deka-wanko](https://cdn.myanimelist.net/images/manga/2/165184.jpg)
+
 -   **type**: manga
 -   **original-name**: デカワンコ
 -   **start-date**: 2008-04-01

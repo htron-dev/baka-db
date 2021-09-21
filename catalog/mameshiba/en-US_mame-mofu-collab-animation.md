@@ -1,5 +1,7 @@
 # Mame-Mofu Collab Animation
 
+![mame-mofu-collab-animation](https://cdn.myanimelist.net/images/anime/3/80694.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 豆モフコラボアニメーシヨン

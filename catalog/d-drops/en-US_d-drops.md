@@ -1,5 +1,7 @@
 # D-Drops
 
+![d-drops](https://cdn.myanimelist.net/images/manga/1/40524.jpg)
+
 -   **type**: manga
 -   **original-name**: D・ドロップス
 -   **start-date**: 2010-05-20

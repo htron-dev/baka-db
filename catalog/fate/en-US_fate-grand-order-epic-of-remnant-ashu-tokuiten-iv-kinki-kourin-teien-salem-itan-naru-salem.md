@@ -1,5 +1,7 @@
 # Fate/Grand Order: Epic of Remnant - Ashu Tokuiten IV - Kinki Kourin Teien Salem - Itan naru Salem
 
+![fate-grand-order-epic-of-remnant-ashu-tokuiten-iv-kinki-kourin-teien-salem-itan-naru-salem](https://cdn.myanimelist.net/images/manga/2/226274.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order -Epic of Remnant- 亜種特異点 IV 禁忌降臨庭園 セイレム 異端なるセイレム
 -   **start-date**: 2019-01-26

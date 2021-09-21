@@ -1,5 +1,7 @@
 # Moshimo Boku ga Kirei nara
 
+![moshimo-boku-ga-kirei-nara](https://cdn.myanimelist.net/images/manga/3/156063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: もしも ぼくが きれいなら

@@ -1,5 +1,7 @@
 # Einstein 1904
 
+![einstein-1904](https://cdn.myanimelist.net/images/manga/1/148972.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Michiru Rescue!
 
+![michiru-rescue](https://cdn.myanimelist.net/images/anime/1028/106225.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みちるレスキュー!

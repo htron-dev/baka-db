@@ -1,5 +1,7 @@
 # Gantz x Senran Kagura New Link
 
+![gantz-x-senran-kagura-new-link](https://cdn.myanimelist.net/images/anime/1628/104353.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GANTZ x 閃乱カグラ New Link

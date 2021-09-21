@@ -1,5 +1,7 @@
 # Hatsukoi wa Nido Series
 
+![hatsukoi-wa-nido-series](https://cdn.myanimelist.net/images/manga/1/167309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

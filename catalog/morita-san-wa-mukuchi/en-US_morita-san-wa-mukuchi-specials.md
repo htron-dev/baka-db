@@ -1,5 +1,7 @@
 # Morita-san wa Mukuchi. Specials
 
+![morita-san-wa-mukuchi-specials](https://cdn.myanimelist.net/images/anime/3/36275.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 森田さんは無口。

@@ -1,5 +1,7 @@
 # Happy Birthday: Inochi Kagayaku Toki
 
+![happy-birthday-inochi-kagayaku-toki](https://cdn.myanimelist.net/images/anime/1567/94728.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハッピーバースデー 命かがやく瞬間

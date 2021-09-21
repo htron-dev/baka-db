@@ -1,5 +1,7 @@
 # Majoukko Rina no Fushigi Daisakusen
 
+![majoukko-rina-no-fushigi-daisakusen](https://cdn.myanimelist.net/images/manga/2/186130.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

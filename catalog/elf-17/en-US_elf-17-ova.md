@@ -1,5 +1,7 @@
 # Elf 17
 
+![elf-17](https://cdn.myanimelist.net/images/anime/7/25834.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エルフ・17

@@ -1,5 +1,7 @@
 # Himitsu Kessha to Rule to Koi
 
+![himitsu-kessha-to-rule-to-koi](https://cdn.myanimelist.net/images/manga/3/164510.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 秘密結社とルールと恋

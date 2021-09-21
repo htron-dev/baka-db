@@ -1,5 +1,7 @@
 # The iDOLM@STER Million Live!
 
+![the-i-dolm-ster-million-live](https://cdn.myanimelist.net/images/manga/3/183369.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Haitoku no Niwa
 
+![haitoku-no-niwa](https://cdn.myanimelist.net/images/manga/3/151879.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 背徳の庭

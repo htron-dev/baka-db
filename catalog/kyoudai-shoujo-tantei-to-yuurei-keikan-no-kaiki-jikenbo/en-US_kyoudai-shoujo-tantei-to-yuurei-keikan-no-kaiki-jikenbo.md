@@ -1,5 +1,7 @@
 # Kyoudai: Shoujo Tantei to Yuurei Keikan no Kaiki Jikenbo
 
+![kyoudai-shoujo-tantei-to-yuurei-keikan-no-kaiki-jikenbo](https://cdn.myanimelist.net/images/manga/3/154441.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Gin no Guardian
 
+![gin-no-guardian](https://cdn.myanimelist.net/images/anime/8/86525.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銀の墓守り〈ガーディアン〉

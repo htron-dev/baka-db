@@ -1,5 +1,7 @@
 # Fuji Santarou Meibamen
 
+![fuji-santarou-meibamen](https://cdn.myanimelist.net/images/manga/2/172858.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: フジ三太郎名場面

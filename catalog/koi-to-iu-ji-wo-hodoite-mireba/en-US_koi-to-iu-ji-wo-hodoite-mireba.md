@@ -1,5 +1,7 @@
 # Koi to Iu Ji wo Hodoite Mireba
 
+![koi-to-iu-ji-wo-hodoite-mireba](https://cdn.myanimelist.net/images/manga/2/247667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

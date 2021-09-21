@@ -1,5 +1,7 @@
 # Hajimerudo Monogatari
 
+![hajimerudo-monogatari](https://cdn.myanimelist.net/images/manga/2/150398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

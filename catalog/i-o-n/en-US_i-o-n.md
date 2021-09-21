@@ -1,5 +1,7 @@
 # I.O.N
 
+![i-o-n](https://cdn.myanimelist.net/images/manga/2/17076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

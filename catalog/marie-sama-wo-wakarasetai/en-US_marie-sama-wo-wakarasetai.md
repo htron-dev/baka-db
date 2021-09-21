@@ -1,5 +1,7 @@
 # Marie-sama wo Wakarasetai!
 
+![marie-sama-wo-wakarasetai](https://cdn.myanimelist.net/images/manga/3/244217.jpg)
+
 -   **type**: manga
 -   **original-name**: マリー様をわからせたい！
 -   **start-date**: 2020-10-27

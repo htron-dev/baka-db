@@ -1,5 +1,7 @@
 # Gate of Planet
 
+![gate-of-planet](https://cdn.myanimelist.net/images/manga/3/10059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

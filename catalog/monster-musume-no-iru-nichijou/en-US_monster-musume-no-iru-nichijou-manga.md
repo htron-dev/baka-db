@@ -1,5 +1,7 @@
 # Monster Musume no Iru Nichijou
 
+![monster-musume-no-iru-nichijou](https://cdn.myanimelist.net/images/manga/3/161910.jpg)
+
 -   **type**: manga
 -   **original-name**: モンスター娘のいる日常
 -   **start-date**: 2012-03-19

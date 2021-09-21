@@ -1,5 +1,7 @@
 # Dokaben: Dream Tournament-hen
 
+![dokaben-dream-tournament-hen](https://cdn.myanimelist.net/images/manga/3/210971.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **original-name**: ドカベン ドリームトーナメント編

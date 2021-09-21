@@ -1,5 +1,7 @@
 # Kono Ore ga Omae nanka Suki na Wakenai
 
+![kono-ore-ga-omae-nanka-suki-na-wakenai](https://cdn.myanimelist.net/images/manga/3/174400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

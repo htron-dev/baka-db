@@ -1,5 +1,7 @@
 # Kamisama Shinkaron
 
+![kamisama-shinkaron](https://cdn.myanimelist.net/images/manga/3/21548.jpg)
+
 -   **type**: manga
 -   **original-name**: カミサマ進化論
 

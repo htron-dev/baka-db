@@ -1,5 +1,7 @@
 # Hanami: International Love Story
 
+![hanami-international-love-story](https://cdn.myanimelist.net/images/manga/1/4723.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 42

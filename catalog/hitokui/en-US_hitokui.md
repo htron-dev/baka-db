@@ -1,5 +1,7 @@
 # Hitokui
 
+![hitokui](https://cdn.myanimelist.net/images/manga/2/148271.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 92

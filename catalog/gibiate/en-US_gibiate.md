@@ -1,5 +1,7 @@
 # Gibiate
 
+![gibiate](https://cdn.myanimelist.net/images/anime/1035/113446.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ジビエート

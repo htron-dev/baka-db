@@ -1,5 +1,7 @@
 # Kazemakase Tsukikage Ran
 
+![kazemakase-tsukikage-ran](https://cdn.myanimelist.net/images/anime/5/16745.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 風まかせ月影蘭

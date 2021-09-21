@@ -1,5 +1,7 @@
 # Kikan shita Yuusha no Gojitsudan
 
+![kikan-shita-yuusha-no-gojitsudan](https://cdn.myanimelist.net/images/manga/3/237527.jpg)
+
 -   **type**: manga
 -   **original-name**: 帰還した勇者の後日譚
 -   **start-date**: 2019-12-18

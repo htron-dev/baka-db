@@ -1,5 +1,7 @@
 # Healer Girl
 
+![healer-girl](https://cdn.myanimelist.net/images/anime/1087/114655.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ヒーラー・ガール
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Hime Habaki
 
+![hime-habaki](https://cdn.myanimelist.net/images/manga/3/78731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

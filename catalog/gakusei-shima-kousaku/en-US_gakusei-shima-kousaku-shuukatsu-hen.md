@@ -1,5 +1,7 @@
 # Gakusei Shima Kousaku: Shuukatsu-hen
 
+![gakusei-shima-kousaku-shuukatsu-hen](https://cdn.myanimelist.net/images/manga/3/202597.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

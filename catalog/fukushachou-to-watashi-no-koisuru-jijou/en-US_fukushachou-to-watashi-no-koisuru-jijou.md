@@ -1,5 +1,7 @@
 # Fukushachou to Watashi no Koisuru Jijou
 
+![fukushachou-to-watashi-no-koisuru-jijou](https://cdn.myanimelist.net/images/manga/2/195482.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

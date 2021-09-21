@@ -1,5 +1,7 @@
 # Precure All Stars Movie DX: Minna Tomodachi☆Kiseki no Zenin Daishuugou!
 
+![precure-all-stars-movie-dx-minna-tomodachi☆-kiseki-no-zenin-daishuugou](https://cdn.myanimelist.net/images/anime/2/20243.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 プリキュアオールスターズ DX みんなともだちっ ☆ 奇跡の全員大集合!

@@ -1,5 +1,7 @@
 # Hataraki Man
 
+![hataraki-man](https://cdn.myanimelist.net/images/manga/1/228093.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

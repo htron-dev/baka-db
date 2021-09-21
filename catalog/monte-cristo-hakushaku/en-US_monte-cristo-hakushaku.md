@@ -1,5 +1,7 @@
 # Monte Cristo Hakushaku
 
+![monte-cristo-hakushaku](https://cdn.myanimelist.net/images/manga/2/167814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

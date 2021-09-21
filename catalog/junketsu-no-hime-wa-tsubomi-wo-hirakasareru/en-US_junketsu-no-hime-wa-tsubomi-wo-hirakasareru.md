@@ -1,5 +1,7 @@
 # Junketsu no Hime wa Tsubomi wo Hirakasareru
 
+![junketsu-no-hime-wa-tsubomi-wo-hirakasareru](https://cdn.myanimelist.net/images/manga/2/192418.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

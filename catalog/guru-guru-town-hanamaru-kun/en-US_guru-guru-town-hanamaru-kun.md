@@ -1,5 +1,7 @@
 # Guru Guru Town Hanamaru-kun
 
+![guru-guru-town-hanamaru-kun](https://cdn.myanimelist.net/images/anime/1592/94260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 101
 -   **original-name**: ぐるぐるタウン　はなまるくん

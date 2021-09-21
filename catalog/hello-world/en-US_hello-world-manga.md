@@ -1,5 +1,7 @@
 # Hello World
 
+![hello-world](https://cdn.myanimelist.net/images/manga/3/222144.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

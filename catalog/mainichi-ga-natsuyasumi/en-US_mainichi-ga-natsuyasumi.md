@@ -1,5 +1,7 @@
 # Mainichi ga Natsuyasumi
 
+![mainichi-ga-natsuyasumi](https://cdn.myanimelist.net/images/manga/1/18451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 毎日が夏休み

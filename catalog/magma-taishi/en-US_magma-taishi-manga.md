@@ -1,5 +1,7 @@
 # Magma Taishi
 
+![magma-taishi](https://cdn.myanimelist.net/images/manga/4/174134.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

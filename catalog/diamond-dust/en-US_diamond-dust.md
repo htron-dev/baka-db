@@ -1,5 +1,7 @@
 # Diamond Dust
 
+![diamond-dust](https://cdn.myanimelist.net/images/manga/2/95623.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Kuromajo-san ga Tooru!!
 
+![kuromajo-san-ga-tooru](https://cdn.myanimelist.net/images/anime/7/75496.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 黒魔女さんが通る!!

@@ -1,5 +1,7 @@
 # Jitsuroku: Naku made Bokorarete Hajimete Koi ni Ochimashita.
 
+![jitsuroku-naku-made-bokorarete-hajimete-koi-ni-ochimashita](https://cdn.myanimelist.net/images/manga/2/211747.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

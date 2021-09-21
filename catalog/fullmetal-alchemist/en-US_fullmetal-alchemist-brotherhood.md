@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: Brotherhood
 
+![fullmetal-alchemist-brotherhood](https://cdn.myanimelist.net/images/anime/1223/96541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: 鋼の錬金術師 FULLMETAL ALCHEMIST

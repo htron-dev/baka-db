@@ -1,5 +1,7 @@
 # Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki
 
+![meitantei-holmes-mrs-hudson-hitojichi-jiken-no-maki-dover-kaikyou-no-daikuuchuusen-no-maki](https://cdn.myanimelist.net/images/anime/3/54265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版名探偵ホームズ　ミセス・ハドソン人質事件の巻／ドーバー海峡の大空中戦の巻

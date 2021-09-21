@@ -1,5 +1,7 @@
 # Lueduo Diren De Xin
 
+![lueduo-diren-de-xin](https://cdn.myanimelist.net/images/manga/3/180950.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 64

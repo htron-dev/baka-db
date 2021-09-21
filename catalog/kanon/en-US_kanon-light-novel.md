@@ -1,5 +1,7 @@
 # Kanon
 
+![kanon](https://cdn.myanimelist.net/images/manga/5/118001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: カノン

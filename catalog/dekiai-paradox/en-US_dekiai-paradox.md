@@ -1,5 +1,7 @@
 # Dekiai Paradox
 
+![dekiai-paradox](https://cdn.myanimelist.net/images/manga/3/20750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

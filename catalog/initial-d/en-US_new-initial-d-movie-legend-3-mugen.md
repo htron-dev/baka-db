@@ -1,5 +1,7 @@
 # New Initial D Movie: Legend 3 - Mugen
 
+![new-initial-d-movie-legend-3-mugen](https://cdn.myanimelist.net/images/anime/9/76759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新劇場版　頭文字［イニシャル］D Legend3 -夢現-

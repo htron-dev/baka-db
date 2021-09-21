@@ -1,5 +1,7 @@
 # Konya mo Kimi ni Gochisousama
 
+![konya-mo-kimi-ni-gochisousama](https://cdn.myanimelist.net/images/manga/1/244680.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

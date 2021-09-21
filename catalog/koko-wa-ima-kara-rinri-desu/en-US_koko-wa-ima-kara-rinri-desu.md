@@ -1,5 +1,7 @@
 # Koko wa Ima kara Rinri desu.
 
+![koko-wa-ima-kara-rinri-desu](https://cdn.myanimelist.net/images/manga/2/203658.jpg)
+
 -   **type**: manga
 -   **original-name**: ここは今から倫理です。
 -   **start-date**: 2016-10-26

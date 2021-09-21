@@ -1,5 +1,7 @@
 # Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi
 
+![kaiketsu-zorori-mahoutsukai-no-deshi-dai-kaizoku-no-takara-sagashi](https://cdn.myanimelist.net/images/anime/13/16224.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かいけつゾロリ　まほう使いのでし　大かいぞくの宝さがし

@@ -1,5 +1,7 @@
 # Kuu Nomu Tokoro ni Taberu Toko
 
+![kuu-nomu-tokoro-ni-taberu-toko](https://cdn.myanimelist.net/images/manga/2/118933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: くうのむところにたべるとこ

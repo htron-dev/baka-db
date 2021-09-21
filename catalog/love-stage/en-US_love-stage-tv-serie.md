@@ -1,5 +1,7 @@
 # Love Stage!!
 
+![love-stage](https://cdn.myanimelist.net/images/anime/11/76599.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: LOVE STAGE!!

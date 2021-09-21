@@ -1,5 +1,7 @@
 # Mok Nan-Ah Honeymoon Diary
 
+![mok-nan-ah-honeymoon-diary](https://cdn.myanimelist.net/images/manga/3/119587.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 목난아의 신혼일기

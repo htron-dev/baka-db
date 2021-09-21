@@ -1,5 +1,7 @@
 # Kachikomi Bride!
 
+![kachikomi-bride](https://cdn.myanimelist.net/images/manga/1/164591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

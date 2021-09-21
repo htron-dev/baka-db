@@ -1,5 +1,7 @@
 # Iwakutsuki Bukken no Yakuro-san
 
+![iwakutsuki-bukken-no-yakuro-san](https://cdn.myanimelist.net/images/manga/2/229314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

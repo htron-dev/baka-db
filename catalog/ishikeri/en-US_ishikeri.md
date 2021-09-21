@@ -1,5 +1,7 @@
 # Ishikeri
 
+![ishikeri](https://cdn.myanimelist.net/images/anime/8/75304.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 石けり

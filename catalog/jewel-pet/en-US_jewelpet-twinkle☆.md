@@ -1,5 +1,7 @@
 # Jewelpet Twinkle☆
 
+![jewelpet-twinkle☆](https://cdn.myanimelist.net/images/anime/12/73943.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ジュエルペット てぃんくる ☆

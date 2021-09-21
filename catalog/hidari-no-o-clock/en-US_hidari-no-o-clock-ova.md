@@ -1,5 +1,7 @@
 # Hidari no O'Clock!!
 
+![hidari-no-o-clock](https://cdn.myanimelist.net/images/anime/10/24830.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 左のオクロック!!

@@ -1,5 +1,7 @@
 # Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou
 
+![kinyoru-abe-reiji-heikinteki-na-salaryman-no-ijou-na-nichijou](https://cdn.myanimelist.net/images/anime/13/75266.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 金夜、安部礼司～平均的なサラリーマンの異常な日常～

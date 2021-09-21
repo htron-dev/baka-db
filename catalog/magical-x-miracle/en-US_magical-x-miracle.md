@@ -1,5 +1,7 @@
 # Magical x Miracle
 
+![magical-x-miracle](https://cdn.myanimelist.net/images/manga/3/172711.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 46

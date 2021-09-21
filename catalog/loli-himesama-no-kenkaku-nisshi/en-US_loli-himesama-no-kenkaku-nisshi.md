@@ -1,5 +1,7 @@
 # Loli-himesama no Kenkaku Nisshi
 
+![loli-himesama-no-kenkaku-nisshi](https://cdn.myanimelist.net/images/manga/2/160775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

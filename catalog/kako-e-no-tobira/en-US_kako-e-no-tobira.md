@@ -1,5 +1,7 @@
 # Kako e no Tobira
 
+![kako-e-no-tobira](https://cdn.myanimelist.net/images/manga/3/59879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

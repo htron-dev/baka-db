@@ -1,5 +1,7 @@
 # Myself; Yourself
 
+![myself-yourself](https://cdn.myanimelist.net/images/anime/13/75247.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マイセルフ; ユアセルフ

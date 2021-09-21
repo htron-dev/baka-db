@@ -1,5 +1,7 @@
 # Kimi to Ayumu Nichijou
 
+![kimi-to-ayumu-nichijou](https://cdn.myanimelist.net/images/manga/1/26279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Kamen Rider
 
+![kamen-rider](https://cdn.myanimelist.net/images/manga/1/5853.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 8

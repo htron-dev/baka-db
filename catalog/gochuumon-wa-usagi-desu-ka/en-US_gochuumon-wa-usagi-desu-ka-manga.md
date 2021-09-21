@@ -1,5 +1,7 @@
 # Gochuumon wa Usagi desu ka?
 
+![gochuumon-wa-usagi-desu-ka](https://cdn.myanimelist.net/images/manga/2/205168.jpg)
+
 -   **type**: manga
 -   **original-name**: ご注文はうさぎですか？
 -   **start-date**: 2011-01-19

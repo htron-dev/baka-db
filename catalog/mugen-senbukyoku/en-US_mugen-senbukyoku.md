@@ -1,5 +1,7 @@
 # Mugen Senbukyoku
 
+![mugen-senbukyoku](https://cdn.myanimelist.net/images/manga/2/198940.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 夢幻戦舞曲
 -   **start-date**: 2017-08-25

@@ -1,5 +1,7 @@
 # Gisou Kekkon nara Okotowari desu! Do S na Shachou no Himitsu no Iitsuke
 
+![gisou-kekkon-nara-okotowari-desu-do-s-na-shachou-no-himitsu-no-iitsuke](https://cdn.myanimelist.net/images/manga/3/195180.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 偽装結婚ならお断りです！～ドＳな社長の秘密のいいつけ～

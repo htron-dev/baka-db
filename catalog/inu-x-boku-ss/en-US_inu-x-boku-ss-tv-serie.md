@@ -1,5 +1,7 @@
 # Inu x Boku SS
 
+![inu-x-boku-ss](https://cdn.myanimelist.net/images/anime/12/35893.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 妖狐 × 僕 SS

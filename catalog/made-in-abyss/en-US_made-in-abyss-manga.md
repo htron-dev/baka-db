@@ -1,5 +1,7 @@
 # Made in Abyss
 
+![made-in-abyss](https://cdn.myanimelist.net/images/manga/3/161645.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドインアビス
 -   **start-date**: 2012-10-20

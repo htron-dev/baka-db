@@ -1,5 +1,7 @@
 # Dream Festival! R
 
+![dream-festival-r](https://cdn.myanimelist.net/images/anime/7/86852.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ドリフェス！R

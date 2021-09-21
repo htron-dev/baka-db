@@ -1,5 +1,7 @@
 # Madou King Granzort: Saigo no Magical Taisen
 
+![madou-king-granzort-saigo-no-magical-taisen](https://cdn.myanimelist.net/images/anime/13/75837.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 魔動王グランゾート 最後のマジカル大戦

@@ -1,5 +1,7 @@
 # L Change the WorLd
 
+![l-change-the-wor-ld](https://cdn.myanimelist.net/images/manga/3/11590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 38

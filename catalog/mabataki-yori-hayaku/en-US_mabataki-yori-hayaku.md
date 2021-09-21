@@ -1,5 +1,7 @@
 # Mabataki yori Hayaku!!
 
+![mabataki-yori-hayaku](https://cdn.myanimelist.net/images/manga/2/229273.jpg)
+
 -   **type**: manga
 -   **original-name**: 瞬きより迅く!!
 -   **start-date**: 2020-03-19

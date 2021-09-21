@@ -1,5 +1,7 @@
 # Kokuchou no Psychedelica
 
+![kokuchou-no-psychedelica](https://cdn.myanimelist.net/images/manga/2/180791.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 黒蝶のサイケデリカ
 -   **start-date**: 2015-11-20

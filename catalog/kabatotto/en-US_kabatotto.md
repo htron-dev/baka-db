@@ -1,5 +1,7 @@
 # Kabatotto
 
+![kabatotto](https://cdn.myanimelist.net/images/anime/12/6611.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 300
 -   **original-name**: カバトット

@@ -1,5 +1,7 @@
 # Horror Collector
 
+![horror-collector](https://cdn.myanimelist.net/images/manga/5/27876.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

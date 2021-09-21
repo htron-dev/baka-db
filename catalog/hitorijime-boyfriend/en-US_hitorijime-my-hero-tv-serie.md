@@ -1,5 +1,7 @@
 # Hitorijime My Hero
 
+![hitorijime-my-hero](https://cdn.myanimelist.net/images/anime/12/86825.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ひとりじめマイヒーロー

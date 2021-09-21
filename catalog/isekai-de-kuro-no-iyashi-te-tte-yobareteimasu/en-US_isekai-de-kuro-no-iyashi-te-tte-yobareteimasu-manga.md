@@ -1,5 +1,7 @@
 # Isekai de "Kuro no Iyashi Te" tte Yobareteimasu
 
+![isekai-de-kuro-no-iyashi-te-tte-yobareteimasu](https://cdn.myanimelist.net/images/manga/3/186483.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Eien no Labyrinth
 
+![eien-no-labyrinth](https://cdn.myanimelist.net/images/manga/1/7172.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 永遠のラビリンス

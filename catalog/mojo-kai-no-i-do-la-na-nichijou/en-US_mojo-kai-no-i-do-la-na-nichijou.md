@@ -1,5 +1,7 @@
 # Mojo-kai no I-do-la na Nichijou
 
+![mojo-kai-no-i-do-la-na-nichijou](https://cdn.myanimelist.net/images/manga/1/163859.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Houkago Quartet
 
+![houkago-quartet](https://cdn.myanimelist.net/images/manga/1/163474.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 放課後四重奏〈カルテット〉

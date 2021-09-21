@@ -1,5 +1,7 @@
 # Hajimete no Chikan Densha
 
+![hajimete-no-chikan-densha](https://cdn.myanimelist.net/images/manga/1/6237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

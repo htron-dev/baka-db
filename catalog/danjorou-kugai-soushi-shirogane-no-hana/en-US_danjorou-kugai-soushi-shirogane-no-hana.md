@@ -1,5 +1,7 @@
 # Danjorou Kugai Soushi: Shirogane no Hana
 
+![danjorou-kugai-soushi-shirogane-no-hana](https://cdn.myanimelist.net/images/manga/2/230948.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

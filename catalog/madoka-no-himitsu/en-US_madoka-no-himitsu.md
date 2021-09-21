@@ -1,5 +1,7 @@
 # Madoka no Himitsu
 
+![madoka-no-himitsu](https://cdn.myanimelist.net/images/manga/2/224031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

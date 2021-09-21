@@ -1,5 +1,7 @@
 # Fujikubo Kotobuki Rhapsody
 
+![fujikubo-kotobuki-rhapsody](https://cdn.myanimelist.net/images/manga/2/144289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 富士窪寿ラプソディ

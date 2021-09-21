@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha ViVid
 
+![mahou-shoujo-lyrical-nanoha-vi-vid](https://cdn.myanimelist.net/images/anime/9/72718.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女リリカルなのは ViVid

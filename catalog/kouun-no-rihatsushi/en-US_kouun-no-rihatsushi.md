@@ -1,5 +1,7 @@
 # Kouun no Rihatsushi
 
+![kouun-no-rihatsushi](https://cdn.myanimelist.net/images/manga/1/172871.jpg)
+
 -   **type**: manga
 -   **original-name**: 幸運の理髪師
 -   **start-date**: 2009-01-24

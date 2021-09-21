@@ -1,5 +1,7 @@
 # God Eater: The Summer Wars
 
+![god-eater-the-summer-wars](https://cdn.myanimelist.net/images/manga/2/117387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

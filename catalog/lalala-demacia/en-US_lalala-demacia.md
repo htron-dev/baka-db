@@ -1,5 +1,7 @@
 # Lalala Demacia
 
+![lalala-demacia](https://cdn.myanimelist.net/images/anime/1017/114410.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 啦啦啦德玛西亚

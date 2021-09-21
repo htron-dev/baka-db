@@ -1,5 +1,7 @@
 # Issunboushi
 
+![issunboushi](https://cdn.myanimelist.net/images/anime/1091/101185.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一寸法師

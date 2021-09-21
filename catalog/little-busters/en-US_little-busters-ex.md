@@ -1,5 +1,7 @@
 # Little Busters!: EX
 
+![little-busters-ex](https://cdn.myanimelist.net/images/anime/3/59031.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: リトルバスターズ！EX

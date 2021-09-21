@@ -1,5 +1,7 @@
 # Grancrest Senki
 
+![grancrest-senki](https://cdn.myanimelist.net/images/manga/1/208548.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 46

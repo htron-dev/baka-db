@@ -1,5 +1,7 @@
 # Megami to Ichinen Kurashitemita.
 
+![megami-to-ichinen-kurashitemita](https://cdn.myanimelist.net/images/manga/3/182318.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

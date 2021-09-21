@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon
 
+![kobayashi-san-chi-no-maid-dragon](https://cdn.myanimelist.net/images/anime/5/85434.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 小林さんちのメイドラゴン

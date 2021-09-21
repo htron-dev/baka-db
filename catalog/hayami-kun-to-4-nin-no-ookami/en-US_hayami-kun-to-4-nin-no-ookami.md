@@ -1,5 +1,7 @@
 # Hayami-kun to 4-nin no Ookami
 
+![hayami-kun-to-4-nin-no-ookami](https://cdn.myanimelist.net/images/manga/1/156141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

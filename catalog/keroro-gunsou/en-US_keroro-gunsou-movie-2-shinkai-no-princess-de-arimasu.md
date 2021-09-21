@@ -1,5 +1,7 @@
 # Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!
 
+![keroro-gunsou-movie-2-shinkai-no-princess-de-arimasu](https://cdn.myanimelist.net/images/anime/5/84851.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超劇場版　ケロロ軍曹２　深海のプリンセスであります！

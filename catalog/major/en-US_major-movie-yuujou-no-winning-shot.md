@@ -1,5 +1,7 @@
 # Major Movie: Yuujou no Winning Shot
 
+![major-movie-yuujou-no-winning-shot](https://cdn.myanimelist.net/images/anime/10/75221.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 MAJOR 友情の一球（ウイニングショット）

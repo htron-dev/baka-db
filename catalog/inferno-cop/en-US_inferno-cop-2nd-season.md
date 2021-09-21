@@ -1,5 +1,7 @@
 # Inferno Cop 2nd Season
 
+![inferno-cop-2nd-season](https://cdn.myanimelist.net/images/anime/2/86161.jpg)
+
 -   **type**: ona
 -   **original-name**: インフェルノコップ 2nd シーズン
 -   **rating**: R - 17+ (violence & profanity)

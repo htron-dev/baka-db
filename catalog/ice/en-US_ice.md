@@ -1,5 +1,7 @@
 # Ice
 
+![ice](https://cdn.myanimelist.net/images/anime/1/2329.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ICE - アイス -

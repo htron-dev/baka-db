@@ -1,5 +1,7 @@
 # Ginga Joshi Chuugakusei Diary: Ohimesama Hiroimashita.
 
+![ginga-joshi-chuugakusei-diary-ohimesama-hiroimashita](https://cdn.myanimelist.net/images/manga/2/162034.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

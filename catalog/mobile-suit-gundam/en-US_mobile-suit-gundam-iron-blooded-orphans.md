@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Iron-Blooded Orphans
 
+![mobile-suit-gundam-iron-blooded-orphans](https://cdn.myanimelist.net/images/anime/6/75879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 機動戦士ガンダム 鉄血のオルフェンズ

@@ -1,5 +1,7 @@
 # Miku to Neo
 
+![miku-to-neo](https://cdn.myanimelist.net/images/manga/1/179813.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

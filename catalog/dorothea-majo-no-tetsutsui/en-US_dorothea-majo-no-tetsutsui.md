@@ -1,5 +1,7 @@
 # Dorothea: Majo no Tetsutsui
 
+![dorothea-majo-no-tetsutsui](https://cdn.myanimelist.net/images/manga/2/202846.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

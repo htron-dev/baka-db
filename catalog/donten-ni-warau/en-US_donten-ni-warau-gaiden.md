@@ -1,5 +1,7 @@
 # Donten ni Warau Gaiden
 
+![donten-ni-warau-gaiden](https://cdn.myanimelist.net/images/manga/2/190626.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

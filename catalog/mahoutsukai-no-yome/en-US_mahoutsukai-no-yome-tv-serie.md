@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome
 
+![mahoutsukai-no-yome](https://cdn.myanimelist.net/images/anime/3/88476.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 魔法使いの嫁

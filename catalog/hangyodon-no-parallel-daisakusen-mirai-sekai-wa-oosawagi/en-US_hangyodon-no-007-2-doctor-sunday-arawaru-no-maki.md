@@ -1,5 +1,7 @@
 # Hangyodon no 007/2: Doctor Sunday Arawaru no Maki
 
+![hangyodon-no-007-2-doctor-sunday-arawaru-no-maki](https://cdn.myanimelist.net/images/anime/6/70385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンギョドンの００７／２ (ドクターサンデーあらわるの巻)

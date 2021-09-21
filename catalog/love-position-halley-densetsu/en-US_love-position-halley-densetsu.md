@@ -1,5 +1,7 @@
 # Love Position: Halley Densetsu
 
+![love-position-halley-densetsu](https://cdn.myanimelist.net/images/anime/9/12399.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ラブ・ポジション　ハレー伝説

@@ -1,5 +1,7 @@
 # Hanyuu-sensei no Ryou Seikatsu
 
+![hanyuu-sensei-no-ryou-seikatsu](https://cdn.myanimelist.net/images/manga/1/182290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

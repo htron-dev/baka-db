@@ -1,5 +1,7 @@
 # Koukousei Maou no Ketsudan
 
+![koukousei-maou-no-ketsudan](https://cdn.myanimelist.net/images/manga/2/171365.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

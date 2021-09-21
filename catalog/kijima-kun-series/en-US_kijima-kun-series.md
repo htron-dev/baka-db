@@ -1,5 +1,7 @@
 # Kijima-kun Series
 
+![kijima-kun-series](https://cdn.myanimelist.net/images/manga/2/98171.jpg)
+
 -   **type**: manga
 -   **original-name**: 木嶋くんシリーズ
 

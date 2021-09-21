@@ -1,5 +1,7 @@
 # Sono Toki, Shimakou ga Ugoita!
 
+![sono-toki-shimakou-ga-ugoita](https://cdn.myanimelist.net/images/anime/1136/96544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: その時、シマコーが動いた!

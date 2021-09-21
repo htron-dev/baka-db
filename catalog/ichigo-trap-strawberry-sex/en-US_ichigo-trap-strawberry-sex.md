@@ -1,5 +1,7 @@
 # Ichigo Trap - Strawberry Sex
 
+![ichigo-trap-strawberry-sex](https://cdn.myanimelist.net/images/manga/2/18190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

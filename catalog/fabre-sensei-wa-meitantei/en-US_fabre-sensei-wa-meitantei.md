@@ -1,5 +1,7 @@
 # Fabre-sensei wa Meitantei
 
+![fabre-sensei-wa-meitantei](https://cdn.myanimelist.net/images/anime/2/25534.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ファーブル先生は名探偵

@@ -1,5 +1,7 @@
 # Inugami Hakase
 
+![inugami-hakase](https://cdn.myanimelist.net/images/manga/3/143959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

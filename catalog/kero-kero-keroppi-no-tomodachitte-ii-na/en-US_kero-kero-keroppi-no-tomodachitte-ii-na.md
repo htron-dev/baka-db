@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Tomodachitte Ii na
 
+![kero-kero-keroppi-no-tomodachitte-ii-na](https://cdn.myanimelist.net/images/anime/6/58959.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの友だちっていいな

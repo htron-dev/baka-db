@@ -1,5 +1,7 @@
 # Gomen ne Chitchi
 
+![gomen-ne-chitchi](https://cdn.myanimelist.net/images/anime/10/87712.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ごめんね チッチ

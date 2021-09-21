@@ -1,5 +1,7 @@
 # Hong Gil Dong 2084
 
+![hong-gil-dong-2084](https://cdn.myanimelist.net/images/anime/7/72150.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 홍길동 2084

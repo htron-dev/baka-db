@@ -1,5 +1,7 @@
 # Ixion Saga
 
+![ixion-saga](https://cdn.myanimelist.net/images/manga/1/175968.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

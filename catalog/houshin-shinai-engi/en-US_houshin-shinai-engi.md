@@ -1,5 +1,7 @@
 # Houshin shinai Engi
 
+![houshin-shinai-engi](https://cdn.myanimelist.net/images/manga/2/174648.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

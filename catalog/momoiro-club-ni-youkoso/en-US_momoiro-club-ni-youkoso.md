@@ -1,5 +1,7 @@
 # Momoiro Club ni Youkoso
 
+![momoiro-club-ni-youkoso](https://cdn.myanimelist.net/images/manga/1/29618.jpg)
+
 -   **type**: manga
 -   **original-name**: ももいろ倶楽部にようこそ
 -   **start-date**: 2010-02-20

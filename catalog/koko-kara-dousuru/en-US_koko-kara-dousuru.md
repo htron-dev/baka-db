@@ -1,5 +1,7 @@
 # Koko kara Dousuru?
 
+![koko-kara-dousuru](https://cdn.myanimelist.net/images/manga/3/30427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

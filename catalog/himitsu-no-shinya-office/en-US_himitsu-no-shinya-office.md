@@ -1,5 +1,7 @@
 # Himitsu no Shinya Office
 
+![himitsu-no-shinya-office](https://cdn.myanimelist.net/images/manga/3/198010.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

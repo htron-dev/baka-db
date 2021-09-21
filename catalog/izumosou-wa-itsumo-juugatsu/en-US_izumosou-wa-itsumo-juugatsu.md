@@ -1,5 +1,7 @@
 # Izumosou wa Itsumo Juugatsu
 
+![izumosou-wa-itsumo-juugatsu](https://cdn.myanimelist.net/images/manga/1/120501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: いずも荘はいつも十月

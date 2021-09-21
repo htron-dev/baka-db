@@ -1,5 +1,7 @@
 # Hakata Bus Terminal Gorou
 
+![hakata-bus-terminal-gorou](https://cdn.myanimelist.net/images/anime/1724/108301.jpg)
+
 -   **type**: ona
 -   **original-name**: 博多バスターミナル吾郎
 -   **start-date**: 2019-03-31

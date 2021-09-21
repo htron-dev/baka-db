@@ -1,5 +1,7 @@
 # Date Ningen
 
+![date-ningen](https://cdn.myanimelist.net/images/manga/3/36511.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

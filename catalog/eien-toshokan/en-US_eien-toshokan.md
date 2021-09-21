@@ -1,5 +1,7 @@
 # Eien Toshokan
 
+![eien-toshokan](https://cdn.myanimelist.net/images/manga/3/174378.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

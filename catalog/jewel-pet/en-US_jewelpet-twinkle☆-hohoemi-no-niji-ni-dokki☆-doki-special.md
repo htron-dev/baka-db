@@ -1,5 +1,7 @@
 # Jewelpet Twinkle☆: Hohoemi no Niji ni Dokki☆Doki!
 
+![jewelpet-twinkle☆-hohoemi-no-niji-ni-dokki☆-doki](https://cdn.myanimelist.net/images/anime/2/73944.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ジュエルペット てぃんくる ☆ ほほえみの虹にドッキ ☆ ドキ！

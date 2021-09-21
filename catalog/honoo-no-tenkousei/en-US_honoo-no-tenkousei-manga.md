@@ -1,5 +1,7 @@
 # Honoo no Tenkousei
 
+![honoo-no-tenkousei](https://cdn.myanimelist.net/images/manga/4/77389.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 118

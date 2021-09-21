@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!
 
+![dragon-ball-z-movie-01-ora-no-gohan-wo-kaese](https://cdn.myanimelist.net/images/anime/1258/90343.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z オラの悟飯をかえせッ!!

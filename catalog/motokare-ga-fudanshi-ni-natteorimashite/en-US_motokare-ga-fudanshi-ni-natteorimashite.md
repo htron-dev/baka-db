@@ -1,5 +1,7 @@
 # Motokare ga Fudanshi ni Natteorimashite.
 
+![motokare-ga-fudanshi-ni-natteorimashite](https://cdn.myanimelist.net/images/manga/3/225385.jpg)
+
 -   **type**: manga
 -   **original-name**: 元カレが腐男子になっておりまして。
 -   **start-date**: 2018-01-20

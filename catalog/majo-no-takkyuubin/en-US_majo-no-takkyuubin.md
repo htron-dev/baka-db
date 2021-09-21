@@ -1,5 +1,7 @@
 # Majo no Takkyuubin
 
+![majo-no-takkyuubin](https://cdn.myanimelist.net/images/anime/10/75916.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔女の宅急便

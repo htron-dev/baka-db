@@ -1,5 +1,7 @@
 # Moriguchi Orito no Onmyoudou
 
+![moriguchi-orito-no-onmyoudou](https://cdn.myanimelist.net/images/manga/2/164298.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 13

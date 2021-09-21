@@ -1,5 +1,7 @@
 # Kimochi no Katachi
 
+![kimochi-no-katachi](https://cdn.myanimelist.net/images/manga/3/128979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

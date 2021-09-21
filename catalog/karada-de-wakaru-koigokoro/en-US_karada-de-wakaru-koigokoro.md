@@ -1,5 +1,7 @@
 # Karada de Wakaru Koigokoro
 
+![karada-de-wakaru-koigokoro](https://cdn.myanimelist.net/images/manga/2/7696.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

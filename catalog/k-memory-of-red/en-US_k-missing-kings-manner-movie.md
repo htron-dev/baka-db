@@ -1,5 +1,7 @@
 # K: Missing Kings - Manner Movie
 
+![k-missing-kings-manner-movie](https://cdn.myanimelist.net/images/anime/3/75386.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 K MISSING KINGS 予告映像

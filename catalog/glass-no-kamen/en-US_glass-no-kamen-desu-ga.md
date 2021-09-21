@@ -1,5 +1,7 @@
 # Glass no Kamen Desu ga
 
+![glass-no-kamen-desu-ga](https://cdn.myanimelist.net/images/anime/11/47215.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: ガラスの仮面ですが

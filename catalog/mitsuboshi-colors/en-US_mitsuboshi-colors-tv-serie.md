@@ -1,5 +1,7 @@
 # Mitsuboshi Colors
 
+![mitsuboshi-colors](https://cdn.myanimelist.net/images/anime/5/89984.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 三ツ星カラーズ

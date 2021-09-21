@@ -1,5 +1,7 @@
 # Inu-kei Danshi ni Natsukarechuu
 
+![inu-kei-danshi-ni-natsukarechuu](https://cdn.myanimelist.net/images/manga/1/224578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

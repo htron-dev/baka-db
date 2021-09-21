@@ -1,5 +1,7 @@
 # Exoskull Zero
 
+![exoskull-zero](https://cdn.myanimelist.net/images/manga/3/143571.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

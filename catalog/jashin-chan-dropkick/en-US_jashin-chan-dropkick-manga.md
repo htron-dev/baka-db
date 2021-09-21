@@ -1,5 +1,7 @@
 # Jashin-chan Dropkick
 
+![jashin-chan-dropkick](https://cdn.myanimelist.net/images/manga/3/206686.jpg)
+
 -   **type**: manga
 -   **original-name**: 邪神ちゃんドロップキック
 -   **start-date**: 2012-04-25

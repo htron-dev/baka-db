@@ -1,5 +1,7 @@
 # Hello Kitty no Tomatta Big Ben
 
+![hello-kitty-no-tomatta-big-ben](https://cdn.myanimelist.net/images/anime/10/58695.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのとまった大時計

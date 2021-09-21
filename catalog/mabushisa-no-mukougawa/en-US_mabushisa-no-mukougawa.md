@@ -1,5 +1,7 @@
 # Mabushisa no Mukougawa
 
+![mabushisa-no-mukougawa](https://cdn.myanimelist.net/images/manga/1/198584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

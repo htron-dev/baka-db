@@ -1,5 +1,7 @@
 # Double Fake: Under the Gundam
 
+![double-fake-under-the-gundam](https://cdn.myanimelist.net/images/manga/2/229937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

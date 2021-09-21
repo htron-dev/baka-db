@@ -1,5 +1,7 @@
 # Kimi no Iru Machi
 
+![kimi-no-iru-machi](https://cdn.myanimelist.net/images/anime/13/50685.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 君のいる町

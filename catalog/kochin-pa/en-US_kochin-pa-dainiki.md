@@ -1,5 +1,7 @@
 # KochinPa! Dainiki
 
+![kochin-pa-dainiki](https://cdn.myanimelist.net/images/anime/13/83194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: コチン Pa! 第二期

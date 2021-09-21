@@ -1,5 +1,7 @@
 # Dead Leaves
 
+![dead-leaves](https://cdn.myanimelist.net/images/anime/1827/112657.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デッド　リーブス

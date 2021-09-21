@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Hirukowashi-hen
 
+![higurashi-no-naku-koro-ni-hirukowashi-hen](https://cdn.myanimelist.net/images/manga/5/38618.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

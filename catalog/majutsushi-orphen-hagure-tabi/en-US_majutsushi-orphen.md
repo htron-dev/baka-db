@@ -1,5 +1,7 @@
 # Majutsushi Orphen
 
+![majutsushi-orphen](https://cdn.myanimelist.net/images/anime/13/61839.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 魔術士オーフェン

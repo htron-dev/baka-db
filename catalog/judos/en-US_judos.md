@@ -1,5 +1,7 @@
 # Judos
 
+![judos](https://cdn.myanimelist.net/images/manga/1/149133.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # El Hazard: The Magnificent World
 
+![el-hazard-the-magnificent-world](https://cdn.myanimelist.net/images/manga/2/8668.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

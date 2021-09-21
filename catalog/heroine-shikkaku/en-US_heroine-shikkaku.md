@@ -1,5 +1,7 @@
 # Heroine Shikkaku
 
+![heroine-shikkaku](https://cdn.myanimelist.net/images/manga/1/37848.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 42

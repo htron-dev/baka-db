@@ -1,5 +1,7 @@
 # Hana wa Saku
 
+![hana-wa-saku](https://cdn.myanimelist.net/images/anime/5/47699.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 花は咲く

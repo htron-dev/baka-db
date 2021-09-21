@@ -1,5 +1,7 @@
 # Imagine 29
 
+![imagine-29](https://cdn.myanimelist.net/images/manga/2/163748.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

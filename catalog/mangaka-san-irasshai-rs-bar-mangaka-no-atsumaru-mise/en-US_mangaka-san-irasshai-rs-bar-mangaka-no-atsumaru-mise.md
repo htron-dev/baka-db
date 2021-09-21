@@ -1,5 +1,7 @@
 # Mangaka-san Irasshai! R's Bar: Mangaka no Atsumaru Mise
 
+![mangaka-san-irasshai-rs-bar-mangaka-no-atsumaru-mise](https://cdn.myanimelist.net/images/manga/2/179343.jpg)
+
 -   **type**: manga
 -   **chapters**: 19
 -   **original-name**: 漫画家さん いらっしゃい! R's Bar ～漫画家の集まる店～

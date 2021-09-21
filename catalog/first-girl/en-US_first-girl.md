@@ -1,5 +1,7 @@
 # First Girl
 
+![first-girl](https://cdn.myanimelist.net/images/manga/2/40473.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 18

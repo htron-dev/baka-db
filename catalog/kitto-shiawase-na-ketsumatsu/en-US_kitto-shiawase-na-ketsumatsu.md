@@ -1,5 +1,7 @@
 # Kitto, Shiawase na Ketsumatsu
 
+![kitto-shiawase-na-ketsumatsu](https://cdn.myanimelist.net/images/manga/1/236782.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

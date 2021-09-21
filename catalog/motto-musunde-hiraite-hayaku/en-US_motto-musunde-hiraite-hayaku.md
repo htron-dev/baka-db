@@ -1,5 +1,7 @@
 # Motto Musunde, Hiraite Hayaku
 
+![motto-musunde-hiraite-hayaku](https://cdn.myanimelist.net/images/manga/3/207457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

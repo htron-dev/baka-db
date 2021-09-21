@@ -1,5 +1,7 @@
 # Kappa no Suribachi
 
+![kappa-no-suribachi](https://cdn.myanimelist.net/images/anime/9/70851.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かっぱのすりばち

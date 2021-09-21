@@ -1,5 +1,7 @@
 # Hana yori mo Hana no Gotoku
 
+![hana-yori-mo-hana-no-gotoku](https://cdn.myanimelist.net/images/manga/1/59183.jpg)
+
 -   **type**: manga
 -   **original-name**: 花よりも花の如く
 -   **start-date**: 2002-05-28

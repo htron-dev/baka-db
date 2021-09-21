@@ -1,5 +1,7 @@
 # Hyouken no Majutsushi ga Sekai wo Suberu: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku suru
 
+![hyouken-no-majutsushi-ga-sekai-wo-suberu-sekai-saikyou-no-majutsushi-de-aru-shounen-wa-majutsu-gakuin-ni-nyuugaku-suru](https://cdn.myanimelist.net/images/manga/2/236897.jpg)
+
 -   **type**: manga
 -   **original-name**: 冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する
 -   **start-date**: 2020-06-24

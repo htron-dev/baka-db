@@ -1,5 +1,7 @@
 # Hoshi no Hitomi no Silhouette
 
+![hoshi-no-hitomi-no-silhouette](https://cdn.myanimelist.net/images/manga/4/175904.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 43

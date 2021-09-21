@@ -1,5 +1,7 @@
 # Kanon Kazahana
 
+![kanon-kazahana](https://cdn.myanimelist.net/images/anime/12/43619.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カノン 風花

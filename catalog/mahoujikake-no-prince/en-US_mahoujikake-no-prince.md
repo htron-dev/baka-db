@@ -1,5 +1,7 @@
 # Mahoujikake no Prince
 
+![mahoujikake-no-prince](https://cdn.myanimelist.net/images/manga/3/202315.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法じかけ ×（の）プリンス
 -   **start-date**: 2017-02-28

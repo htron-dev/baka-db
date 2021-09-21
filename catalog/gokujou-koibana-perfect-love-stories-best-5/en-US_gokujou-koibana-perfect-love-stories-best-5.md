@@ -1,5 +1,7 @@
 # Gokujou Koibana: Perfect Love Stories Best 5
 
+![gokujou-koibana-perfect-love-stories-best-5](https://cdn.myanimelist.net/images/manga/1/18169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

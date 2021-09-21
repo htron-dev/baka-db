@@ -1,5 +1,7 @@
 # Hokuhokusei ni Kumo to Ike
 
+![hokuhokusei-ni-kumo-to-ike](https://cdn.myanimelist.net/images/manga/1/201696.jpg)
+
 -   **type**: manga
 -   **original-name**: 北北西に曇と往け
 -   **start-date**: 2016-03-14

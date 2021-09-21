@@ -1,5 +1,7 @@
 # Makenshi no Maken ni Yoru Maken no Tame no Harem Life
 
+![makenshi-no-maken-ni-yoru-maken-no-tame-no-harem-life](https://cdn.myanimelist.net/images/manga/1/225260.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔剣師の魔剣による魔剣のためのハーレムライフ
 -   **start-date**: 2019-03-25

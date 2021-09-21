@@ -1,5 +1,7 @@
 # Kairaku no Sono
 
+![kairaku-no-sono](https://cdn.myanimelist.net/images/anime/2/71847.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 快楽の園

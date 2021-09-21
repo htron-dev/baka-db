@@ -1,5 +1,7 @@
 # I'm Looking for the Princess
 
+![im-looking-for-the-princess](https://cdn.myanimelist.net/images/manga/3/31114.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 공주님을 찾습니다

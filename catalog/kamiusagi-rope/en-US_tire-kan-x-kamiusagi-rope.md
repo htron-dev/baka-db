@@ -1,5 +1,7 @@
 # Tire Kan x Kamiusagi Rope
 
+![tire-kan-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/7/84995.jpg)
+
 -   **type**: ona
 -   **episodes**: 22
 -   **original-name**: タイヤ館 x 紙兎ロペ

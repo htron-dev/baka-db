@@ -1,5 +1,7 @@
 # Densetsu no Yuusha no Konkatsu
 
+![densetsu-no-yuusha-no-konkatsu](https://cdn.myanimelist.net/images/manga/1/191354.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

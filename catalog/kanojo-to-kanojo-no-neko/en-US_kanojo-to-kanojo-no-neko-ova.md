@@ -1,5 +1,7 @@
 # Kanojo to Kanojo no Neko
 
+![kanojo-to-kanojo-no-neko](https://cdn.myanimelist.net/images/anime/11/73498.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 彼女と彼女の猫

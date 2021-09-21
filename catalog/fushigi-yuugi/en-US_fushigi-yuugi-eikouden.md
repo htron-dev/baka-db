@@ -1,5 +1,7 @@
 # Fushigi Yuugi: Eikouden
 
+![fushigi-yuugi-eikouden](https://cdn.myanimelist.net/images/anime/11/67701.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ふしぎ遊戯 -永光伝

@@ -1,5 +1,7 @@
 # Mister Zipangu
 
+![mister-zipangu](https://cdn.myanimelist.net/images/manga/1/149057.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 78

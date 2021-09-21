@@ -1,5 +1,7 @@
 # Dengeki Oshioki Musume Gootaman
 
+![dengeki-oshioki-musume-gootaman](https://cdn.myanimelist.net/images/manga/2/26445.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 臀撃おしおき娘ゴータマン

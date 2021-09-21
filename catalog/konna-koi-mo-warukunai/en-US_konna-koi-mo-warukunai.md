@@ -1,5 +1,7 @@
 # Konna Koi mo Warukunai
 
+![konna-koi-mo-warukunai](https://cdn.myanimelist.net/images/manga/2/27157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

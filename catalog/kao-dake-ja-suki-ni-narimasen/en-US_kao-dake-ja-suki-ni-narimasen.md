@@ -1,5 +1,7 @@
 # Kao dake ja Suki ni Narimasen
 
+![kao-dake-ja-suki-ni-narimasen](https://cdn.myanimelist.net/images/manga/3/240024.jpg)
+
 -   **type**: manga
 -   **original-name**: 顔だけじゃ好きになりません
 -   **start-date**: 2020-07-20

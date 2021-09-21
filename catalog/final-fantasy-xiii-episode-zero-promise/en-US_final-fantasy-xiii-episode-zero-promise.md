@@ -1,5 +1,7 @@
 # Final Fantasy XIII: Episode Zero - Promise
 
+![final-fantasy-xiii-episode-zero-promise](https://cdn.myanimelist.net/images/manga/1/136983.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

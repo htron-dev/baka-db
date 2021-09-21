@@ -1,5 +1,7 @@
 # Moriguchi Orito no Teiougaku
 
+![moriguchi-orito-no-teiougaku](https://cdn.myanimelist.net/images/manga/3/56305.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

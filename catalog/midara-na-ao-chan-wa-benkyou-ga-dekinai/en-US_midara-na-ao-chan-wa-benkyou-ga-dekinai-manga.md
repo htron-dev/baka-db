@@ -1,5 +1,7 @@
 # Midara na Ao-chan wa Benkyou ga Dekinai
 
+![midara-na-ao-chan-wa-benkyou-ga-dekinai](https://cdn.myanimelist.net/images/manga/3/179091.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

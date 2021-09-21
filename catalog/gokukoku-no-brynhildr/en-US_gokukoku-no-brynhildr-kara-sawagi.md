@@ -1,5 +1,7 @@
 # Gokukoku no Brynhildr: Kara Sawagi
 
+![gokukoku-no-brynhildr-kara-sawagi](https://cdn.myanimelist.net/images/anime/9/68045.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 極黒のブリュンヒルデ 第 11.5 話 から騒ぎ

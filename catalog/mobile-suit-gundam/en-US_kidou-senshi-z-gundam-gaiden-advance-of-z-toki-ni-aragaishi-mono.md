@@ -1,5 +1,7 @@
 # Kidou Senshi Z Gundam Gaiden: Advance of Z - Toki ni Aragaishi Mono
 
+![kidou-senshi-z-gundam-gaiden-advance-of-z-toki-ni-aragaishi-mono](https://cdn.myanimelist.net/images/manga/1/230101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Moon Lost
 
+![moon-lost](https://cdn.myanimelist.net/images/manga/3/39871.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ムーン・ロスト

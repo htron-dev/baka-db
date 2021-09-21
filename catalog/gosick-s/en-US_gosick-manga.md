@@ -1,5 +1,7 @@
 # Gosick
 
+![gosick](https://cdn.myanimelist.net/images/manga/2/148131.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 29

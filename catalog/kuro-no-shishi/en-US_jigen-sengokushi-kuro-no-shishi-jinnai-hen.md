@@ -1,5 +1,7 @@
 # Jigen Sengokushi: Kuro no Shishi - Jinnai-hen
 
+![jigen-sengokushi-kuro-no-shishi-jinnai-hen](https://cdn.myanimelist.net/images/anime/1/1759.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 時元戦国史 黒の獅士 陣内篇

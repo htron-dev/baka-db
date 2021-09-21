@@ -1,5 +1,7 @@
 # Keppeki Danshi! Aoyama-kun
 
+![keppeki-danshi-aoyama-kun](https://cdn.myanimelist.net/images/anime/9/86644.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 潔癖男子！青山くん

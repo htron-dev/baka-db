@@ -1,5 +1,7 @@
 # Kyonshii Sennyo
 
+![kyonshii-sennyo](https://cdn.myanimelist.net/images/manga/1/9928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キョンシー仙女

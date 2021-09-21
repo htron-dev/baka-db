@@ -1,5 +1,7 @@
 # Kieli: Shisha-tachi wa Kouya ni Nemuru
 
+![kieli-shisha-tachi-wa-kouya-ni-nemuru](https://cdn.myanimelist.net/images/manga/2/185731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

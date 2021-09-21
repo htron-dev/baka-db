@@ -1,5 +1,7 @@
 # Moeru Gomi wa Kayoubi ni.
 
+![moeru-gomi-wa-kayoubi-ni](https://cdn.myanimelist.net/images/manga/1/164031.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

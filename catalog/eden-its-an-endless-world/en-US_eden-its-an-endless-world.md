@@ -1,5 +1,7 @@
 # Eden: It's an Endless World!
 
+![eden-its-an-endless-world](https://cdn.myanimelist.net/images/manga/2/63117.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 127

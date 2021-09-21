@@ -1,5 +1,7 @@
 # DC Super Heroes vs Taka no Tsume-dan
 
+![dc-super-heroes-vs-taka-no-tsume-dan](https://cdn.myanimelist.net/images/anime/9/85930.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: DC スーパーヒーローズ vs 鷹の爪団

@@ -1,5 +1,7 @@
 # Meitantei Conan: Kodai Kyouryuu no Nazo ni Semare!
 
+![meitantei-conan-kodai-kyouryuu-no-nazo-ni-semare](https://cdn.myanimelist.net/images/anime/10/79627.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 古代恐竜の謎に迫れ!

@@ -1,5 +1,7 @@
 # Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito
 
+![kono-naka-ni-hitori-imouto-ga-iru-ani-imouto-koibito](https://cdn.myanimelist.net/images/anime/11/51459.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: この中に 1 人、妹がいる！兄、妹、恋人

@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: The Human Algorithm
 
+![koukaku-kidoutai-the-human-algorithm](https://cdn.myanimelist.net/images/manga/3/232394.jpg)
+
 -   **type**: manga
 -   **original-name**: 攻殻機動隊 THE HUMAN ALGORITHM
 -   **start-date**: 2019-09-16

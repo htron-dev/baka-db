@@ -1,5 +1,7 @@
 # Hachimitsu no Aji
 
+![hachimitsu-no-aji](https://cdn.myanimelist.net/images/manga/2/36790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

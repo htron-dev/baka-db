@@ -1,5 +1,7 @@
 # Mizu no Mori
 
+![mizu-no-mori](https://cdn.myanimelist.net/images/manga/2/202970.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

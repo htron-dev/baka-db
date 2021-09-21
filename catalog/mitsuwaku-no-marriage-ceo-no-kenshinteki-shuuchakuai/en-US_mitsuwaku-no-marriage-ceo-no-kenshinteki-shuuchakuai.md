@@ -1,5 +1,7 @@
 # Mitsuwaku no Marriage: CEO no Kenshinteki Shuuchakuai
 
+![mitsuwaku-no-marriage-ceo-no-kenshinteki-shuuchakuai](https://cdn.myanimelist.net/images/manga/1/195567.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

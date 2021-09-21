@@ -1,5 +1,7 @@
 # Kocchi ni Oide
 
+![kocchi-ni-oide](https://cdn.myanimelist.net/images/manga/2/72309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Final Fantasy: Unlimited
 
+![final-fantasy-unlimited](https://cdn.myanimelist.net/images/anime/9/20919.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ファイナルファンタジー：アンリミテッド

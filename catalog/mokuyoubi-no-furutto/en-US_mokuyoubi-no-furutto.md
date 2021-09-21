@@ -1,5 +1,7 @@
 # Mokuyoubi no Furutto
 
+![mokuyoubi-no-furutto](https://cdn.myanimelist.net/images/manga/3/37477.jpg)
+
 -   **type**: manga
 -   **original-name**: 木曜日のフルット
 

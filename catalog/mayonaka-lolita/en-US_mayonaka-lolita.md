@@ -1,5 +1,7 @@
 # Mayonaka Lolita
 
+![mayonaka-lolita](https://cdn.myanimelist.net/images/manga/2/65721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

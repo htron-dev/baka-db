@@ -1,5 +1,7 @@
 # Yajirushi
 
+![yajirushi](https://cdn.myanimelist.net/images/manga/2/159494.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

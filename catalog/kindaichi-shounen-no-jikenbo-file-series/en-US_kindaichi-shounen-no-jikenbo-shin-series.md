@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo - Shin Series
 
+![kindaichi-shounen-no-jikenbo-shin-series](https://cdn.myanimelist.net/images/manga/3/34312.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 107

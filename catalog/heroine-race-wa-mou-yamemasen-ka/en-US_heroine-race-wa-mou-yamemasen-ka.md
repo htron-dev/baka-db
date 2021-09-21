@@ -1,5 +1,7 @@
 # Heroine Race wa Mou Yamemasen ka?
 
+![heroine-race-wa-mou-yamemasen-ka](https://cdn.myanimelist.net/images/manga/1/243577.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ヒロインレースはもうやめませんか？
 -   **start-date**: 2020-12-10

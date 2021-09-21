@@ -1,5 +1,7 @@
 # Library Cross Infinite
 
+![library-cross-infinite](https://cdn.myanimelist.net/images/anime/3/87563.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: LibraryCross∞
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Mugi no Mahoutsukai
 
+![mugi-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/203715.jpg)
+
 -   **type**: manga
 -   **original-name**: 麦の魔法使い
 -   **start-date**: 2016-08-23

@@ -1,5 +1,7 @@
 # Haou Taikei Ryuu Knight: Adeu Legend
 
+![haou-taikei-ryuu-knight-adeu-legend](https://cdn.myanimelist.net/images/anime/10/52143.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 覇王大系リューナイト アデュー・レジェンド

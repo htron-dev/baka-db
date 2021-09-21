@@ -1,5 +1,7 @@
 # Kyoushirou 2030
 
+![kyoushirou-2030](https://cdn.myanimelist.net/images/manga/2/43395.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 157

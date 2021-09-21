@@ -1,5 +1,7 @@
 # Hana Inu Nikki
 
+![hana-inu-nikki](https://cdn.myanimelist.net/images/manga/2/11158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花いぬ日記

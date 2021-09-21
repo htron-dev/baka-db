@@ -1,5 +1,7 @@
 # Hello Kitty no Fushigi na Mizuumi
 
+![hello-kitty-no-fushigi-na-mizuumi](https://cdn.myanimelist.net/images/anime/12/58675.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのキティのふしぎなみずうみ

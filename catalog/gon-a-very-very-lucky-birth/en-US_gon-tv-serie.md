@@ -1,5 +1,7 @@
 # Gon
 
+![gon](https://cdn.myanimelist.net/images/anime/6/36931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゴン

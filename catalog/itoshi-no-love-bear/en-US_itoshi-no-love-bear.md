@@ -1,5 +1,7 @@
 # Itoshi no Love Bear
 
+![itoshi-no-love-bear](https://cdn.myanimelist.net/images/manga/3/134085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kaizoku to Ningyo
 
+![kaizoku-to-ningyo](https://cdn.myanimelist.net/images/manga/2/19758.jpg)
+
 -   **type**: manga
 -   **original-name**: 海賊と人魚
 -   **start-date**: 2007-12-19

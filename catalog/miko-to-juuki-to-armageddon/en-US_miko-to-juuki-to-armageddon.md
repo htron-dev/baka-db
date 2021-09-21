@@ -1,5 +1,7 @@
 # Miko to Juuki to Armageddon
 
+![miko-to-juuki-to-armageddon](https://cdn.myanimelist.net/images/manga/2/138717.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 巫女と銃器とハルマゲドン

@@ -1,5 +1,7 @@
 # Dr. Slump
 
+![dr-slump](https://cdn.myanimelist.net/images/anime/10/5297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 74
 -   **original-name**: ドクタースランプ

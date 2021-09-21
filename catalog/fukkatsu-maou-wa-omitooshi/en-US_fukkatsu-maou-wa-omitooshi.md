@@ -1,5 +1,7 @@
 # Fukkatsu Maou wa Omitooshi?
 
+![fukkatsu-maou-wa-omitooshi](https://cdn.myanimelist.net/images/manga/1/182330.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 復活魔王はお見通し?
 -   **start-date**: 2016-08-31

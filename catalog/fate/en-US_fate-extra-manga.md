@@ -1,5 +1,7 @@
 # Fate/Extra
 
+![fate-extra](https://cdn.myanimelist.net/images/manga/2/139337.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

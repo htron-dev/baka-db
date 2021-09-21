@@ -1,5 +1,7 @@
 # Drahen no Kishi
 
+![drahen-no-kishi](https://cdn.myanimelist.net/images/manga/1/57235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

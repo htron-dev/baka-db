@@ -1,5 +1,7 @@
 # Hiru no Hakushaku, Yoru no Hakushaku
 
+![hiru-no-hakushaku-yoru-no-hakushaku](https://cdn.myanimelist.net/images/manga/3/194766.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 昼の伯爵、夜の伯爵

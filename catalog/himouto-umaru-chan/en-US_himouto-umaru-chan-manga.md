@@ -1,5 +1,7 @@
 # Himouto! Umaru-chan
 
+![himouto-umaru-chan](https://cdn.myanimelist.net/images/manga/2/204588.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 229

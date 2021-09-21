@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture
 
+![ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture](https://cdn.myanimelist.net/images/anime/8/22498.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河英雄伝説外伝　新たなる戦いの序曲[オーヴァチュア]

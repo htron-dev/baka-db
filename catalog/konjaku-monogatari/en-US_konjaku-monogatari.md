@@ -1,5 +1,7 @@
 # Konjaku Monogatari
 
+![konjaku-monogatari](https://cdn.myanimelist.net/images/manga/3/85207.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

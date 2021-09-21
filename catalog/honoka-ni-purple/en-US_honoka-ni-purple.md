@@ -1,5 +1,7 @@
 # Honoka ni Purple
 
+![honoka-ni-purple](https://cdn.myanimelist.net/images/manga/1/53635.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

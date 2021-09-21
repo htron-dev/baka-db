@@ -1,5 +1,7 @@
 # Last Savior
 
+![last-savior](https://cdn.myanimelist.net/images/manga/2/160761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ラストセイバー

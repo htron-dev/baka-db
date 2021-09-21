@@ -1,5 +1,7 @@
 # Kurogane no Linebarrels
 
+![kurogane-no-linebarrels](https://cdn.myanimelist.net/images/anime/2/50375.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 鉄のラインバレル

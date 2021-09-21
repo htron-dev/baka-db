@@ -1,5 +1,7 @@
 # Mao no Kishuku Gakkou
 
+![mao-no-kishuku-gakkou](https://cdn.myanimelist.net/images/manga/2/231428.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

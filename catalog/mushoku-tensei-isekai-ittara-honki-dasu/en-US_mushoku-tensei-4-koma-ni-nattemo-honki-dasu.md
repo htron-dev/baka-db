@@ -1,5 +1,7 @@
 # Mushoku Tensei: 4-koma ni Nattemo Honki Dasu
 
+![mushoku-tensei-4-koma-ni-nattemo-honki-dasu](https://cdn.myanimelist.net/images/manga/1/236976.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

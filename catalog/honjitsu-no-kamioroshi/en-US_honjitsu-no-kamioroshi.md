@@ -1,5 +1,7 @@
 # Honjitsu no Kamioroshi
 
+![honjitsu-no-kamioroshi](https://cdn.myanimelist.net/images/manga/3/223566.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

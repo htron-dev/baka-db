@@ -1,5 +1,7 @@
 # Let's Nupu Nupu
 
+![lets-nupu-nupu](https://cdn.myanimelist.net/images/anime/6/58797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: LET'S 　ぬぷぬぷっ

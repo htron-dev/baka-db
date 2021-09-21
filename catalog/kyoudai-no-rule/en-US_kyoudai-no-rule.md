@@ -1,5 +1,7 @@
 # Kyoudai no Rule.
 
+![kyoudai-no-rule](https://cdn.myanimelist.net/images/manga/1/160204.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

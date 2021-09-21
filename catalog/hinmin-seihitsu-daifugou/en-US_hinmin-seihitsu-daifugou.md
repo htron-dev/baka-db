@@ -1,5 +1,7 @@
 # Hinmin, Seihitsu, Daifugou
 
+![hinmin-seihitsu-daifugou](https://cdn.myanimelist.net/images/manga/2/200779.jpg)
+
 -   **type**: manga
 -   **original-name**: 貧民、聖櫃、大富豪
 -   **start-date**: 2016-12-19

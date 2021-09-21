@@ -1,5 +1,7 @@
 # Gleipnir
 
+![gleipnir](https://cdn.myanimelist.net/images/manga/3/174385.jpg)
+
 -   **type**: manga
 -   **original-name**: グレイプニル
 -   **start-date**: 2015-10-06

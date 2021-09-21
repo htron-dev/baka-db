@@ -1,5 +1,7 @@
 # Iinari! Aibration
 
+![iinari-aibration](https://cdn.myanimelist.net/images/manga/3/50929.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

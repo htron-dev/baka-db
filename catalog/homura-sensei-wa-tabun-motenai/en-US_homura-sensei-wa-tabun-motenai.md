@@ -1,5 +1,7 @@
 # Homura-sensei wa Tabun Motenai
 
+![homura-sensei-wa-tabun-motenai](https://cdn.myanimelist.net/images/manga/3/233788.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ほむら先生はたぶんモテない

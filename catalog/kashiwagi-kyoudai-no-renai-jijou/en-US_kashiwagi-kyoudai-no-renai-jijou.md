@@ -1,5 +1,7 @@
 # Kashiwagi Kyoudai no Renai Jijou
 
+![kashiwagi-kyoudai-no-renai-jijou](https://cdn.myanimelist.net/images/manga/2/134717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Dekiai Honey Baby
 
+![dekiai-honey-baby](https://cdn.myanimelist.net/images/manga/3/226820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

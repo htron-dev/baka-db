@@ -1,5 +1,7 @@
 # Hachimitsu ni Hatsukoi
 
+![hachimitsu-ni-hatsukoi](https://cdn.myanimelist.net/images/manga/2/151460.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 73

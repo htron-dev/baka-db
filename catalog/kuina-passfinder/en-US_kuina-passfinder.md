@@ -1,5 +1,7 @@
 # Kuina Passfinder
 
+![kuina-passfinder](https://cdn.myanimelist.net/images/manga/3/125603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: くいなパスファインダー

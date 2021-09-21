@@ -1,5 +1,7 @@
 # Fusha no Sha
 
+![fusha-no-sha](https://cdn.myanimelist.net/images/anime/11/17915.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 不射之射

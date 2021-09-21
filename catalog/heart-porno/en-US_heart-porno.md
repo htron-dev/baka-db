@@ -1,5 +1,7 @@
 # Heart Porno
 
+![heart-porno](https://cdn.myanimelist.net/images/manga/4/36314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハートポルノ

@@ -1,5 +1,7 @@
 # Ima Doki
 
+![ima-doki](https://cdn.myanimelist.net/images/manga/1/36787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

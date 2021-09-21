@@ -1,5 +1,7 @@
 # MAFF x Chobitto Zukan
 
+![maff-x-chobitto-zukan](https://cdn.myanimelist.net/images/anime/8/85605.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: MAFF × CHOBITTO DUKAN

@@ -1,5 +1,7 @@
 # Koi wa Go Go!
 
+![koi-wa-go-go](https://cdn.myanimelist.net/images/manga/3/130145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

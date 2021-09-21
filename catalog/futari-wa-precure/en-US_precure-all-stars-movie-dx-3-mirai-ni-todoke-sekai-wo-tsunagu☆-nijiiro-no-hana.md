@@ -1,5 +1,7 @@
 # Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana
 
+![precure-all-stars-movie-dx-3-mirai-ni-todoke-sekai-wo-tsunagu☆-nijiiro-no-hana](https://cdn.myanimelist.net/images/anime/12/27934.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 プリキュアオールスターズ DX3 未来に届け!世界をつなぐ ☆ 虹色の花

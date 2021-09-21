@@ -1,5 +1,7 @@
 # Hyra no SP: Ryuubatsuchou Chousa Shikkoubu Dai-3-ka
 
+![hyra-no-sp-ryuubatsuchou-chousa-shikkoubu-dai-3-ka](https://cdn.myanimelist.net/images/manga/1/167060.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

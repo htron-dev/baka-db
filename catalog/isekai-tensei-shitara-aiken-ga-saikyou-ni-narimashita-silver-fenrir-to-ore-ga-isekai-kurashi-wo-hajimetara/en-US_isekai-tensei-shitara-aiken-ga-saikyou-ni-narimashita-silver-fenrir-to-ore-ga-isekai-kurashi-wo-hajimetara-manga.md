@@ -1,5 +1,7 @@
 # Isekai Tensei shitara Aiken ga Saikyou ni Narimashita: Silver Fenrir to Ore ga Isekai Kurashi wo Hajimetara
 
+![isekai-tensei-shitara-aiken-ga-saikyou-ni-narimashita-silver-fenrir-to-ore-ga-isekai-kurashi-wo-hajimetara](https://cdn.myanimelist.net/images/manga/3/246074.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転移したら愛犬が最強になりました～シルバーフェンリルと俺が異世界暮らしを始めたら～
 -   **start-date**: 2021-05-31

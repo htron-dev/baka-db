@@ -1,5 +1,7 @@
 # Honey 2 Skip
 
+![honey-2-skip](https://cdn.myanimelist.net/images/manga/2/4994.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

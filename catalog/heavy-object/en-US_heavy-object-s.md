@@ -1,5 +1,7 @@
 # Heavy Object S
 
+![heavy-object-s](https://cdn.myanimelist.net/images/manga/2/140085.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

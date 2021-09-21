@@ -1,5 +1,7 @@
 # Manken ni Bishoujo
 
+![manken-ni-bishoujo](https://cdn.myanimelist.net/images/manga/1/236102.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

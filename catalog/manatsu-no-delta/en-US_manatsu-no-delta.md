@@ -1,5 +1,7 @@
 # Manatsu no Delta
 
+![manatsu-no-delta](https://cdn.myanimelist.net/images/manga/1/226251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

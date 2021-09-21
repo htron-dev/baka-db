@@ -1,5 +1,7 @@
 # Mazin Saga
 
+![mazin-saga](https://cdn.myanimelist.net/images/manga/3/12013.jpg)
+
 -   **type**: manga
 -   **original-name**: マジンサーガ
 -   **start-date**: 1990-01-01

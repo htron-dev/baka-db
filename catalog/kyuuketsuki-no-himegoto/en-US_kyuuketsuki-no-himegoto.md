@@ -1,5 +1,7 @@
 # Kyuuketsuki no Himegoto
 
+![kyuuketsuki-no-himegoto](https://cdn.myanimelist.net/images/manga/2/164322.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 吸血鬼のひめごと

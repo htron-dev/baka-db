@@ -1,5 +1,7 @@
 # Deadpool: Samurai
 
+![deadpool-samurai](https://cdn.myanimelist.net/images/manga/2/242625.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

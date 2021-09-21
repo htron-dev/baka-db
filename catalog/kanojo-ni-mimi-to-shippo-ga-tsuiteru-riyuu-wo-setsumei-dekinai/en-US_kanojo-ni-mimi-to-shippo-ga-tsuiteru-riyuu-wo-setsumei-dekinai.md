@@ -1,5 +1,7 @@
 # Kanojo ni Mimi to Shippo ga Tsuiteru Riyuu wo Setsumei Dekinai.
 
+![kanojo-ni-mimi-to-shippo-ga-tsuiteru-riyuu-wo-setsumei-dekinai](https://cdn.myanimelist.net/images/manga/2/163207.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

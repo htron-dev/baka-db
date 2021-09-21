@@ -1,5 +1,7 @@
 # Shousetsu Finder no Rakuin
 
+![shousetsu-finder-no-rakuin](https://cdn.myanimelist.net/images/manga/3/127839.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

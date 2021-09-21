@@ -1,5 +1,7 @@
 # I gotta believe! ~Ore Nara Dekiru sa~
 
+![i-gotta-believe-ore-nara-dekiru-sa](https://cdn.myanimelist.net/images/manga/1/41971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

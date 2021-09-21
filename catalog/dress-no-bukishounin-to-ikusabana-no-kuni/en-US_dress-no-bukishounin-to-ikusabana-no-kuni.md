@@ -1,5 +1,7 @@
 # Dress no Bukishounin to Ikusabana no Kuni
 
+![dress-no-bukishounin-to-ikusabana-no-kuni](https://cdn.myanimelist.net/images/manga/2/162660.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Every Day Every Night
 
+![every-day-every-night](https://cdn.myanimelist.net/images/manga/2/150820.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

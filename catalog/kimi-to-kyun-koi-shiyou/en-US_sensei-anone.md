@@ -1,5 +1,7 @@
 # Sensei, Anone.
 
+![sensei-anone](https://cdn.myanimelist.net/images/manga/1/85297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

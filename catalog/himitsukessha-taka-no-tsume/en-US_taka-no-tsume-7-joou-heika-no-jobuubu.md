@@ -1,5 +1,7 @@
 # Taka no Tsume 7: Joou Heika no Jobuubu
 
+![taka-no-tsume-7-joou-heika-no-jobuubu](https://cdn.myanimelist.net/images/anime/3/90066.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鷹の爪７ ～女王陛下のジョブーブ～

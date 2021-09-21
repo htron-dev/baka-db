@@ -1,5 +1,7 @@
 # Mayoi Neko Overdrive: Ginrou vs Dog Ninja
 
+![mayoi-neko-overdrive-ginrou-vs-dog-ninja](https://cdn.myanimelist.net/images/manga/1/125767.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 迷い猫オーバードライブ銀狼 VS ドッグニンジャ

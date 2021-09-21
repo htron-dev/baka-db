@@ -1,5 +1,7 @@
 # Kiss Yori Toiki Yori
 
+![kiss-yori-toiki-yori](https://cdn.myanimelist.net/images/manga/3/21017.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キスより吐息より

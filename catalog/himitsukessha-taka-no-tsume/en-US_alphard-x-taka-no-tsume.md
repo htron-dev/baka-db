@@ -1,5 +1,7 @@
 # Alphard x Taka no Tsume
 
+![alphard-x-taka-no-tsume](https://cdn.myanimelist.net/images/anime/1197/90147.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: アルファード × 鷹の爪

@@ -1,5 +1,7 @@
 # Kamui: End of Ark
 
+![kamui-end-of-ark](https://cdn.myanimelist.net/images/manga/2/97989.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 神威 End of Ark

@@ -1,5 +1,7 @@
 # Renai Houteishiki
 
+![renai-houteishiki](https://cdn.myanimelist.net/images/manga/2/193455.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

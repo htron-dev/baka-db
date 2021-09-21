@@ -1,5 +1,7 @@
 # Mitsuaku Harem
 
+![mitsuaku-harem](https://cdn.myanimelist.net/images/manga/2/36492.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蜜悪ハーレム

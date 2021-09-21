@@ -1,5 +1,7 @@
 # Mahoutsukai no Neko
 
+![mahoutsukai-no-neko](https://cdn.myanimelist.net/images/manga/1/37344.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Garden Lost
 
+![garden-lost](https://cdn.myanimelist.net/images/manga/2/134807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

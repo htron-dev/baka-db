@@ -1,5 +1,7 @@
 # Kuro-chan Chi no Oshiire ga Tsukaenai Wake
 
+![kuro-chan-chi-no-oshiire-ga-tsukaenai-wake](https://cdn.myanimelist.net/images/manga/3/206305.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

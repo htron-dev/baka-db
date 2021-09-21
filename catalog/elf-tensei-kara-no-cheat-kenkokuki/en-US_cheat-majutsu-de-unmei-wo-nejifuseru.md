@@ -1,5 +1,7 @@
 # Cheat Majutsu de Unmei wo Nejifuseru
 
+![cheat-majutsu-de-unmei-wo-nejifuseru](https://cdn.myanimelist.net/images/manga/1/211095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 182

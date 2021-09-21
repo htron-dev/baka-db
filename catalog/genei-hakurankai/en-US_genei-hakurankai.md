@@ -1,5 +1,7 @@
 # Genei Hakurankai
 
+![genei-hakurankai](https://cdn.myanimelist.net/images/manga/2/6169.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

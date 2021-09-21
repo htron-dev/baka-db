@@ -1,5 +1,7 @@
 # Gozen 3-ji no Fukyouwaon
 
+![gozen-3-ji-no-fukyouwaon](https://cdn.myanimelist.net/images/manga/1/143557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

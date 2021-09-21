@@ -1,5 +1,7 @@
 # Kenzen Robo Daimidaler
 
+![kenzen-robo-daimidaler](https://cdn.myanimelist.net/images/anime/2/61435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 健全ロボ ダイミダラー

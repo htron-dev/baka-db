@@ -1,5 +1,7 @@
 # Kagekuri Kitan
 
+![kagekuri-kitan](https://cdn.myanimelist.net/images/manga/1/215594.jpg)
+
 -   **type**: manga
 -   **original-name**: 影繰姫譚
 -   **start-date**: 2018-09-27

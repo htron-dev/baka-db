@@ -1,5 +1,7 @@
 # ēlDLIVE
 
+![el-dlive](https://cdn.myanimelist.net/images/manga/1/173532.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: エルドライブ 【ēlDLIVE】

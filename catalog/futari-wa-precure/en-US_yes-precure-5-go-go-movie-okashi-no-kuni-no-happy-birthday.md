@@ -1,5 +1,7 @@
 # Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday
 
+![yes-precure-5-go-go-movie-okashi-no-kuni-no-happy-birthday](https://cdn.myanimelist.net/images/anime/11/58219.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画　 Yes! プリキュア５ GoGo! お菓子の国のハッピーバースデイ

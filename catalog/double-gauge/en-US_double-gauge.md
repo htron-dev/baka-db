@@ -1,5 +1,7 @@
 # Double Gauge
 
+![double-gauge](https://cdn.myanimelist.net/images/manga/2/190846.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

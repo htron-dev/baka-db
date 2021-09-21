@@ -1,5 +1,7 @@
 # Kirin Ashita no Calendar
 
+![kirin-ashita-no-calendar](https://cdn.myanimelist.net/images/anime/8/77873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1306
 -   **original-name**: キリンあしたのカレンダー

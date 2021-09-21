@@ -1,5 +1,7 @@
 # Koi wo Suru made Kaesanai
 
+![koi-wo-suru-made-kaesanai](https://cdn.myanimelist.net/images/manga/1/36726.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

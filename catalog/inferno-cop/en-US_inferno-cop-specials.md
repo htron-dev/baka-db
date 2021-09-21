@@ -1,5 +1,7 @@
 # Inferno Cop Specials
 
+![inferno-cop-specials](https://cdn.myanimelist.net/images/anime/5/74603.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: インフェルノコップ

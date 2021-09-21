@@ -1,5 +1,7 @@
 # Mangaka-san no Oishii Sashiire
 
+![mangaka-san-no-oishii-sashiire](https://cdn.myanimelist.net/images/manga/2/234307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 42

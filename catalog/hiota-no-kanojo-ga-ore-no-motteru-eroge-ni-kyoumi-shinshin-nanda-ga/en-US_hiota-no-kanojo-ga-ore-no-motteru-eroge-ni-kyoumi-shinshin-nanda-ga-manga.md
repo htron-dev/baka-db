@@ -1,5 +1,7 @@
 # Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga......
 
+![hiota-no-kanojo-ga-ore-no-motteru-eroge-ni-kyoumi-shinshin-nanda-ga](https://cdn.myanimelist.net/images/manga/1/189877.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

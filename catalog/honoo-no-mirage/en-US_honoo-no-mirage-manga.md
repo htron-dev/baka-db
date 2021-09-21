@@ -1,5 +1,7 @@
 # Honoo no Mirage
 
+![honoo-no-mirage](https://cdn.myanimelist.net/images/manga/1/31810.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

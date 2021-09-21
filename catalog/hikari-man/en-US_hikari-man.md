@@ -1,5 +1,7 @@
 # Hikari-Man
 
+![hikari-man](https://cdn.myanimelist.net/images/manga/2/152021.jpg)
+
 -   **type**: manga
 -   **original-name**: HIKARI-MAN
 -   **start-date**: 2014-12-08

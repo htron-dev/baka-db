@@ -1,5 +1,7 @@
 # Hitomi no Mahou
 
+![hitomi-no-mahou](https://cdn.myanimelist.net/images/manga/2/170098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 瞳の魔法

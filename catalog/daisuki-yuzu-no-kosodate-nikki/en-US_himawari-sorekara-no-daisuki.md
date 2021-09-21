@@ -1,5 +1,7 @@
 # Himawari!!: Sorekara no Daisuki!!
 
+![himawari-sorekara-no-daisuki](https://cdn.myanimelist.net/images/manga/2/165246.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 46

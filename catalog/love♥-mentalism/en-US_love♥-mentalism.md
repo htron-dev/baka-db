@@ -1,5 +1,7 @@
 # Love♥Mentalism
 
+![love♥-mentalism](https://cdn.myanimelist.net/images/manga/1/146807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ki Renka
 
+![ki-renka](https://cdn.myanimelist.net/images/anime/3/71337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鬼恋歌

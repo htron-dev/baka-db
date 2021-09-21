@@ -1,5 +1,7 @@
 # Gekka no Ori
 
+![gekka-no-ori](https://cdn.myanimelist.net/images/manga/2/136919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月下の檻

@@ -1,5 +1,7 @@
 # Kayoe! Chuugaku
 
+![kayoe-chuugaku](https://cdn.myanimelist.net/images/anime/1305/96062.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 425
 -   **original-name**: かよえ！チュー学

@@ -1,5 +1,7 @@
 # Mitarai-ke, Enjou suru
 
+![mitarai-ke-enjou-suru](https://cdn.myanimelist.net/images/manga/2/204291.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

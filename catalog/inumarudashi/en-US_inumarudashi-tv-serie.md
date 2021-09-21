@@ -1,5 +1,7 @@
 # Inumarudashi
 
+![inumarudashi](https://cdn.myanimelist.net/images/anime/12/36871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: いぬまるだしっ

@@ -1,5 +1,7 @@
 # Hyakkakyu no Osouji-gakari: Tensei shita Shinmai Kyuujo, Koukyuu no Onayami Kaiketsu shimasu.
 
+![hyakkakyu-no-osouji-gakari-tensei-shita-shinmai-kyuujo-koukyuu-no-onayami-kaiketsu-shimasu](https://cdn.myanimelist.net/images/manga/3/241640.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 百花宮のお掃除係　転生した新米宮女、後宮のお悩み解決します。
 -   **start-date**: 2020-01-10

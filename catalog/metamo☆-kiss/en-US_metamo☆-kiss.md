@@ -1,5 +1,7 @@
 # Metamo☆Kiss
 
+![metamo☆-kiss](https://cdn.myanimelist.net/images/manga/2/109471.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Issunboushi no Shusse
 
+![issunboushi-no-shusse](https://cdn.myanimelist.net/images/anime/8/7078.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一寸法師ノ出世

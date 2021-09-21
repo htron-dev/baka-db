@@ -1,5 +1,7 @@
 # Kousoku Syndrome
 
+![kousoku-syndrome](https://cdn.myanimelist.net/images/manga/2/224579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mansen Maou Shoujo Ena-sama
 
+![mansen-maou-shoujo-ena-sama](https://cdn.myanimelist.net/images/manga/3/149016.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

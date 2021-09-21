@@ -1,5 +1,7 @@
 # Kyuuketsuki ni Aisareru Houhou
 
+![kyuuketsuki-ni-aisareru-houhou](https://cdn.myanimelist.net/images/manga/3/24705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

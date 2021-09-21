@@ -1,5 +1,7 @@
 # Maomao De Gushi
 
+![maomao-de-gushi](https://cdn.myanimelist.net/images/anime/1899/115450.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 毛毛的故事

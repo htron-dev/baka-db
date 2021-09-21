@@ -1,5 +1,7 @@
 # Meitantei Conan: Zero no Tea Time
 
+![meitantei-conan-zero-no-tea-time](https://cdn.myanimelist.net/images/manga/2/211287.jpg)
+
 -   **type**: manga
 -   **original-name**: 名探偵コナン ゼロの日常〈ティータイム〉
 -   **start-date**: 2018-05-09

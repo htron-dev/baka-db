@@ -1,5 +1,7 @@
 # Hanabatake de Chijou 90 cm no Kiss wo.
 
+![hanabatake-de-chijou-90-cm-no-kiss-wo](https://cdn.myanimelist.net/images/manga/3/91287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

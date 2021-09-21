@@ -1,5 +1,7 @@
 # Keishichou 24-ji
 
+![keishichou-24-ji](https://cdn.myanimelist.net/images/manga/2/23571.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 警死庁 24 時

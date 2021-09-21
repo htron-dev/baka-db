@@ -1,5 +1,7 @@
 # Kodomo no Housoku
 
+![kodomo-no-housoku](https://cdn.myanimelist.net/images/manga/2/92653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 子供の法則

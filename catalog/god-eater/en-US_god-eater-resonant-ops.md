@@ -1,5 +1,7 @@
 # God Eater Resonant Ops
 
+![god-eater-resonant-ops](https://cdn.myanimelist.net/images/anime/1548/95165.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GOD EATER RESONANT OPS

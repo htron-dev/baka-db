@@ -1,5 +1,7 @@
 # Kakutou Bijin Wulong
 
+![kakutou-bijin-wulong](https://cdn.myanimelist.net/images/anime/7/2768.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 格闘美神 武龍

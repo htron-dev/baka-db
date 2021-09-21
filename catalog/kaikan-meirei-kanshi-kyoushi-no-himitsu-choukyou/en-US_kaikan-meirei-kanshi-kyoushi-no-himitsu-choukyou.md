@@ -1,5 +1,7 @@
 # Kaikan Meirei: Kanshi Kyoushi no Himitsu Choukyou
 
+![kaikan-meirei-kanshi-kyoushi-no-himitsu-choukyou](https://cdn.myanimelist.net/images/manga/1/193718.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

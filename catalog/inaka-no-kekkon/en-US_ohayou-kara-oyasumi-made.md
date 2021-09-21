@@ -1,5 +1,7 @@
 # Ohayou kara Oyasumi made
 
+![ohayou-kara-oyasumi-made](https://cdn.myanimelist.net/images/manga/2/191439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

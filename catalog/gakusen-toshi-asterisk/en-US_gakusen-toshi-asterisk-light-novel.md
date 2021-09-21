@@ -1,5 +1,7 @@
 # Gakusen Toshi Asterisk
 
+![gakusen-toshi-asterisk](https://cdn.myanimelist.net/images/manga/3/174945.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 学戦都市アスタリスク
 -   **start-date**: 2012-09-25

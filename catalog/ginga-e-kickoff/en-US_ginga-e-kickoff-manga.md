@@ -1,5 +1,7 @@
 # Ginga e Kickoff!!
 
+![ginga-e-kickoff](https://cdn.myanimelist.net/images/manga/3/98705.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

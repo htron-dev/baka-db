@@ -1,5 +1,7 @@
 # Mahoutsukai no Koi
 
+![mahoutsukai-no-koi](https://cdn.myanimelist.net/images/manga/3/24118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

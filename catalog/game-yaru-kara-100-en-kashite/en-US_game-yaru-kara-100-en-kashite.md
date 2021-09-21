@@ -1,5 +1,7 @@
 # Game Yaru kara 100-en Kashite!
 
+![game-yaru-kara-100-en-kashite](https://cdn.myanimelist.net/images/manga/3/197340.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

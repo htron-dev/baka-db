@@ -1,5 +1,7 @@
 # Koutsuu Anzen de Gozaru Ninja Hattori-kun
 
+![koutsuu-anzen-de-gozaru-ninja-hattori-kun](https://cdn.myanimelist.net/images/anime/1078/99401.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 交通安全でござる忍者ハットリくん

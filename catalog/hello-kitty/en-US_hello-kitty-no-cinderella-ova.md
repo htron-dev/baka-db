@@ -1,5 +1,7 @@
 # Hello Kitty no Cinderella (OVA)
 
+![hello-kitty-no-cinderella-ova](https://cdn.myanimelist.net/images/anime/1443/112445.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのシンデレラ

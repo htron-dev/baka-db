@@ -1,5 +1,7 @@
 # Blood Rain
 
+![blood-rain](https://cdn.myanimelist.net/images/manga/3/222169.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 블러드 레인

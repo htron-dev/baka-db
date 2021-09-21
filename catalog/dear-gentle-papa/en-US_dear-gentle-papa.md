@@ -1,5 +1,7 @@
 # Dear. Gentle Papa
 
+![dear-gentle-papa](https://cdn.myanimelist.net/images/manga/1/152590.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

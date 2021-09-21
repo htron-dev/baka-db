@@ -1,5 +1,7 @@
 # Miracle Giants Doumu-kun
 
+![miracle-giants-doumu-kun](https://cdn.myanimelist.net/images/anime/5/29829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ミラクル・ジャイアンツ童夢くん

@@ -1,5 +1,7 @@
 # Galaxy Angel Specials
 
+![galaxy-angel-specials](https://cdn.myanimelist.net/images/anime/7/37189.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ギャラクシーエンジェル

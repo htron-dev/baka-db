@@ -1,5 +1,7 @@
 # Kore kara Hajimaru Koi wo Oshiete
 
+![kore-kara-hajimaru-koi-wo-oshiete](https://cdn.myanimelist.net/images/manga/5/156536.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

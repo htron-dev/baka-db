@@ -1,5 +1,7 @@
 # Kousha no Ura ni wa Tenshi ga Umerareteiru
 
+![kousha-no-ura-ni-wa-tenshi-ga-umerareteiru](https://cdn.myanimelist.net/images/manga/1/120471.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 26

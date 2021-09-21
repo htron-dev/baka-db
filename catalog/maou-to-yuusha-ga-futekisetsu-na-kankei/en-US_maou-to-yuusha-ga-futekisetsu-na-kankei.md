@@ -1,5 +1,7 @@
 # Maou to Yuusha ga Futekisetsu na Kankei.
 
+![maou-to-yuusha-ga-futekisetsu-na-kankei](https://cdn.myanimelist.net/images/manga/1/158170.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

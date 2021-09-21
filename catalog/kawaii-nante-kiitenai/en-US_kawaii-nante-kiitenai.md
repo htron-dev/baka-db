@@ -1,5 +1,7 @@
 # Kawaii nante Kiitenai!!
 
+![kawaii-nante-kiitenai](https://cdn.myanimelist.net/images/manga/2/239576.jpg)
+
 -   **type**: manga
 -   **original-name**: カワイイなんて聞いてない!!
 -   **start-date**: 2020-06-12

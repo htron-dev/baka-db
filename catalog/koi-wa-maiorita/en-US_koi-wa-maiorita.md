@@ -1,5 +1,7 @@
 # Koi wa Maiorita
 
+![koi-wa-maiorita](https://cdn.myanimelist.net/images/manga/2/47117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

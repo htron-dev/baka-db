@@ -1,5 +1,7 @@
 # Kantai Collection -Kan Colle- Anthology Comic: Yokosuka Chinjufu-hen
 
+![kantai-collection-kan-colle-anthology-comic-yokosuka-chinjufu-hen](https://cdn.myanimelist.net/images/manga/3/108349.jpg)
+
 -   **type**: manga
 -   **original-name**: 艦隊これくしょん -艦これ- アンソロジーコミック 横須賀鎮守府編
 -   **start-date**: 2013-09-14

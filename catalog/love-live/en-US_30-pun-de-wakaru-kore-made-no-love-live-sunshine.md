@@ -1,5 +1,7 @@
 # 30-pun de Wakaru! Kore made no Love Live! Sunshine!!
 
+![30-pun-de-wakaru-kore-made-no-love-live-sunshine](https://cdn.myanimelist.net/images/anime/1540/105732.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 30 分でわかる！これまでのラブライブ！サンシャイン!!

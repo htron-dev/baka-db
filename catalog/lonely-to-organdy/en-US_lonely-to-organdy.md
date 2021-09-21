@@ -1,5 +1,7 @@
 # Lonely to Organdy
 
+![lonely-to-organdy](https://cdn.myanimelist.net/images/manga/2/182975.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: ロンリーとオーガンジー

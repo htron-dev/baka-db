@@ -1,5 +1,7 @@
 # Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu
 
+![hiiro-no-kakera-totsugeki-tonari-no-ikemenzu](https://cdn.myanimelist.net/images/anime/9/47967.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 緋色の欠片 突撃! 隣のイケメンズ

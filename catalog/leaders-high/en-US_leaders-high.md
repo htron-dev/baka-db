@@ -1,5 +1,7 @@
 # Leader's High!
 
+![leaders-high](https://cdn.myanimelist.net/images/manga/2/13883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

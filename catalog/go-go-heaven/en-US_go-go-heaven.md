@@ -1,5 +1,7 @@
 # Go! Go! Heaven
 
+![go-go-heaven](https://cdn.myanimelist.net/images/manga/1/32146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

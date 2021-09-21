@@ -1,5 +1,7 @@
 # Minotauros no Omoibito
 
+![minotauros-no-omoibito](https://cdn.myanimelist.net/images/manga/3/229426.jpg)
+
 -   **type**: manga
 -   **original-name**: ミノタウロスの想い人
 -   **start-date**: 2019-09-12

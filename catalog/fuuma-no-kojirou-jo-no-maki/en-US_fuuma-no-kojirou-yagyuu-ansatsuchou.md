@@ -1,5 +1,7 @@
 # Fuuma no Kojirou: Yagyuu Ansatsuchou
 
+![fuuma-no-kojirou-yagyuu-ansatsuchou](https://cdn.myanimelist.net/images/manga/1/41101.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

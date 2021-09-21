@@ -1,5 +1,7 @@
 # Liu Yao
 
+![liu-yao](https://cdn.myanimelist.net/images/anime/1528/113686.jpg)
+
 -   **type**: ona
 -   **original-name**: 六爻
 -   **rating**: None

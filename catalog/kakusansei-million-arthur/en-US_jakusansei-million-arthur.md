@@ -1,5 +1,7 @@
 # Jakusansei Million Arthur
 
+![jakusansei-million-arthur](https://cdn.myanimelist.net/images/anime/2/77206.jpg)
+
 -   **type**: ona
 -   **episodes**: 60
 -   **original-name**: 弱酸性ミリオンアーサー

@@ -1,5 +1,7 @@
 # Dol-Ota no Boku desu ga Shinken ni Idol Mezashimasu!?
 
+![dol-ota-no-boku-desu-ga-shinken-ni-idol-mezashimasu](https://cdn.myanimelist.net/images/manga/3/225130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

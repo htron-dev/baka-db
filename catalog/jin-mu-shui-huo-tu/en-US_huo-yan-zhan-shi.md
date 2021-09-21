@@ -1,5 +1,7 @@
 # Huo Yan Zhan Shi
 
+![huo-yan-zhan-shi](https://cdn.myanimelist.net/images/anime/1122/115452.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 火焰战士

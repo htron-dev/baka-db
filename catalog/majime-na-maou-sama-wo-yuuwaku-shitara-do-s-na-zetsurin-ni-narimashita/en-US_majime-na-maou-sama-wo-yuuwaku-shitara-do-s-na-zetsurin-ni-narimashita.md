@@ -1,5 +1,7 @@
 # Majime na Maou-sama wo Yuuwaku shitara Do S na Zetsurin ni Narimashita.
 
+![majime-na-maou-sama-wo-yuuwaku-shitara-do-s-na-zetsurin-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/159975.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: マジメな魔王様を誘惑したらド S な絶倫になりました。

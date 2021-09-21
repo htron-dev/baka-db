@@ -1,5 +1,7 @@
 # Futatsu no Spica
 
+![futatsu-no-spica](https://cdn.myanimelist.net/images/anime/12/73986.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: ふたつのスピカ

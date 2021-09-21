@@ -1,5 +1,7 @@
 # Kawareta Maid wa Honpou Kizoku ni Amaku Midasareru
 
+![kawareta-maid-wa-honpou-kizoku-ni-amaku-midasareru](https://cdn.myanimelist.net/images/manga/2/195025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 買われたメイドは奔放貴族に甘く乱される

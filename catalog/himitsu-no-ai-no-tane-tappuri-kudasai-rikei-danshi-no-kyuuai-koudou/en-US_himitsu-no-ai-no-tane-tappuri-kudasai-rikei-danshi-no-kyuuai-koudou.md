@@ -1,5 +1,7 @@
 # Himitsu no Ai no Tane Tappuri Kudasai: Rikei Danshi no Kyuuai Koudou
 
+![himitsu-no-ai-no-tane-tappuri-kudasai-rikei-danshi-no-kyuuai-koudou](https://cdn.myanimelist.net/images/manga/2/195638.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

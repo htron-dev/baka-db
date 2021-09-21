@@ -1,5 +1,7 @@
 # Kaze Tachinu
 
+![kaze-tachinu](https://cdn.myanimelist.net/images/anime/8/52353.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風立ちぬ

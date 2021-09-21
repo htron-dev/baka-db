@@ -1,5 +1,7 @@
 # Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
 
+![kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen](https://cdn.myanimelist.net/images/manga/3/188896.jpg)
+
 -   **type**: manga
 -   **original-name**: かぐや様は告らせたい～天才たちの恋愛頭脳戦～
 -   **start-date**: 2015-05-19

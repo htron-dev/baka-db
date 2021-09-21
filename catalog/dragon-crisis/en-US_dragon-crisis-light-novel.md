@@ -1,5 +1,7 @@
 # Dragon Crisis!
 
+![dragon-crisis](https://cdn.myanimelist.net/images/manga/2/36756.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 86

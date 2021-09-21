@@ -1,5 +1,7 @@
 # Kara no Kyoukai 1: Fukan Fuukei
 
+![kara-no-kyoukai-1-fukan-fuukei](https://cdn.myanimelist.net/images/anime/12/21741.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第一章『俯瞰風景』

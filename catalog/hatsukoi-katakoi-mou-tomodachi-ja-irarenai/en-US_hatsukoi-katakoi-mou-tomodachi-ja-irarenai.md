@@ -1,5 +1,7 @@
 # Hatsukoi, Katakoi.: Mou Tomodachi ja Irarenai
 
+![hatsukoi-katakoi-mou-tomodachi-ja-irarenai](https://cdn.myanimelist.net/images/manga/3/143205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

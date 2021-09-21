@@ -1,5 +1,7 @@
 # Keifuku-san
 
+![keifuku-san](https://cdn.myanimelist.net/images/anime/10/89781.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 傾福さん

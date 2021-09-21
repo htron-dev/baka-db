@@ -1,5 +1,7 @@
 # Date A Bullet: Dead or Bullet
 
+![date-a-bullet-dead-or-bullet](https://cdn.myanimelist.net/images/anime/1984/108425.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デート・ア・バレット デッド・オア・バレット

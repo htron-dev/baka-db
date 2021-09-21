@@ -1,5 +1,7 @@
 # Lyrical Beads
 
+![lyrical-beads](https://cdn.myanimelist.net/images/manga/1/15334.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

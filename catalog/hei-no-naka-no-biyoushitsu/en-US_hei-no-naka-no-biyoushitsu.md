@@ -1,5 +1,7 @@
 # Hei no Naka no Biyoushitsu
 
+![hei-no-naka-no-biyoushitsu](https://cdn.myanimelist.net/images/manga/1/237466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

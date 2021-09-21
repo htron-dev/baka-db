@@ -1,5 +1,7 @@
 # Inu no Nakumura
 
+![inu-no-nakumura](https://cdn.myanimelist.net/images/manga/3/238996.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

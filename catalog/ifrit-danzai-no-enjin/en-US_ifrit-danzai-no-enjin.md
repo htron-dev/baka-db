@@ -1,5 +1,7 @@
 # Ifrit: Danzai no Enjin
 
+![ifrit-danzai-no-enjin](https://cdn.myanimelist.net/images/manga/2/89165.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: イフリート～断罪の炎人

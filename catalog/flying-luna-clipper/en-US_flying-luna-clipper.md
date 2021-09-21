@@ -1,5 +1,7 @@
 # Flying Luna Clipper
 
+![flying-luna-clipper](https://cdn.myanimelist.net/images/anime/1170/98289.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: フライング・ルナクリッパー

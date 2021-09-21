@@ -1,5 +1,7 @@
 # Handsome Kareshi: Gakuen no Ouji-sama
 
+![handsome-kareshi-gakuen-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/142233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

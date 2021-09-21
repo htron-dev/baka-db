@@ -1,5 +1,7 @@
 # Heroine wa Zetsubou Shimashita.
 
+![heroine-wa-zetsubou-shimashita](https://cdn.myanimelist.net/images/manga/1/235192.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒロインは絶望しました。
 -   **start-date**: 2019-10-14

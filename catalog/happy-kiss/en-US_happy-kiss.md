@@ -1,5 +1,7 @@
 # Happy Kiss
 
+![happy-kiss](https://cdn.myanimelist.net/images/manga/1/193595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

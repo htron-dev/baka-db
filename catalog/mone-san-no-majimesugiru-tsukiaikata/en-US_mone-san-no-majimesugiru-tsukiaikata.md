@@ -1,5 +1,7 @@
 # Mone-san no Majimesugiru Tsukiaikata
 
+![mone-san-no-majimesugiru-tsukiaikata](https://cdn.myanimelist.net/images/manga/2/202579.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 82

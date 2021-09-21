@@ -1,5 +1,7 @@
 # Koi wa Hisoka ni Minoraseru Mono
 
+![koi-wa-hisoka-ni-minoraseru-mono](https://cdn.myanimelist.net/images/manga/1/93885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

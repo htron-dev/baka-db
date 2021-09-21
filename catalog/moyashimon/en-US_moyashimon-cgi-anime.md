@@ -1,5 +1,7 @@
 # Moyashimon CGI Anime
 
+![moyashimon-cgi-anime](https://cdn.myanimelist.net/images/anime/3/25764.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: もやしもん

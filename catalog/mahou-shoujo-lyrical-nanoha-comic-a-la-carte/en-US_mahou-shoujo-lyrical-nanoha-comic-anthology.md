@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Comic Anthology
 
+![mahou-shoujo-lyrical-nanoha-comic-anthology](https://cdn.myanimelist.net/images/manga/2/246834.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

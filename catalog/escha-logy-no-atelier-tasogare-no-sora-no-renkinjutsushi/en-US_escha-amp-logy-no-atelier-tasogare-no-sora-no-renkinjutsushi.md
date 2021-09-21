@@ -1,5 +1,7 @@
 # Escha &amp; Logy no Atelier: Tasogare no Sora no Renkinjutsushi
 
+![escha-amp-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi](https://cdn.myanimelist.net/images/anime/2/61733.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: エスカ&ロジーのアトリエ ～黄昏の空の錬金術士～

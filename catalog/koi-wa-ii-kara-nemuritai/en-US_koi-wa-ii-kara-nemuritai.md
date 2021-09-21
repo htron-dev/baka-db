@@ -1,5 +1,7 @@
 # Koi wa Ii kara Nemuritai!
 
+![koi-wa-ii-kara-nemuritai](https://cdn.myanimelist.net/images/manga/5/244275.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋はいいから眠りたい!
 -   **start-date**: 2019-06-27

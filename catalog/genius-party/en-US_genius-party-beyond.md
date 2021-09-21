@@ -1,5 +1,7 @@
 # Genius Party Beyond
 
+![genius-party-beyond](https://cdn.myanimelist.net/images/anime/11/18914.jpg)
+
 -   **type**: movie
 -   **episodes**: 5
 -   **original-name**: ジーニアスパーティービヨンド

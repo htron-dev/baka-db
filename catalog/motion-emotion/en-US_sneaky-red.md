@@ -1,5 +1,7 @@
 # Sneaky Red
 
+![sneaky-red](https://cdn.myanimelist.net/images/manga/2/202962.jpg)
+
 -   **type**: manga
 -   **original-name**: スニーキーレッド
 -   **start-date**: 2012-07-25

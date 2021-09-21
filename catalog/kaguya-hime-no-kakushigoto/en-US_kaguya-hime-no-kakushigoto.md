@@ -1,5 +1,7 @@
 # Kaguya-hime no Kakushigoto
 
+![kaguya-hime-no-kakushigoto](https://cdn.myanimelist.net/images/manga/2/233191.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

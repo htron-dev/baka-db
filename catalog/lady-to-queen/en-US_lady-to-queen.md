@@ -1,5 +1,7 @@
 # Lady to Queen
 
+![lady-to-queen](https://cdn.myanimelist.net/images/manga/3/242192.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 레이디 투 퀸
 -   **start-date**: 2019-06-23

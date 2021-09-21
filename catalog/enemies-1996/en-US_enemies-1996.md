@@ -1,5 +1,7 @@
 # Enemies/1996
 
+![enemies-1996](https://cdn.myanimelist.net/images/manga/3/176393.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

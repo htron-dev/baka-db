@@ -1,5 +1,7 @@
 # Precure All Stars Movie: Haru no Carnival♪
 
+![precure-all-stars-movie-haru-no-carnival♪](https://cdn.myanimelist.net/images/anime/10/68833.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアオールスターズ　春のカーニバル ♪

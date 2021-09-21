@@ -1,5 +1,7 @@
 # Gifuu Doudou!!: Naoe Kanetsugu - Maeda Keiji Hanagatari
 
+![gifuu-doudou-naoe-kanetsugu-maeda-keiji-hanagatari](https://cdn.myanimelist.net/images/manga/3/188579.jpg)
+
 -   **type**: manga
 -   **original-name**: 義風堂々!! 直江兼続 ～前田慶次花語り～
 -   **start-date**: 2014-03-24

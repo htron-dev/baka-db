@@ -1,5 +1,7 @@
 # Reibaishi Izuna: Ascension
 
+![reibaishi-izuna-ascension](https://cdn.myanimelist.net/images/manga/3/167506.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 75

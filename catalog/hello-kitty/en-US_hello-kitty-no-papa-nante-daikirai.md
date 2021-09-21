@@ -1,5 +1,7 @@
 # Hello Kitty no Papa Nante Daikirai
 
+![hello-kitty-no-papa-nante-daikirai](https://cdn.myanimelist.net/images/anime/10/47815.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのパパなんて大きらい

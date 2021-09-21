@@ -1,5 +1,7 @@
 # Koi to wa Yobenai
 
+![koi-to-wa-yobenai](https://cdn.myanimelist.net/images/manga/1/150546.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

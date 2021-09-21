@@ -1,5 +1,7 @@
 # Mitsui Sumika to Shikakui Akuma
 
+![mitsui-sumika-to-shikakui-akuma](https://cdn.myanimelist.net/images/manga/1/164370.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 三井澄花と四角い悪魔

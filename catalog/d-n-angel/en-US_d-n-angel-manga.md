@@ -1,5 +1,7 @@
 # D.N.Angel
 
+![d-n-angel](https://cdn.myanimelist.net/images/manga/2/145023.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 108

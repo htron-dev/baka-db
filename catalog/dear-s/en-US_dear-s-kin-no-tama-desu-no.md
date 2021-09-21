@@ -1,5 +1,7 @@
 # DearS: Kin no Tama Desu no?
 
+![dear-s-kin-no-tama-desu-no](https://cdn.myanimelist.net/images/anime/7/83451.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 金の玉ですの？

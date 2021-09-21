@@ -1,5 +1,7 @@
 # Kyoushi mo Iroiro Aru Wake de
 
+![kyoushi-mo-iroiro-aru-wake-de](https://cdn.myanimelist.net/images/manga/5/17266.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

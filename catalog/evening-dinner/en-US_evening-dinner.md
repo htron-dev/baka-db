@@ -1,5 +1,7 @@
 # Evening Dinner
 
+![evening-dinner](https://cdn.myanimelist.net/images/manga/2/248384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

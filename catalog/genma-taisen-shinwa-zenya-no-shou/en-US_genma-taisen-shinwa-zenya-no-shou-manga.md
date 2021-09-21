@@ -1,5 +1,7 @@
 # Genma Taisen - Shinwa Zenya no Shou
 
+![genma-taisen-shinwa-zenya-no-shou](https://cdn.myanimelist.net/images/manga/3/214453.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 幻魔大戦 -神話前夜の章

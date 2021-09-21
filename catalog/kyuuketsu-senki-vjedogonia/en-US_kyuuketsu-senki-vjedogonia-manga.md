@@ -1,5 +1,7 @@
 # Kyuuketsu Senki Vjedogonia
 
+![kyuuketsu-senki-vjedogonia](https://cdn.myanimelist.net/images/manga/1/101525.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Mitsukuniden
 
+![mitsukuniden](https://cdn.myanimelist.net/images/manga/4/148485.jpg)
+
 -   **type**: manga
 -   **original-name**: 光圀伝
 -   **start-date**: 2012-06-26

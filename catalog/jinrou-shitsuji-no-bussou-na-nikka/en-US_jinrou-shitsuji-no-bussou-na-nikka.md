@@ -1,5 +1,7 @@
 # Jinrou Shitsuji no Bussou na Nikka
 
+![jinrou-shitsuji-no-bussou-na-nikka](https://cdn.myanimelist.net/images/manga/3/202390.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

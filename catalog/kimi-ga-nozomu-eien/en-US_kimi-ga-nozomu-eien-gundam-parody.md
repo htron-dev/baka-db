@@ -1,5 +1,7 @@
 # Kimi ga Nozomu Eien: Gundam Parody
 
+![kimi-ga-nozomu-eien-gundam-parody](https://cdn.myanimelist.net/images/anime/5/25438.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 君が望む永遠

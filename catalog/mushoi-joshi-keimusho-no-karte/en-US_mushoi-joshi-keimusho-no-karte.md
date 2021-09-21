@@ -1,5 +1,7 @@
 # Mushoi: Joshi Keimusho no Karte
 
+![mushoi-joshi-keimusho-no-karte](https://cdn.myanimelist.net/images/manga/1/242946.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

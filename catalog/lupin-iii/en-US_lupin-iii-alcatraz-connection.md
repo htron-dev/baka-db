@@ -1,5 +1,7 @@
 # Lupin III: Alcatraz Connection
 
+![lupin-iii-alcatraz-connection](https://cdn.myanimelist.net/images/anime/3/15501.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『アルカトラズコネクション』

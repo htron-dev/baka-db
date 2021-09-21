@@ -1,5 +1,7 @@
 # Kemy Tamheomdae
 
+![kemy-tamheomdae](https://cdn.myanimelist.net/images/anime/2/83628.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 깨미탐험대

@@ -1,5 +1,7 @@
 # Koukyuu no Arika
 
+![koukyuu-no-arika](https://cdn.myanimelist.net/images/manga/3/40363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

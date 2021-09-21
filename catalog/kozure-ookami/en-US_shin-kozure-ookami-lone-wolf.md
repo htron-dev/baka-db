@@ -1,5 +1,7 @@
 # Shin Kozure Ookami: Lone Wolf
 
+![shin-kozure-ookami-lone-wolf](https://cdn.myanimelist.net/images/manga/2/62443.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 新・子連れ狼 LONE WOLF

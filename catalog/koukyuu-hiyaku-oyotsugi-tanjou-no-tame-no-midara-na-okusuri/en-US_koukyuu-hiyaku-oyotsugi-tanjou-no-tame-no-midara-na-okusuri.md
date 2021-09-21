@@ -1,5 +1,7 @@
 # Koukyuu Hiyaku: Oyotsugi Tanjou no Tame no Midara na Okusuri
 
+![koukyuu-hiyaku-oyotsugi-tanjou-no-tame-no-midara-na-okusuri](https://cdn.myanimelist.net/images/manga/2/184803.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

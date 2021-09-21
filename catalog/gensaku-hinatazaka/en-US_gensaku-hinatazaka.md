@@ -1,5 +1,7 @@
 # Gensaku Hinatazaka
 
+![gensaku-hinatazaka](https://cdn.myanimelist.net/images/manga/1/242818.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: げんさく ひなたざか

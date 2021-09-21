@@ -1,5 +1,7 @@
 # Mitsudomoe: Oppai Ippai Mama Genki
 
+![mitsudomoe-oppai-ippai-mama-genki](https://cdn.myanimelist.net/images/anime/8/26045.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みつどもえ OPPAI IPPAI ママ元気

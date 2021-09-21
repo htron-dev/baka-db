@@ -1,5 +1,7 @@
 # Madonna
 
+![madonna](https://cdn.myanimelist.net/images/manga/2/214047.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **original-name**: マドンナ

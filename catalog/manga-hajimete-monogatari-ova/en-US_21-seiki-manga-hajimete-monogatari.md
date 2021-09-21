@@ -1,5 +1,7 @@
 # 21 Seiki Manga Hajimete Monogatari
 
+![21-seiki-manga-hajimete-monogatari](https://cdn.myanimelist.net/images/anime/10/27942.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ２１世紀まんがはじめて物語

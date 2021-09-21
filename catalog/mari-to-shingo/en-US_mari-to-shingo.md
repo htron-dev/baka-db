@@ -1,5 +1,7 @@
 # Mari to Shingo
 
+![mari-to-shingo](https://cdn.myanimelist.net/images/manga/3/23405.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 摩利と新語

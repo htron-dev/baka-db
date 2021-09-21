@@ -1,5 +1,7 @@
 # Kyou Kara Maou! Recap
 
+![kyou-kara-maou-recap](https://cdn.myanimelist.net/images/anime/1525/100985.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 今日からマ王！ 大全集 その

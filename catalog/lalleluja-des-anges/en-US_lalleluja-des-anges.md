@@ -1,5 +1,7 @@
 # L'alleluja des Anges
 
+![lalleluja-des-anges](https://cdn.myanimelist.net/images/manga/2/5458.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

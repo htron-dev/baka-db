@@ -1,5 +1,7 @@
 # Kakushigoto (TV)
 
+![kakushigoto-tv](https://cdn.myanimelist.net/images/anime/1046/114345.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: かくしごと

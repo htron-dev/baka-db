@@ -1,5 +1,7 @@
 # Ladies versus Butlers!
 
+![ladies-versus-butlers](https://cdn.myanimelist.net/images/manga/1/27309.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: れでぃ × ばと!

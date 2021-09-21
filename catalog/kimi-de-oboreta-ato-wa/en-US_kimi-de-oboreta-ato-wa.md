@@ -1,5 +1,7 @@
 # Kimi de Oboreta Ato wa
 
+![kimi-de-oboreta-ato-wa](https://cdn.myanimelist.net/images/manga/3/30029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

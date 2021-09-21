@@ -1,5 +1,7 @@
 # Isan Kareshi.: Kyou kara Anata wa Watashi no Mono
 
+![isan-kareshi-kyou-kara-anata-wa-watashi-no-mono](https://cdn.myanimelist.net/images/manga/3/235121.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

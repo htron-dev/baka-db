@@ -1,5 +1,7 @@
 # Koukyuu Days
 
+![koukyuu-days](https://cdn.myanimelist.net/images/manga/3/204370.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 67

@@ -1,5 +1,7 @@
 # Mahou Sekai no Uketsukejou ni Naritai desu
 
+![mahou-sekai-no-uketsukejou-ni-naritai-desu](https://cdn.myanimelist.net/images/manga/2/234745.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔法世界の受付嬢になりたいです

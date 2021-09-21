@@ -1,5 +1,7 @@
 # Touhou Shinigami: Meteor Methuselah Gaiden
 
+![touhou-shinigami-meteor-methuselah-gaiden](https://cdn.myanimelist.net/images/manga/3/14629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

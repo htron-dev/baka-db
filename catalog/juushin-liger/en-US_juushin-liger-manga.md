@@ -1,5 +1,7 @@
 # Juushin Liger
 
+![juushin-liger](https://cdn.myanimelist.net/images/manga/2/41823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 獣神ライガー

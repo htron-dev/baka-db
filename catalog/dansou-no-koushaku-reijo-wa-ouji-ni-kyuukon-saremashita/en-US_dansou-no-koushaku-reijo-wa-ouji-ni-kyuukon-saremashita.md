@@ -1,5 +1,7 @@
 # Dansou no Koushaku Reijo wa Ouji ni Kyuukon Saremashita
 
+![dansou-no-koushaku-reijo-wa-ouji-ni-kyuukon-saremashita](https://cdn.myanimelist.net/images/manga/3/192573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

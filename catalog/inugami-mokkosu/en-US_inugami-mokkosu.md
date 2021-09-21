@@ -1,5 +1,7 @@
 # Inugami Mokkosu
 
+![inugami-mokkosu](https://cdn.myanimelist.net/images/manga/2/194507.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

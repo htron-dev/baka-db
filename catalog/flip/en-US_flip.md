@@ -1,5 +1,7 @@
 # Flip!
 
+![flip](https://cdn.myanimelist.net/images/manga/3/247537.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

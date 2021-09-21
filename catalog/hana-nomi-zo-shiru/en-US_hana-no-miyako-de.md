@@ -1,5 +1,7 @@
 # Hana no Miyako de
 
+![hana-no-miyako-de](https://cdn.myanimelist.net/images/manga/3/85993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

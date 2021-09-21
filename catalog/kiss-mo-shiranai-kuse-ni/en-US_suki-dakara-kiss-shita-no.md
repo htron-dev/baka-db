@@ -1,5 +1,7 @@
 # Suki Dakara Kiss shita no?
 
+![suki-dakara-kiss-shita-no](https://cdn.myanimelist.net/images/manga/1/231097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

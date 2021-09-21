@@ -1,5 +1,7 @@
 # Iro Otoko, Tsuya Otoko
 
+![iro-otoko-tsuya-otoko](https://cdn.myanimelist.net/images/manga/3/114861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

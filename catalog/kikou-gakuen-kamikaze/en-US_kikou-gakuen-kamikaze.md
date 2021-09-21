@@ -1,5 +1,7 @@
 # Kikou Gakuen Kamikaze
 
+![kikou-gakuen-kamikaze](https://cdn.myanimelist.net/images/manga/2/106761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

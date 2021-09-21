@@ -1,5 +1,7 @@
 # Log Horizon: Entaku Houkai
 
+![log-horizon-entaku-houkai](https://cdn.myanimelist.net/images/anime/1510/108026.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ログ・ホライズン 円卓崩壊

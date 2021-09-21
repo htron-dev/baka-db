@@ -1,5 +1,7 @@
 # The☆Doraemons: Strange, Sweets, Strange?
 
+![the☆-doraemons-strange-sweets-strange](https://cdn.myanimelist.net/images/anime/2/28289.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザ ☆ ドラえもんズ おかしなお菓子なオカシナナ？

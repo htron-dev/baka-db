@@ -1,5 +1,7 @@
 # Daiaku Kojou
 
+![daiaku-kojou](https://cdn.myanimelist.net/images/manga/3/27509.jpg)
+
 -   **type**: manga
 -   **start-date**: 2010-01-20
 

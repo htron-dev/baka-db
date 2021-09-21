@@ -1,5 +1,7 @@
 # Di Gi Charat Ohanami Special
 
+![di-gi-charat-ohanami-special](https://cdn.myanimelist.net/images/anime/1234/95891.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: Di Gi Charat お花見すぺしゃる

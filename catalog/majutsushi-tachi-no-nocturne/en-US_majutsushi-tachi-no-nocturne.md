@@ -1,5 +1,7 @@
 # Majutsushi-tachi no Nocturne
 
+![majutsushi-tachi-no-nocturne](https://cdn.myanimelist.net/images/manga/2/224580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

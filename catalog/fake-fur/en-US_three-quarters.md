@@ -1,5 +1,7 @@
 # Three Quarters
 
+![three-quarters](https://cdn.myanimelist.net/images/manga/1/2792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

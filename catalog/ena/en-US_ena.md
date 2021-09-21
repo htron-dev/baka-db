@@ -1,5 +1,7 @@
 # Ena
 
+![ena](https://cdn.myanimelist.net/images/manga/3/103897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Libido Hunter Takeru
 
+![libido-hunter-takeru](https://cdn.myanimelist.net/images/manga/1/172649.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

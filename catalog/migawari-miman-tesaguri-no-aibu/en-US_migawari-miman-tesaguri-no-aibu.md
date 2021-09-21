@@ -1,5 +1,7 @@
 # Migawari Miman: Tesaguri no Aibu
 
+![migawari-miman-tesaguri-no-aibu](https://cdn.myanimelist.net/images/manga/1/195676.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

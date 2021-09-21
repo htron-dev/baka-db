@@ -1,5 +1,7 @@
 # Ikusaba Animation
 
+![ikusaba-animation](https://cdn.myanimelist.net/images/manga/2/92337.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

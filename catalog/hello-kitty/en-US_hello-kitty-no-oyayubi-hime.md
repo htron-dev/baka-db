@@ -1,5 +1,7 @@
 # Hello Kitty no Oyayubi-hime
 
+![hello-kitty-no-oyayubi-hime](https://cdn.myanimelist.net/images/anime/13/78316.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハローキティのおやゆびひめ

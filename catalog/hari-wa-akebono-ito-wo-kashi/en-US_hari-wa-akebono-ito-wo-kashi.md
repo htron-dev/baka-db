@@ -1,5 +1,7 @@
 # Hari wa Akebono Ito wo Kashi
 
+![hari-wa-akebono-ito-wo-kashi](https://cdn.myanimelist.net/images/manga/1/191954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

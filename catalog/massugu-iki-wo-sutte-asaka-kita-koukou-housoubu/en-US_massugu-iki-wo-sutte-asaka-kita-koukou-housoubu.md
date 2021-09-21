@@ -1,5 +1,7 @@
 # Massugu Iki wo Sutte.: Asaka Kita Koukou Housoubu
 
+![massugu-iki-wo-sutte-asaka-kita-koukou-housoubu](https://cdn.myanimelist.net/images/manga/1/247635.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

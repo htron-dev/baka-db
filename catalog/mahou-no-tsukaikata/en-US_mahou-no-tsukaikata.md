@@ -1,5 +1,7 @@
 # Mahou no Tsukaikata
 
+![mahou-no-tsukaikata](https://cdn.myanimelist.net/images/manga/3/77331.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法のつかいかた
 -   **start-date**: 2011-06-20

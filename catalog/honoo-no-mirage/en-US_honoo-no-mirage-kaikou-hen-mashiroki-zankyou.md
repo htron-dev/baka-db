@@ -1,5 +1,7 @@
 # Honoo no Mirage: Kaikou-hen - Mashiroki Zankyou
 
+![honoo-no-mirage-kaikou-hen-mashiroki-zankyou](https://cdn.myanimelist.net/images/manga/3/149267.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 炎の蜃気楼 邂逅編 真皓き残響
 -   **start-date**: 1999-03-19

@@ -1,5 +1,7 @@
 # Haguregumo
 
+![haguregumo](https://cdn.myanimelist.net/images/anime/1827/94766.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 浮浪雲

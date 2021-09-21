@@ -1,5 +1,7 @@
 # Gun x School = Paradise!
 
+![gun-x-school-paradise](https://cdn.myanimelist.net/images/manga/1/123563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

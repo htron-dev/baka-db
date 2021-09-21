@@ -1,5 +1,7 @@
 # Hao Mao Mimi
 
+![hao-mao-mimi](https://cdn.myanimelist.net/images/anime/1579/115511.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 好貓咪咪

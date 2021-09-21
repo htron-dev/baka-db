@@ -1,5 +1,7 @@
 # Houkago no Love Call
 
+![houkago-no-love-call](https://cdn.myanimelist.net/images/manga/3/31897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

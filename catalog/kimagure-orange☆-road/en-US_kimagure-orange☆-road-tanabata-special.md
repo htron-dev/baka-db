@@ -1,5 +1,7 @@
 # Kimagure Orange☆Road: Tanabata Special
 
+![kimagure-orange☆-road-tanabata-special](https://cdn.myanimelist.net/images/anime/9/38827.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: きまぐれオレンジ ★ ロード 総集編 七夕スペシャル

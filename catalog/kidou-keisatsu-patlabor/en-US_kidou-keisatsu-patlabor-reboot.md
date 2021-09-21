@@ -1,5 +1,7 @@
 # Kidou Keisatsu Patlabor: Reboot
 
+![kidou-keisatsu-patlabor-reboot](https://cdn.myanimelist.net/images/anime/3/82621.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動警察パトレイバー REBOOT

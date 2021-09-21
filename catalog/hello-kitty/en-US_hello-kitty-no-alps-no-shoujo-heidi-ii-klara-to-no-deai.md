@@ -1,5 +1,7 @@
 # Hello Kitty no Alps no Shoujo Heidi II: Klara to no Deai
 
+![hello-kitty-no-alps-no-shoujo-heidi-ii-klara-to-no-deai](https://cdn.myanimelist.net/images/anime/5/49663.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのアルプスの少女ハイジ II クララとの出会い

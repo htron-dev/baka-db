@@ -1,5 +1,7 @@
 # Hikarabita Taiji
 
+![hikarabita-taiji](https://cdn.myanimelist.net/images/manga/3/12385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 乾からびた胎児

@@ -1,5 +1,7 @@
 # Inoru Hito
 
+![inoru-hito](https://cdn.myanimelist.net/images/manga/2/66497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

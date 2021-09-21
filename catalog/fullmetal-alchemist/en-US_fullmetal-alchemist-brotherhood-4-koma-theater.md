@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: Brotherhood - 4-Koma Theater
 
+![fullmetal-alchemist-brotherhood-4-koma-theater](https://cdn.myanimelist.net/images/anime/3/76154.jpg)
+
 -   **type**: special
 -   **episodes**: 16
 -   **original-name**: 荒川弘 描き下ろし 4 コマ劇場

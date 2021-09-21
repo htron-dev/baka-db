@@ -1,5 +1,7 @@
 # Hakuyoku no Polaris
 
+![hakuyoku-no-polaris](https://cdn.myanimelist.net/images/manga/1/193097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

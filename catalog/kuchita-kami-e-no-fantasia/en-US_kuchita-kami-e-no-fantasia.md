@@ -1,5 +1,7 @@
 # Kuchita Kami e no Fantasia
 
+![kuchita-kami-e-no-fantasia](https://cdn.myanimelist.net/images/manga/2/163371.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 20

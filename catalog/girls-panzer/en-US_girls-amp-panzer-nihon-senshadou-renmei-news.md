@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Nihon Senshadou Renmei News
 
+![girls-amp-panzer-nihon-senshadou-renmei-news](https://cdn.myanimelist.net/images/anime/13/78044.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ガールズ＆パンツァー 日本戦車道連盟ニュース

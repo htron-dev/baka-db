@@ -1,5 +1,7 @@
 # Kindai Renai
 
+![kindai-renai](https://cdn.myanimelist.net/images/manga/2/20860.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

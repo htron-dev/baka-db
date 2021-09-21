@@ -1,5 +1,7 @@
 # Gakuen Yuri Stories: Mittsu no Koibana
 
+![gakuen-yuri-stories-mittsu-no-koibana](https://cdn.myanimelist.net/images/manga/3/168809.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

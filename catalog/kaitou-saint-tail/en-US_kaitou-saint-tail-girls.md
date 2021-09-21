@@ -1,5 +1,7 @@
 # Kaitou Saint Tail Girls!
 
+![kaitou-saint-tail-girls](https://cdn.myanimelist.net/images/manga/1/234099.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪盗セイント・テール girls!
 -   **start-date**: 2018-09-13

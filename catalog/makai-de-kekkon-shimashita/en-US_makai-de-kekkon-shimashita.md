@@ -1,5 +1,7 @@
 # Makai de Kekkon Shimashita
 
+![makai-de-kekkon-shimashita](https://cdn.myanimelist.net/images/manga/3/194585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔界で結婚しました

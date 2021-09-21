@@ -1,5 +1,7 @@
 # Moto Home Center Tenin no Isekai Seikatsu: Shougou "DIY Master" "Green Master" "Pet Master" wo Kushi shite Isekai wo Kimama ni Ikimasu
 
+![moto-home-center-tenin-no-isekai-seikatsu-shougou-diy-master-green-master-pet-master-wo-kushi-shite-isekai-wo-kimama-ni-ikimasu](https://cdn.myanimelist.net/images/manga/3/241741.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 元ホームセンター店員の異世界生活～称号 ≪DIY マスター ≫≪ グリーンマスター ≫≪ ペットマスター ≫ を駆使して異世界を気儘に生きます～
 -   **start-date**: 2020-05-09

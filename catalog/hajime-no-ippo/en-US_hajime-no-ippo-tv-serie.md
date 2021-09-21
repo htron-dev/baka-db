@@ -1,5 +1,7 @@
 # Hajime no Ippo
 
+![hajime-no-ippo](https://cdn.myanimelist.net/images/anime/4/86334.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 75
 -   **original-name**: はじめの一歩 THE FIGHTING!

@@ -1,5 +1,7 @@
 # Last Boss demo Dekiru! Apartment kara Hajimeru Sekai Seifuku
 
+![last-boss-demo-dekiru-apartment-kara-hajimeru-sekai-seifuku](https://cdn.myanimelist.net/images/manga/3/181667.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ラスボスでも出来る！アパートから始める世界征服
 -   **start-date**: 2016-08-10

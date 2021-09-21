@@ -1,5 +1,7 @@
 # Moyashimon
 
+![moyashimon](https://cdn.myanimelist.net/images/anime/5/37533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: もやしもん

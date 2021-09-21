@@ -1,5 +1,7 @@
 # Kikasete yo, Ai no Kotoba wo
 
+![kikasete-yo-ai-no-kotoba-wo](https://cdn.myanimelist.net/images/manga/2/73545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

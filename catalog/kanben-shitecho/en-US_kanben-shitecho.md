@@ -1,5 +1,7 @@
 # Kanben Shitecho!
 
+![kanben-shitecho](https://cdn.myanimelist.net/images/manga/3/10846.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: カンベンしてちょ!

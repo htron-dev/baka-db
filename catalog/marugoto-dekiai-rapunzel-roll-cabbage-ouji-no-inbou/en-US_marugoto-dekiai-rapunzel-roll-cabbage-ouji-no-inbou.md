@@ -1,5 +1,7 @@
 # Marugoto Dekiai Rapunzel: Roll Cabbage Ouji no Inbou
 
+![marugoto-dekiai-rapunzel-roll-cabbage-ouji-no-inbou](https://cdn.myanimelist.net/images/manga/2/195004.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 丸ごと溺愛ラプンツェル～ロールキャベツ王子の淫謀～

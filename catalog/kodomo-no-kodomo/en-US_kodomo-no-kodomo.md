@@ -1,5 +1,7 @@
 # Kodomo no Kodomo
 
+![kodomo-no-kodomo](https://cdn.myanimelist.net/images/manga/2/129469.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

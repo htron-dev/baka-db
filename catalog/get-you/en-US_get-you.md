@@ -1,5 +1,7 @@
 # Get You
 
+![get-you](https://cdn.myanimelist.net/images/manga/3/8164.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 44

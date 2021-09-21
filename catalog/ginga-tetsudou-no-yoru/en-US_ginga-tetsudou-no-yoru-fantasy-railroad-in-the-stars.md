@@ -1,5 +1,7 @@
 # Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars
 
+![ginga-tetsudou-no-yoru-fantasy-railroad-in-the-stars](https://cdn.myanimelist.net/images/anime/7/57415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道の夜 -Fantasy Railroad in the Stars-

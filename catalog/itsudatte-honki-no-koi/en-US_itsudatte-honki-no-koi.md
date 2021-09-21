@@ -1,5 +1,7 @@
 # Itsudatte Honki no Koi
 
+![itsudatte-honki-no-koi](https://cdn.myanimelist.net/images/manga/2/192259.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

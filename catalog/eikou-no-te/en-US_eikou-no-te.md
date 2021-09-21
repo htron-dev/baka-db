@@ -1,5 +1,7 @@
 # Eikou no Te
 
+![eikou-no-te](https://cdn.myanimelist.net/images/manga/3/3998.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

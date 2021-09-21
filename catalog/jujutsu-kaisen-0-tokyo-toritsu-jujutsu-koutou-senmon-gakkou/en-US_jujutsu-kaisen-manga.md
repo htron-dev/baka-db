@@ -1,5 +1,7 @@
 # Jujutsu Kaisen
 
+![jujutsu-kaisen](https://cdn.myanimelist.net/images/manga/3/210341.jpg)
+
 -   **type**: manga
 -   **original-name**: 呪術廻戦
 -   **start-date**: 2018-03-05

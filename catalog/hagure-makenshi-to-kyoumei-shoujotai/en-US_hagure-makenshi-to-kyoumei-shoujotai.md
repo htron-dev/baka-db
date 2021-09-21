@@ -1,5 +1,7 @@
 # Hagure Makenshi to Kyoumei Shoujotai
 
+![hagure-makenshi-to-kyoumei-shoujotai](https://cdn.myanimelist.net/images/manga/1/176516.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

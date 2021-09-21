@@ -1,5 +1,7 @@
 # Mao Yu Tao Hua Yuan
 
+![mao-yu-tao-hua-yuan](https://cdn.myanimelist.net/images/anime/1820/111939.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猫与桃花源

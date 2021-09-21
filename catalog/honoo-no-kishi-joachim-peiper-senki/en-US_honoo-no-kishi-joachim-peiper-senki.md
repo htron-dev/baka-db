@@ -1,5 +1,7 @@
 # Honoo no Kishi: Joachim Peiper Senki
 
+![honoo-no-kishi-joachim-peiper-senki](https://cdn.myanimelist.net/images/manga/1/131885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 炎の騎士 ヨーヘン・パイパー戦記

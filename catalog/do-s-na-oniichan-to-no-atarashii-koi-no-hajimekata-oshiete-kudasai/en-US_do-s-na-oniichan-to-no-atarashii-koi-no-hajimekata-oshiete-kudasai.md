@@ -1,5 +1,7 @@
 # Do S na Oniichan to no Atarashii Koi no Hajimekata Oshiete Kudasai!
 
+![do-s-na-oniichan-to-no-atarashii-koi-no-hajimekata-oshiete-kudasai](https://cdn.myanimelist.net/images/manga/3/106517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

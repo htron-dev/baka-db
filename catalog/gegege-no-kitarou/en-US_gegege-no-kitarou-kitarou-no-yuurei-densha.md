@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Kitarou no Yuurei Densha
 
+![gegege-no-kitarou-kitarou-no-yuurei-densha](https://cdn.myanimelist.net/images/anime/12/22651.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 鬼太郎の幽霊電車

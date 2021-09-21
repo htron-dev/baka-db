@@ -1,5 +1,7 @@
 # Leonardo Hakase to Kirin-mura no Nakama desho: Halloween Party Da yo Kirin-mura!
 
+![leonardo-hakase-to-kirin-mura-no-nakama-desho-halloween-party-da-yo-kirin-mura](https://cdn.myanimelist.net/images/anime/1524/105678.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: レオナルド博士とキリン村のなかまでしょ ハロウィンパーティだよキリン村!

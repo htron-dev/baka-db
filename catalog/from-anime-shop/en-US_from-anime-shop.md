@@ -1,5 +1,7 @@
 # From Anime Shop
 
+![from-anime-shop](https://cdn.myanimelist.net/images/manga/1/162648.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Mo Dao Zu Shi Q
 
+![mo-dao-zu-shi-q](https://cdn.myanimelist.net/images/anime/1748/108467.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 魔道祖师 Q

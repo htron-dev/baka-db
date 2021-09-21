@@ -1,5 +1,7 @@
 # Fair Bianca
 
+![fair-bianca](https://cdn.myanimelist.net/images/manga/3/101589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

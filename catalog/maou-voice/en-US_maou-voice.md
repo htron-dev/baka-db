@@ -1,5 +1,7 @@
 # Maou Voice
 
+![maou-voice](https://cdn.myanimelist.net/images/manga/1/152351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

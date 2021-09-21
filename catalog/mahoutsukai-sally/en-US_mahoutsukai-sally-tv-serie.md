@@ -1,5 +1,7 @@
 # Mahoutsukai Sally
 
+![mahoutsukai-sally](https://cdn.myanimelist.net/images/anime/8/67001.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 109
 -   **original-name**: 魔法使いサリー

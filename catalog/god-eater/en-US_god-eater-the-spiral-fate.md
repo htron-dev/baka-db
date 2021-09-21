@@ -1,5 +1,7 @@
 # God Eater: The Spiral Fate
 
+![god-eater-the-spiral-fate](https://cdn.myanimelist.net/images/manga/2/160489.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

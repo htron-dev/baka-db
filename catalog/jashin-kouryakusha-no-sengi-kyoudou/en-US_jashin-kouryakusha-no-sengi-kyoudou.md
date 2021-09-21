@@ -1,5 +1,7 @@
 # Jashin Kouryakusha no Sengi Kyoudou
 
+![jashin-kouryakusha-no-sengi-kyoudou](https://cdn.myanimelist.net/images/manga/2/176689.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 21

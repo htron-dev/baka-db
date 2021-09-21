@@ -1,5 +1,7 @@
 # Muumin Pilot Film
 
+![muumin-pilot-film](https://cdn.myanimelist.net/images/anime/1908/107754.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ムーミン パイロットフィルム

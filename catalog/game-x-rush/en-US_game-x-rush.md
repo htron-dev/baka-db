@@ -1,5 +1,7 @@
 # Game x Rush
 
+![game-x-rush](https://cdn.myanimelist.net/images/manga/1/180650.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

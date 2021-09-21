@@ -1,5 +1,7 @@
 # Full Metal Panic! Side Arms
 
+![full-metal-panic-side-arms](https://cdn.myanimelist.net/images/manga/1/166129.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

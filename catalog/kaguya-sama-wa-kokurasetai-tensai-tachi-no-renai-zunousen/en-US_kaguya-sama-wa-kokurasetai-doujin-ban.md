@@ -1,5 +1,7 @@
 # Kaguya-sama wa Kokurasetai: Doujin-ban
 
+![kaguya-sama-wa-kokurasetai-doujin-ban](https://cdn.myanimelist.net/images/manga/2/215758.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

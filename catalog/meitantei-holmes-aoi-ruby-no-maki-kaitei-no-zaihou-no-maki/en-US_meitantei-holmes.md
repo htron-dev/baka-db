@@ -1,5 +1,7 @@
 # Meitantei Holmes
 
+![meitantei-holmes](https://cdn.myanimelist.net/images/anime/4/75723.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 名探偵ホームズ

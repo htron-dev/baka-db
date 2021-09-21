@@ -1,5 +1,7 @@
 # Honey Crush
 
+![honey-crush](https://cdn.myanimelist.net/images/manga/1/170597.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

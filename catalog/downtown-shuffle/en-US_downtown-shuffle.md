@@ -1,5 +1,7 @@
 # Downtown Shuffle
 
+![downtown-shuffle](https://cdn.myanimelist.net/images/manga/1/2782.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

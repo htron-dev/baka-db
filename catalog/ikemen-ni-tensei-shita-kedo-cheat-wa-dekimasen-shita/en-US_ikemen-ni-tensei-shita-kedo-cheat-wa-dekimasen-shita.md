@@ -1,5 +1,7 @@
 # Ikemen ni Tensei shita kedo, Cheat wa Dekimasen shita.
 
+![ikemen-ni-tensei-shita-kedo-cheat-wa-dekimasen-shita](https://cdn.myanimelist.net/images/manga/2/242207.jpg)
+
 -   **type**: light-novel
 -   **original-name**: イケメンに転生したけど、チートはできませんでした。
 -   **start-date**: 2018-12-17

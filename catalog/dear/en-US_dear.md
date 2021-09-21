@@ -1,5 +1,7 @@
 # Dear!
 
+![dear](https://cdn.myanimelist.net/images/manga/2/32996.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

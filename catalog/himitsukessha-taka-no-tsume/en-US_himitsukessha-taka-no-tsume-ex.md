@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume EX
 
+![himitsukessha-taka-no-tsume-ex](https://cdn.myanimelist.net/images/anime/10/61107.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 秘密結社鷹の爪 EX

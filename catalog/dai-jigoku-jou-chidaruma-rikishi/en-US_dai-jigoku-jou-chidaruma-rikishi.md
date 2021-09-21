@@ -1,5 +1,7 @@
 # Dai Jigoku-jou Chidaruma Rikishi
 
+![dai-jigoku-jou-chidaruma-rikishi](https://cdn.myanimelist.net/images/manga/2/36447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

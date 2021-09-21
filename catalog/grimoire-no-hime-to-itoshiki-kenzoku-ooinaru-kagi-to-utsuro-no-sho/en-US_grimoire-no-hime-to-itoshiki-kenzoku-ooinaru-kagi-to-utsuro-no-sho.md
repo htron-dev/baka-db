@@ -1,5 +1,7 @@
 # Grimoire no Hime to Itoshiki Kenzoku: Ooinaru Kagi to Utsuro no Sho
 
+![grimoire-no-hime-to-itoshiki-kenzoku-ooinaru-kagi-to-utsuro-no-sho](https://cdn.myanimelist.net/images/manga/3/235556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

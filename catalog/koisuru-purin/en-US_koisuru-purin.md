@@ -1,5 +1,7 @@
 # Koisuru Purin!
 
+![koisuru-purin](https://cdn.myanimelist.net/images/manga/1/195943.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

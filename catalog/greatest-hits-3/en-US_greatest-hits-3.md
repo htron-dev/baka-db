@@ -1,5 +1,7 @@
 # Greatest Hits +3
 
+![greatest-hits-3](https://cdn.myanimelist.net/images/manga/2/195011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Greatest Hits +3

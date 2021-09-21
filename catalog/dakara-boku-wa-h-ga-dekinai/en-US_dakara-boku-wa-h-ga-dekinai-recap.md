@@ -1,5 +1,7 @@
 # Dakara Boku wa, H ga Dekinai. Recap
 
+![dakara-boku-wa-h-ga-dekinai-recap](https://cdn.myanimelist.net/images/anime/4/61181.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: だから僕は、H ができない。

@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Gulliver no Bouken
 
+![kero-kero-keroppi-no-gulliver-no-bouken](https://cdn.myanimelist.net/images/anime/12/42543.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのガリバーの冒険

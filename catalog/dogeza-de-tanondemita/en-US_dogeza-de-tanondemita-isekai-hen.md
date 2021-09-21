@@ -1,5 +1,7 @@
 # Dogeza de Tanondemita: Isekai-hen
 
+![dogeza-de-tanondemita-isekai-hen](https://cdn.myanimelist.net/images/anime/1973/109541.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 土下座で頼んでみた 異世界編

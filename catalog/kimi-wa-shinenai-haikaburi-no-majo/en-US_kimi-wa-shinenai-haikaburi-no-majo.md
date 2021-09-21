@@ -1,5 +1,7 @@
 # Kimi wa Shinenai Haikaburi no Majo
 
+![kimi-wa-shinenai-haikaburi-no-majo](https://cdn.myanimelist.net/images/manga/2/237564.jpg)
+
 -   **type**: manga
 -   **original-name**: 君は死ねない灰かぶりの魔女
 -   **start-date**: 2020-06-25

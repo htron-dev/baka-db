@@ -1,5 +1,7 @@
 # Kaitai
 
+![kaitai](https://cdn.myanimelist.net/images/manga/3/21835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 解体

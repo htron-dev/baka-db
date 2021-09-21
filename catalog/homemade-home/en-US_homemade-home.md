@@ -1,5 +1,7 @@
 # Homemade Home
 
+![homemade-home](https://cdn.myanimelist.net/images/manga/3/13393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

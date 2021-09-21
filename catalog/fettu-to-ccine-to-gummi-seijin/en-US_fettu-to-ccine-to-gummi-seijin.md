@@ -1,5 +1,7 @@
 # Fettu to Ccine to Gummi Seijin
 
+![fettu-to-ccine-to-gummi-seijin](https://cdn.myanimelist.net/images/anime/12/88410.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: フェットとチーネとグミ星人

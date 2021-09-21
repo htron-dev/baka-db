@@ -1,5 +1,7 @@
 # Kyochuu Sanmyaku
 
+![kyochuu-sanmyaku](https://cdn.myanimelist.net/images/manga/3/238840.jpg)
+
 -   **type**: manga
 -   **original-name**: 巨蟲山脈
 -   **start-date**: 2019-11-05

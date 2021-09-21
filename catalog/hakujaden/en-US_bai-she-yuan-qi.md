@@ -1,5 +1,7 @@
 # Bai She: Yuan Qi
 
+![bai-she-yuan-qi](https://cdn.myanimelist.net/images/anime/1559/103214.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 白蛇：缘起

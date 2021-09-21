@@ -1,5 +1,7 @@
 # Isekai Tensei Soudouki
 
+![isekai-tensei-soudouki](https://cdn.myanimelist.net/images/manga/3/186482.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界転生騒動記
 -   **start-date**: 2014-03-04

@@ -1,5 +1,7 @@
 # Fuusui Gakuen
 
+![fuusui-gakuen](https://cdn.myanimelist.net/images/manga/2/163385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 41

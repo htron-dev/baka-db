@@ -1,5 +1,7 @@
 # Kishiwada Hakase no Kagakueki Aijou
 
+![kishiwada-hakase-no-kagakueki-aijou](https://cdn.myanimelist.net/images/manga/3/138043.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 岸和田博士の科学的愛情

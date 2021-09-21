@@ -1,5 +1,7 @@
 # Kachikomi Kaketara Isekai deshita
 
+![kachikomi-kaketara-isekai-deshita](https://cdn.myanimelist.net/images/manga/2/198244.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カチコミかけたら異世界でした
 -   **start-date**: 2017-07-15

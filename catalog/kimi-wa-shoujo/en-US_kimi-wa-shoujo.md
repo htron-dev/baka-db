@@ -1,5 +1,7 @@
 # Kimi wa Shoujo
 
+![kimi-wa-shoujo](https://cdn.myanimelist.net/images/manga/1/211223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka
 
+![koukyoushihen-eureka-seven-hi-evolution-3-eureka](https://cdn.myanimelist.net/images/anime/1236/117068.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: EUREKA／交響詩篇エウレカセブン ハイエボリューション

@@ -1,5 +1,7 @@
 # Monkurochou
 
+![monkurochou](https://cdn.myanimelist.net/images/manga/1/173494.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

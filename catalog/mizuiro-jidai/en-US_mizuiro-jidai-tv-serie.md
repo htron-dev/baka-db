@@ -1,5 +1,7 @@
 # Mizuiro Jidai
 
+![mizuiro-jidai](https://cdn.myanimelist.net/images/anime/11/49613.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 水色時代

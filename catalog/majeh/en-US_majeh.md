@@ -1,5 +1,7 @@
 # Majeh
 
+![majeh](https://cdn.myanimelist.net/images/manga/1/197257.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 55
 -   **chapters**: 414

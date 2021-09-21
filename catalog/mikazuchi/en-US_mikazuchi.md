@@ -1,5 +1,7 @@
 # Mikazuchi
 
+![mikazuchi](https://cdn.myanimelist.net/images/manga/2/163211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 26

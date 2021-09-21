@@ -1,5 +1,7 @@
 # New Mobile Report Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai
 
+![new-mobile-report-gundam-wing-frozen-teardrop-picture-drama-aratanaru-tatakai](https://cdn.myanimelist.net/images/anime/12/58637.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 新機動戦記ガンダム W Frozen Teardrop ピクチャードラマ

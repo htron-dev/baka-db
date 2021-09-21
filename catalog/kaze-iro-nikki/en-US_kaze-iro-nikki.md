@@ -1,5 +1,7 @@
 # Kaze Iro Nikki
 
+![kaze-iro-nikki](https://cdn.myanimelist.net/images/manga/1/32149.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 風いろ日記

@@ -1,5 +1,7 @@
 # Minna Tomodachi
 
+![minna-tomodachi](https://cdn.myanimelist.net/images/anime/11/61451.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みんな友だち

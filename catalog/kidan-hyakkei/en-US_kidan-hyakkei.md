@@ -1,5 +1,7 @@
 # Kidan Hyakkei
 
+![kidan-hyakkei](https://cdn.myanimelist.net/images/manga/2/125209.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼談百景
 -   **start-date**: 2013-04-19

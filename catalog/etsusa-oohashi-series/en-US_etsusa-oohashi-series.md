@@ -1,5 +1,7 @@
 # Etsusa Oohashi Series
 
+![etsusa-oohashi-series](https://cdn.myanimelist.net/images/manga/1/212594.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 41

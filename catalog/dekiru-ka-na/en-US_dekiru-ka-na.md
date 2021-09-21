@@ -1,5 +1,7 @@
 # Dekiru ka na
 
+![dekiru-ka-na](https://cdn.myanimelist.net/images/anime/7/87133.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: できるかな

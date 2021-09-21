@@ -1,5 +1,7 @@
 # Konya mo Nemurenai
 
+![konya-mo-nemurenai](https://cdn.myanimelist.net/images/manga/2/7180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 今夜もねむれない

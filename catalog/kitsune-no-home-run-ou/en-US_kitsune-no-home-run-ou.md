@@ -1,5 +1,7 @@
 # Kitsune no Home Run Ou
 
+![kitsune-no-home-run-ou](https://cdn.myanimelist.net/images/anime/8/67903.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きつねのホームラン王

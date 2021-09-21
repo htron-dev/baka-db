@@ -1,5 +1,7 @@
 # Mousou Shoujo Otaku-kei
 
+![mousou-shoujo-otaku-kei](https://cdn.myanimelist.net/images/manga/1/33195.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 51

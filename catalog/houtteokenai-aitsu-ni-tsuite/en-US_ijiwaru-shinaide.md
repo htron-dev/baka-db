@@ -1,5 +1,7 @@
 # Ijiwaru shinaide
 
+![ijiwaru-shinaide](https://cdn.myanimelist.net/images/manga/1/224781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

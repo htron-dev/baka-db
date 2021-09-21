@@ -1,5 +1,7 @@
 # Iki wo Hisomete, Koi wo
 
+![iki-wo-hisomete-koi-wo](https://cdn.myanimelist.net/images/manga/1/190890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

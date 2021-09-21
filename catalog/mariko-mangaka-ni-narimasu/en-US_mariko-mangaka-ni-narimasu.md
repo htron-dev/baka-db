@@ -1,5 +1,7 @@
 # Mariko Mangaka ni Narimasu!
 
+![mariko-mangaka-ni-narimasu](https://cdn.myanimelist.net/images/manga/1/124469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マリコまんが家になります！

@@ -1,5 +1,7 @@
 # Guomin Laogong Dai Huijia
 
+![guomin-laogong-dai-huijia](https://cdn.myanimelist.net/images/anime/3/84981.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 国民老公带回家

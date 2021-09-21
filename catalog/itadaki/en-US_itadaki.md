@@ -1,5 +1,7 @@
 # Itadaki!
 
+![itadaki](https://cdn.myanimelist.net/images/manga/2/97425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 頂！

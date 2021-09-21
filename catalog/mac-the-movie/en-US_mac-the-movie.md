@@ -1,5 +1,7 @@
 # Mac the Movie
 
+![mac-the-movie](https://cdn.myanimelist.net/images/anime/2/72633.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マック･ザ･ムービー

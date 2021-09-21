@@ -1,5 +1,7 @@
 # Higan Sugi Made
 
+![higan-sugi-made](https://cdn.myanimelist.net/images/manga/3/18157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

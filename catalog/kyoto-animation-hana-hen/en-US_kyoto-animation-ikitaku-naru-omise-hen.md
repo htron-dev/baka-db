@@ -1,5 +1,7 @@
 # Kyoto Animation: Ikitaku Naru Omise-hen
 
+![kyoto-animation-ikitaku-naru-omise-hen](https://cdn.myanimelist.net/images/anime/9/69215.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「行きたくなるお店編」

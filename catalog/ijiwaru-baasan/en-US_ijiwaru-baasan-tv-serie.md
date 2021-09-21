@@ -1,5 +1,7 @@
 # Ijiwaru Baasan
 
+![ijiwaru-baasan](https://cdn.myanimelist.net/images/anime/6/53517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: いじわるばあさん

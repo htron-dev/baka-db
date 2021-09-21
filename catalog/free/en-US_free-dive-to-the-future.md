@@ -1,5 +1,7 @@
 # Free!: Dive to the Future
 
+![free-dive-to-the-future](https://cdn.myanimelist.net/images/anime/1243/95025.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Free!-Dive to the Future-

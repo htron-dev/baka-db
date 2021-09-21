@@ -1,5 +1,7 @@
 # Fuuun Ishin Dai☆Shogun
 
+![fuuun-ishin-dai☆-shogun](https://cdn.myanimelist.net/images/anime/7/60333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 風雲維新ダイ ☆ ショーグン

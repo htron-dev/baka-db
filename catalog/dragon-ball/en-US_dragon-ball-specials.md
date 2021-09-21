@@ -1,5 +1,7 @@
 # Dragon Ball Specials
 
+![dragon-ball-specials](https://cdn.myanimelist.net/images/anime/13/24380.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ドラゴンボール

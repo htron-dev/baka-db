@@ -1,5 +1,7 @@
 # D-Crackers
 
+![d-crackers](https://cdn.myanimelist.net/images/manga/2/112963.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: D クラッカーズ

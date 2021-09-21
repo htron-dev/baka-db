@@ -1,5 +1,7 @@
 # Flag Breaker
 
+![flag-breaker](https://cdn.myanimelist.net/images/manga/1/164321.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ふらぐ・ぶれいかぁ

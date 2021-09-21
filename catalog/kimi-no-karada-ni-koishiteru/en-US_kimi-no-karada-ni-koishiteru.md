@@ -1,5 +1,7 @@
 # Kimi no Karada ni Koishiteru!?
 
+![kimi-no-karada-ni-koishiteru](https://cdn.myanimelist.net/images/manga/1/132303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

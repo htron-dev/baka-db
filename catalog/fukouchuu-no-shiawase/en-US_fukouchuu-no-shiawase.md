@@ -1,5 +1,7 @@
 # Fukouchuu no Shiawase
 
+![fukouchuu-no-shiawase](https://cdn.myanimelist.net/images/manga/2/154651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

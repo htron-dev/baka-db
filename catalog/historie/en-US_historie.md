@@ -1,5 +1,7 @@
 # Historie
 
+![historie](https://cdn.myanimelist.net/images/manga/2/167504.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒストリエ HISTORIĒ
 -   **start-date**: 2003-01-25

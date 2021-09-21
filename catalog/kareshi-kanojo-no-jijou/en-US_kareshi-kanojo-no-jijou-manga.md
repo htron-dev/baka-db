@@ -1,5 +1,7 @@
 # Kareshi Kanojo no Jijou
 
+![kareshi-kanojo-no-jijou](https://cdn.myanimelist.net/images/manga/4/168938.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 108

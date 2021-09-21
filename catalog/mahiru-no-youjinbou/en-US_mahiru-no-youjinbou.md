@@ -1,5 +1,7 @@
 # Mahiru no Youjinbou
 
+![mahiru-no-youjinbou](https://cdn.myanimelist.net/images/manga/2/83699.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

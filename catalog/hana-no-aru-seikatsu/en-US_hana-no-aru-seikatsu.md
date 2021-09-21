@@ -1,5 +1,7 @@
 # Hana no Aru Seikatsu
 
+![hana-no-aru-seikatsu](https://cdn.myanimelist.net/images/manga/2/74069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

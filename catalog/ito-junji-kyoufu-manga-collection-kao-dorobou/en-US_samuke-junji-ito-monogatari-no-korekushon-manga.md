@@ -1,5 +1,7 @@
 # Samuke Junji Ito Monogatari no korekushon Manga
 
+![samuke-junji-ito-monogatari-no-korekushon-manga](https://cdn.myanimelist.net/images/manga/3/243405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

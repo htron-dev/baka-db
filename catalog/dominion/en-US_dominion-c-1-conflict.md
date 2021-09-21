@@ -1,9 +1,11 @@
 # Dominion C1 Conflict
 
+![dominion-c-1-conflict](https://cdn.myanimelist.net/images/manga/2/167653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2
--   **original-name**: ドミニオンC1コンフリクト
+-   **original-name**: ドミニオン C1 コンフリクト
 -   **start-date**: 1992-01-19
 
 ## Tags

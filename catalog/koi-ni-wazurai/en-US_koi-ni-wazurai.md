@@ -1,5 +1,7 @@
 # Koi ni Wazurai
 
+![koi-ni-wazurai](https://cdn.myanimelist.net/images/manga/3/215164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

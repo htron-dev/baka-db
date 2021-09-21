@@ -1,5 +1,7 @@
 # Ganbare! Kieruna!! Shikiso Usuko-san
 
+![ganbare-kieruna-shikiso-usuko-san](https://cdn.myanimelist.net/images/manga/1/122953.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: がんばれ! 消えるな!! 色素薄子さん

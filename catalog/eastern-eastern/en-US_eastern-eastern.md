@@ -1,5 +1,7 @@
 # Eastern Eastern
 
+![eastern-eastern](https://cdn.myanimelist.net/images/manga/1/56341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

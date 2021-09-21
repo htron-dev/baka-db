@@ -1,5 +1,7 @@
 # Jing: Shuang Cheng - Feng Qi Pian
 
+![jing-shuang-cheng-feng-qi-pian](https://cdn.myanimelist.net/images/anime/1614/109261.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 镜·双城 风起篇

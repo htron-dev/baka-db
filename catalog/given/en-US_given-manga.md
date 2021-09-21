@@ -1,5 +1,7 @@
 # Given
 
+![given](https://cdn.myanimelist.net/images/manga/1/172497.jpg)
+
 -   **type**: manga
 -   **original-name**: ギヴン
 -   **start-date**: 2013-04-30

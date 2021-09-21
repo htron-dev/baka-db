@@ -1,5 +1,7 @@
 # Horimiya
 
+![horimiya](https://cdn.myanimelist.net/images/manga/2/245008.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 125

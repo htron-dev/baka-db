@@ -1,5 +1,7 @@
 # Ganota no Onna
 
+![ganota-no-onna](https://cdn.myanimelist.net/images/manga/2/59411.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

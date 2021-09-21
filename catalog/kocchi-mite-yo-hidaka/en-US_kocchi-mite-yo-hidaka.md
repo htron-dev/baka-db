@@ -1,5 +1,7 @@
 # Kocchi Mite yo, Hidaka
 
+![kocchi-mite-yo-hidaka](https://cdn.myanimelist.net/images/manga/3/211764.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

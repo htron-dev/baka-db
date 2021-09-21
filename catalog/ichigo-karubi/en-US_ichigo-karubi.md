@@ -1,5 +1,7 @@
 # Ichigo Karubi
 
+![ichigo-karubi](https://cdn.myanimelist.net/images/manga/3/144317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

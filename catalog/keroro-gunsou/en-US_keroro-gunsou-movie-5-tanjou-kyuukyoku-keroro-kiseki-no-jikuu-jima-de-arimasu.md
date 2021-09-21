@@ -1,5 +1,7 @@
 # Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!
 
+![keroro-gunsou-movie-5-tanjou-kyuukyoku-keroro-kiseki-no-jikuu-jima-de-arimasu](https://cdn.myanimelist.net/images/anime/4/84854.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!

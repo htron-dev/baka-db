@@ -1,5 +1,7 @@
 # June
 
+![june](https://cdn.myanimelist.net/images/manga/1/21539.jpg)
+
 -   **type**: manhwa
 
 ## Tags

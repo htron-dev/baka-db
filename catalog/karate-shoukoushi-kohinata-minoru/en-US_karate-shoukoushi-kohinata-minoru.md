@@ -1,5 +1,7 @@
 # Karate Shoukoushi Kohinata Minoru
 
+![karate-shoukoushi-kohinata-minoru](https://cdn.myanimelist.net/images/manga/2/75107.jpg)
+
 -   **type**: manga
 -   **volumes**: 50
 -   **chapters**: 500

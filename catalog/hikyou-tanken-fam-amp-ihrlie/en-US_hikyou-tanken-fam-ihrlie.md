@@ -1,5 +1,7 @@
 # Hikyou Tanken Fam & Ihrlie
 
+![hikyou-tanken-fam-ihrlie](https://cdn.myanimelist.net/images/manga/1/87457.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 秘境探検ファム&イーリー

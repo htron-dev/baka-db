@@ -1,5 +1,7 @@
 # Edens Zero
 
+![edens-zero](https://cdn.myanimelist.net/images/manga/3/212094.jpg)
+
 -   **type**: manga
 -   **original-name**: EDENS ZERO
 -   **start-date**: 2018-06-27

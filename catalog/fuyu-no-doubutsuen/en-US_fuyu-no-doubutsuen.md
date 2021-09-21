@@ -1,5 +1,7 @@
 # Fuyu no Doubutsuen
 
+![fuyu-no-doubutsuen](https://cdn.myanimelist.net/images/manga/2/21934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # El Hazard: The Wanderers
 
+![el-hazard-the-wanderers](https://cdn.myanimelist.net/images/anime/13/24439.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 神秘の世界エルハザード

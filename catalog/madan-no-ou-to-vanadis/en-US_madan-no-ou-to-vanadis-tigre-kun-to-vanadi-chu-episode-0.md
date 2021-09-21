@@ -1,5 +1,7 @@
 # Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu Episode 0
 
+![madan-no-ou-to-vanadis-tigre-kun-to-vanadi-chu-episode-0](https://cdn.myanimelist.net/images/anime/1784/98274.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ティグルくんとヴァナディーちゅ 第 0 話

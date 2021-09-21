@@ -1,5 +1,7 @@
 # Kako e no Tabibito
 
+![kako-e-no-tabibito](https://cdn.myanimelist.net/images/manga/1/47885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

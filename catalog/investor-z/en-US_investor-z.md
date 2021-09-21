@@ -1,5 +1,7 @@
 # Investor Z
 
+![investor-z](https://cdn.myanimelist.net/images/manga/3/118975.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 187

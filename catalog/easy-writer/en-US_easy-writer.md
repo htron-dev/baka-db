@@ -1,5 +1,7 @@
 # Easy Writer
 
+![easy-writer](https://cdn.myanimelist.net/images/manga/3/152291.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

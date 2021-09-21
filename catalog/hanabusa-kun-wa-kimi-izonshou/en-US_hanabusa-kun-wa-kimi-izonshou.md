@@ -1,5 +1,7 @@
 # Hanabusa-kun wa Kimi Izonshou
 
+![hanabusa-kun-wa-kimi-izonshou](https://cdn.myanimelist.net/images/manga/1/213245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Shin, Maou Kourin!
 
+![shin-maou-kourin](https://cdn.myanimelist.net/images/manga/2/124157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

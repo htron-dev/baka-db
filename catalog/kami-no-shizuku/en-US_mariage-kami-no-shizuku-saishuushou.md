@@ -1,5 +1,7 @@
 # Mariage: Kami no Shizuku Saishuushou
 
+![mariage-kami-no-shizuku-saishuushou](https://cdn.myanimelist.net/images/manga/3/166226.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 237

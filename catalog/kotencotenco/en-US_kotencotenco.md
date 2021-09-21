@@ -1,5 +1,7 @@
 # Kotencotenco
 
+![kotencotenco](https://cdn.myanimelist.net/images/anime/6/23582.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: こてんこてんこ

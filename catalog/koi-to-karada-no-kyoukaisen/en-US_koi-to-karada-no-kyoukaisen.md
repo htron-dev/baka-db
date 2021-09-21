@@ -1,5 +1,7 @@
 # Koi to Karada no Kyoukaisen
 
+![koi-to-karada-no-kyoukaisen](https://cdn.myanimelist.net/images/manga/1/36671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋とカラダの境界線

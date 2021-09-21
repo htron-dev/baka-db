@@ -1,5 +1,7 @@
 # Kuronou Syndrome
 
+![kuronou-syndrome](https://cdn.myanimelist.net/images/manga/3/229577.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 77

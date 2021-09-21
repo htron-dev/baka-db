@@ -1,5 +1,7 @@
 # JK to Sutego no Akachan
 
+![jk-to-sutego-no-akachan](https://cdn.myanimelist.net/images/manga/2/222958.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

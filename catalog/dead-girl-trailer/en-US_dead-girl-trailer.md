@@ -1,5 +1,7 @@
 # Dead Girl Trailer
 
+![dead-girl-trailer](https://cdn.myanimelist.net/images/anime/2/44744.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: DEAD GIRL Trailer（デッド・ガール トレーラー）

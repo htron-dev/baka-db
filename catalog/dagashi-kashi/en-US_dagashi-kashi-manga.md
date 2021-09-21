@@ -1,5 +1,7 @@
 # Dagashi Kashi
 
+![dagashi-kashi](https://cdn.myanimelist.net/images/manga/3/188802.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 186

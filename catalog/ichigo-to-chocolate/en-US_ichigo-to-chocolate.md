@@ -1,5 +1,7 @@
 # Ichigo to Chocolate
 
+![ichigo-to-chocolate](https://cdn.myanimelist.net/images/manga/3/387.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 苺とチョコレート

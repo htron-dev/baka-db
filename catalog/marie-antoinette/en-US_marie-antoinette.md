@@ -1,5 +1,7 @@
 # Marie Antoinette
 
+![marie-antoinette](https://cdn.myanimelist.net/images/manga/3/184031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

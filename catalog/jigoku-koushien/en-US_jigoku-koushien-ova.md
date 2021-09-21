@@ -1,5 +1,7 @@
 # Jigoku Koushien
 
+![jigoku-koushien](https://cdn.myanimelist.net/images/anime/13/68769.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 地獄甲子園

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED
 
+![mobile-suit-gundam-seed](https://cdn.myanimelist.net/images/anime/1792/91081.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 機動戦士ガンダム SEED

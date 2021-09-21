@@ -1,5 +1,7 @@
 # Violence Jack
 
+![violence-jack](https://cdn.myanimelist.net/images/manga/4/197841.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 48

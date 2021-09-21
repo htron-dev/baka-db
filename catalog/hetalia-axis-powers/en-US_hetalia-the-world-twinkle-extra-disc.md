@@ -1,5 +1,7 @@
 # Hetalia: The World Twinkle Extra Disc
 
+![hetalia-the-world-twinkle-extra-disc](https://cdn.myanimelist.net/images/anime/10/77986.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 「 ヘタリア The World Twinkle 」 えくすとらでぃすく

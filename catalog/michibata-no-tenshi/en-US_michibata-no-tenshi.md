@@ -1,5 +1,7 @@
 # Michibata no Tenshi
 
+![michibata-no-tenshi](https://cdn.myanimelist.net/images/manga/1/4876.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 道端の天使

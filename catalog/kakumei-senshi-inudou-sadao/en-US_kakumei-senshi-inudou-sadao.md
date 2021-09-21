@@ -1,5 +1,7 @@
 # Kakumei Senshi Inudou Sadao
 
+![kakumei-senshi-inudou-sadao](https://cdn.myanimelist.net/images/manga/3/167472.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # UQ Holder!: Mahou Sensei Negima! 2
 
+![uq-holder-mahou-sensei-negima-2](https://cdn.myanimelist.net/images/anime/6/88354.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: UQ HOLDER! ～魔法先生ネギま！2 ～

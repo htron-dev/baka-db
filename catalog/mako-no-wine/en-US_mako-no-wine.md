@@ -1,5 +1,7 @@
 # Mako no Wine
 
+![mako-no-wine](https://cdn.myanimelist.net/images/manga/2/235701.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

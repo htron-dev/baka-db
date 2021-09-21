@@ -1,5 +1,7 @@
 # Karakasa no Saien
 
+![karakasa-no-saien](https://cdn.myanimelist.net/images/manga/2/195800.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

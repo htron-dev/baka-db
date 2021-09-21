@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: The Origin
 
+![kidou-senshi-gundam-the-origin](https://cdn.myanimelist.net/images/manga/1/151300.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 112

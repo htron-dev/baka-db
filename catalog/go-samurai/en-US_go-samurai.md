@@ -1,5 +1,7 @@
 # Go! Samurai
 
+![go-samurai](https://cdn.myanimelist.net/images/anime/11/76308.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GO! SAMURAI

@@ -1,5 +1,7 @@
 # 3-Nen D-Gumi Glass no Kamen
 
+![3-nen-d-gumi-glass-no-kamen](https://cdn.myanimelist.net/images/anime/7/85641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ３ねんＤぐみガラスの仮面

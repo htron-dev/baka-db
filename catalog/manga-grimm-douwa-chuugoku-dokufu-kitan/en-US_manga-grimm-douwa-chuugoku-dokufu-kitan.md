@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Chuugoku Dokufu Kitan
 
+![manga-grimm-douwa-chuugoku-dokufu-kitan](https://cdn.myanimelist.net/images/manga/2/140677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

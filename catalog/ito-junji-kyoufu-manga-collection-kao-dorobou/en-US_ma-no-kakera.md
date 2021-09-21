@@ -1,5 +1,7 @@
 # Ma no Kakera
 
+![ma-no-kakera](https://cdn.myanimelist.net/images/manga/2/138905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

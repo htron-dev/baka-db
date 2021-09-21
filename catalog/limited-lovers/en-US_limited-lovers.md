@@ -1,5 +1,7 @@
 # Limited Lovers
 
+![limited-lovers](https://cdn.myanimelist.net/images/manga/2/186935.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

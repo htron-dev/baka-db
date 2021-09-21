@@ -1,5 +1,7 @@
 # Kawaii Obaka-kun
 
+![kawaii-obaka-kun](https://cdn.myanimelist.net/images/manga/1/208174.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

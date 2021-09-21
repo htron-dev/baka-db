@@ -1,5 +1,7 @@
 # Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen
 
+![danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen](https://cdn.myanimelist.net/images/anime/10/80931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンガンロンパ 3 -The End of 希望ヶ峰学園- 未来編

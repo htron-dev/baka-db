@@ -1,5 +1,7 @@
 # From A Different Dimension
 
+![from-a-different-dimension](https://cdn.myanimelist.net/images/manga/1/12615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

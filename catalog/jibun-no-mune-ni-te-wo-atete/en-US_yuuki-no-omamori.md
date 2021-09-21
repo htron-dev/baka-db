@@ -1,5 +1,7 @@
 # Yuuki no Omamori
 
+![yuuki-no-omamori](https://cdn.myanimelist.net/images/anime/2/74018.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 勇気のお守り

@@ -1,5 +1,7 @@
 # Last Exile: Ginyoku no Fam Movie - Over the Wishes
 
+![last-exile-ginyoku-no-fam-movie-over-the-wishes](https://cdn.myanimelist.net/images/anime/8/77934.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 LASTEXILE 銀翼のファム Over the Wishes

@@ -1,5 +1,7 @@
 # Moto no Moto no Ana no Naka
 
+![moto-no-moto-no-ana-no-naka](https://cdn.myanimelist.net/images/manga/2/9925.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

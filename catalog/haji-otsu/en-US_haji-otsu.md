@@ -1,5 +1,7 @@
 # HajiOtsu.
 
+![haji-otsu](https://cdn.myanimelist.net/images/manga/1/183079.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Freezing Tokuten Manga
 
+![freezing-tokuten-manga](https://cdn.myanimelist.net/images/manga/1/194826.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: フリージング 特典漫画

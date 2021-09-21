@@ -1,5 +1,7 @@
 # Karigari!
 
+![karigari](https://cdn.myanimelist.net/images/manga/2/200289.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

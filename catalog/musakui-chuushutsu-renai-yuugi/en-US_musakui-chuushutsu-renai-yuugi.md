@@ -1,5 +1,7 @@
 # Musakui Chuushutsu Renai Yuugi
 
+![musakui-chuushutsu-renai-yuugi](https://cdn.myanimelist.net/images/manga/3/171823.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

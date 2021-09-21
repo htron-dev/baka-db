@@ -1,5 +1,7 @@
 # Mado no Mukougawa
 
+![mado-no-mukougawa](https://cdn.myanimelist.net/images/manga/1/69723.jpg)
+
 -   **type**: manga
 -   **original-name**: マドの向こう側
 -   **start-date**: 2012-01-27

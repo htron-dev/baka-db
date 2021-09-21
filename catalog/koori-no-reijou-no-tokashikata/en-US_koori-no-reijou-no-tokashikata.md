@@ -1,5 +1,7 @@
 # Koori no Reijou no Tokashikata
 
+![koori-no-reijou-no-tokashikata](https://cdn.myanimelist.net/images/manga/1/241800.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 氷の令嬢の溶かし方
 -   **start-date**: 2020-09-30

@@ -1,5 +1,7 @@
 # Furyou Kareshi no Renai Jouken
 
+![furyou-kareshi-no-renai-jouken](https://cdn.myanimelist.net/images/manga/2/223119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

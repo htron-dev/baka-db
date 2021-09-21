@@ -1,5 +1,7 @@
 # Hakoniwa no Fräulein
 
+![hakoniwa-no-fraulein](https://cdn.myanimelist.net/images/manga/1/137599.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

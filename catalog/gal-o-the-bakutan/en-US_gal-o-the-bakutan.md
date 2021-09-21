@@ -1,5 +1,7 @@
 # Gal-O: The Bakutan!
 
+![gal-o-the-bakutan](https://cdn.myanimelist.net/images/manga/1/205144.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

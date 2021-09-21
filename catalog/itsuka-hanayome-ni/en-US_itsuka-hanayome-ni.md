@@ -1,5 +1,7 @@
 # Itsuka Hanayome ni
 
+![itsuka-hanayome-ni](https://cdn.myanimelist.net/images/manga/1/30215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いつか花嫁に

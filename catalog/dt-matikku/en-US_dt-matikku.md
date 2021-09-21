@@ -1,5 +1,7 @@
 # DT Matikku
 
+![dt-matikku](https://cdn.myanimelist.net/images/manga/3/36911.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: DT マティック

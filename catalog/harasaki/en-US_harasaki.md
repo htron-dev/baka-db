@@ -1,5 +1,7 @@
 # Harasaki
 
+![harasaki](https://cdn.myanimelist.net/images/manga/3/231499.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Imagine
 
+![imagine](https://cdn.myanimelist.net/images/manga/2/163726.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: イマジン

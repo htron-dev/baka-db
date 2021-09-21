@@ -1,5 +1,7 @@
 # Jun na Kimochi de Icchimae!
 
+![jun-na-kimochi-de-icchimae](https://cdn.myanimelist.net/images/manga/2/38394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai
 
+![dragon-ball-z-the-real-4-d-at-super-tenkaichi-budokai](https://cdn.myanimelist.net/images/anime/1958/108469.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z ザ・リアル 4-D at 超天下一武道会

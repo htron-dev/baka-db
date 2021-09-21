@@ -1,5 +1,7 @@
 # Kenshirou ni Yoroshiku
 
+![kenshirou-ni-yoroshiku](https://cdn.myanimelist.net/images/manga/2/232991.jpg)
+
 -   **type**: manga
 -   **original-name**: ケンシロウによろしく
 -   **start-date**: 2020-03-16

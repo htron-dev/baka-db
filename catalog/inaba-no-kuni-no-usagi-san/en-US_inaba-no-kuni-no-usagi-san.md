@@ -1,5 +1,7 @@
 # Inaba no Kuni no Usagi-san
 
+![inaba-no-kuni-no-usagi-san](https://cdn.myanimelist.net/images/anime/13/85239.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いなばの国の兎さん

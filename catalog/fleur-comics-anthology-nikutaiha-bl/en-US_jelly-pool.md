@@ -1,5 +1,7 @@
 # Jelly Pool
 
+![jelly-pool](https://cdn.myanimelist.net/images/manga/2/246008.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

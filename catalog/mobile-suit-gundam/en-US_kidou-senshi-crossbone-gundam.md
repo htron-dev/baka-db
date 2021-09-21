@@ -1,5 +1,7 @@
 # Kidou Senshi Crossbone Gundam
 
+![kidou-senshi-crossbone-gundam](https://cdn.myanimelist.net/images/manga/3/157503.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Neko Majin
 
+![neko-majin](https://cdn.myanimelist.net/images/manga/4/111781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

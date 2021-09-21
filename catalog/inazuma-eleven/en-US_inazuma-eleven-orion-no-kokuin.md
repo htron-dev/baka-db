@@ -1,5 +1,7 @@
 # Inazuma Eleven: Orion no Kokuin
 
+![inazuma-eleven-orion-no-kokuin](https://cdn.myanimelist.net/images/anime/1629/93729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: イナズマイレブン オリオンの刻印

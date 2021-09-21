@@ -1,5 +1,7 @@
 # Kyou, Curry!
 
+![kyou-curry](https://cdn.myanimelist.net/images/manga/3/67767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

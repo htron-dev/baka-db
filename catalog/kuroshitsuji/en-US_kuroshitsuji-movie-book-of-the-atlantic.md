@@ -1,5 +1,7 @@
 # Kuroshitsuji Movie: Book of the Atlantic
 
+![kuroshitsuji-movie-book-of-the-atlantic](https://cdn.myanimelist.net/images/anime/9/85792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 黒執事 Book of the Atlantic

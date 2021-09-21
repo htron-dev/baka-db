@@ -1,5 +1,7 @@
 # Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
 
+![jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku](https://cdn.myanimelist.net/images/manga/3/223986.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 自称悪役令嬢な婚約者の観察記録。

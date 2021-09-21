@@ -1,5 +1,7 @@
 # Futago-tachi no Shojijou
 
+![futago-tachi-no-shojijou](https://cdn.myanimelist.net/images/manga/3/235840.jpg)
+
 -   **type**: manga
 -   **original-name**: 双子たちの諸事情
 -   **start-date**: 2020-05-08

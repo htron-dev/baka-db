@@ -1,5 +1,7 @@
 # Doraemon Movie 08: Nobita to Ryuu no Kishi
 
+![doraemon-movie-08-nobita-to-ryuu-no-kishi](https://cdn.myanimelist.net/images/anime/13/72413.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と竜の騎士

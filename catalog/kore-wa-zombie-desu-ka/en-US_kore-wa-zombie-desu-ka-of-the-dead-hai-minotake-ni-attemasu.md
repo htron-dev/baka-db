@@ -1,5 +1,7 @@
 # Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu
 
+![kore-wa-zombie-desu-ka-of-the-dead-hai-minotake-ni-attemasu](https://cdn.myanimelist.net/images/anime/4/43515.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: これはゾンビですか? OF THE DEAD 「はい、身の丈に合ってます」

@@ -1,5 +1,7 @@
 # Tobidashi wa Abunaizo! Mushi Mushi Mura no Koutsuu Anzen
 
+![tobidashi-wa-abunaizo-mushi-mushi-mura-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/11/74432.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とびだしはあぶないぞ！　むしむし村の交通安全

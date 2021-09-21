@@ -1,5 +1,7 @@
 # Kitto Ouji-sama ga nante
 
+![kitto-ouji-sama-ga-nante](https://cdn.myanimelist.net/images/manga/1/215910.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Dr. Slump Movie 02: "Hoyoyo!" Uchuu Daibouken
 
+![dr-slump-movie-02-hoyoyo-uchuu-daibouken](https://cdn.myanimelist.net/images/anime/12/23174.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dr.SLUMP “ほよよ!”宇宙大冒険

@@ -1,5 +1,7 @@
 # Kami to Issho ni
 
+![kami-to-issho-ni](https://cdn.myanimelist.net/images/manga/2/143021.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Kimi to Iru to
 
+![kimi-to-iru-to](https://cdn.myanimelist.net/images/manga/1/45445.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: きみといると

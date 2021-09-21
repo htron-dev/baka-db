@@ -1,5 +1,7 @@
 # Sore wa Koi ne
 
+![sore-wa-koi-ne](https://cdn.myanimelist.net/images/manga/2/95953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: それは恋ね

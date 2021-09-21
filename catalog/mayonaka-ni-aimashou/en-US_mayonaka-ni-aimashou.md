@@ -1,5 +1,7 @@
 # Mayonaka ni Aimashou
 
+![mayonaka-ni-aimashou](https://cdn.myanimelist.net/images/manga/1/21062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

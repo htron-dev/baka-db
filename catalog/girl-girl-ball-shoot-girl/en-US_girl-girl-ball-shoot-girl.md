@@ -1,5 +1,7 @@
 # Girl Girl Ball Shoot Girl
 
+![girl-girl-ball-shoot-girl](https://cdn.myanimelist.net/images/manga/5/75927.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

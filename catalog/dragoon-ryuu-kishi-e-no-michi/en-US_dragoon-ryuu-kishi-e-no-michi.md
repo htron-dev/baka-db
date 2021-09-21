@@ -1,5 +1,7 @@
 # Dragoon: Ryuu Kishi e no Michi
 
+![dragoon-ryuu-kishi-e-no-michi](https://cdn.myanimelist.net/images/manga/1/201336.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 83

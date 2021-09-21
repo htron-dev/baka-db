@@ -1,5 +1,7 @@
 # Daiteito Étranger Sousasen
 
+![daiteito-etranger-sousasen](https://cdn.myanimelist.net/images/manga/3/158600.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: 大帝都エトランゼ捜査線

@@ -1,5 +1,7 @@
 # Fuku-chan
 
+![fuku-chan](https://cdn.myanimelist.net/images/anime/9/62171.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 71
 -   **original-name**: フクちゃん

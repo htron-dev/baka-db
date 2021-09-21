@@ -1,5 +1,7 @@
 # Mousou Koukou Kyouin Morishita
 
+![mousou-koukou-kyouin-morishita](https://cdn.myanimelist.net/images/manga/2/114049.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 66

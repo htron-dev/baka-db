@@ -1,5 +1,7 @@
 # Blood Ocean
 
+![blood-ocean](https://cdn.myanimelist.net/images/manga/3/194965.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 164
 -   **original-name**: 블러드 오션

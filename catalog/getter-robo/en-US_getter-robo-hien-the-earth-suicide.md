@@ -1,5 +1,7 @@
 # Getter Robo Hien: The Earth Suicide
 
+![getter-robo-hien-the-earth-suicide](https://cdn.myanimelist.net/images/manga/1/74989.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

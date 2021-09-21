@@ -1,5 +1,7 @@
 # Inakappe Taishou
 
+![inakappe-taishou](https://cdn.myanimelist.net/images/anime/5/59671.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: いなかっぺ大将

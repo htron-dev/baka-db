@@ -1,5 +1,7 @@
 # Hakai no Utage
 
+![hakai-no-utage](https://cdn.myanimelist.net/images/manga/2/158856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

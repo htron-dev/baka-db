@@ -1,5 +1,7 @@
 # Magi: Sinbad no Bouken
 
+![magi-sinbad-no-bouken](https://cdn.myanimelist.net/images/manga/3/209406.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 182

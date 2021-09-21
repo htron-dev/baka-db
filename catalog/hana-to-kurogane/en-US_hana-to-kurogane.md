@@ -1,5 +1,7 @@
 # Hana to Kurogane
 
+![hana-to-kurogane](https://cdn.myanimelist.net/images/manga/2/185364.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Hajishirazu no Purple Haze: JoJo no Kimyou na Bouken yori
 
+![hajishirazu-no-purple-haze-jo-jo-no-kimyou-na-bouken-yori](https://cdn.myanimelist.net/images/manga/2/73225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

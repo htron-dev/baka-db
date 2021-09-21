@@ -1,5 +1,7 @@
 # D.C.: Da Capo
 
+![d-c-da-capo](https://cdn.myanimelist.net/images/anime/4/73936.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: D.C.～ダ・カーポ～

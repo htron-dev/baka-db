@@ -1,5 +1,7 @@
 # Hazakura ga Kita Natsu
 
+![hazakura-ga-kita-natsu](https://cdn.myanimelist.net/images/manga/1/164259.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 葉桜が来た夏

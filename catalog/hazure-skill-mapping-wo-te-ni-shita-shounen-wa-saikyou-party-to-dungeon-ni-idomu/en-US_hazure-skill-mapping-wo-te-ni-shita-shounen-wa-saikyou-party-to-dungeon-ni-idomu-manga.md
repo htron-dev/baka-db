@@ -1,5 +1,7 @@
 # Hazure Skill "Mapping" wo Te ni Shita Shounen wa Saikyou Party to Dungeon ni Idomu
 
+![hazure-skill-mapping-wo-te-ni-shita-shounen-wa-saikyou-party-to-dungeon-ni-idomu](https://cdn.myanimelist.net/images/manga/2/229383.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

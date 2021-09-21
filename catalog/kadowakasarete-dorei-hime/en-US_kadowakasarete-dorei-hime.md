@@ -1,5 +1,7 @@
 # Kadowakasarete: Dorei-hime
 
+![kadowakasarete-dorei-hime](https://cdn.myanimelist.net/images/manga/1/194836.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

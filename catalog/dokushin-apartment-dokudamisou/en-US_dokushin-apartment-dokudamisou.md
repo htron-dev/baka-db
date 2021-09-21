@@ -1,5 +1,7 @@
 # Dokushin Apartment Dokudamisou
 
+![dokushin-apartment-dokudamisou](https://cdn.myanimelist.net/images/manga/1/149665.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **original-name**: 独身アパートどくだみ荘

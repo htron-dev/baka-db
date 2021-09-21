@@ -1,5 +1,7 @@
 # LayereD Eve
 
+![layere-d-eve](https://cdn.myanimelist.net/images/manga/1/221979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

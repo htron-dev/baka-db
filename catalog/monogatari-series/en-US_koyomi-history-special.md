@@ -1,5 +1,7 @@
 # Koyomi History
 
+![koyomi-history](https://cdn.myanimelist.net/images/anime/1664/90128.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こよみヒストリー

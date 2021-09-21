@@ -1,5 +1,7 @@
 # GT-giRl
 
+![gt-gi-rl](https://cdn.myanimelist.net/images/manga/2/244059.jpg)
+
 -   **type**: manga
 -   **original-name**: GT-giRl
 -   **start-date**: 2020-11-27

@@ -1,5 +1,7 @@
 # Kiteretsu Daihyakka
 
+![kiteretsu-daihyakka](https://cdn.myanimelist.net/images/manga/1/70235.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 6

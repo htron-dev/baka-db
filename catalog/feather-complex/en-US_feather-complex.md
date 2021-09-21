@@ -1,5 +1,7 @@
 # Feather Complex
 
+![feather-complex](https://cdn.myanimelist.net/images/manga/2/32142.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フェザーコンプレックス

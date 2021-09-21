@@ -1,5 +1,7 @@
 # Mahou Shoujo Tart★Magica: The Legend of "Jeanne d'Arc"
 
+![mahou-shoujo-tart★-magica-the-legend-of-jeanne-d-arc](https://cdn.myanimelist.net/images/manga/1/191170.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

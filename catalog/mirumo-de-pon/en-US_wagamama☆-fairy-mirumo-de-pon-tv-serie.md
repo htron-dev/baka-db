@@ -1,5 +1,7 @@
 # Wagamama☆Fairy Mirumo de Pon!
 
+![wagamama☆-fairy-mirumo-de-pon](https://cdn.myanimelist.net/images/anime/10/75644.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 172
 -   **original-name**: わがまま ☆ フェアリー ミルモでポン!

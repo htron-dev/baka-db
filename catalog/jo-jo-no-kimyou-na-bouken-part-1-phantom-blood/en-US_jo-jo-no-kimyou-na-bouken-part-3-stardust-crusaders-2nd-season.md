@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season
 
+![jo-jo-no-kimyou-na-bouken-part-3-stardust-crusaders-2nd-season](https://cdn.myanimelist.net/images/anime/11/75045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ジョジョの奇妙な冒険 スターダストクルセイダース

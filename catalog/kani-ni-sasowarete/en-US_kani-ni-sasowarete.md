@@ -1,5 +1,7 @@
 # Kani ni Sasowarete
 
+![kani-ni-sasowarete](https://cdn.myanimelist.net/images/manga/3/226804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

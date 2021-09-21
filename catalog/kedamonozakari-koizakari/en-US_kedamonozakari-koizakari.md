@@ -1,5 +1,7 @@
 # Kedamonozakari, Koizakari
 
+![kedamonozakari-koizakari](https://cdn.myanimelist.net/images/manga/1/166607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

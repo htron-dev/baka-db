@@ -1,5 +1,7 @@
 # Hakuouki Sekkaroku
 
+![hakuouki-sekkaroku](https://cdn.myanimelist.net/images/anime/6/71799.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 薄桜鬼 雪華録

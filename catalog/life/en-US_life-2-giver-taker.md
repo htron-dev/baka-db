@@ -1,5 +1,7 @@
 # Life 2: Giver Taker
 
+![life-2-giver-taker](https://cdn.myanimelist.net/images/manga/1/185222.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

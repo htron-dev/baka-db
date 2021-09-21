@@ -1,5 +1,7 @@
 # Gokicha!!
 
+![gokicha](https://cdn.myanimelist.net/images/anime/10/77941.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ごきチャ!!

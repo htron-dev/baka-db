@@ -1,5 +1,7 @@
 # Inside World
 
+![inside-world](https://cdn.myanimelist.net/images/manga/1/164527.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

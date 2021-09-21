@@ -1,5 +1,7 @@
 # Date A Live
 
+![date-a-live](https://cdn.myanimelist.net/images/anime/13/44844.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デート・ア・ライブ

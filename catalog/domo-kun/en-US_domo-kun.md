@@ -1,5 +1,7 @@
 # Domo-kun
 
+![domo-kun](https://cdn.myanimelist.net/images/anime/3/18406.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: どーもくん

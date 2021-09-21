@@ -1,5 +1,7 @@
 # Kedamono Bitch
 
+![kedamono-bitch](https://cdn.myanimelist.net/images/manga/2/227227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

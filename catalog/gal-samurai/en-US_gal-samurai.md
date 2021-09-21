@@ -1,5 +1,7 @@
 # Gal Samurai
 
+![gal-samurai](https://cdn.myanimelist.net/images/manga/3/176850.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 70

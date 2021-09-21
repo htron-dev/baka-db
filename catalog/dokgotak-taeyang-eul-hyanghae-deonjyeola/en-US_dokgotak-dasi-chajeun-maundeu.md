@@ -1,5 +1,7 @@
 # Dokgotak Dasi Chajeun Maundeu
 
+![dokgotak-dasi-chajeun-maundeu](https://cdn.myanimelist.net/images/anime/4/49095.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 독고탁 다시 찾은 마운드

@@ -1,5 +1,7 @@
 # Kekkon Dekinai Riyuu
 
+![kekkon-dekinai-riyuu](https://cdn.myanimelist.net/images/manga/3/247148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 結婚できない理由

@@ -1,5 +1,7 @@
 # Majo no Moribito
 
+![majo-no-moribito](https://cdn.myanimelist.net/images/manga/3/233698.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

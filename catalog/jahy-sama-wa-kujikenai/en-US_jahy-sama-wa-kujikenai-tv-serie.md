@@ -1,5 +1,7 @@
 # Jahy-sama wa Kujikenai!
 
+![jahy-sama-wa-kujikenai](https://cdn.myanimelist.net/images/anime/1154/115599.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ジャヒー様はくじけない！
 -   **start-date**: 2021-08-01

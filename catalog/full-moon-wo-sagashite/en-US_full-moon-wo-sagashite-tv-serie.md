@@ -1,5 +1,7 @@
 # Full Moon wo Sagashite
 
+![full-moon-wo-sagashite](https://cdn.myanimelist.net/images/anime/9/6265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 満月をさがして

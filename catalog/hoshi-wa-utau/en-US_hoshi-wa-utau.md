@@ -1,5 +1,7 @@
 # Hoshi wa Utau
 
+![hoshi-wa-utau](https://cdn.myanimelist.net/images/manga/1/168887.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

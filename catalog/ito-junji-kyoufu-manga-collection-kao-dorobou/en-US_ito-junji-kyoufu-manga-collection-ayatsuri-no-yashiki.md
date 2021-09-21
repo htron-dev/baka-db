@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Ayatsuri no Yashiki
 
+![ito-junji-kyoufu-manga-collection-ayatsuri-no-yashiki](https://cdn.myanimelist.net/images/manga/5/185645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

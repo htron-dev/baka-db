@@ -1,5 +1,7 @@
 # Lovedol: Lovely Idol OVA
 
+![lovedol-lovely-idol-ova](https://cdn.myanimelist.net/images/anime/12/65169.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らぶドル 温泉ですか？

@@ -1,5 +1,7 @@
 # Dengeki Oshioki Musume Gootaman: Gootaman Tanjou-hen
 
+![dengeki-oshioki-musume-gootaman-gootaman-tanjou-hen](https://cdn.myanimelist.net/images/anime/8/15386.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 臀撃おしおき娘ゴータマン～ゴータマン誕生篇

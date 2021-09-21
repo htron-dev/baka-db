@@ -1,5 +1,7 @@
 # Fushidara: Tsuma ga Furin wo Suru Riyuu
 
+![fushidara-tsuma-ga-furin-wo-suru-riyuu](https://cdn.myanimelist.net/images/manga/2/203927.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 68

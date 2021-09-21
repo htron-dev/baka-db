@@ -1,5 +1,7 @@
 # Jitto Mitsumeru Kimi wa Datenshi
 
+![jitto-mitsumeru-kimi-wa-datenshi](https://cdn.myanimelist.net/images/manga/1/170945.jpg)
+
 -   **type**: light-novel
 -   **original-name**: じっと見つめる君は堕天使
 -   **start-date**: 2016-02-01

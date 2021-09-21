@@ -1,5 +1,7 @@
 # Kyou kara Ore wa!!
 
+![kyou-kara-ore-wa](https://cdn.myanimelist.net/images/manga/5/156533.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 366

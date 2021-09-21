@@ -1,5 +1,7 @@
 # Mashin Mukashi Banashi Gekijou
 
+![mashin-mukashi-banashi-gekijou](https://cdn.myanimelist.net/images/anime/1872/113957.jpg)
+
 -   **type**: ona
 -   **original-name**: 魔進戦隊キラメイジャー
 -   **start-date**: 2020-06-07

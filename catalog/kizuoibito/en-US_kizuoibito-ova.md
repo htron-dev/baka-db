@@ -1,5 +1,7 @@
 # Kizuoibito
 
+![kizuoibito](https://cdn.myanimelist.net/images/anime/5/53623.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 傷追い人

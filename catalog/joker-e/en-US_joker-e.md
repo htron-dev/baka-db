@@ -1,5 +1,7 @@
 # Joker e
 
+![joker-e](https://cdn.myanimelist.net/images/manga/3/18453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジョカへ.....

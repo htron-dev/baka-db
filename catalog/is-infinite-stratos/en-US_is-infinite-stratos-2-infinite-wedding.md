@@ -1,5 +1,7 @@
 # IS: Infinite Stratos 2 - Infinite Wedding
 
+![is-infinite-stratos-2-infinite-wedding](https://cdn.myanimelist.net/images/anime/1323/108709.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: IS〈インフィニット・ストラトス〉2 インフィニット・ウエディング

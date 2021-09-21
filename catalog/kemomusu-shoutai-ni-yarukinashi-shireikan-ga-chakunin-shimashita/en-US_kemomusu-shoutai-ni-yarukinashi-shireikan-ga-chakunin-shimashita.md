@@ -1,5 +1,7 @@
 # Kemomusu Shoutai ni Yarukinashi Shireikan ga Chakunin shimashita.
 
+![kemomusu-shoutai-ni-yarukinashi-shireikan-ga-chakunin-shimashita](https://cdn.myanimelist.net/images/manga/3/160173.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

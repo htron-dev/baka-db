@@ -1,5 +1,7 @@
 # Kin no Ouji to Gin no Kishi Hime
 
+![kin-no-ouji-to-gin-no-kishi-hime](https://cdn.myanimelist.net/images/manga/3/182265.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

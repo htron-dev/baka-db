@@ -1,5 +1,7 @@
 # Guitar
 
+![guitar](https://cdn.myanimelist.net/images/anime/7/76325.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ギター

@@ -1,5 +1,7 @@
 # Haru Natsu Aki Fuyu
 
+![haru-natsu-aki-fuyu](https://cdn.myanimelist.net/images/manga/3/22591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

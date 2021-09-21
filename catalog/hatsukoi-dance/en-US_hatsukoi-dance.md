@@ -1,5 +1,7 @@
 # Hatsukoi Dance!
 
+![hatsukoi-dance](https://cdn.myanimelist.net/images/manga/1/233305.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

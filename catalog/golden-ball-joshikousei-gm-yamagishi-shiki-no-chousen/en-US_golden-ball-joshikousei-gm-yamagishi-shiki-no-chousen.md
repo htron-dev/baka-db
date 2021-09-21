@@ -1,5 +1,7 @@
 # Golden Ball: Joshikousei GM Yamagishi Shiki no Chousen
 
+![golden-ball-joshikousei-gm-yamagishi-shiki-no-chousen](https://cdn.myanimelist.net/images/manga/4/69971.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

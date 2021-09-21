@@ -1,5 +1,7 @@
 # Joshikousei no Mudazukai
 
+![joshikousei-no-mudazukai](https://cdn.myanimelist.net/images/manga/3/181542.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子高生の無駄づかい
 -   **start-date**: 2014-11-24

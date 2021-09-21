@@ -1,5 +1,7 @@
 # Life is Dead
 
+![life-is-dead](https://cdn.myanimelist.net/images/manga/1/27269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ライフ・イズ・デッド

@@ -1,5 +1,7 @@
 # Fate/Zero 2nd Season
 
+![fate-zero-2nd-season](https://cdn.myanimelist.net/images/anime/8/41125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フェイト/ゼロ 2nd シーズン

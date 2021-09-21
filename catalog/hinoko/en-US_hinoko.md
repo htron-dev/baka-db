@@ -1,5 +1,7 @@
 # Hinoko
 
+![hinoko](https://cdn.myanimelist.net/images/manga/3/200209.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

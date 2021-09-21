@@ -1,5 +1,7 @@
 # Mismarca Koukoku Monogatari
 
+![mismarca-koukoku-monogatari](https://cdn.myanimelist.net/images/manga/2/153711.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ミスマルカ興国物語
 -   **start-date**: 2008-02-01

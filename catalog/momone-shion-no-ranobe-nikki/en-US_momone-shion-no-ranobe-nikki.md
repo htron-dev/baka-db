@@ -1,5 +1,7 @@
 # Momone Shion no Ranobe Nikki
 
+![momone-shion-no-ranobe-nikki](https://cdn.myanimelist.net/images/manga/1/121453.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 桃音しおんのラノベ日記

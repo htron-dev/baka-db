@@ -1,5 +1,7 @@
 # My Little Robinson
 
+![my-little-robinson](https://cdn.myanimelist.net/images/manga/2/141241.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: my little robinson

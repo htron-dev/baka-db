@@ -1,5 +1,7 @@
 # Junjou Wakaokusama♥Tadashi Shinkon Seikatsu no Oborekata: Ijiwaru wa Bed no Naka de
 
+![junjou-wakaokusama♥-tadashi-shinkon-seikatsu-no-oborekata-ijiwaru-wa-bed-no-naka-de](https://cdn.myanimelist.net/images/manga/1/183107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

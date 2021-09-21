@@ -1,5 +1,7 @@
 # Kurojishi no Chouai
 
+![kurojishi-no-chouai](https://cdn.myanimelist.net/images/manga/1/241075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黒獅子の寵愛

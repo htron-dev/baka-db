@@ -1,5 +1,7 @@
 # Milkman
 
+![milkman](https://cdn.myanimelist.net/images/manga/3/22441.jpg)
+
 -   **type**: manga
 -   **original-name**: ミルクマン
 -   **start-date**: 2005-05-28

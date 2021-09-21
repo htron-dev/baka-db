@@ -1,5 +1,7 @@
 # Geobreeders
 
+![geobreeders](https://cdn.myanimelist.net/images/manga/3/207506.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 66

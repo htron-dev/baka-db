@@ -1,5 +1,7 @@
 # Kokuhaku Yokou Renshuu Series
 
+![kokuhaku-yokou-renshuu-series](https://cdn.myanimelist.net/images/manga/3/150445.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 告白予行練習シリーズ
 -   **start-date**: 2014-02-01

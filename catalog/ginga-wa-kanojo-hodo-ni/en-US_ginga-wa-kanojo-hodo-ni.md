@@ -1,5 +1,7 @@
 # Ginga wa Kanojo hodo ni
 
+![ginga-wa-kanojo-hodo-ni](https://cdn.myanimelist.net/images/manga/2/162259.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

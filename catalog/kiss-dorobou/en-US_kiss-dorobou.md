@@ -1,5 +1,7 @@
 # Kiss Dorobou
 
+![kiss-dorobou](https://cdn.myanimelist.net/images/manga/1/970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キス泥棒

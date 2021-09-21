@@ -1,5 +1,7 @@
 # Mahjong Hishoden: Naki no Ryuu
 
+![mahjong-hishoden-naki-no-ryuu](https://cdn.myanimelist.net/images/manga/1/26188.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 72

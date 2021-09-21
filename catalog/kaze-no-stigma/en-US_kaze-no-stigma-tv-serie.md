@@ -1,5 +1,7 @@
 # Kaze no Stigma
 
+![kaze-no-stigma](https://cdn.myanimelist.net/images/anime/12/23136.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 風のスティグマ

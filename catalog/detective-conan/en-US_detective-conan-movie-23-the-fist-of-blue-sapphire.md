@@ -1,5 +1,7 @@
 # Detective Conan Movie 23: The Fist of Blue Sapphire
 
+![detective-conan-movie-23-the-fist-of-blue-sapphire](https://cdn.myanimelist.net/images/anime/1010/98309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 名探偵コナン 紺青の拳（フィスト）

@@ -1,5 +1,7 @@
 # Dushi Miao Qitan
 
+![dushi-miao-qitan](https://cdn.myanimelist.net/images/anime/1752/111572.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 都市喵奇谭

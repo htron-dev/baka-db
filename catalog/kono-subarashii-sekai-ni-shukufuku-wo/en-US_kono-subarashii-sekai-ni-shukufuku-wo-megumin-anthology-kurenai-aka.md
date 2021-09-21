@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! Megumin Anthology Kurenai Aka
 
+![kono-subarashii-sekai-ni-shukufuku-wo-megumin-anthology-kurenai-aka](https://cdn.myanimelist.net/images/manga/3/239328.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

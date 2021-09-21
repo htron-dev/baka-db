@@ -1,5 +1,7 @@
 # Mahjong Hishouden: Naki no Ryuu Gaiden
 
+![mahjong-hishouden-naki-no-ryuu-gaiden](https://cdn.myanimelist.net/images/manga/2/234543.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 84

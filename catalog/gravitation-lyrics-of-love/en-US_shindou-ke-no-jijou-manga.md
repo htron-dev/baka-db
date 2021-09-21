@@ -1,5 +1,7 @@
 # Shindou-ke no Jijou
 
+![shindou-ke-no-jijou](https://cdn.myanimelist.net/images/manga/2/127487.jpg)
+
 -   **type**: manga
 -   **original-name**: 新堂家の事情
 -   **start-date**: 2014-07-28

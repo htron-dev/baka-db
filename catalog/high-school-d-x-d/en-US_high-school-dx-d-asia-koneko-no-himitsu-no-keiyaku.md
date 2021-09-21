@@ -1,5 +1,7 @@
 # High School DxD: Asia & Koneko no Himitsu no Keiyaku!?
 
+![high-school-dx-d-asia-koneko-no-himitsu-no-keiyaku](https://cdn.myanimelist.net/images/manga/1/144667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

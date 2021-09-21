@@ -1,5 +1,7 @@
 # Gohasan de Negaimashite wa
 
+![gohasan-de-negaimashite-wa](https://cdn.myanimelist.net/images/manga/3/197997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

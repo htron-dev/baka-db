@@ -1,5 +1,7 @@
 # Hyakuma no Aruji
 
+![hyakuma-no-aruji](https://cdn.myanimelist.net/images/manga/1/199364.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 63

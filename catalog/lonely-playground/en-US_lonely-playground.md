@@ -1,5 +1,7 @@
 # Lonely Playground
 
+![lonely-playground](https://cdn.myanimelist.net/images/manga/2/246519.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

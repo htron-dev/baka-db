@@ -1,5 +1,7 @@
 # Kasei Zombie
 
+![kasei-zombie](https://cdn.myanimelist.net/images/manga/3/211708.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

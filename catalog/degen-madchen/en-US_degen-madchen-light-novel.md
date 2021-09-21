@@ -1,5 +1,7 @@
 # Degen Mädchen
 
+![degen-madchen](https://cdn.myanimelist.net/images/manga/3/159295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

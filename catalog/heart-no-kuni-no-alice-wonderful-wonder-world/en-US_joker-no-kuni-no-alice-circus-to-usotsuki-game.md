@@ -1,5 +1,7 @@
 # Joker no Kuni no Alice: Circus to Usotsuki Game
 
+![joker-no-kuni-no-alice-circus-to-usotsuki-game](https://cdn.myanimelist.net/images/manga/3/172749.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

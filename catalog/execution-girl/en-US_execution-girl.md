@@ -1,5 +1,7 @@
 # Execution Girl
 
+![execution-girl](https://cdn.myanimelist.net/images/manga/3/43099.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 断罪乙女

@@ -1,5 +1,7 @@
 # Morita-san wa Mukuchi
 
+![morita-san-wa-mukuchi](https://cdn.myanimelist.net/images/manga/3/194970.jpg)
+
 -   **type**: manga
 -   **original-name**: 森田さんは無口
 -   **start-date**: 2007-05-28

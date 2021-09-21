@@ -1,5 +1,7 @@
 # Kyuuketsu Joushi to Hajimeru Mazui Kankei
 
+![kyuuketsu-joushi-to-hajimeru-mazui-kankei](https://cdn.myanimelist.net/images/manga/3/200562.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 吸血上司と始めるまずい関係

@@ -1,5 +1,7 @@
 # Kigyou Senshi Yamazaki
 
+![kigyou-senshi-yamazaki](https://cdn.myanimelist.net/images/manga/1/29918.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 企業戦士 YAMAZAKI

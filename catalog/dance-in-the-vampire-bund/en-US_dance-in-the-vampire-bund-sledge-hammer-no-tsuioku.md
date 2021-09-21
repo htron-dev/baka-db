@@ -1,5 +1,7 @@
 # Dance in the Vampire Bund: Sledge Hammer no Tsuioku
 
+![dance-in-the-vampire-bund-sledge-hammer-no-tsuioku](https://cdn.myanimelist.net/images/manga/1/90089.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

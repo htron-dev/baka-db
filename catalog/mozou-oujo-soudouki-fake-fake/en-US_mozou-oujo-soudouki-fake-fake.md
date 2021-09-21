@@ -1,5 +1,7 @@
 # Mozou Oujo Soudouki: Fake Fake
 
+![mozou-oujo-soudouki-fake-fake](https://cdn.myanimelist.net/images/manga/3/161820.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

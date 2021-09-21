@@ -1,5 +1,7 @@
 # Geijutsu Sousahan!!!
 
+![geijutsu-sousahan](https://cdn.myanimelist.net/images/manga/1/150581.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Mitsuwano
 
+![mitsuwano](https://cdn.myanimelist.net/images/anime/7/77096.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みツわの

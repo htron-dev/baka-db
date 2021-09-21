@@ -1,5 +1,7 @@
 # Make-Upper
 
+![make-upper](https://cdn.myanimelist.net/images/manga/3/237210.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

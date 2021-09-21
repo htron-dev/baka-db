@@ -1,5 +1,7 @@
 # Hachigatsu no Mori
 
+![hachigatsu-no-mori](https://cdn.myanimelist.net/images/manga/1/33675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

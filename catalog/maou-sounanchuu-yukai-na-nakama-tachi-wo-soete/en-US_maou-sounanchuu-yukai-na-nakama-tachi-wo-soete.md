@@ -1,5 +1,7 @@
 # Maou Sounanchuu!!! Yukai na Nakama-tachi wo Soete
 
+![maou-sounanchuu-yukai-na-nakama-tachi-wo-soete](https://cdn.myanimelist.net/images/manga/3/207609.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

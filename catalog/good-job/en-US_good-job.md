@@ -1,5 +1,7 @@
 # Good Job!
 
+![good-job](https://cdn.myanimelist.net/images/manga/3/67157.jpg)
+
 -   **type**: manga
 -   **original-name**: ぐっじょぶ!
 -   **start-date**: 2011-06-28

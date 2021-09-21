@@ -1,5 +1,7 @@
 # Datte Aishiteru
 
+![datte-aishiteru](https://cdn.myanimelist.net/images/manga/1/194167.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 53

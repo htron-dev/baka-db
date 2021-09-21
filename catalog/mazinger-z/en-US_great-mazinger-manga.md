@@ -1,5 +1,7 @@
 # Great Mazinger
 
+![great-mazinger](https://cdn.myanimelist.net/images/manga/1/75875.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

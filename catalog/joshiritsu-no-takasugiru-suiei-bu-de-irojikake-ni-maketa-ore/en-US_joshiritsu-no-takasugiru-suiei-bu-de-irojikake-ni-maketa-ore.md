@@ -1,5 +1,7 @@
 # Joshiritsu no Takasugiru Suiei-bu de Irojikake ni Maketa Ore
 
+![joshiritsu-no-takasugiru-suiei-bu-de-irojikake-ni-maketa-ore](https://cdn.myanimelist.net/images/manga/1/126385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

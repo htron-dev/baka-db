@@ -1,5 +1,7 @@
 # Haikyuu!!
 
+![haikyuu](https://cdn.myanimelist.net/images/manga/4/89519.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **chapters**: 407

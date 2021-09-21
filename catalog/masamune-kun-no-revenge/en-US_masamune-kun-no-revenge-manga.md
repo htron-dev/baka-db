@@ -1,5 +1,7 @@
 # Masamune-kun no Revenge
 
+![masamune-kun-no-revenge](https://cdn.myanimelist.net/images/manga/2/210326.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 61

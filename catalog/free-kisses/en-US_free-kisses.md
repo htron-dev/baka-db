@@ -1,5 +1,7 @@
 # Free Kisses
 
+![free-kisses](https://cdn.myanimelist.net/images/manga/3/203976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

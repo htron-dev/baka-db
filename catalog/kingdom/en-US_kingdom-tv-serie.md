@@ -1,5 +1,7 @@
 # Kingdom
 
+![kingdom](https://cdn.myanimelist.net/images/anime/13/39511.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: キングダム

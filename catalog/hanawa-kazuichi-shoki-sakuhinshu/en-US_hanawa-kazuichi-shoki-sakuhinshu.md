@@ -1,5 +1,7 @@
 # Hanawa Kazuichi Shoki Sakuhinshu
 
+![hanawa-kazuichi-shoki-sakuhinshu](https://cdn.myanimelist.net/images/manga/3/184926.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

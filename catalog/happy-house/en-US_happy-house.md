@@ -1,5 +1,7 @@
 # Happy House
 
+![happy-house](https://cdn.myanimelist.net/images/manga/1/107653.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハッピィ ハウス

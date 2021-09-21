@@ -1,5 +1,7 @@
 # Star☆Twinkle Precure
 
+![star☆-twinkle-precure](https://cdn.myanimelist.net/images/anime/1585/97907.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: スター ☆ トゥインクルプリキュア

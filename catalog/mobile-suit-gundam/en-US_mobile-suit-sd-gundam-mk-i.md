@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Mk I
 
+![mobile-suit-sd-gundam-mk-i](https://cdn.myanimelist.net/images/anime/3/51035.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 機動戦士 SD ガンダム

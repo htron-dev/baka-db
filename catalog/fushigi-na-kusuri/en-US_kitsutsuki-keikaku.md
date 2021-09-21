@@ -1,5 +1,7 @@
 # Kitsutsuki Keikaku
 
+![kitsutsuki-keikaku](https://cdn.myanimelist.net/images/anime/13/36693.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キツツキ計画

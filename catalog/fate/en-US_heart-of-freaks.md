@@ -1,5 +1,7 @@
 # Heart of Freaks
 
+![heart-of-freaks](https://cdn.myanimelist.net/images/manga/5/162251.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: Heart of Freaks

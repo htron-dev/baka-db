@@ -1,5 +1,7 @@
 # Kimi wa Kowareta Ouji-kun
 
+![kimi-wa-kowareta-ouji-kun](https://cdn.myanimelist.net/images/manga/3/207040.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

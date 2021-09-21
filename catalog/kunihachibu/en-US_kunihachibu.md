@@ -1,5 +1,7 @@
 # Kunihachibu
 
+![kunihachibu](https://cdn.myanimelist.net/images/manga/2/204645.jpg)
+
 -   **type**: manga
 -   **original-name**: くにはちぶ
 -   **start-date**: 2017-08-17

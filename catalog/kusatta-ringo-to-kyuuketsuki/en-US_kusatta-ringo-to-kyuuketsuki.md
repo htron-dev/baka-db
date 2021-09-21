@@ -1,5 +1,7 @@
 # Kusatta Ringo to Kyuuketsuki
 
+![kusatta-ringo-to-kyuuketsuki](https://cdn.myanimelist.net/images/manga/3/165785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

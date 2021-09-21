@@ -1,5 +1,7 @@
 # Hakubo
 
+![hakubo](https://cdn.myanimelist.net/images/anime/1233/117186.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 薄暮

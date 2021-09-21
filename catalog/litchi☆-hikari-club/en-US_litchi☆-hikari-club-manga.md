@@ -1,5 +1,7 @@
 # Litchi☆Hikari Club
 
+![litchi☆-hikari-club](https://cdn.myanimelist.net/images/manga/3/65867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

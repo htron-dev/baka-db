@@ -1,5 +1,7 @@
 # Fiction Breakers
 
+![fiction-breakers](https://cdn.myanimelist.net/images/manga/1/183477.jpg)
+
 -   **type**: light-novel
 -   **original-name**: フィクション・ブレイカーズ
 -   **start-date**: 2016-09-14

@@ -1,5 +1,7 @@
 # Koi wo Oshiete
 
+![koi-wo-oshiete](https://cdn.myanimelist.net/images/manga/2/127195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋を教えて

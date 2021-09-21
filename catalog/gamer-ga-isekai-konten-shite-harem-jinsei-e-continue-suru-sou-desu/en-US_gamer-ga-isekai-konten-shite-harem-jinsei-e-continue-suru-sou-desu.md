@@ -1,5 +1,7 @@
 # Gamer ga Isekai Konten shite Harem Jinsei e Continue suru Sou desu
 
+![gamer-ga-isekai-konten-shite-harem-jinsei-e-continue-suru-sou-desu](https://cdn.myanimelist.net/images/manga/3/241348.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 66

@@ -1,5 +1,7 @@
 # JK to Josou Ojisan
 
+![jk-to-josou-ojisan](https://cdn.myanimelist.net/images/manga/1/211749.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Josou Danshi Mii-chan to Sono Kareshi? Kei-kun
 
+![josou-danshi-mii-chan-to-sono-kareshi-kei-kun](https://cdn.myanimelist.net/images/manga/3/231403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

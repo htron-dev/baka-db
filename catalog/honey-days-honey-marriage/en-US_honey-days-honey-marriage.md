@@ -1,5 +1,7 @@
 # Honey Days Honey Marriage
 
+![honey-days-honey-marriage](https://cdn.myanimelist.net/images/manga/2/182804.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

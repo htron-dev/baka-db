@@ -1,5 +1,7 @@
 # Karakuri Kengou Den Musashi Lord
 
+![karakuri-kengou-den-musashi-lord](https://cdn.myanimelist.net/images/anime/1739/110637.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: からくり剣豪伝ムサシロード

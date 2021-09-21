@@ -1,5 +1,7 @@
 # Dragon Lies
 
+![dragon-lies](https://cdn.myanimelist.net/images/manga/2/171372.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 21

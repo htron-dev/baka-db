@@ -1,5 +1,7 @@
 # Hoshino-kun no Ni Rui-da
 
+![hoshino-kun-no-ni-rui-da](https://cdn.myanimelist.net/images/anime/6/83683.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 星野君の二るい打

@@ -1,5 +1,7 @@
 # Lovely★Complex
 
+![lovely★-complex](https://cdn.myanimelist.net/images/manga/1/209659.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 68

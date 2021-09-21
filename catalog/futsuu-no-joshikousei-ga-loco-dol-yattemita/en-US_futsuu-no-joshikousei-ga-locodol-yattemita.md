@@ -1,5 +1,7 @@
 # Futsuu no Joshikousei ga [Locodol] Yattemita.
 
+![futsuu-no-joshikousei-ga-locodol-yattemita](https://cdn.myanimelist.net/images/anime/12/65309.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 普通の女子校生が【ろこどる】やってみた。

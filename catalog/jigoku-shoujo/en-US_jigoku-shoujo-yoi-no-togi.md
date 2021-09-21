@@ -1,5 +1,7 @@
 # Jigoku Shoujo: Yoi no Togi
 
+![jigoku-shoujo-yoi-no-togi](https://cdn.myanimelist.net/images/anime/1110/92117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 地獄少女 宵伽

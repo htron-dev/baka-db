@@ -1,5 +1,7 @@
 # Fure Fure Shoujo
 
+![fure-fure-shoujo](https://cdn.myanimelist.net/images/manga/1/101221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

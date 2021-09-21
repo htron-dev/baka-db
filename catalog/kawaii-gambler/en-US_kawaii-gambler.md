@@ -1,5 +1,7 @@
 # Kawaii Gambler
 
+![kawaii-gambler](https://cdn.myanimelist.net/images/manga/2/187898.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: かわいいギャンブラー

@@ -1,5 +1,7 @@
 # Kuroko no Basket Movie 4: Last Game
 
+![kuroko-no-basket-movie-4-last-game](https://cdn.myanimelist.net/images/anime/2/83106.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 黒子のバスケ LAST GAME

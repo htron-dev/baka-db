@@ -1,5 +1,7 @@
 # Mahou Gakuen Lunar! Aoi Ryuu no Himitsu
 
+![mahou-gakuen-lunar-aoi-ryuu-no-himitsu](https://cdn.myanimelist.net/images/anime/8/37835.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法学園ルナ!　青い竜の秘密

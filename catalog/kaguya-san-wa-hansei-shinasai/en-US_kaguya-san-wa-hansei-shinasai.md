@@ -1,5 +1,7 @@
 # Kaguya-san wa Hansei Shinasai
 
+![kaguya-san-wa-hansei-shinasai](https://cdn.myanimelist.net/images/manga/3/246299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

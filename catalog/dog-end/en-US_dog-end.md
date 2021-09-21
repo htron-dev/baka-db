@@ -1,5 +1,7 @@
 # Dog End
 
+![dog-end](https://cdn.myanimelist.net/images/manga/1/189597.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 56

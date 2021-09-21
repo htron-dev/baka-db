@@ -1,5 +1,7 @@
 # Huo Xing Wa: Jiankang Chengzhang
 
+![huo-xing-wa-jiankang-chengzhang](https://cdn.myanimelist.net/images/anime/1022/115377.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃健康成长

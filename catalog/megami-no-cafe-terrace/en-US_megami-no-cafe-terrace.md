@@ -1,5 +1,7 @@
 # Megami no Café Terrace
 
+![megami-no-cafe-terrace](https://cdn.myanimelist.net/images/manga/1/244571.jpg)
+
 -   **type**: manga
 -   **original-name**: 女神のカフェテラス
 -   **start-date**: 2021-02-17

@@ -1,5 +1,7 @@
 # Hyakujuu no Ou ni Tsugu!
 
+![hyakujuu-no-ou-ni-tsugu](https://cdn.myanimelist.net/images/manga/1/77211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

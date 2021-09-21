@@ -1,5 +1,7 @@
 # Kaitou Alexandrite
 
+![kaitou-alexandrite](https://cdn.myanimelist.net/images/manga/2/117841.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 30

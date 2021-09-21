@@ -1,5 +1,7 @@
 # Hitomigokuu no Hiyama-san
 
+![hitomigokuu-no-hiyama-san](https://cdn.myanimelist.net/images/manga/3/160090.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

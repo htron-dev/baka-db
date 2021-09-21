@@ -1,5 +1,7 @@
 # Kidou Butouden G Gundam
 
+![kidou-butouden-g-gundam](https://cdn.myanimelist.net/images/manga/2/25978.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

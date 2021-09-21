@@ -1,5 +1,7 @@
 # Gakuen Heaven: Hamu Hamu Heaven
 
+![gakuen-heaven-hamu-hamu-heaven](https://cdn.myanimelist.net/images/anime/6/8415.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: 学園ヘヴンはむはむヘヴン

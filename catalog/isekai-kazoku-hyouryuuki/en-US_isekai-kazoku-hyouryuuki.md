@@ -1,5 +1,7 @@
 # Isekai Kazoku Hyouryuuki
 
+![isekai-kazoku-hyouryuuki](https://cdn.myanimelist.net/images/manga/2/171483.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界家族漂流記
 -   **start-date**: 2016-01-22

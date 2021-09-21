@@ -1,5 +1,7 @@
 # Girlfriend (Kari): Sakurai Akane-hen - Kokoro wo Komete, Yuuki no On Air!
 
+![girlfriend-kari-sakurai-akane-hen-kokoro-wo-komete-yuuki-no-on-air](https://cdn.myanimelist.net/images/manga/2/154595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

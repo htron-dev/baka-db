@@ -1,5 +1,7 @@
 # Hajimete no Kusoge
 
+![hajimete-no-kusoge](https://cdn.myanimelist.net/images/manga/3/162246.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

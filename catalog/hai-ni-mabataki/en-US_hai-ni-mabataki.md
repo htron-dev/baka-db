@@ -1,5 +1,7 @@
 # Hai ni Mabataki
 
+![hai-ni-mabataki](https://cdn.myanimelist.net/images/manga/2/238431.jpg)
+
 -   **type**: manga
 -   **original-name**: 灰に瞬き
 -   **start-date**: 2017-09-30

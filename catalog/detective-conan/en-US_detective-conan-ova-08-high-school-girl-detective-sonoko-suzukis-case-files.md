@@ -1,5 +1,7 @@
 # Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files
 
+![detective-conan-ova-08-high-school-girl-detective-sonoko-suzukis-case-files](https://cdn.myanimelist.net/images/anime/1982/111465.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 女子高生探偵　鈴木園子の事件簿

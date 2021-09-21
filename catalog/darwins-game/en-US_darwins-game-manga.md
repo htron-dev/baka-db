@@ -1,5 +1,7 @@
 # Darwin's Game
 
+![darwins-game](https://cdn.myanimelist.net/images/manga/2/175477.jpg)
+
 -   **type**: manga
 -   **original-name**: ダーウィンズゲーム
 -   **start-date**: 2012-12-12

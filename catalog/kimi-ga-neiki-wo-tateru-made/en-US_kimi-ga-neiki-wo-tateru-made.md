@@ -1,5 +1,7 @@
 # Kimi ga Neiki wo Tateru made
 
+![kimi-ga-neiki-wo-tateru-made](https://cdn.myanimelist.net/images/manga/3/156072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

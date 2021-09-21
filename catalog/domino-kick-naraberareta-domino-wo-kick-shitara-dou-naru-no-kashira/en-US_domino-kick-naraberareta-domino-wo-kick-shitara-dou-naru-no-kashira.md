@@ -1,5 +1,7 @@
 # Domino Kick: Naraberareta Domino wo Kick shitara Dou Naru no kashira?
 
+![domino-kick-naraberareta-domino-wo-kick-shitara-dou-naru-no-kashira](https://cdn.myanimelist.net/images/manga/2/143667.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 42

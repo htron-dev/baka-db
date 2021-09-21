@@ -1,5 +1,7 @@
 # Koi nante Shinai!
 
+![koi-nante-shinai](https://cdn.myanimelist.net/images/manga/2/146537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

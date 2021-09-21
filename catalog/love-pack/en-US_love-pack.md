@@ -1,5 +1,7 @@
 # Love Pack
 
+![love-pack](https://cdn.myanimelist.net/images/manga/1/33012.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラブパック

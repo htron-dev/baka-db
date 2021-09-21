@@ -1,5 +1,7 @@
 # Ichikei no Karasu
 
+![ichikei-no-karasu](https://cdn.myanimelist.net/images/manga/3/217082.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

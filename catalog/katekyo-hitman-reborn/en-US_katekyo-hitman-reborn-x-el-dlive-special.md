@@ -1,5 +1,7 @@
 # Katekyo Hitman Reborn! x ēlDLIVE Special
 
+![katekyo-hitman-reborn-x-el-dlive-special](https://cdn.myanimelist.net/images/anime/1237/104850.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 家庭教師ヒットマン REBORN!× エルドライブ【ēlDLIVE】』SP コラボミニアニメ[24H]

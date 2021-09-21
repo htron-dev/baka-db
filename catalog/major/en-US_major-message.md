@@ -1,5 +1,7 @@
 # Major: Message
 
+![major-message](https://cdn.myanimelist.net/images/anime/11/75219.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: メジャー・メッセージ

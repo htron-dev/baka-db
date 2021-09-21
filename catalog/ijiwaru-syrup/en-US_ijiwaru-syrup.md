@@ -1,5 +1,7 @@
 # Ijiwaru Syrup
 
+![ijiwaru-syrup](https://cdn.myanimelist.net/images/manga/3/166313.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Date Masamune
 
+![date-masamune](https://cdn.myanimelist.net/images/manga/5/113227.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

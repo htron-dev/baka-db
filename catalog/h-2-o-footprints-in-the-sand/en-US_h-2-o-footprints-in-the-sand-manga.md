@@ -1,5 +1,7 @@
 # H2O: Footprints in the Sand
 
+![h-2-o-footprints-in-the-sand](https://cdn.myanimelist.net/images/manga/2/122403.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

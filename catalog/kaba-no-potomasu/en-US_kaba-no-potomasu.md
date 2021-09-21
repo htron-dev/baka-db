@@ -1,5 +1,7 @@
 # Kaba no Potomasu
 
+![kaba-no-potomasu](https://cdn.myanimelist.net/images/anime/11/26612.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かばのポトマス

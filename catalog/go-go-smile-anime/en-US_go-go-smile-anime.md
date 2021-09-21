@@ -1,5 +1,7 @@
 # Go Go Smile Anime
 
+![go-go-smile-anime](https://cdn.myanimelist.net/images/anime/2/80598.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ゴゴスマアニメ

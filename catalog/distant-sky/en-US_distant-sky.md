@@ -1,5 +1,7 @@
 # Distant Sky
 
+![distant-sky](https://cdn.myanimelist.net/images/manga/1/143687.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 심연의 하늘

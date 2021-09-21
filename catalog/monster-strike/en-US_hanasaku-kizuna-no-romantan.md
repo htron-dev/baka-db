@@ -1,5 +1,7 @@
 # Hanasaku Kizuna no Romantan
 
+![hanasaku-kizuna-no-romantan](https://cdn.myanimelist.net/images/anime/1481/95276.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 花咲ク絆ノ浪漫譚

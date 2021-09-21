@@ -1,5 +1,7 @@
 # Ike! Ina-chuu Takkyuubu
 
+![ike-ina-chuu-takkyuubu](https://cdn.myanimelist.net/images/anime/10/25459.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 行け! 稲中卓球部

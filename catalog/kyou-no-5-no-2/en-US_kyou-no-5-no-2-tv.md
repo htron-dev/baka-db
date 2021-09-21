@@ -1,5 +1,7 @@
 # Kyou no 5 no 2 (TV)
 
+![kyou-no-5-no-2-tv](https://cdn.myanimelist.net/images/anime/5/21096.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 今日の５の２

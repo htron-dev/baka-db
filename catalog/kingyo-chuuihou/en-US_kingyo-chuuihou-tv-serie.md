@@ -1,5 +1,7 @@
 # Kingyo Chuuihou!
 
+![kingyo-chuuihou](https://cdn.myanimelist.net/images/anime/13/26657.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: きんぎょ注意報！

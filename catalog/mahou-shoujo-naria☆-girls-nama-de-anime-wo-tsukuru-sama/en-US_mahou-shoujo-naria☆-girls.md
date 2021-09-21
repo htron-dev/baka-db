@@ -1,5 +1,7 @@
 # Mahou Shoujo? Naria☆Girls
 
+![mahou-shoujo-naria☆-girls](https://cdn.myanimelist.net/images/anime/9/80373.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女? なりあ ☆ がーるず

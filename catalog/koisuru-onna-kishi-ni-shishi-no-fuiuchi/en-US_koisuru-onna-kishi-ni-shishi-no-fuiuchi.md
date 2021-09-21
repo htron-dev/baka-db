@@ -1,5 +1,7 @@
 # Koisuru Onna Kishi ni, Shishi no Fuiuchi
 
+![koisuru-onna-kishi-ni-shishi-no-fuiuchi](https://cdn.myanimelist.net/images/manga/1/200566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋する女騎士に、獅子の不意打ち

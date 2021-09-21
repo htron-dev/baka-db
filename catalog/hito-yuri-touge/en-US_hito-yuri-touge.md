@@ -1,5 +1,7 @@
 # Hito Yuri Touge
 
+![hito-yuri-touge](https://cdn.myanimelist.net/images/manga/1/72337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Himekishi ga Classmate! The Comic
 
+![himekishi-ga-classmate-the-comic](https://cdn.myanimelist.net/images/manga/1/188903.jpg)
+
 -   **type**: manga
 -   **original-name**: 姫騎士がクラスメート！ THE COMIC
 -   **start-date**: 2015-05-01

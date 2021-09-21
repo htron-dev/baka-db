@@ -1,5 +1,7 @@
 # Ijimekko to Nakimushi-kun
 
+![ijimekko-to-nakimushi-kun](https://cdn.myanimelist.net/images/manga/1/215250.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

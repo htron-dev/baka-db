@@ -1,5 +1,7 @@
 # Inazma Delivery
 
+![inazma-delivery](https://cdn.myanimelist.net/images/anime/1556/112264.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: イナズマデリバリー

@@ -1,5 +1,7 @@
 # Monster Collection: Rakuin Seminar
 
+![monster-collection-rakuin-seminar](https://cdn.myanimelist.net/images/manga/1/162538.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

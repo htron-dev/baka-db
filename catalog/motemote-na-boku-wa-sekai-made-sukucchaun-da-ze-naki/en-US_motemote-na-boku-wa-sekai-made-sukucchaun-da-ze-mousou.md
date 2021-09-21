@@ -1,5 +1,7 @@
 # Motemote na Boku wa Sekai made Sukucchaun da ze (Mousou)
 
+![motemote-na-boku-wa-sekai-made-sukucchaun-da-ze-mousou](https://cdn.myanimelist.net/images/manga/3/139521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

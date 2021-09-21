@@ -1,5 +1,7 @@
 # Hetalia: The Beautiful World Specials
 
+![hetalia-the-beautiful-world-specials](https://cdn.myanimelist.net/images/anime/12/46525.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ヘタリア The Beautiful World

@@ -1,5 +1,7 @@
 # Heisei Umare
 
+![heisei-umare](https://cdn.myanimelist.net/images/manga/2/130259.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 平成生まれ

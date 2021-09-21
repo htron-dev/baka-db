@@ -1,5 +1,7 @@
 # Sakaki Mirei no Tame nara Boku wa...!!
 
+![sakaki-mirei-no-tame-nara-boku-wa](https://cdn.myanimelist.net/images/manga/4/87223.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

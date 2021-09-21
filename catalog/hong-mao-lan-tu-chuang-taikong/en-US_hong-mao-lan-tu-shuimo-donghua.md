@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Shuimo Donghua
 
+![hong-mao-lan-tu-shuimo-donghua](https://cdn.myanimelist.net/images/anime/1190/98699.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 虹猫蓝兔水墨动画

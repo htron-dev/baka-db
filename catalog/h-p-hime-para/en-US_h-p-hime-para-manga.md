@@ -1,5 +1,7 @@
 # H+P -HimePara-
 
+![h-p-hime-para](https://cdn.myanimelist.net/images/manga/1/52091.jpg)
+
 -   **type**: manga
 -   **original-name**: H+P ‐ひめぱら‐
 -   **start-date**: 2010-07-20

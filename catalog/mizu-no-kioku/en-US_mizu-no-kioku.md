@@ -1,5 +1,7 @@
 # Mizu no Kioku
 
+![mizu-no-kioku](https://cdn.myanimelist.net/images/manga/1/2175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

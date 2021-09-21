@@ -1,5 +1,7 @@
 # Ex-Arm
 
+![ex-arm](https://cdn.myanimelist.net/images/manga/2/163539.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 98

@@ -1,5 +1,7 @@
 # Hoshi Shinichi Short Short Special
 
+![hoshi-shinichi-short-short-special](https://cdn.myanimelist.net/images/anime/12/20996.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星新一ショートショート

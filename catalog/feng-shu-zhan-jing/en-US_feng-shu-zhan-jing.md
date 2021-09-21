@@ -1,5 +1,7 @@
 # Feng Shu Zhan Jing
 
+![feng-shu-zhan-jing](https://cdn.myanimelist.net/images/anime/5/80958.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **start-date**: 2010-12-22

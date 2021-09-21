@@ -1,5 +1,7 @@
 # Danshikousei-teki Kazoku Keikaku!
 
+![danshikousei-teki-kazoku-keikaku](https://cdn.myanimelist.net/images/manga/3/182336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

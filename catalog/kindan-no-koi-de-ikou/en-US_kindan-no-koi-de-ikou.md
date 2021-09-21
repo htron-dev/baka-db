@@ -1,5 +1,7 @@
 # Kindan no Koi de Ikou
 
+![kindan-no-koi-de-ikou](https://cdn.myanimelist.net/images/manga/5/5717.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

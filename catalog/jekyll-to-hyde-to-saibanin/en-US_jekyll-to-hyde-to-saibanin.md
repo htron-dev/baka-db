@@ -1,5 +1,7 @@
 # Jekyll to Hyde to Saibanin
 
+![jekyll-to-hyde-to-saibanin](https://cdn.myanimelist.net/images/manga/1/96917.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # My Boyfriend Is a Vampire
 
+![my-boyfriend-is-a-vampire](https://cdn.myanimelist.net/images/manga/2/64657.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **chapters**: 48

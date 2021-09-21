@@ -1,5 +1,7 @@
 # Kawaii Senpai no Kaigoroshikata
 
+![kawaii-senpai-no-kaigoroshikata](https://cdn.myanimelist.net/images/manga/3/224143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # In August
 
+![in-august](https://cdn.myanimelist.net/images/manga/3/223853.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kaibutsu Oujo Specials
 
+![kaibutsu-oujo-specials](https://cdn.myanimelist.net/images/anime/11/66099.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 怪物王女

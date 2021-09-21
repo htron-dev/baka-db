@@ -1,5 +1,7 @@
 # Jiayou Baobei
 
+![jiayou-baobei](https://cdn.myanimelist.net/images/anime/1196/115314.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 加油宝贝

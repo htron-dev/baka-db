@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome: Gakuin-hen
 
+![mahoutsukai-no-yome-gakuin-hen](https://cdn.myanimelist.net/images/anime/1973/102117.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『魔法使いの嫁 学院篇』コミックス宣伝 PV

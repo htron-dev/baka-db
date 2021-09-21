@@ -1,5 +1,7 @@
 # Kinjo no Nanako-san
 
+![kinjo-no-nanako-san](https://cdn.myanimelist.net/images/manga/2/221015.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

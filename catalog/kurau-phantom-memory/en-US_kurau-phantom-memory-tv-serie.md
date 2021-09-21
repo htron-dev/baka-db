@@ -1,5 +1,7 @@
 # Kurau Phantom Memory
 
+![kurau-phantom-memory](https://cdn.myanimelist.net/images/anime/1705/94509.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: クラウ ファントムメモリー

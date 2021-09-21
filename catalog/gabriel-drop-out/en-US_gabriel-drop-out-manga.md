@@ -1,5 +1,7 @@
 # Gabriel DropOut
 
+![gabriel-drop-out](https://cdn.myanimelist.net/images/manga/3/188786.jpg)
+
 -   **type**: manga
 -   **original-name**: ガヴリールドロップアウト
 -   **start-date**: 2013-12-27

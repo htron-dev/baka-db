@@ -1,5 +1,7 @@
 # Mahou Shoujo Omatsu
 
+![mahou-shoujo-omatsu](https://cdn.myanimelist.net/images/manga/3/203910.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

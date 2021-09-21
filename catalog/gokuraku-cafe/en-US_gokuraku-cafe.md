@@ -1,5 +1,7 @@
 # Gokuraku Café
 
+![gokuraku-cafe](https://cdn.myanimelist.net/images/manga/1/153981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

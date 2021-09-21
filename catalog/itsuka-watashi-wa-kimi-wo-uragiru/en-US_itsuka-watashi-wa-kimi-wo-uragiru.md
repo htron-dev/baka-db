@@ -1,5 +1,7 @@
 # Itsuka Watashi wa, Kimi wo Uragiru
 
+![itsuka-watashi-wa-kimi-wo-uragiru](https://cdn.myanimelist.net/images/manga/3/203755.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

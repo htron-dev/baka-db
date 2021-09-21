@@ -1,5 +1,7 @@
 # Josei Danshi
 
+![josei-danshi](https://cdn.myanimelist.net/images/manga/2/73275.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

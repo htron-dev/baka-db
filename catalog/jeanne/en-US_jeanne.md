@@ -1,5 +1,7 @@
 # Jeanne
 
+![jeanne](https://cdn.myanimelist.net/images/manga/3/181390.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

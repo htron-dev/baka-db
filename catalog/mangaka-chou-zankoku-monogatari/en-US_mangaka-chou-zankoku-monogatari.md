@@ -1,5 +1,7 @@
 # Mangaka Chou Zankoku Monogatari
 
+![mangaka-chou-zankoku-monogatari](https://cdn.myanimelist.net/images/manga/3/5726.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

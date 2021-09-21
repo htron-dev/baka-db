@@ -1,5 +1,7 @@
 # Dantalian no Shoka
 
+![dantalian-no-shoka](https://cdn.myanimelist.net/images/manga/3/154266.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 50

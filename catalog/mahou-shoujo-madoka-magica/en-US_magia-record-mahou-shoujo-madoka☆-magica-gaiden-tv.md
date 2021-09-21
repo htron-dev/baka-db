@@ -1,5 +1,7 @@
 # Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)
 
+![magia-record-mahou-shoujo-madoka☆-magica-gaiden-tv](https://cdn.myanimelist.net/images/anime/1786/104783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マギアレコード 魔法少女まどか ☆ マギカ外伝 (TV)

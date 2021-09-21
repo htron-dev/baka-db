@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai: Meakashi-hen
 
+![higurashi-no-naku-koro-ni-kai-meakashi-hen](https://cdn.myanimelist.net/images/manga/2/1018.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Glass no Kutsu wo Nugisutete
 
+![glass-no-kutsu-wo-nugisutete](https://cdn.myanimelist.net/images/manga/3/246156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

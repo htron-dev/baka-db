@@ -1,5 +1,7 @@
 # Jaku-Chara Tomozaki-kun
 
+![jaku-chara-tomozaki-kun](https://cdn.myanimelist.net/images/manga/1/185942.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 弱キャラ友崎くん
 -   **start-date**: 2016-05-18

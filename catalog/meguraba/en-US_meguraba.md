@@ -1,5 +1,7 @@
 # Meguraba
 
+![meguraba](https://cdn.myanimelist.net/images/manga/3/157790.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

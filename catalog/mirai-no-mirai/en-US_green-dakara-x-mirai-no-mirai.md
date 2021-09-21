@@ -1,5 +1,7 @@
 # Green Dakara x Mirai no Mirai
 
+![green-dakara-x-mirai-no-mirai](https://cdn.myanimelist.net/images/anime/1775/93219.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: GREEN DA・KA・RA× 未来のミライ

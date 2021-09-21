@@ -1,5 +1,7 @@
 # Ichigeki Sacchuu!! Hoihoi-san: Legacy
 
+![ichigeki-sacchuu-hoihoi-san-legacy](https://cdn.myanimelist.net/images/anime/6/63837.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一撃殺虫!! ホイホイさん LEGACY

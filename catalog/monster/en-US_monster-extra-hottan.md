@@ -1,5 +1,7 @@
 # Monster Extra: Hottan
 
+![monster-extra-hottan](https://cdn.myanimelist.net/images/anime/5/10372.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: モンスター EXTRA

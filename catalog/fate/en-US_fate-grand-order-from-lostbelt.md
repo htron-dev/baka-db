@@ -1,5 +1,7 @@
 # Fate/Grand Order: From Lostbelt
 
+![fate-grand-order-from-lostbelt](https://cdn.myanimelist.net/images/manga/2/238381.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order フロム ロストベルト
 -   **start-date**: 2019-12-20

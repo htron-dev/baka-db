@@ -1,5 +1,7 @@
 # Letchu, Getchu, Saru Getchu
 
+![letchu-getchu-saru-getchu](https://cdn.myanimelist.net/images/anime/13/75759.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 76
 -   **original-name**: レッチュ ゲッチュ サルゲッチュ

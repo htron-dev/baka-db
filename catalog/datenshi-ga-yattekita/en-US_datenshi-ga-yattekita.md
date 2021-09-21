@@ -1,5 +1,7 @@
 # Datenshi ga Yattekita.
 
+![datenshi-ga-yattekita](https://cdn.myanimelist.net/images/manga/3/160601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

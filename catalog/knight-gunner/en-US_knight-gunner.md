@@ -1,5 +1,7 @@
 # Knight Gunner
 
+![knight-gunner](https://cdn.myanimelist.net/images/manga/2/155625.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 나이트거너

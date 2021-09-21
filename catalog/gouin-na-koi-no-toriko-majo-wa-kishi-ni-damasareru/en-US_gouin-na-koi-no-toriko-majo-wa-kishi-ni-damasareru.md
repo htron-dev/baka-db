@@ -1,5 +1,7 @@
 # Gouin na Koi no Toriko: Majo wa Kishi ni Damasareru
 
+![gouin-na-koi-no-toriko-majo-wa-kishi-ni-damasareru](https://cdn.myanimelist.net/images/manga/1/218399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 強引な恋の虜 魔女は騎士に騙される

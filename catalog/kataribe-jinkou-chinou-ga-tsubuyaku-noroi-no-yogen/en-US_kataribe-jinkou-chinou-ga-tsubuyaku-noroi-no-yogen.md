@@ -1,5 +1,7 @@
 # Kataribe Jinkou Chinou ga Tsubuyaku Noroi no Yogen
 
+![kataribe-jinkou-chinou-ga-tsubuyaku-noroi-no-yogen](https://cdn.myanimelist.net/images/anime/1225/90378.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: カタリベ　人工知能がつぶやく呪いの予言

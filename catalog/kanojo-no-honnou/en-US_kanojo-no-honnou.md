@@ -1,5 +1,7 @@
 # Kanojo no Honnou
 
+![kanojo-no-honnou](https://cdn.myanimelist.net/images/manga/2/14007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hitori-tachi
 
+![hitori-tachi](https://cdn.myanimelist.net/images/manga/2/35038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

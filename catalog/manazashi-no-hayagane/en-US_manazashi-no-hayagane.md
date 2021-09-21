@@ -1,5 +1,7 @@
 # Manazashi no Hayagane
 
+![manazashi-no-hayagane](https://cdn.myanimelist.net/images/manga/3/59919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kimi ga Miru Mirai ni Bokura wa: Koishita Hito wa Idol deshita
 
+![kimi-ga-miru-mirai-ni-bokura-wa-koishita-hito-wa-idol-deshita](https://cdn.myanimelist.net/images/manga/3/180266.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

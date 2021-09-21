@@ -1,5 +1,7 @@
 # Megazone 23
 
+![megazone-23](https://cdn.myanimelist.net/images/anime/1153/94528.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: メガゾーン 23

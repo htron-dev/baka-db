@@ -1,5 +1,7 @@
 # Massugu ni Junai
 
+![massugu-ni-junai](https://cdn.myanimelist.net/images/manga/2/144037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

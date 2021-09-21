@@ -1,5 +1,7 @@
 # Hammer Session! in High School
 
+![hammer-session-in-high-school](https://cdn.myanimelist.net/images/manga/1/96899.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

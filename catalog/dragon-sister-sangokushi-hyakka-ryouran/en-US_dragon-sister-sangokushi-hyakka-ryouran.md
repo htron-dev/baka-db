@@ -1,5 +1,7 @@
 # Dragon Sister!: Sangokushi Hyakka Ryouran
 
+![dragon-sister-sangokushi-hyakka-ryouran](https://cdn.myanimelist.net/images/manga/2/154953.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

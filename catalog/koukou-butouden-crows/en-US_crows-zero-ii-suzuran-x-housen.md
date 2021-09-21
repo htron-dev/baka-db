@@ -1,5 +1,7 @@
 # Crows Zero II: Suzuran x Housen
 
+![crows-zero-ii-suzuran-x-housen](https://cdn.myanimelist.net/images/manga/2/183501.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Hug Kiss Akushu
 
+![hug-kiss-akushu](https://cdn.myanimelist.net/images/manga/3/182473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

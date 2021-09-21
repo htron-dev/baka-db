@@ -1,5 +1,7 @@
 # Kamitsuki Gakuen
 
+![kamitsuki-gakuen](https://cdn.myanimelist.net/images/manga/1/199191.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

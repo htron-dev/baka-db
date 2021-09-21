@@ -1,5 +1,7 @@
 # Kenran Butou Sai: The Mars Daybreak
 
+![kenran-butou-sai-the-mars-daybreak](https://cdn.myanimelist.net/images/anime/9/74046.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 絢爛舞踏祭ザ･マーズ･デイブレイク

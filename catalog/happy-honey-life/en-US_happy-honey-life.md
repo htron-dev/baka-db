@@ -1,5 +1,7 @@
 # Happy Honey Life
 
+![happy-honey-life](https://cdn.myanimelist.net/images/manga/1/179038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ladies versus Butlers!
 
+![ladies-versus-butlers](https://cdn.myanimelist.net/images/manga/4/32131.jpg)
+
 -   **type**: manga
 -   **original-name**: れでぃ × ばと
 -   **start-date**: 2008-04-26

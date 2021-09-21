@@ -1,5 +1,7 @@
 # Isekai de Seiou-sama no Hanayome ni Nattara Konna ni Dekiai sarechau n desu!?
 
+![isekai-de-seiou-sama-no-hanayome-ni-nattara-konna-ni-dekiai-sarechau-n-desu](https://cdn.myanimelist.net/images/manga/2/215533.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

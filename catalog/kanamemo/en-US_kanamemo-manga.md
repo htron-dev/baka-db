@@ -1,5 +1,7 @@
 # Kanamemo
 
+![kanamemo](https://cdn.myanimelist.net/images/manga/2/56023.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: かなめも

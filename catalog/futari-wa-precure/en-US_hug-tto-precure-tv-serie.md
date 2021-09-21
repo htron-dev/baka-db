@@ -1,5 +1,7 @@
 # Hug tto! Precure
 
+![hug-tto-precure](https://cdn.myanimelist.net/images/anime/1220/92883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: HuG っと！プリキュア

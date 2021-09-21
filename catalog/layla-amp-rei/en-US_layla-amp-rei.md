@@ -1,5 +1,7 @@
 # Layla &amp; Rei
 
+![layla-amp-rei](https://cdn.myanimelist.net/images/manga/1/85761.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

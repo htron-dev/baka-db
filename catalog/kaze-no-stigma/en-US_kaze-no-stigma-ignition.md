@@ -1,5 +1,7 @@
 # Kaze no Stigma: Ignition
 
+![kaze-no-stigma-ignition](https://cdn.myanimelist.net/images/manga/2/174143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 39

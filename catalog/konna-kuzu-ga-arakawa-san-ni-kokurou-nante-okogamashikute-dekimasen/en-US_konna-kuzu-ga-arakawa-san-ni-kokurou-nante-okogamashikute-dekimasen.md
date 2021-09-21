@@ -1,5 +1,7 @@
 # Konna Kuzu ga Arakawa-san ni Kokurou nante, Okogamashikute Dekimasen.
 
+![konna-kuzu-ga-arakawa-san-ni-kokurou-nante-okogamashikute-dekimasen](https://cdn.myanimelist.net/images/manga/2/200157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Haruka Tooki Ie
 
+![haruka-tooki-ie](https://cdn.myanimelist.net/images/manga/1/246458.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

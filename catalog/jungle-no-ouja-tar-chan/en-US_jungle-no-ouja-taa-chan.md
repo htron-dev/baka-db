@@ -1,5 +1,7 @@
 # Jungle no Ouja Taa-chan
 
+![jungle-no-ouja-taa-chan](https://cdn.myanimelist.net/images/anime/1948/106089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ジャングルの王者ターちゃん

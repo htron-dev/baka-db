@@ -1,5 +1,7 @@
 # Kare to Kanojo no Sentaku
 
+![kare-to-kanojo-no-sentaku](https://cdn.myanimelist.net/images/manga/1/234649.jpg)
+
 -   **type**: manga
 -   **original-name**: カレとカノジョの選択
 -   **start-date**: 2020-03-31

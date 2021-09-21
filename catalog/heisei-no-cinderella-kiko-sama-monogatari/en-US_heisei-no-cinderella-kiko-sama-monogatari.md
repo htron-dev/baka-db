@@ -1,5 +1,7 @@
 # Heisei no Cinderella: Kiko-sama Monogatari
 
+![heisei-no-cinderella-kiko-sama-monogatari](https://cdn.myanimelist.net/images/anime/13/62685.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 平成のシンデレラ 紀子さま物語

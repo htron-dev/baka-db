@@ -1,5 +1,7 @@
 # Kanojo ga Catcher ni Natta Riyuu
 
+![kanojo-ga-catcher-ni-natta-riyuu](https://cdn.myanimelist.net/images/manga/3/169641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

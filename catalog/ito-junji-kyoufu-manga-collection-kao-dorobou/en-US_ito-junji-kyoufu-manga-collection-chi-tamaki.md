@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Chi Tamaki
 
+![ito-junji-kyoufu-manga-collection-chi-tamaki](https://cdn.myanimelist.net/images/manga/2/185643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

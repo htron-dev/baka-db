@@ -1,5 +1,7 @@
 # Kachou Fuugetsu
 
+![kachou-fuugetsu](https://cdn.myanimelist.net/images/manga/3/152348.jpg)
+
 -   **type**: manga
 -   **original-name**: 花鳥風月
 -   **start-date**: 2011-08-12

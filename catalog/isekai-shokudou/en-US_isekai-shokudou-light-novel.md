@@ -1,5 +1,7 @@
 # Isekai Shokudou
 
+![isekai-shokudou](https://cdn.myanimelist.net/images/manga/1/219344.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界食堂
 -   **start-date**: 2015-02-28

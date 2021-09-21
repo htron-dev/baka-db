@@ -1,5 +1,7 @@
 # Hoshigari-chan no Kareshi-ka Keikaku
 
+![hoshigari-chan-no-kareshi-ka-keikaku](https://cdn.myanimelist.net/images/manga/2/235385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

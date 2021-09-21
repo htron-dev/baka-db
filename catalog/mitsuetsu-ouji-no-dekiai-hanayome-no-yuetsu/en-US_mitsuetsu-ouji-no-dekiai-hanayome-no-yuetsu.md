@@ -1,5 +1,7 @@
 # Mitsuetsu: Ouji no Dekiai, Hanayome no Yuetsu
 
+![mitsuetsu-ouji-no-dekiai-hanayome-no-yuetsu](https://cdn.myanimelist.net/images/manga/1/182264.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

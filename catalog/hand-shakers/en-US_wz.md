@@ -1,5 +1,7 @@
 # W'z
 
+![wz](https://cdn.myanimelist.net/images/anime/1770/99001.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウィズ

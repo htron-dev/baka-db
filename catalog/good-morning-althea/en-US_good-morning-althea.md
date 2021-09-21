@@ -1,5 +1,7 @@
 # Good Morning Althea
 
+![good-morning-althea](https://cdn.myanimelist.net/images/anime/13/54605.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グッドモーニング・アルテア

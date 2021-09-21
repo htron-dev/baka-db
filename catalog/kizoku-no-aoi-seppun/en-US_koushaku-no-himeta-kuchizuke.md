@@ -1,5 +1,7 @@
 # Koushaku no Himeta Kuchizuke
 
+![koushaku-no-himeta-kuchizuke](https://cdn.myanimelist.net/images/manga/3/162424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

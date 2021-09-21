@@ -1,5 +1,7 @@
 # Momiji Ryouran
 
+![momiji-ryouran](https://cdn.myanimelist.net/images/manga/2/79515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 紅葉繚乱

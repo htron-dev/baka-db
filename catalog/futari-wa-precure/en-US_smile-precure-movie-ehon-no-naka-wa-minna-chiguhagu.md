@@ -1,5 +1,7 @@
 # Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!
 
+![smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu](https://cdn.myanimelist.net/images/anime/6/42291.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 スマイルプリキュア! 絵本の中はみんなチグハグ!

@@ -1,5 +1,7 @@
 # Memories Off
 
+![memories-off](https://cdn.myanimelist.net/images/anime/6/13174.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Memories Off (メモリーズオフ)

@@ -1,5 +1,7 @@
 # Fujoshi Kanojo.
 
+![fujoshi-kanojo](https://cdn.myanimelist.net/images/manga/1/184337.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

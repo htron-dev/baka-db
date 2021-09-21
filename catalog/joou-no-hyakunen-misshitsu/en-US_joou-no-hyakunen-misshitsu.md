@@ -1,5 +1,7 @@
 # Joou no Hyakunen Misshitsu
 
+![joou-no-hyakunen-misshitsu](https://cdn.myanimelist.net/images/manga/3/41194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女王の百年密室

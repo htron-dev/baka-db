@@ -1,5 +1,7 @@
 # IDOLiSH7 Vibrato
 
+![ido-li-sh-7-vibrato](https://cdn.myanimelist.net/images/anime/1131/90676.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: アイドリッシュセブン Vibrato

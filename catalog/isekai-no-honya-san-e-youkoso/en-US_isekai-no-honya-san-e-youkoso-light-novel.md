@@ -1,5 +1,7 @@
 # Isekai no Honya-san e Youkoso!
 
+![isekai-no-honya-san-e-youkoso](https://cdn.myanimelist.net/images/manga/2/208723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Gesu Yuusha no Dungeon Harem
 
+![gesu-yuusha-no-dungeon-harem](https://cdn.myanimelist.net/images/manga/3/198476.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ゲス勇者のダンジョンハーレム
 -   **start-date**: 2017-07-29

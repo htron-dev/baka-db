@@ -1,5 +1,7 @@
 # Koushaku-sama no Kanbi na Dokusenai: Hanayome wa Yasashii Himitsu ni Madou
 
+![koushaku-sama-no-kanbi-na-dokusenai-hanayome-wa-yasashii-himitsu-ni-madou](https://cdn.myanimelist.net/images/manga/2/194366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

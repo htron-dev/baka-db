@@ -1,5 +1,7 @@
 # Momon's Sand Witch Bangai-hen: Tanu no Kyuujitsu
 
+![momons-sand-witch-bangai-hen-tanu-no-kyuujitsu](https://cdn.myanimelist.net/images/anime/4/65055.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ももんず さんどうぃっち 番外編 たぬの休日

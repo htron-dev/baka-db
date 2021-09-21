@@ -1,5 +1,7 @@
 # Homé-Pato the Movie
 
+![home-pato-the-movie](https://cdn.myanimelist.net/images/anime/3/74025.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: HOMÉ-PATO THE MOVIE

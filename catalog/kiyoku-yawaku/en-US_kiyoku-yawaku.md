@@ -1,5 +1,7 @@
 # Kiyoku Yawaku
 
+![kiyoku-yawaku](https://cdn.myanimelist.net/images/manga/1/40535.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 46

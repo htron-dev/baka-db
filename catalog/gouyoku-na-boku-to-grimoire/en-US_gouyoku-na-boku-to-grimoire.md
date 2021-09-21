@@ -1,5 +1,7 @@
 # Gouyoku na Boku to Grimoire
 
+![gouyoku-na-boku-to-grimoire](https://cdn.myanimelist.net/images/manga/1/201862.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

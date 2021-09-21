@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Wing: Operation Meteor
 
+![mobile-suit-gundam-wing-operation-meteor](https://cdn.myanimelist.net/images/anime/2/42885.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 新機動戦記ガンダムＷ オペレーション・メテオ ODD＆EVEN NUMBERS

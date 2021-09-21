@@ -1,5 +1,7 @@
 # Kanojo no Ude wa Tsukamenai
 
+![kanojo-no-ude-wa-tsukamenai](https://cdn.myanimelist.net/images/manga/1/205469.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

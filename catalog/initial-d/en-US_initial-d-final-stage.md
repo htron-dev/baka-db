@@ -1,5 +1,7 @@
 # Initial D Final Stage
 
+![initial-d-final-stage](https://cdn.myanimelist.net/images/anime/1404/101364.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 頭文字 Final Stage

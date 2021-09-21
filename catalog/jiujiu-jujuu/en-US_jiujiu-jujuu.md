@@ -1,5 +1,7 @@
 # Jiujiu: Jujuu
 
+![jiujiu-jujuu](https://cdn.myanimelist.net/images/manga/2/23378.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Hatsukoi Summer Romanesque
 
+![hatsukoi-summer-romanesque](https://cdn.myanimelist.net/images/manga/3/15279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

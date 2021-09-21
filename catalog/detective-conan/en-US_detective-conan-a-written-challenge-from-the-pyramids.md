@@ -1,5 +1,7 @@
 # Detective Conan: A Written Challenge from the Pyramids!
 
+![detective-conan-a-written-challenge-from-the-pyramids](https://cdn.myanimelist.net/images/anime/4/79626.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン ピラミッドからの挑戦状!

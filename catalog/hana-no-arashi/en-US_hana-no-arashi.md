@@ -1,5 +1,7 @@
 # Hana no Arashi!
 
+![hana-no-arashi](https://cdn.myanimelist.net/images/manga/1/162452.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

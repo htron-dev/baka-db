@@ -1,5 +1,7 @@
 # Just Because!
 
+![just-because](https://cdn.myanimelist.net/images/anime/10/88234.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Just Because!

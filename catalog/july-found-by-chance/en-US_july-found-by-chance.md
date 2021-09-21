@@ -1,5 +1,7 @@
 # July Found by Chance
 
+![july-found-by-chance](https://cdn.myanimelist.net/images/manga/2/245898.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 어쩌다 발견한 7월
 -   **start-date**: 2018-01-18

@@ -1,5 +1,7 @@
 # Kawaii Hito.: Pure
 
+![kawaii-hito-pure](https://cdn.myanimelist.net/images/manga/2/81716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

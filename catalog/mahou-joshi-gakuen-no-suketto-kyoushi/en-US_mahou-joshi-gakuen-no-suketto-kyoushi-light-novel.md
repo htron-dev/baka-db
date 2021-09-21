@@ -1,5 +1,7 @@
 # Mahou Joshi Gakuen no Suketto Kyoushi
 
+![mahou-joshi-gakuen-no-suketto-kyoushi](https://cdn.myanimelist.net/images/manga/1/193733.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔法女子学園の助っ人教師
 -   **start-date**: 2017-04-22

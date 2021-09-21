@@ -1,5 +1,7 @@
 # Majin Bone
 
+![majin-bone](https://cdn.myanimelist.net/images/anime/1490/90396.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: マジンボーン

@@ -1,5 +1,7 @@
 # Mikan Seijin Arawaru
 
+![mikan-seijin-arawaru](https://cdn.myanimelist.net/images/anime/4/81665.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 58
 -   **original-name**: ミカンせいじん現わる

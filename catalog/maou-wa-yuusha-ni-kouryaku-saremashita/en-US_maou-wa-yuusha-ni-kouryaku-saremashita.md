@@ -1,5 +1,7 @@
 # Maou wa Yuusha ni Kouryaku saremashita.
 
+![maou-wa-yuusha-ni-kouryaku-saremashita](https://cdn.myanimelist.net/images/manga/3/240547.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔王は勇者に攻略されました。

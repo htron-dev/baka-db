@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World
 
+![kino-no-tabi-the-beautiful-world](https://cdn.myanimelist.net/images/manga/4/1146.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キノの旅 -the Beautiful World-
 -   **start-date**: 2000-03-10

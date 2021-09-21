@@ -1,5 +1,7 @@
 # Gouman Ouji ni wa Sakaraenai! Jajauma-hime no Hatsukoi
 
+![gouman-ouji-ni-wa-sakaraenai-jajauma-hime-no-hatsukoi](https://cdn.myanimelist.net/images/manga/3/194490.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

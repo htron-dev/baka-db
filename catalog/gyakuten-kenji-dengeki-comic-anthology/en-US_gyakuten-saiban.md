@@ -1,5 +1,7 @@
 # Gyakuten Saiban
 
+![gyakuten-saiban](https://cdn.myanimelist.net/images/manga/1/164137.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 15

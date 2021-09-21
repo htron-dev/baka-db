@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Sharaku - Shinsetsu Onna Eshi
 
+![manga-grimm-douwa-sharaku-shinsetsu-onna-eshi](https://cdn.myanimelist.net/images/manga/2/139179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kachou wa Kakkoii
 
+![kachou-wa-kakkoii](https://cdn.myanimelist.net/images/manga/2/85509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Jun: Shoutarou no Fantasy World
 
+![jun-shoutarou-no-fantasy-world](https://cdn.myanimelist.net/images/manga/3/141577.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

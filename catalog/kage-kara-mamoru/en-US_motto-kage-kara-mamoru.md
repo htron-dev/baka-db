@@ -1,5 +1,7 @@
 # Motto! Kage kara Mamoru!
 
+![motto-kage-kara-mamoru](https://cdn.myanimelist.net/images/manga/1/140367.jpg)
+
 -   **type**: light-novel
 -   **original-name**: もっと!陰からマモル!
 -   **start-date**: 2009-07-24

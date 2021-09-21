@@ -1,5 +1,7 @@
 # Kioku Capsule: Oniichan to, Mou Ichido
 
+![kioku-capsule-oniichan-to-mou-ichido](https://cdn.myanimelist.net/images/manga/1/231697.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

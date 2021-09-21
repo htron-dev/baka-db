@@ -1,5 +1,7 @@
 # Mujintou ni Motteiku nara
 
+![mujintou-ni-motteiku-nara](https://cdn.myanimelist.net/images/manga/2/222435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

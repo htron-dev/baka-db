@@ -1,5 +1,7 @@
 # Kurui Naku no wa Boku no Ban ;β
 
+![kurui-naku-no-wa-boku-no-ban-β](https://cdn.myanimelist.net/images/manga/2/228347.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

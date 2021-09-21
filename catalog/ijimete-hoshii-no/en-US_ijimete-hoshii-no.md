@@ -1,5 +1,7 @@
 # Ijimete Hoshii no?
 
+![ijimete-hoshii-no](https://cdn.myanimelist.net/images/manga/2/88731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

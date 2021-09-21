@@ -1,5 +1,7 @@
 # Hamidashi CoroCoro
 
+![hamidashi-coro-coro](https://cdn.myanimelist.net/images/anime/10/85457.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: はみだしコロコロ

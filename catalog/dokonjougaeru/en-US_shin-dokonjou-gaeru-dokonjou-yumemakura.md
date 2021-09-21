@@ -1,5 +1,7 @@
 # Shin Dokonjou Gaeru: Dokonjou Yumemakura
 
+![shin-dokonjou-gaeru-dokonjou-yumemakura](https://cdn.myanimelist.net/images/anime/1585/107749.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新ど根性ガエル ど根性・夢枕

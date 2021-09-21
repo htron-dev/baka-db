@@ -1,5 +1,7 @@
 # Shuukan Shimakou Special
 
+![shuukan-shimakou-special](https://cdn.myanimelist.net/images/anime/4/32357.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 大怪獣島耕作の巻

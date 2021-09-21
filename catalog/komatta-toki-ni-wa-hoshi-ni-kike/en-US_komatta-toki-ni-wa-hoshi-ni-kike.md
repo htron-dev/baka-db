@@ -1,5 +1,7 @@
 # Komatta Toki ni wa Hoshi ni Kike
 
+![komatta-toki-ni-wa-hoshi-ni-kike](https://cdn.myanimelist.net/images/manga/4/168392.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 82

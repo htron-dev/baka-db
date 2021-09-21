@@ -1,5 +1,7 @@
 # Gaegujang-i Cheonsa-deul
 
+![gaegujang-i-cheonsa-deul](https://cdn.myanimelist.net/images/anime/8/45174.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 개구장이 천사들

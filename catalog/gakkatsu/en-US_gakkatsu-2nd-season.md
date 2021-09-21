@@ -1,5 +1,7 @@
 # Gakkatsu! 2nd Season
 
+![gakkatsu-2nd-season](https://cdn.myanimelist.net/images/anime/13/46063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ガッ活！ 第 2 シーズン

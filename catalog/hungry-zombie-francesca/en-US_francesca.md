@@ -1,5 +1,7 @@
 # Francesca
 
+![francesca](https://cdn.myanimelist.net/images/anime/12/63633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: フランチェスカ

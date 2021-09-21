@@ -1,5 +1,7 @@
 # Mystery na Trouble Tour
 
+![mystery-na-trouble-tour](https://cdn.myanimelist.net/images/manga/3/30970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ミステリーなトラブル・ツアー

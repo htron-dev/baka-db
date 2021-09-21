@@ -1,5 +1,7 @@
 # Kono Shima ni wa Midara de Jaaku na Mono ga Sumu
 
+![kono-shima-ni-wa-midara-de-jaaku-na-mono-ga-sumu](https://cdn.myanimelist.net/images/manga/1/145141.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Gensou Suikoden III: Unmei no Keishousha
 
+![gensou-suikoden-iii-unmei-no-keishousha](https://cdn.myanimelist.net/images/manga/2/180633.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 幻想水滸伝 III 運命の継承者

@@ -1,5 +1,7 @@
 # Koi no Yokan
 
+![koi-no-yokan](https://cdn.myanimelist.net/images/manga/1/6013.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋の予感

@@ -1,5 +1,7 @@
 # Harapeko to Spice: Tamako Kitchen e Youkoso
 
+![harapeko-to-spice-tamako-kitchen-e-youkoso](https://cdn.myanimelist.net/images/manga/1/237089.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

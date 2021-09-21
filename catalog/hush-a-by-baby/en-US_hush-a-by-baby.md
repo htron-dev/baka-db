@@ -1,5 +1,7 @@
 # Hush-a-by-Baby
 
+![hush-a-by-baby](https://cdn.myanimelist.net/images/manga/2/79495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

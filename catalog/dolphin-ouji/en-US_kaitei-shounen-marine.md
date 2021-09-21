@@ -1,5 +1,7 @@
 # Kaitei Shounen Marine
 
+![kaitei-shounen-marine](https://cdn.myanimelist.net/images/anime/13/24677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: 海底少年マリン

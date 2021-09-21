@@ -1,5 +1,7 @@
 # Hime-chan no Ribbon
 
+![hime-chan-no-ribbon](https://cdn.myanimelist.net/images/manga/2/145585.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 45

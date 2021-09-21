@@ -1,5 +1,7 @@
 # Koisuru Michiru Ojousama
 
+![koisuru-michiru-ojousama](https://cdn.myanimelist.net/images/manga/1/103949.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

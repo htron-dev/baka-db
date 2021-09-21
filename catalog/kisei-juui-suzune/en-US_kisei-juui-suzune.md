@@ -1,5 +1,7 @@
 # Kisei Juui Suzune
 
+![kisei-juui-suzune](https://cdn.myanimelist.net/images/manga/1/92651.jpg)
+
 -   **type**: manga
 -   **original-name**: 寄性獣医・鈴音
 -   **start-date**: 2004-12-14

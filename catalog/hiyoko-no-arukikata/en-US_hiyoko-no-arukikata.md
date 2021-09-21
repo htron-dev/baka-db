@@ -1,5 +1,7 @@
 # Hiyoko no Arukikata
 
+![hiyoko-no-arukikata](https://cdn.myanimelist.net/images/manga/3/81926.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒヨコノアルキカタ
 -   **start-date**: 2012-06-06

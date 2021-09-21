@@ -1,5 +1,7 @@
 # Kyou no Kon no Diagram
 
+![kyou-no-kon-no-diagram](https://cdn.myanimelist.net/images/manga/2/237579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Motoyome
 
+![motoyome](https://cdn.myanimelist.net/images/manga/1/165127.jpg)
+
 -   **type**: manga
 -   **original-name**: モトヨメ
 -   **start-date**: 2013-11-01

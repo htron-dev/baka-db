@@ -1,5 +1,7 @@
 # Durarara!! Relay
 
+![durarara-relay](https://cdn.myanimelist.net/images/manga/2/160115.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

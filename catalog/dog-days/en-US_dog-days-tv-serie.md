@@ -1,5 +1,7 @@
 # Dog Days'
 
+![dog-days](https://cdn.myanimelist.net/images/anime/9/42105.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ドッグデイズ'

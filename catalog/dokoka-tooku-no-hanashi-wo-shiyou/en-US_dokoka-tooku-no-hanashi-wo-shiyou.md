@@ -1,5 +1,7 @@
 # Dokoka Tooku no Hanashi wo Shiyou
 
+![dokoka-tooku-no-hanashi-wo-shiyou](https://cdn.myanimelist.net/images/manga/3/227351.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

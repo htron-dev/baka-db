@@ -1,5 +1,7 @@
 # Goshuushou-sama Ninomiya-kun
 
+![goshuushou-sama-ninomiya-kun](https://cdn.myanimelist.net/images/manga/3/157284.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 17
 -   **original-name**: ご愁傷さま二ノ宮くん

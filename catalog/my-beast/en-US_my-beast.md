@@ -1,5 +1,7 @@
 # My Beast
 
+![my-beast](https://cdn.myanimelist.net/images/manga/3/172299.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 43

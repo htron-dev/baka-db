@@ -1,5 +1,7 @@
 # Kakao 79%
 
+![kakao-79](https://cdn.myanimelist.net/images/manga/3/207049.jpg)
+
 -   **type**: manga
 -   **original-name**: カカオ 79%
 -   **start-date**: 2015-05-02

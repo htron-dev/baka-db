@@ -1,5 +1,7 @@
 # Ichigo no Hanayome
 
+![ichigo-no-hanayome](https://cdn.myanimelist.net/images/manga/3/173044.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

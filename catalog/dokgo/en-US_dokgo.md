@@ -1,5 +1,7 @@
 # Dokgo
 
+![dokgo](https://cdn.myanimelist.net/images/manga/2/190706.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 독고

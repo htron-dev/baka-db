@@ -1,5 +1,7 @@
 # Mayutoro The Toons
 
+![mayutoro-the-toons](https://cdn.myanimelist.net/images/anime/5/28224.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: まゆとろ THE TOONS

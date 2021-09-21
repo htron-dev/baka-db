@@ -1,5 +1,7 @@
 # Furue Tsumore Shiawase no Hana
 
+![furue-tsumore-shiawase-no-hana](https://cdn.myanimelist.net/images/manga/1/58021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

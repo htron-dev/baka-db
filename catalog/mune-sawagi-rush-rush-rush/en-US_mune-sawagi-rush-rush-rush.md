@@ -1,5 +1,7 @@
 # Mune Sawagi RUSH RUSH RUSH!
 
+![mune-sawagi-rush-rush-rush](https://cdn.myanimelist.net/images/manga/3/11071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 胸さわぎ RUSH 　 RUSH 　 RUSH!

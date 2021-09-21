@@ -1,5 +1,7 @@
 # Meitantei Gordon
 
+![meitantei-gordon](https://cdn.myanimelist.net/images/anime/7/81033.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 名探偵ゴードン

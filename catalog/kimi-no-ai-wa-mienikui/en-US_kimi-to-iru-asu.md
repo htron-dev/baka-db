@@ -1,5 +1,7 @@
 # Kimi to Iru Asu
 
+![kimi-to-iru-asu](https://cdn.myanimelist.net/images/manga/2/2450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

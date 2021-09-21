@@ -1,5 +1,7 @@
 # Maou ga Yadoya wo Yatteinu.
 
+![maou-ga-yadoya-wo-yatteinu](https://cdn.myanimelist.net/images/manga/3/204900.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

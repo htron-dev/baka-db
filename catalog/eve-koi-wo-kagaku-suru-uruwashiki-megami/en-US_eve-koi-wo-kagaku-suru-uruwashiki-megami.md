@@ -1,5 +1,7 @@
 # Eve: Koi wo Kagaku suru Uruwashiki Megami
 
+![eve-koi-wo-kagaku-suru-uruwashiki-megami](https://cdn.myanimelist.net/images/manga/3/203932.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 71

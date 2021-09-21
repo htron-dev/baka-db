@@ -1,5 +1,7 @@
 # Kamen Butoukai wa Koushaku to
 
+![kamen-butoukai-wa-koushaku-to](https://cdn.myanimelist.net/images/manga/1/228842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 仮面舞踏会は公爵と

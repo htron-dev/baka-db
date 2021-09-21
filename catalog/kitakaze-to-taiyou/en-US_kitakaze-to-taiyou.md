@@ -1,5 +1,7 @@
 # Kitakaze to Taiyou
 
+![kitakaze-to-taiyou](https://cdn.myanimelist.net/images/anime/10/78475.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きたかぜとたいよう

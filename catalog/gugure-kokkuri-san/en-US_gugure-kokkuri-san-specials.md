@@ -1,5 +1,7 @@
 # Gugure! Kokkuri-san Specials
 
+![gugure-kokkuri-san-specials](https://cdn.myanimelist.net/images/anime/4/67735.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: 繰繰れ！コックリさん

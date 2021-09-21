@@ -1,8 +1,10 @@
 # Koukaku Kidoutai Arise: Ghost in the Shell - Logicoma Specials
 
+![koukaku-kidoutai-arise-ghost-in-the-shell-logicoma-specials](https://cdn.myanimelist.net/images/anime/10/57657.jpg)
+
 -   **type**: special
 -   **episodes**: 4
--   **original-name**: 攻殻機動隊ARISE ロジコマ・ビート
+-   **original-name**: 攻殻機動隊 ARISE ロジコマ・ビート
 -   **start-date**: 2013-07-26
 -   **end-date**: 2013-07-26
 -   **rating**: PG-13 - Teens 13 or older

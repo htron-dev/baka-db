@@ -1,5 +1,7 @@
 # Gokujou Seitokai
 
+![gokujou-seitokai](https://cdn.myanimelist.net/images/anime/7/18714.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 極上生徒会

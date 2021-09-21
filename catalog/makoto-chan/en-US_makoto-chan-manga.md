@@ -1,5 +1,7 @@
 # Makoto-chan
 
+![makoto-chan](https://cdn.myanimelist.net/images/manga/5/197678.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: まことちゃん

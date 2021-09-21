@@ -1,5 +1,7 @@
 # Dies Irae: Reimei
 
+![dies-irae-reimei](https://cdn.myanimelist.net/images/anime/9/88229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Dies irae (0) 黎明

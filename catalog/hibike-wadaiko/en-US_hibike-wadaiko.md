@@ -1,5 +1,7 @@
 # Hibike! Wadaiko
 
+![hibike-wadaiko](https://cdn.myanimelist.net/images/anime/2/65985.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ひびけ! 和だいこ

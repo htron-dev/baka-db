@@ -1,5 +1,7 @@
 # Mojo to Kiwameru Isekai Gyouten Seikatsu: Kanojo no Tsukuru Potion ga Iroiro to Yabai n desu
 
+![mojo-to-kiwameru-isekai-gyouten-seikatsu-kanojo-no-tsukuru-potion-ga-iroiro-to-yabai-n-desu](https://cdn.myanimelist.net/images/manga/2/180897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: もじょと極める異世界仰天生活 ―彼女の作るポーションがいろいろとヤバいんです―

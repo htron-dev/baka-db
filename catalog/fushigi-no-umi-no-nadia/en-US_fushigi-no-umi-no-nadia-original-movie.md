@@ -1,5 +1,7 @@
 # Fushigi no Umi no Nadia: Original Movie
 
+![fushigi-no-umi-no-nadia-original-movie](https://cdn.myanimelist.net/images/anime/7/3234.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふしぎの海のナディア 劇場用オリジナル版

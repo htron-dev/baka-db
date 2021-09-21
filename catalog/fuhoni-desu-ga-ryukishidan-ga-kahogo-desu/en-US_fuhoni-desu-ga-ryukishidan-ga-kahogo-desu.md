@@ -1,5 +1,7 @@
 # Fuhoni desu ga, Ryukishidan ga Kahogo desu
 
+![fuhoni-desu-ga-ryukishidan-ga-kahogo-desu](https://cdn.myanimelist.net/images/manga/3/235359.jpg)
+
 -   **type**: manga
 -   **original-name**: 不本意ですが、竜騎士団が過保護です
 -   **start-date**: 2020-02-02

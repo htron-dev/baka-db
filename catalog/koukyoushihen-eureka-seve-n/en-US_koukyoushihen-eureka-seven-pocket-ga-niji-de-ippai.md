@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka Seven: Pocket ga Niji de Ippai
 
+![koukyoushihen-eureka-seven-pocket-ga-niji-de-ippai](https://cdn.myanimelist.net/images/anime/8/12896.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 交響詩篇エウレカセブン ポケットが虹でいっぱい

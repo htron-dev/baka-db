@@ -1,5 +1,7 @@
 # Shin Mazinger Shougeki! Z-hen
 
+![shin-mazinger-shougeki-z-hen](https://cdn.myanimelist.net/images/anime/1022/92865.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: Ｚマジンガー; 真マジンガー 衝撃！Z 編

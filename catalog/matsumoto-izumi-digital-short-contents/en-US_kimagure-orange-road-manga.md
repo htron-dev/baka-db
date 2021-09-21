@@ -1,5 +1,7 @@
 # Kimagure Orange☆Road
 
+![kimagure-orange☆-road](https://cdn.myanimelist.net/images/manga/3/156252.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 156

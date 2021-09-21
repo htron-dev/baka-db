@@ -1,5 +1,7 @@
 # Gokai ga Maneita Ai
 
+![gokai-ga-maneita-ai](https://cdn.myanimelist.net/images/manga/1/39381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

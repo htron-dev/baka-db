@@ -1,5 +1,7 @@
 # Hanayome wa Ai ni Sarawareru
 
+![hanayome-wa-ai-ni-sarawareru](https://cdn.myanimelist.net/images/manga/1/239414.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 花嫁は愛に攫われる

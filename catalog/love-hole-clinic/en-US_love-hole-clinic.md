@@ -1,5 +1,7 @@
 # Love Hole Clinic
 
+![love-hole-clinic](https://cdn.myanimelist.net/images/manga/2/16758.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

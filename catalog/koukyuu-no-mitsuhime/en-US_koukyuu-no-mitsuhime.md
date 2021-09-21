@@ -1,5 +1,7 @@
 # Koukyuu no Mitsuhime
 
+![koukyuu-no-mitsuhime](https://cdn.myanimelist.net/images/manga/1/199149.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 後宮の蜜姫

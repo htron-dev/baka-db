@@ -1,5 +1,7 @@
 # Eisen Jäger
 
+![eisen-jager](https://cdn.myanimelist.net/images/manga/3/182973.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アイゼン・イェーガー
 -   **start-date**: 2016-09-15

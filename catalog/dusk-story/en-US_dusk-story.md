@@ -1,5 +1,7 @@
 # Dusk Story
 
+![dusk-story](https://cdn.myanimelist.net/images/manga/3/62009.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Hoshikuzu-hime to Kudokima Ouji
 
+![hoshikuzu-hime-to-kudokima-ouji](https://cdn.myanimelist.net/images/manga/3/183941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

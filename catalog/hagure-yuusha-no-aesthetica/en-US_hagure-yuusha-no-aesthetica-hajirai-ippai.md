@@ -1,5 +1,7 @@
 # Hagure Yuusha no Aesthetica: Hajirai Ippai
 
+![hagure-yuusha-no-aesthetica-hajirai-ippai](https://cdn.myanimelist.net/images/anime/9/43079.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: はぐれ勇者の鬼畜美学〈エステティカ〉恥じらいいっぱい

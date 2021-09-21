@@ -1,5 +1,7 @@
 # Hakushaku-ke Goyoutashi
 
+![hakushaku-ke-goyoutashi](https://cdn.myanimelist.net/images/manga/2/151021.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

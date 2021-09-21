@@ -1,5 +1,7 @@
 # He Wei Dao x Hui Yeda Xiaojie Xiangyao Wo Gaobai
 
+![he-wei-dao-x-hui-yeda-xiaojie-xiangyao-wo-gaobai](https://cdn.myanimelist.net/images/anime/1513/110504.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 合味道 × 辉夜大小姐想要我告白

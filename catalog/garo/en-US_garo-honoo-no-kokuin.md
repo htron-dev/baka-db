@@ -1,5 +1,7 @@
 # Garo: Honoo no Kokuin
 
+![garo-honoo-no-kokuin](https://cdn.myanimelist.net/images/anime/5/63667.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 牙狼〈GARO〉-炎の刻印-

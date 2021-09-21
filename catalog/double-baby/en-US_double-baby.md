@@ -1,5 +1,7 @@
 # Double Baby
 
+![double-baby](https://cdn.myanimelist.net/images/manga/2/69983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

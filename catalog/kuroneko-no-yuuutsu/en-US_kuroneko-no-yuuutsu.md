@@ -1,5 +1,7 @@
 # Kuroneko no Yuuutsu
 
+![kuroneko-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/35857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒猫の憂鬱

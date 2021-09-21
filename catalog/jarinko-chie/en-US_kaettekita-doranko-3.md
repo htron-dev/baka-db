@@ -1,5 +1,7 @@
 # Kaettekita Doranko 3
 
+![kaettekita-doranko-3](https://cdn.myanimelist.net/images/manga/1/180880.jpg)
+
 -   **type**: manga
 -   **chapters**: 56
 -   **original-name**: 帰って来たどらン猫 3

@@ -1,5 +1,7 @@
 # Kenka Ramen
 
+![kenka-ramen](https://cdn.myanimelist.net/images/manga/3/231028.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 161

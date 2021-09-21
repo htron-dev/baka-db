@@ -1,5 +1,7 @@
 # K-On! Movie
 
+![k-on-movie](https://cdn.myanimelist.net/images/anime/5/76233.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 けいおん！

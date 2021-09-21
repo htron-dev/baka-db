@@ -1,5 +1,7 @@
 # Luna-tan: 1-mannen no Himitsu
 
+![luna-tan-1-mannen-no-himitsu](https://cdn.myanimelist.net/images/anime/12/84727.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ルナたん～ 1 万年のひみつ～

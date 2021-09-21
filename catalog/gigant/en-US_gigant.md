@@ -1,5 +1,7 @@
 # Gigant
 
+![gigant](https://cdn.myanimelist.net/images/manga/1/210342.jpg)
+
 -   **type**: manga
 -   **original-name**: GIGANT
 -   **start-date**: 2017-12-08

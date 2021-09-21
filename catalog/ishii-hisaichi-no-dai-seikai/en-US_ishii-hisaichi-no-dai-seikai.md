@@ -1,5 +1,7 @@
 # Ishii Hisaichi no Dai Seikai
 
+![ishii-hisaichi-no-dai-seikai](https://cdn.myanimelist.net/images/anime/5/52445.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いしいひさいちの大政界

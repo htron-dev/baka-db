@@ -1,5 +1,7 @@
 # Furusato Japan
 
+![furusato-japan](https://cdn.myanimelist.net/images/anime/4/22952.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふるさと JAPAN

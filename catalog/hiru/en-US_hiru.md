@@ -1,5 +1,7 @@
 # Hiru
 
+![hiru](https://cdn.myanimelist.net/images/manga/2/157361.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

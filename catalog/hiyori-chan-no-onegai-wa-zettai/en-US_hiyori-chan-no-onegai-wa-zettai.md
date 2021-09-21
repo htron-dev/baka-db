@@ -1,5 +1,7 @@
 # Hiyori-chan no Onegai wa Zettai
 
+![hiyori-chan-no-onegai-wa-zettai](https://cdn.myanimelist.net/images/manga/3/242556.jpg)
+
 -   **type**: manga
 -   **original-name**: 日和ちゃんのお願いは絶対
 -   **start-date**: 2020-09-25

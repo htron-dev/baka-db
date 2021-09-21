@@ -1,5 +1,7 @@
 # Donut Tsuushin
 
+![donut-tsuushin](https://cdn.myanimelist.net/images/manga/1/194444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

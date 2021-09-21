@@ -1,5 +1,7 @@
 # Dolphin Ouji
 
+![dolphin-ouji](https://cdn.myanimelist.net/images/anime/5/24629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: ドルフィン王子

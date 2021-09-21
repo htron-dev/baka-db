@@ -1,5 +1,7 @@
 # Long Dao Qi Yuan
 
+![long-dao-qi-yuan](https://cdn.myanimelist.net/images/anime/4/89216.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 龍刀奇緣

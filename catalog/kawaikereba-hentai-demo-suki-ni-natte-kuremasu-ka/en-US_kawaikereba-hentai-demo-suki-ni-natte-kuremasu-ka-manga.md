@@ -1,5 +1,7 @@
 # Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?
 
+![kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka](https://cdn.myanimelist.net/images/manga/1/210069.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

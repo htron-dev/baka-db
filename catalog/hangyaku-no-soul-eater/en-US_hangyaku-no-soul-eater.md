@@ -1,5 +1,7 @@
 # Hangyaku no Soul Eater
 
+![hangyaku-no-soul-eater](https://cdn.myanimelist.net/images/manga/2/235101.jpg)
+
 -   **type**: manga
 -   **original-name**: 反逆のソウルイーター
 -   **start-date**: 2020-03-26

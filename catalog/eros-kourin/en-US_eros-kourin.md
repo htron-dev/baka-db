@@ -1,5 +1,7 @@
 # Eros Kourin!
 
+![eros-kourin](https://cdn.myanimelist.net/images/manga/2/163580.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

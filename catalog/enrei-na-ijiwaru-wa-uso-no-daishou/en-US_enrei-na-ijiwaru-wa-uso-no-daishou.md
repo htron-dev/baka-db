@@ -1,5 +1,7 @@
 # Enrei na Ijiwaru wa Uso no Daishou
 
+![enrei-na-ijiwaru-wa-uso-no-daishou](https://cdn.myanimelist.net/images/manga/1/194460.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

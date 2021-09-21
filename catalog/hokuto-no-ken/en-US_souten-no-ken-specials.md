@@ -1,5 +1,7 @@
 # Souten no Ken Specials
 
+![souten-no-ken-specials](https://cdn.myanimelist.net/images/anime/13/76838.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 蒼天の拳

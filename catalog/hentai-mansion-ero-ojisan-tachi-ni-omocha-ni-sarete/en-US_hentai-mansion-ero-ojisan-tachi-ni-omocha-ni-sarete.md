@@ -1,5 +1,7 @@
 # Hentai Mansion: Ero Ojisan-tachi ni Omocha ni Sarete
 
+![hentai-mansion-ero-ojisan-tachi-ni-omocha-ni-sarete](https://cdn.myanimelist.net/images/manga/3/193815.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

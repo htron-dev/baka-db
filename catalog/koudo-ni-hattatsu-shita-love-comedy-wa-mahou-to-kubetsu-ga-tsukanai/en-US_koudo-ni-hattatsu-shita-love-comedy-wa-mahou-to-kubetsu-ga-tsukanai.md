@@ -1,5 +1,7 @@
 # Koudo ni Hattatsu Shita Love Comedy wa Mahou to Kubetsu ga Tsukanai
 
+![koudo-ni-hattatsu-shita-love-comedy-wa-mahou-to-kubetsu-ga-tsukanai](https://cdn.myanimelist.net/images/manga/1/164226.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 高度に発達したラブコメは魔法と区別がつかない

@@ -1,5 +1,7 @@
 # Meguro to Akino wa Kizukanai
 
+![meguro-to-akino-wa-kizukanai](https://cdn.myanimelist.net/images/manga/2/224433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

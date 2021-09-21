@@ -1,5 +1,7 @@
 # Kabushikigaisha Aokishouji
 
+![kabushikigaisha-aokishouji](https://cdn.myanimelist.net/images/anime/12/81038.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 株式会社青木商事

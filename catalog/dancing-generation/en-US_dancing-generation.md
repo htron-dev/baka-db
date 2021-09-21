@@ -1,5 +1,7 @@
 # Dancing Generation
 
+![dancing-generation](https://cdn.myanimelist.net/images/manga/3/163830.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ダンシング・ゼネレーション

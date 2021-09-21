@@ -1,5 +1,7 @@
 # Kenrantaru Grande Scène
 
+![kenrantaru-grande-scene](https://cdn.myanimelist.net/images/manga/1/119683.jpg)
+
 -   **type**: manga
 -   **original-name**: 絢爛たるグランドセーヌ
 -   **start-date**: 2013-07-19

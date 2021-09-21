@@ -1,5 +1,7 @@
 # Ingress-teki Nichijou: Chloe-san no Baai
 
+![ingress-teki-nichijou-chloe-san-no-baai](https://cdn.myanimelist.net/images/manga/2/192219.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

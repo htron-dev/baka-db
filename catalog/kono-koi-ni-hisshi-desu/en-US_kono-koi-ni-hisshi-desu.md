@@ -1,5 +1,7 @@
 # Kono Koi ni Hisshi desu!
 
+![kono-koi-ni-hisshi-desu](https://cdn.myanimelist.net/images/manga/2/32313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

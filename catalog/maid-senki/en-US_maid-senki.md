@@ -1,5 +1,7 @@
 # Maid Senki
 
+![maid-senki](https://cdn.myanimelist.net/images/manga/3/9208.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

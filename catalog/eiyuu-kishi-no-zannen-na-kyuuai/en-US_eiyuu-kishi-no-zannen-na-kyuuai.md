@@ -1,5 +1,7 @@
 # Eiyuu Kishi no Zannen na Kyuuai
 
+![eiyuu-kishi-no-zannen-na-kyuuai](https://cdn.myanimelist.net/images/manga/1/190698.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

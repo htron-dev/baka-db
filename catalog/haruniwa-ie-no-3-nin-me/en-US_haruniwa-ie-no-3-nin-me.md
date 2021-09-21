@@ -1,5 +1,7 @@
 # Haruniwa Ie no 3 Nin-me
 
+![haruniwa-ie-no-3-nin-me](https://cdn.myanimelist.net/images/anime/10/84083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: 春庭家の 3 人目

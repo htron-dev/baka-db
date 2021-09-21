@@ -1,5 +1,7 @@
 # D.C.III: Da Capo III
 
+![d-c-iii-da-capo-iii](https://cdn.myanimelist.net/images/manga/3/241817.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

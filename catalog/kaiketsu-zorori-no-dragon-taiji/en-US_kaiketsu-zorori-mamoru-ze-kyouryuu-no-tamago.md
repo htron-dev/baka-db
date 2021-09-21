@@ -1,5 +1,7 @@
 # Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago
 
+![kaiketsu-zorori-mamoru-ze-kyouryuu-no-tamago](https://cdn.myanimelist.net/images/anime/10/52451.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 かいけつゾロリ まもるぜ! きょうりゅうのたまご

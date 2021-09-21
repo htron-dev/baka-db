@@ -1,5 +1,7 @@
 # Daisuki Daisuki
 
+![daisuki-daisuki](https://cdn.myanimelist.net/images/manga/1/27458.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

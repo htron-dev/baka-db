@@ -1,5 +1,7 @@
 # Mayonaka no Orphée
 
+![mayonaka-no-orphee](https://cdn.myanimelist.net/images/manga/1/224689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

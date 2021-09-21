@@ -1,5 +1,7 @@
 # Shin Jigoku Shoujo
 
+![shin-jigoku-shoujo](https://cdn.myanimelist.net/images/manga/3/162280.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

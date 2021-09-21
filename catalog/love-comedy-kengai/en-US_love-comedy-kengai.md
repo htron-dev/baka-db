@@ -1,5 +1,7 @@
 # Love Comedy Kengai
 
+![love-comedy-kengai](https://cdn.myanimelist.net/images/manga/2/161866.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

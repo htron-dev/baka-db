@@ -1,5 +1,7 @@
 # Hajimete no Camp-san
 
+![hajimete-no-camp-san](https://cdn.myanimelist.net/images/manga/3/240343.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめてのキャンプさん
 -   **start-date**: 2021-01-27

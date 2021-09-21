@@ -1,5 +1,7 @@
 # Great Yankee Michiru-kun
 
+![great-yankee-michiru-kun](https://cdn.myanimelist.net/images/manga/2/194228.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

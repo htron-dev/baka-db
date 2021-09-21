@@ -1,5 +1,7 @@
 # Pokopon no Kitsune-gawa Onsen Henshin Gassen
 
+![pokopon-no-kitsune-gawa-onsen-henshin-gassen](https://cdn.myanimelist.net/images/anime/3/84563.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぽこぽんのキツネ川温泉へんしん合戦

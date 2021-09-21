@@ -1,5 +1,7 @@
 # Kanokon: Manatsu no Dai Shanikusai Specials
 
+![kanokon-manatsu-no-dai-shanikusai-specials](https://cdn.myanimelist.net/images/anime/7/22071.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: かのこん ～真夏の大謝肉祭～

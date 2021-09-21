@@ -1,5 +1,7 @@
 # Ishiyama-dera Digital Engi Emaki
 
+![ishiyama-dera-digital-engi-emaki](https://cdn.myanimelist.net/images/anime/4/81787.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 石山寺デジタル縁起絵巻

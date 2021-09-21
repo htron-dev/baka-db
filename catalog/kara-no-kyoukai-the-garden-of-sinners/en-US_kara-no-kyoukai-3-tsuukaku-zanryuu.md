@@ -1,5 +1,7 @@
 # Kara no Kyoukai 3: Tsuukaku Zanryuu
 
+![kara-no-kyoukai-3-tsuukaku-zanryuu](https://cdn.myanimelist.net/images/anime/4/21735.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第三章『痛覚残留』

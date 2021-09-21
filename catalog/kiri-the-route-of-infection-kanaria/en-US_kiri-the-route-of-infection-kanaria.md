@@ -1,5 +1,7 @@
 # Kiri - the route of infection KANARIA
 
+![kiri-the-route-of-infection-kanaria](https://cdn.myanimelist.net/images/manga/1/36526.jpg)
+
 -   **type**: manga
 -   **original-name**: 霧 - the route of infection KANARIA
 

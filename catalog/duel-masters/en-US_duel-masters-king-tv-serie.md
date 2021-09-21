@@ -1,5 +1,7 @@
 # Duel Masters King!
 
+![duel-masters-king](https://cdn.myanimelist.net/images/anime/1159/111981.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: DUEL MASTERS キング!
 -   **start-date**: 2021-04-04

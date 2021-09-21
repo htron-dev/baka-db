@@ -1,5 +1,7 @@
 # Jimoto ga Japan
 
+![jimoto-ga-japan](https://cdn.myanimelist.net/images/manga/2/214050.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 61

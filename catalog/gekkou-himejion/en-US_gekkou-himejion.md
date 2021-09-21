@@ -1,5 +1,7 @@
 # Gekkou Himejion
 
+![gekkou-himejion](https://cdn.myanimelist.net/images/manga/1/24882.jpg)
+
 -   **type**: manga
 -   **original-name**: 月光ヒメジオン
 

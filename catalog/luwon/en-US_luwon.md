@@ -1,5 +1,7 @@
 # Luwon
 
+![luwon](https://cdn.myanimelist.net/images/manga/1/190201.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Moto Kouzou Kaiseki Kenkyuusho no Isekai Boukentan
 
+![moto-kouzou-kaiseki-kenkyuusho-no-isekai-boukentan](https://cdn.myanimelist.net/images/manga/1/236623.jpg)
+
 -   **type**: manga
 -   **original-name**: 元構造解析研究者の異世界冒険譚
 -   **start-date**: 2018-07-17

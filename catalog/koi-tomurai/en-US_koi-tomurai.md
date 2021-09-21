@@ -1,5 +1,7 @@
 # Koi Tomurai
 
+![koi-tomurai](https://cdn.myanimelist.net/images/manga/2/4822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

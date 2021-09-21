@@ -1,5 +1,7 @@
 # Kamo no Mizukaki
 
+![kamo-no-mizukaki](https://cdn.myanimelist.net/images/manga/2/248099.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

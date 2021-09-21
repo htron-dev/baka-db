@@ -1,5 +1,7 @@
 # Mankan Pocha Muki!!n
 
+![mankan-pocha-muki-n](https://cdn.myanimelist.net/images/manga/2/234283.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

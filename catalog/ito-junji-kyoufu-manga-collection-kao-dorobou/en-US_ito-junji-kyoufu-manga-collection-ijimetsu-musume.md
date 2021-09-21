@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Ijimetsu Musume
 
+![ito-junji-kyoufu-manga-collection-ijimetsu-musume](https://cdn.myanimelist.net/images/manga/1/79131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

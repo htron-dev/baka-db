@@ -1,5 +1,7 @@
 # Free Jansou Saikyou Densetsu One
 
+![free-jansou-saikyou-densetsu-one](https://cdn.myanimelist.net/images/manga/1/228053.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 80

@@ -1,5 +1,7 @@
 # Hagun Seisenki
 
+![hagun-seisenki](https://cdn.myanimelist.net/images/manga/3/65359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

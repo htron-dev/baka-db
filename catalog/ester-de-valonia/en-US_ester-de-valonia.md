@@ -1,5 +1,7 @@
 # Ester De Valonia
 
+![ester-de-valonia](https://cdn.myanimelist.net/images/manga/2/241666.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

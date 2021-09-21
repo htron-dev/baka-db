@@ -1,5 +1,7 @@
 # Kanojou ni totte Takaramono
 
+![kanojou-ni-totte-takaramono](https://cdn.myanimelist.net/images/manga/3/5776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 彼女にとって宝物

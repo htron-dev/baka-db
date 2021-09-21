@@ -1,5 +1,7 @@
 # Kyou Ouji no Aigan Hanayome: Kyoudai no Barayashiki
 
+![kyou-ouji-no-aigan-hanayome-kyoudai-no-barayashiki](https://cdn.myanimelist.net/images/manga/2/193307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

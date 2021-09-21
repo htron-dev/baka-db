@@ -1,5 +1,7 @@
 # Melody no Jikenbo
 
+![melody-no-jikenbo](https://cdn.myanimelist.net/images/manga/2/228019.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

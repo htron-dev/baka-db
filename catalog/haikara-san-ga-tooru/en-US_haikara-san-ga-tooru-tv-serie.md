@@ -1,5 +1,7 @@
 # Haikara-san ga Tooru
 
+![haikara-san-ga-tooru](https://cdn.myanimelist.net/images/anime/2/22741.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: はいからさんが通る

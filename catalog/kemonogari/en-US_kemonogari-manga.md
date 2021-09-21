@@ -1,5 +1,7 @@
 # Kemonogari
 
+![kemonogari](https://cdn.myanimelist.net/images/manga/1/109085.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: ケモノガリ

@@ -1,5 +1,7 @@
 # Majokko Club Yoningumi: A Kuukan kara no Alien X
 
+![majokko-club-yoningumi-a-kuukan-kara-no-alien-x](https://cdn.myanimelist.net/images/anime/1252/104688.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔女っ子クラブ 4 人組 A 空間からのエイリアン X

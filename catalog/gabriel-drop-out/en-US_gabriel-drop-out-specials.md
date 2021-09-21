@@ -1,5 +1,7 @@
 # Gabriel DropOut Specials
 
+![gabriel-drop-out-specials](https://cdn.myanimelist.net/images/anime/8/89690.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ガヴリールドロップアウト OVA

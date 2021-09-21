@@ -1,5 +1,7 @@
 # Fusuma no Oku
 
+![fusuma-no-oku](https://cdn.myanimelist.net/images/anime/1509/108578.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 襖の奥

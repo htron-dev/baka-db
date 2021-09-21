@@ -1,5 +1,7 @@
 # Hinomaruzumou
 
+![hinomaruzumou](https://cdn.myanimelist.net/images/anime/1974/95289.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 火ノ丸相撲

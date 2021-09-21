@@ -1,5 +1,7 @@
 # Kumo no Mukou, Yakusoku no Basho
 
+![kumo-no-mukou-yakusoku-no-basho](https://cdn.myanimelist.net/images/anime/1/433.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雲のむこう、約束の場所

@@ -1,5 +1,7 @@
 # Kanojo ga Kawaisugite Ubaenai
 
+![kanojo-ga-kawaisugite-ubaenai](https://cdn.myanimelist.net/images/manga/2/226589.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼女が可愛すぎて奪えない
 -   **start-date**: 2019-08-05

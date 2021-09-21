@@ -1,5 +1,7 @@
 # LiLy
 
+![li-ly](https://cdn.myanimelist.net/images/manga/1/190139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

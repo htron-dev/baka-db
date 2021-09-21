@@ -1,5 +1,7 @@
 # Genshi-san
 
+![genshi-san](https://cdn.myanimelist.net/images/manga/3/170483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

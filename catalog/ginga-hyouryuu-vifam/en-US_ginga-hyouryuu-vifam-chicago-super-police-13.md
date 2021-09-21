@@ -1,5 +1,7 @@
 # Ginga Hyouryuu Vifam: Chicago Super Police 13
 
+![ginga-hyouryuu-vifam-chicago-super-police-13](https://cdn.myanimelist.net/images/anime/9/38829.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河漂流バイファム シカゴ・スーパーポリス 13

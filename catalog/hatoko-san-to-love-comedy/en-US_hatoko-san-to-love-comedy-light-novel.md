@@ -1,5 +1,7 @@
 # Hatoko-san to Love Comedy
 
+![hatoko-san-to-love-comedy](https://cdn.myanimelist.net/images/manga/3/87329.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 鳩子さんとラブコメ
 -   **start-date**: 2012-02-18

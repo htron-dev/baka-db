@@ -1,5 +1,7 @@
 # Kiraware Mono no Rasu
 
+![kiraware-mono-no-rasu](https://cdn.myanimelist.net/images/anime/8/82093.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 嫌われ者のラス

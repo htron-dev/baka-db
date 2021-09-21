@@ -1,5 +1,7 @@
 # Jigoku Shoujo
 
+![jigoku-shoujo](https://cdn.myanimelist.net/images/manga/1/190949.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 40

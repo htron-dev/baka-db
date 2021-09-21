@@ -1,5 +1,7 @@
 # Love-Berrish!
 
+![love-berrish](https://cdn.myanimelist.net/images/manga/2/119135.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

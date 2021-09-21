@@ -1,5 +1,7 @@
 # Kaibutsu-kun: Kaibutsu Land e no Shoutai
 
+![kaibutsu-kun-kaibutsu-land-e-no-shoutai](https://cdn.myanimelist.net/images/anime/12/59885.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪物くん 怪物ランドへの招待

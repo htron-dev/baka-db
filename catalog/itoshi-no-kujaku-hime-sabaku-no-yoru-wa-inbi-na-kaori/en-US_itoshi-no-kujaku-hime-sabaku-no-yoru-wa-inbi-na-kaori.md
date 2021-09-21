@@ -1,5 +1,7 @@
 # Itoshi no Kujaku-hime: Sabaku no Yoru wa Inbi na Kaori
 
+![itoshi-no-kujaku-hime-sabaku-no-yoru-wa-inbi-na-kaori](https://cdn.myanimelist.net/images/manga/1/184646.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

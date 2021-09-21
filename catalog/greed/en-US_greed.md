@@ -1,5 +1,7 @@
 # Greed
 
+![greed](https://cdn.myanimelist.net/images/anime/13/47315.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グリード

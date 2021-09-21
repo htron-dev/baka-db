@@ -1,5 +1,7 @@
 # Elfen Lied
 
+![elfen-lied](https://cdn.myanimelist.net/images/manga/2/313.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 113

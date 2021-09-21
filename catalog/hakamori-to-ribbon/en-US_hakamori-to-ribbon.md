@@ -1,5 +1,7 @@
 # Hakamori to Ribbon
 
+![hakamori-to-ribbon](https://cdn.myanimelist.net/images/manga/3/206675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

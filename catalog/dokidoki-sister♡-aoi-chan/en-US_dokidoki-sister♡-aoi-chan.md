@@ -1,5 +1,7 @@
 # Dokidoki Sister♡Aoi-chan
 
+![dokidoki-sister♡-aoi-chan](https://cdn.myanimelist.net/images/manga/3/166831.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

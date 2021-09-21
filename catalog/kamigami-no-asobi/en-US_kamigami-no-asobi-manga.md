@@ -1,5 +1,7 @@
 # Kamigami no Asobi
 
+![kamigami-no-asobi](https://cdn.myanimelist.net/images/manga/3/129173.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

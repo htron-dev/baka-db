@@ -1,5 +1,7 @@
 # Kakuchou Shoujo-kei Trinary
 
+![kakuchou-shoujo-kei-trinary](https://cdn.myanimelist.net/images/anime/7/85753.jpg)
+
 -   **type**: ona
 -   **episodes**: 34
 -   **original-name**: 拡張少女系トライナリー

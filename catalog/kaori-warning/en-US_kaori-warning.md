@@ -1,5 +1,7 @@
 # Kaori Warning!
 
+![kaori-warning](https://cdn.myanimelist.net/images/manga/2/200730.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Ichiban Chikaku de Koi wo Suru
 
+![ichiban-chikaku-de-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/145379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Fuuto Tantei
 
+![fuuto-tantei](https://cdn.myanimelist.net/images/manga/1/208532.jpg)
+
 -   **type**: manga
 -   **original-name**: 風都探偵
 -   **start-date**: 2017-08-07

@@ -1,5 +1,7 @@
 # Hello Kitty no Yume Dorobou
 
+![hello-kitty-no-yume-dorobou](https://cdn.myanimelist.net/images/anime/7/58679.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの夢どろぼう

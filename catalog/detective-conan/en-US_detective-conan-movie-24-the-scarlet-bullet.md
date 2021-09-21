@@ -1,5 +1,7 @@
 # Detective Conan Movie 24: The Scarlet Bullet
 
+![detective-conan-movie-24-the-scarlet-bullet](https://cdn.myanimelist.net/images/anime/1306/112616.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 緋色の弾丸

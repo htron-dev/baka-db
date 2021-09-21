@@ -1,5 +1,7 @@
 # Kanojo no Umitate Namatamago
 
+![kanojo-no-umitate-namatamago](https://cdn.myanimelist.net/images/manga/1/204553.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 彼女の産みたて生卵

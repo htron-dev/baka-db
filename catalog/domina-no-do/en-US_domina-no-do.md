@@ -1,5 +1,7 @@
 # Domina no Do!
 
+![domina-no-do](https://cdn.myanimelist.net/images/manga/1/65839.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # New Initial D Movie: Legend 2 - Tousou
 
+![new-initial-d-movie-legend-2-tousou](https://cdn.myanimelist.net/images/anime/6/72246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新劇場版　頭文字［イニシャル］D Legend2 -闘走-

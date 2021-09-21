@@ -1,5 +1,7 @@
 # Liar Town
 
+![liar-town](https://cdn.myanimelist.net/images/manga/3/12214.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 라이어 타운

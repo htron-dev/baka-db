@@ -1,5 +1,7 @@
 # Homa-kou Tozan-bu Diary
 
+![homa-kou-tozan-bu-diary](https://cdn.myanimelist.net/images/manga/1/191634.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

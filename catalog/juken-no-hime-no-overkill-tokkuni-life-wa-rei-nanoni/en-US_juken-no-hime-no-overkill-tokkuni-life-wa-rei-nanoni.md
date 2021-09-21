@@ -1,5 +1,7 @@
 # Juken no Hime no Overkill: Tokkuni Life wa Rei nanoni
 
+![juken-no-hime-no-overkill-tokkuni-life-wa-rei-nanoni](https://cdn.myanimelist.net/images/manga/2/246158.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 呪剣の姫のオーバーキル ~とっくにライフは零なのに~
 -   **start-date**: 2020-09-18

@@ -1,5 +1,7 @@
 # Kirin Monoshiri Yakata
 
+![kirin-monoshiri-yakata](https://cdn.myanimelist.net/images/anime/10/60327.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1565
 -   **original-name**: キリンものしり館

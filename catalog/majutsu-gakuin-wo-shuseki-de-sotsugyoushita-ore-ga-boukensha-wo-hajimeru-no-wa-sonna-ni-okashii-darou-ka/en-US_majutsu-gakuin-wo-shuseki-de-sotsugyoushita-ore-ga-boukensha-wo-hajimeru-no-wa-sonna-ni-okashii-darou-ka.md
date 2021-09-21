@@ -1,5 +1,7 @@
 # Majutsu Gakuin wo Shuseki de Sotsugyoushita Ore ga Boukensha wo Hajimeru no wa Sonna ni Okashii Darou ka
 
+![majutsu-gakuin-wo-shuseki-de-sotsugyoushita-ore-ga-boukensha-wo-hajimeru-no-wa-sonna-ni-okashii-darou-ka](https://cdn.myanimelist.net/images/manga/1/227870.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔術学院を首席で卒業した俺が冒険者を始めるのはそんなにおかしいだろうか
 -   **start-date**: 2018-11-24

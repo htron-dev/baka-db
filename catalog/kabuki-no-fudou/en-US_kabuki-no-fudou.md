@@ -1,5 +1,7 @@
 # Kabuki no Fudou
 
+![kabuki-no-fudou](https://cdn.myanimelist.net/images/manga/2/230914.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: カブキの不動

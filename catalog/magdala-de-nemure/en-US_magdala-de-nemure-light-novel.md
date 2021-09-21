@@ -1,5 +1,7 @@
 # Magdala de Nemure
 
+![magdala-de-nemure](https://cdn.myanimelist.net/images/manga/2/186287.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マグダラで眠れ
 -   **start-date**: 2012-07-10

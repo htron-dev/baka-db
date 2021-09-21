@@ -1,5 +1,7 @@
 # Gomen ne, Mii-chan
 
+![gomen-ne-mii-chan](https://cdn.myanimelist.net/images/anime/5/65979.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ごめんね, ミーちゃん

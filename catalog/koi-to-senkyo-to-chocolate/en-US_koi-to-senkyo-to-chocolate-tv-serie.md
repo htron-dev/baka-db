@@ -1,5 +1,7 @@
 # Koi to Senkyo to Chocolate
 
+![koi-to-senkyo-to-chocolate](https://cdn.myanimelist.net/images/anime/4/42015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 恋と選挙とチョコレート

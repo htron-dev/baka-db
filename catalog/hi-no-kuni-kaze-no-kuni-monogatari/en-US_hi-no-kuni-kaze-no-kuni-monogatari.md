@@ -1,5 +1,7 @@
 # Hi no Kuni, Kaze no Kuni Monogatari
 
+![hi-no-kuni-kaze-no-kuni-monogatari](https://cdn.myanimelist.net/images/manga/2/122057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 137

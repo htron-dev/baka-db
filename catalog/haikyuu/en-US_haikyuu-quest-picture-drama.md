@@ -1,5 +1,7 @@
 # Haikyuu!! Quest Picture Drama
 
+![haikyuu-quest-picture-drama](https://cdn.myanimelist.net/images/anime/1061/98110.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ハイキュークエスト

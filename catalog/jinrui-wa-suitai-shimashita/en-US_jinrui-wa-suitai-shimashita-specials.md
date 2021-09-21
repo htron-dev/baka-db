@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita Specials
 
+![jinrui-wa-suitai-shimashita-specials](https://cdn.myanimelist.net/images/anime/12/63069.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 人類は衰退しました

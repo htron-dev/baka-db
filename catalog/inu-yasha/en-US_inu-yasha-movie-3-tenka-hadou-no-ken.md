@@ -1,5 +1,7 @@
 # InuYasha Movie 3: Tenka Hadou no Ken
 
+![inu-yasha-movie-3-tenka-hadou-no-ken](https://cdn.myanimelist.net/images/anime/1658/95332.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 犬夜叉 天下覇道の剣

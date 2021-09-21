@@ -1,5 +1,7 @@
 # Minekura Kazuya Tanpenshuu - Hachi no Su
 
+![minekura-kazuya-tanpenshuu-hachi-no-su](https://cdn.myanimelist.net/images/manga/2/42320.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

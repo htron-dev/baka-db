@@ -1,5 +1,7 @@
 # Hanamaru Youchien Special Preview
 
+![hanamaru-youchien-special-preview](https://cdn.myanimelist.net/images/anime/13/45024.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はなまる幼稚園

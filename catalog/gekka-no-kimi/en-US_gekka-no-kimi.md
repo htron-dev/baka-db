@@ -1,5 +1,7 @@
 # Gekka no Kimi
 
+![gekka-no-kimi](https://cdn.myanimelist.net/images/manga/2/1548.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

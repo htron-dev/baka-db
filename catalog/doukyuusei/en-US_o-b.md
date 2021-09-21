@@ -1,5 +1,7 @@
 # O.B.
 
+![o-b](https://cdn.myanimelist.net/images/manga/3/114943.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

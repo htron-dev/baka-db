@@ -1,5 +1,7 @@
 # Herscherik R: Tensei Ouji no Eiyuutan
 
+![herscherik-r-tensei-ouji-no-eiyuutan](https://cdn.myanimelist.net/images/manga/3/236472.jpg)
+
 -   **type**: manga
 -   **original-name**: ハーシェリク R 転生王子の英雄譚
 -   **start-date**: 2020-06-12

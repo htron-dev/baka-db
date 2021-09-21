@@ -1,5 +1,7 @@
 # Kaban Koubou Nikki
 
+![kaban-koubou-nikki](https://cdn.myanimelist.net/images/manga/3/219799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

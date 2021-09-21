@@ -1,5 +1,7 @@
 # Grimm Douwa: Iwamoto Reiko Sakuhinshuu
 
+![grimm-douwa-iwamoto-reiko-sakuhinshuu](https://cdn.myanimelist.net/images/manga/1/137473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

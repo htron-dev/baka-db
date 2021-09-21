@@ -1,5 +1,7 @@
 # Densetsu no Yuusha no Densetsu
 
+![densetsu-no-yuusha-no-densetsu](https://cdn.myanimelist.net/images/manga/4/155011.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Koi wa Genjitsu Shugi de Yumemigachi
 
+![koi-wa-genjitsu-shugi-de-yumemigachi](https://cdn.myanimelist.net/images/manga/2/215754.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

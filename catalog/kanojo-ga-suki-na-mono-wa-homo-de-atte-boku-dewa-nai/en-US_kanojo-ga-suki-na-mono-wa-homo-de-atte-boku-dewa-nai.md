@@ -1,5 +1,7 @@
 # Kanojo ga Suki na Mono wa Homo de Atte Boku dewa Nai
 
+![kanojo-ga-suki-na-mono-wa-homo-de-atte-boku-dewa-nai](https://cdn.myanimelist.net/images/manga/2/226173.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

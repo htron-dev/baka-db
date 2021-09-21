@@ -1,5 +1,7 @@
 # D.C.S.S: Da Capo Second Season Omake
 
+![d-c-s-s-da-capo-second-season-omake](https://cdn.myanimelist.net/images/anime/9/8620.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: D.C. ～ダ・カーポ～ セコンドシースン Omake

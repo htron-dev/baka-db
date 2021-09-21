@@ -1,5 +1,7 @@
 # Fate/Extra CCC: Fox Tail
 
+![fate-extra-ccc-fox-tail](https://cdn.myanimelist.net/images/manga/2/120387.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/EXTRA CCC FoxTail
 -   **start-date**: 2013-10-26

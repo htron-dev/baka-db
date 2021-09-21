@@ -1,5 +1,7 @@
 # Kiss and Ride
 
+![kiss-and-ride](https://cdn.myanimelist.net/images/manga/2/158243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

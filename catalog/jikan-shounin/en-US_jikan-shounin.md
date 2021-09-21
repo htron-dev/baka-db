@@ -1,5 +1,7 @@
 # Jikan Shounin
 
+![jikan-shounin](https://cdn.myanimelist.net/images/manga/1/171709.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

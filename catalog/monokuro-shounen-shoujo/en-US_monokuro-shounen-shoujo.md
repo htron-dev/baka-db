@@ -1,5 +1,7 @@
 # Monokuro Shounen Shoujo
 
+![monokuro-shounen-shoujo](https://cdn.myanimelist.net/images/manga/3/87753.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 71

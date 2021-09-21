@@ -1,5 +1,7 @@
 # Kasasagi Azusa to Shichinin no Teki
 
+![kasasagi-azusa-to-shichinin-no-teki](https://cdn.myanimelist.net/images/manga/2/236723.jpg)
+
 -   **type**: manga
 -   **original-name**: 笠佐木梓と七人の敵
 -   **start-date**: 2019-11-22

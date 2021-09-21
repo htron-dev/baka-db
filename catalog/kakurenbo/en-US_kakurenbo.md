@@ -1,5 +1,7 @@
 # Kakurenbo
 
+![kakurenbo](https://cdn.myanimelist.net/images/anime/10/18917.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カクレンボ

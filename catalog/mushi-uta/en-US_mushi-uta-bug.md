@@ -1,5 +1,7 @@
 # Mushi-Uta: Bug
 
+![mushi-uta-bug](https://cdn.myanimelist.net/images/manga/3/117207.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 32

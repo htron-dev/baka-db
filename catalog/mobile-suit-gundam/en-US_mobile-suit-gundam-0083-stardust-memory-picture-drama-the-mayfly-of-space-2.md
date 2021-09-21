@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2
 
+![mobile-suit-gundam-0083-stardust-memory-picture-drama-the-mayfly-of-space-2](https://cdn.myanimelist.net/images/anime/2/78908.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 0083 「STARDUST MEMORY」 ピクチャードラマ 「宇宙の蜉蝣 2」

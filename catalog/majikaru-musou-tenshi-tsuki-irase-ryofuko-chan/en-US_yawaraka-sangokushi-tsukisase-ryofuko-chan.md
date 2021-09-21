@@ -1,5 +1,7 @@
 # Yawaraka Sangokushi Tsukisase!! Ryofuko-chan
 
+![yawaraka-sangokushi-tsukisase-ryofuko-chan](https://cdn.myanimelist.net/images/anime/2/25313.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: やわらか三国志 突き刺せ!! 呂布子ちゃん

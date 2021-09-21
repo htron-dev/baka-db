@@ -1,5 +1,7 @@
 # Kamisama no Iutoori 0
 
+![kamisama-no-iutoori-0](https://cdn.myanimelist.net/images/manga/2/190479.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 神さまの言うとおり零

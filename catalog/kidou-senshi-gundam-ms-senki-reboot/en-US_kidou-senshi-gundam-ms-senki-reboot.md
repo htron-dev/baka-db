@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: MS Senki Reboot
 
+![kidou-senshi-gundam-ms-senki-reboot](https://cdn.myanimelist.net/images/manga/4/243732.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

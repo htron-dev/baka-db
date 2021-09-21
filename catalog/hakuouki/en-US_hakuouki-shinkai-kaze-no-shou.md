@@ -1,5 +1,7 @@
 # Hakuouki Shinkai: Kaze no Shou
 
+![hakuouki-shinkai-kaze-no-shou](https://cdn.myanimelist.net/images/anime/2/77471.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 薄桜鬼 真改 風ノ章 - 限定版

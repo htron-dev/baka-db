@@ -1,5 +1,7 @@
 # Koushaku-sama no Midara na Tehodoki: Koi to wa Donna Mono kashira
 
+![koushaku-sama-no-midara-na-tehodoki-koi-to-wa-donna-mono-kashira](https://cdn.myanimelist.net/images/manga/3/172372.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 公爵様の淫らな手ほどき 恋とはどんなものかしら

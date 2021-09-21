@@ -1,5 +1,7 @@
 # Midnight Panther
 
+![midnight-panther](https://cdn.myanimelist.net/images/manga/2/165156.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

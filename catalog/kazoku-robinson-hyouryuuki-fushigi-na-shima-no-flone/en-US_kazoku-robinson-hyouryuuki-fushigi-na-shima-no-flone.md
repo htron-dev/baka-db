@@ -1,5 +1,7 @@
 # Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone
 
+![kazoku-robinson-hyouryuuki-fushigi-na-shima-no-flone](https://cdn.myanimelist.net/images/anime/4/56483.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 家族ロビンソン漂流記ふしぎな島のフローネ

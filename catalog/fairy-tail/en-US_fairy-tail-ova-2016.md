@@ -1,5 +1,7 @@
 # Fairy Tail OVA (2016)
 
+![fairy-tail-ova-2016](https://cdn.myanimelist.net/images/anime/5/80112.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: フェアリーテイル OVA 第 2 期

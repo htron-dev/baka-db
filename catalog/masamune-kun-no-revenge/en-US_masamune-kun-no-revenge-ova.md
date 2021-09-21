@@ -1,5 +1,7 @@
 # Masamune-kun no Revenge OVA
 
+![masamune-kun-no-revenge-ova](https://cdn.myanimelist.net/images/anime/1062/92517.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 政宗くんのリベンジ OVA

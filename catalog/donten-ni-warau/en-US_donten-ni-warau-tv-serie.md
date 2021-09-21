@@ -1,5 +1,7 @@
 # Donten ni Warau
 
+![donten-ni-warau](https://cdn.myanimelist.net/images/anime/1661/114954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 曇天に笑う

@@ -1,5 +1,7 @@
 # Mizcov: Nipponjin no Susume
 
+![mizcov-nipponjin-no-susume](https://cdn.myanimelist.net/images/manga/2/227944.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

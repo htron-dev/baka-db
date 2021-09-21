@@ -1,5 +1,7 @@
 # Danzai no Regalia
 
+![danzai-no-regalia](https://cdn.myanimelist.net/images/manga/3/160029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 断罪のレガリア

@@ -1,5 +1,7 @@
 # Majutsushi Orphen Hagure Tabi
 
+![majutsushi-orphen-hagure-tabi](https://cdn.myanimelist.net/images/manga/2/169677.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 20
 -   **chapters**: 200

@@ -1,5 +1,7 @@
 # mf: Mezzo Forte
 
+![mf-mezzo-forte](https://cdn.myanimelist.net/images/manga/2/130277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

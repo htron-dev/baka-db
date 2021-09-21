@@ -1,5 +1,7 @@
 # Kumo no Ito (1979)
 
+![kumo-no-ito-1979](https://cdn.myanimelist.net/images/anime/10/75146.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蜘蛛の糸

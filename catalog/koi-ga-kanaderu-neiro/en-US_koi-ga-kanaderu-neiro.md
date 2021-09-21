@@ -1,5 +1,7 @@
 # Koi ga Kanaderu Neiro
 
+![koi-ga-kanaderu-neiro](https://cdn.myanimelist.net/images/manga/2/31286.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋が奏でる音色

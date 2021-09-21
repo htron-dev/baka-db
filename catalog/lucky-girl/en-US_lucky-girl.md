@@ -1,5 +1,7 @@
 # Lucky Girl
 
+![lucky-girl](https://cdn.myanimelist.net/images/manga/1/196972.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ラッキーガール

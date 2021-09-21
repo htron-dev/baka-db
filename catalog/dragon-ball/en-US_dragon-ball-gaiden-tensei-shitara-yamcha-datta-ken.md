@@ -1,5 +1,7 @@
 # Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken
 
+![dragon-ball-gaiden-tensei-shitara-yamcha-datta-ken](https://cdn.myanimelist.net/images/manga/2/202580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

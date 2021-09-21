@@ -1,5 +1,7 @@
 # Hazure Aka Madoushi wa Kenja Time ni Musou suru
 
+![hazure-aka-madoushi-wa-kenja-time-ni-musou-suru](https://cdn.myanimelist.net/images/manga/2/241851.jpg)
+
 -   **type**: manga
 -   **original-name**: ハズレ赤魔道士は賢者タイムに無双する
 -   **start-date**: 2020-09-28

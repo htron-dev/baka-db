@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 6
 
+![harukanaru-toki-no-naka-de-6](https://cdn.myanimelist.net/images/manga/1/193235.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Tong
 
+![tong](https://cdn.myanimelist.net/images/manga/1/222323.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 통

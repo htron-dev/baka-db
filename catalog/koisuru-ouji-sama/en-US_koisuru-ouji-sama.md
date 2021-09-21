@@ -1,5 +1,7 @@
 # Koisuru Ouji-sama
 
+![koisuru-ouji-sama](https://cdn.myanimelist.net/images/manga/1/85105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kamen Rider Den-O: Imagin Anime 3
 
+![kamen-rider-den-o-imagin-anime-3](https://cdn.myanimelist.net/images/anime/10/28137.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 仮面ライダー電王: イマジンあにめ 3

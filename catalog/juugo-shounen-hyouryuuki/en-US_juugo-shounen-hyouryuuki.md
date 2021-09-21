@@ -1,5 +1,7 @@
 # Juugo Shounen Hyouryuuki
 
+![juugo-shounen-hyouryuuki](https://cdn.myanimelist.net/images/anime/8/9763.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 十五少年漂流記

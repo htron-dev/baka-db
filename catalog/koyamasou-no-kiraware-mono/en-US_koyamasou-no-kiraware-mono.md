@@ -1,5 +1,7 @@
 # Koyamasou no Kiraware Mono
 
+![koyamasou-no-kiraware-mono](https://cdn.myanimelist.net/images/manga/2/28230.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 

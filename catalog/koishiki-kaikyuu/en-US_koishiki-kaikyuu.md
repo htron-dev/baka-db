@@ -1,5 +1,7 @@
 # Koishiki Kaikyuu
 
+![koishiki-kaikyuu](https://cdn.myanimelist.net/images/manga/3/20406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

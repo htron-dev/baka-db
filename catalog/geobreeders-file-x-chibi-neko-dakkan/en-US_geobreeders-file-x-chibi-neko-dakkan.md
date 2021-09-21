@@ -1,5 +1,7 @@
 # Geobreeders: File-X Chibi Neko Dakkan
 
+![geobreeders-file-x-chibi-neko-dakkan](https://cdn.myanimelist.net/images/anime/3/28188.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ジオブリーダーズ　 File-X 　ちびねこ奪還

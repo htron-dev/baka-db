@@ -1,5 +1,7 @@
 # Koibumi Biyori
 
+![koibumi-biyori](https://cdn.myanimelist.net/images/manga/1/187563.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

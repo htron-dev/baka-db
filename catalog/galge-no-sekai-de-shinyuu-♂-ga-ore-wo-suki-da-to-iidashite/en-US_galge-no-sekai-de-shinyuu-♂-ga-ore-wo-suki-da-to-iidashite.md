@@ -1,5 +1,7 @@
 # Galge no Sekai de Shinyuu ♂ ga Ore wo Suki da to Iidashite!?
 
+![galge-no-sekai-de-shinyuu-♂-ga-ore-wo-suki-da-to-iidashite](https://cdn.myanimelist.net/images/manga/2/245265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

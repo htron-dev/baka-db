@@ -1,5 +1,7 @@
 # Joou Heika no Hokyuusen
 
+![joou-heika-no-hokyuusen](https://cdn.myanimelist.net/images/manga/3/186855.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

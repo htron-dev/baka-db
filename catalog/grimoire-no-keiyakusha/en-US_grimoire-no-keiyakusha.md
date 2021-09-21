@@ -1,5 +1,7 @@
 # Grimoire no Keiyakusha
 
+![grimoire-no-keiyakusha](https://cdn.myanimelist.net/images/manga/2/164534.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: グリモワールの契約者

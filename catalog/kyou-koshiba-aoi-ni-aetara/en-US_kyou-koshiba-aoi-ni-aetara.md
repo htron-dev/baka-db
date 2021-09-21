@@ -1,5 +1,7 @@
 # Kyou, Koshiba Aoi ni Aetara.
 
+![kyou-koshiba-aoi-ni-aetara](https://cdn.myanimelist.net/images/manga/3/221003.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日、小柴葵に会えたら。
 -   **start-date**: 2018-11-27

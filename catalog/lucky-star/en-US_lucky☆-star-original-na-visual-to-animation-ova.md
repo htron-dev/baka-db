@@ -1,5 +1,7 @@
 # Lucky☆Star: Original na Visual to Animation
 
+![lucky☆-star-original-na-visual-to-animation](https://cdn.myanimelist.net/images/anime/2/22582.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らき ☆ すた OVA（オリジナルなビジュアルとアニメーション）

@@ -1,5 +1,7 @@
 # Kimi ni shika Kikoenai
 
+![kimi-ni-shika-kikoenai](https://cdn.myanimelist.net/images/manga/2/36019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

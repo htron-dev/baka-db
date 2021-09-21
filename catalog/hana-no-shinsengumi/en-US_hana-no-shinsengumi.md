@@ -1,5 +1,7 @@
 # Hana no Shinsengumi
 
+![hana-no-shinsengumi](https://cdn.myanimelist.net/images/manga/2/16106.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 華の神剣組

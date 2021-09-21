@@ -1,5 +1,7 @@
 # Kare no Hatsukoi wa, Doku ka Aruiwa.
 
+![kare-no-hatsukoi-wa-doku-ka-aruiwa](https://cdn.myanimelist.net/images/manga/3/233925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

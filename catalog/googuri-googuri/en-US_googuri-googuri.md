@@ -1,5 +1,7 @@
 # Googuri Googuri
 
+![googuri-googuri](https://cdn.myanimelist.net/images/anime/1582/103353.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぐーぐりぃ ぐーぐりぃ

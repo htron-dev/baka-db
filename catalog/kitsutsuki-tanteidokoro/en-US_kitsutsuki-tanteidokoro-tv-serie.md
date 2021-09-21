@@ -1,5 +1,7 @@
 # Kitsutsuki Tanteidokoro
 
+![kitsutsuki-tanteidokoro](https://cdn.myanimelist.net/images/anime/1139/105873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 啄木鳥探偵處

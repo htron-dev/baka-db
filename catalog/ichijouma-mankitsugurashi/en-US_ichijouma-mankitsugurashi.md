@@ -1,5 +1,7 @@
 # Ichijouma Mankitsugurashi!
 
+![ichijouma-mankitsugurashi](https://cdn.myanimelist.net/images/manga/3/226540.jpg)
+
 -   **type**: manga
 -   **original-name**: 一畳間まんきつ暮らし！
 -   **start-date**: 2018-05-09

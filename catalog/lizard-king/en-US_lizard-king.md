@@ -1,5 +1,7 @@
 # Lizard King
 
+![lizard-king](https://cdn.myanimelist.net/images/manga/3/113631.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

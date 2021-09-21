@@ -1,5 +1,7 @@
 # Kamiusagi Rope Movie Episode 0
 
+![kamiusagi-rope-movie-episode-0](https://cdn.myanimelist.net/images/anime/12/38367.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 映画「紙兎ロペ」 Episode 0

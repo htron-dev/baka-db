@@ -1,5 +1,7 @@
 # Kagakushitsu e Douzo
 
+![kagakushitsu-e-douzo](https://cdn.myanimelist.net/images/manga/3/25586.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

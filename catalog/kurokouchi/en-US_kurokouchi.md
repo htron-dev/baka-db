@@ -1,5 +1,7 @@
 # Kurokouchi
 
+![kurokouchi](https://cdn.myanimelist.net/images/manga/1/210946.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 224

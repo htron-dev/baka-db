@@ -1,5 +1,7 @@
 # Houkago Edge
 
+![houkago-edge](https://cdn.myanimelist.net/images/manga/3/171809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

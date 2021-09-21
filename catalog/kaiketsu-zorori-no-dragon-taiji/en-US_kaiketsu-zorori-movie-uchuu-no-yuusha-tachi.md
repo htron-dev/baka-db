@@ -1,5 +1,7 @@
 # Kaiketsu Zorori Movie: Uchuu no Yuusha-tachi
 
+![kaiketsu-zorori-movie-uchuu-no-yuusha-tachi](https://cdn.myanimelist.net/images/anime/10/72572.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画かいけつゾロリ　うちゅうの勇者たち

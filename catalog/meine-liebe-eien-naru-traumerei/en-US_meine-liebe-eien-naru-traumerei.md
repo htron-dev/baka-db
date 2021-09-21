@@ -1,5 +1,7 @@
 # Meine Liebe: Eien Naru Traumerei
 
+![meine-liebe-eien-naru-traumerei](https://cdn.myanimelist.net/images/manga/3/159023.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # The iDOLM@STER 2 Nemuri Hime
 
+![the-i-dolm-ster-2-nemuri-hime](https://cdn.myanimelist.net/images/manga/5/71461.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Money Virus
 
+![money-virus](https://cdn.myanimelist.net/images/manga/2/18778.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 

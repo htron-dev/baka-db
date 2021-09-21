@@ -1,5 +1,7 @@
 # Koutei wa Yotogi wo Koinegau: Nejireta Hatsukoi to Hisareta Shuuai
 
+![koutei-wa-yotogi-wo-koinegau-nejireta-hatsukoi-to-hisareta-shuuai](https://cdn.myanimelist.net/images/manga/3/193857.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

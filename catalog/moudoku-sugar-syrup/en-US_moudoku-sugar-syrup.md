@@ -1,5 +1,7 @@
 # Moudoku Sugar Syrup
 
+![moudoku-sugar-syrup](https://cdn.myanimelist.net/images/manga/2/236700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

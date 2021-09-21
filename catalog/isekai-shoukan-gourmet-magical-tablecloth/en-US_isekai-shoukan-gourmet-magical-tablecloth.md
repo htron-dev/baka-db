@@ -1,5 +1,7 @@
 # Isekai Shoukan Gourmet: Magical Tablecloth
 
+![isekai-shoukan-gourmet-magical-tablecloth](https://cdn.myanimelist.net/images/manga/1/236482.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

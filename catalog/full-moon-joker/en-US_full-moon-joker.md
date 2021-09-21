@@ -1,5 +1,7 @@
 # Full Moon Joker
 
+![full-moon-joker](https://cdn.myanimelist.net/images/manga/3/29703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

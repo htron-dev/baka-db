@@ -1,5 +1,7 @@
 # Eden's Bowy
 
+![edens-bowy](https://cdn.myanimelist.net/images/manga/1/55197.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 127

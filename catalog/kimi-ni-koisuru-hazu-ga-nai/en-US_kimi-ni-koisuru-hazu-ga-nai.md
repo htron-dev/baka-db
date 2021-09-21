@@ -1,5 +1,7 @@
 # Kimi ni Koisuru Hazu ga Nai
 
+![kimi-ni-koisuru-hazu-ga-nai](https://cdn.myanimelist.net/images/manga/1/238425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

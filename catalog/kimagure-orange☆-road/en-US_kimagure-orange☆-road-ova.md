@@ -1,5 +1,7 @@
 # Kimagure Orange☆Road OVA
 
+![kimagure-orange☆-road-ova](https://cdn.myanimelist.net/images/anime/1022/107653.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: きまぐれオレンジ ☆ ロード

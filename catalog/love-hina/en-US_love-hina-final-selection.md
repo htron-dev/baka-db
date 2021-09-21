@@ -1,5 +1,7 @@
 # Love Hina Final Selection
 
+![love-hina-final-selection](https://cdn.myanimelist.net/images/anime/10/82633.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ラブひな FINAL SELECTION ～アニメ総集編&LOVE HINA LIVE in 東京 BAY N.K.～

@@ -1,5 +1,7 @@
 # Kimi ga Shinu made Koi wo Shitai
 
+![kimi-ga-shinu-made-koi-wo-shitai](https://cdn.myanimelist.net/images/manga/1/215753.jpg)
+
 -   **type**: manga
 -   **original-name**: きみが死ぬまで恋をしたい
 -   **start-date**: 2018-08-18

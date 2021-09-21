@@ -1,5 +1,7 @@
 # Kingdom Hearts: 358/2 Days
 
+![kingdom-hearts-358-2-days](https://cdn.myanimelist.net/images/manga/2/115491.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

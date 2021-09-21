@@ -1,5 +1,7 @@
 # Kimu no Juujika
 
+![kimu-no-juujika](https://cdn.myanimelist.net/images/anime/11/53177.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キムの十字架

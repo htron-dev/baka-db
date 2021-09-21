@@ -1,5 +1,7 @@
 # InaDan Movie x Mameshiba Collab CM
 
+![ina-dan-movie-x-mameshiba-collab-cm](https://cdn.myanimelist.net/images/anime/8/80676.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 劇場版イナダン × 豆しば コラボ CM

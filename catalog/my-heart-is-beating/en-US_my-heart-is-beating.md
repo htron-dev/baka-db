@@ -1,5 +1,7 @@
 # My Heart Is Beating
 
+![my-heart-is-beating](https://cdn.myanimelist.net/images/manga/2/64415.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 30

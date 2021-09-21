@@ -1,5 +1,7 @@
 # Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
 
+![jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku](https://cdn.myanimelist.net/images/manga/3/219509.jpg)
+
 -   **type**: manga
 -   **original-name**: 自称悪役令嬢な婚約者の観察記録。
 -   **start-date**: 2018-05-07

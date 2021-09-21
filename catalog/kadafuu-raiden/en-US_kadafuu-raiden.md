@@ -1,5 +1,7 @@
 # Kadafuu Raiden
 
+![kadafuu-raiden](https://cdn.myanimelist.net/images/manga/2/90357.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 華佗風来伝

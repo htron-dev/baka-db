@@ -1,5 +1,7 @@
 # Ibara no Ori - Hakoniwa no Naka no Jiyuu
 
+![ibara-no-ori-hakoniwa-no-naka-no-jiyuu](https://cdn.myanimelist.net/images/manga/1/16949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

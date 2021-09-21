@@ -1,5 +1,7 @@
 # Mamotte Shugogetten!
 
+![mamotte-shugogetten](https://cdn.myanimelist.net/images/anime/11/14827.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: まもって守護月天！

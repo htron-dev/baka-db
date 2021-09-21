@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Hontou wa Zankoku na Hansel to Gretel
 
+![manga-grimm-douwa-hontou-wa-zankoku-na-hansel-to-gretel](https://cdn.myanimelist.net/images/manga/1/40401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

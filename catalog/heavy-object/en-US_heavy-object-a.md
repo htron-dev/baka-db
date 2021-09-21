@@ -1,5 +1,7 @@
 # Heavy Object A
 
+![heavy-object-a](https://cdn.myanimelist.net/images/manga/2/185070.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

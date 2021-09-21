@@ -1,5 +1,7 @@
 # Kabe Otoko
 
+![kabe-otoko](https://cdn.myanimelist.net/images/manga/3/38940.jpg)
+
 -   **type**: manga
 -   **original-name**: 壁男
 

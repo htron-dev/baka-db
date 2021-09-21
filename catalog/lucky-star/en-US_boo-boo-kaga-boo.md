@@ -1,5 +1,7 @@
 # BooBoo KagaBoo
 
+![boo-boo-kaga-boo](https://cdn.myanimelist.net/images/manga/1/79069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぶーぶーかがぶー

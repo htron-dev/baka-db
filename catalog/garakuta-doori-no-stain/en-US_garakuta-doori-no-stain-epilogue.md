@@ -1,5 +1,7 @@
 # Garakuta-doori no Stain: Epilogue
 
+![garakuta-doori-no-stain-epilogue](https://cdn.myanimelist.net/images/anime/5/67219.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ガラクタ通りのステイン

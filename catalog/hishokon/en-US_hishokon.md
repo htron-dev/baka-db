@@ -1,5 +1,7 @@
 # Hishokon
 
+![hishokon](https://cdn.myanimelist.net/images/manga/1/240401.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

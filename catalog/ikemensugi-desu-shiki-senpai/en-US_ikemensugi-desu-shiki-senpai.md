@@ -1,5 +1,7 @@
 # Ikemensugi desu Shiki-senpai!
 
+![ikemensugi-desu-shiki-senpai](https://cdn.myanimelist.net/images/manga/2/219486.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

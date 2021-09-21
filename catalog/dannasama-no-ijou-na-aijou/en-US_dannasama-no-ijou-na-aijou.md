@@ -1,5 +1,7 @@
 # Dannasama no Ijou na Aijou
 
+![dannasama-no-ijou-na-aijou](https://cdn.myanimelist.net/images/manga/2/185542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

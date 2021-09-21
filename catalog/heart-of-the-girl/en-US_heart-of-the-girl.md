@@ -1,5 +1,7 @@
 # Heart of the Girl
 
+![heart-of-the-girl](https://cdn.myanimelist.net/images/manga/1/200542.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

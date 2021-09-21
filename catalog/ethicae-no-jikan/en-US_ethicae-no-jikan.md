@@ -1,5 +1,7 @@
 # Ethicae no Jikan
 
+![ethicae-no-jikan](https://cdn.myanimelist.net/images/manga/1/233804.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

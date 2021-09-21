@@ -1,5 +1,7 @@
 # Golden Lilac
 
+![golden-lilac](https://cdn.myanimelist.net/images/manga/2/12762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

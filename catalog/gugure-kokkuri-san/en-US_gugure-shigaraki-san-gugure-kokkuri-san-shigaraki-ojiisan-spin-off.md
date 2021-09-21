@@ -1,5 +1,7 @@
 # Gugure! Shigaraki-san: Gugure! Kokkuri-san Shigaraki Ojiisan Spin-off
 
+![gugure-shigaraki-san-gugure-kokkuri-san-shigaraki-ojiisan-spin-off](https://cdn.myanimelist.net/images/manga/3/157534.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

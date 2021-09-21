@@ -1,5 +1,7 @@
 # Grand Chase
 
+![grand-chase](https://cdn.myanimelist.net/images/manga/2/34830.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 30
 -   **chapters**: 150

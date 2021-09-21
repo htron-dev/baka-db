@@ -1,5 +1,7 @@
 # Kujaku no Kyoushitsu
 
+![kujaku-no-kyoushitsu](https://cdn.myanimelist.net/images/manga/1/77545.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

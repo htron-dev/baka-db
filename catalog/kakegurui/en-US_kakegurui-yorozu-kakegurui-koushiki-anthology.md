@@ -1,5 +1,7 @@
 # Kakegurui Yorozu: Kakegurui Koushiki Anthology
 
+![kakegurui-yorozu-kakegurui-koushiki-anthology](https://cdn.myanimelist.net/images/manga/1/223796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

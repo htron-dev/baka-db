@@ -1,5 +1,7 @@
 # Hana Chirasu Kaze: Itsukimiya wa Tsuyumitsu ni Nurete
 
+![hana-chirasu-kaze-itsukimiya-wa-tsuyumitsu-ni-nurete](https://cdn.myanimelist.net/images/manga/2/183992.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

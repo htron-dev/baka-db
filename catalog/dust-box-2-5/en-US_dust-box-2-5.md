@@ -1,5 +1,7 @@
 # Dust Box 2.5
 
+![dust-box-2-5](https://cdn.myanimelist.net/images/manga/2/187409.jpg)
+
 -   **type**: manga
 -   **original-name**: ダストボックス 2.5
 -   **start-date**: 2015-12-29

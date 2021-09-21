@@ -1,5 +1,7 @@
 # Mini Rope
 
+![mini-rope](https://cdn.myanimelist.net/images/anime/5/85044.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: mini ロペ

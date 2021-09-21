@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00
 
+![mobile-suit-gundam-00](https://cdn.myanimelist.net/images/manga/3/32420.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 機動戦士ガンダム 00

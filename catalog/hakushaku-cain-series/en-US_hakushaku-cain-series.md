@@ -1,5 +1,7 @@
 # Hakushaku Cain Series
 
+![hakushaku-cain-series](https://cdn.myanimelist.net/images/manga/3/160529.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Izakaya no Ichiya
 
+![izakaya-no-ichiya](https://cdn.myanimelist.net/images/anime/6/15832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 居酒屋の一夜

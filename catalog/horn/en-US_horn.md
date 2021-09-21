@@ -1,5 +1,7 @@
 # Horn
 
+![horn](https://cdn.myanimelist.net/images/manga/1/58115.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 7

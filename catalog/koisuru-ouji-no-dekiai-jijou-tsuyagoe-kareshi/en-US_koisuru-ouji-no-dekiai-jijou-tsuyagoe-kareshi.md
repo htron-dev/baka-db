@@ -1,5 +1,7 @@
 # Koisuru Ouji no Dekiai Jijou: Tsuyagoe Kareshi
 
+![koisuru-ouji-no-dekiai-jijou-tsuyagoe-kareshi](https://cdn.myanimelist.net/images/manga/1/184614.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋する王子の溺愛事情 艶声カレシ

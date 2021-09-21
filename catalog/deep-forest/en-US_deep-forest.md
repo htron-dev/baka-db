@@ -1,5 +1,7 @@
 # Deep Forest
 
+![deep-forest](https://cdn.myanimelist.net/images/manga/1/151213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

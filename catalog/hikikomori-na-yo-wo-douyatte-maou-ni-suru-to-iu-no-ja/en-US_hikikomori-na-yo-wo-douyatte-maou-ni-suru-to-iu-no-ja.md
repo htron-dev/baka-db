@@ -1,5 +1,7 @@
 # Hikikomori na Yo wo Douyatte Maou ni Suru to Iu no ja?
 
+![hikikomori-na-yo-wo-douyatte-maou-ni-suru-to-iu-no-ja](https://cdn.myanimelist.net/images/manga/2/241658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひきこもりな余をどうやって魔王にするというのじゃ？

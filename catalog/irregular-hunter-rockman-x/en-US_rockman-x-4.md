@@ -1,5 +1,7 @@
 # Rockman X4
 
+![rockman-x-4](https://cdn.myanimelist.net/images/manga/3/35096.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni - Dai 1-wa: Onikakushi-hen
 
+![higurashi-no-naku-koro-ni-dai-1-wa-onikakushi-hen](https://cdn.myanimelist.net/images/manga/2/133357.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ひぐらしのなく頃に 第一話~鬼隠し編~

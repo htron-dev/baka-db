@@ -1,5 +1,7 @@
 # Ii Ko Ii Ko shite Ageru
 
+![ii-ko-ii-ko-shite-ageru](https://cdn.myanimelist.net/images/manga/1/221672.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

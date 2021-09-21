@@ -1,5 +1,7 @@
 # Motori
 
+![motori](https://cdn.myanimelist.net/images/manga/1/35282.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: モートリ 妄想の砦

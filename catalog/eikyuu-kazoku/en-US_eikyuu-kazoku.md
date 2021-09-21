@@ -1,5 +1,7 @@
 # Eikyuu Kazoku
 
+![eikyuu-kazoku](https://cdn.myanimelist.net/images/anime/7/10210.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 永久家族

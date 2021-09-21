@@ -1,5 +1,7 @@
 # Fairy Tail Movie 1: Houou no Miko
 
+![fairy-tail-movie-1-houou-no-miko](https://cdn.myanimelist.net/images/anime/13/47083.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 FAIRY TAIL 鳳凰の巫女

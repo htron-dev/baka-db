@@ -1,5 +1,7 @@
 # Kanon & Air: Sky
 
+![kanon-air-sky](https://cdn.myanimelist.net/images/manga/1/4819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

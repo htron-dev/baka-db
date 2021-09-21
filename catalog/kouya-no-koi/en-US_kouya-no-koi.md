@@ -1,5 +1,7 @@
 # Kouya no Koi
 
+![kouya-no-koi](https://cdn.myanimelist.net/images/manga/2/72341.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

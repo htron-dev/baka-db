@@ -1,5 +1,7 @@
 # Graineliers
 
+![graineliers](https://cdn.myanimelist.net/images/manga/2/164093.jpg)
+
 -   **type**: manga
 -   **original-name**: グランネリエ
 -   **start-date**: 2013-09-18

@@ -1,5 +1,7 @@
 # Juushinki Pandora
 
+![juushinki-pandora](https://cdn.myanimelist.net/images/anime/1897/95230.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 重神機パンドーラ

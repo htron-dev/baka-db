@@ -1,5 +1,7 @@
 # Doraemon Movie 18: Nobita no Nejimaki City Boukenki
 
+![doraemon-movie-18-nobita-no-nejimaki-city-boukenki](https://cdn.myanimelist.net/images/anime/12/72423.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太のねじ巻き都市[シティー]冒険記

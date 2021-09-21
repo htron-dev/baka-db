@@ -1,5 +1,7 @@
 # Manga no Mori kara Joshikousei
 
+![manga-no-mori-kara-joshikousei](https://cdn.myanimelist.net/images/manga/3/227129.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

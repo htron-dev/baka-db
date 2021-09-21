@@ -1,5 +1,7 @@
 # Ginkaku Hakase to Marmot
 
+![ginkaku-hakase-to-marmot](https://cdn.myanimelist.net/images/manga/1/27368.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

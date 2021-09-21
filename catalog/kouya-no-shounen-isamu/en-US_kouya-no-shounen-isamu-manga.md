@@ -1,5 +1,7 @@
 # Kouya no Shounen Isamu
 
+![kouya-no-shounen-isamu](https://cdn.myanimelist.net/images/manga/1/184297.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 37

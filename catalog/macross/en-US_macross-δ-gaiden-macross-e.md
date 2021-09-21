@@ -1,5 +1,7 @@
 # Macross Δ Gaiden: Macross E
 
+![macross-δ-gaiden-macross-e](https://cdn.myanimelist.net/images/manga/2/183797.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

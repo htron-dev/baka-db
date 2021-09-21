@@ -1,5 +1,7 @@
 # Kawaii Kouhai ni Iwasaretai
 
+![kawaii-kouhai-ni-iwasaretai](https://cdn.myanimelist.net/images/manga/3/228075.jpg)
+
 -   **type**: manga
 -   **original-name**: かわいい後輩に言わされたい
 -   **start-date**: 2019-07-04

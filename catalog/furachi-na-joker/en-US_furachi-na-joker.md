@@ -1,5 +1,7 @@
 # Furachi na Joker
 
+![furachi-na-joker](https://cdn.myanimelist.net/images/manga/1/136719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 不埒なジョーカー

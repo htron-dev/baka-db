@@ -1,5 +1,7 @@
 # Larva 2nd Season
 
+![larva-2nd-season](https://cdn.myanimelist.net/images/anime/1438/109562.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: 라바

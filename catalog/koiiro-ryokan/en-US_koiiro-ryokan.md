@@ -1,5 +1,7 @@
 # Koiiro Ryokan
 
+![koiiro-ryokan](https://cdn.myanimelist.net/images/manga/1/90577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

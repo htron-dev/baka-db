@@ -1,5 +1,7 @@
 # Item Cheat na Dorei Harem Kenkokuki
 
+![item-cheat-na-dorei-harem-kenkokuki](https://cdn.myanimelist.net/images/manga/1/173062.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アイテムチートな奴隷ハーレム建国記
 -   **start-date**: 2016-03-01

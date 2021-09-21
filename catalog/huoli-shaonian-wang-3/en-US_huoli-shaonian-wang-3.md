@@ -1,5 +1,7 @@
 # Huoli Shaonian Wang 3
 
+![huoli-shaonian-wang-3](https://cdn.myanimelist.net/images/anime/1986/105835.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 火力少年王 3

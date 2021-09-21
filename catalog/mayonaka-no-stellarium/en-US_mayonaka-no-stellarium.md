@@ -1,5 +1,7 @@
 # Mayonaka no Stellarium
 
+![mayonaka-no-stellarium](https://cdn.myanimelist.net/images/manga/1/202326.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Inaka no Home Center Otoko no Jiyuu na Isekai Seikatsu
 
+![inaka-no-home-center-otoko-no-jiyuu-na-isekai-seikatsu](https://cdn.myanimelist.net/images/manga/3/226544.jpg)
+
 -   **type**: manga
 -   **original-name**: 田舎のホームセンター男の自由な異世界生活
 -   **start-date**: 2018-09-26

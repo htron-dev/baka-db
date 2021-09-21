@@ -1,5 +1,7 @@
 # Gankutsuou Comic Anthology
 
+![gankutsuou-comic-anthology](https://cdn.myanimelist.net/images/manga/1/232627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 巌窟王コミックアンソロジー

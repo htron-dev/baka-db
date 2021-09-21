@@ -1,5 +1,7 @@
 # Futari Ecchi
 
+![futari-ecchi](https://cdn.myanimelist.net/images/manga/3/50533.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりエッチ
 -   **start-date**: 1997-01-19

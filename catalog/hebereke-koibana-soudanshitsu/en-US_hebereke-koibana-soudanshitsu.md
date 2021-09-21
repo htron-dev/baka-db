@@ -1,5 +1,7 @@
 # Hebereke Koibana Soudanshitsu
 
+![hebereke-koibana-soudanshitsu](https://cdn.myanimelist.net/images/manga/3/151547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: へべれけ恋バナ相談室

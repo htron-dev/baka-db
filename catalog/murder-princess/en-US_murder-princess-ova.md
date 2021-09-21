@@ -1,5 +1,7 @@
 # Murder Princess
 
+![murder-princess](https://cdn.myanimelist.net/images/anime/5/19558.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: マーダープリンセス

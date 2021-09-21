@@ -1,5 +1,7 @@
 # Hanjuku Orange
 
+![hanjuku-orange](https://cdn.myanimelist.net/images/manga/2/62007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

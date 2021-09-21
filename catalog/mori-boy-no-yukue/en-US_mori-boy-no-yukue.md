@@ -1,5 +1,7 @@
 # Mori Boy no Yukue
 
+![mori-boy-no-yukue](https://cdn.myanimelist.net/images/manga/2/187823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

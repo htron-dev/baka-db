@@ -1,5 +1,7 @@
 # Kuro ka Shiro ka
 
+![kuro-ka-shiro-ka](https://cdn.myanimelist.net/images/manga/3/223990.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒か白か
 -   **start-date**: 2017-04-27

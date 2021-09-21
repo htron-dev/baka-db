@@ -1,5 +1,7 @@
 # Bakemonogatari Recap
 
+![bakemonogatari-recap](https://cdn.myanimelist.net/images/anime/11/65863.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 化物語

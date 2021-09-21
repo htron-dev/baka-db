@@ -1,5 +1,7 @@
 # Karakuri Kiden: Hiwou Senki
 
+![karakuri-kiden-hiwou-senki](https://cdn.myanimelist.net/images/anime/1511/92811.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 機巧奇傳　ヒヲウ戦記

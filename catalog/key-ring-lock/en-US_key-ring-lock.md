@@ -1,5 +1,7 @@
 # Key Ring Lock
 
+![key-ring-lock](https://cdn.myanimelist.net/images/manga/3/210942.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

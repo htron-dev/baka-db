@@ -1,5 +1,7 @@
 # Hashikko no Koi
 
+![hashikko-no-koi](https://cdn.myanimelist.net/images/manga/2/63757.jpg)
+
 -   **type**: manga
 -   **original-name**: はしっこの恋
 -   **start-date**: 2010-11-08

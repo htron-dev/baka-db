@@ -1,5 +1,7 @@
 # Makasete PET-kun
 
+![makasete-pet-kun](https://cdn.myanimelist.net/images/manga/2/10998.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 75

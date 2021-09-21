@@ -1,5 +1,7 @@
 # Himena Kamena
 
+![himena-kamena](https://cdn.myanimelist.net/images/manga/1/9963.jpg)
+
 -   **type**: manga
 -   **original-name**: ひめなカメナ
 

@@ -1,5 +1,7 @@
 # Date A Live: Tooka Dead End
 
+![date-a-live-tooka-dead-end](https://cdn.myanimelist.net/images/manga/3/121829.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Happy Rush
 
+![happy-rush](https://cdn.myanimelist.net/images/manga/4/25881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

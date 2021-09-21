@@ -1,5 +1,7 @@
 # Kurenai Ouji
 
+![kurenai-ouji](https://cdn.myanimelist.net/images/manga/1/195744.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 98

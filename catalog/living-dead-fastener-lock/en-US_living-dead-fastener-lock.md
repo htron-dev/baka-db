@@ -1,5 +1,7 @@
 # Living Dead Fastener Lock
 
+![living-dead-fastener-lock](https://cdn.myanimelist.net/images/manga/3/183553.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

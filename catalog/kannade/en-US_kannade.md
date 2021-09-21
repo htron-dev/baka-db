@@ -1,5 +1,7 @@
 # Kannade
 
+![kannade](https://cdn.myanimelist.net/images/manga/2/4441.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

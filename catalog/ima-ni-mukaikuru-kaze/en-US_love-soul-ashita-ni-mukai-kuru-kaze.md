@@ -1,5 +1,7 @@
 # Love Soul: Ashita ni Mukai Kuru Kaze
 
+![love-soul-ashita-ni-mukai-kuru-kaze](https://cdn.myanimelist.net/images/manga/3/6014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

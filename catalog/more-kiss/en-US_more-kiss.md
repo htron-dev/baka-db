@@ -1,5 +1,7 @@
 # More Kiss
 
+![more-kiss](https://cdn.myanimelist.net/images/manga/2/240763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

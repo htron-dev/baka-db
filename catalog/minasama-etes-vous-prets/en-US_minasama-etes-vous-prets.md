@@ -1,5 +1,7 @@
 # Minasama Etes-vous Prêts?
 
+![minasama-etes-vous-prets](https://cdn.myanimelist.net/images/manga/2/200279.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

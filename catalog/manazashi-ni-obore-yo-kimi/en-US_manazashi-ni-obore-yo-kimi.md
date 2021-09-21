@@ -1,5 +1,7 @@
 # Manazashi ni Obore yo Kimi
 
+![manazashi-ni-obore-yo-kimi](https://cdn.myanimelist.net/images/manga/3/86687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まなざしに溺れよ君

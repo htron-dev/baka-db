@@ -1,5 +1,7 @@
 # Final Fantasy XIII-2: Fragments Before
 
+![final-fantasy-xiii-2-fragments-before](https://cdn.myanimelist.net/images/manga/3/138207.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

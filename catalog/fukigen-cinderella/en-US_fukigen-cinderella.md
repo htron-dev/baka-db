@@ -1,5 +1,7 @@
 # Fukigen Cinderella
 
+![fukigen-cinderella](https://cdn.myanimelist.net/images/manga/2/58175.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

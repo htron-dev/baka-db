@@ -1,5 +1,7 @@
 # Eromanga-sensei
 
+![eromanga-sensei](https://cdn.myanimelist.net/images/manga/3/142581.jpg)
+
 -   **type**: manga
 -   **original-name**: エロマンガ先生
 -   **start-date**: 2014-05-27

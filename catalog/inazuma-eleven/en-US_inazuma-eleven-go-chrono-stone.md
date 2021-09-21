@@ -1,5 +1,7 @@
 # Inazuma Eleven Go: Chrono Stone
 
+![inazuma-eleven-go-chrono-stone](https://cdn.myanimelist.net/images/anime/1619/94705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: イナズマイレブン GO クロノ・ストーン

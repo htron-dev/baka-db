@@ -1,5 +1,7 @@
 # Girls Educational Charter
 
+![girls-educational-charter](https://cdn.myanimelist.net/images/manga/2/180644.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 43

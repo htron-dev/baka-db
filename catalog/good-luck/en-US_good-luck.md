@@ -1,5 +1,7 @@
 # Good Luck
 
+![good-luck](https://cdn.myanimelist.net/images/manga/3/152319.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 25

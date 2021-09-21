@@ -1,5 +1,7 @@
 # Ikenie no Hanayome: Haitoku no Wana to Toraware no Otome
 
+![ikenie-no-hanayome-haitoku-no-wana-to-toraware-no-otome](https://cdn.myanimelist.net/images/manga/2/152795.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

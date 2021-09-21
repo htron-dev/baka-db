@@ -1,5 +1,7 @@
 # Douluo Dalu: Jingying Sai
 
+![douluo-dalu-jingying-sai](https://cdn.myanimelist.net/images/anime/1538/93566.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: 斗罗大陆 精英赛

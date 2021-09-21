@@ -1,5 +1,7 @@
 # Kimi ni Todoke
 
+![kimi-ni-todoke](https://cdn.myanimelist.net/images/anime/7/17890.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 君に届け

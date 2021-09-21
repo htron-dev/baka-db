@@ -1,5 +1,7 @@
 # Koisuru Kimon no Protocol
 
+![koisuru-kimon-no-protocol](https://cdn.myanimelist.net/images/manga/1/164320.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

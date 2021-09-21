@@ -1,5 +1,7 @@
 # Idol Fight Suchie-Pai 2
 
+![idol-fight-suchie-pai-2](https://cdn.myanimelist.net/images/anime/4/68999.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アイドルファイト　スーチーパイ２

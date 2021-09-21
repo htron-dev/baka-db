@@ -1,5 +1,7 @@
 # Kikou Kai Galient OVA
 
+![kikou-kai-galient-ova](https://cdn.myanimelist.net/images/anime/9/29726.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機甲界ガリアン

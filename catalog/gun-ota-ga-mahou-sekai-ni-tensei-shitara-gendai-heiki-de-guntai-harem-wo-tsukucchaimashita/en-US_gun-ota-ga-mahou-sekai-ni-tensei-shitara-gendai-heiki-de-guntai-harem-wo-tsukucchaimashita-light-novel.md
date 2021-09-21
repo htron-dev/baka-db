@@ -1,5 +1,7 @@
 # Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?
 
+![gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashita](https://cdn.myanimelist.net/images/manga/3/212359.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 147

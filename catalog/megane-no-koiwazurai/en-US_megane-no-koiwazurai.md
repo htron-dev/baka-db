@@ -1,5 +1,7 @@
 # Megane no Koiwazurai
 
+![megane-no-koiwazurai](https://cdn.myanimelist.net/images/manga/3/111101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

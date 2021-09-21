@@ -1,5 +1,7 @@
 # Heavenly City
 
+![heavenly-city](https://cdn.myanimelist.net/images/manga/1/55537.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Heavenly City

@@ -1,5 +1,7 @@
 # Kurokami: Tora to Tsubasa
 
+![kurokami-tora-to-tsubasa](https://cdn.myanimelist.net/images/anime/5/23018.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒神

@@ -1,5 +1,7 @@
 # Keikoku - Akuma no Fukkatsu
 
+![keikoku-akuma-no-fukkatsu](https://cdn.myanimelist.net/images/manga/3/47831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

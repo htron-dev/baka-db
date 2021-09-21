@@ -1,5 +1,7 @@
 # Hellsing: Psalm of the Darkness
 
+![hellsing-psalm-of-the-darkness](https://cdn.myanimelist.net/images/anime/4/19043.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Hellsing: Psalm of Darkness

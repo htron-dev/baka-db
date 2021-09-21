@@ -1,5 +1,7 @@
 # Mahoutsukai no Yakusoku
 
+![mahoutsukai-no-yakusoku](https://cdn.myanimelist.net/images/manga/2/242788.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いの約束
 -   **start-date**: 2020-04-28

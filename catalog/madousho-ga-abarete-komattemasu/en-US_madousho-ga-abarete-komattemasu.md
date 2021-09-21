@@ -1,5 +1,7 @@
 # Madousho ga Abarete Komattemasu.
 
+![madousho-ga-abarete-komattemasu](https://cdn.myanimelist.net/images/manga/1/125607.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔導書が暴れて困ってます。

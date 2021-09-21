@@ -1,5 +1,7 @@
 # Gareki no Rakuen
 
+![gareki-no-rakuen](https://cdn.myanimelist.net/images/manga/2/22992.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

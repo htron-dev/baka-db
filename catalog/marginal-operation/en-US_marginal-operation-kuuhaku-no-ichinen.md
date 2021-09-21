@@ -1,5 +1,7 @@
 # Marginal Operation: Kuuhaku no Ichinen
 
+![marginal-operation-kuuhaku-no-ichinen](https://cdn.myanimelist.net/images/manga/2/164168.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

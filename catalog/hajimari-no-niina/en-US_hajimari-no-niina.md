@@ -1,5 +1,7 @@
 # Hajimari no Niina
 
+![hajimari-no-niina](https://cdn.myanimelist.net/images/manga/3/142817.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

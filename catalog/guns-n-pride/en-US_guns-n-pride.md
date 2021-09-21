@@ -1,5 +1,7 @@
 # Guns n' Pride
 
+![guns-n-pride](https://cdn.myanimelist.net/images/manga/1/242620.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

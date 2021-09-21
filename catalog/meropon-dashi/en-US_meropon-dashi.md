@@ -1,5 +1,7 @@
 # Meropon Dashi!
 
+![meropon-dashi](https://cdn.myanimelist.net/images/manga/2/125221.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 66

@@ -1,5 +1,7 @@
 # Migawari Reijou no Junan: Nureru Okisaki Kyouiku
 
+![migawari-reijou-no-junan-nureru-okisaki-kyouiku](https://cdn.myanimelist.net/images/manga/3/184771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

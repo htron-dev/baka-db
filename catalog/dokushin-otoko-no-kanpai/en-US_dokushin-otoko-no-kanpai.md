@@ -1,5 +1,7 @@
 # Dokushin Otoko no Kanpai
 
+![dokushin-otoko-no-kanpai](https://cdn.myanimelist.net/images/manga/3/63575.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 今夜だけのパートナー―独身男に乾杯

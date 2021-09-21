@@ -1,5 +1,7 @@
 # Houkago Minkowski
 
+![houkago-minkowski](https://cdn.myanimelist.net/images/manga/2/187067.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

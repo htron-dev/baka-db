@@ -1,5 +1,7 @@
 # Detroit Metal City: Birth of the Metal Devil
 
+![detroit-metal-city-birth-of-the-metal-devil](https://cdn.myanimelist.net/images/anime/7/9898.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デトロイト・メタル・シティ 魔王生誕盤

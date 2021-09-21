@@ -1,5 +1,7 @@
 # Hime Gal♥Paradise
 
+![hime-gal♥-paradise](https://cdn.myanimelist.net/images/manga/1/151941.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 姫ギャル ♥ パラダイス

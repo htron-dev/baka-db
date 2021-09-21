@@ -1,5 +1,7 @@
 # Kyou no Hayakawa San
 
+![kyou-no-hayakawa-san](https://cdn.myanimelist.net/images/manga/1/32472.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日の早川さん
 -   **start-date**: 2007-09-07

@@ -1,5 +1,7 @@
 # Konyakusha ga Akuyaku de Komattemasu
 
+![konyakusha-ga-akuyaku-de-komattemasu](https://cdn.myanimelist.net/images/manga/2/229308.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

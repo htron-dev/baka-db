@@ -1,5 +1,7 @@
 # Inazuma Eleven: Chou Jigen Dream Match
 
+![inazuma-eleven-chou-jigen-dream-match](https://cdn.myanimelist.net/images/anime/3/62875.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: イナズマイレブン 超次元ドリームマッチ

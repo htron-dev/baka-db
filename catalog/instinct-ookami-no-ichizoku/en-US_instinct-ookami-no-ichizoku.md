@@ -1,5 +1,7 @@
 # Instinct: Ookami no Ichizoku
 
+![instinct-ookami-no-ichizoku](https://cdn.myanimelist.net/images/manga/1/71127.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Instinct 狼の一族

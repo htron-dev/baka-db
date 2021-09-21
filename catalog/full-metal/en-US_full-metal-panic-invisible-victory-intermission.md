@@ -1,5 +1,7 @@
 # Full Metal Panic! Invisible Victory Intermission
 
+![full-metal-panic-invisible-victory-intermission](https://cdn.myanimelist.net/images/anime/1841/93377.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: フルメタル・パニック！Invisible Victory インターミッション

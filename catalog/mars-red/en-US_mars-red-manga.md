@@ -1,5 +1,7 @@
 # Mars Red
 
+![mars-red](https://cdn.myanimelist.net/images/manga/2/234814.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

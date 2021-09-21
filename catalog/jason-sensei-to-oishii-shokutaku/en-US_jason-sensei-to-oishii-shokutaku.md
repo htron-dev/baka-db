@@ -1,5 +1,7 @@
 # Jason-sensei to Oishii Shokutaku
 
+![jason-sensei-to-oishii-shokutaku](https://cdn.myanimelist.net/images/manga/1/219490.jpg)
+
 -   **type**: manga
 -   **original-name**: ジェイソン先生とおいしい食卓
 -   **start-date**: 2018-09-18

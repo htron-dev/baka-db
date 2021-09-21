@@ -1,5 +1,7 @@
 # Mirai Robo Daltanias
 
+![mirai-robo-daltanias](https://cdn.myanimelist.net/images/anime/12/52299.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 未来ロボ ダルタニアス

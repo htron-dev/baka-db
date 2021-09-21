@@ -1,5 +1,7 @@
 # Mammoth
 
+![mammoth](https://cdn.myanimelist.net/images/manga/1/151376.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

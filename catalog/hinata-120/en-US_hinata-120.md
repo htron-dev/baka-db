@@ -1,5 +1,7 @@
 # Hinata 120%
 
+![hinata-120](https://cdn.myanimelist.net/images/manga/1/3498.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Kinsei no Reveal
 
+![kinsei-no-reveal](https://cdn.myanimelist.net/images/manga/3/245462.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

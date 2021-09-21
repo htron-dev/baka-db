@@ -1,5 +1,7 @@
 # Miracle! Mimika
 
+![miracle-mimika](https://cdn.myanimelist.net/images/anime/4/10993.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 225
 -   **original-name**: 味楽る!ミミカ

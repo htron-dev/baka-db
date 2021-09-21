@@ -1,5 +1,7 @@
 # Hana no Zubora Meshi
 
+![hana-no-zubora-meshi](https://cdn.myanimelist.net/images/manga/1/168115.jpg)
+
 -   **type**: manga
 -   **original-name**: 花のズボラ飯
 -   **start-date**: 2009-04-25

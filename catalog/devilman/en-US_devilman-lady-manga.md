@@ -1,5 +1,7 @@
 # Devilman Lady
 
+![devilman-lady](https://cdn.myanimelist.net/images/manga/2/25226.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 65

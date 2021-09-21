@@ -1,5 +1,7 @@
 # Hakuouki OVA
 
+![hakuouki-ova](https://cdn.myanimelist.net/images/anime/9/32507.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 薄桜鬼

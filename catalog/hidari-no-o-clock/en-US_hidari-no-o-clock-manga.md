@@ -1,5 +1,7 @@
 # Hidari no O'Clock!!
 
+![hidari-no-o-clock](https://cdn.myanimelist.net/images/manga/3/198775.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

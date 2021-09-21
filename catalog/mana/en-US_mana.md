@@ -1,5 +1,7 @@
 # MANA
 
+![mana](https://cdn.myanimelist.net/images/manga/5/30165.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 22

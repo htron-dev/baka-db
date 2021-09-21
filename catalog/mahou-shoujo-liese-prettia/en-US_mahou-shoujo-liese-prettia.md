@@ -1,5 +1,7 @@
 # Mahou Shoujo Liese Prettia
 
+![mahou-shoujo-liese-prettia](https://cdn.myanimelist.net/images/anime/1092/96236.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 魔法少女リーゼプリティア

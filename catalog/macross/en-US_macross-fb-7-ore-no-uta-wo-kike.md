@@ -1,5 +1,7 @@
 # Macross FB7: Ore no Uta wo Kike!
 
+![macross-fb-7-ore-no-uta-wo-kike](https://cdn.myanimelist.net/images/anime/11/41111.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マクロス FB7 銀河流魂 オレノウタヲキケ!

@@ -1,5 +1,7 @@
 # Midara na Fudesaki: Kasaku na Gaka to Mitsuai no Atelier
 
+![midara-na-fudesaki-kasaku-na-gaka-to-mitsuai-no-atelier](https://cdn.myanimelist.net/images/manga/1/195623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

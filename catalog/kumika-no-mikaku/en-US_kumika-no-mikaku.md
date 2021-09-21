@@ -1,5 +1,7 @@
 # Kumika no Mikaku
 
+![kumika-no-mikaku](https://cdn.myanimelist.net/images/manga/1/182439.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

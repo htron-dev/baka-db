@@ -1,5 +1,7 @@
 # Dragon Quest: Your Story
 
+![dragon-quest-your-story](https://cdn.myanimelist.net/images/anime/1870/101614.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンクエスト　ユア・ストーリー

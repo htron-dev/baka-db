@@ -1,5 +1,7 @@
 # Grand Blue
 
+![grand-blue](https://cdn.myanimelist.net/images/anime/1302/94882.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ぐらんぶる

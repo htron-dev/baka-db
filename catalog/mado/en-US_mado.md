@@ -1,5 +1,7 @@
 # Mado
 
+![mado](https://cdn.myanimelist.net/images/anime/7/69021.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 窓

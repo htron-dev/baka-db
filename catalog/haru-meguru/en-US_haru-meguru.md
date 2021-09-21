@@ -1,5 +1,7 @@
 # Haru Meguru
 
+![haru-meguru](https://cdn.myanimelist.net/images/manga/3/117277.jpg)
+
 -   **type**: manga
 -   **original-name**: 春巡る
 -   **start-date**: 2012-07-26

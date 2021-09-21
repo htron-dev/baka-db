@@ -1,5 +1,7 @@
 # Mezameru to Kenjuu Otome wo Mamoru Bishoujo Kenshi ni Natteita
 
+![mezameru-to-kenjuu-otome-wo-mamoru-bishoujo-kenshi-ni-natteita](https://cdn.myanimelist.net/images/manga/3/168632.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

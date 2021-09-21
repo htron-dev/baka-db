@@ -1,5 +1,7 @@
 # Inazuma Eleven: Outer Code
 
+![inazuma-eleven-outer-code](https://cdn.myanimelist.net/images/anime/6/82195.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: イナズマイレブン アウターコード

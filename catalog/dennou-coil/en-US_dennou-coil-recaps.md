@@ -1,5 +1,7 @@
 # Dennou Coil Recaps
 
+![dennou-coil-recaps](https://cdn.myanimelist.net/images/anime/6/38635.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 電脳コイル総復習

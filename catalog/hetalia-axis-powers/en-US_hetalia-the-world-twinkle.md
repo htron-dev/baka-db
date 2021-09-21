@@ -1,5 +1,7 @@
 # Hetalia: The World Twinkle
 
+![hetalia-the-world-twinkle](https://cdn.myanimelist.net/images/anime/12/71753.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: ヘタリア The World Twinkle

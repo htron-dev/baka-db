@@ -1,5 +1,7 @@
 # Gendai Mahou no Iranai Majutsushi: Geboku to Ikiru Second Life
 
+![gendai-mahou-no-iranai-majutsushi-geboku-to-ikiru-second-life](https://cdn.myanimelist.net/images/manga/1/162089.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 現代魔法のいらない魔術師　下僕と生きる第二の伝説〈セカンドライフ〉
 -   **start-date**: 2015-09-02

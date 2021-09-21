@@ -1,5 +1,7 @@
 # Hei Mao Jing Zhang
 
+![hei-mao-jing-zhang](https://cdn.myanimelist.net/images/anime/6/83206.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 黑貓警長

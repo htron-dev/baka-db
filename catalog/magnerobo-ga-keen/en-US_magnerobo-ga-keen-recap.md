@@ -1,5 +1,7 @@
 # Magnerobo Ga-Keen Recap
 
+![magnerobo-ga-keen-recap](https://cdn.myanimelist.net/images/anime/8/78853.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マグネロボ ガ・キーン

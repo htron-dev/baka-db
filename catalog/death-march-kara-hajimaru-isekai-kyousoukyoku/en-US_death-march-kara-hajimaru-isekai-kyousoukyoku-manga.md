@@ -1,5 +1,7 @@
 # Death March kara Hajimaru Isekai Kyousoukyoku
 
+![death-march-kara-hajimaru-isekai-kyousoukyoku](https://cdn.myanimelist.net/images/manga/1/154541.jpg)
+
 -   **type**: manga
 -   **original-name**: デスマーチからはじまる異世界狂想曲
 -   **start-date**: 2014-11-08

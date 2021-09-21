@@ -1,5 +1,7 @@
 # Girl in Heels
 
+![girl-in-heels](https://cdn.myanimelist.net/images/manga/4/30194.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 하이힐을 신은 소녀

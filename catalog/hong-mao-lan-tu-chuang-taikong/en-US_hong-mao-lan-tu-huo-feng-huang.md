@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Huo Feng Huang
 
+![hong-mao-lan-tu-huo-feng-huang](https://cdn.myanimelist.net/images/anime/1084/98704.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 虹猫蓝兔火凤凰

@@ -1,5 +1,7 @@
 # Zoids Fuzors
 
+![zoids-fuzors](https://cdn.myanimelist.net/images/anime/1/1746.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ゾイド・フューザーズ

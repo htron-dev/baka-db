@@ -1,5 +1,7 @@
 # Mirai no Bokura no Tame no Sonata
 
+![mirai-no-bokura-no-tame-no-sonata](https://cdn.myanimelist.net/images/manga/1/183409.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

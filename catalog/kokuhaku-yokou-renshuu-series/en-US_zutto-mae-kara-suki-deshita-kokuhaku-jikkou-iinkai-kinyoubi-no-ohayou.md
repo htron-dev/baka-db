@@ -1,5 +1,7 @@
 # Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai - Kinyoubi no Ohayou
 
+![zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai-kinyoubi-no-ohayou](https://cdn.myanimelist.net/images/anime/6/88310.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ずっと前から好きでした。～告白実行委員会～ 「金曜日のおはよう」

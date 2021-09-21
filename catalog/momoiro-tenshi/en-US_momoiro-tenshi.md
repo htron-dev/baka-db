@@ -1,5 +1,7 @@
 # Momoiro Tenshi
 
+![momoiro-tenshi](https://cdn.myanimelist.net/images/manga/2/89597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

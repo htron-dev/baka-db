@@ -1,5 +1,7 @@
 # Magariya-san no Air Kareshi
 
+![magariya-san-no-air-kareshi](https://cdn.myanimelist.net/images/manga/3/184885.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

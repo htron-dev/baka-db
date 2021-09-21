@@ -1,5 +1,7 @@
 # Jarinko Chie Bangai-hen: Doranko Kotetsu Funsenki
 
+![jarinko-chie-bangai-hen-doranko-kotetsu-funsenki](https://cdn.myanimelist.net/images/manga/2/180863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

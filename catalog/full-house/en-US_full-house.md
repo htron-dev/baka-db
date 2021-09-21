@@ -1,5 +1,7 @@
 # Full House
 
+![full-house](https://cdn.myanimelist.net/images/manga/4/30130.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 16
 -   **chapters**: 122

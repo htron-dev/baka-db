@@ -1,5 +1,7 @@
 # IOTA: Senjutsu Kikou Hohei - Kanojo wa Kiken na Sentou Heiki
 
+![iota-senjutsu-kikou-hohei-kanojo-wa-kiken-na-sentou-heiki](https://cdn.myanimelist.net/images/manga/2/179303.jpg)
+
 -   **type**: light-novel
 -   **original-name**: IOTA 戦術機巧歩兵 彼女は危険な戦闘兵器
 -   **start-date**: 2016-06-11

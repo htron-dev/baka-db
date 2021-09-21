@@ -1,5 +1,7 @@
 # Glass no Megami
 
+![glass-no-megami](https://cdn.myanimelist.net/images/manga/3/27872.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

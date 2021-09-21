@@ -1,5 +1,7 @@
 # Dorami-chan: Mini-Dora SOS!!!
 
+![dorami-chan-mini-dora-sos](https://cdn.myanimelist.net/images/anime/10/22663.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラミちゃん ミニドラ SOS!!!

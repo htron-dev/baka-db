@@ -1,5 +1,7 @@
 # Ikeike! Momon-chan
 
+![ikeike-momon-chan](https://cdn.myanimelist.net/images/anime/7/48719.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: いけいけ！ももんちゃん

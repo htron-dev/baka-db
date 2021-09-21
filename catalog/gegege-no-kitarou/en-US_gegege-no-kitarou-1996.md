@@ -1,5 +1,7 @@
 # Gegege no Kitarou (1996)
 
+![gegege-no-kitarou-1996](https://cdn.myanimelist.net/images/anime/6/27401.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 114
 -   **original-name**: ゲゲゲの鬼太郎

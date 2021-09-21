@@ -1,5 +1,7 @@
 # Kumichou Musume to Sewagakari
 
+![kumichou-musume-to-sewagakari](https://cdn.myanimelist.net/images/manga/3/224470.jpg)
+
 -   **type**: manga
 -   **original-name**: 組長娘と世話係
 -   **start-date**: 2018-06-05

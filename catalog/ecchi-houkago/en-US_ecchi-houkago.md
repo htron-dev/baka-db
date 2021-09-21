@@ -1,5 +1,7 @@
 # Ecchi Houkago
 
+![ecchi-houkago](https://cdn.myanimelist.net/images/manga/3/190572.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

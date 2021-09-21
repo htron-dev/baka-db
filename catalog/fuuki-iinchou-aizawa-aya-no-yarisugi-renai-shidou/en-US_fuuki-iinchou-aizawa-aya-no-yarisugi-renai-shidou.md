@@ -1,5 +1,7 @@
 # Fuuki Iinchou Aizawa Aya no Yarisugi Renai Shidou
 
+![fuuki-iinchou-aizawa-aya-no-yarisugi-renai-shidou](https://cdn.myanimelist.net/images/manga/3/169747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 風紀委員長・相沢彩のヤリすぎ恋愛指導

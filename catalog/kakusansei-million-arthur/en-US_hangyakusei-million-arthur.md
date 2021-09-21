@@ -1,5 +1,7 @@
 # Hangyakusei Million Arthur
 
+![hangyakusei-million-arthur](https://cdn.myanimelist.net/images/anime/1679/96158.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 叛逆性ミリオンアーサー

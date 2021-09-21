@@ -1,5 +1,7 @@
 # Hakone no Nekoha
 
+![hakone-no-nekoha](https://cdn.myanimelist.net/images/manga/3/189284.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

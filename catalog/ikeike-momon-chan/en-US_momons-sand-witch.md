@@ -1,5 +1,7 @@
 # Momon's Sand Witch
 
+![momons-sand-witch](https://cdn.myanimelist.net/images/anime/13/61787.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: ももん'ず さんどうぃっち

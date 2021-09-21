@@ -1,5 +1,7 @@
 # Kimetsu no Aima!
 
+![kimetsu-no-aima](https://cdn.myanimelist.net/images/manga/1/233332.jpg)
+
 -   **type**: manga
 -   **chapters**: 26
 -   **original-name**: きめつのあいま!

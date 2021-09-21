@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume: Christmas Daisakusen
 
+![himitsukessha-taka-no-tsume-christmas-daisakusen](https://cdn.myanimelist.net/images/anime/10/82759.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 クリスマス大作戦

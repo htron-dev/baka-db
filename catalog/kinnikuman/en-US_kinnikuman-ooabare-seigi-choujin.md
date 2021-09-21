@@ -1,5 +1,7 @@
 # Kinnikuman: Ooabare! Seigi Choujin
 
+![kinnikuman-ooabare-seigi-choujin](https://cdn.myanimelist.net/images/anime/2/6888.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン 大暴れ！正義超人

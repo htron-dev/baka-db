@@ -1,5 +1,7 @@
 # Love Chu! Boku ga Jokyoushi!?
 
+![love-chu-boku-ga-jokyoushi](https://cdn.myanimelist.net/images/manga/1/126341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: らぶちゅー! − ボクが女教師!?−

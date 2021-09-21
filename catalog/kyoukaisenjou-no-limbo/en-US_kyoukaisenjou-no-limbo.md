@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Limbo
 
+![kyoukaisenjou-no-limbo](https://cdn.myanimelist.net/images/manga/2/134669.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

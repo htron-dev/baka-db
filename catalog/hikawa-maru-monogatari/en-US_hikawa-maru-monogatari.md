@@ -1,5 +1,7 @@
 # Hikawa Maru Monogatari
 
+![hikawa-maru-monogatari](https://cdn.myanimelist.net/images/anime/11/75075.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 氷川丸ものがたり

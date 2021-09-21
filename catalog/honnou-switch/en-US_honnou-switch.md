@@ -1,5 +1,7 @@
 # Honnou Switch
 
+![honnou-switch](https://cdn.myanimelist.net/images/manga/3/234734.jpg)
+
 -   **type**: manga
 -   **original-name**: ホンノウスイッチ
 -   **start-date**: 2018-06-01

@@ -1,5 +1,7 @@
 # Hyouka: Motsubeki Mono wa
 
+![hyouka-motsubeki-mono-wa](https://cdn.myanimelist.net/images/anime/6/50363.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 氷菓 持つべきものは

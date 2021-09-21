@@ -1,5 +1,7 @@
 # Itoshi no Kana
 
+![itoshi-no-kana](https://cdn.myanimelist.net/images/manga/3/1087.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

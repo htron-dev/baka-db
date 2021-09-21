@@ -1,5 +1,7 @@
 # Kintarou no Koutsuu Anzen
 
+![kintarou-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/5/84781.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 金太郎の交通安全

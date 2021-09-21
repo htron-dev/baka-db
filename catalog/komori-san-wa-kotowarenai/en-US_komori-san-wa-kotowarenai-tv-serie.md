@@ -1,5 +1,7 @@
 # Komori-san wa Kotowarenai!
 
+![komori-san-wa-kotowarenai](https://cdn.myanimelist.net/images/anime/7/78082.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 小森さんは断れない！

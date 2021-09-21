@@ -1,5 +1,7 @@
 # Maou-sama Game!
 
+![maou-sama-game](https://cdn.myanimelist.net/images/manga/1/162423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

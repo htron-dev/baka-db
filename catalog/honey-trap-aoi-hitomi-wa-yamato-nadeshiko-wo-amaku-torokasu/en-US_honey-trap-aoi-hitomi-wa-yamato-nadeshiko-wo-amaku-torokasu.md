@@ -1,5 +1,7 @@
 # Honey Trap: Aoi Hitomi wa Yamato Nadeshiko wo Amaku Torokasu
 
+![honey-trap-aoi-hitomi-wa-yamato-nadeshiko-wo-amaku-torokasu](https://cdn.myanimelist.net/images/manga/2/194676.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: はにーとらっぷ～碧い瞳は大和撫子を甘く蕩かす～

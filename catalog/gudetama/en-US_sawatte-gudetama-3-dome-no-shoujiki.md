@@ -1,5 +1,7 @@
 # Sawatte! Gudetama: 3-dome no Shoujiki
 
+![sawatte-gudetama-3-dome-no-shoujiki](https://cdn.myanimelist.net/images/anime/1868/96006.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: さわって！ぐでたま 〜3 どめのしょうじき〜

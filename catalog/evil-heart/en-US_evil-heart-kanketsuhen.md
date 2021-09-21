@@ -1,5 +1,7 @@
 # Evil Heart: Kanketsuhen
 
+![evil-heart-kanketsuhen](https://cdn.myanimelist.net/images/manga/3/154931.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

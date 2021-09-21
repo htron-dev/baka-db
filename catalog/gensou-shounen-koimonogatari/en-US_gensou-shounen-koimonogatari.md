@@ -1,5 +1,7 @@
 # Gensou Shounen Koimonogatari
 
+![gensou-shounen-koimonogatari](https://cdn.myanimelist.net/images/manga/3/62357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

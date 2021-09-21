@@ -1,5 +1,7 @@
 # Shuxue Huang Dao Lixian Ji 3
 
+![shuxue-huang-dao-lixian-ji-3](https://cdn.myanimelist.net/images/anime/1478/115446.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 数学荒岛历险记 3

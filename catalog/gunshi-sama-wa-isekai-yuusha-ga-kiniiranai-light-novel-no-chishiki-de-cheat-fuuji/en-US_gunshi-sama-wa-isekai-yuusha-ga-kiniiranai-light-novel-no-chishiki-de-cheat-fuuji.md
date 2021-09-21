@@ -1,5 +1,7 @@
 # Gunshi-sama wa Isekai Yuusha ga Kiniiranai: Light Novel no Chishiki de Cheat Fuuji
 
+![gunshi-sama-wa-isekai-yuusha-ga-kiniiranai-light-novel-no-chishiki-de-cheat-fuuji](https://cdn.myanimelist.net/images/manga/3/229769.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

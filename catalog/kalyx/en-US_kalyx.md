@@ -1,5 +1,7 @@
 # Kalyx
 
+![kalyx](https://cdn.myanimelist.net/images/manga/2/116145.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

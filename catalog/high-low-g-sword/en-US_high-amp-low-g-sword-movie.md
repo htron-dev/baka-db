@@ -1,5 +1,7 @@
 # High &amp; Low: G-Sword (Movie)
 
+![high-amp-low-g-sword-movie](https://cdn.myanimelist.net/images/anime/1965/98332.jpg)
+
 -   **type**: movie
 -   **episodes**: 5
 -   **original-name**: HiGH&LOW g-sword

@@ -1,5 +1,7 @@
 # fortissimo//Ein Wichtiges Recollection
 
+![fortissimo-ein-wichtiges-recollection](https://cdn.myanimelist.net/images/manga/1/97255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

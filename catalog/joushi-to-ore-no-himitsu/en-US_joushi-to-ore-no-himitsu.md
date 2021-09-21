@@ -1,5 +1,7 @@
 # Joushi to Ore no Himitsu
 
+![joushi-to-ore-no-himitsu](https://cdn.myanimelist.net/images/manga/2/161096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

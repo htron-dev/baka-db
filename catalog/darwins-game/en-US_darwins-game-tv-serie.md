@@ -1,5 +1,7 @@
 # Darwin's Game
 
+![darwins-game](https://cdn.myanimelist.net/images/anime/1016/107222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ダーウィンズゲーム

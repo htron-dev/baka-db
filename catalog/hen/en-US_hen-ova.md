@@ -1,5 +1,7 @@
 # Hen
 
+![hen](https://cdn.myanimelist.net/images/anime/11/4818.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 変

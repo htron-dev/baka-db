@@ -1,5 +1,7 @@
 # Kuchibiru-iro no Bara no Hana
 
+![kuchibiru-iro-no-bara-no-hana](https://cdn.myanimelist.net/images/manga/1/222400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

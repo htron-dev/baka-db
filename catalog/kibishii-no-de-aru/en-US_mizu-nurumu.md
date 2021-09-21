@@ -1,5 +1,7 @@
 # Mizu Nurumu
 
+![mizu-nurumu](https://cdn.myanimelist.net/images/manga/2/249350.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

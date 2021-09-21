@@ -1,5 +1,7 @@
 # Kuu Onna
 
+![kuu-onna](https://cdn.myanimelist.net/images/manga/2/202879.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

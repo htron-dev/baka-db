@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken
 
+![dragon-quest-dai-no-daibouken](https://cdn.myanimelist.net/images/manga/2/131111.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 349

@@ -1,5 +1,7 @@
 # Maku
 
+![maku](https://cdn.myanimelist.net/images/anime/7/88832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 幕

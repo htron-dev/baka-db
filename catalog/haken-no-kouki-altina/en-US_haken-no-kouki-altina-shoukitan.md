@@ -1,5 +1,7 @@
 # Haken no Kouki Altina: Shoukitan
 
+![haken-no-kouki-altina-shoukitan](https://cdn.myanimelist.net/images/manga/3/181324.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Doudemo Ii kara Kaerasetekure
 
+![doudemo-ii-kara-kaerasetekure](https://cdn.myanimelist.net/images/manga/1/235045.jpg)
+
 -   **type**: manga
 -   **original-name**: どうでもいいから帰らせてくれ
 -   **start-date**: 2019-08-13

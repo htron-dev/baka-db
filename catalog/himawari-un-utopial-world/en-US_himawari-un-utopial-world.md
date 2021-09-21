@@ -1,5 +1,7 @@
 # Himawari :unUtopial World
 
+![himawari-un-utopial-world](https://cdn.myanimelist.net/images/manga/3/221658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Miyakawa-ke no Kuufuku
 
+![miyakawa-ke-no-kuufuku](https://cdn.myanimelist.net/images/manga/3/161434.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Kemeko Deluxe!
 
+![kemeko-deluxe](https://cdn.myanimelist.net/images/anime/3/75538.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ケメコデラックス！

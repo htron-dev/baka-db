@@ -1,5 +1,7 @@
 # Kagaku na Yatsura
 
+![kagaku-na-yatsura](https://cdn.myanimelist.net/images/anime/7/47133.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カガクなヤツら

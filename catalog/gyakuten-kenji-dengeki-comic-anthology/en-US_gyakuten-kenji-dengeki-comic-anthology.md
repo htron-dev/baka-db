@@ -1,5 +1,7 @@
 # Gyakuten Kenji - Dengeki Comic Anthology
 
+![gyakuten-kenji-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/91957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 逆転検事―電撃コミックアンソロジー

@@ -1,5 +1,7 @@
 # Komaneko no Christmas: Maigo ni Natta Present
 
+![komaneko-no-christmas-maigo-ni-natta-present](https://cdn.myanimelist.net/images/anime/1793/112308.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こまねこ のクリスマス　―迷子になったプレゼント―

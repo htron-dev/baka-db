@@ -1,5 +1,7 @@
 # Houkago no Seikyouiku: Sensei, Watashi no Asoko ni Sawatte Kudasai
 
+![houkago-no-seikyouiku-sensei-watashi-no-asoko-ni-sawatte-kudasai](https://cdn.myanimelist.net/images/manga/3/190692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 課後の性教育～先生、私のアソコに触ってください～

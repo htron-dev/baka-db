@@ -1,5 +1,7 @@
 # Full Ahead! Coco Bangai-hen: Zero
 
+![full-ahead-coco-bangai-hen-zero](https://cdn.myanimelist.net/images/manga/1/137663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 1 - R:B - Blaze
 
+![k-seven-stories-movie-1-r-b-blaze](https://cdn.myanimelist.net/images/anime/1446/90544.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories R:B ~BLAZE~

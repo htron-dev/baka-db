@@ -1,5 +1,7 @@
 # Inma no Kuni no Alice
 
+![inma-no-kuni-no-alice](https://cdn.myanimelist.net/images/manga/2/193920.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

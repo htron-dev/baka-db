@@ -1,5 +1,7 @@
 # Dream Hackers: Community-shou-tachi no Real Cheatopia
 
+![dream-hackers-community-shou-tachi-no-real-cheatopia](https://cdn.myanimelist.net/images/manga/3/189792.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ドリームハッカーズ コミュ障たちの現実チートピア

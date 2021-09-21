@@ -1,5 +1,7 @@
 # Kyoufu Jigoku Shoujo
 
+![kyoufu-jigoku-shoujo](https://cdn.myanimelist.net/images/manga/4/173045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

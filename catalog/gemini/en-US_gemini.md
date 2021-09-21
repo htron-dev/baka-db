@@ -1,5 +1,7 @@
 # Gemini
 
+![gemini](https://cdn.myanimelist.net/images/manga/3/235660.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: GEMINI

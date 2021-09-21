@@ -1,5 +1,7 @@
 # Mama wa Poyopoyo Saurus ga Osuki
 
+![mama-wa-poyopoyo-saurus-ga-osuki](https://cdn.myanimelist.net/images/anime/3/29958.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ママはぽよぽよザウルスがお好き

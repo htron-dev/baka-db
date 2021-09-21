@@ -1,5 +1,7 @@
 # Ehon Yose
 
+![ehon-yose](https://cdn.myanimelist.net/images/anime/3/67979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: えほん寄席

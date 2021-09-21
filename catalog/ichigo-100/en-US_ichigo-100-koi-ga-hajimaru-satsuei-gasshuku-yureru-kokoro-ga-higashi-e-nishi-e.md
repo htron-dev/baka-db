@@ -1,5 +1,7 @@
 # Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e
 
+![ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e](https://cdn.myanimelist.net/images/anime/8/5228.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: いちご 100% 恋が始まる!? 撮影合宿 〜ゆれるココロが東へ西へ〜

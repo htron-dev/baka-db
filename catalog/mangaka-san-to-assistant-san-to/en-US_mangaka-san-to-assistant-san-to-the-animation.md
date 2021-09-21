@@ -1,5 +1,7 @@
 # Mangaka-san to Assistant-san to The Animation
 
+![mangaka-san-to-assistant-san-to-the-animation](https://cdn.myanimelist.net/images/anime/11/62219.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: マンガ家さんとアシスタントさんと THE ANIMATION

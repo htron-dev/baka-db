@@ -1,5 +1,7 @@
 # Morning Moon
 
+![morning-moon](https://cdn.myanimelist.net/images/manga/1/29886.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

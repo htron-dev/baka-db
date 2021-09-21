@@ -1,5 +1,7 @@
 # Hajimete no Koi no Sodatekata
 
+![hajimete-no-koi-no-sodatekata](https://cdn.myanimelist.net/images/manga/1/39770.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: はじめての恋の育て方

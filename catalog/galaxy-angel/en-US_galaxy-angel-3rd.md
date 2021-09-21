@@ -1,5 +1,7 @@
 # Galaxy Angel 3rd
 
+![galaxy-angel-3rd](https://cdn.myanimelist.net/images/manga/1/165052.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ギャラクシーエンジェル 3rd

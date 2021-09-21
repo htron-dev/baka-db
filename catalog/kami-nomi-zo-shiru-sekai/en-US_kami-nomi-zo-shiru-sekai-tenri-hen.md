@@ -1,5 +1,7 @@
 # Kami nomi zo Shiru Sekai: Tenri-hen
 
+![kami-nomi-zo-shiru-sekai-tenri-hen](https://cdn.myanimelist.net/images/anime/11/43359.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 神のみぞ知るセカイ 天理篇

@@ -1,5 +1,7 @@
 # Koushaku-sama no Dokushogakari: Tesaguri no Aibu
 
+![koushaku-sama-no-dokushogakari-tesaguri-no-aibu](https://cdn.myanimelist.net/images/manga/2/191792.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

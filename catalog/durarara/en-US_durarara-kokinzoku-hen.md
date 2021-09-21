@@ -1,5 +1,7 @@
 # Durarara!! Kokinzoku-hen
 
+![durarara-kokinzoku-hen](https://cdn.myanimelist.net/images/manga/3/149952.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Kimi to Nadekko!
 
+![kimi-to-nadekko](https://cdn.myanimelist.net/images/manga/2/114245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

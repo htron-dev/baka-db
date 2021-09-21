@@ -1,5 +1,7 @@
 # Mainichi Shine Shine Itte Kuru Gimai ga, Ore ga Neteiru Suki ni Saiminjutsu de Horesaseyou toshite Kuru n desu kedo......!
 
+![mainichi-shine-shine-itte-kuru-gimai-ga-ore-ga-neteiru-suki-ni-saiminjutsu-de-horesaseyou-toshite-kuru-n-desu-kedo](https://cdn.myanimelist.net/images/manga/3/249037.jpg)
+
 -   **type**: manga
 -   **original-name**: 毎日死ね死ね言ってくる義妹が、俺が寝ている隙に催眠術で惚れさせようとしてくるんですけど……！
 -   **start-date**: 2020-12-27

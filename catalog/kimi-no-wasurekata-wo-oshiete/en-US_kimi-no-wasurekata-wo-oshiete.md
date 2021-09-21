@@ -1,5 +1,7 @@
 # Kimi no Wasurekata wo Oshiete
 
+![kimi-no-wasurekata-wo-oshiete](https://cdn.myanimelist.net/images/manga/1/236089.jpg)
+
 -   **type**: manga
 -   **original-name**: キミの忘れかたを教えて
 -   **start-date**: 2020-02-27

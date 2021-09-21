@@ -1,5 +1,7 @@
 # Heart no Kagi wo Te ni Irero!
 
+![heart-no-kagi-wo-te-ni-irero](https://cdn.myanimelist.net/images/manga/2/224936.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

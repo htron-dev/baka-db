@@ -1,5 +1,7 @@
 # Love Live! Superstar!!
 
+![love-live-superstar](https://cdn.myanimelist.net/images/anime/1758/115692.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ラブライブ！スーパースター!!
 -   **start-date**: 2021-07-11

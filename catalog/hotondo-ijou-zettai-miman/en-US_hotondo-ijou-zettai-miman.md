@@ -1,5 +1,7 @@
 # Hotondo Ijou Zettai Miman
 
+![hotondo-ijou-zettai-miman](https://cdn.myanimelist.net/images/manga/3/83326.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

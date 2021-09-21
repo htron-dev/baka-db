@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha Picture Drama
 
+![mahou-shoujo-lyrical-nanoha-picture-drama](https://cdn.myanimelist.net/images/anime/7/85556.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 法少女リリカルなのは ピクチャードラマ 魔法少女リリカル IF

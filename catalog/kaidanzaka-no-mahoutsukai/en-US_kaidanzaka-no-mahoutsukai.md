@@ -1,5 +1,7 @@
 # Kaidanzaka no Mahoutsukai
 
+![kaidanzaka-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/167555.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 階段坂の魔法使い
 -   **start-date**: 2015-08-29

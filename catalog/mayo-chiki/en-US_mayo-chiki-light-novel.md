@@ -1,5 +1,7 @@
 # Mayo Chiki!
 
+![mayo-chiki](https://cdn.myanimelist.net/images/manga/1/120467.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 76

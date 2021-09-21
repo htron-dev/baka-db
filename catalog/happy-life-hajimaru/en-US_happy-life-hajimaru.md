@@ -1,5 +1,7 @@
 # Happy Life Hajimaru
 
+![happy-life-hajimaru](https://cdn.myanimelist.net/images/manga/2/175969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

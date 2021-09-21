@@ -1,5 +1,7 @@
 # Kanojo no Imouto to Kiss shita.
 
+![kanojo-no-imouto-to-kiss-shita](https://cdn.myanimelist.net/images/manga/1/235138.jpg)
+
 -   **type**: light-novel
 -   **original-name**: カノジョの妹とキスをした。
 -   **start-date**: 2020-04-14

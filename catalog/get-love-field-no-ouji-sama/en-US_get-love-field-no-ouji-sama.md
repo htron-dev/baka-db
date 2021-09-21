@@ -1,5 +1,7 @@
 # Get Love!!: Field no Ouji-sama
 
+![get-love-field-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/174198.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 38

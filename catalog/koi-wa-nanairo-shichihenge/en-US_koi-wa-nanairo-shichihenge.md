@@ -1,5 +1,7 @@
 # Koi wa Nanairo Shichihenge!?
 
+![koi-wa-nanairo-shichihenge](https://cdn.myanimelist.net/images/manga/2/222195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

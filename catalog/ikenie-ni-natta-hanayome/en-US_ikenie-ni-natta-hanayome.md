@@ -1,5 +1,7 @@
 # Ikenie ni Natta Hanayome
 
+![ikenie-ni-natta-hanayome](https://cdn.myanimelist.net/images/manga/3/152800.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 生贄になった花嫁

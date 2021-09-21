@@ -1,5 +1,7 @@
 # Itta desho! Angolmois-chan
 
+![itta-desho-angolmois-chan](https://cdn.myanimelist.net/images/manga/3/193743.jpg)
+
 -   **type**: manga
 -   **original-name**: 言ったでしょ！あんごるもあちゃん
 -   **start-date**: 2016-06-09

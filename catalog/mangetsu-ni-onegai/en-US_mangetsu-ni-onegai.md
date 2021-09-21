@@ -1,5 +1,7 @@
 # Mangetsu ni Onegai
 
+![mangetsu-ni-onegai](https://cdn.myanimelist.net/images/manga/2/28544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 満月にお願い

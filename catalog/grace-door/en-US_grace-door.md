@@ -1,5 +1,7 @@
 # Grace Door
 
+![grace-door](https://cdn.myanimelist.net/images/manga/1/24641.jpg)
+
 -   **type**: manga
 -   **original-name**: GRACE DOOR 執事と罪; GRACE DOOR 乙女ロードと執事と扉
 

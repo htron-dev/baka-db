@@ -1,5 +1,7 @@
 # Koi no Mimi Yori Chuuihou
 
+![koi-no-mimi-yori-chuuihou](https://cdn.myanimelist.net/images/manga/2/36186.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

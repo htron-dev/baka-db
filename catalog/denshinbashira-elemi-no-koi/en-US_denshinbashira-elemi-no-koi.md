@@ -1,5 +1,7 @@
 # Denshinbashira Elemi no Koi
 
+![denshinbashira-elemi-no-koi](https://cdn.myanimelist.net/images/anime/4/18645.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 電信柱エレミの恋

@@ -1,5 +1,7 @@
 # Itsuwari no Ningyou: Reitetsu Shujin no Aigi ni Midasarete
 
+![itsuwari-no-ningyou-reitetsu-shujin-no-aigi-ni-midasarete](https://cdn.myanimelist.net/images/manga/2/194487.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

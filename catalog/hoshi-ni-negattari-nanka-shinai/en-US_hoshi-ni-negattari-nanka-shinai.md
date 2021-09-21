@@ -1,5 +1,7 @@
 # Hoshi ni Negattari nanka Shinai
 
+![hoshi-ni-negattari-nanka-shinai](https://cdn.myanimelist.net/images/manga/1/190885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

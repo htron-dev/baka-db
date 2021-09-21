@@ -1,5 +1,7 @@
 # Yami no Moribito
 
+![yami-no-moribito](https://cdn.myanimelist.net/images/manga/1/160113.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

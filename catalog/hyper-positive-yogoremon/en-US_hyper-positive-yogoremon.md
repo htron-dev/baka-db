@@ -1,5 +1,7 @@
 # Hyper Positive Yogoremon
 
+![hyper-positive-yogoremon](https://cdn.myanimelist.net/images/anime/1395/114474.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ハイパーボジティブよごれモン
 -   **start-date**: 2021-04-18

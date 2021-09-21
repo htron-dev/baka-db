@@ -1,5 +1,7 @@
 # Miracle de Ikou!
 
+![miracle-de-ikou](https://cdn.myanimelist.net/images/manga/2/170035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

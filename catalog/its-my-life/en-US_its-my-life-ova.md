@@ -1,5 +1,7 @@
 # It's My Life
 
+![its-my-life](https://cdn.myanimelist.net/images/anime/1998/105349.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: IT'S MY LIFE

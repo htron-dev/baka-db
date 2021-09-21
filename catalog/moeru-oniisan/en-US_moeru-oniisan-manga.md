@@ -1,5 +1,7 @@
 # Moeru! Oniisan
 
+![moeru-oniisan](https://cdn.myanimelist.net/images/manga/2/184326.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 213

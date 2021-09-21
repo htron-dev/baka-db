@@ -1,5 +1,7 @@
 # Grisaia no Meikyuu: Caprice no Mayu 0
 
+![grisaia-no-meikyuu-caprice-no-mayu-0](https://cdn.myanimelist.net/images/anime/1278/112633.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: グリザイアの迷宮 カプリスの繭 0

@@ -1,5 +1,7 @@
 # Koishi Koishi
 
+![koishi-koishi](https://cdn.myanimelist.net/images/manga/1/47069.jpg)
+
 -   **type**: manga
 -   **original-name**: こいし恋いし
 -   **start-date**: 2010-02-20

@@ -1,5 +1,7 @@
 # Human Orchestra
 
+![human-orchestra](https://cdn.myanimelist.net/images/anime/1960/99078.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Human Orchestra

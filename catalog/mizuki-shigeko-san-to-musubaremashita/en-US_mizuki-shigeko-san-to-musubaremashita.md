@@ -1,5 +1,7 @@
 # Mizuki Shigeko-san to Musubaremashita
 
+![mizuki-shigeko-san-to-musubaremashita](https://cdn.myanimelist.net/images/manga/1/160820.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 水木しげ子さんと結ばれました

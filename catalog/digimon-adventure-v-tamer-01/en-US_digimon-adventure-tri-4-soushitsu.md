@@ -1,5 +1,7 @@
 # Digimon Adventure tri. 4: Soushitsu
 
+![digimon-adventure-tri-4-soushitsu](https://cdn.myanimelist.net/images/anime/10/82613.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー tri.（トライ）第４章「喪失」

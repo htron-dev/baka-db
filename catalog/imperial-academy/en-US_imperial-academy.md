@@ -1,5 +1,7 @@
 # Imperial Academy
 
+![imperial-academy](https://cdn.myanimelist.net/images/manga/3/70767.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 학원제국

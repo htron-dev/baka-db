@@ -1,5 +1,7 @@
 # Demi-chan wa Kataritai
 
+![demi-chan-wa-kataritai](https://cdn.myanimelist.net/images/anime/8/83417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 亜人ちゃんは語りたい

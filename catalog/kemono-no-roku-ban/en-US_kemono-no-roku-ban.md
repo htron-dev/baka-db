@@ -1,5 +1,7 @@
 # Kemono no Roku-ban
 
+![kemono-no-roku-ban](https://cdn.myanimelist.net/images/manga/3/236878.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

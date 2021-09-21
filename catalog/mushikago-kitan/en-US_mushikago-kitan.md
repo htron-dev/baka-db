@@ -1,5 +1,7 @@
 # Mushikago Kitan
 
+![mushikago-kitan](https://cdn.myanimelist.net/images/manga/2/242644.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

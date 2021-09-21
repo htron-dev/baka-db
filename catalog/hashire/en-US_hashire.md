@@ -1,5 +1,7 @@
 # Hashire!
 
+![hashire](https://cdn.myanimelist.net/images/anime/12/68991.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 走れ！

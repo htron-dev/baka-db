@@ -1,5 +1,7 @@
 # Mahou Senki Lyrical Nanoha Force
 
+![mahou-senki-lyrical-nanoha-force](https://cdn.myanimelist.net/images/manga/1/27278.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法戦記リリカルなのは Force
 -   **start-date**: 2009-07-31

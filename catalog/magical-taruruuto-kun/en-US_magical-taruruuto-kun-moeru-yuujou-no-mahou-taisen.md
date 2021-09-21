@@ -1,5 +1,7 @@
 # Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen
 
+![magical★-taruruuto-kun-moeru-yuujou-no-mahou-taisen](https://cdn.myanimelist.net/images/anime/13/59667.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まじかる ★ タルるートくん 燃えろ! 友情の魔法大戦

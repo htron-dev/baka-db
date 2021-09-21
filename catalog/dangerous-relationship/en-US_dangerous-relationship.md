@@ -1,5 +1,7 @@
 # Dangerous Relationship
 
+![dangerous-relationship](https://cdn.myanimelist.net/images/manga/1/18214.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 17
 

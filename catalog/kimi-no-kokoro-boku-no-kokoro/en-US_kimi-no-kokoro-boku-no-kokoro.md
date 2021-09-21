@@ -1,5 +1,7 @@
 # Kimi no Kokoro Boku no Kokoro
 
+![kimi-no-kokoro-boku-no-kokoro](https://cdn.myanimelist.net/images/manga/2/6206.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キミノココロボクノココロ

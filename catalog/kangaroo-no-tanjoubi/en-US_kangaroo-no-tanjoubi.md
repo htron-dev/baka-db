@@ -1,5 +1,7 @@
 # Kangaroo no Tanjoubi
 
+![kangaroo-no-tanjoubi](https://cdn.myanimelist.net/images/anime/8/15847.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カンガルーの誕生日

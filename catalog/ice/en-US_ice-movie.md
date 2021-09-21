@@ -1,5 +1,7 @@
 # Ice Movie
 
+![ice-movie](https://cdn.myanimelist.net/images/anime/2/25055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ICE 劇場版

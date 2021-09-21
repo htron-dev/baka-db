@@ -1,5 +1,7 @@
 # Fairy Tail x Mameshiba
 
+![fairy-tail-x-mameshiba](https://cdn.myanimelist.net/images/anime/1567/106251.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『FAIRY TAIL』×『豆しば』

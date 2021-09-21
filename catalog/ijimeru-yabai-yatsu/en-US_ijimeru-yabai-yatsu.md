@@ -1,5 +1,7 @@
 # Ijimeru Yabai Yatsu
 
+![ijimeru-yabai-yatsu](https://cdn.myanimelist.net/images/manga/1/224536.jpg)
+
 -   **type**: manga
 -   **original-name**: いじめるヤバイ奴
 -   **start-date**: 2018-08-24

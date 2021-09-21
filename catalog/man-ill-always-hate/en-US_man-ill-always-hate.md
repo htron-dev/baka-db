@@ -1,5 +1,7 @@
 # Man I'll Always Hate
 
+![man-ill-always-hate](https://cdn.myanimelist.net/images/manga/3/29878.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 늘미운인간

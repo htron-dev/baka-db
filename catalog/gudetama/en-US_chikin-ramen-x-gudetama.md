@@ -1,5 +1,7 @@
 # Chikin Ramen x Gudetama
 
+![chikin-ramen-x-gudetama](https://cdn.myanimelist.net/images/anime/1309/100393.jpg)
+
 -   **type**: ona
 -   **original-name**: チキンラーメン × ぐでたま
 -   **start-date**: 2019-03-31

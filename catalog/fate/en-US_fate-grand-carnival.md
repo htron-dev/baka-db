@@ -1,5 +1,7 @@
 # Fate/Grand Carnival
 
+![fate-grand-carnival](https://cdn.myanimelist.net/images/anime/1239/117596.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: Fate/Grand Carnival 第一特異宴 英霊限界大祭オリンピア

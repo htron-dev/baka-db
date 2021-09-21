@@ -1,5 +1,7 @@
 # Ice Forest
 
+![ice-forest](https://cdn.myanimelist.net/images/manga/5/20139.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: アイス フォレスト

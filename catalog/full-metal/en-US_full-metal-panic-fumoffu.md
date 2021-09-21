@@ -1,5 +1,7 @@
 # Full Metal Panic? Fumoffu
 
+![full-metal-panic-fumoffu](https://cdn.myanimelist.net/images/anime/4/75260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フルメタル・パニック? ふもっふ

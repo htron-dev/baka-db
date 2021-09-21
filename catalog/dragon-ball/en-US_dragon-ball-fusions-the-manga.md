@@ -1,5 +1,7 @@
 # Dragon Ball Fusions the Manga!!
 
+![dragon-ball-fusions-the-manga](https://cdn.myanimelist.net/images/manga/1/241645.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: ドラゴンボールフュージョンズ the MANGA!!

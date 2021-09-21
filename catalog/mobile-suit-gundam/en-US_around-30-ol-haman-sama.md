@@ -1,5 +1,7 @@
 # Around 30 OL Haman-sama
 
+![around-30-ol-haman-sama](https://cdn.myanimelist.net/images/manga/5/249925.jpg)
+
 -   **type**: manga
 -   **original-name**: アラサー OL ハマーン様
 -   **start-date**: 2020-11-26

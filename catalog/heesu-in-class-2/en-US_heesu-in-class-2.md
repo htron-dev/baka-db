@@ -1,5 +1,7 @@
 # Heesu in Class 2
 
+![heesu-in-class-2](https://cdn.myanimelist.net/images/manga/3/239496.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 81

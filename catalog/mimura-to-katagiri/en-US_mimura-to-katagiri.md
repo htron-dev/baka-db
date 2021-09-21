@@ -1,5 +1,7 @@
 # Mimura to Katagiri
 
+![mimura-to-katagiri](https://cdn.myanimelist.net/images/manga/1/84613.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

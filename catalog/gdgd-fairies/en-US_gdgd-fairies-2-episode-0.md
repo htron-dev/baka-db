@@ -1,5 +1,7 @@
 # gdgd Fairies 2 Episode 0
 
+![gdgd-fairies-2-episode-0](https://cdn.myanimelist.net/images/anime/4/45336.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ｇｄｇｄ妖精ｓ　第２期　＃０（ゼロ）

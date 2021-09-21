@@ -1,5 +1,7 @@
 # JS Kaguya no Karei naru Renai Tetsugaku
 
+![js-kaguya-no-karei-naru-renai-tetsugaku](https://cdn.myanimelist.net/images/manga/1/178459.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso
 
+![hibike-euphonium-movie-1-kitauji-koukou-suisougaku-bu-e-youkoso](https://cdn.myanimelist.net/images/anime/8/81156.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～

@@ -1,5 +1,7 @@
 # Entotsu Machi no Poupelle
 
+![entotsu-machi-no-poupelle](https://cdn.myanimelist.net/images/anime/1206/117114.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えんとつ町のプペル

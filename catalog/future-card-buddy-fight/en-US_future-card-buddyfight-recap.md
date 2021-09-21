@@ -1,5 +1,7 @@
 # Future Card Buddyfight Recap
 
+![future-card-buddyfight-recap](https://cdn.myanimelist.net/images/anime/10/74396.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フューチャーカード バディファイト 全員集合！11 人のバディファイター!!

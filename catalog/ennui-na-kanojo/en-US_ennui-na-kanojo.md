@@ -1,5 +1,7 @@
 # Ennui na Kanojo
 
+![ennui-na-kanojo](https://cdn.myanimelist.net/images/manga/2/9849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

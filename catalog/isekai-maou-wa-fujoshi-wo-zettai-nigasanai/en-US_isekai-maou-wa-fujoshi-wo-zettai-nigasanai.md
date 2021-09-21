@@ -1,5 +1,7 @@
 # Isekai Maou wa Fujoshi wo Zettai Nigasanai
 
+![isekai-maou-wa-fujoshi-wo-zettai-nigasanai](https://cdn.myanimelist.net/images/manga/1/240569.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界魔王は腐女子を絶対逃がさない
 -   **start-date**: 2020-06-20

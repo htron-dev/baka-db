@@ -1,5 +1,7 @@
 # Michelin Star
 
+![michelin-star](https://cdn.myanimelist.net/images/manga/3/207467.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 192
 -   **original-name**: 미슐랭스타

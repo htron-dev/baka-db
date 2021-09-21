@@ -1,5 +1,7 @@
 # Jog! Jog! Jog!
 
+![jog-jog-jog](https://cdn.myanimelist.net/images/manga/3/235723.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

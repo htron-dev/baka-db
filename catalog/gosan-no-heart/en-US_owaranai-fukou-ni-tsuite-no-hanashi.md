@@ -1,5 +1,7 @@
 # Owaranai Fukou ni Tsuite no Hanashi
 
+![owaranai-fukou-ni-tsuite-no-hanashi](https://cdn.myanimelist.net/images/manga/2/165102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

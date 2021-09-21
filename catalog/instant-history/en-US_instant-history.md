@@ -1,5 +1,7 @@
 # Instant History
 
+![instant-history](https://cdn.myanimelist.net/images/anime/13/39141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 312
 -   **original-name**: インスタントヒストリー

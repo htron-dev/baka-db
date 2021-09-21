@@ -1,5 +1,7 @@
 # Magicraft Meister
 
+![magicraft-meister](https://cdn.myanimelist.net/images/manga/3/206020.jpg)
+
 -   **type**: manga
 -   **original-name**: マギクラフト・マイスター
 -   **start-date**: 2017-08-21

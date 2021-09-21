@@ -1,5 +1,7 @@
 # Magic-kyun! First Live: Hoshinomori Summer Festa 2017 Encore Animation
 
+![magic-kyun-first-live-hoshinomori-summer-festa-2017-encore-animation](https://cdn.myanimelist.net/images/anime/1057/97623.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Magic-kyun! First Live 星ノ森サマーフェスタ 2017 アンコールアニメーションムービー

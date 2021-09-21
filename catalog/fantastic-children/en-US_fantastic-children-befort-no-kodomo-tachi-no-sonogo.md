@@ -1,5 +1,7 @@
 # Fantastic Children: Befort no Kodomo-tachi no Sonogo
 
+![fantastic-children-befort-no-kodomo-tachi-no-sonogo](https://cdn.myanimelist.net/images/anime/2/41073.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ファンタジックチルドレン ベフォールの子供たちのその後

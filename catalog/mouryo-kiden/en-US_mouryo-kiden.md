@@ -1,5 +1,7 @@
 # Mouryo Kiden
 
+![mouryo-kiden](https://cdn.myanimelist.net/images/manga/1/39947.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

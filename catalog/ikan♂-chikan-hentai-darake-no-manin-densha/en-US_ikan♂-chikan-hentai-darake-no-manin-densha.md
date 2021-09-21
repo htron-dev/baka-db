@@ -1,5 +1,7 @@
 # Ikan♂Chikan: Hentai darake no Manin Densha
 
+![ikan♂-chikan-hentai-darake-no-manin-densha](https://cdn.myanimelist.net/images/manga/2/128193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

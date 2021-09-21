@@ -1,5 +1,7 @@
 # Detroit Metal City
 
+![detroit-metal-city](https://cdn.myanimelist.net/images/anime/3/9853.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: デトロイト・メタル・シティ

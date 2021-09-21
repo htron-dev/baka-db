@@ -1,5 +1,7 @@
 # Mound no Taiyou
 
+![mound-no-taiyou](https://cdn.myanimelist.net/images/manga/1/217423.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Jack to Mame no Ki
 
+![jack-to-mame-no-ki](https://cdn.myanimelist.net/images/anime/2/11749.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャックと豆の木

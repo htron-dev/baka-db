@@ -1,5 +1,7 @@
 # Fuyu no Hi
 
+![fuyu-no-hi](https://cdn.myanimelist.net/images/anime/8/5077.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 冬の日

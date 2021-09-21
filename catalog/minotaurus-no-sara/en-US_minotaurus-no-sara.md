@@ -1,5 +1,7 @@
 # Minotaurus no Sara
 
+![minotaurus-no-sara](https://cdn.myanimelist.net/images/manga/2/209000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

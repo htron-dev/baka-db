@@ -1,5 +1,7 @@
 # Jisatsu shitai Onna Yuusha ni Maou ga Komarasareteimasu!
 
+![jisatsu-shitai-onna-yuusha-ni-maou-ga-komarasareteimasu](https://cdn.myanimelist.net/images/manga/1/215686.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

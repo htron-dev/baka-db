@@ -1,5 +1,7 @@
 # Shamanic Princess
 
+![shamanic-princess](https://cdn.myanimelist.net/images/anime/1408/94311.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: シャーマニックプリンセス

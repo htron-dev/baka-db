@@ -1,5 +1,7 @@
 # Elf wo Karu Mono-tachi 2
 
+![elf-wo-karu-mono-tachi-2](https://cdn.myanimelist.net/images/manga/1/180335.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

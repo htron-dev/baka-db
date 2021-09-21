@@ -1,5 +1,7 @@
 # Majokko Tsukune-chan
 
+![majokko-tsukune-chan](https://cdn.myanimelist.net/images/anime/2/2904.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 魔女っ娘つくねちゃん

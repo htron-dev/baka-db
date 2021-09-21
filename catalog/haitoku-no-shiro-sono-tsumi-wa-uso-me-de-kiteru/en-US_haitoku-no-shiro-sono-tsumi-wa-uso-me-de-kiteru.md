@@ -1,5 +1,7 @@
 # Haitoku no Shiro: Sono Tsumi wa Uso Me de Kiteru
 
+![haitoku-no-shiro-sono-tsumi-wa-uso-me-de-kiteru](https://cdn.myanimelist.net/images/manga/1/194473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

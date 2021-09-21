@@ -1,5 +1,7 @@
 # Kaidan to Odorou, Soshite Anata wa Kaidan de Odoru
 
+![kaidan-to-odorou-soshite-anata-wa-kaidan-de-odoru](https://cdn.myanimelist.net/images/manga/2/132459.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 怪談と踊ろう, そしてあなたは階段で踊る

@@ -1,5 +1,7 @@
 # Lupin III: Bye Bye Liberty - Kiki Ippatsu!
 
+![lupin-iii-bye-bye-liberty-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/13/61691.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『バイバイ・リバティー危機一発！

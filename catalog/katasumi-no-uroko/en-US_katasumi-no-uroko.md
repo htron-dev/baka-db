@@ -1,5 +1,7 @@
 # Katasumi no Uroko
 
+![katasumi-no-uroko](https://cdn.myanimelist.net/images/anime/5/87792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かたすみの鱗

@@ -1,5 +1,7 @@
 # Daishinkan-sama wa Konkatsuchuu
 
+![daishinkan-sama-wa-konkatsuchuu](https://cdn.myanimelist.net/images/manga/3/235043.jpg)
+
 -   **type**: manga
 -   **original-name**: 大神官様は婚活中
 -   **start-date**: 2019-07-08

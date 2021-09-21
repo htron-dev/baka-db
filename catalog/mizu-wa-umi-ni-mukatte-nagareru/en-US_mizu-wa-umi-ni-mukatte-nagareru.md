@@ -1,5 +1,7 @@
 # Mizu wa Umi ni Mukatte Nagareru
 
+![mizu-wa-umi-ni-mukatte-nagareru](https://cdn.myanimelist.net/images/manga/2/226118.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

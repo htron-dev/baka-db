@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Souichi no Noroi Nikki
 
+![ito-junji-kyoufu-manga-collection-souichi-no-noroi-nikki](https://cdn.myanimelist.net/images/manga/3/79119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

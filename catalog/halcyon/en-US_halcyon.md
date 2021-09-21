@@ -1,5 +1,7 @@
 # Halcyon
 
+![halcyon](https://cdn.myanimelist.net/images/manga/2/146707.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

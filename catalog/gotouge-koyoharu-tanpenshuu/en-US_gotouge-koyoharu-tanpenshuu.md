@@ -1,5 +1,7 @@
 # Gotouge Koyoharu Tanpenshuu
 
+![gotouge-koyoharu-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/222608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

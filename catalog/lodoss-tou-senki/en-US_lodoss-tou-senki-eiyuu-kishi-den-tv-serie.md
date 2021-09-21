@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Eiyuu Kishi Den
 
+![lodoss-tou-senki-eiyuu-kishi-den](https://cdn.myanimelist.net/images/anime/1065/92495.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: ロードス島戦記　英雄騎士伝

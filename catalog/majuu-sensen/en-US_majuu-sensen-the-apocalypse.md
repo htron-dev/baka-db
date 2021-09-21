@@ -1,5 +1,7 @@
 # Majuu Sensen: The Apocalypse
 
+![majuu-sensen-the-apocalypse](https://cdn.myanimelist.net/images/anime/1/1708.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔獣戦線 THE APOCALYPSE

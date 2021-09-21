@@ -1,5 +1,7 @@
 # Muteki no Zarathustra
 
+![muteki-no-zarathustra](https://cdn.myanimelist.net/images/manga/3/129031.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny - Material Musume.
 
+![mahou-shoujo-lyrical-nanoha-as-portable-the-gears-of-destiny-material-musume](https://cdn.myanimelist.net/images/manga/5/71079.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 魔法少女リリカルなのは A's PORTABLE -THE GEARS OF DESTINY- マテリアル娘。

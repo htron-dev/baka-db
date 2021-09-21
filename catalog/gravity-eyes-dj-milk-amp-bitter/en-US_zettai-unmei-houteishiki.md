@@ -1,5 +1,7 @@
 # Zettai Unmei Houteishiki
 
+![zettai-unmei-houteishiki](https://cdn.myanimelist.net/images/manga/2/1345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

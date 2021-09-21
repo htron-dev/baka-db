@@ -1,5 +1,7 @@
 # Metroid Short Animation
 
+![metroid-short-animation](https://cdn.myanimelist.net/images/anime/1285/91252.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: METROID short animation

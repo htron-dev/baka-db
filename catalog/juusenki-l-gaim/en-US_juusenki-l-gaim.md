@@ -1,5 +1,7 @@
 # Juusenki L-Gaim
 
+![juusenki-l-gaim](https://cdn.myanimelist.net/images/anime/3/46129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: 重戦機エルガイム

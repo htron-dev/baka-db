@@ -1,5 +1,7 @@
 # Deathco
 
+![deathco](https://cdn.myanimelist.net/images/manga/1/156694.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 46

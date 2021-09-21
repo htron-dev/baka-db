@@ -1,5 +1,7 @@
 # Hajimari wo Kikasete
 
+![hajimari-wo-kikasete](https://cdn.myanimelist.net/images/manga/1/139395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

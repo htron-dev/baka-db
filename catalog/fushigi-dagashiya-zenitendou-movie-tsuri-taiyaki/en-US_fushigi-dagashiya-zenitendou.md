@@ -1,5 +1,7 @@
 # Fushigi Dagashiya: Zenitendou
 
+![fushigi-dagashiya-zenitendou](https://cdn.myanimelist.net/images/anime/1994/108212.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ふしぎ駄菓子屋 銭天堂
 -   **start-date**: 2020-09-08

@@ -1,5 +1,7 @@
 # LeTort
 
+![le-tort](https://cdn.myanimelist.net/images/manga/3/30855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: レトルト

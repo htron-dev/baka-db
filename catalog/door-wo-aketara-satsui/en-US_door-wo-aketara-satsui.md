@@ -1,5 +1,7 @@
 # Door wo Aketara Satsui
 
+![door-wo-aketara-satsui](https://cdn.myanimelist.net/images/manga/3/52747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

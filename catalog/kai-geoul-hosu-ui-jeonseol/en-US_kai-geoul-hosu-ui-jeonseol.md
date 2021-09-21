@@ -1,5 +1,7 @@
 # Kai: Geoul Hosu-ui Jeonseol
 
+![kai-geoul-hosu-ui-jeonseol](https://cdn.myanimelist.net/images/anime/11/82430.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 카이: 거울 호수의 전설

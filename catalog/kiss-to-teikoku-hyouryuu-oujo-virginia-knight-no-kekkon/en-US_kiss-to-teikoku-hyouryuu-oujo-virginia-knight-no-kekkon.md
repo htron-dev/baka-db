@@ -1,5 +1,7 @@
 # Kiss to Teikoku: Hyouryuu Oujo Virginia Knight no Kekkon
 
+![kiss-to-teikoku-hyouryuu-oujo-virginia-knight-no-kekkon](https://cdn.myanimelist.net/images/manga/2/238708.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

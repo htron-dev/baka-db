@@ -1,5 +1,7 @@
 # Dare mo Korinai
 
+![dare-mo-korinai](https://cdn.myanimelist.net/images/manga/3/149678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誰も懲りない

@@ -1,5 +1,7 @@
 # Himitsu no Shuudouin Gakkou
 
+![himitsu-no-shuudouin-gakkou](https://cdn.myanimelist.net/images/manga/1/182500.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

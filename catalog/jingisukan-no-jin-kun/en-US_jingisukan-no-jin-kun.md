@@ -1,5 +1,7 @@
 # Jingisukan no Jin-kun
 
+![jingisukan-no-jin-kun](https://cdn.myanimelist.net/images/anime/9/87134.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ジンギスカンのジンくん

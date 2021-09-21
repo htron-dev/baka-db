@@ -1,5 +1,7 @@
 # Manul no Yuube
 
+![manul-no-yuube](https://cdn.myanimelist.net/images/anime/1980/96936.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: マヌ～ルのゆうべ
 -   **start-date**: 2018-11-11

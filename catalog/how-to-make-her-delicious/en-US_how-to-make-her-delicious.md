@@ -1,5 +1,7 @@
 # How to Make Her Delicious
 
+![how-to-make-her-delicious](https://cdn.myanimelist.net/images/manga/1/14645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

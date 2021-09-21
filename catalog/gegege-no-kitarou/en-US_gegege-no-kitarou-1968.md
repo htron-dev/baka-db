@@ -1,5 +1,7 @@
 # Gegege no Kitarou (1968)
 
+![gegege-no-kitarou-1968](https://cdn.myanimelist.net/images/anime/13/27398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: ゲゲゲの鬼太郎

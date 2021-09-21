@@ -1,5 +1,7 @@
 # Kimi ga Shinu Natsu ni
 
+![kimi-ga-shinu-natsu-ni](https://cdn.myanimelist.net/images/manga/2/192236.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

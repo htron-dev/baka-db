@@ -1,5 +1,7 @@
 # Fuusen no Doratarou
 
+![fuusen-no-doratarou](https://cdn.myanimelist.net/images/anime/12/77385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フーセンのドラ太郎

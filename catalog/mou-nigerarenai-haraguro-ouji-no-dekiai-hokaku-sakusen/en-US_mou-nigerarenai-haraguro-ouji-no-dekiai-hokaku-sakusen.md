@@ -1,5 +1,7 @@
 # Mou, Nigerarenai! Haraguro Ouji no Dekiai Hokaku Sakusen
 
+![mou-nigerarenai-haraguro-ouji-no-dekiai-hokaku-sakusen](https://cdn.myanimelist.net/images/manga/2/183062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

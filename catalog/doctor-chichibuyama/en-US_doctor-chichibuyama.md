@@ -1,5 +1,7 @@
 # Doctor Chichibuyama
 
+![doctor-chichibuyama](https://cdn.myanimelist.net/images/anime/5/51281.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 2
 -   **original-name**: ドクター秩父山

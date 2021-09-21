@@ -1,5 +1,7 @@
 # Mushishi
 
+![mushishi](https://cdn.myanimelist.net/images/anime/2/73862.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 蟲師

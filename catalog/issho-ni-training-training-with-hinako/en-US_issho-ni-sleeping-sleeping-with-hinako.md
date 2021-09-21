@@ -1,5 +1,7 @@
 # Issho ni Sleeping: Sleeping with Hinako
 
+![issho-ni-sleeping-sleeping-with-hinako](https://cdn.myanimelist.net/images/anime/11/19270.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いっしょにすりーぴんぐ

@@ -1,5 +1,7 @@
 # Honey Maple More More Sugar
 
+![honey-maple-more-more-sugar](https://cdn.myanimelist.net/images/manga/2/247430.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

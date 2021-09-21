@@ -1,5 +1,7 @@
 # Love or Money
 
+![love-or-money](https://cdn.myanimelist.net/images/manga/2/12894.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 콩깍지

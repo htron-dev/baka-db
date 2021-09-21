@@ -1,5 +1,7 @@
 # Mahoutsukai Chappy
 
+![mahoutsukai-chappy](https://cdn.myanimelist.net/images/anime/8/17490.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 魔法使いチャッピー

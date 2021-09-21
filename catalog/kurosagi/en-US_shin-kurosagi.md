@@ -1,5 +1,7 @@
 # Shin Kurosagi
 
+![shin-kurosagi](https://cdn.myanimelist.net/images/manga/2/161297.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 198

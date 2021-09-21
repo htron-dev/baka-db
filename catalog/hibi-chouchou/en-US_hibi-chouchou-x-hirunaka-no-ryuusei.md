@@ -1,5 +1,7 @@
 # Hibi Chouchou x Hirunaka no Ryuusei
 
+![hibi-chouchou-x-hirunaka-no-ryuusei](https://cdn.myanimelist.net/images/manga/1/134091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

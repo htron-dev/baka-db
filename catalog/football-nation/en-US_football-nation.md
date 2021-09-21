@@ -1,5 +1,7 @@
 # Football Nation
 
+![football-nation](https://cdn.myanimelist.net/images/manga/1/127447.jpg)
+
 -   **type**: manga
 -   **original-name**: フットボールネーション
 -   **start-date**: 2009-12-11

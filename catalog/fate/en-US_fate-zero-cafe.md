@@ -1,5 +1,7 @@
 # Fate/Zero Cafe
 
+![fate-zero-cafe](https://cdn.myanimelist.net/images/anime/7/51943.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: Fate/ゼロカフェ

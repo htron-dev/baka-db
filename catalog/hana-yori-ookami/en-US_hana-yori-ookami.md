@@ -1,5 +1,7 @@
 # Hana yori Ookami
 
+![hana-yori-ookami](https://cdn.myanimelist.net/images/manga/1/236487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Garakuta no Ai wo Hitobanjuu
 
+![garakuta-no-ai-wo-hitobanjuu](https://cdn.myanimelist.net/images/manga/1/247979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

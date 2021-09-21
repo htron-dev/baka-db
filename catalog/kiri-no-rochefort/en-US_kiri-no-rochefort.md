@@ -1,5 +1,7 @@
 # Kiri no Rochefort
 
+![kiri-no-rochefort](https://cdn.myanimelist.net/images/manga/2/227455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 霧のロシュフォール

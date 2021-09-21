@@ -1,5 +1,7 @@
 # Dakishimetai: Secret Love Romance
 
+![dakishimetai-secret-love-romance](https://cdn.myanimelist.net/images/manga/3/136607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 抱きしめたい~Secret Love Romance~

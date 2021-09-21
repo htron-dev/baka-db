@@ -1,5 +1,7 @@
 # Douluo Dalu
 
+![douluo-dalu](https://cdn.myanimelist.net/images/anime/1438/101531.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 斗罗大陆

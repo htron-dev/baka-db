@@ -1,5 +1,7 @@
 # DC Super Heroes vs Taka no Tsume-dan Promotion Eizou
 
+![dc-super-heroes-vs-taka-no-tsume-dan-promotion-eizou](https://cdn.myanimelist.net/images/anime/1334/90401.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『DC スーパーヒーローズ vs 鷹の爪団』プロモーション映像

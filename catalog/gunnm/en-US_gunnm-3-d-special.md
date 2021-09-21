@@ -1,5 +1,7 @@
 # Gunnm 3D Special
 
+![gunnm-3-d-special](https://cdn.myanimelist.net/images/anime/9/47131.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 銃夢-3D スペシャル-

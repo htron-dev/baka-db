@@ -1,5 +1,7 @@
 # Higanjima: Aniki-hen
 
+![higanjima-aniki-hen](https://cdn.myanimelist.net/images/manga/2/184562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

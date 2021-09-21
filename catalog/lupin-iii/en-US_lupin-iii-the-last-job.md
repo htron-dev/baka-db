@@ -1,5 +1,7 @@
 # Lupin III: The Last Job
 
+![lupin-iii-the-last-job](https://cdn.myanimelist.net/images/anime/2/21995.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 The Last Job

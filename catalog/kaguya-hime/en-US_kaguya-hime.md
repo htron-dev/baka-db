@@ -1,5 +1,7 @@
 # Kaguya-hime
 
+![kaguya-hime](https://cdn.myanimelist.net/images/manga/2/190050.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 120

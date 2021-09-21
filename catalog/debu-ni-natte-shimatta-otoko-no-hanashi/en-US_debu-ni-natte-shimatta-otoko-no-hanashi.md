@@ -1,5 +1,7 @@
 # Debu ni Natte Shimatta Otoko no Hanashi
 
+![debu-ni-natte-shimatta-otoko-no-hanashi](https://cdn.myanimelist.net/images/manga/1/40403.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: デブになってしまった男の話

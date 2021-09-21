@@ -1,5 +1,7 @@
 # Love Story wa Guuzen ni
 
+![love-story-wa-guuzen-ni](https://cdn.myanimelist.net/images/manga/1/193514.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

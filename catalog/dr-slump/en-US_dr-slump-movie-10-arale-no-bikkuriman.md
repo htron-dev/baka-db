@@ -1,5 +1,7 @@
 # Dr. Slump Movie 10: Arale no Bikkuriman
 
+![dr-slump-movie-10-arale-no-bikkuriman](https://cdn.myanimelist.net/images/anime/7/23177.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドクタースランプ　アラレのびっくりバーン

@@ -1,5 +1,7 @@
 # Me wo Tojite Oide yo
 
+![me-wo-tojite-oide-yo](https://cdn.myanimelist.net/images/manga/1/25704.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Idol Bouei-tai Hummingbird
 
+![idol-bouei-tai-hummingbird](https://cdn.myanimelist.net/images/anime/8/44085.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: アイドル防衛隊ハミングバード

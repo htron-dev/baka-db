@@ -1,5 +1,7 @@
 # Kyou mo Minna Genki desu
 
+![kyou-mo-minna-genki-desu](https://cdn.myanimelist.net/images/manga/1/83380.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

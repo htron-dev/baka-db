@@ -1,5 +1,7 @@
 # Magical★Explorer: Eroge no Yuujin Kyara ni Tensei shita kedo, Game Chishiki Tsukatte Jiyuu ni Ikiru
 
+![magical★-explorer-eroge-no-yuujin-kyara-ni-tensei-shita-kedo-game-chishiki-tsukatte-jiyuu-ni-ikiru](https://cdn.myanimelist.net/images/manga/3/245782.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マジカル ★ エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
 -   **start-date**: 2019-11-01

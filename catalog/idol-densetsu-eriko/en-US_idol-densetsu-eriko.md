@@ -1,5 +1,7 @@
 # Idol Densetsu Eriko
 
+![idol-densetsu-eriko](https://cdn.myanimelist.net/images/anime/11/20173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: アイドル伝説えり子

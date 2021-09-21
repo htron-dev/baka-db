@@ -1,5 +1,7 @@
 # Inu-Ou
 
+![inu-ou](https://cdn.myanimelist.net/images/anime/1200/108266.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犬王

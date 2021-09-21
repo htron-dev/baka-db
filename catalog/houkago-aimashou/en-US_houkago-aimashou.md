@@ -1,5 +1,7 @@
 # Houkago, Aimashou.
 
+![houkago-aimashou](https://cdn.myanimelist.net/images/manga/1/234640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

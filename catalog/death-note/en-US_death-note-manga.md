@@ -1,5 +1,7 @@
 # Death Note
 
+![death-note](https://cdn.myanimelist.net/images/manga/2/54453.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 108

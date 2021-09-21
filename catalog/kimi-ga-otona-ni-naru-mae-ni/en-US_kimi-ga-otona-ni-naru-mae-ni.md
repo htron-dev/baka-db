@@ -1,5 +1,7 @@
 # Kimi ga Otona ni Naru Mae ni
 
+![kimi-ga-otona-ni-naru-mae-ni](https://cdn.myanimelist.net/images/manga/2/164466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

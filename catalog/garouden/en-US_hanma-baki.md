@@ -1,5 +1,7 @@
 # Hanma Baki
 
+![hanma-baki](https://cdn.myanimelist.net/images/manga/2/159342.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 312

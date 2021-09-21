@@ -1,5 +1,7 @@
 # High School La La Love
 
+![high-school-la-la-love](https://cdn.myanimelist.net/images/manga/3/236041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

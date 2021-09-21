@@ -1,5 +1,7 @@
 # Five Fire Fish
 
+![five-fire-fish](https://cdn.myanimelist.net/images/anime/10/85473.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2013-05-20

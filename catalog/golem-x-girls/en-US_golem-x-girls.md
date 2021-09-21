@@ -1,5 +1,7 @@
 # Golem x Girls
 
+![golem-x-girls](https://cdn.myanimelist.net/images/manga/3/163223.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ゴーレム × ガールズ

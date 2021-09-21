@@ -1,5 +1,7 @@
 # Misolala
 
+![misolala](https://cdn.myanimelist.net/images/manga/1/236941.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 82

@@ -1,5 +1,7 @@
 # Itou Junji Kyoufu Manga Collection 15: Hibito no Koiwazurai
 
+![itou-junji-kyoufu-manga-collection-15-hibito-no-koiwazurai](https://cdn.myanimelist.net/images/manga/3/186945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

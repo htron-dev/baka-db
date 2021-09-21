@@ -1,5 +1,7 @@
 # Doctor G no Shima
 
+![doctor-g-no-shima](https://cdn.myanimelist.net/images/manga/4/25875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

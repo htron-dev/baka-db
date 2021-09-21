@@ -1,5 +1,7 @@
 # Mashiro-iro Symphony: The Color of Lovers
 
+![mashiro-iro-symphony-the-color-of-lovers](https://cdn.myanimelist.net/images/anime/9/39303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ましろ色シンフォニー -The color of lovers-

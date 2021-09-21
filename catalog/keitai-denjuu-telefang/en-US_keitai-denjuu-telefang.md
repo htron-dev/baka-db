@@ -1,5 +1,7 @@
 # Keitai Denjuu Telefang
 
+![keitai-denjuu-telefang](https://cdn.myanimelist.net/images/manga/1/154692.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

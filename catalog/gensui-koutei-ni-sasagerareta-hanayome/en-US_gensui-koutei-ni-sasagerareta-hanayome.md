@@ -1,5 +1,7 @@
 # Gensui Koutei ni Sasagerareta Hanayome
 
+![gensui-koutei-ni-sasagerareta-hanayome](https://cdn.myanimelist.net/images/manga/3/192037.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

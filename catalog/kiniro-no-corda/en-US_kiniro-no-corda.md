@@ -1,5 +1,7 @@
 # Kiniro no Corda
 
+![kiniro-no-corda](https://cdn.myanimelist.net/images/manga/3/19430.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 75

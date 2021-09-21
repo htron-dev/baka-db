@@ -1,5 +1,7 @@
 # Hitsugi no Chaika kka
 
+![hitsugi-no-chaika-kka](https://cdn.myanimelist.net/images/manga/3/119685.jpg)
+
 -   **type**: manga
 -   **original-name**: 棺姫のチャイカっか
 -   **start-date**: 2011-08-09

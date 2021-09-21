@@ -1,5 +1,7 @@
 # Love x Love Game
 
+![love-x-love-game](https://cdn.myanimelist.net/images/manga/1/247363.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kakure Otaku no Renai Senryaku
 
+![kakure-otaku-no-renai-senryaku](https://cdn.myanimelist.net/images/manga/1/202304.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

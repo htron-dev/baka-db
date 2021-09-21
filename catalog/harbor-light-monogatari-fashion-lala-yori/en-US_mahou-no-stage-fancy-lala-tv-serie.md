@@ -1,5 +1,7 @@
 # Mahou no Stage Fancy Lala
 
+![mahou-no-stage-fancy-lala](https://cdn.myanimelist.net/images/anime/11/6263.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔法のステージ・ファンシーララ

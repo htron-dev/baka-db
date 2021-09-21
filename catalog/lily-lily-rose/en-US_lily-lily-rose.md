@@ -1,5 +1,7 @@
 # Lily Lily Rose
 
+![lily-lily-rose](https://cdn.myanimelist.net/images/manga/3/205019.jpg)
+
 -   **type**: manga
 -   **original-name**: Lily lily rose
 -   **start-date**: 2016-12-02

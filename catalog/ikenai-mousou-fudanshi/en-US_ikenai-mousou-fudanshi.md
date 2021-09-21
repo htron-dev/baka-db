@@ -1,5 +1,7 @@
 # Ikenai Mousou Fudanshi
 
+![ikenai-mousou-fudanshi](https://cdn.myanimelist.net/images/manga/2/120871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

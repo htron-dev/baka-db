@@ -1,5 +1,7 @@
 # Uchuu Taitei Ginga Thunder no Bouken
 
+![uchuu-taitei-ginga-thunder-no-bouken](https://cdn.myanimelist.net/images/manga/2/123925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

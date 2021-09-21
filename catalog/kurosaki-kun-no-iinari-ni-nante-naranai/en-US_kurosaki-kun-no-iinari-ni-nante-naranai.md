@@ -1,5 +1,7 @@
 # Kurosaki-kun no Iinari ni Nante Naranai
 
+![kurosaki-kun-no-iinari-ni-nante-naranai](https://cdn.myanimelist.net/images/manga/3/165855.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒崎くんの言いなりになんてならない
 -   **start-date**: 2014-01-11

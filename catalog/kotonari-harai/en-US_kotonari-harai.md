@@ -1,5 +1,7 @@
 # Kotonari Harai
 
+![kotonari-harai](https://cdn.myanimelist.net/images/manga/1/144665.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: ことなり祓い

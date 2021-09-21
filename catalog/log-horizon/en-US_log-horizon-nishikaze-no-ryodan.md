@@ -1,5 +1,7 @@
 # Log Horizon: Nishikaze no Ryodan
 
+![log-horizon-nishikaze-no-ryodan](https://cdn.myanimelist.net/images/manga/2/118159.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

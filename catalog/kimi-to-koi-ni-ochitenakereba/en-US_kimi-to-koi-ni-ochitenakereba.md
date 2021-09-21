@@ -1,5 +1,7 @@
 # Kimi to Koi ni Ochitenakereba
 
+![kimi-to-koi-ni-ochitenakereba](https://cdn.myanimelist.net/images/manga/3/227620.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

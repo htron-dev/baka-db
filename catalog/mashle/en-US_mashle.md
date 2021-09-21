@@ -1,5 +1,7 @@
 # Mashle
 
+![mashle](https://cdn.myanimelist.net/images/manga/1/230705.jpg)
+
 -   **type**: manga
 -   **original-name**: マッシュル-MASHLE-
 -   **start-date**: 2020-01-27

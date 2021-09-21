@@ -1,5 +1,7 @@
 # Gensou Suikoden V Anthology
 
+![gensou-suikoden-v-anthology](https://cdn.myanimelist.net/images/manga/3/12919.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 幻想水滸伝 V - アンソロジーコミック

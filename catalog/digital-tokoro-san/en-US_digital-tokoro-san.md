@@ -1,5 +1,7 @@
 # Digital Tokoro-san
 
+![digital-tokoro-san](https://cdn.myanimelist.net/images/anime/1777/114798.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 245
 -   **original-name**: デジタル所さん

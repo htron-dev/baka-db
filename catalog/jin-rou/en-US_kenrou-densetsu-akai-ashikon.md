@@ -1,5 +1,7 @@
 # Kenrou Densetsu: Akai Ashikon
 
+![kenrou-densetsu-akai-ashikon](https://cdn.myanimelist.net/images/manga/1/73893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

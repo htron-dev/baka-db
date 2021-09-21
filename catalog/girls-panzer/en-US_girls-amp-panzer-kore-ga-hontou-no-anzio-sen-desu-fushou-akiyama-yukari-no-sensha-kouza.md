@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Kore ga Hontou no Anzio-sen Desu! - Fushou Akiyama Yukari no Sensha Kouza
 
+![girls-amp-panzer-kore-ga-hontou-no-anzio-sen-desu-fushou-akiyama-yukari-no-sensha-kouza](https://cdn.myanimelist.net/images/anime/3/80920.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガールズ&パンツァー これが本当のアンツィオ戦です！ 不肖･秋山優花里の戦車講座～イタリア戦車編～

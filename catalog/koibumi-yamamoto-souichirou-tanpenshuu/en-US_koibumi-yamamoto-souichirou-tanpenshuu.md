@@ -1,5 +1,7 @@
 # Koibumi: Yamamoto Souichirou Tanpenshuu
 
+![koibumi-yamamoto-souichirou-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/244018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

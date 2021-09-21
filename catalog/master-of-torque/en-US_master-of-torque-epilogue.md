@@ -1,5 +1,7 @@
 # Master of Torque: Epilogue
 
+![master-of-torque-epilogue](https://cdn.myanimelist.net/images/anime/13/83538.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「マスターオブトルク」エピローグ

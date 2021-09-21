@@ -1,5 +1,7 @@
 # Di Gi Charat Christmas Special
 
+![di-gi-charat-christmas-special](https://cdn.myanimelist.net/images/anime/1348/95892.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Di Gi Charat クリスマススペシャル

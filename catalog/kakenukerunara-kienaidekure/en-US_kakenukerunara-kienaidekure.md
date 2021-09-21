@@ -1,5 +1,7 @@
 # Kakenukerunara, Kienaidekure.
 
+![kakenukerunara-kienaidekure](https://cdn.myanimelist.net/images/manga/2/3253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

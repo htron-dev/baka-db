@@ -1,5 +1,7 @@
 # Global Garden
 
+![global-garden](https://cdn.myanimelist.net/images/manga/5/39060.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

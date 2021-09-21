@@ -1,5 +1,7 @@
 # Magic Kaito
 
+![magic-kaito](https://cdn.myanimelist.net/images/manga/1/164654.jpg)
+
 -   **type**: manga
 -   **original-name**: まじっく快斗
 -   **start-date**: 1987-05-27

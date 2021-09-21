@@ -1,5 +1,7 @@
 # Darling in the FranXX
 
+![darling-in-the-fran-xx](https://cdn.myanimelist.net/images/anime/1614/90408.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ダーリン・イン・ザ・フランキス

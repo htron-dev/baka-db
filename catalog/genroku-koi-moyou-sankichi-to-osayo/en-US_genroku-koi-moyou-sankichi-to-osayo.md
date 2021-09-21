@@ -1,5 +1,7 @@
 # Genroku Koi Moyou: Sankichi to Osayo
 
+![genroku-koi-moyou-sankichi-to-osayo](https://cdn.myanimelist.net/images/anime/12/60165.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 元禄恋模様 三吉とおさよ

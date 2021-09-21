@@ -1,5 +1,7 @@
 # Kodomo no Honki Otona no Honki
 
+![kodomo-no-honki-otona-no-honki](https://cdn.myanimelist.net/images/manga/2/10867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: コドモの本気オトナの本気

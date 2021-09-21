@@ -1,5 +1,7 @@
 # Kindan no Mokushiroku: Crystal Triangle
 
+![kindan-no-mokushiroku-crystal-triangle](https://cdn.myanimelist.net/images/anime/11/34825.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 禁断の黙示録 クリスタルトライアングル

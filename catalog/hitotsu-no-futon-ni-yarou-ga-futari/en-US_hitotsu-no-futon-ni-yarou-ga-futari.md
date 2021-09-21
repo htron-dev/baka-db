@@ -1,5 +1,7 @@
 # Hitotsu no Futon ni Yarou ga Futari.
 
+![hitotsu-no-futon-ni-yarou-ga-futari](https://cdn.myanimelist.net/images/manga/3/195392.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ひとつの布団にヤローが 2 人。

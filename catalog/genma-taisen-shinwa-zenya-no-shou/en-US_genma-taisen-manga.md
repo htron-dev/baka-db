@@ -1,5 +1,7 @@
 # Genma Taisen
 
+![genma-taisen](https://cdn.myanimelist.net/images/manga/2/214451.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 幻魔大戦

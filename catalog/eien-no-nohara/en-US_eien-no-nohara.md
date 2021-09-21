@@ -1,5 +1,7 @@
 # Eien no Nohara
 
+![eien-no-nohara](https://cdn.myanimelist.net/images/manga/2/161759.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 45

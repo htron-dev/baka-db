@@ -1,5 +1,7 @@
 # Mystery Minzoku Gakusha Yakumo Itsuki
 
+![mystery-minzoku-gakusha-yakumo-itsuki](https://cdn.myanimelist.net/images/manga/4/115291.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ミステリー民俗学者 八雲樹

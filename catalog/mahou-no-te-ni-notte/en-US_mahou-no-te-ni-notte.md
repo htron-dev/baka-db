@@ -1,5 +1,7 @@
 # Mahou no Te ni Notte
 
+![mahou-no-te-ni-notte](https://cdn.myanimelist.net/images/manga/2/160066.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

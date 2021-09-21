@@ -1,5 +1,7 @@
 # Feng Ling Yu Xiu
 
+![feng-ling-yu-xiu](https://cdn.myanimelist.net/images/anime/1658/115791.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 风灵玉秀

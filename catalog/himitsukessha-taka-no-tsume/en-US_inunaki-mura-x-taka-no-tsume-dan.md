@@ -1,5 +1,7 @@
 # Inunaki-mura x Taka no Tsume-dan
 
+![inunaki-mura-x-taka-no-tsume-dan](https://cdn.myanimelist.net/images/anime/1632/105513.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 犬鳴村 x 鷹の爪団

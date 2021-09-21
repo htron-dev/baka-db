@@ -1,5 +1,7 @@
 # J Monogatari
 
+![j-monogatari](https://cdn.myanimelist.net/images/manga/3/237323.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Kataomoi no Mukougawa
 
+![kataomoi-no-mukougawa](https://cdn.myanimelist.net/images/manga/2/21917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

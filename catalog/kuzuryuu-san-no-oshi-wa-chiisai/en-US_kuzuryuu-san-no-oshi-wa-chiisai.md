@@ -1,5 +1,7 @@
 # Kuzuryuu-san no Oshi wa Chiisai
 
+![kuzuryuu-san-no-oshi-wa-chiisai](https://cdn.myanimelist.net/images/manga/3/242395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

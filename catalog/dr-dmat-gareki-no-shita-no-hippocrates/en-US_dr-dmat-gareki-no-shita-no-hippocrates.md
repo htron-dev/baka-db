@@ -1,5 +1,7 @@
 # Dr. DMAT: Gareki no Shita no Hippocrates
 
+![dr-dmat-gareki-no-shita-no-hippocrates](https://cdn.myanimelist.net/images/manga/1/173076.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 82

@@ -1,5 +1,7 @@
 # Hachimitsu-hime to Ookami Koushaku no Amai Bansan
 
+![hachimitsu-hime-to-ookami-koushaku-no-amai-bansan](https://cdn.myanimelist.net/images/manga/2/183829.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

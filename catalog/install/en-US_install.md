@@ -1,5 +1,7 @@
 # Install
 
+![install](https://cdn.myanimelist.net/images/manga/1/2721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

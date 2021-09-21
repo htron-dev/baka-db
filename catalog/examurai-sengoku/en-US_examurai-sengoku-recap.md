@@ -1,5 +1,7 @@
 # Examurai Sengoku Recap
 
+![examurai-sengoku-recap](https://cdn.myanimelist.net/images/anime/9/66141.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: エグザムライ戦国

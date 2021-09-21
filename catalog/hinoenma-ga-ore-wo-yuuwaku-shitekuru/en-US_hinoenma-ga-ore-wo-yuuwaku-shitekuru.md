@@ -1,5 +1,7 @@
 # Hinoenma ga Ore wo Yuuwaku shitekuru!!
 
+![hinoenma-ga-ore-wo-yuuwaku-shitekuru](https://cdn.myanimelist.net/images/manga/3/238806.jpg)
+
 -   **type**: manga
 -   **original-name**: 三姉妹〈ヒノエンマ〉が俺をユウワクしてくる!!
 -   **start-date**: 2020-03-05

@@ -1,5 +1,7 @@
 # Koukaku Kidoutai Nyuumon Arise
 
+![koukaku-kidoutai-nyuumon-arise](https://cdn.myanimelist.net/images/anime/4/59175.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 攻殻機動隊入門あらいず

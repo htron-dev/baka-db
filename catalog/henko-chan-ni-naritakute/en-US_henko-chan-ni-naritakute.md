@@ -1,5 +1,7 @@
 # Henko-chan ni Naritakute
 
+![henko-chan-ni-naritakute](https://cdn.myanimelist.net/images/manga/3/167209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Maruta Sagi wa Tantei desu ka?
 
+![maruta-sagi-wa-tantei-desu-ka](https://cdn.myanimelist.net/images/manga/3/162636.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 69

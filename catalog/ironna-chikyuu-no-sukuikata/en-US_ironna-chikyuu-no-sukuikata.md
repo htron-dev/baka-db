@@ -1,5 +1,7 @@
 # Ironna Chikyuu no Sukuikata
 
+![ironna-chikyuu-no-sukuikata](https://cdn.myanimelist.net/images/manga/2/92523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: いろんな地球の救いかた

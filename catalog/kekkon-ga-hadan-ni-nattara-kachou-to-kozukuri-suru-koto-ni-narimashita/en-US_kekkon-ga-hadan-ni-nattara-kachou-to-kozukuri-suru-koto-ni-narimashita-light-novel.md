@@ -1,5 +1,7 @@
 # Kekkon ga Hadan ni Nattara, Kachou to Kozukuri suru Koto ni Narimashita!?
 
+![kekkon-ga-hadan-ni-nattara-kachou-to-kozukuri-suru-koto-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/193223.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Mermaid Auction: Hakushaku ga Aishita Ningyo-hime
 
+![mermaid-auction-hakushaku-ga-aishita-ningyo-hime](https://cdn.myanimelist.net/images/manga/2/182841.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

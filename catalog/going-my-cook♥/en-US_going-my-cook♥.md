@@ -1,5 +1,7 @@
 # Going!! My Cook♥
 
+![going-my-cook♥](https://cdn.myanimelist.net/images/manga/3/151551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゴーイン!!　マイクック ♥

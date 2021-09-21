@@ -1,5 +1,7 @@
 # Datte... Gaman Dekinai (&gt;\_&lt;)
 
+![datte-gaman-dekinai-gt-lt](https://cdn.myanimelist.net/images/manga/1/157270.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

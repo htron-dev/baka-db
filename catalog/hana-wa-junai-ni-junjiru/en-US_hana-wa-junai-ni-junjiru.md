@@ -1,5 +1,7 @@
 # Hana wa Junai ni Junjiru
 
+![hana-wa-junai-ni-junjiru](https://cdn.myanimelist.net/images/manga/1/15657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

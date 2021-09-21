@@ -1,5 +1,7 @@
 # Kemonogari
 
+![kemonogari](https://cdn.myanimelist.net/images/manga/1/109083.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ケモノガリ －獣狩－
 -   **start-date**: 2009-07-17

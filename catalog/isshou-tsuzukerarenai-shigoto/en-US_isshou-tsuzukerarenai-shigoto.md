@@ -1,5 +1,7 @@
 # Isshou Tsuzukerarenai Shigoto
 
+![isshou-tsuzukerarenai-shigoto](https://cdn.myanimelist.net/images/manga/4/36755.jpg)
+
 -   **type**: manga
 -   **original-name**: 一生続けられない仕事
 -   **start-date**: 2007-05-07

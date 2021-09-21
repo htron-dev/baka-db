@@ -1,5 +1,7 @@
 # I-Doll
 
+![i-doll](https://cdn.myanimelist.net/images/manga/2/38853.jpg)
+
 -   **type**: manhwa
 
 ## Tags

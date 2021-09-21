@@ -1,5 +1,7 @@
 # Hikaru to Hikari
 
+![hikaru-to-hikari](https://cdn.myanimelist.net/images/manga/1/176058.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

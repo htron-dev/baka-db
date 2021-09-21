@@ -1,5 +1,7 @@
 # Kokugensou wo Item Cheat de Ikinuku
 
+![kokugensou-wo-item-cheat-de-ikinuku](https://cdn.myanimelist.net/images/manga/3/181857.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 酷幻想をアイテムチートで生き抜く
 -   **start-date**: 2015-01-30

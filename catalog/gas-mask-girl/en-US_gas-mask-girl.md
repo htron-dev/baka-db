@@ -1,5 +1,7 @@
 # Gas Mask Girl
 
+![gas-mask-girl](https://cdn.myanimelist.net/images/manga/5/37690.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

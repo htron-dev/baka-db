@@ -1,5 +1,7 @@
 # Kindan 4P, Senpai no Ecchi na Koe de Nurechatta.
 
+![kindan-4-p-senpai-no-ecchi-na-koe-de-nurechatta](https://cdn.myanimelist.net/images/manga/3/193934.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

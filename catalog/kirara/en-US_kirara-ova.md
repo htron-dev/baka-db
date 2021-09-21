@@ -1,5 +1,7 @@
 # Kirara
 
+![kirara](https://cdn.myanimelist.net/images/anime/1335/94553.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: KIRARA

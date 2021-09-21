@@ -1,5 +1,7 @@
 # Love na Doll!
 
+![love-na-doll](https://cdn.myanimelist.net/images/manga/3/121525.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: らぶなどーる!

@@ -1,5 +1,7 @@
 # Kaichou wa Maid-sama!: Goshujinsama to Asonjao♥
 
+![kaichou-wa-maid-sama-goshujinsama-to-asonjao♥](https://cdn.myanimelist.net/images/anime/9/28329.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 会長はメイド様! ご主人様と遊んじゃお ♥

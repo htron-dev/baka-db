@@ -1,5 +1,7 @@
 # Kaichuu!
 
+![kaichuu](https://cdn.myanimelist.net/images/anime/12/25520.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: カイチュー!

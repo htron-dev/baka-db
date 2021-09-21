@@ -1,5 +1,7 @@
 # Kouhai ga Saikyou.
 
+![kouhai-ga-saikyou](https://cdn.myanimelist.net/images/manga/2/168437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

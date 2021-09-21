@@ -1,5 +1,7 @@
 # Hana yori mo Yaiba no Gotoku
 
+![hana-yori-mo-yaiba-no-gotoku](https://cdn.myanimelist.net/images/manga/3/161980.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

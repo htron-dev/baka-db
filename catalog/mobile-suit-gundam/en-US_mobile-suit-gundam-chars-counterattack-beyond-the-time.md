@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Char's Counterattack - Beyond the Time
 
+![mobile-suit-gundam-chars-counterattack-beyond-the-time](https://cdn.myanimelist.net/images/manga/3/113425.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

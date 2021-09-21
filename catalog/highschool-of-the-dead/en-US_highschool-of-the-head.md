@@ -1,5 +1,7 @@
 # Highschool of the Head
 
+![highschool-of-the-head](https://cdn.myanimelist.net/images/manga/1/166342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

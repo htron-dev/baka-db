@@ -1,5 +1,7 @@
 # Monku no Tsukeyou ga Nai Love Comedy
 
+![monku-no-tsukeyou-ga-nai-love-comedy](https://cdn.myanimelist.net/images/manga/2/188961.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 53

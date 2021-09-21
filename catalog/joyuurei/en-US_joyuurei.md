@@ -1,5 +1,7 @@
 # Joyuurei
 
+![joyuurei](https://cdn.myanimelist.net/images/manga/3/40429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女優霊

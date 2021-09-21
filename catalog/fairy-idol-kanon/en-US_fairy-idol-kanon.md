@@ -1,5 +1,7 @@
 # Fairy Idol Kanon
 
+![fairy-idol-kanon](https://cdn.myanimelist.net/images/manga/3/205386.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: フェアリーアイドルかのん

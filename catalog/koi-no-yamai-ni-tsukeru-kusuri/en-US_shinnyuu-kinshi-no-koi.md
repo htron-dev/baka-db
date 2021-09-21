@@ -1,5 +1,7 @@
 # Shinnyuu Kinshi no Koi
 
+![shinnyuu-kinshi-no-koi](https://cdn.myanimelist.net/images/manga/3/14891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

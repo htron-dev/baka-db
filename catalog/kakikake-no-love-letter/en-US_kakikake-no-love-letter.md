@@ -1,5 +1,7 @@
 # Kakikake no Love Letter
 
+![kakikake-no-love-letter](https://cdn.myanimelist.net/images/manga/1/241318.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Maburaho
 
+![maburaho](https://cdn.myanimelist.net/images/manga/1/180923.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **chapters**: 133

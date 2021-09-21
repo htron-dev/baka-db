@@ -1,5 +1,7 @@
 # Hikaru ga Chikyuu ni Ita Koro......
 
+![hikaru-ga-chikyuu-ni-ita-koro](https://cdn.myanimelist.net/images/manga/2/145411.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 93

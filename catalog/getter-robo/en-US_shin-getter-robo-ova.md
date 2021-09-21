@@ -1,5 +1,7 @@
 # Shin Getter Robo
 
+![shin-getter-robo](https://cdn.myanimelist.net/images/anime/9/56841.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 新ゲッターロボ

@@ -1,5 +1,7 @@
 # Himeshiki Kazoku Keikaku
 
+![himeshiki-kazoku-keikaku](https://cdn.myanimelist.net/images/manga/3/95949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 姫式家族計画

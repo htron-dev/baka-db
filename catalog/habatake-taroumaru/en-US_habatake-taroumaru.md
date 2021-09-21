@@ -1,5 +1,7 @@
 # Habatake! Taroumaru
 
+![habatake-taroumaru](https://cdn.myanimelist.net/images/manga/5/224961.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

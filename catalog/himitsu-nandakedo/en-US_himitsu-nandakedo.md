@@ -1,5 +1,7 @@
 # Himitsu Nandakedo
 
+![himitsu-nandakedo](https://cdn.myanimelist.net/images/manga/2/74613.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

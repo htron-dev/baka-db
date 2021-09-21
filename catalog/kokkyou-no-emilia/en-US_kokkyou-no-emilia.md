@@ -1,5 +1,7 @@
 # Kokkyou no Emilia
 
+![kokkyou-no-emilia](https://cdn.myanimelist.net/images/manga/1/247745.jpg)
+
 -   **type**: manga
 -   **original-name**: 国境のエミーリャ
 -   **start-date**: 2019-08-10

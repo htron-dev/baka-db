@@ -1,5 +1,7 @@
 # Ikebukuro PR Anime
 
+![ikebukuro-pr-anime](https://cdn.myanimelist.net/images/anime/1280/97009.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 池袋 PR アニメ

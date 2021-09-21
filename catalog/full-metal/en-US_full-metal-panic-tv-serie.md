@@ -1,5 +1,7 @@
 # Full Metal Panic!
 
+![full-metal-panic](https://cdn.myanimelist.net/images/anime/2/75259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: フルメタル・パニック！

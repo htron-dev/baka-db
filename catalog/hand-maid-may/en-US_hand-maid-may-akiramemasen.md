@@ -1,5 +1,7 @@
 # Hand Maid May: Akiramemasen
 
+![hand-maid-may-akiramemasen](https://cdn.myanimelist.net/images/anime/3/34485.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: HAND MAID メイ「あきらめません」

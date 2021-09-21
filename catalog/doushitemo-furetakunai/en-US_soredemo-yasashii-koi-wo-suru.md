@@ -1,5 +1,7 @@
 # Soredemo, Yasashii Koi wo Suru
 
+![soredemo-yasashii-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/160150.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

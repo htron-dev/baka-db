@@ -1,5 +1,7 @@
 # Itadakimasu, Gochisousama
 
+![itadakimasu-gochisousama](https://cdn.myanimelist.net/images/manga/2/171701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mori no Otome to Shinden Kishi
 
+![mori-no-otome-to-shinden-kishi](https://cdn.myanimelist.net/images/manga/3/197086.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 森の乙女と神殿騎士

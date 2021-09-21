@@ -1,5 +1,7 @@
 # Ichigo 100%
 
+![ichigo-100](https://cdn.myanimelist.net/images/manga/2/51695.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 167

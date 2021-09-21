@@ -1,5 +1,7 @@
 # Kaze to Ki no Uta
 
+![kaze-to-ki-no-uta](https://cdn.myanimelist.net/images/manga/1/175773.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 139

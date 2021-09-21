@@ -1,5 +1,7 @@
 # Kemono Renairon
 
+![kemono-renairon](https://cdn.myanimelist.net/images/manga/2/22048.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

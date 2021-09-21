@@ -1,5 +1,7 @@
 # Futarigurashi
 
+![futarigurashi](https://cdn.myanimelist.net/images/manga/1/239603.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりぐらし
 -   **start-date**: 2020-12-28

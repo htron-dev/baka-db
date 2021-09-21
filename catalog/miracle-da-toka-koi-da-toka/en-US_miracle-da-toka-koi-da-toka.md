@@ -1,5 +1,7 @@
 # Miracle da toka Koi da toka
 
+![miracle-da-toka-koi-da-toka](https://cdn.myanimelist.net/images/manga/2/67649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

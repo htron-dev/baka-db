@@ -1,5 +1,7 @@
 # Final Fantasy: Lost Stranger
 
+![final-fantasy-lost-stranger](https://cdn.myanimelist.net/images/manga/1/203713.jpg)
+
 -   **type**: manga
 -   **original-name**: FINAL FANTASY LOST STRANGER
 -   **start-date**: 2017-07-12

@@ -1,5 +1,7 @@
 # Kekkaishi no Fugue
 
+![kekkaishi-no-fugue](https://cdn.myanimelist.net/images/manga/2/164572.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 結界師のフーガ

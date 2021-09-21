@@ -1,5 +1,7 @@
 # Doraemon Movie 20: Nobita no Uchuu Hyouryuuki
 
+![doraemon-movie-20-nobita-no-uchuu-hyouryuuki](https://cdn.myanimelist.net/images/anime/5/72425.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の宇宙漂流記

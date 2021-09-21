@@ -1,5 +1,7 @@
 # Inu Koi Series
 
+![inu-koi-series](https://cdn.myanimelist.net/images/manga/4/86725.jpg)
+
 -   **type**: manga
 -   **original-name**: 「犬恋」シリーズ
 

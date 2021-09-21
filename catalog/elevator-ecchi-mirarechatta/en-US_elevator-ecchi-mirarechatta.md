@@ -1,5 +1,7 @@
 # Elevator Ecchi, Mirarechatta!
 
+![elevator-ecchi-mirarechatta](https://cdn.myanimelist.net/images/manga/2/128187.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 8

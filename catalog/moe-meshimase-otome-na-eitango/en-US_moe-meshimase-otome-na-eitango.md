@@ -1,5 +1,7 @@
 # MOE: Meshimase Otome na Eitango
 
+![moe-meshimase-otome-na-eitango](https://cdn.myanimelist.net/images/manga/2/172369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: MOE―召喚しませ!おとめなえいたんご―

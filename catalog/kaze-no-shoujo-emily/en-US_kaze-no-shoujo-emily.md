@@ -1,5 +1,7 @@
 # Kaze no Shoujo Emily
 
+![kaze-no-shoujo-emily](https://cdn.myanimelist.net/images/anime/2/29088.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 風の少女エミリー

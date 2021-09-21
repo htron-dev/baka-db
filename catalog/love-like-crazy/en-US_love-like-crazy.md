@@ -1,5 +1,7 @@
 # Love Like Crazy
 
+![love-like-crazy](https://cdn.myanimelist.net/images/manga/3/18772.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 사랑에 미쳐라

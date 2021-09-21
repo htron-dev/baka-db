@@ -1,5 +1,7 @@
 # Ganbare! Kickers: Bokutachi no Densetsu
 
+![ganbare-kickers-bokutachi-no-densetsu](https://cdn.myanimelist.net/images/anime/1767/93428.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: がんばれ!キッカーズ ぼくたちの伝説

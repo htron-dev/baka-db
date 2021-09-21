@@ -1,5 +1,7 @@
 # JK Haru wa Isekai de Shoufu ni Natta
 
+![jk-haru-wa-isekai-de-shoufu-ni-natta](https://cdn.myanimelist.net/images/manga/3/236222.jpg)
+
 -   **type**: manga
 -   **original-name**: JK ハルは異世界で娼婦になった
 -   **start-date**: 2019-06-14

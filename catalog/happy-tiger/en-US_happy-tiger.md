@@ -1,5 +1,7 @@
 # Happy Tiger
 
+![happy-tiger](https://cdn.myanimelist.net/images/manga/2/131893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハッピータイガー

@@ -1,5 +1,7 @@
 # Kimi ni Hanakazari - Seikimatsu Teppen Boy
 
+![kimi-ni-hanakazari-seikimatsu-teppen-boy](https://cdn.myanimelist.net/images/manga/2/8030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君に花飾り -新世紀末てっぺん BOY-

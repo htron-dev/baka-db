@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Special: Nekogoroshi-hen
 
+![higurashi-no-naku-koro-ni-special-nekogoroshi-hen](https://cdn.myanimelist.net/images/anime/1616/90394.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ひぐらしのなく頃に 猫殺し編

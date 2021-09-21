@@ -1,5 +1,7 @@
 # Iro Otoko
 
+![iro-otoko](https://cdn.myanimelist.net/images/manga/2/19693.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 彩おとこ

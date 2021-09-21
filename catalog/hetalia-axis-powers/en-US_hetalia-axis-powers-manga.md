@@ -1,5 +1,7 @@
 # Hetalia Axis Powers
 
+![hetalia-axis-powers](https://cdn.myanimelist.net/images/manga/3/15100.jpg)
+
 -   **type**: manga
 -   **original-name**: ヘタリア Axis Powers
 -   **start-date**: 2008-03-28

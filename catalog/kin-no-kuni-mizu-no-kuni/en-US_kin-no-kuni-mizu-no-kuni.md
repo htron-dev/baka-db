@@ -1,5 +1,7 @@
 # Kin no Kuni Mizu no Kuni
 
+![kin-no-kuni-mizu-no-kuni](https://cdn.myanimelist.net/images/manga/2/186834.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

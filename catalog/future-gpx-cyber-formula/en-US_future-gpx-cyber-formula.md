@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula
 
+![future-gpx-cyber-formula](https://cdn.myanimelist.net/images/anime/1369/94603.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: 新世紀ＧＰＸサイバーフォーミュラ

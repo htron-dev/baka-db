@@ -1,5 +1,7 @@
 # Heart no Fuuin
 
+![heart-no-fuuin](https://cdn.myanimelist.net/images/manga/2/18950.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

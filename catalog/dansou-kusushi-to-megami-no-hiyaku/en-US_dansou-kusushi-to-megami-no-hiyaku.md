@@ -1,5 +1,7 @@
 # Dansou Kusushi to Megami no Hiyaku
 
+![dansou-kusushi-to-megami-no-hiyaku](https://cdn.myanimelist.net/images/manga/1/194936.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

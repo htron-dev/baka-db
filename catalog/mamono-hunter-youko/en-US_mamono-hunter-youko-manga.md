@@ -1,5 +1,7 @@
 # Mamono Hunter Youko
 
+![mamono-hunter-youko](https://cdn.myanimelist.net/images/manga/2/35045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

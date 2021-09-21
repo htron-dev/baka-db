@@ -1,5 +1,7 @@
 # La Pomme Prisonnière
 
+![la-pomme-prisonniere](https://cdn.myanimelist.net/images/manga/2/170594.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

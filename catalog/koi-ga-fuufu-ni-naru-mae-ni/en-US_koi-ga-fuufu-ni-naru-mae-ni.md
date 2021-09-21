@@ -1,5 +1,7 @@
 # Koi ga Fuufu ni Naru Mae ni
 
+![koi-ga-fuufu-ni-naru-mae-ni](https://cdn.myanimelist.net/images/manga/3/229532.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋が夫婦になる前に
 -   **start-date**: 2019-11-28

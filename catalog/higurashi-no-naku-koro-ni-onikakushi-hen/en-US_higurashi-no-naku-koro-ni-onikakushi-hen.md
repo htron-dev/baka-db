@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Onikakushi-hen
 
+![higurashi-no-naku-koro-ni-onikakushi-hen](https://cdn.myanimelist.net/images/manga/2/1013.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

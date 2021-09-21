@@ -1,5 +1,7 @@
 # Hybrid Berry
 
+![hybrid-berry](https://cdn.myanimelist.net/images/manga/1/20358.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

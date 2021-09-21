@@ -1,5 +1,7 @@
 # Doubutsu Dai Yakyuu Sen
 
+![doubutsu-dai-yakyuu-sen](https://cdn.myanimelist.net/images/anime/4/66781.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動物大野球戦

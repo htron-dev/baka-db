@@ -1,5 +1,7 @@
 # Fukei-san to Ansatsu-san
 
+![fukei-san-to-ansatsu-san](https://cdn.myanimelist.net/images/manga/1/235529.jpg)
+
 -   **type**: manga
 -   **original-name**: 婦警さんと暗殺さん
 -   **start-date**: 2018-07-13

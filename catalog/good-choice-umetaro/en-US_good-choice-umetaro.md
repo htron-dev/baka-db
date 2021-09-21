@@ -1,5 +1,7 @@
 # Good Choice Umetaro
 
+![good-choice-umetaro](https://cdn.myanimelist.net/images/manga/2/6951.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Free! Movie 3: Road to the World - Yume
 
+![free-movie-3-road-to-the-world-yume](https://cdn.myanimelist.net/images/anime/1643/102220.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Free!-Road to the World-夢

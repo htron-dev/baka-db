@@ -1,5 +1,7 @@
 # Konna Nekomimi, Suki desu ka?
 
+![konna-nekomimi-suki-desu-ka](https://cdn.myanimelist.net/images/manga/2/31604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

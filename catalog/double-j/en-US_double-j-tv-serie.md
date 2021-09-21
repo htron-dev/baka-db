@@ -1,5 +1,7 @@
 # Double-J
 
+![double-j](https://cdn.myanimelist.net/images/anime/11/31695.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: だぶるじぇい

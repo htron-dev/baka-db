@@ -1,5 +1,7 @@
 # KimiKiss: Various Heroines
 
+![kimi-kiss-various-heroines](https://cdn.myanimelist.net/images/manga/1/180639.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

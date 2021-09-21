@@ -1,5 +1,7 @@
 # Mako to Aki-chan no Koigokoro
 
+![mako-to-aki-chan-no-koigokoro](https://cdn.myanimelist.net/images/manga/2/61115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

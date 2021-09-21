@@ -1,5 +1,7 @@
 # Hanayome no Kaze
 
+![hanayome-no-kaze](https://cdn.myanimelist.net/images/manga/1/110437.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kijeu CSI
 
+![kijeu-csi](https://cdn.myanimelist.net/images/anime/1510/114461.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 키즈 CSI 과학수사대

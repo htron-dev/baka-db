@@ -1,5 +1,7 @@
 # Kara no Kyoukai 7: Satsujin Kousatsu (Go)
 
+![kara-no-kyoukai-7-satsujin-kousatsu-go](https://cdn.myanimelist.net/images/anime/9/56619.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第七章『殺人考察（後）』

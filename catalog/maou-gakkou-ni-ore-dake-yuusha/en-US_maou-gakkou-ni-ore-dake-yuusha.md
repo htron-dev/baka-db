@@ -1,5 +1,7 @@
 # Maou Gakkou ni Ore dake Yuusha!?
 
+![maou-gakkou-ni-ore-dake-yuusha](https://cdn.myanimelist.net/images/manga/1/163609.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 54

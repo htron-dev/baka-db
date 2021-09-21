@@ -1,5 +1,7 @@
 # Luna Lunatic
 
+![luna-lunatic](https://cdn.myanimelist.net/images/manga/3/6177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ルナ・ルナティック

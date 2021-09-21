@@ -1,5 +1,7 @@
 # Doutei Dou Deshou
 
+![doutei-dou-deshou](https://cdn.myanimelist.net/images/manga/1/155623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

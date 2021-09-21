@@ -1,5 +1,7 @@
 # Gunslinger Stratos
 
+![gunslinger-stratos](https://cdn.myanimelist.net/images/anime/12/71880.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ガンスリンガー ストラトス

@@ -1,5 +1,7 @@
 # Murenase! Seton Gakuen Special
 
+![murenase-seton-gakuen-special](https://cdn.myanimelist.net/images/anime/1822/111748.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 群れなせ！シートン学園

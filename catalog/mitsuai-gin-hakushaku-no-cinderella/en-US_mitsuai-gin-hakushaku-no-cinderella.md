@@ -1,5 +1,7 @@
 # Mitsuai: Gin Hakushaku no Cinderella
 
+![mitsuai-gin-hakushaku-no-cinderella](https://cdn.myanimelist.net/images/manga/2/182496.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

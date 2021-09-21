@@ -1,5 +1,7 @@
 # Mirai Kara Kita Shounen Super Jetter
 
+![mirai-kara-kita-shounen-super-jetter](https://cdn.myanimelist.net/images/anime/13/68185.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 未来から来た少年 スーパージェッター

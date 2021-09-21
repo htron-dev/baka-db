@@ -1,5 +1,7 @@
 # Kita no Toride nite
 
+![kita-no-toride-nite](https://cdn.myanimelist.net/images/manga/2/152165.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 北の砦にて
 -   **start-date**: 2015-03-09

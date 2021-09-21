@@ -1,5 +1,7 @@
 # Hanamura Sakadana: Showa 50-nendai, Osaka
 
+![hanamura-sakadana-showa-50-nendai-osaka](https://cdn.myanimelist.net/images/manga/1/151664.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: はなむら酒店 昭和 50 年代、大阪

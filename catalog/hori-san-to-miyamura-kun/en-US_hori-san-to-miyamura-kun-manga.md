@@ -1,5 +1,7 @@
 # Hori-san to Miyamura-kun
 
+![hori-san-to-miyamura-kun](https://cdn.myanimelist.net/images/manga/2/173355.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 149

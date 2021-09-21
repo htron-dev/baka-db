@@ -1,5 +1,7 @@
 # Kaze no Sonata
 
+![kaze-no-sonata](https://cdn.myanimelist.net/images/manga/2/65805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 風のソナタ

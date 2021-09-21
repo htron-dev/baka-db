@@ -1,5 +1,7 @@
 # Love Scar
 
+![love-scar](https://cdn.myanimelist.net/images/manga/2/25885.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

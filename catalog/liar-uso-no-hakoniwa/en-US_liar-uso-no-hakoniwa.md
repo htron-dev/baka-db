@@ -1,5 +1,7 @@
 # Liar: Uso no Hakoniwa
 
+![liar-uso-no-hakoniwa](https://cdn.myanimelist.net/images/manga/1/77223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ライアー ～嘘の箱庭～

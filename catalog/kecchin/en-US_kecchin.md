@@ -1,5 +1,7 @@
 # Kecchin
 
+![kecchin](https://cdn.myanimelist.net/images/manga/1/243947.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 150

@@ -1,5 +1,7 @@
 # Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA
 
+![ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova](https://cdn.myanimelist.net/images/anime/10/40905.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: えびてん 公立海老栖川高校天悶部 OAD

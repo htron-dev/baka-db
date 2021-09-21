@@ -1,5 +1,7 @@
 # Idol wo Mamoru dake no Kantan na Oshigoto.
 
+![idol-wo-mamoru-dake-no-kantan-na-oshigoto](https://cdn.myanimelist.net/images/manga/3/165130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイドルを守るだけの簡単なおしごと。

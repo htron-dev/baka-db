@@ -1,5 +1,7 @@
 # Macademi Radical
 
+![macademi-radical](https://cdn.myanimelist.net/images/manga/3/128267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 19

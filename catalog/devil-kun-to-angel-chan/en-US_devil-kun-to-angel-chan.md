@@ -1,5 +1,7 @@
 # Devil-kun to Angel-chan
 
+![devil-kun-to-angel-chan](https://cdn.myanimelist.net/images/manga/1/45537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: デビルくんとエンジェルちゃん

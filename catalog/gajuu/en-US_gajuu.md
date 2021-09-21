@@ -1,5 +1,7 @@
 # Gajuu
 
+![gajuu](https://cdn.myanimelist.net/images/manga/2/237838.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

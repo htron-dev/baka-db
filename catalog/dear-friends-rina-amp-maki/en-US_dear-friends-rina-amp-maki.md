@@ -1,5 +1,7 @@
 # Dear Friends: Rina &amp; Maki
 
+![dear-friends-rina-amp-maki](https://cdn.myanimelist.net/images/manga/2/124827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

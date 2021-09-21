@@ -1,5 +1,7 @@
 # Dororo to Enma-kun
 
+![dororo-to-enma-kun](https://cdn.myanimelist.net/images/manga/1/163526.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: どろろとえん魔くん

@@ -1,5 +1,7 @@
 # Metro Survive
 
+![metro-survive](https://cdn.myanimelist.net/images/manga/2/147025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

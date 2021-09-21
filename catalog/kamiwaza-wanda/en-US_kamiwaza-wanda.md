@@ -1,5 +1,7 @@
 # Kamiwaza Wanda
 
+![kamiwaza-wanda](https://cdn.myanimelist.net/images/anime/10/79365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: カミワザ・ワンダ

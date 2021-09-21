@@ -1,5 +1,7 @@
 # Kon★Puri
 
+![kon★-puri](https://cdn.myanimelist.net/images/manga/3/10009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

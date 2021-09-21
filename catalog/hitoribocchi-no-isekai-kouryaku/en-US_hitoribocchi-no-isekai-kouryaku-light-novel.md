@@ -1,5 +1,7 @@
 # Hitoribocchi no Isekai Kouryaku
 
+![hitoribocchi-no-isekai-kouryaku](https://cdn.myanimelist.net/images/manga/1/215580.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ひとりぼっちの異世界攻略
 -   **start-date**: 2018-01-25

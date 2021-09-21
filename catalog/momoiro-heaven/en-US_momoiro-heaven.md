@@ -1,5 +1,7 @@
 # Momoiro Heaven!
 
+![momoiro-heaven](https://cdn.myanimelist.net/images/manga/2/174042.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # Giri Koi
 
+![giri-koi](https://cdn.myanimelist.net/images/manga/3/23928.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

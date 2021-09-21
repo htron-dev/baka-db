@@ -1,5 +1,7 @@
 # Getsuyoubi no Yakusoku
 
+![getsuyoubi-no-yakusoku](https://cdn.myanimelist.net/images/manga/2/177229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

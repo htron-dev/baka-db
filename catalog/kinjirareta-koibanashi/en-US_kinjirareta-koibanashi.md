@@ -1,5 +1,7 @@
 # Kinjirareta Koibanashi
 
+![kinjirareta-koibanashi](https://cdn.myanimelist.net/images/manga/3/92609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

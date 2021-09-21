@@ -1,5 +1,7 @@
 # Mousou Telepathy
 
+![mousou-telepathy](https://cdn.myanimelist.net/images/manga/3/187031.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 妄想テレパシー

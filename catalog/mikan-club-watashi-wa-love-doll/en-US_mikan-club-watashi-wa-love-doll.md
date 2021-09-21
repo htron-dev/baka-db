@@ -1,5 +1,7 @@
 # Mikan Club: Watashi wa Love Doll
 
+![mikan-club-watashi-wa-love-doll](https://cdn.myanimelist.net/images/manga/1/202414.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 視姦クラブ　私はラブドール

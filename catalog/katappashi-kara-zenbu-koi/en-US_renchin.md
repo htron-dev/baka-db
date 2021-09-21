@@ -1,5 +1,7 @@
 # Renchin!
 
+![renchin](https://cdn.myanimelist.net/images/manga/3/220749.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Mousugu Shinu Hito
 
+![mousugu-shinu-hito](https://cdn.myanimelist.net/images/manga/2/114985.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

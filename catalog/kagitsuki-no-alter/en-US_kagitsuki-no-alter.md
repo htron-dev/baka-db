@@ -1,5 +1,7 @@
 # Kagitsuki no Alter
 
+![kagitsuki-no-alter](https://cdn.myanimelist.net/images/manga/3/201608.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Galaxy Angel Music Collection: Shouen to Shien no Cassoulet
 
+![galaxy-angel-music-collection-shouen-to-shien-no-cassoulet](https://cdn.myanimelist.net/images/anime/1438/91522.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ギャラクシーエンジェル ミュージックコレクション 硝煙と紫煙のカスレ

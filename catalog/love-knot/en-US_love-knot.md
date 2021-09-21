@@ -1,5 +1,7 @@
 # Love/Knot
 
+![love-knot](https://cdn.myanimelist.net/images/manga/3/54073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

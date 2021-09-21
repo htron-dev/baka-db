@@ -1,5 +1,7 @@
 # Kono Machi ga Bokura no Sekai
 
+![kono-machi-ga-bokura-no-sekai](https://cdn.myanimelist.net/images/manga/1/179452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

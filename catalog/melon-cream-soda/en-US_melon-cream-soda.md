@@ -1,5 +1,7 @@
 # Melon Cream Soda
 
+![melon-cream-soda](https://cdn.myanimelist.net/images/manga/3/178385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 62

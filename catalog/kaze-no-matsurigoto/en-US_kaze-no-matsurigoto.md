@@ -1,5 +1,7 @@
 # Kaze no Matsurigoto
 
+![kaze-no-matsurigoto](https://cdn.myanimelist.net/images/manga/3/23145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

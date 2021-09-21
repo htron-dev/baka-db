@@ -1,5 +1,7 @@
 # Dare ga Sore wo
 
+![dare-ga-sore-wo](https://cdn.myanimelist.net/images/manga/2/192203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

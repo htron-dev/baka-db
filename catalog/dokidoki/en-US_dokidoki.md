@@ -1,5 +1,7 @@
 # Dokidoki
 
+![dokidoki](https://cdn.myanimelist.net/images/manga/3/55481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

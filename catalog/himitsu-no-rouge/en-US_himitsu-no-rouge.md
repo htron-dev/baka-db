@@ -1,5 +1,7 @@
 # Himitsu no Rouge
 
+![himitsu-no-rouge](https://cdn.myanimelist.net/images/manga/2/36781.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ひみつのルージュ

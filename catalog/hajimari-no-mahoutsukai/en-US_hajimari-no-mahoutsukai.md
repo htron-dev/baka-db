@@ -1,5 +1,7 @@
 # Hajimari no Mahoutsukai
 
+![hajimari-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/3/196663.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 167

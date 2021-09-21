@@ -1,5 +1,7 @@
 # Loose Senki: Old Boy
 
+![loose-senki-old-boy](https://cdn.myanimelist.net/images/manga/1/179835.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 79

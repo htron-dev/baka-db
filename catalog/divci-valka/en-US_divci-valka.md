@@ -1,5 +1,7 @@
 # Dívčí Válka
 
+![divci-valka](https://cdn.myanimelist.net/images/manga/1/111871.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 60

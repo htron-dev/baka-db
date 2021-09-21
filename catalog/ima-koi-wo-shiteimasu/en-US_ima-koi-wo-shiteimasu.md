@@ -1,5 +1,7 @@
 # Ima, Koi wo Shiteimasu.
 
+![ima-koi-wo-shiteimasu](https://cdn.myanimelist.net/images/manga/2/233772.jpg)
+
 -   **type**: manga
 -   **original-name**: 今、恋をしています。
 -   **start-date**: 2019-12-13

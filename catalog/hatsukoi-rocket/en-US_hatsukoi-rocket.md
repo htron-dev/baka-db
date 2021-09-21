@@ -1,5 +1,7 @@
 # Hatsukoi Rocket
 
+![hatsukoi-rocket](https://cdn.myanimelist.net/images/manga/1/82202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

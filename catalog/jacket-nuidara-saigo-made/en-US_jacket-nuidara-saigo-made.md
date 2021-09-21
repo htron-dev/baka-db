@@ -1,5 +1,7 @@
 # Jacket Nuidara Saigo made
 
+![jacket-nuidara-saigo-made](https://cdn.myanimelist.net/images/manga/2/46117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

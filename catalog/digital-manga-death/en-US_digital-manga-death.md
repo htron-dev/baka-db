@@ -1,5 +1,7 @@
 # Digital Manga Death
 
+![digital-manga-death](https://cdn.myanimelist.net/images/manga/2/165680.jpg)
+
 -   **type**: manga
 -   **original-name**: デジマンデス
 -   **start-date**: 2014-07-26

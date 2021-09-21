@@ -1,5 +1,7 @@
 # Memento: Archivez
 
+![memento-archivez](https://cdn.myanimelist.net/images/manga/1/171982.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

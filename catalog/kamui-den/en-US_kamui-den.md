@@ -1,5 +1,7 @@
 # Kamui Den
 
+![kamui-den](https://cdn.myanimelist.net/images/manga/2/27264.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 71

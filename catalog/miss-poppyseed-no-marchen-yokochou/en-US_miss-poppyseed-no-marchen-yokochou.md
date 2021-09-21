@@ -1,5 +1,7 @@
 # Miss Poppyseed no Märchen Yokochou
 
+![miss-poppyseed-no-marchen-yokochou](https://cdn.myanimelist.net/images/manga/2/225098.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

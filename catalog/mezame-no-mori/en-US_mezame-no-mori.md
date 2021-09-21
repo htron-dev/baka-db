@@ -1,5 +1,7 @@
 # Mezame no Mori
 
+![mezame-no-mori](https://cdn.myanimelist.net/images/manga/2/31105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

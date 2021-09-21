@@ -1,5 +1,7 @@
 # Dolittle-sensei Monogatari
 
+![dolittle-sensei-monogatari](https://cdn.myanimelist.net/images/anime/12/71943.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ドリトル先生物語

@@ -1,5 +1,7 @@
 # Kokuou to Hisareta Oujo
 
+![kokuou-to-hisareta-oujo](https://cdn.myanimelist.net/images/manga/1/201924.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 国王と秘された王女

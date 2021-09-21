@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
 
+![jo-jo-no-kimyou-na-bouken-part-5-ougon-no-kaze](https://cdn.myanimelist.net/images/anime/1572/95010.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ジョジョの奇妙な冒険 黄金の風

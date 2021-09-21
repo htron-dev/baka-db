@@ -1,5 +1,7 @@
 # Kanzen Muketsu no Wedding Bell
 
+![kanzen-muketsu-no-wedding-bell](https://cdn.myanimelist.net/images/manga/3/192828.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

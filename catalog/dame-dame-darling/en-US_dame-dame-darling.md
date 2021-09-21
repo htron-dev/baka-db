@@ -1,5 +1,7 @@
 # Dame Dame Darling
 
+![dame-dame-darling](https://cdn.myanimelist.net/images/manga/5/161026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

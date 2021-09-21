@@ -1,5 +1,7 @@
 # Kage no Jitsuryokusha ni Naritakute!
 
+![kage-no-jitsuryokusha-ni-naritakute](https://cdn.myanimelist.net/images/manga/2/212205.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 陰の実力者になりたくて！
 -   **start-date**: 2018-11-05

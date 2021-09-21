@@ -1,5 +1,7 @@
 # Kiki to Lala no Hakuchouza no Ohimesama
 
+![kiki-to-lala-no-hakuchouza-no-ohimesama](https://cdn.myanimelist.net/images/anime/5/47853.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララの白鳥座のお姫さま

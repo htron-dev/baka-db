@@ -1,5 +1,7 @@
 # Kare wa Hitsuji wo Kabutta Ookami
 
+![kare-wa-hitsuji-wo-kabutta-ookami](https://cdn.myanimelist.net/images/manga/3/209914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

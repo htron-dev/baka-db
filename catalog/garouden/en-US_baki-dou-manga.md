@@ -1,5 +1,7 @@
 # Baki-dou
 
+![baki-dou](https://cdn.myanimelist.net/images/manga/1/188819.jpg)
+
 -   **type**: manga
 -   **original-name**: バキ道
 -   **start-date**: 2018-10-04

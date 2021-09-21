@@ -1,5 +1,7 @@
 # Eiyuu Banka Koushi-den
 
+![eiyuu-banka-koushi-den](https://cdn.myanimelist.net/images/anime/12/61727.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 英雄挽歌 孔子傳

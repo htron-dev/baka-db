@@ -1,5 +1,7 @@
 # Lie Yang Tiandao II
 
+![lie-yang-tiandao-ii](https://cdn.myanimelist.net/images/anime/1853/114415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 烈阳天道 Ⅱ

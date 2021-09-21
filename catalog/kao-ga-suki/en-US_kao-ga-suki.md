@@ -1,5 +1,7 @@
 # Kao ga Suki
 
+![kao-ga-suki](https://cdn.myanimelist.net/images/manga/3/168043.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 顔が好き

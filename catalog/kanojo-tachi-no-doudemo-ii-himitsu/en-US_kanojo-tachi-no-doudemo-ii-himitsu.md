@@ -1,5 +1,7 @@
 # Kanojo-tachi no Doudemo Ii Himitsu
 
+![kanojo-tachi-no-doudemo-ii-himitsu](https://cdn.myanimelist.net/images/manga/3/190901.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

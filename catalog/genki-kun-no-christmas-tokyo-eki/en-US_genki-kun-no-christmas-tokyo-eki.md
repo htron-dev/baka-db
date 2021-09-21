@@ -1,5 +1,7 @@
 # Genki-kun no Christmas @ Tokyo-eki
 
+![genki-kun-no-christmas-tokyo-eki](https://cdn.myanimelist.net/images/anime/6/88864.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 原器くんのクリスマス @ 東京駅

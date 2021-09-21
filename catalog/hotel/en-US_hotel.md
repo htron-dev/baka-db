@@ -1,5 +1,7 @@
 # Hotel
 
+![hotel](https://cdn.myanimelist.net/images/manga/3/161359.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 331

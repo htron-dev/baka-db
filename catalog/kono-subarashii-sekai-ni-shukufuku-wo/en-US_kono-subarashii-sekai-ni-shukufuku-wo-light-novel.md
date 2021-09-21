@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo!
 
+![kono-subarashii-sekai-ni-shukufuku-wo](https://cdn.myanimelist.net/images/manga/1/174932.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 17
 -   **chapters**: 127

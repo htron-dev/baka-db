@@ -1,5 +1,7 @@
 # Hiyokoi
 
+![hiyokoi](https://cdn.myanimelist.net/images/anime/7/27766.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ひよ恋

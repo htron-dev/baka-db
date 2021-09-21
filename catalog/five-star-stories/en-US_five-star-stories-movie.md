@@ -1,5 +1,7 @@
 # Five Star Stories
 
+![five-star-stories](https://cdn.myanimelist.net/images/anime/11/76054.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ファイブスター物語

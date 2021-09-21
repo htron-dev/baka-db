@@ -1,5 +1,7 @@
 # Isekai de Dorei ni Narimashita ga Goshujinsama wa Watashi ni Yokujou Shimasen
 
+![isekai-de-dorei-ni-narimashita-ga-goshujinsama-wa-watashi-ni-yokujou-shimasen](https://cdn.myanimelist.net/images/manga/3/222574.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界で奴隷になりましたがご主人さまは私に欲情しません
 -   **start-date**: 2018-04-19

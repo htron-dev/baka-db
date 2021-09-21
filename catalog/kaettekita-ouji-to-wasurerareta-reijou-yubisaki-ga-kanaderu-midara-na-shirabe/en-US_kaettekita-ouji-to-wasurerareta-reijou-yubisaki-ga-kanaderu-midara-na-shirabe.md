@@ -1,5 +1,7 @@
 # Kaettekita Ouji to Wasurerareta Reijou: Yubisaki ga Kanaderu Midara na Shirabe
 
+![kaettekita-ouji-to-wasurerareta-reijou-yubisaki-ga-kanaderu-midara-na-shirabe](https://cdn.myanimelist.net/images/manga/2/191937.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

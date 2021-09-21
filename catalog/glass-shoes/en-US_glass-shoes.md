@@ -1,5 +1,7 @@
 # Glass Shoes
 
+![glass-shoes](https://cdn.myanimelist.net/images/manga/3/41334.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 유리구두

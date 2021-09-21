@@ -1,5 +1,7 @@
 # Garo
 
+![garo](https://cdn.myanimelist.net/images/manga/3/149346.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 牙狼－GARO－

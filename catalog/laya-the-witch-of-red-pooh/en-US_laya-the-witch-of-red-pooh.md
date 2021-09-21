@@ -1,5 +1,7 @@
 # Laya, the Witch of Red Pooh
 
+![laya-the-witch-of-red-pooh](https://cdn.myanimelist.net/images/manga/3/7193.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 57

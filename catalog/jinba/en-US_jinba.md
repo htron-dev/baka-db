@@ -1,5 +1,7 @@
 # Jinba
 
+![jinba](https://cdn.myanimelist.net/images/manga/1/191387.jpg)
+
 -   **type**: manga
 -   **original-name**: 人馬
 -   **start-date**: 2016-08-18

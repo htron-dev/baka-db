@@ -1,5 +1,7 @@
 # Dakaretai Otoko
 
+![dakaretai-otoko](https://cdn.myanimelist.net/images/manga/2/73317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

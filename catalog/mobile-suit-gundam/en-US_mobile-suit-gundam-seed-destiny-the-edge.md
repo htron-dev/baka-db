@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Destiny: The Edge
 
+![mobile-suit-gundam-seed-destiny-the-edge](https://cdn.myanimelist.net/images/manga/3/19530.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

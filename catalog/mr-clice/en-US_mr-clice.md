@@ -1,5 +1,7 @@
 # Mr. Clice
 
+![mr-clice](https://cdn.myanimelist.net/images/manga/2/202604.jpg)
+
 -   **type**: manga
 -   **original-name**: Mr.Clice
 -   **start-date**: 1985-11-06

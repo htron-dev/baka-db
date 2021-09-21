@@ -1,5 +1,7 @@
 # Kudamimi no Neko
 
+![kudamimi-no-neko](https://cdn.myanimelist.net/images/manga/2/133371.jpg)
+
 -   **type**: manga
 -   **original-name**: くだみみの猫
 -   **start-date**: 2014-01-27

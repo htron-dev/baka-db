@@ -1,5 +1,7 @@
 # Hand Shakers: Go ago Go
 
+![hand-shakers-go-ago-go](https://cdn.myanimelist.net/images/anime/9/87980.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハンドシェイカー Go ago Go

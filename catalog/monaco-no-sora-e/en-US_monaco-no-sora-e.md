@@ -1,5 +1,7 @@
 # Monaco no Sora e
 
+![monaco-no-sora-e](https://cdn.myanimelist.net/images/manga/1/183612.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **original-name**: Monaco の空へ

@@ -1,5 +1,7 @@
 # Hunter Cats
 
+![hunter-cats](https://cdn.myanimelist.net/images/manga/2/133557.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

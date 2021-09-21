@@ -1,5 +1,7 @@
 # Green Apple Paradise Season 2
 
+![green-apple-paradise-season-2](https://cdn.myanimelist.net/images/manga/3/247495.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Kodomo no Jikan
 
+![kodomo-no-jikan](https://cdn.myanimelist.net/images/manga/1/62557.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 93

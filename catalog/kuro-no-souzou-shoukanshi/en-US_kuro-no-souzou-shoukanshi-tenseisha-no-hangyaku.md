@@ -1,5 +1,7 @@
 # Kuro no Souzou Shoukanshi: Tenseisha no Hangyaku
 
+![kuro-no-souzou-shoukanshi-tenseisha-no-hangyaku](https://cdn.myanimelist.net/images/manga/3/215988.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

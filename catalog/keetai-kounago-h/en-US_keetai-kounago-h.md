@@ -1,5 +1,7 @@
 # Keetai Kounago H
 
+![keetai-kounago-h](https://cdn.myanimelist.net/images/manga/2/156348.jpg)
+
 -   **type**: manga
 -   **chapters**: 17
 -   **original-name**: ケータイ小女子 H〈ヘブン〉

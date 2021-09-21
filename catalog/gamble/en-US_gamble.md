@@ -1,5 +1,7 @@
 # Gamble!
 
+![gamble](https://cdn.myanimelist.net/images/manga/3/16407.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 105

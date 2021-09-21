@@ -1,5 +1,7 @@
 # Lettuce to Ken
 
+![lettuce-to-ken](https://cdn.myanimelist.net/images/manga/1/28597.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: レタスと剣

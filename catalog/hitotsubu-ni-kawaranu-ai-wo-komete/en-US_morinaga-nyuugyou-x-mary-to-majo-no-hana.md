@@ -1,5 +1,7 @@
 # Morinaga Nyuugyou x Mary to Majo no Hana
 
+![morinaga-nyuugyou-x-mary-to-majo-no-hana](https://cdn.myanimelist.net/images/anime/1181/90242.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 森永乳業 × メアリと魔女の花

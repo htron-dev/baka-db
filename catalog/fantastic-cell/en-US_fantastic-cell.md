@@ -1,5 +1,7 @@
 # Fantastic Cell
 
+![fantastic-cell](https://cdn.myanimelist.net/images/anime/1243/107968.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: FANTASTIC CELL

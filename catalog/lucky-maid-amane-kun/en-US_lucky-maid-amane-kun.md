@@ -1,5 +1,7 @@
 # Lucky Maid Amane-kun
 
+![lucky-maid-amane-kun](https://cdn.myanimelist.net/images/manga/1/132875.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ラッキーメイド天くん

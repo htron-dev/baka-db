@@ -1,5 +1,7 @@
 # Ganbare! Bokura no Hit and Run
 
+![ganbare-bokura-no-hit-and-run](https://cdn.myanimelist.net/images/anime/9/33649.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: がんばれ！ぼくらのヒットエンドラン

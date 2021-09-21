@@ -1,5 +1,7 @@
 # Honoo no Toukyuuji: Dodge Danpei
 
+![honoo-no-toukyuuji-dodge-danpei](https://cdn.myanimelist.net/images/manga/2/11769.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: 炎の闘球児 ドッジ弾平

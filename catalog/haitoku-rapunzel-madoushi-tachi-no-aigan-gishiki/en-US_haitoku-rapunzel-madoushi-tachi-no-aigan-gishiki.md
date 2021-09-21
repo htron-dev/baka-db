@@ -1,5 +1,7 @@
 # Haitoku Rapunzel: Madoushi-tachi no Aigan Gishiki
 
+![haitoku-rapunzel-madoushi-tachi-no-aigan-gishiki](https://cdn.myanimelist.net/images/manga/2/193661.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

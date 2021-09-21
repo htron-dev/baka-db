@@ -1,5 +1,7 @@
 # Kaze ni Mau Brigandine
 
+![kaze-ni-mau-brigandine](https://cdn.myanimelist.net/images/manga/3/163397.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 22

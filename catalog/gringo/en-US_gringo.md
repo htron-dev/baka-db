@@ -1,5 +1,7 @@
 # Gringo
 
+![gringo](https://cdn.myanimelist.net/images/manga/2/183097.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

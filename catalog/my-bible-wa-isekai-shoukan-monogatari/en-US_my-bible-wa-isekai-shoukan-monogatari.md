@@ -1,5 +1,7 @@
 # My Bible wa "Isekai Shoukan Monogatari"
 
+![my-bible-wa-isekai-shoukan-monogatari](https://cdn.myanimelist.net/images/manga/2/167519.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マイバイブルは『異世界召喚物語』
 -   **start-date**: 2016-01-07

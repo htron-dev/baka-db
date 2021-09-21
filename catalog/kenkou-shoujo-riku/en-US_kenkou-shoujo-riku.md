@@ -1,5 +1,7 @@
 # Kenkou Shoujo Riku
 
+![kenkou-shoujo-riku](https://cdn.myanimelist.net/images/manga/2/105017.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

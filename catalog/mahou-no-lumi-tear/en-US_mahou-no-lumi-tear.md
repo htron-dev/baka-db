@@ -1,5 +1,7 @@
 # Mahou no LumiTear
 
+![mahou-no-lumi-tear](https://cdn.myanimelist.net/images/anime/1489/100241.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: まほうのルミティア

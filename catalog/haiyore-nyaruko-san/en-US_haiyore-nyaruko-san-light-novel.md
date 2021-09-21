@@ -1,5 +1,7 @@
 # Haiyore! Nyaruko-san
 
+![haiyore-nyaruko-san](https://cdn.myanimelist.net/images/manga/1/92423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 65

@@ -1,5 +1,7 @@
 # Jigoku Koi Suchou
 
+![jigoku-koi-suchou](https://cdn.myanimelist.net/images/manga/2/120069.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

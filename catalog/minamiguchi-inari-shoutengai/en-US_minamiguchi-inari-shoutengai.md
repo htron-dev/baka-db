@@ -1,5 +1,7 @@
 # Minamiguchi Inari Shoutengai
 
+![minamiguchi-inari-shoutengai](https://cdn.myanimelist.net/images/manga/1/24805.jpg)
+
 -   **type**: manga
 -   **original-name**: 南口いなり商店街
 

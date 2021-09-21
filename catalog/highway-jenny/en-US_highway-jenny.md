@@ -1,5 +1,7 @@
 # Highway Jenny
 
+![highway-jenny](https://cdn.myanimelist.net/images/anime/2/52723.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Highway Jenny

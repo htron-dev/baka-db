@@ -1,5 +1,7 @@
 # Kimi ga Waratta
 
+![kimi-ga-waratta](https://cdn.myanimelist.net/images/manga/5/140947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

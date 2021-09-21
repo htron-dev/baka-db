@@ -1,5 +1,7 @@
 # Itoshi Koishi
 
+![itoshi-koishi](https://cdn.myanimelist.net/images/manga/2/215756.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

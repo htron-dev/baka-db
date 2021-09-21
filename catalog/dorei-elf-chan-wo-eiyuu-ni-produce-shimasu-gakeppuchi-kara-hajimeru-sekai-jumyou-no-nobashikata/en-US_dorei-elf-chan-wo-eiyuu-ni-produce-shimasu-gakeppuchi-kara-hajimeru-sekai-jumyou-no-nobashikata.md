@@ -1,5 +1,7 @@
 # Dorei Elf-chan wo Eiyuu ni Produce Shimasu! Gakeppuchi kara Hajimeru Sekai Jumyou no Nobashikata
 
+![dorei-elf-chan-wo-eiyuu-ni-produce-shimasu-gakeppuchi-kara-hajimeru-sekai-jumyou-no-nobashikata](https://cdn.myanimelist.net/images/manga/3/183146.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 奴隷エルフちゃんを英雄にプロデュースします! 崖っぷちから始める世界寿命の延ばし方
 -   **start-date**: 2016-09-23

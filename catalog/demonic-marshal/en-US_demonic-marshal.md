@@ -1,5 +1,7 @@
 # Demonic Marshal
 
+![demonic-marshal](https://cdn.myanimelist.net/images/manga/1/194311.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔人執行官〈デモーニック・マーシャル〉

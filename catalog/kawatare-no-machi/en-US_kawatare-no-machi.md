@@ -1,5 +1,7 @@
 # Kawatare no Machi
 
+![kawatare-no-machi](https://cdn.myanimelist.net/images/manga/1/39385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: かわたれの街

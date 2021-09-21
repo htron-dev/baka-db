@@ -1,5 +1,7 @@
 # Mahoujin Guruguru
 
+![mahoujin-guruguru](https://cdn.myanimelist.net/images/manga/2/198207.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 168

@@ -1,5 +1,7 @@
 # Hashi no Ue no Ookami
 
+![hashi-no-ue-no-ookami](https://cdn.myanimelist.net/images/anime/7/83680.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はしのうえのおおかみ

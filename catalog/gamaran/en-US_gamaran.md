@@ -1,5 +1,7 @@
 # Gamaran
 
+![gamaran](https://cdn.myanimelist.net/images/manga/2/122963.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 194

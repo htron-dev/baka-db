@@ -1,5 +1,7 @@
 # Hard Days Nights
 
+![hard-days-nights](https://cdn.myanimelist.net/images/manga/1/157867.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 61

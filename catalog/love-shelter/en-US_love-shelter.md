@@ -1,5 +1,7 @@
 # Love Shelter
 
+![love-shelter](https://cdn.myanimelist.net/images/manga/3/250400.jpg)
+
 -   **type**: manga
 -   **original-name**: らぶしぇるたぁ
 

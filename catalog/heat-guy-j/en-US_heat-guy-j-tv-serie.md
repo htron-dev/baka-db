@@ -1,5 +1,7 @@
 # HeatGuy J
 
+![heat-guy-j](https://cdn.myanimelist.net/images/anime/10/76288.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ヒートガイジェイ

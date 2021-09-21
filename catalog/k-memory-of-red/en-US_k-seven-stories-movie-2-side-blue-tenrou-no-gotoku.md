@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku
 
+![k-seven-stories-movie-2-side-blue-tenrou-no-gotoku](https://cdn.myanimelist.net/images/anime/1640/90999.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories SIDE:BLUE ~天狼の如く~

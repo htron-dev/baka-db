@@ -1,5 +1,7 @@
 # Juuki Ningen Jumbor
 
+![juuki-ningen-jumbor](https://cdn.myanimelist.net/images/manga/2/222023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

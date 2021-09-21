@@ -1,5 +1,7 @@
 # Kinnikuman II-sei: Kyuukyoku no Choujin Tag-hen
 
+![kinnikuman-ii-sei-kyuukyoku-no-choujin-tag-hen](https://cdn.myanimelist.net/images/manga/2/164972.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 309

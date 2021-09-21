@@ -1,5 +1,7 @@
 # Homura no Me
 
+![homura-no-me](https://cdn.myanimelist.net/images/manga/1/138779.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

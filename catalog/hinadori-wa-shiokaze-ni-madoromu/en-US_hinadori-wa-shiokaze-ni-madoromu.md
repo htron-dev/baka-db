@@ -1,5 +1,7 @@
 # Hinadori wa Shiokaze ni Madoromu
 
+![hinadori-wa-shiokaze-ni-madoromu](https://cdn.myanimelist.net/images/manga/3/222175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

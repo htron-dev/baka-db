@@ -1,5 +1,7 @@
 # Mahou no Princess Minky Momo: Yume no Naka no Rondo
 
+![mahou-no-princess-minky-momo-yume-no-naka-no-rondo](https://cdn.myanimelist.net/images/anime/11/25776.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法のプリンセス ミンキーモモ夢の中の輪舞

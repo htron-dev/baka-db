@@ -1,5 +1,7 @@
 # Hakusei no Gallop
 
+![hakusei-no-gallop](https://cdn.myanimelist.net/images/manga/1/199908.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

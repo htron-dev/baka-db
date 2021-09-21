@@ -1,5 +1,7 @@
 # Hirusagari ni, Mata.
 
+![hirusagari-ni-mata](https://cdn.myanimelist.net/images/manga/1/232374.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

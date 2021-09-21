@@ -1,5 +1,7 @@
 # Imawa no Kuni no Alice
 
+![imawa-no-kuni-no-alice](https://cdn.myanimelist.net/images/manga/3/137237.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 87

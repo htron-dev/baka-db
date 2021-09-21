@@ -1,5 +1,7 @@
 # Kimi to Soine ga Shitemitai
 
+![kimi-to-soine-ga-shitemitai](https://cdn.myanimelist.net/images/manga/1/199550.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

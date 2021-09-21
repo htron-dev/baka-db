@@ -1,5 +1,7 @@
 # Koibito Daikou wo Hajimeta Ore, Naze ka Bishoujo no Shimei Irai ga Haittekuru
 
+![koibito-daikou-wo-hajimeta-ore-naze-ka-bishoujo-no-shimei-irai-ga-haittekuru](https://cdn.myanimelist.net/images/manga/1/247229.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 恋人代行をはじめた俺、なぜか美少女の指名依頼が入ってくる
 -   **start-date**: 2021-01-01

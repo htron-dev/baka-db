@@ -1,5 +1,7 @@
 # Magallanica
 
+![magallanica](https://cdn.myanimelist.net/images/manga/3/37835.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: めがらにか

@@ -1,5 +1,7 @@
 # Shuukan Shimakou
 
+![shuukan-shimakou](https://cdn.myanimelist.net/images/anime/1514/96543.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 週刊シマコー

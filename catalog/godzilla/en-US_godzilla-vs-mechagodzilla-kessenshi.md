@@ -1,5 +1,7 @@
 # Godzilla vs. Mechagodzilla: Kessenshi
 
+![godzilla-vs-mechagodzilla-kessenshi](https://cdn.myanimelist.net/images/manga/1/86299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

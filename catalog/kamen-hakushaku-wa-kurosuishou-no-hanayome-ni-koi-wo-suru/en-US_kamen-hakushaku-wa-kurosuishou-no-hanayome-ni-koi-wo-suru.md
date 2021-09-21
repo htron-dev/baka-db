@@ -1,5 +1,7 @@
 # Kamen Hakushaku wa Kurosuishou no Hanayome ni Koi wo Suru
 
+![kamen-hakushaku-wa-kurosuishou-no-hanayome-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/219135.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 仮面伯爵は黒水晶の花嫁に恋をする

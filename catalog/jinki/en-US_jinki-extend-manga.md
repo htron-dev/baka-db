@@ -1,5 +1,7 @@
 # Jinki:Extend
 
+![jinki-extend](https://cdn.myanimelist.net/images/manga/1/191935.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 53

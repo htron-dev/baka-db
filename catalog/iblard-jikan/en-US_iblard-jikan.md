@@ -1,5 +1,7 @@
 # Iblard Jikan
 
+![iblard-jikan](https://cdn.myanimelist.net/images/anime/2/18420.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: イバラード時間

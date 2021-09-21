@@ -1,5 +1,7 @@
 # Kono Sekai no Katasumi ni
 
+![kono-sekai-no-katasumi-ni](https://cdn.myanimelist.net/images/manga/3/45441.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 48

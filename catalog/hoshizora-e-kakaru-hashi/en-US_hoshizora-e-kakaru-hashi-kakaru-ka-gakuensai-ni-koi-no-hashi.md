@@ -1,5 +1,7 @@
 # Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi
 
+![hoshizora-e-kakaru-hashi-kakaru-ka-gakuensai-ni-koi-no-hashi](https://cdn.myanimelist.net/images/anime/10/30839.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星空へ架かる橋　架かるか？学園祭に恋の橋

@@ -1,5 +1,7 @@
 # Kick-Flight
 
+![kick-flight](https://cdn.myanimelist.net/images/anime/1747/102917.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Kick-Flight × KANA-BOON『FLYERS』アニメーション PV

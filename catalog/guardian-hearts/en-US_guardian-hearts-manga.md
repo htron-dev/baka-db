@@ -1,5 +1,7 @@
 # Guardian Hearts
 
+![guardian-hearts](https://cdn.myanimelist.net/images/manga/1/180608.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 68

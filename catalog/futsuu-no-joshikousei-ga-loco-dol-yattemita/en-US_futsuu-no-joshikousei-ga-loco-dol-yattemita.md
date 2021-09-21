@@ -1,5 +1,7 @@
 # Futsuu no Joshikousei ga [LocoDol] Yattemita.
 
+![futsuu-no-joshikousei-ga-loco-dol-yattemita](https://cdn.myanimelist.net/images/manga/1/113331.jpg)
+
 -   **type**: manga
 -   **original-name**: 普通の女子校生が【ろこどる】やってみた。
 -   **start-date**: 2011-08-22

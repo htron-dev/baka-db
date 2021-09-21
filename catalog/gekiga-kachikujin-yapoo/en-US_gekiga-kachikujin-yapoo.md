@@ -1,5 +1,7 @@
 # Gekiga Kachikujin Yapoo
 
+![gekiga-kachikujin-yapoo](https://cdn.myanimelist.net/images/manga/3/190568.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Fushigi Yuugi: Byakko Senki
 
+![fushigi-yuugi-byakko-senki](https://cdn.myanimelist.net/images/manga/1/223677.jpg)
+
 -   **type**: manga
 -   **original-name**: ふしぎ遊戯 白虎仙記
 -   **start-date**: 2017-08-28

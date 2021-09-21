@@ -1,5 +1,7 @@
 # Good Night! Angel
 
+![good-night-angel](https://cdn.myanimelist.net/images/manga/3/143627.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Good night! Angel

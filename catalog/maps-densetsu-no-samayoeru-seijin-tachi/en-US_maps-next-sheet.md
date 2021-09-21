@@ -1,5 +1,7 @@
 # Maps: Next Sheet
 
+![maps-next-sheet](https://cdn.myanimelist.net/images/manga/2/231864.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 60

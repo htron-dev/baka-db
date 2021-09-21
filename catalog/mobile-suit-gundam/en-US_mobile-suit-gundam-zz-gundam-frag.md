@@ -1,5 +1,7 @@
 # Mobile Suit Gundam ZZ: Gundam Frag.
 
+![mobile-suit-gundam-zz-gundam-frag](https://cdn.myanimelist.net/images/anime/8/88568.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 機動戦士ガンダム ZZ: GUNDAM FRAG.

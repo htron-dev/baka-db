@@ -1,5 +1,7 @@
 # Garouden
 
+![garouden](https://cdn.myanimelist.net/images/manga/4/76259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

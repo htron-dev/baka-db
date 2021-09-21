@@ -1,5 +1,7 @@
 # Dormitory Tomkins
 
+![dormitory-tomkins](https://cdn.myanimelist.net/images/manga/2/148819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

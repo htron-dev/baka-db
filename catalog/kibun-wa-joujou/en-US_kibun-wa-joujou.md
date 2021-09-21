@@ -1,5 +1,7 @@
 # Kibun wa Joujou!
 
+![kibun-wa-joujou](https://cdn.myanimelist.net/images/manga/3/15295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Duction Man
 
+![duction-man](https://cdn.myanimelist.net/images/manga/3/113149.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

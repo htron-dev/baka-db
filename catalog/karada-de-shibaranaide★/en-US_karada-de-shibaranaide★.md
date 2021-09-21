@@ -1,5 +1,7 @@
 # Karada de Shibaranaide★
 
+![karada-de-shibaranaide★](https://cdn.myanimelist.net/images/manga/2/161795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

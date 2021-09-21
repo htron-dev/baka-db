@@ -1,5 +1,7 @@
 # Mahoutsukai ni Narenakatta Onnanoko no Hanashi.
 
+![mahoutsukai-ni-narenakatta-onnanoko-no-hanashi](https://cdn.myanimelist.net/images/anime/1755/95859.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 魔法使いになれなかった女の子の話.
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Mahou Shoujo Site Recaps
 
+![mahou-shoujo-site-recaps](https://cdn.myanimelist.net/images/anime/1255/93332.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 魔法少女サイト ダイジェスト PV

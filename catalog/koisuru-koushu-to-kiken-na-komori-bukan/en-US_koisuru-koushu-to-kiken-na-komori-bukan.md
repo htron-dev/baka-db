@@ -1,5 +1,7 @@
 # Koisuru Koushu to Kiken na Komori Bukan
 
+![koisuru-koushu-to-kiken-na-komori-bukan](https://cdn.myanimelist.net/images/manga/1/167020.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Isekai no Sata wa Shachiku Shidai
 
+![isekai-no-sata-wa-shachiku-shidai](https://cdn.myanimelist.net/images/manga/3/239128.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界の沙汰は社畜次第
 -   **start-date**: 2020-03-26

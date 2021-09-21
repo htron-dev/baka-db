@@ -1,5 +1,7 @@
 # Fuujin Monogatari
 
+![fuujin-monogatari](https://cdn.myanimelist.net/images/anime/4/50349.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 風人物語

@@ -1,5 +1,7 @@
 # Koibito wa No.1 Host
 
+![koibito-wa-no-1-host](https://cdn.myanimelist.net/images/manga/1/23182.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋人は No.1 ホスト

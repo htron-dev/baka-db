@@ -1,5 +1,7 @@
 # Isekai kara JK Tensei shita Moto Imouto ga, Chouguigui kuru.
 
+![isekai-kara-jk-tensei-shita-moto-imouto-ga-chouguigui-kuru](https://cdn.myanimelist.net/images/manga/1/241452.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界から JK 転生した元妹が、超グイグイくる。
 -   **start-date**: 2019-11-30

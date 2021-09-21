@@ -1,5 +1,7 @@
 # Maiwai
 
+![maiwai](https://cdn.myanimelist.net/images/manga/1/155385.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 119

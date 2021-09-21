@@ -1,5 +1,7 @@
 # Hoshizora e Kakaru Hashi
 
+![hoshizora-e-kakaru-hashi](https://cdn.myanimelist.net/images/anime/3/73521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 星空へ架かる橋

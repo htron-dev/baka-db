@@ -1,5 +1,7 @@
 # Mikosuri Han-Gekijou
 
+![mikosuri-han-gekijou](https://cdn.myanimelist.net/images/manga/3/46907.jpg)
+
 -   **type**: manga
 -   **original-name**: みこすり半劇場
 

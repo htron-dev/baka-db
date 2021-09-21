@@ -1,5 +1,7 @@
 # Le Rong Long
 
+![le-rong-long](https://cdn.myanimelist.net/images/anime/1700/115248.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 乐融龙

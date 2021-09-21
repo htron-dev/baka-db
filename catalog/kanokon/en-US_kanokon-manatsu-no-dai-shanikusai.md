@@ -1,5 +1,7 @@
 # Kanokon: Manatsu no Dai Shanikusai
 
+![kanokon-manatsu-no-dai-shanikusai](https://cdn.myanimelist.net/images/anime/13/80506.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: かのこん ～真夏の大謝肉祭～

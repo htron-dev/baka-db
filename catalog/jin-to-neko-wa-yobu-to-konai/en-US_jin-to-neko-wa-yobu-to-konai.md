@@ -1,5 +1,7 @@
 # Jin to Neko wa Yobu to Konai
 
+![jin-to-neko-wa-yobu-to-konai](https://cdn.myanimelist.net/images/manga/2/32226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

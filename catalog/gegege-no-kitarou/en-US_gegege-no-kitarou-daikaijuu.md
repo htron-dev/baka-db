@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Daikaijuu
 
+![gegege-no-kitarou-daikaijuu](https://cdn.myanimelist.net/images/anime/4/20380.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 大海獣

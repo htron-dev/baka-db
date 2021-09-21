@@ -1,5 +1,7 @@
 # Denka no Kaden
 
+![denka-no-kaden](https://cdn.myanimelist.net/images/manga/1/190418.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

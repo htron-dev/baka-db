@@ -1,5 +1,7 @@
 # Kaijuu no Kodomo
 
+![kaijuu-no-kodomo](https://cdn.myanimelist.net/images/anime/1103/99778.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海獣の子供

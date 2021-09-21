@@ -1,5 +1,7 @@
 # Honnou Chocolat
 
+![honnou-chocolat](https://cdn.myanimelist.net/images/manga/2/203732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mahou? Sonna Koto yori Kinniku da!
 
+![mahou-sonna-koto-yori-kinniku-da](https://cdn.myanimelist.net/images/manga/1/196937.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔法？そんなことより筋肉だ！
 -   **start-date**: 2017-06-24

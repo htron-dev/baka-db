@@ -1,5 +1,7 @@
 # Lupin III M
 
+![lupin-iii-m](https://cdn.myanimelist.net/images/manga/3/174775.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

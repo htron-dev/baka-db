@@ -1,5 +1,7 @@
 # Demon Sacred
 
+![demon-sacred](https://cdn.myanimelist.net/images/manga/3/11324.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: デーモン聖典

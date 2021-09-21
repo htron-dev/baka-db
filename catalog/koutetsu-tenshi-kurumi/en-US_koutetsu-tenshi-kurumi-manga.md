@@ -1,5 +1,7 @@
 # Koutetsu Tenshi Kurumi
 
+![koutetsu-tenshi-kurumi](https://cdn.myanimelist.net/images/manga/1/149176.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 69

@@ -1,5 +1,7 @@
 # Kämpfer
 
+![kampfer](https://cdn.myanimelist.net/images/manga/2/95765.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 56

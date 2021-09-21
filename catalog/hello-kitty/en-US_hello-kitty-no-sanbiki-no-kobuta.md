@@ -1,5 +1,7 @@
 # Hello Kitty no Sanbiki no Kobuta
 
+![hello-kitty-no-sanbiki-no-kobuta](https://cdn.myanimelist.net/images/anime/13/58701.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの 3 匹の子ぶた

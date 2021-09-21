@@ -1,5 +1,7 @@
 # Kono Kuni no Fukou ni Tsukaete
 
+![kono-kuni-no-fukou-ni-tsukaete](https://cdn.myanimelist.net/images/manga/3/237302.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

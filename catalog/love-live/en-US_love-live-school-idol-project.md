@@ -1,5 +1,7 @@
 # Love Live! School Idol Project
 
+![love-live-school-idol-project](https://cdn.myanimelist.net/images/anime/11/56849.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ラブライブ! School idol project

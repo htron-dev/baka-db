@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Tunnel no Tan
 
+![ito-junji-kyoufu-manga-collection-tunnel-no-tan](https://cdn.myanimelist.net/images/manga/5/185885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

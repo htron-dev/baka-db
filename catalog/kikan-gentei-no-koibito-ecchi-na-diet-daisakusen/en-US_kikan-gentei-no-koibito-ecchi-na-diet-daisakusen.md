@@ -1,5 +1,7 @@
 # Kikan Gentei no Koibito: Ecchi na Diet Daisakusen
 
+![kikan-gentei-no-koibito-ecchi-na-diet-daisakusen](https://cdn.myanimelist.net/images/manga/3/198172.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 期間限定の恋人　エッチなダイエット大作戦

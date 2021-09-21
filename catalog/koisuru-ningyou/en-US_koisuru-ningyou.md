@@ -1,5 +1,7 @@
 # Koisuru Ningyou
 
+![koisuru-ningyou](https://cdn.myanimelist.net/images/manga/1/2412.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋する人形
 

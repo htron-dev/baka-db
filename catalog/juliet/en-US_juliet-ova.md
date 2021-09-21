@@ -1,5 +1,7 @@
 # Juliet
 
+![juliet](https://cdn.myanimelist.net/images/anime/1322/111777.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジュリエット

@@ -1,5 +1,7 @@
 # Kimi no Tame ni Hiku Chopin
 
+![kimi-no-tame-ni-hiku-chopin](https://cdn.myanimelist.net/images/manga/2/164493.jpg)
+
 -   **type**: manga
 -   **original-name**: 君のために弾くショパン
 -   **start-date**: 2010-10-02

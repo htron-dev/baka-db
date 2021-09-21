@@ -1,5 +1,7 @@
 # Hwaja
 
+![hwaja](https://cdn.myanimelist.net/images/manga/1/158656.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 10

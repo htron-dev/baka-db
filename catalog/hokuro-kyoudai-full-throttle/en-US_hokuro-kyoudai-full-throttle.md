@@ -1,5 +1,7 @@
 # Hokuro Kyoudai Full Throttle!!!!
 
+![hokuro-kyoudai-full-throttle](https://cdn.myanimelist.net/images/anime/11/29236.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ホクロ兄弟 フルスロットル!!!!

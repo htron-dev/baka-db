@@ -1,5 +1,7 @@
 # Hagane no Onna
 
+![hagane-no-onna](https://cdn.myanimelist.net/images/manga/3/40511.jpg)
+
 -   **type**: manga
 -   **original-name**: ハガネの女
 

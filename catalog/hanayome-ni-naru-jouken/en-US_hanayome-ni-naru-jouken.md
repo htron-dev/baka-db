@@ -1,5 +1,7 @@
 # Hanayome ni Naru Jouken
 
+![hanayome-ni-naru-jouken](https://cdn.myanimelist.net/images/manga/5/60123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Heya
 
+![heya](https://cdn.myanimelist.net/images/anime/6/16392.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 部屋

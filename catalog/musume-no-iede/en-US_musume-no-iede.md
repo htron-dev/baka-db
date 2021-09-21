@@ -1,5 +1,7 @@
 # Musume no Iede
 
+![musume-no-iede](https://cdn.myanimelist.net/images/manga/3/191961.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

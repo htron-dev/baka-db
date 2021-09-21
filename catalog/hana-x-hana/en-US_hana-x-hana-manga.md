@@ -1,5 +1,7 @@
 # Hana x Hana
 
+![hana-x-hana](https://cdn.myanimelist.net/images/manga/3/168024.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

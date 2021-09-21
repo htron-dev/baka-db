@@ -1,5 +1,7 @@
 # D.Y.N. Freaks
 
+![d-y-n-freaks](https://cdn.myanimelist.net/images/manga/2/120805.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

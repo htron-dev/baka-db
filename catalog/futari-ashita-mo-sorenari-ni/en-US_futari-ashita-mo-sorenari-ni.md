@@ -1,5 +1,7 @@
 # Futari Ashita mo Sorenari ni
 
+![futari-ashita-mo-sorenari-ni](https://cdn.myanimelist.net/images/manga/2/228699.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 92

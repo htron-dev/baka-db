@@ -1,5 +1,7 @@
 # Hitori de Nomeru Mon!
 
+![hitori-de-nomeru-mon](https://cdn.myanimelist.net/images/manga/3/215821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Itsuka Yume no Naka de
 
+![itsuka-yume-no-naka-de](https://cdn.myanimelist.net/images/manga/1/20660.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

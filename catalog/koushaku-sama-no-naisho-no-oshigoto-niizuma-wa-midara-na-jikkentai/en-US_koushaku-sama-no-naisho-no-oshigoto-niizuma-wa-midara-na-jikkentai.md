@@ -1,5 +1,7 @@
 # Koushaku-sama no Naisho no Oshigoto: Niizuma wa Midara na Jikkentai
 
+![koushaku-sama-no-naisho-no-oshigoto-niizuma-wa-midara-na-jikkentai](https://cdn.myanimelist.net/images/manga/1/195699.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

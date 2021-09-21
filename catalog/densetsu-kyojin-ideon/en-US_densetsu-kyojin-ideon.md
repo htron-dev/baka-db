@@ -1,5 +1,7 @@
 # Densetsu Kyojin Ideon
 
+![densetsu-kyojin-ideon](https://cdn.myanimelist.net/images/anime/4/77068.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 伝説巨神イデオン

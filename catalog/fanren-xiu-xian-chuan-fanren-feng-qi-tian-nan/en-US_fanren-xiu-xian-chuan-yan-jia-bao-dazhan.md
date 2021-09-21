@@ -1,5 +1,7 @@
 # Fanren Xiu Xian Chuan: Yan Jia Bao Dazhan
 
+![fanren-xiu-xian-chuan-yan-jia-bao-dazhan](https://cdn.myanimelist.net/images/anime/1323/114855.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 凡人修仙传 特别篇 燕家堡大战

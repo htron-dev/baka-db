@@ -1,5 +1,7 @@
 # Menya
 
+![menya](https://cdn.myanimelist.net/images/manga/2/246135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Girlish Season
 
+![girlish-season](https://cdn.myanimelist.net/images/manga/2/178435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

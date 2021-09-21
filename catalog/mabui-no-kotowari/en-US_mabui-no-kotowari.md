@@ -1,5 +1,7 @@
 # Mabui no Kotowari
 
+![mabui-no-kotowari](https://cdn.myanimelist.net/images/manga/2/22119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

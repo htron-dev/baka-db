@@ -1,5 +1,7 @@
 # Kou, Yubi
 
+![kou-yubi](https://cdn.myanimelist.net/images/manga/2/28297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Futari no Otto: Meiji Futakoi Erotica
 
+![futari-no-otto-meiji-futakoi-erotica](https://cdn.myanimelist.net/images/manga/2/183109.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Litchi DE Hikari Club
 
+![litchi-de-hikari-club](https://cdn.myanimelist.net/images/anime/11/40867.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ライチ DE 光クラブ

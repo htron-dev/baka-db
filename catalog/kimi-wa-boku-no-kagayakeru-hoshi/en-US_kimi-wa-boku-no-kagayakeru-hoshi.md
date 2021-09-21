@@ -1,5 +1,7 @@
 # Kimi wa Boku no Kagayakeru Hoshi
 
+![kimi-wa-boku-no-kagayakeru-hoshi](https://cdn.myanimelist.net/images/manga/2/10107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

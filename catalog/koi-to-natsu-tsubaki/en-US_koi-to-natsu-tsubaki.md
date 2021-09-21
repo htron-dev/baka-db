@@ -1,5 +1,7 @@
 # Koi to Natsu Tsubaki
 
+![koi-to-natsu-tsubaki](https://cdn.myanimelist.net/images/manga/5/109661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

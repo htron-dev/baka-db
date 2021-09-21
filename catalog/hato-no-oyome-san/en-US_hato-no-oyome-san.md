@@ -1,5 +1,7 @@
 # Hato no Oyome-san
 
+![hato-no-oyome-san](https://cdn.myanimelist.net/images/anime/10/28949.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ハトのおよめさん

@@ -1,5 +1,7 @@
 # Kannushi-san to Boku no Kanojo
 
+![kannushi-san-to-boku-no-kanojo](https://cdn.myanimelist.net/images/manga/2/227932.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

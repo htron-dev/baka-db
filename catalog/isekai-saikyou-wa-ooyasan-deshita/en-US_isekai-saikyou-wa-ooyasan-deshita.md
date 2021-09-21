@@ -1,5 +1,7 @@
 # Isekai Saikyou wa Ooyasan Deshita
 
+![isekai-saikyou-wa-ooyasan-deshita](https://cdn.myanimelist.net/images/manga/2/176665.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

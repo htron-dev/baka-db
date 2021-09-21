@@ -1,5 +1,7 @@
 # Kawaisugi Crisis
 
+![kawaisugi-crisis](https://cdn.myanimelist.net/images/manga/3/233059.jpg)
+
 -   **type**: manga
 -   **original-name**: カワイスギクライシス
 -   **start-date**: 2019-10-04

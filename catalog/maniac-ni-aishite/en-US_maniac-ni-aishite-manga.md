@@ -1,5 +1,7 @@
 # Maniac ni Aishite♥
 
+![maniac-ni-aishite♥](https://cdn.myanimelist.net/images/manga/2/45292.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

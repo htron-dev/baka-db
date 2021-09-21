@@ -1,5 +1,7 @@
 # Kamiusagi Rope & Taka no Tsume Collab Eizou-hen
 
+![kamiusagi-rope-taka-no-tsume-collab-eizou-hen](https://cdn.myanimelist.net/images/anime/12/85033.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 紙兎ロぺ＆鷹の爪コラボ　映像編

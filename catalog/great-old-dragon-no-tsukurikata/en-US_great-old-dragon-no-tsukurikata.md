@@ -1,5 +1,7 @@
 # Great Old: Dragon no Tsukurikata
 
+![great-old-dragon-no-tsukurikata](https://cdn.myanimelist.net/images/manga/1/206661.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

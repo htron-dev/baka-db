@@ -1,5 +1,7 @@
 # Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara
 
+![kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara](https://cdn.myanimelist.net/images/anime/1357/113277.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 究極進化したフルダイブ RPG が現実よりもクソゲーだったら

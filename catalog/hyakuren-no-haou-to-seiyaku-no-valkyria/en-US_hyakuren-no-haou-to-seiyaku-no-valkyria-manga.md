@@ -1,5 +1,7 @@
 # Hyakuren no Haou to Seiyaku no Valkyria
 
+![hyakuren-no-haou-to-seiyaku-no-valkyria](https://cdn.myanimelist.net/images/manga/1/167643.jpg)
+
 -   **type**: manga
 -   **original-name**: 百錬の覇王と聖約の戦乙女〈ヴァルキュリア〉
 -   **start-date**: 2015-02-13

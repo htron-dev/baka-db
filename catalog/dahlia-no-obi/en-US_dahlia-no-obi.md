@@ -1,5 +1,7 @@
 # Dahlia no Obi
 
+![dahlia-no-obi](https://cdn.myanimelist.net/images/manga/3/23476.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

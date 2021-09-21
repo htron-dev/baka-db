@@ -1,5 +1,7 @@
 # Kokoro Connect
 
+![kokoro-connect](https://cdn.myanimelist.net/images/anime/2/39665.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ココロコネクト

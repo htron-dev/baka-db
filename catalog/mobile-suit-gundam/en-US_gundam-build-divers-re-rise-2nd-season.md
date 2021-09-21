@@ -1,5 +1,7 @@
 # Gundam Build Divers Re:Rise 2nd Season
 
+![gundam-build-divers-re-rise-2nd-season](https://cdn.myanimelist.net/images/anime/1962/105909.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ガンダムビルドダイバーズ Re:RISE

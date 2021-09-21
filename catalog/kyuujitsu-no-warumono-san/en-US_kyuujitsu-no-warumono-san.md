@@ -1,5 +1,7 @@
 # Kyuujitsu no Warumono-san
 
+![kyuujitsu-no-warumono-san](https://cdn.myanimelist.net/images/manga/2/219160.jpg)
+
 -   **type**: manga
 -   **original-name**: 休日のわるものさん
 -   **start-date**: 2018-12-15

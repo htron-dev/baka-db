@@ -1,5 +1,7 @@
 # Mitsubachi Maya no Bouken
 
+![mitsubachi-maya-no-bouken](https://cdn.myanimelist.net/images/anime/6/3358.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: みつばちマーヤの冒険

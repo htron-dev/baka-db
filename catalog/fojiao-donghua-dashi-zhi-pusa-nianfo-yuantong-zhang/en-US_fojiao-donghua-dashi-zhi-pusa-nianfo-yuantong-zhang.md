@@ -1,5 +1,7 @@
 # Fojiao Donghua: Dashi Zhi Pusa Nianfo Yuantong Zhang
 
+![fojiao-donghua-dashi-zhi-pusa-nianfo-yuantong-zhang](https://cdn.myanimelist.net/images/anime/12/71685.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 佛教動畫-大勢至菩薩念佛圓通章

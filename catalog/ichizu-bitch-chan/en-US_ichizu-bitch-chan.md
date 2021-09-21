@@ -1,5 +1,7 @@
 # Ichizu Bitch-chan
 
+![ichizu-bitch-chan](https://cdn.myanimelist.net/images/manga/1/234782.jpg)
+
 -   **type**: manga
 -   **original-name**: 一途ビッチちゃん
 -   **start-date**: 2020-05-28

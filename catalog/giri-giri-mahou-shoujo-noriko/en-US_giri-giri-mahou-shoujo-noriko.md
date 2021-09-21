@@ -1,5 +1,7 @@
 # Giri Giri Mahou Shoujo? Noriko
 
+![giri-giri-mahou-shoujo-noriko](https://cdn.myanimelist.net/images/manga/1/123931.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ギリギリ魔法少女? 法子

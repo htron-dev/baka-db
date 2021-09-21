@@ -1,5 +1,7 @@
 # Fate/stay night TV Reproduction
 
+![fate-stay-night-tv-reproduction](https://cdn.myanimelist.net/images/anime/7/33537.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Fate/stay night

@@ -1,5 +1,7 @@
 # Genkoku Senki Crow
 
+![genkoku-senki-crow](https://cdn.myanimelist.net/images/manga/1/163484.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 幻國戦記 CROW

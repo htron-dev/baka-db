@@ -1,5 +1,7 @@
 # Kusano to Nozomi
 
+![kusano-to-nozomi](https://cdn.myanimelist.net/images/manga/3/249626.jpg)
+
 -   **type**: manga
 -   **original-name**: 草野と希
 -   **start-date**: 2021-02-26

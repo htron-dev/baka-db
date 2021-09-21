@@ -1,5 +1,7 @@
 # Fireball Charming
 
+![fireball-charming](https://cdn.myanimelist.net/images/anime/4/28791.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ファイアボール チャーミング

@@ -1,5 +1,7 @@
 # Jiki Kokuou no Kimete wa Hanshokuryoku dasou desu
 
+![jiki-kokuou-no-kimete-wa-hanshokuryoku-dasou-desu](https://cdn.myanimelist.net/images/manga/2/225596.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Last Exile
 
+![last-exile](https://cdn.myanimelist.net/images/anime/7/10888.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: LAST EXILE（ラストエグザイル）

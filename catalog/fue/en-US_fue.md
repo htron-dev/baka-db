@@ -1,5 +1,7 @@
 # Fue
 
+![fue](https://cdn.myanimelist.net/images/anime/6/71811.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 笛

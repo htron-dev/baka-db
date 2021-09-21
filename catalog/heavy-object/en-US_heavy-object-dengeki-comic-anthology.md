@@ -1,5 +1,7 @@
 # Heavy Object: Dengeki Comic Anthology
 
+![heavy-object-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/240047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

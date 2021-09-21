@@ -1,5 +1,7 @@
 # Jackals
 
+![jackals](https://cdn.myanimelist.net/images/manga/1/55707.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 56

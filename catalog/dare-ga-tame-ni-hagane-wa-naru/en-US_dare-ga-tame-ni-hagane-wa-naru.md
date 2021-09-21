@@ -1,5 +1,7 @@
 # Dare ga Tame ni Hagane wa Naru
 
+![dare-ga-tame-ni-hagane-wa-naru](https://cdn.myanimelist.net/images/manga/1/149303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Khan: Kusa to Tetsu to Hitsuji
 
+![khan-kusa-to-tetsu-to-hitsuji](https://cdn.myanimelist.net/images/manga/2/209558.jpg)
+
 -   **type**: manga
 -   **original-name**: ハーン－草と鉄と羊－
 -   **start-date**: 2017-12-14

@@ -1,5 +1,7 @@
 # Forest of Gray City
 
+![forest-of-gray-city](https://cdn.myanimelist.net/images/manga/3/1261.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 16

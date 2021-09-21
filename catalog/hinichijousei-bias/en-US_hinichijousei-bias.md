@@ -1,5 +1,7 @@
 # Hinichijousei Bias
 
+![hinichijousei-bias](https://cdn.myanimelist.net/images/manga/1/112197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

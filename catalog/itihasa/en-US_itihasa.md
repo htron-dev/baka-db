@@ -1,5 +1,7 @@
 # Itihasa
 
+![itihasa](https://cdn.myanimelist.net/images/manga/3/177594.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: イティハーサ

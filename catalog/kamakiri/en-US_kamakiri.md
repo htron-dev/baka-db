@@ -1,5 +1,7 @@
 # Kamakiri
 
+![kamakiri](https://cdn.myanimelist.net/images/manga/5/15092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

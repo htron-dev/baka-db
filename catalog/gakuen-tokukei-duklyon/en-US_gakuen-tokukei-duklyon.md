@@ -1,5 +1,7 @@
 # Gakuen Tokukei Duklyon
 
+![gakuen-tokukei-duklyon](https://cdn.myanimelist.net/images/manga/4/1106.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

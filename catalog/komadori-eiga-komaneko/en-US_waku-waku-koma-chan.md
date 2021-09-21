@@ -1,5 +1,7 @@
 # Waku Waku Koma-chan
 
+![waku-waku-koma-chan](https://cdn.myanimelist.net/images/anime/8/80508.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: THE CURIOUS KITTY & FRIENDS 「ワクワクこまちゃん」

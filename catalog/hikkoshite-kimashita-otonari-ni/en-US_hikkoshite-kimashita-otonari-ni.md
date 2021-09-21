@@ -1,5 +1,7 @@
 # Hikkoshite Kimashita. Otonari ni
 
+![hikkoshite-kimashita-otonari-ni](https://cdn.myanimelist.net/images/manga/3/207557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

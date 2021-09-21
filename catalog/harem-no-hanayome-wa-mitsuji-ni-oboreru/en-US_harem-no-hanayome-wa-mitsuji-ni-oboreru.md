@@ -1,5 +1,7 @@
 # Harem no Hanayome wa Mitsuji ni Oboreru
 
+![harem-no-hanayome-wa-mitsuji-ni-oboreru](https://cdn.myanimelist.net/images/manga/1/193045.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

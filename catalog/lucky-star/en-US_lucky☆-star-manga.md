@@ -1,5 +1,7 @@
 # Lucky☆Star
 
+![lucky☆-star](https://cdn.myanimelist.net/images/manga/2/55723.jpg)
+
 -   **type**: manga
 -   **original-name**: らき ☆ すた
 -   **start-date**: 2003-12-10

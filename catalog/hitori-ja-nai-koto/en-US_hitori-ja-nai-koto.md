@@ -1,5 +1,7 @@
 # Hitori ja Nai Koto
 
+![hitori-ja-nai-koto](https://cdn.myanimelist.net/images/manga/1/30571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

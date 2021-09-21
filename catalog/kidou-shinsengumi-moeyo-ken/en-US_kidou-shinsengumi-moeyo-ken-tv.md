@@ -1,5 +1,7 @@
 # Kidou Shinsengumi Moeyo Ken TV
 
+![kidou-shinsengumi-moeyo-ken-tv](https://cdn.myanimelist.net/images/anime/4/3461.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 機動新撰組 萌えよ剣 TV

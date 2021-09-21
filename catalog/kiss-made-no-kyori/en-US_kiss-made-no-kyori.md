@@ -1,5 +1,7 @@
 # Kiss made no Kyori
 
+![kiss-made-no-kyori](https://cdn.myanimelist.net/images/manga/3/135291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キスまでの距離

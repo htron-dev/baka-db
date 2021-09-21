@@ -1,5 +1,7 @@
 # Miami☆Guns
 
+![miami☆-guns](https://cdn.myanimelist.net/images/manga/1/199643.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

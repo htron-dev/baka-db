@@ -1,5 +1,7 @@
 # Koutetsu no Quadriga
 
+![koutetsu-no-quadriga](https://cdn.myanimelist.net/images/manga/2/162002.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

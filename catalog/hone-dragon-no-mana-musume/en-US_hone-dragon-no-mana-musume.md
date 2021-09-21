@@ -1,5 +1,7 @@
 # Hone Dragon no Mana Musume
 
+![hone-dragon-no-mana-musume](https://cdn.myanimelist.net/images/manga/1/245805.jpg)
+
 -   **type**: manga
 -   **original-name**: 骨ドラゴンのマナ娘
 -   **start-date**: 2020-09-25

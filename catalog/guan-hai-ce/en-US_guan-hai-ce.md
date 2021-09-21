@@ -1,5 +1,7 @@
 # Guan Hai Ce
 
+![guan-hai-ce](https://cdn.myanimelist.net/images/anime/1711/108541.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 观海策

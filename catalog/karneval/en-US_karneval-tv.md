@@ -1,5 +1,7 @@
 # Karneval (TV)
 
+![karneval-tv](https://cdn.myanimelist.net/images/anime/8/46639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: カーニヴァル

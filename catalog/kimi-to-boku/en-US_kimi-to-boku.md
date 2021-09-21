@@ -1,5 +1,7 @@
 # Kimi to Boku
 
+![kimi-to-boku](https://cdn.myanimelist.net/images/anime/5/54461.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キミとボク

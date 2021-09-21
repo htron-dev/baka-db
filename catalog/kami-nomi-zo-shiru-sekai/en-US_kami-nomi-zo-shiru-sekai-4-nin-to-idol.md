@@ -1,5 +1,7 @@
 # Kami nomi zo Shiru Sekai: 4-nin to Idol
 
+![kami-nomi-zo-shiru-sekai-4-nin-to-idol](https://cdn.myanimelist.net/images/anime/12/32297.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 神のみぞ知るセカイ　４人とアイドル

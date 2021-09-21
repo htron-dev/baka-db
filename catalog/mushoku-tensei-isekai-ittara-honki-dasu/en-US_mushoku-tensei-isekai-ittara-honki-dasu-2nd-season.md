@@ -1,5 +1,7 @@
 # Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season
 
+![mushoku-tensei-isekai-ittara-honki-dasu-2nd-season](https://cdn.myanimelist.net/images/anime/1028/117777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 無職転生 ～異世界行ったら本気だす～

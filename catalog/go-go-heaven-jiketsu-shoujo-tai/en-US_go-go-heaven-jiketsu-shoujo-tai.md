@@ -1,5 +1,7 @@
 # Go! Go! Heaven!: Jiketsu Shoujo-tai
 
+![go-go-heaven-jiketsu-shoujo-tai](https://cdn.myanimelist.net/images/manga/5/27445.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

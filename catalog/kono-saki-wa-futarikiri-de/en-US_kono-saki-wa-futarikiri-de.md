@@ -1,5 +1,7 @@
 # Kono Saki wa Futarikiri de
 
+![kono-saki-wa-futarikiri-de](https://cdn.myanimelist.net/images/manga/3/237852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hannari Girori no Yoriko-san
 
+![hannari-girori-no-yoriko-san](https://cdn.myanimelist.net/images/manga/1/191752.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 91

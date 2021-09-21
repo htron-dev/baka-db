@@ -1,5 +1,7 @@
 # Kanojo no Dokushinshatachi ni Yotte Hadaka ni Sareta Seifuku no Shojo Kenkyuu
 
+![kanojo-no-dokushinshatachi-ni-yotte-hadaka-ni-sareta-seifuku-no-shojo-kenkyuu](https://cdn.myanimelist.net/images/anime/13/58451.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 彼女の独身者たちによって裸にされた性服の処女研究

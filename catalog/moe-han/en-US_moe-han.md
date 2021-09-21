@@ -1,5 +1,7 @@
 # Moe Han!
 
+![moe-han](https://cdn.myanimelist.net/images/manga/3/42153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

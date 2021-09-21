@@ -1,5 +1,7 @@
 # Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi
 
+![doraemon-movie-22-nobita-to-tsubasa-no-yuusha-tachi](https://cdn.myanimelist.net/images/anime/2/72427.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と翼の勇者たち

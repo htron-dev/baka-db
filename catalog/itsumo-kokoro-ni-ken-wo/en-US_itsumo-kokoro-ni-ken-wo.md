@@ -1,5 +1,7 @@
 # Itsumo Kokoro ni Ken wo
 
+![itsumo-kokoro-ni-ken-wo](https://cdn.myanimelist.net/images/manga/3/163282.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 27

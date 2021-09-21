@@ -1,5 +1,7 @@
 # Gu-Gu Ganmo
 
+![gu-gu-ganmo](https://cdn.myanimelist.net/images/anime/11/4395.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: Gu-Gu ガンモ

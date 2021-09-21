@@ -1,5 +1,7 @@
 # Kyou no Kira-kun
 
+![kyou-no-kira-kun](https://cdn.myanimelist.net/images/manga/1/134993.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

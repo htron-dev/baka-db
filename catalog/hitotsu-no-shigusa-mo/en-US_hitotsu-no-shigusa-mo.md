@@ -1,5 +1,7 @@
 # Hitotsu no Shigusa mo
 
+![hitotsu-no-shigusa-mo](https://cdn.myanimelist.net/images/manga/2/88951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひとつのしぐさも

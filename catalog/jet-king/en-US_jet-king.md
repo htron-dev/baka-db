@@ -1,5 +1,7 @@
 # Jet King
 
+![jet-king](https://cdn.myanimelist.net/images/manga/2/237836.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジェットキング

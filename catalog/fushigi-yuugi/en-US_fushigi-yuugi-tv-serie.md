@@ -1,5 +1,7 @@
 # Fushigi Yuugi
 
+![fushigi-yuugi](https://cdn.myanimelist.net/images/anime/2/20140.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ふしぎ遊戯

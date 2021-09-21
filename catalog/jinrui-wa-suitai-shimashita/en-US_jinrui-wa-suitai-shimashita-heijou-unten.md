@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita: Heijou Unten
 
+![jinrui-wa-suitai-shimashita-heijou-unten](https://cdn.myanimelist.net/images/manga/2/146229.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

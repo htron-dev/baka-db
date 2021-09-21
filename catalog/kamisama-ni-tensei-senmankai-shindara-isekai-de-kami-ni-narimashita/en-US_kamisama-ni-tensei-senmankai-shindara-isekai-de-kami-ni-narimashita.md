@@ -1,5 +1,7 @@
 # Kamisama ni Tensei: Senmankai Shindara Isekai de Kami ni Narimashita
 
+![kamisama-ni-tensei-senmankai-shindara-isekai-de-kami-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/181418.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神様に転生~千万回死んだら異世界で神になりました~
 -   **start-date**: 2016-06-15

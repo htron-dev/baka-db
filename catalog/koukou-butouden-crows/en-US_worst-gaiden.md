@@ -1,5 +1,7 @@
 # Worst Gaiden
 
+![worst-gaiden](https://cdn.myanimelist.net/images/manga/1/25262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

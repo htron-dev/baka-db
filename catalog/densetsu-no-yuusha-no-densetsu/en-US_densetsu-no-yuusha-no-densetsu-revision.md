@@ -1,5 +1,7 @@
 # Densetsu no Yuusha no Densetsu: Revision
 
+![densetsu-no-yuusha-no-densetsu-revision](https://cdn.myanimelist.net/images/manga/1/44717.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

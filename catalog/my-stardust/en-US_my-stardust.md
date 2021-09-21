@@ -1,5 +1,7 @@
 # My Stardust
 
+![my-stardust](https://cdn.myanimelist.net/images/manga/3/14909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マイスターダスト

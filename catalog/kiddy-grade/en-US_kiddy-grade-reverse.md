@@ -1,5 +1,7 @@
 # Kiddy Grade Reverse
 
+![kiddy-grade-reverse](https://cdn.myanimelist.net/images/manga/2/3165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

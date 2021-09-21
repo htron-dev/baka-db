@@ -1,5 +1,7 @@
 # Inagawa Junji no Sugoku Kowai Hanashi
 
+![inagawa-junji-no-sugoku-kowai-hanashi](https://cdn.myanimelist.net/images/anime/4/87498.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 稲川淳二のすご～く恐い話

@@ -1,5 +1,7 @@
 # Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no "Shingan" de Musou suru
 
+![fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta-naraku-de-kitaeta-saikyou-no-shingan-de-musou-suru](https://cdn.myanimelist.net/images/manga/1/236663.jpg)
+
 -   **type**: manga
 -   **original-name**: 不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～
 -   **start-date**: 2020-07-29

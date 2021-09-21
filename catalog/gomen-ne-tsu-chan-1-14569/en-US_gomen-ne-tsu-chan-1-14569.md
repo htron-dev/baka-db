@@ -1,5 +1,7 @@
 # Gomen ne Tsu-chan: 1/14569
 
+![gomen-ne-tsu-chan-1-14569](https://cdn.myanimelist.net/images/manga/1/162461.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koisuru Barairo Tenchou
 
+![koisuru-barairo-tenchou](https://cdn.myanimelist.net/images/manga/1/41657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

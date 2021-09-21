@@ -1,5 +1,7 @@
 # Majo ni Ataeru Tettsui
 
+![majo-ni-ataeru-tettsui](https://cdn.myanimelist.net/images/manga/3/137593.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

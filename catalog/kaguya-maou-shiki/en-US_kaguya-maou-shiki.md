@@ -1,5 +1,7 @@
 # Kaguya Maou Shiki!
 
+![kaguya-maou-shiki](https://cdn.myanimelist.net/images/manga/1/162980.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 63

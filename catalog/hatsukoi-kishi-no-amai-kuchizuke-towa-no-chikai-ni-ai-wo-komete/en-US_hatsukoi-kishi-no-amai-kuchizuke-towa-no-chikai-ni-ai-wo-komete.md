@@ -1,5 +1,7 @@
 # Hatsukoi Kishi no Amai Kuchizuke: Towa no Chikai ni Ai wo Komete
 
+![hatsukoi-kishi-no-amai-kuchizuke-towa-no-chikai-ni-ai-wo-komete](https://cdn.myanimelist.net/images/manga/2/192522.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

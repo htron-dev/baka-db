@@ -1,5 +1,7 @@
 # Kedamono Koutei ga Dannasama ni Nattara Ichatsuki Sugi desu, Heika no Baka Baka!
 
+![kedamono-koutei-ga-dannasama-ni-nattara-ichatsuki-sugi-desu-heika-no-baka-baka](https://cdn.myanimelist.net/images/manga/1/191438.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

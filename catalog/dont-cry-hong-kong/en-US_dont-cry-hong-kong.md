@@ -1,5 +1,7 @@
 # Don't Cry Hong Kong
 
+![dont-cry-hong-kong](https://cdn.myanimelist.net/images/manga/1/33209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Don’t Cry 香港

@@ -1,5 +1,7 @@
 # Kyokou Suiri Mini Anime
 
+![kyokou-suiri-mini-anime](https://cdn.myanimelist.net/images/anime/1597/108435.jpg)
+
 -   **type**: ona
 -   **episodes**: 38
 -   **original-name**: 虚構推理 ミニアニメ

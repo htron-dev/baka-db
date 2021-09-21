@@ -1,5 +1,7 @@
 # Diamond Paradise
 
+![diamond-paradise](https://cdn.myanimelist.net/images/manga/3/166376.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ダイヤモンド・パラダイス

@@ -1,5 +1,7 @@
 # Gokkun! Pucho
 
+![gokkun-pucho](https://cdn.myanimelist.net/images/manga/4/163172.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

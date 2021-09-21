@@ -1,5 +1,7 @@
 # Super Turtles
 
+![super-turtles](https://cdn.myanimelist.net/images/manga/2/237285.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スーパータートルズ

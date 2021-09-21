@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon: Elma no OL Nikki
 
+![kobayashi-san-chi-no-maid-dragon-elma-no-ol-nikki](https://cdn.myanimelist.net/images/manga/2/209752.jpg)
+
 -   **type**: manga
 -   **original-name**: 小林さんちのメイドラゴン エルマの OL 日記
 -   **start-date**: 2017-08-25

@@ -1,5 +1,7 @@
 # Ohayou Ninja-tai Gatchaman
 
+![ohayou-ninja-tai-gatchaman](https://cdn.myanimelist.net/images/anime/10/75967.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 475
 -   **original-name**: おはよう忍者隊ガッチャマン

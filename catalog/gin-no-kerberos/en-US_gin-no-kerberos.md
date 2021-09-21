@@ -1,5 +1,7 @@
 # Gin no Kerberos
 
+![gin-no-kerberos](https://cdn.myanimelist.net/images/manga/3/170590.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 銀のケルベロス

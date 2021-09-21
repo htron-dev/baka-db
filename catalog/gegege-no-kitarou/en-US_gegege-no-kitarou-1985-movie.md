@@ -1,5 +1,7 @@
 # Gegege no Kitarou (1985 Movie)
 
+![gegege-no-kitarou-1985-movie](https://cdn.myanimelist.net/images/anime/5/21017.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎

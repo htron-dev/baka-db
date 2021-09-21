@@ -1,5 +1,7 @@
 # Hello, Melancholic!
 
+![hello-melancholic](https://cdn.myanimelist.net/images/manga/2/226880.jpg)
+
 -   **type**: manga
 -   **original-name**: ハロー、メランコリック！
 -   **start-date**: 2019-06-18

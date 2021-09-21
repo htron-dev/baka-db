@@ -1,5 +1,7 @@
 # Momon's Sand Witch Episode 0
 
+![momons-sand-witch-episode-0](https://cdn.myanimelist.net/images/anime/5/61801.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ももんずさんどうぃっち エピソード ZERO

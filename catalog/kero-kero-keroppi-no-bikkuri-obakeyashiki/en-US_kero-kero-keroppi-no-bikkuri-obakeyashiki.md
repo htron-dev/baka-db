@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Bikkuri! Obakeyashiki
 
+![kero-kero-keroppi-no-bikkuri-obakeyashiki](https://cdn.myanimelist.net/images/anime/2/58981.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのびっくり! おばけやしき

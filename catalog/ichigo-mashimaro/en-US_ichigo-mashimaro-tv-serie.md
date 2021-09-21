@@ -1,5 +1,7 @@
 # Ichigo Mashimaro
 
+![ichigo-mashimaro](https://cdn.myanimelist.net/images/anime/10/11042.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 苺ましまろ

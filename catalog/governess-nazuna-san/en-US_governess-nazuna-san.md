@@ -1,5 +1,7 @@
 # Governess Nazuna-san
 
+![governess-nazuna-san](https://cdn.myanimelist.net/images/manga/3/238172.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

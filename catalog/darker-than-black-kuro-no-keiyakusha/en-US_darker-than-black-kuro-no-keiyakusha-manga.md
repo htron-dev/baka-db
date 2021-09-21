@@ -1,5 +1,7 @@
 # Darker than Black: Kuro no Keiyakusha
 
+![darker-than-black-kuro-no-keiyakusha](https://cdn.myanimelist.net/images/manga/2/31140.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

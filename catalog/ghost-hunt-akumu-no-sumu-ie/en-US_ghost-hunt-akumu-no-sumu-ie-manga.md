@@ -1,5 +1,7 @@
 # Ghost Hunt: Akumu no Sumu Ie
 
+![ghost-hunt-akumu-no-sumu-ie](https://cdn.myanimelist.net/images/manga/1/181307.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

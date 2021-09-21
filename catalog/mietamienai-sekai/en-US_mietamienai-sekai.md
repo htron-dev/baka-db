@@ -1,5 +1,7 @@
 # Mietamienai Sekai
 
+![mietamienai-sekai](https://cdn.myanimelist.net/images/manga/3/191535.jpg)
+
 -   **type**: manga
 -   **original-name**: ミエタミエナイセカイ
 -   **start-date**: 2016-07-09

@@ -1,5 +1,7 @@
 # Gokiburi-chan
 
+![gokiburi-chan](https://cdn.myanimelist.net/images/anime/1817/102767.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: ゴキブリちゃん

@@ -1,5 +1,7 @@
 # Kaiunou no Kyuukon: Dandy na Daifugou to Junshin Maid
 
+![kaiunou-no-kyuukon-dandy-na-daifugou-to-junshin-maid](https://cdn.myanimelist.net/images/manga/1/182040.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

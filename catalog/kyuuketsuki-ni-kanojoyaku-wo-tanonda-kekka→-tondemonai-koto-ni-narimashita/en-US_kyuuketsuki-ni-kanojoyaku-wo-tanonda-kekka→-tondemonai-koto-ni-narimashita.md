@@ -1,5 +1,7 @@
 # Kyuuketsuki ni Kanojoyaku wo Tanonda Kekka→Tondemonai Koto ni Narimashita
 
+![kyuuketsuki-ni-kanojoyaku-wo-tanonda-kekka→-tondemonai-koto-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/167615.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 吸血鬼に彼女役を頼んだ結果 → とんでもないことになりました

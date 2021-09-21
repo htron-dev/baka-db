@@ -1,5 +1,7 @@
 # Dirty Pair no Ooshoubu: Nolandia no Nazo
 
+![dirty-pair-no-ooshoubu-nolandia-no-nazo](https://cdn.myanimelist.net/images/anime/5/81369.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ダーティペアの大勝負 ノーランディアの謎

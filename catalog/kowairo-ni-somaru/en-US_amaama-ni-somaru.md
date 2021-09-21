@@ -1,5 +1,7 @@
 # Amaama ni Somaru
 
+![amaama-ni-somaru](https://cdn.myanimelist.net/images/manga/2/222063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

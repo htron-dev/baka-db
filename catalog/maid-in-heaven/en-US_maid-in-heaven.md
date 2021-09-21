@@ -1,5 +1,7 @@
 # Maid in Heaven
 
+![maid-in-heaven](https://cdn.myanimelist.net/images/manga/3/146671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

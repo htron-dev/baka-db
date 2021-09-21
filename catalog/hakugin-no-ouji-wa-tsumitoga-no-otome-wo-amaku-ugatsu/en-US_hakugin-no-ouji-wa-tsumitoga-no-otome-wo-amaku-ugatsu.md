@@ -1,5 +1,7 @@
 # Hakugin no Ouji wa Tsumitoga no Otome wo Amaku Ugatsu
 
+![hakugin-no-ouji-wa-tsumitoga-no-otome-wo-amaku-ugatsu](https://cdn.myanimelist.net/images/manga/1/194410.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

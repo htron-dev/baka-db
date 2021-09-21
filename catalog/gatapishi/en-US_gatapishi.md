@@ -1,5 +1,7 @@
 # Gatapishi
 
+![gatapishi](https://cdn.myanimelist.net/images/manga/3/246420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

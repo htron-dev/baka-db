@@ -1,5 +1,7 @@
 # God Eater: Messiah no Kikan
 
+![god-eater-messiah-no-kikan](https://cdn.myanimelist.net/images/manga/3/34278.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

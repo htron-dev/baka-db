@@ -1,5 +1,7 @@
 # Hayate x Blade
 
+![hayate-x-blade](https://cdn.myanimelist.net/images/manga/3/4812.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 115

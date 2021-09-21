@@ -1,5 +1,7 @@
 # Koi no Kuchibi
 
+![koi-no-kuchibi](https://cdn.myanimelist.net/images/manga/2/29158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

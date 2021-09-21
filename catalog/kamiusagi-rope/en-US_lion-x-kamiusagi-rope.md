@@ -1,5 +1,7 @@
 # Lion x Kamiusagi Rope
 
+![lion-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/6/85031.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ライオン × 紙兎ロペ

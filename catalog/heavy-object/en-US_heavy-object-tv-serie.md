@@ -1,5 +1,7 @@
 # Heavy Object
 
+![heavy-object](https://cdn.myanimelist.net/images/anime/13/75940.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ヘヴィーオブジェクト

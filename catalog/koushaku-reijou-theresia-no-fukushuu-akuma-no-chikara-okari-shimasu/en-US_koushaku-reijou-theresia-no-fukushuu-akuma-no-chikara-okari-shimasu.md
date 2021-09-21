@@ -1,5 +1,7 @@
 # Koushaku Reijou Theresia no Fukushuu: Akuma no Chikara, Okari Shimasu
 
+![koushaku-reijou-theresia-no-fukushuu-akuma-no-chikara-okari-shimasu](https://cdn.myanimelist.net/images/manga/2/243004.jpg)
+
 -   **type**: manga
 -   **original-name**: 公爵令嬢ティアレシアの復讐～悪魔の力、お借りします～
 -   **start-date**: 2020-10-04

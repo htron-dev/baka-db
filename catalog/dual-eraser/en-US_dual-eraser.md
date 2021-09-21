@@ -1,5 +1,7 @@
 # Dual Eraser
 
+![dual-eraser](https://cdn.myanimelist.net/images/manga/3/164260.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

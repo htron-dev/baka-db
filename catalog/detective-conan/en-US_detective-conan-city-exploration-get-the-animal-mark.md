@@ -1,5 +1,7 @@
 # Detective Conan: City Exploration! Get the Animal Mark!
 
+![detective-conan-city-exploration-get-the-animal-mark](https://cdn.myanimelist.net/images/anime/12/79628.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 町探検！ 動物マークをゲットせよ！

@@ -1,5 +1,7 @@
 # Matsurika Kanriden: Koukyuu Nyokan, Kimagure Koutei ni Misomerare
 
+![matsurika-kanriden-koukyuu-nyokan-kimagure-koutei-ni-misomerare](https://cdn.myanimelist.net/images/manga/3/224412.jpg)
+
 -   **type**: manga
 -   **original-name**: 茉莉花官吏伝～後宮女官、気まぐれ皇帝に見初められ～
 -   **start-date**: 2018-08-06

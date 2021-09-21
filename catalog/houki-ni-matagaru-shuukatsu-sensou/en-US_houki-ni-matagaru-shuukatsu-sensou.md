@@ -1,5 +1,7 @@
 # Houki ni Matagaru Shuukatsu Sensou
 
+![houki-ni-matagaru-shuukatsu-sensou](https://cdn.myanimelist.net/images/manga/3/244051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

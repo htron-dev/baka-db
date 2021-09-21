@@ -1,5 +1,7 @@
 # Dragon Quest: Tenkuu Monogatari
 
+![dragon-quest-tenkuu-monogatari](https://cdn.myanimelist.net/images/manga/1/35075.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ドラゴンクエスト 天空物語

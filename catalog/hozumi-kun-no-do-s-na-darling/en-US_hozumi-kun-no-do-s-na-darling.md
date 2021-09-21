@@ -1,5 +1,7 @@
 # Hozumi-kun no Do S na Darling
 
+![hozumi-kun-no-do-s-na-darling](https://cdn.myanimelist.net/images/manga/3/64185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

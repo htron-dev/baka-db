@@ -1,5 +1,7 @@
 # Yume Tsukai
 
+![yume-tsukai](https://cdn.myanimelist.net/images/manga/3/118877.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

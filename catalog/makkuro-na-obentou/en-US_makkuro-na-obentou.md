@@ -1,5 +1,7 @@
 # Makkuro na Obentou
 
+![makkuro-na-obentou](https://cdn.myanimelist.net/images/anime/12/53839.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まっ黒なおべんとう

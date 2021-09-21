@@ -1,5 +1,7 @@
 # Kashikomarimashita, Destiny: Answer
 
+![kashikomarimashita-destiny-answer](https://cdn.myanimelist.net/images/manga/3/208044.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

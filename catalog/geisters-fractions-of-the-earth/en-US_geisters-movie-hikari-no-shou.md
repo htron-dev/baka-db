@@ -1,5 +1,7 @@
 # Geisters Movie: Hikari no Shou
 
+![geisters-movie-hikari-no-shou](https://cdn.myanimelist.net/images/anime/4/85624.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ガイスターズ 光の章

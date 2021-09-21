@@ -1,5 +1,7 @@
 # Golden Boy
 
+![golden-boy](https://cdn.myanimelist.net/images/manga/3/53253.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 104

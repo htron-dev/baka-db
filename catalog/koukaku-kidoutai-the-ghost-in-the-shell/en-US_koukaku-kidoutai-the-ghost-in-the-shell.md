@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: The Ghost in the Shell
 
+![koukaku-kidoutai-the-ghost-in-the-shell](https://cdn.myanimelist.net/images/manga/2/155733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

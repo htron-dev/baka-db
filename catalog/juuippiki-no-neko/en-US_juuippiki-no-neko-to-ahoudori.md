@@ -1,5 +1,7 @@
 # Juuippiki no Neko to Ahoudori
 
+![juuippiki-no-neko-to-ahoudori](https://cdn.myanimelist.net/images/anime/7/13275.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: １１ぴきのねことあほうどり

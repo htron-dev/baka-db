@@ -1,5 +1,7 @@
 # Kuroshitsuji
 
+![kuroshitsuji](https://cdn.myanimelist.net/images/manga/1/28128.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒執事
 -   **start-date**: 2006-09-16

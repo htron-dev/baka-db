@@ -1,5 +1,7 @@
 # Enen no Shouboutai: Ni no Shou
 
+![enen-no-shouboutai-ni-no-shou](https://cdn.myanimelist.net/images/anime/1673/107657.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 炎炎ノ消防隊 弐ノ章

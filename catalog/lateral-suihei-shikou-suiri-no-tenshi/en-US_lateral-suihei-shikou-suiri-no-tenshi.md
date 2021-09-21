@@ -1,5 +1,7 @@
 # Lateral: Suihei Shikou Suiri no Tenshi
 
+![lateral-suihei-shikou-suiri-no-tenshi](https://cdn.myanimelist.net/images/manga/2/159211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ラテラル 〜水平思考推理の天使〜

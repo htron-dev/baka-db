@@ -1,5 +1,7 @@
 # Kazagake Shoujogumi!
 
+![kazagake-shoujogumi](https://cdn.myanimelist.net/images/manga/2/55565.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

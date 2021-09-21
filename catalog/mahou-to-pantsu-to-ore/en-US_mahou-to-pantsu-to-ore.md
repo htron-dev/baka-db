@@ -1,5 +1,7 @@
 # Mahou to Pantsu to Ore
 
+![mahou-to-pantsu-to-ore](https://cdn.myanimelist.net/images/manga/1/124829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

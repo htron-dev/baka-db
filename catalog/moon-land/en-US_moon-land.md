@@ -1,5 +1,7 @@
 # Moon Land
 
+![moon-land](https://cdn.myanimelist.net/images/manga/3/219927.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 85

@@ -1,5 +1,7 @@
 # Kishi to Onna Touzoku
 
+![kishi-to-onna-touzoku](https://cdn.myanimelist.net/images/manga/1/229609.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 騎士と女盗賊

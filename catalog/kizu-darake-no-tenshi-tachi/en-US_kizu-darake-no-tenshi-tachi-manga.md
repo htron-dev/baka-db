@@ -1,5 +1,7 @@
 # Kizu darake no Tenshi-tachi
 
+![kizu-darake-no-tenshi-tachi](https://cdn.myanimelist.net/images/manga/3/7312.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 3

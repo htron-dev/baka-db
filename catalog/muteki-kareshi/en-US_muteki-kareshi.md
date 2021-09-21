@@ -1,5 +1,7 @@
 # Muteki Kareshi
 
+![muteki-kareshi](https://cdn.myanimelist.net/images/manga/1/30724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ore no Hanashi wo Shiyouka
 
+![ore-no-hanashi-wo-shiyouka](https://cdn.myanimelist.net/images/manga/3/36545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

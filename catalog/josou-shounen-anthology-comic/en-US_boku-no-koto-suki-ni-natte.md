@@ -1,5 +1,7 @@
 # Boku no Koto Suki ni Natte
 
+![boku-no-koto-suki-ni-natte](https://cdn.myanimelist.net/images/manga/1/142553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボクのことスキになって

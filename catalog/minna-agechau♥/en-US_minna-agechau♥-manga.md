@@ -1,5 +1,7 @@
 # Minna Agechau♥
 
+![minna-agechau♥](https://cdn.myanimelist.net/images/manga/1/158262.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 138

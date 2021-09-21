@@ -1,5 +1,7 @@
 # D.C.if: Da Capo if
 
+![d-c-if-da-capo-if](https://cdn.myanimelist.net/images/anime/2/25445.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: D.C.if 〜ダ・カーポ イフ〜

@@ -1,5 +1,7 @@
 # Devil & Devil
 
+![devil-devil](https://cdn.myanimelist.net/images/manga/4/197511.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 144

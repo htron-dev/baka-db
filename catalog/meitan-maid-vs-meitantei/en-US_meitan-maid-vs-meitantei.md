@@ -1,5 +1,7 @@
 # Meitan: Maid vs Meitantei
 
+![meitan-maid-vs-meitantei](https://cdn.myanimelist.net/images/manga/3/183550.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

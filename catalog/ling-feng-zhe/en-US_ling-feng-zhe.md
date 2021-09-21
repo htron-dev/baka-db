@@ -1,5 +1,7 @@
 # Ling Feng Zhe
 
+![ling-feng-zhe](https://cdn.myanimelist.net/images/anime/1851/98296.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 领风者

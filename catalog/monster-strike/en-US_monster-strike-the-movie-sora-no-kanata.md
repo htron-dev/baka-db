@@ -1,5 +1,7 @@
 # Monster Strike the Movie: Sora no Kanata
 
+![monster-strike-the-movie-sora-no-kanata](https://cdn.myanimelist.net/images/anime/1206/93873.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: モンスターストライク THE MOVIE ソラノカナタ

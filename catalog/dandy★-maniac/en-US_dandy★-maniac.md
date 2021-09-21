@@ -1,5 +1,7 @@
 # Dandy★Maniac
 
+![dandy★-maniac](https://cdn.myanimelist.net/images/manga/3/103773.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

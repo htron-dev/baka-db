@@ -1,5 +1,7 @@
 # Moegi Sensation!
 
+![moegi-sensation](https://cdn.myanimelist.net/images/manga/3/20436.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Issho ni Neyou yo
 
+![issho-ni-neyou-yo](https://cdn.myanimelist.net/images/manga/2/15945.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

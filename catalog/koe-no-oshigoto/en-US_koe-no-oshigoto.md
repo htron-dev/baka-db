@@ -1,5 +1,7 @@
 # Koe no Oshigoto
 
+![koe-no-oshigoto](https://cdn.myanimelist.net/images/manga/3/76201.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

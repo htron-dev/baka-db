@@ -1,5 +1,7 @@
 # Kouen de Koukousei-tachi ga Asobu dake
 
+![kouen-de-koukousei-tachi-ga-asobu-dake](https://cdn.myanimelist.net/images/manga/3/234996.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

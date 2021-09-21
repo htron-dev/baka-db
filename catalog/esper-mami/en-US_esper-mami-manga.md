@@ -1,5 +1,7 @@
 # Esper Mami
 
+![esper-mami](https://cdn.myanimelist.net/images/manga/2/166466.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: エスパー魔美

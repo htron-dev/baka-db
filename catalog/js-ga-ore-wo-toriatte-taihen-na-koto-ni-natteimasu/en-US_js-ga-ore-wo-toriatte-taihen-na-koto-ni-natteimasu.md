@@ -1,5 +1,7 @@
 # JS ga Ore wo Toriatte Taihen na Koto ni Natteimasu
 
+![js-ga-ore-wo-toriatte-taihen-na-koto-ni-natteimasu](https://cdn.myanimelist.net/images/manga/3/164081.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # MAPS
 
+![maps](https://cdn.myanimelist.net/images/manga/3/4264.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 

@@ -1,5 +1,7 @@
 # Eikoku Kizoku Goyoutashi
 
+![eikoku-kizoku-goyoutashi](https://cdn.myanimelist.net/images/manga/1/127503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

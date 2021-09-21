@@ -1,5 +1,7 @@
 # Kokoro de Nugasete
 
+![kokoro-de-nugasete](https://cdn.myanimelist.net/images/manga/2/11069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 心で脱がせて

@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube S
 
+![jigoku-sensei-nube-s](https://cdn.myanimelist.net/images/manga/3/222111.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

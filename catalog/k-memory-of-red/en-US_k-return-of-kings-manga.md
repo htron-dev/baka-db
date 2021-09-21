@@ -1,5 +1,7 @@
 # K: Return of Kings
 
+![k-return-of-kings](https://cdn.myanimelist.net/images/manga/2/180444.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

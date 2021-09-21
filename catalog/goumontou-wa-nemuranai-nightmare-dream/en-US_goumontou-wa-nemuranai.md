@@ -1,5 +1,7 @@
 # Goumontou wa Nemuranai
 
+![goumontou-wa-nemuranai](https://cdn.myanimelist.net/images/manga/1/135155.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

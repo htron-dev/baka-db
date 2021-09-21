@@ -1,5 +1,7 @@
 # Humanitas
 
+![humanitas](https://cdn.myanimelist.net/images/manga/2/186146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

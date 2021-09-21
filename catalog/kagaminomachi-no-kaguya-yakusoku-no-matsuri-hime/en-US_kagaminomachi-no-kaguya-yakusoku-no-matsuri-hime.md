@@ -1,5 +1,7 @@
 # Kagaminomachi no Kaguya: Yakusoku no Matsuri-hime
 
+![kagaminomachi-no-kaguya-yakusoku-no-matsuri-hime](https://cdn.myanimelist.net/images/manga/3/230371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kizoku no Aoi Seppun
 
+![kizoku-no-aoi-seppun](https://cdn.myanimelist.net/images/manga/2/9940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

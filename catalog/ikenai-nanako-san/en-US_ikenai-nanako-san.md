@@ -1,5 +1,7 @@
 # Ikenai Nanako-san
 
+![ikenai-nanako-san](https://cdn.myanimelist.net/images/manga/1/204389.jpg)
+
 -   **type**: manga
 -   **original-name**: イケナイ菜々子さん
 -   **start-date**: 2017-03-10

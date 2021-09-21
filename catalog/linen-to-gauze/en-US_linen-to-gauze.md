@@ -1,5 +1,7 @@
 # Linen to Gauze
 
+![linen-to-gauze](https://cdn.myanimelist.net/images/manga/2/199533.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: リネンとガーゼ

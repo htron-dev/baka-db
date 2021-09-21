@@ -1,5 +1,7 @@
 # Love Bullet
 
+![love-bullet](https://cdn.myanimelist.net/images/manga/2/78923.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 사랑의 총알

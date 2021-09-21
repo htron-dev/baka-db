@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Reflection
 
+![mahou-shoujo-lyrical-nanoha-reflection](https://cdn.myanimelist.net/images/anime/11/88348.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは Reflection

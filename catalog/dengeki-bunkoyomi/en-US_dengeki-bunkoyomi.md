@@ -1,5 +1,7 @@
 # Dengeki Bunkoyomi
 
+![dengeki-bunkoyomi](https://cdn.myanimelist.net/images/manga/1/148441.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

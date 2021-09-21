@@ -1,5 +1,7 @@
 # Fairy Tail x Rave
 
+![fairy-tail-x-rave](https://cdn.myanimelist.net/images/anime/9/58513.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: FAIRYTAIL×RAVE

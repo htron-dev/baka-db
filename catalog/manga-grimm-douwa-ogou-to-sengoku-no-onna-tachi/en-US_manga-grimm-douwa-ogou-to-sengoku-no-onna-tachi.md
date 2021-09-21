@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Ogou to Sengoku no Onna-tachi
 
+![manga-grimm-douwa-ogou-to-sengoku-no-onna-tachi](https://cdn.myanimelist.net/images/manga/2/137329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kagura Maimai!
 
+![kagura-maimai](https://cdn.myanimelist.net/images/manga/3/233762.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: かぐらまいまい！

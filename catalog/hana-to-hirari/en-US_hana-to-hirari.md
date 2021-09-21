@@ -1,5 +1,7 @@
 # Hana to Hirari
 
+![hana-to-hirari](https://cdn.myanimelist.net/images/manga/1/173825.jpg)
+
 -   **type**: manga
 -   **original-name**: 花と蝶〈ひらり〉
 -   **start-date**: 2014-11-29

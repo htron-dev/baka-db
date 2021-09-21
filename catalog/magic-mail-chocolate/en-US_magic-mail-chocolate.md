@@ -1,5 +1,7 @@
 # Magic Mail Chocolate
 
+![magic-mail-chocolate](https://cdn.myanimelist.net/images/manga/3/150301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

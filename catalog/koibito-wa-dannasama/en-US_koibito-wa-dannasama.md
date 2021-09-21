@@ -1,5 +1,7 @@
 # Koibito wa Dannasama
 
+![koibito-wa-dannasama](https://cdn.myanimelist.net/images/manga/1/206409.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋人は旦那さま
 -   **start-date**: 2017-06-08

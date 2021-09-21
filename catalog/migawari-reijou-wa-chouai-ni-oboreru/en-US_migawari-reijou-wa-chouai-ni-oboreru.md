@@ -1,5 +1,7 @@
 # Migawari Reijou wa Chouai ni Oboreru
 
+![migawari-reijou-wa-chouai-ni-oboreru](https://cdn.myanimelist.net/images/manga/2/194813.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

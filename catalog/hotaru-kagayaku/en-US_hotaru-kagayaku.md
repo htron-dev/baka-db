@@ -1,5 +1,7 @@
 # Hotaru Kagayaku
 
+![hotaru-kagayaku](https://cdn.myanimelist.net/images/anime/1344/96170.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ホタルかがやく

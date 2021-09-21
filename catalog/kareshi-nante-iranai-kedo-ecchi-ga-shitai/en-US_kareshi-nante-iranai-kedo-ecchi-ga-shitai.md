@@ -1,5 +1,7 @@
 # Kareshi nante Iranai kedo Ecchi ga Shitai!
 
+![kareshi-nante-iranai-kedo-ecchi-ga-shitai](https://cdn.myanimelist.net/images/manga/2/201997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

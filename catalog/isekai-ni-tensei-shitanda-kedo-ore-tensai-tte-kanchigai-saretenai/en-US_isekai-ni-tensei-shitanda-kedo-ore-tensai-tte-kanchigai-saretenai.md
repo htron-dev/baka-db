@@ -1,5 +1,7 @@
 # Isekai ni Tensei Shitanda kedo Ore, Tensai tte Kanchigai Saretenai?
 
+![isekai-ni-tensei-shitanda-kedo-ore-tensai-tte-kanchigai-saretenai](https://cdn.myanimelist.net/images/manga/2/207071.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界に転生したんだけど俺、天才って勘違いされてない？
 -   **start-date**: 2015-08-25

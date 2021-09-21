@@ -1,5 +1,7 @@
 # F
 
+![f](https://cdn.myanimelist.net/images/manga/1/204736.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 329

@@ -1,5 +1,7 @@
 # Kiss kara Hajimeyou
 
+![kiss-kara-hajimeyou](https://cdn.myanimelist.net/images/manga/2/7503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

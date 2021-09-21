@@ -1,5 +1,7 @@
 # Nisekoimonogatari
 
+![nisekoimonogatari](https://cdn.myanimelist.net/images/anime/9/73095.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ニセコイモノガタリ

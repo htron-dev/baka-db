@@ -1,5 +1,7 @@
 # Mitsu Ai Host Juku
 
+![mitsu-ai-host-juku](https://cdn.myanimelist.net/images/manga/1/26533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蜜・愛ホスト塾

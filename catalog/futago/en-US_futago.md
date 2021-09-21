@@ -1,5 +1,7 @@
 # Futago
 
+![futago](https://cdn.myanimelist.net/images/manga/2/24741.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

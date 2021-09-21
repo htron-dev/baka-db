@@ -1,5 +1,7 @@
 # Demon 72
 
+![demon-72](https://cdn.myanimelist.net/images/manga/1/170392.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

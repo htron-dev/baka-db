@@ -1,5 +1,7 @@
 # Lime-iro Senkitan: Nankoku Yume Roman
 
+![lime-iro-senkitan-nankoku-yume-roman](https://cdn.myanimelist.net/images/anime/11/75505.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: らいむいろ戦奇譚 南国夢浪漫

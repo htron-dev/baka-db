@@ -1,5 +1,7 @@
 # Koko ni Iru Suiren
 
+![koko-ni-iru-suiren](https://cdn.myanimelist.net/images/manga/3/19343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

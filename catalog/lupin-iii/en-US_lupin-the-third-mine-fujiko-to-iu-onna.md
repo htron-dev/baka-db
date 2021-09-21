@@ -1,5 +1,7 @@
 # Lupin the Third: Mine Fujiko to Iu Onna
 
+![lupin-the-third-mine-fujiko-to-iu-onna](https://cdn.myanimelist.net/images/anime/9/73347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: LUPIN the Third ～峰不二子という女～

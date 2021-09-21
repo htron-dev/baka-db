@@ -1,5 +1,7 @@
 # Kimi wa Midara na Boku no Joou
 
+![kimi-wa-midara-na-boku-no-joou](https://cdn.myanimelist.net/images/manga/3/187708.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Missing Piece
 
+![missing-piece](https://cdn.myanimelist.net/images/manga/4/175809.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Free!: Dive to the Future Episode 0
 
+![free-dive-to-the-future-episode-0](https://cdn.myanimelist.net/images/anime/1386/93218.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Free!-Dive to the Future- 第 0 話

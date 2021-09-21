@@ -1,5 +1,7 @@
 # Honey Hunt
 
+![honey-hunt](https://cdn.myanimelist.net/images/manga/3/135913.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

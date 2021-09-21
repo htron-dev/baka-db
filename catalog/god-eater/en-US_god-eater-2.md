@@ -1,5 +1,7 @@
 # God Eater 2
 
+![god-eater-2](https://cdn.myanimelist.net/images/manga/3/235358.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 48

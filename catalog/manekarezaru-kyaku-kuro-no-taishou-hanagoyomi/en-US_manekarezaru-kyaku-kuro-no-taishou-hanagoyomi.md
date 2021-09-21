@@ -1,5 +1,7 @@
 # Manekarezaru Kyaku: Kuro no Taishou Hanagoyomi
 
+![manekarezaru-kyaku-kuro-no-taishou-hanagoyomi](https://cdn.myanimelist.net/images/manga/3/246322.jpg)
+
 -   **type**: manga
 -   **original-name**: 招かれざる客～黒の大正花暦～
 -   **start-date**: 2020-02-28

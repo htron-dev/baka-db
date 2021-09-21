@@ -1,5 +1,7 @@
 # Koe no Chiisai Komori-san to Kusodeka Oogoe no Oobayashi-kun
 
+![koe-no-chiisai-komori-san-to-kusodeka-oogoe-no-oobayashi-kun](https://cdn.myanimelist.net/images/manga/2/243826.jpg)
+
 -   **type**: manga
 -   **original-name**: 声の小さい小森さんとクソデカ大声の大林くん
 -   **start-date**: 2020-04-27

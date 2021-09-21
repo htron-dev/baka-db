@@ -1,5 +1,7 @@
 # Makin' Purple
 
+![makin-purple](https://cdn.myanimelist.net/images/manga/2/36085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

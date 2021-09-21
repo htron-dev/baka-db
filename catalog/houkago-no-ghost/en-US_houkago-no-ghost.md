@@ -1,5 +1,7 @@
 # Houkago no Ghost
 
+![houkago-no-ghost](https://cdn.myanimelist.net/images/manga/2/237211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # High Score Girl Dash
 
+![high-score-girl-dash](https://cdn.myanimelist.net/images/manga/5/241381.jpg)
+
 -   **type**: manga
 -   **original-name**: ハイスコアガール DASH
 -   **start-date**: 2019-12-25

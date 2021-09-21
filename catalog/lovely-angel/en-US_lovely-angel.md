@@ -1,5 +1,7 @@
 # Lovely Angel
 
+![lovely-angel](https://cdn.myanimelist.net/images/manga/3/159914.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ラブリー・エンジェル

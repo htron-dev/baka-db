@@ -1,5 +1,7 @@
 # Furare Otoko to Koi no Hanashi
 
+![furare-otoko-to-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/2/151644.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

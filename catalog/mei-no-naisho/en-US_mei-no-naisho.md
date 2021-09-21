@@ -1,5 +1,7 @@
 # Mei no Naisho
 
+![mei-no-naisho](https://cdn.myanimelist.net/images/manga/1/12921.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

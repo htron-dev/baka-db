@@ -1,5 +1,7 @@
 # Hyoujou no Crown
 
+![hyoujou-no-crown](https://cdn.myanimelist.net/images/manga/3/173826.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

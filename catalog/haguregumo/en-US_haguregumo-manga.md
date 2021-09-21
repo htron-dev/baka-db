@@ -1,5 +1,7 @@
 # Haguregumo
 
+![haguregumo](https://cdn.myanimelist.net/images/manga/3/29393.jpg)
+
 -   **type**: manga
 -   **volumes**: 112
 -   **chapters**: 1039

@@ -1,5 +1,7 @@
 # Lunch Box
 
+![lunch-box](https://cdn.myanimelist.net/images/manga/2/20949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

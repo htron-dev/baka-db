@@ -1,5 +1,7 @@
 # Mahoutsukai no Konyakusha: Eternally Yours
 
+![mahoutsukai-no-konyakusha-eternally-yours](https://cdn.myanimelist.net/images/manga/1/247265.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いの婚約者 ～ Eternally Yours ～
 -   **start-date**: 2020-12-18

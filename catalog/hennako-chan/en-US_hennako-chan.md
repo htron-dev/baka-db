@@ -1,5 +1,7 @@
 # Hennako-chan
 
+![hennako-chan](https://cdn.myanimelist.net/images/anime/13/8379.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: へんな子ちゃん

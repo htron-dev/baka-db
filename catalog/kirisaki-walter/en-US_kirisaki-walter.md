@@ -1,5 +1,7 @@
 # Kirisaki Walter
 
+![kirisaki-walter](https://cdn.myanimelist.net/images/manga/1/118229.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 切り裂きウォルター

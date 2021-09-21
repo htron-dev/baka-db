@@ -1,5 +1,7 @@
 # Itoshi no Koishi no
 
+![itoshi-no-koishi-no](https://cdn.myanimelist.net/images/manga/3/118385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

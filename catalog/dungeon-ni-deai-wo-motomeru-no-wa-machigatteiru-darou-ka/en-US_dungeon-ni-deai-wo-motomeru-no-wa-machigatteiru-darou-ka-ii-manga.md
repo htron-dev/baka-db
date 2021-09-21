@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii](https://cdn.myanimelist.net/images/manga/1/235235.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか Ⅱ
 -   **start-date**: 2019-12-06

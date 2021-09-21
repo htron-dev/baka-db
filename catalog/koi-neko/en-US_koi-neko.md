@@ -1,5 +1,7 @@
 # Koi Neko
 
+![koi-neko](https://cdn.myanimelist.net/images/manga/2/46257.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 100

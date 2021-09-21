@@ -1,5 +1,7 @@
 # Oita ga Sugiruwa Koneko-chan
 
+![oita-ga-sugiruwa-koneko-chan](https://cdn.myanimelist.net/images/manga/2/185096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

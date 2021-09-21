@@ -1,5 +1,7 @@
 # Metropolis
 
+![metropolis](https://cdn.myanimelist.net/images/manga/5/100725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メトロポリス

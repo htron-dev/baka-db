@@ -1,5 +1,7 @@
 # Dog Days'': Limone Resort Tenbou Onsen!
 
+![dog-days-limone-resort-tenbou-onsen](https://cdn.myanimelist.net/images/anime/10/76892.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドッグデイズ'' Episode 12.5「リモーネリゾート・展望温泉！」

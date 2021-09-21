@@ -1,5 +1,7 @@
 # Miss Monochrome: Motto Challenge
 
+![miss-monochrome-motto-challenge](https://cdn.myanimelist.net/images/manga/1/165849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

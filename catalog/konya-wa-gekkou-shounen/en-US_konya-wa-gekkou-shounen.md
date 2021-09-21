@@ -1,5 +1,7 @@
 # Konya wa Gekkou Shounen
 
+![konya-wa-gekkou-shounen](https://cdn.myanimelist.net/images/manga/2/15210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 今夜は月光少年

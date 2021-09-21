@@ -1,5 +1,7 @@
 # Hidamari Sketch x Honeycomb
 
+![hidamari-sketch-x-honeycomb](https://cdn.myanimelist.net/images/anime/2/50501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ひだまりスケッチ × ハニカム

@@ -1,5 +1,7 @@
 # Muryeong
 
+![muryeong](https://cdn.myanimelist.net/images/manga/3/40972.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 무령

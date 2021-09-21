@@ -1,5 +1,7 @@
 # Moonlight Mile 2nd Season: Touch Down
 
+![moonlight-mile-2nd-season-touch-down](https://cdn.myanimelist.net/images/anime/9/4265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: ムーンライトマイル 2nd シーズン -Touch down-

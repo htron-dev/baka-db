@@ -1,5 +1,7 @@
 # Joshikoi!
 
+![joshikoi](https://cdn.myanimelist.net/images/manga/1/94847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

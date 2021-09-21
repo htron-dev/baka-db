@@ -1,5 +1,7 @@
 # Gochuumon wa Usagi Desu ka? Bloom
 
+![gochuumon-wa-usagi-desu-ka-bloom](https://cdn.myanimelist.net/images/anime/1900/109179.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ご注文はうさぎですか? BLOOM

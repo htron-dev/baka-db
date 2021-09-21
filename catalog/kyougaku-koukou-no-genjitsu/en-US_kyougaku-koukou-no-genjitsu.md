@@ -1,5 +1,7 @@
 # Kyougaku Koukou no Genjitsu
 
+![kyougaku-koukou-no-genjitsu](https://cdn.myanimelist.net/images/manga/3/204431.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 91

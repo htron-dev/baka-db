@@ -1,5 +1,7 @@
 # Made in Abyss Movie 3: Fukaki Tamashii no Reimei
 
+![made-in-abyss-movie-3-fukaki-tamashii-no-reimei](https://cdn.myanimelist.net/images/anime/1502/110723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版メイドインアビス 深き魂の黎明

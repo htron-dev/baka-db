@@ -1,5 +1,7 @@
 # Girls Saurus
 
+![girls-saurus](https://cdn.myanimelist.net/images/manga/5/25530.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

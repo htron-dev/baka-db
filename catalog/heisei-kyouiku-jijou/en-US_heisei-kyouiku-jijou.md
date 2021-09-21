@@ -1,5 +1,7 @@
 # Heisei Kyouiku Jijou
 
+![heisei-kyouiku-jijou](https://cdn.myanimelist.net/images/manga/5/21356.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 平成教育事情

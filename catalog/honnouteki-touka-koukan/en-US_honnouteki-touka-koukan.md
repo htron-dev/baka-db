@@ -1,5 +1,7 @@
 # Honnouteki Touka Koukan
 
+![honnouteki-touka-koukan](https://cdn.myanimelist.net/images/manga/2/10874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 本能的等価交換

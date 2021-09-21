@@ -1,5 +1,7 @@
 # Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
 
+![hitsugikatsugi-no-kuro-kaichu-tabi-no-wa](https://cdn.myanimelist.net/images/manga/1/181391.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 86

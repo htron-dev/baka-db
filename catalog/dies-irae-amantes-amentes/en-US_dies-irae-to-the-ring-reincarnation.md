@@ -1,5 +1,7 @@
 # Dies Irae: To the Ring Reincarnation
 
+![dies-irae-to-the-ring-reincarnation](https://cdn.myanimelist.net/images/anime/1244/93395.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: Dies irae: To the ring reincarnation

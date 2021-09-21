@@ -1,5 +1,7 @@
 # Holy Knight
 
+![holy-knight](https://cdn.myanimelist.net/images/manga/3/58011.jpg)
+
 -   **type**: manga
 -   **original-name**: ホーリーナイト
 

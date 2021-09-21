@@ -1,5 +1,7 @@
 # Kimi no Nioi ga Suki
 
+![kimi-no-nioi-ga-suki](https://cdn.myanimelist.net/images/manga/1/171995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

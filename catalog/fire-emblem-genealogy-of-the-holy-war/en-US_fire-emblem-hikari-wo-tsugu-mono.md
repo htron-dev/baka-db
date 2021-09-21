@@ -1,5 +1,7 @@
 # Fire Emblem: Hikari wo Tsugu Mono
 
+![fire-emblem-hikari-wo-tsugu-mono](https://cdn.myanimelist.net/images/manga/2/104915.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

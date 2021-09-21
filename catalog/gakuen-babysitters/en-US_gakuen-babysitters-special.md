@@ -1,5 +1,7 @@
 # Gakuen Babysitters Special
 
+![gakuen-babysitters-special](https://cdn.myanimelist.net/images/anime/1925/100826.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 学園ベビーシッターズ

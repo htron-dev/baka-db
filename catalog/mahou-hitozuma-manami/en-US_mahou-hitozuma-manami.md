@@ -1,5 +1,7 @@
 # Mahou Hitozuma Manami
 
+![mahou-hitozuma-manami](https://cdn.myanimelist.net/images/manga/1/186587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Koibito no Horikata
 
+![koibito-no-horikata](https://cdn.myanimelist.net/images/manga/3/31489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Henshin Monogatari
 
+![henshin-monogatari](https://cdn.myanimelist.net/images/manga/2/150744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

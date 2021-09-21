@@ -1,5 +1,7 @@
 # Dark Gathering
 
+![dark-gathering](https://cdn.myanimelist.net/images/manga/2/227524.jpg)
+
 -   **type**: manga
 -   **original-name**: ダークギャザリング
 -   **start-date**: 2019-03-04

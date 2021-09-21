@@ -1,5 +1,7 @@
 # Girls & Panzer
 
+![girls-panzer](https://cdn.myanimelist.net/images/manga/2/131867.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Equus
 
+![equus](https://cdn.myanimelist.net/images/manga/2/40663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

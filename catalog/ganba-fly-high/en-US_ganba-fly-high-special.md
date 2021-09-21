@@ -1,5 +1,7 @@
 # Ganba! Fly High
 
+![ganba-fly-high](https://cdn.myanimelist.net/images/anime/1352/102861.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CM 小学館 少年サンデー「ガンバ！Fly high」編

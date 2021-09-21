@@ -1,5 +1,7 @@
 # Dorei-ku: Boku to 23-nin no Dorei
 
+![dorei-ku-boku-to-23-nin-no-dorei](https://cdn.myanimelist.net/images/manga/3/185251.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 45

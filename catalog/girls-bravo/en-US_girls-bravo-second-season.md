@@ -1,5 +1,7 @@
 # Girls Bravo: Second Season
 
+![girls-bravo-second-season](https://cdn.myanimelist.net/images/anime/7/20149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: GIRLS ブラボー second season

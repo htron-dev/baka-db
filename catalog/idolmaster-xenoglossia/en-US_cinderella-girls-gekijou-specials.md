@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou Specials
 
+![cinderella-girls-gekijou-specials](https://cdn.myanimelist.net/images/anime/2/86432.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: シンデレラガールズ劇場

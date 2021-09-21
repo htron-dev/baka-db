@@ -1,5 +1,7 @@
 # Ai: Hikari to Mizu no Daphne
 
+![ai-hikari-to-mizu-no-daphne](https://cdn.myanimelist.net/images/manga/2/89127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

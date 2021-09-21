@@ -1,5 +1,7 @@
 # Jukkakukan no Satsujin
 
+![jukkakukan-no-satsujin](https://cdn.myanimelist.net/images/manga/2/230214.jpg)
+
 -   **type**: manga
 -   **original-name**: 十角館の殺人
 -   **start-date**: 2019-08-24

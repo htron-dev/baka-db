@@ -1,5 +1,7 @@
 # Dakishimete! Noir
 
+![dakishimete-noir](https://cdn.myanimelist.net/images/manga/3/117347.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

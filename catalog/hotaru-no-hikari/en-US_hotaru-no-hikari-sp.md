@@ -1,5 +1,7 @@
 # Hotaru no Hikari SP
 
+![hotaru-no-hikari-sp](https://cdn.myanimelist.net/images/manga/2/202006.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

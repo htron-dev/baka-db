@@ -1,5 +1,7 @@
 # Kiss
 
+![kiss](https://cdn.myanimelist.net/images/manga/1/159392.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

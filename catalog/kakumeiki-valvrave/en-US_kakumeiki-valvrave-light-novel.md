@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave
 
+![kakumeiki-valvrave](https://cdn.myanimelist.net/images/manga/2/122273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

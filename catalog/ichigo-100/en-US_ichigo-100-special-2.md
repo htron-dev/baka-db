@@ -1,5 +1,7 @@
 # Ichigo 100% Special 2
 
+![ichigo-100-special-2](https://cdn.myanimelist.net/images/anime/4/5229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: いちご 100%

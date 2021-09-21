@@ -1,5 +1,7 @@
 # Hajimete no Kiss
 
+![hajimete-no-kiss](https://cdn.myanimelist.net/images/manga/2/225681.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

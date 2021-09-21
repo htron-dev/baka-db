@@ -1,5 +1,7 @@
 # Duel Masters VSRF
 
+![duel-masters-vsrf](https://cdn.myanimelist.net/images/anime/4/79117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デュエル・マスターズ VSRF

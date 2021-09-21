@@ -1,5 +1,7 @@
 # Shoku King
 
+![shoku-king](https://cdn.myanimelist.net/images/manga/1/67211.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: 食キング

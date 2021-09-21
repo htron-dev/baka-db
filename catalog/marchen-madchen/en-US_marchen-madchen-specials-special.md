@@ -1,5 +1,7 @@
 # Märchen Mädchen Specials
 
+![marchen-madchen-specials](https://cdn.myanimelist.net/images/anime/1690/93175.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: メルヘン・メドヘン

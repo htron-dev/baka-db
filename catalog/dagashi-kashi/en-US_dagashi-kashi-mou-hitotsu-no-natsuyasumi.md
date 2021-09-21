@@ -1,5 +1,7 @@
 # Dagashi Kashi: Mou Hitotsu no Natsuyasumi
 
+![dagashi-kashi-mou-hitotsu-no-natsuyasumi](https://cdn.myanimelist.net/images/manga/3/168408.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Ito Yangotonaki
 
+![ito-yangotonaki](https://cdn.myanimelist.net/images/manga/1/238679.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Kitai Fuku ga Aru
 
+![kitai-fuku-ga-aru](https://cdn.myanimelist.net/images/manga/3/217048.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

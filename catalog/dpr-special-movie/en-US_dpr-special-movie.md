@@ -1,5 +1,7 @@
 # DPR Special Movie
 
+![dpr-special-movie](https://cdn.myanimelist.net/images/anime/13/56803.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: DPR スペシャルムービー

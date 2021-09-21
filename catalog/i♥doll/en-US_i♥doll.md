@@ -1,5 +1,7 @@
 # I♥DOLL
 
+![i♥doll](https://cdn.myanimelist.net/images/manga/3/160765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: i♥ ドール

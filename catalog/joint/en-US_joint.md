@@ -1,5 +1,7 @@
 # Joint
 
+![joint](https://cdn.myanimelist.net/images/anime/1310/114926.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2009-01-20

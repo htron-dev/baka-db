@@ -1,5 +1,7 @@
 # Michiwarikusa Monogatari
 
+![michiwarikusa-monogatari](https://cdn.myanimelist.net/images/manga/3/170696.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

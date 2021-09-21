@@ -1,5 +1,7 @@
 # Jump no Tadashii Tsukurikata!
 
+![jump-no-tadashii-tsukurikata](https://cdn.myanimelist.net/images/manga/2/182788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 32

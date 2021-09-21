@@ -1,5 +1,7 @@
 # Inari, Konkon, Koi Iroha.
 
+![inari-konkon-koi-iroha](https://cdn.myanimelist.net/images/anime/8/64897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: いなり、こんこん、恋いろは。

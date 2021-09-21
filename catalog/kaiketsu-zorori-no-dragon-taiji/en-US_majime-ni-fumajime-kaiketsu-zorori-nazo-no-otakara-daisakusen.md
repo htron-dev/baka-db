@@ -1,5 +1,7 @@
 # Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen
 
+![majime-ni-fumajime-kaiketsu-zorori-nazo-no-otakara-daisakusen](https://cdn.myanimelist.net/images/anime/5/29990.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まじめにふまじめ かいけつゾロリ なぞのお宝大さくせん

@@ -1,5 +1,7 @@
 # Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note
 
+![lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note](https://cdn.myanimelist.net/images/anime/1107/111530.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ロード・エルメロイ Ⅱ 世の事件簿 -魔眼蒐集列車 Grace note-

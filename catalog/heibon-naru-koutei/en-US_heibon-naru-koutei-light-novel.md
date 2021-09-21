@@ -1,5 +1,7 @@
 # Heibon naru Koutei
 
+![heibon-naru-koutei](https://cdn.myanimelist.net/images/manga/1/200623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 20

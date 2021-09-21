@@ -1,5 +1,7 @@
 # D.C.S.S: Da Capo Second Season
 
+![d-c-s-s-da-capo-second-season](https://cdn.myanimelist.net/images/anime/8/73937.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: D.C.S.S. ～ダ・カーポ セカンドシーズン～

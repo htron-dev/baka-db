@@ -1,5 +1,7 @@
 # Mikosuri Han-Gekijou
 
+![mikosuri-han-gekijou](https://cdn.myanimelist.net/images/anime/6/54301.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みこすり半劇場

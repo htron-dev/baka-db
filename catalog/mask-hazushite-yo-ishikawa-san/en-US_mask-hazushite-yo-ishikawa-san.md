@@ -1,5 +1,7 @@
 # Mask Hazushite yo, Ishikawa-san
 
+![mask-hazushite-yo-ishikawa-san](https://cdn.myanimelist.net/images/manga/3/238982.jpg)
+
 -   **type**: manga
 -   **original-name**: マスクはずしてよ、石川さん
 -   **start-date**: 2020-12-18

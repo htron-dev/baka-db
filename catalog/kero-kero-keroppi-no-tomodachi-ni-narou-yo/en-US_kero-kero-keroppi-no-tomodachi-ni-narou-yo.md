@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Tomodachi ni Narou yo
 
+![kero-kero-keroppi-no-tomodachi-ni-narou-yo](https://cdn.myanimelist.net/images/anime/13/72496.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの友だちになろうよ

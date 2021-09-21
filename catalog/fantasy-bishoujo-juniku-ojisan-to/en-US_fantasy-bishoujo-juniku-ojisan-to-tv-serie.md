@@ -1,5 +1,7 @@
 # Fantasy Bishoujo Juniku Ojisan to
 
+![fantasy-bishoujo-juniku-ojisan-to](https://cdn.myanimelist.net/images/anime/1368/114981.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 異世界美少女受肉おじさんと
 -   **rating**: None

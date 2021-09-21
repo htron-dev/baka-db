@@ -1,5 +1,7 @@
 # Kemono no Noroi wa Koi de Hodoku
 
+![kemono-no-noroi-wa-koi-de-hodoku](https://cdn.myanimelist.net/images/manga/2/246544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

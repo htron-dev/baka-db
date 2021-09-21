@@ -1,5 +1,7 @@
 # Seirei no Moribito
 
+![seirei-no-moribito](https://cdn.myanimelist.net/images/anime/4/50337.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 精霊の守り人

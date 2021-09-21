@@ -1,5 +1,7 @@
 # Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari
 
+![kaleido-star-legend-of-phoenix-layla-hamilton-monogatari](https://cdn.myanimelist.net/images/anime/7/28863.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カレイドスター Legend of Phoenix ～レイラ・ハミルトン物語～

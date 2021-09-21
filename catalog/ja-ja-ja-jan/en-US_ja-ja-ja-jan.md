@@ -1,5 +1,7 @@
 # Ja Ja Ja Jan!
 
+![ja-ja-ja-jan](https://cdn.myanimelist.net/images/manga/3/180489.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

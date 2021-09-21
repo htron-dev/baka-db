@@ -1,5 +1,7 @@
 # Kimi ni Hatsukoi Propose
 
+![kimi-ni-hatsukoi-propose](https://cdn.myanimelist.net/images/manga/2/244282.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

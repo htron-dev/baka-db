@@ -1,5 +1,7 @@
 # Girl Friends
 
+![girl-friends](https://cdn.myanimelist.net/images/manga/1/112021.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

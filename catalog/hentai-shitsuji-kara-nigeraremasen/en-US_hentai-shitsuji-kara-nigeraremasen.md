@@ -1,5 +1,7 @@
 # Hentai Shitsuji kara Nigeraremasen!
 
+![hentai-shitsuji-kara-nigeraremasen](https://cdn.myanimelist.net/images/manga/2/238206.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

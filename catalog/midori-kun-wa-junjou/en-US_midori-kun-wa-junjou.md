@@ -1,5 +1,7 @@
 # Midori-kun wa Junjou
 
+![midori-kun-wa-junjou](https://cdn.myanimelist.net/images/manga/2/179448.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 緑くんは純情

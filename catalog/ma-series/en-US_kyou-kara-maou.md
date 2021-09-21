@@ -1,5 +1,7 @@
 # Kyou kara Maou!
 
+![kyou-kara-maou](https://cdn.myanimelist.net/images/anime/11/75544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 今日からマ王！

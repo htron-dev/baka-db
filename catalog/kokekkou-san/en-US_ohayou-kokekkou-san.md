@@ -1,5 +1,7 @@
 # Ohayou! Kokekkou-san
 
+![ohayou-kokekkou-san](https://cdn.myanimelist.net/images/anime/2/82367.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: おはよう! コケッコーさん

@@ -1,5 +1,7 @@
 # Iwasetemitee Monda
 
+![iwasetemitee-monda](https://cdn.myanimelist.net/images/manga/1/44077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

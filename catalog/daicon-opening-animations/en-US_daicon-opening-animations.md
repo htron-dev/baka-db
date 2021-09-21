@@ -1,5 +1,7 @@
 # Daicon Opening Animations
 
+![daicon-opening-animations](https://cdn.myanimelist.net/images/anime/12/3673.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: DAICON オープニングアニメ

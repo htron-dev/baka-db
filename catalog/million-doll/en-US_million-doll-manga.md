@@ -1,5 +1,7 @@
 # Million Doll
 
+![million-doll](https://cdn.myanimelist.net/images/manga/3/208975.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

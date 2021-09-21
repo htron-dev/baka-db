@@ -1,5 +1,7 @@
 # Metroid
 
+![metroid](https://cdn.myanimelist.net/images/manga/2/153968.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

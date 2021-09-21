@@ -1,5 +1,7 @@
 # Kyojin no Hoshi
 
+![kyojin-no-hoshi](https://cdn.myanimelist.net/images/manga/3/203669.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: 巨人の星

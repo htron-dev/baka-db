@@ -1,5 +1,7 @@
 # Kandagawa Jet Girls
 
+![kandagawa-jet-girls](https://cdn.myanimelist.net/images/anime/1655/111626.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神田川 JET GIRLS

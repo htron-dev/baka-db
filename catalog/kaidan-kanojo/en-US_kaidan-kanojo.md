@@ -1,5 +1,7 @@
 # Kaidan Kanojo
 
+![kaidan-kanojo](https://cdn.myanimelist.net/images/manga/3/201952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 39

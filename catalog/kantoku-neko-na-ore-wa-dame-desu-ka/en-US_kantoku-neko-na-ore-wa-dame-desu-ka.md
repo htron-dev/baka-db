@@ -1,5 +1,7 @@
 # Kantoku, Neko na Ore wa Dame desu ka
 
+![kantoku-neko-na-ore-wa-dame-desu-ka](https://cdn.myanimelist.net/images/manga/1/245804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

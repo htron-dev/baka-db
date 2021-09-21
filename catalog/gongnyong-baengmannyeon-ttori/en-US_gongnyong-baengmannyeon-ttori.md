@@ -1,5 +1,7 @@
 # Gongnyong Baengmannyeon Ttori
 
+![gongnyong-baengmannyeon-ttori](https://cdn.myanimelist.net/images/anime/12/45244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 공룡 100만년 똘이

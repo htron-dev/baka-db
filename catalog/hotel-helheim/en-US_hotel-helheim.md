@@ -1,5 +1,7 @@
 # Hotel Helheim
 
+![hotel-helheim](https://cdn.myanimelist.net/images/manga/3/167335.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

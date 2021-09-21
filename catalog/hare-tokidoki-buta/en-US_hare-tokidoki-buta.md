@@ -1,5 +1,7 @@
 # Hare Tokidoki Buta
 
+![hare-tokidoki-buta](https://cdn.myanimelist.net/images/anime/13/63889.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はれときどきぶた (1988)

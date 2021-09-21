@@ -1,5 +1,7 @@
 # Ichinensei ni Nacchattara
 
+![ichinensei-ni-nacchattara](https://cdn.myanimelist.net/images/manga/2/52155.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 61

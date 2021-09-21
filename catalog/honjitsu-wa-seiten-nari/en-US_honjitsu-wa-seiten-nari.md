@@ -1,5 +1,7 @@
 # Honjitsu wa Seiten nari
 
+![honjitsu-wa-seiten-nari](https://cdn.myanimelist.net/images/manga/3/140241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

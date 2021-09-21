@@ -1,5 +1,7 @@
 # Ginga Kikoutai Majestic Prince
 
+![ginga-kikoutai-majestic-prince](https://cdn.myanimelist.net/images/anime/10/44594.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 銀河機攻隊 マジェスティックプリンス

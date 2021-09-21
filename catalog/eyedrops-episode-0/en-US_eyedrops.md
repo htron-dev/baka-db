@@ -1,5 +1,7 @@
 # Eyedrops
 
+![eyedrops](https://cdn.myanimelist.net/images/anime/2/82127.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: アイドロップス

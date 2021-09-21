@@ -1,5 +1,7 @@
 # HenSemi (TV)
 
+![hen-semi-tv](https://cdn.myanimelist.net/images/anime/12/75839.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 変ゼミ

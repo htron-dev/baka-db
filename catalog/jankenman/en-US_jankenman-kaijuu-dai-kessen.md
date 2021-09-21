@@ -1,5 +1,7 @@
 # Jankenman: Kaijuu Dai Kessen
 
+![jankenman-kaijuu-dai-kessen](https://cdn.myanimelist.net/images/anime/10/28229.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジャンケンマン 怪獣大決戦

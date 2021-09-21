@@ -1,5 +1,7 @@
 # Hellsing: The Dawn
 
+![hellsing-the-dawn](https://cdn.myanimelist.net/images/anime/5/30667.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: HELLSING THE DAWN

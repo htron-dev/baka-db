@@ -1,5 +1,7 @@
 # Lunfor
 
+![lunfor](https://cdn.myanimelist.net/images/manga/2/128471.jpg)
+
 -   **type**: manga
 -   **original-name**: 鸞鳳 LUNFOR
 -   **start-date**: 2013-11-12

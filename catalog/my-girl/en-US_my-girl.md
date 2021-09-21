@@ -1,5 +1,7 @@
 # My Girl
 
+![my-girl](https://cdn.myanimelist.net/images/manga/2/42167.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Doraemon Movie 09: Nobita no Parallel Saiyuuki
 
+![doraemon-movie-09-nobita-no-parallel-saiyuuki](https://cdn.myanimelist.net/images/anime/12/72414.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太のパラレル西遊記

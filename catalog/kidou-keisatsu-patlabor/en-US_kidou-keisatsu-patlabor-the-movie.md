@@ -1,5 +1,7 @@
 # Kidou Keisatsu Patlabor the Movie
 
+![kidou-keisatsu-patlabor-the-movie](https://cdn.myanimelist.net/images/anime/5/74786.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動警察パトレイバー the Movie

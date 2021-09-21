@@ -1,5 +1,7 @@
 # Majo to Neko no Hanashi
 
+![majo-to-neko-no-hanashi](https://cdn.myanimelist.net/images/manga/2/170200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

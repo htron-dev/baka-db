@@ -1,5 +1,7 @@
 # Game Center Shoujo to Ibunka Kouryuu
 
+![game-center-shoujo-to-ibunka-kouryuu](https://cdn.myanimelist.net/images/manga/3/239698.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲーセン少女と異文化交流
 -   **start-date**: 2019-02-22

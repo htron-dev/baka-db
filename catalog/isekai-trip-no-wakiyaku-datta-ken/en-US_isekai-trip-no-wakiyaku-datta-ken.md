@@ -1,5 +1,7 @@
 # Isekai Trip no Wakiyaku datta Ken
 
+![isekai-trip-no-wakiyaku-datta-ken](https://cdn.myanimelist.net/images/manga/3/246010.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

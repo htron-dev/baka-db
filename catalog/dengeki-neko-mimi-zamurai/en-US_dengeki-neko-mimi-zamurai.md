@@ -1,5 +1,7 @@
 # Dengeki Neko-mimi Zamurai
 
+![dengeki-neko-mimi-zamurai](https://cdn.myanimelist.net/images/manga/2/123867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

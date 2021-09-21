@@ -1,5 +1,7 @@
 # Kamisama no Uroko
 
+![kamisama-no-uroko](https://cdn.myanimelist.net/images/manga/1/231722.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様のウロコ
 -   **start-date**: 2016-09-30

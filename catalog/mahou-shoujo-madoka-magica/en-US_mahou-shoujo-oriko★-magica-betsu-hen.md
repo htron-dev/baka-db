@@ -1,5 +1,7 @@
 # Mahou Shoujo Oriko★Magica: Betsu-hen
 
+![mahou-shoujo-oriko★-magica-betsu-hen](https://cdn.myanimelist.net/images/manga/1/115727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

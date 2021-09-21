@@ -1,5 +1,7 @@
 # Hoka Hoka Kazoku
 
+![hoka-hoka-kazoku](https://cdn.myanimelist.net/images/anime/2/21284.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1428
 -   **original-name**: ほかほか家族

@@ -1,5 +1,7 @@
 # FLCL
 
+![flcl](https://cdn.myanimelist.net/images/anime/7/77356.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: フリクリ

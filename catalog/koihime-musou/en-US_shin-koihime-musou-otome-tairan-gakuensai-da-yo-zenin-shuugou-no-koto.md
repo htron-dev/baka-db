@@ -1,5 +1,7 @@
 # Shin Koihime†Musou: Otome Tairan - Gakuensai da yo! Zenin Shuugou no Koto
 
+![shin-koihime-musou-otome-tairan-gakuensai-da-yo-zenin-shuugou-no-koto](https://cdn.myanimelist.net/images/anime/6/28330.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真 恋姫†無双 ~乙女大乱~ 学園祭だよ! 全員集合のこと

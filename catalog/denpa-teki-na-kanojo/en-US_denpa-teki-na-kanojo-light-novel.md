@@ -1,5 +1,7 @@
 # Denpa-teki na Kanojo
 
+![denpa-teki-na-kanojo](https://cdn.myanimelist.net/images/manga/2/76363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Kuzu no Kao ni Koishiteru
 
+![kuzu-no-kao-ni-koishiteru](https://cdn.myanimelist.net/images/manga/1/226081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

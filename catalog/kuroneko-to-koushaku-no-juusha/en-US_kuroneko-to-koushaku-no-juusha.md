@@ -1,5 +1,7 @@
 # Kuroneko to Koushaku no Juusha
 
+![kuroneko-to-koushaku-no-juusha](https://cdn.myanimelist.net/images/manga/2/172584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

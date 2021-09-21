@@ -1,5 +1,7 @@
 # GJ8man Soushuuhen
 
+![gj-8-man-soushuuhen](https://cdn.myanimelist.net/images/anime/13/88316.jpg)
+
 -   **type**: ona
 -   **original-name**: GJ8 マン『総集編』
 -   **start-date**: 2017-10-08

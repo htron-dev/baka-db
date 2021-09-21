@@ -1,5 +1,7 @@
 # Love &amp; Catastrophes
 
+![love-amp-catastrophes](https://cdn.myanimelist.net/images/manga/1/20909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hanakappa Movie: Hanasake! Pakkaan♪ Chou no Kuni no Daibouken
 
+![hanakappa-movie-hanasake-pakkaan♪-chou-no-kuni-no-daibouken](https://cdn.myanimelist.net/images/anime/5/46099.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 はなかっぱ 花さけ！パッカ～ん ♪ 蝶の国の大冒険

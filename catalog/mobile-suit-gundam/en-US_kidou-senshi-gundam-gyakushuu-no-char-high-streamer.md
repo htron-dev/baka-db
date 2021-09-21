@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Gyakushuu no Char - High Streamer
 
+![kidou-senshi-gundam-gyakushuu-no-char-high-streamer](https://cdn.myanimelist.net/images/manga/1/111861.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

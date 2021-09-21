@@ -1,5 +1,7 @@
 # Hot Blooded Woman
 
+![hot-blooded-woman](https://cdn.myanimelist.net/images/manga/1/21740.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 24
 -   **chapters**: 183

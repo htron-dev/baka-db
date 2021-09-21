@@ -1,5 +1,7 @@
 # Dark Heaven
 
+![dark-heaven](https://cdn.myanimelist.net/images/manga/2/226431.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 84

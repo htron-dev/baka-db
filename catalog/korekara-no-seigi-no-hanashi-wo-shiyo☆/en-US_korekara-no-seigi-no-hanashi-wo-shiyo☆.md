@@ -1,5 +1,7 @@
 # Korekara no Seigi no Hanashi wo Shiyo☆
 
+![korekara-no-seigi-no-hanashi-wo-shiyo☆](https://cdn.myanimelist.net/images/manga/2/129047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: これからの正義の話をしよっ ☆

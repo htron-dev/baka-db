@@ -1,5 +1,7 @@
 # Holy Knight
 
+![holy-knight](https://cdn.myanimelist.net/images/anime/10/41841.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Holy Knight (ホーリーナイト)

@@ -1,5 +1,7 @@
 # Detective Conan Movie 08: Magician of the Silver Sky
 
+![detective-conan-movie-08-magician-of-the-silver-sky](https://cdn.myanimelist.net/images/anime/2/20982.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 銀翼の奇術師[マジシャン]

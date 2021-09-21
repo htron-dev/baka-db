@@ -1,5 +1,7 @@
 # Kiniro no Corda: Daigakusei-hen
 
+![kiniro-no-corda-daigakusei-hen](https://cdn.myanimelist.net/images/manga/3/211709.jpg)
+
 -   **type**: manga
 -   **original-name**: 金色のコルダ 大学生編
 -   **start-date**: 2017-12-09

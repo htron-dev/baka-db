@@ -1,5 +1,7 @@
 # Kuroyome
 
+![kuroyome](https://cdn.myanimelist.net/images/manga/1/50439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

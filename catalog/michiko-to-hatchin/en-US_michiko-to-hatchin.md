@@ -1,5 +1,7 @@
 # Michiko to Hatchin
 
+![michiko-to-hatchin](https://cdn.myanimelist.net/images/anime/10/59535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ミチコとハッチン

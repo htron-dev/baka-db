@@ -1,5 +1,7 @@
 # Kaichou-san Chi no Koneko
 
+![kaichou-san-chi-no-koneko](https://cdn.myanimelist.net/images/manga/2/82716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

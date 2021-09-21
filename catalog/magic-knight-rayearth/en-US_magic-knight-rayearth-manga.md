@@ -1,5 +1,7 @@
 # Magic Knight Rayearth
 
+![magic-knight-rayearth](https://cdn.myanimelist.net/images/manga/1/157494.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

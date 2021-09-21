@@ -1,5 +1,7 @@
 # Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www
 
+![konna-watashitachi-ga-nariyuki-de-heroine-ni-natta-kekka-www](https://cdn.myanimelist.net/images/anime/10/67205.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こんな私たちがなりゆきでヒロインになった結果 www

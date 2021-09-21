@@ -1,5 +1,7 @@
 # Itonami Itonamezu
 
+![itonami-itonamezu](https://cdn.myanimelist.net/images/manga/1/225947.jpg)
+
 -   **type**: manga
 -   **original-name**: いとなみいとなめず
 -   **start-date**: 2018-10-02

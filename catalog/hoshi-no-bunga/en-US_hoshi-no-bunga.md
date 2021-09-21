@@ -1,5 +1,7 @@
 # Hoshi no Bunga
 
+![hoshi-no-bunga](https://cdn.myanimelist.net/images/manga/2/49279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 星のブンガ

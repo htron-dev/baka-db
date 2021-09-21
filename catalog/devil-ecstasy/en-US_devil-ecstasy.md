@@ -1,5 +1,7 @@
 # Devil Ecstasy
 
+![devil-ecstasy](https://cdn.myanimelist.net/images/manga/3/104207.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

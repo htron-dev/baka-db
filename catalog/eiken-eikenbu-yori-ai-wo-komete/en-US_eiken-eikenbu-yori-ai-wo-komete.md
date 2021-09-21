@@ -1,5 +1,7 @@
 # Eiken: Eikenbu yori Ai wo Komete
 
+![eiken-eikenbu-yori-ai-wo-komete](https://cdn.myanimelist.net/images/anime/8/42861.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: エイケン エイケンヴより愛をこめて

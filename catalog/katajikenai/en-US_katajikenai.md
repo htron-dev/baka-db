@@ -1,5 +1,7 @@
 # Katajikenai
 
+![katajikenai](https://cdn.myanimelist.net/images/manga/2/160704.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

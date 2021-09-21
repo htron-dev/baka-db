@@ -1,5 +1,7 @@
 # Gensei Shugoshin P-hyoro Ikka OVA
 
+![gensei-shugoshin-p-hyoro-ikka-ova](https://cdn.myanimelist.net/images/anime/7/64729.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 現世守護神ぴーひょろ一家 OVA

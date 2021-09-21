@@ -1,5 +1,7 @@
 # Isekai Saikyou Truck Shoukan, Isuzu Elf
 
+![isekai-saikyou-truck-shoukan-isuzu-elf](https://cdn.myanimelist.net/images/manga/1/241444.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 23

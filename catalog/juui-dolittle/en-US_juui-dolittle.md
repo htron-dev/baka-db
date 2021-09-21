@@ -1,5 +1,7 @@
 # Juui Dolittle
 
+![juui-dolittle](https://cdn.myanimelist.net/images/manga/2/246655.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 165

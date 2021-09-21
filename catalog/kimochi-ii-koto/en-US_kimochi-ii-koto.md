@@ -1,5 +1,7 @@
 # Kimochi Ii Koto?
 
+![kimochi-ii-koto](https://cdn.myanimelist.net/images/manga/2/118291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 気持ちイイこと?

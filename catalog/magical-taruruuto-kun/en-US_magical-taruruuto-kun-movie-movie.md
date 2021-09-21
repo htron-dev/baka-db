@@ -1,5 +1,7 @@
 # Magical★Taruruuto-kun Movie
 
+![magical★-taruruuto-kun-movie](https://cdn.myanimelist.net/images/anime/12/59415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まじかる ★ タルるートくん劇場版

@@ -1,5 +1,7 @@
 # Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!
 
+![jimihen-jimiko-wo-kaechau-jun-isei-kouyuu](https://cdn.myanimelist.net/images/anime/1139/110273.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: じみへんっ!!～地味子を変えちゃう純異性交遊～

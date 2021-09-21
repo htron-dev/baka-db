@@ -1,5 +1,7 @@
 # Ling Yu 2nd Season
 
+![ling-yu-2nd-season](https://cdn.myanimelist.net/images/anime/13/88949.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 灵域 第二季

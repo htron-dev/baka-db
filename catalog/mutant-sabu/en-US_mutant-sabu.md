@@ -1,5 +1,7 @@
 # Mutant Sabu
 
+![mutant-sabu](https://cdn.myanimelist.net/images/manga/2/137847.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ミュータント・サブ

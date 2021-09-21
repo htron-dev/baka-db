@@ -1,5 +1,7 @@
 # Frozen Apple
 
+![frozen-apple](https://cdn.myanimelist.net/images/manga/2/71947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フローズンアップル

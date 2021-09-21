@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam-san
 
+![kidou-senshi-gundam-san](https://cdn.myanimelist.net/images/manga/3/40572.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダムさん
 -   **start-date**: 2005-08-20

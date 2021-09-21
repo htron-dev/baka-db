@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi
 
+![dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi](https://cdn.myanimelist.net/images/anime/1007/93669.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 激突!!100 億パワーの戦士たち

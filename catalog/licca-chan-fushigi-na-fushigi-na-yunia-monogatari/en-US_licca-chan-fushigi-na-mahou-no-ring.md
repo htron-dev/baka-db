@@ -1,5 +1,7 @@
 # Licca-chan Fushigi na Mahou no Ring
 
+![licca-chan-fushigi-na-mahou-no-ring](https://cdn.myanimelist.net/images/anime/7/17331.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: リカちゃん　ふしぎな魔法のリング

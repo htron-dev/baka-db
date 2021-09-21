@@ -1,5 +1,7 @@
 # Giacomo Foscali
 
+![giacomo-foscali](https://cdn.myanimelist.net/images/manga/3/85727.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャコモ・フォスカリ
 -   **start-date**: 2011-10-22

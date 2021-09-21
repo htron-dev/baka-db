@@ -1,5 +1,7 @@
 # Juusan Mujun no Solver Knight
 
+![juusan-mujun-no-solver-knight](https://cdn.myanimelist.net/images/manga/1/176717.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 十三矛盾の魔技使い〈ソルヴァナイト〉

@@ -1,5 +1,7 @@
 # Daughter of the Emperor
 
+![daughter-of-the-emperor](https://cdn.myanimelist.net/images/manga/2/222277.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 황제의 외동딸
 -   **start-date**: 2015-08-05

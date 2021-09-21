@@ -1,5 +1,7 @@
 # Foreigner no Ayamachi
 
+![foreigner-no-ayamachi](https://cdn.myanimelist.net/images/manga/2/199389.jpg)
+
 -   **type**: light-novel
 -   **original-name**: フォーリナーの過ち
 -   **start-date**: 2017-03-25

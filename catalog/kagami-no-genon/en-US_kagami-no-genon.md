@@ -1,5 +1,7 @@
 # Kagami no Genon
 
+![kagami-no-genon](https://cdn.myanimelist.net/images/anime/11/7467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かがみのげんおん

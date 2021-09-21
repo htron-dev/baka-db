@@ -1,5 +1,7 @@
 # Kaze no Sylphid
 
+![kaze-no-sylphid](https://cdn.myanimelist.net/images/manga/3/174490.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 203

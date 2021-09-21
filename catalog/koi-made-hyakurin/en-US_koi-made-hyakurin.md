@@ -1,5 +1,7 @@
 # Koi made Hyakurin
 
+![koi-made-hyakurin](https://cdn.myanimelist.net/images/manga/2/64913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

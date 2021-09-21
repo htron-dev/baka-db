@@ -1,5 +1,7 @@
 # Kamui Jihen
 
+![kamui-jihen](https://cdn.myanimelist.net/images/manga/2/226098.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

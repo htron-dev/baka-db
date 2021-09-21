@@ -1,5 +1,7 @@
 # Imasara desu!!
 
+![imasara-desu](https://cdn.myanimelist.net/images/manga/1/194555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 今更です! !

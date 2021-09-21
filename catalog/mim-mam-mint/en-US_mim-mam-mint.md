@@ -1,5 +1,7 @@
 # Mim Mam Mint
 
+![mim-mam-mint](https://cdn.myanimelist.net/images/anime/12/77757.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: ミムマムミント

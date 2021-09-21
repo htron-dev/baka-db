@@ -1,5 +1,7 @@
 # Kanojo no Carrera RS
 
+![kanojo-no-carrera-rs](https://cdn.myanimelist.net/images/manga/3/171096.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

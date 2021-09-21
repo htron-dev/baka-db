@@ -1,5 +1,7 @@
 # Good Morning Kiss
 
+![good-morning-kiss](https://cdn.myanimelist.net/images/manga/1/172511.jpg)
+
 -   **type**: manga
 -   **original-name**: グッドモーニング・キス
 -   **start-date**: 2006-05-09

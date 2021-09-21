@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Himatsubushi-hen
 
+![higurashi-no-naku-koro-ni-himatsubushi-hen](https://cdn.myanimelist.net/images/manga/3/249320.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

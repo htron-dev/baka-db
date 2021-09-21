@@ -1,5 +1,7 @@
 # UFO Robo Grendizer
 
+![ufo-robo-grendizer](https://cdn.myanimelist.net/images/manga/1/43589.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

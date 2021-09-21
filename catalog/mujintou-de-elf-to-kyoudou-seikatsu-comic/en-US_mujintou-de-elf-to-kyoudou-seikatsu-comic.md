@@ -1,5 +1,7 @@
 # Mujintou de Elf to Kyoudou Seikatsu @comic
 
+![mujintou-de-elf-to-kyoudou-seikatsu-comic](https://cdn.myanimelist.net/images/manga/1/227896.jpg)
+
 -   **type**: manga
 -   **original-name**: 無人島でエルフと共同生活＠COMIC
 -   **start-date**: 2019-01-07

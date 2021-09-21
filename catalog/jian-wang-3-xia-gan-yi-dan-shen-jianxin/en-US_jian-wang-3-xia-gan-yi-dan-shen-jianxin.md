@@ -1,5 +1,7 @@
 # Jian Wang 3: Xia Gan Yi Dan Shen Jianxin
 
+![jian-wang-3-xia-gan-yi-dan-shen-jianxin](https://cdn.myanimelist.net/images/anime/1555/99504.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 剑网 3·侠肝义胆沈剑心

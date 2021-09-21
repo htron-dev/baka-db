@@ -1,5 +1,7 @@
 # DOWL Masters
 
+![dowl-masters](https://cdn.myanimelist.net/images/manga/3/206848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 27

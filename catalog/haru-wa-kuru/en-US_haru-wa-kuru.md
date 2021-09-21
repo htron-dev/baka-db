@@ -1,5 +1,7 @@
 # Haru wa Kuru
 
+![haru-wa-kuru](https://cdn.myanimelist.net/images/anime/5/37107.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 春は来る

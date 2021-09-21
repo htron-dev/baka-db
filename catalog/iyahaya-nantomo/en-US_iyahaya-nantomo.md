@@ -1,5 +1,7 @@
 # Iyahaya Nantomo
 
+![iyahaya-nantomo](https://cdn.myanimelist.net/images/manga/2/36202.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: イヤハヤ南友

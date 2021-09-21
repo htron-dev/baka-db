@@ -1,5 +1,7 @@
 # Masuda Kousuke Gekijou: Gag Mangabiyori
 
+![masuda-kousuke-gekijou-gag-mangabiyori](https://cdn.myanimelist.net/images/manga/1/169069.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 358

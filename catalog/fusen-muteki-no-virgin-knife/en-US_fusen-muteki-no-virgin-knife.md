@@ -1,5 +1,7 @@
 # Fusen Muteki no Virgin Knife
 
+![fusen-muteki-no-virgin-knife](https://cdn.myanimelist.net/images/manga/2/171311.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 不戦無敵の影殺師〈ヴァージン・ナイフ〉
 -   **start-date**: 2014-03-18

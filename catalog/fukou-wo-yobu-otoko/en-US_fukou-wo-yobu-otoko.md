@@ -1,5 +1,7 @@
 # Fukou wo Yobu Otoko
 
+![fukou-wo-yobu-otoko](https://cdn.myanimelist.net/images/manga/2/28227.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 不幸を呼ぶ男

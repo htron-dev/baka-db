@@ -1,5 +1,7 @@
 # Kowashiya Gamon
 
+![kowashiya-gamon](https://cdn.myanimelist.net/images/manga/2/5098.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 88

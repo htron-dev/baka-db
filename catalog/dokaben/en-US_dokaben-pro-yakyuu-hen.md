@@ -1,5 +1,7 @@
 # Dokaben: Pro Yakyuu-hen
 
+![dokaben-pro-yakyuu-hen](https://cdn.myanimelist.net/images/manga/2/136961.jpg)
+
 -   **type**: manga
 -   **volumes**: 52
 -   **chapters**: 425

@@ -1,5 +1,7 @@
 # Kotokoto Karutetto
 
+![kotokoto-karutetto](https://cdn.myanimelist.net/images/manga/1/62745.jpg)
+
 -   **type**: manga
 -   **original-name**: ことこと　かるてっと
 

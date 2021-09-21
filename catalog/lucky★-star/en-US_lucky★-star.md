@@ -1,5 +1,7 @@
 # Lucky★Star
 
+![lucky★-star](https://cdn.myanimelist.net/images/manga/1/154738.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

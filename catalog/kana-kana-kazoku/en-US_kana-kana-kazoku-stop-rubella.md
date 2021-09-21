@@ -1,5 +1,7 @@
 # Kana Kana Kazoku: Stop Rubella
 
+![kana-kana-kazoku-stop-rubella](https://cdn.myanimelist.net/images/anime/11/72842.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かなかなかぞく「ストップ風しん」

@@ -1,5 +1,7 @@
 # Gakkyuu Houtei
 
+![gakkyuu-houtei](https://cdn.myanimelist.net/images/manga/3/156181.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

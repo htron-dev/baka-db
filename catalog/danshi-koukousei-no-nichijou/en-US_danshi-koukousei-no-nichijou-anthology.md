@@ -1,5 +1,7 @@
 # Danshi Koukousei no Nichijou Anthology
 
+![danshi-koukousei-no-nichijou-anthology](https://cdn.myanimelist.net/images/manga/2/126213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

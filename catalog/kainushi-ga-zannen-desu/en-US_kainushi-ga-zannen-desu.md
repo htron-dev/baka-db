@@ -1,5 +1,7 @@
 # Kainushi ga Zannen desu
 
+![kainushi-ga-zannen-desu](https://cdn.myanimelist.net/images/manga/1/200565.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

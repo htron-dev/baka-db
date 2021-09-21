@@ -1,5 +1,7 @@
 # Domestic na Kanojo
 
+![domestic-na-kanojo](https://cdn.myanimelist.net/images/anime/1021/95670.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ドメスティックな彼女

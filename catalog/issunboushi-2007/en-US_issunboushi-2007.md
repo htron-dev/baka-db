@@ -1,5 +1,7 @@
 # Issunboushi (2007)
 
+![issunboushi-2007](https://cdn.myanimelist.net/images/anime/1897/110417.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一寸法師

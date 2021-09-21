@@ -1,5 +1,7 @@
 # Hulu Xiongdi
 
+![hulu-xiongdi](https://cdn.myanimelist.net/images/anime/12/27547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 葫芦兄弟

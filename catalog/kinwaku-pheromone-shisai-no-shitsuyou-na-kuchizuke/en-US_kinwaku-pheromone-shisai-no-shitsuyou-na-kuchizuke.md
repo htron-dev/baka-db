@@ -1,5 +1,7 @@
 # Kinwaku Pheromone: Shisai no Shitsuyou na Kuchizuke
 
+![kinwaku-pheromone-shisai-no-shitsuyou-na-kuchizuke](https://cdn.myanimelist.net/images/manga/1/183425.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

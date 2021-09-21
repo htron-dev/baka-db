@@ -1,5 +1,7 @@
 # Fuufu ni Narimasu!
 
+![fuufu-ni-narimasu](https://cdn.myanimelist.net/images/manga/1/135071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 夫婦になります！

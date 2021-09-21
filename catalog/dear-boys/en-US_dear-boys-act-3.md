@@ -1,5 +1,7 @@
 # Dear Boys Act 3
 
+![dear-boys-act-3](https://cdn.myanimelist.net/images/manga/2/165394.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 84

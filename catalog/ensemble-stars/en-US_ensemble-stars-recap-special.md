@@ -1,5 +1,7 @@
 # Ensemble Stars! Recap Special
 
+![ensemble-stars-recap-special](https://cdn.myanimelist.net/images/anime/1260/104380.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あんさんぶるスターズ！ 振り返りスペシャル

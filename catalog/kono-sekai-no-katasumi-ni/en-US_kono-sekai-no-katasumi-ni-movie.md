@@ -1,5 +1,7 @@
 # Kono Sekai no Katasumi ni
 
+![kono-sekai-no-katasumi-ni](https://cdn.myanimelist.net/images/anime/2/87704.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: この世界の片隅に

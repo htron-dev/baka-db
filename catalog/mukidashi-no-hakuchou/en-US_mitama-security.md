@@ -1,5 +1,7 @@
 # Mitama Security
 
+![mitama-security](https://cdn.myanimelist.net/images/manga/1/226603.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

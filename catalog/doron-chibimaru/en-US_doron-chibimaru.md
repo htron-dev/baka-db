@@ -1,5 +1,7 @@
 # Doron Chibimaru
 
+![doron-chibimaru](https://cdn.myanimelist.net/images/manga/1/87719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドロンちび丸

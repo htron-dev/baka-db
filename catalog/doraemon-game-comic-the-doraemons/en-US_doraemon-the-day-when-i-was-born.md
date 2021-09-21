@@ -1,5 +1,7 @@
 # Doraemon: The Day When I Was Born
 
+![doraemon-the-day-when-i-was-born](https://cdn.myanimelist.net/images/anime/7/29008.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラえもん ぼくの生まれた日

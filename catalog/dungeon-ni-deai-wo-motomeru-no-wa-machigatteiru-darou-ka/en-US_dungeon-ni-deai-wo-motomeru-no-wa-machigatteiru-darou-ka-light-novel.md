@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka](https://cdn.myanimelist.net/images/manga/1/186978.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか
 -   **start-date**: 2013-01-15

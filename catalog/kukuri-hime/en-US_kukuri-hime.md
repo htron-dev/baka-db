@@ -1,5 +1,7 @@
 # Kukuri-hime
 
+![kukuri-hime](https://cdn.myanimelist.net/images/manga/3/157962.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Jinsei wa Barairo Da
 
+![jinsei-wa-barairo-da](https://cdn.myanimelist.net/images/manga/2/5902.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

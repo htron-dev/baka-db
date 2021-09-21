@@ -1,5 +1,7 @@
 # Idol Clubs
 
+![idol-clubs](https://cdn.myanimelist.net/images/manga/2/41432.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 아이돌 클럽

@@ -1,5 +1,7 @@
 # Devilman: Yochou Sirene-hen
 
+![devilman-yochou-sirene-hen](https://cdn.myanimelist.net/images/anime/1362/106934.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デビルマン 妖鳥シレーヌ編

@@ -1,5 +1,7 @@
 # Kobo-chan
 
+![kobo-chan](https://cdn.myanimelist.net/images/anime/1017/99304.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 63
 -   **original-name**: コボちゃん

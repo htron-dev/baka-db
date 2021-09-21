@@ -1,5 +1,7 @@
 # Fei Ren Zai 4th Season
 
+![fei-ren-zai-4th-season](https://cdn.myanimelist.net/images/anime/1903/113241.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 非人哉 第四季

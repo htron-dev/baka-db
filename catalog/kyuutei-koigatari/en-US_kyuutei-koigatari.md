@@ -1,5 +1,7 @@
 # Kyuutei Koigatari
 
+![kyuutei-koigatari](https://cdn.myanimelist.net/images/manga/3/152791.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 宮廷恋語り
 -   **start-date**: 2014-11-29

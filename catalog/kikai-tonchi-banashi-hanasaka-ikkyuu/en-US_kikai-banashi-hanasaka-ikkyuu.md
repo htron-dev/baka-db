@@ -1,5 +1,7 @@
 # Kikai Banashi Hanasaka Ikkyuu
 
+![kikai-banashi-hanasaka-ikkyuu](https://cdn.myanimelist.net/images/manga/3/46355.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

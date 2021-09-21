@@ -1,5 +1,7 @@
 # Kennosuke-sama
 
+![kennosuke-sama](https://cdn.myanimelist.net/images/anime/1521/94554.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 剣之介さま

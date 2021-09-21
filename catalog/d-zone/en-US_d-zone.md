@@ -1,5 +1,7 @@
 # D-Zone
 
+![d-zone](https://cdn.myanimelist.net/images/manga/3/30493.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

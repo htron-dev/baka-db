@@ -1,5 +1,7 @@
 # Ichiroh!
 
+![ichiroh](https://cdn.myanimelist.net/images/manga/1/20572.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: イチロー！

@@ -1,5 +1,7 @@
 # Doraemon Movie 06: Nobita no Little Star Wars
 
+![doraemon-movie-06-nobita-no-little-star-wars](https://cdn.myanimelist.net/images/anime/6/72411.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の宇宙小戦争[リトル・スター・ウォーズ]

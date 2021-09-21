@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume The Movie 1: Soutou wa Nido Shinu
 
+![himitsukessha-taka-no-tsume-the-movie-1-soutou-wa-nido-shinu](https://cdn.myanimelist.net/images/anime/8/22014.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 秘密結社鷹の爪 THE MOVIE 　総統は二度死ぬ

@@ -1,5 +1,7 @@
 # Kantan na Enquete desu
 
+![kantan-na-enquete-desu](https://cdn.myanimelist.net/images/manga/3/117769.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 32

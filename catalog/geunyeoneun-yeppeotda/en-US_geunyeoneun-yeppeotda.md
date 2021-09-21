@@ -1,5 +1,7 @@
 # Geunyeoneun Yeppeotda
 
+![geunyeoneun-yeppeotda](https://cdn.myanimelist.net/images/anime/2/25901.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 그녀는 예뻣다

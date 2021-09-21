@@ -1,5 +1,7 @@
 # Mimizuku to Yoru no Ou
 
+![mimizuku-to-yoru-no-ou](https://cdn.myanimelist.net/images/manga/2/243102.jpg)
+
 -   **type**: manga
 -   **original-name**: ミミズクと夜の王
 -   **start-date**: 2020-09-24

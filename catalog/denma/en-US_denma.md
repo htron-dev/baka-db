@@ -1,5 +1,7 @@
 # Denma
 
+![denma](https://cdn.myanimelist.net/images/manga/1/174115.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 덴마
 -   **start-date**: 2010-01-08

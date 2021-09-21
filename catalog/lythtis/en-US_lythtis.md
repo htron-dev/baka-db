@@ -1,5 +1,7 @@
 # Lythtis
 
+![lythtis](https://cdn.myanimelist.net/images/manga/2/12134.jpg)
+
 -   **type**: manga
 -   **start-date**: 1995-06-19
 

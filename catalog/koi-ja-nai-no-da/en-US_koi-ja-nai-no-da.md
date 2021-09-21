@@ -1,5 +1,7 @@
 # Koi ja nai no da!
 
+![koi-ja-nai-no-da](https://cdn.myanimelist.net/images/manga/1/35994.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Jie Yao
 
+![jie-yao](https://cdn.myanimelist.net/images/anime/1579/105384.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 解药

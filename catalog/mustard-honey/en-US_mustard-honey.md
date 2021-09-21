@@ -1,5 +1,7 @@
 # Mustard Honey
 
+![mustard-honey](https://cdn.myanimelist.net/images/manga/2/131727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マスタード・ハニー

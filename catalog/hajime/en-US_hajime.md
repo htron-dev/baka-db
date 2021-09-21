@@ -1,5 +1,7 @@
 # Hajime
 
+![hajime](https://cdn.myanimelist.net/images/manga/3/6578.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: はじめ

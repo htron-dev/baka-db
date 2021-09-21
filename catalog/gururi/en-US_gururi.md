@@ -1,5 +1,7 @@
 # Gururi
 
+![gururi](https://cdn.myanimelist.net/images/manga/3/38114.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ぐるり 四神退魔

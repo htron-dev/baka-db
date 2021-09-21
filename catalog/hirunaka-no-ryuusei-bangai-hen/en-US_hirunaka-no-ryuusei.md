@@ -1,5 +1,7 @@
 # Hirunaka no Ryuusei
 
+![hirunaka-no-ryuusei](https://cdn.myanimelist.net/images/manga/1/63891.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 86

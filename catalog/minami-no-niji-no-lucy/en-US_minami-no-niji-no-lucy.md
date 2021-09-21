@@ -1,5 +1,7 @@
 # Minami no Niji no Lucy
 
+![minami-no-niji-no-lucy](https://cdn.myanimelist.net/images/anime/1769/102083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 南の虹のルーシー

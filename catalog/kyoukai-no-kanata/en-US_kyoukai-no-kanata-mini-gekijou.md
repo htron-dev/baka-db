@@ -1,5 +1,7 @@
 # Kyoukai no Kanata: Mini Gekijou
 
+![kyoukai-no-kanata-mini-gekijou](https://cdn.myanimelist.net/images/anime/10/72218.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 境界の彼方 ミニ劇場

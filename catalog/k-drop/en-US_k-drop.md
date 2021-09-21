@@ -1,5 +1,7 @@
 # K×Drop!!
 
+![k-drop](https://cdn.myanimelist.net/images/anime/1935/113572.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: K×Drop!!

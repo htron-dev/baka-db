@@ -1,5 +1,7 @@
 # Kao ni Dasenai Yoshizawa-kun
 
+![kao-ni-dasenai-yoshizawa-kun](https://cdn.myanimelist.net/images/manga/3/169989.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

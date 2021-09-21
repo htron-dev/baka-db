@@ -1,5 +1,7 @@
 # Dei Ecchi Ei
 
+![dei-ecchi-ei](https://cdn.myanimelist.net/images/manga/1/164577.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: でぃ・えっち・えぃ

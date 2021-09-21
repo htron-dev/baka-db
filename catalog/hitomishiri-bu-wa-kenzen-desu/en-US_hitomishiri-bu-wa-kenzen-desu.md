@@ -1,5 +1,7 @@
 # Hitomishiri-bu wa Kenzen desu
 
+![hitomishiri-bu-wa-kenzen-desu](https://cdn.myanimelist.net/images/manga/2/164745.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 人見知り部は健全です

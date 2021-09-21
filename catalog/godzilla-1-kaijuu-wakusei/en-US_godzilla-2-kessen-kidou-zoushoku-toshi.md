@@ -1,5 +1,7 @@
 # Godzilla 2: Kessen Kidou Zoushoku Toshi
 
+![godzilla-2-kessen-kidou-zoushoku-toshi](https://cdn.myanimelist.net/images/anime/1748/98537.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GODZILLA 決戦機動増殖都市

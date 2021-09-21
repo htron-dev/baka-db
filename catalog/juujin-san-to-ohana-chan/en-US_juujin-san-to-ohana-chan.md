@@ -1,5 +1,7 @@
 # Juujin-san to Ohana-chan
 
+![juujin-san-to-ohana-chan](https://cdn.myanimelist.net/images/manga/3/245638.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

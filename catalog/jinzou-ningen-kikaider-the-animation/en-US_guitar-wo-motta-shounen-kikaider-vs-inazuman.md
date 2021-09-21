@@ -1,5 +1,7 @@
 # Guitar wo Motta Shounen: Kikaider vs. Inazuman
 
+![guitar-wo-motta-shounen-kikaider-vs-inazuman](https://cdn.myanimelist.net/images/anime/11/23337.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギターを持った少年 -キカイダー VS イナズマン-

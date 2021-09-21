@@ -1,5 +1,7 @@
 # Fairy Field
 
+![fairy-field](https://cdn.myanimelist.net/images/manga/1/160143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: フェアリィフィールド

@@ -1,5 +1,7 @@
 # Kiss yori mo Hayaku
 
+![kiss-yori-mo-hayaku](https://cdn.myanimelist.net/images/manga/5/111965.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 58

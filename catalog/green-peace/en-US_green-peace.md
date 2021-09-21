@@ -1,5 +1,7 @@
 # Green Peace
 
+![green-peace](https://cdn.myanimelist.net/images/manga/3/88497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

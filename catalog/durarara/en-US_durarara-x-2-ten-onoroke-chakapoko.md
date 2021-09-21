@@ -1,5 +1,7 @@
 # Durarara!!x2 Ten: Onoroke Chakapoko
 
+![durarara-x-2-ten-onoroke-chakapoko](https://cdn.myanimelist.net/images/anime/3/76082.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デュラララ!!× ２ 転　第 13.5 話「お惚気チャカポコ」

@@ -1,5 +1,7 @@
 # Himitsu na Kankei
 
+![himitsu-na-kankei](https://cdn.myanimelist.net/images/manga/3/17470.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 秘密な関係 ~Secret Connection~

@@ -1,5 +1,7 @@
 # My Eternal Master
 
+![my-eternal-master](https://cdn.myanimelist.net/images/manga/3/3069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

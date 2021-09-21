@@ -1,5 +1,7 @@
 # Hal no Fue
 
+![hal-no-fue](https://cdn.myanimelist.net/images/anime/11/74094.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハルのふえ

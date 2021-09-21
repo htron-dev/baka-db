@@ -1,5 +1,7 @@
 # Kimi wa Aozora no Shita ni Iru
 
+![kimi-wa-aozora-no-shita-ni-iru](https://cdn.myanimelist.net/images/manga/1/175903.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 君は青空の下にいる

@@ -1,5 +1,7 @@
 # Itoshigo no Shouzou
 
+![itoshigo-no-shouzou](https://cdn.myanimelist.net/images/manga/1/227442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛し子の肖像

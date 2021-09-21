@@ -1,5 +1,7 @@
 # Kore wa Zombie Desu ka?
 
+![kore-wa-zombie-desu-ka](https://cdn.myanimelist.net/images/anime/13/75521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: これはゾンビですか?

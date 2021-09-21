@@ -1,5 +1,7 @@
 # Hinamizawa Teiryuujo: Higurashi no Naku Koro ni Genten
 
+![hinamizawa-teiryuujo-higurashi-no-naku-koro-ni-genten](https://cdn.myanimelist.net/images/manga/1/176843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

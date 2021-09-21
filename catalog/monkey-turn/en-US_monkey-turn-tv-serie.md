@@ -1,5 +1,7 @@
 # Monkey Turn
 
+![monkey-turn](https://cdn.myanimelist.net/images/anime/2/75223.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: モンキーターン

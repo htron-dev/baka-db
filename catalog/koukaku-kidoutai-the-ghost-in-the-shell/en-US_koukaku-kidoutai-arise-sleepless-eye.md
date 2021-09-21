@@ -1,9 +1,11 @@
 # Koukaku Kidoutai: Arise - Sleepless Eye
 
+![koukaku-kidoutai-arise-sleepless-eye](https://cdn.myanimelist.net/images/manga/1/95927.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42
--   **original-name**: 攻殻機動隊ARISE～眠らない眼の男 Sleepless Eye～
+-   **original-name**: 攻殻機動隊 ARISE ～眠らない眼の男 Sleepless Eye ～
 -   **start-date**: 2013-03-13
 -   **end-date**: 2013-03-13
 

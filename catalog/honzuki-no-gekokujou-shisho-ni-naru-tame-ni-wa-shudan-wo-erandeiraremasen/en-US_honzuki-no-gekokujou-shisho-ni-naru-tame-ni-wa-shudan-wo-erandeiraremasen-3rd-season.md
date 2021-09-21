@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season](https://cdn.myanimelist.net/images/anime/1395/116925.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 本好きの下剋上 ～司書になるためには手段を選んでいられません～
 -   **rating**: PG-13 - Teens 13 or older

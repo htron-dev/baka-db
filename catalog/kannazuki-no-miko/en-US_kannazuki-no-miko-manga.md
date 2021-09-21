@@ -1,5 +1,7 @@
 # Kannazuki no Miko
 
+![kannazuki-no-miko](https://cdn.myanimelist.net/images/manga/3/101311.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

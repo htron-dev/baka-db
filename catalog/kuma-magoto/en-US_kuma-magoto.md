@@ -1,5 +1,7 @@
 # Kuma Magoto
 
+![kuma-magoto](https://cdn.myanimelist.net/images/manga/2/34584.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

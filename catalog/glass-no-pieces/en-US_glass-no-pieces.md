@@ -1,5 +1,7 @@
 # Glass no Pieces
 
+![glass-no-pieces](https://cdn.myanimelist.net/images/manga/2/223017.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 硝子のピーシズ

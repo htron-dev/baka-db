@@ -1,5 +1,7 @@
 # Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima
 
+![mattsu-to-yanma-to-moburi-san-2-suigun-otakara-to-nazotoki-no-shimajima](https://cdn.myanimelist.net/images/anime/7/68749.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: マッツとヤンマとモブリさん 2 ―水軍お宝と謎解きの島々―

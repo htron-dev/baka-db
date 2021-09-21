@@ -1,5 +1,7 @@
 # Hato yo: Hiroshima no Sora wo
 
+![hato-yo-hiroshima-no-sora-wo](https://cdn.myanimelist.net/images/anime/6/66031.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はとよ　ひろしまの空を

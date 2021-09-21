@@ -1,5 +1,7 @@
 # Machine Hayabusa
 
+![machine-hayabusa](https://cdn.myanimelist.net/images/anime/10/29015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: マシンハヤブサ

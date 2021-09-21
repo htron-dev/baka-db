@@ -1,5 +1,7 @@
 # Kinken Chochiku Shiobara Tasuke
 
+![kinken-chochiku-shiobara-tasuke](https://cdn.myanimelist.net/images/anime/2/71027.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 勤倹貯蓄 塩原多助

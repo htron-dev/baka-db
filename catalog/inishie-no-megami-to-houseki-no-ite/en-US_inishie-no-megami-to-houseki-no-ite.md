@@ -1,5 +1,7 @@
 # Inishie no Megami to Houseki no Ite
 
+![inishie-no-megami-to-houseki-no-ite](https://cdn.myanimelist.net/images/anime/12/72067.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 古の女神と宝石の射手

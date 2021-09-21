@@ -1,5 +1,7 @@
 # Ichi-gan Kuni
 
+![ichi-gan-kuni](https://cdn.myanimelist.net/images/anime/8/76324.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一眼国

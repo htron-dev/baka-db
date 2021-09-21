@@ -1,5 +1,7 @@
 # Marielle Clarac no Konyaku
 
+![marielle-clarac-no-konyaku](https://cdn.myanimelist.net/images/manga/1/224413.jpg)
+
 -   **type**: manga
 -   **original-name**: マリエル・クララックの婚約
 -   **start-date**: 2018-09-28

@@ -1,5 +1,7 @@
 # Flower\*Flower
 
+![flower-flower](https://cdn.myanimelist.net/images/manga/3/36058.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

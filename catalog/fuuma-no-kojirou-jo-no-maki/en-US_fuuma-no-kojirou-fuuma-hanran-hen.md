@@ -1,5 +1,7 @@
 # Fuuma no Kojirou: Fuuma Hanran-hen
 
+![fuuma-no-kojirou-fuuma-hanran-hen](https://cdn.myanimelist.net/images/anime/13/9385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 風魔の小次郎～風魔反乱篇～

@@ -1,5 +1,7 @@
 # Imamade Ichido mo Onnaatsukai sareta Koto ga Nai Onna Kishi wo Onnaatsukai suru Manga
 
+![imamade-ichido-mo-onnaatsukai-sareta-koto-ga-nai-onna-kishi-wo-onnaatsukai-suru-manga](https://cdn.myanimelist.net/images/manga/1/215499.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 134

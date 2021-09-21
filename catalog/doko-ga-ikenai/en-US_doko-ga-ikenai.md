@@ -1,5 +1,7 @@
 # Doko ga Ikenai!?
 
+![doko-ga-ikenai](https://cdn.myanimelist.net/images/manga/2/35916.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

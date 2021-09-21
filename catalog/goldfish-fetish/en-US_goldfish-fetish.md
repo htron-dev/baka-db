@@ -1,5 +1,7 @@
 # Goldfish Fetish
 
+![goldfish-fetish](https://cdn.myanimelist.net/images/anime/9/58117.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GOLDFISH FETISH

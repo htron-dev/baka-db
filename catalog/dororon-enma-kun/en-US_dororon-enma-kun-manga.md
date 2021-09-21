@@ -1,5 +1,7 @@
 # Dororon Enma-kun
 
+![dororon-enma-kun](https://cdn.myanimelist.net/images/manga/1/39225.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

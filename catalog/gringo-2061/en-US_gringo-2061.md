@@ -1,5 +1,7 @@
 # Gringo 2061
 
+![gringo-2061](https://cdn.myanimelist.net/images/manga/2/100939.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: GRINGO2061

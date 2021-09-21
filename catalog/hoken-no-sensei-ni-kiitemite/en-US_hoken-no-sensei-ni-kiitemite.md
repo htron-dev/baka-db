@@ -1,5 +1,7 @@
 # Hoken no Sensei ni Kiitemite
 
+![hoken-no-sensei-ni-kiitemite](https://cdn.myanimelist.net/images/manga/3/71057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

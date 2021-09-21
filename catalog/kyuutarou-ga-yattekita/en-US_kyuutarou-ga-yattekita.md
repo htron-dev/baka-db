@@ -1,5 +1,7 @@
 # Kyuutarou ga Yattekita!
 
+![kyuutarou-ga-yattekita](https://cdn.myanimelist.net/images/manga/2/30883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 九太郎がやってきた!

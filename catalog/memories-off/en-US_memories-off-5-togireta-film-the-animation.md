@@ -1,5 +1,7 @@
 # Memories Off #5 Togireta Film The Animation
 
+![memories-off-5-togireta-film-the-animation](https://cdn.myanimelist.net/images/anime/8/4682.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Memories Off #5 とぎれたフィルム THE ANIMATION

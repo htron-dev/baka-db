@@ -1,5 +1,7 @@
 # Golden Kamuy 2nd Season OVA
 
+![golden-kamuy-2nd-season-ova](https://cdn.myanimelist.net/images/anime/1101/100258.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ゴールデンカムイ OAD

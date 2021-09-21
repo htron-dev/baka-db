@@ -1,5 +1,7 @@
 # Heika no Amayaka na Pet: Ai ni Oboreru Yousei-hime
 
+![heika-no-amayaka-na-pet-ai-ni-oboreru-yousei-hime](https://cdn.myanimelist.net/images/manga/1/183247.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

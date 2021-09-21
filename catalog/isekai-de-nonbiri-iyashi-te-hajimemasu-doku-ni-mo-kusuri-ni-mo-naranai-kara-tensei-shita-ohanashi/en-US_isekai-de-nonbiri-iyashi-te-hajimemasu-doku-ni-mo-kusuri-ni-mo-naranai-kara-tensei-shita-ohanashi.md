@@ -1,5 +1,7 @@
 # Isekai de Nonbiri Iyashi Te Hajimemasu: Doku ni mo Kusuri ni mo Naranai kara Tensei shita Ohanashi
 
+![isekai-de-nonbiri-iyashi-te-hajimemasu-doku-ni-mo-kusuri-ni-mo-naranai-kara-tensei-shita-ohanashi](https://cdn.myanimelist.net/images/manga/1/226899.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でのんびり癒し手はじめます ～毒にも薬にもならないから転生したお話～
 -   **start-date**: 2019-12-06

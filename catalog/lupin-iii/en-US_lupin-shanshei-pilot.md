@@ -1,5 +1,7 @@
 # Lupin Shanshei Pilot
 
+![lupin-shanshei-pilot](https://cdn.myanimelist.net/images/anime/10/76939.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパンしゃんしぇいパイロット版

@@ -1,5 +1,7 @@
 # Kaoru-kun
 
+![kaoru-kun](https://cdn.myanimelist.net/images/manga/2/3625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

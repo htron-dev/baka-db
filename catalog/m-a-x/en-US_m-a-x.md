@@ -1,5 +1,7 @@
 # M.A.X.
 
+![m-a-x](https://cdn.myanimelist.net/images/manga/3/135229.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 21

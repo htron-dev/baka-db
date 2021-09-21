@@ -1,5 +1,7 @@
 # Love Me Baby
 
+![love-me-baby](https://cdn.myanimelist.net/images/manga/1/80437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

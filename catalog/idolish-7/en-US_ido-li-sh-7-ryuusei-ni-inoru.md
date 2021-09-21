@@ -1,5 +1,7 @@
 # IDOLiSH7: Ryuusei ni Inoru
 
+![ido-li-sh-7-ryuusei-ni-inoru](https://cdn.myanimelist.net/images/manga/3/229087.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

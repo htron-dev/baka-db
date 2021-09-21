@@ -1,5 +1,7 @@
 # Hoshizora no Kimi
 
+![hoshizora-no-kimi](https://cdn.myanimelist.net/images/manga/2/191094.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

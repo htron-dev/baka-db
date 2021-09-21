@@ -1,5 +1,7 @@
 # Fantasista Stella
 
+![fantasista-stella](https://cdn.myanimelist.net/images/anime/1886/96085.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ファンタジスタ ステラ

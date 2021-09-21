@@ -1,5 +1,7 @@
 # Mob Psycho Mini
 
+![mob-psycho-mini](https://cdn.myanimelist.net/images/anime/1225/91141.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: モブサイコ mini

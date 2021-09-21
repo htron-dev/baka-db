@@ -1,5 +1,7 @@
 # Koe no Katachi
 
+![koe-no-katachi](https://cdn.myanimelist.net/images/manga/1/120529.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 64

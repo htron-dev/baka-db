@@ -1,5 +1,7 @@
 # For the Sake of Both
 
+![for-the-sake-of-both](https://cdn.myanimelist.net/images/manga/2/29657.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 24

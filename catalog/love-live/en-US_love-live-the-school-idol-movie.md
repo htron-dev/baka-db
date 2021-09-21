@@ -1,5 +1,7 @@
 # Love Live! The School Idol Movie
 
+![love-live-the-school-idol-movie](https://cdn.myanimelist.net/images/anime/6/75700.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ラブライブ！The School Idol Movie

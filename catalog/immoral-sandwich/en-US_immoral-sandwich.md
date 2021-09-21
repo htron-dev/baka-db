@@ -1,5 +1,7 @@
 # Immoral Sandwich
 
+![immoral-sandwich](https://cdn.myanimelist.net/images/manga/1/192855.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: インモラルサンドイッチ

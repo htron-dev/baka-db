@@ -1,5 +1,7 @@
 # Delusional Boy
 
+![delusional-boy](https://cdn.myanimelist.net/images/manga/2/169035.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 망상소년
 -   **start-date**: 2014-05-31

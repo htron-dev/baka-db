@@ -1,5 +1,7 @@
 # Itsuka Mata Kaeru
 
+![itsuka-mata-kaeru](https://cdn.myanimelist.net/images/manga/3/197979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

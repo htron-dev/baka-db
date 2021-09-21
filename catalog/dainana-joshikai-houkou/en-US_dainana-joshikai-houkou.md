@@ -1,5 +1,7 @@
 # Dainana Joshikai Houkou
 
+![dainana-joshikai-houkou](https://cdn.myanimelist.net/images/manga/1/171589.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 87

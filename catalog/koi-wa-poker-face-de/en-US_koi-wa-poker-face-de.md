@@ -1,5 +1,7 @@
 # Koi wa Poker Face de
 
+![koi-wa-poker-face-de](https://cdn.myanimelist.net/images/manga/3/227567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋はポーカーフェイスで

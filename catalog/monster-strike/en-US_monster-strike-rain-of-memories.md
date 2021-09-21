@@ -1,5 +1,7 @@
 # Monster Strike: Rain of Memories
 
+![monster-strike-rain-of-memories](https://cdn.myanimelist.net/images/anime/7/83124.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 映画公開スペシャル「レイン・オブ・メモリーズ」

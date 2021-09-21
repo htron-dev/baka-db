@@ -1,5 +1,7 @@
 # Fudanshi Kazoku
 
+![fudanshi-kazoku](https://cdn.myanimelist.net/images/manga/2/227005.jpg)
+
 -   **type**: manga
 -   **original-name**: 腐男子家族
 -   **start-date**: 2019-01-12

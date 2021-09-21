@@ -1,5 +1,7 @@
 # Gyakuten Hierarchy!
 
+![gyakuten-hierarchy](https://cdn.myanimelist.net/images/manga/2/171782.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kono Ao ni Koi wo Shita
 
+![kono-ao-ni-koi-wo-shita](https://cdn.myanimelist.net/images/manga/1/47875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: この青に恋をした

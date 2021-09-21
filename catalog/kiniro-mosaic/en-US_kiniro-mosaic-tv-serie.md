@@ -1,5 +1,7 @@
 # Kiniro Mosaic
 
+![kiniro-mosaic](https://cdn.myanimelist.net/images/anime/1793/117610.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: きんいろモザイク

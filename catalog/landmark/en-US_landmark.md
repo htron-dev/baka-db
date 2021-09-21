@@ -1,5 +1,7 @@
 # Landmark
 
+![landmark](https://cdn.myanimelist.net/images/anime/10/71874.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: landmark

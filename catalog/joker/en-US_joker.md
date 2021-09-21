@@ -1,5 +1,7 @@
 # Joker
 
+![joker](https://cdn.myanimelist.net/images/manga/1/228672.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

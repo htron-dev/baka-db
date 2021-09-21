@@ -1,5 +1,7 @@
 # Gangoose
 
+![gangoose](https://cdn.myanimelist.net/images/manga/3/189276.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 163

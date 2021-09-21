@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Shizoku Kaigi-hen
 
+![mahouka-koukou-no-rettousei-shizoku-kaigi-hen](https://cdn.myanimelist.net/images/manga/2/246068.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法科高校の劣等生 師族会議編
 -   **start-date**: 2020-03-18

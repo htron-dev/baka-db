@@ -1,5 +1,7 @@
 # Houkago Saikoro Club
 
+![houkago-saikoro-club](https://cdn.myanimelist.net/images/manga/1/118233.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後さいころ倶楽部
 -   **start-date**: 2013-03-12

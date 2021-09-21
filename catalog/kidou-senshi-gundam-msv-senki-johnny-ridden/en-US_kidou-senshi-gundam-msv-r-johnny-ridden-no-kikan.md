@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam MSV-R: Johnny Ridden no Kikan
 
+![kidou-senshi-gundam-msv-r-johnny-ridden-no-kikan](https://cdn.myanimelist.net/images/manga/2/176276.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム MSV-R ジョニー・ライデンの帰還
 -   **start-date**: 2010-04-26

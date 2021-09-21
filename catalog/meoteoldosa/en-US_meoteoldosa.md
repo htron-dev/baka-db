@@ -1,5 +1,7 @@
 # Meoteoldosa
 
+![meoteoldosa](https://cdn.myanimelist.net/images/anime/2/49077.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 머털도사

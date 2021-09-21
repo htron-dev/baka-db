@@ -1,5 +1,7 @@
 # Heisei Ayakashi Shimatsunin
 
+![heisei-ayakashi-shimatsunin](https://cdn.myanimelist.net/images/manga/2/20016.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

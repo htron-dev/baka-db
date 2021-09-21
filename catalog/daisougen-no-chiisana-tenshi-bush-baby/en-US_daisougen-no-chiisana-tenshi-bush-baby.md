@@ -1,5 +1,7 @@
 # Daisougen no Chiisana Tenshi: Bush Baby
 
+![daisougen-no-chiisana-tenshi-bush-baby](https://cdn.myanimelist.net/images/anime/6/11298.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 大草原の小さな天使　ブッシュベイビー

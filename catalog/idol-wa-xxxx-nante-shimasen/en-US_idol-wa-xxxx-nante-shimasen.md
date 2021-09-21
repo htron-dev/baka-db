@@ -1,5 +1,7 @@
 # Idol wa xxxx nante Shimasen!
 
+![idol-wa-xxxx-nante-shimasen](https://cdn.myanimelist.net/images/manga/1/161250.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

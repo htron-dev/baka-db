@@ -1,5 +1,7 @@
 # Hatoya
 
+![hatoya](https://cdn.myanimelist.net/images/anime/9/88647.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: HATOYA

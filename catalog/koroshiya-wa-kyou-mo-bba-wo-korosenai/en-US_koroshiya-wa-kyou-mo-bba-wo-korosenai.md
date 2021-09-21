@@ -1,5 +1,7 @@
 # Koroshiya wa Kyou mo BBA wo Korosenai.
 
+![koroshiya-wa-kyou-mo-bba-wo-korosenai](https://cdn.myanimelist.net/images/manga/3/236221.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺し屋は今日も BBA を殺せない。
 -   **start-date**: 2020-01-12

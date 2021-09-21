@@ -1,5 +1,7 @@
 # LaLaLa, Brothers
 
+![la-la-la-brothers](https://cdn.myanimelist.net/images/anime/1320/114931.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LaLaLa, BROTHERS

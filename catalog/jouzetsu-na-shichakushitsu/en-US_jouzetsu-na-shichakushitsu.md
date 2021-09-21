@@ -1,5 +1,7 @@
 # Jouzetsu na Shichakushitsu
 
+![jouzetsu-na-shichakushitsu](https://cdn.myanimelist.net/images/manga/2/26802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

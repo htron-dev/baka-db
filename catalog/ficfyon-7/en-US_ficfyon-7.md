@@ -1,5 +1,7 @@
 # Ficfyon7
 
+![ficfyon-7](https://cdn.myanimelist.net/images/anime/1378/110951.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヘコヒョン 7

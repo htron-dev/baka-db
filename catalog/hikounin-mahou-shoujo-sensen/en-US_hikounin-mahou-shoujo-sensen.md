@@ -1,5 +1,7 @@
 # Hikounin Mahou Shoujo Sensen
 
+![hikounin-mahou-shoujo-sensen](https://cdn.myanimelist.net/images/manga/3/206390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

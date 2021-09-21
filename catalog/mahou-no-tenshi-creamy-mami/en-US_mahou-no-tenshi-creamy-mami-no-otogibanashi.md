@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami no Otogibanashi
 
+![mahou-no-tenshi-creamy-mami-no-otogibanashi](https://cdn.myanimelist.net/images/anime/9/77436.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔法の天使クリィミーマミのおとぎ話

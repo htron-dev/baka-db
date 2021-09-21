@@ -1,5 +1,7 @@
 # Hikari to Mizu no Daphne Specials
 
+![hikari-to-mizu-no-daphne-specials](https://cdn.myanimelist.net/images/anime/10/44073.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 光と水のダフネ

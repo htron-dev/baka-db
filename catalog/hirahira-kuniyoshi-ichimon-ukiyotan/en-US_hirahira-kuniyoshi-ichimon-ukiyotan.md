@@ -1,5 +1,7 @@
 # Hirahira: Kuniyoshi Ichimon Ukiyotan
 
+![hirahira-kuniyoshi-ichimon-ukiyotan](https://cdn.myanimelist.net/images/manga/3/143683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

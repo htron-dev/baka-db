@@ -1,5 +1,7 @@
 # Kimi ni Ienai Koto ga Aru
 
+![kimi-ni-ienai-koto-ga-aru](https://cdn.myanimelist.net/images/manga/2/226876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

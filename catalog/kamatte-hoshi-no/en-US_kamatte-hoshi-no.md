@@ -1,5 +1,7 @@
 # Kamatte Hoshi no?
 
+![kamatte-hoshi-no](https://cdn.myanimelist.net/images/manga/3/143287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

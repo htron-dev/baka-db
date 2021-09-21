@@ -1,5 +1,7 @@
 # Muv-Luv
 
+![muv-luv](https://cdn.myanimelist.net/images/manga/2/135575.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: マブラヴ

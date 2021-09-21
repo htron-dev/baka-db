@@ -1,5 +1,7 @@
 # Kotonoha
 
+![kotonoha](https://cdn.myanimelist.net/images/manga/1/28700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

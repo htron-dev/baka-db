@@ -1,5 +1,7 @@
 # Haru wa Na nomi no
 
+![haru-wa-na-nomi-no](https://cdn.myanimelist.net/images/manga/2/180426.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

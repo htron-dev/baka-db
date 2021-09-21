@@ -1,5 +1,7 @@
 # Lupin III: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan
 
+![lupin-iii-sweet-lost-night-mahou-no-lamp-wa-akumu-no-yokan](https://cdn.myanimelist.net/images/anime/3/14156.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世　 sweet lost night ～魔法のランプは悪夢の予感～

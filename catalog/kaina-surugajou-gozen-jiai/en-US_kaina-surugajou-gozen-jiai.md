@@ -1,5 +1,7 @@
 # Kaina: Surugajou Gozen-Jiai
 
+![kaina-surugajou-gozen-jiai](https://cdn.myanimelist.net/images/manga/2/155538.jpg)
+
 -   **type**: manga
 -   **original-name**: 腕~駿河城御前試合~
 

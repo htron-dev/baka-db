@@ -1,5 +1,7 @@
 # Keiyaku Hanayome: Outaishi no Amai Wana
 
+![keiyaku-hanayome-outaishi-no-amai-wana](https://cdn.myanimelist.net/images/manga/3/191967.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

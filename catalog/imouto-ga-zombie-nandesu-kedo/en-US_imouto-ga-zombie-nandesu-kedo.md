@@ -1,5 +1,7 @@
 # Imouto ga Zombie Nandesu kedo!
 
+![imouto-ga-zombie-nandesu-kedo](https://cdn.myanimelist.net/images/manga/1/196557.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

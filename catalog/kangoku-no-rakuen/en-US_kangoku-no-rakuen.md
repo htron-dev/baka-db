@@ -1,5 +1,7 @@
 # Kangoku no Rakuen
 
+![kangoku-no-rakuen](https://cdn.myanimelist.net/images/manga/1/130757.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

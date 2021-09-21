@@ -1,5 +1,7 @@
 # Darenimo Ienai Hanayome Shuugyou: Amai Mitsu no Yakata
 
+![darenimo-ienai-hanayome-shuugyou-amai-mitsu-no-yakata](https://cdn.myanimelist.net/images/manga/3/191947.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

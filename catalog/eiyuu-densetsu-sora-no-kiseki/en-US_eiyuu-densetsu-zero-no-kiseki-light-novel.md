@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Zero no Kiseki
 
+![eiyuu-densetsu-zero-no-kiseki](https://cdn.myanimelist.net/images/manga/3/103997.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 英雄伝説 零の軌跡

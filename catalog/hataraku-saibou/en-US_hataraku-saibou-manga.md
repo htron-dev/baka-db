@@ -1,5 +1,7 @@
 # Hataraku Saibou
 
+![hataraku-saibou](https://cdn.myanimelist.net/images/manga/3/200497.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

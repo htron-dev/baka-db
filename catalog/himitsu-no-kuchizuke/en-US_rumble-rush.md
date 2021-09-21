@@ -1,5 +1,7 @@
 # Rumble Rush
 
+![rumble-rush](https://cdn.myanimelist.net/images/manga/1/15919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

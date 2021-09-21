@@ -1,5 +1,7 @@
 # Mizu no Yakata
 
+![mizu-no-yakata](https://cdn.myanimelist.net/images/manga/5/175786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

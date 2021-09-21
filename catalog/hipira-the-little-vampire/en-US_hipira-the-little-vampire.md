@@ -1,5 +1,7 @@
 # Hipira: The Little Vampire
 
+![hipira-the-little-vampire](https://cdn.myanimelist.net/images/manga/3/10576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Jia You Jiu Shen
 
+![jia-you-jiu-shen](https://cdn.myanimelist.net/images/anime/1171/115486.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 家有酒神

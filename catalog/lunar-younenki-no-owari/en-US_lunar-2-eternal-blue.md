@@ -1,5 +1,7 @@
 # Lunar 2: Eternal Blue
 
+![lunar-2-eternal-blue](https://cdn.myanimelist.net/images/manga/2/178536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

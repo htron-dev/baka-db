@@ -1,5 +1,7 @@
 # Mahou Shoujo Oriko★Magica
 
+![mahou-shoujo-oriko★-magica](https://cdn.myanimelist.net/images/manga/3/99257.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

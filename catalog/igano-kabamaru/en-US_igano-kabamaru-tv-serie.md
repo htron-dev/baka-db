@@ -1,5 +1,7 @@
 # Igano Kabamaru
 
+![igano-kabamaru](https://cdn.myanimelist.net/images/anime/9/62909.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 伊賀野カバ丸

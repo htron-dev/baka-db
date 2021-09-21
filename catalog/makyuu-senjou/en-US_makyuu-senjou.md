@@ -1,5 +1,7 @@
 # Makyuu Senjou
 
+![makyuu-senjou](https://cdn.myanimelist.net/images/anime/8/61777.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 魔宮戦場

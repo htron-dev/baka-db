@@ -1,5 +1,7 @@
 # Digimon Adventure:
 
+![digimon-adventure](https://cdn.myanimelist.net/images/anime/1745/105558.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 66
 -   **original-name**: デジモンアドベンチャー:

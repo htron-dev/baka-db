@@ -1,5 +1,7 @@
 # Issho ni Gohan. -Takitate!-
 
+![issho-ni-gohan-takitate](https://cdn.myanimelist.net/images/manga/1/83456.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

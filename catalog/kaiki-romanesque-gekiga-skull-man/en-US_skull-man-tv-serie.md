@@ -1,5 +1,7 @@
 # Skull Man
 
+![skull-man](https://cdn.myanimelist.net/images/anime/1273/115661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スカルマン SKULL MAN

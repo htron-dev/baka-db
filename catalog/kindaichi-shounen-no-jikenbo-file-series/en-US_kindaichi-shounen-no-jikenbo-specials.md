@@ -1,8 +1,10 @@
 # Kindaichi Shounen no Jikenbo Specials
 
+![kindaichi-shounen-no-jikenbo-specials](https://cdn.myanimelist.net/images/anime/7/25371.jpg)
+
 -   **type**: special
 -   **episodes**: 2
--   **original-name**: 金田一少年の事件簿SP
+-   **original-name**: 金田一少年の事件簿 SP
 -   **start-date**: 2007-11-12
 -   **end-date**: 2007-11-12
 -   **rating**: PG-13 - Teens 13 or older

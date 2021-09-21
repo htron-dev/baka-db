@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Ayakashi Hakkenden
 
+![manga-grimm-douwa-ayakashi-hakkenden](https://cdn.myanimelist.net/images/manga/3/137377.jpg)
+
 -   **type**: manga
 -   **original-name**: まんがグリム童話 妖 八犬伝
 -   **start-date**: 2012-11-29

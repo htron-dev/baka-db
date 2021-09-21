@@ -1,5 +1,7 @@
 # Deathpedia
 
+![deathpedia](https://cdn.myanimelist.net/images/manga/2/205442.jpg)
+
 -   **type**: manga
 -   **original-name**: DEATH ペディア
 -   **start-date**: 2017-12-28

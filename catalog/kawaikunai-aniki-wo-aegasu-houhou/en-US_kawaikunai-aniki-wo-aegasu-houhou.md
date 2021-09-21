@@ -1,5 +1,7 @@
 # Kawaikunai Aniki wo Aegasu Houhou
 
+![kawaikunai-aniki-wo-aegasu-houhou](https://cdn.myanimelist.net/images/manga/3/246556.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

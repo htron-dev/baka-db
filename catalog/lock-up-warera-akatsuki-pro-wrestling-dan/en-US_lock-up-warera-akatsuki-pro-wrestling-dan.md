@@ -1,5 +1,7 @@
 # Lock Up: Warera Akatsuki Pro Wrestling-dan
 
+![lock-up-warera-akatsuki-pro-wrestling-dan](https://cdn.myanimelist.net/images/manga/3/107867.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

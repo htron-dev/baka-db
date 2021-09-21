@@ -1,5 +1,7 @@
 # Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa
 
+![ginga-kikoutai-majestic-prince-mirai-e-no-tsubasa](https://cdn.myanimelist.net/images/anime/5/79232.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河機攻隊 マジェスティックプリンス 「未来への翼」

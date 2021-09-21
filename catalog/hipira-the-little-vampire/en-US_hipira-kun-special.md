@@ -1,5 +1,7 @@
 # Hipira-kun Special
 
+![hipira-kun-special](https://cdn.myanimelist.net/images/anime/9/59991.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヒピラくん

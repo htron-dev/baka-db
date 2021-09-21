@@ -1,5 +1,7 @@
 # Gundam Breaker: Battlogue
 
+![gundam-breaker-battlogue](https://cdn.myanimelist.net/images/anime/1712/117280.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ガンダムブレイカー バトローグ

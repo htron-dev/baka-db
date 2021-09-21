@@ -1,5 +1,7 @@
 # Mo Ichido Koishite
 
+![mo-ichido-koishite](https://cdn.myanimelist.net/images/manga/1/6779.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

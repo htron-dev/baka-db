@@ -1,5 +1,7 @@
 # Dogs: Bullets &amp; Carnage
 
+![dogs-bullets-amp-carnage](https://cdn.myanimelist.net/images/anime/12/21098.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ドッグズ／バレッツ＆カーネイジ

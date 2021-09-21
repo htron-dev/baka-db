@@ -1,5 +1,7 @@
 # Kuro Gal ni Natta kara Shinyuu to Yattemita.
 
+![kuro-gal-ni-natta-kara-shinyuu-to-yattemita](https://cdn.myanimelist.net/images/manga/1/236871.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒ギャルになったから親友とヤってみた。
 -   **start-date**: 2019-10-04

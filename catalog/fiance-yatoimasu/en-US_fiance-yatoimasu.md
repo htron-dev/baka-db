@@ -1,5 +1,7 @@
 # Fiancé Yatoimasu
 
+![fiance-yatoimasu](https://cdn.myanimelist.net/images/manga/3/247257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フィアンセ雇います

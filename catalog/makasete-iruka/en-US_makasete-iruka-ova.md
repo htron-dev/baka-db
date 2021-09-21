@@ -1,5 +1,7 @@
 # Makasete Iruka!
 
+![makasete-iruka](https://cdn.myanimelist.net/images/anime/9/3778.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: まかせてイルか！

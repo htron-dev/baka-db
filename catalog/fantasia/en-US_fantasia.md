@@ -1,5 +1,7 @@
 # Fantasia
 
+![fantasia](https://cdn.myanimelist.net/images/anime/1132/94538.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ふぁんたじあ

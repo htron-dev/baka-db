@@ -1,5 +1,7 @@
 # Gunjin Koutei wa Niizuma wo Kawaigaru no ni Isogashii
 
+![gunjin-koutei-wa-niizuma-wo-kawaigaru-no-ni-isogashii](https://cdn.myanimelist.net/images/manga/2/185277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

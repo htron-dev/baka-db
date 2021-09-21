@@ -1,5 +1,7 @@
 # Hanakappa no Koutsuu Anzen: Cake wo Momomete Migi, Hidari, Migi
 
+![hanakappa-no-koutsuu-anzen-cake-wo-momomete-migi-hidari-migi](https://cdn.myanimelist.net/images/anime/13/74431.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はなかっぱの交通安全　ケーキを求めて右・左・右

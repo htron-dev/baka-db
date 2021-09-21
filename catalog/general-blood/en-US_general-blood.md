@@ -1,5 +1,7 @@
 # General Blood
 
+![general-blood](https://cdn.myanimelist.net/images/manga/2/78773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

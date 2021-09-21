@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Alice Specials
 
+![fushigi-no-kuni-no-alice-specials](https://cdn.myanimelist.net/images/anime/1166/102543.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ふしぎの国のアリス

@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya](https://cdn.myanimelist.net/images/anime/1239/96949.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-

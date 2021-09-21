@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam 0083: Hoshikuzu no Eiyuu - Operation Stardust
 
+![kidou-senshi-gundam-0083-hoshikuzu-no-eiyuu-operation-stardust](https://cdn.myanimelist.net/images/manga/1/18864.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

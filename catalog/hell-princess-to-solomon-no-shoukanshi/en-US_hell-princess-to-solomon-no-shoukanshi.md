@@ -1,5 +1,7 @@
 # Hell Princess to Solomon no Shoukanshi
 
+![hell-princess-to-solomon-no-shoukanshi](https://cdn.myanimelist.net/images/manga/3/163703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

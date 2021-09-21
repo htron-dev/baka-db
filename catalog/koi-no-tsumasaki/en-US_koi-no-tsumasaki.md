@@ -1,5 +1,7 @@
 # Koi no Tsumasaki
 
+![koi-no-tsumasaki](https://cdn.myanimelist.net/images/manga/1/58887.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

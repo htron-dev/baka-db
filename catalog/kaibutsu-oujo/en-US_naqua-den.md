@@ -1,5 +1,7 @@
 # Naqua-den
 
+![naqua-den](https://cdn.myanimelist.net/images/manga/1/163096.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

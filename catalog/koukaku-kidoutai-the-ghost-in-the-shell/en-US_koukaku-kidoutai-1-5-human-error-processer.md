@@ -1,5 +1,7 @@
 # Koukaku Kidoutai 1.5: Human-Error Processer
 
+![koukaku-kidoutai-1-5-human-error-processer](https://cdn.myanimelist.net/images/manga/1/175989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

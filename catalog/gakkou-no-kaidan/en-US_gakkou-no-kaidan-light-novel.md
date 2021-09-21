@@ -1,5 +1,7 @@
 # Gakkou no Kaidan
 
+![gakkou-no-kaidan](https://cdn.myanimelist.net/images/manga/2/117605.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 学校の階段

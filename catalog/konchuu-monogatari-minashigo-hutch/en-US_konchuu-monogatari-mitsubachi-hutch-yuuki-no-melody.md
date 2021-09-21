@@ -1,5 +1,7 @@
 # Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody
 
+![konchuu-monogatari-mitsubachi-hutch-yuuki-no-melody](https://cdn.myanimelist.net/images/anime/8/47243.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 昆虫物語 みつばちハッチ～勇気のメロディ～

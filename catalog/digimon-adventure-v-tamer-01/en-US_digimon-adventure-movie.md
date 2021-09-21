@@ -1,5 +1,7 @@
 # Digimon Adventure Movie
 
+![digimon-adventure-movie](https://cdn.myanimelist.net/images/anime/3/72452.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー 劇場版

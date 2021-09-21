@@ -1,5 +1,7 @@
 # Mahoromatic: Motto Utsukushii Mono
 
+![mahoromatic-motto-utsukushii-mono](https://cdn.myanimelist.net/images/anime/1367/98136.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: まほろまてぃっく ~もっと美しいもの~

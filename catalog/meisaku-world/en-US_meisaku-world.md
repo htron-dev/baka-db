@@ -1,5 +1,7 @@
 # Meisaku World
 
+![meisaku-world](https://cdn.myanimelist.net/images/anime/10/71936.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: めいさくわーるど/むかしばなし(アニメ)

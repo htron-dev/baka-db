@@ -1,5 +1,7 @@
 # Heli-Tako Puu-chan
 
+![heli-tako-puu-chan](https://cdn.myanimelist.net/images/anime/6/63139.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: ヘリタコぷーちゃん

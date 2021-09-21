@@ -1,5 +1,7 @@
 # Grisaia no Rakuen: Sanctuary Fellows
 
+![grisaia-no-rakuen-sanctuary-fellows](https://cdn.myanimelist.net/images/manga/3/165662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

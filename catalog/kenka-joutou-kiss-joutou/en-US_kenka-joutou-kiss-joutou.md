@@ -1,5 +1,7 @@
 # Kenka Joutou! Kiss Joutou!
 
+![kenka-joutou-kiss-joutou](https://cdn.myanimelist.net/images/manga/2/113407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

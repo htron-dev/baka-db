@@ -1,5 +1,7 @@
 # HenSemi
 
+![hen-semi](https://cdn.myanimelist.net/images/manga/1/33985.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 88

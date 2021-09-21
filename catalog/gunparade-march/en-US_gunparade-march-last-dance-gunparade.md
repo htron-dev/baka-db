@@ -1,5 +1,7 @@
 # Gunparade March: Last Dance Gunparade
 
+![gunparade-march-last-dance-gunparade](https://cdn.myanimelist.net/images/manga/2/23570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

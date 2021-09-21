@@ -1,5 +1,7 @@
 # Hitsugi no Chaika: Avenging Battle
 
+![hitsugi-no-chaika-avenging-battle](https://cdn.myanimelist.net/images/anime/3/67797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 棺姫のチャイカ AVENGING BATTLE

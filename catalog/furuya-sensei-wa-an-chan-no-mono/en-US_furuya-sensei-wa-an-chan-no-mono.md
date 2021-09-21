@@ -1,5 +1,7 @@
 # Furuya-sensei wa An-chan no Mono
 
+![furuya-sensei-wa-an-chan-no-mono](https://cdn.myanimelist.net/images/manga/1/192183.jpg)
+
 -   **type**: manga
 -   **original-name**: 古屋先生は杏ちゃんのモノ
 -   **start-date**: 2016-09-03

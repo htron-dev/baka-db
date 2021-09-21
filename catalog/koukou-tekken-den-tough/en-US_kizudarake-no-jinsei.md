@@ -1,5 +1,7 @@
 # Kizudarake no Jinsei
 
+![kizudarake-no-jinsei](https://cdn.myanimelist.net/images/manga/2/236286.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 117

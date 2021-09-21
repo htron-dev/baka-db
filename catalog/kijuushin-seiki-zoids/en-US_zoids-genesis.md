@@ -1,5 +1,7 @@
 # Zoids Genesis
 
+![zoids-genesis](https://cdn.myanimelist.net/images/anime/1906/109746.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゾイド ジェネシス

@@ -1,5 +1,7 @@
 # Momogumi Plus Senki
 
+![momogumi-plus-senki](https://cdn.myanimelist.net/images/manga/1/171358.jpg)
+
 -   **type**: manga
 -   **original-name**: 桃組プラス戦記
 -   **start-date**: 2005-03-24

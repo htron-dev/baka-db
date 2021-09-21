@@ -1,5 +1,7 @@
 # Ghost Writer
 
+![ghost-writer](https://cdn.myanimelist.net/images/manga/3/167050.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

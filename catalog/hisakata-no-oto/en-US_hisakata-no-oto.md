@@ -1,5 +1,7 @@
 # Hisakata no Oto
 
+![hisakata-no-oto](https://cdn.myanimelist.net/images/manga/2/205763.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

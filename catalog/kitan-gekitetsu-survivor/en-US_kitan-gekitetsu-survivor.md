@@ -1,5 +1,7 @@
 # Kitan Gekitetsu Survivor!!
 
+![kitan-gekitetsu-survivor](https://cdn.myanimelist.net/images/manga/2/216935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

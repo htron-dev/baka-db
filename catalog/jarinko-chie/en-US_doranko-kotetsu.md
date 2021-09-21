@@ -1,5 +1,7 @@
 # Doranko Kotetsu
 
+![doranko-kotetsu](https://cdn.myanimelist.net/images/manga/2/180877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

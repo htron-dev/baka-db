@@ -1,5 +1,7 @@
 # Mahou nante Shinjinai. Demo Kimi wa Shinjiru.
 
+![mahou-nante-shinjinai-demo-kimi-wa-shinjiru](https://cdn.myanimelist.net/images/manga/3/177523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

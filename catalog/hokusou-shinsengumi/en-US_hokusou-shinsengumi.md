@@ -1,5 +1,7 @@
 # Hokusou Shinsengumi
 
+![hokusou-shinsengumi](https://cdn.myanimelist.net/images/manga/2/6304.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

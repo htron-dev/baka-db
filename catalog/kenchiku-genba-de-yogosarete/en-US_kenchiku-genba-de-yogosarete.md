@@ -1,5 +1,7 @@
 # Kenchiku Genba de Yogosarete
 
+![kenchiku-genba-de-yogosarete](https://cdn.myanimelist.net/images/manga/1/193457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

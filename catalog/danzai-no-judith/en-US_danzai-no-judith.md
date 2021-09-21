@@ -1,5 +1,7 @@
 # Danzai no Judith
 
+![danzai-no-judith](https://cdn.myanimelist.net/images/manga/3/130755.jpg)
+
 -   **type**: manga
 -   **original-name**: 断罪のユディト
 -   **start-date**: 2013-12-05

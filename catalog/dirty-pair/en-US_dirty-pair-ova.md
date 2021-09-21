@@ -1,5 +1,7 @@
 # Dirty Pair OVA
 
+![dirty-pair-ova](https://cdn.myanimelist.net/images/anime/4/61127.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: ダーティペア (1987)

@@ -1,5 +1,7 @@
 # Jiji Neko Kurashi
 
+![jiji-neko-kurashi](https://cdn.myanimelist.net/images/manga/1/233842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

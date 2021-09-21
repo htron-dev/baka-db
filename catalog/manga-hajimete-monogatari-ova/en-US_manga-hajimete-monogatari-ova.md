@@ -1,5 +1,7 @@
 # Manga Hajimete Monogatari OVA
 
+![manga-hajimete-monogatari-ova](https://cdn.myanimelist.net/images/anime/6/72118.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: まんがはじめて物語

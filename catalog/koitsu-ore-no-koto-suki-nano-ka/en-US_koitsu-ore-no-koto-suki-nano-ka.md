@@ -1,5 +1,7 @@
 # Koitsu, Ore no Koto Suki nano ka?!
 
+![koitsu-ore-no-koto-suki-nano-ka](https://cdn.myanimelist.net/images/manga/1/219071.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

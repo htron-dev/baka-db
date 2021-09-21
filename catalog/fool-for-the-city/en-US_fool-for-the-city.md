@@ -1,5 +1,7 @@
 # Fool for the City
 
+![fool-for-the-city](https://cdn.myanimelist.net/images/manga/3/17235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

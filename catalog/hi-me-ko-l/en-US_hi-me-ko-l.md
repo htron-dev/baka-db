@@ -1,5 +1,7 @@
 # Hi Me KO l
 
+![hi-me-ko-l](https://cdn.myanimelist.net/images/manga/1/79339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヒメコイ

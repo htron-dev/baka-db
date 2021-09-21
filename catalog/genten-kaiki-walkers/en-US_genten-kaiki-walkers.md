@@ -1,5 +1,7 @@
 # Genten Kaiki Walkers
 
+![genten-kaiki-walkers](https://cdn.myanimelist.net/images/manga/2/163044.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

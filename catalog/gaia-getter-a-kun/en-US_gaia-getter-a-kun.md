@@ -1,5 +1,7 @@
 # Gaia Getter A-kun
 
+![gaia-getter-a-kun](https://cdn.myanimelist.net/images/anime/9/62891.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ガイアゲッター アークン

@@ -1,5 +1,7 @@
 # Dame na Kanojo wa Amaetai
 
+![dame-na-kanojo-wa-amaetai](https://cdn.myanimelist.net/images/manga/3/210291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Isekai de Shippai shinai 100 no Houhou
 
+![isekai-de-shippai-shinai-100-no-houhou](https://cdn.myanimelist.net/images/manga/2/229686.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界で失敗しない 100 の方法
 -   **start-date**: 2017-12-21

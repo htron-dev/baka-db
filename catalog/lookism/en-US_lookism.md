@@ -1,5 +1,7 @@
 # Lookism
 
+![lookism](https://cdn.myanimelist.net/images/manga/2/208866.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 외모지상주의
 -   **start-date**: 2014-11-20

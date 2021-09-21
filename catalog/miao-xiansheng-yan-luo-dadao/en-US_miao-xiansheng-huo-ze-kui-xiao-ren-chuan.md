@@ -1,5 +1,7 @@
 # Miao Xiansheng: Huo Ze Kui Xiao Ren Chuan
 
+![miao-xiansheng-huo-ze-kui-xiao-ren-chuan](https://cdn.myanimelist.net/images/anime/1712/115614.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 妙先生之火泽睽笑人传

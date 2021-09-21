@@ -1,5 +1,7 @@
 # Kenzen Robo Daimidaler OGS
 
+![kenzen-robo-daimidaler-ogs](https://cdn.myanimelist.net/images/manga/2/124091.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

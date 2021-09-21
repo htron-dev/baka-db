@@ -1,5 +1,7 @@
 # Jigoku no Soubee
 
+![jigoku-no-soubee](https://cdn.myanimelist.net/images/anime/3/66269.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: じごくのそうべえ

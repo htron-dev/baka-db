@@ -1,5 +1,7 @@
 # Dynamic Super Robots Soushingekki
 
+![dynamic-super-robots-soushingekki](https://cdn.myanimelist.net/images/anime/12/51981.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ダイナミックスーパーロボット総進撃!!

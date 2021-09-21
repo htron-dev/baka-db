@@ -1,5 +1,7 @@
 # Kimi to Issho!?
 
+![kimi-to-issho](https://cdn.myanimelist.net/images/manga/1/33831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

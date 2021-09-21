@@ -1,5 +1,7 @@
 # Joanne no Hidokei
 
+![joanne-no-hidokei](https://cdn.myanimelist.net/images/manga/1/13149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

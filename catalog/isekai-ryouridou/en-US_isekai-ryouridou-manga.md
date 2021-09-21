@@ -1,5 +1,7 @@
 # Isekai Ryouridou
 
+![isekai-ryouridou](https://cdn.myanimelist.net/images/manga/2/210087.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界料理道
 -   **start-date**: 2017-09-29

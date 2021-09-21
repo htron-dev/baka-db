@@ -1,5 +1,7 @@
 # Kunoichi Gakuen Ninpouchou - Yogakure
 
+![kunoichi-gakuen-ninpouchou-yogakure](https://cdn.myanimelist.net/images/manga/3/106217.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

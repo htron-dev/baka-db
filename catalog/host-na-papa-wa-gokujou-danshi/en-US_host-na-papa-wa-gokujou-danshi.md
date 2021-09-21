@@ -1,5 +1,7 @@
 # Host na Papa wa Gokujou Danshi
 
+![host-na-papa-wa-gokujou-danshi](https://cdn.myanimelist.net/images/manga/3/82248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

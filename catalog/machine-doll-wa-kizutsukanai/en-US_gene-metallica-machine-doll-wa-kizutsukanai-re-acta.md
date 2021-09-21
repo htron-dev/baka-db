@@ -1,5 +1,7 @@
 # Gene Metallica: Machine-Doll wa Kizutsukanai Re:Acta
 
+![gene-metallica-machine-doll-wa-kizutsukanai-re-acta](https://cdn.myanimelist.net/images/manga/1/105787.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

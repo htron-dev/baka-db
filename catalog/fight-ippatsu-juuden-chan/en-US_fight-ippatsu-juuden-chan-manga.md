@@ -1,5 +1,7 @@
 # Fight Ippatsu! Juuden-chan!!
 
+![fight-ippatsu-juuden-chan](https://cdn.myanimelist.net/images/manga/3/122303.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 74

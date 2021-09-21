@@ -1,5 +1,7 @@
 # Meitantei Hangyodon: Kaitou Ruzu Arawaruno-kan
 
+![meitantei-hangyodon-kaitou-ruzu-arawaruno-kan](https://cdn.myanimelist.net/images/anime/7/84564.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵ハンギョドン　怪盗ルーズあらわるの巻

@@ -1,5 +1,7 @@
 # Futari de Asa made
 
+![futari-de-asa-made](https://cdn.myanimelist.net/images/manga/2/149840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

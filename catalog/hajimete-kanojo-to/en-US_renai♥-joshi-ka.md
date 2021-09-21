@@ -1,5 +1,7 @@
 # Renai♥Joshi-ka
 
+![renai♥-joshi-ka](https://cdn.myanimelist.net/images/manga/3/135987.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Hyper Baby
 
+![hyper-baby](https://cdn.myanimelist.net/images/manga/2/5786.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

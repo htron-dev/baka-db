@@ -1,5 +1,7 @@
 # Kyojin no Hoshi: Chizome no Kesshousen
 
+![kyojin-no-hoshi-chizome-no-kesshousen](https://cdn.myanimelist.net/images/anime/13/46613.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 巨人の星 血ぞめの決勝戦

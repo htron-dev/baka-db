@@ -1,5 +1,7 @@
 # Kilala☆Princess
 
+![kilala☆-princess](https://cdn.myanimelist.net/images/manga/3/190870.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

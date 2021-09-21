@@ -1,5 +1,7 @@
 # Ijiwaru Baasan (1996)
 
+![ijiwaru-baasan-1996](https://cdn.myanimelist.net/images/anime/10/53519.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: いじわるばあさん

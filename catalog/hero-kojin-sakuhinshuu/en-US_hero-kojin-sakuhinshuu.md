@@ -1,5 +1,7 @@
 # Hero Kojin Sakuhinshuu
 
+![hero-kojin-sakuhinshuu](https://cdn.myanimelist.net/images/manga/2/79629.jpg)
+
 -   **type**: manga
 -   **original-name**: HERO 個人作品集
 

@@ -1,5 +1,7 @@
 # Jidou Bungaku Library
 
+![jidou-bungaku-library](https://cdn.myanimelist.net/images/anime/10/74512.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 児童文学ライブラリー

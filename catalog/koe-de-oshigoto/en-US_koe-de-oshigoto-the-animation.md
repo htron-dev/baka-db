@@ -1,5 +1,7 @@
 # Koe de Oshigoto! The Animation
 
+![koe-de-oshigoto-the-animation](https://cdn.myanimelist.net/images/anime/5/25524.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: こえでおしごと! The ANIMATION

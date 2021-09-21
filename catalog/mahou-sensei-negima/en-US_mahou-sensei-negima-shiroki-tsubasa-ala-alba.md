@@ -1,5 +1,7 @@
 # Mahou Sensei Negima!: Shiroki Tsubasa Ala Alba
 
+![mahou-sensei-negima-shiroki-tsubasa-ala-alba](https://cdn.myanimelist.net/images/anime/5/9329.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔法先生ネギま！～白き翼 ALA ALBA ～

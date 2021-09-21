@@ -1,5 +1,7 @@
 # Hananoi-kun to Koi no Yamai
 
+![hananoi-kun-to-koi-no-yamai](https://cdn.myanimelist.net/images/manga/2/209999.jpg)
+
 -   **type**: manga
 -   **original-name**: 花野井くんと恋の病
 -   **start-date**: 2017-12-22

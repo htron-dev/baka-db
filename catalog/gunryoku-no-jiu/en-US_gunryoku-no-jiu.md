@@ -1,5 +1,7 @@
 # Gunryoku no Jiu
 
+![gunryoku-no-jiu](https://cdn.myanimelist.net/images/manga/1/42446.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Gesokon Tantei
 
+![gesokon-tantei](https://cdn.myanimelist.net/images/manga/2/216854.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲソコン探偵
 -   **start-date**: 2018-11-09

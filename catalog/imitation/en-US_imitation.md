@@ -1,5 +1,7 @@
 # Imitation
 
+![imitation](https://cdn.myanimelist.net/images/manga/1/194529.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 이미테이션
 -   **start-date**: 2014-09-30

@@ -1,5 +1,7 @@
 # Kanojo to Kanojo no Neko
 
+![kanojo-to-kanojo-no-neko](https://cdn.myanimelist.net/images/manga/2/182560.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

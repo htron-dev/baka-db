@@ -1,5 +1,7 @@
 # Dragon Ball Movie 4: Saikyou e no Michi
 
+![dragon-ball-movie-4-saikyou-e-no-michi](https://cdn.myanimelist.net/images/anime/1497/93677.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール 最強への道

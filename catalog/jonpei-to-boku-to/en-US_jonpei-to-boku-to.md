@@ -1,5 +1,7 @@
 # Jonpei to Boku to
 
+![jonpei-to-boku-to](https://cdn.myanimelist.net/images/manga/2/164660.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 21

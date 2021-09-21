@@ -1,5 +1,7 @@
 # Deban Desu Yo! Onigirizu
 
+![deban-desu-yo-onigirizu](https://cdn.myanimelist.net/images/anime/3/74321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 出番ですよ!オニギリズ

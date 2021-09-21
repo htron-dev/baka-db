@@ -1,5 +1,7 @@
 # Dramatic ni Ubae!
 
+![dramatic-ni-ubae](https://cdn.myanimelist.net/images/manga/2/88143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

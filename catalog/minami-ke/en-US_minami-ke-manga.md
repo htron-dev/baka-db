@@ -1,5 +1,7 @@
 # Minami-ke
 
+![minami-ke](https://cdn.myanimelist.net/images/manga/2/53005.jpg)
+
 -   **type**: manga
 -   **original-name**: みなみけ
 -   **start-date**: 2004-11-05

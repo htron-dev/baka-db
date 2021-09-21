@@ -1,5 +1,7 @@
 # Shin Jikenya Kagyou
 
+![shin-jikenya-kagyou](https://cdn.myanimelist.net/images/manga/2/150028.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 新・事件屋稼業

@@ -1,5 +1,7 @@
 # Ikinokore! Shachiku-chan: Kouhai-chan Otakatsudouki
 
+![ikinokore-shachiku-chan-kouhai-chan-otakatsudouki](https://cdn.myanimelist.net/images/manga/1/231692.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

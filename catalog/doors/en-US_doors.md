@@ -1,5 +1,7 @@
 # Doors
 
+![doors](https://cdn.myanimelist.net/images/manga/1/162871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

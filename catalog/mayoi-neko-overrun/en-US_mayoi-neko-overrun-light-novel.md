@@ -1,5 +1,7 @@
 # Mayoi Neko Overrun!
 
+![mayoi-neko-overrun](https://cdn.myanimelist.net/images/manga/2/210091.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 84

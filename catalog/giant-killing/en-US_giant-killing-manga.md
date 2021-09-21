@@ -1,5 +1,7 @@
 # Giant Killing
 
+![giant-killing](https://cdn.myanimelist.net/images/manga/3/147425.jpg)
+
 -   **type**: manga
 -   **original-name**: GIANT KILLING
 -   **start-date**: 2007-01-11

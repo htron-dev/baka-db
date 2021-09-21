@@ -1,5 +1,7 @@
 # De:vadasy
 
+![de-vadasy](https://cdn.myanimelist.net/images/anime/1378/91079.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 創世聖紀デヴァダシー

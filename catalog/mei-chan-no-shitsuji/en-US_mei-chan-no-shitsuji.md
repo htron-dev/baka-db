@@ -1,5 +1,7 @@
 # Mei-chan no Shitsuji
 
+![mei-chan-no-shitsuji](https://cdn.myanimelist.net/images/manga/1/145979.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 140

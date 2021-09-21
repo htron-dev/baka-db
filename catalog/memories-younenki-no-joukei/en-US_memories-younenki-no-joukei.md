@@ -1,5 +1,7 @@
 # Memories: Younenki no Joukei
 
+![memories-younenki-no-joukei](https://cdn.myanimelist.net/images/anime/4/73777.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: メモリーズ 幼年期の情景

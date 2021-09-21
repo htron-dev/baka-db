@@ -1,5 +1,7 @@
 # Hiiragi-sama wa Jibun wo Sagashiteiru.
 
+![hiiragi-sama-wa-jibun-wo-sagashiteiru](https://cdn.myanimelist.net/images/manga/3/204876.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 85

@@ -1,5 +1,7 @@
 # Mayonaka no Kojika
 
+![mayonaka-no-kojika](https://cdn.myanimelist.net/images/manga/2/158289.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

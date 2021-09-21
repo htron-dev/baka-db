@@ -1,5 +1,7 @@
 # Kuro x Koi
 
+![kuro-x-koi](https://cdn.myanimelist.net/images/manga/2/169591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

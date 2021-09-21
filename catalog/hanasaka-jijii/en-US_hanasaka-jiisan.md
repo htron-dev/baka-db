@@ -1,5 +1,7 @@
 # Hanasaka Jiisan
 
+![hanasaka-jiisan](https://cdn.myanimelist.net/images/anime/9/85245.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花咲か爺

@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past &amp; Future
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-past-amp-future](https://cdn.myanimelist.net/images/anime/1007/101921.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか 過去と未来[パスト&フューチャー]

@@ -1,5 +1,7 @@
 # Kannou Shousetsuka no Ore ni Tenshi Sugiru Deshi nado Hitsuyounai!
 
+![kannou-shousetsuka-no-ore-ni-tenshi-sugiru-deshi-nado-hitsuyounai](https://cdn.myanimelist.net/images/manga/1/165589.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

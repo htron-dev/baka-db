@@ -1,5 +1,7 @@
 # Fireball Humorous
 
+![fireball-humorous](https://cdn.myanimelist.net/images/anime/11/87385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: ファイアボール ユーモラス

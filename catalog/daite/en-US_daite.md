@@ -1,5 +1,7 @@
 # Daite...
 
+![daite](https://cdn.myanimelist.net/images/manga/3/10001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 抱いて…

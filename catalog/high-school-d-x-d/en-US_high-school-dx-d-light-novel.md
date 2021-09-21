@@ -1,5 +1,7 @@
 # High School DxD
 
+![high-school-dx-d](https://cdn.myanimelist.net/images/manga/1/203327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 25
 -   **chapters**: 240

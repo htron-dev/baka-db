@@ -1,5 +1,7 @@
 # Fukkatsu shitara Lv1 Datta node, Ikinobiru Tame ni Eiyuu Shoujo wo Kudoku Koto ni Shimashita.
 
+![fukkatsu-shitara-lv-1-datta-node-ikinobiru-tame-ni-eiyuu-shoujo-wo-kudoku-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/3/178662.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 復活したら Lv1 だったので、生き延びるために英雄少女を口説くことにしました。
 -   **start-date**: 2016-06-24

@@ -1,5 +1,7 @@
 # Heijoukyou: Yasukerashi Miyako
 
+![heijoukyou-yasukerashi-miyako](https://cdn.myanimelist.net/images/anime/12/69389.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 平城京　安けらし都

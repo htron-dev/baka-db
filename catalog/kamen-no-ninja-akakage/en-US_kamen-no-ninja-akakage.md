@@ -1,5 +1,7 @@
 # Kamen no Ninja Akakage
 
+![kamen-no-ninja-akakage](https://cdn.myanimelist.net/images/anime/1969/96438.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 仮面の忍者赤影

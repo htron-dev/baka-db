@@ -1,5 +1,7 @@
 # Koume-chan ga Iku!! R
 
+![koume-chan-ga-iku-r](https://cdn.myanimelist.net/images/manga/1/151488.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 小梅ちゃんが行く!! R

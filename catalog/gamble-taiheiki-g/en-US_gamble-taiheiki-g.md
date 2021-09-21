@@ -1,5 +1,7 @@
 # Gamble Taiheiki G
 
+![gamble-taiheiki-g](https://cdn.myanimelist.net/images/manga/3/151685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

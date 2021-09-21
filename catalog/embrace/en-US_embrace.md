@@ -1,5 +1,7 @@
 # Embrace
 
+![embrace](https://cdn.myanimelist.net/images/manga/2/5379.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 抱擁

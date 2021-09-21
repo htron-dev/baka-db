@@ -1,5 +1,7 @@
 # DNA²: Dokoka de Nakushita Aitsu no Aitsu
 
+![dna-dokoka-de-nakushita-aitsu-no-aitsu](https://cdn.myanimelist.net/images/manga/1/177761.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

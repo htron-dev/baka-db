@@ -1,5 +1,7 @@
 # Kono Party wa Norowaremashita: Onna Senshi Emma-chan to ○○○○ na Nakama-tachi
 
+![kono-party-wa-norowaremashita-onna-senshi-emma-chan-to-○○○○-na-nakama-tachi](https://cdn.myanimelist.net/images/manga/1/169789.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Honki Daseba Omae Koroseru (serialization)
 
+![honki-daseba-omae-koroseru-serialization](https://cdn.myanimelist.net/images/manga/1/246941.jpg)
+
 -   **type**: manga
 -   **original-name**: 本気出せばお前殺せる
 -   **start-date**: 2021-06-11

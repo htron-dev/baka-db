@@ -1,5 +1,7 @@
 # Kaidan Nikki
 
+![kaidan-nikki](https://cdn.myanimelist.net/images/manga/3/158094.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

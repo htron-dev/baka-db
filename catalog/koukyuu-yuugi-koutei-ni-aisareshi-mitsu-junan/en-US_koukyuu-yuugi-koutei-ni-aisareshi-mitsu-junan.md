@@ -1,5 +1,7 @@
 # Koukyuu Yuugi: Koutei ni Aisareshi Mitsu Junan
 
+![koukyuu-yuugi-koutei-ni-aisareshi-mitsu-junan](https://cdn.myanimelist.net/images/manga/2/184238.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

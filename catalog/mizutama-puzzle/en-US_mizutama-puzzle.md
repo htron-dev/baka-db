@@ -1,5 +1,7 @@
 # Mizutama Puzzle
 
+![mizutama-puzzle](https://cdn.myanimelist.net/images/manga/1/89663.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 水玉パズル

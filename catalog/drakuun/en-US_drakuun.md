@@ -1,5 +1,7 @@
 # Drakuun
 
+![drakuun](https://cdn.myanimelist.net/images/manga/2/211875.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ドラクゥーン 竜姫兵

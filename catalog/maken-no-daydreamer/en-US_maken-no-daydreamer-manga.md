@@ -1,5 +1,7 @@
 # Maken no Daydreamer
 
+![maken-no-daydreamer](https://cdn.myanimelist.net/images/manga/3/209449.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔拳のデイドリーマー
 -   **start-date**: 2016-04-15

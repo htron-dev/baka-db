@@ -1,5 +1,7 @@
 # Futago no Danjo ga Wakaranai
 
+![futago-no-danjo-ga-wakaranai](https://cdn.myanimelist.net/images/manga/2/240845.jpg)
+
 -   **type**: manga
 -   **original-name**: 双子の男女がわからない
 -   **start-date**: 2021-01-16

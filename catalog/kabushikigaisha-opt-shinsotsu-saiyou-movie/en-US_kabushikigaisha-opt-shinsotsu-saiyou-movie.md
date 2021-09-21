@@ -1,5 +1,7 @@
 # Kabushikigaisha OPT Shinsotsu Saiyou Movie
 
+![kabushikigaisha-opt-shinsotsu-saiyou-movie](https://cdn.myanimelist.net/images/anime/1118/91233.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 株式会社オプト新卒採用 MOVIE

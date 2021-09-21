@@ -1,5 +1,7 @@
 # Super Dragon Ball Heroes
 
+![super-dragon-ball-heroes](https://cdn.myanimelist.net/images/anime/1480/92990.jpg)
+
 -   **type**: ona
 -   **original-name**: スーパードラゴンボールヒーローズ
 -   **start-date**: 2018-07-01

@@ -1,5 +1,7 @@
 # Baki: Dai Raitaisai-hen
 
+![baki-dai-raitaisai-hen](https://cdn.myanimelist.net/images/anime/1924/109353.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: バキ 大擂台賽編

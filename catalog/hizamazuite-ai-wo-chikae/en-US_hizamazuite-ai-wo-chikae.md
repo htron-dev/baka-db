@@ -1,5 +1,7 @@
 # Hizamazuite Ai wo Chikae
 
+![hizamazuite-ai-wo-chikae](https://cdn.myanimelist.net/images/manga/3/10948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

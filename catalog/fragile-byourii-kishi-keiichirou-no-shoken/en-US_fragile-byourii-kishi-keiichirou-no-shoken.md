@@ -1,5 +1,7 @@
 # Fragile: Byourii Kishi Keiichirou no Shoken
 
+![fragile-byourii-kishi-keiichirou-no-shoken](https://cdn.myanimelist.net/images/manga/1/151387.jpg)
+
 -   **type**: manga
 -   **original-name**: フラジャイル～病理医岸京一郎の所見～
 -   **start-date**: 2014-06-25

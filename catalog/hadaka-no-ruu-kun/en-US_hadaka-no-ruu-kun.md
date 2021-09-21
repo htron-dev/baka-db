@@ -1,5 +1,7 @@
 # Hadaka no Ruu-kun
 
+![hadaka-no-ruu-kun](https://cdn.myanimelist.net/images/manga/3/234584.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Hidamari Sketch x SP
 
+![hidamari-sketch-x-sp](https://cdn.myanimelist.net/images/anime/9/34085.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ひだまりスケッチ ×SP

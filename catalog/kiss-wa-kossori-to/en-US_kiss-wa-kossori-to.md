@@ -1,5 +1,7 @@
 # Kiss wa Kossori to.
 
+![kiss-wa-kossori-to](https://cdn.myanimelist.net/images/manga/1/235479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

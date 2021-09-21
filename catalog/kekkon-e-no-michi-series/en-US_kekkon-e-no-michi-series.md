@@ -1,5 +1,7 @@
 # Kekkon e no Michi Series
 
+![kekkon-e-no-michi-series](https://cdn.myanimelist.net/images/manga/2/227159.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 結婚への道シリーズ

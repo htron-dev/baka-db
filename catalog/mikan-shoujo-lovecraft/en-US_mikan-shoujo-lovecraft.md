@@ -1,5 +1,7 @@
 # Mikan Shoujo Lovecraft
 
+![mikan-shoujo-lovecraft](https://cdn.myanimelist.net/images/manga/2/160815.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

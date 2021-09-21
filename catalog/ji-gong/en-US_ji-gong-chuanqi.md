@@ -1,5 +1,7 @@
 # Ji Gong Chuanqi
 
+![ji-gong-chuanqi](https://cdn.myanimelist.net/images/anime/1257/115346.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 济公传奇

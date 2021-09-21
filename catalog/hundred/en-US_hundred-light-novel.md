@@ -1,5 +1,7 @@
 # Hundred
 
+![hundred](https://cdn.myanimelist.net/images/manga/2/212621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **chapters**: 116

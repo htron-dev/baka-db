@@ -1,5 +1,7 @@
 # Koushi Kakka no Himitsu Gaikou
 
+![koushi-kakka-no-himitsu-gaikou](https://cdn.myanimelist.net/images/manga/1/9056.jpg)
+
 -   **type**: manga
 -   **original-name**: 公使閣下の秘密外交
 

@@ -1,5 +1,7 @@
 # Ichi kara Oshiete Ageru
 
+![ichi-kara-oshiete-ageru](https://cdn.myanimelist.net/images/manga/3/245263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

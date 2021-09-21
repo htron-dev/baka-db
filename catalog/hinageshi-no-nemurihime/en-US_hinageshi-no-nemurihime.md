@@ -1,5 +1,7 @@
 # Hinageshi no Nemurihime
 
+![hinageshi-no-nemurihime](https://cdn.myanimelist.net/images/manga/1/205421.jpg)
+
 -   **type**: manga
 -   **original-name**: ひなげしの眠り姫
 -   **start-date**: 2017-04-08

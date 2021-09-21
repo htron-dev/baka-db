@@ -1,5 +1,7 @@
 # Ijiwaru na Saikai: Kiken na Otoko ni Tsukamarimashita
 
+![ijiwaru-na-saikai-kiken-na-otoko-ni-tsukamarimashita](https://cdn.myanimelist.net/images/manga/2/192120.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

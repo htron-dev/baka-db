@@ -1,5 +1,7 @@
 # Dekiai Wedding: Ringo-hime no Midara na Mitsugetsu
 
+![dekiai-wedding-ringo-hime-no-midara-na-mitsugetsu](https://cdn.myanimelist.net/images/manga/1/184175.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

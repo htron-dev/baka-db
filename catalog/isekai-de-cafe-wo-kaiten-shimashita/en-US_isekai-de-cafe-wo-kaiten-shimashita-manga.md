@@ -1,5 +1,7 @@
 # Isekai de Café wo Kaiten shimashita.
 
+![isekai-de-cafe-wo-kaiten-shimashita](https://cdn.myanimelist.net/images/manga/2/186470.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でカフェを開店しました。
 -   **start-date**: 2014-10-24

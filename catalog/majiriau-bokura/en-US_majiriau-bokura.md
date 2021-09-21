@@ -1,5 +1,7 @@
 # Majiriau Bokura
 
+![majiriau-bokura](https://cdn.myanimelist.net/images/manga/2/210944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

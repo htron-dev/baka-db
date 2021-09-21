@@ -1,5 +1,7 @@
 # Legend of the Moles: The Treasure of Scylla
 
+![legend-of-the-moles-the-treasure-of-scylla](https://cdn.myanimelist.net/images/anime/4/72643.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 摩尔庄园 2 海妖宝藏

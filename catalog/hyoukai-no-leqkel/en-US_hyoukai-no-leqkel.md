@@ -1,5 +1,7 @@
 # Hyoukai no Leqkel
 
+![hyoukai-no-leqkel](https://cdn.myanimelist.net/images/manga/1/195591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 漂海のレクキール

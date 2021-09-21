@@ -1,5 +1,7 @@
 # Hanasakeru Akutou
 
+![hanasakeru-akutou](https://cdn.myanimelist.net/images/manga/2/10860.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花咲ける悪党

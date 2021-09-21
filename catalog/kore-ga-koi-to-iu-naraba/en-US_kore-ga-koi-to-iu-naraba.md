@@ -1,5 +1,7 @@
 # Kore ga Koi to Iu naraba
 
+![kore-ga-koi-to-iu-naraba](https://cdn.myanimelist.net/images/manga/4/123935.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

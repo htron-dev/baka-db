@@ -1,5 +1,7 @@
 # Kiseki no Wing!
 
+![kiseki-no-wing](https://cdn.myanimelist.net/images/manga/3/15209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奇跡のＷＩＮＧ

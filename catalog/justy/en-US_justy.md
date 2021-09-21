@@ -1,5 +1,7 @@
 # Justy
 
+![justy](https://cdn.myanimelist.net/images/manga/1/82700.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ジャスティ

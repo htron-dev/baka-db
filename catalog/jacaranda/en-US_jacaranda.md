@@ -1,5 +1,7 @@
 # Jacarandá
 
+![jacaranda](https://cdn.myanimelist.net/images/manga/3/166504.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

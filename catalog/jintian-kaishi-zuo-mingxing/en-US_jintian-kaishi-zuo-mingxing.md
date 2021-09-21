@@ -1,5 +1,7 @@
 # Jintian Kaishi Zuo Mingxing
 
+![jintian-kaishi-zuo-mingxing](https://cdn.myanimelist.net/images/anime/1623/105487.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 今天开始做明星

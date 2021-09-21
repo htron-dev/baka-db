@@ -1,5 +1,7 @@
 # Koisuru Asteroid: KiraKira Zoukan-gou
 
+![koisuru-asteroid-kira-kira-zoukan-gou](https://cdn.myanimelist.net/images/anime/1756/105744.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 恋する小惑星 「KiraKira 増刊号」

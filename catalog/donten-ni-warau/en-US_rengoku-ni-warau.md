@@ -1,5 +1,7 @@
 # Rengoku ni Warau
 
+![rengoku-ni-warau](https://cdn.myanimelist.net/images/manga/5/124315.jpg)
+
 -   **type**: manga
 -   **original-name**: 煉獄に笑う
 -   **start-date**: 2013-12-24

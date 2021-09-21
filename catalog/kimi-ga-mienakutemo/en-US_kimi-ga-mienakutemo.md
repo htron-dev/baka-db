@@ -1,5 +1,7 @@
 # Kimi ga Mienakutemo
 
+![kimi-ga-mienakutemo](https://cdn.myanimelist.net/images/manga/1/153573.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

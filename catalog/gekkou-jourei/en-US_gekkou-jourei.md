@@ -1,5 +1,7 @@
 # Gekkou Jourei
 
+![gekkou-jourei](https://cdn.myanimelist.net/images/manga/3/149058.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 286

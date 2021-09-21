@@ -1,5 +1,7 @@
 # Kyousou Giga (TV)
 
+![kyousou-giga-tv](https://cdn.myanimelist.net/images/anime/5/85431.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 京騒戯画

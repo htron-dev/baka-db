@@ -1,5 +1,7 @@
 # Gaman nante Oyoshinasai
 
+![gaman-nante-oyoshinasai](https://cdn.myanimelist.net/images/manga/2/246250.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

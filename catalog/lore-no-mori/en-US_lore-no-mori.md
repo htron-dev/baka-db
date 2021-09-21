@@ -1,5 +1,7 @@
 # Lore no Mori
 
+![lore-no-mori](https://cdn.myanimelist.net/images/manga/2/27291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

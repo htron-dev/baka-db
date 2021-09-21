@@ -1,5 +1,7 @@
 # Gokudou Meshi
 
+![gokudou-meshi](https://cdn.myanimelist.net/images/manga/3/45425.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 極道めし

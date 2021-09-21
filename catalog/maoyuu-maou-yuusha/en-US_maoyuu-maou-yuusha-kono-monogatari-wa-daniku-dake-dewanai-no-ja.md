@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha: Kono Monogatari wa, Daniku dake Dewanai no Ja!
 
+![maoyuu-maou-yuusha-kono-monogatari-wa-daniku-dake-dewanai-no-ja](https://cdn.myanimelist.net/images/anime/2/47281.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: まおゆう魔王勇者 この物語は、駄肉だけではないのじゃ！

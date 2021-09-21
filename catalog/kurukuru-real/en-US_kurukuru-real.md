@@ -1,5 +1,7 @@
 # Kurukuru Real
 
+![kurukuru-real](https://cdn.myanimelist.net/images/manga/1/125277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: くるくるリアル

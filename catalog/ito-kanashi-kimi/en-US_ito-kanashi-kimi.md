@@ -1,5 +1,7 @@
 # Ito Kanashi Kimi
 
+![ito-kanashi-kimi](https://cdn.myanimelist.net/images/manga/1/23192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

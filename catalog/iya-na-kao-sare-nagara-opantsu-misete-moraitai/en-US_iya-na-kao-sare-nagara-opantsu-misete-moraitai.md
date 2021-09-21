@@ -1,5 +1,7 @@
 # Iya na Kao sare nagara Opantsu Misete Moraitai
 
+![iya-na-kao-sare-nagara-opantsu-misete-moraitai](https://cdn.myanimelist.net/images/anime/1887/95009.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 嫌な顔されながらおパンツ見せてもらいたい

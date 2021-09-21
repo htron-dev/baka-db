@@ -1,5 +1,7 @@
 # Digimon Adventure: Bokura no War Game!
 
+![digimon-adventure-bokura-no-war-game](https://cdn.myanimelist.net/images/anime/12/72451.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー ぼくらのウォーゲーム！

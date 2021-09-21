@@ -1,5 +1,7 @@
 # KIG⊃R∩MI
 
+![kig⊃r∩mi](https://cdn.myanimelist.net/images/manga/5/170032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Koutetsu Tenshi Kurumi 2
 
+![koutetsu-tenshi-kurumi-2](https://cdn.myanimelist.net/images/anime/6/15907.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 鋼鉄天使くるみ 2 式

@@ -1,5 +1,7 @@
 # Kurogane Hime
 
+![kurogane-hime](https://cdn.myanimelist.net/images/manga/2/89773.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Harukaze Shoutai, Rensei Seyo! Kyou kara Hajimeru Madou Kunren
 
+![harukaze-shoutai-rensei-seyo-kyou-kara-hajimeru-madou-kunren](https://cdn.myanimelist.net/images/manga/2/161325.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

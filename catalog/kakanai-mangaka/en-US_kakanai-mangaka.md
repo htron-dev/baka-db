@@ -1,5 +1,7 @@
 # Kakanai Mangaka
 
+![kakanai-mangaka](https://cdn.myanimelist.net/images/manga/2/157404.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 71

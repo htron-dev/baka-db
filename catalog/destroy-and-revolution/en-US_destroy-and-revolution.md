@@ -1,5 +1,7 @@
 # Destroy and Revolution
 
+![destroy-and-revolution](https://cdn.myanimelist.net/images/manga/1/63977.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 76

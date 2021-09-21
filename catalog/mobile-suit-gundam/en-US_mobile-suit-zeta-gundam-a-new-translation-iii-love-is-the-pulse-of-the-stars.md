@@ -1,5 +1,7 @@
 # Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars
 
+![mobile-suit-zeta-gundam-a-new-translation-iii-love-is-the-pulse-of-the-stars](https://cdn.myanimelist.net/images/anime/1/1969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士 Z ガンダム Ⅲ-星の鼓動は愛-

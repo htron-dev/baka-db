@@ -1,5 +1,7 @@
 # Shaolin Sisters: Reborn
 
+![shaolin-sisters-reborn](https://cdn.myanimelist.net/images/manga/3/3847.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

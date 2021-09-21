@@ -1,5 +1,7 @@
 # Kimi ga Iru Shinya 2-ji 20-pun
 
+![kimi-ga-iru-shinya-2-ji-20-pun](https://cdn.myanimelist.net/images/manga/2/179164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

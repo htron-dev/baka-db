@@ -1,5 +1,7 @@
 # Gifu no Tatekayoko
 
+![gifu-no-tatekayoko](https://cdn.myanimelist.net/images/anime/1784/100410.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 岐阜のたてかよこ

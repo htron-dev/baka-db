@@ -1,5 +1,7 @@
 # Haunted Junction
 
+![haunted-junction](https://cdn.myanimelist.net/images/manga/2/17565.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 65

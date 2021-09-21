@@ -1,5 +1,7 @@
 # Muteki na Utahime!
 
+![muteki-na-utahime](https://cdn.myanimelist.net/images/manga/2/13527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無敵な歌姫！

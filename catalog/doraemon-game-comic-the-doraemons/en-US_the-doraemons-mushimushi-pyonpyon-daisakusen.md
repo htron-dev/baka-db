@@ -1,5 +1,7 @@
 # The☆Doraemons: Mushimushi Pyonpyon Daisakusen!
 
+![the☆-doraemons-mushimushi-pyonpyon-daisakusen](https://cdn.myanimelist.net/images/anime/11/31031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザ ☆ ドラえもんズ ムシムシぴょんぴょん大作戦！

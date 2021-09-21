@@ -1,5 +1,7 @@
 # Liv &amp; Bell
 
+![liv-amp-bell](https://cdn.myanimelist.net/images/anime/6/70717.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: リヴ＆ベル
 -   **start-date**: 2013-02-15

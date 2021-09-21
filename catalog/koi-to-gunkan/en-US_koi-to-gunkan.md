@@ -1,5 +1,7 @@
 # Koi to Gunkan
 
+![koi-to-gunkan](https://cdn.myanimelist.net/images/manga/3/163827.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Kaede New Town
 
+![kaede-new-town](https://cdn.myanimelist.net/images/anime/5/22976.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 楓ニュータウン

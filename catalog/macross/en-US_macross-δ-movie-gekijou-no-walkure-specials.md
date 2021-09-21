@@ -1,5 +1,7 @@
 # Macross Δ Movie: Gekijou no Walküre Specials
 
+![macross-δ-movie-gekijou-no-walkure-specials](https://cdn.myanimelist.net/images/anime/1264/96196.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: げきじょうばんでるた小劇場

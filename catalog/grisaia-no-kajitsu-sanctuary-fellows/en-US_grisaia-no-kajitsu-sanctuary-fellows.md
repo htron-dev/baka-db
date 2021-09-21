@@ -1,5 +1,7 @@
 # Grisaia no Kajitsu: Sanctuary Fellows
 
+![grisaia-no-kajitsu-sanctuary-fellows](https://cdn.myanimelist.net/images/manga/1/109171.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

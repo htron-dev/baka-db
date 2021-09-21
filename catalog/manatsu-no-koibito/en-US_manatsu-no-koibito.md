@@ -1,5 +1,7 @@
 # Manatsu no Koibito
 
+![manatsu-no-koibito](https://cdn.myanimelist.net/images/manga/5/176269.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 真夏の恋人

@@ -1,5 +1,7 @@
 # Love Love Labyrinth
 
+![love-love-labyrinth](https://cdn.myanimelist.net/images/manga/3/156388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

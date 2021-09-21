@@ -1,5 +1,7 @@
 # Major S6
 
+![major-s-6](https://cdn.myanimelist.net/images/anime/2/75216.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: メジャー 第 6 シリーズ

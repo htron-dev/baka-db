@@ -1,5 +1,7 @@
 # Manga Shin-Shirakawa Genjin: Uupa!
 
+![manga-shin-shirakawa-genjin-uupa](https://cdn.myanimelist.net/images/manga/1/212264.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 194

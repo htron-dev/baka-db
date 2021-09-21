@@ -1,5 +1,7 @@
 # Himitsu no Hanazono
 
+![himitsu-no-hanazono](https://cdn.myanimelist.net/images/manga/3/144799.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

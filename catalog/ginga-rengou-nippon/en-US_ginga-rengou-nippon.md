@@ -1,5 +1,7 @@
 # Ginga Rengou Nippon
 
+![ginga-rengou-nippon](https://cdn.myanimelist.net/images/manga/3/186319.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 銀河連合日本
 -   **start-date**: 2016-02-15

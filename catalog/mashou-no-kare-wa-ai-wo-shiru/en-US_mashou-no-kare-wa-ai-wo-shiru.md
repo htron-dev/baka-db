@@ -1,5 +1,7 @@
 # Mashou no Kare wa Ai wo Shiru
 
+![mashou-no-kare-wa-ai-wo-shiru](https://cdn.myanimelist.net/images/manga/2/192225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

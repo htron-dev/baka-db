@@ -1,5 +1,7 @@
 # Fate/Grand Order: Comic à la Carte
 
+![fate-grand-order-comic-a-la-carte](https://cdn.myanimelist.net/images/manga/1/223593.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 153

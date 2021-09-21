@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE: Treasure Star
 
+![mobile-suit-gundam-age-treasure-star](https://cdn.myanimelist.net/images/manga/4/111849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

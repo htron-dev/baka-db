@@ -1,5 +1,7 @@
 # Manbou-chan to Lion-kun
 
+![manbou-chan-to-lion-kun](https://cdn.myanimelist.net/images/manga/2/152044.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

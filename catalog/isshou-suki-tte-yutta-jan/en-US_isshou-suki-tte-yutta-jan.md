@@ -1,5 +1,7 @@
 # Isshou Suki tte Yutta jan
 
+![isshou-suki-tte-yutta-jan](https://cdn.myanimelist.net/images/manga/3/239489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Go! Princess Precure
 
+![go-princess-precure](https://cdn.myanimelist.net/images/manga/3/227326.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

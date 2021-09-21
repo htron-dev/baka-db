@@ -1,5 +1,7 @@
 # Kanchigai Musume to Buchigire Ouji
 
+![kanchigai-musume-to-buchigire-ouji](https://cdn.myanimelist.net/images/manga/1/22830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

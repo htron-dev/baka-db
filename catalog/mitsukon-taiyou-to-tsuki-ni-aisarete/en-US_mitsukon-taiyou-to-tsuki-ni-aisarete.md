@@ -1,5 +1,7 @@
 # Mitsukon: Taiyou to Tsuki ni Aisarete
 
+![mitsukon-taiyou-to-tsuki-ni-aisarete](https://cdn.myanimelist.net/images/manga/2/183468.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

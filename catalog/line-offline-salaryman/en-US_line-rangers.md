@@ -1,5 +1,7 @@
 # Line Rangers
 
+![line-rangers](https://cdn.myanimelist.net/images/anime/13/85872.jpg)
+
 -   **type**: ona
 -   **original-name**: LINE レンジャー
 -   **start-date**: 2014-07-24

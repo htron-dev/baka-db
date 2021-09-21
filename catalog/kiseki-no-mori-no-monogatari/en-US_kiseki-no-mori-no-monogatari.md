@@ -1,5 +1,7 @@
 # Kiseki no Mori no Monogatari
 
+![kiseki-no-mori-no-monogatari](https://cdn.myanimelist.net/images/manga/2/228180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奇蹟の森のものがたり

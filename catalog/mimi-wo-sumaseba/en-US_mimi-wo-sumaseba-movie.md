@@ -1,5 +1,7 @@
 # Mimi wo Sumaseba
 
+![mimi-wo-sumaseba](https://cdn.myanimelist.net/images/anime/1899/109259.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 耳をすませば

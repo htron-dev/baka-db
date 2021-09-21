@@ -1,5 +1,7 @@
 # Mind Game
 
+![mind-game](https://cdn.myanimelist.net/images/anime/1861/112656.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マインド・ゲーム

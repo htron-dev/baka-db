@@ -1,5 +1,7 @@
 # Kare Fetish no Kanojo
 
+![kare-fetish-no-kanojo](https://cdn.myanimelist.net/images/manga/3/240007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

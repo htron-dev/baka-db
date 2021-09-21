@@ -1,5 +1,7 @@
 # Ha-i-ka-ra
 
+![ha-i-ka-ra](https://cdn.myanimelist.net/images/manga/1/182273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

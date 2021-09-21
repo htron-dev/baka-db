@@ -1,5 +1,7 @@
 # Inazuma Eleven Go Anthology!
 
+![inazuma-eleven-go-anthology](https://cdn.myanimelist.net/images/manga/3/88607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イナズマイレブン GO アンソロジー!

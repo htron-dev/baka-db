@@ -1,5 +1,7 @@
 # Kamakura Monogatari
 
+![kamakura-monogatari](https://cdn.myanimelist.net/images/manga/1/225895.jpg)
+
 -   **type**: manga
 -   **original-name**: 鎌倉ものがたり
 -   **start-date**: 1984-02-09

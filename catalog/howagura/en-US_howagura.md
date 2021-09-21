@@ -1,5 +1,7 @@
 # Howagura
 
+![howagura](https://cdn.myanimelist.net/images/manga/1/14281.jpg)
+
 -   **type**: manga
 -   **original-name**: ほわグラ
 -   **start-date**: 2008-07-20

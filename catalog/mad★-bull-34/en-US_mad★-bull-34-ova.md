@@ -1,5 +1,7 @@
 # Mad★Bull 34
 
+![mad★-bull-34](https://cdn.myanimelist.net/images/anime/8/67821.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: マッド ★ ブル 34

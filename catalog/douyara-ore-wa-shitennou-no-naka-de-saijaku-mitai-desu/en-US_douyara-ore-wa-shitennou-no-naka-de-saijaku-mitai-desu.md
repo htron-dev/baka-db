@@ -1,5 +1,7 @@
 # Douyara Ore wa Shitennou no Naka de Saijaku Mitai desu
 
+![douyara-ore-wa-shitennou-no-naka-de-saijaku-mitai-desu](https://cdn.myanimelist.net/images/manga/2/158127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

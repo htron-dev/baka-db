@@ -1,5 +1,7 @@
 # Genocider Mami
 
+![genocider-mami](https://cdn.myanimelist.net/images/manga/4/34730.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 完殺者真魅〈ジェノサイダー・マミ〉

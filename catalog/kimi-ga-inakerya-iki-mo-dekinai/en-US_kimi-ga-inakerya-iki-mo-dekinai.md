@@ -1,5 +1,7 @@
 # Kimi ga Inakerya Iki mo Dekinai
 
+![kimi-ga-inakerya-iki-mo-dekinai](https://cdn.myanimelist.net/images/manga/1/103027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

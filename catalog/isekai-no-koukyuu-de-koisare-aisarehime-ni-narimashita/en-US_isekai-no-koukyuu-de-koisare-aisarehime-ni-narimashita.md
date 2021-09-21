@@ -1,5 +1,7 @@
 # Isekai no Koukyuu de Koisare Aisarehime ni Narimashita
 
+![isekai-no-koukyuu-de-koisare-aisarehime-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/171921.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異世界の後宮で恋され愛され姫になりました

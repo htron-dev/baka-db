@@ -1,5 +1,7 @@
 # Hello Kitty no Minna no Mori wo Mamore!
 
+![hello-kitty-no-minna-no-mori-wo-mamore](https://cdn.myanimelist.net/images/anime/8/49665.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのみんなの森をまもれ!

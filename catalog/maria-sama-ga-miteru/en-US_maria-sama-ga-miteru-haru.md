@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru: Haru
 
+![maria-sama-ga-miteru-haru](https://cdn.myanimelist.net/images/anime/9/75208.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マリア様がみてる～春～

@@ -1,5 +1,7 @@
 # Eyes on You: Hitomi no Naka de Kagayaite
 
+![eyes-on-you-hitomi-no-naka-de-kagayaite](https://cdn.myanimelist.net/images/manga/3/33512.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アイズ・オン・ユー -瞳の中で輝いて-

@@ -1,5 +1,7 @@
 # Hazukashisou na Kao de Oppai Misete Moraitai: Sekimen Oppai Anthology
 
+![hazukashisou-na-kao-de-oppai-misete-moraitai-sekimen-oppai-anthology](https://cdn.myanimelist.net/images/manga/1/238805.jpg)
+
 -   **type**: manga
 -   **original-name**: 恥ずかしそうな顔でおっぱい見せてもらいたい赤面おっぱいアンソロジー
 -   **start-date**: 2019-05-11

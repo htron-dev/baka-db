@@ -1,5 +1,7 @@
 # Hanasaka Doori no Hitobito
 
+![hanasaka-doori-no-hitobito](https://cdn.myanimelist.net/images/manga/2/29569.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 花咲通りの人々

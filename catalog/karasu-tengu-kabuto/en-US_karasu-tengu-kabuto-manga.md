@@ -1,5 +1,7 @@
 # Karasu Tengu Kabuto
 
+![karasu-tengu-kabuto](https://cdn.myanimelist.net/images/manga/1/148179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 鴉天狗カブト

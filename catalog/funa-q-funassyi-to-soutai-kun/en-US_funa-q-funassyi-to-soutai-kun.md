@@ -1,5 +1,7 @@
 # FunaQ: Funassyi to Soutai-kun
 
+![funa-q-funassyi-to-soutai-kun](https://cdn.myanimelist.net/images/anime/3/85829.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: ふなＱ ～ふなっしーとＱ(そたいくん)～

@@ -1,5 +1,7 @@
 # Fushigi no Umi no Nadia Omake Gekijou
 
+![fushigi-no-umi-no-nadia-omake-gekijou](https://cdn.myanimelist.net/images/anime/2/21653.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: ふしぎの海のナディア おまけ劇場

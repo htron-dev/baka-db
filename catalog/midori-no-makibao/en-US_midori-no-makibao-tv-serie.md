@@ -1,5 +1,7 @@
 # Midori no Makibao
 
+![midori-no-makibao](https://cdn.myanimelist.net/images/anime/1986/111232.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: みどりのマキバオー

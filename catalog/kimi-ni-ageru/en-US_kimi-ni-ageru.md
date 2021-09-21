@@ -1,5 +1,7 @@
 # Kimi ni Ageru.
 
+![kimi-ni-ageru](https://cdn.myanimelist.net/images/manga/3/37950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

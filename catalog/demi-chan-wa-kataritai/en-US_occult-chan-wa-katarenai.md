@@ -1,5 +1,7 @@
 # Occult-chan wa Katarenai
 
+![occult-chan-wa-katarenai](https://cdn.myanimelist.net/images/manga/2/236012.jpg)
+
 -   **type**: manga
 -   **original-name**: オカルトちゃんは語れない
 -   **start-date**: 2019-01-05

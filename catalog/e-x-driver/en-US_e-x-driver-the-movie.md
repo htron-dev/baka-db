@@ -1,5 +1,7 @@
 # eX-Driver the Movie
 
+![e-x-driver-the-movie](https://cdn.myanimelist.net/images/anime/13/26195.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エクスドライバー the Movie

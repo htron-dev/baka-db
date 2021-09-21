@@ -1,5 +1,7 @@
 # Itsuwaribito◆Utsuho◆
 
+![itsuwaribito◆-utsuho◆](https://cdn.myanimelist.net/images/manga/2/75503.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 224

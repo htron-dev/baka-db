@@ -1,5 +1,7 @@
 # Haisha nante Kirai da!
 
+![haisha-nante-kirai-da](https://cdn.myanimelist.net/images/manga/1/131081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

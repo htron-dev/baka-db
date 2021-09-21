@@ -1,5 +1,7 @@
 # Kawaii Anoko
 
+![kawaii-anoko](https://cdn.myanimelist.net/images/manga/2/96315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 可愛いあの子

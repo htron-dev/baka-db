@@ -1,5 +1,7 @@
 # Ichigo-iro Kinku
 
+![ichigo-iro-kinku](https://cdn.myanimelist.net/images/manga/2/161485.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

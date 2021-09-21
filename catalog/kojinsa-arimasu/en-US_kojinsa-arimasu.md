@@ -1,5 +1,7 @@
 # Kojinsa Arimasu
 
+![kojinsa-arimasu](https://cdn.myanimelist.net/images/manga/3/217088.jpg)
+
 -   **type**: manga
 -   **original-name**: 個人差あり〼
 -   **start-date**: 2018-11-22

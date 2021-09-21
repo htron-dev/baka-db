@@ -1,5 +1,7 @@
 # Kujonin
 
+![kujonin](https://cdn.myanimelist.net/images/manga/1/198826.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 駆除人
 -   **start-date**: 2016-06-24

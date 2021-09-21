@@ -1,5 +1,7 @@
 # Glass no Mori no Kiss de Mezamete
 
+![glass-no-mori-no-kiss-de-mezamete](https://cdn.myanimelist.net/images/manga/3/153359.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ガラスの森のキスで目覚めて

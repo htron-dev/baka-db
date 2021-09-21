@@ -1,5 +1,7 @@
 # Kakushigoto
 
+![kakushigoto](https://cdn.myanimelist.net/images/anime/2/83525.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かくしごと

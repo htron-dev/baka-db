@@ -1,5 +1,7 @@
 # Lupin III: The First
 
+![lupin-iii-the-first](https://cdn.myanimelist.net/images/anime/1572/108506.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世 THE FIRST

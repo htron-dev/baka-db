@@ -1,5 +1,7 @@
 # Master Grape
 
+![master-grape](https://cdn.myanimelist.net/images/manga/1/192856.jpg)
+
 -   **type**: manga
 -   **original-name**: MASTER グレープ
 -   **start-date**: 2016-10-12

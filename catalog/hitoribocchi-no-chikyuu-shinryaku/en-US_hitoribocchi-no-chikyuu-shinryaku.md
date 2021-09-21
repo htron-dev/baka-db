@@ -1,5 +1,7 @@
 # Hitoribocchi no Chikyuu Shinryaku
 
+![hitoribocchi-no-chikyuu-shinryaku](https://cdn.myanimelist.net/images/manga/1/211539.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 78

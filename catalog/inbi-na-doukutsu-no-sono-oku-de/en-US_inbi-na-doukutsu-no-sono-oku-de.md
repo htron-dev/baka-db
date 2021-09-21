@@ -1,5 +1,7 @@
 # Inbi na Doukutsu no Sono Oku de
 
+![inbi-na-doukutsu-no-sono-oku-de](https://cdn.myanimelist.net/images/manga/1/207289.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 24

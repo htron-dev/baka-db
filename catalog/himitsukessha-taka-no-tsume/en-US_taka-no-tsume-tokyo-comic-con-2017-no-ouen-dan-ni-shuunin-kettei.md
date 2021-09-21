@@ -1,5 +1,7 @@
 # Taka no Tsume: Tokyo Comic Con 2017 no Ouen-dan ni Shuunin Kettei!
 
+![taka-no-tsume-tokyo-comic-con-2017-no-ouen-dan-ni-shuunin-kettei](https://cdn.myanimelist.net/images/anime/9/87301.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【鷹の爪団】東京コミコン 2017 の応援団に就任決定！

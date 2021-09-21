@@ -1,5 +1,7 @@
 # Gamaran: Shura
 
+![gamaran-shura](https://cdn.myanimelist.net/images/manga/2/220667.jpg)
+
 -   **type**: manga
 -   **original-name**: 我間乱―修羅―
 -   **start-date**: 2018-03-22

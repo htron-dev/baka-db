@@ -1,5 +1,7 @@
 # Hime no Koiwazurai
 
+![hime-no-koiwazurai](https://cdn.myanimelist.net/images/manga/3/237080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

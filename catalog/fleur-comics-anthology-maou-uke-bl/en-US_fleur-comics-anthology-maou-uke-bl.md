@@ -1,5 +1,7 @@
 # Fleur Comics Anthology: Maou Uke BL
 
+![fleur-comics-anthology-maou-uke-bl](https://cdn.myanimelist.net/images/manga/3/221460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

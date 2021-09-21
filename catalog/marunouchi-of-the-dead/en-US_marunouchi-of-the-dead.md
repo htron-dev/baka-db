@@ -1,5 +1,7 @@
 # Marunouchi of the Dead
 
+![marunouchi-of-the-dead](https://cdn.myanimelist.net/images/manga/1/152619.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 丸ノ内 OF THE DEAD
 -   **start-date**: 2015-03-19

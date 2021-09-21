@@ -1,5 +1,7 @@
 # Issunboushi: Chibisuke Monogatari
 
+![issunboushi-chibisuke-monogatari](https://cdn.myanimelist.net/images/anime/6/15840.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一寸法師〜ちび助物語

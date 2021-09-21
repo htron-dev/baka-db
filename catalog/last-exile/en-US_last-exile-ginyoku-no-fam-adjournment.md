@@ -1,5 +1,7 @@
 # Last Exile: Ginyoku no Fam - Adjournment
 
+![last-exile-ginyoku-no-fam-adjournment](https://cdn.myanimelist.net/images/anime/7/34925.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ラストエグザイル-銀翼のファム-

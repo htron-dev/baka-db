@@ -1,5 +1,7 @@
 # Devil Summoner: Kuzunoha Raidou Tai Kodoku no Marebito
 
+![devil-summoner-kuzunoha-raidou-tai-kodoku-no-marebito](https://cdn.myanimelist.net/images/manga/3/26137.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

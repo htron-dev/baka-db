@@ -1,5 +1,7 @@
 # Eiyuu Shikkaku
 
+![eiyuu-shikkaku](https://cdn.myanimelist.net/images/manga/1/176386.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 英雄失格
 -   **start-date**: 2015-07-30

@@ -1,5 +1,7 @@
 # Eden no Ori
 
+![eden-no-ori](https://cdn.myanimelist.net/images/manga/3/56963.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 185

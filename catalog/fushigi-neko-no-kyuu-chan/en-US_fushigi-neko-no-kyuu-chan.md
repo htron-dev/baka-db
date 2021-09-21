@@ -1,5 +1,7 @@
 # Fushigi Neko no Kyuu-chan
 
+![fushigi-neko-no-kyuu-chan](https://cdn.myanimelist.net/images/manga/3/220129.jpg)
+
 -   **type**: manga
 -   **original-name**: ふしぎねこのきゅーちゃん
 -   **start-date**: 2018-01-30

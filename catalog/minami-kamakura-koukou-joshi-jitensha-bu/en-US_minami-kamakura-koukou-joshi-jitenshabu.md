@@ -1,5 +1,7 @@
 # Minami Kamakura Koukou Joshi Jitenshabu
 
+![minami-kamakura-koukou-joshi-jitenshabu](https://cdn.myanimelist.net/images/anime/10/83345.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 南鎌倉高校女子自転車部

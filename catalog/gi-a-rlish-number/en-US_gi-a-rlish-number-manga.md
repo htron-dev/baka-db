@@ -1,5 +1,7 @@
 # Gi(a)rlish Number
 
+![gi-a-rlish-number](https://cdn.myanimelist.net/images/manga/3/180908.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

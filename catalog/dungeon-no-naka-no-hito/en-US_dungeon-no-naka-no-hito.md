@@ -1,5 +1,7 @@
 # Dungeon no Naka no Hito
 
+![dungeon-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/3/244530.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョンの中のひと
 -   **start-date**: 2020-06-19

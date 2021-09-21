@@ -1,5 +1,7 @@
 # Kitty Hawker
 
+![kitty-hawker](https://cdn.myanimelist.net/images/manga/3/45383.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

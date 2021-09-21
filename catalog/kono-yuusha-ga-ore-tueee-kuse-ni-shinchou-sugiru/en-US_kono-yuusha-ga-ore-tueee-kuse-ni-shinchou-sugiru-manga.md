@@ -1,5 +1,7 @@
 # Kono Yuusha ga Ore Tueee Kuse ni Shinchou sugiru
 
+![kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru](https://cdn.myanimelist.net/images/manga/2/221749.jpg)
+
 -   **type**: manga
 -   **original-name**: この勇者が俺 TUEEE くせに慎重すぎる
 -   **start-date**: 2018-11-09

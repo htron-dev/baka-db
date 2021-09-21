@@ -1,5 +1,7 @@
 # Fuyu no Sonata
 
+![fuyu-no-sonata](https://cdn.myanimelist.net/images/manga/3/71293.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 冬のソナタ

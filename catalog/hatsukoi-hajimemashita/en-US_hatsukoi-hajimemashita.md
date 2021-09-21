@@ -1,5 +1,7 @@
 # Hatsukoi Hajimemashita.
 
+![hatsukoi-hajimemashita](https://cdn.myanimelist.net/images/manga/3/163541.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Kara no Kyoukai: The Garden of Sinners
 
+![kara-no-kyoukai-the-garden-of-sinners](https://cdn.myanimelist.net/images/manga/5/67635.jpg)
+
 -   **type**: manga
 -   **original-name**: 空の境界 the Garden of sinners
 -   **start-date**: 2010-11-20

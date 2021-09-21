@@ -1,5 +1,7 @@
 # Lunatic Lover's
 
+![lunatic-lovers](https://cdn.myanimelist.net/images/manga/1/11858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

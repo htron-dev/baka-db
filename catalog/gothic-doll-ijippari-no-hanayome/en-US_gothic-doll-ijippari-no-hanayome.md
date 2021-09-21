@@ -1,5 +1,7 @@
 # Gothic Doll: Ijippari no Hanayome
 
+![gothic-doll-ijippari-no-hanayome](https://cdn.myanimelist.net/images/manga/3/153339.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ゴシックドール ～意地っぱりの花嫁～

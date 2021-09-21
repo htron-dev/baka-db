@@ -1,5 +1,7 @@
 # Kinnikuman (Movie)
 
+![kinnikuman-movie](https://cdn.myanimelist.net/images/anime/3/73922.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン (キン肉マン 奪われたチャンピオンベルト)

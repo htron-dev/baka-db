@@ -1,5 +1,7 @@
 # Karasu Tengu Uju Ja!
 
+![karasu-tengu-uju-ja](https://cdn.myanimelist.net/images/manga/1/202356.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 38

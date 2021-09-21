@@ -1,5 +1,7 @@
 # Gaikotsu Knife de Jump
 
+![gaikotsu-knife-de-jump](https://cdn.myanimelist.net/images/manga/3/140181.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 骸骨ナイフでジャンプ

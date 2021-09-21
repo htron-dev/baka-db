@@ -1,5 +1,7 @@
 # Kankin Tantei
 
+![kankin-tantei](https://cdn.myanimelist.net/images/manga/1/123275.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

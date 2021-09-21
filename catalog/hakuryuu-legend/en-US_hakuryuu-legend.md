@@ -1,5 +1,7 @@
 # Hakuryuu Legend
 
+![hakuryuu-legend](https://cdn.myanimelist.net/images/manga/2/185079.jpg)
+
 -   **type**: manga
 -   **volumes**: 46
 -   **chapters**: 414

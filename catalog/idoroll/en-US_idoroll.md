@@ -1,5 +1,7 @@
 # Idoroll
 
+![idoroll](https://cdn.myanimelist.net/images/manga/2/191161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

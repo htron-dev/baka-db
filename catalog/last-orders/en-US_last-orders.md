@@ -1,5 +1,7 @@
 # Last Orders
 
+![last-orders](https://cdn.myanimelist.net/images/anime/9/60623.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Last Orders

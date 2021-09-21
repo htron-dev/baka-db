@@ -1,5 +1,7 @@
 # Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA
 
+![keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova](https://cdn.myanimelist.net/images/anime/1417/104653.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」

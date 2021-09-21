@@ -1,5 +1,7 @@
 # Sorenari ni Romantic
 
+![sorenari-ni-romantic](https://cdn.myanimelist.net/images/manga/2/218091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

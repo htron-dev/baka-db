@@ -1,5 +1,7 @@
 # Momoiro Syndrome
 
+![momoiro-syndrome](https://cdn.myanimelist.net/images/manga/1/128093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

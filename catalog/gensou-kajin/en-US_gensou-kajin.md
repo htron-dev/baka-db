@@ -1,5 +1,7 @@
 # Gensou Kajin
 
+![gensou-kajin](https://cdn.myanimelist.net/images/manga/1/83316.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

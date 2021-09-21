@@ -1,5 +1,7 @@
 # Himesama Ninpouchou: Tenka☆Musou
 
+![himesama-ninpouchou-tenka☆-musou](https://cdn.myanimelist.net/images/manga/3/109139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

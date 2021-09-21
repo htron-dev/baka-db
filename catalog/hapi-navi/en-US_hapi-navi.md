@@ -1,5 +1,7 @@
 # Hapi Navi!
 
+![hapi-navi](https://cdn.myanimelist.net/images/manga/3/121297.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: はぴナビ!

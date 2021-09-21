@@ -1,5 +1,7 @@
 # Maou no Mama ni Naru n da yo!
 
+![maou-no-mama-ni-naru-n-da-yo](https://cdn.myanimelist.net/images/manga/2/219923.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王のママになるんだよ！
 -   **start-date**: 2017-12-20

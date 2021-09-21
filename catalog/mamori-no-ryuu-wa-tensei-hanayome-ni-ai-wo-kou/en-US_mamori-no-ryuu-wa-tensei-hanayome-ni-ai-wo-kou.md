@@ -1,5 +1,7 @@
 # Mamori no Ryuu wa Tensei Hanayome ni Ai wo Kou
 
+![mamori-no-ryuu-wa-tensei-hanayome-ni-ai-wo-kou](https://cdn.myanimelist.net/images/manga/2/219646.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 守りの竜は転生花嫁に愛を乞う

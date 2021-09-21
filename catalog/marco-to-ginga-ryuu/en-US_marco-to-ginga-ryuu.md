@@ -1,5 +1,7 @@
 # Marco to Ginga Ryuu
 
+![marco-to-ginga-ryuu](https://cdn.myanimelist.net/images/anime/1174/103830.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マルコと銀河竜

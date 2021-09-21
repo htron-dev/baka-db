@@ -1,5 +1,7 @@
 # Mob Psycho 100
 
+![mob-psycho-100](https://cdn.myanimelist.net/images/manga/2/204842.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 109

@@ -1,5 +1,7 @@
 # G'Day
 
+![g-day](https://cdn.myanimelist.net/images/manga/2/239008.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 그다이

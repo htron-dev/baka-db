@@ -1,5 +1,7 @@
 # Mujaki no Rakuen
 
+![mujaki-no-rakuen](https://cdn.myanimelist.net/images/anime/5/74733.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 無邪気の楽園

@@ -1,5 +1,7 @@
 # Digimon World Re:Digitize Encode
 
+![digimon-world-re-digitize-encode](https://cdn.myanimelist.net/images/manga/2/109061.jpg)
+
 -   **type**: manga
 -   **original-name**: デジモンワールド リ：デジタイズ エンコード
 -   **start-date**: 2013-04-20

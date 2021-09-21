@@ -1,5 +1,7 @@
 # Major S2
 
+![major-s-2](https://cdn.myanimelist.net/images/anime/6/73972.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メジャー (第 2 シリーズ)

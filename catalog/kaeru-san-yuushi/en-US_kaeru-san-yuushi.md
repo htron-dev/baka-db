@@ -1,5 +1,7 @@
 # Kaeru San Yuushi
 
+![kaeru-san-yuushi](https://cdn.myanimelist.net/images/anime/10/67921.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蛙三勇士

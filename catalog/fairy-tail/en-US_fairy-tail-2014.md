@@ -1,5 +1,7 @@
 # Fairy Tail (2014)
 
+![fairy-tail-2014](https://cdn.myanimelist.net/images/anime/3/60551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: FAIRY TAIL（フェアリーテイル）

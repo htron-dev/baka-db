@@ -1,5 +1,7 @@
 # Jam!!
 
+![jam](https://cdn.myanimelist.net/images/manga/2/90561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジャム!!

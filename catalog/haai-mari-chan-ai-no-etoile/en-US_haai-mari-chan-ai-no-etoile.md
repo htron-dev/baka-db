@@ -1,5 +1,7 @@
 # Haai! Mari-chan: Ai no Etoile
 
+![haai-mari-chan-ai-no-etoile](https://cdn.myanimelist.net/images/manga/3/247221.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ハーイ！まりちゃん 愛のエトワール

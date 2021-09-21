@@ -1,5 +1,7 @@
 # Koisuru Tetsumenpi
 
+![koisuru-tetsumenpi](https://cdn.myanimelist.net/images/manga/3/225445.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

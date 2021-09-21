@@ -1,5 +1,7 @@
 # Kuro no Shougun to Higashi no Tou no Majo
 
+![kuro-no-shougun-to-higashi-no-tou-no-majo](https://cdn.myanimelist.net/images/manga/2/181166.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Fuchin Attacker
 
+![fuchin-attacker](https://cdn.myanimelist.net/images/manga/2/221841.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

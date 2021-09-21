@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Bloody Twins
 
+![clover-no-kuni-no-alice-bloody-twins](https://cdn.myanimelist.net/images/manga/3/26876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kaibou Kitan
 
+![kaibou-kitan](https://cdn.myanimelist.net/images/manga/2/192569.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

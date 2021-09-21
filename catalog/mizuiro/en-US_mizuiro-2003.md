@@ -1,5 +1,7 @@
 # Mizuiro (2003)
 
+![mizuiro-2003](https://cdn.myanimelist.net/images/anime/13/49473.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: みずいろ (2003)

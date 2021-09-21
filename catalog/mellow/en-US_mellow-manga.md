@@ -1,5 +1,7 @@
 # Mellow
 
+![mellow](https://cdn.myanimelist.net/images/manga/1/155089.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 女郎 MELLOW

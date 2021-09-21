@@ -1,5 +1,7 @@
 # Z
 
+![z](https://cdn.myanimelist.net/images/manga/2/45765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

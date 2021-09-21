@@ -1,5 +1,7 @@
 # Kojika-sensei wa Moujuu no Ori no Naka
 
+![kojika-sensei-wa-moujuu-no-ori-no-naka](https://cdn.myanimelist.net/images/manga/3/234213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ietsuroku - Mizuki Shigeru no Sekai
 
+![ietsuroku-mizuki-shigeru-no-sekai](https://cdn.myanimelist.net/images/manga/3/36238.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

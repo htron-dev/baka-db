@@ -1,5 +1,7 @@
 # He Loves You
 
+![he-loves-you](https://cdn.myanimelist.net/images/manga/3/82194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

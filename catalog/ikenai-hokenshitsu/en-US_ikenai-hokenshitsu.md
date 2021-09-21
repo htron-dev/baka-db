@@ -1,5 +1,7 @@
 # Ikenai Hokenshitsu
 
+![ikenai-hokenshitsu](https://cdn.myanimelist.net/images/manga/3/25965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イケない・保健室

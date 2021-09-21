@@ -1,5 +1,7 @@
 # Hanasaku Iroha Movie: Home Sweet Home
 
+![hanasaku-iroha-movie-home-sweet-home](https://cdn.myanimelist.net/images/anime/9/70701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 花咲くいろは HOME SWEET HOME

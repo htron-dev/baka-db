@@ -1,5 +1,7 @@
 # Gal no Haigo ni Rei ga Iru
 
+![gal-no-haigo-ni-rei-ga-iru](https://cdn.myanimelist.net/images/manga/3/246759.jpg)
+
 -   **type**: manga
 -   **original-name**: ギャルの背後に霊がいる
 -   **start-date**: 2020-11-05

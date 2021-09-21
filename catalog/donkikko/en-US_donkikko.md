@@ -1,5 +1,7 @@
 # Donkikko
 
+![donkikko](https://cdn.myanimelist.net/images/anime/12/53069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: ドンキッコ

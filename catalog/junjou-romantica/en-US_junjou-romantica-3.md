@@ -1,5 +1,7 @@
 # Junjou Romantica 3
 
+![junjou-romantica-3](https://cdn.myanimelist.net/images/anime/2/74170.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 純情ロマンチカ 3

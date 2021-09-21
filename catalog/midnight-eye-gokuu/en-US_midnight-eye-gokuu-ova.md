@@ -1,5 +1,7 @@
 # Midnight Eye: Gokuu
 
+![midnight-eye-gokuu](https://cdn.myanimelist.net/images/anime/1699/106790.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: MIDNIGHT EYE 　ゴクウ

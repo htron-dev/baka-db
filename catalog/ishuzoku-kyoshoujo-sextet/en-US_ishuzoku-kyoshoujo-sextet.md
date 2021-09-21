@@ -1,5 +1,7 @@
 # Ishuzoku Kyoshoujo Sextet!
 
+![ishuzoku-kyoshoujo-sextet](https://cdn.myanimelist.net/images/manga/1/221485.jpg)
+
 -   **type**: manga
 -   **original-name**: 異種族巨少女セクステット！
 -   **start-date**: 2019-06-25

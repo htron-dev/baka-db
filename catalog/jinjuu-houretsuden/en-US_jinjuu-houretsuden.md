@@ -1,5 +1,7 @@
 # Jinjuu Houretsuden
 
+![jinjuu-houretsuden](https://cdn.myanimelist.net/images/manga/1/90497.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 38

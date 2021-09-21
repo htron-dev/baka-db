@@ -1,5 +1,7 @@
 # Lingerie Senshi Papillon Rose
 
+![lingerie-senshi-papillon-rose](https://cdn.myanimelist.net/images/anime/5/24024.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ランジェリー戦士パピヨンローゼ

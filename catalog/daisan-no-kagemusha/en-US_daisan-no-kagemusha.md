@@ -1,5 +1,7 @@
 # Daisan no Kagemusha
 
+![daisan-no-kagemusha](https://cdn.myanimelist.net/images/manga/2/36928.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

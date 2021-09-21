@@ -1,5 +1,7 @@
 # Kincaid-ke no Yuigon Game
 
+![kincaid-ke-no-yuigon-game](https://cdn.myanimelist.net/images/manga/2/154221.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: キンケイド家の遺言ゲーム

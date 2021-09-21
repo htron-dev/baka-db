@@ -1,5 +1,7 @@
 # Duel Masters Charge
 
+![duel-masters-charge](https://cdn.myanimelist.net/images/anime/1914/105188.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: デュエル・マスターズ　チャージ

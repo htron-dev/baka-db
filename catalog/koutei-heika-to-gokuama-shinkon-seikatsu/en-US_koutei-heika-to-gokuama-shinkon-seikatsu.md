@@ -1,5 +1,7 @@
 # Koutei Heika to Gokuama Shinkon Seikatsu
 
+![koutei-heika-to-gokuama-shinkon-seikatsu](https://cdn.myanimelist.net/images/manga/3/238297.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Onisarashi-hen
 
+![higurashi-no-naku-koro-ni-onisarashi-hen](https://cdn.myanimelist.net/images/manga/1/116517.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kanojo, Okarishimasu 2nd Season
 
+![kanojo-okarishimasu-2nd-season](https://cdn.myanimelist.net/images/anime/1098/109442.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 彼女、お借りします
 -   **rating**: PG-13 - Teens 13 or older

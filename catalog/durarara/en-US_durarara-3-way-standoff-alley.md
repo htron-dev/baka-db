@@ -1,5 +1,7 @@
 # Durarara!!: 3 Way Standoff - Alley
 
+![durarara-3-way-standoff-alley](https://cdn.myanimelist.net/images/manga/2/119479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

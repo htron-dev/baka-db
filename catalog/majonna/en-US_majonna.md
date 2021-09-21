@@ -1,5 +1,7 @@
 # Majonna
 
+![majonna](https://cdn.myanimelist.net/images/manga/3/179381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マジョンナ 三家本礼 Extra Works

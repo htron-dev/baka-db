@@ -1,5 +1,7 @@
 # High Score
 
+![high-score](https://cdn.myanimelist.net/images/manga/2/161967.jpg)
+
 -   **type**: manga
 -   **original-name**: HIGH SCORE
 -   **start-date**: 1995-03-03

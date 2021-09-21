@@ -1,5 +1,7 @@
 # Go-hiki no Kozaru-tachi
 
+![go-hiki-no-kozaru-tachi](https://cdn.myanimelist.net/images/anime/3/71997.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 五匹の子猿たち

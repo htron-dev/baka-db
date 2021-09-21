@@ -1,5 +1,7 @@
 # Kekkai Sensen
 
+![kekkai-sensen](https://cdn.myanimelist.net/images/manga/1/154778.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 33

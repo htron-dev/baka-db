@@ -1,5 +1,7 @@
 # Kare no Atsui Yubisaki
 
+![kare-no-atsui-yubisaki](https://cdn.myanimelist.net/images/manga/2/30074.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カレの熱い指先

@@ -1,5 +1,7 @@
 # Kimi to Koi no Tochuu
 
+![kimi-to-koi-no-tochuu](https://cdn.myanimelist.net/images/manga/3/86029.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

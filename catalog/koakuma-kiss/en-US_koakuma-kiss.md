@@ -1,5 +1,7 @@
 # Koakuma Kiss
 
+![koakuma-kiss](https://cdn.myanimelist.net/images/manga/2/29939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Eikou e no Spur: Igaya Chiharu Monogatari
 
+![eikou-e-no-spur-igaya-chiharu-monogatari](https://cdn.myanimelist.net/images/anime/12/53179.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 栄光へのシュプール 猪谷千春物語

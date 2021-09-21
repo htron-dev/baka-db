@@ -1,5 +1,7 @@
 # Nezha Zhi Mo Tong Jiang Shi
 
+![nezha-zhi-mo-tong-jiang-shi](https://cdn.myanimelist.net/images/anime/1759/102055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 哪吒之魔童降世

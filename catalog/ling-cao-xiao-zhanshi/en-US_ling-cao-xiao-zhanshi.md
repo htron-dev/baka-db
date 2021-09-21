@@ -1,5 +1,7 @@
 # Ling Cao Xiao Zhanshi
 
+![ling-cao-xiao-zhanshi](https://cdn.myanimelist.net/images/anime/1807/115236.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 灵草小战士

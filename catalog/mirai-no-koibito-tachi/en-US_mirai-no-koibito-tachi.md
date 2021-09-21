@@ -1,5 +1,7 @@
 # Mirai no Koibito-tachi
 
+![mirai-no-koibito-tachi](https://cdn.myanimelist.net/images/manga/2/175531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

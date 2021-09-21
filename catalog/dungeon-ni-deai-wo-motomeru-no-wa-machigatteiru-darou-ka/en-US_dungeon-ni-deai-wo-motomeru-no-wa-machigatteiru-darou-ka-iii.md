@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii](https://cdn.myanimelist.net/images/anime/1523/108380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか III

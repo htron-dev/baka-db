@@ -1,5 +1,7 @@
 # KuiTan
 
+![kui-tan](https://cdn.myanimelist.net/images/manga/1/186700.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 116

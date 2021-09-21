@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: Premium Collection
 
+![fullmetal-alchemist-premium-collection](https://cdn.myanimelist.net/images/anime/10/18689.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 鋼の錬金術師 PREMIUM COLLECTION

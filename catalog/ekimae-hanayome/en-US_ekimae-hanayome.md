@@ -1,5 +1,7 @@
 # Ekimae Hanayome
 
+![ekimae-hanayome](https://cdn.myanimelist.net/images/manga/3/150666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Doteraman
 
+![doteraman](https://cdn.myanimelist.net/images/anime/2/53523.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: ドテラマン

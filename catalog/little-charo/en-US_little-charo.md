@@ -1,5 +1,7 @@
 # Little Charo
 
+![little-charo](https://cdn.myanimelist.net/images/anime/1876/93778.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: リトル・チャロ

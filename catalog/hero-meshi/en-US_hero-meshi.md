@@ -1,5 +1,7 @@
 # Hero Meshi
 
+![hero-meshi](https://cdn.myanimelist.net/images/manga/2/216669.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

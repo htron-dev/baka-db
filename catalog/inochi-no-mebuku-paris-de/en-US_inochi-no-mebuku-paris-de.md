@@ -1,5 +1,7 @@
 # Inochi no Mebuku Paris de
 
+![inochi-no-mebuku-paris-de](https://cdn.myanimelist.net/images/manga/1/227564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 命の芽吹くパリで

@@ -1,5 +1,7 @@
 # Gunslinger Stratos: Gigantomakhia
 
+![gunslinger-stratos-gigantomakhia](https://cdn.myanimelist.net/images/manga/1/174573.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Karakuri Kiden: Hiwou Senki
 
+![karakuri-kiden-hiwou-senki](https://cdn.myanimelist.net/images/manga/1/133221.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 機巧奇傳 ヒヲウ戦記

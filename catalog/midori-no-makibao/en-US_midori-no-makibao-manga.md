@@ -1,5 +1,7 @@
 # Midori no Makibao
 
+![midori-no-makibao](https://cdn.myanimelist.net/images/manga/1/172672.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 150

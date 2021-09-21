@@ -1,5 +1,7 @@
 # Life
 
+![life](https://cdn.myanimelist.net/images/manga/3/127497.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 80

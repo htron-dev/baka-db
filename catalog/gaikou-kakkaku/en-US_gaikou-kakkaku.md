@@ -1,5 +1,7 @@
 # Gaikou-kakkaku
 
+![gaikou-kakkaku](https://cdn.myanimelist.net/images/manga/2/134919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

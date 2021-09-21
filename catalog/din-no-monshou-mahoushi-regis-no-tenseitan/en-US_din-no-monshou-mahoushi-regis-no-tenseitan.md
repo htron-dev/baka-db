@@ -1,5 +1,7 @@
 # Din no Monshou: Mahoushi Regis no Tenseitan
 
+![din-no-monshou-mahoushi-regis-no-tenseitan](https://cdn.myanimelist.net/images/manga/1/141825.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ディンの紋章 ～魔法師レジスの転生譚～
 -   **start-date**: 2014-07-25

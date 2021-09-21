@@ -1,5 +1,7 @@
 # Innocent Blade Unevil
 
+![innocent-blade-unevil](https://cdn.myanimelist.net/images/manga/3/199443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: INNOCENT BLADE UNEVIL

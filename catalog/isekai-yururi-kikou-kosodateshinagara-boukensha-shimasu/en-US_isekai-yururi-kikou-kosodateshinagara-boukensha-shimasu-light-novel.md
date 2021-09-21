@@ -1,5 +1,7 @@
 # Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu
 
+![isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu](https://cdn.myanimelist.net/images/manga/1/200622.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界ゆるり紀行 ～子育てしながら冒険者します～
 -   **start-date**: 2017-04-20

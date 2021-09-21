@@ -1,5 +1,7 @@
 # Ken mo Hororo
 
+![ken-mo-hororo](https://cdn.myanimelist.net/images/manga/2/233656.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 75

@@ -1,5 +1,7 @@
 # Eiyuu no Musume toshite Umarekawatta Eiyuu wa Futatabi Eiyuu wo Mezasu
 
+![eiyuu-no-musume-toshite-umarekawatta-eiyuu-wa-futatabi-eiyuu-wo-mezasu](https://cdn.myanimelist.net/images/manga/2/217666.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

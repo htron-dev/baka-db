@@ -1,5 +1,7 @@
 # Jaaku no Jack
 
+![jaaku-no-jack](https://cdn.myanimelist.net/images/manga/1/37938.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

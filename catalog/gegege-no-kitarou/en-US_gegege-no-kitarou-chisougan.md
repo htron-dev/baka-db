@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Chisougan
 
+![gegege-no-kitarou-chisougan](https://cdn.myanimelist.net/images/anime/5/84231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 地相眼

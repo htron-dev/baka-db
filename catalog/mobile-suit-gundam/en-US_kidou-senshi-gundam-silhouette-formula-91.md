@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Silhouette Formula 91
 
+![kidou-senshi-gundam-silhouette-formula-91](https://cdn.myanimelist.net/images/manga/1/2019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

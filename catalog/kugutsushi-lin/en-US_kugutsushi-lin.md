@@ -1,5 +1,7 @@
 # Kugutsushi Lin
 
+![kugutsushi-lin](https://cdn.myanimelist.net/images/manga/1/161078.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 57

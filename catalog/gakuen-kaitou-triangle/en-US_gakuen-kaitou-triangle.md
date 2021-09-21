@@ -1,5 +1,7 @@
 # Gakuen Kaitou Triangle
 
+![gakuen-kaitou-triangle](https://cdn.myanimelist.net/images/manga/1/15206.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 学園怪盗トライアングル

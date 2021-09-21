@@ -1,5 +1,7 @@
 # Koisuru Piano
 
+![koisuru-piano](https://cdn.myanimelist.net/images/manga/3/14801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

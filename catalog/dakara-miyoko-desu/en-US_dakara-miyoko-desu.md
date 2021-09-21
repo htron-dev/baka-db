@@ -1,5 +1,7 @@
 # Dakara Miyoko Desu
 
+![dakara-miyoko-desu](https://cdn.myanimelist.net/images/manga/1/211349.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 66

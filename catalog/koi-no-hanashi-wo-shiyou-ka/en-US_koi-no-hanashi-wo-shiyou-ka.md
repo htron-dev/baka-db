@@ -1,5 +1,7 @@
 # Koi no Hanashi wo, Shiyou ka
 
+![koi-no-hanashi-wo-shiyou-ka](https://cdn.myanimelist.net/images/manga/2/172039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Karimen Love Crisis
 
+![karimen-love-crisis](https://cdn.myanimelist.net/images/manga/3/58583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

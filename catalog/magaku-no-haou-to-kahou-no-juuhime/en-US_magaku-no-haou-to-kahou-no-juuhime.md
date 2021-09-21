@@ -1,5 +1,7 @@
 # Magaku no Haou to Kahou no Juuhime
 
+![magaku-no-haou-to-kahou-no-juuhime](https://cdn.myanimelist.net/images/manga/2/177002.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

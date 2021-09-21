@@ -1,5 +1,7 @@
 # Jie Jie Xiong Yu Di Di Niao
 
+![jie-jie-xiong-yu-di-di-niao](https://cdn.myanimelist.net/images/anime/1088/115442.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 杰杰熊与迪迪鸟

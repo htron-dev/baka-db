@@ -1,5 +1,7 @@
 # Gag Manga Biyori: Jump Festa 2002 Special
 
+![gag-manga-biyori-jump-festa-2002-special](https://cdn.myanimelist.net/images/anime/11/28253.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギャグマンガ日和:ジャンプフェスタ 2002 版

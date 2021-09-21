@@ -1,5 +1,7 @@
 # Fireball Special
 
+![fireball-special](https://cdn.myanimelist.net/images/anime/4/29365.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メイキングオブファイアボール

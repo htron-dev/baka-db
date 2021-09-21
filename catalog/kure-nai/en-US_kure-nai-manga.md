@@ -1,5 +1,7 @@
 # Kure-nai
 
+![kure-nai](https://cdn.myanimelist.net/images/manga/3/147269.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 55

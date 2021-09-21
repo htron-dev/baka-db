@@ -1,5 +1,7 @@
 # Doushite Watashi ga Bijutsuka ni!?
 
+![doushite-watashi-ga-bijutsuka-ni](https://cdn.myanimelist.net/images/manga/2/203037.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 42

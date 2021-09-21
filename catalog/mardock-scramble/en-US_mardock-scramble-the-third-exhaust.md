@@ -1,5 +1,7 @@
 # Mardock Scramble: The Third Exhaust
 
+![mardock-scramble-the-third-exhaust](https://cdn.myanimelist.net/images/anime/12/39309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マルドゥック・スクランブル 第 3 部 排気

@@ -1,5 +1,7 @@
 # Kedamono Kareshi
 
+![kedamono-kareshi](https://cdn.myanimelist.net/images/manga/1/249324.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 88

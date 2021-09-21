@@ -1,5 +1,7 @@
 # Konomi ja Nakato
 
+![konomi-ja-nakato](https://cdn.myanimelist.net/images/manga/1/222173.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

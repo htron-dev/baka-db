@@ -1,5 +1,7 @@
 # Ijigen kara no chinnyuusha
 
+![ijigen-kara-no-chinnyuusha](https://cdn.myanimelist.net/images/manga/2/30721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 異次元からの珍入者

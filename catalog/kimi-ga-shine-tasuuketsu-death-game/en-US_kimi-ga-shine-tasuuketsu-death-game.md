@@ -1,5 +1,7 @@
 # Kimi ga Shine: Tasuuketsu Death Game
 
+![kimi-ga-shine-tasuuketsu-death-game](https://cdn.myanimelist.net/images/manga/1/227450.jpg)
+
 -   **type**: manga
 -   **original-name**: キミガシネ ―多数決デスゲーム―
 -   **start-date**: 2019-03-26

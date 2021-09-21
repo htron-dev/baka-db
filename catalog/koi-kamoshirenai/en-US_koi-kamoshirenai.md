@@ -1,5 +1,7 @@
 # Koi Kamoshirenai
 
+![koi-kamoshirenai](https://cdn.myanimelist.net/images/manga/2/220864.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

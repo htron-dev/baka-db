@@ -1,5 +1,7 @@
 # High &amp; Low: G-Sword (Special)
 
+![high-amp-low-g-sword-special](https://cdn.myanimelist.net/images/anime/1450/105390.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: HiGH&LOW g-sword

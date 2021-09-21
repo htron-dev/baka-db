@@ -1,5 +1,7 @@
 # Melody Lyric Idol Magic
 
+![melody-lyric-idol-magic](https://cdn.myanimelist.net/images/manga/2/180752.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

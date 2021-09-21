@@ -1,5 +1,7 @@
 # Gakuen Deka Love♥Mission
 
+![gakuen-deka-love♥-mission](https://cdn.myanimelist.net/images/manga/2/211718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

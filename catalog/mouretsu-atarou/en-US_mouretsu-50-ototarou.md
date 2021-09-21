@@ -1,5 +1,7 @@
 # Mouretsu 50 Ototarou
 
+![mouretsu-50-ototarou](https://cdn.myanimelist.net/images/anime/1450/107819.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: もーれつ 50 音太郎

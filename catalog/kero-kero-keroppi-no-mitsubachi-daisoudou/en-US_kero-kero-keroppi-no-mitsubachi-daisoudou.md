@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Mitsubachi Daisoudou
 
+![kero-kero-keroppi-no-mitsubachi-daisoudou](https://cdn.myanimelist.net/images/anime/7/58993.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのミツバチ大騒動

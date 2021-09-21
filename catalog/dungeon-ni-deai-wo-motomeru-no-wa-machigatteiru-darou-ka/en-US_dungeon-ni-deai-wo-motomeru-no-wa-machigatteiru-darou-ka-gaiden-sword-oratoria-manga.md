@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria](https://cdn.myanimelist.net/images/manga/3/150531.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア
 -   **start-date**: 2014-05-22

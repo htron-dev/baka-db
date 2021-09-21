@@ -1,5 +1,7 @@
 # Kantai Collection -Kan Colle- Dengeki Comic Anthology: Sasebo Chinjufu-hen
 
+![kantai-collection-kan-colle-dengeki-comic-anthology-sasebo-chinjufu-hen](https://cdn.myanimelist.net/images/manga/1/108361.jpg)
+
 -   **type**: manga
 -   **original-name**: 艦隊これくしょん -艦これ- 電撃コミックアンソロジー 佐世保鎮守府編
 -   **start-date**: 2013-11-26

@@ -1,5 +1,7 @@
 # Keikoku Hanayome: Tsukiyo ni Ai, Sakimidarete
 
+![keikoku-hanayome-tsukiyo-ni-ai-sakimidarete](https://cdn.myanimelist.net/images/manga/3/182395.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

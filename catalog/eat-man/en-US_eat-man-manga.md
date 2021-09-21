@@ -1,5 +1,7 @@
 # Eat-Man
 
+![eat-man](https://cdn.myanimelist.net/images/manga/2/173371.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 101

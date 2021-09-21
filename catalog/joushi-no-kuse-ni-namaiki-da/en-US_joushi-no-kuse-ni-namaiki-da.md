@@ -1,5 +1,7 @@
 # Joushi no Kuse ni Namaiki da
 
+![joushi-no-kuse-ni-namaiki-da](https://cdn.myanimelist.net/images/manga/2/99035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

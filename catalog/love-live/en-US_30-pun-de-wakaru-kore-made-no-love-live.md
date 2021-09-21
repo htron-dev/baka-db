@@ -1,5 +1,7 @@
 # 30-pun de Wakaru! Kore made no Love Live!
 
+![30-pun-de-wakaru-kore-made-no-love-live](https://cdn.myanimelist.net/images/anime/6/74193.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 30 分でわかる！これまでのラブライブ！TV アニメトセカンドシーズンの要約

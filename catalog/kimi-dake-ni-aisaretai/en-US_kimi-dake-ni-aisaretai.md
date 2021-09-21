@@ -1,5 +1,7 @@
 # Kimi dake ni Aisaretai
 
+![kimi-dake-ni-aisaretai](https://cdn.myanimelist.net/images/manga/3/12382.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

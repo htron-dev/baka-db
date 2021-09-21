@@ -1,5 +1,7 @@
 # Isekai Madou Koshoten: Cheat Maryoku Aru kedo, Mattari Tenin suru Koto ni Shita
 
+![isekai-madou-koshoten-cheat-maryoku-aru-kedo-mattari-tenin-suru-koto-ni-shita](https://cdn.myanimelist.net/images/manga/3/169372.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界魔導古書店~チート魔力あるけど、まったり店員することにした~
 -   **start-date**: 2015-12-26

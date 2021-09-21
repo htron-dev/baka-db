@@ -1,5 +1,7 @@
 # Kono Tabi no Hate wa, Yakusoku to Kyuusai to Uso no Basho
 
+![kono-tabi-no-hate-wa-yakusoku-to-kyuusai-to-uso-no-basho](https://cdn.myanimelist.net/images/manga/1/185827.jpg)
+
 -   **type**: light-novel
 -   **original-name**: この旅の果ては、約束と救済と嘘の場所
 -   **start-date**: 2016-11-19

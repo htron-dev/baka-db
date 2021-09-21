@@ -1,5 +1,7 @@
 # Mahoromatic: Tadaima Okaeri
 
+![mahoromatic-tadaima-okaeri](https://cdn.myanimelist.net/images/anime/10/16503.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: まほろまてぃっく ただいま ◇ おかえり

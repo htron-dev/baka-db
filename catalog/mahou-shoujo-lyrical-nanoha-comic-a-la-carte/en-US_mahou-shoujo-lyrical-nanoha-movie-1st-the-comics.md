@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics
 
+![mahou-shoujo-lyrical-nanoha-movie-1st-the-comics](https://cdn.myanimelist.net/images/manga/5/30053.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

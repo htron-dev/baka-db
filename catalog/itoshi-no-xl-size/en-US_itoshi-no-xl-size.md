@@ -1,5 +1,7 @@
 # Itoshi no XL Size
 
+![itoshi-no-xl-size](https://cdn.myanimelist.net/images/manga/1/220779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

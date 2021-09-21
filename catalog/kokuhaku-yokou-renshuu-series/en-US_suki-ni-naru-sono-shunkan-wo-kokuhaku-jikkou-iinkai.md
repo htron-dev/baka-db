@@ -1,5 +1,7 @@
 # Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai
 
+![suki-ni-naru-sono-shunkan-wo-kokuhaku-jikkou-iinkai](https://cdn.myanimelist.net/images/anime/12/87065.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 好きになるその瞬間を。～告白実行委員会～

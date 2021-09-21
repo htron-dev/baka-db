@@ -1,5 +1,7 @@
 # Eigo de Asobo: Tanken Goblin Tou
 
+![eigo-de-asobo-tanken-goblin-tou](https://cdn.myanimelist.net/images/anime/5/66453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 英語であそぼ たんけんゴブリン島

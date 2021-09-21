@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Mk V
 
+![mobile-suit-sd-gundam-mk-v](https://cdn.myanimelist.net/images/anime/6/15882.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機動戦士 SD ガンダム Mk-V

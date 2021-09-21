@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Reflection the Comics
 
+![mahou-shoujo-lyrical-nanoha-reflection-the-comics](https://cdn.myanimelist.net/images/manga/1/211398.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

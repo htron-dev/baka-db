@@ -1,5 +1,7 @@
 # Kimi ni Sosogu
 
+![kimi-ni-sosogu](https://cdn.myanimelist.net/images/manga/1/56349.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

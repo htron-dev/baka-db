@@ -1,5 +1,7 @@
 # Jijo desu ga Koisarenakereba Kyuuchi desu
 
+![jijo-desu-ga-koisarenakereba-kyuuchi-desu](https://cdn.myanimelist.net/images/manga/2/218108.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kanojo to Kanojo no Renai
 
+![kanojo-to-kanojo-no-renai](https://cdn.myanimelist.net/images/manga/3/139255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Itoshi no Strange Man
 
+![itoshi-no-strange-man](https://cdn.myanimelist.net/images/manga/3/236112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

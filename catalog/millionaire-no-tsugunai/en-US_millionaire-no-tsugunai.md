@@ -1,5 +1,7 @@
 # Millionaire no Tsugunai
 
+![millionaire-no-tsugunai](https://cdn.myanimelist.net/images/manga/1/232887.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ミリオネアの償い

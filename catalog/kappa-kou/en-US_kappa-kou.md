@@ -1,5 +1,7 @@
 # Kappa-Kou
 
+![kappa-kou](https://cdn.myanimelist.net/images/manga/1/241243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

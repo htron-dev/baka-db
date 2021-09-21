@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Destiny Astray
 
+![mobile-suit-gundam-seed-destiny-astray](https://cdn.myanimelist.net/images/manga/3/14793.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

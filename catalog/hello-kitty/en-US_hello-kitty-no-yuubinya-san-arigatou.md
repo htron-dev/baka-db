@@ -1,5 +1,7 @@
 # Hello Kitty no Yuubinya-san Arigatou
 
+![hello-kitty-no-yuubinya-san-arigatou](https://cdn.myanimelist.net/images/anime/4/47939.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの 郵便屋さんありがとう

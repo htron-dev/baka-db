@@ -1,5 +1,7 @@
 # Kawareta Oujo
 
+![kawareta-oujo](https://cdn.myanimelist.net/images/manga/2/182554.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

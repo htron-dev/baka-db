@@ -1,5 +1,7 @@
 # Inazuma-hime no Kaijuuou
 
+![inazuma-hime-no-kaijuuou](https://cdn.myanimelist.net/images/manga/1/169835.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

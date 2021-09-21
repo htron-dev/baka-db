@@ -1,5 +1,7 @@
 # Kuroi Ame ni Utarete
 
+![kuroi-ame-ni-utarete](https://cdn.myanimelist.net/images/manga/1/166268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

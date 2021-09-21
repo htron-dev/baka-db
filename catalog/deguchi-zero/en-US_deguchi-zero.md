@@ -1,5 +1,7 @@
 # Deguchi Zero
 
+![deguchi-zero](https://cdn.myanimelist.net/images/manga/2/171508.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Ganbarist! Shun
 
+![ganbarist-shun](https://cdn.myanimelist.net/images/anime/6/61711.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: ガンバリスト! 駿

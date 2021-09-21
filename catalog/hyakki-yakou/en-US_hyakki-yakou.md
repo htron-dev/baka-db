@@ -1,5 +1,7 @@
 # Hyakki Yakou
 
+![hyakki-yakou](https://cdn.myanimelist.net/images/manga/3/140849.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

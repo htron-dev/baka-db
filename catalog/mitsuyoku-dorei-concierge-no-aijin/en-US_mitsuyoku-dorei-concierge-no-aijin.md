@@ -1,5 +1,7 @@
 # Mitsuyoku Dorei: Concierge no Aijin
 
+![mitsuyoku-dorei-concierge-no-aijin](https://cdn.myanimelist.net/images/manga/2/128897.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 蜜欲奴隷~コンシェルジュの愛人~

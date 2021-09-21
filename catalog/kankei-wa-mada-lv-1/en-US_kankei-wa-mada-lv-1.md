@@ -1,5 +1,7 @@
 # Kankei wa Mada Lv.1
 
+![kankei-wa-mada-lv-1](https://cdn.myanimelist.net/images/manga/1/172246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

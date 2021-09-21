@@ -1,5 +1,7 @@
 # Full Moon wo Sagashite: Kawaii Kawaii Daibouken
 
+![full-moon-wo-sagashite-kawaii-kawaii-daibouken](https://cdn.myanimelist.net/images/anime/4/16208.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: かわいい かわいい 大冒険

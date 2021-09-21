@@ -1,5 +1,7 @@
 # Kagerou Nostalgia: Shin Shou
 
+![kagerou-nostalgia-shin-shou](https://cdn.myanimelist.net/images/manga/3/208722.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

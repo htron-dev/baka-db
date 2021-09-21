@@ -1,5 +1,7 @@
 # Fushigi na Somera-chan
 
+![fushigi-na-somera-chan](https://cdn.myanimelist.net/images/manga/1/154442.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 不思議なソメラちゃん

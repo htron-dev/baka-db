@@ -1,5 +1,7 @@
 # Foie Gras to Gyuudon
 
+![foie-gras-to-gyuudon](https://cdn.myanimelist.net/images/manga/2/226914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

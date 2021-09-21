@@ -1,5 +1,7 @@
 # Danshiryou 301 Goushitsu no Renai Flag
 
+![danshiryou-301-goushitsu-no-renai-flag](https://cdn.myanimelist.net/images/manga/3/101595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

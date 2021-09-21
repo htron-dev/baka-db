@@ -1,5 +1,7 @@
 # Harenchi Gakuen - The Company
 
+![harenchi-gakuen-the-company](https://cdn.myanimelist.net/images/manga/2/17808.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ハレンチ学園~ザ・カンパニー

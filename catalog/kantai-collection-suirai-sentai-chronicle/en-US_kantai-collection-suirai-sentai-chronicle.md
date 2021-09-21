@@ -1,5 +1,7 @@
 # Kantai Collection: Suirai Sentai Chronicle
 
+![kantai-collection-suirai-sentai-chronicle](https://cdn.myanimelist.net/images/manga/2/160552.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

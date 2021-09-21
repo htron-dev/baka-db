@@ -1,5 +1,7 @@
 # Inu to Hasami wa Tsukaiyou
 
+![inu-to-hasami-wa-tsukaiyou](https://cdn.myanimelist.net/images/manga/2/172692.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 79

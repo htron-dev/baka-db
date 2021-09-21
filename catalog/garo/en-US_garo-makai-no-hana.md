@@ -1,5 +1,7 @@
 # Garo: Makai no Hana
 
+![garo-makai-no-hana](https://cdn.myanimelist.net/images/manga/3/173361.jpg)
+
 -   **type**: manga
 -   **original-name**: 牙狼〈GARO〉－魔戒ノ花－
 -   **start-date**: 2014-12-26

@@ -1,5 +1,7 @@
 # Disney's Magical Dance!!
 
+![disneys-magical-dance](https://cdn.myanimelist.net/images/manga/1/197012.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Escape Speed
 
+![escape-speed](https://cdn.myanimelist.net/images/manga/1/176397.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: エスケヱプ・スピヰド

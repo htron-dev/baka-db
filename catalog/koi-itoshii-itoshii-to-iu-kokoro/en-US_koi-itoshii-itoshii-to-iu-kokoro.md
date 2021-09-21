@@ -1,5 +1,7 @@
 # Koi. - Itoshii Itoshii to Iu Kokoro
 
+![koi-itoshii-itoshii-to-iu-kokoro](https://cdn.myanimelist.net/images/manga/2/88107.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 戀。 [いとしい いとしい というこころ。]

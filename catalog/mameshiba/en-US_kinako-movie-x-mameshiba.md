@@ -1,5 +1,7 @@
 # "Kinako" Movie x Mameshiba
 
+![kinako-movie-x-mameshiba](https://cdn.myanimelist.net/images/anime/6/85893.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 映画『きな子』× 豆しば

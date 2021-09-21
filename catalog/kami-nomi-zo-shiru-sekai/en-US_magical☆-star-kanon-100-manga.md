@@ -1,5 +1,7 @@
 # Magical☆Star Kanon 100%
 
+![magical☆-star-kanon-100](https://cdn.myanimelist.net/images/manga/3/88467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

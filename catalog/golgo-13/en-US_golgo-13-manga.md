@@ -1,5 +1,7 @@
 # Golgo 13
 
+![golgo-13](https://cdn.myanimelist.net/images/manga/3/157750.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴルゴ 13
 -   **start-date**: 1968-11-29

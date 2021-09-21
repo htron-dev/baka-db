@@ -1,5 +1,7 @@
 # Maou-sama, Retry!
 
+![maou-sama-retry](https://cdn.myanimelist.net/images/manga/3/219798.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

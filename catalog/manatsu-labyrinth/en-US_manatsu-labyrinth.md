@@ -1,5 +1,7 @@
 # Manatsu Labyrinth
 
+![manatsu-labyrinth](https://cdn.myanimelist.net/images/manga/1/72117.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: まなつラビリンス

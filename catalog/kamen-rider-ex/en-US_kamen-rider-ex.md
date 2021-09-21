@@ -1,5 +1,7 @@
 # Kamen Rider EX
 
+![kamen-rider-ex](https://cdn.myanimelist.net/images/manga/3/23852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Magatsu Wahrheit: Zuerst
 
+![magatsu-wahrheit-zuerst](https://cdn.myanimelist.net/images/anime/1109/108983.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 禍つヴァールハイト -ZUERST-

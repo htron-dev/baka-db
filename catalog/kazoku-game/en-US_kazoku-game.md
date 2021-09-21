@@ -1,5 +1,7 @@
 # Kazoku Game
 
+![kazoku-game](https://cdn.myanimelist.net/images/manga/1/146689.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 114

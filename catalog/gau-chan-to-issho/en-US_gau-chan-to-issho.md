@@ -1,5 +1,7 @@
 # Gau-chan to Issho
 
+![gau-chan-to-issho](https://cdn.myanimelist.net/images/manga/3/208246.jpg)
+
 -   **type**: manga
 -   **original-name**: ガウちゃんといっしょ
 -   **start-date**: 2017-09-05

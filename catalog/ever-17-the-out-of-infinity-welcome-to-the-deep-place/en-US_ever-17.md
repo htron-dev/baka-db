@@ -1,5 +1,7 @@
 # Ever 17
 
+![ever-17](https://cdn.myanimelist.net/images/manga/2/117895.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

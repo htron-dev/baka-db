@@ -1,5 +1,7 @@
 # Detective Conan Movie 14: The Lost Ship in the Sky
 
+![detective-conan-movie-14-the-lost-ship-in-the-sky](https://cdn.myanimelist.net/images/anime/7/22312.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 天空の難破船

@@ -1,5 +1,7 @@
 # Kaien no Bell de Oyasumi
 
+![kaien-no-bell-de-oyasumi](https://cdn.myanimelist.net/images/manga/3/217673.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

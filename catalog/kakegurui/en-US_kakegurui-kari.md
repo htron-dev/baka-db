@@ -1,5 +1,7 @@
 # Kakegurui (Kari)
 
+![kakegurui-kari](https://cdn.myanimelist.net/images/manga/2/197426.jpg)
+
 -   **type**: manga
 -   **original-name**: 賭ケグルイ（仮）
 -   **start-date**: 2016-12-22

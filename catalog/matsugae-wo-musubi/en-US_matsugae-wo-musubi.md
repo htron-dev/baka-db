@@ -1,5 +1,7 @@
 # Matsugae wo Musubi
 
+![matsugae-wo-musubi](https://cdn.myanimelist.net/images/anime/1135/101498.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 松が枝を結び

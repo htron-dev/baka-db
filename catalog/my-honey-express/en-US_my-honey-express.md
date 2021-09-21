@@ -1,5 +1,7 @@
 # My Honey Express
 
+![my-honey-express](https://cdn.myanimelist.net/images/manga/1/134821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

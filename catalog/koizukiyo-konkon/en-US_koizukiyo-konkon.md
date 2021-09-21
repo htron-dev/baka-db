@@ -1,5 +1,7 @@
 # Koizukiyo, Konkon
 
+![koizukiyo-konkon](https://cdn.myanimelist.net/images/manga/3/240761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋月夜、こんこん

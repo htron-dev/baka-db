@@ -1,5 +1,7 @@
 # Makaze ga Fuku
 
+![makaze-ga-fuku](https://cdn.myanimelist.net/images/manga/3/223158.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

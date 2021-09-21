@@ -1,5 +1,7 @@
 # Madan no Ou to Vanadis
 
+![madan-no-ou-to-vanadis](https://cdn.myanimelist.net/images/manga/3/168316.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 51

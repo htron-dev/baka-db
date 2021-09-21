@@ -1,5 +1,7 @@
 # Doubutsu Tonarigumi
 
+![doubutsu-tonarigumi](https://cdn.myanimelist.net/images/anime/2/69583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動物となり組

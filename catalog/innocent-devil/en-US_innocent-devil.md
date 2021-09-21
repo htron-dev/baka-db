@@ -1,5 +1,7 @@
 # Innocent Devil
 
+![innocent-devil](https://cdn.myanimelist.net/images/manga/3/196131.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

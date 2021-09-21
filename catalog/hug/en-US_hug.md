@@ -1,5 +1,7 @@
 # Hug!
 
+![hug](https://cdn.myanimelist.net/images/manga/1/179776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

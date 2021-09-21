@@ -1,5 +1,7 @@
 # Mannaka no Rikkun
 
+![mannaka-no-rikkun](https://cdn.myanimelist.net/images/manga/1/199899.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

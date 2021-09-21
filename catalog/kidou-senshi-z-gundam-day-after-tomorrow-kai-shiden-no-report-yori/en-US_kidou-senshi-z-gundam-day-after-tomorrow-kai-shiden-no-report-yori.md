@@ -1,5 +1,7 @@
 # Kidou Senshi Z Gundam: Day After Tomorrow - Kai Shiden no Report yori
 
+![kidou-senshi-z-gundam-day-after-tomorrow-kai-shiden-no-report-yori](https://cdn.myanimelist.net/images/manga/2/189610.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

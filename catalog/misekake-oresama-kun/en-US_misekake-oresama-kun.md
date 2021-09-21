@@ -1,5 +1,7 @@
 # Misekake Oresama-kun
 
+![misekake-oresama-kun](https://cdn.myanimelist.net/images/manga/3/231110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

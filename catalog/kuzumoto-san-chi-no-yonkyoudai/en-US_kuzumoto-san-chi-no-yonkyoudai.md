@@ -1,5 +1,7 @@
 # Kuzumoto-san Chi no Yonkyoudai
 
+![kuzumoto-san-chi-no-yonkyoudai](https://cdn.myanimelist.net/images/manga/2/21273.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

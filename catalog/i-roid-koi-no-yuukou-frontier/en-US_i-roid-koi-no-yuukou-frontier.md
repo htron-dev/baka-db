@@ -1,5 +1,7 @@
 # IRoid: Koi no Yuukou Frontier
 
+![i-roid-koi-no-yuukou-frontier](https://cdn.myanimelist.net/images/anime/3/88278.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: IRroid 　恋の有効フロンティア

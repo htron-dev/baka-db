@@ -1,5 +1,7 @@
 # Les Misérables: Shoujo Cosette
 
+![les-miserables-shoujo-cosette](https://cdn.myanimelist.net/images/anime/1/1695.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: レ・ミゼラブル 少女コゼット

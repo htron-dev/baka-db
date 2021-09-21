@@ -1,5 +1,7 @@
 # Ichabod no Seikatsu
 
+![ichabod-no-seikatsu](https://cdn.myanimelist.net/images/manga/3/138181.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

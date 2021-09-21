@@ -1,5 +1,7 @@
 # Heroine Hajimemashita.
 
+![heroine-hajimemashita](https://cdn.myanimelist.net/images/manga/1/217708.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

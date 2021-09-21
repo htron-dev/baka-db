@@ -1,5 +1,7 @@
 # Honoo no Mirage: Muyou no Michi
 
+![honoo-no-mirage-muyou-no-michi](https://cdn.myanimelist.net/images/anime/1837/102586.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 総集編 霧杳の途

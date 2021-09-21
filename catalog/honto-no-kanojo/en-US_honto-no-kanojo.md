@@ -1,5 +1,7 @@
 # Honto no Kanojo
 
+![honto-no-kanojo](https://cdn.myanimelist.net/images/manga/1/159269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

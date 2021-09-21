@@ -1,5 +1,7 @@
 # Good-by Marilyn
 
+![good-by-marilyn](https://cdn.myanimelist.net/images/anime/8/72107.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Good-by Marilyn

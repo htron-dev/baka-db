@@ -1,5 +1,7 @@
 # Fetiple
 
+![fetiple](https://cdn.myanimelist.net/images/manga/3/219848.jpg)
+
 -   **type**: manga
 -   **original-name**: フェチップル
 -   **start-date**: 2018-08-25

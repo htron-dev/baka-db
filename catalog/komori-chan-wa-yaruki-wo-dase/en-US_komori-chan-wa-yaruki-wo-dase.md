@@ -1,5 +1,7 @@
 # Komori-chan wa Yaruki wo Dase
 
+![komori-chan-wa-yaruki-wo-dase](https://cdn.myanimelist.net/images/manga/2/136233.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 91

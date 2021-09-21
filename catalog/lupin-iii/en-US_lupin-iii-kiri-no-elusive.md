@@ -1,5 +1,7 @@
 # Lupin III: Kiri no Elusive
 
+![lupin-iii-kiri-no-elusive](https://cdn.myanimelist.net/images/anime/6/34793.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 霧のエリューシヴ

@@ -1,5 +1,7 @@
 # Hello Kitty no Kieta Santa-san no Okurimono
 
+![hello-kitty-no-kieta-santa-san-no-okurimono](https://cdn.myanimelist.net/images/anime/12/50215.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのきえたサンタさんのおくりもの

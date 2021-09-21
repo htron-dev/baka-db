@@ -1,5 +1,7 @@
 # Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru
 
+![shinchou-yuusha-kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru](https://cdn.myanimelist.net/images/anime/1715/103419.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 慎重勇者 ～この勇者が俺 TUEEE くせに慎重すぎる～

@@ -1,5 +1,7 @@
 # Fighting☆Witch
 
+![fighting☆-witch](https://cdn.myanimelist.net/images/manga/2/164824.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ファイティング ☆ ウィッチ

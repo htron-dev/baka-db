@@ -1,5 +1,7 @@
 # Isekai wa Smartphone to Tomo ni.
 
+![isekai-wa-smartphone-to-tomo-ni](https://cdn.myanimelist.net/images/anime/7/86794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異世界はスマートフォンとともに。

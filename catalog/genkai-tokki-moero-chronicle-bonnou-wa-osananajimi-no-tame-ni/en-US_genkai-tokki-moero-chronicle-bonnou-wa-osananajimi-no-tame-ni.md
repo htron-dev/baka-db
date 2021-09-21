@@ -1,5 +1,7 @@
 # Genkai Tokki: Moero Chronicle - Bonnou wa Osananajimi no Tame ni...
 
+![genkai-tokki-moero-chronicle-bonnou-wa-osananajimi-no-tame-ni](https://cdn.myanimelist.net/images/manga/3/129235.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 限界凸記 モエロクロニクル -煩悩は幼馴染のために...-

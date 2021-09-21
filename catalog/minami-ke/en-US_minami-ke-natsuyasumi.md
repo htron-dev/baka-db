@@ -1,5 +1,7 @@
 # Minami-ke Natsuyasumi
 
+![minami-ke-natsuyasumi](https://cdn.myanimelist.net/images/anime/5/64505.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みなみけ 夏やすみ

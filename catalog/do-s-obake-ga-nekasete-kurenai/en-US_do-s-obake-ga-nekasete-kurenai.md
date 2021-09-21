@@ -1,5 +1,7 @@
 # Do S Obake ga Nekasete Kurenai
 
+![do-s-obake-ga-nekasete-kurenai](https://cdn.myanimelist.net/images/manga/1/219545.jpg)
+
 -   **type**: manga
 -   **original-name**: ド S おばけが寝かせてくれない
 -   **start-date**: 2015-06-30

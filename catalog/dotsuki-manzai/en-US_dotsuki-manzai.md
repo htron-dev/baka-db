@@ -1,5 +1,7 @@
 # Dotsuki Manzai
 
+![dotsuki-manzai](https://cdn.myanimelist.net/images/manga/2/65035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

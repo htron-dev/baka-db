@@ -1,5 +1,7 @@
 # Kuro Ouji no Iinari ni Naranai!
 
+![kuro-ouji-no-iinari-ni-naranai](https://cdn.myanimelist.net/images/manga/3/216417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

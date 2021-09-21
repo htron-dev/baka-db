@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing
 
+![shin-kidou-senki-gundam-wing](https://cdn.myanimelist.net/images/manga/1/6310.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

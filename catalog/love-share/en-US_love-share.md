@@ -1,5 +1,7 @@
 # Love Share
 
+![love-share](https://cdn.myanimelist.net/images/manga/2/39742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

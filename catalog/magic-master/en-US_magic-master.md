@@ -1,5 +1,7 @@
 # Magic Master
 
+![magic-master](https://cdn.myanimelist.net/images/manga/3/96741.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 53

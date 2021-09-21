@@ -1,5 +1,7 @@
 # Kanami Ikuseichuu!
 
+![kanami-ikuseichuu](https://cdn.myanimelist.net/images/manga/3/226382.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 46

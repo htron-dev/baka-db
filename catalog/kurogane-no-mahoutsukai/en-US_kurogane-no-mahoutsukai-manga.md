@@ -1,5 +1,7 @@
 # Kurogane no Mahoutsukai
 
+![kurogane-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/235190.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒鉄の魔法使い
 -   **start-date**: 2019-09-26

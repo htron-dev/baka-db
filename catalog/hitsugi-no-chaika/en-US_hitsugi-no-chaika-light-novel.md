@@ -1,5 +1,7 @@
 # Hitsugi no Chaika
 
+![hitsugi-no-chaika](https://cdn.myanimelist.net/images/manga/1/118449.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 60

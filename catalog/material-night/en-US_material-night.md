@@ -1,5 +1,7 @@
 # Material Night
 
+![material-night](https://cdn.myanimelist.net/images/manga/3/162674.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Kawaruwayo
 
+![kawaruwayo](https://cdn.myanimelist.net/images/manga/2/35348.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 変わるわよッ ☆

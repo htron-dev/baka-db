@@ -1,5 +1,7 @@
 # Futago no Oyaji
 
+![futago-no-oyaji](https://cdn.myanimelist.net/images/manga/1/167206.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

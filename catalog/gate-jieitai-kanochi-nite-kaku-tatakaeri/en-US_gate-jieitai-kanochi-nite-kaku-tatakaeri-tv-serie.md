@@ -1,5 +1,7 @@
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 
+![gate-jieitai-kanochi-nite-kaku-tatakaeri](https://cdn.myanimelist.net/images/anime/8/76222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GATE（ゲート）自衛隊　彼の地にて、斯く戦えり

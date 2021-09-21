@@ -1,5 +1,7 @@
 # Hyakuren no Haou to Seiyaku no Valkyria
 
+![hyakuren-no-haou-to-seiyaku-no-valkyria](https://cdn.myanimelist.net/images/anime/1585/95225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 百錬の覇王と聖約の戦乙女〈ヴァルキュリア〉

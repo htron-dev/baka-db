@@ -1,5 +1,7 @@
 # Mouretsu Pirates: Abyss of Hyperspace
 
+![mouretsu-pirates-abyss-of-hyperspace](https://cdn.myanimelist.net/images/manga/3/161607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

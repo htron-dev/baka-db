@@ -1,5 +1,7 @@
 # Kimi wa Koi wo Shiranai
 
+![kimi-wa-koi-wo-shiranai](https://cdn.myanimelist.net/images/manga/1/227021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

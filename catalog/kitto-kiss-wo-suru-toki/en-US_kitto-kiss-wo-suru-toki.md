@@ -1,5 +1,7 @@
 # Kitto Kiss wo Suru Toki
 
+![kitto-kiss-wo-suru-toki](https://cdn.myanimelist.net/images/manga/2/189902.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

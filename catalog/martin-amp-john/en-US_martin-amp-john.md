@@ -1,5 +1,7 @@
 # Martin &amp; John
 
+![martin-amp-john](https://cdn.myanimelist.net/images/manga/5/62723.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 마틴&존

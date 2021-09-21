@@ -1,5 +1,7 @@
 # Demi Life!
 
+![demi-life](https://cdn.myanimelist.net/images/manga/1/201035.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Kimi no Kachi
 
+![kimi-no-kachi](https://cdn.myanimelist.net/images/manga/2/17725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

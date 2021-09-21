@@ -1,5 +1,7 @@
 # Kyousou Giga
 
+![kyousou-giga](https://cdn.myanimelist.net/images/anime/6/61947.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 京騒戯画

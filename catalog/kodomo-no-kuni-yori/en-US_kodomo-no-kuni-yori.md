@@ -1,5 +1,7 @@
 # Kodomo no Kuni yori
 
+![kodomo-no-kuni-yori](https://cdn.myanimelist.net/images/manga/3/233790.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

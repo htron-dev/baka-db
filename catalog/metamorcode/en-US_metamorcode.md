@@ -1,5 +1,7 @@
 # Metamorcode
 
+![metamorcode](https://cdn.myanimelist.net/images/manga/3/78371.jpg)
+
 -   **type**: manga
 -   **original-name**: メタモルコード
 -   **start-date**: 2012-08-10

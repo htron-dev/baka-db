@@ -1,5 +1,7 @@
 # Junjou de Tajou na Kankei
 
+![junjou-de-tajou-na-kankei](https://cdn.myanimelist.net/images/manga/1/153391.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 純情で多情な関係

@@ -1,5 +1,7 @@
 # Hinata to Mikasa
 
+![hinata-to-mikasa](https://cdn.myanimelist.net/images/manga/2/246512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

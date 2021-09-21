@@ -1,5 +1,7 @@
 # Koi, Kakueki Teisha
 
+![koi-kakueki-teisha](https://cdn.myanimelist.net/images/manga/3/136411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

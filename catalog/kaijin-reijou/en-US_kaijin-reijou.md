@@ -1,5 +1,7 @@
 # Kaijin Reijou
 
+![kaijin-reijou](https://cdn.myanimelist.net/images/manga/1/236450.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪人麗嬢
 -   **start-date**: 2018-04-21

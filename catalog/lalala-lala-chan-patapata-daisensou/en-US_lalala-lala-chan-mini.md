@@ -1,5 +1,7 @@
 # Lalala Lala-chan Mini
 
+![lalala-lala-chan-mini](https://cdn.myanimelist.net/images/anime/11/88332.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: ラララ ララちゃんミニ

@@ -1,5 +1,7 @@
 # Doku ni mo Naranai Propose
 
+![doku-ni-mo-naranai-propose](https://cdn.myanimelist.net/images/manga/2/225069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

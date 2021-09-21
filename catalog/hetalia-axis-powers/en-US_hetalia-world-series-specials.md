@@ -1,5 +1,7 @@
 # Hetalia World Series Specials
 
+![hetalia-world-series-specials](https://cdn.myanimelist.net/images/anime/13/28864.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ヘタリア World Series エクストラエピソード

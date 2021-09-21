@@ -1,5 +1,7 @@
 # Gakkou no Yuurei
 
+![gakkou-no-yuurei](https://cdn.myanimelist.net/images/anime/12/54087.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 学校の幽霊

@@ -1,5 +1,7 @@
 # Gokiburi Taisou
 
+![gokiburi-taisou](https://cdn.myanimelist.net/images/anime/5/87363.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ゴキブリ体操

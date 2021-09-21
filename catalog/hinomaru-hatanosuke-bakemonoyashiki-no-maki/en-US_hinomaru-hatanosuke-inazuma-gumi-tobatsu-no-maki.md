@@ -1,5 +1,7 @@
 # Hinomaru Hatanosuke: Inazuma-gumi Tobatsu no Maki
 
+![hinomaru-hatanosuke-inazuma-gumi-tobatsu-no-maki](https://cdn.myanimelist.net/images/anime/5/15833.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 日の丸旗之助～稲妻組討伐の巻～

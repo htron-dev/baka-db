@@ -1,5 +1,7 @@
 # Escape Drop
 
+![escape-drop](https://cdn.myanimelist.net/images/manga/1/221931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

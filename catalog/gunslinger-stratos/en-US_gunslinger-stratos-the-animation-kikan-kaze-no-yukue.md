@@ -1,5 +1,7 @@
 # Gunslinger Stratos The Animation: Kikan/Kaze no Yukue
 
+![gunslinger-stratos-the-animation-kikan-kaze-no-yukue](https://cdn.myanimelist.net/images/anime/3/74745.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ガンスリンガー ストラトス -THE ANIMATION- 帰還／風の行方

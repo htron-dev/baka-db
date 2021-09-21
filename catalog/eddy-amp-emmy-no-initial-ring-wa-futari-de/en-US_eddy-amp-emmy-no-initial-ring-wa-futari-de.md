@@ -1,5 +1,7 @@
 # Eddy &amp; Emmy no Initial Ring wa Futari de
 
+![eddy-amp-emmy-no-initial-ring-wa-futari-de](https://cdn.myanimelist.net/images/anime/8/84568.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エディ&エミィのイニシャルリングは 2 人で

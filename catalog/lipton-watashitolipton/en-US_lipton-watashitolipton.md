@@ -1,5 +1,7 @@
 # Lipton #watashitolipton
 
+![lipton-watashitolipton](https://cdn.myanimelist.net/images/anime/1932/93214.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: Lipton(リプトン) #わたしとリプトン

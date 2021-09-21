@@ -1,5 +1,7 @@
 # Jungle King
 
+![jungle-king](https://cdn.myanimelist.net/images/manga/3/156914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

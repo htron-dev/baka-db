@@ -1,5 +1,7 @@
 # Lilim Kiss
 
+![lilim-kiss](https://cdn.myanimelist.net/images/manga/2/53199.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

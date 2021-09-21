@@ -1,5 +1,7 @@
 # Miku-4
 
+![miku-4](https://cdn.myanimelist.net/images/manga/2/229506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

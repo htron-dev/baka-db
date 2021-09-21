@@ -1,5 +1,7 @@
 # Dare ni Mo Ienai
 
+![dare-ni-mo-ienai](https://cdn.myanimelist.net/images/manga/3/36871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: だれにもいえない

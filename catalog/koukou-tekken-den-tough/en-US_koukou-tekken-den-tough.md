@@ -1,5 +1,7 @@
 # Koukou Tekken-den Tough
 
+![koukou-tekken-den-tough](https://cdn.myanimelist.net/images/anime/10/3786.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 高校鉄拳伝　タフ

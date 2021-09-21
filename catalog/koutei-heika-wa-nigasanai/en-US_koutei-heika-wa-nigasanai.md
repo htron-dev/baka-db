@@ -1,5 +1,7 @@
 # Koutei Heika wa Nigasanai
 
+![koutei-heika-wa-nigasanai](https://cdn.myanimelist.net/images/manga/1/185923.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

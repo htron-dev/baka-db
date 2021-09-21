@@ -1,5 +1,7 @@
 # Kimi to Koi wo Shitta
 
+![kimi-to-koi-wo-shitta](https://cdn.myanimelist.net/images/manga/2/42486.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

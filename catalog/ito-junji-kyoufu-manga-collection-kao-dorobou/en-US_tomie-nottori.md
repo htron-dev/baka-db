@@ -1,5 +1,7 @@
 # Tomie: Nottori
 
+![tomie-nottori](https://cdn.myanimelist.net/images/manga/3/233732.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 富江・乗っ取り

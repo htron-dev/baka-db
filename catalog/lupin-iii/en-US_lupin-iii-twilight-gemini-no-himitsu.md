@@ -1,5 +1,7 @@
 # Lupin III: Twilight Gemini no Himitsu
 
+![lupin-iii-twilight-gemini-no-himitsu](https://cdn.myanimelist.net/images/anime/1190/97706.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『トワイライト ☆ ジェミニの秘密』

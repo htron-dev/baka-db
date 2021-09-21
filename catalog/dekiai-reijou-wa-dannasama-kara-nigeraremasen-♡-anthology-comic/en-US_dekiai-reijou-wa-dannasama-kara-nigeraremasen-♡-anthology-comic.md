@@ -1,5 +1,7 @@
 # Dekiai Reijou wa Dannasama kara Nigeraremasen...! ♡ Anthology Comic
 
+![dekiai-reijou-wa-dannasama-kara-nigeraremasen-♡-anthology-comic](https://cdn.myanimelist.net/images/manga/1/239355.jpg)
+
 -   **type**: manga
 -   **original-name**: 溺愛令嬢は旦那さまから逃げられません…っ ♡ アンソロジーコミック
 -   **start-date**: 2020-08-24

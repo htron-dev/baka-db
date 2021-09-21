@@ -1,5 +1,7 @@
 # Kami no Kora no Regret
 
+![kami-no-kora-no-regret](https://cdn.myanimelist.net/images/manga/1/246819.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

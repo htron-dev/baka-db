@@ -1,5 +1,7 @@
 # Kiss wa Hajimari no Aizu
 
+![kiss-wa-hajimari-no-aizu](https://cdn.myanimelist.net/images/manga/2/130257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キスは始まりの合図

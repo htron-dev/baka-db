@@ -1,5 +1,7 @@
 # Isekai Cheat Survival Meshi: Tabete, Tsuyoku Natte, Mata Taberu
 
+![isekai-cheat-survival-meshi-tabete-tsuyoku-natte-mata-taberu](https://cdn.myanimelist.net/images/manga/3/217485.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界チートサバイバル飯 食べて、強くなって、また食べる
 -   **start-date**: 2018-03-20

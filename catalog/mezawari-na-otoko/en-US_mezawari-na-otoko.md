@@ -1,5 +1,7 @@
 # Mezawari na Otoko
 
+![mezawari-na-otoko](https://cdn.myanimelist.net/images/manga/1/59917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 目障りな男

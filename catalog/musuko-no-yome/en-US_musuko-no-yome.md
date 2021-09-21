@@ -1,5 +1,7 @@
 # Musuko no Yome
 
+![musuko-no-yome](https://cdn.myanimelist.net/images/manga/2/132221.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 57

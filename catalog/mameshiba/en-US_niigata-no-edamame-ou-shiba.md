@@ -1,5 +1,7 @@
 # Niigata no Edamame-ou Shiba
 
+![niigata-no-edamame-ou-shiba](https://cdn.myanimelist.net/images/anime/1351/100490.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 新潟の枝豆王しば

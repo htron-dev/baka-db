@@ -1,5 +1,7 @@
 # Doraemon Meets Hattori the Ninja
 
+![doraemon-meets-hattori-the-ninja](https://cdn.myanimelist.net/images/anime/4/16720.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 82 お正月だよ！ドラえもん・怪物くん・忍者ハットリくん

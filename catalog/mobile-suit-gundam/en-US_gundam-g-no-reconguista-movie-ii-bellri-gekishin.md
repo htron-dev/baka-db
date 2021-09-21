@@ -1,5 +1,7 @@
 # Gundam: G no Reconguista Movie II - Bellri Gekishin
 
+![gundam-g-no-reconguista-movie-ii-bellri-gekishin](https://cdn.myanimelist.net/images/anime/1200/106157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ガンダム Ｇのレコンギスタ Ⅱ ベルリ 撃進

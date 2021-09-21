@@ -1,5 +1,7 @@
 # Mari Iyagi
 
+![mari-iyagi](https://cdn.myanimelist.net/images/anime/1/2276.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 마리 이야기 (korean)

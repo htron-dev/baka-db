@@ -1,5 +1,7 @@
 # Links
 
+![links](https://cdn.myanimelist.net/images/manga/1/151303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

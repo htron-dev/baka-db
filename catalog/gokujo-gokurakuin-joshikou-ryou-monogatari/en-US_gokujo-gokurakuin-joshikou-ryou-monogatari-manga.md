@@ -1,5 +1,7 @@
 # Gokujo.: Gokurakuin Joshikou Ryou Monogatari
 
+![gokujo-gokurakuin-joshikou-ryou-monogatari](https://cdn.myanimelist.net/images/manga/1/178410.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 99

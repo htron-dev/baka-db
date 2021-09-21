@@ -1,5 +1,7 @@
 # Dread-noT: Osoreshirazu no Obake Yashiki
 
+![dread-no-t-osoreshirazu-no-obake-yashiki](https://cdn.myanimelist.net/images/manga/2/202588.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

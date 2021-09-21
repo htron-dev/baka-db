@@ -1,5 +1,7 @@
 # Doodooma
 
+![doodooma](https://cdn.myanimelist.net/images/manga/2/157472.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

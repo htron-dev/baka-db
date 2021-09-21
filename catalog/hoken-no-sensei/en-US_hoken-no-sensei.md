@@ -1,5 +1,7 @@
 # Hoken no Sensei
 
+![hoken-no-sensei](https://cdn.myanimelist.net/images/manga/2/65585.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

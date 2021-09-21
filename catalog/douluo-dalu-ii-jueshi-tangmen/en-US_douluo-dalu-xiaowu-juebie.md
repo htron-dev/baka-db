@@ -1,5 +1,7 @@
 # Douluo Dalu: Xiaowu Juebie
 
+![douluo-dalu-xiaowu-juebie](https://cdn.myanimelist.net/images/anime/1424/113993.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 小舞诀别

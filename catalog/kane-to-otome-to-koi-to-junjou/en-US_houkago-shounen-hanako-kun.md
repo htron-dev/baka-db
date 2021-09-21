@@ -1,5 +1,7 @@
 # Houkago Shounen Hanako-kun
 
+![houkago-shounen-hanako-kun](https://cdn.myanimelist.net/images/manga/3/222371.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後少年花子くん
 -   **start-date**: 2018-02-22

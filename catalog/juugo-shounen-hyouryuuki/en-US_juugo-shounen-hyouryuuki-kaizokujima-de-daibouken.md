@@ -1,5 +1,7 @@
 # Juugo Shounen Hyouryuuki: Kaizokujima de! Daibouken
 
+![juugo-shounen-hyouryuuki-kaizokujima-de-daibouken](https://cdn.myanimelist.net/images/anime/5/55483.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 十五少年漂流記 海賊島 DE！大冒険

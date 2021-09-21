@@ -1,5 +1,7 @@
 # Koisuru Otome ni wa Tsukimono desu.
 
+![koisuru-otome-ni-wa-tsukimono-desu](https://cdn.myanimelist.net/images/manga/3/200579.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 恋するオトメには憑きものです。

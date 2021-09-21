@@ -1,5 +1,7 @@
 # Ikebukuro West Gate Park
 
+![ikebukuro-west-gate-park](https://cdn.myanimelist.net/images/anime/1277/108376.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 池袋ウエストゲートパーク

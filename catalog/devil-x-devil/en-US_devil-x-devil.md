@@ -1,5 +1,7 @@
 # Devil x Devil
 
+![devil-x-devil](https://cdn.myanimelist.net/images/manga/2/33240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

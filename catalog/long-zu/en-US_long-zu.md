@@ -1,5 +1,7 @@
 # Long Zu
 
+![long-zu](https://cdn.myanimelist.net/images/anime/1161/110783.jpg)
+
 -   **type**: ona
 -   **original-name**: 龙族
 -   **rating**: None

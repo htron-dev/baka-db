@@ -1,5 +1,7 @@
 # Kuroneko Series
 
+![kuroneko-series](https://cdn.myanimelist.net/images/manga/2/189491.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 黒猫シリーズ

@@ -1,5 +1,7 @@
 # Kashoku no Shiro
 
+![kashoku-no-shiro](https://cdn.myanimelist.net/images/manga/1/248203.jpg)
+
 -   **type**: manga
 -   **original-name**: 花燭の白
 -   **start-date**: 2019-12-28

@@ -1,5 +1,7 @@
 # Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha
 
+![mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha](https://cdn.myanimelist.net/images/anime/7/89331.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: モブサイコ 100 REIGEN ～知られざる奇跡の霊能力者～

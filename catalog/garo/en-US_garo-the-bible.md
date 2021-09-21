@@ -1,5 +1,7 @@
 # Garo: The Bible
 
+![garo-the-bible](https://cdn.myanimelist.net/images/manga/1/149347.jpg)
+
 -   **type**: manga
 -   **original-name**: 牙狼－GARO the BIBLE－
 -   **start-date**: 2014-12-26

@@ -1,5 +1,7 @@
 # Ginshi no Mahoushiki
 
+![ginshi-no-mahoushiki](https://cdn.myanimelist.net/images/manga/1/127541.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 銀糸の魔法式

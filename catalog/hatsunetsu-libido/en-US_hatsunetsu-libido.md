@@ -1,5 +1,7 @@
 # Hatsunetsu Libido
 
+![hatsunetsu-libido](https://cdn.myanimelist.net/images/manga/1/222551.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

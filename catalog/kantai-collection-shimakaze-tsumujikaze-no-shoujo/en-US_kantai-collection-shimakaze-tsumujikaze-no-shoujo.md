@@ -1,5 +1,7 @@
 # Kantai Collection: Shimakaze Tsumujikaze no Shoujo
 
+![kantai-collection-shimakaze-tsumujikaze-no-shoujo](https://cdn.myanimelist.net/images/manga/2/164274.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

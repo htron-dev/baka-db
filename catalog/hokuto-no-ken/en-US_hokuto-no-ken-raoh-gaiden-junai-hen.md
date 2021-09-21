@@ -1,5 +1,7 @@
 # Hokuto no Ken: Raoh Gaiden Junai-hen
 
+![hokuto-no-ken-raoh-gaiden-junai-hen](https://cdn.myanimelist.net/images/anime/9/77314.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 真救世主伝説 北斗の拳 ラオウ伝 殉愛の章

@@ -1,5 +1,7 @@
 # Gadirok
 
+![gadirok](https://cdn.myanimelist.net/images/manga/2/16911.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 가디록

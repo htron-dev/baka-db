@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's Mini Picture Drama
 
+![mahou-shoujo-lyrical-nanoha-the-movie-2nd-as-mini-picture-drama](https://cdn.myanimelist.net/images/anime/13/83502.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 魔法少女リリカルなのは The MOVIE 2nd A's ミニピクチャードラマ

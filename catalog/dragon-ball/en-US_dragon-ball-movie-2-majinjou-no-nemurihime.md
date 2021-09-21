@@ -1,5 +1,7 @@
 # Dragon Ball Movie 2: Majinjou no Nemurihime
 
+![dragon-ball-movie-2-majinjou-no-nemurihime](https://cdn.myanimelist.net/images/anime/1285/90340.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール 魔神城のねむり姫

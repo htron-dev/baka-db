@@ -1,5 +1,7 @@
 # Lupin III (2015)
 
+![lupin-iii-2015](https://cdn.myanimelist.net/images/manga/2/171362.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

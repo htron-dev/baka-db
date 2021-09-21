@@ -1,5 +1,7 @@
 # Doll-Kara
 
+![doll-kara](https://cdn.myanimelist.net/images/manga/2/206014.jpg)
+
 -   **type**: manga
 -   **original-name**: どるから
 -   **start-date**: 2017-04-28

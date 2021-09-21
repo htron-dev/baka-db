@@ -1,5 +1,7 @@
 # Kinjo no JK ni Shoukan sareta
 
+![kinjo-no-jk-ni-shoukan-sareta](https://cdn.myanimelist.net/images/manga/1/241323.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

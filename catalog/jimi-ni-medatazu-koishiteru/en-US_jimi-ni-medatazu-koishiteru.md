@@ -1,5 +1,7 @@
 # Jimi ni, Medatazu, Koishiteru.
 
+![jimi-ni-medatazu-koishiteru](https://cdn.myanimelist.net/images/manga/1/192975.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

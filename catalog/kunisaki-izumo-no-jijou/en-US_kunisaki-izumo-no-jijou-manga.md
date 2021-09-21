@@ -1,5 +1,7 @@
 # Kunisaki Izumo no Jijou
 
+![kunisaki-izumo-no-jijou](https://cdn.myanimelist.net/images/manga/3/58173.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 190

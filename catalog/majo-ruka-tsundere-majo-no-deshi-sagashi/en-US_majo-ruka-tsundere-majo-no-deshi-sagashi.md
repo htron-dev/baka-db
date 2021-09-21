@@ -1,5 +1,7 @@
 # Majo Ruka! Tsundere Majo no Deshi Sagashi
 
+![majo-ruka-tsundere-majo-no-deshi-sagashi](https://cdn.myanimelist.net/images/manga/3/169762.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

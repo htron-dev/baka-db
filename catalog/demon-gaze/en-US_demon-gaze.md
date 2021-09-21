@@ -1,5 +1,7 @@
 # Demon Gaze
 
+![demon-gaze](https://cdn.myanimelist.net/images/manga/1/164741.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

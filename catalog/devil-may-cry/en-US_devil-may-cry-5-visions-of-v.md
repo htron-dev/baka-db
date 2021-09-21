@@ -1,5 +1,7 @@
 # Devil May Cry 5: Visions of V
 
+![devil-may-cry-5-visions-of-v](https://cdn.myanimelist.net/images/manga/1/223950.jpg)
+
 -   **type**: manga
 -   **original-name**: Devil May Cry 5 -Visions of V-
 -   **start-date**: 2019-11-15

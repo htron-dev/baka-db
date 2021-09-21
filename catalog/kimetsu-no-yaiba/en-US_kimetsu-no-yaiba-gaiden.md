@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba Gaiden
 
+![kimetsu-no-yaiba-gaiden](https://cdn.myanimelist.net/images/manga/3/238006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

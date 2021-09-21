@@ -1,5 +1,7 @@
 # Grisaia no Rakuen Specials
 
+![grisaia-no-rakuen-specials](https://cdn.myanimelist.net/images/anime/10/75439.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: グリザイアの楽園

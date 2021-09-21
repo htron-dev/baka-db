@@ -1,5 +1,7 @@
 # Iida Tanaka Sakashita
 
+![iida-tanaka-sakashita](https://cdn.myanimelist.net/images/manga/2/66015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 飯田田中坂下

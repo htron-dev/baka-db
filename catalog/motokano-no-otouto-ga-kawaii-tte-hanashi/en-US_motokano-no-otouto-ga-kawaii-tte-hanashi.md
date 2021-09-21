@@ -1,5 +1,7 @@
 # Motokano no Otouto ga Kawaii tte Hanashi
 
+![motokano-no-otouto-ga-kawaii-tte-hanashi](https://cdn.myanimelist.net/images/manga/2/238095.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 62

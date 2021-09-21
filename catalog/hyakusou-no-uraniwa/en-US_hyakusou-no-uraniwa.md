@@ -1,5 +1,7 @@
 # Hyakusou no Uraniwa
 
+![hyakusou-no-uraniwa](https://cdn.myanimelist.net/images/manga/1/245629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

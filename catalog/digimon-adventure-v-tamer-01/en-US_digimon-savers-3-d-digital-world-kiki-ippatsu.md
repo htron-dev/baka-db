@@ -1,5 +1,7 @@
 # Digimon Savers 3D: Digital World Kiki Ippatsu!
 
+![digimon-savers-3-d-digital-world-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/13/22648.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンセイバーズ 3D デジタルワールド危機イッパツ！

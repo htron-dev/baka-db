@@ -1,5 +1,7 @@
 # Hinmin Choujin Kanenashi-kun
 
+![hinmin-choujin-kanenashi-kun](https://cdn.myanimelist.net/images/manga/1/199106.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 44

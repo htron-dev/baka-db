@@ -1,5 +1,7 @@
 # Mori no Naka Shoten Tsurezure
 
+![mori-no-naka-shoten-tsurezure](https://cdn.myanimelist.net/images/manga/2/193296.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kagami no Kojou
 
+![kagami-no-kojou](https://cdn.myanimelist.net/images/manga/1/224997.jpg)
+
 -   **type**: manga
 -   **original-name**: かがみの孤城
 -   **start-date**: 2019-06-19

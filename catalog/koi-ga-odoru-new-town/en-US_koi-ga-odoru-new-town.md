@@ -1,5 +1,7 @@
 # Koi ga Odoru New Town
 
+![koi-ga-odoru-new-town](https://cdn.myanimelist.net/images/manga/2/162341.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋が踊るニュータウン
 -   **start-date**: 2015-02-23

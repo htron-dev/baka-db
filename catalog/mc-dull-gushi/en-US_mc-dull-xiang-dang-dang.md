@@ -1,5 +1,7 @@
 # McDull: Xiang Dang Dang
 
+![mc-dull-xiang-dang-dang](https://cdn.myanimelist.net/images/anime/1162/112735.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 麥兜響噹噹

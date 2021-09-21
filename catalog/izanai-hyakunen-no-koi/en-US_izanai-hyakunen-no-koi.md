@@ -1,5 +1,7 @@
 # Izanai: Hyakunen no Koi
 
+![izanai-hyakunen-no-koi](https://cdn.myanimelist.net/images/manga/1/71231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

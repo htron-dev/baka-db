@@ -1,5 +1,7 @@
 # Midnight Dog Show
 
+![midnight-dog-show](https://cdn.myanimelist.net/images/manga/2/87739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Ichigo Ouji
 
+![ichigo-ouji](https://cdn.myanimelist.net/images/manga/2/25090.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 苺王子

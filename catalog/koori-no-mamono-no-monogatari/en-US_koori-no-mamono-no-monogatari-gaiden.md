@@ -1,5 +1,7 @@
 # Koori no Mamono no Monogatari Gaiden
 
+![koori-no-mamono-no-monogatari-gaiden](https://cdn.myanimelist.net/images/manga/1/8580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

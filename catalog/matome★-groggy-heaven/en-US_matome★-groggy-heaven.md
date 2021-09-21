@@ -1,5 +1,7 @@
 # Matome★Groggy Heaven
 
+![matome★-groggy-heaven](https://cdn.myanimelist.net/images/manga/3/170473.jpg)
+
 -   **type**: manga
 -   **original-name**: まとめ ★ グロッキーヘブン
 -   **start-date**: 2015-01-28

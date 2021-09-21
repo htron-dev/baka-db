@@ -1,5 +1,7 @@
 # Ki ga Au to Iu Koto wa
 
+![ki-ga-au-to-iu-koto-wa](https://cdn.myanimelist.net/images/manga/2/172797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

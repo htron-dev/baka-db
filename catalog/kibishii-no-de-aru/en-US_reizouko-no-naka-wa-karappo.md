@@ -1,5 +1,7 @@
 # Reizouko no Naka wa Karappo
 
+![reizouko-no-naka-wa-karappo](https://cdn.myanimelist.net/images/manga/3/238761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

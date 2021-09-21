@@ -1,5 +1,7 @@
 # JK Kunoichi wa Subete wo Sasagetai
 
+![jk-kunoichi-wa-subete-wo-sasagetai](https://cdn.myanimelist.net/images/manga/1/244276.jpg)
+
 -   **type**: manga
 -   **original-name**: JK くのいちは全てを捧げたい
 -   **start-date**: 2019-08-17

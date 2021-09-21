@@ -1,5 +1,7 @@
 # Junk Boy
 
+![junk-boy](https://cdn.myanimelist.net/images/manga/1/211886.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 205

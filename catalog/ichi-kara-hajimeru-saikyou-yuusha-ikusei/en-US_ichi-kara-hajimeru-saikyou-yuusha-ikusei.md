@@ -1,5 +1,7 @@
 # Ichi kara Hajimeru Saikyou Yuusha Ikusei
 
+![ichi-kara-hajimeru-saikyou-yuusha-ikusei](https://cdn.myanimelist.net/images/manga/3/176585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

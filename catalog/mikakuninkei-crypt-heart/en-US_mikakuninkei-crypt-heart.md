@@ -1,5 +1,7 @@
 # Mikakuninkei Crypt Heart
 
+![mikakuninkei-crypt-heart](https://cdn.myanimelist.net/images/manga/3/170631.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

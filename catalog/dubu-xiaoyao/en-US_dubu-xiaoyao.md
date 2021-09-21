@@ -1,5 +1,7 @@
 # Dubu Xiaoyao
 
+![dubu-xiaoyao](https://cdn.myanimelist.net/images/anime/1429/108132.jpg)
+
 -   **type**: ona
 -   **episodes**: 160
 -   **original-name**: 独步逍遥

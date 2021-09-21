@@ -1,5 +1,7 @@
 # Koisuru Futari no Mitsu na Yarikata
 
+![koisuru-futari-no-mitsu-na-yarikata](https://cdn.myanimelist.net/images/manga/5/14727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋するふたりの蜜なやりかた

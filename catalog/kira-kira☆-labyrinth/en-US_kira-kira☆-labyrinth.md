@@ -1,5 +1,7 @@
 # Kira Kira☆Labyrinth
 
+![kira-kira☆-labyrinth](https://cdn.myanimelist.net/images/manga/1/121083.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: きらきら ☆ 迷宮〈ラビリンス〉

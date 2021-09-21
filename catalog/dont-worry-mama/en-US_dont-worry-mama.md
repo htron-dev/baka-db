@@ -1,5 +1,7 @@
 # Don't Worry Mama
 
+![dont-worry-mama](https://cdn.myanimelist.net/images/manga/1/32388.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

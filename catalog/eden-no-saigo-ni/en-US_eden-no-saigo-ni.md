@@ -1,5 +1,7 @@
 # Eden no Saigo ni
 
+![eden-no-saigo-ni](https://cdn.myanimelist.net/images/manga/2/130699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

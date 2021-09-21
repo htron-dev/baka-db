@@ -1,5 +1,7 @@
 # Legend of Lemnear
 
+![legend-of-lemnear](https://cdn.myanimelist.net/images/manga/2/5606.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

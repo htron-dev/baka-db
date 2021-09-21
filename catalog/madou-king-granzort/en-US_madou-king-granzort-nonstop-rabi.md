@@ -1,5 +1,7 @@
 # Madou King Granzort: Nonstop Rabi
 
+![madou-king-granzort-nonstop-rabi](https://cdn.myanimelist.net/images/anime/13/74291.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔動王グランゾート ノン・ストップ・ラビ

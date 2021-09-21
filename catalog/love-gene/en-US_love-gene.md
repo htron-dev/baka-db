@@ -1,5 +1,7 @@
 # Love Gene!
 
+![love-gene](https://cdn.myanimelist.net/images/manga/1/125083.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: らぶジェネ!

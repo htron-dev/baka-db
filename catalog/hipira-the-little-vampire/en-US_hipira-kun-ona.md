@@ -1,5 +1,7 @@
 # Hipira-kun ONA
 
+![hipira-kun-ona](https://cdn.myanimelist.net/images/anime/11/59993.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ヒピラくん

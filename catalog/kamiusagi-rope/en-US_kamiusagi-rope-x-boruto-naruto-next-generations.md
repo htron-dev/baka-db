@@ -1,5 +1,7 @@
 # Kamiusagi Rope x Boruto: Naruto Next Generations
 
+![kamiusagi-rope-x-boruto-naruto-next-generations](https://cdn.myanimelist.net/images/anime/3/88377.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「紙兎ロぺ」×「BORUTO-ボルト- NARUTO NEXT 　 GENERATIONS」

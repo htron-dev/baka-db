@@ -1,5 +1,7 @@
 # Gi(a)rlish Number Shura
 
+![gi-a-rlish-number-shura](https://cdn.myanimelist.net/images/manga/3/192606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガーリッシュ ナンバー 修羅

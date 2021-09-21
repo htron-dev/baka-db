@@ -1,5 +1,7 @@
 # Magical Chef Shoujo Shizuru
 
+![magical-chef-shoujo-shizuru](https://cdn.myanimelist.net/images/manga/3/159809.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

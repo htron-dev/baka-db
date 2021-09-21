@@ -1,5 +1,7 @@
 # Hajimete no Armageddon☆
 
+![hajimete-no-armageddon☆](https://cdn.myanimelist.net/images/manga/1/164083.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

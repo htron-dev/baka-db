@@ -1,5 +1,7 @@
 # Douse, Mero Mero
 
+![douse-mero-mero](https://cdn.myanimelist.net/images/manga/2/5903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

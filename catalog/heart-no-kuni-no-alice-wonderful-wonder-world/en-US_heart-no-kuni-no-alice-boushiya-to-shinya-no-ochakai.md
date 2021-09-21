@@ -1,5 +1,7 @@
 # Heart no Kuni no Alice: Boushiya to Shinya no Ochakai
 
+![heart-no-kuni-no-alice-boushiya-to-shinya-no-ochakai](https://cdn.myanimelist.net/images/manga/2/38209.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

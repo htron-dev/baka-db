@@ -1,5 +1,7 @@
 # Mansou Futou no Distopia
 
+![mansou-futou-no-distopia](https://cdn.myanimelist.net/images/manga/2/210436.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

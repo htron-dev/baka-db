@@ -1,5 +1,7 @@
 # Koibito Scramble
 
+![koibito-scramble](https://cdn.myanimelist.net/images/manga/2/65789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

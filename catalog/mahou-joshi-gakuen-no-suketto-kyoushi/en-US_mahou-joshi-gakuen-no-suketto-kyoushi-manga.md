@@ -1,5 +1,7 @@
 # Mahou Joshi Gakuen no Suketto Kyoushi
 
+![mahou-joshi-gakuen-no-suketto-kyoushi](https://cdn.myanimelist.net/images/manga/3/237489.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

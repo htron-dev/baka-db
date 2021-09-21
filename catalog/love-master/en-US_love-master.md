@@ -1,5 +1,7 @@
 # Love Master
 
+![love-master](https://cdn.myanimelist.net/images/manga/3/2948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

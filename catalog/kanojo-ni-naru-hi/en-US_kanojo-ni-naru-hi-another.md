@@ -1,5 +1,7 @@
 # Kanojo ni Naru Hi: Another
 
+![kanojo-ni-naru-hi-another](https://cdn.myanimelist.net/images/manga/1/184545.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

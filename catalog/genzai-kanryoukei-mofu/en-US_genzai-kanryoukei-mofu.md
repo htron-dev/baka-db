@@ -1,5 +1,7 @@
 # Genzai Kanryoukei Mofu
 
+![genzai-kanryoukei-mofu](https://cdn.myanimelist.net/images/manga/1/30666.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 78

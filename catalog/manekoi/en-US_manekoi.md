@@ -1,5 +1,7 @@
 # Manekoi
 
+![manekoi](https://cdn.myanimelist.net/images/manga/2/65613.jpg)
+
 -   **type**: manga
 -   **original-name**: まねこい
 -   **start-date**: 2009-11-12

@@ -1,5 +1,7 @@
 # Larva Island
 
+![larva-island](https://cdn.myanimelist.net/images/anime/1289/95175.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 라바 아일랜드

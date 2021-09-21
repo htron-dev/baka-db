@@ -1,5 +1,7 @@
 # Ichiban Chikaku ni
 
+![ichiban-chikaku-ni](https://cdn.myanimelist.net/images/anime/9/74514.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いちばん近くに

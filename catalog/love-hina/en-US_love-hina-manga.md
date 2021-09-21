@@ -1,5 +1,7 @@
 # Love Hina
 
+![love-hina](https://cdn.myanimelist.net/images/manga/2/52139.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 120

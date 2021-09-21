@@ -1,5 +1,7 @@
 # Junai Tokkou Taichou!
 
+![junai-tokkou-taichou](https://cdn.myanimelist.net/images/manga/1/204996.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 53

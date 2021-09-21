@@ -1,5 +1,7 @@
 # Kenta Yarimasu!
 
+![kenta-yarimasu](https://cdn.myanimelist.net/images/manga/1/154848.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 245

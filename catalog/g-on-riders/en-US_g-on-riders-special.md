@@ -1,5 +1,7 @@
 # G-On Riders Special
 
+![g-on-riders-special](https://cdn.myanimelist.net/images/anime/2/63413.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: G-on らいだーす

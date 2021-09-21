@@ -1,5 +1,7 @@
 # Isu
 
+![isu](https://cdn.myanimelist.net/images/anime/12/70441.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 椅子

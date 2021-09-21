@@ -1,5 +1,7 @@
 # Miira no Kaikata
 
+![miira-no-kaikata](https://cdn.myanimelist.net/images/anime/1486/93811.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ミイラの飼い方

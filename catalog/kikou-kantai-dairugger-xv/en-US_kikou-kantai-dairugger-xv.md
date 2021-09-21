@@ -1,5 +1,7 @@
 # Kikou Kantai Dairugger XV
 
+![kikou-kantai-dairugger-xv](https://cdn.myanimelist.net/images/anime/3/6136.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 機甲艦隊ダイラガー XV

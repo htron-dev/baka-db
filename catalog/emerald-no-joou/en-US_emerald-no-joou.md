@@ -1,5 +1,7 @@
 # Emerald no Joou
 
+![emerald-no-joou](https://cdn.myanimelist.net/images/manga/3/206634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エメラルドの女王

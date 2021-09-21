@@ -1,5 +1,7 @@
 # Koimonogatari
 
+![koimonogatari](https://cdn.myanimelist.net/images/manga/2/211855.jpg)
+
 -   **type**: manga
 -   **original-name**: こいものがたり
 -   **start-date**: 2013-05-22

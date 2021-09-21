@@ -1,5 +1,7 @@
 # Keiyaku no Kiss: Daifugou to Kizoku Reijou
 
+![keiyaku-no-kiss-daifugou-to-kizoku-reijou](https://cdn.myanimelist.net/images/manga/1/153326.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

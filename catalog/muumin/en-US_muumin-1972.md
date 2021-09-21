@@ -1,5 +1,7 @@
 # Muumin (1972)
 
+![muumin-1972](https://cdn.myanimelist.net/images/anime/5/47155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ムーミン

@@ -1,5 +1,7 @@
 # Konkatsu Hime to 16-sai no Ouji
 
+![konkatsu-hime-to-16-sai-no-ouji](https://cdn.myanimelist.net/images/manga/3/215858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

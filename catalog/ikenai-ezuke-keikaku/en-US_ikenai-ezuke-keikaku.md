@@ -1,5 +1,7 @@
 # Ikenai Ezuke Keikaku
 
+![ikenai-ezuke-keikaku](https://cdn.myanimelist.net/images/manga/2/39226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # From End: Jiyuu to Iu Na no Mousou to Satsui
 
+![from-end-jiyuu-to-iu-na-no-mousou-to-satsui](https://cdn.myanimelist.net/images/manga/2/203293.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

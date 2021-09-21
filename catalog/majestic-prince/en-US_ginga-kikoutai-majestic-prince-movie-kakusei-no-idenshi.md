@@ -1,5 +1,7 @@
 # Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi
 
+![ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi](https://cdn.myanimelist.net/images/anime/4/82164.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 銀河機攻隊 マジェスティックプリンス 覚醒の遺伝子

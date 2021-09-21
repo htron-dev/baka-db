@@ -1,5 +1,7 @@
 # Miageru to Kimi wa
 
+![miageru-to-kimi-wa](https://cdn.myanimelist.net/images/manga/2/219457.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

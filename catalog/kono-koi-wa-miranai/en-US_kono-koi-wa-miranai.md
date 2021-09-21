@@ -1,5 +1,7 @@
 # Kono Koi wa Miranai
 
+![kono-koi-wa-miranai](https://cdn.myanimelist.net/images/manga/3/37142.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: この恋は実らない

@@ -1,5 +1,7 @@
 # Mushishi Tokubetsu-hen: Hihamukage
 
+![mushishi-tokubetsu-hen-hihamukage](https://cdn.myanimelist.net/images/manga/2/123403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

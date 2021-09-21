@@ -1,5 +1,7 @@
 # Kishibe no Uta
 
+![kishibe-no-uta](https://cdn.myanimelist.net/images/manga/1/76173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

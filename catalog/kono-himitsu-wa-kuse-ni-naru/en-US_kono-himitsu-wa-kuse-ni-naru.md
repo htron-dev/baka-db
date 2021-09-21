@@ -1,5 +1,7 @@
 # Kono Himitsu wa Kuse ni Naru
 
+![kono-himitsu-wa-kuse-ni-naru](https://cdn.myanimelist.net/images/manga/2/82812.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

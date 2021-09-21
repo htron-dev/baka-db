@@ -1,5 +1,7 @@
 # Konya, Tsuma ga Okasaremasu.
 
+![konya-tsuma-ga-okasaremasu](https://cdn.myanimelist.net/images/manga/1/193848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Inoderansuu
 
+![inoderansuu](https://cdn.myanimelist.net/images/manga/2/37313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Kamikuu no Ex Machina
 
+![kamikuu-no-ex-machina](https://cdn.myanimelist.net/images/manga/3/162716.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

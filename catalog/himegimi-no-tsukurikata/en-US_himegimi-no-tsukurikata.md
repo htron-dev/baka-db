@@ -1,5 +1,7 @@
 # Himegimi no Tsukurikata
 
+![himegimi-no-tsukurikata](https://cdn.myanimelist.net/images/manga/3/83322.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

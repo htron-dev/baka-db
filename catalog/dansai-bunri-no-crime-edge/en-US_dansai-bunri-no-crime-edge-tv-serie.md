@@ -1,5 +1,7 @@
 # Dansai Bunri no Crime Edge
 
+![dansai-bunri-no-crime-edge](https://cdn.myanimelist.net/images/anime/10/52137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 断裁分離のクライムエッジ

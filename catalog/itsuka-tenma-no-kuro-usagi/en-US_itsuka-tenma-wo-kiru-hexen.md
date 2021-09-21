@@ -1,5 +1,7 @@
 # Itsuka Tenma wo Kiru Hexen
 
+![itsuka-tenma-wo-kiru-hexen](https://cdn.myanimelist.net/images/manga/3/105581.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

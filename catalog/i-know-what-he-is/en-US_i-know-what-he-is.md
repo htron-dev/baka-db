@@ -1,5 +1,7 @@
 # I Know What He Is
 
+![i-know-what-he-is](https://cdn.myanimelist.net/images/manga/2/26320.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 나는 그 남자가 누구인지 알고 있다

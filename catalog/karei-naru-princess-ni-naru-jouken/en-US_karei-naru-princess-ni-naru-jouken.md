@@ -1,5 +1,7 @@
 # Karei naru Princess ni Naru Jouken
 
+![karei-naru-princess-ni-naru-jouken](https://cdn.myanimelist.net/images/manga/1/187010.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Koi wo Suru DNA +
 
+![koi-wo-suru-dna](https://cdn.myanimelist.net/images/manga/2/29537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

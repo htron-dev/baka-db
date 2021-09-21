@@ -1,5 +1,7 @@
 # Kurusu Alice wa Cool de Itai
 
+![kurusu-alice-wa-cool-de-itai](https://cdn.myanimelist.net/images/manga/3/237402.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

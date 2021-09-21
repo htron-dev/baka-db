@@ -1,5 +1,7 @@
 # Geo Mecha: Captain Dino
 
+![geo-mecha-captain-dino](https://cdn.myanimelist.net/images/anime/1684/115252.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 지오메카 캡틴다이노

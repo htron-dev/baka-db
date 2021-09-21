@@ -1,5 +1,7 @@
 # Hulaing Babies Petit
 
+![hulaing-babies-petit](https://cdn.myanimelist.net/images/anime/1454/104460.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フライングベイビーズ ☆ プチ

@@ -1,5 +1,7 @@
 # Ginga Tetsudou no Yoru
 
+![ginga-tetsudou-no-yoru](https://cdn.myanimelist.net/images/anime/6/64861.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道の夜

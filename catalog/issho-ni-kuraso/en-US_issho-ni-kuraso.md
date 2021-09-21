@@ -1,5 +1,7 @@
 # Issho ni Kuraso.
 
+![issho-ni-kuraso](https://cdn.myanimelist.net/images/manga/3/36587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

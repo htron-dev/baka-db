@@ -1,5 +1,7 @@
 # Hadou no Mon
 
+![hadou-no-mon](https://cdn.myanimelist.net/images/manga/1/44709.jpg)
+
 -   **type**: manga
 -   **original-name**: 破道の門
 -   **start-date**: 2008-09-22

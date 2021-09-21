@@ -1,5 +1,7 @@
 # GetBackers
 
+![get-backers](https://cdn.myanimelist.net/images/anime/4/7547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ゲットバッカーズ　奪還屋

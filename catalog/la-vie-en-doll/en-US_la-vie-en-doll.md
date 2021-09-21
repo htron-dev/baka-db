@@ -1,5 +1,7 @@
 # La Vie en Doll
 
+![la-vie-en-doll](https://cdn.myanimelist.net/images/manga/1/111107.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Gunshi wa Nandemo Shitteiru
 
+![gunshi-wa-nandemo-shitteiru](https://cdn.myanimelist.net/images/manga/3/161913.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 軍師は何でも知っている
 -   **start-date**: 2014-07-30

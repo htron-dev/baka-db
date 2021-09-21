@@ -1,5 +1,7 @@
 # Maou no Shimobe ga Arawareta!
 
+![maou-no-shimobe-ga-arawareta](https://cdn.myanimelist.net/images/manga/3/164586.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 魔王のしもべがあらわれた！

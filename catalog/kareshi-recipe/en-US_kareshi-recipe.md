@@ -1,5 +1,7 @@
 # Kareshi Recipe
 
+![kareshi-recipe](https://cdn.myanimelist.net/images/manga/3/181961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

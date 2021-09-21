@@ -1,5 +1,7 @@
 # Hada no Ue no Renai Jijou
 
+![hada-no-ue-no-renai-jijou](https://cdn.myanimelist.net/images/manga/2/25521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

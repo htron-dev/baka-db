@@ -1,5 +1,7 @@
 # Inazuma Eleven: Reloaded - Soccer no Henkaku
 
+![inazuma-eleven-reloaded-soccer-no-henkaku](https://cdn.myanimelist.net/images/anime/1044/96960.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: イナズマイレブン リローデッド ～サッカーの変革へんかく～

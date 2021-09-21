@@ -1,5 +1,7 @@
 # Gesui yo! Hanamura-san
 
+![gesui-yo-hanamura-san](https://cdn.myanimelist.net/images/manga/2/192479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

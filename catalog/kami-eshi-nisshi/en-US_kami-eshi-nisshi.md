@@ -1,5 +1,7 @@
 # Kami Eshi Nisshi
 
+![kami-eshi-nisshi](https://cdn.myanimelist.net/images/manga/2/171381.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

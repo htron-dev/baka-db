@@ -1,5 +1,7 @@
 # Konya mo Hitori de Nemurenai
 
+![konya-mo-hitori-de-nemurenai](https://cdn.myanimelist.net/images/manga/1/6359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

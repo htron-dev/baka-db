@@ -1,5 +1,7 @@
 # Ginpei Hankachou
 
+![ginpei-hankachou](https://cdn.myanimelist.net/images/manga/2/215291.jpg)
+
 -   **type**: manga
 -   **original-name**: 銀平飯科帳
 -   **start-date**: 2015-02-13

@@ -1,5 +1,7 @@
 # Koukyuu Kisaki no Kanrinin
 
+![koukyuu-kisaki-no-kanrinin](https://cdn.myanimelist.net/images/manga/2/234758.jpg)
+
 -   **type**: manga
 -   **original-name**: 後宮妃の管理人
 -   **start-date**: 2020-02-10

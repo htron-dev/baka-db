@@ -1,5 +1,7 @@
 # Kagen no Tsukiyo no Monogatari
 
+![kagen-no-tsukiyo-no-monogatari](https://cdn.myanimelist.net/images/manga/3/24870.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

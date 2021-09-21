@@ -1,5 +1,7 @@
 # Dr. Slump Movie 06: Arale-chan N-cha! Penguin Mura wa Hare Nochi Hare
 
+![dr-slump-movie-06-arale-chan-n-cha-penguin-mura-wa-hare-nochi-hare](https://cdn.myanimelist.net/images/anime/9/19007.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dr.スランプ アラレちゃん んちゃ!ペンギン村はハレのち晴れ

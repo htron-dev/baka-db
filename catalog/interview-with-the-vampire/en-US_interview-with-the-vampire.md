@@ -1,5 +1,7 @@
 # Interview with the Vampire
 
+![interview-with-the-vampire](https://cdn.myanimelist.net/images/manga/1/11720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni - Dai 2-wa: Watanagashi-hen
 
+![higurashi-no-naku-koro-ni-dai-2-wa-watanagashi-hen](https://cdn.myanimelist.net/images/manga/1/134167.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

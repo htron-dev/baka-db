@@ -1,5 +1,7 @@
 # Fushi no Kami: Henkyou kara Hajimeru Bunmei Saiseiki
 
+![fushi-no-kami-henkyou-kara-hajimeru-bunmei-saiseiki](https://cdn.myanimelist.net/images/manga/1/241137.jpg)
+
 -   **type**: light-novel
 -   **original-name**: フシノカミ～辺境から始める文明再生記～
 -   **start-date**: 2019-11-25

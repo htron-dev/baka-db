@@ -1,5 +1,7 @@
 # Hagure Yuusha no Aesthetica
 
+![hagure-yuusha-no-aesthetica](https://cdn.myanimelist.net/images/anime/9/74047.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はぐれ勇者の鬼畜美学〈エステティカ〉

@@ -1,5 +1,7 @@
 # Moukin-chan
 
+![moukin-chan](https://cdn.myanimelist.net/images/manga/3/160059.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 71

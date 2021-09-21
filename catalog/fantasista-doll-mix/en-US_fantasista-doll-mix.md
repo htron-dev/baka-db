@@ -1,5 +1,7 @@
 # Fantasista Doll Mix
 
+![fantasista-doll-mix](https://cdn.myanimelist.net/images/manga/2/148015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

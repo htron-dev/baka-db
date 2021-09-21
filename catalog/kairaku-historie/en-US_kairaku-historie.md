@@ -1,5 +1,7 @@
 # Kairaku Historie
 
+![kairaku-historie](https://cdn.myanimelist.net/images/manga/3/228523.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 31

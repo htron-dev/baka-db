@@ -1,5 +1,7 @@
 # Giga Tribe
 
+![giga-tribe](https://cdn.myanimelist.net/images/anime/12/52321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 기가 트라이브

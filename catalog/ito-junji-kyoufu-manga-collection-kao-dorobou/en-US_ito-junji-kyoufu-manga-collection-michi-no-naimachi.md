@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Michi no Naimachi
 
+![ito-junji-kyoufu-manga-collection-michi-no-naimachi](https://cdn.myanimelist.net/images/manga/5/185882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

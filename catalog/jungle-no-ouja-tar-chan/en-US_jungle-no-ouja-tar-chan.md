@@ -1,5 +1,7 @@
 # Jungle no Ouja Tar-chan
 
+![jungle-no-ouja-tar-chan](https://cdn.myanimelist.net/images/manga/1/37638.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 112

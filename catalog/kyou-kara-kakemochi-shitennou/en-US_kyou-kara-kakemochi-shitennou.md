@@ -1,5 +1,7 @@
 # Kyou kara Kakemochi Shitennou!
 
+![kyou-kara-kakemochi-shitennou](https://cdn.myanimelist.net/images/manga/1/160754.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 今日からかけもち四天王!

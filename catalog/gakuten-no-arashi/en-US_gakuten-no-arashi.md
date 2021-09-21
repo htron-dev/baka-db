@@ -1,5 +1,7 @@
 # Gakuten no Arashi
 
+![gakuten-no-arashi](https://cdn.myanimelist.net/images/manga/1/170066.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 学天の嵐

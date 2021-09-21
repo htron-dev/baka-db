@@ -1,5 +1,7 @@
 # Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai
 
+![mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai](https://cdn.myanimelist.net/images/manga/2/239210.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
 -   **start-date**: 2019-07-10

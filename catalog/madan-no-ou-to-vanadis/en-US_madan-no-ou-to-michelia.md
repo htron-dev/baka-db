@@ -1,5 +1,7 @@
 # Madan no Ou to Michelia
 
+![madan-no-ou-to-michelia](https://cdn.myanimelist.net/images/manga/2/245722.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔弾の王と凍漣の雪姫〈ミーチェリア〉
 -   **start-date**: 2018-09-21

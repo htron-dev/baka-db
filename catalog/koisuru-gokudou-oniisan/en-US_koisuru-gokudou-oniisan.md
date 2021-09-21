@@ -1,5 +1,7 @@
 # Koisuru Gokudou Oniisan
 
+![koisuru-gokudou-oniisan](https://cdn.myanimelist.net/images/manga/2/245030.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋する極道おにいさん
 -   **start-date**: 2020-12-20

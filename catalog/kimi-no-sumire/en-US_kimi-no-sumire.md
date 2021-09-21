@@ -1,5 +1,7 @@
 # Kimi no Sumire
 
+![kimi-no-sumire](https://cdn.myanimelist.net/images/manga/2/243265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

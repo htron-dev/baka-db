@@ -1,5 +1,7 @@
 # Days Gaiden
 
+![days-gaiden](https://cdn.myanimelist.net/images/manga/2/199812.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 61

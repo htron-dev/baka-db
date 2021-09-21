@@ -1,5 +1,7 @@
 # Koibito-tachi ga Furu Mado
 
+![koibito-tachi-ga-furu-mado](https://cdn.myanimelist.net/images/manga/3/116791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

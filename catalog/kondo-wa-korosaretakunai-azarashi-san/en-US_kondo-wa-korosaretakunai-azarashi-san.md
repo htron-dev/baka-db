@@ -1,5 +1,7 @@
 # Kondo wa Korosaretakunai Azarashi-san
 
+![kondo-wa-korosaretakunai-azarashi-san](https://cdn.myanimelist.net/images/manga/1/247820.jpg)
+
 -   **type**: manga
 -   **original-name**: 今度は殺されたくないアザラシさん
 -   **start-date**: 2021-02-05

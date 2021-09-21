@@ -1,5 +1,7 @@
 # Hana to Sumi
 
+![hana-to-sumi](https://cdn.myanimelist.net/images/manga/1/234836.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

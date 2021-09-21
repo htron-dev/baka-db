@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou
 
+![cinderella-girls-gekijou](https://cdn.myanimelist.net/images/manga/2/201839.jpg)
+
 -   **type**: manga
 -   **original-name**: シンデレラガールズ劇場
 -   **start-date**: 2012-03-28

@@ -1,5 +1,7 @@
 # Deawanakereba Yokatta no
 
+![deawanakereba-yokatta-no](https://cdn.myanimelist.net/images/manga/3/182279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

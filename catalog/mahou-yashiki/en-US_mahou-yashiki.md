@@ -1,5 +1,7 @@
 # Mahou Yashiki
 
+![mahou-yashiki](https://cdn.myanimelist.net/images/manga/4/175753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔法屋敷

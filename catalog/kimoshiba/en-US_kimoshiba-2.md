@@ -1,5 +1,7 @@
 # Kimoshiba 2
 
+![kimoshiba-2](https://cdn.myanimelist.net/images/anime/10/87009.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: きもしば２

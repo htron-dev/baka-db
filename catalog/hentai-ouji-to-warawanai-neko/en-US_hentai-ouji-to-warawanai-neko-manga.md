@@ -1,5 +1,7 @@
 # Hentai Ouji to Warawanai Neko.
 
+![hentai-ouji-to-warawanai-neko](https://cdn.myanimelist.net/images/manga/3/207423.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 52

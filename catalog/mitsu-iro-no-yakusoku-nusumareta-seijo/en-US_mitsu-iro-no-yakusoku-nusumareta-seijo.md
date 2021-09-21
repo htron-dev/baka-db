@@ -1,5 +1,7 @@
 # Mitsu-iro no Yakusoku: Nusumareta Seijo
 
+![mitsu-iro-no-yakusoku-nusumareta-seijo](https://cdn.myanimelist.net/images/manga/1/192402.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Haru wa Akebono Tsuki mo Nau Sora mo Nao
 
+![haru-wa-akebono-tsuki-mo-nau-sora-mo-nao](https://cdn.myanimelist.net/images/manga/1/182787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

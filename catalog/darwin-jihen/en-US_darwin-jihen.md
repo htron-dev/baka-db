@@ -1,5 +1,7 @@
 # Darwin Jihen
 
+![darwin-jihen](https://cdn.myanimelist.net/images/manga/1/236307.jpg)
+
 -   **type**: manga
 -   **original-name**: ダーウィン事変
 -   **start-date**: 2020-06-25

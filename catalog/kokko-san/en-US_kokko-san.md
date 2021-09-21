@@ -1,5 +1,7 @@
 # Kokko-san
 
+![kokko-san](https://cdn.myanimelist.net/images/manga/2/58983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

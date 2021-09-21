@@ -1,5 +1,7 @@
 # Houkago no Salome
 
+![houkago-no-salome](https://cdn.myanimelist.net/images/manga/2/237064.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後のサロメ
 -   **start-date**: 2020-03-25

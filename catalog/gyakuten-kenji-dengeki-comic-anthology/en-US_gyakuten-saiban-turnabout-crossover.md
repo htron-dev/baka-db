@@ -1,5 +1,7 @@
 # Gyakuten Saiban: Turnabout Crossover
 
+![gyakuten-saiban-turnabout-crossover](https://cdn.myanimelist.net/images/manga/2/7750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

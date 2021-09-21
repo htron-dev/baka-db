@@ -1,5 +1,7 @@
 # Funky Servant
 
+![funky-servant](https://cdn.myanimelist.net/images/manga/2/194163.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

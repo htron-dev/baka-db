@@ -1,5 +1,7 @@
 # Shin Devilman
 
+![shin-devilman](https://cdn.myanimelist.net/images/manga/1/25270.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

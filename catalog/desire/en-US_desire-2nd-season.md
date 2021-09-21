@@ -1,5 +1,7 @@
 # Desire 2nd Season
 
+![desire-2nd-season](https://cdn.myanimelist.net/images/manga/1/131441.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: DESIRE 2nd season

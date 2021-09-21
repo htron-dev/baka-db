@@ -1,5 +1,7 @@
 # 3/16 Jiken
 
+![3-16-jiken](https://cdn.myanimelist.net/images/manga/3/163430.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 3/16 事件

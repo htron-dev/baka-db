@@ -1,5 +1,7 @@
 # Fushigi na Kusuri
 
+![fushigi-na-kusuri](https://cdn.myanimelist.net/images/anime/8/36691.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふしぎなくすり

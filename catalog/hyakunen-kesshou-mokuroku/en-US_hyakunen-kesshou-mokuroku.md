@@ -1,5 +1,7 @@
 # Hyakunen Kesshou Mokuroku
 
+![hyakunen-kesshou-mokuroku](https://cdn.myanimelist.net/images/manga/5/142171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

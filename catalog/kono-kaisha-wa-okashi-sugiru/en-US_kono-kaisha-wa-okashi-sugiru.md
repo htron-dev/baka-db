@@ -1,5 +1,7 @@
 # Kono Kaisha wa Okashi Sugiru!?
 
+![kono-kaisha-wa-okashi-sugiru](https://cdn.myanimelist.net/images/manga/3/115967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

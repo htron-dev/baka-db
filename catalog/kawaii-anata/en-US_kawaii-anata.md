@@ -1,5 +1,7 @@
 # Kawaii Anata
 
+![kawaii-anata](https://cdn.myanimelist.net/images/manga/3/15215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

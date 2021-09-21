@@ -1,5 +1,7 @@
 # Kageki Shoujo!!
 
+![kageki-shoujo](https://cdn.myanimelist.net/images/anime/1944/114427.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: かげきしょうじょ!!

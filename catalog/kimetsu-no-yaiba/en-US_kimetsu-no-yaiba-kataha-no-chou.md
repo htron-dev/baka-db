@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba: Kataha no Chou
 
+![kimetsu-no-yaiba-kataha-no-chou](https://cdn.myanimelist.net/images/manga/1/229953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

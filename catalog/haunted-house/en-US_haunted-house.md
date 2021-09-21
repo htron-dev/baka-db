@@ -1,5 +1,7 @@
 # Haunted House
 
+![haunted-house](https://cdn.myanimelist.net/images/manga/3/102063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

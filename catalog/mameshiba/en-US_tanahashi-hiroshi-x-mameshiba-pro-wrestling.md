@@ -1,5 +1,7 @@
 # Tanahashi Hiroshi X Mameshiba Pro Wrestling
 
+![tanahashi-hiroshi-x-mameshiba-pro-wrestling](https://cdn.myanimelist.net/images/anime/9/80675.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 棚橋弘至 ☓ 豆しばプロレス

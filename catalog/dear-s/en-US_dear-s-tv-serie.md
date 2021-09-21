@@ -1,5 +1,7 @@
 # DearS
 
+![dear-s](https://cdn.myanimelist.net/images/anime/7/23426.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ディアーズ

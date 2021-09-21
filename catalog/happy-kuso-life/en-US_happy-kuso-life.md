@@ -1,5 +1,7 @@
 # Happy Kuso Life
 
+![happy-kuso-life](https://cdn.myanimelist.net/images/manga/3/224844.jpg)
+
 -   **type**: manga
 -   **original-name**: ハッピークソライフ
 -   **start-date**: 2018-09-29

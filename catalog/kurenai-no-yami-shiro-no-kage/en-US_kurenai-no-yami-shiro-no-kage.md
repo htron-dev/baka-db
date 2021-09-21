@@ -1,5 +1,7 @@
 # Kurenai no Yami Shiro no Kage
 
+![kurenai-no-yami-shiro-no-kage](https://cdn.myanimelist.net/images/manga/3/58127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

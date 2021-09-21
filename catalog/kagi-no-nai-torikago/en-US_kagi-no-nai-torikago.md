@@ -1,5 +1,7 @@
 # Kagi no Nai Torikago
 
+![kagi-no-nai-torikago](https://cdn.myanimelist.net/images/manga/5/157368.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 鍵のない鳥籠

@@ -1,5 +1,7 @@
 # Heavenly Executioner Chiwoo
 
+![heavenly-executioner-chiwoo](https://cdn.myanimelist.net/images/manga/2/16665.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 51

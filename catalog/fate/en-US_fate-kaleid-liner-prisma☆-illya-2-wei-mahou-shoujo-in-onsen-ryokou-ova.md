@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou
 
+![fate-kaleid-liner-prisma☆-illya-2-wei-mahou-shoujo-in-onsen-ryokou](https://cdn.myanimelist.net/images/anime/2/76646.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ ツヴァイ! 魔法少女 in 温泉旅行

@@ -1,5 +1,7 @@
 # Isekai Shokudou
 
+![isekai-shokudou](https://cdn.myanimelist.net/images/manga/2/197609.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

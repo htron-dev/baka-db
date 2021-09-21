@@ -1,5 +1,7 @@
 # Dahufa
 
+![dahufa](https://cdn.myanimelist.net/images/anime/7/88604.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大护法

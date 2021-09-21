@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de: Maihitoyo
 
+![harukanaru-toki-no-naka-de-maihitoyo](https://cdn.myanimelist.net/images/anime/3/72170.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 遙かなる時空（とき）の中で 舞一夜（まいひとよ）

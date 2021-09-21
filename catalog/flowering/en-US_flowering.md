@@ -1,5 +1,7 @@
 # Flowering
 
+![flowering](https://cdn.myanimelist.net/images/manga/1/15360.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

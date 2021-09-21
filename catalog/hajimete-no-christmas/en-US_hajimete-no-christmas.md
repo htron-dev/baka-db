@@ -1,5 +1,7 @@
 # Hajimete no Christmas
 
+![hajimete-no-christmas](https://cdn.myanimelist.net/images/anime/8/28220.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はじめてのクリスマス

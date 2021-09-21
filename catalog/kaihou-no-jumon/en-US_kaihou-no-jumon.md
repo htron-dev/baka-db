@@ -1,5 +1,7 @@
 # Kaihou no Jumon
 
+![kaihou-no-jumon](https://cdn.myanimelist.net/images/manga/1/22711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 解放の呪文

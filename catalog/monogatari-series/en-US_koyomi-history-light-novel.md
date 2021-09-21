@@ -1,5 +1,7 @@
 # Koyomi History
 
+![koyomi-history](https://cdn.myanimelist.net/images/manga/2/205801.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: こよみヒストリー

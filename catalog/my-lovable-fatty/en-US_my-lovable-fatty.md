@@ -1,5 +1,7 @@
 # My Lovable Fatty
 
+![my-lovable-fatty](https://cdn.myanimelist.net/images/manga/2/30662.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 25

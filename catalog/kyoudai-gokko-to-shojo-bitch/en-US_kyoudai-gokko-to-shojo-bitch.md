@@ -1,5 +1,7 @@
 # Kyoudai Gokko to Shojo Bitch
 
+![kyoudai-gokko-to-shojo-bitch](https://cdn.myanimelist.net/images/manga/1/246330.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

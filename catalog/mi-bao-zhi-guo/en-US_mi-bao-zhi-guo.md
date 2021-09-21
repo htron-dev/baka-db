@@ -1,5 +1,7 @@
 # Mi Bao Zhi Guo
 
+![mi-bao-zhi-guo](https://cdn.myanimelist.net/images/anime/1449/108024.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 秘宝之国

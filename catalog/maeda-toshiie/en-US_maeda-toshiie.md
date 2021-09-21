@@ -1,5 +1,7 @@
 # Maeda Toshiie
 
+![maeda-toshiie](https://cdn.myanimelist.net/images/manga/2/209489.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

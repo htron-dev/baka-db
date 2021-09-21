@@ -1,5 +1,7 @@
 # Hoshikuzu Empress
 
+![hoshikuzu-empress](https://cdn.myanimelist.net/images/manga/1/162739.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 21

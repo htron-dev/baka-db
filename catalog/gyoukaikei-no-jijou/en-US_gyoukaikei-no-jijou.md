@@ -1,5 +1,7 @@
 # Gyoukaikei no Jijou.
 
+![gyoukaikei-no-jijou](https://cdn.myanimelist.net/images/manga/1/125625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 業界系ノジジョウ。

@@ -1,5 +1,7 @@
 # He's dedicated to Roses
 
+![hes-dedicated-to-roses](https://cdn.myanimelist.net/images/manga/1/18766.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 그놈에게 바치는 장미

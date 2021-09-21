@@ -1,5 +1,7 @@
 # Makura no Danshi
 
+![makura-no-danshi](https://cdn.myanimelist.net/images/anime/11/75142.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 枕男子（まくらのだんし）

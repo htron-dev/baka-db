@@ -1,5 +1,7 @@
 # Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film
 
+![kana-kana-kazoku-x-himitsukessha-taka-no-tsume-collaboration-film](https://cdn.myanimelist.net/images/anime/13/72840.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かなかなかぞく「秘密結社 鷹の爪コラボムービー」

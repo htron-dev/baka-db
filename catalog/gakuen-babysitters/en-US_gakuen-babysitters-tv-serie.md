@@ -1,5 +1,7 @@
 # Gakuen Babysitters
 
+![gakuen-babysitters](https://cdn.myanimelist.net/images/anime/8/89978.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 学園ベビーシッターズ

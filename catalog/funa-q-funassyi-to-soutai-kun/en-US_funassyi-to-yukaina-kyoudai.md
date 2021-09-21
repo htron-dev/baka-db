@@ -1,5 +1,7 @@
 # Funassyi to Yukaina Kyoudai
 
+![funassyi-to-yukaina-kyoudai](https://cdn.myanimelist.net/images/anime/4/73380.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ふなっしーとゆかいな兄弟

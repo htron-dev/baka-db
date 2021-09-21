@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Sengoku Otome - Karakuri Soudou-hen
 
+![hyakka-ryouran-sengoku-otome-karakuri-soudou-hen](https://cdn.myanimelist.net/images/manga/2/222078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

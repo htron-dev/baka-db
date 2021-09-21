@@ -1,5 +1,7 @@
 # Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!
 
+![dragon-ball-ossu-kaettekita-son-gokuu-to-nakama-tachi](https://cdn.myanimelist.net/images/manga/2/178356.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: DRAGONBALL オッス!帰ってきた孫悟空と仲間たち!

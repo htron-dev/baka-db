@@ -1,5 +1,7 @@
 # Mazinkaiser SKL
 
+![mazinkaiser-skl](https://cdn.myanimelist.net/images/anime/13/75427.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: マジンカイザー SKL

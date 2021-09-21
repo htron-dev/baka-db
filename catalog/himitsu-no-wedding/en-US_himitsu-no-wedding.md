@@ -1,5 +1,7 @@
 # Himitsu no Wedding
 
+![himitsu-no-wedding](https://cdn.myanimelist.net/images/manga/2/156384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 秘密のウエディング

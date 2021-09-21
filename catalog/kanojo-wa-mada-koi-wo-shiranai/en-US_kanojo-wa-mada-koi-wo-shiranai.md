@@ -1,5 +1,7 @@
 # Kanojo wa Mada Koi wo Shiranai
 
+![kanojo-wa-mada-koi-wo-shiranai](https://cdn.myanimelist.net/images/manga/1/135041.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Lupin III: Ikiteita Majutsushi
 
+![lupin-iii-ikiteita-majutsushi](https://cdn.myanimelist.net/images/anime/13/27617.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ルパン三世『生きていた魔術師』

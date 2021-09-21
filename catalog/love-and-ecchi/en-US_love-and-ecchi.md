@@ -1,5 +1,7 @@
 # Love and Ecchi
 
+![love-and-ecchi](https://cdn.myanimelist.net/images/manga/1/11641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛ヴァージン

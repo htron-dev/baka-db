@@ -1,5 +1,7 @@
 # Kitarubeki Sekai
 
+![kitarubeki-sekai](https://cdn.myanimelist.net/images/manga/4/155858.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 50

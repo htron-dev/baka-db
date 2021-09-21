@@ -1,5 +1,7 @@
 # Eureka Seven AO: Jungfrau no Hanabana-tachi
 
+![eureka-seven-ao-jungfrau-no-hanabana-tachi](https://cdn.myanimelist.net/images/anime/6/40311.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エウレカセブン AO -ユングフラウの花々たち-

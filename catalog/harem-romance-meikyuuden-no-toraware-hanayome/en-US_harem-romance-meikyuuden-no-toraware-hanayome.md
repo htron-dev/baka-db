@@ -1,5 +1,7 @@
 # Harem Romance: Meikyuuden no Toraware Hanayome
 
+![harem-romance-meikyuuden-no-toraware-hanayome](https://cdn.myanimelist.net/images/manga/3/187009.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

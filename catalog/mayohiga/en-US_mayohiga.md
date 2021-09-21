@@ -1,5 +1,7 @@
 # Mayohiga
 
+![mayohiga](https://cdn.myanimelist.net/images/manga/1/105675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

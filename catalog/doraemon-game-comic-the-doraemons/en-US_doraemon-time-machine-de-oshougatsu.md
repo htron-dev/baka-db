@@ -1,5 +1,7 @@
 # Doraemon: Time Machine de Oshougatsu
 
+![doraemon-time-machine-de-oshougatsu](https://cdn.myanimelist.net/images/anime/1709/92174.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラえもん　タイムマシンでお正月

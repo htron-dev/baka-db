@@ -1,5 +1,7 @@
 # eX-Driver
 
+![e-x-driver](https://cdn.myanimelist.net/images/anime/8/26197.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: エクスドライバー

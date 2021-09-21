@@ -1,5 +1,7 @@
 # Mama wa Shougaku 4 Nensei
 
+![mama-wa-shougaku-4-nensei](https://cdn.myanimelist.net/images/manga/1/3844.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

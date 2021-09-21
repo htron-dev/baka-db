@@ -1,5 +1,7 @@
 # Schwarzesmarken Requiem
 
+![schwarzesmarken-requiem](https://cdn.myanimelist.net/images/manga/1/178053.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

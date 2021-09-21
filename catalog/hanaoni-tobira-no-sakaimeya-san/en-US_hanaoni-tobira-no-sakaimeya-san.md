@@ -1,5 +1,7 @@
 # Hanaoni Tobira no Sakaimeya-san
 
+![hanaoni-tobira-no-sakaimeya-san](https://cdn.myanimelist.net/images/manga/1/164662.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

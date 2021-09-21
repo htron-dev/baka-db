@@ -1,5 +1,7 @@
 # Getsuyoubi no Soratobu Orange.
 
+![getsuyoubi-no-soratobu-orange](https://cdn.myanimelist.net/images/manga/3/186457.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

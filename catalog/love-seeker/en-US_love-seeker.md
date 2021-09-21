@@ -1,5 +1,7 @@
 # Love Seeker
 
+![love-seeker](https://cdn.myanimelist.net/images/manga/1/5915.jpg)
+
 -   **type**: manga
 -   **original-name**: LOVE SEEKER ラブシーカー
 

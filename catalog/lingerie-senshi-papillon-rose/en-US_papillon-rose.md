@@ -1,5 +1,7 @@
 # Papillon Rose
 
+![papillon-rose](https://cdn.myanimelist.net/images/anime/7/21126.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: パピヨンローゼ

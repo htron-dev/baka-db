@@ -1,5 +1,7 @@
 # Death Need Round
 
+![death-need-round](https://cdn.myanimelist.net/images/manga/2/160033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

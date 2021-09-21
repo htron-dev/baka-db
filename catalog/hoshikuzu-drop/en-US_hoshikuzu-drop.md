@@ -1,5 +1,7 @@
 # Hoshikuzu Drop
 
+![hoshikuzu-drop](https://cdn.myanimelist.net/images/manga/3/173309.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

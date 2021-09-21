@@ -1,5 +1,7 @@
 # Gall Force: New Era
 
+![gall-force-new-era](https://cdn.myanimelist.net/images/anime/6/26527.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ガルフォース新世紀編

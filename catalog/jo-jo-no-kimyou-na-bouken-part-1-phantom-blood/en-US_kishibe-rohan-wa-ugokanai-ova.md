@@ -1,5 +1,7 @@
 # Kishibe Rohan wa Ugokanai
 
+![kishibe-rohan-wa-ugokanai](https://cdn.myanimelist.net/images/anime/1716/103072.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 岸辺露伴は動かない

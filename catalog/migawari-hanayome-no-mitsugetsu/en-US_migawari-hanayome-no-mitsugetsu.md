@@ -1,5 +1,7 @@
 # Migawari Hanayome no Mitsugetsu
 
+![migawari-hanayome-no-mitsugetsu](https://cdn.myanimelist.net/images/manga/1/214997.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 身代わり花嫁の蜜月

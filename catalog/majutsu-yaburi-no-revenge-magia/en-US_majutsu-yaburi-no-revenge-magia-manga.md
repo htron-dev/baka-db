@@ -1,5 +1,7 @@
 # Majutsu Yaburi no Revenge Magia
 
+![majutsu-yaburi-no-revenge-magia](https://cdn.myanimelist.net/images/manga/1/222497.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔術破りのリベンジ・マギア
 -   **start-date**: 2017-12-28

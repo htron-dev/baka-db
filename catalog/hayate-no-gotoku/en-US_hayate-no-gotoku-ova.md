@@ -1,5 +1,7 @@
 # Hayate no Gotoku! OVA
 
+![hayate-no-gotoku-ova](https://cdn.myanimelist.net/images/anime/2/70353.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ハヤテのごとく！

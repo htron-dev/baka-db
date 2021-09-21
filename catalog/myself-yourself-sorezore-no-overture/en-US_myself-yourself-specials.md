@@ -1,5 +1,7 @@
 # Myself ; Yourself Specials
 
+![myself-yourself-specials](https://cdn.myanimelist.net/images/anime/10/46975.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: マイセルフ；ユアセルフ

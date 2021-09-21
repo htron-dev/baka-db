@@ -1,5 +1,7 @@
 # Haunted Campus
 
+![haunted-campus](https://cdn.myanimelist.net/images/manga/3/215087.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

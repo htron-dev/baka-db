@@ -1,5 +1,7 @@
 # Hitsujikai Oujo no Taikan
 
+![hitsujikai-oujo-no-taikan](https://cdn.myanimelist.net/images/manga/1/173757.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

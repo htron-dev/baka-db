@@ -1,5 +1,7 @@
 # Durarara!! RE;Dollars-hen
 
+![durarara-re-dollars-hen](https://cdn.myanimelist.net/images/manga/3/160114.jpg)
+
 -   **type**: manga
 -   **original-name**: デュラララ!! RE；ダラーズ編
 -   **start-date**: 2014-11-18

@@ -1,5 +1,7 @@
 # Mainichi Kaasan
 
+![mainichi-kaasan](https://cdn.myanimelist.net/images/anime/4/70931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 142
 -   **original-name**: 毎日かあさん

@@ -1,5 +1,7 @@
 # Kimi wo Saraitai
 
+![kimi-wo-saraitai](https://cdn.myanimelist.net/images/manga/2/132477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君を攫いたい

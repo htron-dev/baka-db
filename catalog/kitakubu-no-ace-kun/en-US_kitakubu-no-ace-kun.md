@@ -1,5 +1,7 @@
 # Kitakubu no Ace-kun.
 
+![kitakubu-no-ace-kun](https://cdn.myanimelist.net/images/manga/1/164475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 帰宅部のエースくん。

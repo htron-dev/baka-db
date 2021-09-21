@@ -1,5 +1,7 @@
 # Kagaku Chop
 
+![kagaku-chop](https://cdn.myanimelist.net/images/manga/1/181982.jpg)
+
 -   **type**: manga
 -   **original-name**: カガクチョップ
 -   **start-date**: 2011-08-10

@@ -1,5 +1,7 @@
 # Kyousantou Sengen
 
+![kyousantou-sengen](https://cdn.myanimelist.net/images/manga/1/159248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

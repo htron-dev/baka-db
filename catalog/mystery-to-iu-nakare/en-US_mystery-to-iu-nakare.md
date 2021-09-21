@@ -1,5 +1,7 @@
 # Mystery to Iu nakare
 
+![mystery-to-iu-nakare](https://cdn.myanimelist.net/images/manga/2/206107.jpg)
+
 -   **type**: manga
 -   **original-name**: ミステリと言う勿れ
 -   **start-date**: 2017-11-28

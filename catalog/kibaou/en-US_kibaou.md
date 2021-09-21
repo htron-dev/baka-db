@@ -1,5 +1,7 @@
 # Kibaou
 
+![kibaou](https://cdn.myanimelist.net/images/manga/1/227464.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 牙王

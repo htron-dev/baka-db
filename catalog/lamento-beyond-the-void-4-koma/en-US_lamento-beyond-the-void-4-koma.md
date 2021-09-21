@@ -1,5 +1,7 @@
 # Lamento - Beyond the Void - 4 Koma
 
+![lamento-beyond-the-void-4-koma](https://cdn.myanimelist.net/images/manga/3/16739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラメント

@@ -1,5 +1,7 @@
 # Daifugou no Kyuukon: Toshi no Sa Cinderella
 
+![daifugou-no-kyuukon-toshi-no-sa-cinderella](https://cdn.myanimelist.net/images/manga/1/182039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

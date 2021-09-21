@@ -1,5 +1,7 @@
 # Little Witch Academia: Tsukiyo no Oukan
 
+![little-witch-academia-tsukiyo-no-oukan](https://cdn.myanimelist.net/images/manga/3/173360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

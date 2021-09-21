@@ -1,5 +1,7 @@
 # Gakusei Shima Kousaku
 
+![gakusei-shima-kousaku](https://cdn.myanimelist.net/images/manga/1/159516.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

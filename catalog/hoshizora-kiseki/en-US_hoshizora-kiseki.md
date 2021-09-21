@@ -1,5 +1,7 @@
 # Hoshizora Kiseki
 
+![hoshizora-kiseki](https://cdn.myanimelist.net/images/anime/13/22726.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 星空キセキ

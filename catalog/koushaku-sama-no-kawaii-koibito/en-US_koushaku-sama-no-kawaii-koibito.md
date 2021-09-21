@@ -1,5 +1,7 @@
 # Koushaku-sama no Kawaii Koibito
 
+![koushaku-sama-no-kawaii-koibito](https://cdn.myanimelist.net/images/manga/1/193850.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

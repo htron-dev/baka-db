@@ -1,5 +1,7 @@
 # Mekakushi no Koi: Hada ni Fureru Jouzetsu na Yubisaki
 
+![mekakushi-no-koi-hada-ni-fureru-jouzetsu-na-yubisaki](https://cdn.myanimelist.net/images/manga/2/195526.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

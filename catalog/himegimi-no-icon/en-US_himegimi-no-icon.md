@@ -1,5 +1,7 @@
 # Himegimi no Icon
 
+![himegimi-no-icon](https://cdn.myanimelist.net/images/manga/3/169702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

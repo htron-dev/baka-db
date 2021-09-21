@@ -1,5 +1,7 @@
 # Futari Soccer
 
+![futari-soccer](https://cdn.myanimelist.net/images/manga/3/61377.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ふたりサッカー

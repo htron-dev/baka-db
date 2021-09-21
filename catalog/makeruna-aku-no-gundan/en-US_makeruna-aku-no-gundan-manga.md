@@ -1,5 +1,7 @@
 # Makeruna!! Aku no Gundan!
 
+![makeruna-aku-no-gundan](https://cdn.myanimelist.net/images/manga/1/193546.jpg)
+
 -   **type**: manga
 -   **original-name**: まけるな!! あくのぐんだん！
 -   **start-date**: 2013-09-06

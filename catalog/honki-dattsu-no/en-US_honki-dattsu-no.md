@@ -1,5 +1,7 @@
 # Honki Dattsu no!
 
+![honki-dattsu-no](https://cdn.myanimelist.net/images/manga/3/15697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 本気だっつの!

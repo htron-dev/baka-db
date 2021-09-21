@@ -1,5 +1,7 @@
 # Doudou
 
+![doudou](https://cdn.myanimelist.net/images/anime/8/37559.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Doudou

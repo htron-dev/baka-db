@@ -1,5 +1,7 @@
 # Follow
 
+![follow](https://cdn.myanimelist.net/images/manga/2/36323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

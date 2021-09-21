@@ -1,5 +1,7 @@
 # Fushigi Tsuushin: Toilet no Hanako-san
 
+![fushigi-tsuushin-toilet-no-hanako-san](https://cdn.myanimelist.net/images/manga/2/152895.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

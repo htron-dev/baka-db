@@ -1,5 +1,7 @@
 # Ginsekai to Kaze no Shoujo
 
+![ginsekai-to-kaze-no-shoujo](https://cdn.myanimelist.net/images/manga/3/124215.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 銀世界と風の少女

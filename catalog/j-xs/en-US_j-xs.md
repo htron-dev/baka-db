@@ -1,5 +1,7 @@
 # JX's
 
+![j-xs](https://cdn.myanimelist.net/images/manga/3/7000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

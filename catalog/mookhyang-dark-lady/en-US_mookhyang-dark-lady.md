@@ -1,5 +1,7 @@
 # Mookhyang: Dark Lady
 
+![mookhyang-dark-lady](https://cdn.myanimelist.net/images/manga/3/236954.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 묵향 다크레이디
 -   **start-date**: 2019-07-04

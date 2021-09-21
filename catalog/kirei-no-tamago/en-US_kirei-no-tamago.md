@@ -1,5 +1,7 @@
 # Kirei no Tamago
 
+![kirei-no-tamago](https://cdn.myanimelist.net/images/manga/1/23402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

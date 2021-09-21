@@ -1,5 +1,7 @@
 # Ganzo Fuuzoku Tamashii
 
+![ganzo-fuuzoku-tamashii](https://cdn.myanimelist.net/images/manga/2/163363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 元祖フーゾク魂―平口広美のアポナシ潜入日記

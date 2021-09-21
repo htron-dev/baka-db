@@ -1,5 +1,7 @@
 # Hinkyaku no Mitsuai: Kindan no Suite Room
 
+![hinkyaku-no-mitsuai-kindan-no-suite-room](https://cdn.myanimelist.net/images/manga/1/194884.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Meroama Lecture
 
+![meroama-lecture](https://cdn.myanimelist.net/images/manga/2/10945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

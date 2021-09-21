@@ -1,5 +1,7 @@
 # MF Ghost
 
+![mf-ghost](https://cdn.myanimelist.net/images/manga/3/205248.jpg)
+
 -   **type**: manga
 -   **original-name**: MF ゴースト
 -   **start-date**: 2017-09-04

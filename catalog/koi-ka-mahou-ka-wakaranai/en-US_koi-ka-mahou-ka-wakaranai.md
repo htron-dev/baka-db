@@ -1,5 +1,7 @@
 # Koi ka Mahou ka Wakaranai!
 
+![koi-ka-mahou-ka-wakaranai](https://cdn.myanimelist.net/images/manga/2/242177.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 恋か魔法かわからない!

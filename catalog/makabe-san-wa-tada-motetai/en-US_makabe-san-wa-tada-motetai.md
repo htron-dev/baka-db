@@ -1,5 +1,7 @@
 # Makabe-san wa Tada Motetai!
 
+![makabe-san-wa-tada-motetai](https://cdn.myanimelist.net/images/manga/1/245058.jpg)
+
 -   **type**: manga
 -   **original-name**: 真壁さんはただモテたい！
 -   **start-date**: 2019-12-06

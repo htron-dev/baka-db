@@ -1,5 +1,7 @@
 # Kokoro Scramble
 
+![kokoro-scramble](https://cdn.myanimelist.net/images/manga/2/201120.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

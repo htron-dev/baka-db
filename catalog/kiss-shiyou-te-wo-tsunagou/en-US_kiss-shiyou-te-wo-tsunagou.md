@@ -1,5 +1,7 @@
 # Kiss Shiyou Te wo Tsunagou
 
+![kiss-shiyou-te-wo-tsunagou](https://cdn.myanimelist.net/images/manga/2/16810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

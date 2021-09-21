@@ -1,5 +1,7 @@
 # Grimm Douwa Anime Series
 
+![grimm-douwa-anime-series](https://cdn.myanimelist.net/images/anime/10/84671.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グリム童話アニメシリーズ

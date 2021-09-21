@@ -1,5 +1,7 @@
 # Dance in the Vampire Bund
 
+![dance-in-the-vampire-bund](https://cdn.myanimelist.net/images/manga/1/10431.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 82

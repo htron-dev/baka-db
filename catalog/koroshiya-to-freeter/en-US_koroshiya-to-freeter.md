@@ -1,5 +1,7 @@
 # Koroshiya to Freeter
 
+![koroshiya-to-freeter](https://cdn.myanimelist.net/images/manga/2/247215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

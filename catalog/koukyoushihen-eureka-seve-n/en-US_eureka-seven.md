@@ -1,5 +1,7 @@
 # Eureka Seven
 
+![eureka-seven](https://cdn.myanimelist.net/images/manga/2/123613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 交響詩篇エウレカセブン

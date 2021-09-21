@@ -1,5 +1,7 @@
 # Violence Jack: Harlem Bomber-hen
 
+![violence-jack-harlem-bomber-hen](https://cdn.myanimelist.net/images/anime/6/12873.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バイオレンス ジャック 〜ハーレム・ボンバー編〜

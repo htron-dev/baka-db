@@ -1,5 +1,7 @@
 # Fata Morgana no Yakata: Anata no Hitomi wo Tozasu Monogatari
 
+![fata-morgana-no-yakata-anata-no-hitomi-wo-tozasu-monogatari](https://cdn.myanimelist.net/images/manga/2/205751.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

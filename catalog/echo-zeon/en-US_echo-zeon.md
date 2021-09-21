@@ -1,5 +1,7 @@
 # Echo/Zeon
 
+![echo-zeon](https://cdn.myanimelist.net/images/manga/1/197921.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Eagle
 
+![eagle](https://cdn.myanimelist.net/images/manga/1/96559.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 89

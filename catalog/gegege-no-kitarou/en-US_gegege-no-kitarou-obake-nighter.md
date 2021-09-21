@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Obake Nighter
 
+![gegege-no-kitarou-obake-nighter](https://cdn.myanimelist.net/images/anime/3/77085.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎　おばけナイター

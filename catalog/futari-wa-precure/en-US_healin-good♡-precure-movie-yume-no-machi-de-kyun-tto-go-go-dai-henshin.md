@@ -1,5 +1,7 @@
 # Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!
 
+![healin-good♡-precure-movie-yume-no-machi-de-kyun-tto-go-go-dai-henshin](https://cdn.myanimelist.net/images/anime/1973/110449.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画ヒーリングっど ♥ プリキュア　ゆめのまちでキュン！っと GoGo！大変身！！

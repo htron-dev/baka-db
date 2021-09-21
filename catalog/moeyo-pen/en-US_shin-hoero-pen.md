@@ -1,5 +1,7 @@
 # Shin Hoero Pen
 
+![shin-hoero-pen](https://cdn.myanimelist.net/images/manga/1/82168.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 47

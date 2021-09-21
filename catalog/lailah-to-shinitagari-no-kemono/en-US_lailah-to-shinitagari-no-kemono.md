@@ -1,5 +1,7 @@
 # Lailah to Shinitagari no Kemono
 
+![lailah-to-shinitagari-no-kemono](https://cdn.myanimelist.net/images/manga/1/193924.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

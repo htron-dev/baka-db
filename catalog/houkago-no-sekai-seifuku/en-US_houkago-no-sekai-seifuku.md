@@ -1,5 +1,7 @@
 # Houkago no Sekai Seifuku
 
+![houkago-no-sekai-seifuku](https://cdn.myanimelist.net/images/manga/1/214999.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

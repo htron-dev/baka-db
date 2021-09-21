@@ -1,5 +1,7 @@
 # Maou to Ore no Hangyakuki
 
+![maou-to-ore-no-hangyakuki](https://cdn.myanimelist.net/images/manga/3/224446.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王と俺の叛逆記
 -   **start-date**: 2018-04-28

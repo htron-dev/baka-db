@@ -1,5 +1,7 @@
 # Dr. Rin ni Kiitemite!
 
+![dr-rin-ni-kiitemite](https://cdn.myanimelist.net/images/anime/1279/96440.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: Dr.リンにきいてみて！

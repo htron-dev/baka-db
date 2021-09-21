@@ -1,5 +1,7 @@
 # Sensei ni, Ageru.
 
+![sensei-ni-ageru](https://cdn.myanimelist.net/images/manga/4/73625.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

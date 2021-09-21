@@ -1,5 +1,7 @@
 # Happiness Charge Precure!
 
+![happiness-charge-precure](https://cdn.myanimelist.net/images/anime/1973/94568.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ハピネスチャージプリキュア！

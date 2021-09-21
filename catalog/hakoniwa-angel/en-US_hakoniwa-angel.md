@@ -1,5 +1,7 @@
 # Hakoniwa Angel
 
+![hakoniwa-angel](https://cdn.myanimelist.net/images/manga/1/172991.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

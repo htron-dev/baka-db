@@ -1,5 +1,7 @@
 # Mobile Suit Zeta Gundam
 
+![mobile-suit-zeta-gundam](https://cdn.myanimelist.net/images/anime/6/11153.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 機動戦士 Ζ ガンダム

@@ -1,5 +1,7 @@
 # Hana to Mogura
 
+![hana-to-mogura](https://cdn.myanimelist.net/images/anime/9/36697.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花ともぐら

@@ -1,5 +1,7 @@
 # K-On!
 
+![k-on](https://cdn.myanimelist.net/images/manga/3/20937.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 57

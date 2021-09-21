@@ -1,5 +1,7 @@
 # Maji!! -Honki-
 
+![maji-honki](https://cdn.myanimelist.net/images/manga/3/31566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Maji!! －本気－

@@ -1,5 +1,7 @@
 # Itsuka no Main: Kaminari Shounen - Tenta Sanjou!
 
+![itsuka-no-main-kaminari-shounen-tenta-sanjou](https://cdn.myanimelist.net/images/anime/11/60673.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いつかのメイン 雷少年・天太参上!

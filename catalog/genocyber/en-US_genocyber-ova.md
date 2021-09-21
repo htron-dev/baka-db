@@ -1,5 +1,7 @@
 # Genocyber
 
+![genocyber](https://cdn.myanimelist.net/images/anime/2/3751.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ジェノサイバー

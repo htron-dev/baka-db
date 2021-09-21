@@ -1,5 +1,7 @@
 # Dororo Pilot
 
+![dororo-pilot](https://cdn.myanimelist.net/images/anime/5/74368.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: どろろ

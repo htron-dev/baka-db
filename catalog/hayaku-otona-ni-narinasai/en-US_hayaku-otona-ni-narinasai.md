@@ -1,5 +1,7 @@
 # Hayaku Otona ni Narinasai.
 
+![hayaku-otona-ni-narinasai](https://cdn.myanimelist.net/images/manga/3/234007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

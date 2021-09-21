@@ -1,5 +1,7 @@
 # Momotarou Densetsu
 
+![momotarou-densetsu](https://cdn.myanimelist.net/images/anime/5/32171.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 桃太郎伝説

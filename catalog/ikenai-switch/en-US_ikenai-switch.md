@@ -1,5 +1,7 @@
 # Ikenai Switch
 
+![ikenai-switch](https://cdn.myanimelist.net/images/manga/3/141589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

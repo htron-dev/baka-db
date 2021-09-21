@@ -1,5 +1,7 @@
 # Jikyuu 300-en no Shinigami
 
+![jikyuu-300-en-no-shinigami](https://cdn.myanimelist.net/images/manga/2/238004.jpg)
+
 -   **type**: manga
 -   **original-name**: 時給三〇〇円の死神
 -   **start-date**: 2020-07-27

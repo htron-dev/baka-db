@@ -1,5 +1,7 @@
 # Majime ni Fumajime Kaiketsu Zorori
 
+![majime-ni-fumajime-kaiketsu-zorori](https://cdn.myanimelist.net/images/anime/10/31033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 97
 -   **original-name**: まじめにふまじめ　かいけつゾロリ

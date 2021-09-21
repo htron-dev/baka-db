@@ -1,5 +1,7 @@
 # Muhai no Black Courier
 
+![muhai-no-black-courier](https://cdn.myanimelist.net/images/manga/3/160826.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

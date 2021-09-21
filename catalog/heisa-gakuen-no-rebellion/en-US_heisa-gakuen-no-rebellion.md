@@ -1,5 +1,7 @@
 # Heisa Gakuen no Rebellion
 
+![heisa-gakuen-no-rebellion](https://cdn.myanimelist.net/images/manga/3/160553.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 閉鎖学園のリベリオン

@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave
 
+![kakumeiki-valvrave](https://cdn.myanimelist.net/images/anime/3/49251.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 革命機ヴァルヴレイヴ

@@ -1,5 +1,7 @@
 # Kaze Tachinu: Miyazaki Hayao no Mousou Comeback
 
+![kaze-tachinu-miyazaki-hayao-no-mousou-comeback](https://cdn.myanimelist.net/images/manga/2/165109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

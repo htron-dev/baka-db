@@ -1,5 +1,7 @@
 # My Pure Lady
 
+![my-pure-lady](https://cdn.myanimelist.net/images/manga/2/156836.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 192

@@ -1,5 +1,7 @@
 # Momotarou Mairu!
 
+![momotarou-mairu](https://cdn.myanimelist.net/images/manga/2/182477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 桃太郎まいる！

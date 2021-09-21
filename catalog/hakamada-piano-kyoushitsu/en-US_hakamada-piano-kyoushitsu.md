@@ -1,5 +1,7 @@
 # Hakamada Piano Kyoushitsu
 
+![hakamada-piano-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/14163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

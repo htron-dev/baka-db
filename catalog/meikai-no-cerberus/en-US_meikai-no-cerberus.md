@@ -1,5 +1,7 @@
 # Meikai no Cerberus
 
+![meikai-no-cerberus](https://cdn.myanimelist.net/images/manga/1/203741.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

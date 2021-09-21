@@ -1,5 +1,7 @@
 # Kono Hito wo Ore ni Kudasai
 
+![kono-hito-wo-ore-ni-kudasai](https://cdn.myanimelist.net/images/manga/1/90567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

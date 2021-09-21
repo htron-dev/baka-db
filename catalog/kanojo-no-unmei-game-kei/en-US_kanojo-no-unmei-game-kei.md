@@ -1,5 +1,7 @@
 # Kanojo no Unmei Game-kei
 
+![kanojo-no-unmei-game-kei](https://cdn.myanimelist.net/images/manga/1/164647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

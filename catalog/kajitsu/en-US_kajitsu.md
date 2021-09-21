@@ -1,5 +1,7 @@
 # Kajitsu
 
+![kajitsu](https://cdn.myanimelist.net/images/manga/1/235498.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Koi no Kaori
 
+![koi-no-kaori](https://cdn.myanimelist.net/images/manga/3/85773.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋の香り
 -   **start-date**: 2009-11-29

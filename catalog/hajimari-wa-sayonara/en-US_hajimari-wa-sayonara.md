@@ -1,5 +1,7 @@
 # Hajimari wa Sayonara
 
+![hajimari-wa-sayonara](https://cdn.myanimelist.net/images/manga/2/169570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

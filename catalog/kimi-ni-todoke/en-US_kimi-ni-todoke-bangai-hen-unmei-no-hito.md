@@ -1,5 +1,7 @@
 # Kimi ni Todoke Bangai-hen: Unmei no Hito
 
+![kimi-ni-todoke-bangai-hen-unmei-no-hito](https://cdn.myanimelist.net/images/manga/1/237197.jpg)
+
 -   **type**: manga
 -   **original-name**: 君に届け 番外編～運命の人～
 -   **start-date**: 2018-04-13

@@ -1,5 +1,7 @@
 # Daifuku-kun@Kin Tele 2nd Season
 
+![daifuku-kun-kin-tele-2nd-season](https://cdn.myanimelist.net/images/anime/1780/100288.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 大福くん＠きんてれ 第 2 期

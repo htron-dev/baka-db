@@ -1,5 +1,7 @@
 # Daisuki! Nendomama
 
+![daisuki-nendomama](https://cdn.myanimelist.net/images/anime/9/70829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: 大好き！ねんどママ

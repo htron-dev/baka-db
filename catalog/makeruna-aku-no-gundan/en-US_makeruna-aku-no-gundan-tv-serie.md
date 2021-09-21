@@ -1,5 +1,7 @@
 # Makeruna!! Aku no Gundan!
 
+![makeruna-aku-no-gundan](https://cdn.myanimelist.net/images/anime/8/84731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まけるな!! あくのぐんだん！

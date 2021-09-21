@@ -1,5 +1,7 @@
 # Kasenjiki RomeJuli Kousoukyoku
 
+![kasenjiki-rome-juli-kousoukyoku](https://cdn.myanimelist.net/images/manga/1/245974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

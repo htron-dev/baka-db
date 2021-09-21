@@ -1,5 +1,7 @@
 # Futakoi Alternative
 
+![futakoi-alternative](https://cdn.myanimelist.net/images/manga/5/34854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

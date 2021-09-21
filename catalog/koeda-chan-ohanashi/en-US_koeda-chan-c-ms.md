@@ -1,5 +1,7 @@
 # Koeda-chan CMs
 
+![koeda-chan-c-ms](https://cdn.myanimelist.net/images/anime/1163/97979.jpg)
+
 -   **type**: special
 -   **original-name**: こえだちゃん CMs
 -   **start-date**: 2014-07-28

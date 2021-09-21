@@ -1,5 +1,7 @@
 # Hataraku Ojou-chan
 
+![hataraku-ojou-chan](https://cdn.myanimelist.net/images/manga/3/151493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: はたらくお嬢ちゃん

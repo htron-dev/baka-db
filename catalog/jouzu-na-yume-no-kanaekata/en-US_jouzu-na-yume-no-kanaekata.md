@@ -1,5 +1,7 @@
 # Jouzu na Yume no Kanaekata
 
+![jouzu-na-yume-no-kanaekata](https://cdn.myanimelist.net/images/manga/1/4096.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 上手な夢のかなえかた

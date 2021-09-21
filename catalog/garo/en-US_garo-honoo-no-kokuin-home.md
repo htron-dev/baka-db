@@ -1,5 +1,7 @@
 # Garo: Honoo no Kokuin - Home
 
+![garo-honoo-no-kokuin-home](https://cdn.myanimelist.net/images/anime/11/77787.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 牙狼〈GARO〉-炎の刻印- 第 25 話「糸車-HOME-」

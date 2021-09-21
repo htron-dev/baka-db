@@ -1,5 +1,7 @@
 # K
 
+![k](https://cdn.myanimelist.net/images/anime/3/47607.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: K

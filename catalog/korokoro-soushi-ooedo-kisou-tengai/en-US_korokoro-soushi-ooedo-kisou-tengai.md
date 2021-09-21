@@ -1,5 +1,7 @@
 # Korokoro Soushi: Ooedo Kisou Tengai
 
+![korokoro-soushi-ooedo-kisou-tengai](https://cdn.myanimelist.net/images/manga/3/151337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

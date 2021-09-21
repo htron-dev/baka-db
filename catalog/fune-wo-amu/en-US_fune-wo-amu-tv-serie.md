@@ -1,5 +1,7 @@
 # Fune wo Amu
 
+![fune-wo-amu](https://cdn.myanimelist.net/images/anime/5/81624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 舟を編む

@@ -1,5 +1,7 @@
 # Doraemon: It's Summer!
 
+![doraemon-its-summer](https://cdn.myanimelist.net/images/anime/1744/109537.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 夏だ！一番ドラえもん祭り

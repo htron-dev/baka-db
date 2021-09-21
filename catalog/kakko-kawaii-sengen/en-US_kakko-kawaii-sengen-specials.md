@@ -1,5 +1,7 @@
 # Kakko Kawaii Sengen! Specials
 
+![kakko-kawaii-sengen-specials](https://cdn.myanimelist.net/images/anime/4/73741.jpg)
+
 -   **type**: special
 -   **episodes**: 14
 -   **original-name**: カッコカワイイ宣言！

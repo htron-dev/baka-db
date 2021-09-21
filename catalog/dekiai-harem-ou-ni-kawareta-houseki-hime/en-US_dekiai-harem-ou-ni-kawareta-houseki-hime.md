@@ -1,5 +1,7 @@
 # Dekiai Harem: Ou ni Kawareta Houseki-hime
 
+![dekiai-harem-ou-ni-kawareta-houseki-hime](https://cdn.myanimelist.net/images/manga/1/182632.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 溺愛後宮〈ハレム〉 王に買われた宝石姫

@@ -1,5 +1,7 @@
 # Ganba! Fly High
 
+![ganba-fly-high](https://cdn.myanimelist.net/images/manga/2/76467.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **original-name**: ガンバ!FLY HIGH

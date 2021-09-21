@@ -1,5 +1,7 @@
 # Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?
 
+![mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni](https://cdn.myanimelist.net/images/anime/3/38799.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ましろ色シンフォニー- 愛理があなたの彼女に!？

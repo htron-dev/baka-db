@@ -1,5 +1,7 @@
 # Koisuru Ryuu no Shima
 
+![koisuru-ryuu-no-shima](https://cdn.myanimelist.net/images/manga/2/237895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

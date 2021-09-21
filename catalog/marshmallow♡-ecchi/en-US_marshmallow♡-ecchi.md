@@ -1,5 +1,7 @@
 # Marshmallow♡Ecchi
 
+![marshmallow♡-ecchi](https://cdn.myanimelist.net/images/manga/3/180194.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

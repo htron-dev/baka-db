@@ -1,5 +1,7 @@
 # Gakuen Kino
 
+![gakuen-kino](https://cdn.myanimelist.net/images/manga/3/186220.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 学園キノ
 -   **start-date**: 2006-07-10

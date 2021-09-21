@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula Saga
 
+![future-gpx-cyber-formula-saga](https://cdn.myanimelist.net/images/anime/1344/93011.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 新世紀ＧＰＸサイバーフォーミュラＳＡＧＡ

@@ -1,5 +1,7 @@
 # Duel Masters
 
+![duel-masters](https://cdn.myanimelist.net/images/anime/3/21506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: デュエル・マスターズ

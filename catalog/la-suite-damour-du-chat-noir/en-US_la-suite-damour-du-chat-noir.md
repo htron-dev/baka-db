@@ -1,5 +1,7 @@
 # La Suite D'amour Du Chat Noir
 
+![la-suite-damour-du-chat-noir](https://cdn.myanimelist.net/images/manga/1/5460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam 0079
 
+![kidou-senshi-gundam-0079](https://cdn.myanimelist.net/images/manga/2/6308.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

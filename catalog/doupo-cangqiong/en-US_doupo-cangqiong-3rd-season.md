@@ -1,5 +1,7 @@
 # Doupo Cangqiong 3rd Season
 
+![doupo-cangqiong-3rd-season](https://cdn.myanimelist.net/images/anime/1643/102418.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 斗破苍穹 第 3 季

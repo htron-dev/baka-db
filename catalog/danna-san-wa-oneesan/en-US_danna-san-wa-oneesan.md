@@ -1,5 +1,7 @@
 # Danna-san wa Oneesan
 
+![danna-san-wa-oneesan](https://cdn.myanimelist.net/images/manga/1/200434.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

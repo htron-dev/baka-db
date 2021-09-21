@@ -1,5 +1,7 @@
 # Four Daughters of Armian
 
+![four-daughters-of-armian](https://cdn.myanimelist.net/images/manga/3/40864.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 17
 -   **original-name**: 아르미안의 네 딸들

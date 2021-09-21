@@ -1,5 +1,7 @@
 # Erabaresugishi Mono!
 
+![erabaresugishi-mono](https://cdn.myanimelist.net/images/manga/2/162858.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Konna Watashi ni Kitai Shinaide
 
+![konna-watashi-ni-kitai-shinaide](https://cdn.myanimelist.net/images/manga/1/245340.jpg)
+
 -   **type**: manga
 -   **original-name**: こんな私に期待しないデ
 -   **start-date**: 2020-08-27

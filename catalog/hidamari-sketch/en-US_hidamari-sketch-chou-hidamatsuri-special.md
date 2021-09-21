@@ -1,5 +1,7 @@
 # Hidamari Sketch: Chou Hidamatsuri Special
 
+![hidamari-sketch-chou-hidamatsuri-special](https://cdn.myanimelist.net/images/anime/13/54151.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 8 月 26 日 超ひだまつり

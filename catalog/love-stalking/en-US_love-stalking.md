@@ -1,5 +1,7 @@
 # Love Stalking!
 
+![love-stalking](https://cdn.myanimelist.net/images/manga/2/245127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

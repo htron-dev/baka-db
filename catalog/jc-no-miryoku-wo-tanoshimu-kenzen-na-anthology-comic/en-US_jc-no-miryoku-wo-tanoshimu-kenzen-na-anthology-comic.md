@@ -1,5 +1,7 @@
 # JC no Miryoku wo Tanoshimu Kenzen na Anthology Comic
 
+![jc-no-miryoku-wo-tanoshimu-kenzen-na-anthology-comic](https://cdn.myanimelist.net/images/manga/1/224929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

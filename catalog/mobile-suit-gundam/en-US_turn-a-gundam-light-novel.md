@@ -1,5 +1,7 @@
 # Turn A Gundam
 
+![turn-a-gundam](https://cdn.myanimelist.net/images/manga/2/64055.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ∀（ターンエー）ガンダム

@@ -1,5 +1,7 @@
 # Katte ni Kaizou
 
+![katte-ni-kaizou](https://cdn.myanimelist.net/images/manga/3/19886.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 289

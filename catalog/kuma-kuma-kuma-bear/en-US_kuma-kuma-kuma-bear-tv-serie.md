@@ -1,5 +1,7 @@
 # Kuma Kuma Kuma Bear
 
+![kuma-kuma-kuma-bear](https://cdn.myanimelist.net/images/anime/1413/110712.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: くま クマ 熊 ベアー

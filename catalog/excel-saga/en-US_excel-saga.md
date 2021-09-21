@@ -1,5 +1,7 @@
 # Excel Saga
 
+![excel-saga](https://cdn.myanimelist.net/images/manga/1/54297.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 178

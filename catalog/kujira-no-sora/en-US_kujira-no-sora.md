@@ -1,5 +1,7 @@
 # Kujira no Sora
 
+![kujira-no-sora](https://cdn.myanimelist.net/images/manga/1/162720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Kimi ga Koi ni Oboreru
 
+![kimi-ga-koi-ni-oboreru](https://cdn.myanimelist.net/images/manga/2/8072.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

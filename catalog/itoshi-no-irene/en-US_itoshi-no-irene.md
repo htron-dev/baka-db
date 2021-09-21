@@ -1,5 +1,7 @@
 # Itoshi no Irene
 
+![itoshi-no-irene](https://cdn.myanimelist.net/images/manga/1/191697.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 63

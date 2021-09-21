@@ -1,5 +1,7 @@
 # Namuji
 
+![namuji](https://cdn.myanimelist.net/images/manga/1/166511.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ナムジ

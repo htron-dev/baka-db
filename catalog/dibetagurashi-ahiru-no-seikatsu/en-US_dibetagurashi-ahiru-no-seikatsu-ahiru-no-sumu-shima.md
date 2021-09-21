@@ -1,5 +1,7 @@
 # Dibetagurashi: Ahiru no Seikatsu - Ahiru no Sumu Shima
 
+![dibetagurashi-ahiru-no-seikatsu-ahiru-no-sumu-shima](https://cdn.myanimelist.net/images/anime/8/86966.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ぢべたぐらし あひるの生活 あひるのすむ島

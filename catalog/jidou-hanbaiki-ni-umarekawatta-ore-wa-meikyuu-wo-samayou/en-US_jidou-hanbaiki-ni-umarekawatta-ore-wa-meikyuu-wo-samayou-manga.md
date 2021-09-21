@@ -1,5 +1,7 @@
 # Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
 
+![jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou](https://cdn.myanimelist.net/images/manga/1/249628.jpg)
+
 -   **type**: manga
 -   **original-name**: 自動販売機に生まれ変わった俺は迷宮を彷徨う
 -   **start-date**: 2021-08-27

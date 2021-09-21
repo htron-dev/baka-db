@@ -1,5 +1,7 @@
 # Fire Rabbit!!
 
+![fire-rabbit](https://cdn.myanimelist.net/images/manga/2/217647.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 56

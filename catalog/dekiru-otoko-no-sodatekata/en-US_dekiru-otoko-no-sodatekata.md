@@ -1,5 +1,7 @@
 # Dekiru Otoko no Sodatekata
 
+![dekiru-otoko-no-sodatekata](https://cdn.myanimelist.net/images/manga/3/2425.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

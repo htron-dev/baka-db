@@ -1,5 +1,7 @@
 # Grimm
 
+![grimm](https://cdn.myanimelist.net/images/anime/1733/115834.jpg)
+
 -   **type**: ona
 -   **original-name**: グリム
 -   **rating**: None

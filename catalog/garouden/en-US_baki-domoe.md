@@ -1,5 +1,7 @@
 # Baki Domoe
 
+![baki-domoe](https://cdn.myanimelist.net/images/manga/2/207743.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 89

@@ -1,5 +1,7 @@
 # Mabushii Sora ni Kiss Shou
 
+![mabushii-sora-ni-kiss-shou](https://cdn.myanimelist.net/images/manga/2/101039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

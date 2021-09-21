@@ -1,5 +1,7 @@
 # Doutei ni Ai nante Sakebenai!
 
+![doutei-ni-ai-nante-sakebenai](https://cdn.myanimelist.net/images/manga/3/212408.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

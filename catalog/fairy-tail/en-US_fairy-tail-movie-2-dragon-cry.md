@@ -1,5 +1,7 @@
 # Fairy Tail Movie 2: Dragon Cry
 
+![fairy-tail-movie-2-dragon-cry](https://cdn.myanimelist.net/images/anime/13/85391.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 FAIRY TAIL 『DRAGON CRY』

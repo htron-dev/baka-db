@@ -1,5 +1,7 @@
 # Kigan Nazobarai: Ayakashi no Koi
 
+![kigan-nazobarai-ayakashi-no-koi](https://cdn.myanimelist.net/images/manga/3/108795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

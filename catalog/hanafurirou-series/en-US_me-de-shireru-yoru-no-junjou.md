@@ -1,5 +1,7 @@
 # Me de Shireru Yoru no Junjou
 
+![me-de-shireru-yoru-no-junjou](https://cdn.myanimelist.net/images/manga/4/82978.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

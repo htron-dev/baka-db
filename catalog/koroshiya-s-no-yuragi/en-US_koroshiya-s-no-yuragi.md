@@ -1,5 +1,7 @@
 # Koroshiya S no Yuragi
 
+![koroshiya-s-no-yuragi](https://cdn.myanimelist.net/images/manga/1/232031.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺し屋 S のゆらぎ
 -   **start-date**: 2018-12-12

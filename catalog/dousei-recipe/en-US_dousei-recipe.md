@@ -1,5 +1,7 @@
 # Dousei Recipe
 
+![dousei-recipe](https://cdn.myanimelist.net/images/manga/1/125135.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

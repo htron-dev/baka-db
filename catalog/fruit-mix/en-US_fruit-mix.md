@@ -1,5 +1,7 @@
 # Fruit Mix
 
+![fruit-mix](https://cdn.myanimelist.net/images/manga/1/151394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フルーツ MIX

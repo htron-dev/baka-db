@@ -1,5 +1,7 @@
 # Haru wa Watashi wo Baka ni Suru
 
+![haru-wa-watashi-wo-baka-ni-suru](https://cdn.myanimelist.net/images/manga/2/222521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Feng Wei Ying Xiong
 
+![feng-wei-ying-xiong](https://cdn.myanimelist.net/images/anime/13/81274.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 疯味英雄

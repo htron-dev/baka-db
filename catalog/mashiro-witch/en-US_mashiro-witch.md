@@ -1,5 +1,7 @@
 # Mashiro Witch
 
+![mashiro-witch](https://cdn.myanimelist.net/images/anime/9/88536.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ましろウィッチ

@@ -1,5 +1,7 @@
 # Kimi ga Boku wo Mite Ita kara
 
+![kimi-ga-boku-wo-mite-ita-kara](https://cdn.myanimelist.net/images/manga/3/56233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

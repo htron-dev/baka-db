@@ -1,5 +1,7 @@
 # Jisatsutou
 
+![jisatsutou](https://cdn.myanimelist.net/images/manga/3/182071.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 168

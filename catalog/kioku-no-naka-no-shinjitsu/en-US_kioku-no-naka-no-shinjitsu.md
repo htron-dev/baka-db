@@ -1,5 +1,7 @@
 # Kioku no Naka no Shinjitsu
 
+![kioku-no-naka-no-shinjitsu](https://cdn.myanimelist.net/images/manga/1/231860.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 記憶のなかの真実

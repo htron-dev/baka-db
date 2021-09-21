@@ -1,5 +1,7 @@
 # Hyouka
 
+![hyouka](https://cdn.myanimelist.net/images/manga/2/162612.jpg)
+
 -   **type**: manga
 -   **original-name**: 氷菓
 -   **start-date**: 2012-01-26

@@ -1,5 +1,7 @@
 # Koi wa Itsumo Arashi no You ni Plus
 
+![koi-wa-itsumo-arashi-no-you-ni-plus](https://cdn.myanimelist.net/images/manga/3/5926.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋はいつも嵐のように+

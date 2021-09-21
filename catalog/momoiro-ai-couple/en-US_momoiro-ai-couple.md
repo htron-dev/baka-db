@@ -1,5 +1,7 @@
 # Momoiro Ai Couple
 
+![momoiro-ai-couple](https://cdn.myanimelist.net/images/manga/3/27715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ももいろ愛かっぷる

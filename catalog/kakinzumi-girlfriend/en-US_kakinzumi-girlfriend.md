@@ -1,5 +1,7 @@
 # Kakinzumi Girlfriend
 
+![kakinzumi-girlfriend](https://cdn.myanimelist.net/images/manga/1/200505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

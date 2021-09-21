@@ -1,5 +1,7 @@
 # Gyouseiki
 
+![gyouseiki](https://cdn.myanimelist.net/images/manga/2/76715.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 暁星記

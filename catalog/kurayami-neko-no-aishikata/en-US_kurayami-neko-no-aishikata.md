@@ -1,5 +1,7 @@
 # Kurayami Neko no Aishikata
 
+![kurayami-neko-no-aishikata](https://cdn.myanimelist.net/images/manga/3/237870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

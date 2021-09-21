@@ -1,5 +1,7 @@
 # Kawaii kara Suki ni Natta Wake ja Nai!
 
+![kawaii-kara-suki-ni-natta-wake-ja-nai](https://cdn.myanimelist.net/images/manga/1/114061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

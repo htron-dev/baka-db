@@ -1,5 +1,7 @@
 # Fushigi Yuugi: Genbu Kaiden Kizuna - Haruka Naru Kaze no Kora
 
+![fushigi-yuugi-genbu-kaiden-kizuna-haruka-naru-kaze-no-kora](https://cdn.myanimelist.net/images/manga/3/40303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ふしぎ遊戯 玄武開伝 絆―遙かなる風の子ら

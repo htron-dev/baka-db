@@ -1,5 +1,7 @@
 # Kaifuku Jutsushi no Yarinaoshi: Sokushi Mahou to Skill Copy no Chouetsu Heal
 
+![kaifuku-jutsushi-no-yarinaoshi-sokushi-mahou-to-skill-copy-no-chouetsu-heal](https://cdn.myanimelist.net/images/manga/3/201375.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～
 -   **start-date**: 2017-07-01

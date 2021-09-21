@@ -1,5 +1,7 @@
 # Mameshiba Bangai-hen
 
+![mameshiba-bangai-hen](https://cdn.myanimelist.net/images/anime/3/80697.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 豆しば番外編

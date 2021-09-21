@@ -1,5 +1,7 @@
 # Isobe Isobee Monogatari: Ukiyo wa Tsurai yo
 
+![isobe-isobee-monogatari-ukiyo-wa-tsurai-yo](https://cdn.myanimelist.net/images/manga/1/115627.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 303

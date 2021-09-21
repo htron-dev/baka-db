@@ -1,5 +1,7 @@
 # Hi Izuru Tokoro no Tenshi
 
+![hi-izuru-tokoro-no-tenshi](https://cdn.myanimelist.net/images/manga/1/17866.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 日出処の天子

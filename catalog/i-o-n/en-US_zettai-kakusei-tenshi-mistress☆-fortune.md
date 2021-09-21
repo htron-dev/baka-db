@@ -1,5 +1,7 @@
 # Zettai Kakusei Tenshi Mistress☆Fortune
 
+![zettai-kakusei-tenshi-mistress☆-fortune](https://cdn.myanimelist.net/images/manga/3/150594.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

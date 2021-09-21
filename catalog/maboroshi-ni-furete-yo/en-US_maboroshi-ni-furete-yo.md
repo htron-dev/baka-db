@@ -1,5 +1,7 @@
 # Maboroshi ni Furete yo
 
+![maboroshi-ni-furete-yo](https://cdn.myanimelist.net/images/manga/3/191267.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

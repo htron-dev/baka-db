@@ -1,5 +1,7 @@
 # Isekai de Kamisama ni Natta node, Daitai Nandemo Dekiru!!
 
+![isekai-de-kamisama-ni-natta-node-daitai-nandemo-dekiru](https://cdn.myanimelist.net/images/manga/1/245499.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 83

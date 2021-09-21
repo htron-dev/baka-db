@@ -1,5 +1,7 @@
 # Hakaba Kitaro
 
+![hakaba-kitaro](https://cdn.myanimelist.net/images/manga/3/36313.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 15

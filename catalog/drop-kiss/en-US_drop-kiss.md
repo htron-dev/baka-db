@@ -1,5 +1,7 @@
 # Drop Kiss
 
+![drop-kiss](https://cdn.myanimelist.net/images/manga/1/23283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドロップキス

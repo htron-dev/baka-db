@@ -1,5 +1,7 @@
 # Jimi na Kensei wa Soredemo Saikyou desu
 
+![jimi-na-kensei-wa-soredemo-saikyou-desu](https://cdn.myanimelist.net/images/manga/1/217662.jpg)
+
 -   **type**: manga
 -   **original-name**: 地味な剣聖はそれでも最強です
 -   **start-date**: 2018-05-25

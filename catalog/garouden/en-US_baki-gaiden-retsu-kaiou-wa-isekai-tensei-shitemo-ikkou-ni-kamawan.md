@@ -1,5 +1,7 @@
 # Baki Gaiden: Retsu Kaiou wa Isekai Tensei shitemo Ikkou ni Kamawan!
 
+![baki-gaiden-retsu-kaiou-wa-isekai-tensei-shitemo-ikkou-ni-kamawan](https://cdn.myanimelist.net/images/manga/1/246962.jpg)
+
 -   **type**: manga
 -   **original-name**: バキ外伝 烈海王は異世界転生しても一向にかまわんッッ
 -   **start-date**: 2020-11-06

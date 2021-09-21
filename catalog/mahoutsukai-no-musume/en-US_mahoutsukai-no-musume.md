@@ -1,5 +1,7 @@
 # Mahoutsukai no Musume
 
+![mahoutsukai-no-musume](https://cdn.myanimelist.net/images/manga/1/77381.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 34

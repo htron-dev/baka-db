@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu
 
+![dragon-ball-z-movie-09-ginga-girigiri-bucchigiri-no-sugoi-yatsu](https://cdn.myanimelist.net/images/anime/1730/93672.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 銀河ギリギリ!!ぶっちぎりの凄い奴

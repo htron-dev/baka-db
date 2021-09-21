@@ -1,5 +1,7 @@
 # Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku
 
+![dragon-ball-z-saiya-jin-zetsumetsu-keikaku](https://cdn.myanimelist.net/images/anime/1021/116787.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ドラゴンボールＺ: 外伝・サイヤ人絶滅計画

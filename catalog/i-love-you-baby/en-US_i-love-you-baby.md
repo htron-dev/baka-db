@@ -1,5 +1,7 @@
 # I Love You Baby
 
+![i-love-you-baby](https://cdn.myanimelist.net/images/manga/1/152474.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

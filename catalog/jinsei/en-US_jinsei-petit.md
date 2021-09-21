@@ -1,5 +1,7 @@
 # Jinsei: Petit
 
+![jinsei-petit](https://cdn.myanimelist.net/images/manga/1/215168.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 42

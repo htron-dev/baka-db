@@ -1,5 +1,7 @@
 # Le Masque
 
+![le-masque](https://cdn.myanimelist.net/images/manga/2/48475.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

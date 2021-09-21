@@ -1,5 +1,7 @@
 # Girl's x Road Bike
 
+![girls-x-road-bike](https://cdn.myanimelist.net/images/manga/2/205031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Gate Keepers
 
+![gate-keepers](https://cdn.myanimelist.net/images/manga/3/125123.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ゲートキーパーズ

@@ -1,5 +1,7 @@
 # Kiseki no Kakera
 
+![kiseki-no-kakera](https://cdn.myanimelist.net/images/manga/3/24706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

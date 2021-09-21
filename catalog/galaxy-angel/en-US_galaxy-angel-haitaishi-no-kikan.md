@@ -1,5 +1,7 @@
 # Galaxy Angel: Haitaishi no Kikan
 
+![galaxy-angel-haitaishi-no-kikan](https://cdn.myanimelist.net/images/manga/3/172508.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

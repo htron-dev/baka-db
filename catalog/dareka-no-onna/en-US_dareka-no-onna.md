@@ -1,5 +1,7 @@
 # Dareka no Onna
 
+![dareka-no-onna](https://cdn.myanimelist.net/images/manga/3/36689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誰かの愛人

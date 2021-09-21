@@ -1,5 +1,7 @@
 # Junjou Mistake
 
+![junjou-mistake](https://cdn.myanimelist.net/images/manga/1/140927.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

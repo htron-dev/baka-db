@@ -1,5 +1,7 @@
 # Koi Utau Chou wa Yotsu Hana ni Mau
 
+![koi-utau-chou-wa-yotsu-hana-ni-mau](https://cdn.myanimelist.net/images/manga/2/243840.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋唄う蝶は四つ花に舞う
 -   **start-date**: 2020-10-10

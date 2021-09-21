@@ -1,5 +1,7 @@
 # Kono Uta wa Kimi no Tameni
 
+![kono-uta-wa-kimi-no-tameni](https://cdn.myanimelist.net/images/manga/1/34490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

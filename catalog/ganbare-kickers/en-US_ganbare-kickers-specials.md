@@ -1,5 +1,7 @@
 # Ganbare! Kickers Specials
 
+![ganbare-kickers-specials](https://cdn.myanimelist.net/images/anime/1222/103639.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: がんばれ！キッカーズ

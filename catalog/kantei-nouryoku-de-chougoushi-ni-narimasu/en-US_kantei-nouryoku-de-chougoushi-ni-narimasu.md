@@ -1,5 +1,7 @@
 # Kantei Nouryoku de Chougoushi ni Narimasu
 
+![kantei-nouryoku-de-chougoushi-ni-narimasu](https://cdn.myanimelist.net/images/manga/2/167517.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 鑑定能力で調合師になります
 -   **start-date**: 2015-11-30

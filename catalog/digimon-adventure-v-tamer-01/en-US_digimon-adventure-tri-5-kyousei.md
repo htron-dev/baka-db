@@ -1,5 +1,7 @@
 # Digimon Adventure tri. 5: Kyousei
 
+![digimon-adventure-tri-5-kyousei](https://cdn.myanimelist.net/images/anime/1743/93826.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー tri.（トライ）第５章「共生」

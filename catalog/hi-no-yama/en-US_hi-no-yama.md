@@ -1,5 +1,7 @@
 # Hi no Yama
 
+![hi-no-yama](https://cdn.myanimelist.net/images/manga/2/198418.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

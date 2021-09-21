@@ -1,5 +1,7 @@
 # Eto Danshi
 
+![eto-danshi](https://cdn.myanimelist.net/images/manga/3/232445.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 干支男子

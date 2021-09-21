@@ -1,5 +1,7 @@
 # Midara na Shukujo ni Naru Lesson
 
+![midara-na-shukujo-ni-naru-lesson](https://cdn.myanimelist.net/images/manga/3/156961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫らな淑女になるレッスン

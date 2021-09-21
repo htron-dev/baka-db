@@ -1,5 +1,7 @@
 # Doushirou de Gozaru
 
+![doushirou-de-gozaru](https://cdn.myanimelist.net/images/manga/1/6805.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 道士朗でござる

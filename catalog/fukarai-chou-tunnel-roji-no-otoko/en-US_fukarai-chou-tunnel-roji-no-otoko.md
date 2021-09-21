@@ -1,5 +1,7 @@
 # Fukarai-chou, Tunnel Roji no Otoko
 
+![fukarai-chou-tunnel-roji-no-otoko](https://cdn.myanimelist.net/images/anime/1041/107090.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 福来町、トンネル路地の男

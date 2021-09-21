@@ -1,5 +1,7 @@
 # Dear My Mister
 
+![dear-my-mister](https://cdn.myanimelist.net/images/manga/2/12210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

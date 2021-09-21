@@ -1,5 +1,7 @@
 # Elite Honjou-ke no Okite
 
+![elite-honjou-ke-no-okite](https://cdn.myanimelist.net/images/manga/1/154642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: エリート本条家のオキテ

@@ -1,5 +1,7 @@
 # Henshin no News
 
+![henshin-no-news](https://cdn.myanimelist.net/images/manga/1/154750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

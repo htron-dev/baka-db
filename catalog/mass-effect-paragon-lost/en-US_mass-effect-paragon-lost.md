@@ -1,5 +1,7 @@
 # Mass Effect: Paragon Lost
 
+![mass-effect-paragon-lost](https://cdn.myanimelist.net/images/anime/13/40205.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マスエフェクト～失われたパラゴン

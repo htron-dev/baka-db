@@ -1,5 +1,7 @@
 # Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku nanoni Cheat Dungeon wo Tsukutteshimatta Kekka
 
+![jishou-heibon-mazoku-no-eiyuu-life-b-kyuu-mazoku-nanoni-cheat-dungeon-wo-tsukutteshimatta-kekka](https://cdn.myanimelist.net/images/manga/3/199712.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 自称！平凡魔族の英雄ライフ ～ B 級魔族なのにチートダンジョンを作ってしまった結果～
 -   **start-date**: 2017-06-02

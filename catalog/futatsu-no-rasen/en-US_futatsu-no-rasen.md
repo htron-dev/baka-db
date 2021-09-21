@@ -1,5 +1,7 @@
 # Futatsu no Rasen
 
+![futatsu-no-rasen](https://cdn.myanimelist.net/images/manga/3/196069.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ふたつのラセン

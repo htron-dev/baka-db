@@ -1,5 +1,7 @@
 # Koko ga Uwasa no El Palacio
 
+![koko-ga-uwasa-no-el-palacio](https://cdn.myanimelist.net/images/manga/2/118669.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 53

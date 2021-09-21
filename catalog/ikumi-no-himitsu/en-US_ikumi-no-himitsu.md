@@ -1,5 +1,7 @@
 # Ikumi No Himitsu
 
+![ikumi-no-himitsu](https://cdn.myanimelist.net/images/manga/1/25231.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 47

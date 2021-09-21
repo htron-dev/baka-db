@@ -1,5 +1,7 @@
 # Kochira Samejima Kenkyuujo
 
+![kochira-samejima-kenkyuujo](https://cdn.myanimelist.net/images/manga/3/6025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: こちら鮫島研究所

@@ -1,5 +1,7 @@
 # Haiiro no Cinderella
 
+![haiiro-no-cinderella](https://cdn.myanimelist.net/images/manga/4/66267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

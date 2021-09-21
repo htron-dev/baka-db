@@ -1,5 +1,7 @@
 # Kekkou Kamen
 
+![kekkou-kamen](https://cdn.myanimelist.net/images/manga/3/159061.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

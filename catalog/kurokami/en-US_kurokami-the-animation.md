@@ -1,5 +1,7 @@
 # Kurokami The Animation
 
+![kurokami-the-animation](https://cdn.myanimelist.net/images/anime/12/78669.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 黒神 The Animation

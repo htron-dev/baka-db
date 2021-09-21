@@ -1,5 +1,7 @@
 # Houkago Undead
 
+![houkago-undead](https://cdn.myanimelist.net/images/manga/2/237378.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 放課後アンデッド

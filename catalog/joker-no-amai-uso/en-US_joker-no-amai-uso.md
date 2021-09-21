@@ -1,5 +1,7 @@
 # Joker no Amai Uso
 
+![joker-no-amai-uso](https://cdn.myanimelist.net/images/manga/3/161833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

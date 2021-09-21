@@ -1,5 +1,7 @@
 # Initial D First Stage
 
+![initial-d-first-stage](https://cdn.myanimelist.net/images/anime/13/6801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 頭文字〈イニシャル〉D

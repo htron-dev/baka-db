@@ -1,5 +1,7 @@
 # Heibon Ponch
 
+![heibon-ponch](https://cdn.myanimelist.net/images/manga/1/23403.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 平凡ポンチ

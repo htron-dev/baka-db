@@ -1,5 +1,7 @@
 # Kamisama ni Natta Hi
 
+![kamisama-ni-natta-hi](https://cdn.myanimelist.net/images/manga/1/245158.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様になった日
 -   **start-date**: 2020-11-14

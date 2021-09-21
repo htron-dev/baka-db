@@ -1,5 +1,7 @@
 # Kaette kudasai! Akutsu-san
 
+![kaette-kudasai-akutsu-san](https://cdn.myanimelist.net/images/manga/3/232084.jpg)
+
 -   **type**: manga
 -   **original-name**: 帰ってください！ 阿久津さん
 -   **start-date**: 2019-07-29

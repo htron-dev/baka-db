@@ -1,5 +1,7 @@
 # Fate/stay night: Unlimited Blade Works
 
+![fate-stay-night-unlimited-blade-works](https://cdn.myanimelist.net/images/anime/12/67333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Fate/stay night [Unlimited Blade Works]

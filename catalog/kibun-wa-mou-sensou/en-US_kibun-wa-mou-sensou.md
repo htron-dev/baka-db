@@ -1,5 +1,7 @@
 # Kibun wa Mou Sensou
 
+![kibun-wa-mou-sensou](https://cdn.myanimelist.net/images/manga/3/167570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

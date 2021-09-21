@@ -1,5 +1,7 @@
 # Kiss Shinakya Shinjau!?
 
+![kiss-shinakya-shinjau](https://cdn.myanimelist.net/images/manga/2/98123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

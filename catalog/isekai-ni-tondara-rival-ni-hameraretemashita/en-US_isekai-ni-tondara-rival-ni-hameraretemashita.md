@@ -1,5 +1,7 @@
 # Isekai ni Tondara Rival ni Hameraretemashita!?
 
+![isekai-ni-tondara-rival-ni-hameraretemashita](https://cdn.myanimelist.net/images/manga/1/222606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

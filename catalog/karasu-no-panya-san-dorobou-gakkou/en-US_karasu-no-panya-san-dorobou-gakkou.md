@@ -1,5 +1,7 @@
 # Karasu no Panya-san/Dorobou Gakkou
 
+![karasu-no-panya-san-dorobou-gakkou](https://cdn.myanimelist.net/images/anime/3/67457.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: からすのパンやさん／どろぼうがっこう

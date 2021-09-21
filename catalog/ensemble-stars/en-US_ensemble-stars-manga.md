@@ -1,5 +1,7 @@
 # Ensemble Stars!
 
+![ensemble-stars](https://cdn.myanimelist.net/images/manga/3/185370.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

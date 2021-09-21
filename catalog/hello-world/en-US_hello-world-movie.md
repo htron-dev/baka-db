@@ -1,5 +1,7 @@
 # Hello World
 
+![hello-world](https://cdn.myanimelist.net/images/anime/1147/112650.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハロー・ワールド

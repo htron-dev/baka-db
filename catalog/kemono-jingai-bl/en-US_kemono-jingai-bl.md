@@ -1,5 +1,7 @@
 # Kemono-Jingai BL
 
+![kemono-jingai-bl](https://cdn.myanimelist.net/images/manga/1/169793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

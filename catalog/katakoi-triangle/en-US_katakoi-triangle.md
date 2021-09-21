@@ -1,5 +1,7 @@
 # Katakoi Triangle
 
+![katakoi-triangle](https://cdn.myanimelist.net/images/manga/3/151737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kurd no Hoshi
 
+![kurd-no-hoshi](https://cdn.myanimelist.net/images/manga/2/198774.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: クルドの星

@@ -1,5 +1,7 @@
 # Juuroku Jizou Monogatari: Sensou no Gisei ni Natta Kodomo-tachi
 
+![juuroku-jizou-monogatari-sensou-no-gisei-ni-natta-kodomo-tachi](https://cdn.myanimelist.net/images/anime/6/74568.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 十六地蔵物語 ―戦争の犠牲になった子どもたち―

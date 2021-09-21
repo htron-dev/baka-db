@@ -1,5 +1,7 @@
 # Grand Liner
 
+![grand-liner](https://cdn.myanimelist.net/images/manga/3/21091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: グランドライナー

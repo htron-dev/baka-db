@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam's Counterattack
 
+![mobile-suit-sd-gundams-counterattack](https://cdn.myanimelist.net/images/anime/7/2546.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 機動戦士ＳＤガンダムの逆襲

@@ -1,5 +1,7 @@
 # Another World
 
+![another-world](https://cdn.myanimelist.net/images/anime/1804/113788.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: アナザー・ワールド

@@ -1,5 +1,7 @@
 # Fragile - Sayonara Tsuki no Haikyo
 
+![fragile-sayonara-tsuki-no-haikyo](https://cdn.myanimelist.net/images/manga/2/34971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

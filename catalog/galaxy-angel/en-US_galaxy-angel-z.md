@@ -1,5 +1,7 @@
 # Galaxy Angel Z
 
+![galaxy-angel-z](https://cdn.myanimelist.net/images/anime/5/29793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: ギャラクシーエンジェルＺ

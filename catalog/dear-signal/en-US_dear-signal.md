@@ -1,5 +1,7 @@
 # Dear Signal
 
+![dear-signal](https://cdn.myanimelist.net/images/manga/2/232364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

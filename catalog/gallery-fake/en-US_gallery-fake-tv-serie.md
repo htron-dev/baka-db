@@ -1,5 +1,7 @@
 # Gallery Fake
 
+![gallery-fake](https://cdn.myanimelist.net/images/anime/10/30129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: ギャラリーフェイク

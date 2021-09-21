@@ -1,5 +1,7 @@
 # Jiu Se Lu
 
+![jiu-se-lu](https://cdn.myanimelist.net/images/anime/9/38793.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 九色鹿

@@ -1,5 +1,7 @@
 # Ijiwaru Ecchi: Tenchou ga Do S to wa Shiranakatta
 
+![ijiwaru-ecchi-tenchou-ga-do-s-to-wa-shiranakatta](https://cdn.myanimelist.net/images/manga/3/193719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

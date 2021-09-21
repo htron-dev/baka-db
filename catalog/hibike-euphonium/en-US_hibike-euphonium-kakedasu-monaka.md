@@ -1,5 +1,7 @@
 # Hibike! Euphonium: Kakedasu Monaka
 
+![hibike-euphonium-kakedasu-monaka](https://cdn.myanimelist.net/images/anime/2/77322.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 響け！ユーフォニアム 番外編 かけだすモナカ

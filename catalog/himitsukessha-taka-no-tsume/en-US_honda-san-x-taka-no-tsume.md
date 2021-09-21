@@ -1,5 +1,7 @@
 # Honda-san x Taka no Tsume
 
+![honda-san-x-taka-no-tsume](https://cdn.myanimelist.net/images/anime/1348/96025.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 本田さん × 鷹の爪

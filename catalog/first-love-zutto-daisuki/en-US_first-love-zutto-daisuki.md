@@ -1,5 +1,7 @@
 # First Love - Zutto Daisuki
 
+![first-love-zutto-daisuki](https://cdn.myanimelist.net/images/manga/1/29692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: First Love ～ずっと大好き～

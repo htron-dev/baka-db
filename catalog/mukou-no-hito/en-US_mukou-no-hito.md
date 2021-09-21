@@ -1,5 +1,7 @@
 # Mukou no Hito
 
+![mukou-no-hito](https://cdn.myanimelist.net/images/manga/2/236079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

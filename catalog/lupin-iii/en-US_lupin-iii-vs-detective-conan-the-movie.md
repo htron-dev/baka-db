@@ -1,5 +1,7 @@
 # Lupin III vs. Detective Conan: The Movie
 
+![lupin-iii-vs-detective-conan-the-movie](https://cdn.myanimelist.net/images/anime/4/51663.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世 vs.名探偵コナン THE MOVIE

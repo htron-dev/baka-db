@@ -1,5 +1,7 @@
 # Konkatsu Tairiku
 
+![konkatsu-tairiku](https://cdn.myanimelist.net/images/manga/2/204949.jpg)
+
 -   **type**: manga
 -   **original-name**: 婚活大陸
 -   **start-date**: 2017-11-28

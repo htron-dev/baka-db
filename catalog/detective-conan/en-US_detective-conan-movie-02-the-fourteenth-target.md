@@ -1,5 +1,7 @@
 # Detective Conan Movie 02: The Fourteenth Target
 
+![detective-conan-movie-02-the-fourteenth-target](https://cdn.myanimelist.net/images/anime/1900/94316.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン １４番目の標的

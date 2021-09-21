@@ -1,5 +1,7 @@
 # Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai
 
+![imouto-no-tomodachi-ga-nani-kangaeteru-no-ka-wakaranai](https://cdn.myanimelist.net/images/manga/1/241358.jpg)
+
 -   **type**: manga
 -   **original-name**: 妹の友達が何考えてるのかわからない
 -   **start-date**: 2020-04-29

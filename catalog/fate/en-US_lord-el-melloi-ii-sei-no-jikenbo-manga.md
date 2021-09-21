@@ -1,5 +1,7 @@
 # Lord El-Melloi II-sei no Jikenbo
 
+![lord-el-melloi-ii-sei-no-jikenbo](https://cdn.myanimelist.net/images/manga/2/210488.jpg)
+
 -   **type**: manga
 -   **original-name**: ロード・エルメロイ Ⅱ 世の事件簿
 -   **start-date**: 2017-10-04

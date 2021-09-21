@@ -1,5 +1,7 @@
 # Kimi wa Junai ni Fusawashii
 
+![kimi-wa-junai-ni-fusawashii](https://cdn.myanimelist.net/images/manga/3/245891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

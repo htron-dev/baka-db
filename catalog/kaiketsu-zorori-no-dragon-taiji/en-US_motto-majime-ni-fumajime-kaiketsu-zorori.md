@@ -1,5 +1,7 @@
 # Motto! Majime ni Fumajime Kaiketsu Zorori
 
+![motto-majime-ni-fumajime-kaiketsu-zorori](https://cdn.myanimelist.net/images/anime/1401/106017.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: もっと! まじめにふまじめ かいけつゾロリ

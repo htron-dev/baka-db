@@ -1,5 +1,7 @@
 # Kyupiko!: Fushimatsu Tenshi no Mismanagement
 
+![kyupiko-fushimatsu-tenshi-no-mismanagement](https://cdn.myanimelist.net/images/manga/1/182653.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

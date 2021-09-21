@@ -1,5 +1,7 @@
 # Ikkitousen: Great Guardians Specials
 
+![ikkitousen-great-guardians-specials](https://cdn.myanimelist.net/images/anime/12/10756.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 一騎当千: Great Guardians

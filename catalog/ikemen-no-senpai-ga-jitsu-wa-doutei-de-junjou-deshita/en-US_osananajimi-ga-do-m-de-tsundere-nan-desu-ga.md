@@ -1,5 +1,7 @@
 # Osananajimi ga Do M de Tsundere Nan desu ga
 
+![osananajimi-ga-do-m-de-tsundere-nan-desu-ga](https://cdn.myanimelist.net/images/manga/3/196979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hozumi-sensei to Matsuri-kun to.
 
+![hozumi-sensei-to-matsuri-kun-to](https://cdn.myanimelist.net/images/manga/3/247178.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ホヅミ先生と茉莉くんと。
 -   **start-date**: 2021-02-10

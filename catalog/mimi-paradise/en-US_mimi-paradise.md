@@ -1,5 +1,7 @@
 # Mimi Paradise
 
+![mimi-paradise](https://cdn.myanimelist.net/images/manga/3/11186.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

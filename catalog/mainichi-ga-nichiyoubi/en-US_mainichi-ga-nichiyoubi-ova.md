@@ -1,5 +1,7 @@
 # Mainichi ga Nichiyoubi
 
+![mainichi-ga-nichiyoubi](https://cdn.myanimelist.net/images/anime/3/62363.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 毎日が日曜日

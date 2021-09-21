@@ -1,5 +1,7 @@
 # Kamui Gaiden Daini-bu
 
+![kamui-gaiden-daini-bu](https://cdn.myanimelist.net/images/manga/3/27263.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 116

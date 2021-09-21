@@ -1,5 +1,7 @@
 # Honoo no Mirage: Minagiwa no Hangyakusha
 
+![honoo-no-mirage-minagiwa-no-hangyakusha](https://cdn.myanimelist.net/images/anime/10/24778.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 炎の蜃気楼～みなぎわの反逆者～

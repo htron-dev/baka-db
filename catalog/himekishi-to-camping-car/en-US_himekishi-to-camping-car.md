@@ -1,5 +1,7 @@
 # Himekishi to Camping Car
 
+![himekishi-to-camping-car](https://cdn.myanimelist.net/images/manga/1/162936.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 52

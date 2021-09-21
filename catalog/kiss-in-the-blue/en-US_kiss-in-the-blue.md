@@ -1,5 +1,7 @@
 # Kiss in the Blue
 
+![kiss-in-the-blue](https://cdn.myanimelist.net/images/manga/2/5848.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

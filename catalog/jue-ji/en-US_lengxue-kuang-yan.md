@@ -1,5 +1,7 @@
 # Lengxue Kuang Yan
 
+![lengxue-kuang-yan](https://cdn.myanimelist.net/images/anime/1639/113687.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 冷血狂宴

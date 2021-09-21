@@ -1,5 +1,7 @@
 # Mahoutsukai no Shinyuu
 
+![mahoutsukai-no-shinyuu](https://cdn.myanimelist.net/images/manga/2/79767.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

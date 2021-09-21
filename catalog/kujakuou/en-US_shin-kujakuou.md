@@ -1,5 +1,7 @@
 # Shin Kujakuou
 
+![shin-kujakuou](https://cdn.myanimelist.net/images/anime/12/82865.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 真・孔雀王

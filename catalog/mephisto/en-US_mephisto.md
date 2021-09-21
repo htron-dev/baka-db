@@ -1,5 +1,7 @@
 # Mephisto
 
+![mephisto](https://cdn.myanimelist.net/images/manga/2/172105.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # Kazemakase Tsukikage Ran
 
+![kazemakase-tsukikage-ran](https://cdn.myanimelist.net/images/manga/4/92197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 風まかせ月影蘭

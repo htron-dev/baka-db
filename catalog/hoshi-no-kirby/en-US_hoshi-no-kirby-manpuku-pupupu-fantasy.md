@@ -1,5 +1,7 @@
 # Hoshi no Kirby: Manpuku Pupupu Fantasy
 
+![hoshi-no-kirby-manpuku-pupupu-fantasy](https://cdn.myanimelist.net/images/manga/3/241377.jpg)
+
 -   **type**: manga
 -   **original-name**: 星のカービィ 〜まんぷくプププファンタジー〜
 -   **start-date**: 2016-10-15

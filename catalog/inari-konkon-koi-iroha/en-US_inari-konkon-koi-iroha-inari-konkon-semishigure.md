@@ -1,5 +1,7 @@
 # Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.
 
+![inari-konkon-koi-iroha-inari-konkon-semishigure](https://cdn.myanimelist.net/images/anime/5/64903.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いなり、こんこん、恋いろは。いなり、コンコン、蝉しぐれ。

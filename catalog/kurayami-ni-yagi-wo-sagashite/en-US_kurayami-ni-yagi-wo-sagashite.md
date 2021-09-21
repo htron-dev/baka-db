@@ -1,5 +1,7 @@
 # Kurayami ni Yagi wo Sagashite
 
+![kurayami-ni-yagi-wo-sagashite](https://cdn.myanimelist.net/images/manga/3/163268.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

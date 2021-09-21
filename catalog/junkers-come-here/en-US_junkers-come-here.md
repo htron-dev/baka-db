@@ -1,5 +1,7 @@
 # Junkers Come Here
 
+![junkers-come-here](https://cdn.myanimelist.net/images/manga/3/13129.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ユンカース・カム・ヒア

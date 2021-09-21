@@ -1,5 +1,7 @@
 # Minagoroshi no Arthur
 
+![minagoroshi-no-arthur](https://cdn.myanimelist.net/images/manga/1/228102.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

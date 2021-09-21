@@ -1,5 +1,7 @@
 # Hakushaku Reijou to Ijiwaru na Shimobe: Daifugou no Takurami
 
+![hakushaku-reijou-to-ijiwaru-na-shimobe-daifugou-no-takurami](https://cdn.myanimelist.net/images/manga/1/183831.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

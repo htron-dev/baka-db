@@ -1,5 +1,7 @@
 # Migawari Hanayome wa Ai wo Kowareru: Umi no Miyako ni Chiru Junketsu
 
+![migawari-hanayome-wa-ai-wo-kowareru-umi-no-miyako-ni-chiru-junketsu](https://cdn.myanimelist.net/images/manga/2/184642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

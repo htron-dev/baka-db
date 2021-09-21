@@ -1,5 +1,7 @@
 # Lavender wa Kiken na Kaori
 
+![lavender-wa-kiken-na-kaori](https://cdn.myanimelist.net/images/manga/2/62467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Maid wa Susumuyo Dokomademo!
 
+![maid-wa-susumuyo-dokomademo](https://cdn.myanimelist.net/images/manga/2/195899.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

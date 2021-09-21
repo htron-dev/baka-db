@@ -1,5 +1,7 @@
 # Inazuma Eleven
 
+![inazuma-eleven](https://cdn.myanimelist.net/images/manga/2/177907.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 43

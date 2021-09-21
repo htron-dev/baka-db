@@ -1,5 +1,7 @@
 # Kanojo Gacha
 
+![kanojo-gacha](https://cdn.myanimelist.net/images/manga/2/226730.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼女ガチャ
 -   **start-date**: 2019-05-17

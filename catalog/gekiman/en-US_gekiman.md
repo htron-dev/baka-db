@@ -1,5 +1,7 @@
 # Gekiman!
 
+![gekiman](https://cdn.myanimelist.net/images/manga/2/39844.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 激マン!

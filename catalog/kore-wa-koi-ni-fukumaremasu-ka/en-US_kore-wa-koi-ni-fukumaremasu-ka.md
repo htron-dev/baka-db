@@ -1,5 +1,7 @@
 # Kore wa Koi ni Fukumaremasu ka
 
+![kore-wa-koi-ni-fukumaremasu-ka](https://cdn.myanimelist.net/images/manga/1/180732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

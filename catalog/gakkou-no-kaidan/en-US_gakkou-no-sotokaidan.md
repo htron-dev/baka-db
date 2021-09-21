@@ -1,5 +1,7 @@
 # Gakkou no Sotokaidan
 
+![gakkou-no-sotokaidan](https://cdn.myanimelist.net/images/manga/2/161965.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Last Dive
 
+![last-dive](https://cdn.myanimelist.net/images/manga/1/18363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

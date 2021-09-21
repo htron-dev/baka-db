@@ -1,5 +1,7 @@
 # Infini-T Force: Mirai no Byousen
 
+![infini-t-force-mirai-no-byousen](https://cdn.myanimelist.net/images/manga/1/175310.jpg)
+
 -   **type**: manga
 -   **original-name**: Infini-T Force 未来の描線
 -   **start-date**: 2015-10-31

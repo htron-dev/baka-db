@@ -1,5 +1,7 @@
 # Eila to Totsukuni no Ou
 
+![eila-to-totsukuni-no-ou](https://cdn.myanimelist.net/images/manga/2/226471.jpg)
+
 -   **type**: manga
 -   **original-name**: エイラと外つ国の王
 -   **start-date**: 2019-06-06

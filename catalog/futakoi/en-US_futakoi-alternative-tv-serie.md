@@ -1,5 +1,7 @@
 # Futakoi Alternative
 
+![futakoi-alternative](https://cdn.myanimelist.net/images/anime/6/16733.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フタコイ オルタナティブ

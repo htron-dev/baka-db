@@ -1,5 +1,7 @@
 # Kimi Nashi ja Irarenai
 
+![kimi-nashi-ja-irarenai](https://cdn.myanimelist.net/images/manga/2/78037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Haikei, Akuma na Kishi-sama no Hanayome ni Narimashite: Amaama Shinkon Fuufu Mezashite Ganbarimasu!
 
+![haikei-akuma-na-kishi-sama-no-hanayome-ni-narimashite-amaama-shinkon-fuufu-mezashite-ganbarimasu](https://cdn.myanimelist.net/images/manga/1/248050.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

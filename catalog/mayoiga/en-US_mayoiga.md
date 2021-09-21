@@ -1,5 +1,7 @@
 # Mayoiga
 
+![mayoiga](https://cdn.myanimelist.net/images/anime/4/79413.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 迷家-マヨイガ-

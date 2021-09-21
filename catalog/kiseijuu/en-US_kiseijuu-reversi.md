@@ -1,5 +1,7 @@
 # Kiseijuu Reversi
 
+![kiseijuu-reversi](https://cdn.myanimelist.net/images/manga/3/225856.jpg)
+
 -   **type**: manga
 -   **original-name**: 寄生獣リバーシ
 -   **start-date**: 2018-03-02

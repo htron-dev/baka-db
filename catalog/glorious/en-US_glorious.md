@@ -1,5 +1,7 @@
 # Glorious
 
+![glorious](https://cdn.myanimelist.net/images/manga/2/71061.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 연재작정보
 

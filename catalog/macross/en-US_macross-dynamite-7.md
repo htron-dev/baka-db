@@ -1,5 +1,7 @@
 # Macross Dynamite 7
 
+![macross-dynamite-7](https://cdn.myanimelist.net/images/anime/13/15647.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: マクロスダイナマイト 7

@@ -1,5 +1,7 @@
 # Himegoto wa Hanazono
 
+![himegoto-wa-hanazono](https://cdn.myanimelist.net/images/manga/1/27917.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

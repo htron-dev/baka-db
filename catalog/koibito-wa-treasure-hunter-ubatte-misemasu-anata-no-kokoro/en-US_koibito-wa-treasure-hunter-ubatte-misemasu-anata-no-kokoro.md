@@ -1,5 +1,7 @@
 # Koibito wa Treasure Hunter: Ubatte Misemasu Anata no Kokoro
 
+![koibito-wa-treasure-hunter-ubatte-misemasu-anata-no-kokoro](https://cdn.myanimelist.net/images/manga/1/196424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

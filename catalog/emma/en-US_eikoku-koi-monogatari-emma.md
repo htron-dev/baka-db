@@ -1,5 +1,7 @@
 # Eikoku Koi Monogatari Emma
 
+![eikoku-koi-monogatari-emma](https://cdn.myanimelist.net/images/anime/5/80117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 英國戀物語エマ

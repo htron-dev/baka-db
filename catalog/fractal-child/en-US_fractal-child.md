@@ -1,5 +1,7 @@
 # Fractal Child
 
+![fractal-child](https://cdn.myanimelist.net/images/manga/1/139129.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: フラクタル・チャイルド

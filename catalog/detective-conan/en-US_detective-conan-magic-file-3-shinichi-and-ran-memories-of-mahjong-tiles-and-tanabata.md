@@ -1,5 +1,7 @@
 # Detective Conan Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata
 
+![detective-conan-magic-file-3-shinichi-and-ran-memories-of-mahjong-tiles-and-tanabata](https://cdn.myanimelist.net/images/anime/9/37977.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン Magic File 3 新一と蘭 麻雀牌と七夕の思い出

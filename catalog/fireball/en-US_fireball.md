@@ -1,5 +1,7 @@
 # Fireball
 
+![fireball](https://cdn.myanimelist.net/images/anime/11/27729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ファイアボール

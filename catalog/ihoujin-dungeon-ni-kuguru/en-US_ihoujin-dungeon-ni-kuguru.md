@@ -1,5 +1,7 @@
 # Ihoujin, Dungeon ni Kuguru.
 
+![ihoujin-dungeon-ni-kuguru](https://cdn.myanimelist.net/images/manga/1/226572.jpg)
+
 -   **type**: manga
 -   **original-name**: 異邦人、ダンジョンに潜る。
 -   **start-date**: 2019-09-26

@@ -1,5 +1,7 @@
 # Fushichou e no Tensei: Dragon Taoseru tte Futsuu no Tori ja Nai yo ne?
 
+![fushichou-e-no-tensei-dragon-taoseru-tte-futsuu-no-tori-ja-nai-yo-ne](https://cdn.myanimelist.net/images/manga/1/237773.jpg)
+
 -   **type**: manga
 -   **original-name**: 不死鳥への転生 ドラゴン倒せるって普通の鳥じゃないよね?
 -   **start-date**: 2020-04-27

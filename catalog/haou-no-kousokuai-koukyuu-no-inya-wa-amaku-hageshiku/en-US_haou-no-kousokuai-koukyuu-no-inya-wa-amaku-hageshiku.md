@@ -1,5 +1,7 @@
 # Haou no Kousokuai: Koukyuu no Inya wa Amaku Hageshiku
 
+![haou-no-kousokuai-koukyuu-no-inya-wa-amaku-hageshiku](https://cdn.myanimelist.net/images/manga/1/192771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

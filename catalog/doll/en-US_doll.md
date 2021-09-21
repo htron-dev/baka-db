@@ -1,5 +1,7 @@
 # Doll
 
+![doll](https://cdn.myanimelist.net/images/manga/1/152341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

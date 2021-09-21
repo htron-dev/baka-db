@@ -1,5 +1,7 @@
 # Itsuka Sora kara
 
+![itsuka-sora-kara](https://cdn.myanimelist.net/images/manga/1/80011.jpg)
+
 -   **type**: manga
 -   **original-name**: いつか空から
 -   **start-date**: 2010-07-12

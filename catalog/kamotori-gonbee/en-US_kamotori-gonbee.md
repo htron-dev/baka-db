@@ -1,5 +1,7 @@
 # Kamotori Gonbee
 
+![kamotori-gonbee](https://cdn.myanimelist.net/images/anime/9/79722.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かもとりごんべえ

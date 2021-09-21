@@ -1,5 +1,7 @@
 # Crow Record: Infinite Dendrogram Aot
 
+![crow-record-infinite-dendrogram-aot](https://cdn.myanimelist.net/images/manga/3/227624.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

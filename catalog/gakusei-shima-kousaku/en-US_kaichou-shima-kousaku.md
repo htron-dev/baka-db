@@ -1,5 +1,7 @@
 # Kaichou Shima Kousaku
 
+![kaichou-shima-kousaku](https://cdn.myanimelist.net/images/manga/3/129013.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 138

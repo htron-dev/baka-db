@@ -1,5 +1,7 @@
 # Hitomi de Watashi wo Tsukamaete
 
+![hitomi-de-watashi-wo-tsukamaete](https://cdn.myanimelist.net/images/manga/1/19399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

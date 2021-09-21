@@ -1,5 +1,7 @@
 # Daddy Long Legs
 
+![daddy-long-legs](https://cdn.myanimelist.net/images/manga/3/152918.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

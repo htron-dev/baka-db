@@ -1,5 +1,7 @@
 # Last Boss Majo wa Katabutsu Juusha to Tawamureru
 
+![last-boss-majo-wa-katabutsu-juusha-to-tawamureru](https://cdn.myanimelist.net/images/manga/3/235185.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: らすぼす魔女は堅物従者と戯れる

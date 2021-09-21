@@ -1,5 +1,7 @@
 # Koi ni Koisuru Yukari-chan
 
+![koi-ni-koisuru-yukari-chan](https://cdn.myanimelist.net/images/manga/3/206654.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 恋に恋するユカリちゃん

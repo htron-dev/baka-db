@@ -1,5 +1,7 @@
 # Dear Green: Hitomi no Ounowa
 
+![dear-green-hitomi-no-ounowa](https://cdn.myanimelist.net/images/manga/4/30840.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Hanada Shounen-shi
 
+![hanada-shounen-shi](https://cdn.myanimelist.net/images/manga/1/7011.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

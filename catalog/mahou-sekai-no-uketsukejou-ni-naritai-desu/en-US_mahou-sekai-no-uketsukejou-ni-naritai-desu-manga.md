@@ -1,5 +1,7 @@
 # Mahou Sekai no Uketsukejou ni Naritai desu
 
+![mahou-sekai-no-uketsukejou-ni-naritai-desu](https://cdn.myanimelist.net/images/manga/3/224414.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法世界の受付嬢になりたいです
 -   **start-date**: 2019-04-05

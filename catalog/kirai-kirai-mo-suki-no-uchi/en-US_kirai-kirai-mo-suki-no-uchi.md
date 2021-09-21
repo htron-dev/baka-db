@@ -1,5 +1,7 @@
 # Kirai Kirai mo Suki no Uchi.
 
+![kirai-kirai-mo-suki-no-uchi](https://cdn.myanimelist.net/images/manga/1/129137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

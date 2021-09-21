@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00P
 
+![mobile-suit-gundam-00-p](https://cdn.myanimelist.net/images/manga/2/111845.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **start-date**: 2008-05-20

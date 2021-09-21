@@ -1,5 +1,7 @@
 # Gate: Teikoku no Bara Kishidan - Piña Co Lada 14-sai
 
+![gate-teikoku-no-bara-kishidan-pina-co-lada-14-sai](https://cdn.myanimelist.net/images/manga/3/179298.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

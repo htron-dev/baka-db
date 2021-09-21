@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Kuroi Tokage to Nigai Aji
 
+![clover-no-kuni-no-alice-kuroi-tokage-to-nigai-aji](https://cdn.myanimelist.net/images/manga/2/42623.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

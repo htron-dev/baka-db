@@ -1,5 +1,7 @@
 # Ninja Bugei-chou
 
+![ninja-bugei-chou](https://cdn.myanimelist.net/images/anime/7/10466.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍者武芸帳

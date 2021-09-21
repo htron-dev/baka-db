@@ -1,5 +1,7 @@
 # Kaze no Uta wo Kike
 
+![kaze-no-uta-wo-kike](https://cdn.myanimelist.net/images/manga/1/39658.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

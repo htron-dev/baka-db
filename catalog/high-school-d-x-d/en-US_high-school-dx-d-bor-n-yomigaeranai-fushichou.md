@@ -1,5 +1,7 @@
 # High School DxD BorN: Yomigaeranai Fushichou
 
+![high-school-dx-d-bor-n-yomigaeranai-fushichou](https://cdn.myanimelist.net/images/anime/7/77358.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハイスクール D×D BorN OVA 蘇らない不死鳥

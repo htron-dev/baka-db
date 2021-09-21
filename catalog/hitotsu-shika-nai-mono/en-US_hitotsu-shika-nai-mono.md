@@ -1,5 +1,7 @@
 # Hitotsu shika Nai Mono
 
+![hitotsu-shika-nai-mono](https://cdn.myanimelist.net/images/manga/2/221576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

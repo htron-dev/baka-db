@@ -1,5 +1,7 @@
 # Kyou mo Ashita mo.
 
+![kyou-mo-ashita-mo](https://cdn.myanimelist.net/images/manga/5/35820.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 63

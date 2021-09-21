@@ -1,5 +1,7 @@
 # Koukyuu ni Saku Himitsu no Hana: Koutei ni Aisareta Shikaku
 
+![koukyuu-ni-saku-himitsu-no-hana-koutei-ni-aisareta-shikaku](https://cdn.myanimelist.net/images/manga/2/191538.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

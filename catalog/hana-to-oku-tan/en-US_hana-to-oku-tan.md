@@ -1,5 +1,7 @@
 # Hana to Oku-tan
 
+![hana-to-oku-tan](https://cdn.myanimelist.net/images/manga/1/222484.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

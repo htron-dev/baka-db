@@ -1,5 +1,7 @@
 # Kanojo to Kanojo no Shitagi Jijou.
 
+![kanojo-to-kanojo-no-shitagi-jijou](https://cdn.myanimelist.net/images/manga/1/162834.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 姉〈かのじょ〉と妹〈カノジョ〉の下着事情。
 -   **start-date**: 2015-09-15

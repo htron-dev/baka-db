@@ -1,5 +1,7 @@
 # Dousei Chuu!!
 
+![dousei-chuu](https://cdn.myanimelist.net/images/manga/1/87735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

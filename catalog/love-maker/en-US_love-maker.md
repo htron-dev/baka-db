@@ -1,5 +1,7 @@
 # Love-Maker
 
+![love-maker](https://cdn.myanimelist.net/images/manga/2/17339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

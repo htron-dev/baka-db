@@ -1,5 +1,7 @@
 # Goshujinsama wa Ouji ga Osuki
 
+![goshujinsama-wa-ouji-ga-osuki](https://cdn.myanimelist.net/images/manga/1/224783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

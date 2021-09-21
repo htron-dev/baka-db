@@ -1,5 +1,7 @@
 # Impossible High School
 
+![impossible-high-school](https://cdn.myanimelist.net/images/manga/1/163058.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

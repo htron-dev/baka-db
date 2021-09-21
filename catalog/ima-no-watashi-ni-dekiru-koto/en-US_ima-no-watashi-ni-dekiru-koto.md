@@ -1,5 +1,7 @@
 # Ima no Watashi ni Dekiru Koto...
 
+![ima-no-watashi-ni-dekiru-koto](https://cdn.myanimelist.net/images/anime/3/82196.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: イマノワタシニデキルコト…

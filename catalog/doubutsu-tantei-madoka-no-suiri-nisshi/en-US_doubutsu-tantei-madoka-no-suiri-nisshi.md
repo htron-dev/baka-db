@@ -1,5 +1,7 @@
 # Doubutsu Tantei Madoka no Suiri Nisshi
 
+![doubutsu-tantei-madoka-no-suiri-nisshi](https://cdn.myanimelist.net/images/manga/2/107627.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

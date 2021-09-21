@@ -1,5 +1,7 @@
 # Double♥Mind
 
+![double♥-mind](https://cdn.myanimelist.net/images/manga/1/156065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ダブル ♥ マインド

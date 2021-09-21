@@ -1,5 +1,7 @@
 # Esprit
 
+![esprit](https://cdn.myanimelist.net/images/manga/2/50571.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 30

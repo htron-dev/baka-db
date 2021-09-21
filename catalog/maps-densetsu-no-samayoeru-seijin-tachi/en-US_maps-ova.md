@@ -1,5 +1,7 @@
 # Maps
 
+![maps](https://cdn.myanimelist.net/images/anime/4/22262.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: マップス

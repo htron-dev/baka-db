@@ -1,5 +1,7 @@
 # Hajimetedarake no Watashitachi
 
+![hajimetedarake-no-watashitachi](https://cdn.myanimelist.net/images/manga/1/230772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

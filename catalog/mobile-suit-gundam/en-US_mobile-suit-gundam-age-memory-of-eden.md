@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE: Memory of Eden
 
+![mobile-suit-gundam-age-memory-of-eden](https://cdn.myanimelist.net/images/anime/5/52775.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 機動戦士ガンダム AGE MEMORY OF EDEN

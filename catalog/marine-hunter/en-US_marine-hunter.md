@@ -1,5 +1,7 @@
 # Marine Hunter
 
+![marine-hunter](https://cdn.myanimelist.net/images/manga/1/39671.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

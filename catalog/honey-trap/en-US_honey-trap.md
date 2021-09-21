@@ -1,5 +1,7 @@
 # Honey Trap
 
+![honey-trap](https://cdn.myanimelist.net/images/manga/2/22118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハニートラップ

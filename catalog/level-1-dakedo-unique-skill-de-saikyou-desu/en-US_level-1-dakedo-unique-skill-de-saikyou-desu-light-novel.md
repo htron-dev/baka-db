@@ -1,5 +1,7 @@
 # Level 1 dakedo Unique Skill de Saikyou desu
 
+![level-1-dakedo-unique-skill-de-saikyou-desu](https://cdn.myanimelist.net/images/manga/1/200166.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レベル 1 だけどユニークスキルで最強です
 -   **start-date**: 2017-09-01

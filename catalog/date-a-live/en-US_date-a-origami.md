@@ -1,5 +1,7 @@
 # Date A Origami
 
+![date-a-origami](https://cdn.myanimelist.net/images/manga/2/118843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

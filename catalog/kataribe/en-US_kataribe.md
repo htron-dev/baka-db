@@ -1,5 +1,7 @@
 # Kataribe
 
+![kataribe](https://cdn.myanimelist.net/images/manga/3/202646.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

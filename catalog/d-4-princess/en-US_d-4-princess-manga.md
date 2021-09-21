@@ -1,5 +1,7 @@
 # D4 Princess
 
+![d-4-princess](https://cdn.myanimelist.net/images/manga/3/248297.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

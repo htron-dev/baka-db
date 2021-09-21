@@ -1,5 +1,7 @@
 # Granblue Fantasy
 
+![granblue-fantasy](https://cdn.myanimelist.net/images/manga/1/212636.jpg)
+
 -   **type**: light-novel
 -   **original-name**: グランブルーファンタジー
 -   **start-date**: 2014-12-26

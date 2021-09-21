@@ -1,5 +1,7 @@
 # Kanadian Families: Episode Zero
 
+![kanadian-families-episode-zero](https://cdn.myanimelist.net/images/anime/4/73864.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かな～でぃあん ファミリーズ　エピソードぜろ

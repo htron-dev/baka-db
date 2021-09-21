@@ -1,5 +1,7 @@
 # Kuzu Seito to Stalker Sensei
 
+![kuzu-seito-to-stalker-sensei](https://cdn.myanimelist.net/images/manga/2/220412.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

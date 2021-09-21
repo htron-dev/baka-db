@@ -1,5 +1,7 @@
 # Kubi wo Kiraneba Wakarumai
 
+![kubi-wo-kiraneba-wakarumai](https://cdn.myanimelist.net/images/manga/3/244895.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

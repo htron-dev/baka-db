@@ -1,5 +1,7 @@
 # Kuma to Tanuki
 
+![kuma-to-tanuki](https://cdn.myanimelist.net/images/manga/2/228677.jpg)
+
 -   **type**: manga
 -   **original-name**: クマとたぬき
 -   **start-date**: 2018-06-29

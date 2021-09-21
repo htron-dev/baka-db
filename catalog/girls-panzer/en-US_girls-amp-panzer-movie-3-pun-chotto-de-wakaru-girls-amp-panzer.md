@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Movie: 3-pun Chotto de Wakaru!! Girls &amp; Panzer
 
+![girls-amp-panzer-movie-3-pun-chotto-de-wakaru-girls-amp-panzer](https://cdn.myanimelist.net/images/anime/13/81095.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガールズ&パンツァー 劇場版 3 分ちょっとでわかる!! ガールズ&パンツァー

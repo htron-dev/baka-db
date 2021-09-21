@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Unicorn: Bande Dessinee
 
+![kidou-senshi-gundam-unicorn-bande-dessinee](https://cdn.myanimelist.net/images/manga/1/187857.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 78

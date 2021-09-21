@@ -1,5 +1,7 @@
 # Keiyaku Fiancée Ikusei Keikaku: Oresama Shachou ni Dekiai Sarete
 
+![keiyaku-fiancee-ikusei-keikaku-oresama-shachou-ni-dekiai-sarete](https://cdn.myanimelist.net/images/manga/3/194674.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 契約フィアンセ育成計画～俺様社長に溺愛されて～

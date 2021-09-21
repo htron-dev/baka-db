@@ -1,5 +1,7 @@
 # Hanayome wa Namida ni Nureru
 
+![hanayome-wa-namida-ni-nureru](https://cdn.myanimelist.net/images/manga/2/67307.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hayachine!
 
+![hayachine](https://cdn.myanimelist.net/images/manga/3/188798.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

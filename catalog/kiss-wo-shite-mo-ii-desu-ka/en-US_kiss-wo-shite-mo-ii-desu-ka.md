@@ -1,5 +1,7 @@
 # Kiss wo Shite mo Ii desu ka
 
+![kiss-wo-shite-mo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/152891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

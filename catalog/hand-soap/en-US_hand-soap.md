@@ -1,5 +1,7 @@
 # Hand Soap
 
+![hand-soap](https://cdn.myanimelist.net/images/anime/6/69841.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハンドソープ

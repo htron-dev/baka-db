@@ -1,5 +1,7 @@
 # The iDOLM@STER: Innocent Blue for Dearly Stars
 
+![the-i-dolm-ster-innocent-blue-for-dearly-stars](https://cdn.myanimelist.net/images/manga/2/165248.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

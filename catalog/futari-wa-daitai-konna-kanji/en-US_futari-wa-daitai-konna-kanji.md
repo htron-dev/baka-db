@@ -1,5 +1,7 @@
 # Futari wa Daitai Konna Kanji
 
+![futari-wa-daitai-konna-kanji](https://cdn.myanimelist.net/images/manga/1/236200.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりはだいたいこんなかんじ
 -   **start-date**: 2020-01-03

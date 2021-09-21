@@ -1,5 +1,7 @@
 # Kekkai Sensen &amp; Beyond: Zapp Renfro Ingaouhouchuu!!/Baccardio no Shizuku
 
+![kekkai-sensen-amp-beyond-zapp-renfro-ingaouhouchuu-baccardio-no-shizuku](https://cdn.myanimelist.net/images/anime/1874/96668.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 血界戦線 & BEYOND ザップ・レンフロ因果応報中!! / バッカーディオの雫

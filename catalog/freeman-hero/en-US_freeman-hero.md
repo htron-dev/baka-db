@@ -1,5 +1,7 @@
 # Freeman Hero
 
+![freeman-hero](https://cdn.myanimelist.net/images/manga/3/46643.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 自由人 HERO / フリーマンヒーロー

@@ -1,5 +1,7 @@
 # Dawn: Tsumetai Te
 
+![dawn-tsumetai-te](https://cdn.myanimelist.net/images/manga/3/150345.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

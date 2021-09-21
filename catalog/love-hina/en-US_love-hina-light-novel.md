@@ -1,5 +1,7 @@
 # Love Hina
 
+![love-hina](https://cdn.myanimelist.net/images/manga/2/185606.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 6

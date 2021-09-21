@@ -1,5 +1,7 @@
 # Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi
 
+![escha-logy-no-atelier-tasogare-no-sora-no-renkinjutsushi](https://cdn.myanimelist.net/images/manga/2/164743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

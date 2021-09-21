@@ -1,5 +1,7 @@
 # Mystical
 
+![mystical](https://cdn.myanimelist.net/images/manga/2/244674.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 신비
 -   **start-date**: 2020-02-20

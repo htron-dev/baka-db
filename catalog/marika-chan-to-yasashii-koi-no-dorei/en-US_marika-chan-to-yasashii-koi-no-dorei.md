@@ -1,5 +1,7 @@
 # Marika-chan to Yasashii Koi no Dorei
 
+![marika-chan-to-yasashii-koi-no-dorei](https://cdn.myanimelist.net/images/manga/1/236961.jpg)
+
 -   **type**: manga
 -   **original-name**: 茉莉花ちゃんと優しい恋の奴隷
 -   **start-date**: 2019-09-06

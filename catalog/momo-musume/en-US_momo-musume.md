@@ -1,5 +1,7 @@
 # Momo Musume
 
+![momo-musume](https://cdn.myanimelist.net/images/manga/2/180672.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

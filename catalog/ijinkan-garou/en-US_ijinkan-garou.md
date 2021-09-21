@@ -1,5 +1,7 @@
 # Ijinkan Garou
 
+![ijinkan-garou](https://cdn.myanimelist.net/images/manga/2/117425.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異人館画廊
 -   **start-date**: 2014-02-25

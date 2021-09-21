@@ -1,5 +1,7 @@
 # Itsuwari Ou no Gladius
 
+![itsuwari-ou-no-gladius](https://cdn.myanimelist.net/images/manga/2/222204.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

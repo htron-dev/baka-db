@@ -1,5 +1,7 @@
 # Koneko-chan, Kocchi ni Oide
 
+![koneko-chan-kocchi-ni-oide](https://cdn.myanimelist.net/images/manga/2/200306.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

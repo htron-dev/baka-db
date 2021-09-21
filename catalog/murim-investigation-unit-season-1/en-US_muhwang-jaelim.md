@@ -1,5 +1,7 @@
 # Muhwang Jaelim
 
+![muhwang-jaelim](https://cdn.myanimelist.net/images/manga/2/216632.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 42

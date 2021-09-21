@@ -1,5 +1,7 @@
 # Danganronpa 1, 2: Comic Anthology
 
+![danganronpa-1-2-comic-anthology](https://cdn.myanimelist.net/images/manga/2/239002.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ダンガンロンパ 1・2 コミックアンソロジー

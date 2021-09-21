@@ -1,5 +1,7 @@
 # Bouken Dankichi: Hyouryuu no Maki
 
+![bouken-dankichi-hyouryuu-no-maki](https://cdn.myanimelist.net/images/anime/8/15853.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 冒険ダン吉～漂流の巻～

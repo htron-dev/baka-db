@@ -1,5 +1,7 @@
 # Kagerou-Nostalgia
 
+![kagerou-nostalgia](https://cdn.myanimelist.net/images/manga/1/14586.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 陽炎ノスタルジア

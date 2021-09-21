@@ -1,5 +1,7 @@
 # Kimi wa Mendou na Konyakusha
 
+![kimi-wa-mendou-na-konyakusha](https://cdn.myanimelist.net/images/manga/2/246824.jpg)
+
 -   **type**: manga
 -   **original-name**: きみは面倒な婚約者
 -   **start-date**: 2017-11-01

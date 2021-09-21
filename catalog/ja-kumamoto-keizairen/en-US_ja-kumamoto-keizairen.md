@@ -1,5 +1,7 @@
 # JA Kumamoto Keizairen
 
+![ja-kumamoto-keizairen](https://cdn.myanimelist.net/images/anime/10/81646.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: JA 熊本経済連

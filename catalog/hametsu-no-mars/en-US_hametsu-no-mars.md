@@ -1,5 +1,7 @@
 # Hametsu no Mars
 
+![hametsu-no-mars](https://cdn.myanimelist.net/images/anime/7/68855.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 破滅のマルス

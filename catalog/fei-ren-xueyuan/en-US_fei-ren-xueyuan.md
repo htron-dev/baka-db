@@ -1,5 +1,7 @@
 # Fei Ren Xueyuan
 
+![fei-ren-xueyuan](https://cdn.myanimelist.net/images/anime/1083/98946.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 非人学院

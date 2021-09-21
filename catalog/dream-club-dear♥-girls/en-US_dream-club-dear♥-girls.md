@@ -1,5 +1,7 @@
 # Dream Club: Dear♥Girls
 
+![dream-club-dear♥-girls](https://cdn.myanimelist.net/images/manga/3/37544.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

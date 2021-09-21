@@ -1,5 +1,7 @@
 # Kizumonogatari III: Reiketsu-hen
 
+![kizumonogatari-iii-reiketsu-hen](https://cdn.myanimelist.net/images/anime/1084/112813.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 傷物語〈Ⅲ 冷血篇〉

@@ -1,5 +1,7 @@
 # Gogulyeoui Jeolm-eun Musadeul
 
+![gogulyeoui-jeolm-eun-musadeul](https://cdn.myanimelist.net/images/anime/8/76380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 7
 -   **original-name**: 고구려의 젊은 무사들

@@ -1,5 +1,7 @@
 # Galaxy Angel Rune
 
+![galaxy-angel-rune](https://cdn.myanimelist.net/images/anime/12/76294.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ギャラクシーエンジェる～ん

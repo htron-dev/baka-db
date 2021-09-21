@@ -1,5 +1,7 @@
 # Jinnai Ryuujuujutsu Rurouden Majima, Bazeru!!
 
+![jinnai-ryuujuujutsu-rurouden-majima-bazeru](https://cdn.myanimelist.net/images/manga/3/216030.jpg)
+
 -   **type**: manga
 -   **original-name**: 陣内流柔術流浪伝真島、爆ぜる!!
 -   **start-date**: 2009-04-15

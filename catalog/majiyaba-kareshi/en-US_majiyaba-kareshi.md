@@ -1,5 +1,7 @@
 # Majiyaba Kareshi
 
+![majiyaba-kareshi](https://cdn.myanimelist.net/images/manga/2/24947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マジヤバ・カレシ

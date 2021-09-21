@@ -1,5 +1,7 @@
 # Kishi-ou no Hanayome: Junjou na Himegimi wa Kakeochichuu!?
 
+![kishi-ou-no-hanayome-junjou-na-himegimi-wa-kakeochichuu](https://cdn.myanimelist.net/images/manga/1/241664.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

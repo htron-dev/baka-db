@@ -1,11 +1,13 @@
 # Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone
 
+![koukaku-kidoutai-arise-ghost-in-the-shell-border-4-ghost-stands-alone](https://cdn.myanimelist.net/images/anime/11/63993.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊ARISE -GHOST IN THE SHELL- border:4 Ghost Stands Alone
+-   **original-name**: 攻殻機動隊 ARISE -GHOST IN THE SHELL- border:4 Ghost Stands Alone
 -   **start-date**: 2014-09-06
 -   **opening-song**: "GHOST IN THE SHELL ARISE" by Cornelius
--   **ending-song**: "Split Spirit" by Yukihiro Takahashi & METAFIVE (Keigo Oyamada x Yoshinori Sunahara x Towa Tei x Tomohiko Kondou x Leo Imai) [高橋幸宏 & METAFIVE（小山田圭吾×砂原良徳×TOWA TEI×ゴンドウトモヒコ×LEO今井）]
+-   **ending-song**: "Split Spirit" by Yukihiro Takahashi & METAFIVE (Keigo Oyamada x Yoshinori Sunahara x Towa Tei x Tomohiko Kondou x Leo Imai) [高橋幸宏 & METAFIVE（小山田圭吾 × 砂原良徳 ×TOWA TEI× ゴンドウトモヒコ ×LEO 今井）]
 -   **rating**: R - 17+ (violence & profanity)
 
 ## Tags

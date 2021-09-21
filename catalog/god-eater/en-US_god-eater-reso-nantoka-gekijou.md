@@ -1,5 +1,7 @@
 # God Eater Reso Nantoka Gekijou
 
+![god-eater-reso-nantoka-gekijou](https://cdn.myanimelist.net/images/anime/1633/95138.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: GOD EATER レゾなんとか劇場

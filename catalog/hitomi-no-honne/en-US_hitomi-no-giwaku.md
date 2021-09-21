@@ -1,5 +1,7 @@
 # Hitomi no Giwaku
 
+![hitomi-no-giwaku](https://cdn.myanimelist.net/images/manga/1/10119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

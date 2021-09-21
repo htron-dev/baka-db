@@ -1,5 +1,7 @@
 # My Hero!
 
+![my-hero](https://cdn.myanimelist.net/images/manga/1/77901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

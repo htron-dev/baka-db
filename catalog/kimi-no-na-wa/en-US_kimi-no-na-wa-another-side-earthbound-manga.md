@@ -1,5 +1,7 @@
 # Kimi no Na wa. Another Side: Earthbound
 
+![kimi-no-na-wa-another-side-earthbound](https://cdn.myanimelist.net/images/manga/1/207022.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

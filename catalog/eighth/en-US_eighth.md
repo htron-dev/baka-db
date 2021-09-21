@@ -1,5 +1,7 @@
 # Eighth
 
+![eighth](https://cdn.myanimelist.net/images/manga/1/149136.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 74

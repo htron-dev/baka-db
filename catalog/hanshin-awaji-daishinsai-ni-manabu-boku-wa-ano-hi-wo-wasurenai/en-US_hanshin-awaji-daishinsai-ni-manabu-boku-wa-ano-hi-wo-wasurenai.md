@@ -1,5 +1,7 @@
 # Hanshin Awaji Daishinsai ni Manabu: Boku wa, Ano Hi wo Wasurenai.
 
+![hanshin-awaji-daishinsai-ni-manabu-boku-wa-ano-hi-wo-wasurenai](https://cdn.myanimelist.net/images/anime/3/68955.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 阪神淡路大震災に学ぶ 僕は、あの日を忘れない。

@@ -1,5 +1,7 @@
 # Gakuen Heaven: Double Scramble - Kasahara-hen
 
+![gakuen-heaven-double-scramble-kasahara-hen](https://cdn.myanimelist.net/images/manga/2/158904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

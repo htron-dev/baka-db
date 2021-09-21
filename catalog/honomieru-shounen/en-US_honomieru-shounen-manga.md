@@ -1,5 +1,7 @@
 # Honomieru Shounen
 
+![honomieru-shounen](https://cdn.myanimelist.net/images/manga/1/237940.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

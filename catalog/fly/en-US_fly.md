@@ -1,5 +1,7 @@
 # Fly
 
+![fly](https://cdn.myanimelist.net/images/anime/6/80668.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「FLY」フライ

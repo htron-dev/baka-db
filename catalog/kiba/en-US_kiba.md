@@ -1,5 +1,7 @@
 # Kiba
 
+![kiba](https://cdn.myanimelist.net/images/anime/1522/114250.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 牙-KIBA-

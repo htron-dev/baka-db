@@ -1,5 +1,7 @@
 # JRA x Gudetama
 
+![jra-x-gudetama](https://cdn.myanimelist.net/images/anime/1423/96005.jpg)
+
 -   **type**: ona
 -   **original-name**: JRA× ぐでたま
 -   **start-date**: 2018-10-26

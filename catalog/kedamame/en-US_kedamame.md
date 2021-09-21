@@ -1,5 +1,7 @@
 # Kedamame
 
+![kedamame](https://cdn.myanimelist.net/images/manga/3/221372.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

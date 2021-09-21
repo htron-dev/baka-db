@@ -1,5 +1,7 @@
 # Koi no Myouyaku
 
+![koi-no-myouyaku](https://cdn.myanimelist.net/images/manga/5/14322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋の妙薬

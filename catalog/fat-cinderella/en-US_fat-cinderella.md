@@ -1,5 +1,7 @@
 # Fat Cinderella!!
 
+![fat-cinderella](https://cdn.myanimelist.net/images/manga/2/144561.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: ふぁっとシンデレラ!!

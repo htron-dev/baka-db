@@ -1,5 +1,7 @@
 # Lemon☆Aid
 
+![lemon☆-aid](https://cdn.myanimelist.net/images/manga/2/163076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

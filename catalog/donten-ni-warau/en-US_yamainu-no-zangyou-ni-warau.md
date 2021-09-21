@@ -1,5 +1,7 @@
 # Yamainu no Zangyou ni Warau
 
+![yamainu-no-zangyou-ni-warau](https://cdn.myanimelist.net/images/manga/1/240055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

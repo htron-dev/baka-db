@@ -1,5 +1,7 @@
 # Hinamatsuri
 
+![hinamatsuri](https://cdn.myanimelist.net/images/manga/2/65759.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 117

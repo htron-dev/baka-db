@@ -1,5 +1,7 @@
 # Guilty Crown: Lost Christmas - An Episode of Port Town
 
+![guilty-crown-lost-christmas-an-episode-of-port-town](https://cdn.myanimelist.net/images/anime/7/80010.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ギルティクラウン ロストクリスマス an episode of port town

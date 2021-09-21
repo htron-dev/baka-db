@@ -1,5 +1,7 @@
 # Hikoi: Ouji ga Aishita Dansou Hanayome
 
+![hikoi-ouji-ga-aishita-dansou-hanayome](https://cdn.myanimelist.net/images/manga/3/183424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

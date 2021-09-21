@@ -1,5 +1,7 @@
 # Dorei Yuugi Guren
 
+![dorei-yuugi-guren](https://cdn.myanimelist.net/images/manga/3/239195.jpg)
+
 -   **type**: manga
 -   **original-name**: 奴隷遊戯 GUREN
 -   **start-date**: 2019-12-06

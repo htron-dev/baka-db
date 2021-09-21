@@ -1,5 +1,7 @@
 # Love Sync Dream
 
+![love-sync-dream](https://cdn.myanimelist.net/images/manga/2/179466.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: LOVE SYNC DREAM

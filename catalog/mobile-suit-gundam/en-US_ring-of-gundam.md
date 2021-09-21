@@ -1,5 +1,7 @@
 # Ring of Gundam
 
+![ring-of-gundam](https://cdn.myanimelist.net/images/anime/4/16688.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リング　オブ　ガンダム

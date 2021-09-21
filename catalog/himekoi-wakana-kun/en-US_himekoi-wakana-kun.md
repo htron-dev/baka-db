@@ -1,5 +1,7 @@
 # Himekoi, Wakana-kun
 
+![himekoi-wakana-kun](https://cdn.myanimelist.net/images/manga/2/104293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

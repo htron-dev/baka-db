@@ -1,5 +1,7 @@
 # Futari ga Kazoku ni Naru made ni
 
+![futari-ga-kazoku-ni-naru-made-ni](https://cdn.myanimelist.net/images/manga/2/240904.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

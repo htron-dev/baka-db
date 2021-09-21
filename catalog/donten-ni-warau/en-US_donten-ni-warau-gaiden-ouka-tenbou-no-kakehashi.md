@@ -1,5 +1,7 @@
 # Donten ni Warau Gaiden: Ouka, Tenbou no Kakehashi
 
+![donten-ni-warau-gaiden-ouka-tenbou-no-kakehashi](https://cdn.myanimelist.net/images/anime/1666/93322.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 曇天に笑う＜外伝＞ ～桜華、天望の架橋～

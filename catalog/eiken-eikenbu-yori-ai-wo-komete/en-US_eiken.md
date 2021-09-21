@@ -1,5 +1,7 @@
 # Eiken
 
+![eiken](https://cdn.myanimelist.net/images/manga/1/2780.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 160

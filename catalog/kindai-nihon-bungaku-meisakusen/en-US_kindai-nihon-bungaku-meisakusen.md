@@ -1,5 +1,7 @@
 # Kindai Nihon Bungaku Meisakusen
 
+![kindai-nihon-bungaku-meisakusen](https://cdn.myanimelist.net/images/manga/3/73579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

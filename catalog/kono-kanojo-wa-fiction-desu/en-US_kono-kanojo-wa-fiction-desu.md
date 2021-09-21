@@ -1,5 +1,7 @@
 # Kono Kanojo wa Fiction desu.
 
+![kono-kanojo-wa-fiction-desu](https://cdn.myanimelist.net/images/manga/3/57879.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

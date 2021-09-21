@@ -1,5 +1,7 @@
 # Delivery Cinderella
 
+![delivery-cinderella](https://cdn.myanimelist.net/images/manga/1/188777.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 119

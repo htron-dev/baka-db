@@ -1,5 +1,7 @@
 # Houkai Seiki Joxer
 
+![houkai-seiki-joxer](https://cdn.myanimelist.net/images/manga/3/132921.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

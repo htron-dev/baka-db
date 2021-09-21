@@ -1,5 +1,7 @@
 # Hokuto no Ken Rei Gaiden: Karei naru Fukushuusha
 
+![hokuto-no-ken-rei-gaiden-karei-naru-fukushuusha](https://cdn.myanimelist.net/images/manga/5/21185.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 北斗の拳レイ外伝—華麗なる復讐者—

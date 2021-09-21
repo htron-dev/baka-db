@@ -1,5 +1,7 @@
 # Gokujou no Yoru wo Ageru
 
+![gokujou-no-yoru-wo-ageru](https://cdn.myanimelist.net/images/manga/2/14503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

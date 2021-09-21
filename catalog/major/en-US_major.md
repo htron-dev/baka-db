@@ -1,5 +1,7 @@
 # Major
 
+![major](https://cdn.myanimelist.net/images/manga/2/185602.jpg)
+
 -   **type**: manga
 -   **volumes**: 78
 -   **chapters**: 747

@@ -1,5 +1,7 @@
 # Meirei Kuchou no Kuchibirude
 
+![meirei-kuchou-no-kuchibirude](https://cdn.myanimelist.net/images/manga/1/152417.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 命令口調の唇で

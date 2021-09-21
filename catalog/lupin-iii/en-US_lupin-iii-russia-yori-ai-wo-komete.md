@@ -1,5 +1,7 @@
 # Lupin III: Russia yori Ai wo Komete
 
+![lupin-iii-russia-yori-ai-wo-komete](https://cdn.myanimelist.net/images/anime/4/61697.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『ロシアより愛をこめて』

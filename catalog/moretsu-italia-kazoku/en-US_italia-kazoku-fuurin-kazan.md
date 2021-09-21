@@ -1,5 +1,7 @@
 # Italia Kazoku: Fuurin Kazan
 
+![italia-kazoku-fuurin-kazan](https://cdn.myanimelist.net/images/manga/2/85725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イタリア家族: 風林火山

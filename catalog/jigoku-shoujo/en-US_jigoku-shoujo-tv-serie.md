@@ -1,5 +1,7 @@
 # Jigoku Shoujo
 
+![jigoku-shoujo](https://cdn.myanimelist.net/images/anime/3/71958.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 地獄少女

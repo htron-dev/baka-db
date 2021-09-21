@@ -1,5 +1,7 @@
 # Gesshokuki Retsuden
 
+![gesshokuki-retsuden](https://cdn.myanimelist.net/images/manga/2/157724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 72

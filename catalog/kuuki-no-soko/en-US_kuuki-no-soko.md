@@ -1,5 +1,7 @@
 # Kuuki no Soko
 
+![kuuki-no-soko](https://cdn.myanimelist.net/images/manga/3/9654.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

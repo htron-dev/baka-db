@@ -1,5 +1,7 @@
 # Kotobuki Gorou Show
 
+![kotobuki-gorou-show](https://cdn.myanimelist.net/images/manga/3/152095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 寿五郎ショウ

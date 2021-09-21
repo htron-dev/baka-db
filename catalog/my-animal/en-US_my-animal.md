@@ -1,5 +1,7 @@
 # My Animal
 
+![my-animal](https://cdn.myanimelist.net/images/manga/1/149627.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

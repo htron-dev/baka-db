@@ -1,5 +1,7 @@
 # Marshmallow x Typhoon
 
+![marshmallow-x-typhoon](https://cdn.myanimelist.net/images/manga/2/194597.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

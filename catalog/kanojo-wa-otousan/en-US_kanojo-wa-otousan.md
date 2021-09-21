@@ -1,5 +1,7 @@
 # Kanojo wa Otousan
 
+![kanojo-wa-otousan](https://cdn.myanimelist.net/images/manga/2/212568.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

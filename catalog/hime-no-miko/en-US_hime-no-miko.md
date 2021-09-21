@@ -1,5 +1,7 @@
 # Hime no Miko
 
+![hime-no-miko](https://cdn.myanimelist.net/images/manga/2/92379.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

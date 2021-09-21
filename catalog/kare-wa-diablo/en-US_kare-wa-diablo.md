@@ -1,5 +1,7 @@
 # Kare wa Diablo!
 
+![kare-wa-diablo](https://cdn.myanimelist.net/images/manga/3/32252.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

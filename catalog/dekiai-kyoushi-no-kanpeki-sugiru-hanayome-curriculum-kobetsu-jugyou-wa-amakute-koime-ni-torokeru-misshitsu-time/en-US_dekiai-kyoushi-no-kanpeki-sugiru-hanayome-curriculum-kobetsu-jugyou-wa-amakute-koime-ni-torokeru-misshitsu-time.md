@@ -1,5 +1,7 @@
 # Dekiai Kyoushi no Kanpeki sugiru Hanayome Curriculum: Kobetsu Jugyou wa Amakute Koime ni Torokeru Misshitsu Time
 
+![dekiai-kyoushi-no-kanpeki-sugiru-hanayome-curriculum-kobetsu-jugyou-wa-amakute-koime-ni-torokeru-misshitsu-time](https://cdn.myanimelist.net/images/manga/1/200050.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 溺愛教師の完璧すぎる花嫁カリキュラム

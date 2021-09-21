@@ -1,5 +1,7 @@
 # Genius Loci: Igyou Kenchikuka Ashura Choukou
 
+![genius-loci-igyou-kenchikuka-ashura-choukou](https://cdn.myanimelist.net/images/manga/1/192998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

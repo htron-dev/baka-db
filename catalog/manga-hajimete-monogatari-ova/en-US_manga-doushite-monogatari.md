@@ -1,5 +1,7 @@
 # Manga Doushite Monogatari
 
+![manga-doushite-monogatari](https://cdn.myanimelist.net/images/anime/5/28067.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: まんがどうして物語

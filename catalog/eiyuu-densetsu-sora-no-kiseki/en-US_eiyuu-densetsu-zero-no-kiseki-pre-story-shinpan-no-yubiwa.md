@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Zero no Kiseki Pre-story - Shinpan no Yubiwa
 
+![eiyuu-densetsu-zero-no-kiseki-pre-story-shinpan-no-yubiwa](https://cdn.myanimelist.net/images/manga/1/103999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 英雄伝説 零の軌跡プレストーリー -審判の指環-

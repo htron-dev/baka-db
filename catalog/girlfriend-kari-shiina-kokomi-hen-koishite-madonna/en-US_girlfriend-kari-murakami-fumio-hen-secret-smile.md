@@ -1,5 +1,7 @@
 # Girlfriend (Kari): Murakami Fumio-hen - Secret Smile
 
+![girlfriend-kari-murakami-fumio-hen-secret-smile](https://cdn.myanimelist.net/images/manga/1/154596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

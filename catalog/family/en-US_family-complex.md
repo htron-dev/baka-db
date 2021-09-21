@@ -1,5 +1,7 @@
 # Family Complex
 
+![family-complex](https://cdn.myanimelist.net/images/manga/3/12025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ファミリー・コンプレックス

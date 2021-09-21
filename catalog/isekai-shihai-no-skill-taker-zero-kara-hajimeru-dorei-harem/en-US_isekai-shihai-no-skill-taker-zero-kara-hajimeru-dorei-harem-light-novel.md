@@ -1,5 +1,7 @@
 # Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem
 
+![isekai-shihai-no-skill-taker-zero-kara-hajimeru-dorei-harem](https://cdn.myanimelist.net/images/manga/1/158165.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界支配のスキルテイカー~ゼロから始める奴隷ハーレム~
 -   **start-date**: 2015-06-02

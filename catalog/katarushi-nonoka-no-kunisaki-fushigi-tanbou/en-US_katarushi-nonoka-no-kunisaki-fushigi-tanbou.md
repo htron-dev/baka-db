@@ -1,5 +1,7 @@
 # Katarushi: Nonoka no Kunisaki Fushigi Tanbou
 
+![katarushi-nonoka-no-kunisaki-fushigi-tanbou](https://cdn.myanimelist.net/images/manga/1/244105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Gensou Suikoden II
 
+![gensou-suikoden-ii](https://cdn.myanimelist.net/images/manga/2/150294.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 幻想水滸伝 II

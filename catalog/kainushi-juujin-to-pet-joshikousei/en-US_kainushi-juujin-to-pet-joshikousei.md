@@ -1,5 +1,7 @@
 # Kainushi Juujin to Pet Joshikousei
 
+![kainushi-juujin-to-pet-joshikousei](https://cdn.myanimelist.net/images/manga/2/157531.jpg)
+
 -   **type**: manga
 -   **original-name**: 飼い主獣人とペット女子高生
 -   **start-date**: 2014-10-27

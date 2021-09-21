@@ -1,5 +1,7 @@
 # Hoshi no Oujo
 
+![hoshi-no-oujo](https://cdn.myanimelist.net/images/manga/5/19760.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

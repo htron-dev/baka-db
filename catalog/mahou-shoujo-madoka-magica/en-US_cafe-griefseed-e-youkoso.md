@@ -1,5 +1,7 @@
 # Café☆Griefseed e Youkoso!
 
+![cafe☆-griefseed-e-youkoso](https://cdn.myanimelist.net/images/manga/2/157878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

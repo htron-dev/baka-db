@@ -1,5 +1,7 @@
 # Hakuouki Movie 1: Kyoto Ranbu
 
+![hakuouki-movie-1-kyoto-ranbu](https://cdn.myanimelist.net/images/anime/9/49399.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 薄桜鬼 第一章 京都乱舞

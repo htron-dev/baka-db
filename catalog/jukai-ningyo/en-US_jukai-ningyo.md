@@ -1,5 +1,7 @@
 # Jukai Ningyo
 
+![jukai-ningyo](https://cdn.myanimelist.net/images/manga/1/185843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

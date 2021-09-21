@@ -1,5 +1,7 @@
 # Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni
 
+![fuusen-inu-tinny-nandaka-fushigi-na-kyouryuu-no-kuni](https://cdn.myanimelist.net/images/anime/3/83801.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふうせんいぬティニー なんだかふしぎな きょうりゅうのくに

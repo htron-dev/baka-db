@@ -1,5 +1,7 @@
 # Guren 5
 
+![guren-5](https://cdn.myanimelist.net/images/manga/2/145413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

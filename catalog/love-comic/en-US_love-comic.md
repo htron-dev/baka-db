@@ -1,5 +1,7 @@
 # Love Comic
 
+![love-comic](https://cdn.myanimelist.net/images/manga/2/14614.jpg)
+
 -   **type**: manhwa
 
 ## Tags

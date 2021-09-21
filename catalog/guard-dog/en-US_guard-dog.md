@@ -1,5 +1,7 @@
 # Guard Dog
 
+![guard-dog](https://cdn.myanimelist.net/images/manga/3/189116.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ガード・ドッグ

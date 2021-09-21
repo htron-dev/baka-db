@@ -1,5 +1,7 @@
 # Hug tto! Precure♡Futari wa Precure Movie: All Stars Memories
 
+![hug-tto-precure♡-futari-wa-precure-movie-all-stars-memories](https://cdn.myanimelist.net/images/anime/1538/93935.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 HUG っと！プリキュア ♡ ふたりはプリキュア オールスターズメモリーズ

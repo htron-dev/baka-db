@@ -1,5 +1,7 @@
 # Little Busters! Ecstasy: Ecstatic Anthology
 
+![little-busters-ecstasy-ecstatic-anthology](https://cdn.myanimelist.net/images/manga/2/102295.jpg)
+
 -   **type**: manga
 -   **original-name**: リトルバスターズ! エクスタシー えくすたちっくアンソロジー
 -   **start-date**: 2009-07-25

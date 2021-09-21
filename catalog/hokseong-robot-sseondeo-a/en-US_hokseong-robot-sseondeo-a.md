@@ -1,5 +1,7 @@
 # Hokseong Robot Sseondeo A
 
+![hokseong-robot-sseondeo-a](https://cdn.myanimelist.net/images/anime/8/45166.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 혹성 로보트 썬더 A

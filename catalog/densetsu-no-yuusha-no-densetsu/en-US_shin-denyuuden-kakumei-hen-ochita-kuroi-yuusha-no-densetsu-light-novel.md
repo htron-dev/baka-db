@@ -1,5 +1,7 @@
 # Shin Denyuuden Kakumei-hen: Ochita Kuroi Yuusha no Densetsu
 
+![shin-denyuuden-kakumei-hen-ochita-kuroi-yuusha-no-densetsu](https://cdn.myanimelist.net/images/manga/3/135299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 47

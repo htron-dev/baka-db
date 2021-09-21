@@ -1,5 +1,7 @@
 # Itoshi no Haitoku Kyoushi
 
+![itoshi-no-haitoku-kyoushi](https://cdn.myanimelist.net/images/manga/3/28371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

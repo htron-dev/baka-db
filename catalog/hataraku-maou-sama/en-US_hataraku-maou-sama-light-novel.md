@@ -1,5 +1,7 @@
 # Hataraku Maou-sama!
 
+![hataraku-maou-sama](https://cdn.myanimelist.net/images/manga/2/175210.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 21
 -   **original-name**: はたらく魔王さま！

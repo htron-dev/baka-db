@@ -1,5 +1,7 @@
 # Idol Fantasy
 
+![idol-fantasy](https://cdn.myanimelist.net/images/anime/1026/95307.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: IDOL FANTASY

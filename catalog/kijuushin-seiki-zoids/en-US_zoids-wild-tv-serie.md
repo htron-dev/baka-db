@@ -1,5 +1,7 @@
 # Zoids Wild
 
+![zoids-wild](https://cdn.myanimelist.net/images/anime/1792/95048.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゾイドワイルド

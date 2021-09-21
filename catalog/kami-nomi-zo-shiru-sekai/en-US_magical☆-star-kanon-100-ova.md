@@ -1,5 +1,7 @@
 # Magical☆Star Kanon 100%
 
+![magical☆-star-kanon-100](https://cdn.myanimelist.net/images/anime/7/75235.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マジカル ☆ スター　かのん 100％

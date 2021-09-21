@@ -1,5 +1,7 @@
 # Katekyo Hitman Reborn! Secret Bullet
 
+![katekyo-hitman-reborn-secret-bullet](https://cdn.myanimelist.net/images/manga/2/26013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 23

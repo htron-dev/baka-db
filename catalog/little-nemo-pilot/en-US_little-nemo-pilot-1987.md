@@ -1,5 +1,7 @@
 # Little Nemo Pilot (1987)
 
+![little-nemo-pilot-1987](https://cdn.myanimelist.net/images/anime/1218/107263.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リトル・ニモ パイロット

@@ -1,5 +1,7 @@
 # Danshi Koukousei no Nichijou
 
+![danshi-koukousei-no-nichijou](https://cdn.myanimelist.net/images/manga/3/200703.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 138

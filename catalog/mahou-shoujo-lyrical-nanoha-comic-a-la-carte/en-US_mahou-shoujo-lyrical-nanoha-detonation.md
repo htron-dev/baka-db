@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Detonation
 
+![mahou-shoujo-lyrical-nanoha-detonation](https://cdn.myanimelist.net/images/anime/1084/93086.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは Detonation

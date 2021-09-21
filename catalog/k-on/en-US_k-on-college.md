@@ -1,5 +1,7 @@
 # K-On! College
 
+![k-on-college](https://cdn.myanimelist.net/images/manga/3/91409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

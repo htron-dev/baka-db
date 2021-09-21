@@ -1,5 +1,7 @@
 # Gaikotsu Shotenin Honda-san
 
+![gaikotsu-shotenin-honda-san](https://cdn.myanimelist.net/images/manga/1/191311.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

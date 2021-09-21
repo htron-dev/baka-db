@@ -1,5 +1,7 @@
 # Kirara no Hoshi
 
+![kirara-no-hoshi](https://cdn.myanimelist.net/images/manga/2/150068.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 57

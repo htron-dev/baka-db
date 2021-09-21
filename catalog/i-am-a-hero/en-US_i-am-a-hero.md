@@ -1,5 +1,7 @@
 # I Am a Hero
 
+![i-am-a-hero](https://cdn.myanimelist.net/images/manga/1/121183.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 264

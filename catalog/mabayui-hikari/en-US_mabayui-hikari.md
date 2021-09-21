@@ -1,5 +1,7 @@
 # Mabayui Hikari
 
+![mabayui-hikari](https://cdn.myanimelist.net/images/manga/1/136201.jpg)
+
 -   **type**: manga
 -   **original-name**: まばゆい光
 -   **start-date**: 2012-11-22

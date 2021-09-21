@@ -1,5 +1,7 @@
 # Love Live! Kouhaku Special Anime
 
+![love-live-kouhaku-special-anime](https://cdn.myanimelist.net/images/anime/12/78741.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブライブ！紅白スペシャルアニメ

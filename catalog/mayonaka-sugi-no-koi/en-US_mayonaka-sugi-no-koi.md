@@ -1,5 +1,7 @@
 # Mayonaka Sugi no Koi
 
+![mayonaka-sugi-no-koi](https://cdn.myanimelist.net/images/manga/2/32105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真夜中すぎの恋

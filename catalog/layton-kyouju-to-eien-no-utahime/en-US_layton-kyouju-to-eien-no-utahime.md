@@ -1,5 +1,7 @@
 # Layton Kyouju to Eien no Utahime
 
+![layton-kyouju-to-eien-no-utahime](https://cdn.myanimelist.net/images/anime/3/25873.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: レイトン教授と永遠の歌姫

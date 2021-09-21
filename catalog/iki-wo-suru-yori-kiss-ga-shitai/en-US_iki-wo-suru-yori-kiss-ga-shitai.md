@@ -1,5 +1,7 @@
 # Iki wo Suru yori Kiss ga Shitai
 
+![iki-wo-suru-yori-kiss-ga-shitai](https://cdn.myanimelist.net/images/manga/3/98937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

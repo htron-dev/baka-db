@@ -1,5 +1,7 @@
 # Izumi
 
+![izumi](https://cdn.myanimelist.net/images/manga/1/23714.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 泉

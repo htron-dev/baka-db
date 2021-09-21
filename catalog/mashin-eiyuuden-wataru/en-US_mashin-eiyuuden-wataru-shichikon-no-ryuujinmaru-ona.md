@@ -1,5 +1,7 @@
 # Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru
 
+![mashin-eiyuuden-wataru-shichikon-no-ryuujinmaru](https://cdn.myanimelist.net/images/anime/1188/110882.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: 魔神英雄伝ワタル 七魂の龍神丸

@@ -1,5 +1,7 @@
 # Higaeri Gladiator
 
+![higaeri-gladiator](https://cdn.myanimelist.net/images/manga/2/190193.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひがえりグラディエーター

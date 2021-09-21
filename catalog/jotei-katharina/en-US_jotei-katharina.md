@@ -1,5 +1,7 @@
 # Jotei Katharina
 
+![jotei-katharina](https://cdn.myanimelist.net/images/manga/2/33621.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 女帝エカテリーナ

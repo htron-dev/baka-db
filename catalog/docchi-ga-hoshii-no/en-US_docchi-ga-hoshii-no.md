@@ -1,5 +1,7 @@
 # Docchi ga Hoshii no?
 
+![docchi-ga-hoshii-no](https://cdn.myanimelist.net/images/manga/1/46349.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: どっちが欲しいの?

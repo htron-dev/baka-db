@@ -1,5 +1,7 @@
 # Duel Masters VS
 
+![duel-masters-vs](https://cdn.myanimelist.net/images/anime/1302/105189.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: デュエル・マスターズ VS

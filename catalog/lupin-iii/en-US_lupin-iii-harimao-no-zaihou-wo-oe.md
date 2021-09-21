@@ -1,5 +1,7 @@
 # Lupin III: Harimao no Zaihou wo Oe!!
 
+![lupin-iii-harimao-no-zaihou-wo-oe](https://cdn.myanimelist.net/images/anime/1156/96563.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『ハリマオの財宝を追え!!』

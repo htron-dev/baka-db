@@ -1,5 +1,7 @@
 # Devil Summoner: Soul Hackers - Shito Kourin
 
+![devil-summoner-soul-hackers-shito-kourin](https://cdn.myanimelist.net/images/manga/3/134031.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: デビルサマナー ソウルハッカーズ 死都光臨

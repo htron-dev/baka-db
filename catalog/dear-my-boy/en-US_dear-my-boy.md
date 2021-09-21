@@ -1,5 +1,7 @@
 # Dear My Boy
 
+![dear-my-boy](https://cdn.myanimelist.net/images/manga/1/239847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

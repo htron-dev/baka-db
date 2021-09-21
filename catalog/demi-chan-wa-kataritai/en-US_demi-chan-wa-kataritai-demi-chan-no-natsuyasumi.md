@@ -1,5 +1,7 @@
 # Demi-chan wa Kataritai: Demi-chan no Natsuyasumi
 
+![demi-chan-wa-kataritai-demi-chan-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/6/88769.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 亜人ちゃんは語りたい 亜人ちゃんの夏休み

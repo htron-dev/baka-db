@@ -1,5 +1,7 @@
 # Kokonotsu no Yoru no Tobira
 
+![kokonotsu-no-yoru-no-tobira](https://cdn.myanimelist.net/images/manga/3/147311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

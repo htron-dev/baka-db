@@ -1,5 +1,7 @@
 # Genyou no Meizu
 
+![genyou-no-meizu](https://cdn.myanimelist.net/images/manga/2/160466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

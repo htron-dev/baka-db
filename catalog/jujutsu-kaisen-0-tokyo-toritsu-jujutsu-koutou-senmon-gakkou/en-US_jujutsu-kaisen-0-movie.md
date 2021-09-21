@@ -1,5 +1,7 @@
 # Jujutsu Kaisen 0 Movie
 
+![jujutsu-kaisen-0-movie](https://cdn.myanimelist.net/images/anime/1813/115732.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 呪術廻戦 0

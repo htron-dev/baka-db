@@ -1,5 +1,7 @@
 # MILPOM★
 
+![milpom★](https://cdn.myanimelist.net/images/anime/3/79018.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: MILPOM★

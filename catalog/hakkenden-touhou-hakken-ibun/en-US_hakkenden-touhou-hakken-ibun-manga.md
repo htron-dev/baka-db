@@ -1,5 +1,7 @@
 # Hakkenden: Touhou Hakken Ibun
 
+![hakkenden-touhou-hakken-ibun](https://cdn.myanimelist.net/images/manga/1/70041.jpg)
+
 -   **type**: manga
 -   **original-name**: 八犬伝―東方八犬異聞―
 -   **start-date**: 2005-06-20

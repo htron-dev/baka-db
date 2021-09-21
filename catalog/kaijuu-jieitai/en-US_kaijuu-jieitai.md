@@ -1,5 +1,7 @@
 # Kaijuu Jieitai
 
+![kaijuu-jieitai](https://cdn.myanimelist.net/images/manga/1/244049.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪獣自衛隊
 -   **start-date**: 2020-05-21

@@ -1,5 +1,7 @@
 # Violence Jack: Hell's Wind-hen
 
+![violence-jack-hells-wind-hen](https://cdn.myanimelist.net/images/anime/1/2384.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バイオレンス ジャック 〜ヘルスウインド編〜

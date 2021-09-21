@@ -1,5 +1,7 @@
 # Hakushaku to Yousei
 
+![hakushaku-to-yousei](https://cdn.myanimelist.net/images/manga/3/15760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 33
 -   **original-name**: 伯爵と妖精

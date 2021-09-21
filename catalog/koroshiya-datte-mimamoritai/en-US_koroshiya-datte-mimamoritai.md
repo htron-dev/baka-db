@@ -1,5 +1,7 @@
 # Koroshiya Datte Mimamoritai
 
+![koroshiya-datte-mimamoritai](https://cdn.myanimelist.net/images/manga/1/234822.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺し屋だって見守りたい
 -   **start-date**: 2019-09-21

@@ -1,5 +1,7 @@
 # Kuruneko
 
+![kuruneko](https://cdn.myanimelist.net/images/anime/6/20591.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: くるねこ

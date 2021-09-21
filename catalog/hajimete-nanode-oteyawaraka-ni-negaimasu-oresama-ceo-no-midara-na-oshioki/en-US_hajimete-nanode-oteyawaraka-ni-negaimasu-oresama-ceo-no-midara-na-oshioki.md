@@ -1,5 +1,7 @@
 # Hajimete nanode, Oteyawaraka ni Negaimasu Oresama CEO no Midara na Oshioki
 
+![hajimete-nanode-oteyawaraka-ni-negaimasu-oresama-ceo-no-midara-na-oshioki](https://cdn.myanimelist.net/images/manga/2/195493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

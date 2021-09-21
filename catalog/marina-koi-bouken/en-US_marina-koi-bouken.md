@@ -1,5 +1,7 @@
 # Marina Koi Bouken
 
+![marina-koi-bouken](https://cdn.myanimelist.net/images/manga/1/31652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マリナ恋冒険

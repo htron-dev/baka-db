@@ -1,5 +1,7 @@
 # Koi no Kekkai
 
+![koi-no-kekkai](https://cdn.myanimelist.net/images/manga/1/33052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋の結界

@@ -1,5 +1,7 @@
 # Himitsu na Koto
 
+![himitsu-na-koto](https://cdn.myanimelist.net/images/manga/2/10428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヒミツなこと

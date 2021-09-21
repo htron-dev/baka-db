@@ -1,5 +1,7 @@
 # Love♡Training: Renai Taishitsu Kaizen Kouza
 
+![love♡-training-renai-taishitsu-kaizen-kouza](https://cdn.myanimelist.net/images/manga/2/182934.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

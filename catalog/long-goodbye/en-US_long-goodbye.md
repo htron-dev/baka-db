@@ -1,5 +1,7 @@
 # Long Goodbye
 
+![long-goodbye](https://cdn.myanimelist.net/images/manga/2/85507.jpg)
+
 -   **type**: manga
 -   **original-name**: LONG GOODBYE
 -   **start-date**: 2012-11-13

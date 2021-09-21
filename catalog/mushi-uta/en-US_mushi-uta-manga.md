@@ -1,5 +1,7 @@
 # Mushi-Uta
 
+![mushi-uta](https://cdn.myanimelist.net/images/manga/3/117213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

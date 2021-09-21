@@ -1,5 +1,7 @@
 # Hidamari ga Kikoeru: Koufukuron
 
+![hidamari-ga-kikoeru-koufukuron](https://cdn.myanimelist.net/images/manga/2/240672.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

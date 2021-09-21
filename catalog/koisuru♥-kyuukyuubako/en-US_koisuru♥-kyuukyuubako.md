@@ -1,5 +1,7 @@
 # Koisuru♥Kyuukyuubako
 
+![koisuru♥-kyuukyuubako](https://cdn.myanimelist.net/images/manga/1/159896.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 恋する ♥ 救急箱

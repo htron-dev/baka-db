@@ -1,5 +1,7 @@
 # Joshikousei to Seishokusha-san
 
+![joshikousei-to-seishokusha-san](https://cdn.myanimelist.net/images/manga/2/234476.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子高生と聖職者さん
 -   **start-date**: 2019-08-08

@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai Girls Specials
 
+![hyakka-ryouran-samurai-girls-specials](https://cdn.myanimelist.net/images/anime/2/25950.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 百花繚乱 ～乙女 嬉し恥ずかし将士の契り～

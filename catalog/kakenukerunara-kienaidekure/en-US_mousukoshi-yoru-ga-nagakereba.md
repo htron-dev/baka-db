@@ -1,5 +1,7 @@
 # Mousukoshi Yoru ga Nagakereba
 
+![mousukoshi-yoru-ga-nagakereba](https://cdn.myanimelist.net/images/manga/3/11124.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

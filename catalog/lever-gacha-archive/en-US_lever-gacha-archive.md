@@ -1,5 +1,7 @@
 # Lever Gacha Archive
 
+![lever-gacha-archive](https://cdn.myanimelist.net/images/manga/1/215151.jpg)
+
 -   **type**: manga
 -   **original-name**: レバガチャアーカイブ
 -   **start-date**: 2018-01-30

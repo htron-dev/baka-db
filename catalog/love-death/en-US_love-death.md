@@ -1,5 +1,7 @@
 # Love Death.
 
+![love-death](https://cdn.myanimelist.net/images/manga/2/157889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

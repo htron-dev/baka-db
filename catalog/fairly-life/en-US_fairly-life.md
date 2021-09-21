@@ -1,5 +1,7 @@
 # FairlyLife
 
+![fairly-life](https://cdn.myanimelist.net/images/manga/1/32517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

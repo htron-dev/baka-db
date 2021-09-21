@@ -1,5 +1,7 @@
 # Kirei ni Naritai!
 
+![kirei-ni-naritai](https://cdn.myanimelist.net/images/manga/3/165073.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: キレイになりたい!

@@ -1,5 +1,7 @@
 # Himawari Machi Sunroad Girls
 
+![himawari-machi-sunroad-girls](https://cdn.myanimelist.net/images/manga/1/109503.jpg)
+
 -   **type**: manga
 -   **original-name**: ひまわり町サンロードガールズ
 -   **start-date**: 2012-10-31

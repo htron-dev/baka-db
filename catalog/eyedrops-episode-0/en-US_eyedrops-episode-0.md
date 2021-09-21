@@ -1,5 +1,7 @@
 # Eyedrops Episode 0
 
+![eyedrops-episode-0](https://cdn.myanimelist.net/images/anime/10/82147.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アイドロップス Episode 0

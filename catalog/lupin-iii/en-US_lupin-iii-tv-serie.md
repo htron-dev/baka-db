@@ -1,5 +1,7 @@
 # Lupin III
 
+![lupin-iii](https://cdn.myanimelist.net/images/anime/10/15625.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ルパン三世

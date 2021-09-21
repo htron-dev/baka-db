@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Wonderful
 
+![higurashi-no-naku-koro-ni-wonderful](https://cdn.myanimelist.net/images/manga/1/245890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

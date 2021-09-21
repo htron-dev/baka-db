@@ -1,5 +1,7 @@
 # Harbor Tale
 
+![harbor-tale](https://cdn.myanimelist.net/images/anime/9/69663.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハーバーテイル

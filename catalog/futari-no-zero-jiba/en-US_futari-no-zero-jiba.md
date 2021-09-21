@@ -1,5 +1,7 @@
 # Futari no Zero Jiba
 
+![futari-no-zero-jiba](https://cdn.myanimelist.net/images/manga/3/200412.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

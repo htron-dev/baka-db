@@ -1,5 +1,7 @@
 # Kanga na Spoon
 
+![kanga-na-spoon](https://cdn.myanimelist.net/images/manga/2/2005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

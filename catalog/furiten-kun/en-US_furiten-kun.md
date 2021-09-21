@@ -1,5 +1,7 @@
 # Furiten-kun
 
+![furiten-kun](https://cdn.myanimelist.net/images/anime/1939/96650.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フリテンくん

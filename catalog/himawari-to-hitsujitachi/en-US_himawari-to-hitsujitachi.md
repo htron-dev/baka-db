@@ -1,5 +1,7 @@
 # Himawari to Hitsujitachi!
 
+![himawari-to-hitsujitachi](https://cdn.myanimelist.net/images/manga/3/84491.jpg)
+
 -   **type**: manga
 -   **original-name**: ひまわりと羊たち
 -   **start-date**: 2010-06-22

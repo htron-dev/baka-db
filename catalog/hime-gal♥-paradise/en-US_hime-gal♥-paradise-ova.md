@@ -1,5 +1,7 @@
 # Hime Gal♥Paradise
 
+![hime-gal♥-paradise](https://cdn.myanimelist.net/images/anime/8/27511.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: 姫ギャル ♥ パラダイス

@@ -1,5 +1,7 @@
 # Gakusei Sensou
 
+![gakusei-sensou](https://cdn.myanimelist.net/images/manga/2/176429.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 学生戦争
 -   **start-date**: 2015-03-25

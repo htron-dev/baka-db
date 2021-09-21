@@ -1,5 +1,7 @@
 # Kimi to Kyun Koi, Shiyou.
 
+![kimi-to-kyun-koi-shiyou](https://cdn.myanimelist.net/images/manga/3/96053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

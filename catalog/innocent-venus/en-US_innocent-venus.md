@@ -1,5 +1,7 @@
 # Innocent Venus
 
+![innocent-venus](https://cdn.myanimelist.net/images/anime/3/8629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: イノセント・ヴィーナス

@@ -1,5 +1,7 @@
 # Hakushaku to Yousei
 
+![hakushaku-to-yousei](https://cdn.myanimelist.net/images/anime/13/21898.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 伯爵と妖精

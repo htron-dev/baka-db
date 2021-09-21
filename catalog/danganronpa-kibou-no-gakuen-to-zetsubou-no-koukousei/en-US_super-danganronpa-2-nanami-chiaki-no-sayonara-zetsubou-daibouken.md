@@ -1,5 +1,7 @@
 # Super Danganronpa 2: Nanami Chiaki no Sayonara Zetsubou Daibouken
 
+![super-danganronpa-2-nanami-chiaki-no-sayonara-zetsubou-daibouken](https://cdn.myanimelist.net/images/manga/1/123439.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スーパーダンガンロンパ 2 七海千秋のさよなら絶望大冒険

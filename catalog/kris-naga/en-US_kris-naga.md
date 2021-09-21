@@ -1,5 +1,7 @@
 # Kris Naga
 
+![kris-naga](https://cdn.myanimelist.net/images/manga/3/164471.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: クリスナーガ

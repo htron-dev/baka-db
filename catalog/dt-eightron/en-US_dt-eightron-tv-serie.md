@@ -1,5 +1,7 @@
 # DT Eightron
 
+![dt-eightron](https://cdn.myanimelist.net/images/anime/1935/94098.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ＤＴエイトロン

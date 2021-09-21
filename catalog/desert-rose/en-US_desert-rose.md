@@ -1,5 +1,7 @@
 # Desert Rose
 
+![desert-rose](https://cdn.myanimelist.net/images/manga/1/102131.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 134

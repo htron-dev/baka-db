@@ -1,5 +1,7 @@
 # Kimi ga Ichiban Soba ni Iru
 
+![kimi-ga-ichiban-soba-ni-iru](https://cdn.myanimelist.net/images/manga/1/2146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

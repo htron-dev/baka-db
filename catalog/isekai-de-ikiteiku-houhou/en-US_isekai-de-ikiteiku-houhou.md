@@ -1,5 +1,7 @@
 # Isekai de Ikiteiku Houhou
 
+![isekai-de-ikiteiku-houhou](https://cdn.myanimelist.net/images/manga/1/215995.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異世界で生きていく方法

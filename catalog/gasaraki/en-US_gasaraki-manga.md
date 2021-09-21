@@ -1,5 +1,7 @@
 # Gasaraki
 
+![gasaraki](https://cdn.myanimelist.net/images/manga/1/28410.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

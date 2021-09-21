@@ -1,5 +1,7 @@
 # Kingdom of Chaos: Born to Kill
 
+![kingdom-of-chaos-born-to-kill](https://cdn.myanimelist.net/images/anime/2/23753.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: キングダム・オブ・カオス 〜ボーン・トゥー・キル〜

@@ -1,5 +1,7 @@
 # Meisai Tengoku
 
+![meisai-tengoku](https://cdn.myanimelist.net/images/manga/1/16615.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 迷彩天国 ♪

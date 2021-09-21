@@ -1,5 +1,7 @@
 # Monument: Aruiwa Jibun Jishin no Kaibutsu
 
+![monument-aruiwa-jibun-jishin-no-kaibutsu](https://cdn.myanimelist.net/images/manga/1/167073.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

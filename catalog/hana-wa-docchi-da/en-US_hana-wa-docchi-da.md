@@ -1,5 +1,7 @@
 # Hana wa Docchi da?
 
+![hana-wa-docchi-da](https://cdn.myanimelist.net/images/manga/3/225896.jpg)
+
 -   **type**: manga
 -   **original-name**: 花はどっちだ?
 

@@ -1,5 +1,7 @@
 # Hadashi no Aitsu
 
+![hadashi-no-aitsu](https://cdn.myanimelist.net/images/manga/1/163005.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 裸足のアイツ

@@ -1,5 +1,7 @@
 # IDOLiSH7: Trigger - Before the Radiant Glory
 
+![ido-li-sh-7-trigger-before-the-radiant-glory](https://cdn.myanimelist.net/images/manga/1/189509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

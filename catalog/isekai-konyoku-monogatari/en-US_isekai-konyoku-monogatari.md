@@ -1,5 +1,7 @@
 # Isekai Konyoku Monogatari
 
+![isekai-konyoku-monogatari](https://cdn.myanimelist.net/images/manga/1/176624.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界混浴物語
 -   **start-date**: 2015-03-25

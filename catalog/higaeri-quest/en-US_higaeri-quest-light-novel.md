@@ -1,5 +1,7 @@
 # Higaeri Quest
 
+![higaeri-quest](https://cdn.myanimelist.net/images/manga/3/123955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 16

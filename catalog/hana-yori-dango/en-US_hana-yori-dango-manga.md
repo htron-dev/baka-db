@@ -1,5 +1,7 @@
 # Hana yori Dango
 
+![hana-yori-dango](https://cdn.myanimelist.net/images/manga/1/27280.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 244

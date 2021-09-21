@@ -1,5 +1,7 @@
 # Yakyuukyou no Uta: Heisei-hen
 
+![yakyuukyou-no-uta-heisei-hen](https://cdn.myanimelist.net/images/manga/2/143145.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 野球狂の詩 平成編

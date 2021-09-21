@@ -1,5 +1,7 @@
 # Hypnosis Mic: Division Rap Battle - side F.P &amp; M +
 
+![hypnosis-mic-division-rap-battle-side-f-p-amp-m](https://cdn.myanimelist.net/images/manga/1/221225.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒプノシスマイク -Division Rap Battle- side F.P & M +
 -   **start-date**: 2020-11-27

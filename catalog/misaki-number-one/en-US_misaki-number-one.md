@@ -1,5 +1,7 @@
 # Misaki Number One!!
 
+![misaki-number-one](https://cdn.myanimelist.net/images/manga/3/50135.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 美咲ナンバーワン!!

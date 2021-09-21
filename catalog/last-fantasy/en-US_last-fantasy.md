@@ -1,5 +1,7 @@
 # Last Fantasy
 
+![last-fantasy](https://cdn.myanimelist.net/images/manga/3/180643.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 8

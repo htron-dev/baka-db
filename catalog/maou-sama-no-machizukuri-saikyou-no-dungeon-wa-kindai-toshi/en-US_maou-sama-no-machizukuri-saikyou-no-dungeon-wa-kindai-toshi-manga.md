@@ -1,5 +1,7 @@
 # Maou-sama no Machizukuri!: Saikyou no Dungeon wa Kindai Toshi
 
+![maou-sama-no-machizukuri-saikyou-no-dungeon-wa-kindai-toshi](https://cdn.myanimelist.net/images/manga/3/215172.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王様の街づくり！～最強のダンジョンは近代都市～
 -   **start-date**: 2018-03-09

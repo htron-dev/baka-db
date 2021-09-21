@@ -1,5 +1,7 @@
 # Danshi Koukousei no Yuuutsu
 
+![danshi-koukousei-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/162450.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

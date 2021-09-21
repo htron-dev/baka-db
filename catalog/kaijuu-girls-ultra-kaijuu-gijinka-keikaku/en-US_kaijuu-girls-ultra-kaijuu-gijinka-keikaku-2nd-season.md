@@ -1,5 +1,7 @@
 # Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season
 
+![kaijuu-girls-ultra-kaijuu-gijinka-keikaku-2nd-season](https://cdn.myanimelist.net/images/anime/2/89222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 怪獣娘～ウルトラ怪獣擬人化計画～ 第 2 期

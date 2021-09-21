@@ -1,5 +1,7 @@
 # Good-bye, My 19 year Old Self
 
+![good-bye-my-19-year-old-self](https://cdn.myanimelist.net/images/manga/3/6540.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 안녕, 나의 열아홉 살

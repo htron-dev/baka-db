@@ -1,5 +1,7 @@
 # Jikobukken no Yuurei-chan
 
+![jikobukken-no-yuurei-chan](https://cdn.myanimelist.net/images/manga/3/240208.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 42

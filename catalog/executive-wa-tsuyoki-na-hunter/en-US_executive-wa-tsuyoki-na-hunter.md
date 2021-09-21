@@ -1,5 +1,7 @@
 # Executive wa Tsuyoki na Hunter
 
+![executive-wa-tsuyoki-na-hunter](https://cdn.myanimelist.net/images/manga/1/153343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 社長〈エグゼクティブ〉は強気なハンター

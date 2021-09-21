@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Qi Xia Waizhuan
 
+![hong-mao-lan-tu-qi-xia-waizhuan](https://cdn.myanimelist.net/images/anime/1040/98711.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 虹猫蓝兔七侠 外传

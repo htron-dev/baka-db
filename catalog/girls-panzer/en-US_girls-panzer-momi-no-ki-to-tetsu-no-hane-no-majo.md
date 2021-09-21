@@ -1,5 +1,7 @@
 # Girls & Panzer: Momi no Ki to Tetsu no Hane no Majo
 
+![girls-panzer-momi-no-ki-to-tetsu-no-hane-no-majo](https://cdn.myanimelist.net/images/manga/1/246078.jpg)
+
 -   **type**: manga
 -   **original-name**: ガールズ&パンツァー 樅の木と鉄の羽の魔女
 -   **start-date**: 2018-11-15

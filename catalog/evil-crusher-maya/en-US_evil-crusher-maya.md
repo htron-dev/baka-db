@@ -1,5 +1,7 @@
 # Evil Crusher Maya
 
+![evil-crusher-maya](https://cdn.myanimelist.net/images/manga/2/40026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

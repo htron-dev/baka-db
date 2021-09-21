@@ -1,5 +1,7 @@
 # Electric Hands
 
+![electric-hands](https://cdn.myanimelist.net/images/manga/1/30584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

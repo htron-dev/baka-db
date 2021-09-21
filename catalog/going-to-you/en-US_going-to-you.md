@@ -1,5 +1,7 @@
 # Going to You
 
+![going-to-you](https://cdn.myanimelist.net/images/manga/2/28717.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 48

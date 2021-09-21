@@ -1,5 +1,7 @@
 # Himegimi no Jouken
 
+![himegimi-no-jouken](https://cdn.myanimelist.net/images/manga/1/212042.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

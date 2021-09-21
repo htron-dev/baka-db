@@ -1,5 +1,7 @@
 # Hot Gimmick
 
+![hot-gimmick](https://cdn.myanimelist.net/images/manga/2/142813.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 54

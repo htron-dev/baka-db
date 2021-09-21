@@ -1,5 +1,7 @@
 # Fuyushirazu no Koi
 
+![fuyushirazu-no-koi](https://cdn.myanimelist.net/images/manga/1/220706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

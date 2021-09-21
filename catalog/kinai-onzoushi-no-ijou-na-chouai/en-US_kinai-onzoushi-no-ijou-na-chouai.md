@@ -1,5 +1,7 @@
 # Kinai: Onzoushi no Ijou na Chouai
 
+![kinai-onzoushi-no-ijou-na-chouai](https://cdn.myanimelist.net/images/manga/2/194668.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 禁愛～御曹司の異常な寵愛～

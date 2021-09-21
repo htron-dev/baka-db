@@ -1,5 +1,7 @@
 # Denpa Kyoushi (TV)
 
+![denpa-kyoushi-tv](https://cdn.myanimelist.net/images/anime/4/73475.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 電波教師

@@ -1,5 +1,7 @@
 # Full Moon wo Sagashite
 
+![full-moon-wo-sagashite](https://cdn.myanimelist.net/images/manga/3/175970.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

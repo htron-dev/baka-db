@@ -1,5 +1,7 @@
 # Duel Masters Cross Shock
 
+![duel-masters-cross-shock](https://cdn.myanimelist.net/images/anime/1053/105191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: デュエル・マスターズ クロスショック

@@ -1,5 +1,7 @@
 # Manga Mitai na Koi Shitai!
 
+![manga-mitai-na-koi-shitai](https://cdn.myanimelist.net/images/manga/3/9924.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

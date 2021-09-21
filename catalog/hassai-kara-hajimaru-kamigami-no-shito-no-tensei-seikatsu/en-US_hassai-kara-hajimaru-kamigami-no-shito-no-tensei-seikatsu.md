@@ -1,5 +1,7 @@
 # Hassai kara Hajimaru Kamigami no Shito no Tensei Seikatsu
 
+![hassai-kara-hajimaru-kamigami-no-shito-no-tensei-seikatsu](https://cdn.myanimelist.net/images/manga/3/238424.jpg)
+
 -   **type**: manga
 -   **original-name**: 八歳から始まる神々の使徒の転生生活
 -   **start-date**: 2020-04-20

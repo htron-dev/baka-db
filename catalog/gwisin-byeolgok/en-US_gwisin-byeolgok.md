@@ -1,5 +1,7 @@
 # Gwisin Byeolgok
 
+![gwisin-byeolgok](https://cdn.myanimelist.net/images/manga/1/49085.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 귀신별곡

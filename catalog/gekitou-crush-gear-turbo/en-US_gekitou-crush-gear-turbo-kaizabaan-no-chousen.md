@@ -1,5 +1,7 @@
 # Gekitou! Crush Gear Turbo: Kaizabaan no Chousen
 
+![gekitou-crush-gear-turbo-kaizabaan-no-chousen](https://cdn.myanimelist.net/images/anime/1038/94231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 激闘!クラッシュギア TURBO カイザバーンの挑戦

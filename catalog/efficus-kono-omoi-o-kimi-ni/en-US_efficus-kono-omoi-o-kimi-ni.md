@@ -1,5 +1,7 @@
 # Efficus: Kono Omoi o Kimi ni...
 
+![efficus-kono-omoi-o-kimi-ni](https://cdn.myanimelist.net/images/anime/1179/96696.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: efficus この想いを君に...

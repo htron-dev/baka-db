@@ -1,5 +1,7 @@
 # Furidashi ni Ochiru!
 
+![furidashi-ni-ochiru](https://cdn.myanimelist.net/images/manga/1/210325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

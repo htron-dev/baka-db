@@ -1,5 +1,7 @@
 # Ishi no Hana
 
+![ishi-no-hana](https://cdn.myanimelist.net/images/manga/3/28570.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

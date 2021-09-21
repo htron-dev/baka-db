@@ -1,5 +1,7 @@
 # Ma Shen
 
+![ma-shen](https://cdn.myanimelist.net/images/anime/6/81481.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 麻神

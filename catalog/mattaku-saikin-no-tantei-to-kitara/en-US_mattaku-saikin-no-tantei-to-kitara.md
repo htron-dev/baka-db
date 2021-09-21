@@ -1,5 +1,7 @@
 # Mattaku Saikin no Tantei to Kitara
 
+![mattaku-saikin-no-tantei-to-kitara](https://cdn.myanimelist.net/images/manga/1/191790.jpg)
+
 -   **type**: manga
 -   **original-name**: まったく最近の探偵ときたら
 -   **start-date**: 2016-04-27

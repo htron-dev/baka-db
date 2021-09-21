@@ -1,5 +1,7 @@
 # Kare ga Cafe ni Iru no nara
 
+![kare-ga-cafe-ni-iru-no-nara](https://cdn.myanimelist.net/images/manga/5/50489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

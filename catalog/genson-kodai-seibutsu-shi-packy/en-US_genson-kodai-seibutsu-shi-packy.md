@@ -1,5 +1,7 @@
 # Genson! Kodai Seibutsu-shi Packy
 
+![genson-kodai-seibutsu-shi-packy](https://cdn.myanimelist.net/images/manga/4/84589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

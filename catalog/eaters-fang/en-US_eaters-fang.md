@@ -1,5 +1,7 @@
 # Eaters Fang
 
+![eaters-fang](https://cdn.myanimelist.net/images/manga/2/197324.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

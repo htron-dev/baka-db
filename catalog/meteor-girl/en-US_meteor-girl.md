@@ -1,5 +1,7 @@
 # Meteor Girl
 
+![meteor-girl](https://cdn.myanimelist.net/images/manga/2/201213.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

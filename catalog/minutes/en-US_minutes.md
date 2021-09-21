@@ -1,5 +1,7 @@
 # Minutes
 
+![minutes](https://cdn.myanimelist.net/images/manga/3/159288.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ミニッツ

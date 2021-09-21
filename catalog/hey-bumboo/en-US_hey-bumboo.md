@@ -1,5 +1,7 @@
 # Hey! Bumboo
 
+![hey-bumboo](https://cdn.myanimelist.net/images/anime/9/5633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: へーい！ブンブー

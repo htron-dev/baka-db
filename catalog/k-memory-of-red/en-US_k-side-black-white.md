@@ -1,5 +1,7 @@
 # K Side:Black & White
 
+![k-side-black-white](https://cdn.myanimelist.net/images/manga/3/91293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

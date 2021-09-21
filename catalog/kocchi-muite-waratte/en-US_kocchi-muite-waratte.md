@@ -1,5 +1,7 @@
 # Kocchi Muite Waratte
 
+![kocchi-muite-waratte](https://cdn.myanimelist.net/images/manga/2/109159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Fractale
 
+![fractale](https://cdn.myanimelist.net/images/manga/5/67741.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

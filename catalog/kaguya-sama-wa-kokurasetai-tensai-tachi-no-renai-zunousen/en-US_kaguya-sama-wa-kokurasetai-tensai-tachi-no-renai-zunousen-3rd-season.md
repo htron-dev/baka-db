@@ -1,5 +1,7 @@
 # Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3rd Season
 
+![kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-3rd-season](https://cdn.myanimelist.net/images/anime/1079/109928.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: かぐや様は告らせたい ～天才たちの恋愛頭脳戦～
 -   **rating**: PG-13 - Teens 13 or older

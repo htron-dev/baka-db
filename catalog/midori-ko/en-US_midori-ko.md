@@ -1,5 +1,7 @@
 # Midori-ko
 
+![midori-ko](https://cdn.myanimelist.net/images/anime/4/73675.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 緑子

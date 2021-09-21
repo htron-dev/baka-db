@@ -1,5 +1,7 @@
 # Dreamy Dreamer
 
+![dreamy-dreamer](https://cdn.myanimelist.net/images/manga/1/163382.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

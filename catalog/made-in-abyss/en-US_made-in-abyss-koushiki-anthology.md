@@ -1,5 +1,7 @@
 # Made in Abyss: Koushiki Anthology
 
+![made-in-abyss-koushiki-anthology](https://cdn.myanimelist.net/images/manga/1/236911.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドインアビス公式アンソロジー
 -   **start-date**: 2017-03-10

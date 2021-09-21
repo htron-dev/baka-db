@@ -1,5 +1,7 @@
 # Gundam Build Fighters
 
+![gundam-build-fighters](https://cdn.myanimelist.net/images/anime/7/51815.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ガンダムビルドファイターズ

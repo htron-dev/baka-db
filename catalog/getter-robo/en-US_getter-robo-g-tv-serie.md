@@ -1,5 +1,7 @@
 # Getter Robo G
 
+![getter-robo-g](https://cdn.myanimelist.net/images/anime/8/58399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ゲッターロボ G

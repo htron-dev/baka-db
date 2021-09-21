@@ -1,5 +1,7 @@
 # Major 2nd
 
+![major-2nd](https://cdn.myanimelist.net/images/manga/2/157412.jpg)
+
 -   **type**: manga
 -   **original-name**: MAJOR 2nd
 -   **start-date**: 2015-03-11

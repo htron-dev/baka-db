@@ -1,5 +1,7 @@
 # Id:Invaded
 
+![id-invaded](https://cdn.myanimelist.net/images/anime/1889/105337.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ID:INVADED イド:インヴェイデッド

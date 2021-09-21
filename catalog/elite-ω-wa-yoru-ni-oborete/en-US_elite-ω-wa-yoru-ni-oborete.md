@@ -1,5 +1,7 @@
 # Elite Ω wa Yoru ni Oborete
 
+![elite-ω-wa-yoru-ni-oborete](https://cdn.myanimelist.net/images/manga/1/223417.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Foxy Foxy
 
+![foxy-foxy](https://cdn.myanimelist.net/images/manga/3/18936.jpg)
+
 -   **type**: manga
 
 ## Tags

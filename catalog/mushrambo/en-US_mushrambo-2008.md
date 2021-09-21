@@ -1,5 +1,7 @@
 # Mushrambo (2008)
 
+![mushrambo-2008](https://cdn.myanimelist.net/images/anime/11/29840.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: マシュランボー (2008)

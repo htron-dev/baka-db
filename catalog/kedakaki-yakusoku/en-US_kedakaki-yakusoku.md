@@ -1,5 +1,7 @@
 # Kedakaki Yakusoku
 
+![kedakaki-yakusoku](https://cdn.myanimelist.net/images/manga/5/39299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

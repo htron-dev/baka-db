@@ -1,5 +1,7 @@
 # Hoshihimemura no Naishobanashi
 
+![hoshihimemura-no-naishobanashi](https://cdn.myanimelist.net/images/manga/2/190899.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

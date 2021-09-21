@@ -1,5 +1,7 @@
 # Love Live!
 
+![love-live](https://cdn.myanimelist.net/images/manga/2/104927.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

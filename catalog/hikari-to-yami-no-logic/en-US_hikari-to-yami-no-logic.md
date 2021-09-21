@@ -1,5 +1,7 @@
 # Hikari to Yami no Logic
 
+![hikari-to-yami-no-logic](https://cdn.myanimelist.net/images/manga/2/162218.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

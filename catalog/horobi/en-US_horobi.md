@@ -1,5 +1,7 @@
 # Horobi
 
+![horobi](https://cdn.myanimelist.net/images/manga/2/18974.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 217

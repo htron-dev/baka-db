@@ -1,5 +1,7 @@
 # Hokkaido no Geneki Hunter ga Isekai ni Hourikomaretemita: Elf Yome to Meguru Isekai Shuryou Life
 
+![hokkaido-no-geneki-hunter-ga-isekai-ni-hourikomaretemita-elf-yome-to-meguru-isekai-shuryou-life](https://cdn.myanimelist.net/images/manga/1/244098.jpg)
+
 -   **type**: manga
 -   **original-name**: 北海道の現役ハンターが異世界に放り込まれてみた～エルフ嫁と巡る異世界狩猟ライフ～
 -   **start-date**: 2020-05-20

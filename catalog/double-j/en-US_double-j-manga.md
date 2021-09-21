@@ -1,5 +1,7 @@
 # Double-J
 
+![double-j](https://cdn.myanimelist.net/images/manga/2/144095.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 106

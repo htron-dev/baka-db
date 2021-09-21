@@ -1,5 +1,7 @@
 # High School DxD DX
 
+![high-school-dx-d-dx](https://cdn.myanimelist.net/images/manga/2/152737.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ハイスクール D×D DX
 -   **start-date**: 2011-09-17

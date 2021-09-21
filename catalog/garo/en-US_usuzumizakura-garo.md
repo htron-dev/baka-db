@@ -1,5 +1,7 @@
 # Usuzumizakura: Garo
 
+![usuzumizakura-garo](https://cdn.myanimelist.net/images/anime/1428/93934.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 薄墨桜 -GARO-

@@ -1,5 +1,7 @@
 # Kao Haru CMs
 
+![kao-haru-c-ms](https://cdn.myanimelist.net/images/anime/1667/105772.jpg)
+
 -   **type**: special
 -   **original-name**: 王 春 CMs
 -   **start-date**: 2018-12-28

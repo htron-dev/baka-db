@@ -1,5 +1,7 @@
 # Destinies Cross
 
+![destinies-cross](https://cdn.myanimelist.net/images/manga/2/161110.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

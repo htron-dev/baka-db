@@ -1,5 +1,7 @@
 # Enzai de Shokei sareta Koushaku Reijou wa Konse dewa Mofugami-sama to Odayaka ni Sugoshitai
 
+![enzai-de-shokei-sareta-koushaku-reijou-wa-konse-dewa-mofugami-sama-to-odayaka-ni-sugoshitai](https://cdn.myanimelist.net/images/manga/3/238239.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 冤罪で処刑された侯爵令嬢は今世ではもふ神様と穏やかに過ごしたい
 -   **start-date**: 2020-01-16

@@ -1,5 +1,7 @@
 # Me wo Tojite 3-byou
 
+![me-wo-tojite-3-byou](https://cdn.myanimelist.net/images/manga/3/72873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

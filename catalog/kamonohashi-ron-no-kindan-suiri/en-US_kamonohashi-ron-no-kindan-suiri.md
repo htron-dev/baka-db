@@ -1,5 +1,7 @@
 # Kamonohashi Ron no Kindan Suiri
 
+![kamonohashi-ron-no-kindan-suiri](https://cdn.myanimelist.net/images/manga/2/240565.jpg)
+
 -   **type**: manga
 -   **original-name**: 鴨乃橋ロンの禁断推理
 -   **start-date**: 2020-10-11

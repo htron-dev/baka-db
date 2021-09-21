@@ -1,5 +1,7 @@
 # Mada Shiranai Oretachi
 
+![mada-shiranai-oretachi](https://cdn.myanimelist.net/images/manga/3/176640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

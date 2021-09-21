@@ -1,5 +1,7 @@
 # Kenketsu Rush
 
+![kenketsu-rush](https://cdn.myanimelist.net/images/manga/3/15309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

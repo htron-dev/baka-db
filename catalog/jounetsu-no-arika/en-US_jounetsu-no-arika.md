@@ -1,5 +1,7 @@
 # Jounetsu no Arika
 
+![jounetsu-no-arika](https://cdn.myanimelist.net/images/manga/1/226453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

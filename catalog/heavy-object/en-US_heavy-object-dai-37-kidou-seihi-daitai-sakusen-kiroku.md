@@ -1,5 +1,7 @@
 # Heavy Object: Dai 37 Kidou Seihi Daitai - Sakusen Kiroku
 
+![heavy-object-dai-37-kidou-seihi-daitai-sakusen-kiroku](https://cdn.myanimelist.net/images/anime/1310/93466.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 特別編 ~第 37 機動整備大隊 作戦記録~

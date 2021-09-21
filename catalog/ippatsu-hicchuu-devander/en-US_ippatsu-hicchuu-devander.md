@@ -1,5 +1,7 @@
 # Ippatsu Hicchuu!! Devander
 
+![ippatsu-hicchuu-devander](https://cdn.myanimelist.net/images/anime/4/89823.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 一発必中!! デバンダー

@@ -1,5 +1,7 @@
 # Enen no Shouboutai
 
+![enen-no-shouboutai](https://cdn.myanimelist.net/images/manga/3/178996.jpg)
+
 -   **type**: manga
 -   **original-name**: 炎炎ノ消防隊
 -   **start-date**: 2015-09-23

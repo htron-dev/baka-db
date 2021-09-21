@@ -1,5 +1,7 @@
 # Di Gi Charat Summer Special 2000
 
+![di-gi-charat-summer-special-2000](https://cdn.myanimelist.net/images/anime/12/64457.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: Di Gi Charat サマースペシャル 2000

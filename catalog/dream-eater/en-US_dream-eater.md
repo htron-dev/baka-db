@@ -1,5 +1,7 @@
 # Dream Eater
 
+![dream-eater](https://cdn.myanimelist.net/images/manga/3/44511.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ドリームイーター

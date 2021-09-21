@@ -1,5 +1,7 @@
 # Kyokou Suiri
 
+![kyokou-suiri](https://cdn.myanimelist.net/images/anime/1310/117188.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 虚構推理

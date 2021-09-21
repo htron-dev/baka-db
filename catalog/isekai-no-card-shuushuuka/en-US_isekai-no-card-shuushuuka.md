@@ -1,5 +1,7 @@
 # Isekai no Card Shuushuuka
 
+![isekai-no-card-shuushuuka](https://cdn.myanimelist.net/images/manga/3/180402.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 56

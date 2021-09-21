@@ -1,5 +1,7 @@
 # GLIAs World's End
 
+![gli-as-worlds-end](https://cdn.myanimelist.net/images/manga/3/148139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Good Morning Beethoven
 
+![good-morning-beethoven](https://cdn.myanimelist.net/images/manga/3/205475.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

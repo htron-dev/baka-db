@@ -1,5 +1,7 @@
 # Ikenai Himitsu x Momoiro Nikki
 
+![ikenai-himitsu-x-momoiro-nikki](https://cdn.myanimelist.net/images/manga/2/155637.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Fantasista
 
+![fantasista](https://cdn.myanimelist.net/images/manga/2/163618.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 223

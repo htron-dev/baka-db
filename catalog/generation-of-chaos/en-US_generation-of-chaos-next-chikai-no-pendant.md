@@ -1,5 +1,7 @@
 # Generation of Chaos Next: Chikai no Pendant
 
+![generation-of-chaos-next-chikai-no-pendant](https://cdn.myanimelist.net/images/anime/10/3753.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジェネレーション オブ カオス ネクスト～誓いのペンダント～

@@ -1,5 +1,7 @@
 # Ganbare! Kakure Ase Project
 
+![ganbare-kakure-ase-project](https://cdn.myanimelist.net/images/anime/1472/101070.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: がんばれ！隠れ汗 プロジェクト

@@ -1,5 +1,7 @@
 # Kami to Sengoku Seitokai
 
+![kami-to-sengoku-seitokai](https://cdn.myanimelist.net/images/manga/3/55221.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 80

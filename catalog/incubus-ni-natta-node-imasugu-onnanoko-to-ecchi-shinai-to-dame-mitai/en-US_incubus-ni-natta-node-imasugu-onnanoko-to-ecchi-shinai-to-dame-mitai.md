@@ -1,5 +1,7 @@
 # Incubus ni Natta node, Imasugu Onnanoko to Ecchi shinai to Dame Mitai.
 
+![incubus-ni-natta-node-imasugu-onnanoko-to-ecchi-shinai-to-dame-mitai](https://cdn.myanimelist.net/images/manga/1/160697.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

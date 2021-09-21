@@ -1,5 +1,7 @@
 # Deep Sea Tentacle
 
+![deep-sea-tentacle](https://cdn.myanimelist.net/images/anime/1318/111012.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Deep Sea Tentacle

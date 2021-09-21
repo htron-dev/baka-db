@@ -1,5 +1,7 @@
 # Makai Yome!
 
+![makai-yome](https://cdn.myanimelist.net/images/manga/3/163050.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 16

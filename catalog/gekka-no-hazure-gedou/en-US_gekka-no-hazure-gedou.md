@@ -1,5 +1,7 @@
 # Gekka no Hazure Gedou
 
+![gekka-no-hazure-gedou](https://cdn.myanimelist.net/images/manga/1/196957.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

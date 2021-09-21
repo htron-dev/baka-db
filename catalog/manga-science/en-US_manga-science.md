@@ -1,5 +1,7 @@
 # Manga Science
 
+![manga-science](https://cdn.myanimelist.net/images/manga/1/45429.jpg)
+
 -   **type**: manga
 -   **original-name**: まんがサイエンス
 

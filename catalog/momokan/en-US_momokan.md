@@ -1,5 +1,7 @@
 # Momokan
 
+![momokan](https://cdn.myanimelist.net/images/manga/3/33806.jpg)
+
 -   **type**: manga
 -   **original-name**: もも缶
 -   **start-date**: 2005-09-13

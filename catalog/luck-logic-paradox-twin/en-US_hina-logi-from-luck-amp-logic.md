@@ -1,5 +1,7 @@
 # Hina Logi: From Luck &amp; Logic
 
+![hina-logi-from-luck-amp-logic](https://cdn.myanimelist.net/images/anime/11/86576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ひなろじ～ from Luck & Logic ～

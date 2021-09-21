@@ -1,5 +1,7 @@
 # Katsuai no Ouji-sama
 
+![katsuai-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/82934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

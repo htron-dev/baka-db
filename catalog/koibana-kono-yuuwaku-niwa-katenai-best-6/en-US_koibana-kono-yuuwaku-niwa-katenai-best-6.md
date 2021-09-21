@@ -1,5 +1,7 @@
 # Koibana: Kono Yuuwaku niwa Katenai! Best 6
 
+![koibana-kono-yuuwaku-niwa-katenai-best-6](https://cdn.myanimelist.net/images/manga/1/11415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

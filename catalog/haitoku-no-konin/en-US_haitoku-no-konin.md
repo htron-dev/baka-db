@@ -1,5 +1,7 @@
 # Haitoku no Konin
 
+![haitoku-no-konin](https://cdn.myanimelist.net/images/manga/2/172287.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

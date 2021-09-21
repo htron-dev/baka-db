@@ -1,5 +1,7 @@
 # Mother Ghoul
 
+![mother-ghoul](https://cdn.myanimelist.net/images/manga/1/191372.jpg)
+
 -   **type**: manga
 -   **original-name**: マザーグール
 -   **start-date**: 2016-08-19

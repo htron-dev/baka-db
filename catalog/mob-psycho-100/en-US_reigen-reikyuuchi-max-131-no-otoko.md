@@ -1,5 +1,7 @@
 # Reigen: Reikyuuchi Max 131 no Otoko
 
+![reigen-reikyuuchi-max-131-no-otoko](https://cdn.myanimelist.net/images/manga/2/215968.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

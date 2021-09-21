@@ -1,5 +1,7 @@
 # Koi ni Ochita Daifugou
 
+![koi-ni-ochita-daifugou](https://cdn.myanimelist.net/images/manga/2/247212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋に落ちた大富豪

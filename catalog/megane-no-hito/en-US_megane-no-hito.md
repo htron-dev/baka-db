@@ -1,5 +1,7 @@
 # Megane no Hito
 
+![megane-no-hito](https://cdn.myanimelist.net/images/manga/5/16905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: めがねのひと

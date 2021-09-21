@@ -1,5 +1,7 @@
 # Kaze no Tairiku
 
+![kaze-no-tairiku](https://cdn.myanimelist.net/images/manga/1/13145.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 28
 -   **original-name**: 風の大陸

@@ -1,5 +1,7 @@
 # Tokyo Yaban Gaiden - Geboku Shounen Bushi
 
+![tokyo-yaban-gaiden-geboku-shounen-bushi](https://cdn.myanimelist.net/images/manga/1/192.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

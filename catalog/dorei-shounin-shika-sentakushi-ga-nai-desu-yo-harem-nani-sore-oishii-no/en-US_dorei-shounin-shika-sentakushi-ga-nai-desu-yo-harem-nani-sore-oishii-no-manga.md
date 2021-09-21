@@ -1,5 +1,7 @@
 # Dorei Shounin shika Sentakushi ga Nai desu yo?: Harem? Nani Sore Oishii no?
 
+![dorei-shounin-shika-sentakushi-ga-nai-desu-yo-harem-nani-sore-oishii-no](https://cdn.myanimelist.net/images/manga/3/216073.jpg)
+
 -   **type**: manga
 -   **original-name**: 奴隷商人しか選択肢がないですよ？～ハーレム？なにそれおいしいの？～
 -   **start-date**: 2018-07-27

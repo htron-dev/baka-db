@@ -1,5 +1,7 @@
 # My Bloody School Life
 
+![my-bloody-school-life](https://cdn.myanimelist.net/images/manga/3/12216.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 피바다 학원기

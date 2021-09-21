@@ -1,5 +1,7 @@
 # Lucky☆Star: Comic à la carte
 
+![lucky☆-star-comic-a-la-carte](https://cdn.myanimelist.net/images/manga/3/79465.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: らき ☆ すたコミックアラカルト

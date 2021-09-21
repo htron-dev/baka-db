@@ -1,5 +1,7 @@
 # Hachimitsu to Clover Specials
 
+![hachimitsu-to-clover-specials](https://cdn.myanimelist.net/images/anime/1657/106011.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ハチミツとクローバー

@@ -1,5 +1,7 @@
 # Endenburg no Hanayome
 
+![endenburg-no-hanayome](https://cdn.myanimelist.net/images/manga/3/173888.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

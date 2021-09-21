@@ -1,5 +1,7 @@
 # Go! Go! 575
 
+![go-go-575](https://cdn.myanimelist.net/images/anime/12/75228.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: ゴ～！ゴ～！ご～しちご～

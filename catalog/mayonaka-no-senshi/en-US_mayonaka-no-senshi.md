@@ -1,5 +1,7 @@
 # Mayonaka no Senshi
 
+![mayonaka-no-senshi](https://cdn.myanimelist.net/images/manga/2/12014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真夜中の戦士

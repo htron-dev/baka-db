@@ -1,5 +1,7 @@
 # Eiyuu Gaiden Mozaicka
 
+![eiyuu-gaiden-mozaicka](https://cdn.myanimelist.net/images/anime/4/24540.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 英雄凱伝モザイカ

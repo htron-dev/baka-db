@@ -1,5 +1,7 @@
 # Emiya-san Chi no Kyou no Gohan
 
+![emiya-san-chi-no-kyou-no-gohan](https://cdn.myanimelist.net/images/anime/8/89981.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 衛宮さんちの今日のごはん

@@ -1,5 +1,7 @@
 # Gale! Beast Machine Corps 203
 
+![gale-beast-machine-corps-203](https://cdn.myanimelist.net/images/manga/2/24497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

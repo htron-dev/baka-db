@@ -1,5 +1,7 @@
 # Kyou no Asuka Show
 
+![kyou-no-asuka-show](https://cdn.myanimelist.net/images/manga/1/132609.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

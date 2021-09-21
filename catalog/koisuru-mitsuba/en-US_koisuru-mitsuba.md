@@ -1,5 +1,7 @@
 # Koisuru Mitsuba
 
+![koisuru-mitsuba](https://cdn.myanimelist.net/images/manga/3/156357.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

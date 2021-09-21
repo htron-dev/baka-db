@@ -1,5 +1,7 @@
 # Fantasista Stella
 
+![fantasista-stella](https://cdn.myanimelist.net/images/manga/1/124841.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 134

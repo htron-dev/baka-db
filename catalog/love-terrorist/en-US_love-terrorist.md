@@ -1,5 +1,7 @@
 # Love Terrorist
 
+![love-terrorist](https://cdn.myanimelist.net/images/manga/3/156074.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ラブ・テロリスト

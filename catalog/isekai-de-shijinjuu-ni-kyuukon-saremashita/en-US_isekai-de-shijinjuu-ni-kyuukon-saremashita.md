@@ -1,5 +1,7 @@
 # Isekai de Shijinjuu ni Kyuukon Saremashita.
 
+![isekai-de-shijinjuu-ni-kyuukon-saremashita](https://cdn.myanimelist.net/images/manga/1/167542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異世界で四神獣に求婚されました。

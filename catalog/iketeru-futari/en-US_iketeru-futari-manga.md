@@ -1,5 +1,7 @@
 # Iketeru Futari
 
+![iketeru-futari](https://cdn.myanimelist.net/images/manga/2/172465.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 331

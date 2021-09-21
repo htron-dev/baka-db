@@ -1,5 +1,7 @@
 # Megane no Incubus-kun
 
+![megane-no-incubus-kun](https://cdn.myanimelist.net/images/manga/3/114089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Idoly Pride
 
+![idoly-pride](https://cdn.myanimelist.net/images/anime/1025/111962.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: IDOLY PRIDE

@@ -1,9 +1,11 @@
 # Kindaichi Shounen no Jikenbo: Case Series
 
+![kindaichi-shounen-no-jikenbo-case-series](https://cdn.myanimelist.net/images/manga/3/183422.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 81
--   **original-name**: 金田一少年の事件簿 Caseシリーズ
+-   **original-name**: 金田一少年の事件簿 Case シリーズ
 -   **start-date**: 1998-01-14
 -   **end-date**: 1998-01-14
 

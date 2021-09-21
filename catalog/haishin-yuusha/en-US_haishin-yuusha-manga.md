@@ -1,5 +1,7 @@
 # Haishin Yuusha
 
+![haishin-yuusha](https://cdn.myanimelist.net/images/manga/2/210831.jpg)
+
 -   **type**: manga
 -   **original-name**: 配信勇者
 -   **start-date**: 2018-02-05

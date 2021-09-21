@@ -1,5 +1,7 @@
 # Heart ni Hi wo Tsukero
 
+![heart-ni-hi-wo-tsukero](https://cdn.myanimelist.net/images/manga/1/33266.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハートに火をつけろ

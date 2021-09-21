@@ -1,5 +1,7 @@
 # Meikaidayori
 
+![meikaidayori](https://cdn.myanimelist.net/images/manga/1/193941.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 冥界だより

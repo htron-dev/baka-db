@@ -1,5 +1,7 @@
 # Giant Step
 
+![giant-step](https://cdn.myanimelist.net/images/manga/3/199606.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

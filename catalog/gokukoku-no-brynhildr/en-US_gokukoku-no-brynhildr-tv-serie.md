@@ -1,5 +1,7 @@
 # Gokukoku no Brynhildr
 
+![gokukoku-no-brynhildr](https://cdn.myanimelist.net/images/anime/5/61433.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 極黒のブリュンヒルデ

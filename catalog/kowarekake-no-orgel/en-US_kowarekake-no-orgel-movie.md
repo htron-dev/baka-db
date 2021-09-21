@@ -1,5 +1,7 @@
 # Kowarekake no Orgel (Movie)
 
+![kowarekake-no-orgel-movie](https://cdn.myanimelist.net/images/anime/3/30155.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こわれかけのオルゴール

@@ -1,5 +1,7 @@
 # F-sensei no Pocket
 
+![f-sensei-no-pocket](https://cdn.myanimelist.net/images/manga/2/158053.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: F 先生のポケット

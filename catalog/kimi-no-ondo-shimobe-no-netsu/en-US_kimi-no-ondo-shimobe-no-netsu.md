@@ -1,5 +1,7 @@
 # Kimi no Ondo, Shimobe no Netsu
 
+![kimi-no-ondo-shimobe-no-netsu](https://cdn.myanimelist.net/images/manga/3/24903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

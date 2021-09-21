@@ -1,5 +1,7 @@
 # Hige to Suzu to Shabondama
 
+![hige-to-suzu-to-shabondama](https://cdn.myanimelist.net/images/manga/1/237881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

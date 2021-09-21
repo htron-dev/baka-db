@@ -1,5 +1,7 @@
 # Mitsu-iro Hatsukoi Serenade
 
+![mitsu-iro-hatsukoi-serenade](https://cdn.myanimelist.net/images/manga/2/184684.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

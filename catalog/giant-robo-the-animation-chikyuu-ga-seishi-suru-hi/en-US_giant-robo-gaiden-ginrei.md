@@ -1,5 +1,7 @@
 # Giant Robo Gaiden Ginrei
 
+![giant-robo-gaiden-ginrei](https://cdn.myanimelist.net/images/anime/10/2584.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ジャイアントロボ外伝 GinRei 銀鈴

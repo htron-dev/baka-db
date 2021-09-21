@@ -1,5 +1,7 @@
 # Manga Sekuhara Senmon Gakkou
 
+![manga-sekuhara-senmon-gakkou](https://cdn.myanimelist.net/images/manga/1/165203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

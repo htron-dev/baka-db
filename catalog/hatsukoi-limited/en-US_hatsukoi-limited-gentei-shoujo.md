@@ -1,5 +1,7 @@
 # Hatsukoi Limited.: Gentei Shoujo
 
+![hatsukoi-limited-gentei-shoujo](https://cdn.myanimelist.net/images/anime/2/15991.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 初恋限定。限定少女

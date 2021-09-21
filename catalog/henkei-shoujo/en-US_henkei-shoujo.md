@@ -1,5 +1,7 @@
 # Henkei Shoujo
 
+![henkei-shoujo](https://cdn.myanimelist.net/images/anime/2/86539.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 変形少女

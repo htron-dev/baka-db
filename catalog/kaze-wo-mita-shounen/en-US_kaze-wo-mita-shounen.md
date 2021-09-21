@@ -1,5 +1,7 @@
 # Kaze wo Mita Shounen
 
+![kaze-wo-mita-shounen](https://cdn.myanimelist.net/images/anime/5/27052.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風を見た少年

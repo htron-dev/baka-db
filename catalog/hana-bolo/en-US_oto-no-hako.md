@@ -1,5 +1,7 @@
 # Oto no Hako
 
+![oto-no-hako](https://cdn.myanimelist.net/images/manga/1/171378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Itsuka no Koi to Natsu no Hate
 
+![itsuka-no-koi-to-natsu-no-hate](https://cdn.myanimelist.net/images/manga/2/224779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

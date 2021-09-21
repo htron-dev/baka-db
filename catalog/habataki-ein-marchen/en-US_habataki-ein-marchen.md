@@ -1,5 +1,7 @@
 # Habataki Ein Märchen
 
+![habataki-ein-marchen](https://cdn.myanimelist.net/images/manga/2/242617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Gekkou no Sasayaki
 
+![gekkou-no-sasayaki](https://cdn.myanimelist.net/images/manga/3/231149.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 78

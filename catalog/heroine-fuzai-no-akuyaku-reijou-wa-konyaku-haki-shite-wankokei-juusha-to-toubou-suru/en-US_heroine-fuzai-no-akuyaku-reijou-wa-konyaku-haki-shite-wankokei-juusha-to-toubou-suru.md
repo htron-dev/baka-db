@@ -1,5 +1,7 @@
 # Heroine Fuzai no Akuyaku Reijou wa Konyaku Haki shite Wankokei Juusha to Toubou suru
 
+![heroine-fuzai-no-akuyaku-reijou-wa-konyaku-haki-shite-wankokei-juusha-to-toubou-suru](https://cdn.myanimelist.net/images/manga/2/244932.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒロイン不在の悪役令嬢は婚約破棄してワンコ系従者と逃亡する
 -   **start-date**: 2021-01-20

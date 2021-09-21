@@ -1,5 +1,7 @@
 # Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made
 
+![hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made](https://cdn.myanimelist.net/images/manga/3/226075.jpg)
+
 -   **type**: manga
 -   **original-name**: ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで
 -   **start-date**: 2019-07-26

@@ -1,5 +1,7 @@
 # Lu Shidai
 
+![lu-shidai](https://cdn.myanimelist.net/images/anime/13/82659.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 撸时代

@@ -1,5 +1,7 @@
 # Ikebukuro Otome Road Senki
 
+![ikebukuro-otome-road-senki](https://cdn.myanimelist.net/images/manga/2/180488.jpg)
+
 -   **type**: manga
 -   **original-name**: 池袋ヲトメ道〈ロード〉戦記
 -   **start-date**: 2015-09-17

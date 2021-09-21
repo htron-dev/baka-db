@@ -1,5 +1,7 @@
 # Fukujinchou Kitan
 
+![fukujinchou-kitan](https://cdn.myanimelist.net/images/manga/3/230453.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

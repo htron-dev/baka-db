@@ -1,5 +1,7 @@
 # Goshujinsama to Yuku Isekai Survival! The Comic
 
+![goshujinsama-to-yuku-isekai-survival-the-comic](https://cdn.myanimelist.net/images/manga/1/233922.jpg)
+
 -   **type**: manga
 -   **original-name**: ご主人様とゆく異世界サバイバル! THE COMIC
 -   **start-date**: 2020-03-30

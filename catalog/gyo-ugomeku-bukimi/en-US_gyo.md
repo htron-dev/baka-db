@@ -1,5 +1,7 @@
 # Gyo
 
+![gyo](https://cdn.myanimelist.net/images/anime/9/31905.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ギョ

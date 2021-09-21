@@ -1,5 +1,7 @@
 # Makai Ouji: Devils and Realist
 
+![makai-ouji-devils-and-realist](https://cdn.myanimelist.net/images/manga/3/172700.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 96

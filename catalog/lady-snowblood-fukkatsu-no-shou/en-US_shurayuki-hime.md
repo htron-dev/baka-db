@@ -1,5 +1,7 @@
 # Shurayuki-hime
 
+![shurayuki-hime](https://cdn.myanimelist.net/images/manga/2/198210.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

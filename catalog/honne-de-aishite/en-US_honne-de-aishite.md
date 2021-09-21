@@ -1,5 +1,7 @@
 # Honne de Aishite
 
+![honne-de-aishite](https://cdn.myanimelist.net/images/manga/2/32098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

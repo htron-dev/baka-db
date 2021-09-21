@@ -1,5 +1,7 @@
 # Oingo to Boingo Kyoudai Daibouken
 
+![oingo-to-boingo-kyoudai-daibouken](https://cdn.myanimelist.net/images/manga/1/131129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

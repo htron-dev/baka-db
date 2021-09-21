@@ -1,5 +1,7 @@
 # Fuku Neko
 
+![fuku-neko](https://cdn.myanimelist.net/images/manga/2/203220.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

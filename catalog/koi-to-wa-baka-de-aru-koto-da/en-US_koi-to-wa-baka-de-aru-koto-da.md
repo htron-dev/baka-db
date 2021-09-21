@@ -1,5 +1,7 @@
 # Koi to wa Baka de Aru Koto da
 
+![koi-to-wa-baka-de-aru-koto-da](https://cdn.myanimelist.net/images/manga/2/142205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

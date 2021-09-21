@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume: Teikyou Kakutoku Daisakusen - Sakusen Kaigi
 
+![himitsukessha-taka-no-tsume-teikyou-kakutoku-daisakusen-sakusen-kaigi](https://cdn.myanimelist.net/images/anime/10/82804.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: 秘密結社 鷹の爪 提供獲得大作戦 作戦会議第

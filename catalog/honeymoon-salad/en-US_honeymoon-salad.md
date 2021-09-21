@@ -1,5 +1,7 @@
 # Honeymoon Salad
 
+![honeymoon-salad](https://cdn.myanimelist.net/images/manga/2/172157.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

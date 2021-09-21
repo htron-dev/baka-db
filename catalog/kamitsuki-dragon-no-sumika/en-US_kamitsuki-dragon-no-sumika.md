@@ -1,5 +1,7 @@
 # Kamitsuki Dragon no Sumika
 
+![kamitsuki-dragon-no-sumika](https://cdn.myanimelist.net/images/manga/1/245474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

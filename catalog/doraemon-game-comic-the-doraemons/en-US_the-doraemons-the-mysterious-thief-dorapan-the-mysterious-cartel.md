@@ -1,5 +1,7 @@
 # The☆Doraemons: The Mysterious Thief Dorapan The Mysterious Cartel
 
+![the☆-doraemons-the-mysterious-thief-dorapan-the-mysterious-cartel](https://cdn.myanimelist.net/images/anime/12/31266.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザ ☆ ドラえもんズ 怪盗ドラパン謎の挑戦状！

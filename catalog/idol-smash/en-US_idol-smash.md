@@ -1,5 +1,7 @@
 # Idol Smash!
 
+![idol-smash](https://cdn.myanimelist.net/images/manga/2/199955.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

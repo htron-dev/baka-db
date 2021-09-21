@@ -1,5 +1,7 @@
 # G-sen Rough Sketch
 
+![g-sen-rough-sketch](https://cdn.myanimelist.net/images/manga/1/172538.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: G 専ラフスケッチ

@@ -1,5 +1,7 @@
 # Danshi Hanayakanare
 
+![danshi-hanayakanare](https://cdn.myanimelist.net/images/manga/1/129111.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

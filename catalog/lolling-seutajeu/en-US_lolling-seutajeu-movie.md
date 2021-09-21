@@ -1,5 +1,7 @@
 # Lolling Seutajeu (Movie)
 
+![lolling-seutajeu-movie](https://cdn.myanimelist.net/images/anime/7/45720.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 롤링 스타즈

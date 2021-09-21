@@ -1,5 +1,7 @@
 # Meteor
 
+![meteor](https://cdn.myanimelist.net/images/manga/1/35329.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

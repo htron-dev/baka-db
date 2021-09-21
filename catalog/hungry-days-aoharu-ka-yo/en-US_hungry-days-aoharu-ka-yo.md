@@ -1,5 +1,7 @@
 # Hungry Days: Aoharu ka yo.
 
+![hungry-days-aoharu-ka-yo](https://cdn.myanimelist.net/images/anime/1637/105124.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: HUNGRY DAYS 　アオハルかよ。

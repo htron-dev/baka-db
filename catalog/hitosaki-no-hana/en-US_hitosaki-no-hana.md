@@ -1,5 +1,7 @@
 # Hitosaki no Hana
 
+![hitosaki-no-hana](https://cdn.myanimelist.net/images/manga/3/16676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

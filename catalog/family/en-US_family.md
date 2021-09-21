@@ -1,5 +1,7 @@
 # Family
 
+![family](https://cdn.myanimelist.net/images/manga/1/12031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Chou Mashin Eiyuuden Wataru
 
+![chou-mashin-eiyuuden-wataru](https://cdn.myanimelist.net/images/anime/1088/91563.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 超魔神英雄伝ワタル

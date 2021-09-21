@@ -1,5 +1,7 @@
 # Flying Witch Petit
 
+![flying-witch-petit](https://cdn.myanimelist.net/images/anime/5/79113.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: ふらいんぐうぃっち ぷち

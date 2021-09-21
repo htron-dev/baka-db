@@ -1,5 +1,7 @@
 # Hataraku Saibou White
 
+![hataraku-saibou-white](https://cdn.myanimelist.net/images/manga/3/240299.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらく細胞 WHITE
 -   **start-date**: 2020-10-26

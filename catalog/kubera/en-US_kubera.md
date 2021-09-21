@@ -1,5 +1,7 @@
 # Kubera
 
+![kubera](https://cdn.myanimelist.net/images/manga/3/74413.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 쿠베라
 -   **start-date**: 2010-02-07

@@ -1,5 +1,7 @@
 # Kairisei Million Arthur
 
+![kairisei-million-arthur](https://cdn.myanimelist.net/images/anime/3/88539.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 乖離性ミリオンアーサー

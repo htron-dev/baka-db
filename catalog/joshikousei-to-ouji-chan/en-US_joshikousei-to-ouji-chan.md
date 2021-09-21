@@ -1,5 +1,7 @@
 # Joshikousei to Ouji-chan
 
+![joshikousei-to-ouji-chan](https://cdn.myanimelist.net/images/manga/3/215149.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

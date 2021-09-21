@@ -1,5 +1,7 @@
 # Kiichi!!
 
+![kiichi](https://cdn.myanimelist.net/images/manga/4/77367.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 87

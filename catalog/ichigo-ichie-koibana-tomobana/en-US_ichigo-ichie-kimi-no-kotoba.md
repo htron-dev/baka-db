@@ -1,5 +1,7 @@
 # Ichigo Ichie: Kimi no Kotoba
 
+![ichigo-ichie-kimi-no-kotoba](https://cdn.myanimelist.net/images/anime/13/26390.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 一期一会～キミノコトバ～

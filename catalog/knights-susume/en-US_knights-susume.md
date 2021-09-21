@@ -1,5 +1,7 @@
 # Knight's Susume
 
+![knights-susume](https://cdn.myanimelist.net/images/manga/2/2667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

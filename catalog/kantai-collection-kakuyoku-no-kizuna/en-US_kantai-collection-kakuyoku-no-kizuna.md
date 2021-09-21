@@ -1,5 +1,7 @@
 # Kantai Collection: Kakuyoku no Kizuna
 
+![kantai-collection-kakuyoku-no-kizuna](https://cdn.myanimelist.net/images/manga/2/161651.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 32

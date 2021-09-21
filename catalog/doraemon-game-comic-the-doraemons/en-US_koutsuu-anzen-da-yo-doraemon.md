@@ -1,5 +1,7 @@
 # Koutsuu Anzen Da yo Doraemon
 
+![koutsuu-anzen-da-yo-doraemon](https://cdn.myanimelist.net/images/anime/1639/99400.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 交通安全だよ ドラえもん

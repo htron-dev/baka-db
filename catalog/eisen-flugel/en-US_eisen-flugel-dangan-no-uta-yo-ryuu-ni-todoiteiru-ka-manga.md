@@ -1,5 +1,7 @@
 # Eisen Flügel: Dangan no Uta yo Ryuu ni Todoiteiru ka
 
+![eisen-flugel-dangan-no-uta-yo-ryuu-ni-todoiteiru-ka](https://cdn.myanimelist.net/images/manga/1/185154.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

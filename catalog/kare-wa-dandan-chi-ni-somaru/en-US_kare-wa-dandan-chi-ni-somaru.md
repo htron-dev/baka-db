@@ -1,5 +1,7 @@
 # Kare wa Dandan Chi ni Somaru
 
+![kare-wa-dandan-chi-ni-somaru](https://cdn.myanimelist.net/images/manga/3/57405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

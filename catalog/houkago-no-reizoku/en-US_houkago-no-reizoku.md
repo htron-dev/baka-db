@@ -1,5 +1,7 @@
 # Houkago no Reizoku
 
+![houkago-no-reizoku](https://cdn.myanimelist.net/images/manga/3/193427.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

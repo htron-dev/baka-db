@@ -1,5 +1,7 @@
 # Garbage Brave: Isekai ni Shoukan sare Suterareta Yuusha no Fukushuu Monogatari
 
+![garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari](https://cdn.myanimelist.net/images/manga/2/240907.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

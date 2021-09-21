@@ -1,5 +1,7 @@
 # Musume ja Nakute Mama ga Suki nano!?
 
+![musume-ja-nakute-mama-ga-suki-nano](https://cdn.myanimelist.net/images/manga/3/244274.jpg)
+
 -   **type**: manga
 -   **original-name**: 娘じゃなくて私〈ママ〉が好きなの!?
 -   **start-date**: 2020-09-12

@@ -1,5 +1,7 @@
 # Hana wa Sakura yori mo Hana no Gotoku Series
 
+![hana-wa-sakura-yori-mo-hana-no-gotoku-series](https://cdn.myanimelist.net/images/manga/3/156666.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: 花は桜よりも華のごとくシーリス

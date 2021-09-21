@@ -1,5 +1,7 @@
 # Kokaku Torimonochou
 
+![kokaku-torimonochou](https://cdn.myanimelist.net/images/manga/1/26220.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 胡鶴捕物帳

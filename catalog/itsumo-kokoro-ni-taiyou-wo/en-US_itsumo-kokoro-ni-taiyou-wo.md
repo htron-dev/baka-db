@@ -1,5 +1,7 @@
 # Itsumo Kokoro ni Taiyou wo!
 
+![itsumo-kokoro-ni-taiyou-wo](https://cdn.myanimelist.net/images/anime/11/67945.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: いつも心に太陽を!

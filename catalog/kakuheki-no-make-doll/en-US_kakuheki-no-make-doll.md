@@ -1,5 +1,7 @@
 # Kakuheki no Make Doll
 
+![kakuheki-no-make-doll](https://cdn.myanimelist.net/images/manga/2/160684.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 赫碧のメイクドール

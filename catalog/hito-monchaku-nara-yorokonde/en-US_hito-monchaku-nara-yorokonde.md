@@ -1,5 +1,7 @@
 # Hito Monchaku nara Yorokonde!
 
+![hito-monchaku-nara-yorokonde](https://cdn.myanimelist.net/images/manga/1/247927.jpg)
+
 -   **type**: manga
 -   **original-name**: ひともんちゃくなら喜んで!
 -   **start-date**: 2021-05-03

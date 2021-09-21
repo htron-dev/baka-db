@@ -1,5 +1,7 @@
 # Honma ni Kanjani∞!!
 
+![honma-ni-kanjani∞](https://cdn.myanimelist.net/images/manga/3/233972.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ほんまに関ジャニ ∞！！

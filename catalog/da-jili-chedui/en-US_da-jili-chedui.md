@@ -1,5 +1,7 @@
 # Da Jili Chedui
 
+![da-jili-chedui](https://cdn.myanimelist.net/images/anime/1473/115479.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 89
 -   **original-name**: 大吉利车队

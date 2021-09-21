@@ -1,5 +1,7 @@
 # Heart wo Uchinomese!
 
+![heart-wo-uchinomese](https://cdn.myanimelist.net/images/manga/2/226160.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

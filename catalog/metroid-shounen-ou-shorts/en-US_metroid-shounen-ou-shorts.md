@@ -1,5 +1,7 @@
 # Metroid: Shounen Ou! Shorts
 
+![metroid-shounen-ou-shorts](https://cdn.myanimelist.net/images/manga/3/36916.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: スーパーメトロイド

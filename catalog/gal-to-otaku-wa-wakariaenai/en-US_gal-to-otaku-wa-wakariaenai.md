@@ -1,5 +1,7 @@
 # Gal to Otaku wa Wakariaenai.
 
+![gal-to-otaku-wa-wakariaenai](https://cdn.myanimelist.net/images/manga/1/194964.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

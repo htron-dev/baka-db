@@ -1,5 +1,7 @@
 # Kaettekita Dr. Slump: Arale-chan Special
 
+![kaettekita-dr-slump-arale-chan-special](https://cdn.myanimelist.net/images/anime/8/84157.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 帰って来た Dr.スランプ アラレちゃんスペシャル

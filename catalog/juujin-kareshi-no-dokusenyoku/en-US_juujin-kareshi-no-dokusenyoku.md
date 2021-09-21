@@ -1,5 +1,7 @@
 # Juujin Kareshi no Dokusenyoku
 
+![juujin-kareshi-no-dokusenyoku](https://cdn.myanimelist.net/images/manga/2/224989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

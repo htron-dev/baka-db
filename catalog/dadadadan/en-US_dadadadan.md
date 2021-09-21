@@ -1,5 +1,7 @@
 # Dadadadan.
 
+![dadadadan](https://cdn.myanimelist.net/images/manga/3/127621.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

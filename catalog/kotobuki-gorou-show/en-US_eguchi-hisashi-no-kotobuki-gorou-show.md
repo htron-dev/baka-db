@@ -1,5 +1,7 @@
 # Eguchi Hisashi no Kotobuki Gorou Show
 
+![eguchi-hisashi-no-kotobuki-gorou-show](https://cdn.myanimelist.net/images/anime/13/54143.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 江口寿史の寿五郎ショウ

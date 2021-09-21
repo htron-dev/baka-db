@@ -1,5 +1,7 @@
 # Lady!!
 
+![lady](https://cdn.myanimelist.net/images/manga/1/167964.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 59

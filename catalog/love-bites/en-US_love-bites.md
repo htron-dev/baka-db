@@ -1,5 +1,7 @@
 # Love Bites
 
+![love-bites](https://cdn.myanimelist.net/images/anime/3/78881.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: LOVE BITES

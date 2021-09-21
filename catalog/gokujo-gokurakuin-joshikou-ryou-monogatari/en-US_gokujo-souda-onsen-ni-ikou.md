@@ -1,5 +1,7 @@
 # Gokujo.: Souda Onsen ni Ikou!!
 
+![gokujo-souda-onsen-ni-ikou](https://cdn.myanimelist.net/images/anime/4/52095.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ゴクジョッ。そうだ温泉に行こう！！

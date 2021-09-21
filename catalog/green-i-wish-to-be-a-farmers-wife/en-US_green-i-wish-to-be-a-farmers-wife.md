@@ -1,5 +1,7 @@
 # GREEN - I Wish to be a Farmer’s Wife
 
+![green-i-wish-to-be-a-farmers-wife](https://cdn.myanimelist.net/images/manga/2/27210.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

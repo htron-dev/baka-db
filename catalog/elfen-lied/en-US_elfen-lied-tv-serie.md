@@ -1,5 +1,7 @@
 # Elfen Lied
 
+![elfen-lied](https://cdn.myanimelist.net/images/anime/10/6883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: エルフェンリート

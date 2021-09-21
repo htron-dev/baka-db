@@ -1,5 +1,7 @@
 # Kiss wo Oikoshite
 
+![kiss-wo-oikoshite](https://cdn.myanimelist.net/images/manga/2/12465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キスを追い越して

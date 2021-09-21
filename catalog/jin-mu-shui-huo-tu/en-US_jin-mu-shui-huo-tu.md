@@ -1,5 +1,7 @@
 # Jin Mu Shui Huo Tu
 
+![jin-mu-shui-huo-tu](https://cdn.myanimelist.net/images/anime/1602/115335.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 金木水火土

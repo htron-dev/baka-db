@@ -1,5 +1,7 @@
 # Mahou Ninpu Haramase ∞ Harassment
 
+![mahou-ninpu-haramase-∞-harassment](https://cdn.myanimelist.net/images/manga/1/168642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

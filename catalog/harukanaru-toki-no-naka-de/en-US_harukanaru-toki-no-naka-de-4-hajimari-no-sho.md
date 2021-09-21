@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 4: Hajimari no Sho
 
+![harukanaru-toki-no-naka-de-4-hajimari-no-sho](https://cdn.myanimelist.net/images/manga/3/17829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

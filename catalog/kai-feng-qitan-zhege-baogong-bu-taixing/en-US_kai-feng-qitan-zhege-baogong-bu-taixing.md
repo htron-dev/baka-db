@@ -1,5 +1,7 @@
 # Kai Feng Qitan: Zhege Baogong Bu Taixing
 
+![kai-feng-qitan-zhege-baogong-bu-taixing](https://cdn.myanimelist.net/images/anime/7/87504.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 开封奇谈-这个包公不太行

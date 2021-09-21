@@ -1,5 +1,7 @@
 # Youchien Senshi: Hanamaru Girls
 
+![youchien-senshi-hanamaru-girls](https://cdn.myanimelist.net/images/anime/12/44866.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 幼稚園戦士 はなまるガールズ

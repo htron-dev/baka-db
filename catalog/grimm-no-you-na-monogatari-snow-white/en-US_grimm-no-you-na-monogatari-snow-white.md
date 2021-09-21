@@ -1,5 +1,7 @@
 # Grimm no You na Monogatari: Snow White
 
+![grimm-no-you-na-monogatari-snow-white](https://cdn.myanimelist.net/images/manga/2/108197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

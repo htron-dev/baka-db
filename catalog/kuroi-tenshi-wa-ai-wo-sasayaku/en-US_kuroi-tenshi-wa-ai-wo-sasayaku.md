@@ -1,5 +1,7 @@
 # Kuroi Tenshi wa Ai wo Sasayaku
 
+![kuroi-tenshi-wa-ai-wo-sasayaku](https://cdn.myanimelist.net/images/manga/3/192769.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

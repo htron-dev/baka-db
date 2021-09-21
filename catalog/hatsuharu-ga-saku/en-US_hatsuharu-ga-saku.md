@@ -1,5 +1,7 @@
 # Hatsuharu ga Saku
 
+![hatsuharu-ga-saku](https://cdn.myanimelist.net/images/manga/1/234297.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Endou Hiroki Tanpenshuu
 
+![endou-hiroki-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/138571.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

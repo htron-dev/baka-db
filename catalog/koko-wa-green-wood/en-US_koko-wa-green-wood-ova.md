@@ -1,5 +1,7 @@
 # Koko wa Green Wood
 
+![koko-wa-green-wood](https://cdn.myanimelist.net/images/anime/1/1804.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ここはグリーン・ウッド

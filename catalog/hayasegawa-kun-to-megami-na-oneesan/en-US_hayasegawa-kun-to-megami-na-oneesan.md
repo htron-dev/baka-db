@@ -1,5 +1,7 @@
 # Hayasegawa-kun to Megami na Oneesan
 
+![hayasegawa-kun-to-megami-na-oneesan](https://cdn.myanimelist.net/images/manga/2/226815.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

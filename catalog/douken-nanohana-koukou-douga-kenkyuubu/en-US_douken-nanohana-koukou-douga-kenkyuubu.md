@@ -1,5 +1,7 @@
 # Douken. - Nanohana Koukou Douga Kenkyuubu -
 
+![douken-nanohana-koukou-douga-kenkyuubu](https://cdn.myanimelist.net/images/manga/1/49263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

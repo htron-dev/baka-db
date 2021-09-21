@@ -1,5 +1,7 @@
 # Free!
 
+![free](https://cdn.myanimelist.net/images/manga/1/115533.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Free! フリー

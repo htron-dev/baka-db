@@ -1,5 +1,7 @@
 # Koisuru 1/4
 
+![koisuru-1-4](https://cdn.myanimelist.net/images/manga/4/24791.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 68

@@ -1,5 +1,7 @@
 # Mobile Suit Gakuen: Kaette Kita G-Reco Koushien
 
+![mobile-suit-gakuen-kaette-kita-g-reco-koushien](https://cdn.myanimelist.net/images/anime/1861/105481.jpg)
+
 -   **type**: special
 -   **original-name**: モビルスーツ学園「帰ってきたＧ-レコ甲子園」
 -   **start-date**: 2020-01-17

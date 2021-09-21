@@ -1,5 +1,7 @@
 # Hoshifurizaka Icchoume Sanbanchi
 
+![hoshifurizaka-icchoume-sanbanchi](https://cdn.myanimelist.net/images/manga/2/150036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

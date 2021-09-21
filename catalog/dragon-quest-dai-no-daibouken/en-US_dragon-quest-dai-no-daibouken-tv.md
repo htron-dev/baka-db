@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken (TV)
 
+![dragon-quest-dai-no-daibouken-tv](https://cdn.myanimelist.net/images/anime/1963/108416.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: ドラゴンクエスト・ダイの大冒険

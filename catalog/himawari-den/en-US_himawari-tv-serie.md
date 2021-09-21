@@ -1,5 +1,7 @@
 # Himawari!!
 
+![himawari](https://cdn.myanimelist.net/images/anime/9/60061.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ひまわりっ！！

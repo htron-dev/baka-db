@@ -1,5 +1,7 @@
 # Guitar Shoujo!
 
+![guitar-shoujo](https://cdn.myanimelist.net/images/anime/11/68483.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギター少女!

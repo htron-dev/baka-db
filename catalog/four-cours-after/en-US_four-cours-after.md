@@ -1,5 +1,7 @@
 # Four Cours After
 
+![four-cours-after](https://cdn.myanimelist.net/images/manga/3/204509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 40

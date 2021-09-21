@@ -1,5 +1,7 @@
 # Kuukai
 
+![kuukai](https://cdn.myanimelist.net/images/manga/3/206844.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

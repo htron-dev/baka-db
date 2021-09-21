@@ -1,5 +1,7 @@
 # Kyouju to Shitsuji no Shizuka na Seikatsu
 
+![kyouju-to-shitsuji-no-shizuka-na-seikatsu](https://cdn.myanimelist.net/images/manga/2/198154.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

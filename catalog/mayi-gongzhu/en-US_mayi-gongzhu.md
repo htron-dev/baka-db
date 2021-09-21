@@ -1,5 +1,7 @@
 # Mayi Gongzhu
 
+![mayi-gongzhu](https://cdn.myanimelist.net/images/anime/1492/114513.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 蚂蚁公主

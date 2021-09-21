@@ -1,5 +1,7 @@
 # eX-Driver the Movie Specials
 
+![e-x-driver-the-movie-specials](https://cdn.myanimelist.net/images/anime/10/34743.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: エクスドライバー the Movie

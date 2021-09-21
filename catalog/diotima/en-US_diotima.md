@@ -1,5 +1,7 @@
 # Diotima
 
+![diotima](https://cdn.myanimelist.net/images/manga/2/11748.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 제멋대로 함선 디오티마
 

@@ -1,5 +1,7 @@
 # Kamichu!
 
+![kamichu](https://cdn.myanimelist.net/images/manga/4/34714.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

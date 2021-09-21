@@ -1,5 +1,7 @@
 # Marriage Battle!
 
+![marriage-battle](https://cdn.myanimelist.net/images/manga/2/149761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # I My Me! Strawberry Eggs
 
+![i-my-me-strawberry-eggs](https://cdn.myanimelist.net/images/anime/1414/93964.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: あぃまぃみぃ！ストロベリー・エッグ

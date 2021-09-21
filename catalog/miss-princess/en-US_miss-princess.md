@@ -1,5 +1,7 @@
 # Miss Princess!
 
+![miss-princess](https://cdn.myanimelist.net/images/manga/1/186616.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

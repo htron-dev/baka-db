@@ -1,5 +1,7 @@
 # Ijimeru Aitsu ga Warui no ka, Ijimerareta Boku ga Warui no ka?
 
+![ijimeru-aitsu-ga-warui-no-ka-ijimerareta-boku-ga-warui-no-ka](https://cdn.myanimelist.net/images/manga/2/237724.jpg)
+
 -   **type**: manga
 -   **original-name**: いじめるアイツが悪いのか、いじめられた僕が悪いのか?
 -   **start-date**: 2020-06-05

@@ -1,5 +1,7 @@
 # Maou no Musume, Sugoku Choroi.
 
+![maou-no-musume-sugoku-choroi](https://cdn.myanimelist.net/images/manga/2/238676.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の娘、すごくチョロい。
 -   **start-date**: 2020-06-16

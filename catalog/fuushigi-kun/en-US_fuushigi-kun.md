@@ -1,5 +1,7 @@
 # Fuushigi-kun
 
+![fuushigi-kun](https://cdn.myanimelist.net/images/manga/2/198838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

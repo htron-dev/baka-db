@@ -1,5 +1,7 @@
 # Mahou Shoujo nara 1105-goushitsu ni Imasu.
 
+![mahou-shoujo-nara-1105-goushitsu-ni-imasu](https://cdn.myanimelist.net/images/manga/1/162036.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女なら 1105 号室にいます。
 -   **start-date**: 2014-02-08

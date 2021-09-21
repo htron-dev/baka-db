@@ -1,5 +1,7 @@
 # Marine Corps Yumi
 
+![marine-corps-yumi](https://cdn.myanimelist.net/images/manga/3/129059.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: まりんこゆみ

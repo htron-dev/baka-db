@@ -1,5 +1,7 @@
 # Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen
 
+![danganronpa-3-the-end-of-kibougamine-gakuen-zetsubou-hen](https://cdn.myanimelist.net/images/anime/4/80932.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ダンガンロンパ 3 -The End of 希望ヶ峰学園- 絶望編

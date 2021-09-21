@@ -1,5 +1,7 @@
 # Doujin ni Koishite
 
+![doujin-ni-koishite](https://cdn.myanimelist.net/images/manga/2/95773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 同人に恋して

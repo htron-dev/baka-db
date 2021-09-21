@@ -1,5 +1,7 @@
 # Lessa
 
+![lessa](https://cdn.myanimelist.net/images/manga/2/221652.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 18
 -   **chapters**: 292

@@ -1,5 +1,7 @@
 # Kamishiro Misuzu no Matataki
 
+![kamishiro-misuzu-no-matataki](https://cdn.myanimelist.net/images/manga/3/224647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

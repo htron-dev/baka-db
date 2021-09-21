@@ -1,5 +1,7 @@
 # Ekimemo!
 
+![ekimemo](https://cdn.myanimelist.net/images/anime/1712/90354.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 駅メモ！

@@ -1,5 +1,7 @@
 # Dandadan
 
+![dandadan](https://cdn.myanimelist.net/images/manga/2/248746.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンダダン
 -   **start-date**: 2021-04-06

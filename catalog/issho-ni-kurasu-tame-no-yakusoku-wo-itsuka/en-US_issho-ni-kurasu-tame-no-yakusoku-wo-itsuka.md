@@ -1,5 +1,7 @@
 # Issho ni Kurasu Tame no Yakusoku wo Itsuka
 
+![issho-ni-kurasu-tame-no-yakusoku-wo-itsuka](https://cdn.myanimelist.net/images/manga/3/92623.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

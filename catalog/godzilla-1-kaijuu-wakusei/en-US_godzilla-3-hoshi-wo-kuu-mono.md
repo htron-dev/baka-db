@@ -1,5 +1,7 @@
 # Godzilla 3: Hoshi wo Kuu Mono
 
+![godzilla-3-hoshi-wo-kuu-mono](https://cdn.myanimelist.net/images/anime/1556/93690.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GODZILLA 星を喰う者

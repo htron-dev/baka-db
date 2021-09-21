@@ -1,5 +1,7 @@
 # Goblin Slayer Gaiden 2: Tsubanari no Daikatana
 
+![goblin-slayer-gaiden-2-tsubanari-no-daikatana](https://cdn.myanimelist.net/images/manga/3/227165.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ゴブリンスレイヤー外伝 2 鍔鳴の太刀《ダイ・カタナ》
 -   **start-date**: 2019-08-09

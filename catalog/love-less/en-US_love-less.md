@@ -1,5 +1,7 @@
 # Love Less
 
+![love-less](https://cdn.myanimelist.net/images/manga/1/13505.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

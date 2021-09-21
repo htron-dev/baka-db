@@ -1,5 +1,7 @@
 # Harlem Beat wa Yoake made
 
+![harlem-beat-wa-yoake-made](https://cdn.myanimelist.net/images/manga/5/22690.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

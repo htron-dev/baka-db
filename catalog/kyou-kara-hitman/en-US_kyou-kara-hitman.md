@@ -1,5 +1,7 @@
 # Kyou kara Hitman
 
+![kyou-kara-hitman](https://cdn.myanimelist.net/images/manga/3/157886.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **original-name**: 今日からヒットマン

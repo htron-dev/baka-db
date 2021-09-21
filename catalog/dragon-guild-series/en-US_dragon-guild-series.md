@@ -1,5 +1,7 @@
 # Dragon Guild Series
 
+![dragon-guild-series](https://cdn.myanimelist.net/images/manga/1/241961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: ドラゴンギルドシリーズ

@@ -1,5 +1,7 @@
 # Kuruneko 2nd Season
 
+![kuruneko-2nd-season](https://cdn.myanimelist.net/images/anime/13/24952.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: くるねこ

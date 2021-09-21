@@ -1,5 +1,7 @@
 # Kanojo ga Flag wo Oraretara
 
+![kanojo-ga-flag-wo-oraretara](https://cdn.myanimelist.net/images/anime/11/63363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 彼女がフラグをおられたら

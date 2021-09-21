@@ -1,5 +1,7 @@
 # Love Root Zero
 
+![love-root-zero](https://cdn.myanimelist.net/images/manga/1/78919.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ラブルートゼロ

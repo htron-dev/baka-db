@@ -1,5 +1,7 @@
 # Misoji to Lady
 
+![misoji-to-lady](https://cdn.myanimelist.net/images/manga/3/190614.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 58

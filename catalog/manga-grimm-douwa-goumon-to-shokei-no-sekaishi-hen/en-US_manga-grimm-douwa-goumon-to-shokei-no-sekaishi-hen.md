@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Goumon to Shokei no Sekaishi-hen
 
+![manga-grimm-douwa-goumon-to-shokei-no-sekaishi-hen](https://cdn.myanimelist.net/images/manga/3/137327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

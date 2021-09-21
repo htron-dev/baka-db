@@ -1,5 +1,7 @@
 # Hakui no Kyouhansha
 
+![hakui-no-kyouhansha](https://cdn.myanimelist.net/images/manga/2/154157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

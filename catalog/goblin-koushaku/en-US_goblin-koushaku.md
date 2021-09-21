@@ -1,5 +1,7 @@
 # Goblin Koushaku
 
+![goblin-koushaku](https://cdn.myanimelist.net/images/manga/1/36136.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ゴブリン公爵

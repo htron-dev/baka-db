@@ -1,5 +1,7 @@
 # Kujira no Kora wa Sajou ni Manabu!
 
+![kujira-no-kora-wa-sajou-ni-manabu](https://cdn.myanimelist.net/images/anime/1857/90626.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: クジラの子らは砂上に学ぶ!

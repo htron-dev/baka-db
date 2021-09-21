@@ -1,5 +1,7 @@
 # Junjou Dummy Heroine
 
+![junjou-dummy-heroine](https://cdn.myanimelist.net/images/manga/3/248015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

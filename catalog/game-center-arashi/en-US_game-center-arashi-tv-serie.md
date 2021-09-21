@@ -1,5 +1,7 @@
 # Game Center Arashi
 
+![game-center-arashi](https://cdn.myanimelist.net/images/anime/5/34473.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ゲームセンターあらし

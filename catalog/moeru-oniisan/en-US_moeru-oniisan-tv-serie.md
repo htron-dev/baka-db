@@ -1,5 +1,7 @@
 # Moeru! Oniisan
 
+![moeru-oniisan](https://cdn.myanimelist.net/images/anime/1157/97568.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 燃える！お兄さん

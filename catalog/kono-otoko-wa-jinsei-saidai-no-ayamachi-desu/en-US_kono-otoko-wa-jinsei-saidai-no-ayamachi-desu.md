@@ -1,5 +1,7 @@
 # Kono Otoko wa Jinsei Saidai no Ayamachi desu
 
+![kono-otoko-wa-jinsei-saidai-no-ayamachi-desu](https://cdn.myanimelist.net/images/manga/3/236916.jpg)
+
 -   **type**: manga
 -   **original-name**: この男は人生最大の過ちです
 -   **start-date**: 2017-03-04

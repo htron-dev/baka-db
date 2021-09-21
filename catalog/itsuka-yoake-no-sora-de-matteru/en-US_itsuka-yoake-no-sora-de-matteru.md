@@ -1,5 +1,7 @@
 # Itsuka, Yoake no Sora de Matteru.
 
+![itsuka-yoake-no-sora-de-matteru](https://cdn.myanimelist.net/images/manga/2/165956.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Fondant Chocolat Danshi wa Amaku Torokeru
 
+![fondant-chocolat-danshi-wa-amaku-torokeru](https://cdn.myanimelist.net/images/manga/3/193210.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Manga Sekai Mukashibanashi
 
+![manga-sekai-mukashibanashi](https://cdn.myanimelist.net/images/anime/11/22964.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 127
 -   **original-name**: まんが世界昔ばなし

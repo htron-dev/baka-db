@@ -1,5 +1,7 @@
 # Keiji Yugami
 
+![keiji-yugami](https://cdn.myanimelist.net/images/manga/3/199274.jpg)
+
 -   **type**: manga
 -   **original-name**: 刑事ゆがみ
 -   **start-date**: 2016-05-02

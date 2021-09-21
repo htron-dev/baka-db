@@ -1,5 +1,7 @@
 # Ignition Blood
 
+![ignition-blood](https://cdn.myanimelist.net/images/manga/3/173755.jpg)
+
 -   **type**: light-novel
 -   **original-name**: イグニッション・ブラッド
 -   **start-date**: 2016-02-20

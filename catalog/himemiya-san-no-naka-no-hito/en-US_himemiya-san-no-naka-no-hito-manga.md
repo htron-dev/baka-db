@@ -1,5 +1,7 @@
 # Himemiya-san no Naka no Hito
 
+![himemiya-san-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/3/37023.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 姫宮さんの中の人

@@ -1,5 +1,7 @@
 # Kapon (&gt;\_&lt;)!
 
+![kapon-gt-lt](https://cdn.myanimelist.net/images/manga/2/6663.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Freak: Legend of the Nonblonds
 
+![freak-legend-of-the-nonblonds](https://cdn.myanimelist.net/images/manga/2/17550.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 프리크

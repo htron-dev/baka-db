@@ -1,5 +1,7 @@
 # Kokoro wo Korosu Houhou
 
+![kokoro-wo-korosu-houhou](https://cdn.myanimelist.net/images/manga/1/220708.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Ensemble Stars!
 
+![ensemble-stars](https://cdn.myanimelist.net/images/anime/1804/107203.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: あんさんぶるスターズ！

@@ -1,5 +1,7 @@
 # Kugiko-chan
 
+![kugiko-chan](https://cdn.myanimelist.net/images/manga/2/210401.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

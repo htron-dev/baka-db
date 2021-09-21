@@ -1,5 +1,7 @@
 # Dark Walker
 
+![dark-walker](https://cdn.myanimelist.net/images/manga/2/16509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: Ｄａｒｋ　ｗａｌｋｅｒ　闇を歩く者; 夢幻のレクイエム　Ｄａｒｋ　ｗａｌｋｅｒ

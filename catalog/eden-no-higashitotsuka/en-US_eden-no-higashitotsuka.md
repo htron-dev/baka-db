@@ -1,5 +1,7 @@
 # Eden no Higashitotsuka
 
+![eden-no-higashitotsuka](https://cdn.myanimelist.net/images/manga/3/149769.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Goshujin-sama wa Gokigen Naname
 
+![goshujin-sama-wa-gokigen-naname](https://cdn.myanimelist.net/images/manga/1/165944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

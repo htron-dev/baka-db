@@ -1,5 +1,7 @@
 # Kidou Senshi Z Gundam Define
 
+![kidou-senshi-z-gundam-define](https://cdn.myanimelist.net/images/manga/1/148281.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士 Ζ ガンダム Define
 -   **start-date**: 2011-06-25

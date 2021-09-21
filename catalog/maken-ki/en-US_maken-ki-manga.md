@@ -1,5 +1,7 @@
 # Maken-Ki!
 
+![maken-ki](https://cdn.myanimelist.net/images/manga/2/156367.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 146

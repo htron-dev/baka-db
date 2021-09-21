@@ -1,5 +1,7 @@
 # Lulin Da Maoxian zhi Tangguo Shijie
 
+![lulin-da-maoxian-zhi-tangguo-shijie](https://cdn.myanimelist.net/images/anime/9/86914.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 绿林大冒险之糖果世界

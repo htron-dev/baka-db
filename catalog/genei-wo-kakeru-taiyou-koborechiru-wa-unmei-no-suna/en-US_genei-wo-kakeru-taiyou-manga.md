@@ -1,5 +1,7 @@
 # Genei wo Kakeru Taiyou
 
+![genei-wo-kakeru-taiyou](https://cdn.myanimelist.net/images/manga/2/125897.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

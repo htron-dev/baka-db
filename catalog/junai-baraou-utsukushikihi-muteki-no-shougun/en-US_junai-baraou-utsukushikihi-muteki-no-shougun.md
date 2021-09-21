@@ -1,5 +1,7 @@
 # Junai: Baraou, Utsukushikihi, Muteki no Shougun
 
+![junai-baraou-utsukushikihi-muteki-no-shougun](https://cdn.myanimelist.net/images/manga/3/194885.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

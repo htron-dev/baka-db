@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri: Ran - Hajimaru Michiato
 
+![koutetsujou-no-kabaneri-ran-hajimaru-michiato](https://cdn.myanimelist.net/images/anime/1660/95107.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 甲鉄城のカバネリ -乱- 始まる軌跡

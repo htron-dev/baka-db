@@ -1,5 +1,7 @@
 # Kujonin
 
+![kujonin](https://cdn.myanimelist.net/images/manga/2/205173.jpg)
+
 -   **type**: manga
 -   **original-name**: 駆除人
 -   **start-date**: 2017-06-26

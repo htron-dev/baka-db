@@ -1,5 +1,7 @@
 # Gokudou-san Series
 
+![gokudou-san-series](https://cdn.myanimelist.net/images/manga/1/241797.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 極道さんシリーズ
 -   **start-date**: 2016-06-30

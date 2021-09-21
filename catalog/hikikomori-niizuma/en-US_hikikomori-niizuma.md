@@ -1,5 +1,7 @@
 # Hikikomori Niizuma
 
+![hikikomori-niizuma](https://cdn.myanimelist.net/images/manga/3/233896.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

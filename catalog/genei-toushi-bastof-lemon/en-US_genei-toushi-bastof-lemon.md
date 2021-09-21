@@ -1,5 +1,7 @@
 # Genei Toushi Bastof Lemon
 
+![genei-toushi-bastof-lemon](https://cdn.myanimelist.net/images/anime/6/21151.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 幻影闘士バストフレモン

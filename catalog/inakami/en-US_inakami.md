@@ -1,5 +1,7 @@
 # Inakami
 
+![inakami](https://cdn.myanimelist.net/images/manga/3/198009.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: いなかみ

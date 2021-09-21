@@ -1,5 +1,7 @@
 # Kuroko no Basket 3rd Season
 
+![kuroko-no-basket-3rd-season](https://cdn.myanimelist.net/images/anime/4/68299.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 黒子のバスケ

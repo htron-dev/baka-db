@@ -1,5 +1,7 @@
 # First Love: Anata ga Watashi wo Sabishiku Saseru
 
+![first-love-anata-ga-watashi-wo-sabishiku-saseru](https://cdn.myanimelist.net/images/manga/3/113947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

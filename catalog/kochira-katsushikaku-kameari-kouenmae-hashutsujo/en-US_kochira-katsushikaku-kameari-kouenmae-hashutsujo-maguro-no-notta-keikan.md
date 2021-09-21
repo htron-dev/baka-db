@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Maguro no Notta Keikan
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-maguro-no-notta-keikan](https://cdn.myanimelist.net/images/anime/8/81543.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所 マグロに乗った警官

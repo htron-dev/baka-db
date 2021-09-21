@@ -1,5 +1,7 @@
 # Justeen
 
+![justeen](https://cdn.myanimelist.net/images/anime/13/39023.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジャスティーン

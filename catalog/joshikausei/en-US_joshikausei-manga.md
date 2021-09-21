@@ -1,5 +1,7 @@
 # Joshikausei
 
+![joshikausei](https://cdn.myanimelist.net/images/manga/1/121107.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子かう生
 -   **start-date**: 2013-09-27

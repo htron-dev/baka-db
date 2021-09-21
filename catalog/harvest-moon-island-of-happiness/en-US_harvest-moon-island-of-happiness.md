@@ -1,5 +1,7 @@
 # Harvest Moon: Island of Happiness
 
+![harvest-moon-island-of-happiness](https://cdn.myanimelist.net/images/manga/2/13831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

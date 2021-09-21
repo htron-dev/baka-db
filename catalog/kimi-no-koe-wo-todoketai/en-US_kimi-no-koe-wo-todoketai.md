@@ -1,5 +1,7 @@
 # Kimi no Koe wo Todoketai
 
+![kimi-no-koe-wo-todoketai](https://cdn.myanimelist.net/images/anime/11/86704.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きみの声をとどけたい

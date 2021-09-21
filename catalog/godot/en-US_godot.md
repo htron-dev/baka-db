@@ -1,5 +1,7 @@
 # Godot
 
+![godot](https://cdn.myanimelist.net/images/manga/2/230712.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

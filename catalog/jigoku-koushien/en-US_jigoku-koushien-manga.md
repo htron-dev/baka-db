@@ -1,5 +1,7 @@
 # Jigoku Koushien
 
+![jigoku-koushien](https://cdn.myanimelist.net/images/manga/1/150343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 地獄甲子園

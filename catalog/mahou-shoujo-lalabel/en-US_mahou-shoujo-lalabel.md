@@ -1,5 +1,7 @@
 # Mahou Shoujo Lalabel
 
+![mahou-shoujo-lalabel](https://cdn.myanimelist.net/images/anime/6/17538.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 魔法少女ララベル

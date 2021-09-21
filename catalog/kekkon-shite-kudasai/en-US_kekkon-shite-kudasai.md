@@ -1,5 +1,7 @@
 # Kekkon shite Kudasai!
 
+![kekkon-shite-kudasai](https://cdn.myanimelist.net/images/manga/3/224378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

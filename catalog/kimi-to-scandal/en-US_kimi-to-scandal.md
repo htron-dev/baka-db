@@ -1,5 +1,7 @@
 # Kimi to Scandal!
 
+![kimi-to-scandal](https://cdn.myanimelist.net/images/manga/1/26915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Houkago no Pianist
 
+![houkago-no-pianist](https://cdn.myanimelist.net/images/manga/2/137243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 放課後のピアニスト

@@ -1,5 +1,7 @@
 # Keitai Denwa Ore
 
+![keitai-denwa-ore](https://cdn.myanimelist.net/images/manga/3/184916.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

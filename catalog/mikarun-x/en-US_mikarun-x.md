@@ -1,5 +1,7 @@
 # Mikarun X
 
+![mikarun-x](https://cdn.myanimelist.net/images/manga/2/222021.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

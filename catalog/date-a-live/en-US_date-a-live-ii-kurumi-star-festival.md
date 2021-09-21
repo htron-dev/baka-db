@@ -1,5 +1,7 @@
 # Date A Live II: Kurumi Star Festival
 
+![date-a-live-ii-kurumi-star-festival](https://cdn.myanimelist.net/images/anime/6/69489.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デート・ア・ライブ II 狂三スターフェスティバル

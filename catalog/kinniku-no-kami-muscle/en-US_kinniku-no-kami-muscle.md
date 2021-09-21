@@ -1,5 +1,7 @@
 # Kinniku no Kami Muscle
 
+![kinniku-no-kami-muscle](https://cdn.myanimelist.net/images/manga/2/160734.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 筋肉の神マッスル

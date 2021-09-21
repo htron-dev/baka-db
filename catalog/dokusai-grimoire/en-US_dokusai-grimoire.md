@@ -1,5 +1,7 @@
 # Dokusai Grimoire
 
+![dokusai-grimoire](https://cdn.myanimelist.net/images/manga/3/157347.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

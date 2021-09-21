@@ -1,5 +1,7 @@
 # FLCL Alternative
 
+![flcl-alternative](https://cdn.myanimelist.net/images/anime/1494/93701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フリクリ オルタナ

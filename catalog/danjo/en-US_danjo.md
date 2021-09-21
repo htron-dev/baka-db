@@ -1,5 +1,7 @@
 # Danjo
 
+![danjo](https://cdn.myanimelist.net/images/manga/1/35087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

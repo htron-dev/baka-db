@@ -1,5 +1,7 @@
 # Kakumei no Hi
 
+![kakumei-no-hi](https://cdn.myanimelist.net/images/manga/4/150107.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

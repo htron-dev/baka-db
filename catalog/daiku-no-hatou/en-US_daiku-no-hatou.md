@@ -1,5 +1,7 @@
 # Daiku no Hatou
 
+![daiku-no-hatou](https://cdn.myanimelist.net/images/manga/3/200940.jpg)
+
 -   **type**: manga
 -   **original-name**: 第九の波濤
 -   **start-date**: 2017-04-19

@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan - Penguin Mura Eiyuu Densetsu
 
+![dr-slump-arale-chan-penguin-mura-eiyuu-densetsu](https://cdn.myanimelist.net/images/anime/1310/107726.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Dr.スランプアラレちゃんスペシャル ペンギン村英雄伝説

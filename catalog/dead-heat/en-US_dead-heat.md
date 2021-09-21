@@ -1,5 +1,7 @@
 # Dead Heat
 
+![dead-heat](https://cdn.myanimelist.net/images/anime/6/51885.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デッドヒート

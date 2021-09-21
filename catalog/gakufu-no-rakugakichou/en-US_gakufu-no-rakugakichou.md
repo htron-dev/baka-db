@@ -1,5 +1,7 @@
 # Gakufu no Rakugakichou
 
+![gakufu-no-rakugakichou](https://cdn.myanimelist.net/images/anime/1312/99138.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 楽譜の落書き帳

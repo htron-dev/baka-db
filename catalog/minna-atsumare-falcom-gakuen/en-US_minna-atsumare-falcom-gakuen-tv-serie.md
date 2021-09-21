@@ -1,5 +1,7 @@
 # Minna Atsumare! Falcom Gakuen
 
+![minna-atsumare-falcom-gakuen](https://cdn.myanimelist.net/images/anime/10/56549.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みんな集まれ！ファルコム学園

@@ -1,5 +1,7 @@
 # Kimi ga Shuuchakueki
 
+![kimi-ga-shuuchakueki](https://cdn.myanimelist.net/images/manga/2/171524.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

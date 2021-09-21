@@ -1,5 +1,7 @@
 # Gunparade March: Another Princess
 
+![gunparade-march-another-princess](https://cdn.myanimelist.net/images/manga/1/161225.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Moto Kizoku Reijou de Mikon no Haha desu ga Musume-tachi ga Kawaisugite Boukenshagyou mo Ku ni Narimasen @comic
 
+![moto-kizoku-reijou-de-mikon-no-haha-desu-ga-musume-tachi-ga-kawaisugite-boukenshagyou-mo-ku-ni-narimasen-comic](https://cdn.myanimelist.net/images/manga/2/229348.jpg)
+
 -   **type**: manga
 -   **original-name**: 元貴族令嬢で未婚の母ですが、娘たちが可愛すぎて冒険者業も苦になりません@COMIC
 -   **start-date**: 2019-08-29

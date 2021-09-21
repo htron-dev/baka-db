@@ -1,5 +1,7 @@
 # Mitsuwaku no Kubikazari
 
+![mitsuwaku-no-kubikazari](https://cdn.myanimelist.net/images/manga/2/165896.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

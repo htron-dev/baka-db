@@ -1,5 +1,7 @@
 # Hakoiri Drops
 
+![hakoiri-drops](https://cdn.myanimelist.net/images/manga/2/188792.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 85

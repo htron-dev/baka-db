@@ -1,5 +1,7 @@
 # Gokujou Seitokai
 
+![gokujou-seitokai](https://cdn.myanimelist.net/images/manga/3/211776.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

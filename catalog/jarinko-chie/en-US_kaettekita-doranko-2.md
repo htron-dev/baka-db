@@ -1,5 +1,7 @@
 # Kaettekita Doranko 2
 
+![kaettekita-doranko-2](https://cdn.myanimelist.net/images/manga/1/180244.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 53

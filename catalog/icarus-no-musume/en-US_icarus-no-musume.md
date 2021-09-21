@@ -1,5 +1,7 @@
 # Icarus no Musume
 
+![icarus-no-musume](https://cdn.myanimelist.net/images/manga/1/161142.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

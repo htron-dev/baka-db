@@ -1,5 +1,7 @@
 # Hang Out Crisis
 
+![hang-out-crisis](https://cdn.myanimelist.net/images/manga/2/180657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

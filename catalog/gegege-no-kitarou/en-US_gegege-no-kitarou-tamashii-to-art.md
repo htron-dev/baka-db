@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Tamashii to Art
 
+![gegege-no-kitarou-tamashii-to-art](https://cdn.myanimelist.net/images/anime/1205/99498.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: ゲゲゲの鬼太郎　魂とアート

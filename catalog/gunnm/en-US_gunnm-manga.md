@@ -1,5 +1,7 @@
 # Gunnm
 
+![gunnm](https://cdn.myanimelist.net/images/manga/1/145619.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 53

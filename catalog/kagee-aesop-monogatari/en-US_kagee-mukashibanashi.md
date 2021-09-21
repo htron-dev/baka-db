@@ -1,5 +1,7 @@
 # Kagee Mukashibanashi
 
+![kagee-mukashibanashi](https://cdn.myanimelist.net/images/anime/3/70973.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: 影絵むかし話

@@ -1,5 +1,7 @@
 # D4DJ Petit Mix
 
+![d-4-dj-petit-mix](https://cdn.myanimelist.net/images/anime/1089/113814.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ぷっちみく ♪
 -   **start-date**: 2021-02-05

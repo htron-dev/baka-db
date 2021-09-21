@@ -1,5 +1,7 @@
 # Youkoso Japari Park
 
+![youkoso-japari-park](https://cdn.myanimelist.net/images/anime/1449/95853.jpg)
+
 -   **type**: ona
 -   **episodes**: 36
 -   **original-name**: ようこそジャパリパーク

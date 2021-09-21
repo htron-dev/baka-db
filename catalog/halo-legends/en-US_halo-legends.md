@@ -1,5 +1,7 @@
 # Halo Legends
 
+![halo-legends](https://cdn.myanimelist.net/images/anime/12/16013.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: ヘイロー・レジェンズ

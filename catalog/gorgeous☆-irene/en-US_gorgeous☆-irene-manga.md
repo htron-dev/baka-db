@@ -1,5 +1,7 @@
 # Gorgeous☆Irene
 
+![gorgeous☆-irene](https://cdn.myanimelist.net/images/manga/4/181944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

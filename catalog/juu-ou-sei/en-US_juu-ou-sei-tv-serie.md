@@ -1,5 +1,7 @@
 # Juu Ou Sei
 
+![juu-ou-sei](https://cdn.myanimelist.net/images/anime/3/14079.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 獣王星

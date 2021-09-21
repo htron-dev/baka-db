@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi
 
+![koukaku-kidoutai-stand-alone-complex-solid-state-society-uchikoma-na-hibi](https://cdn.myanimelist.net/images/anime/8/5699.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 ウチコマナ日々

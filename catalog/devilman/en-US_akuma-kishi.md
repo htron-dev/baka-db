@@ -1,5 +1,7 @@
 # Akuma Kishi
 
+![akuma-kishi](https://cdn.myanimelist.net/images/manga/2/174399.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 悪魔騎士

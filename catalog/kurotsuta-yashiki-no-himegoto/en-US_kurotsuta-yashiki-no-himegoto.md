@@ -1,5 +1,7 @@
 # Kurotsuta Yashiki no Himegoto
 
+![kurotsuta-yashiki-no-himegoto](https://cdn.myanimelist.net/images/manga/3/152023.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

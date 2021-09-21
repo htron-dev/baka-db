@@ -1,5 +1,7 @@
 # Ikemen Kyoudai kara Semarareteimasu ga Nanra Mondai Arimasen.
 
+![ikemen-kyoudai-kara-semarareteimasu-ga-nanra-mondai-arimasen](https://cdn.myanimelist.net/images/manga/2/192709.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

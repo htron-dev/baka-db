@@ -1,5 +1,7 @@
 # Datte, Kimi ga Warau kara
 
+![datte-kimi-ga-warau-kara](https://cdn.myanimelist.net/images/manga/2/64567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

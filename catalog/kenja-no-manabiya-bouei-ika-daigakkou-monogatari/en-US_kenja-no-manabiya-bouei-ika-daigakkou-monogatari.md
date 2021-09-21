@@ -1,5 +1,7 @@
 # Kenja no Manabiya: Bouei Ika Daigakkou Monogatari
 
+![kenja-no-manabiya-bouei-ika-daigakkou-monogatari](https://cdn.myanimelist.net/images/manga/3/210570.jpg)
+
 -   **type**: manga
 -   **original-name**: 賢者の学び舎 防衛医科大学校物語
 -   **start-date**: 2018-01-26

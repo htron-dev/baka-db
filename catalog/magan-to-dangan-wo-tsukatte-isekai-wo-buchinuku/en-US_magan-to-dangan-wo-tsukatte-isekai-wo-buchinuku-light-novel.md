@@ -1,5 +1,7 @@
 # Magan to Dangan wo Tsukatte Isekai wo Buchinuku!
 
+![magan-to-dangan-wo-tsukatte-isekai-wo-buchinuku](https://cdn.myanimelist.net/images/manga/2/241458.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔眼と弾丸を使って異世界をぶち抜く！
 -   **start-date**: 2018-03-22

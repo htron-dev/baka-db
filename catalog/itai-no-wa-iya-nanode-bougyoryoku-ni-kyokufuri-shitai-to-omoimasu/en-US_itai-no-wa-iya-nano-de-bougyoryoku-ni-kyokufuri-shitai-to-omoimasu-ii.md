@@ -1,5 +1,7 @@
 # Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. II
 
+![itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-ii](https://cdn.myanimelist.net/images/anime/1779/112013.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 痛いのは嫌なので防御力に極振りしたいと思います. II
 -   **rating**: PG-13 - Teens 13 or older

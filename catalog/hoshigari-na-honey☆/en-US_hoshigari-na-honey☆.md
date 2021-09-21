@@ -1,5 +1,7 @@
 # Hoshigari na Honey☆
 
+![hoshigari-na-honey☆](https://cdn.myanimelist.net/images/manga/3/136413.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 欲しがりなハニィ ☆

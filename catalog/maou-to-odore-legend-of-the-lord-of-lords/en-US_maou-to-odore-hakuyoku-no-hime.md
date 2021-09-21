@@ -1,5 +1,7 @@
 # Maou to Odore! Hakuyoku no Hime
 
+![maou-to-odore-hakuyoku-no-hime](https://cdn.myanimelist.net/images/manga/2/132623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 魔王と踊れ！ - 白翼の姫

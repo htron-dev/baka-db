@@ -1,5 +1,7 @@
 # Knock 3 Times
 
+![knock-3-times](https://cdn.myanimelist.net/images/manga/2/2811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

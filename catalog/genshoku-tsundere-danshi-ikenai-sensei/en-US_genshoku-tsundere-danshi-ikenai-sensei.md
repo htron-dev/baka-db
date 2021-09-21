@@ -1,5 +1,7 @@
 # Genshoku Tsundere Danshi. Ikenai Sensei
 
+![genshoku-tsundere-danshi-ikenai-sensei](https://cdn.myanimelist.net/images/manga/3/35121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

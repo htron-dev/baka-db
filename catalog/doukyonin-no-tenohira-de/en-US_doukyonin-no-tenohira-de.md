@@ -1,5 +1,7 @@
 # Doukyonin no Tenohira de
 
+![doukyonin-no-tenohira-de](https://cdn.myanimelist.net/images/manga/2/227253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

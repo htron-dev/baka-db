@@ -1,5 +1,7 @@
 # Hime Chen! Otogi Chikku Idol Lilpri
 
+![hime-chen-otogi-chikku-idol-lilpri](https://cdn.myanimelist.net/images/anime/6/71891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ひめチェン! おとぎちっくアイドル リルぷりっ

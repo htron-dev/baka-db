@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Hikaru Inochi Chronicle U.C.
 
+![mobile-suit-gundam-hikaru-inochi-chronicle-u-c](https://cdn.myanimelist.net/images/anime/1417/103338.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 光る命 Chronicle U.C.

@@ -1,5 +1,7 @@
 # Tezuka Osamu no Don Dracula
 
+![tezuka-osamu-no-don-dracula](https://cdn.myanimelist.net/images/anime/7/15129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 手塚治虫のドン・ドラキュラ

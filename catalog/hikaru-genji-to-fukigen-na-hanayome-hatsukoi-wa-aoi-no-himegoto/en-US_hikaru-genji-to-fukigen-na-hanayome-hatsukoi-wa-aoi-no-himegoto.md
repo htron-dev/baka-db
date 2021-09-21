@@ -1,5 +1,7 @@
 # Hikaru Genji to Fukigen na Hanayome: Hatsukoi wa Aoi no Himegoto
 
+![hikaru-genji-to-fukigen-na-hanayome-hatsukoi-wa-aoi-no-himegoto](https://cdn.myanimelist.net/images/manga/1/184021.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

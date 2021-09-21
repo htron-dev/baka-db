@@ -1,5 +1,7 @@
 # JaJa Uma! Quartet
 
+![ja-ja-uma-quartet](https://cdn.myanimelist.net/images/anime/1132/97335.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: じゃじゃ馬カルテット

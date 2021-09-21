@@ -1,5 +1,7 @@
 # My Sweet Dragon
 
+![my-sweet-dragon](https://cdn.myanimelist.net/images/manga/4/19222.jpg)
+
 -   **type**: manga
 -   **original-name**: マイスウィートドラゴン
 

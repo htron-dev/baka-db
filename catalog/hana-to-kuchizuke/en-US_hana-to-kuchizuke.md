@@ -1,5 +1,7 @@
 # Hana to Kuchizuke
 
+![hana-to-kuchizuke](https://cdn.myanimelist.net/images/manga/3/240026.jpg)
+
 -   **type**: manga
 -   **original-name**: 花とくちづけ
 -   **start-date**: 2020-08-23

@@ -1,5 +1,7 @@
 # Dokidoki! Precure
 
+![dokidoki-precure](https://cdn.myanimelist.net/images/anime/13/46363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ドキドキ! プリキュア

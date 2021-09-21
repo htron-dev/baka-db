@@ -1,5 +1,7 @@
 # Getter Robo Saga
 
+![getter-robo-saga](https://cdn.myanimelist.net/images/manga/2/27660.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 69

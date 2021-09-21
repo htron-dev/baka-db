@@ -1,5 +1,7 @@
 # Flanders no Inu Specials
 
+![flanders-no-inu-specials](https://cdn.myanimelist.net/images/anime/5/63531.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 フランダースの犬

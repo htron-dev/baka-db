@@ -1,5 +1,7 @@
 # Enemigo
 
+![enemigo](https://cdn.myanimelist.net/images/manga/2/90245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

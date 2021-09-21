@@ -1,5 +1,7 @@
 # Honya no Mori no Akari
 
+![honya-no-mori-no-akari](https://cdn.myanimelist.net/images/manga/2/23618.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 本屋の森のあかり

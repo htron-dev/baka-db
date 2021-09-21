@@ -1,5 +1,7 @@
 # Hoshi no Saku Toki
 
+![hoshi-no-saku-toki](https://cdn.myanimelist.net/images/manga/2/17564.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

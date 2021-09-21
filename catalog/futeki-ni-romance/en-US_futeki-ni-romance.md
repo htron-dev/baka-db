@@ -1,5 +1,7 @@
 # Futeki ni Romance
 
+![futeki-ni-romance](https://cdn.myanimelist.net/images/manga/2/2560.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

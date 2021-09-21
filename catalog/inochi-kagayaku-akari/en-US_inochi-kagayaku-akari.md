@@ -1,5 +1,7 @@
 # Inochi Kagayaku Akari
 
+![inochi-kagayaku-akari](https://cdn.myanimelist.net/images/anime/9/66171.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いのち輝く灯

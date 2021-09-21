@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Yoigoshi-hen
 
+![higurashi-no-naku-koro-ni-yoigoshi-hen](https://cdn.myanimelist.net/images/manga/2/1021.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

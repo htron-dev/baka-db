@@ -1,5 +1,7 @@
 # Koigakubo Princess Honey
 
+![koigakubo-princess-honey](https://cdn.myanimelist.net/images/manga/1/165516.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

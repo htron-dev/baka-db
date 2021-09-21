@@ -1,5 +1,7 @@
 # Kanro to Libido
 
+![kanro-to-libido](https://cdn.myanimelist.net/images/manga/2/203092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Macross F
 
+![macross-f](https://cdn.myanimelist.net/images/anime/9/15648.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: マクロス F（フロンティア）

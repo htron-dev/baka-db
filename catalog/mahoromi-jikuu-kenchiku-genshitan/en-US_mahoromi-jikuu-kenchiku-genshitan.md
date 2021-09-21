@@ -1,5 +1,7 @@
 # Mahoromi: Jikuu Kenchiku Genshitan
 
+![mahoromi-jikuu-kenchiku-genshitan](https://cdn.myanimelist.net/images/manga/3/164932.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

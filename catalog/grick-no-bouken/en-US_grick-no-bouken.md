@@ -1,5 +1,7 @@
 # Grick no Bouken
 
+![grick-no-bouken](https://cdn.myanimelist.net/images/anime/9/84017.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グリックの冒険

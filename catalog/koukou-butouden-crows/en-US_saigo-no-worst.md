@@ -1,5 +1,7 @@
 # Saigo no Worst
 
+![saigo-no-worst](https://cdn.myanimelist.net/images/manga/3/162905.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 最後の WORST

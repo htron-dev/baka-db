@@ -1,5 +1,7 @@
 # Kyoutei Shoujo
 
+![kyoutei-shoujo](https://cdn.myanimelist.net/images/manga/2/36082.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 競艇少女

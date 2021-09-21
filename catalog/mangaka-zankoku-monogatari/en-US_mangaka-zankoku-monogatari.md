@@ -1,5 +1,7 @@
 # Mangaka Zankoku Monogatari
 
+![mangaka-zankoku-monogatari](https://cdn.myanimelist.net/images/manga/2/197598.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

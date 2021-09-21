@@ -1,5 +1,7 @@
 # Majo Kaitou LIP☆S
 
+![majo-kaitou-lip☆s](https://cdn.myanimelist.net/images/manga/3/236242.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

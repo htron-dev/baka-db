@@ -1,5 +1,7 @@
 # Gyutto Shite D
 
+![gyutto-shite-d](https://cdn.myanimelist.net/images/manga/1/10003.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ギュッとして D

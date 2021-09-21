@@ -1,5 +1,7 @@
 # Hibike! Euphonium Movie 2: Todoketai Melody
 
+![hibike-euphonium-movie-2-todoketai-melody](https://cdn.myanimelist.net/images/anime/5/88024.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 響け！ユーフォニアム～届けたいメロディ～

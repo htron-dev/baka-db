@@ -1,5 +1,7 @@
 # Futari no Taisei
 
+![futari-no-taisei](https://cdn.myanimelist.net/images/manga/2/224192.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

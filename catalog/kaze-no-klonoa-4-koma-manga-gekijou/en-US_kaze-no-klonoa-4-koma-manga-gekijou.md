@@ -1,5 +1,7 @@
 # Kaze no Klonoa: 4-koma Manga Gekijou
 
+![kaze-no-klonoa-4-koma-manga-gekijou](https://cdn.myanimelist.net/images/manga/3/126935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

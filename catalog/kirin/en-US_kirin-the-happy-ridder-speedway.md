@@ -1,5 +1,7 @@
 # Kirin: The Happy Ridder Speedway
 
+![kirin-the-happy-ridder-speedway](https://cdn.myanimelist.net/images/manga/1/179691.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 108

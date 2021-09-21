@@ -1,5 +1,7 @@
 # Digimon Tamers
 
+![digimon-tamers](https://cdn.myanimelist.net/images/anime/7/73696.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デジモンテイマーズ

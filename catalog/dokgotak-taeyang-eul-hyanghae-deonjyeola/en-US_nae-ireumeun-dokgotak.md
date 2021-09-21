@@ -1,5 +1,7 @@
 # Nae Ireumeun Dokgotak
 
+![nae-ireumeun-dokgotak](https://cdn.myanimelist.net/images/anime/13/45829.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 내 이름은 독고탁

@@ -1,5 +1,7 @@
 # Gold
 
+![gold](https://cdn.myanimelist.net/images/manga/1/53617.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 58

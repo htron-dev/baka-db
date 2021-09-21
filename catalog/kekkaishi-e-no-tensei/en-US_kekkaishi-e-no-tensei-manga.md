@@ -1,5 +1,7 @@
 # Kekkaishi e no Tensei
 
+![kekkaishi-e-no-tensei](https://cdn.myanimelist.net/images/manga/1/230330.jpg)
+
 -   **type**: manga
 -   **original-name**: 結界師への転生
 -   **start-date**: 2018-10-12

@@ -1,5 +1,7 @@
 # Duel Masters Zero: Tokubetsu-hen - Tamashii Shoukan Special!
 
+![duel-masters-zero-tokubetsu-hen-tamashii-shoukan-special](https://cdn.myanimelist.net/images/anime/1533/105295.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デュエル・マスターズ ゼロ 特別篇 魂召喚スペシャル！

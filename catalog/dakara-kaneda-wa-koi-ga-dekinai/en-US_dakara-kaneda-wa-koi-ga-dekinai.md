@@ -1,5 +1,7 @@
 # Dakara Kaneda wa Koi ga Dekinai
 
+![dakara-kaneda-wa-koi-ga-dekinai](https://cdn.myanimelist.net/images/manga/3/82672.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

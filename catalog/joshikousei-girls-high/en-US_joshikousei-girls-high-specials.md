@@ -1,5 +1,7 @@
 # Joshikousei: Girl's High Specials
 
+![joshikousei-girls-high-specials](https://cdn.myanimelist.net/images/anime/7/15364.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 女子高生 GIRL'S HIGH

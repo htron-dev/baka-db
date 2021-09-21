@@ -1,5 +1,7 @@
 # Double Happiness
 
+![double-happiness](https://cdn.myanimelist.net/images/manga/2/163651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Gordias
 
+![gordias](https://cdn.myanimelist.net/images/manga/3/19525.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゴルディアス

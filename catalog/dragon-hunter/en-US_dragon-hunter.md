@@ -1,5 +1,7 @@
 # Dragon Hunter
 
+![dragon-hunter](https://cdn.myanimelist.net/images/manga/4/9803.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 39
 -   **original-name**: 용잡이

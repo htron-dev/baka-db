@@ -1,5 +1,7 @@
 # Jouai Paradox
 
+![jouai-paradox](https://cdn.myanimelist.net/images/manga/1/156347.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

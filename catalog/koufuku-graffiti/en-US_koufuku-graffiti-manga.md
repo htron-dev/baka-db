@@ -1,5 +1,7 @@
 # Koufuku Graffiti
 
+![koufuku-graffiti](https://cdn.myanimelist.net/images/manga/3/128113.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 75

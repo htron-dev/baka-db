@@ -1,5 +1,7 @@
 # Emblem Take 2
 
+![emblem-take-2](https://cdn.myanimelist.net/images/manga/1/150651.jpg)
+
 -   **type**: manga
 -   **volumes**: 62
 -   **chapters**: 635

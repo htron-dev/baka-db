@@ -1,5 +1,7 @@
 # Koi wa Senkyo to Gakuen Haken!
 
+![koi-wa-senkyo-to-gakuen-haken](https://cdn.myanimelist.net/images/manga/2/160742.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 恋は選挙と学園覇権!

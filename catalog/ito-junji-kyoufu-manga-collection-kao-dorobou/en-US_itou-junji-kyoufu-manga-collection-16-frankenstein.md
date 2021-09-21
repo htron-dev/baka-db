@@ -1,5 +1,7 @@
 # Itou Junji Kyoufu Manga Collection 16: Frankenstein
 
+![itou-junji-kyoufu-manga-collection-16-frankenstein](https://cdn.myanimelist.net/images/manga/2/187866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

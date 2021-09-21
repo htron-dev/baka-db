@@ -1,5 +1,7 @@
 # Oshaka-sama mo Miteru
 
+![oshaka-sama-mo-miteru](https://cdn.myanimelist.net/images/manga/3/229360.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 80

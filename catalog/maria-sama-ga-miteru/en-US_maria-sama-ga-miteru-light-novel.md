@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru
 
+![maria-sama-ga-miteru](https://cdn.myanimelist.net/images/manga/3/160710.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 37
 -   **chapters**: 306

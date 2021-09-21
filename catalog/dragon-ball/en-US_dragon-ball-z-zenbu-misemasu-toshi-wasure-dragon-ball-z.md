@@ -1,5 +1,7 @@
 # Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!
 
+![dragon-ball-z-zenbu-misemasu-toshi-wasure-dragon-ball-z](https://cdn.myanimelist.net/images/anime/1667/112037.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 全部見せます 年忘れドラゴンボール Z!

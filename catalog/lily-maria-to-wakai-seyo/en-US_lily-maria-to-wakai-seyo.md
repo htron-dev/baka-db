@@ -1,5 +1,7 @@
 # Lily Maria to Wakai seyo
 
+![lily-maria-to-wakai-seyo](https://cdn.myanimelist.net/images/manga/3/224223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

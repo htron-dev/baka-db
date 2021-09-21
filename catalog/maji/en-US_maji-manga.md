@@ -1,5 +1,7 @@
 # Maji!
 
+![maji](https://cdn.myanimelist.net/images/manga/1/180721.jpg)
+
 -   **type**: manga
 -   **volumes**: 50
 -   **chapters**: 446

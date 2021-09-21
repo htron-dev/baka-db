@@ -1,5 +1,7 @@
 # L'idiota
 
+![lidiota](https://cdn.myanimelist.net/images/manga/1/24453.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 40

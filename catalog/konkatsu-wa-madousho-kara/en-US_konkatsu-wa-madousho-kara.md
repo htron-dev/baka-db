@@ -1,5 +1,7 @@
 # Konkatsu wa Madousho kara
 
+![konkatsu-wa-madousho-kara](https://cdn.myanimelist.net/images/manga/3/225406.jpg)
+
 -   **type**: manga
 -   **chapters**: 246
 -   **original-name**: 婚活は魔導書から

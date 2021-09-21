@@ -1,5 +1,7 @@
 # Dr. wa Amai Kiss wo Suru
 
+![dr-wa-amai-kiss-wo-suru](https://cdn.myanimelist.net/images/manga/5/28416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

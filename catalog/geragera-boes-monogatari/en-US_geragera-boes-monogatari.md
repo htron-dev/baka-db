@@ -1,5 +1,7 @@
 # Geragera Boes Monogatari
 
+![geragera-boes-monogatari](https://cdn.myanimelist.net/images/anime/1099/110002.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: げらげらブース物語

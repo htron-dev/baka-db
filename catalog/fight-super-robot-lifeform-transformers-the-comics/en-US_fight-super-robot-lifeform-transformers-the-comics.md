@@ -1,5 +1,7 @@
 # Fight! Super Robot Lifeform Transformers: The Comics
 
+![fight-super-robot-lifeform-transformers-the-comics](https://cdn.myanimelist.net/images/manga/3/35688.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 51

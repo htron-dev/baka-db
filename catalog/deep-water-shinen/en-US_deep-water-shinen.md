@@ -1,5 +1,7 @@
 # Deep Water - Shinen
 
+![deep-water-shinen](https://cdn.myanimelist.net/images/manga/2/132577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

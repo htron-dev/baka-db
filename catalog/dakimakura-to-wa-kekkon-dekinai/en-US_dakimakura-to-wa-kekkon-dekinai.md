@@ -1,5 +1,7 @@
 # Dakimakura to wa Kekkon Dekinai!
 
+![dakimakura-to-wa-kekkon-dekinai](https://cdn.myanimelist.net/images/manga/2/219772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

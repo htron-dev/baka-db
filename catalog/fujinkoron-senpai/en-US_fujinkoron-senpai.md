@@ -1,5 +1,7 @@
 # Fujinkoron-senpai
 
+![fujinkoron-senpai](https://cdn.myanimelist.net/images/anime/9/81541.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 婦人公論センパイ

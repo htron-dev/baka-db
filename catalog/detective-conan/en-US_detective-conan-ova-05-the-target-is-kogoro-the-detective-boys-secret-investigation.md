@@ -1,5 +1,7 @@
 # Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation
 
+![detective-conan-ova-05-the-target-is-kogoro-the-detective-boys-secret-investigation](https://cdn.myanimelist.net/images/anime/10/31143.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 標的は小五郎!!少年探偵団マル秘調査

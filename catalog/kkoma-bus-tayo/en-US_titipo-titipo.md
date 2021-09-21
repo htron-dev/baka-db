@@ -1,5 +1,7 @@
 # Titipo Titipo
 
+![titipo-titipo](https://cdn.myanimelist.net/images/anime/1521/93267.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 띠띠뽀 띠띠뽀

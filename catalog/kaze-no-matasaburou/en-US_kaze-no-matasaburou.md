@@ -1,5 +1,7 @@
 # Kaze no Matasaburou
 
+![kaze-no-matasaburou](https://cdn.myanimelist.net/images/anime/5/34253.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 風の又三郎

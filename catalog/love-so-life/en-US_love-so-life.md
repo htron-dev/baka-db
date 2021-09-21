@@ -1,5 +1,7 @@
 # Love So Life
 
+![love-so-life](https://cdn.myanimelist.net/images/manga/1/162281.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 111

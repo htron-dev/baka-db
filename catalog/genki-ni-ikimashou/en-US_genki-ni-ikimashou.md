@@ -1,5 +1,7 @@
 # Genki ni Ikimashou!
 
+![genki-ni-ikimashou](https://cdn.myanimelist.net/images/manga/1/175896.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 元気にいきましょう!

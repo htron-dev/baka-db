@@ -1,5 +1,7 @@
 # Kodou yori Tsuyoku, Kokyuu yori Fukaku
 
+![kodou-yori-tsuyoku-kokyuu-yori-fukaku](https://cdn.myanimelist.net/images/manga/2/172447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

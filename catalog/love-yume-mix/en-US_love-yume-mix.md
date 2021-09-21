@@ -1,5 +1,7 @@
 # Love Yume Mix
 
+![love-yume-mix](https://cdn.myanimelist.net/images/manga/3/22723.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

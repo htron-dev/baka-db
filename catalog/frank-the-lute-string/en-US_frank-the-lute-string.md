@@ -1,5 +1,7 @@
 # Frank: The Lute String
 
+![frank-the-lute-string](https://cdn.myanimelist.net/images/manga/2/33874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ポップショウ、フランクとプシュポウのリュートの弦

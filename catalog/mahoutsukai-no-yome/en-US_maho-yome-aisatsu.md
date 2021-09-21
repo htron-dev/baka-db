@@ -1,5 +1,7 @@
 # MahoYome: Aisatsu
 
+![maho-yome-aisatsu](https://cdn.myanimelist.net/images/anime/7/88136.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: まほよめ 「#0 あいさつ」

@@ -1,5 +1,7 @@
 # Houfuku Kanojo to Koukatsu Kareshi
 
+![houfuku-kanojo-to-koukatsu-kareshi](https://cdn.myanimelist.net/images/manga/1/204601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

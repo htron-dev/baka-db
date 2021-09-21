@@ -1,5 +1,7 @@
 # Moto Reijou-sama no Kareinaru Sentouki
 
+![moto-reijou-sama-no-kareinaru-sentouki](https://cdn.myanimelist.net/images/manga/1/244267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

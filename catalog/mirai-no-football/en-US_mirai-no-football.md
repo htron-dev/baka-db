@@ -1,5 +1,7 @@
 # Mirai No Football
 
+![mirai-no-football](https://cdn.myanimelist.net/images/manga/1/39948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

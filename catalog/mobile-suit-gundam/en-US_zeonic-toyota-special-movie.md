@@ -1,5 +1,7 @@
 # Zeonic Toyota Special Movie
 
+![zeonic-toyota-special-movie](https://cdn.myanimelist.net/images/anime/13/54101.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ジオニックトヨタ スペシャルムービー

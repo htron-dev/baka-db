@@ -1,5 +1,7 @@
 # Maiko-san Chi no Makanai-san
 
+![maiko-san-chi-no-makanai-san](https://cdn.myanimelist.net/images/manga/1/196395.jpg)
+
 -   **type**: manga
 -   **original-name**: 舞妓さんちのまかないさん
 -   **start-date**: 2016-12-28

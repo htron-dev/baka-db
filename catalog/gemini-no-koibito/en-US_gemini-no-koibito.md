@@ -1,5 +1,7 @@
 # Gemini no Koibito
 
+![gemini-no-koibito](https://cdn.myanimelist.net/images/manga/1/152282.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 双子〈ジェミニ〉の恋人

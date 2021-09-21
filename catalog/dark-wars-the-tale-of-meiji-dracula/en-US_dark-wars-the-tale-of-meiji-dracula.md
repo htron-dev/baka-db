@@ -1,5 +1,7 @@
 # Dark Wars: The Tale of Meiji Dracula
 
+![dark-wars-the-tale-of-meiji-dracula](https://cdn.myanimelist.net/images/manga/1/6930.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

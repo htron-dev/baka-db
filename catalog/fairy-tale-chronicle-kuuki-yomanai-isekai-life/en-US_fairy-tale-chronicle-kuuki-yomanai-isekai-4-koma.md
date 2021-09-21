@@ -1,5 +1,7 @@
 # Fairy Tale Chronicle: Kuuki Yomanai Isekai 4-koma
 
+![fairy-tale-chronicle-kuuki-yomanai-isekai-4-koma](https://cdn.myanimelist.net/images/manga/2/223196.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

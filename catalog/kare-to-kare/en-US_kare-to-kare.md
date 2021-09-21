@@ -1,5 +1,7 @@
 # Kare to Kare
 
+![kare-to-kare](https://cdn.myanimelist.net/images/manga/2/3022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

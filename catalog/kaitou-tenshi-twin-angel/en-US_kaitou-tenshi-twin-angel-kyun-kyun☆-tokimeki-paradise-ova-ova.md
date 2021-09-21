@@ -1,5 +1,7 @@
 # Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!! OVA
 
+![kaitou-tenshi-twin-angel-kyun-kyun☆-tokimeki-paradise-ova](https://cdn.myanimelist.net/images/anime/11/67849.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 快盗天使ツインエンジェル キュンキュン ☆ ときめきパラダイス!! OVA

@@ -1,5 +1,7 @@
 # Gon Movie: Gon, the Little Fox
 
+![gon-movie-gon-the-little-fox](https://cdn.myanimelist.net/images/anime/1194/107736.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ごん ‒ GON, THE LITTLE FOX-

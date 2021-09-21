@@ -1,5 +1,7 @@
 # Dragon's Crown
 
+![dragons-crown](https://cdn.myanimelist.net/images/manga/1/174405.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

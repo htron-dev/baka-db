@@ -1,5 +1,7 @@
 # Mobuko no Koi
 
+![mobuko-no-koi](https://cdn.myanimelist.net/images/manga/1/202083.jpg)
+
 -   **type**: manga
 -   **original-name**: モブ子の恋
 -   **start-date**: 2017-03-25

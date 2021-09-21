@@ -1,5 +1,7 @@
 # Hayan Ma-eum Baeggu
 
+![hayan-ma-eum-baeggu](https://cdn.myanimelist.net/images/anime/1662/111205.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 하얀 마음 백구

@@ -1,5 +1,7 @@
 # Isekai Chef to Saikyou Boushokuhi
 
+![isekai-chef-to-saikyou-boushokuhi](https://cdn.myanimelist.net/images/manga/2/248899.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界シェフと最強暴食姫
 -   **start-date**: 2021-04-01

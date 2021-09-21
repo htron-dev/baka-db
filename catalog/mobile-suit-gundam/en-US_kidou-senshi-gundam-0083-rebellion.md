@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam 0083: Rebellion
 
+![kidou-senshi-gundam-0083-rebellion](https://cdn.myanimelist.net/images/manga/2/117433.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム 0083 REBELLION
 -   **start-date**: 2013-06-26

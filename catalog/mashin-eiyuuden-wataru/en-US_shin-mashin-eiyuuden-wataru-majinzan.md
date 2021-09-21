@@ -1,5 +1,7 @@
 # Shin Mashin Eiyuuden Wataru Majinzan
 
+![shin-mashin-eiyuuden-wataru-majinzan](https://cdn.myanimelist.net/images/anime/1823/94149.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 真魔神英雄伝ワタル 魔神山編

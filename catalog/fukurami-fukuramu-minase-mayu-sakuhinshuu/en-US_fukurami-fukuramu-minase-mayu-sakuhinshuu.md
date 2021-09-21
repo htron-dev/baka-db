@@ -1,5 +1,7 @@
 # Fukurami Fukuramu: Minase Mayu Sakuhinshuu
 
+![fukurami-fukuramu-minase-mayu-sakuhinshuu](https://cdn.myanimelist.net/images/manga/1/215241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

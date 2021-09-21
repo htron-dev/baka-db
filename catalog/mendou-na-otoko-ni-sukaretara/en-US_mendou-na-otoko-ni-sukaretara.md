@@ -1,5 +1,7 @@
 # Mendou na Otoko ni Sukaretara
 
+![mendou-na-otoko-ni-sukaretara](https://cdn.myanimelist.net/images/manga/1/117555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

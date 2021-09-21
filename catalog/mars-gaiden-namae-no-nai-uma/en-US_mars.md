@@ -1,5 +1,7 @@
 # Mars
 
+![mars](https://cdn.myanimelist.net/images/manga/1/191262.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Glass-goshi no Kimi e
 
+![glass-goshi-no-kimi-e](https://cdn.myanimelist.net/images/manga/2/235113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

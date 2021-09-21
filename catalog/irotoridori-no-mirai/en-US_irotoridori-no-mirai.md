@@ -1,5 +1,7 @@
 # Irotoridori no Mirai
 
+![irotoridori-no-mirai](https://cdn.myanimelist.net/images/manga/1/149283.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

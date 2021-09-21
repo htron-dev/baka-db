@@ -1,5 +1,7 @@
 # Hello, Pi
 
+![hello-pi](https://cdn.myanimelist.net/images/manga/3/19426.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 55

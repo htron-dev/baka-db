@@ -1,5 +1,7 @@
 # Dark Violets
 
+![dark-violets](https://cdn.myanimelist.net/images/manga/2/95501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 30

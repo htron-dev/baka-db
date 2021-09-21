@@ -1,5 +1,7 @@
 # Infinite Dendrogram
 
+![infinite-dendrogram](https://cdn.myanimelist.net/images/anime/1854/114772.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: <Infinite Dendrogram>-インフィニット・デンドログラム-

@@ -1,5 +1,7 @@
 # Haru Uraraka ni Moyuru Hibi
 
+![haru-uraraka-ni-moyuru-hibi](https://cdn.myanimelist.net/images/manga/1/35888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2004-02-20

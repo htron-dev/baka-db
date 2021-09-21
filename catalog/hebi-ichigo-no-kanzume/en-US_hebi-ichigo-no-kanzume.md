@@ -1,5 +1,7 @@
 # Hebi Ichigo no Kanzume
 
+![hebi-ichigo-no-kanzume](https://cdn.myanimelist.net/images/manga/3/29838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: へび苺の缶詰

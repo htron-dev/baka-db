@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 3rei!!
 
+![fate-kaleid-liner-prisma☆-illya-3-rei](https://cdn.myanimelist.net/images/anime/7/80834.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ 3rei!!

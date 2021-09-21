@@ -1,5 +1,7 @@
 # Maria-san wa Toumei Shoujo
 
+![maria-san-wa-toumei-shoujo](https://cdn.myanimelist.net/images/manga/3/155589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

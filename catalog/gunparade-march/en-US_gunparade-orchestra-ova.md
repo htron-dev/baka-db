@@ -1,5 +1,7 @@
 # Gunparade Orchestra OVA
 
+![gunparade-orchestra-ova](https://cdn.myanimelist.net/images/anime/4/26141.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ガンパレード・オーケストラ

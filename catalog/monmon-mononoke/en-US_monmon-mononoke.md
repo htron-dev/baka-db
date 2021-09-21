@@ -1,5 +1,7 @@
 # Monmon Mononoke
 
+![monmon-mononoke](https://cdn.myanimelist.net/images/manga/3/167024.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

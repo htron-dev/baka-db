@@ -1,5 +1,7 @@
 # Haru yo, Kuruna
 
+![haru-yo-kuruna](https://cdn.myanimelist.net/images/manga/2/179518.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

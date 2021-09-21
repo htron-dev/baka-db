@@ -1,5 +1,7 @@
 # Doubutsu no Oishasan
 
+![doubutsu-no-oishasan](https://cdn.myanimelist.net/images/manga/1/5709.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 119

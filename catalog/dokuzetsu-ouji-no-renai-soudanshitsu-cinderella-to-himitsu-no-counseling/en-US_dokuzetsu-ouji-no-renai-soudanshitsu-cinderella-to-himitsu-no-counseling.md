@@ -1,5 +1,7 @@
 # Dokuzetsu Ouji no Renai Soudanshitsu: Cinderella to Himitsu no Counseling
 
+![dokuzetsu-ouji-no-renai-soudanshitsu-cinderella-to-himitsu-no-counseling](https://cdn.myanimelist.net/images/manga/3/195494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 毒舌王子の恋愛相談室～シンデレラと秘密のカウンセリング～

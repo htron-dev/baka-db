@@ -1,5 +1,7 @@
 # Hanaotoko
 
+![hanaotoko](https://cdn.myanimelist.net/images/manga/4/32255.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

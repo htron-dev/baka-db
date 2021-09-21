@@ -1,5 +1,7 @@
 # Futago de Koi wa Dekinai
 
+![futago-de-koi-wa-dekinai](https://cdn.myanimelist.net/images/manga/2/190475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

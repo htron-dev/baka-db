@@ -1,5 +1,7 @@
 # Makai Tenshou
 
+![makai-tenshou](https://cdn.myanimelist.net/images/anime/1285/94142.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 魔界転生

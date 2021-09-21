@@ -1,5 +1,7 @@
 # Dokusenou no Migawari Hanayome
 
+![dokusenou-no-migawari-hanayome](https://cdn.myanimelist.net/images/manga/2/184358.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

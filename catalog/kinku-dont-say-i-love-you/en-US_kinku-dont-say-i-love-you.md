@@ -1,5 +1,7 @@
 # Kinku: Don't Say "I Love You"
 
+![kinku-dont-say-i-love-you](https://cdn.myanimelist.net/images/manga/1/4149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hikari to Yami no One Round Hero
 
+![hikari-to-yami-no-one-round-hero](https://cdn.myanimelist.net/images/manga/2/154454.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

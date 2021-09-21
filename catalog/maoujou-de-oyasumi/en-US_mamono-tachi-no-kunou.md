@@ -1,5 +1,7 @@
 # Mamono-tachi no Kunou
 
+![mamono-tachi-no-kunou](https://cdn.myanimelist.net/images/anime/1674/112039.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 魔物たちの苦悩

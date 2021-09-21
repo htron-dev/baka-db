@@ -1,5 +1,7 @@
 # Shin Fortune Quest Gaiden
 
+![shin-fortune-quest-gaiden](https://cdn.myanimelist.net/images/manga/3/164643.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 新フォーチュン・クエスト外伝

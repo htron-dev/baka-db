@@ -1,5 +1,7 @@
 # Hokenshitsu no Ookami Shounen
 
+![hokenshitsu-no-ookami-shounen](https://cdn.myanimelist.net/images/manga/3/28370.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 保健室のオオカミ少年

@@ -1,5 +1,7 @@
 # Missing: Kamikakushi no Monogatari
 
+![missing-kamikakushi-no-monogatari](https://cdn.myanimelist.net/images/manga/2/4367.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

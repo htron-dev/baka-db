@@ -1,5 +1,7 @@
 # Himoxile
 
+![himoxile](https://cdn.myanimelist.net/images/manga/1/162588.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ヒモザイル

@@ -1,5 +1,7 @@
 # Lion Maru G
 
+![lion-maru-g](https://cdn.myanimelist.net/images/manga/3/16125.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ライオン丸 G

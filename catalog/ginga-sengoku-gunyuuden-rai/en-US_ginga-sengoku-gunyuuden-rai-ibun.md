@@ -1,5 +1,7 @@
 # Ginga Sengoku Gunyuuden Rai Ibun
 
+![ginga-sengoku-gunyuuden-rai-ibun](https://cdn.myanimelist.net/images/manga/1/167295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 銀河戦国群雄伝ライ 異聞

@@ -1,5 +1,7 @@
 # InuYasha
 
+![inu-yasha](https://cdn.myanimelist.net/images/manga/1/32468.jpg)
+
 -   **type**: manga
 -   **volumes**: 56
 -   **chapters**: 558

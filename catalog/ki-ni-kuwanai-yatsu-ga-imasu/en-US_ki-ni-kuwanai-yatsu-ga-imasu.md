@@ -1,5 +1,7 @@
 # Ki ni Kuwanai Yatsu ga Imasu
 
+![ki-ni-kuwanai-yatsu-ga-imasu](https://cdn.myanimelist.net/images/manga/2/161832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

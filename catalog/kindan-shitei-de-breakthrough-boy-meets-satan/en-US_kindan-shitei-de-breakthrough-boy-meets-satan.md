@@ -1,5 +1,7 @@
 # Kindan Shitei de Breakthrough: Boy Meets Satan
 
+![kindan-shitei-de-breakthrough-boy-meets-satan](https://cdn.myanimelist.net/images/manga/3/234781.jpg)
+
 -   **type**: manga
 -   **original-name**: 禁断師弟でブレイクスルー～ボーイ・ミーツ・サタン～
 -   **start-date**: 2020-04-02

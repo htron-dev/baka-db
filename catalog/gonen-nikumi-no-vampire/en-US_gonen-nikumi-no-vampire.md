@@ -1,5 +1,7 @@
 # Gonen Nikumi no Vampire
 
+![gonen-nikumi-no-vampire](https://cdn.myanimelist.net/images/manga/1/163983.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

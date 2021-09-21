@@ -1,5 +1,7 @@
 # Dwaeji-ui Wang
 
+![dwaeji-ui-wang](https://cdn.myanimelist.net/images/anime/13/33977.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 돼지의 왕

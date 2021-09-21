@@ -1,5 +1,7 @@
 # Kobayashi ga Kawai sugite Tsurai!!
 
+![kobayashi-ga-kawai-sugite-tsurai](https://cdn.myanimelist.net/images/manga/2/160154.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 76

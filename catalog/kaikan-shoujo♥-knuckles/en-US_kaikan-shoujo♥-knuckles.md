@@ -1,5 +1,7 @@
 # Kaikan Shoujo♥Knuckles
 
+![kaikan-shoujo♥-knuckles](https://cdn.myanimelist.net/images/manga/1/144057.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

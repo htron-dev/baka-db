@@ -1,5 +1,7 @@
 # Fukujuu no Kuchizuke
 
+![fukujuu-no-kuchizuke](https://cdn.myanimelist.net/images/manga/2/185921.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

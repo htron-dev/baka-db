@@ -1,5 +1,7 @@
 # Herscherik
 
+![herscherik](https://cdn.myanimelist.net/images/manga/3/238392.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 66

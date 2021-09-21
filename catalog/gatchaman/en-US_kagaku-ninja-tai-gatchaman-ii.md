@@ -1,5 +1,7 @@
 # Kagaku Ninja-tai Gatchaman II
 
+![kagaku-ninja-tai-gatchaman-ii](https://cdn.myanimelist.net/images/anime/6/45632.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 科学忍者隊ガッチャマン II

@@ -1,5 +1,7 @@
 # Jiu Ye Shen Chuan
 
+![jiu-ye-shen-chuan](https://cdn.myanimelist.net/images/anime/1441/110837.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 九夜神传

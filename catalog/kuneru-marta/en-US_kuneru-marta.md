@@ -1,5 +1,7 @@
 # Kuneru Marta
 
+![kuneru-marta](https://cdn.myanimelist.net/images/manga/2/207221.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 211

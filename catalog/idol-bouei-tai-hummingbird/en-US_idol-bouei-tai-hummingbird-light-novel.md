@@ -1,5 +1,7 @@
 # Idol Bouei-tai Hummingbird
 
+![idol-bouei-tai-hummingbird](https://cdn.myanimelist.net/images/manga/2/238147.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アイドル防衛隊ハミングバード

@@ -1,5 +1,7 @@
 # Yasha
 
+![yasha](https://cdn.myanimelist.net/images/manga/3/156695.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

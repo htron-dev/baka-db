@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami: Eien no Once More
 
+![mahou-no-tenshi-creamy-mami-eien-no-once-more](https://cdn.myanimelist.net/images/anime/13/85159.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法の天使クリィミーマミ　永遠のワンスモア

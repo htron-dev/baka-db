@@ -1,5 +1,7 @@
 # Genji Fantasy: Neko ga Hikaru Genji ni Koi wo Shita
 
+![genji-fantasy-neko-ga-hikaru-genji-ni-koi-wo-shita](https://cdn.myanimelist.net/images/anime/1736/109539.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GENJI FANTASY 　ネコが光源氏に恋をした

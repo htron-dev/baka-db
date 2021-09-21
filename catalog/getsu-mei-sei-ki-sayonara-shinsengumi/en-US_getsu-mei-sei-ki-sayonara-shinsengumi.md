@@ -1,5 +1,7 @@
 # Getsu Mei Sei Ki: Sayonara Shinsengumi
 
+![getsu-mei-sei-ki-sayonara-shinsengumi](https://cdn.myanimelist.net/images/manga/3/129035.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 月明星稀 - さよなら新選組

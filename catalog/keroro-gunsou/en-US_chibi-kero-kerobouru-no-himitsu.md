@@ -1,5 +1,7 @@
 # Chibi Kero: Kerobouru no Himitsu!?
 
+![chibi-kero-kerobouru-no-himitsu](https://cdn.myanimelist.net/images/anime/10/11205.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちびケロ ケロボールの秘密!?

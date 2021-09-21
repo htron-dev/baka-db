@@ -1,5 +1,7 @@
 # Kuro to Kin no Akanai Kagi. -Kindan no Tobira-
 
+![kuro-to-kin-no-akanai-kagi-kindan-no-tobira](https://cdn.myanimelist.net/images/manga/3/61323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Mahou Shoujo Homura★Tamura: Heikou Sekai ga Itsumo Heikou de Aru to wa Kagiranai no da.
 
+![mahou-shoujo-homura★-tamura-heikou-sekai-ga-itsumo-heikou-de-aru-to-wa-kagiranai-no-da](https://cdn.myanimelist.net/images/manga/2/121481.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Kokonoka no Majo
 
+![kokonoka-no-majo](https://cdn.myanimelist.net/images/manga/3/147309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita.
 
+![kono-bushitsu-wa-kitaku-shinai-bu-ga-senkyo-shimashita](https://cdn.myanimelist.net/images/manga/1/98635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: この部室は帰宅しない部が占拠しました。

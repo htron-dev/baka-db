@@ -1,5 +1,7 @@
 # Dorabase: Doraemon Super Baseball Gaiden
 
+![dorabase-doraemon-super-baseball-gaiden](https://cdn.myanimelist.net/images/manga/1/187761.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 134

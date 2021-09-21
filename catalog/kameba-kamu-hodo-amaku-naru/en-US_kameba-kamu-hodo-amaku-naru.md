@@ -1,5 +1,7 @@
 # Kameba Kamu hodo Amaku Naru
 
+![kameba-kamu-hodo-amaku-naru](https://cdn.myanimelist.net/images/manga/1/236959.jpg)
+
 -   **type**: manga
 -   **original-name**: かめばかむほど甘くなる
 -   **start-date**: 2020-01-11

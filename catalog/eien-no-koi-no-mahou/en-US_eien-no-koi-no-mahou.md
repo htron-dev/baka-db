@@ -1,5 +1,7 @@
 # Eien no Koi no Mahou
 
+![eien-no-koi-no-mahou](https://cdn.myanimelist.net/images/manga/2/10711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 永遠の恋の魔法

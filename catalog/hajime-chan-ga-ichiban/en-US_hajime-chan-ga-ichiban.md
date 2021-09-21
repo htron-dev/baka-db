@@ -1,5 +1,7 @@
 # Hajime-chan ga Ichiban!
 
+![hajime-chan-ga-ichiban](https://cdn.myanimelist.net/images/manga/1/148323.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: はじめちゃんが一番！

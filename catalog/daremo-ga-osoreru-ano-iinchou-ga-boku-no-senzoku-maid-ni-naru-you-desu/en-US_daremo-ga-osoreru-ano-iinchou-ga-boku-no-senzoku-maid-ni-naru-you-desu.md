@@ -1,5 +1,7 @@
 # Daremo ga Osoreru Ano Iinchou ga, Boku no Senzoku Maid ni Naru you desu.
 
+![daremo-ga-osoreru-ano-iinchou-ga-boku-no-senzoku-maid-ni-naru-you-desu](https://cdn.myanimelist.net/images/manga/2/164299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 誰もが恐れるあの委員長が、ぼくの専属メイドになるようです。

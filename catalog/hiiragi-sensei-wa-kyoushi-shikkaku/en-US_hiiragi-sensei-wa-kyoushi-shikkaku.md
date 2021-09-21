@@ -1,5 +1,7 @@
 # Hiiragi-sensei wa Kyoushi Shikkaku!?
 
+![hiiragi-sensei-wa-kyoushi-shikkaku](https://cdn.myanimelist.net/images/manga/3/235716.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 柊先生は教師失格!?

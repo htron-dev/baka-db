@@ -1,5 +1,7 @@
 # Death God 4
 
+![death-god-4](https://cdn.myanimelist.net/images/manga/1/10473.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

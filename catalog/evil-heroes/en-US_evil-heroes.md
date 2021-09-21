@@ -1,5 +1,7 @@
 # Evil Heroes
 
+![evil-heroes](https://cdn.myanimelist.net/images/manga/2/250315.jpg)
+
 -   **type**: manga
 -   **original-name**: イビルヒーローズ
 -   **start-date**: 2021-05-27

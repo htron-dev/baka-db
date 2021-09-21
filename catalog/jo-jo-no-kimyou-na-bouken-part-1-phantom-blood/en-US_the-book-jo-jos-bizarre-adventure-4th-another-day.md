@@ -1,5 +1,7 @@
 # The Book: JoJo's Bizarre Adventure 4th Another Day
 
+![the-book-jo-jos-bizarre-adventure-4th-another-day](https://cdn.myanimelist.net/images/manga/3/60351.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

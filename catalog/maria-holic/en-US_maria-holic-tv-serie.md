@@ -1,5 +1,7 @@
 # Maria†Holic
 
+![maria-holic](https://cdn.myanimelist.net/images/anime/1240/111304.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まりあ†ほりっく

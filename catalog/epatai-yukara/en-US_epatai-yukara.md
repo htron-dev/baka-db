@@ -1,5 +1,7 @@
 # Epatai Yukara
 
+![epatai-yukara](https://cdn.myanimelist.net/images/manga/1/169894.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: エパタイ・ユカラ

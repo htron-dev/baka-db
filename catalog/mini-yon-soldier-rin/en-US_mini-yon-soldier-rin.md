@@ -1,5 +1,7 @@
 # Mini Yon Soldier Rin!
 
+![mini-yon-soldier-rin](https://cdn.myanimelist.net/images/anime/8/49025.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミニ四ソルジャー Rin!

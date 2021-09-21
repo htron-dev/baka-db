@@ -1,5 +1,7 @@
 # Hana wa Sakura yori mo Hana no Gotoku
 
+![hana-wa-sakura-yori-mo-hana-no-gotoku](https://cdn.myanimelist.net/images/manga/3/82488.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

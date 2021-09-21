@@ -1,5 +1,7 @@
 # Maid Goshuu Show-sama!!
 
+![maid-goshuu-show-sama](https://cdn.myanimelist.net/images/manga/1/149943.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Dokuro no Yakata
 
+![dokuro-no-yakata](https://cdn.myanimelist.net/images/manga/3/58997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

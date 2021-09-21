@@ -1,5 +1,7 @@
 # Kokubetsu ni wa Mada Hayai: Yuigon Shikkounin Lily
 
+![kokubetsu-ni-wa-mada-hayai-yuigon-shikkounin-lily](https://cdn.myanimelist.net/images/manga/1/208967.jpg)
+
 -   **type**: manga
 -   **original-name**: 告別にはまだ早い～遺言執行人リリー～
 -   **start-date**: 2017-10-06

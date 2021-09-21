@@ -1,5 +1,7 @@
 # Kimi ga Anna Kiss wo Suru kara
 
+![kimi-ga-anna-kiss-wo-suru-kara](https://cdn.myanimelist.net/images/manga/2/174819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

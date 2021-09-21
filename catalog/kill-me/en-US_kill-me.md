@@ -1,5 +1,7 @@
 # Kill me
 
+![kill-me](https://cdn.myanimelist.net/images/manga/2/19734.jpg)
+
 -   **type**: manga
 -   **original-name**: キルミー
 

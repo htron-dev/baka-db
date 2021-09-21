@@ -1,5 +1,7 @@
 # Kanojo ni Awaseru Kao ga Nai
 
+![kanojo-ni-awaseru-kao-ga-nai](https://cdn.myanimelist.net/images/manga/1/199352.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

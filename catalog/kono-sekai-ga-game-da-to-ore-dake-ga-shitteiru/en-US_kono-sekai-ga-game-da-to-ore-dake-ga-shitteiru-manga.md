@@ -1,5 +1,7 @@
 # Kono Sekai ga Game da to Ore dake ga Shitteiru
 
+![kono-sekai-ga-game-da-to-ore-dake-ga-shitteiru](https://cdn.myanimelist.net/images/manga/1/145333.jpg)
+
 -   **type**: manga
 -   **original-name**: この世界がゲームだと俺だけが知っている
 -   **start-date**: 2014-07-04

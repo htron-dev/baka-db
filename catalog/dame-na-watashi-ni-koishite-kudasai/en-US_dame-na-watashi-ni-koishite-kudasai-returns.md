@@ -1,5 +1,7 @@
 # Dame na Watashi ni Koishite Kudasai Returns
 
+![dame-na-watashi-ni-koishite-kudasai-returns](https://cdn.myanimelist.net/images/manga/1/193597.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Honki ni Natta Merryman
 
+![honki-ni-natta-merryman](https://cdn.myanimelist.net/images/manga/1/44447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

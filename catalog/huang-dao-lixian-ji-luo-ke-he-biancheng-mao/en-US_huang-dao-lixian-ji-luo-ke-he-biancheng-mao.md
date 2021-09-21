@@ -1,5 +1,7 @@
 # Huang Dao Lixian Ji: Luo Ke He Biancheng Mao
 
+![huang-dao-lixian-ji-luo-ke-he-biancheng-mao](https://cdn.myanimelist.net/images/anime/1527/115445.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 荒岛历险记之罗克和编程猫

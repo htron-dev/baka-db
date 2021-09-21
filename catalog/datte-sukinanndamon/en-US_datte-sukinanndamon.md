@@ -1,5 +1,7 @@
 # Datte Sukinanndamon
 
+![datte-sukinanndamon](https://cdn.myanimelist.net/images/manga/2/17503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

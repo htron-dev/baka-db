@@ -1,5 +1,7 @@
 # Dengeki Bunko 2007 Movie Festival Special
 
+![dengeki-bunko-2007-movie-festival-special](https://cdn.myanimelist.net/images/anime/8/15181.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 電撃文庫 MOVIE FESTIVAL - Special Opening Anime (2007)

@@ -1,5 +1,7 @@
 # Girl Queen
 
+![girl-queen](https://cdn.myanimelist.net/images/manga/1/189817.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 35

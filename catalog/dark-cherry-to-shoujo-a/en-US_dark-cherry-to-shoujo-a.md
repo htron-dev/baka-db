@@ -1,5 +1,7 @@
 # Dark Cherry to Shoujo A
 
+![dark-cherry-to-shoujo-a](https://cdn.myanimelist.net/images/manga/2/189626.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

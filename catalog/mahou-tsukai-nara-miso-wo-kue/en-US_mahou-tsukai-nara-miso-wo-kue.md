@@ -1,5 +1,7 @@
 # Mahou Tsukai Nara Miso wo Kue!
 
+![mahou-tsukai-nara-miso-wo-kue](https://cdn.myanimelist.net/images/manga/3/70415.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 魔法使いなら味噌を喰え!

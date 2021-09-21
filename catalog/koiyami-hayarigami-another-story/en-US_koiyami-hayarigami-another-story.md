@@ -1,5 +1,7 @@
 # Koiyami: Hayarigami Another Story
 
+![koiyami-hayarigami-another-story](https://cdn.myanimelist.net/images/manga/2/91281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

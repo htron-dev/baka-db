@@ -1,5 +1,7 @@
 # Kikokugai: The Cyber Slayer
 
+![kikokugai-the-cyber-slayer](https://cdn.myanimelist.net/images/manga/2/116363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

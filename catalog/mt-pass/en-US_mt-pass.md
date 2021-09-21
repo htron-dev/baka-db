@@ -1,5 +1,7 @@
 # MT Pass
 
+![mt-pass](https://cdn.myanimelist.net/images/manga/1/7250.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

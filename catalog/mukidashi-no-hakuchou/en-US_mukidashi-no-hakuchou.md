@@ -1,5 +1,7 @@
 # Mukidashi no Hakuchou
 
+![mukidashi-no-hakuchou](https://cdn.myanimelist.net/images/manga/1/207426.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

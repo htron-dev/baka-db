@@ -1,5 +1,7 @@
 # Hand Maid May
 
+![hand-maid-may](https://cdn.myanimelist.net/images/anime/9/60995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: HAND MAID メイ

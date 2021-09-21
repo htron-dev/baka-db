@@ -1,5 +1,7 @@
 # Kuro Ane Insomnia
 
+![kuro-ane-insomnia](https://cdn.myanimelist.net/images/manga/1/211723.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒姉インソムニア
 -   **start-date**: 2018-01-09

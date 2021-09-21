@@ -1,5 +1,7 @@
 # Miyanishi Tatsuya Gekijou: Omae Umasou da na
 
+![miyanishi-tatsuya-gekijou-omae-umasou-da-na](https://cdn.myanimelist.net/images/anime/13/26785.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 宮西達也劇場 おまえうまそうだな

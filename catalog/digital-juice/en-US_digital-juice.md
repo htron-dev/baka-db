@@ -1,5 +1,7 @@
 # Digital Juice
 
+![digital-juice](https://cdn.myanimelist.net/images/anime/12/17437.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: デジタルジュース

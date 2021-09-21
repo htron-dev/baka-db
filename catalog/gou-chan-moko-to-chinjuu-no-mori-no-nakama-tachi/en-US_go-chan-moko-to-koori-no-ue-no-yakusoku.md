@@ -1,5 +1,7 @@
 # Go-chan.: Moko to Koori no Ue no Yakusoku
 
+![go-chan-moko-to-koori-no-ue-no-yakusoku](https://cdn.myanimelist.net/images/anime/1037/90455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴーちゃん. ~モコと氷の上の約束~

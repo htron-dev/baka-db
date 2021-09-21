@@ -1,5 +1,7 @@
 # Kochira Toubatsu Quest Assen Madoguchi
 
+![kochira-toubatsu-quest-assen-madoguchi](https://cdn.myanimelist.net/images/manga/2/141509.jpg)
+
 -   **type**: light-novel
 -   **original-name**: こちら討伐クエスト斡旋窓口
 -   **start-date**: 2014-10-31

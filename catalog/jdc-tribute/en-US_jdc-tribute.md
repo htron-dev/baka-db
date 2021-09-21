@@ -1,5 +1,7 @@
 # JDC Tribute
 
+![jdc-tribute](https://cdn.myanimelist.net/images/manga/3/44285.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: JDC トリビュート

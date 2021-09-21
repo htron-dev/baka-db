@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou
 
+![dragon-ball-z-movie-05-tobikkiri-no-saikyou-tai-saikyou](https://cdn.myanimelist.net/images/anime/1145/93668.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z とびっきりの最強対最強

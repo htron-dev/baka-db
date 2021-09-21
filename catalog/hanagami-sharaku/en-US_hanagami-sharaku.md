@@ -1,5 +1,7 @@
 # Hanagami Sharaku
 
+![hanagami-sharaku](https://cdn.myanimelist.net/images/manga/3/174107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

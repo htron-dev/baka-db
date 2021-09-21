@@ -1,5 +1,7 @@
 # Girlfriend (Kari): Chloe Lemaire-hen - Chloe to Nihon to Mirai no Tobira
 
+![girlfriend-kari-chloe-lemaire-hen-chloe-to-nihon-to-mirai-no-tobira](https://cdn.myanimelist.net/images/manga/2/154588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Chou Hatsumei Boy Kanipan
 
+![chou-hatsumei-boy-kanipan](https://cdn.myanimelist.net/images/anime/6/28019.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: 超発明 BOY カニパン

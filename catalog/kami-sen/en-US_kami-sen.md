@@ -1,5 +1,7 @@
 # Kami Sen
 
+![kami-sen](https://cdn.myanimelist.net/images/manga/4/35205.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

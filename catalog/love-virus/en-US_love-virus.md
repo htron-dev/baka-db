@@ -1,5 +1,7 @@
 # Love Virus
 
+![love-virus](https://cdn.myanimelist.net/images/manga/3/12584.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 33

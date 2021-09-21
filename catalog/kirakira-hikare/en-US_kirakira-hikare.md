@@ -1,5 +1,7 @@
 # Kirakira Hikare
 
+![kirakira-hikare](https://cdn.myanimelist.net/images/manga/2/16231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

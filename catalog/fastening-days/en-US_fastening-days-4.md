@@ -1,5 +1,7 @@
 # Fastening Days 4
 
+![fastening-days-4](https://cdn.myanimelist.net/images/anime/1478/113826.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: FASTENING DAYS 4

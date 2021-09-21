@@ -1,5 +1,7 @@
 # Mou Gakkou e Nankai Kanai
 
+![mou-gakkou-e-nankai-kanai](https://cdn.myanimelist.net/images/manga/2/11460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: もう学校へなんかいかない

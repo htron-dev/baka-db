@@ -1,5 +1,7 @@
 # Full Swing
 
+![full-swing](https://cdn.myanimelist.net/images/manga/1/30784.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

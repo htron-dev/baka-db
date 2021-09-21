@@ -1,5 +1,7 @@
 # Jounetsu no Hate ni
 
+![jounetsu-no-hate-ni](https://cdn.myanimelist.net/images/manga/1/40112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 情熱の果てに

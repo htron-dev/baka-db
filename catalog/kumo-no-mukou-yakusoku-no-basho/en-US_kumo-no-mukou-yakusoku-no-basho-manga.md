@@ -1,5 +1,7 @@
 # Kumo no Mukou, Yakusoku no Basho
 
+![kumo-no-mukou-yakusoku-no-basho](https://cdn.myanimelist.net/images/manga/1/128765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

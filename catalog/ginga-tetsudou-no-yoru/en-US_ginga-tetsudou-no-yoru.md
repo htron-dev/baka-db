@@ -1,5 +1,7 @@
 # Ginga Tetsudou no Yoru
 
+![ginga-tetsudou-no-yoru](https://cdn.myanimelist.net/images/manga/2/72319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

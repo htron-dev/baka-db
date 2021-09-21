@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Youkai Japan Rally 3D
 
+![gegege-no-kitarou-youkai-japan-rally-3-d](https://cdn.myanimelist.net/images/anime/13/68017.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 妖怪 JAPAN ラリー 3D

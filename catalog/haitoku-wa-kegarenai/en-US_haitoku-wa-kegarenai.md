@@ -1,5 +1,7 @@
 # Haitoku wa Kegarenai
 
+![haitoku-wa-kegarenai](https://cdn.myanimelist.net/images/manga/3/108665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

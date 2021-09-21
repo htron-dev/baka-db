@@ -1,5 +1,7 @@
 # Doukyuusei H kara Hajimaru Koi
 
+![doukyuusei-h-kara-hajimaru-koi](https://cdn.myanimelist.net/images/manga/2/7761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

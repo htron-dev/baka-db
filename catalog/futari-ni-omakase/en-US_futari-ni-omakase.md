@@ -1,5 +1,7 @@
 # Futari ni Omakase
 
+![futari-ni-omakase](https://cdn.myanimelist.net/images/manga/2/113117.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 2 人におまかせ

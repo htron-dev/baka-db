@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Wing: Blind Target
 
+![mobile-suit-gundam-wing-blind-target](https://cdn.myanimelist.net/images/manga/1/6195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

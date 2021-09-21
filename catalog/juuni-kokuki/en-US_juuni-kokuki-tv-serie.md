@@ -1,5 +1,7 @@
 # Juuni Kokuki
 
+![juuni-kokuki](https://cdn.myanimelist.net/images/anime/6/50859.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: 十二国記

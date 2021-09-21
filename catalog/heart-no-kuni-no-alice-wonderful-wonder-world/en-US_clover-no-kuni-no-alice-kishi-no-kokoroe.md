@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Kishi no Kokoroe
 
+![clover-no-kuni-no-alice-kishi-no-kokoroe](https://cdn.myanimelist.net/images/manga/1/107343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

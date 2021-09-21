@@ -1,5 +1,7 @@
 # Kensei no Osananajimi ga Power Harass de Ore ni Tsuraku Ataru node, Zetsuen shite Henkyou de Makenshi toshite Denaosu Koto ni Shita.
 
+![kensei-no-osananajimi-ga-power-harass-de-ore-ni-tsuraku-ataru-node-zetsuen-shite-henkyou-de-makenshi-toshite-denaosu-koto-ni-shita](https://cdn.myanimelist.net/images/manga/2/242564.jpg)
+
 -   **type**: manga
 -   **original-name**: 剣聖の幼馴染がパワハラで俺につらく当たるので、絶縁して辺境で魔剣士として出直すことにした。
 -   **start-date**: 2020-08-18

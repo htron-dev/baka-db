@@ -1,5 +1,7 @@
 # Lost Virgin Project
 
+![lost-virgin-project](https://cdn.myanimelist.net/images/manga/1/13677.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ロスト・ヴァージン・プロジェクト

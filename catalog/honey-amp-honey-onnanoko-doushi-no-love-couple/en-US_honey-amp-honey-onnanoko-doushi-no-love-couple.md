@@ -1,5 +1,7 @@
 # Honey &amp; Honey: Onnanoko Doushi no Love Couple
 
+![honey-amp-honey-onnanoko-doushi-no-love-couple](https://cdn.myanimelist.net/images/manga/2/20091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

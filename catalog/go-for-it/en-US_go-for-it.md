@@ -1,5 +1,7 @@
 # Go for It!!
 
+![go-for-it](https://cdn.myanimelist.net/images/manga/1/68421.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

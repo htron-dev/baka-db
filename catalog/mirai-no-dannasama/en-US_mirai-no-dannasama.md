@@ -1,5 +1,7 @@
 # Mirai no Dannasama
 
+![mirai-no-dannasama](https://cdn.myanimelist.net/images/manga/1/238502.jpg)
+
 -   **type**: manga
 -   **original-name**: みらいのダンナさま
 -   **start-date**: 2019-01-12

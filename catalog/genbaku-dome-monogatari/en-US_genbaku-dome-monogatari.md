@@ -1,5 +1,7 @@
 # Genbaku Dome Monogatari
 
+![genbaku-dome-monogatari](https://cdn.myanimelist.net/images/anime/1213/99483.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 原爆ドーム物語

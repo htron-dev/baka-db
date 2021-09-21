@@ -1,5 +1,7 @@
 # Mermaid Prince
 
+![mermaid-prince](https://cdn.myanimelist.net/images/manga/3/131079.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

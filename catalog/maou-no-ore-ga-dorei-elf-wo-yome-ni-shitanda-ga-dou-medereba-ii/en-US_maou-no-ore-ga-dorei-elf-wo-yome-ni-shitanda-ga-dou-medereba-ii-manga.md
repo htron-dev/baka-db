@@ -1,5 +1,7 @@
 # Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
 
+![maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii](https://cdn.myanimelist.net/images/manga/2/212195.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
 -   **start-date**: 2018-02-23

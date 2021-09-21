@@ -1,5 +1,7 @@
 # Majin no Sono
 
+![majin-no-sono](https://cdn.myanimelist.net/images/manga/1/64647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

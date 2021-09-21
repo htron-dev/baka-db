@@ -1,5 +1,7 @@
 # Kare to Kanojo to Kanojo
 
+![kare-to-kanojo-to-kanojo](https://cdn.myanimelist.net/images/manga/1/130625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

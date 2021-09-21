@@ -1,5 +1,7 @@
 # Miwaku no Makazoku
 
+![miwaku-no-makazoku](https://cdn.myanimelist.net/images/manga/1/235545.jpg)
+
 -   **type**: manga
 -   **original-name**: みわくの魔かぞく
 -   **start-date**: 2018-06-19

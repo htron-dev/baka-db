@@ -1,5 +1,7 @@
 # Maou: Juvenile Remix
 
+![maou-juvenile-remix](https://cdn.myanimelist.net/images/manga/2/186620.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 97

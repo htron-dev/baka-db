@@ -1,5 +1,7 @@
 # Moeru Oniisama
 
+![moeru-oniisama](https://cdn.myanimelist.net/images/manga/1/150064.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: もえるお兄様

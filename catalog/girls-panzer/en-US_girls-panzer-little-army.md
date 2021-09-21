@@ -1,5 +1,7 @@
 # Girls & Panzer: Little Army
 
+![girls-panzer-little-army](https://cdn.myanimelist.net/images/manga/2/205710.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

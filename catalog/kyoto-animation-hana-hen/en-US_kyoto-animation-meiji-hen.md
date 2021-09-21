@@ -1,5 +1,7 @@
 # Kyoto Animation: Meiji-hen
 
+![kyoto-animation-meiji-hen](https://cdn.myanimelist.net/images/anime/1470/116471.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「明治編」

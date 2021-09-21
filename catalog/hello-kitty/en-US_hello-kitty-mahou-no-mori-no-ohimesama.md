@@ -1,5 +1,7 @@
 # Hello Kitty: Mahou no Mori no Ohimesama
 
+![hello-kitty-mahou-no-mori-no-ohimesama](https://cdn.myanimelist.net/images/anime/8/50227.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハローキティ魔法の森のお姫さま

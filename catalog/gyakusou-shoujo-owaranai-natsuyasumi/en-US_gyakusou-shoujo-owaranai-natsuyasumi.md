@@ -1,5 +1,7 @@
 # Gyakusou Shoujo: Owaranai Natsuyasumi
 
+![gyakusou-shoujo-owaranai-natsuyasumi](https://cdn.myanimelist.net/images/manga/3/18818.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Goumon Isu Tantei
 
+![goumon-isu-tantei](https://cdn.myanimelist.net/images/manga/1/227598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

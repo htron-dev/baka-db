@@ -1,5 +1,7 @@
 # Hajimete no Aku
 
+![hajimete-no-aku](https://cdn.myanimelist.net/images/manga/1/50651.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 160

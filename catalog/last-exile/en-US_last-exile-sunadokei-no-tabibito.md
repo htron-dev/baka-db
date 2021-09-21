@@ -1,5 +1,7 @@
 # Last Exile: Sunadokei no Tabibito
 
+![last-exile-sunadokei-no-tabibito](https://cdn.myanimelist.net/images/manga/2/210750.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

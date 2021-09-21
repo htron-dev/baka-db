@@ -1,5 +1,7 @@
 # Marude Dameo
 
+![marude-dameo](https://cdn.myanimelist.net/images/anime/6/52971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 丸出だめ夫

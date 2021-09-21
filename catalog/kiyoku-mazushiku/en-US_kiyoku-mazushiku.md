@@ -1,5 +1,7 @@
 # Kiyoku Mazushiku
 
+![kiyoku-mazushiku](https://cdn.myanimelist.net/images/manga/2/202724.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Haikyuu!! (OVA)
 
+![haikyuu-ova](https://cdn.myanimelist.net/images/anime/1618/102929.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: ハイキュー!!

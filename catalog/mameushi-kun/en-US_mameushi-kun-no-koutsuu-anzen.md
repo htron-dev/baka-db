@@ -1,5 +1,7 @@
 # Mameushi-kun no Koutsuu Anzen
 
+![mameushi-kun-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/2/74434.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: まめうしくんの交通安全

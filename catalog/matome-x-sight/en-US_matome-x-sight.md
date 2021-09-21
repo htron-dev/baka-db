@@ -1,5 +1,7 @@
 # Matome x Sight!
 
+![matome-x-sight](https://cdn.myanimelist.net/images/manga/2/113583.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

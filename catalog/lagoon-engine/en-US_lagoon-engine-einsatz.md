@@ -1,5 +1,7 @@
 # Lagoon Engine Einsatz
 
+![lagoon-engine-einsatz](https://cdn.myanimelist.net/images/manga/2/179820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

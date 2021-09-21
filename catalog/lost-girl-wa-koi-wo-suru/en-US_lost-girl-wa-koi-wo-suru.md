@@ -1,5 +1,7 @@
 # Lost Girl wa Koi wo Suru
 
+![lost-girl-wa-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/67273.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ロストガールは恋をする

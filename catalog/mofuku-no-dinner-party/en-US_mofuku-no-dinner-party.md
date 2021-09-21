@@ -1,5 +1,7 @@
 # Mofuku no Dinner Party
 
+![mofuku-no-dinner-party](https://cdn.myanimelist.net/images/manga/2/79661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 喪服のディナーパーティ

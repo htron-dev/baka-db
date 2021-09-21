@@ -1,5 +1,7 @@
 # Dekoboko
 
+![dekoboko](https://cdn.myanimelist.net/images/manga/3/234696.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

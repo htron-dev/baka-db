@@ -1,5 +1,7 @@
 # Haginokouji Seiya-sama no Ran
 
+![haginokouji-seiya-sama-no-ran](https://cdn.myanimelist.net/images/manga/1/2285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

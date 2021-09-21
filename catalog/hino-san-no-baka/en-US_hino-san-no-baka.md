@@ -1,5 +1,7 @@
 # Hino-san no Baka
 
+![hino-san-no-baka](https://cdn.myanimelist.net/images/manga/2/219126.jpg)
+
 -   **type**: manga
 -   **original-name**: 飛野さんのバカ
 -   **start-date**: 2017-10-30

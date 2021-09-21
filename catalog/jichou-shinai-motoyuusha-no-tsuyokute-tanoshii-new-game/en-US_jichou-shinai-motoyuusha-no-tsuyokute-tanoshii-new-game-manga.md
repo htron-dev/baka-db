@@ -1,5 +1,7 @@
 # Jichou Shinai Motoyuusha no Tsuyokute Tanoshii New Game
 
+![jichou-shinai-motoyuusha-no-tsuyokute-tanoshii-new-game](https://cdn.myanimelist.net/images/manga/2/219768.jpg)
+
 -   **type**: manga
 -   **original-name**: 自重しない元勇者の強くて楽しいニューゲーム
 -   **start-date**: 2017-10-04

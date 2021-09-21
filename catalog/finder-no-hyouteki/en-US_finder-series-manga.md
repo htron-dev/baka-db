@@ -1,5 +1,7 @@
 # Finder Series
 
+![finder-series](https://cdn.myanimelist.net/images/manga/1/25447.jpg)
+
 -   **type**: manga
 -   **original-name**: ファインダーシリーズ
 

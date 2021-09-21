@@ -1,5 +1,7 @@
 # Hitotsu Yane no Shita no Kedamono
 
+![hitotsu-yane-no-shita-no-kedamono](https://cdn.myanimelist.net/images/manga/2/170704.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

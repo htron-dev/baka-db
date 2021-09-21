@@ -1,5 +1,7 @@
 # Kinki: Zettai ni Yatte wa Ikenai 13 no Koto
 
+![kinki-zettai-ni-yatte-wa-ikenai-13-no-koto](https://cdn.myanimelist.net/images/manga/3/149526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

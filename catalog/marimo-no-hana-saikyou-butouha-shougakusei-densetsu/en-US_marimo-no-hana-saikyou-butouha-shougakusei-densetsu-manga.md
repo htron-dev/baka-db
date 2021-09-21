@@ -1,5 +1,7 @@
 # Marimo no Hana: Saikyou Butouha Shougakusei Densetsu
 
+![marimo-no-hana-saikyou-butouha-shougakusei-densetsu](https://cdn.myanimelist.net/images/manga/2/66067.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: まりもの花～最強武闘派小学生伝説～

@@ -1,5 +1,7 @@
 # Hasangokoushi
 
+![hasangokoushi](https://cdn.myanimelist.net/images/manga/2/74219.jpg)
+
 -   **type**: manga
 -   **original-name**: 破三国志
 

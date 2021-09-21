@@ -1,5 +1,7 @@
 # Hidamari Sketch
 
+![hidamari-sketch](https://cdn.myanimelist.net/images/anime/1/1852.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ひだまりスケッチ

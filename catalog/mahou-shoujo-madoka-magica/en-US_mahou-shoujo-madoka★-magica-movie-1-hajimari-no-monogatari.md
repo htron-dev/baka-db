@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
 
+![mahou-shoujo-madoka★-magica-movie-1-hajimari-no-monogatari](https://cdn.myanimelist.net/images/anime/6/42331.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法少女まどか ☆ マギカ 始まりの物語

@@ -1,5 +1,7 @@
 # Haru Urara Sukimono no Yado
 
+![haru-urara-sukimono-no-yado](https://cdn.myanimelist.net/images/manga/3/247938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

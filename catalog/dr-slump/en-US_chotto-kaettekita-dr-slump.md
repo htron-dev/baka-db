@@ -1,5 +1,7 @@
 # Chotto Kaettekita Dr. Slump
 
+![chotto-kaettekita-dr-slump](https://cdn.myanimelist.net/images/manga/1/153769.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

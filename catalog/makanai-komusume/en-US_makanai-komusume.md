@@ -1,5 +1,7 @@
 # Makanai Komusume
 
+![makanai-komusume](https://cdn.myanimelist.net/images/manga/2/231503.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Dansai Bunri no Crime Edge
 
+![dansai-bunri-no-crime-edge](https://cdn.myanimelist.net/images/manga/3/161317.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

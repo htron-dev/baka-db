@@ -1,5 +1,7 @@
 # Moto Fuuzokujou ga Kanemochi Tsuma ni Narimashita
 
+![moto-fuuzokujou-ga-kanemochi-tsuma-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/243148.jpg)
+
 -   **type**: manga
 -   **original-name**: 元風俗嬢が金持ち妻になりました
 -   **start-date**: 2017-08-30

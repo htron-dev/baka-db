@@ -1,5 +1,7 @@
 # Kuruneko (ONA)
 
+![kuruneko-ona](https://cdn.myanimelist.net/images/anime/3/87135.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: くるねこ

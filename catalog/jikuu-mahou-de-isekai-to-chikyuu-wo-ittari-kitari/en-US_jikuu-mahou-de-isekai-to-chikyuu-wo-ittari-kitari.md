@@ -1,5 +1,7 @@
 # Jikuu Mahou de Isekai to Chikyuu wo Ittari Kitari
 
+![jikuu-mahou-de-isekai-to-chikyuu-wo-ittari-kitari](https://cdn.myanimelist.net/images/manga/2/184645.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 時空魔法で異世界と地球を行ったり来たり
 -   **start-date**: 2016-10-27

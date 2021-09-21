@@ -1,5 +1,7 @@
 # Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou
 
+![jujutsu-kaisen-0-tokyo-toritsu-jujutsu-koutou-senmon-gakkou](https://cdn.myanimelist.net/images/manga/2/219336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

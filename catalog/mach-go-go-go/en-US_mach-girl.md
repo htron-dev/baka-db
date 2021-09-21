@@ -1,5 +1,7 @@
 # Mach Girl
 
+![mach-girl](https://cdn.myanimelist.net/images/anime/1177/97974.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: マッハガール

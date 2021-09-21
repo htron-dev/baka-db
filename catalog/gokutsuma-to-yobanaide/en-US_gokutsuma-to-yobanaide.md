@@ -1,5 +1,7 @@
 # Gokutsuma to Yobanaide
 
+![gokutsuma-to-yobanaide](https://cdn.myanimelist.net/images/manga/2/153362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ゴク妻と呼ばないで

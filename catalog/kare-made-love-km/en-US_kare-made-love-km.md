@@ -1,5 +1,7 @@
 # Kare Made Love KM
 
+![kare-made-love-km](https://cdn.myanimelist.net/images/manga/1/6073.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 67

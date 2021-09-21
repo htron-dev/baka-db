@@ -1,5 +1,7 @@
 # Kimi kara no Résumé
 
+![kimi-kara-no-resume](https://cdn.myanimelist.net/images/manga/3/179798.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 41

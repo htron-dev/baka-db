@@ -1,5 +1,7 @@
 # Healing Planet
 
+![healing-planet](https://cdn.myanimelist.net/images/manga/2/14569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

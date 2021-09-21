@@ -1,8 +1,10 @@
 # Kindaichi Shounen no Jikenbo Returns 2nd Season
 
+![kindaichi-shounen-no-jikenbo-returns-2nd-season](https://cdn.myanimelist.net/images/anime/9/75726.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
--   **original-name**: 金田一少年の事件簿R【リターンズ】
+-   **original-name**: 金田一少年の事件簿 R【リターンズ】
 -   **start-date**: 2015-10-03
 -   **end-date**: 2015-10-03
 -   **opening-song**: #1: "Yonjuushi (四銃士)" by NEWS (eps 1-13)

@@ -1,5 +1,7 @@
 # Kumotori Zanpei
 
+![kumotori-zanpei](https://cdn.myanimelist.net/images/manga/1/45385.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **original-name**: 雲盗り暫平

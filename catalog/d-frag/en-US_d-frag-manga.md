@@ -1,5 +1,7 @@
 # D-Frag!
 
+![d-frag](https://cdn.myanimelist.net/images/manga/1/188780.jpg)
+
 -   **type**: manga
 -   **original-name**: ディーふらぐ！
 -   **start-date**: 2008-07-27

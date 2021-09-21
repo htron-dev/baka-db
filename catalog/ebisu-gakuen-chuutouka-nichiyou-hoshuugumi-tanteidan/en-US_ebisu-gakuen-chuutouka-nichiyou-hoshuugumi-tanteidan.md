@@ -1,5 +1,7 @@
 # Ebisu Gakuen Chuutouka Nichiyou Hoshuugumi Tanteidan
 
+![ebisu-gakuen-chuutouka-nichiyou-hoshuugumi-tanteidan](https://cdn.myanimelist.net/images/manga/3/170926.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

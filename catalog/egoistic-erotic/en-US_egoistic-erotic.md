@@ -1,5 +1,7 @@
 # Egoistic Erotic
 
+![egoistic-erotic](https://cdn.myanimelist.net/images/manga/1/152064.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: エゴイスティック・エロティック

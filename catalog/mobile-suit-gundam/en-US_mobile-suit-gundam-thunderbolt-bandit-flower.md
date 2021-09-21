@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Thunderbolt: Bandit Flower
 
+![mobile-suit-gundam-thunderbolt-bandit-flower](https://cdn.myanimelist.net/images/anime/13/87511.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム サンダーボルト BANDIT FLOWER

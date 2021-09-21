@@ -1,5 +1,7 @@
 # Ibara no Namida
 
+![ibara-no-namida](https://cdn.myanimelist.net/images/manga/1/61707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

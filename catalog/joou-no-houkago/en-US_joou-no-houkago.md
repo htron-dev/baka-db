@@ -1,5 +1,7 @@
 # Joou no Houkago
 
+![joou-no-houkago](https://cdn.myanimelist.net/images/manga/3/153508.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 女王の放課後

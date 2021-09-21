@@ -1,5 +1,7 @@
 # Mahou Shoujo Ikusei Keikaku
 
+![mahou-shoujo-ikusei-keikaku](https://cdn.myanimelist.net/images/manga/2/160781.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔法少女育成計画
 -   **start-date**: 2012-06-08

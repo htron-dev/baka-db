@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: The Origin
 
+![mobile-suit-gundam-the-origin](https://cdn.myanimelist.net/images/anime/4/72702.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 機動戦士ガンダム THE ORIGIN

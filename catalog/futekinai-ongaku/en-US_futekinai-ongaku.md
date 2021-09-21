@@ -1,5 +1,7 @@
 # Futekinai Ongaku
 
+![futekinai-ongaku](https://cdn.myanimelist.net/images/manga/1/61775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 不敵ない音楽

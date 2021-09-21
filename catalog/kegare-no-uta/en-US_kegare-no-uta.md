@@ -1,5 +1,7 @@
 # Kegare no Uta
 
+![kegare-no-uta](https://cdn.myanimelist.net/images/manga/3/211227.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

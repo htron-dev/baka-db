@@ -1,5 +1,7 @@
 # Juuni-kagetsu no Kekkon
 
+![juuni-kagetsu-no-kekkon](https://cdn.myanimelist.net/images/manga/3/246983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 十二カ月の結婚

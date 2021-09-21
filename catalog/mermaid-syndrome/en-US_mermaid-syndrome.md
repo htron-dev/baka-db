@@ -1,5 +1,7 @@
 # Mermaid Syndrome
 
+![mermaid-syndrome](https://cdn.myanimelist.net/images/manga/1/118167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

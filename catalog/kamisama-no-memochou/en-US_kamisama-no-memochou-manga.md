@@ -1,5 +1,7 @@
 # Kamisama no Memochou
 
+![kamisama-no-memochou](https://cdn.myanimelist.net/images/manga/1/82624.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

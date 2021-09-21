@@ -1,5 +1,7 @@
 # Mashiro-iro Symphony: Twinkle Moon
 
+![mashiro-iro-symphony-twinkle-moon](https://cdn.myanimelist.net/images/manga/1/83877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

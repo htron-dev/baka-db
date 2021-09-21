@@ -1,5 +1,7 @@
 # Glamorous Voice
 
+![glamorous-voice](https://cdn.myanimelist.net/images/manga/1/168079.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 共鳴―グラマラス・ヴォイス―

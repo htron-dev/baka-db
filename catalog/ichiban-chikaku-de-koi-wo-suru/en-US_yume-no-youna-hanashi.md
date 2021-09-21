@@ -1,5 +1,7 @@
 # Yume no Youna Hanashi
 
+![yume-no-youna-hanashi](https://cdn.myanimelist.net/images/manga/1/43323.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Momichupa Oppub♂Time
 
+![momichupa-oppub♂-time](https://cdn.myanimelist.net/images/manga/3/222125.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

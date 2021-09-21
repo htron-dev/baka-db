@@ -1,5 +1,7 @@
 # Koi to Senkyo to Chocolate: Koi Imouto!
 
+![koi-to-senkyo-to-chocolate-koi-imouto](https://cdn.myanimelist.net/images/anime/3/83000.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 恋と選挙とチョコレート 第 13 話「恋妹！」

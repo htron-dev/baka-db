@@ -1,5 +1,7 @@
 # Love Plus: Manaka Days
 
+![love-plus-manaka-days](https://cdn.myanimelist.net/images/manga/3/156366.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

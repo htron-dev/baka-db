@@ -1,5 +1,7 @@
 # Don't Cry Baby
 
+![dont-cry-baby](https://cdn.myanimelist.net/images/manga/2/199192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

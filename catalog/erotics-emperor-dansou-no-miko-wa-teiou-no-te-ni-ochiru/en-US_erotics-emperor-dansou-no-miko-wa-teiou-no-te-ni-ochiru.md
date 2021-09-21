@@ -1,5 +1,7 @@
 # Erotics Emperor: Dansou no Miko wa Teiou no Te ni Ochiru
 
+![erotics-emperor-dansou-no-miko-wa-teiou-no-te-ni-ochiru](https://cdn.myanimelist.net/images/manga/2/183717.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

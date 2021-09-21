@@ -1,5 +1,7 @@
 # Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita.
 
+![kono-bushitsu-wa-kitaku-shinai-bu-ga-senkyo-shimashita](https://cdn.myanimelist.net/images/manga/1/98627.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kogitsune Konkon Koimusubi
 
+![kogitsune-konkon-koimusubi](https://cdn.myanimelist.net/images/manga/2/174180.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Dankira!!! Koushiki Comic: Merry Panic Étoile-hen
 
+![dankira-koushiki-comic-merry-panic-etoile-hen](https://cdn.myanimelist.net/images/manga/1/230399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

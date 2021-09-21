@@ -1,5 +1,7 @@
 # Futari no "Rikako"
 
+![futari-no-rikako](https://cdn.myanimelist.net/images/manga/2/34842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたりの「リカコ」

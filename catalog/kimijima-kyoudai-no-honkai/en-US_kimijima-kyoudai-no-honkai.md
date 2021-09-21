@@ -1,5 +1,7 @@
 # Kimijima Kyoudai no Honkai
 
+![kimijima-kyoudai-no-honkai](https://cdn.myanimelist.net/images/manga/1/225003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

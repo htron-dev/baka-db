@@ -1,5 +1,7 @@
 # Kamisama x Oresama x Dannasama!?
 
+![kamisama-x-oresama-x-dannasama](https://cdn.myanimelist.net/images/manga/1/123341.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

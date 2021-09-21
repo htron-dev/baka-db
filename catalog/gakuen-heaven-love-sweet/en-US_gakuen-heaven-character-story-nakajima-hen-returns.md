@@ -1,5 +1,7 @@
 # Gakuen Heaven: Character Story - Nakajima-hen Returns
 
+![gakuen-heaven-character-story-nakajima-hen-returns](https://cdn.myanimelist.net/images/manga/1/10343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 学園ヘヴンキャラクターストーリー中嶋編 RETURNS

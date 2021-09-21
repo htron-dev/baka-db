@@ -1,5 +1,7 @@
 # Mericlone no Namida
 
+![mericlone-no-namida](https://cdn.myanimelist.net/images/manga/1/167951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

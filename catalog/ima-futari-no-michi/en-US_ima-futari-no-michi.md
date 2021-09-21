@@ -1,5 +1,7 @@
 # Ima, Futari no Michi
 
+![ima-futari-no-michi](https://cdn.myanimelist.net/images/anime/9/72147.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 今、ふたりの道

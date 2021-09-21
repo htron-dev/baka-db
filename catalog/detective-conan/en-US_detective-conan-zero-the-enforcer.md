@@ -1,5 +1,7 @@
 # Detective Conan: Zero the Enforcer
 
+![detective-conan-zero-the-enforcer](https://cdn.myanimelist.net/images/manga/2/240563.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

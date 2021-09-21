@@ -1,5 +1,7 @@
 # Malta no Bouken
 
+![malta-no-bouken](https://cdn.myanimelist.net/images/anime/1261/92048.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: マルタの冒険

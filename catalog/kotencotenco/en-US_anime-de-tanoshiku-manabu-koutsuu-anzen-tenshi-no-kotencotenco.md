@@ -1,5 +1,7 @@
 # Anime de Tanoshiku Manabu Koutsuu Anzen: Tenshi no Kotencotenco
 
+![anime-de-tanoshiku-manabu-koutsuu-anzen-tenshi-no-kotencotenco](https://cdn.myanimelist.net/images/anime/1049/99339.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アニメで 楽しく学ぶ交通安全 天使のこてんこてんこ

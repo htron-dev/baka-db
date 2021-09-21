@@ -1,5 +1,7 @@
 # Igano Kabamaru★Sorikara
 
+![igano-kabamaru★-sorikara](https://cdn.myanimelist.net/images/manga/3/171991.jpg)
+
 -   **type**: manga
 -   **original-name**: 伊賀野カバ丸 ★ そりから
 -   **start-date**: 2015-10-15

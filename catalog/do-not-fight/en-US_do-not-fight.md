@@ -1,5 +1,7 @@
 # Do Not Fight
 
+![do-not-fight](https://cdn.myanimelist.net/images/manga/2/26500.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 32

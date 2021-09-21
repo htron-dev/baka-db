@@ -1,5 +1,7 @@
 # DATA
 
+![data](https://cdn.myanimelist.net/images/manga/2/11780.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: DATA

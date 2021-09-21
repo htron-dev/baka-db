@@ -1,5 +1,7 @@
 # Mumei no Hitobito: Ishoku Retsuden
 
+![mumei-no-hitobito-ishoku-retsuden](https://cdn.myanimelist.net/images/manga/3/179386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

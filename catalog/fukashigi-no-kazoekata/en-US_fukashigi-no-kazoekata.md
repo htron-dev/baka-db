@@ -1,5 +1,7 @@
 # Fukashigi no Kazoekata
 
+![fukashigi-no-kazoekata](https://cdn.myanimelist.net/images/anime/7/72114.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: フカシギの数え方

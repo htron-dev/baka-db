@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume Gaiden: Mukashi no Yoshida-kun
 
+![himitsukessha-taka-no-tsume-gaiden-mukashi-no-yoshida-kun](https://cdn.myanimelist.net/images/anime/2/37123.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: 秘密結社鷹の爪外伝 むかしの吉田くん

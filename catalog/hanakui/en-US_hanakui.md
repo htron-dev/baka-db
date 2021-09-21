@@ -1,5 +1,7 @@
 # Hanakui
 
+![hanakui](https://cdn.myanimelist.net/images/manga/1/215859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

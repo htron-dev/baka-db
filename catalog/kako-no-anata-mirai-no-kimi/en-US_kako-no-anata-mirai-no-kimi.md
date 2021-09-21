@@ -1,5 +1,7 @@
 # Kako no Anata, Mirai no Kimi
 
+![kako-no-anata-mirai-no-kimi](https://cdn.myanimelist.net/images/manga/3/244190.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

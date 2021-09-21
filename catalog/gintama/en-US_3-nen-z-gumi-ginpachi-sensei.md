@@ -1,5 +1,7 @@
 # 3-nen Z-gumi Ginpachi-sensei
 
+![3-nen-z-gumi-ginpachi-sensei](https://cdn.myanimelist.net/images/manga/3/28580.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 3 年 Z 組銀八先生

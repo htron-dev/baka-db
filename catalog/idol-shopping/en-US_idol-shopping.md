@@ -1,5 +1,7 @@
 # Idol Shopping
 
+![idol-shopping](https://cdn.myanimelist.net/images/manga/4/18700.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 아이돌 쇼핑

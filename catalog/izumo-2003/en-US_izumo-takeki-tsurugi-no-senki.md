@@ -1,5 +1,7 @@
 # Izumo: Takeki Tsurugi no Senki
 
+![izumo-takeki-tsurugi-no-senki](https://cdn.myanimelist.net/images/anime/5/18482.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: IZUMO -猛き剣の閃記-

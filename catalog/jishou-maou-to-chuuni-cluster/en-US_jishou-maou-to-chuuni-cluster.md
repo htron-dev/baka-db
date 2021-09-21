@@ -1,5 +1,7 @@
 # Jishou Maou to Chuuni Cluster
 
+![jishou-maou-to-chuuni-cluster](https://cdn.myanimelist.net/images/manga/1/98283.jpg)
+
 -   **type**: manga
 -   **original-name**: 自称魔王と中二クラスタ
 -   **start-date**: 2011-09-21

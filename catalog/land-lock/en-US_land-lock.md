@@ -1,5 +1,7 @@
 # Land Lock
 
+![land-lock](https://cdn.myanimelist.net/images/manga/1/219920.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Mukuchi na Koi no Tsutaekata
 
+![mukuchi-na-koi-no-tsutaekata](https://cdn.myanimelist.net/images/manga/1/42976.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

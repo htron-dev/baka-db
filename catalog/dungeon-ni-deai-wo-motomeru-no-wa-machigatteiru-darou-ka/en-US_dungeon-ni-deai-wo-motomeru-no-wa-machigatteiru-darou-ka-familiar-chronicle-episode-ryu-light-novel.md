@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Familiar Chronicle - Episode Ryu
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-familiar-chronicle-episode-ryu](https://cdn.myanimelist.net/images/manga/3/192839.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか ファミリアクロニクル episode リュー

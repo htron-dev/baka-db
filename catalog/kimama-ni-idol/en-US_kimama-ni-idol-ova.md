@@ -1,5 +1,7 @@
 # Kimama ni Idol
 
+![kimama-ni-idol](https://cdn.myanimelist.net/images/anime/11/57299.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 気ままにアイドル

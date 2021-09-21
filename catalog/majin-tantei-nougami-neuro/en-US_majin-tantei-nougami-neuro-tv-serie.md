@@ -1,5 +1,7 @@
 # Majin Tantei Nougami Neuro
 
+![majin-tantei-nougami-neuro](https://cdn.myanimelist.net/images/anime/12/20930.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 魔人探偵 脳噛ネウロ

@@ -1,5 +1,7 @@
 # Kyoto Tashuzoku Anzen Kikou
 
+![kyoto-tashuzoku-anzen-kikou](https://cdn.myanimelist.net/images/manga/1/160753.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

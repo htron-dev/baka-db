@@ -1,5 +1,7 @@
 # Itsuka Kachi-gumi!
 
+![itsuka-kachi-gumi](https://cdn.myanimelist.net/images/manga/1/35014.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: いつか勝ち組!

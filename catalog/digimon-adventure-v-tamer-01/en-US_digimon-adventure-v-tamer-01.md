@@ -1,5 +1,7 @@
 # Digimon Adventure: V-Tamer 01
 
+![digimon-adventure-v-tamer-01](https://cdn.myanimelist.net/images/manga/1/9132.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 63

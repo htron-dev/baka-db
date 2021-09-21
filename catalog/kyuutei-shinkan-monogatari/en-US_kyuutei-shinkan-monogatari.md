@@ -1,5 +1,7 @@
 # Kyuutei Shinkan Monogatari
 
+![kyuutei-shinkan-monogatari](https://cdn.myanimelist.net/images/manga/1/35760.jpg)
+
 -   **type**: manga
 
 ## Tags

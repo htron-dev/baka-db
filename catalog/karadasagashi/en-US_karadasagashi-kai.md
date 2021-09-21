@@ -1,5 +1,7 @@
 # Karadasagashi Kai
 
+![karadasagashi-kai](https://cdn.myanimelist.net/images/manga/3/208593.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Kedamono Nanbiki?
 
+![kedamono-nanbiki](https://cdn.myanimelist.net/images/manga/2/26227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

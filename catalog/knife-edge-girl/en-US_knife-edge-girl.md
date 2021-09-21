@@ -1,5 +1,7 @@
 # Knife Edge Girl
 
+![knife-edge-girl](https://cdn.myanimelist.net/images/manga/1/34150.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

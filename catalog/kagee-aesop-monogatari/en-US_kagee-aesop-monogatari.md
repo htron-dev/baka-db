@@ -1,5 +1,7 @@
 # Kagee Aesop Monogatari
 
+![kagee-aesop-monogatari](https://cdn.myanimelist.net/images/anime/9/70975.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 影絵イソップ物語

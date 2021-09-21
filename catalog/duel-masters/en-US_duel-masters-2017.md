@@ -1,5 +1,7 @@
 # Duel Masters (2017)
 
+![duel-masters-2017](https://cdn.myanimelist.net/images/anime/12/86604.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デュエル・マスターズ (2017)

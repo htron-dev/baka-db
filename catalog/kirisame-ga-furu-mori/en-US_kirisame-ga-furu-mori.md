@@ -1,5 +1,7 @@
 # Kirisame ga Furu Mori
 
+![kirisame-ga-furu-mori](https://cdn.myanimelist.net/images/manga/3/164215.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

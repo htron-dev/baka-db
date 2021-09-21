@@ -1,5 +1,7 @@
 # Macross 7 Plus
 
+![macross-7-plus](https://cdn.myanimelist.net/images/anime/6/13816.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: マクロス 7 ぷらす

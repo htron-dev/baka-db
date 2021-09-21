@@ -1,5 +1,7 @@
 # Honto no Tokoro
 
+![honto-no-tokoro](https://cdn.myanimelist.net/images/manga/3/80157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ホントのところ

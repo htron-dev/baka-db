@@ -1,5 +1,7 @@
 # Inferious Wakusei Senshi Gaiden Condition Green
 
+![inferious-wakusei-senshi-gaiden-condition-green](https://cdn.myanimelist.net/images/anime/13/43749.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: インフェリウス惑星戦史外伝 CONDITION GREEN

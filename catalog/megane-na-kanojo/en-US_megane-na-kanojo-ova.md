@@ -1,5 +1,7 @@
 # Megane na Kanojo
 
+![megane-na-kanojo](https://cdn.myanimelist.net/images/anime/1358/112335.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 眼鏡なカノジョ

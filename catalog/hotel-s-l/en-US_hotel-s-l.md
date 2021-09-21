@@ -1,5 +1,7 @@
 # Hotel S.L.
 
+![hotel-s-l](https://cdn.myanimelist.net/images/manga/3/190633.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

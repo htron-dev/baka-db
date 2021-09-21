@@ -1,5 +1,7 @@
 # Minna de Tonda
 
+![minna-de-tonda](https://cdn.myanimelist.net/images/anime/7/74009.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みんなで跳んだ

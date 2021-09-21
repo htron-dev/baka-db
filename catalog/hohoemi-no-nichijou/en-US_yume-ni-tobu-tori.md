@@ -1,5 +1,7 @@
 # Yume ni Tobu Tori
 
+![yume-ni-tobu-tori](https://cdn.myanimelist.net/images/manga/2/11608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

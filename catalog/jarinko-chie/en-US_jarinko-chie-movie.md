@@ -1,5 +1,7 @@
 # Jarinko Chie
 
+![jarinko-chie](https://cdn.myanimelist.net/images/anime/1398/112401.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: じゃりン子チエ

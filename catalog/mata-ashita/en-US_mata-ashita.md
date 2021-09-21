@@ -1,5 +1,7 @@
 # Mata Ashita
 
+![mata-ashita](https://cdn.myanimelist.net/images/manga/2/158518.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

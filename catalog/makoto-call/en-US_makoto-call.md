@@ -1,5 +1,7 @@
 # Makoto Call!
 
+![makoto-call](https://cdn.myanimelist.net/images/manga/2/125203.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 真コール!

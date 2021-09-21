@@ -1,5 +1,7 @@
 # Layered Summer
 
+![layered-summer](https://cdn.myanimelist.net/images/manga/2/164746.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: レイヤード・サマー

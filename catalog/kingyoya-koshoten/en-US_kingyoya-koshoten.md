@@ -1,5 +1,7 @@
 # Kingyoya Koshoten
 
+![kingyoya-koshoten](https://cdn.myanimelist.net/images/manga/2/176932.jpg)
+
 -   **type**: manga
 -   **original-name**: 金魚屋古書店
 -   **start-date**: 2004-03-25

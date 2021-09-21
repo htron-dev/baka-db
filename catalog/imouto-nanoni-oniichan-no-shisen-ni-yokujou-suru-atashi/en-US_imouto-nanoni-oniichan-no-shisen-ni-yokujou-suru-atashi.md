@@ -1,5 +1,7 @@
 # Imouto nanoni...... Oniichan no Shisen ni Yokujou suru Atashi
 
+![imouto-nanoni-oniichan-no-shisen-ni-yokujou-suru-atashi](https://cdn.myanimelist.net/images/manga/2/193783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

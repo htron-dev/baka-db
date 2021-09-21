@@ -1,5 +1,7 @@
 # Guren no Arma
 
+![guren-no-arma](https://cdn.myanimelist.net/images/manga/3/98653.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 紅蓮のアルマ

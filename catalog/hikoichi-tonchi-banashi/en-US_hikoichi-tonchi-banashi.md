@@ -1,5 +1,7 @@
 # Hikoichi Tonchi Banashi
 
+![hikoichi-tonchi-banashi](https://cdn.myanimelist.net/images/anime/13/82696.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 彦一とんちばなし

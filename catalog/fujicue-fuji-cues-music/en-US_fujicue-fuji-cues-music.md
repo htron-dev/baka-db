@@ -1,5 +1,7 @@
 # Fujicue!!!: Fuji Cue's Music
 
+![fujicue-fuji-cues-music](https://cdn.myanimelist.net/images/manga/1/139929.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

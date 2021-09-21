@@ -1,5 +1,7 @@
 # Houkago Taimaroku
 
+![houkago-taimaroku](https://cdn.myanimelist.net/images/manga/2/161588.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

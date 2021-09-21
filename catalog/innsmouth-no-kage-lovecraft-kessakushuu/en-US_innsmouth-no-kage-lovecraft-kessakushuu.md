@@ -1,5 +1,7 @@
 # Innsmouth no Kage: Lovecraft Kessakushuu
 
+![innsmouth-no-kage-lovecraft-kessakushuu](https://cdn.myanimelist.net/images/manga/3/244076.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

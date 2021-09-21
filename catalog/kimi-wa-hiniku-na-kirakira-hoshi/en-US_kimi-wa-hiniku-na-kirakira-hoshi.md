@@ -1,5 +1,7 @@
 # Kimi wa Hiniku na Kirakira Hoshi
 
+![kimi-wa-hiniku-na-kirakira-hoshi](https://cdn.myanimelist.net/images/manga/2/218557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

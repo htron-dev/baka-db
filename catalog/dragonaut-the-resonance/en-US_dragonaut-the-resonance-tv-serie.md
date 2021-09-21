@@ -1,5 +1,7 @@
 # Dragonaut: The Resonance
 
+![dragonaut-the-resonance](https://cdn.myanimelist.net/images/anime/12/28917.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ドラゴノーツ-ザ・レソナンス-

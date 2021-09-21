@@ -1,5 +1,7 @@
 # Hachigatsu no Cinderella Nine (TV)
 
+![hachigatsu-no-cinderella-nine-tv](https://cdn.myanimelist.net/images/anime/1824/100449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 八月のシンデレラナイン (TV)

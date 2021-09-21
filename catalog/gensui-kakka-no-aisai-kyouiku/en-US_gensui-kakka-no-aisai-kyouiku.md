@@ -1,5 +1,7 @@
 # Gensui Kakka no Aisai Kyouiku
 
+![gensui-kakka-no-aisai-kyouiku](https://cdn.myanimelist.net/images/manga/1/193302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

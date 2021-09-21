@@ -1,5 +1,7 @@
 # Kyoui Touma
 
+![kyoui-touma](https://cdn.myanimelist.net/images/manga/3/215449.jpg)
+
 -   **type**: manga
 -   **original-name**: 侠医冬馬
 -   **start-date**: 2018-07-04

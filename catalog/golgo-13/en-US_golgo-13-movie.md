@@ -1,5 +1,7 @@
 # Golgo 13
 
+![golgo-13](https://cdn.myanimelist.net/images/anime/1476/102570.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴルゴ１３

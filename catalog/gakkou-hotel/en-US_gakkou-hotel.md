@@ -1,5 +1,7 @@
 # Gakkou Hotel
 
+![gakkou-hotel](https://cdn.myanimelist.net/images/manga/2/33325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Monster Strike The Movie: Hajimari no Basho e
 
+![monster-strike-the-movie-hajimari-no-basho-e](https://cdn.myanimelist.net/images/anime/1085/93874.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: モンスターストライク THE MOVIE はじまりの場所へ

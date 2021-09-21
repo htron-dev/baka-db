@@ -1,5 +1,7 @@
 # Kamen Rider 913
 
+![kamen-rider-913](https://cdn.myanimelist.net/images/manga/1/235692.jpg)
+
 -   **type**: manga
 -   **original-name**: 仮面ライダー 913
 -   **start-date**: 2019-09-27

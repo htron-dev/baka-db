@@ -1,5 +1,7 @@
 # Shin Mizuiro Jidai
 
+![shin-mizuiro-jidai](https://cdn.myanimelist.net/images/manga/2/8756.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 新水色時代

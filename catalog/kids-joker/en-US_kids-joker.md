@@ -1,5 +1,7 @@
 # Kids Joker
 
+![kids-joker](https://cdn.myanimelist.net/images/manga/1/16076.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: キッズ・ジョーカー

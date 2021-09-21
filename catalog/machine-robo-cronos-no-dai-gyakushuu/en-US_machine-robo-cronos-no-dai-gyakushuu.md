@@ -1,5 +1,7 @@
 # Machine Robo: Cronos no Dai Gyakushuu
 
+![machine-robo-cronos-no-dai-gyakushuu](https://cdn.myanimelist.net/images/anime/4/6399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: マシンロボ クロノスの大逆襲

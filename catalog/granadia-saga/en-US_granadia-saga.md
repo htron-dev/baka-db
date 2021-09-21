@@ -1,5 +1,7 @@
 # Granadia Saga
 
+![granadia-saga](https://cdn.myanimelist.net/images/manga/2/197557.jpg)
+
 -   **type**: manga
 -   **original-name**: グラナディアサーガ
 -   **start-date**: 2017-06-08

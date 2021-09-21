@@ -1,5 +1,7 @@
 # Hadi Girl
 
+![hadi-girl](https://cdn.myanimelist.net/images/manga/2/92939.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

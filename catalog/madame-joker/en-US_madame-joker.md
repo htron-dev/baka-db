@@ -1,5 +1,7 @@
 # Madame Joker
 
+![madame-joker](https://cdn.myanimelist.net/images/manga/3/45371.jpg)
+
 -   **type**: manga
 -   **original-name**: マダム・ジョーカー
 

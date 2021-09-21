@@ -1,5 +1,7 @@
 # Godzilla vs. King Ghidorah
 
+![godzilla-vs-king-ghidorah](https://cdn.myanimelist.net/images/manga/2/147239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゴジラ vs キングギドラ

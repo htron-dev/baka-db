@@ -1,5 +1,7 @@
 # Edelweiss
 
+![edelweiss](https://cdn.myanimelist.net/images/manga/3/38979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エーデルワイス

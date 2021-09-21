@@ -1,5 +1,7 @@
 # Koi toka Ai toka
 
+![koi-toka-ai-toka](https://cdn.myanimelist.net/images/manga/3/152547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

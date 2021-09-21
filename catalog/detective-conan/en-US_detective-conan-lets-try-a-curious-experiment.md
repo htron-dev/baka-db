@@ -1,5 +1,7 @@
 # Detective Conan: Let's Try a Curious Experiment!
 
+![detective-conan-lets-try-a-curious-experiment](https://cdn.myanimelist.net/images/anime/8/81491.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 不思議実験やってみよう!

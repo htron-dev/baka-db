@@ -1,5 +1,7 @@
 # i tell c
 
+![i-tell-c](https://cdn.myanimelist.net/images/manga/1/244104.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アイテルシー

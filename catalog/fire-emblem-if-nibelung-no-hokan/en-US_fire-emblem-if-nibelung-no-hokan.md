@@ -1,5 +1,7 @@
 # Fire Emblem if: Nibelung no Hokan
 
+![fire-emblem-if-nibelung-no-hokan](https://cdn.myanimelist.net/images/manga/1/201568.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

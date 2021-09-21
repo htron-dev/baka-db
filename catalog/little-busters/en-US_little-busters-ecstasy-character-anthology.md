@@ -1,5 +1,7 @@
 # Little Busters! Ecstasy: Character Anthology
 
+![little-busters-ecstasy-character-anthology](https://cdn.myanimelist.net/images/manga/2/102013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: リトルバスターズ! エクスタシー Character Anthology

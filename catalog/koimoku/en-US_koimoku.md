@@ -1,5 +1,7 @@
 # Koimoku
 
+![koimoku](https://cdn.myanimelist.net/images/manga/3/48997.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

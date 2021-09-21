@@ -1,5 +1,7 @@
 # Gatgeteo You!
 
+![gatgeteo-you](https://cdn.myanimelist.net/images/manga/3/25278.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

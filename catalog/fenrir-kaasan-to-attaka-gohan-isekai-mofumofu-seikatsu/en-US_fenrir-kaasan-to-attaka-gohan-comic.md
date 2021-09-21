@@ -1,5 +1,7 @@
 # Fenrir Kaasan to Attaka Gohan @comic
 
+![fenrir-kaasan-to-attaka-gohan-comic](https://cdn.myanimelist.net/images/manga/2/227262.jpg)
+
 -   **type**: manga
 -   **original-name**: フェンリル母さんとあったかご飯＠COMIC
 -   **start-date**: 2019-04-15

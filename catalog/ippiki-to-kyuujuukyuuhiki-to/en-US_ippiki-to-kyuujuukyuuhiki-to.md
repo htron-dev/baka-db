@@ -1,5 +1,7 @@
 # Ippiki to Kyuujuukyuuhiki to
 
+![ippiki-to-kyuujuukyuuhiki-to](https://cdn.myanimelist.net/images/manga/2/238706.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

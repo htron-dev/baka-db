@@ -1,5 +1,7 @@
 # Kimi to no Koi wa, Gamen no Naka de
 
+![kimi-to-no-koi-wa-gamen-no-naka-de](https://cdn.myanimelist.net/images/manga/1/201054.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

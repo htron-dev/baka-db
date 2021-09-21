@@ -1,5 +1,7 @@
 # Ikemen Bouzu to Midara na Shugyou
 
+![ikemen-bouzu-to-midara-na-shugyou](https://cdn.myanimelist.net/images/manga/1/194638.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: イケメン坊主と淫らな修行

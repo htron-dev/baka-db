@@ -1,5 +1,7 @@
 # Eidron Shadow
 
+![eidron-shadow](https://cdn.myanimelist.net/images/manga/2/39748.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

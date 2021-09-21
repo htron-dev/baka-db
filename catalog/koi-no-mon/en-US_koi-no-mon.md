@@ -1,5 +1,7 @@
 # Koi no Mon
 
+![koi-no-mon](https://cdn.myanimelist.net/images/manga/2/141503.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

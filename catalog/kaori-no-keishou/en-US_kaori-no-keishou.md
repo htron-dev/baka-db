@@ -1,5 +1,7 @@
 # Kaori no Keishou
 
+![kaori-no-keishou](https://cdn.myanimelist.net/images/manga/3/159886.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

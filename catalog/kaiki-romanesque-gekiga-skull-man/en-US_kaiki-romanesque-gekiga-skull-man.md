@@ -1,5 +1,7 @@
 # Kaiki Romanesque Gekiga: Skull Man
 
+![kaiki-romanesque-gekiga-skull-man](https://cdn.myanimelist.net/images/manga/2/5676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 怪奇ロマネスク劇画 スカルマン THE SKULL MAN

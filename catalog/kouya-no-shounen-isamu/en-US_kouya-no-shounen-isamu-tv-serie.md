@@ -1,5 +1,7 @@
 # Kouya no Shounen Isamu
 
+![kouya-no-shounen-isamu](https://cdn.myanimelist.net/images/anime/11/54387.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 荒野の少年イサム

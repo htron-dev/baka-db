@@ -1,5 +1,7 @@
 # Donald Onsen Monogatari
 
+![donald-onsen-monogatari](https://cdn.myanimelist.net/images/manga/3/250213.jpg)
+
 -   **type**: manga
 -   **original-name**: ドナルド温泉物語
 -   **start-date**: 2021-04-07

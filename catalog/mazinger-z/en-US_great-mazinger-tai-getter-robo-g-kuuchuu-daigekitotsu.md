@@ -1,5 +1,7 @@
 # Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu
 
+![great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu](https://cdn.myanimelist.net/images/anime/1736/99759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グレートマジンガー対ゲッターロボＧ 空中大激突

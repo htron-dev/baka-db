@@ -1,5 +1,7 @@
 # Koibito 8-gou
 
+![koibito-8-gou](https://cdn.myanimelist.net/images/manga/3/103489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

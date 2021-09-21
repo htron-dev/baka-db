@@ -1,5 +1,7 @@
 # Kiri no Miyako no K.K
 
+![kiri-no-miyako-no-k-k](https://cdn.myanimelist.net/images/manga/2/239133.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 霧の都の K・K

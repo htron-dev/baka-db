@@ -1,5 +1,7 @@
 # Ginkou no Lighter Crois
 
+![ginkou-no-lighter-crois](https://cdn.myanimelist.net/images/manga/3/160503.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 銀煌の騎士勲章〈ライタークロイス〉

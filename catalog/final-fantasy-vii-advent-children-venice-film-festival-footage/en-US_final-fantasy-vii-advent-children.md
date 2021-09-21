@@ -1,5 +1,7 @@
 # Final Fantasy VII: Advent Children
 
+![final-fantasy-vii-advent-children](https://cdn.myanimelist.net/images/anime/1/317.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ファイナルファンタジー VII アドベントチルドレン

@@ -1,5 +1,7 @@
 # Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks
 
+![dragon-ball-z-special-2-zetsubou-e-no-hankou-nokosareta-chousenshi-gohan-to-trunks](https://cdn.myanimelist.net/images/anime/7/10207.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボールＺ・絶望への反抗！！残された超戦士・悟飯とトランク

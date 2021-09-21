@@ -1,5 +1,7 @@
 # Kusareen no Housoku Series
 
+![kusareen-no-housoku-series](https://cdn.myanimelist.net/images/manga/2/153656.jpg)
+
 -   **type**: light-novel
 -   **original-name**: くされ縁の法則 シリーズ
 -   **start-date**: 2003-09-30

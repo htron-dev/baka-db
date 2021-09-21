@@ -1,5 +1,7 @@
 # Hareta Hi ni Shoujo wa Guitar wo
 
+![hareta-hi-ni-shoujo-wa-guitar-wo](https://cdn.myanimelist.net/images/manga/1/238219.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

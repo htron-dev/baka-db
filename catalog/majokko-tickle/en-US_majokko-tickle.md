@@ -1,5 +1,7 @@
 # Majokko Tickle
 
+![majokko-tickle](https://cdn.myanimelist.net/images/anime/3/6935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: 魔女っ子チックル

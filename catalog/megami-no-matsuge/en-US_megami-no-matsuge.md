@@ -1,5 +1,7 @@
 # Megami no Matsuge
 
+![megami-no-matsuge](https://cdn.myanimelist.net/images/manga/3/193988.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Fuuzokugurui desu ga Toshishita Danshi ni Kokuraremashita
 
+![fuuzokugurui-desu-ga-toshishita-danshi-ni-kokuraremashita](https://cdn.myanimelist.net/images/manga/3/157242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

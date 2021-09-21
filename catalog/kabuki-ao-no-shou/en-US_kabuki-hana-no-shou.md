@@ -1,5 +1,7 @@
 # Kabuki - Hana no Shou
 
+![kabuki-hana-no-shou](https://cdn.myanimelist.net/images/manga/1/2884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

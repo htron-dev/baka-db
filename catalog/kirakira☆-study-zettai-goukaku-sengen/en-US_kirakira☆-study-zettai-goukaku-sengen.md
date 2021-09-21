@@ -1,5 +1,7 @@
 # Kirakira☆Study: Zettai Goukaku Sengen
 
+![kirakira☆-study-zettai-goukaku-sengen](https://cdn.myanimelist.net/images/manga/2/234913.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Golden Kamuy
 
+![golden-kamuy](https://cdn.myanimelist.net/images/manga/3/149257.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴールデンカムイ
 -   **start-date**: 2014-08-21

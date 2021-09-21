@@ -1,5 +1,7 @@
 # Hoshiakari Graphics
 
+![hoshiakari-graphics](https://cdn.myanimelist.net/images/manga/2/217160.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

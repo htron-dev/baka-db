@@ -1,5 +1,7 @@
 # Hello Kitty no Shirayuki-hime (2001)
 
+![hello-kitty-no-shirayuki-hime-2001](https://cdn.myanimelist.net/images/anime/12/72397.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの白雪姫

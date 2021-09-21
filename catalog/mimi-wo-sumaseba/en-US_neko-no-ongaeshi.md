@@ -1,5 +1,7 @@
 # Neko no Ongaeshi
 
+![neko-no-ongaeshi](https://cdn.myanimelist.net/images/anime/1/597.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猫の恩返し

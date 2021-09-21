@@ -1,5 +1,7 @@
 # Houkago Theater
 
+![houkago-theater](https://cdn.myanimelist.net/images/manga/3/157272.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 放課後シアター

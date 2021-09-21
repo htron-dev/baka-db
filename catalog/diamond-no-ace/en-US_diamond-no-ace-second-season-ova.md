@@ -1,5 +1,7 @@
 # Diamond no Ace: Second Season OVA
 
+![diamond-no-ace-second-season-ova](https://cdn.myanimelist.net/images/anime/12/83218.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ダイヤの A[エース]～ Second Season OAD ～

@@ -1,5 +1,7 @@
 # Mirai Nikki: Curse Diary
 
+![mirai-nikki-curse-diary](https://cdn.myanimelist.net/images/manga/1/160816.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ミライニッキ −CURSE DIARY−

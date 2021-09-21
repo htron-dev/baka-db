@@ -1,5 +1,7 @@
 # Dokidoki Gakuen Kessen!! Youki Daimashiro
 
+![dokidoki-gakuen-kessen-youki-daimashiro](https://cdn.myanimelist.net/images/anime/5/52097.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドキドキ学園　決戦！！妖奇大魔城

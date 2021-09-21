@@ -1,5 +1,7 @@
 # Hibi Chouchou
 
+![hibi-chouchou](https://cdn.myanimelist.net/images/manga/3/156837.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 83

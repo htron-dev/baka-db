@@ -1,5 +1,7 @@
 # Marginal
 
+![marginal](https://cdn.myanimelist.net/images/manga/2/171376.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 26

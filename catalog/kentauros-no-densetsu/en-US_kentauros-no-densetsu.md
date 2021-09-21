@@ -1,5 +1,7 @@
 # Kentauros no Densetsu
 
+![kentauros-no-densetsu](https://cdn.myanimelist.net/images/anime/1208/94278.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ケンタウロスの伝説

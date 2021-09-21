@@ -1,5 +1,7 @@
 # Jet Stream Mission
 
+![jet-stream-mission](https://cdn.myanimelist.net/images/manga/1/163762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

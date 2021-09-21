@@ -1,5 +1,7 @@
 # Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki
 
+![hitomi-no-naka-no-shounen-juugo-shounen-hyouryuuki](https://cdn.myanimelist.net/images/anime/10/73701.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 瞳のなかの少年　十五少年漂流記

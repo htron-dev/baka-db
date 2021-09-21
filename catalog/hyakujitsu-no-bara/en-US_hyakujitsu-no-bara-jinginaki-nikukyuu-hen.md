@@ -1,5 +1,7 @@
 # Hyakujitsu no Bara: Jinginaki Nikukyuu-hen
 
+![hyakujitsu-no-bara-jinginaki-nikukyuu-hen](https://cdn.myanimelist.net/images/anime/9/83180.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 百日の薔薇 仁義なき肉球編

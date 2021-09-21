@@ -1,5 +1,7 @@
 # Lega no 13
 
+![lega-no-13](https://cdn.myanimelist.net/images/manga/1/36510.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

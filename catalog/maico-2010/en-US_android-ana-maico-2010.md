@@ -1,5 +1,7 @@
 # Android Ana Maico 2010
 
+![android-ana-maico-2010](https://cdn.myanimelist.net/images/anime/8/30397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: アンドロイド・アナ　 MAICO ２０１０

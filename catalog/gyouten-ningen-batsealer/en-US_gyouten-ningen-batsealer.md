@@ -1,5 +1,7 @@
 # Gyouten Ningen Batsealer
 
+![gyouten-ningen-batsealer](https://cdn.myanimelist.net/images/anime/1396/96588.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 仰天人間バトシーラー

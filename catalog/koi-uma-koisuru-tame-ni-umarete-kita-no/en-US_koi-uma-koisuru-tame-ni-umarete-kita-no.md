@@ -1,5 +1,7 @@
 # Koi Uma: Koisuru Tame ni Umarete Kita no
 
+![koi-uma-koisuru-tame-ni-umarete-kita-no](https://cdn.myanimelist.net/images/manga/1/98647.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

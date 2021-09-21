@@ -1,5 +1,7 @@
 # Minami e Itta Misuke
 
+![minami-e-itta-misuke](https://cdn.myanimelist.net/images/anime/1506/114811.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 南へ行ったミースケ

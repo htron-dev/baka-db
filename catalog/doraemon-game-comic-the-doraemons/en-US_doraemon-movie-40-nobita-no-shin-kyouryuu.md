@@ -1,5 +1,7 @@
 # Doraemon Movie 40: Nobita no Shin Kyouryuu
 
+![doraemon-movie-40-nobita-no-shin-kyouryuu](https://cdn.myanimelist.net/images/anime/1745/108659.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の新恐竜

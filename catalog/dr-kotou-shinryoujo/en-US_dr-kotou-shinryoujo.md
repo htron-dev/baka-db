@@ -1,5 +1,7 @@
 # Dr. Kotou Shinryoujo
 
+![dr-kotou-shinryoujo](https://cdn.myanimelist.net/images/manga/1/179582.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **original-name**: Dr.コトー診療所

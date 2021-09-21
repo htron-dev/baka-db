@@ -1,5 +1,7 @@
 # Memories
 
+![memories](https://cdn.myanimelist.net/images/anime/9/74781.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: MEMORIES（メモリーズ）

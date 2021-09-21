@@ -1,5 +1,7 @@
 # Hangyodon no Parallel Daisakusen: Mirai Sekai wa Oosawagi
 
+![hangyodon-no-parallel-daisakusen-mirai-sekai-wa-oosawagi](https://cdn.myanimelist.net/images/anime/10/84566.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンギョドンのパラレル大作戦 未来世界は大さわぎ

@@ -1,5 +1,7 @@
 # Hitori de Nayamanaide Issho ni Kangaeyou
 
+![hitori-de-nayamanaide-issho-ni-kangaeyou](https://cdn.myanimelist.net/images/anime/5/82094.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一人で悩まないで一緒に考えよう

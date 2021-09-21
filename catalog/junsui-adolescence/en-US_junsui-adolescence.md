@@ -1,5 +1,7 @@
 # Junsui Adolescence
 
+![junsui-adolescence](https://cdn.myanimelist.net/images/manga/2/28993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

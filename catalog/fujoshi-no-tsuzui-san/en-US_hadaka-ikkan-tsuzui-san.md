@@ -1,5 +1,7 @@
 # Hadaka Ikkan! Tsuzui-san
 
+![hadaka-ikkan-tsuzui-san](https://cdn.myanimelist.net/images/manga/2/226332.jpg)
+
 -   **type**: manga
 -   **original-name**: 裸一貫！つづ井さん
 -   **start-date**: 2019-05-23

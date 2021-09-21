@@ -1,5 +1,7 @@
 # Gotou Hayako no Saiban View Nikki♥
 
+![gotou-hayako-no-saiban-view-nikki♥](https://cdn.myanimelist.net/images/manga/3/151550.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 後藤羽矢子の裁判びゅー日記 ♥

@@ -1,5 +1,7 @@
 # Koi no Hajimari
 
+![koi-no-hajimari](https://cdn.myanimelist.net/images/manga/2/247773.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋のはじまり
 -   **start-date**: 2020-03-13

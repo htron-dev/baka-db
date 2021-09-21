@@ -1,5 +1,7 @@
 # Devilman Memorial
 
+![devilman-memorial](https://cdn.myanimelist.net/images/anime/1713/106970.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デビルマン メモリアル

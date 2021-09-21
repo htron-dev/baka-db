@@ -1,5 +1,7 @@
 # Minori to 100-nin no Ojousama
 
+![minori-to-100-nin-no-ojousama](https://cdn.myanimelist.net/images/manga/1/227138.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: みのりと 100 人のお嬢様

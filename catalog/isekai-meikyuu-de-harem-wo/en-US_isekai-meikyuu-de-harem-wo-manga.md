@@ -1,5 +1,7 @@
 # Isekai Meikyuu de Harem wo
 
+![isekai-meikyuu-de-harem-wo](https://cdn.myanimelist.net/images/manga/3/203707.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界迷宮でハーレムを
 -   **start-date**: 2017-04-26

@@ -1,5 +1,7 @@
 # Onara Gorou
 
+![onara-gorou](https://cdn.myanimelist.net/images/anime/2/79963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おなら吾郎

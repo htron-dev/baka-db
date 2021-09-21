@@ -1,5 +1,7 @@
 # Fei Ren Zai 3rd Season
 
+![fei-ren-zai-3rd-season](https://cdn.myanimelist.net/images/anime/1096/108476.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 非人哉 第三季

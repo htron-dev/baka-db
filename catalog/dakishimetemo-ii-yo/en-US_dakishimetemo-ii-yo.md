@@ -1,5 +1,7 @@
 # Dakishimetemo Ii yo
 
+![dakishimetemo-ii-yo](https://cdn.myanimelist.net/images/manga/1/238076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

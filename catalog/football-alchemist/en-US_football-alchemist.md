@@ -1,5 +1,7 @@
 # Football Alchemist
 
+![football-alchemist](https://cdn.myanimelist.net/images/manga/3/230760.jpg)
+
 -   **type**: manga
 -   **original-name**: フットボールアルケミスト
 -   **start-date**: 2019-11-22

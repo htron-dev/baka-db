@@ -1,5 +1,7 @@
 # Rockman X
 
+![rockman-x](https://cdn.myanimelist.net/images/manga/5/115907.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

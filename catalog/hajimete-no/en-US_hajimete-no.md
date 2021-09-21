@@ -1,5 +1,7 @@
 # Hajimete no
 
+![hajimete-no](https://cdn.myanimelist.net/images/manga/3/220423.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめての
 -   **start-date**: 2016-05-07

@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: A Muxing
 
+![hong-mao-lan-tu-a-muxing](https://cdn.myanimelist.net/images/anime/1354/98702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 虹猫蓝兔阿木星

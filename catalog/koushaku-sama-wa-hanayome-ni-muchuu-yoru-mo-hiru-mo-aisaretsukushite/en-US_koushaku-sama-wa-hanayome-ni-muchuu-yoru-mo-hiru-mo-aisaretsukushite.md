@@ -1,5 +1,7 @@
 # Koushaku-sama wa Hanayome ni Muchuu: Yoru mo Hiru mo Aisaretsukushite
 
+![koushaku-sama-wa-hanayome-ni-muchuu-yoru-mo-hiru-mo-aisaretsukushite](https://cdn.myanimelist.net/images/manga/2/192410.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kyuubo Bishoujo-tachi no Flag wo Heshiori, Iinchou wo Yameru Houhou
 
+![kyuubo-bishoujo-tachi-no-flag-wo-heshiori-iinchou-wo-yameru-houhou](https://cdn.myanimelist.net/images/manga/3/164055.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

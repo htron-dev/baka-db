@@ -1,5 +1,7 @@
 # Mirai e no Tegami: Kono Michi no Tochuu kara
 
+![mirai-e-no-tegami-kono-michi-no-tochuu-kara](https://cdn.myanimelist.net/images/anime/3/84578.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: みらいへの手紙~この道の途中から~

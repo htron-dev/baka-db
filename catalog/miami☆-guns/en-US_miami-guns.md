@@ -1,5 +1,7 @@
 # Miami Guns
 
+![miami-guns](https://cdn.myanimelist.net/images/anime/1/783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マイアミ ☆ ガンズ

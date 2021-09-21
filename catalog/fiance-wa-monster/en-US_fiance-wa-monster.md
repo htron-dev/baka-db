@@ -1,5 +1,7 @@
 # Fiancé wa Monster!?
 
+![fiance-wa-monster](https://cdn.myanimelist.net/images/manga/1/12246.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Pure Shield
 
+![pure-shield](https://cdn.myanimelist.net/images/anime/1042/109004.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2010-10-07

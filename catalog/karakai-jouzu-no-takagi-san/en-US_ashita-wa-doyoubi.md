@@ -1,5 +1,7 @@
 # Ashita wa Doyoubi
 
+![ashita-wa-doyoubi](https://cdn.myanimelist.net/images/manga/1/174835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 53

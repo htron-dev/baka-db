@@ -1,5 +1,7 @@
 # Honey Moon
 
+![honey-moon](https://cdn.myanimelist.net/images/manga/3/5089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

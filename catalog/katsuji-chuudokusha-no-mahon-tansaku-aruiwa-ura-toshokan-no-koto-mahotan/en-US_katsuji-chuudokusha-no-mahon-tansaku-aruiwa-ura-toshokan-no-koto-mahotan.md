@@ -1,5 +1,7 @@
 # Katsuji Chuudokusha no Mahon Tansaku, Aruiwa Ura Toshokan no Koto: Mahotan
 
+![katsuji-chuudokusha-no-mahon-tansaku-aruiwa-ura-toshokan-no-koto-mahotan](https://cdn.myanimelist.net/images/manga/2/228891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

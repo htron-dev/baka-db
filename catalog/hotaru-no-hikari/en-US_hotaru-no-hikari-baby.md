@@ -1,5 +1,7 @@
 # Hotaru no Hikari Baby
 
+![hotaru-no-hikari-baby](https://cdn.myanimelist.net/images/manga/1/208959.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

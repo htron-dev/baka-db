@@ -1,5 +1,7 @@
 # Kotoshi no Mitsuishi-san wa Dokoka Okashii
 
+![kotoshi-no-mitsuishi-san-wa-dokoka-okashii](https://cdn.myanimelist.net/images/manga/3/248076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

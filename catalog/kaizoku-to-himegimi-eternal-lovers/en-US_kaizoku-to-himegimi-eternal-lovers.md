@@ -1,5 +1,7 @@
 # Kaizoku to Himegimi: Eternal Lovers
 
+![kaizoku-to-himegimi-eternal-lovers](https://cdn.myanimelist.net/images/manga/3/181777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

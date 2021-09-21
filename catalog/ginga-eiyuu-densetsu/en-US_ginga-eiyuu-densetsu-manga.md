@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu
 
+![ginga-eiyuu-densetsu](https://cdn.myanimelist.net/images/manga/2/173521.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 60

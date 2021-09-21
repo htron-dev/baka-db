@@ -1,5 +1,7 @@
 # Hidamari no Ie
 
+![hidamari-no-ie](https://cdn.myanimelist.net/images/anime/2/65975.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 陽だまりの家

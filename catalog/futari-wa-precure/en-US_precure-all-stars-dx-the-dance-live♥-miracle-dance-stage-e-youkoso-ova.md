@@ -1,5 +1,7 @@
 # Precure All Stars DX the Dance Live♥: Miracle Dance Stage e Youkoso
 
+![precure-all-stars-dx-the-dance-live♥-miracle-dance-stage-e-youkoso](https://cdn.myanimelist.net/images/anime/12/32263.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プリキュアオールスターズ DX the DANCE LIVE♥ ～ミラクルダンスステージへようこそ～

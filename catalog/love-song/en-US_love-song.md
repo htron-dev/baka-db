@@ -1,5 +1,7 @@
 # Love Song
 
+![love-song](https://cdn.myanimelist.net/images/manga/2/135975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Iyashi no Tenshi no Iyashii Tenmei: Hyouketsu Futaana Seme no Akumu
 
+![iyashi-no-tenshi-no-iyashii-tenmei-hyouketsu-futaana-seme-no-akumu](https://cdn.myanimelist.net/images/manga/2/169723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 癒しの天使の卑しい天命 ―氷結二穴責めの悪夢―

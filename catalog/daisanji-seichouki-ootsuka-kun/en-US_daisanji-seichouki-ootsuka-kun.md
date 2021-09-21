@@ -1,5 +1,7 @@
 # Daisanji Seichouki, Ootsuka-kun!
 
+![daisanji-seichouki-ootsuka-kun](https://cdn.myanimelist.net/images/manga/1/125887.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

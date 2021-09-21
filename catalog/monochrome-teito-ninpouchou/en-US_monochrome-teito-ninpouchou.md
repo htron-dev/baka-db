@@ -1,5 +1,7 @@
 # Monochrome: Teito Ninpouchou
 
+![monochrome-teito-ninpouchou](https://cdn.myanimelist.net/images/manga/2/167331.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

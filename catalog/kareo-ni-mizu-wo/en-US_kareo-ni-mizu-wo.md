@@ -1,5 +1,7 @@
 # Kareo ni Mizu wo
 
+![kareo-ni-mizu-wo](https://cdn.myanimelist.net/images/manga/3/40631.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

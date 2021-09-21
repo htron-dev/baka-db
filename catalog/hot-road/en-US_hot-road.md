@@ -1,5 +1,7 @@
 # Hot Road
 
+![hot-road](https://cdn.myanimelist.net/images/manga/2/176942.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

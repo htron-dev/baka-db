@@ -1,5 +1,7 @@
 # Kaiou Dante
 
+![kaiou-dante](https://cdn.myanimelist.net/images/manga/1/186405.jpg)
+
 -   **type**: manga
 -   **original-name**: 海王ダンテ
 -   **start-date**: 2015-12-12

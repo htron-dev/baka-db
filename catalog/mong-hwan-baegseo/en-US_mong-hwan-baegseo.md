@@ -1,5 +1,7 @@
 # Mong Hwan Baegseo
 
+![mong-hwan-baegseo](https://cdn.myanimelist.net/images/manga/5/41578.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 20
 -   **original-name**: 몽환백서

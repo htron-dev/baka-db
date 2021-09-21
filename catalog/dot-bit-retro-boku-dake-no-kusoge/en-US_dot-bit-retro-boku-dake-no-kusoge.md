@@ -1,5 +1,7 @@
 # Dot Bit Retro: Boku Dake no Kusoge
 
+![dot-bit-retro-boku-dake-no-kusoge](https://cdn.myanimelist.net/images/anime/1705/108115.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: Dot Bit Retro - ぼくだけのクソゲー

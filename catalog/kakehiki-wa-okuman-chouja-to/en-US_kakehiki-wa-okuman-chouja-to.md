@@ -1,5 +1,7 @@
 # Kakehiki wa Okuman Chouja to
 
+![kakehiki-wa-okuman-chouja-to](https://cdn.myanimelist.net/images/manga/2/227511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 駆け引きは億万長者と

@@ -1,5 +1,7 @@
 # Kitty-chan wo Sagase! Toyama-shi Stamp Rally
 
+![kitty-chan-wo-sagase-toyama-shi-stamp-rally](https://cdn.myanimelist.net/images/anime/5/81611.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キティちゃんを探せ！富山市スタンプラリー

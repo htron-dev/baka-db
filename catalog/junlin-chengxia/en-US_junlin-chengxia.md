@@ -1,5 +1,7 @@
 # Junlin Chengxia
 
+![junlin-chengxia](https://cdn.myanimelist.net/images/anime/9/83715.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 君临臣下

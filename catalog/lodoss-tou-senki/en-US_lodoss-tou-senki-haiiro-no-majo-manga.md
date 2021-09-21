@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Haiiro no Majo
 
+![lodoss-tou-senki-haiiro-no-majo](https://cdn.myanimelist.net/images/manga/3/135797.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

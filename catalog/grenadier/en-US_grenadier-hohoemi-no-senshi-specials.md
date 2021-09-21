@@ -1,5 +1,7 @@
 # Grenadier: Hohoemi no Senshi Specials
 
+![grenadier-hohoemi-no-senshi-specials](https://cdn.myanimelist.net/images/anime/8/8274.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: グレネーダー 〜ほほえみの閃士〜

@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Kaichou Senkyo-hen
 
+![mahouka-koukou-no-rettousei-kaichou-senkyo-hen](https://cdn.myanimelist.net/images/manga/2/217644.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

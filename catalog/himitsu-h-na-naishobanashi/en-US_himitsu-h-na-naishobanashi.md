@@ -1,5 +1,7 @@
 # Himitsu - H na Naishobanashi
 
+![himitsu-h-na-naishobanashi](https://cdn.myanimelist.net/images/manga/5/17064.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

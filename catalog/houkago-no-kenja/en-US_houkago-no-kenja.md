@@ -1,5 +1,7 @@
 # Houkago no Kenja
 
+![houkago-no-kenja](https://cdn.myanimelist.net/images/manga/1/180667.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

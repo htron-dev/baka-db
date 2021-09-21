@@ -1,5 +1,7 @@
 # Mukasete! Ryuugasaki-san
 
+![mukasete-ryuugasaki-san](https://cdn.myanimelist.net/images/manga/1/221301.jpg)
+
 -   **type**: manga
 -   **original-name**: 剥かせて！竜ケ崎さん
 -   **start-date**: 2018-11-27

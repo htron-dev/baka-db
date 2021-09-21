@@ -1,5 +1,7 @@
 # Dominion
 
+![dominion](https://cdn.myanimelist.net/images/anime/1450/110634.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ドミニオン
@@ -18,7 +20,7 @@
 
 ## Sinopse
 
-Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters. 
+Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters.
 
 (Source: ANN)
 
