@@ -1,5 +1,7 @@
 # Kokumei no Golem
 
+![kokumei-no-golem](https://cdn.myanimelist.net/images/manga/1/168718.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

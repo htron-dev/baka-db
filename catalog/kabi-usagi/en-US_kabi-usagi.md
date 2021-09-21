@@ -1,5 +1,7 @@
 # Kabi Usagi
 
+![kabi-usagi](https://cdn.myanimelist.net/images/anime/11/81539.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: カビうさぎ

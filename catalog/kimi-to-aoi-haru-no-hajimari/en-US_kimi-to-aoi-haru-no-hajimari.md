@@ -1,5 +1,7 @@
 # Kimi to Aoi Haru no Hajimari
 
+![kimi-to-aoi-haru-no-hajimari](https://cdn.myanimelist.net/images/manga/1/226616.jpg)
+
 -   **type**: manga
 -   **original-name**: きみと青い春のはじまり
 -   **start-date**: 2019-07-24

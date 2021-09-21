@@ -1,5 +1,7 @@
 # Isekai Souko no Kanrinin-san
 
+![isekai-souko-no-kanrinin-san](https://cdn.myanimelist.net/images/manga/3/170246.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界倉庫の管理人さん
 -   **start-date**: 2016-01-15

@@ -1,5 +1,7 @@
 # Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV): Heroine Kentei
 
+![konna-watashitachi-ga-nariyuki-de-heroine-ni-natta-kekka-www-tv-heroine-kentei](https://cdn.myanimelist.net/images/anime/10/71641.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: こんな私たちがなりゆきでヒロインになった結果 www「ヒロイン検定」

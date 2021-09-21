@@ -1,5 +1,7 @@
 # Mousou Kagyou no Michinaga-san
 
+![mousou-kagyou-no-michinaga-san](https://cdn.myanimelist.net/images/manga/1/115319.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 妄想稼業の道長さん

@@ -1,5 +1,7 @@
 # Koi♥Mane
 
+![koi♥-mane](https://cdn.myanimelist.net/images/manga/1/81916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koiwazurai no Ellie
 
+![koiwazurai-no-ellie](https://cdn.myanimelist.net/images/manga/1/168117.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 48

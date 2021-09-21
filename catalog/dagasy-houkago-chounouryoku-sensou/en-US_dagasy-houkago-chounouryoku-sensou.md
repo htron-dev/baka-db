@@ -1,5 +1,7 @@
 # Dagasy: Houkago Chounouryoku Sensou
 
+![dagasy-houkago-chounouryoku-sensou](https://cdn.myanimelist.net/images/manga/1/188885.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

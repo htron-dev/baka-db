@@ -1,5 +1,7 @@
 # Lupin III: Moeyo Zantetsuken!
 
+![lupin-iii-moeyo-zantetsuken](https://cdn.myanimelist.net/images/anime/9/77771.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『燃えよ斬鉄剣』

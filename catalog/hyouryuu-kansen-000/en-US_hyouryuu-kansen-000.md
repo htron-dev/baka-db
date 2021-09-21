@@ -1,5 +1,7 @@
 # Hyouryuu Kansen 000
 
+![hyouryuu-kansen-000](https://cdn.myanimelist.net/images/manga/1/31558.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 漂流幹線 000

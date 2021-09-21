@@ -1,5 +1,7 @@
 # Hai to Gensou no Grimgar
 
+![hai-to-gensou-no-grimgar](https://cdn.myanimelist.net/images/manga/2/174954.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 灰と幻想のグリムガル
 -   **start-date**: 2013-06-25

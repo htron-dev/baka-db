@@ -1,5 +1,7 @@
 # Mascara Blues
 
+![mascara-blues](https://cdn.myanimelist.net/images/manga/3/181387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

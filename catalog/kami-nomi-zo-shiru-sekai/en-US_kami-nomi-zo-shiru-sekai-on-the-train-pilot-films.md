@@ -1,5 +1,7 @@
 # Kami nomi zo Shiru Sekai: On the Train+Pilot Films
 
+![kami-nomi-zo-shiru-sekai-on-the-train-pilot-films](https://cdn.myanimelist.net/images/manga/1/160833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

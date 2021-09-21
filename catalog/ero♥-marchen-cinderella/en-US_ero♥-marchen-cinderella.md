@@ -1,5 +1,7 @@
 # Ero♥Märchen: Cinderella
 
+![ero♥-marchen-cinderella](https://cdn.myanimelist.net/images/manga/3/231137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kowareteitemo Kamaimasen
 
+![kowareteitemo-kamaimasen](https://cdn.myanimelist.net/images/manga/1/180281.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

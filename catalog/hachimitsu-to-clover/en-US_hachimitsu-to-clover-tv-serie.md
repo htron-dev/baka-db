@@ -1,5 +1,7 @@
 # Hachimitsu to Clover
 
+![hachimitsu-to-clover](https://cdn.myanimelist.net/images/anime/11/73923.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ハチミツとクローバー

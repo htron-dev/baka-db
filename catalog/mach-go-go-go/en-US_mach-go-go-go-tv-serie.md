@@ -1,5 +1,7 @@
 # Mach GoGoGo
 
+![mach-go-go-go](https://cdn.myanimelist.net/images/anime/4/40191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: マッハＧｏＧｏＧｏ

@@ -1,5 +1,7 @@
 # Kyou no News
 
+![kyou-no-news](https://cdn.myanimelist.net/images/manga/2/57419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

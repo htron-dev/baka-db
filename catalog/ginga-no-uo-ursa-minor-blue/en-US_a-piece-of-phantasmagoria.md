@@ -1,5 +1,7 @@
 # A Piece of Phantasmagoria
 
+![a-piece-of-phantasmagoria](https://cdn.myanimelist.net/images/anime/1577/92716.jpg)
+
 -   **type**: ova
 -   **episodes**: 15
 -   **original-name**: a piece of PHANTASMAGORIA (ア・ピース・オブ ファンタスマゴリア)

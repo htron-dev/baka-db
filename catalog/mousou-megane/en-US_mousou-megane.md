@@ -1,5 +1,7 @@
 # Mousou Megane
 
+![mousou-megane](https://cdn.myanimelist.net/images/manga/3/180371.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 60

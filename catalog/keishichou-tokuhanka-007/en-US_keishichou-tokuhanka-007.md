@@ -1,5 +1,7 @@
 # Keishichou Tokuhanka 007
 
+![keishichou-tokuhanka-007](https://cdn.myanimelist.net/images/manga/2/191474.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 43

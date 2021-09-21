@@ -1,5 +1,7 @@
 # Kidou Senshi Z Gundam: Hoshi wo Tsugumono
 
+![kidou-senshi-z-gundam-hoshi-wo-tsugumono](https://cdn.myanimelist.net/images/manga/1/247584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 機動戦士 Z ガンダム 星を継ぐ者

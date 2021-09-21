@@ -1,5 +1,7 @@
 # Dokoka de Dareka mo Tabeteiru
 
+![dokoka-de-dareka-mo-tabeteiru](https://cdn.myanimelist.net/images/manga/1/227061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

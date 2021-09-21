@@ -1,5 +1,7 @@
 # Houkago Teibou Nisshi
 
+![houkago-teibou-nisshi](https://cdn.myanimelist.net/images/anime/1802/106362.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 放課後ていぼう日誌

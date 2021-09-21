@@ -1,5 +1,7 @@
 # Kick Off 2002
 
+![kick-off-2002](https://cdn.myanimelist.net/images/anime/2/18290.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キックオフ２００２

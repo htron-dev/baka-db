@@ -1,5 +1,7 @@
 # Imasugu Yametai Ars Magica
 
+![imasugu-yametai-ars-magica](https://cdn.myanimelist.net/images/manga/2/159287.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

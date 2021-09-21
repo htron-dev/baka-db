@@ -1,5 +1,7 @@
 # Taiyou no Shita de Warae
 
+![taiyou-no-shita-de-warae](https://cdn.myanimelist.net/images/manga/2/33042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

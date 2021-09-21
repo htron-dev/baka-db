@@ -1,5 +1,7 @@
 # Housekishou no Shinjin
 
+![housekishou-no-shinjin](https://cdn.myanimelist.net/images/manga/1/229682.jpg)
+
 -   **type**: manga
 -   **original-name**: 宝石省の新人
 -   **start-date**: 2019-05-27

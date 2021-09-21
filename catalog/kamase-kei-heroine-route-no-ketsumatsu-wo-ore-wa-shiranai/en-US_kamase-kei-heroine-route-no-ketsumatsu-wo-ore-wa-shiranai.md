@@ -1,5 +1,7 @@
 # Kamase-kei Heroine Route no Ketsumatsu wo Ore wa Shiranai
 
+![kamase-kei-heroine-route-no-ketsumatsu-wo-ore-wa-shiranai](https://cdn.myanimelist.net/images/manga/3/186203.jpg)
+
 -   **type**: light-novel
 -   **original-name**: かませ系ヒロインルートの結末を俺は知らない
 -   **start-date**: 2015-11-01

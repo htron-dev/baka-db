@@ -1,5 +1,7 @@
 # Medarot
 
+![medarot](https://cdn.myanimelist.net/images/anime/8/46699.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: メダロット

@@ -1,5 +1,7 @@
 # Jarujio Animal
 
+![jarujio-animal](https://cdn.myanimelist.net/images/anime/4/62319.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ジャルジオ・アニマール

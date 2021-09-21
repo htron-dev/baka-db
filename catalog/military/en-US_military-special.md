@@ -1,5 +1,7 @@
 # Military! Special
 
+![military-special](https://cdn.myanimelist.net/images/anime/7/73505.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みりたり!

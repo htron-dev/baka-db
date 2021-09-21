@@ -1,5 +1,7 @@
 # Konnichiwa Suzanne
 
+![konnichiwa-suzanne](https://cdn.myanimelist.net/images/manga/3/125731.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: こんにちはスザンヌ

@@ -1,5 +1,7 @@
 # Luger Code 1951
 
+![luger-code-1951](https://cdn.myanimelist.net/images/manga/1/170557.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ルガーコード 1951

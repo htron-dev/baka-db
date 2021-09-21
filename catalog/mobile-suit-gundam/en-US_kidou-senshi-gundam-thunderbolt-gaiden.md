@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Thunderbolt Gaiden
 
+![kidou-senshi-gundam-thunderbolt-gaiden](https://cdn.myanimelist.net/images/manga/1/179768.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム サンダーボルト 外伝
 -   **start-date**: 2015-12-18

@@ -1,5 +1,7 @@
 # Natsu no Zenjitsu
 
+![natsu-no-zenjitsu](https://cdn.myanimelist.net/images/manga/1/90125.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

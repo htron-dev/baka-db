@@ -1,5 +1,7 @@
 # Maroko
 
+![maroko](https://cdn.myanimelist.net/images/anime/4/67705.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: MAROKO 麿子

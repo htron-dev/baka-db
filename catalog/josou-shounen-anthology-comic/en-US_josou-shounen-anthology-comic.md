@@ -1,5 +1,7 @@
 # Josou Shounen Anthology Comic
 
+![josou-shounen-anthology-comic](https://cdn.myanimelist.net/images/manga/3/111219.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 142

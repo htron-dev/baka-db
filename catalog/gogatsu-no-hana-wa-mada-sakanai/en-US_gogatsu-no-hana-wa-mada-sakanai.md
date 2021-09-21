@@ -1,5 +1,7 @@
 # Gogatsu no Hana wa Mada Sakanai
 
+![gogatsu-no-hana-wa-mada-sakanai](https://cdn.myanimelist.net/images/manga/2/222399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

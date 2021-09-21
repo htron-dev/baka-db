@@ -1,5 +1,7 @@
 # Irozuku Sekai no Ashita kara
 
+![irozuku-sekai-no-ashita-kara](https://cdn.myanimelist.net/images/anime/1424/93855.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 色づく世界の明日から

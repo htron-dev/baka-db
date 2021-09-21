@@ -1,5 +1,7 @@
 # Golden Time (Movie)
 
+![golden-time-movie](https://cdn.myanimelist.net/images/anime/3/89350.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴールデンタイム

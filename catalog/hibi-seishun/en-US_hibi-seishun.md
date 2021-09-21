@@ -1,5 +1,7 @@
 # Hibi, Seishun.
 
+![hibi-seishun](https://cdn.myanimelist.net/images/manga/1/189542.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

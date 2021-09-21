@@ -1,5 +1,7 @@
 # Kyouran Kazoku Nikki
 
+![kyouran-kazoku-nikki](https://cdn.myanimelist.net/images/anime/6/7601.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 狂乱家族日記

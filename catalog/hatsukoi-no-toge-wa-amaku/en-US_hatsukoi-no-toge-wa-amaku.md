@@ -1,5 +1,7 @@
 # Hatsukoi no Toge wa Amaku
 
+![hatsukoi-no-toge-wa-amaku](https://cdn.myanimelist.net/images/manga/2/167632.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 初恋の棘は甘く

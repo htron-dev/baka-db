@@ -1,5 +1,7 @@
 # Gokutsuma Days: Gokudou Sankyoudai ni Semararetemasu
 
+![gokutsuma-days-gokudou-sankyoudai-ni-semararetemasu](https://cdn.myanimelist.net/images/manga/1/224385.jpg)
+
 -   **type**: manga
 -   **original-name**: 極妻デイズ～極道三兄弟にせまられてます～
 -   **start-date**: 2018-04-01

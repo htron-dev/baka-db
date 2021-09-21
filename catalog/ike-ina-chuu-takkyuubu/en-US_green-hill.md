@@ -1,5 +1,7 @@
 # Green Hill
 
+![green-hill](https://cdn.myanimelist.net/images/manga/2/248399.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: グリーンヒル

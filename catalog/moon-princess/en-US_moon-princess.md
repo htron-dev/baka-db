@@ -1,5 +1,7 @@
 # Moon Princess
 
+![moon-princess](https://cdn.myanimelist.net/images/manga/3/71327.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ムーンプリンセス

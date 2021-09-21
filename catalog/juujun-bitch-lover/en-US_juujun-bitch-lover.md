@@ -1,5 +1,7 @@
 # Juujun Bitch Lover
 
+![juujun-bitch-lover](https://cdn.myanimelist.net/images/manga/3/224482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

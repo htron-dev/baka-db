@@ -1,5 +1,7 @@
 # Dousei Seikatsu
 
+![dousei-seikatsu](https://cdn.myanimelist.net/images/manga/2/227274.jpg)
+
 -   **type**: manga
 -   **original-name**: 同棲生活
 -   **start-date**: 2017-08-10

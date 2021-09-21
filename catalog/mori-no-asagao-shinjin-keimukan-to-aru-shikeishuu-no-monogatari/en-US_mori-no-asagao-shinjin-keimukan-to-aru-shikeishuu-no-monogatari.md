@@ -1,5 +1,7 @@
 # Mori no Asagao: Shinjin Keimukan to Aru Shikeishuu no Monogatari
 
+![mori-no-asagao-shinjin-keimukan-to-aru-shikeishuu-no-monogatari](https://cdn.myanimelist.net/images/manga/3/18058.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 70

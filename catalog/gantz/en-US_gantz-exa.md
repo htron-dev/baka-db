@@ -1,5 +1,7 @@
 # GANTZ/EXA
 
+![gantz-exa](https://cdn.myanimelist.net/images/manga/2/39814.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

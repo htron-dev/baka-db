@@ -1,5 +1,7 @@
 # Musashi-kun to Murayama-san wa Tsukiattemita.
 
+![musashi-kun-to-murayama-san-wa-tsukiattemita](https://cdn.myanimelist.net/images/manga/2/176895.jpg)
+
 -   **type**: manga
 -   **chapters**: 255
 -   **original-name**: 武蔵くんと村山さんは付き合ってみた。

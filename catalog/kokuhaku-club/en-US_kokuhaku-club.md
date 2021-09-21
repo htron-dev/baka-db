@@ -1,5 +1,7 @@
 # Kokuhaku Club
 
+![kokuhaku-club](https://cdn.myanimelist.net/images/manga/2/112135.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

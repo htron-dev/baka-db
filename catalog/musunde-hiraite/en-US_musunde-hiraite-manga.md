@@ -1,5 +1,7 @@
 # Musunde Hiraite
 
+![musunde-hiraite](https://cdn.myanimelist.net/images/manga/2/49177.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

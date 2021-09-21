@@ -1,5 +1,7 @@
 # Lupin III vs. Detective Conan
 
+![lupin-iii-vs-detective-conan](https://cdn.myanimelist.net/images/anime/11/27602.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 vs 名探偵コナン

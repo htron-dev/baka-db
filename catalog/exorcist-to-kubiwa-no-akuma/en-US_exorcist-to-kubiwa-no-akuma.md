@@ -1,5 +1,7 @@
 # Exorcist to Kubiwa no Akuma
 
+![exorcist-to-kubiwa-no-akuma](https://cdn.myanimelist.net/images/manga/1/208285.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

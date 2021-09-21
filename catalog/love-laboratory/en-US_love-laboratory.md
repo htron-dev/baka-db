@@ -1,5 +1,7 @@
 # Love Laboratory
 
+![love-laboratory](https://cdn.myanimelist.net/images/manga/1/34536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

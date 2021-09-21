@@ -1,5 +1,7 @@
 # The iDOLM@STER: Neue Green for Dearly Stars
 
+![the-i-dolm-ster-neue-green-for-dearly-stars](https://cdn.myanimelist.net/images/manga/4/33487.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

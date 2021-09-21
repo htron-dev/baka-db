@@ -1,5 +1,7 @@
 # Hana wo Meshimase
 
+![hana-wo-meshimase](https://cdn.myanimelist.net/images/manga/3/177903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

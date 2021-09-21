@@ -1,5 +1,7 @@
 # Honki de Nakechau Koi
 
+![honki-de-nakechau-koi](https://cdn.myanimelist.net/images/manga/3/17833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

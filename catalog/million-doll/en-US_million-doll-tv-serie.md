@@ -1,5 +1,7 @@
 # Million Doll
 
+![million-doll](https://cdn.myanimelist.net/images/anime/4/75013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ミリオンドール

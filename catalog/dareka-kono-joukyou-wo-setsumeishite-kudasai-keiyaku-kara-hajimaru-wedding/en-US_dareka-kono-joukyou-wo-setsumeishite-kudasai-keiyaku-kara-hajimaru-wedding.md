@@ -1,5 +1,7 @@
 # Dareka Kono Joukyou wo Setsumeishite Kudasai!: Keiyaku kara Hajimaru Wedding
 
+![dareka-kono-joukyou-wo-setsumeishite-kudasai-keiyaku-kara-hajimaru-wedding](https://cdn.myanimelist.net/images/manga/2/172194.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 誰かこの状況を説明してください! ～契約から始まるウェディング～
 -   **start-date**: 2013-09-12

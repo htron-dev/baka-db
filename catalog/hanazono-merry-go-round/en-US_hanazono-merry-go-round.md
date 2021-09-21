@@ -1,5 +1,7 @@
 # Hanazono Merry Go Round
 
+![hanazono-merry-go-round](https://cdn.myanimelist.net/images/manga/2/14649.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 57

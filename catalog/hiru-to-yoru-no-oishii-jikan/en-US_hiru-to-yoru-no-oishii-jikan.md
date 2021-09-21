@@ -1,5 +1,7 @@
 # Hiru to Yoru no Oishii Jikan
 
+![hiru-to-yoru-no-oishii-jikan](https://cdn.myanimelist.net/images/manga/2/222463.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

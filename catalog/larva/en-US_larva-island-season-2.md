@@ -1,5 +1,7 @@
 # Larva Island Season 2
 
+![larva-island-season-2](https://cdn.myanimelist.net/images/anime/1362/99515.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 라바 아일랜드 시즌2

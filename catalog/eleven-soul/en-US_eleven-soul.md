@@ -1,5 +1,7 @@
 # Eleven Soul
 
+![eleven-soul](https://cdn.myanimelist.net/images/manga/2/10975.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: イレブンソウル

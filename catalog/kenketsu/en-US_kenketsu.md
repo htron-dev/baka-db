@@ -1,5 +1,7 @@
 # Kenketsu
 
+![kenketsu](https://cdn.myanimelist.net/images/anime/1341/99893.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: けんけつ

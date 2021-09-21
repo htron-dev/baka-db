@@ -1,5 +1,7 @@
 # Kokoro Iroiro
 
+![kokoro-iroiro](https://cdn.myanimelist.net/images/manga/2/18013.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

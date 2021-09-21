@@ -1,5 +1,7 @@
 # Housekishou Richard-shi no Nazo Kantei
 
+![housekishou-richard-shi-no-nazo-kantei](https://cdn.myanimelist.net/images/anime/1134/109558.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 宝石商リチャード氏の謎鑑定

@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou 2nd Season
 
+![cinderella-girls-gekijou-2nd-season](https://cdn.myanimelist.net/images/anime/6/89788.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シンデレラガールズ劇場 第 2 期

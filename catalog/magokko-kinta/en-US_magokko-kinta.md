@@ -1,5 +1,7 @@
 # Magokko Kinta
 
+![magokko-kinta](https://cdn.myanimelist.net/images/manga/2/12018.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 馬子っこきん太

@@ -1,5 +1,7 @@
 # Hage
 
+![hage](https://cdn.myanimelist.net/images/anime/7/66227.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はげ

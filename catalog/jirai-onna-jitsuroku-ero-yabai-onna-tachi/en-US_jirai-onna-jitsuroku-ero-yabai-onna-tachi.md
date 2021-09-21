@@ -1,5 +1,7 @@
 # Jirai Onna: "Jitsuroku" Ero Yabai Onna-tachi
 
+![jirai-onna-jitsuroku-ero-yabai-onna-tachi](https://cdn.myanimelist.net/images/manga/3/193489.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

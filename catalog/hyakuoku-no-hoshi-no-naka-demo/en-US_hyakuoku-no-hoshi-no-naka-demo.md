@@ -1,5 +1,7 @@
 # Hyakuoku no Hoshi no Naka demo
 
+![hyakuoku-no-hoshi-no-naka-demo](https://cdn.myanimelist.net/images/manga/2/65061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

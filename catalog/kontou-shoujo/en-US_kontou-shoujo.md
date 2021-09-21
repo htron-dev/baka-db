@@ -1,5 +1,7 @@
 # Kontou Shoujo
 
+![kontou-shoujo](https://cdn.myanimelist.net/images/manga/2/192204.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

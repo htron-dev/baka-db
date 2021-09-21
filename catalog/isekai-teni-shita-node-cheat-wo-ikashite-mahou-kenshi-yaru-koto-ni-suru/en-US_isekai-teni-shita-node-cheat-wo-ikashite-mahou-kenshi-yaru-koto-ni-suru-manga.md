@@ -1,5 +1,7 @@
 # Isekai Teni shita node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru
 
+![isekai-teni-shita-node-cheat-wo-ikashite-mahou-kenshi-yaru-koto-ni-suru](https://cdn.myanimelist.net/images/manga/3/237426.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転移したのでチートを生かして魔法剣士やることにする
 -   **start-date**: 2020-07-06

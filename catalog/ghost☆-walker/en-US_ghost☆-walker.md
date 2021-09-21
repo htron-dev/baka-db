@@ -1,5 +1,7 @@
 # Ghost☆Walker
 
+![ghost☆-walker](https://cdn.myanimelist.net/images/manga/1/87471.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴースト ☆ ウォーカー
 -   **start-date**: 2011-05-20

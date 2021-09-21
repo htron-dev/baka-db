@@ -1,5 +1,7 @@
 # Michitekuru Toki no Mukou ni
 
+![michitekuru-toki-no-mukou-ni](https://cdn.myanimelist.net/images/anime/6/44688.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 満ちてくる　時のむこうに

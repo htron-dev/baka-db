@@ -1,5 +1,7 @@
 # Gekiama Honey Love Aizou: Shuuai no Onzoushi
 
+![gekiama-honey-love-aizou-shuuai-no-onzoushi](https://cdn.myanimelist.net/images/manga/3/199217.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 激甘はにーらぶ　愛憎～執愛の御曹司～

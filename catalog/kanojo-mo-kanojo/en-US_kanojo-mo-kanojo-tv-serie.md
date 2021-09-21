@@ -1,5 +1,7 @@
 # Kanojo mo Kanojo
 
+![kanojo-mo-kanojo](https://cdn.myanimelist.net/images/anime/1713/117119.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: カノジョも彼女

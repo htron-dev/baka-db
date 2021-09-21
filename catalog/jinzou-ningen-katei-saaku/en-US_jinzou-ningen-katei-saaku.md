@@ -1,5 +1,7 @@
 # Jinzou Ningen Katei Saaku
 
+![jinzou-ningen-katei-saaku](https://cdn.myanimelist.net/images/manga/3/41416.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 人造人間カティサーク

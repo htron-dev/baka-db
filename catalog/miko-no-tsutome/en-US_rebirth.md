@@ -1,5 +1,7 @@
 # Rebirth
 
+![rebirth](https://cdn.myanimelist.net/images/anime/1640/115820.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: りばあす

@@ -1,5 +1,7 @@
 # Geinou Gourmet Stalker
 
+![geinou-gourmet-stalker](https://cdn.myanimelist.net/images/manga/1/229818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

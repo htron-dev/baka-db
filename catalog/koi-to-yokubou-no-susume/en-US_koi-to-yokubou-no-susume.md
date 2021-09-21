@@ -1,5 +1,7 @@
 # Koi to Yokubou no Susume
 
+![koi-to-yokubou-no-susume](https://cdn.myanimelist.net/images/manga/3/151292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

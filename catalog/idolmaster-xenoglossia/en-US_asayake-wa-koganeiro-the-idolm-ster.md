@@ -1,5 +1,7 @@
 # Asayake wa Koganeiro: The Idolm@ster
 
+![asayake-wa-koganeiro-the-idolm-ster](https://cdn.myanimelist.net/images/manga/3/208534.jpg)
+
 -   **type**: manga
 -   **original-name**: 朝焼けは黄金色 THE IDOLM@STER
 -   **start-date**: 2017-05-27

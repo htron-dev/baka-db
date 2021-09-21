@@ -1,5 +1,7 @@
 # Hitsuji no Uta
 
+![hitsuji-no-uta](https://cdn.myanimelist.net/images/anime/7/18066.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 羊のうた

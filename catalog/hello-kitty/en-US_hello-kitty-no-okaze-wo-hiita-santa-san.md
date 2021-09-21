@@ -1,5 +1,7 @@
 # Hello Kitty no Okaze wo Hiita Santa-san
 
+![hello-kitty-no-okaze-wo-hiita-santa-san](https://cdn.myanimelist.net/images/anime/3/70979.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのおかぜをひいたサンタさん

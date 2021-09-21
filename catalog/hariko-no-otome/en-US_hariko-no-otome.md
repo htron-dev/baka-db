@@ -1,5 +1,7 @@
 # Hariko no Otome
 
+![hariko-no-otome](https://cdn.myanimelist.net/images/manga/2/233483.jpg)
+
 -   **type**: manga
 -   **original-name**: 針子の乙女
 -   **start-date**: 2019-07-26

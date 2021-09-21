@@ -1,5 +1,7 @@
 # Matsuyoi no Oni
 
+![matsuyoi-no-oni](https://cdn.myanimelist.net/images/manga/2/242413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

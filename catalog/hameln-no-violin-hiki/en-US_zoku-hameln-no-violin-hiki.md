@@ -1,5 +1,7 @@
 # Zoku Hameln no Violin-hiki
 
+![zoku-hameln-no-violin-hiki](https://cdn.myanimelist.net/images/manga/2/231567.jpg)
+
 -   **type**: manga
 -   **original-name**: 続ハーメルンのバイオリン弾き
 -   **start-date**: 2013-08-10

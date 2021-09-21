@@ -1,5 +1,7 @@
 # Full Metal Panic! 0
 
+![full-metal-panic-0](https://cdn.myanimelist.net/images/manga/2/123467.jpg)
+
 -   **type**: manga
 -   **original-name**: フルメタル・パニック！ 0 ‐ZERO‐
 -   **start-date**: 2013-09-19

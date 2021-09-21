@@ -1,5 +1,7 @@
 # Kokushi no Shima
 
+![kokushi-no-shima](https://cdn.myanimelist.net/images/manga/2/216883.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

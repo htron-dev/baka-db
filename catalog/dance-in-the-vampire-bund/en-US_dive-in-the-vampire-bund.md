@@ -1,5 +1,7 @@
 # Dive in the Vampire Bund
 
+![dive-in-the-vampire-bund](https://cdn.myanimelist.net/images/manga/3/169365.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

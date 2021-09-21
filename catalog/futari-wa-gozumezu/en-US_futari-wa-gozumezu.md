@@ -1,5 +1,7 @@
 # Futari wa Gozumezu!
 
+![futari-wa-gozumezu](https://cdn.myanimelist.net/images/manga/3/124703.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

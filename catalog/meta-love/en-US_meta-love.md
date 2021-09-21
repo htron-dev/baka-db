@@ -1,5 +1,7 @@
 # Meta Love
 
+![meta-love](https://cdn.myanimelist.net/images/manga/2/157948.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

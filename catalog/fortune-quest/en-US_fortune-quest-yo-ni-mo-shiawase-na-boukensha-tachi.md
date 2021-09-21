@@ -1,5 +1,7 @@
 # Fortune Quest: Yo ni mo Shiawase na Boukensha-tachi
 
+![fortune-quest-yo-ni-mo-shiawase-na-boukensha-tachi](https://cdn.myanimelist.net/images/anime/13/27813.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: フォーチュン・クエスト　～世にも幸せな冒険者たち～

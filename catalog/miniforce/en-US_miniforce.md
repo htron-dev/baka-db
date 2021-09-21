@@ -1,5 +1,7 @@
 # Miniforce
 
+![miniforce](https://cdn.myanimelist.net/images/anime/1526/96881.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 최강전사 미니특공대

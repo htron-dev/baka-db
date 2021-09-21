@@ -1,5 +1,7 @@
 # Garouden Boy
 
+![garouden-boy](https://cdn.myanimelist.net/images/manga/4/76269.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

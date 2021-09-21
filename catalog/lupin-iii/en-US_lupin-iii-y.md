@@ -1,5 +1,7 @@
 # Lupin III Y
 
+![lupin-iii-y](https://cdn.myanimelist.net/images/manga/1/185984.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 221

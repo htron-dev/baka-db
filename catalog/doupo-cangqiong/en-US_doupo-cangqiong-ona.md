@@ -1,5 +1,7 @@
 # Doupo Cangqiong
 
+![doupo-cangqiong](https://cdn.myanimelist.net/images/anime/6/88942.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 斗破苍穹

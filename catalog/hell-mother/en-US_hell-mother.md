@@ -1,5 +1,7 @@
 # Hell Mother
 
+![hell-mother](https://cdn.myanimelist.net/images/manga/2/137225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

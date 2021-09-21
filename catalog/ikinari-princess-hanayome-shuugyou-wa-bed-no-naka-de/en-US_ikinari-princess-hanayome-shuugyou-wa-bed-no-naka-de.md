@@ -1,5 +1,7 @@
 # Ikinari Princess: Hanayome Shuugyou wa Bed no Naka de
 
+![ikinari-princess-hanayome-shuugyou-wa-bed-no-naka-de](https://cdn.myanimelist.net/images/manga/1/192282.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

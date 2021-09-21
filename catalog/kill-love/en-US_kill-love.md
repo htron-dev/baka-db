@@ -1,5 +1,7 @@
 # Kill Love
 
+![kill-love](https://cdn.myanimelist.net/images/manga/3/133637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キル・ラブ

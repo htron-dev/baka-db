@@ -1,5 +1,7 @@
 # Gaki☆Rock
 
+![gaki☆-rock](https://cdn.myanimelist.net/images/manga/3/192705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Boku no Inu, Boku no Weed
 
+![boku-no-inu-boku-no-weed](https://cdn.myanimelist.net/images/manga/5/39059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

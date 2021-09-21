@@ -1,5 +1,7 @@
 # Golden Kamuy 2nd Season
 
+![golden-kamuy-2nd-season](https://cdn.myanimelist.net/images/anime/1180/95018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゴールデンカムイ

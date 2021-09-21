@@ -1,5 +1,7 @@
 # Luo Xiao Hei Zhan Ji
 
+![luo-xiao-hei-zhan-ji](https://cdn.myanimelist.net/images/anime/1109/105645.jpg)
+
 -   **type**: ona
 -   **episodes**: 28
 -   **original-name**: 罗小黑战记

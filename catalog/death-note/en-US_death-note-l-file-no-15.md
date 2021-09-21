@@ -1,5 +1,7 @@
 # Death Note: L FILE No. 15
 
+![death-note-l-file-no-15](https://cdn.myanimelist.net/images/manga/2/121579.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: L FILE No. 15

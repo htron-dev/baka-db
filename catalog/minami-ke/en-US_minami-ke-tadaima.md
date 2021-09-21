@@ -1,5 +1,7 @@
 # Minami-ke Tadaima
 
+![minami-ke-tadaima](https://cdn.myanimelist.net/images/anime/7/53133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みなみけ ただいま

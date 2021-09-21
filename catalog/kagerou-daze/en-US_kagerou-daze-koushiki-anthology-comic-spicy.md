@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Spicy
 
+![kagerou-daze-koushiki-anthology-comic-spicy](https://cdn.myanimelist.net/images/manga/3/155883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

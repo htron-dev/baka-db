@@ -1,5 +1,7 @@
 # Magi: Sinbad no Bouken (TV)
 
+![magi-sinbad-no-bouken-tv](https://cdn.myanimelist.net/images/anime/10/78783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マギ シンドバッドの冒険

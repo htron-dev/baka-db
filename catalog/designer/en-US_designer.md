@@ -1,5 +1,7 @@
 # Designer
 
+![designer](https://cdn.myanimelist.net/images/manga/2/12497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: デザイナー

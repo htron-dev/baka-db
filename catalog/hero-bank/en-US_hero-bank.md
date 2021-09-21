@@ -1,5 +1,7 @@
 # Hero Bank
 
+![hero-bank](https://cdn.myanimelist.net/images/anime/13/59089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ヒーローバンク

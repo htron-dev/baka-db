@@ -1,5 +1,7 @@
 # Kamineko Mii-chan to Neko Youhin Shoukanshi no Isekai Funtouki
 
+![kamineko-mii-chan-to-neko-youhin-shoukanshi-no-isekai-funtouki](https://cdn.myanimelist.net/images/manga/2/233080.jpg)
+
 -   **type**: manga
 -   **original-name**: 神猫ミーちゃんと猫用品召喚師の異世界奮闘記
 -   **start-date**: 2019-10-23

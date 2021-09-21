@@ -1,5 +1,7 @@
 # Juumonji Renji no Kunan
 
+![juumonji-renji-no-kunan](https://cdn.myanimelist.net/images/manga/1/79733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

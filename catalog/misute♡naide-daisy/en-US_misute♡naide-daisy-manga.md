@@ -1,5 +1,7 @@
 # Misute♡naide Daisy
 
+![misute♡naide-daisy](https://cdn.myanimelist.net/images/manga/3/149553.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

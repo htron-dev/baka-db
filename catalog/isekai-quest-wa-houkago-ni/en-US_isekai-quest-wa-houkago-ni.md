@@ -1,5 +1,7 @@
 # Isekai Quest wa Houkago ni!
 
+![isekai-quest-wa-houkago-ni](https://cdn.myanimelist.net/images/manga/2/221962.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界クエストは放課後に!
 -   **start-date**: 2017-12-01

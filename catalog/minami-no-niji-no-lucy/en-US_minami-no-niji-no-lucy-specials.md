@@ -1,5 +1,7 @@
 # Minami no Niji no Lucy Specials
 
+![minami-no-niji-no-lucy-specials](https://cdn.myanimelist.net/images/anime/12/64131.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 南の虹のルーシー

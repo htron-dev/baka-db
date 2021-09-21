@@ -1,5 +1,7 @@
 # L: Sagishi Flatland no Osoraku wa Karei naru Densetsu
 
+![l-sagishi-flatland-no-osoraku-wa-karei-naru-densetsu](https://cdn.myanimelist.net/images/manga/2/162635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # K2♥: Kill Me Kiss Me
 
+![k-2-♥-kill-me-kiss-me](https://cdn.myanimelist.net/images/manga/2/152554.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 34

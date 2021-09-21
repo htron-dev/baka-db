@@ -1,5 +1,7 @@
 # Douchi ga Akuma YO?
 
+![douchi-ga-akuma-yo](https://cdn.myanimelist.net/images/manga/2/26692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: どっちが悪魔 YO？

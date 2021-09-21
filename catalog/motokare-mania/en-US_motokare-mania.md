@@ -1,5 +1,7 @@
 # Motokare Mania
 
+![motokare-mania](https://cdn.myanimelist.net/images/manga/2/221004.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 45

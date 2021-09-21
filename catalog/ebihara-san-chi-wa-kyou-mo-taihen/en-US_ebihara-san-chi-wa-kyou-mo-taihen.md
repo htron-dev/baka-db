@@ -1,5 +1,7 @@
 # Ebihara-san Chi wa Kyou mo Taihen!
 
+![ebihara-san-chi-wa-kyou-mo-taihen](https://cdn.myanimelist.net/images/manga/3/20769.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 海老原さん家は今日も大変!

@@ -1,5 +1,7 @@
 # Host no Furachi na Love Game
 
+![host-no-furachi-na-love-game](https://cdn.myanimelist.net/images/manga/3/69625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

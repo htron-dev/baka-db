@@ -1,5 +1,7 @@
 # Kare no Te wa Himitsu no Switch
 
+![kare-no-te-wa-himitsu-no-switch](https://cdn.myanimelist.net/images/manga/3/192959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

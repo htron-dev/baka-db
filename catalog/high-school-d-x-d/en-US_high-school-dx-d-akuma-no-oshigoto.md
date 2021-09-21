@@ -1,5 +1,7 @@
 # High School DxD: Akuma no Oshigoto
 
+![high-school-dx-d-akuma-no-oshigoto](https://cdn.myanimelist.net/images/manga/2/168982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

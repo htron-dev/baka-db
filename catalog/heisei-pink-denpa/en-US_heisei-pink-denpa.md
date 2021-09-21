@@ -1,5 +1,7 @@
 # Heisei Pink Denpa
 
+![heisei-pink-denpa](https://cdn.myanimelist.net/images/manga/2/188576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

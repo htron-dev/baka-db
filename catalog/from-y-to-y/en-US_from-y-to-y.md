@@ -1,5 +1,7 @@
 # from Y to Y
 
+![from-y-to-y](https://cdn.myanimelist.net/images/manga/1/128831.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: from Y to Y フロム ワイ ト ワイ

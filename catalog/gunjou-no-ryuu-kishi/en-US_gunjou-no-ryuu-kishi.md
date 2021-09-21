@@ -1,5 +1,7 @@
 # Gunjou no Ryuu Kishi
 
+![gunjou-no-ryuu-kishi](https://cdn.myanimelist.net/images/manga/1/202592.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 群青の竜騎士
 -   **start-date**: 2017-10-30

@@ -1,5 +1,7 @@
 # Kkoma Bus Tayo 3
 
+![kkoma-bus-tayo-3](https://cdn.myanimelist.net/images/anime/1313/93264.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 꼬마버스 타요 3

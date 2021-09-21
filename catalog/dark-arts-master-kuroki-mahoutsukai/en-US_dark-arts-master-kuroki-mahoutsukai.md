@@ -1,5 +1,7 @@
 # Dark Arts Master: Kuroki Mahoutsukai
 
+![dark-arts-master-kuroki-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/230424.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

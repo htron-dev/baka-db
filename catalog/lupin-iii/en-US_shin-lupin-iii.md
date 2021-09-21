@@ -1,5 +1,7 @@
 # Shin Lupin III
 
+![shin-lupin-iii](https://cdn.myanimelist.net/images/manga/2/162881.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 180

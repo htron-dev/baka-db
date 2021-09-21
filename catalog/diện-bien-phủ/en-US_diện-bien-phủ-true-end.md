@@ -1,5 +1,7 @@
 # Điện Biên Phủ: True End
 
+![diện-bien-phủ-true-end](https://cdn.myanimelist.net/images/manga/1/202722.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

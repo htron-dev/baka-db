@@ -1,5 +1,7 @@
 # Lover Boy
 
+![lover-boy](https://cdn.myanimelist.net/images/manga/1/79345.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 러버보이

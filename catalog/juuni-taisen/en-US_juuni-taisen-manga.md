@@ -1,5 +1,7 @@
 # Juuni Taisen
 
+![juuni-taisen](https://cdn.myanimelist.net/images/manga/2/202583.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

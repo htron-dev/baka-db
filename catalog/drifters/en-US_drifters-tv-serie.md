@@ -1,5 +1,7 @@
 # Drifters
 
+![drifters](https://cdn.myanimelist.net/images/anime/10/80271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DRIFTERS

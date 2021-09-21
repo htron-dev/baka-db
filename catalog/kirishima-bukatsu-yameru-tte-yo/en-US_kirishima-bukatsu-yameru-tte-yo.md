@@ -1,5 +1,7 @@
 # Kirishima, Bukatsu Yameru tte yo
 
+![kirishima-bukatsu-yameru-tte-yo](https://cdn.myanimelist.net/images/manga/2/103691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

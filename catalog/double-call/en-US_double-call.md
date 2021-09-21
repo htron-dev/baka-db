@@ -1,5 +1,7 @@
 # Double Call
 
+![double-call](https://cdn.myanimelist.net/images/manga/2/190027.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: DOUBLE CALL

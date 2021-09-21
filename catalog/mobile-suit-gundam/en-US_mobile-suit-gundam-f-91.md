@@ -1,5 +1,7 @@
 # Mobile Suit Gundam F91
 
+![mobile-suit-gundam-f-91](https://cdn.myanimelist.net/images/anime/1637/95288.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダムＦ 91

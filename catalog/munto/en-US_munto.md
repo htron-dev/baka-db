@@ -1,5 +1,7 @@
 # Munto
 
+![munto](https://cdn.myanimelist.net/images/anime/1134/114560.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: MUNTO [ムント]

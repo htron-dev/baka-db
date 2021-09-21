@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Ni Wen Wo Da
 
+![hong-mao-lan-tu-ni-wen-wo-da](https://cdn.myanimelist.net/images/anime/1918/98698.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 83
 -   **original-name**: 虹猫蓝兔你问我答

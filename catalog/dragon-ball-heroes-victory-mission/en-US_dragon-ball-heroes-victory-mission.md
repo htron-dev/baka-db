@@ -1,5 +1,7 @@
 # Dragon Ball Heroes: Victory Mission
 
+![dragon-ball-heroes-victory-mission](https://cdn.myanimelist.net/images/manga/3/76401.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンボールヒーローズ Victory Mission
 -   **start-date**: 2012-09-21

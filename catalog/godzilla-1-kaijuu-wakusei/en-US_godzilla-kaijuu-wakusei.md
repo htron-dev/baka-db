@@ -1,5 +1,7 @@
 # Godzilla: Kaijuu Wakusei
 
+![godzilla-kaijuu-wakusei](https://cdn.myanimelist.net/images/manga/3/221575.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

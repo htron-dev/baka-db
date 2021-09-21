@@ -1,5 +1,7 @@
 # Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou
 
+![maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou](https://cdn.myanimelist.net/images/anime/2/55609.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メーテルリングの青い鳥 チルチルミチルの冒険旅行

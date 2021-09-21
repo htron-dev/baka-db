@@ -1,5 +1,7 @@
 # Hunter x Hunter: Kurapika Tsuioku-hen
 
+![hunter-x-hunter-kurapika-tsuioku-hen](https://cdn.myanimelist.net/images/manga/1/81390.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

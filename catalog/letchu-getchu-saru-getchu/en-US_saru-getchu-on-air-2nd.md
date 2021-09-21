@@ -1,5 +1,7 @@
 # Saru Getchu: On Air 2nd
 
+![saru-getchu-on-air-2nd](https://cdn.myanimelist.net/images/anime/13/24682.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: サルゲッチュ ～オンエアー～ 2nd

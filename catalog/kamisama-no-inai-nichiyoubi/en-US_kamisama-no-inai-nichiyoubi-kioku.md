@@ -1,5 +1,7 @@
 # Kamisama no Inai Nichiyoubi: Kioku
 
+![kamisama-no-inai-nichiyoubi-kioku](https://cdn.myanimelist.net/images/anime/6/59029.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 神さまのいない日曜日 第 13 話 「記憶」

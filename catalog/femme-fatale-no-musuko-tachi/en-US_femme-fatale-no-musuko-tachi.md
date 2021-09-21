@@ -1,5 +1,7 @@
 # Femme Fatale no Musuko-tachi
 
+![femme-fatale-no-musuko-tachi](https://cdn.myanimelist.net/images/manga/3/223455.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ファム・ファタールの息子たち

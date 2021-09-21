@@ -1,5 +1,7 @@
 # Jiyuantai Qihao
 
+![jiyuantai-qihao](https://cdn.myanimelist.net/images/anime/1122/113313.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 繼園臺七號

@@ -1,5 +1,7 @@
 # L.A.G. Complex
 
+![l-a-g-complex](https://cdn.myanimelist.net/images/manga/1/35789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: LAG コンプレックス

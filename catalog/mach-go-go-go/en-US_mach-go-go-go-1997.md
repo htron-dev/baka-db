@@ -1,5 +1,7 @@
 # Mach GoGoGo (1997)
 
+![mach-go-go-go-1997](https://cdn.myanimelist.net/images/anime/4/6010.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: マッハ GoGoGo

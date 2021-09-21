@@ -1,5 +1,7 @@
 # Kkoma Bus Tayo-ui Ace Guchuljakjeon
 
+![kkoma-bus-tayo-ui-ace-guchuljakjeon](https://cdn.myanimelist.net/images/anime/1119/93265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 꼬마버스 타요의 에이스 구출작전

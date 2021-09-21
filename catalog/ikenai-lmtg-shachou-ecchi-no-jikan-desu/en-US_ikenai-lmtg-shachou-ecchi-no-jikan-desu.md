@@ -1,5 +1,7 @@
 # Ikenai LMTG!: Shachou, Ecchi no Jikan desu!
 
+![ikenai-lmtg-shachou-ecchi-no-jikan-desu](https://cdn.myanimelist.net/images/manga/3/247993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

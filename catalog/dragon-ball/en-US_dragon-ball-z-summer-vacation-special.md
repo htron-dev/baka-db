@@ -1,5 +1,7 @@
 # Dragon Ball Z: Summer Vacation Special
 
+![dragon-ball-z-summer-vacation-special](https://cdn.myanimelist.net/images/anime/7/60343.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 極限バトル!!三大超サイヤ人　スペシャル

@@ -1,5 +1,7 @@
 # Gentil Oukoku Monogatari: Aka no Otome ni Shirobara wo
 
+![gentil-oukoku-monogatari-aka-no-otome-ni-shirobara-wo](https://cdn.myanimelist.net/images/manga/3/182557.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

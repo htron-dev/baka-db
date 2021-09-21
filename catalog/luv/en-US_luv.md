@@ -1,5 +1,7 @@
 # Luv
 
+![luv](https://cdn.myanimelist.net/images/manga/3/13506.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラヴ

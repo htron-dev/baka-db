@@ -1,5 +1,7 @@
 # Hatsukoi Hoikuen
 
+![hatsukoi-hoikuen](https://cdn.myanimelist.net/images/manga/3/231902.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

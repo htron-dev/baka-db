@@ -1,5 +1,7 @@
 # Mao Yao de Huo Han
 
+![mao-yao-de-huo-han](https://cdn.myanimelist.net/images/anime/1863/100808.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 猫妖的诱惑

@@ -1,5 +1,7 @@
 # Kanojo wa Kannou Shousetsuka
 
+![kanojo-wa-kannou-shousetsuka](https://cdn.myanimelist.net/images/manga/1/50557.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

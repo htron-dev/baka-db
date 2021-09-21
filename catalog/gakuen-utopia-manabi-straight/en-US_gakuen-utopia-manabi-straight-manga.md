@@ -1,5 +1,7 @@
 # Gakuen Utopia Manabi Straight!
 
+![gakuen-utopia-manabi-straight](https://cdn.myanimelist.net/images/manga/3/163941.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

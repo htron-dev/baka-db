@@ -1,5 +1,7 @@
 # DD Hokuto no Ken
 
+![dd-hokuto-no-ken](https://cdn.myanimelist.net/images/anime/12/28072.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DD 北斗之拳

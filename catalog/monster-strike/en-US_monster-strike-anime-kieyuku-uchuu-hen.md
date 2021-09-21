@@ -1,5 +1,7 @@
 # Monster Strike Anime: Kieyuku Uchuu-hen
 
+![monster-strike-anime-kieyuku-uchuu-hen](https://cdn.myanimelist.net/images/anime/7/88000.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: モンストアニメ 後編「消えゆく宇宙編」

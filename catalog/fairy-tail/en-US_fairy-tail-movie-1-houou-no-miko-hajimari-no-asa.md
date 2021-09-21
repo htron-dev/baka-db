@@ -1,5 +1,7 @@
 # Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa
 
+![fairy-tail-movie-1-houou-no-miko-hajimari-no-asa](https://cdn.myanimelist.net/images/anime/8/50101.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フェアリーテイル: 序章「はじまりの朝」

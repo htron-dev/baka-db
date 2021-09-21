@@ -1,5 +1,7 @@
 # Mitsu no Tou no Monogatari
 
+![mitsu-no-tou-no-monogatari](https://cdn.myanimelist.net/images/manga/2/173707.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 三つの塔の物語
 -   **start-date**: 2016-03-25

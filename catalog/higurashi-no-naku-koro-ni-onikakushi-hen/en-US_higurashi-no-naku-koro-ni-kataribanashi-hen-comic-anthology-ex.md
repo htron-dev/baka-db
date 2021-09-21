@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Kataribanashi-hen Comic Anthology EX.
 
+![higurashi-no-naku-koro-ni-kataribanashi-hen-comic-anthology-ex](https://cdn.myanimelist.net/images/manga/3/31662.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 23

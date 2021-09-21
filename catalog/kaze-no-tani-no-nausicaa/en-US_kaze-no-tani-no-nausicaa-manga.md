@@ -1,5 +1,7 @@
 # Kaze no Tani no Nausicaä
 
+![kaze-no-tani-no-nausicaa](https://cdn.myanimelist.net/images/manga/3/156624.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 59

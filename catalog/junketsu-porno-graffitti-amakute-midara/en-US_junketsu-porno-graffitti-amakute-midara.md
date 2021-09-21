@@ -1,5 +1,7 @@
 # Junketsu Porno Graffitti: Amakute Midara
 
+![junketsu-porno-graffitti-amakute-midara](https://cdn.myanimelist.net/images/manga/2/194128.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 純潔ポルノグラフィティ　～甘くて淫ら～

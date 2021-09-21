@@ -1,5 +1,7 @@
 # Hello Kitty no Minna no Tanoshii Natsuyasumi
 
+![hello-kitty-no-minna-no-tanoshii-natsuyasumi](https://cdn.myanimelist.net/images/anime/3/70981.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのみんなの楽しい夏休み

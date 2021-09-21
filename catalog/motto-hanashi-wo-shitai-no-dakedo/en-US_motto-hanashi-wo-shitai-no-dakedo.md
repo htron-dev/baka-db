@@ -1,5 +1,7 @@
 # Motto Hanashi wo Shitai no dakedo.
 
+![motto-hanashi-wo-shitai-no-dakedo](https://cdn.myanimelist.net/images/manga/3/221368.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Ichigo no xxx
 
+![ichigo-no-xxx](https://cdn.myanimelist.net/images/manga/2/150631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

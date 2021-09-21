@@ -1,5 +1,7 @@
 # Kimi wo Watareba
 
+![kimi-wo-watareba](https://cdn.myanimelist.net/images/manga/1/19443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

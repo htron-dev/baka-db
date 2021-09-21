@@ -1,5 +1,7 @@
 # Konna Ore wo Suki toka Maji ka
 
+![konna-ore-wo-suki-toka-maji-ka](https://cdn.myanimelist.net/images/manga/2/226610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

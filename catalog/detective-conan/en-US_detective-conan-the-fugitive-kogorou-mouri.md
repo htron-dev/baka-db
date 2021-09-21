@@ -1,5 +1,7 @@
 # Detective Conan: The Fugitive Kogorou Mouri
 
+![detective-conan-the-fugitive-kogorou-mouri](https://cdn.myanimelist.net/images/anime/8/62767.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 逃亡者・毛利小五郎

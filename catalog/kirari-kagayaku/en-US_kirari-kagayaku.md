@@ -1,5 +1,7 @@
 # Kirari Kagayaku
 
+![kirari-kagayaku](https://cdn.myanimelist.net/images/anime/1653/92044.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: きらり輝く

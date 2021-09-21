@@ -1,5 +1,7 @@
 # Mujuuryoku Communication
 
+![mujuuryoku-communication](https://cdn.myanimelist.net/images/manga/1/192234.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

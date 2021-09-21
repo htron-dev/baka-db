@@ -1,5 +1,7 @@
 # Eyed Soul
 
+![eyed-soul](https://cdn.myanimelist.net/images/manga/5/78155.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: アイド・ソウル

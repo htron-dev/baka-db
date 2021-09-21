@@ -1,5 +1,7 @@
 # Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko
 
+![konjiki-no-gash-bell-ougon-no-chichi-wo-motsu-otoko](https://cdn.myanimelist.net/images/anime/8/32967.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 金色のガッシュベル！！00F ～黄金のチチをもつ男～

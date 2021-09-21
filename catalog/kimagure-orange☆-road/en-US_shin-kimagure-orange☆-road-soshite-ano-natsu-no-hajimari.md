@@ -1,5 +1,7 @@
 # Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari
 
+![shin-kimagure-orange☆-road-soshite-ano-natsu-no-hajimari](https://cdn.myanimelist.net/images/anime/1460/96602.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新きまぐれオレンジ ☆ ロード ～ そして、あの夏のはじまり

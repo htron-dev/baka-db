@@ -1,5 +1,7 @@
 # Kekkon Kokoroe
 
+![kekkon-kokoroe](https://cdn.myanimelist.net/images/manga/2/42245.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 6

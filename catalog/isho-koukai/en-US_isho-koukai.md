@@ -1,5 +1,7 @@
 # Isho, Koukai.
 
+![isho-koukai](https://cdn.myanimelist.net/images/manga/1/222550.jpg)
+
 -   **type**: manga
 -   **original-name**: 遺書、公開。
 -   **start-date**: 2017-09-22

@@ -1,5 +1,7 @@
 # Joukamachi wa Kyou mo Mahou Jiken de Afureteiru
 
+![joukamachi-wa-kyou-mo-mahou-jiken-de-afureteiru](https://cdn.myanimelist.net/images/manga/3/176709.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

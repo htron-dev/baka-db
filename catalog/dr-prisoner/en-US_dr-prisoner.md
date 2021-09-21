@@ -1,5 +1,7 @@
 # Dr. Prisoner
 
+![dr-prisoner](https://cdn.myanimelist.net/images/manga/2/183860.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

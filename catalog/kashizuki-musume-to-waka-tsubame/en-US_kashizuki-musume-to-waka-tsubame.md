@@ -1,5 +1,7 @@
 # Kashizuki Musume to Waka Tsubame
 
+![kashizuki-musume-to-waka-tsubame](https://cdn.myanimelist.net/images/manga/3/227929.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: かしずき娘と若燕

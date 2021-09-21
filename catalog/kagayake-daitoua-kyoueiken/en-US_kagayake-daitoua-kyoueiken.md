@@ -1,5 +1,7 @@
 # Kagayake! Daitoua Kyoueiken
 
+![kagayake-daitoua-kyoueiken](https://cdn.myanimelist.net/images/manga/1/180511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

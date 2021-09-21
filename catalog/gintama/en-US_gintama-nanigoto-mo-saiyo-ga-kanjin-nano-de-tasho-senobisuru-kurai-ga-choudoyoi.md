@@ -1,5 +1,7 @@
 # Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi
 
+![gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi](https://cdn.myanimelist.net/images/anime/4/8522.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀魂〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜

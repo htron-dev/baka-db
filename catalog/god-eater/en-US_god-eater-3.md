@@ -1,5 +1,7 @@
 # God Eater 3
 
+![god-eater-3](https://cdn.myanimelist.net/images/anime/1508/96233.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GOD EATER 3

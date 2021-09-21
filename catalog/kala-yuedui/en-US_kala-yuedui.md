@@ -1,5 +1,7 @@
 # Kala Yuedui
 
+![kala-yuedui](https://cdn.myanimelist.net/images/anime/1084/115350.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 卡拉乐队

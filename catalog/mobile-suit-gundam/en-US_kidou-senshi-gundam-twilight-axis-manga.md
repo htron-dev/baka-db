@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Twilight Axis
 
+![kidou-senshi-gundam-twilight-axis](https://cdn.myanimelist.net/images/manga/3/208243.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

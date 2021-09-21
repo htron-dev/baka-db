@@ -1,5 +1,7 @@
 # Maou no Keifu
 
+![maou-no-keifu](https://cdn.myanimelist.net/images/manga/1/28163.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 魔王の系譜

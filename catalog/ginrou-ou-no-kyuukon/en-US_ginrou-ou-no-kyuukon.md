@@ -1,5 +1,7 @@
 # Ginrou Ou no Kyuukon
 
+![ginrou-ou-no-kyuukon](https://cdn.myanimelist.net/images/manga/1/235486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Grancrest Adept: Mushoku no Seijo, Soen no Kenshi
 
+![grancrest-adept-mushoku-no-seijo-soen-no-kenshi](https://cdn.myanimelist.net/images/manga/1/162663.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

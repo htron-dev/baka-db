@@ -1,5 +1,7 @@
 # Dekiai Ecstasy: Tensai Choukokuka no Yuuwaku
 
+![dekiai-ecstasy-tensai-choukokuka-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/191898.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

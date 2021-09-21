@@ -1,5 +1,7 @@
 # Kimi no Yume wo Miteiru
 
+![kimi-no-yume-wo-miteiru](https://cdn.myanimelist.net/images/manga/1/200470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

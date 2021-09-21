@@ -1,5 +1,7 @@
 # Hello, World
 
+![hello-world](https://cdn.myanimelist.net/images/manga/3/157047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

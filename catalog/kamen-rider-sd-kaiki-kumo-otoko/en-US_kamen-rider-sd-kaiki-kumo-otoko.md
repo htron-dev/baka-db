@@ -1,5 +1,7 @@
 # Kamen Rider SD Kaiki?! Kumo Otoko
 
+![kamen-rider-sd-kaiki-kumo-otoko](https://cdn.myanimelist.net/images/anime/9/51043.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 仮面ライダー SD 怪奇!?クモ男

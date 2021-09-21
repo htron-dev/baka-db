@@ -1,5 +1,7 @@
 # Himitsu no Shinya Zangyou: Kare no Tenohira de Nureru Koi
 
+![himitsu-no-shinya-zangyou-kare-no-tenohira-de-nureru-koi](https://cdn.myanimelist.net/images/manga/1/195674.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

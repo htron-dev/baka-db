@@ -1,5 +1,7 @@
 # Fate/Grand Order: Zettai Majuu Sensen Babylonia
 
+![fate-grand-order-zettai-majuu-sensen-babylonia](https://cdn.myanimelist.net/images/anime/1194/103420.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: Fate/Grand Order -絶対魔獣戦線バビロニア-

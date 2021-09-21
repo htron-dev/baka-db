@@ -1,5 +1,7 @@
 # Koi bakkari no Sekai de Watashi wa Kimi to
 
+![koi-bakkari-no-sekai-de-watashi-wa-kimi-to](https://cdn.myanimelist.net/images/manga/2/225697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

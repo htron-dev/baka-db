@@ -1,5 +1,7 @@
 # Furenaba Sakan Koi no Hana
 
+![furenaba-sakan-koi-no-hana](https://cdn.myanimelist.net/images/manga/1/31492.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

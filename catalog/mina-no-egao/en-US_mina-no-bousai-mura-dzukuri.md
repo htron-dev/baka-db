@@ -1,5 +1,7 @@
 # Mina no Bousai Mura Dzukuri
 
+![mina-no-bousai-mura-dzukuri](https://cdn.myanimelist.net/images/anime/9/66193.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミナの防災村づくり

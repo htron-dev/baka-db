@@ -1,5 +1,7 @@
 # Maebari Bishoujo Kessen!: Imagine Banner
 
+![maebari-bishoujo-kessen-imagine-banner](https://cdn.myanimelist.net/images/manga/1/247638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

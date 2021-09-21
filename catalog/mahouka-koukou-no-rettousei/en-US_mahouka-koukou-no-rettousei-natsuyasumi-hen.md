@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Natsuyasumi-hen
 
+![mahouka-koukou-no-rettousei-natsuyasumi-hen](https://cdn.myanimelist.net/images/manga/3/190955.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

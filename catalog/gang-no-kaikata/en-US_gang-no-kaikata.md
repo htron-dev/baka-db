@@ -1,5 +1,7 @@
 # Gang no Kaikata
 
+![gang-no-kaikata](https://cdn.myanimelist.net/images/manga/3/227238.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

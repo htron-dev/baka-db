@@ -1,5 +1,7 @@
 # Hiiro no Gyokuza
 
+![hiiro-no-gyokuza](https://cdn.myanimelist.net/images/manga/1/195140.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 緋色の玉座
 -   **start-date**: 2017-05-01

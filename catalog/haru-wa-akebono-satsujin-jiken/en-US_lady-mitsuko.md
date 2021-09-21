@@ -1,5 +1,7 @@
 # Lady Mitsuko
 
+![lady-mitsuko](https://cdn.myanimelist.net/images/manga/1/84981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

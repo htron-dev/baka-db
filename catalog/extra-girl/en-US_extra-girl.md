@@ -1,5 +1,7 @@
 # Extra Girl
 
+![extra-girl](https://cdn.myanimelist.net/images/manga/2/174623.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

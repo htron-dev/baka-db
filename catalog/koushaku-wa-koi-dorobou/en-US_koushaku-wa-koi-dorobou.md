@@ -1,5 +1,7 @@
 # Koushaku wa Koi Dorobou
 
+![koushaku-wa-koi-dorobou](https://cdn.myanimelist.net/images/manga/2/229666.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 侯爵は恋泥棒

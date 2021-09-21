@@ -1,5 +1,7 @@
 # Megami no Sprinter
 
+![megami-no-sprinter](https://cdn.myanimelist.net/images/manga/1/210490.jpg)
+
 -   **type**: manga
 -   **original-name**: 女神のスプリンター
 -   **start-date**: 2017-11-20

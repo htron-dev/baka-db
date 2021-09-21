@@ -1,5 +1,7 @@
 # Darenimo Naisho de.
 
+![darenimo-naisho-de](https://cdn.myanimelist.net/images/manga/3/172289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

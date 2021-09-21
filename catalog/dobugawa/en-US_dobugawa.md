@@ -1,5 +1,7 @@
 # Dobugawa
 
+![dobugawa](https://cdn.myanimelist.net/images/manga/2/143969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

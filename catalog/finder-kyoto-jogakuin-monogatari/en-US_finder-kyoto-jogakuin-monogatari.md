@@ -1,5 +1,7 @@
 # Finder: Kyoto Jogakuin Monogatari
 
+![finder-kyoto-jogakuin-monogatari](https://cdn.myanimelist.net/images/manga/2/209049.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

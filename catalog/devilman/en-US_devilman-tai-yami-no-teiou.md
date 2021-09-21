@@ -1,5 +1,7 @@
 # Devilman Tai Yami no Teiou
 
+![devilman-tai-yami-no-teiou](https://cdn.myanimelist.net/images/manga/2/131343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

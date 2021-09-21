@@ -1,5 +1,7 @@
 # Glass no Meiro
 
+![glass-no-meiro](https://cdn.myanimelist.net/images/manga/2/12788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

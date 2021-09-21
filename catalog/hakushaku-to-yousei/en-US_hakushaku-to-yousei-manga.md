@@ -1,5 +1,7 @@
 # Hakushaku to Yousei
 
+![hakushaku-to-yousei](https://cdn.myanimelist.net/images/manga/1/144283.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

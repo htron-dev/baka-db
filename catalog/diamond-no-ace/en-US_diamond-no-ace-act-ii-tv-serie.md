@@ -1,5 +1,7 @@
 # Diamond no Ace: Act II
 
+![diamond-no-ace-act-ii](https://cdn.myanimelist.net/images/anime/1153/100511.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ダイヤの A[エース] actII

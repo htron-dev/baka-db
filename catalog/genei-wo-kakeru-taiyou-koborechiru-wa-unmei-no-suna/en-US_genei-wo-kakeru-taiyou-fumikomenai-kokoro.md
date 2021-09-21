@@ -1,5 +1,7 @@
 # Genei wo Kakeru Taiyou: Fumikomenai Kokoro
 
+![genei-wo-kakeru-taiyou-fumikomenai-kokoro](https://cdn.myanimelist.net/images/anime/5/53747.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 幻影ヲ駆ケル太陽 踏み込めない心

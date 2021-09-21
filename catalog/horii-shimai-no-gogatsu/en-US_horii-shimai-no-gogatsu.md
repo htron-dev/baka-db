@@ -1,5 +1,7 @@
 # Horii Shimai no Gogatsu
 
+![horii-shimai-no-gogatsu](https://cdn.myanimelist.net/images/manga/1/204310.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

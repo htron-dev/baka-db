@@ -1,5 +1,7 @@
 # Gosick: Utsukushiki Kaibutsu wa Konton no Sen wo Shimiru
 
+![gosick-utsukushiki-kaibutsu-wa-konton-no-sen-wo-shimiru](https://cdn.myanimelist.net/images/anime/11/28897.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 春来たる GOSICK スペシャル-美しき怪物は混沌の先を視みる-

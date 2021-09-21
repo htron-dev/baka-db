@@ -1,5 +1,7 @@
 # Junai wo Sagase!
 
+![junai-wo-sagase](https://cdn.myanimelist.net/images/manga/3/133807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 純愛を探せ！

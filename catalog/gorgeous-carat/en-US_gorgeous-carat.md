@@ -1,5 +1,7 @@
 # Gorgeous Carat
 
+![gorgeous-carat](https://cdn.myanimelist.net/images/manga/3/5205.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

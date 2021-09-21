@@ -1,5 +1,7 @@
 # Kondo Koso Honki!
 
+![kondo-koso-honki](https://cdn.myanimelist.net/images/manga/2/2611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

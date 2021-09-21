@@ -1,5 +1,7 @@
 # Kono Yubi Tomare
 
+![kono-yubi-tomare](https://cdn.myanimelist.net/images/manga/1/238731.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

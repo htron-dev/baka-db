@@ -1,5 +1,7 @@
 # Genjuuza
 
+![genjuuza](https://cdn.myanimelist.net/images/manga/3/115579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

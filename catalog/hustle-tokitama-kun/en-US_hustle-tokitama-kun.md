@@ -1,5 +1,7 @@
 # Hustle!! Tokitama-kun
 
+![hustle-tokitama-kun](https://cdn.myanimelist.net/images/anime/9/27163.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハッスル!! とき玉くん

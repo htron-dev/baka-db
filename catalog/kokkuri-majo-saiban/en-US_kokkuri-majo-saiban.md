@@ -1,5 +1,7 @@
 # Kokkuri Majo Saiban
 
+![kokkuri-majo-saiban](https://cdn.myanimelist.net/images/manga/2/237003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

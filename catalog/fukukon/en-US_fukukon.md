@@ -1,5 +1,7 @@
 # Fukukon!
 
+![fukukon](https://cdn.myanimelist.net/images/manga/2/35351.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: フクコン!

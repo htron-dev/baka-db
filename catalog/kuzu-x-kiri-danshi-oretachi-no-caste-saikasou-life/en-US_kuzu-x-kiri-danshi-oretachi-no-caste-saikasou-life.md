@@ -1,5 +1,7 @@
 # Kuzu x Kiri Danshi: Oretachi no Caste Saikasou Life
 
+![kuzu-x-kiri-danshi-oretachi-no-caste-saikasou-life](https://cdn.myanimelist.net/images/manga/2/226651.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

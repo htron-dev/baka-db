@@ -1,5 +1,7 @@
 # UFO Robo Grendizer
 
+![ufo-robo-grendizer](https://cdn.myanimelist.net/images/anime/8/8669.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 74
 -   **original-name**: UFO ロボ グレンダイザー

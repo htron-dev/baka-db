@@ -1,5 +1,7 @@
 # Futari no Tarou
 
+![futari-no-tarou](https://cdn.myanimelist.net/images/anime/6/65157.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ふたりのタロウ

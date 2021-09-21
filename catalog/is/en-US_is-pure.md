@@ -1,5 +1,7 @@
 # I''s Pure
 
+![is-pure](https://cdn.myanimelist.net/images/anime/6/7081.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: アイズピュア

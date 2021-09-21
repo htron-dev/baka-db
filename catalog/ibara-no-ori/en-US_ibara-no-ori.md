@@ -1,5 +1,7 @@
 # Ibara no Ori
 
+![ibara-no-ori](https://cdn.myanimelist.net/images/manga/3/157389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 荊の檻

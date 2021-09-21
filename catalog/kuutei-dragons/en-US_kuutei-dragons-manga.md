@@ -1,5 +1,7 @@
 # Kuutei Dragons
 
+![kuutei-dragons](https://cdn.myanimelist.net/images/manga/1/185834.jpg)
+
 -   **type**: manga
 -   **original-name**: 空挺ドラゴンズ
 -   **start-date**: 2016-06-07

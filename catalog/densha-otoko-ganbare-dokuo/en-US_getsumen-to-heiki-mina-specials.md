@@ -1,5 +1,7 @@
 # Getsumen To Heiki Mina Specials
 
+![getsumen-to-heiki-mina-specials](https://cdn.myanimelist.net/images/anime/11/17761.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 月面兎兵器ミーナ

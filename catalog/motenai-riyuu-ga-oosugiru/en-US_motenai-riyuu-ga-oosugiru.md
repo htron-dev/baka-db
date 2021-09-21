@@ -1,5 +1,7 @@
 # Motenai Riyuu ga Oosugiru!!!!!
 
+![motenai-riyuu-ga-oosugiru](https://cdn.myanimelist.net/images/manga/2/136313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

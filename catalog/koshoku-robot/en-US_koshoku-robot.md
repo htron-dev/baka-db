@@ -1,5 +1,7 @@
 # Koshoku Robot
 
+![koshoku-robot](https://cdn.myanimelist.net/images/manga/1/190330.jpg)
+
 -   **type**: manga
 -   **original-name**: 孤食ロボット
 -   **start-date**: 2013-02-09

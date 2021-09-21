@@ -1,5 +1,7 @@
 # Hakodate Youjin Buraichou Himegami
 
+![hakodate-youjin-buraichou-himegami](https://cdn.myanimelist.net/images/manga/2/13249.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

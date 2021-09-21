@@ -1,5 +1,7 @@
 # Gokudou Heiki
 
+![gokudou-heiki](https://cdn.myanimelist.net/images/manga/1/150879.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 極道兵器

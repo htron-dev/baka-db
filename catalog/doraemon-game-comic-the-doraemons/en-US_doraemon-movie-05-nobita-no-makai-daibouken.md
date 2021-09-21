@@ -1,5 +1,7 @@
 # Doraemon Movie 05: Nobita no Makai Daibouken
 
+![doraemon-movie-05-nobita-no-makai-daibouken](https://cdn.myanimelist.net/images/anime/2/72410.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の魔界大冒険

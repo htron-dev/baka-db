@@ -1,5 +1,7 @@
 # Dainihon Samurai Girl: Shintou
 
+![dainihon-samurai-girl-shintou](https://cdn.myanimelist.net/images/manga/1/154547.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Kawaijuku Manavis CM
 
+![kawaijuku-manavis-cm](https://cdn.myanimelist.net/images/anime/7/83684.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 河合塾マナビス CM

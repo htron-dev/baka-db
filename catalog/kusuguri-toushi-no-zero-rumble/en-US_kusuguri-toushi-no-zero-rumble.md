@@ -1,5 +1,7 @@
 # Kusuguri Toushi no Zero Rumble
 
+![kusuguri-toushi-no-zero-rumble](https://cdn.myanimelist.net/images/manga/2/172623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

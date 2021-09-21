@@ -1,5 +1,7 @@
 # Karada Meate de Warui ka
 
+![karada-meate-de-warui-ka](https://cdn.myanimelist.net/images/manga/1/59551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

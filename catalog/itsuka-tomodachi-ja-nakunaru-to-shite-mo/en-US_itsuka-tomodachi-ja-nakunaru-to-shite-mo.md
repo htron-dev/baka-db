@@ -1,5 +1,7 @@
 # Itsuka Tomodachi ja Nakunaru to Shite mo
 
+![itsuka-tomodachi-ja-nakunaru-to-shite-mo](https://cdn.myanimelist.net/images/manga/1/116263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

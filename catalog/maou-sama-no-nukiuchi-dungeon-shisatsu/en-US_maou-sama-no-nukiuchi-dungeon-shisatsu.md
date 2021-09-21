@@ -1,5 +1,7 @@
 # Maou-sama no Nukiuchi Dungeon Shisatsu
 
+![maou-sama-no-nukiuchi-dungeon-shisatsu](https://cdn.myanimelist.net/images/manga/2/228692.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

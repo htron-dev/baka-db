@@ -1,5 +1,7 @@
 # Loveless Specials
 
+![loveless-specials](https://cdn.myanimelist.net/images/anime/10/22681.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: LOVELESS おはよう ラブレスくーん

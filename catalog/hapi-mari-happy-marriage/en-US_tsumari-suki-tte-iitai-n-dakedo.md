@@ -1,5 +1,7 @@
 # Tsumari Suki tte Iitai n Dakedo,
 
+![tsumari-suki-tte-iitai-n-dakedo](https://cdn.myanimelist.net/images/manga/1/239838.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

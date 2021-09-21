@@ -1,5 +1,7 @@
 # Kokoro Connect: Michi Random
 
+![kokoro-connect-michi-random](https://cdn.myanimelist.net/images/anime/10/45526.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ココロコネクト ミチランダム

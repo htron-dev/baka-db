@@ -1,5 +1,7 @@
 # Kaze no Tani no Nausicaä
 
+![kaze-no-tani-no-nausicaa](https://cdn.myanimelist.net/images/anime/10/75914.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風の谷のナウシカ

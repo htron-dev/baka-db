@@ -1,5 +1,7 @@
 # My Home Mirano
 
+![my-home-mirano](https://cdn.myanimelist.net/images/manga/1/173716.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 174

@@ -1,5 +1,7 @@
 # Goshujinsama ni Ki wo Tsukete
 
+![goshujinsama-ni-ki-wo-tsukete](https://cdn.myanimelist.net/images/manga/2/123123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

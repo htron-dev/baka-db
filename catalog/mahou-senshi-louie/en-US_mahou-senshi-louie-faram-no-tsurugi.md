@@ -1,5 +1,7 @@
 # Mahou Senshi Louie: Faram no Tsurugi
 
+![mahou-senshi-louie-faram-no-tsurugi](https://cdn.myanimelist.net/images/manga/3/123673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: 魔法戦士リウイ ファーラムの剣

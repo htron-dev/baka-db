@@ -1,5 +1,7 @@
 # Huo Xing Wa: Yuzhou Yaoshi
 
+![huo-xing-wa-yuzhou-yaoshi](https://cdn.myanimelist.net/images/anime/1543/115379.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃宇宙钥匙

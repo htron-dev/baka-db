@@ -1,5 +1,7 @@
 # Hide and Seek
 
+![hide-and-seek](https://cdn.myanimelist.net/images/manga/3/204386.jpg)
+
 -   **type**: manga
 -   **original-name**: HIDE AND SEEK
 -   **start-date**: 2016-10-08

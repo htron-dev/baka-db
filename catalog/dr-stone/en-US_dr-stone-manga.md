@@ -1,5 +1,7 @@
 # Dr. Stone
 
+![dr-stone](https://cdn.myanimelist.net/images/manga/1/197883.jpg)
+
 -   **type**: manga
 -   **original-name**: Dr.STONE
 -   **start-date**: 2017-03-06

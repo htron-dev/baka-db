@@ -1,5 +1,7 @@
 # Zoids Wild Senki
 
+![zoids-wild-senki](https://cdn.myanimelist.net/images/anime/1202/109793.jpg)
+
 -   **type**: ona
 -   **original-name**: ゾイドワイルド戦記
 -   **start-date**: 2020-10-17

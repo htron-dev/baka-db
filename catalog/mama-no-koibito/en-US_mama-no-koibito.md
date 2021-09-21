@@ -1,5 +1,7 @@
 # Mama no Koibito
 
+![mama-no-koibito](https://cdn.myanimelist.net/images/manga/2/9615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ママの恋人

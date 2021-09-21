@@ -1,5 +1,7 @@
 # Mahoroba Kissa
 
+![mahoroba-kissa](https://cdn.myanimelist.net/images/manga/2/171490.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

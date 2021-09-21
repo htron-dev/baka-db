@@ -1,5 +1,7 @@
 # Isekai Omotenashi Gohan
 
+![isekai-omotenashi-gohan](https://cdn.myanimelist.net/images/manga/2/208594.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

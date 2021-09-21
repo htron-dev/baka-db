@@ -1,5 +1,7 @@
 # Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation - Dengeki Comic Anthology
 
+![danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/205156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

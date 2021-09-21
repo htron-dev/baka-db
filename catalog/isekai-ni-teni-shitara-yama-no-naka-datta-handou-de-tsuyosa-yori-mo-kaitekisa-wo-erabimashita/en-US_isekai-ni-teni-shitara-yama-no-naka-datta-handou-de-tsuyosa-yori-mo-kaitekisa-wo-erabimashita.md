@@ -1,5 +1,7 @@
 # Isekai ni Teni shitara Yama no Naka datta. Handou de Tsuyosa yori mo Kaitekisa wo Erabimashita.
 
+![isekai-ni-teni-shitara-yama-no-naka-datta-handou-de-tsuyosa-yori-mo-kaitekisa-wo-erabimashita](https://cdn.myanimelist.net/images/manga/1/249831.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界に転移したら山の中だった。反動で強さよりも快適さを選びました。
 -   **start-date**: 2021-03-25

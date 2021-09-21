@@ -1,5 +1,7 @@
 # Dragon Ball Super
 
+![dragon-ball-super](https://cdn.myanimelist.net/images/anime/7/74606.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 131
 -   **original-name**: ドラゴンボール超（スーパー）

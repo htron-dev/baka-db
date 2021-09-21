@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing: Episode Zero
 
+![shin-kidou-senki-gundam-wing-episode-zero](https://cdn.myanimelist.net/images/manga/5/126995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

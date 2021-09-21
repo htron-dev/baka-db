@@ -1,5 +1,7 @@
 # King no Urashigoto
 
+![king-no-urashigoto](https://cdn.myanimelist.net/images/manga/1/22849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

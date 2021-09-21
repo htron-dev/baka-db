@@ -1,5 +1,7 @@
 # Hanaya Shiki
 
+![hanaya-shiki](https://cdn.myanimelist.net/images/manga/2/36808.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 花屋＝式

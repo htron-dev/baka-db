@@ -1,5 +1,7 @@
 # Kimi no Te wa Boku no Mono
 
+![kimi-no-te-wa-boku-no-mono](https://cdn.myanimelist.net/images/manga/2/2861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hoshikuzu Telepath
 
+![hoshikuzu-telepath](https://cdn.myanimelist.net/images/manga/2/235166.jpg)
+
 -   **type**: manga
 -   **original-name**: 星屑テレパス
 -   **start-date**: 2019-06-09

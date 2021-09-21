@@ -1,5 +1,7 @@
 # Galaxy Angel 3
 
+![galaxy-angel-3](https://cdn.myanimelist.net/images/anime/8/2757.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ギャラクシーエンジェルＡＡ

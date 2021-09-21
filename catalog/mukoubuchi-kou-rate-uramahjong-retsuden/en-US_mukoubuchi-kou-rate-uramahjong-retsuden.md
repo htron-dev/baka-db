@@ -1,5 +1,7 @@
 # Mukoubuchi: Kou-Rate Uramahjong Retsuden
 
+![mukoubuchi-kou-rate-uramahjong-retsuden](https://cdn.myanimelist.net/images/manga/1/167471.jpg)
+
 -   **type**: manga
 -   **original-name**: むこうぶち 高レート裏麻雀列伝
 

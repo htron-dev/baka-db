@@ -1,5 +1,7 @@
 # Doubt Call: Sanryuu Sakka to Hakkou Shitsuji no Chounouryoku Sashou Jiken Tokubetsu Taisaku
 
+![doubt-call-sanryuu-sakka-to-hakkou-shitsuji-no-chounouryoku-sashou-jiken-tokubetsu-taisaku](https://cdn.myanimelist.net/images/manga/3/162581.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

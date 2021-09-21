@@ -1,5 +1,7 @@
 # Himegimi wa Shitsuji no Amai Wana ni Torawareru
 
+![himegimi-wa-shitsuji-no-amai-wana-ni-torawareru](https://cdn.myanimelist.net/images/manga/3/194877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 姫君は執事の甘い罠に囚われる

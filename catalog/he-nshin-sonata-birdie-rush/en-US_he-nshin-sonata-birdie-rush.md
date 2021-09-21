@@ -1,5 +1,7 @@
 # He~nshin!!: Sonata Birdie Rush
 
+![he-nshin-sonata-birdie-rush](https://cdn.myanimelist.net/images/manga/4/35218.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

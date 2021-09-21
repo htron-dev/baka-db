@@ -1,5 +1,7 @@
 # Kamichama Karin Chu
 
+![kamichama-karin-chu](https://cdn.myanimelist.net/images/manga/3/5734.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 27

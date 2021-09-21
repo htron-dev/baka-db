@@ -1,5 +1,7 @@
 # Minky Momo in Yume ni Kakeru Hashi
 
+![minky-momo-in-yume-ni-kakeru-hashi](https://cdn.myanimelist.net/images/anime/7/78351.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ＭＩＮＫＹ　ＭＯＭＯ　ｉｎ　夢にかける橋

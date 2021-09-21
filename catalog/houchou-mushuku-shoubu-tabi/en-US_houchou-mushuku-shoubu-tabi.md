@@ -1,5 +1,7 @@
 # Houchou Mushuku Shoubu Tabi
 
+![houchou-mushuku-shoubu-tabi](https://cdn.myanimelist.net/images/manga/2/229436.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

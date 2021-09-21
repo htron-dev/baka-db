@@ -1,5 +1,7 @@
 # Jingju Mao Zhi Cheng Feng Polang
 
+![jingju-mao-zhi-cheng-feng-polang](https://cdn.myanimelist.net/images/anime/1209/107860.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 京剧猫之乘风破浪

@@ -1,5 +1,7 @@
 # Madou King Granzort: Bouken-hen
 
+![madou-king-granzort-bouken-hen](https://cdn.myanimelist.net/images/anime/10/16692.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔動王グランゾート 冒険編

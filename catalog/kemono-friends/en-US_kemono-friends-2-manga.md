@@ -1,5 +1,7 @@
 # Kemono Friends 2
 
+![kemono-friends-2](https://cdn.myanimelist.net/images/manga/1/226243.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

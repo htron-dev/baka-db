@@ -1,5 +1,7 @@
 # Gaki Deka
 
+![gaki-deka](https://cdn.myanimelist.net/images/anime/8/61177.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: がきデカ

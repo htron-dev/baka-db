@@ -1,5 +1,7 @@
 # Maou no Niehanayome
 
+![maou-no-niehanayome](https://cdn.myanimelist.net/images/manga/2/176284.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

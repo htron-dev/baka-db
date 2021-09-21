@@ -1,5 +1,7 @@
 # Kichiku Heta Riiman
 
+![kichiku-heta-riiman](https://cdn.myanimelist.net/images/manga/3/83501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

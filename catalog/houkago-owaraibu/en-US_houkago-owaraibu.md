@@ -1,5 +1,7 @@
 # Houkago Owaraibu
 
+![houkago-owaraibu](https://cdn.myanimelist.net/images/manga/3/96059.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後おわらいぶ
 

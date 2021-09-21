@@ -1,5 +1,7 @@
 # Jelly Beans
 
+![jelly-beans](https://cdn.myanimelist.net/images/manga/3/131695.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 86

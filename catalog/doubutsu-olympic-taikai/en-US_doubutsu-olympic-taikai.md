@@ -1,5 +1,7 @@
 # Doubutsu Olympic Taikai
 
+![doubutsu-olympic-taikai](https://cdn.myanimelist.net/images/anime/8/85242.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動物オリムピック大會

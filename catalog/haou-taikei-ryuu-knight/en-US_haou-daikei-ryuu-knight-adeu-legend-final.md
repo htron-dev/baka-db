@@ -1,5 +1,7 @@
 # Haou Daikei Ryuu Knight: Adeu Legend Final
 
+![haou-daikei-ryuu-knight-adeu-legend-final](https://cdn.myanimelist.net/images/anime/13/65709.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 覇王大系リューナイト アデュー・レジェンド・ファイナル 温泉ダンジョンの決闘

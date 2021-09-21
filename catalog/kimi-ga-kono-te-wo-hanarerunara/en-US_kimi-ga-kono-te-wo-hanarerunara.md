@@ -1,5 +1,7 @@
 # Kimi ga Kono Te wo Hanarerunara
 
+![kimi-ga-kono-te-wo-hanarerunara](https://cdn.myanimelist.net/images/manga/2/14543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

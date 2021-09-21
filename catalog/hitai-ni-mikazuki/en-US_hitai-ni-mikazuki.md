@@ -1,5 +1,7 @@
 # Hitai ni Mikazuki
 
+![hitai-ni-mikazuki](https://cdn.myanimelist.net/images/manga/2/83324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

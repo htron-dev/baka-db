@@ -1,5 +1,7 @@
 # Gokujou Harlem
 
+![gokujou-harlem](https://cdn.myanimelist.net/images/manga/2/148591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 極上ハーレム

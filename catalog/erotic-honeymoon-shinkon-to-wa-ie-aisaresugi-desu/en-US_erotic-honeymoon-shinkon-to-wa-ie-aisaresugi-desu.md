@@ -1,5 +1,7 @@
 # Erotic Honeymoon: Shinkon to wa Ie Aisaresugi desu!
 
+![erotic-honeymoon-shinkon-to-wa-ie-aisaresugi-desu](https://cdn.myanimelist.net/images/manga/1/184118.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Dandelion
 
+![dandelion](https://cdn.myanimelist.net/images/manga/2/35532.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ダンデライオン

@@ -1,5 +1,7 @@
 # T.P. Sakura: Time Paladin Sakura
 
+![t-p-sakura-time-paladin-sakura](https://cdn.myanimelist.net/images/anime/3/36771.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: T.P.さくら〜タイムパラディンさくら〜時空防衛戦

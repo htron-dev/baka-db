@@ -1,5 +1,7 @@
 # Hiroshima e no Tabi
 
+![hiroshima-e-no-tabi](https://cdn.myanimelist.net/images/anime/4/60233.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヒロシマへの旅

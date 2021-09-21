@@ -1,5 +1,7 @@
 # Gallery and Abacus
 
+![gallery-and-abacus](https://cdn.myanimelist.net/images/manga/2/126707.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 화랑과 주판
 

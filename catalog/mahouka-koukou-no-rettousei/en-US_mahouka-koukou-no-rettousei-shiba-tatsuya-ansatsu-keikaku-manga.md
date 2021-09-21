@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Shiba Tatsuya Ansatsu Keikaku
 
+![mahouka-koukou-no-rettousei-shiba-tatsuya-ansatsu-keikaku](https://cdn.myanimelist.net/images/manga/2/246066.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法科高校の劣等生 司波達也暗殺計画
 -   **start-date**: 2019-05-27

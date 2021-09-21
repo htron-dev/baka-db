@@ -1,5 +1,7 @@
 # Hug tto! Precure
 
+![hug-tto-precure](https://cdn.myanimelist.net/images/manga/3/226995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Hetalia Axis Powers
 
+![hetalia-axis-powers](https://cdn.myanimelist.net/images/anime/5/75791.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: ヘタリア Axis Powers

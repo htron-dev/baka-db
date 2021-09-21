@@ -1,5 +1,7 @@
 # Musubareta Akai Ito
 
+![musubareta-akai-ito](https://cdn.myanimelist.net/images/manga/3/227423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 結ばれた赤い糸

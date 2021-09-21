@@ -1,5 +1,7 @@
 # Mahou no Zairyou Gozaimasu
 
+![mahou-no-zairyou-gozaimasu](https://cdn.myanimelist.net/images/manga/3/163418.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: 魔法の材料ございます

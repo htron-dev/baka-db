@@ -1,5 +1,7 @@
 # High Score
 
+![high-score](https://cdn.myanimelist.net/images/anime/6/36265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: HIGH SCORE [ハイスコア]

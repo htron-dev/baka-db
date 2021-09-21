@@ -1,5 +1,7 @@
 # Mitsudomoe
 
+![mitsudomoe](https://cdn.myanimelist.net/images/manga/1/163012.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 349

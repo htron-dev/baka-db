@@ -1,5 +1,7 @@
 # Ladies versus Butlers! Tokuten Disc Music Clip
 
+![ladies-versus-butlers-tokuten-disc-music-clip](https://cdn.myanimelist.net/images/anime/3/25044.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: れでぃ × ばと!

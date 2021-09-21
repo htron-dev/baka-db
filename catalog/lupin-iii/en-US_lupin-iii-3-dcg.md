@@ -1,5 +1,7 @@
 # Lupin III 3DCG
 
+![lupin-iii-3-dcg](https://cdn.myanimelist.net/images/anime/11/89649.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 3DCG

@@ -1,5 +1,7 @@
 # Five Star Stories
 
+![five-star-stories](https://cdn.myanimelist.net/images/manga/3/159793.jpg)
+
 -   **type**: manga
 -   **original-name**: ファイブスター物語
 -   **start-date**: 1986-04-10

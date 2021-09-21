@@ -1,5 +1,7 @@
 # Kiddy Grade: Ignition
 
+![kiddy-grade-ignition](https://cdn.myanimelist.net/images/anime/9/23600.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キディ・グレイド　劇場版　第一部: 覚醒篇

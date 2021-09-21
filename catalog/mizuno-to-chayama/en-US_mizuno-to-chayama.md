@@ -1,5 +1,7 @@
 # Mizuno to Chayama
 
+![mizuno-to-chayama](https://cdn.myanimelist.net/images/manga/2/236205.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

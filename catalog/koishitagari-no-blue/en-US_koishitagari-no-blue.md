@@ -1,5 +1,7 @@
 # Koishitagari no Blue
 
+![koishitagari-no-blue](https://cdn.myanimelist.net/images/manga/3/41399.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

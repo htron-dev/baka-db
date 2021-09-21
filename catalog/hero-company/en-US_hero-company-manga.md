@@ -1,5 +1,7 @@
 # Hero Company
 
+![hero-company](https://cdn.myanimelist.net/images/manga/2/153224.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒーローカンパニー
 -   **start-date**: 2011-11-01

@@ -1,5 +1,7 @@
 # Ikemen Kyuugo-tai Nurse Angels
 
+![ikemen-kyuugo-tai-nurse-angels](https://cdn.myanimelist.net/images/anime/10/55587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: イケメン救護隊 Nurse Angels

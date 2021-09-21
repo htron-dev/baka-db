@@ -1,5 +1,7 @@
 # Hikaru no Go
 
+![hikaru-no-go](https://cdn.myanimelist.net/images/anime/12/78317.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 75
 -   **original-name**: ヒカルの碁

@@ -1,5 +1,7 @@
 # Kasei Yakyoku
 
+![kasei-yakyoku](https://cdn.myanimelist.net/images/anime/4/50129.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 華星夜曲

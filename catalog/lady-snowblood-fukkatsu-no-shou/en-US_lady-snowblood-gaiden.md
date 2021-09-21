@@ -1,5 +1,7 @@
 # Lady Snowblood - Gaiden
 
+![lady-snowblood-gaiden](https://cdn.myanimelist.net/images/manga/2/32590.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

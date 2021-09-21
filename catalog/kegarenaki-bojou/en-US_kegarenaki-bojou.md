@@ -1,5 +1,7 @@
 # Kegarenaki Bojou
 
+![kegarenaki-bojou](https://cdn.myanimelist.net/images/manga/2/197576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

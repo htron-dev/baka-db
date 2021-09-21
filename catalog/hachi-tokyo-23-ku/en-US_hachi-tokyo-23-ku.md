@@ -1,5 +1,7 @@
 # Hachi: Tokyo 23-ku
 
+![hachi-tokyo-23-ku](https://cdn.myanimelist.net/images/manga/2/222022.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Mariko no Akogare
 
+![mariko-no-akogare](https://cdn.myanimelist.net/images/manga/1/149170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

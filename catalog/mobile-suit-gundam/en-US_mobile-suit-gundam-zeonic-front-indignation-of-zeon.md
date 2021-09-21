@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Zeonic Front - Indignation of Zeon.
 
+![mobile-suit-gundam-zeonic-front-indignation-of-zeon](https://cdn.myanimelist.net/images/anime/2/54731.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ジオニックフロント 機動戦士ガンダム 0079

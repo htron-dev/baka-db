@@ -1,5 +1,7 @@
 # Hello Kitty: Ringo no Mori to Parallel Town
 
+![hello-kitty-ringo-no-mori-to-parallel-town](https://cdn.myanimelist.net/images/anime/1030/102887.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: ハローキティ りんごの森とパラレルタウン

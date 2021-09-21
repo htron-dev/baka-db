@@ -1,5 +1,7 @@
 # Machigatta Light Novel no Tsukurikata
 
+![machigatta-light-novel-no-tsukurikata](https://cdn.myanimelist.net/images/manga/2/36496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

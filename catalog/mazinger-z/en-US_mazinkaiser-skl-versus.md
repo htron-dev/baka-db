@@ -1,5 +1,7 @@
 # Mazinkaiser SKL Versus
 
+![mazinkaiser-skl-versus](https://cdn.myanimelist.net/images/manga/1/37906.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

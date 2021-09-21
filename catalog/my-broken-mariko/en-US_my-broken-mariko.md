@@ -1,5 +1,7 @@
 # My Broken Mariko
 
+![my-broken-mariko](https://cdn.myanimelist.net/images/manga/3/226196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

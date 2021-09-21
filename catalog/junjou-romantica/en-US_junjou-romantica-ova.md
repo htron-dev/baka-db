@@ -1,5 +1,7 @@
 # Junjou Romantica OVA
 
+![junjou-romantica-ova](https://cdn.myanimelist.net/images/anime/6/60389.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 純情ロマンチカ

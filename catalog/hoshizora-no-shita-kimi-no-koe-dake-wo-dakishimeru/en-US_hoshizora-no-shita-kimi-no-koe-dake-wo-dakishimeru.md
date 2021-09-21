@@ -1,5 +1,7 @@
 # Hoshizora no Shita, Kimi no Koe dake wo Dakishimeru
 
+![hoshizora-no-shita-kimi-no-koe-dake-wo-dakishimeru](https://cdn.myanimelist.net/images/manga/2/228383.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Demi-chan wa Kataritai: Koushiki Anthology Comic
 
+![demi-chan-wa-kataritai-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/2/193263.jpg)
+
 -   **type**: manga
 -   **original-name**: 亜人ちゃんは語りたい 公式アンソロジーコミック
 -   **start-date**: 2017-01-06

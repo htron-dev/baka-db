@@ -1,5 +1,7 @@
 # Fantastic Fortune 2: Little Mermaid
 
+![fantastic-fortune-2-little-mermaid](https://cdn.myanimelist.net/images/manga/2/21421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

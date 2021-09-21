@@ -1,5 +1,7 @@
 # Gensou Suikoden: Uke Tsugareshi Monshou
 
+![gensou-suikoden-uke-tsugareshi-monshou](https://cdn.myanimelist.net/images/manga/2/128669.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 幻想水滸伝‐受け継がれし紋章‐

@@ -1,5 +1,7 @@
 # Jormungand
 
+![jormungand](https://cdn.myanimelist.net/images/anime/11/73280.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヨルムンガンド

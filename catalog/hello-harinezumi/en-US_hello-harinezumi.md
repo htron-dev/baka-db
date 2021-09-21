@@ -1,5 +1,7 @@
 # Hello Harinezumi
 
+![hello-harinezumi](https://cdn.myanimelist.net/images/manga/2/12081.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: ハロー張りネズミ

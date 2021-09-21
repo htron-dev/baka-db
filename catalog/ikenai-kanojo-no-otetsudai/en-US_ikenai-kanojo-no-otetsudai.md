@@ -1,5 +1,7 @@
 # Ikenai Kanojo no Otetsudai
 
+![ikenai-kanojo-no-otetsudai](https://cdn.myanimelist.net/images/manga/1/205946.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

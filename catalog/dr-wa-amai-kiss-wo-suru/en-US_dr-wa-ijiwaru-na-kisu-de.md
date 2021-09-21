@@ -1,5 +1,7 @@
 # Dr. wa Ijiwaru na Kisu de
 
+![dr-wa-ijiwaru-na-kisu-de](https://cdn.myanimelist.net/images/manga/4/38417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

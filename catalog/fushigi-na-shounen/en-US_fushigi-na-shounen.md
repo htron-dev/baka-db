@@ -1,5 +1,7 @@
 # Fushigi na Shounen
 
+![fushigi-na-shounen](https://cdn.myanimelist.net/images/manga/2/237884.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

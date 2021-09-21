@@ -1,5 +1,7 @@
 # Kengan Ashura
 
+![kengan-ashura](https://cdn.myanimelist.net/images/manga/1/210808.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 256

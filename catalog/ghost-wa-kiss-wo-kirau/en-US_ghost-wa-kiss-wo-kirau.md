@@ -1,5 +1,7 @@
 # Ghost wa Kiss wo Kirau
 
+![ghost-wa-kiss-wo-kirau](https://cdn.myanimelist.net/images/manga/2/29941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

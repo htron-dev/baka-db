@@ -1,5 +1,7 @@
 # Gassou
 
+![gassou](https://cdn.myanimelist.net/images/manga/1/122809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 合葬

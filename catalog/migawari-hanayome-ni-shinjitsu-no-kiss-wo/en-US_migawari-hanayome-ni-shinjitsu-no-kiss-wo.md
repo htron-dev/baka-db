@@ -1,5 +1,7 @@
 # Migawari Hanayome ni Shinjitsu no Kiss wo
 
+![migawari-hanayome-ni-shinjitsu-no-kiss-wo](https://cdn.myanimelist.net/images/manga/2/187013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

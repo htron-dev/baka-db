@@ -1,5 +1,7 @@
 # Koutei Heika
 
+![koutei-heika](https://cdn.myanimelist.net/images/manga/3/183055.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

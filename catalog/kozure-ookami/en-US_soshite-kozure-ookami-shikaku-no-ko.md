@@ -1,5 +1,7 @@
 # Soshite - Kozure Ookami: Shikaku no Ko
 
+![soshite-kozure-ookami-shikaku-no-ko](https://cdn.myanimelist.net/images/manga/2/181547.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

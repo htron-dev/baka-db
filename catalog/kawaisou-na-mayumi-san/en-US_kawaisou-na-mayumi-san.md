@@ -1,5 +1,7 @@
 # Kawaisou na Mayumi-san
 
+![kawaisou-na-mayumi-san](https://cdn.myanimelist.net/images/manga/1/229145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

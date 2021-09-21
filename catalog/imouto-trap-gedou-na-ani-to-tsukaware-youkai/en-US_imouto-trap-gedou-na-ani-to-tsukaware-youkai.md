@@ -1,5 +1,7 @@
 # Imouto Trap! Gedou na Ani to Tsukaware Youkai
 
+![imouto-trap-gedou-na-ani-to-tsukaware-youkai](https://cdn.myanimelist.net/images/manga/2/156854.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

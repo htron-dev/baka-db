@@ -1,5 +1,7 @@
 # Kimi no Otoko ni Nareru Nara Boku wa
 
+![kimi-no-otoko-ni-nareru-nara-boku-wa](https://cdn.myanimelist.net/images/manga/1/36324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君の男になれるなら僕は

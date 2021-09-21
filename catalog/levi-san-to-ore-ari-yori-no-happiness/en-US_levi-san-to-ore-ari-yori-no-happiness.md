@@ -1,5 +1,7 @@
 # Levi-san to Ore: Ari yori no Happiness
 
+![levi-san-to-ore-ari-yori-no-happiness](https://cdn.myanimelist.net/images/manga/3/239844.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

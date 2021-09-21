@@ -1,5 +1,7 @@
 # Ichiban Hoshii no
 
+![ichiban-hoshii-no](https://cdn.myanimelist.net/images/manga/2/212639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

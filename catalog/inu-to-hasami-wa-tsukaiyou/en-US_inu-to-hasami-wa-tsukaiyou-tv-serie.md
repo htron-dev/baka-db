@@ -1,5 +1,7 @@
 # Inu to Hasami wa Tsukaiyou
 
+![inu-to-hasami-wa-tsukaiyou](https://cdn.myanimelist.net/images/anime/13/56313.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 犬とハサミは使いよう

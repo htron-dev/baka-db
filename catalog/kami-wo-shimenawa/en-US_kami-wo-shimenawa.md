@@ -1,5 +1,7 @@
 # Kami wo Shimenawa!
 
+![kami-wo-shimenawa](https://cdn.myanimelist.net/images/manga/2/134581.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 神をしめなわっ！

@@ -1,5 +1,7 @@
 # Makai Senki Disgaea: Welcome to Netherworld
 
+![makai-senki-disgaea-welcome-to-netherworld](https://cdn.myanimelist.net/images/anime/7/24187.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔界戦記ディスガイア 魔界への招待状

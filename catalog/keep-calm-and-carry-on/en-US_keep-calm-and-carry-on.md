@@ -1,5 +1,7 @@
 # Keep Calm and Carry On
 
+![keep-calm-and-carry-on](https://cdn.myanimelist.net/images/anime/1401/100897.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: KEEP CALM AND CARRY ON

@@ -1,5 +1,7 @@
 # Kidou Senshi Moon Gundam
 
+![kidou-senshi-moon-gundam](https://cdn.myanimelist.net/images/manga/1/212656.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ムーンガンダム
 -   **start-date**: 2017-09-26

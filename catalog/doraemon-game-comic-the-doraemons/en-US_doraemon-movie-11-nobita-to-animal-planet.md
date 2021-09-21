@@ -1,5 +1,7 @@
 # Doraemon Movie 11: Nobita to Animal Planet
 
+![doraemon-movie-11-nobita-to-animal-planet](https://cdn.myanimelist.net/images/anime/2/72416.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太とアニマル惑星[プラネット]

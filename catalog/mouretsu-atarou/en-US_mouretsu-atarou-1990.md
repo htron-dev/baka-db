@@ -1,5 +1,7 @@
 # Mouretsu Atarou (1990)
 
+![mouretsu-atarou-1990](https://cdn.myanimelist.net/images/anime/12/34815.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: もーれつア太郎 (1990)

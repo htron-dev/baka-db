@@ -1,5 +1,7 @@
 # Gokujou Ouji no Kyouikugakari: Kougi wa Midara na Mitsu no Aji
 
+![gokujou-ouji-no-kyouikugakari-kougi-wa-midara-na-mitsu-no-aji](https://cdn.myanimelist.net/images/manga/3/184025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

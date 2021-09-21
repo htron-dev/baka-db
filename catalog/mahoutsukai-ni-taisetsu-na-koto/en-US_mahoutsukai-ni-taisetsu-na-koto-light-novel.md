@@ -1,5 +1,7 @@
 # Mahoutsukai ni Taisetsu na Koto
 
+![mahoutsukai-ni-taisetsu-na-koto](https://cdn.myanimelist.net/images/manga/3/126715.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

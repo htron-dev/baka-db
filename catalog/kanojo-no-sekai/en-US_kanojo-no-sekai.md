@@ -1,5 +1,7 @@
 # Kanojo no Sekai
 
+![kanojo-no-sekai](https://cdn.myanimelist.net/images/manga/1/89691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

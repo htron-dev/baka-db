@@ -1,5 +1,7 @@
 # Dystopia
 
+![dystopia](https://cdn.myanimelist.net/images/manga/1/150105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

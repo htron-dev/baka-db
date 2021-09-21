@@ -1,5 +1,7 @@
 # Love Pop
 
+![love-pop](https://cdn.myanimelist.net/images/manga/3/100097.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 러브 팝

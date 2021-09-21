@@ -1,5 +1,7 @@
 # Ebisu
 
+![ebisu](https://cdn.myanimelist.net/images/manga/2/82156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

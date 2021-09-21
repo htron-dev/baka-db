@@ -1,5 +1,7 @@
 # Mistrea
 
+![mistrea](https://cdn.myanimelist.net/images/manga/3/71911.jpg)
+
 -   **type**: manga
 -   **original-name**: ミストレア
 -   **start-date**: 2011-09-27

@@ -1,5 +1,7 @@
 # Gun Sword.EXE
 
+![gun-sword-exe](https://cdn.myanimelist.net/images/manga/2/176495.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

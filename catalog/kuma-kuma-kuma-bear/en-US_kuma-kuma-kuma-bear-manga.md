@@ -1,5 +1,7 @@
 # Kuma Kuma Kuma Bear
 
+![kuma-kuma-kuma-bear](https://cdn.myanimelist.net/images/manga/3/210419.jpg)
+
 -   **type**: manga
 -   **original-name**: くま クマ 熊 ベアー
 -   **start-date**: 2018-03-28

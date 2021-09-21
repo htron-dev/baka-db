@@ -1,5 +1,7 @@
 # Koiki Shichihenge!!
 
+![koiki-shichihenge](https://cdn.myanimelist.net/images/manga/3/16227.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: こいき七変化!!

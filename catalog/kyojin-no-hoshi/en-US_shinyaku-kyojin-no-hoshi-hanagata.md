@@ -1,5 +1,7 @@
 # Shinyaku "Kyojin no Hoshi": Hanagata
 
+![shinyaku-kyojin-no-hoshi-hanagata](https://cdn.myanimelist.net/images/manga/1/86495.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 192

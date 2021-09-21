@@ -1,5 +1,7 @@
 # Ore no 100-wame!!
 
+![ore-no-100-wame](https://cdn.myanimelist.net/images/manga/3/177473.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 俺の 100 話目!!

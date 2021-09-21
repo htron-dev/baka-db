@@ -1,5 +1,7 @@
 # Mobile Suit Gundam-san (ONA)
 
+![mobile-suit-gundam-san-ona](https://cdn.myanimelist.net/images/anime/12/79831.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 機動戦士ガンダムさん

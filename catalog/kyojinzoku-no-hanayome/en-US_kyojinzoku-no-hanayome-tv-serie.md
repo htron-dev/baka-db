@@ -1,5 +1,7 @@
 # Kyojinzoku no Hanayome
 
+![kyojinzoku-no-hanayome](https://cdn.myanimelist.net/images/anime/1481/107629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: 巨人族の花嫁

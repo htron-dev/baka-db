@@ -1,5 +1,7 @@
 # Madou GPX Wizard Formula
 
+![madou-gpx-wizard-formula](https://cdn.myanimelist.net/images/manga/1/193102.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

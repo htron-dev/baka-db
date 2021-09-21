@@ -1,5 +1,7 @@
 # Meshi ni Shimashou
 
+![meshi-ni-shimashou](https://cdn.myanimelist.net/images/manga/1/217044.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 80

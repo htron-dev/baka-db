@@ -1,5 +1,7 @@
 # Kiznaiver
 
+![kiznaiver](https://cdn.myanimelist.net/images/manga/3/192335.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

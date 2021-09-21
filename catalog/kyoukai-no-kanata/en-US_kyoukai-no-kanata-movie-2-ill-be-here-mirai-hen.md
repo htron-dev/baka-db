@@ -1,5 +1,7 @@
 # Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
 
+![kyoukai-no-kanata-movie-2-ill-be-here-mirai-hen](https://cdn.myanimelist.net/images/anime/9/72614.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 境界の彼方 I'LL BE HERE 未来篇

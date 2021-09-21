@@ -1,5 +1,7 @@
 # Ilegenes: The Genetic Sodom Ilegenes
 
+![ilegenes-the-genetic-sodom-ilegenes](https://cdn.myanimelist.net/images/manga/2/88761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

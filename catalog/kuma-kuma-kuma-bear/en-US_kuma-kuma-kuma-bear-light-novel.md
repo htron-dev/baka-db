@@ -1,5 +1,7 @@
 # Kuma Kuma Kuma Bear
 
+![kuma-kuma-kuma-bear](https://cdn.myanimelist.net/images/manga/2/182391.jpg)
+
 -   **type**: light-novel
 -   **original-name**: くま クマ 熊 ベアー
 -   **start-date**: 2015-05-29

@@ -1,5 +1,7 @@
 # J-Dream
 
+![j-dream](https://cdn.myanimelist.net/images/manga/1/183407.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: J ドリーム

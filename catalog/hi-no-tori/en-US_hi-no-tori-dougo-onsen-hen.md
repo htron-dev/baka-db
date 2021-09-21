@@ -1,5 +1,7 @@
 # Hi no Tori "Dougo Onsen-hen"
 
+![hi-no-tori-dougo-onsen-hen](https://cdn.myanimelist.net/images/anime/1406/100409.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 火の鳥”道後温泉編”

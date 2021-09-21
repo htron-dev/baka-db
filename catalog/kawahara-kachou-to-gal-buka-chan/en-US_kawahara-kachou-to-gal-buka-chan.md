@@ -1,5 +1,7 @@
 # Kawahara Kachou to Gal Buka-chan
 
+![kawahara-kachou-to-gal-buka-chan](https://cdn.myanimelist.net/images/manga/2/232353.jpg)
+
 -   **type**: manga
 -   **original-name**: 河原課長とギャル部下ちゃん
 -   **start-date**: 2018-01-04

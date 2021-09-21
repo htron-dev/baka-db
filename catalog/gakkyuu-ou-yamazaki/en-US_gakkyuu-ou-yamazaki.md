@@ -1,5 +1,7 @@
 # Gakkyuu Ou Yamazaki
 
+![gakkyuu-ou-yamazaki](https://cdn.myanimelist.net/images/anime/6/84084.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 学級王ヤマザキ

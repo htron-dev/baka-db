@@ -1,5 +1,7 @@
 # Kuroko no Basket: Extra Game
 
+![kuroko-no-basket-extra-game](https://cdn.myanimelist.net/images/manga/2/163711.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

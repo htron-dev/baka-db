@@ -1,5 +1,7 @@
 # Honjitsu no Kishi Miroku
 
+![honjitsu-no-kishi-miroku](https://cdn.myanimelist.net/images/manga/3/162661.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 58

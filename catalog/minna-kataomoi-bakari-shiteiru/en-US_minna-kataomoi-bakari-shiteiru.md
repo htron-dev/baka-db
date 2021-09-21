@@ -1,5 +1,7 @@
 # Minna, Kataomoi Bakari Shiteiru.
 
+![minna-kataomoi-bakari-shiteiru](https://cdn.myanimelist.net/images/manga/1/99417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

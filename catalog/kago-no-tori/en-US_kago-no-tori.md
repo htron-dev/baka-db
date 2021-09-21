@@ -1,5 +1,7 @@
 # Kago no Tori
 
+![kago-no-tori](https://cdn.myanimelist.net/images/manga/4/14444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

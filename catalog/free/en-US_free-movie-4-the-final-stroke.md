@@ -1,5 +1,7 @@
 # Free! Movie 4: The Final Stroke
 
+![free-movie-4-the-final-stroke](https://cdn.myanimelist.net/images/anime/1012/116742.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Free!-the Final Stroke-

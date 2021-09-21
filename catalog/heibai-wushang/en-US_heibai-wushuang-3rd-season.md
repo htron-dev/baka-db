@@ -1,5 +1,7 @@
 # Heibai Wushuang 3rd Season
 
+![heibai-wushuang-3rd-season](https://cdn.myanimelist.net/images/anime/1604/115814.jpg)
+
 -   **type**: ona
 -   **original-name**: 黑白无双 第三季
 -   **start-date**: 2021-07-19

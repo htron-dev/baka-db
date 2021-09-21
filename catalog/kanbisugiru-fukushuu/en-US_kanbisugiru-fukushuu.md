@@ -1,5 +1,7 @@
 # Kanbisugiru Fukushuu
 
+![kanbisugiru-fukushuu](https://cdn.myanimelist.net/images/manga/3/244248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 甘美すぎる復讐

@@ -1,5 +1,7 @@
 # Jougasaki Nao to Dengeki Bunko Sakka ni Naru Tame no 10 no Method
 
+![jougasaki-nao-to-dengeki-bunko-sakka-ni-naru-tame-no-10-no-method](https://cdn.myanimelist.net/images/manga/3/159210.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 城ヶ崎奈央と電撃文庫作家になるための 10 のメソッド

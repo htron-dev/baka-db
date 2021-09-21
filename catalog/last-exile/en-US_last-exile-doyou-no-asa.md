@@ -1,5 +1,7 @@
 # Last Exile: Doyou no Asa
 
+![last-exile-doyou-no-asa](https://cdn.myanimelist.net/images/anime/2/69533.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ラストエグザイル～金曜のヨル~（土曜の朝）

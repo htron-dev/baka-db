@@ -1,5 +1,7 @@
 # Game Center Arashi
 
+![game-center-arashi](https://cdn.myanimelist.net/images/manga/5/205245.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: ゲームセンターあらし

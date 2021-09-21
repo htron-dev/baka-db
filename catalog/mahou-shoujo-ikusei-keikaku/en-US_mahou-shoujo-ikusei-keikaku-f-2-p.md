@@ -1,5 +1,7 @@
 # Mahou Shoujo Ikusei Keikaku: F2P
 
+![mahou-shoujo-ikusei-keikaku-f-2-p](https://cdn.myanimelist.net/images/manga/2/189409.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女育成計画 F2P
 -   **start-date**: 2016-08-29
