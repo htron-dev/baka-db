@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Faming Da Zuozhan
 
+![xi-yangyang-yu-hui-tailang-faming-da-zuozhan](https://cdn.myanimelist.net/images/anime/1560/115286.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之發明大作戰

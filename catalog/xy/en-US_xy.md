@@ -1,5 +1,7 @@
 # XY
 
+![xy](https://cdn.myanimelist.net/images/manga/1/2292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

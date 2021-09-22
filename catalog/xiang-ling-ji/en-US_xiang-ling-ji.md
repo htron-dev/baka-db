@@ -1,5 +1,7 @@
 # Xiang Ling Ji
 
+![xiang-ling-ji](https://cdn.myanimelist.net/images/anime/1602/93041.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 降灵记

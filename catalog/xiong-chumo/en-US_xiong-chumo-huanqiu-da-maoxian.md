@@ -1,5 +1,7 @@
 # Xiong Chumo: Huanqiu Da Maoxian
 
+![xiong-chumo-huanqiu-da-maoxian](https://cdn.myanimelist.net/images/anime/6/78681.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 熊出没之环球大冒险

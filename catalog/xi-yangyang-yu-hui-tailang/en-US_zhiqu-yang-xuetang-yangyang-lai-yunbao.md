@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Yangyang Lai Yunbao
 
+![zhiqu-yang-xuetang-yangyang-lai-yunbao](https://cdn.myanimelist.net/images/anime/1439/115303.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之羊羊来寻宝

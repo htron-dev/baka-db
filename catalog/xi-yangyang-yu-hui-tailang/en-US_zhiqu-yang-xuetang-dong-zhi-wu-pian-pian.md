@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Dong Zhi Wu Pian Pian
 
+![zhiqu-yang-xuetang-dong-zhi-wu-pian-pian](https://cdn.myanimelist.net/images/anime/1626/115298.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之动植物篇

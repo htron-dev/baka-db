@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Nan Guo
 
+![huyao-xiao-hongniang-nan-guo](https://cdn.myanimelist.net/images/anime/1739/108980.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 狐妖小红娘 南国

@@ -1,5 +1,7 @@
 # X Maiden: Izakaya Tamaki
 
+![x-maiden-izakaya-tamaki](https://cdn.myanimelist.net/images/anime/4/63817.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: エクスメイデン 居酒屋たまき

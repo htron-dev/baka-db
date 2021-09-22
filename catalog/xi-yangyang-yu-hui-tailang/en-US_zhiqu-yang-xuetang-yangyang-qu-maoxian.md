@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Yangyang Qu Maoxian
 
+![zhiqu-yang-xuetang-yangyang-qu-maoxian](https://cdn.myanimelist.net/images/anime/1223/115304.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之羊羊趣冒险

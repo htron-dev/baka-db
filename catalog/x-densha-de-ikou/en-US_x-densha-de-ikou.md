@@ -1,5 +1,7 @@
 # X Densha de Ikou
 
+![x-densha-de-ikou](https://cdn.myanimelist.net/images/anime/1/2022.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: X 電車で行こう

@@ -1,5 +1,7 @@
 # Xiphos - Shinsekai no Bohyou
 
+![xiphos-shinsekai-no-bohyou](https://cdn.myanimelist.net/images/manga/1/17959.jpg)
+
 -   **type**: manga
 -   **original-name**: サイフォス 新世界の墓標
 -   **start-date**: 2004-01-20

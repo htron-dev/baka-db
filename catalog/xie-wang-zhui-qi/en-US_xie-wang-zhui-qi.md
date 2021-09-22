@@ -1,5 +1,7 @@
 # Xie Wang Zhui Qi
 
+![xie-wang-zhui-qi](https://cdn.myanimelist.net/images/anime/1608/98754.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 邪王追妻

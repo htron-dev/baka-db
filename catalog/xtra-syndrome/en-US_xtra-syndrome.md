@@ -1,5 +1,7 @@
 # Xtra Syndrome
 
+![xtra-syndrome](https://cdn.myanimelist.net/images/manga/3/40575.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 

@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Niu Qi Chong Tian
 
+![xi-yangyang-yu-hui-tailang-niu-qi-chong-tian](https://cdn.myanimelist.net/images/anime/5/13527.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊與灰太狼之牛氣衝天

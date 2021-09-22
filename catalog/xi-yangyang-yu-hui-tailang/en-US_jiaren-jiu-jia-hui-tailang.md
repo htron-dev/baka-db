@@ -1,5 +1,7 @@
 # Jiaren Jiu Jia Hui Tailang
 
+![jiaren-jiu-jia-hui-tailang](https://cdn.myanimelist.net/images/anime/1643/115297.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 嫁人就嫁灰太狼

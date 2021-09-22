@@ -1,5 +1,7 @@
 # Xing You Ji
 
+![xing-you-ji](https://cdn.myanimelist.net/images/anime/1375/90164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 星游记 (第一季)

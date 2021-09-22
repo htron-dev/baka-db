@@ -1,5 +1,7 @@
 # Xiongmao Monogatari TaoTao
 
+![xiongmao-monogatari-tao-tao](https://cdn.myanimelist.net/images/anime/3/63351.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シュンマオ物語 タオタオ

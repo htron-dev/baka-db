@@ -1,5 +1,7 @@
 # xxxHOLiC: AnotherHOLiC
 
+![xxx-ho-li-c-another-ho-li-c](https://cdn.myanimelist.net/images/manga/3/202284.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

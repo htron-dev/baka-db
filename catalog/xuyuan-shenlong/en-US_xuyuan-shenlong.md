@@ -1,5 +1,7 @@
 # Xuyuan Shenlong
 
+![xuyuan-shenlong](https://cdn.myanimelist.net/images/anime/1852/115246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 许愿神龙

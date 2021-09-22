@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yangyang Xiao Xinyuan
 
+![xi-yangyang-yu-hui-tailang-yangyang-xiao-xinyuan](https://cdn.myanimelist.net/images/anime/1286/115276.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之羊羊小心愿

@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Yue Hong
 
+![huyao-xiao-hongniang-yue-hong](https://cdn.myanimelist.net/images/anime/1207/91950.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 狐妖小红娘 月红

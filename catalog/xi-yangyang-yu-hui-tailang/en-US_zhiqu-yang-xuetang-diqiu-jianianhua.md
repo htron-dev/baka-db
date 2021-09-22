@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Diqiu Jianianhua
 
+![zhiqu-yang-xuetang-diqiu-jianianhua](https://cdn.myanimelist.net/images/anime/1996/115300.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之地球嘉年华

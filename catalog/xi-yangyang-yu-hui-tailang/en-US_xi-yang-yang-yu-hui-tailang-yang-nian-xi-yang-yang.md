@@ -1,5 +1,7 @@
 # Xi Yang Yang Yu Hui Tailang: Yang Nian Xi Yang Yang
 
+![xi-yang-yang-yu-hui-tailang-yang-nian-xi-yang-yang](https://cdn.myanimelist.net/images/anime/1866/90792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊与灰太狼之羊年喜羊羊

@@ -1,5 +1,7 @@
 # Xiao Hua Xian 3rd Season: Shou Hu Tian Shi
 
+![xiao-hua-xian-3rd-season-shou-hu-tian-shi](https://cdn.myanimelist.net/images/anime/1967/102006.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 小花仙 第 3 季 守护天使

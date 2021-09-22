@@ -1,5 +1,7 @@
 # Xiyue Qi Tong (2006)
 
+![xiyue-qi-tong-2006](https://cdn.myanimelist.net/images/anime/5/77462.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西岳奇童

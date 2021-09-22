@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Qian Yan
 
+![huyao-xiao-hongniang-qian-yan](https://cdn.myanimelist.net/images/anime/5/88318.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 狐妖小红娘 千颜

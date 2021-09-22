@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Beishan Yaodi
 
+![huyao-xiao-hongniang-beishan-yaodi](https://cdn.myanimelist.net/images/anime/4/89040.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 狐妖小红娘 北山妖帝

@@ -1,5 +1,7 @@
 # Xian Yu Ge
 
+![xian-yu-ge](https://cdn.myanimelist.net/images/anime/1785/116014.jpg)
+
 -   **type**: ona
 -   **original-name**: 咸鱼哥
 -   **start-date**: 2021-07-29

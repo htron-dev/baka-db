@@ -1,5 +1,7 @@
 # Xiao Ta Lixian Ji: Jiyi Senlin
 
+![xiao-ta-lixian-ji-jiyi-senlin](https://cdn.myanimelist.net/images/anime/1592/115244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小塔历险记之记忆森林

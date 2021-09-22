@@ -1,5 +1,7 @@
 # Xie Wang Zhui Qi: Yishi Qingcheng
 
+![xie-wang-zhui-qi-yishi-qingcheng](https://cdn.myanimelist.net/images/anime/1385/110769.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 邪王追妻之一世倾城

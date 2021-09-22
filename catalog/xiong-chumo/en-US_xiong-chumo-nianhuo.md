@@ -1,5 +1,7 @@
 # Xiong Chumo: Nianhuo
 
+![xiong-chumo-nianhuo](https://cdn.myanimelist.net/images/anime/1453/90187.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 熊出没之年货

@@ -1,5 +1,7 @@
 # Xiong Bao Meishi Zhandui
 
+![xiong-bao-meishi-zhandui](https://cdn.myanimelist.net/images/anime/1349/115559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 熊宝美食战队

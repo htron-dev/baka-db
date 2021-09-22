@@ -1,5 +1,7 @@
 # X-Men: The Manga
 
+![x-men-the-manga](https://cdn.myanimelist.net/images/manga/3/153813.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 

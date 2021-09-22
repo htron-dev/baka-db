@@ -1,5 +1,7 @@
 # X Equals: X wa Nazotoki ga Osuki
 
+![x-equals-x-wa-nazotoki-ga-osuki](https://cdn.myanimelist.net/images/manga/1/215563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

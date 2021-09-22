@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Mu Tiancheng
 
+![huyao-xiao-hongniang-mu-tiancheng](https://cdn.myanimelist.net/images/anime/1047/110338.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 狐妖小红娘 沐天城

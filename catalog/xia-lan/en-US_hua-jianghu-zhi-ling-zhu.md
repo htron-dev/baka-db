@@ -1,5 +1,7 @@
 # Hua Jianghu Zhi Ling Zhu
 
+![hua-jianghu-zhi-ling-zhu](https://cdn.myanimelist.net/images/anime/13/80041.jpg)
+
 -   **type**: ona
 -   **episodes**: 41
 -   **original-name**: 画江湖之灵主

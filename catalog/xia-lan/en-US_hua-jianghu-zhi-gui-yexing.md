@@ -1,5 +1,7 @@
 # Hua Jianghu Zhi Gui Yexing
 
+![hua-jianghu-zhi-gui-yexing](https://cdn.myanimelist.net/images/anime/1842/116032.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 画江湖之轨夜行

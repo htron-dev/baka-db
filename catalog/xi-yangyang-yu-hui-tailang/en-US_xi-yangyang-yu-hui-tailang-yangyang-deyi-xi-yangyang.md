@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yangyang Deyi Xi Yangyang
 
+![xi-yangyang-yu-hui-tailang-yangyang-deyi-xi-yangyang](https://cdn.myanimelist.net/images/anime/1488/115295.jpg)
+
 -   **type**: ona
 -   **episodes**: 365
 -   **original-name**: 喜羊羊与灰太狼之洋洋得意喜羊羊

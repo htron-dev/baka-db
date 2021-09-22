@@ -1,5 +1,7 @@
 # Xiao Kedou Zhao Mama
 
+![xiao-kedou-zhao-mama](https://cdn.myanimelist.net/images/anime/12/64381.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小蝌蚪找妈妈

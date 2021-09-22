@@ -1,5 +1,7 @@
 # Xiong Chumo: Qihuan Kongjian
 
+![xiong-chumo-qihuan-kongjian](https://cdn.myanimelist.net/images/anime/5/90001.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出沒之奇幻空間

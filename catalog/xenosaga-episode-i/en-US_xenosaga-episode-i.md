@@ -1,5 +1,7 @@
 # Xenosaga Episode I
 
+![xenosaga-episode-i](https://cdn.myanimelist.net/images/manga/3/21433.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゼノサーガ EPISODE Ｉ

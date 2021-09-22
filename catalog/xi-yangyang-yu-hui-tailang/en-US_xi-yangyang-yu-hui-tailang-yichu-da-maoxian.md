@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yichu Da Maoxian
 
+![xi-yangyang-yu-hui-tailang-yichu-da-maoxian](https://cdn.myanimelist.net/images/anime/1352/115277.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之衣櫥大冒險

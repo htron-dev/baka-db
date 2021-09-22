@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Yangyang You Shijie
 
+![zhiqu-yang-xuetang-yangyang-you-shijie](https://cdn.myanimelist.net/images/anime/1930/115301.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之羊羊游世界

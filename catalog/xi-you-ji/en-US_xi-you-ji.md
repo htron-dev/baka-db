@@ -1,5 +1,7 @@
 # Xi You Ji
 
+![xi-you-ji](https://cdn.myanimelist.net/images/anime/8/77384.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 西游记

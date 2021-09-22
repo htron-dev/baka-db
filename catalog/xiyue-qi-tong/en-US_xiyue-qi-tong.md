@@ -1,5 +1,7 @@
 # Xiyue Qi Tong
 
+![xiyue-qi-tong](https://cdn.myanimelist.net/images/anime/10/77461.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西岳奇童

@@ -1,5 +1,7 @@
 # Xiyou Ji: Zai Shi Yao Wang
 
+![xiyou-ji-zai-shi-yao-wang](https://cdn.myanimelist.net/images/anime/1708/111096.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西游记之再世妖王

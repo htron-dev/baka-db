@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Qiqu Waixing Ke
 
+![xi-yangyang-yu-hui-tailang-qiqu-waixing-ke](https://cdn.myanimelist.net/images/anime/1183/115290.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之奇趣外星客

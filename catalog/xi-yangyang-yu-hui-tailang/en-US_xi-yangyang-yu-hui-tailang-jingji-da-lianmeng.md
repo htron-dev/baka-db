@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Jingji Da Lianmeng
 
+![xi-yangyang-yu-hui-tailang-jingji-da-lianmeng](https://cdn.myanimelist.net/images/anime/1245/115272.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之競技大聯盟

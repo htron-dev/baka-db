@@ -1,5 +1,7 @@
 # Xian Yue Meng Ying
 
+![xian-yue-meng-ying](https://cdn.myanimelist.net/images/anime/11/80015.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 弦月梦影

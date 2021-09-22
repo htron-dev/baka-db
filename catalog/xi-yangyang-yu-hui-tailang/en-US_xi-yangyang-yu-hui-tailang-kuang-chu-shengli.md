@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Kuang Chu Shengli
 
+![xi-yangyang-yu-hui-tailang-kuang-chu-shengli](https://cdn.myanimelist.net/images/anime/1823/115306.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊与灰太狼之筐出胜利

@@ -1,5 +1,7 @@
 # Xi Xing Ji: Jijie Pian
 
+![xi-xing-ji-jijie-pian](https://cdn.myanimelist.net/images/anime/1784/105813.jpg)
+
 -   **type**: ona
 -   **episodes**: 22
 -   **original-name**: 西行纪之集结篇

@@ -1,5 +1,7 @@
 # Xue Ying Ling Zhu Zhi Qi Yu Pian
 
+![xue-ying-ling-zhu-zhi-qi-yu-pian](https://cdn.myanimelist.net/images/anime/1520/105226.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 雪鹰领主之奇遇篇

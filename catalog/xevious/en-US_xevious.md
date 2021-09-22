@@ -1,5 +1,7 @@
 # Xevious
 
+![xevious](https://cdn.myanimelist.net/images/anime/9/35941.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゼビウス

@@ -1,5 +1,7 @@
 # Xiong Chumo: Kuang Ye Dalu
 
+![xiong-chumo-kuang-ye-dalu](https://cdn.myanimelist.net/images/anime/1851/115245.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出没·狂野大陆

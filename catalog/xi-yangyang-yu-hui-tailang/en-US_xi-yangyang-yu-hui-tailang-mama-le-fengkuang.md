@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Mama Le Fengkuang
 
+![xi-yangyang-yu-hui-tailang-mama-le-fengkuang](https://cdn.myanimelist.net/images/anime/1150/115278.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之媽媽樂瘋狂

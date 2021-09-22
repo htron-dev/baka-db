@@ -1,5 +1,7 @@
 # xxxHOLiC Rou
 
+![xxx-ho-li-c-rou](https://cdn.myanimelist.net/images/anime/9/25080.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ×××HOLiC・籠

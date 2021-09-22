@@ -1,5 +1,7 @@
 # X-Day
 
+![x-day](https://cdn.myanimelist.net/images/manga/3/22511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

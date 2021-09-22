@@ -1,5 +1,7 @@
 # Xiong Chumo: Conglin Zong Dong Yuan
 
+![xiong-chumo-conglin-zong-dong-yuan](https://cdn.myanimelist.net/images/anime/4/78683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 熊出没之丛林总动员

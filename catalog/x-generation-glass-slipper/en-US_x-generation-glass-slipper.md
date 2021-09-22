@@ -1,5 +1,7 @@
 # X-Generation Glass Slipper
 
+![x-generation-glass-slipper](https://cdn.myanimelist.net/images/manga/2/25293.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 

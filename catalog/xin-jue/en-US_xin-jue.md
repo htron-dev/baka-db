@@ -1,5 +1,7 @@
 # Xin Jue
 
+![xin-jue](https://cdn.myanimelist.net/images/anime/1649/109592.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 芯觉

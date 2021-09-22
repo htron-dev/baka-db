@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Wei Sheng
 
+![huyao-xiao-hongniang-wei-sheng](https://cdn.myanimelist.net/images/anime/1392/104603.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 狐妖小红娘 尾生篇

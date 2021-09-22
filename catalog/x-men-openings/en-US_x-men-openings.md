@@ -1,5 +1,7 @@
 # X-Men Openings
 
+![x-men-openings](https://cdn.myanimelist.net/images/anime/1198/107853.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: X-MEN

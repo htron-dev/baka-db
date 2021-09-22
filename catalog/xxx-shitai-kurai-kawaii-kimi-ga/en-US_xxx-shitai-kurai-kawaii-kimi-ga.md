@@ -1,5 +1,7 @@
 # xxx shitai kurai Kawaii Kimi ga
 
+![xxx-shitai-kurai-kawaii-kimi-ga](https://cdn.myanimelist.net/images/manga/3/154702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

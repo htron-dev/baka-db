@@ -1,5 +1,7 @@
 # Xanadu Dragonslayer Densetsu
 
+![xanadu-dragonslayer-densetsu](https://cdn.myanimelist.net/images/anime/6/12810.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザナドウ・ドラゴンスレイヤー伝説

@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Juezhan Ci Shidai
 
+![xi-yangyang-yu-hui-tailang-juezhan-ci-shidai](https://cdn.myanimelist.net/images/anime/1492/115307.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊与灰太狼之决战次时代

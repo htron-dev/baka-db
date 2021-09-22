@@ -1,5 +1,7 @@
 # X no Maou
 
+![x-no-maou](https://cdn.myanimelist.net/images/manga/3/162982.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

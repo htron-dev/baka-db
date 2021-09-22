@@ -1,5 +1,7 @@
 # Xiong Chumo: Guonian
 
+![xiong-chumo-guonian](https://cdn.myanimelist.net/images/anime/11/89996.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 熊出没之过年

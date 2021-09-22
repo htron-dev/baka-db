@@ -1,5 +1,7 @@
 # Xenon: Blue Buck
 
+![xenon-blue-buck](https://cdn.myanimelist.net/images/manga/2/126725.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

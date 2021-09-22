@@ -1,5 +1,7 @@
 # Yoiko no Sumu Machi
 
+![yoiko-no-sumu-machi](https://cdn.myanimelist.net/images/manga/3/26920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

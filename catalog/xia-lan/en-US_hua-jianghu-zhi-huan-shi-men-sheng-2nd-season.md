@@ -1,5 +1,7 @@
 # Hua Jianghu Zhi Huan Shi Men Sheng 2nd Season
 
+![hua-jianghu-zhi-huan-shi-men-sheng-2nd-season](https://cdn.myanimelist.net/images/anime/1037/114889.jpg)
+
 -   **type**: ona
 -   **original-name**: 画江湖之换世门生 第二季
 -   **start-date**: 2021-05-12

@@ -1,5 +1,7 @@
 # Xiong Chumo
 
+![xiong-chumo](https://cdn.myanimelist.net/images/anime/9/78678.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 熊出沒

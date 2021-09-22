@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Jin Chenxi
 
+![huyao-xiao-hongniang-jin-chenxi](https://cdn.myanimelist.net/images/anime/1323/108278.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 狐妖小红娘 金晨曦

@@ -1,5 +1,7 @@
 # XenoGlossia
 
+![xeno-glossia](https://cdn.myanimelist.net/images/manga/3/66667.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 제노글로시아 XENOGLOSSIA
 

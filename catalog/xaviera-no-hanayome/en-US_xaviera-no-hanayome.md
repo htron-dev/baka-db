@@ -1,5 +1,7 @@
 # Xaviera no Hanayome
 
+![xaviera-no-hanayome](https://cdn.myanimelist.net/images/manga/2/247158.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ザヴィエラの花嫁

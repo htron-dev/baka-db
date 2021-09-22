@@ -1,5 +1,7 @@
 # Xiong Chumo: Xiong Zin Guilai
 
+![xiong-chumo-xiong-zin-guilai](https://cdn.myanimelist.net/images/anime/7/89998.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出没之熊心归来

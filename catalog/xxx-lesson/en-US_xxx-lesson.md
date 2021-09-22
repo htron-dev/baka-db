@@ -1,5 +1,7 @@
 # XXX Lesson
 
+![xxx-lesson](https://cdn.myanimelist.net/images/manga/2/16130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

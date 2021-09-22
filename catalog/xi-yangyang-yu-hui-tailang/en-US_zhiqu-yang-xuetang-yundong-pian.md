@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Yundong Pian
 
+![zhiqu-yang-xuetang-yundong-pian](https://cdn.myanimelist.net/images/anime/1270/115299.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之运动篇

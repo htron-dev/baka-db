@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yuanshi Shijie Lixian Ji
 
+![xi-yangyang-yu-hui-tailang-yuanshi-shijie-lixian-ji](https://cdn.myanimelist.net/images/anime/1943/115279.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之原始世界歷險記

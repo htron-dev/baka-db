@@ -1,5 +1,7 @@
 # Xiong Chumo: Dongri Le Fantian
 
+![xiong-chumo-dongri-le-fantian](https://cdn.myanimelist.net/images/anime/6/78685.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 熊出没之冬日乐翻天

@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yangyang Yundonghui
 
+![xi-yangyang-yu-hui-tailang-yangyang-yundonghui](https://cdn.myanimelist.net/images/anime/1261/115268.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之羊羊運動會

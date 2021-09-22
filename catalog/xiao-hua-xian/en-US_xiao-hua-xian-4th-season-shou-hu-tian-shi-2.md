@@ -1,5 +1,7 @@
 # Xiao Hua Xian 4th Season: Shou Hu Tian Shi 2
 
+![xiao-hua-xian-4th-season-shou-hu-tian-shi-2](https://cdn.myanimelist.net/images/anime/1149/108342.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 小花仙 第 4 季 守护天使 2

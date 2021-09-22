@@ -1,5 +1,7 @@
 # Xi Xing Ji
 
+![xi-xing-ji](https://cdn.myanimelist.net/images/anime/1390/105248.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 西行纪

@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Tu Nian Ding Gua Gua
 
+![xi-yangyang-yu-hui-tailang-tu-nian-ding-gua-gua](https://cdn.myanimelist.net/images/anime/7/49467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊与灰太狼 之兔年顶瓜瓜

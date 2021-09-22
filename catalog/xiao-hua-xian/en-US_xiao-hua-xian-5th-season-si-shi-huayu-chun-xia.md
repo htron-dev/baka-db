@@ -1,5 +1,7 @@
 # Xiao Hua Xian 5th Season: Si Shi Huayu - Chun Xia
 
+![xiao-hua-xian-5th-season-si-shi-huayu-chun-xia](https://cdn.myanimelist.net/images/anime/1631/108511.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 小花仙 第 5 季 四时花语 春夏

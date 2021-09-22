@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Gei Kuaile Jiayou
 
+![xi-yangyang-yu-hui-tailang-gei-kuaile-jiayou](https://cdn.myanimelist.net/images/anime/1550/115271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 喜羊羊與灰太狼之給快樂加油

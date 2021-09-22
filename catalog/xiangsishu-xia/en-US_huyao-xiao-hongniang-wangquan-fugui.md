@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Wangquan Fugui
 
+![huyao-xiao-hongniang-wangquan-fugui](https://cdn.myanimelist.net/images/anime/1822/91952.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 狐妖小红娘 王权富贵

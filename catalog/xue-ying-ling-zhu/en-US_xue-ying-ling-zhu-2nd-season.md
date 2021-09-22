@@ -1,5 +1,7 @@
 # Xue Ying Ling Zhu 2nd Season
 
+![xue-ying-ling-zhu-2nd-season](https://cdn.myanimelist.net/images/anime/1822/110970.jpg)
+
 -   **type**: ona
 -   **episodes**: 22
 -   **original-name**: 雪鹰领主 第二季

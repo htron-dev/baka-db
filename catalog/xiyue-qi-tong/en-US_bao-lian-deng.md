@@ -1,5 +1,7 @@
 # Bao Lian Deng
 
+![bao-lian-deng](https://cdn.myanimelist.net/images/anime/8/18786.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宝莲灯

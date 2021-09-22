@@ -1,5 +1,7 @@
 # Xiong Chumo: Chunri Dui Dui Peng
 
+![xiong-chumo-chunri-dui-dui-peng](https://cdn.myanimelist.net/images/anime/10/78684.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 熊出没之春日对对碰

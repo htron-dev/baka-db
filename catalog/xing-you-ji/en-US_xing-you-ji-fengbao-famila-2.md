@@ -1,5 +1,7 @@
 # Xing You Ji: Fengbao Famila 2
 
+![xing-you-ji-fengbao-famila-2](https://cdn.myanimelist.net/images/anime/1772/108618.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 星游记之风暴法米拉 2

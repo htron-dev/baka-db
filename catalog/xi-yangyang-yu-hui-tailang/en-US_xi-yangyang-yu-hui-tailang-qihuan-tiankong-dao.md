@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Qihuan Tiankong Dao
 
+![xi-yangyang-yu-hui-tailang-qihuan-tiankong-dao](https://cdn.myanimelist.net/images/anime/1679/115287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之奇幻天空島

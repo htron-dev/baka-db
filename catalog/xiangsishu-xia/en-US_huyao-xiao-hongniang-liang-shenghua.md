@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Liang Shenghua
 
+![huyao-xiao-hongniang-liang-shenghua](https://cdn.myanimelist.net/images/anime/1479/114296.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 狐妖小红娘 两生花

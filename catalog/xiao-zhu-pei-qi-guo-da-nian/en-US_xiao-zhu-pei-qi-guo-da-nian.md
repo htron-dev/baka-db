@@ -1,5 +1,7 @@
 # Xiao Zhu Pei Qi Guo Da Nian
 
+![xiao-zhu-pei-qi-guo-da-nian](https://cdn.myanimelist.net/images/anime/1261/115591.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小猪佩奇过大年

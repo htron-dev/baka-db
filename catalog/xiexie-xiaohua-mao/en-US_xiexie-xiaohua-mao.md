@@ -1,5 +1,7 @@
 # Xiexie Xiaohua Mao
 
+![xiexie-xiaohua-mao](https://cdn.myanimelist.net/images/anime/1439/115466.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 谢谢小花猫

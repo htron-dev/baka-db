@@ -1,5 +1,7 @@
 # Xi Xing Ji: Zaijian Wukong
 
+![xi-xing-ji-zaijian-wukong](https://cdn.myanimelist.net/images/anime/1767/108086.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西行纪之再见悟空

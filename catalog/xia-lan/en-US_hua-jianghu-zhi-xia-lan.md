@@ -1,5 +1,7 @@
 # Hua Jianghu Zhi Xia Lan
 
+![hua-jianghu-zhi-xia-lan](https://cdn.myanimelist.net/images/anime/1682/110171.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 画江湖之侠岚

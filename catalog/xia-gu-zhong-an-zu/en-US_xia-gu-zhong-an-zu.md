@@ -1,5 +1,7 @@
 # Xia Gu Zhong An Zu
 
+![xia-gu-zhong-an-zu](https://cdn.myanimelist.net/images/anime/1119/98779.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 峡谷重案组

@@ -1,5 +1,7 @@
 # xxxHOLiC
 
+![xxx-ho-li-c](https://cdn.myanimelist.net/images/anime/5/21858.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ×××HOLiC（ホリック）

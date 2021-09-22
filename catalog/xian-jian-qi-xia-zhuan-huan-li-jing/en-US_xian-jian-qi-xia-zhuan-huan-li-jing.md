@@ -1,5 +1,7 @@
 # Xian Jian Qi Xia Zhuan: Huan Li Jing
 
+![xian-jian-qi-xia-zhuan-huan-li-jing](https://cdn.myanimelist.net/images/anime/1485/110337.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 仙剑奇侠传幻璃镜

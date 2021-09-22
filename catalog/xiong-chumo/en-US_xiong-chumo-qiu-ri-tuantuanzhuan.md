@@ -1,5 +1,7 @@
 # Xiong Chumo: Qiu Ri Tuantuanzhuan
 
+![xiong-chumo-qiu-ri-tuantuanzhuan](https://cdn.myanimelist.net/images/anime/10/83645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 熊出没之秋日团团转
