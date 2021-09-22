@@ -1,5 +1,7 @@
 # Qing Chi Hong Xiaodou Ba! 2nd Season
 
+![qing-chi-hong-xiaodou-ba-2nd-season](https://cdn.myanimelist.net/images/anime/1996/98957.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 请吃红小豆吧! 第二季

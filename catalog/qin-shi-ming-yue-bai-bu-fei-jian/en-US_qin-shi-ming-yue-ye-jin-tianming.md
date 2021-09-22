@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Ye Jin Tianming
 
+![qin-shi-ming-yue-ye-jin-tianming](https://cdn.myanimelist.net/images/anime/3/33103.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: 秦时明月

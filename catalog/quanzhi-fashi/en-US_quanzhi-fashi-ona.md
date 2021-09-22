@@ -1,5 +1,7 @@
 # Quanzhi Fashi
 
+![quanzhi-fashi](https://cdn.myanimelist.net/images/anime/9/83819.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 全职法师

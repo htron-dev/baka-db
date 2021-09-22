@@ -1,5 +1,7 @@
 # Quiz Magic Academy: The Original Animation
 
+![quiz-magic-academy-the-original-animation](https://cdn.myanimelist.net/images/anime/8/13459.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クイズマジックアカデミー ~The Original Animation~

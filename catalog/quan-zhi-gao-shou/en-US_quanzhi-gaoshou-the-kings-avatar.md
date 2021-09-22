@@ -1,5 +1,7 @@
 # Quanzhi Gaoshou The King's Avatar
 
+![quanzhi-gaoshou-the-kings-avatar](https://cdn.myanimelist.net/images/manga/1/236147.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 全职高手
 

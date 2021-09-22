@@ -1,5 +1,7 @@
 # Queen's Blade OVA
 
+![queens-blade-ova](https://cdn.myanimelist.net/images/anime/3/30145.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: クイーンズブレイド

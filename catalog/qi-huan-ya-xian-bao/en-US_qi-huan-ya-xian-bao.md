@@ -1,5 +1,7 @@
 # Qi Huan Ya Xian Bao
 
+![qi-huan-ya-xian-bao](https://cdn.myanimelist.net/images/anime/1424/115453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 奇幻牙仙堡

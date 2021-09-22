@@ -1,5 +1,7 @@
 # Qihuan Long Bao
 
+![qihuan-long-bao](https://cdn.myanimelist.net/images/anime/1295/114596.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 奇幻龙宝

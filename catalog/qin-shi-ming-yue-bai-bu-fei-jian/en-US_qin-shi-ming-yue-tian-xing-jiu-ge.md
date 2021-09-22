@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Tian Xing Jiu Ge
 
+![qin-shi-ming-yue-tian-xing-jiu-ge](https://cdn.myanimelist.net/images/anime/12/88822.jpg)
+
 -   **type**: ona
 -   **episodes**: 60
 -   **original-name**: 秦时明月 姐妹篇：天行九歌

@@ -1,5 +1,7 @@
 # Qicai Shijie
 
+![qicai-shijie](https://cdn.myanimelist.net/images/anime/1740/115317.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 七彩世界

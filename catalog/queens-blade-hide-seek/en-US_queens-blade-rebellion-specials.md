@@ -1,5 +1,7 @@
 # Queen's Blade: Rebellion Specials
 
+![queens-blade-rebellion-specials](https://cdn.myanimelist.net/images/anime/7/38419.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: クイーンズブレイド リベリオン 限界突破で見えちゃうの

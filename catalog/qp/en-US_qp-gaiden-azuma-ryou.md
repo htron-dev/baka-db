@@ -1,5 +1,7 @@
 # QP Gaiden: Azuma Ryou
 
+![qp-gaiden-azuma-ryou](https://cdn.myanimelist.net/images/manga/2/227967.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

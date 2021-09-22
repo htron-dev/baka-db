@@ -1,5 +1,7 @@
 # Qing Chi Hong Xiaodou Ba! 3rd Season
 
+![qing-chi-hong-xiaodou-ba-3rd-season](https://cdn.myanimelist.net/images/anime/1669/106653.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 请吃红小豆吧! 第三季

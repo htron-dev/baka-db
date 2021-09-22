@@ -1,5 +1,7 @@
 # Queen's Blade OVA Specials
 
+![queens-blade-ova-specials](https://cdn.myanimelist.net/images/anime/6/34021.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: クイーンズブレイド

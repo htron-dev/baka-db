@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Canghai Hengliu
 
+![qin-shi-ming-yue-canghai-hengliu](https://cdn.myanimelist.net/images/anime/1040/109401.jpg)
+
 -   **type**: ona
 -   **original-name**: 秦时明月之沧海横流
 -   **start-date**: 2020-10-08

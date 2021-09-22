@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Guoqing Tebie Pian
 
+![qin-shi-ming-yue-guoqing-tebie-pian](https://cdn.myanimelist.net/images/anime/12/79956.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 秦時明月国庆特别篇

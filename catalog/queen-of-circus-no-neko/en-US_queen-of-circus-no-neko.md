@@ -1,5 +1,7 @@
 # Queen of Circus no Neko
 
+![queen-of-circus-no-neko](https://cdn.myanimelist.net/images/manga/2/193623.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: クイーン・オブ・サーカスの猫

@@ -1,5 +1,7 @@
 # Queen's Blade Rebellion: Seiran no Hime Kishi
 
+![queens-blade-rebellion-seiran-no-hime-kishi](https://cdn.myanimelist.net/images/manga/1/100789.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

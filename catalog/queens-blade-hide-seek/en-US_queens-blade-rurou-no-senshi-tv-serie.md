@@ -1,5 +1,7 @@
 # Queen's Blade: Rurou no Senshi
 
+![queens-blade-rurou-no-senshi](https://cdn.myanimelist.net/images/anime/2/12410.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クイーンズブレイド 流浪の戦士

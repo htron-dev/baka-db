@@ -1,5 +1,7 @@
 # Vanquished Queens
 
+![vanquished-queens](https://cdn.myanimelist.net/images/anime/12/48917.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ヴァンキッシュド・クイーンズ

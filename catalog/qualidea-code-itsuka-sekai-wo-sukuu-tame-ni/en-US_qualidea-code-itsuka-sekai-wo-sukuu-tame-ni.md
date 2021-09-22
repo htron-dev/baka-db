@@ -1,5 +1,7 @@
 # Qualidea Code: Itsuka Sekai wo Sukuu Tame ni
 
+![qualidea-code-itsuka-sekai-wo-sukuu-tame-ni](https://cdn.myanimelist.net/images/manga/2/177281.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Q.E.D.: Shoumei Shuuryou
 
+![q-e-d-shoumei-shuuryou](https://cdn.myanimelist.net/images/manga/1/156124.jpg)
+
 -   **type**: manga
 -   **volumes**: 50
 -   **chapters**: 99

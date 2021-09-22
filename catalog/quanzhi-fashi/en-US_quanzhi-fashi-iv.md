@@ -1,5 +1,7 @@
 # Quanzhi Fashi IV
 
+![quanzhi-fashi-iv](https://cdn.myanimelist.net/images/anime/1925/105375.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 全职法师 Ⅳ

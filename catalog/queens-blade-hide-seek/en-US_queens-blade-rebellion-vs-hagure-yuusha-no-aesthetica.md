@@ -1,5 +1,7 @@
 # Queen's Blade Rebellion vs. Hagure Yuusha no Aesthetica
 
+![queens-blade-rebellion-vs-hagure-yuusha-no-aesthetica](https://cdn.myanimelist.net/images/anime/2/39901.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クイーンズブレイド リベリオン VS はぐれ勇者の鬼畜美学

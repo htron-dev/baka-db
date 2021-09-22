@@ -1,5 +1,7 @@
 # Q3
 
+![q-3](https://cdn.myanimelist.net/images/manga/1/197693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Quintet!
 
+![quintet](https://cdn.myanimelist.net/images/manga/2/135153.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 17

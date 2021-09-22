@@ -1,5 +1,7 @@
 # Quanzhi Gaoshou Specials
 
+![quanzhi-gaoshou-specials](https://cdn.myanimelist.net/images/anime/1825/91514.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 全职高手特别篇

@@ -1,5 +1,7 @@
 # Vanquished Queens Specials
 
+![vanquished-queens-specials](https://cdn.myanimelist.net/images/anime/8/48913.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ヴァンキッシュド・クイーンズ

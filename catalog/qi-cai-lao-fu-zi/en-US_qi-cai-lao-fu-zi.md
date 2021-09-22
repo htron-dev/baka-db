@@ -1,5 +1,7 @@
 # Qi Cai Lao Fu Zi
 
+![qi-cai-lao-fu-zi](https://cdn.myanimelist.net/images/anime/6/72097.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 七彩老夫子

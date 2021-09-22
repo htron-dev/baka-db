@@ -1,5 +1,7 @@
 # Quanzhi Fashi V
 
+![quanzhi-fashi-v](https://cdn.myanimelist.net/images/anime/1974/114887.jpg)
+
 -   **type**: ona
 -   **original-name**: 全职法师 V
 -   **start-date**: 2021-07-28

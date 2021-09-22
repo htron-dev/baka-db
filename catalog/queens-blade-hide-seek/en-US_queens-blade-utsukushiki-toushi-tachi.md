@@ -1,5 +1,7 @@
 # Queen's Blade: Utsukushiki Toushi-tachi
 
+![queens-blade-utsukushiki-toushi-tachi](https://cdn.myanimelist.net/images/anime/11/34325.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: クイーンズブレイド 美しき闘士たち

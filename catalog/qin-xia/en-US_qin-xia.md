@@ -1,5 +1,7 @@
 # Qin Xia
 
+![qin-xia](https://cdn.myanimelist.net/images/anime/1076/109488.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 秦侠

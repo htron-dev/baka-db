@@ -1,5 +1,7 @@
 # Queens
 
+![queens](https://cdn.myanimelist.net/images/manga/4/3870.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 26

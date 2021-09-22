@@ -1,5 +1,7 @@
 # QP
 
+![qp](https://cdn.myanimelist.net/images/manga/1/28344.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キューピー

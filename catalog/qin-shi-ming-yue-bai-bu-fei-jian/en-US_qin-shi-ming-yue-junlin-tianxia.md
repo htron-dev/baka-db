@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Junlin Tianxia
 
+![qin-shi-ming-yue-junlin-tianxia](https://cdn.myanimelist.net/images/anime/12/71842.jpg)
+
 -   **type**: ona
 -   **episodes**: 75
 -   **original-name**: 秦时明月之君临天下

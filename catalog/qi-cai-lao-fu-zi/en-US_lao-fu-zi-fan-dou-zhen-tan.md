@@ -1,5 +1,7 @@
 # Lao Fu Zi Fan Dou Zhen Tan
 
+![lao-fu-zi-fan-dou-zhen-tan](https://cdn.myanimelist.net/images/anime/3/72106.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 老夫子反斗偵探

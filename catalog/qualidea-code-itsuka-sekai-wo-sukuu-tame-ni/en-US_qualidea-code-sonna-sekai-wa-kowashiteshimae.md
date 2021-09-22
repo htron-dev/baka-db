@@ -1,5 +1,7 @@
 # Qualidea Code: Sonna Sekai wa Kowashiteshimae
 
+![qualidea-code-sonna-sekai-wa-kowashiteshimae](https://cdn.myanimelist.net/images/manga/1/179331.jpg)
+
 -   **type**: light-novel
 -   **original-name**: そんな世界は壊してしまえ ―クオリディア・コード―
 -   **start-date**: 2015-10-23

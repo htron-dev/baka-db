@@ -1,5 +1,7 @@
 # q.Tenjou no Ongaku
 
+![q-tenjou-no-ongaku](https://cdn.myanimelist.net/images/manga/3/237319.jpg)
+
 -   **type**: manga
 -   **original-name**: q.天上の音楽
 -   **start-date**: 2020-05-27

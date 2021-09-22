@@ -1,5 +1,7 @@
 # Qtμt
 
+![qtμt](https://cdn.myanimelist.net/images/manga/3/193440.jpg)
+
 -   **type**: manga
 -   **original-name**: qtμt キューティーミューティー
 -   **start-date**: 2016-07-25

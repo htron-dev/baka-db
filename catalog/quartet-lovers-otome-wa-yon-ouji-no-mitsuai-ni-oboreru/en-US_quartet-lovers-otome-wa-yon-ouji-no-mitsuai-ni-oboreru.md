@@ -1,5 +1,7 @@
 # Quartet Lovers: Otome wa Yon Ouji no Mitsuai ni Oboreru
 
+![quartet-lovers-otome-wa-yon-ouji-no-mitsuai-ni-oboreru](https://cdn.myanimelist.net/images/manga/1/192355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

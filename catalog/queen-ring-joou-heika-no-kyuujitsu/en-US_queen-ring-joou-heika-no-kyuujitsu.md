@@ -1,5 +1,7 @@
 # Queen Ring: Joou Heika no Kyuujitsu
 
+![queen-ring-joou-heika-no-kyuujitsu](https://cdn.myanimelist.net/images/manga/2/182150.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

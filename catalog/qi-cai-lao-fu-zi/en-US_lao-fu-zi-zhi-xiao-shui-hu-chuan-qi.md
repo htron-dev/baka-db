@@ -1,5 +1,7 @@
 # Lao Fu Zi Zhi Xiao Shui Hu Chuan Qi
 
+![lao-fu-zi-zhi-xiao-shui-hu-chuan-qi](https://cdn.myanimelist.net/images/anime/5/72103.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 老夫子之小水虎传奇

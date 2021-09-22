@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Yi Zhe Ru Shi
 
+![qin-shi-ming-yue-yi-zhe-ru-shi](https://cdn.myanimelist.net/images/anime/1491/91323.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 秦时明月之医者入世

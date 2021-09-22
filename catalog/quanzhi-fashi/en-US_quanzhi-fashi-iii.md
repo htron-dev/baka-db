@@ -1,5 +1,7 @@
 # Quanzhi Fashi III
 
+![quanzhi-fashi-iii](https://cdn.myanimelist.net/images/anime/1398/95679.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 全职法师 Ⅲ

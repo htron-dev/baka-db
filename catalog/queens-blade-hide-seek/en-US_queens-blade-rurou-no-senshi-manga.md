@@ -1,5 +1,7 @@
 # Queen's Blade: Rurou no Senshi
 
+![queens-blade-rurou-no-senshi](https://cdn.myanimelist.net/images/manga/5/90895.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16
